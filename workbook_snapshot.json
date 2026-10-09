@@ -1227,6 +1227,13 @@
     "F48": "1",
     "G48": "Treatment: Zip-code home price in year t, measured as the natural log of Zillow home prices. Continuous treatment; home prices are lagged relative to the default outcome because defaults are recorded with about a one-year delay.\n\nMethod: This is the paper’s main borrower-level linear fixed-effects panel design. The dependent variable is an indicator for whether borrower i newly defaults in year t+1. The treatment is zip-code log home price in year t. Baseline regressions include year and zip-code fixed effects; robustness variants in the same table add controls (loan balance, borrowing duration, family income, school type, Pell grant aid), cluster at county rather than zip-code level, include cohort-year fixed effects, include zip-code×cohort-year fixed effects, or include individual borrower fixed effects. Observations are weighted by individual loan balances. The intended design uses within-zip or within-borrower variation in home prices over time to absorb unobserved heterogeneity in local conditions and borrower composition.\n\nIdentification: The identifying variation is within-zip-code or within-borrower changes in local home prices during the Great Recession, net of year effects and fixed differences across zip codes, cohorts, or individuals. The main endogeneity concern is that changing borrower composition or unobserved local shocks may coincide with home-price declines; the paper addresses this by adding cohort-year, zip-code×cohort-year, and individual fixed effects, plus controls. The interpretation still requires that remaining time-varying unobservables correlated with local home-price changes do not drive default changes.\n\nSetting: Using borrower-level panel regressions, the paper finds that lower local home prices raise subsequent student loan default risk. In the baseline specification with zip-code and year fixed effects, the coefficient on log home price is -0.0113 (s.e. 0.00280), implying that a 1% decline in home prices is associated with a 0.0113 percentage point increase in new defaults. This estimate is stable when clustering at the county level, adding borrower and loan controls, using cohort-year or zip-code×cohort-year fixed effects, and using individual borrower fixed effects (coefficient -0.0107). This is a core causal setting supporting the paper’s main claim that the Great Recession home-price collapse increased student loan defaults.\n\nMain role: The introduction explicitly says the borrower-level panel specification constitutes the paper’s main specification throughout the rest of the paper, and the abstract highlights the negative effect of falling home prices on defaults.",
     "H48": "Section 4, Table 4 columns 1–6, PDF pp. 10–11.",
+    "I48": "1",
+    "J48": "FE",
+    "K48": "0",
+    "L48": "1",
+    "M48": "n/a",
+    "N48": "Table 4 columns 1-3, 5 and 6, Section 4, pp. 10-11: continuous log zip-code home prices in year t explaining individual new default in t+1, weighted by individual loan balances. Columns 1-3 use zip-code and calendar-year FE; column 5 uses zip-code x repayment-cohort FE plus calendar-year FE; column 6 uses individual and calendar-year FE. Column 4 is split to h3 because it separately includes zip-code, repayment-cohort and calendar-year FE. Baseline coefficient -0.0113; the paper interprets a 1% home-price decline as a 0.0113 percentage-point rise in new defaults.",
+    "O48": "An interacted zip-code x cohort FE set counts as one dimension, not two. Table 4 column 4 has three separately included FE dimensions and a borrower-composition identification rationale (p. 10), satisfying the project HDFE definition. No valid benchmark comparison found for the retained FE estimates.",
     "A49": "2Q8UL8QQ",
     "B49": "s4",
     "C49": "FE",
@@ -14855,7 +14862,16 @@
     "L1751": "0",
     "M1751": "n/a",
     "N1751": "Table 2 column 3, Section 3, pp. 7-9: change in log zip-code employment, 2006-2009, explaining change in log new student-loan default rate, 2007-2010. Separate zip-code weighted OLS regression, weighted by total student-loan balances; standard errors clustered by zip code. Reported coefficient -0.0004, employment change -4.7%, share explained 0.0% (rounded as reported).",
-    "O1751": "Supporting substantive alternative-explanation analysis, not a diagnostic: authors discuss why aggregate employment has virtually zero explanatory power and may poorly proxy individual unemployment. Distinct treatment split from s1; weak explanatory power does not itself exclude a setting."
+    "O1751": "Supporting substantive alternative-explanation analysis, not a diagnostic: authors discuss why aggregate employment has virtually zero explanatory power and may poorly proxy individual unemployment. Distinct treatment split from s1; weak explanatory power does not itself exclude a setting.",
+    "A1752": "2Q8UL8QQ",
+    "B1752": "h3",
+    "I1752": "1",
+    "J1752": "HDFE",
+    "K1752": "0",
+    "L1752": "0",
+    "M1752": "n/a",
+    "N1752": "Table 4 column 4, pp. 10-11: log zip-code home price in year t explaining new borrower default in t+1. Three separately included FE dimensions: zip code, repayment cohort (year first entering repayment), and calendar year. Cohort FE address shifts in borrower composition and default propensity by repayment cohort. Weighted linear regression using individual loan balances, zip-code clustered standard errors. Home-price coefficient -0.0105 (SE 0.00281). Substantive robustness for the baseline home-price effect; no qualifying magnitude comparison.",
+    "O1752": "Split from s3 to distinguish HDFE from standard FE under the project taxonomy. Supporting robustness, not a separate headline result."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -44348,7 +44364,11 @@
     "A4214": "2Q8UL8QQ",
     "B4214": "h2",
     "C4214": "hy1",
-    "K4214": "Change in log new student-loan default rate from 2007 to 2010 at zip-code level; Table 2, p. 9. Same dependent variable as original s1/y1. Detailed outcome-type labels left blank because treatment is nonbinary."
+    "K4214": "Change in log new student-loan default rate from 2007 to 2010 at zip-code level; Table 2, p. 9. Same dependent variable as original s1/y1. Detailed outcome-type labels left blank because treatment is nonbinary.",
+    "A4215": "2Q8UL8QQ",
+    "B4215": "h3",
+    "C4215": "hy1",
+    "K4215": "Indicator for new student-loan default in year t+1, equal to one on default and zero otherwise. Dependent variable is untransformed; not a change in default sensitivity, which is a coefficient/estimand rather than another dependent variable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -44530,6 +44550,8 @@
     "H19": "Baseline Table 4 column 1 coefficient on Home pricet: -0.0113 percentage points in next-year new default probability for a one-unit increase in log home price; interpreted in text as a 1% decline in home prices increasing defaults by 0.0113 percentage points.",
     "I19": "Rate of new student loan defaults is 3.6% in 2006, used by the authors to compare the implied magnitude of the long-difference elasticity.",
     "J19": "“As column 1 of Table 4 shows, a 1% decline in home prices is associated with a 0.0113 percentage point increase in new student loan defaults.” [ … ] “The rate of new student loan defaults is 3.6% in 2006.”",
+    "K19": "0",
+    "R19": "Wrong focal estimate: p. 10 footnote 10 multiplies the Table 3 Panel A elasticity -0.4179 by the 2006 default rate of 3.6%; it does not benchmark the Table 4 FE coefficient -0.0113. The prose compares two estimates. The actual mean-based conversion is recorded under h1/hc2, because the Table 3 zip-code elasticity repeats Table 2 column 2. Also, -0.0113 is a default-probability coefficient per log-price unit, not -0.0113 percentage points per log-price unit.",
     "A20": "2RLBINN9",
     "B20": "s2",
     "C20": "c1",
@@ -55791,7 +55813,18 @@
     "O1145": "1",
     "P1145": "n/a",
     "Q1145": "Table 2 column 3 and notes, p. 9: employment elasticity -0.0004; employment change -4.7%; Share explained 0.0%. Notes define share explained as Elasticity x Change / change in log defaults, with overall new-default-rate rise of 18.9% from 2007 to 2010. Benchmark refers to the study aggregate default rise.",
-    "R1145": "Omitted table-based effect/benchmark comparison. Preserve reported rounding to 0.0%; not an exactly zero coefficient. Formula establishes division; prose about virtually zero explanatory power does not explicitly pair the effect with the 18.9% benchmark. other_level, so alignment is n/a."
+    "R1145": "Omitted table-based effect/benchmark comparison. Preserve reported rounding to 0.0%; not an exactly zero coefficient. Formula establishes division; prose about virtually zero explanatory power does not explicitly pair the effect with the 18.9% benchmark. other_level, so alignment is n/a.",
+    "A1146": "2Q8UL8QQ",
+    "B1146": "h1",
+    "C1146": "hc2",
+    "K1146": "1",
+    "L1146": "hy1",
+    "M1146": "outcome_mean",
+    "N1146": "1",
+    "O1146": "0",
+    "P1146": "unknown",
+    "Q1146": "Section 4, p. 10 footnote 10, referring to Table 3 Panel A column 1 (the -0.4179 elasticity repeated from Table 2 column 2): \"The rate of new student loan defaults is 3.6% in 2006.\" The footnote says a 1% home-price decline implies \"0.004179 x 3.6 = 0.0150 percentage point\" increase. Benchmark is the 2006 new-default rate; the authors multiply by the base rate to convert a proportional effect into percentage points, not divide by it.",
+    "R1146": "Moved from wrong-estimate s3/c1 without duplicating the repeated zip-code setting. Benchmark weighting and correspondence to the long-difference regression target are not established clearly enough to assess alignment. Conversion uses a level rate for a proportional/log-change estimate; do not assume alignment from a common dataset."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

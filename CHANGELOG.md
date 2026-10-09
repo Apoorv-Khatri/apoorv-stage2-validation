@@ -1505,3 +1505,210 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T11:33:41.511374+00:00 — Review 2Q8UL8QQ s3: validate labels and linked records
+
+33 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1146",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1146",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1146",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1146",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K19",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1146",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1146",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1146",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1146",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1146",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1146",
+    "before": null,
+    "after": "Section 4, p. 10 footnote 10, referring to Table 3 Panel A column 1 (the -0.4179 elasticity repeated from Table 2 column 2): \"The rate of new student loan defaults is 3.6% in 2006.\" The footnote says a 1% home-price decline implies \"0.004179 x 3.6 = 0.0150 percentage point\" increase. Benchmark is the 2006 new-default rate; the authors multiply by the base rate to convert a proportional effect into percentage points, not divide by it."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1146",
+    "before": null,
+    "after": "Moved from wrong-estimate s3/c1 without duplicating the repeated zip-code setting. Benchmark weighting and correspondence to the long-difference regression target are not established clearly enough to assess alignment. Conversion uses a level rate for a proportional/log-change estimate; do not assume alignment from a common dataset."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R19",
+    "before": null,
+    "after": "Wrong focal estimate: p. 10 footnote 10 multiplies the Table 3 Panel A elasticity -0.4179 by the 2006 default rate of 3.6%; it does not benchmark the Table 4 FE coefficient -0.0113. The prose compares two estimates. The actual mean-based conversion is recorded under h1/hc2, because the Table 3 zip-code elasticity repeats Table 2 column 2. Also, -0.0113 is a default-probability coefficient per log-price unit, not -0.0113 percentage points per log-price unit."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4215",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4215",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4215",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4215",
+    "before": null,
+    "after": "Indicator for new student-loan default in year t+1, equal to one on default and zero otherwise. Dependent variable is untransformed; not a change in default sensitivity, which is a coefficient/estimand rather than another dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1752",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1752",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1752",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I48",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1752",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J48",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1752",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K48",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1752",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L48",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1752",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M48",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1752",
+    "before": null,
+    "after": "Table 4 column 4, pp. 10-11: log zip-code home price in year t explaining new borrower default in t+1. Three separately included FE dimensions: zip code, repayment cohort (year first entering repayment), and calendar year. Cohort FE address shifts in borrower composition and default propensity by repayment cohort. Weighted linear regression using individual loan balances, zip-code clustered standard errors. Home-price coefficient -0.0105 (SE 0.00281). Substantive robustness for the baseline home-price effect; no qualifying magnitude comparison."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N48",
+    "before": null,
+    "after": "Table 4 columns 1-3, 5 and 6, Section 4, pp. 10-11: continuous log zip-code home prices in year t explaining individual new default in t+1, weighted by individual loan balances. Columns 1-3 use zip-code and calendar-year FE; column 5 uses zip-code x repayment-cohort FE plus calendar-year FE; column 6 uses individual and calendar-year FE. Column 4 is split to h3 because it separately includes zip-code, repayment-cohort and calendar-year FE. Baseline coefficient -0.0113; the paper interprets a 1% home-price decline as a 0.0113 percentage-point rise in new defaults."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1752",
+    "before": null,
+    "after": "Split from s3 to distinguish HDFE from standard FE under the project taxonomy. Supporting robustness, not a separate headline result."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O48",
+    "before": null,
+    "after": "An interacted zip-code x cohort FE set counts as one dimension, not two. Table 4 column 4 has three separately included FE dimensions and a borrower-composition identification rationale (p. 10), satisfying the project HDFE definition. No valid benchmark comparison found for the retained FE estimates."
+  }
+]
+```
