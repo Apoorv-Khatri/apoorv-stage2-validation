@@ -2450,3 +2450,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T12:36:46.066768+00:00 — Review 24DPCTZ3 s1: causal scope, outcomes and benchmark evidence
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4219",
+    "before": null,
+    "after": "24DPCTZ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4219",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4219",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4219",
+    "before": null,
+    "after": "Relative end-of-day filtered VIX level versus CX, VIX*_t/CX_t - 1, in the analogous regression of Section 3.4, p. 2920 footnote 18. Effective range for RX proxies that of VIX* where their index values are close; other observations excluded. Exact coefficient not reported. Continuous-treatment setting, so detailed outcome-type labels left blank."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I7",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J7",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K7",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L7",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M7",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N7",
+    "before": null,
+    "after": "Section 3.4, printed pp. 2919-2920: daily OLS regression of Z_t = RX_t/CX_t - 1 on DR_t, the difference in effective strike-range widths, with Newey-West standard errors using 20 lags. Reported equation Z_t = 0.0340 + 0.0089 DR_t; the authors explicitly interpret an exogenous one-treatment-SD widening as inflating RX relative to CX by an additional 1.7%. Include the same-location alternative VIX*/CX regression reported in footnote 18: RX strike range proxies the VIX* range, using observations where RX and VIX* values are close; other VIX* observations excluded. Footnote reports almost identical results but no separate coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O7",
+    "before": null,
+    "after": "Retain because p. 2920 explicitly attributes distortions to exogenous/idiosyncratic strike-range variation unrelated to option prices, rather than merely describing covariance. Supporting measurement result. Adjusted R-squared 67.2 is on a percent scale. DR SD=1.88 is treatment SD, not outcome SD; the 1.7% interpretation and construction of ratio-minus-one Y do not separately benchmark the focal slope against a mean/SD/level of that same Y. No qualifying comparison. Footnote 18 alternate outcome added as hy1."
+  }
+]
+```
