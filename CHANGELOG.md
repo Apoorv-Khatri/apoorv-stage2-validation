@@ -1026,3 +1026,426 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T10:01:16.394541+00:00 — Review 2Q8UL8QQ s1: split Table 2 treatments and correct linked outcomes/comparisons
+
+69 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1144",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1145",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1144",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1145",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1144",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1145",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1144",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1145",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K18",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1144",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1145",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1144",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1145",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1144",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1145",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1144",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1145",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1144",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1145",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1144",
+    "before": null,
+    "after": "Section 3, p. 7 and Table 2 column 2, p. 9. Table reports elasticity -0.4179, home-price change -14.4%, share explained 31.8%. Table formula: Elasticity x Change / change in log defaults, where the 2007-2010 aggregate default rise is 18.9%. Prose says the home-price collapse can explain approximately 32% of the contemporaneous rise in student-loan defaults."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1145",
+    "before": null,
+    "after": "Table 2 column 3 and notes, p. 9: employment elasticity -0.0004; employment change -4.7%; Share explained 0.0%. Notes define share explained as Elasticity x Change / change in log defaults, with overall new-default-rate rise of 18.9% from 2007 to 2010. Benchmark refers to the study aggregate default rise."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17",
+    "before": null,
+    "after": "Section 3, p. 7 and Table 2 column 1, p. 9. Borrower-composition elasticity 0.3282 multiplied by reported 16.9% change, divided by the overall 18.9% rise in new student-loan defaults from 2007 to 2010, gives the reported 29.3% share explained. Prose explicitly says composition shifts can explain approximately 29% of the rise. Benchmark is the observed aggregate rise in defaults in the study, not an untreated outcome mean or SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1144",
+    "before": null,
+    "after": "Benchmark is the observed aggregate outcome rise, not an untreated mean or SD. Source prose prints 14.4 x -0.4179 / 18.9 = 0.318 (sign inconsistency); Table 2 reports the change as -14.4%. This record uses table values without silently correcting the quoted prose. Replaces wrong-setting s1/c2."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1145",
+    "before": null,
+    "after": "Omitted table-based effect/benchmark comparison. Preserve reported rounding to 0.0%; not an exactly zero coefficient. Formula establishes division; prose about virtually zero explanatory power does not explicitly pair the effect with the 18.9% benchmark. other_level, so alignment is n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17",
+    "before": null,
+    "after": "Retain as a same-outcome growth comparison, not merely interpretation of a log coefficient. other_level denotes the stated aggregate rise; no mean/SD alignment judgment applies."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R18",
+    "before": null,
+    "after": "Wrong setting after treatment split: Table 2 column 2 home-price comparison retained as h1/hc1, linked to h1/hy1. Original model fields preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4213",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4214",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4213",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4214",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4213",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4214",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H65",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I65",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J65",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4213",
+    "before": null,
+    "after": "Change in log new student-loan default rate from 2007 to 2010 at zip-code level; Table 2, p. 9. Same dependent variable as original s1/y1. Detailed outcome-type labels left blank because treatment is nonbinary."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4214",
+    "before": null,
+    "after": "Change in log new student-loan default rate from 2007 to 2010 at zip-code level; Table 2, p. 9. Same dependent variable as original s1/y1. Detailed outcome-type labels left blank because treatment is nonbinary."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K65",
+    "before": null,
+    "after": "spurious: share of the rise explained is an effect/benchmark decomposition statistic, not a separate dependent variable. The dependent variable is y1. See Table 2, p. 9; record the share-explained results under Comparisons."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1750",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1751",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1750",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1751",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1750",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I46",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1750",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1751",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J46",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1750",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K46",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1750",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L46",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1750",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1751",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M46",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1750",
+    "before": null,
+    "after": "Table 2 column 2, Section 3, pp. 7-9: change in log zip-code home prices, 2006-2009, explaining change in log new student-loan default rate, 2007-2010. Separate zip-code weighted OLS regression, weighted by total student-loan balances; standard errors clustered by zip code. Coefficient -0.4179, home-price change -14.4%, reported share of 18.9% aggregate default rise explained 31.8%. Authors interpret the elasticity as potentially capturing effects through multiple channels; causal attribution remains vulnerable to correlated local shocks."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1751",
+    "before": null,
+    "after": "Table 2 column 3, Section 3, pp. 7-9: change in log zip-code employment, 2006-2009, explaining change in log new student-loan default rate, 2007-2010. Separate zip-code weighted OLS regression, weighted by total student-loan balances; standard errors clustered by zip code. Reported coefficient -0.0004, employment change -4.7%, share explained 0.0% (rounded as reported)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N46",
+    "before": null,
+    "after": "Restricted to Table 2 column 1 (Section 3, pp. 7-9): change in log share of nontraditional borrowers, 2006-2009, explaining change in log new student-loan default rate, 2007-2010. Zip-code weighted OLS, weighted by total student-loan balances; zip-code clustered standard errors. Coefficient 0.3282; reported composition change 16.9%; share of overall default increase explained 29.3%. Home-price and employment regressions split to h1 and h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1750",
+    "before": null,
+    "after": "Treatment-specific split from s1, not a different estimator. Headline home-price contribution in abstract. One-year outcome lag reflects default reporting delay."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1751",
+    "before": null,
+    "after": "Supporting substantive alternative-explanation analysis, not a diagnostic: authors discuss why aggregate employment has virtually zero explanatory power and may poorly proxy individual unemployment. Distinct treatment split from s1; weak explanatory power does not itself exclude a setting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O46",
+    "before": null,
+    "after": "Distinct treatments require separate settings. Composition contribution is a headline result in the abstract. Decomposition does not establish exogenous treatment variation."
+  }
+]
+```
