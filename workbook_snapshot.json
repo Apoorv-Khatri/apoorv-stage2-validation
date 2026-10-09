@@ -928,6 +928,11 @@
     "F17": "1",
     "G17": "Treatment: Annual lender AQR exposure, measured as divergence in provisions due to AQR divided by bank total assets, in percent, interacted with lagged zombie-firm indicators to estimate heterogeneous effects.\n\nMethod: Firm-lender-year OLS with firm×year and lender fixed effects, extending the annual lending specification by interacting annual lender AQR exposure with lagged zombie-firm indicators. The dependent variable is log(1+loan amount). Zombie status is measured in several ways (M1-M3 here): M1 based on interest coverage excluding related-party income being below one; M2 adds a below-median decline in fixed-assets-to-debt ratio during the forbearance period; M3 further adds above-median related-party-loans-to-debt tunneling. Some columns add relationship controls. Standard errors are clustered at the lender level.\n\nIdentification: The underlying identification follows the within-firm-year across-lender approach of the main annual lending design. Firm×year fixed effects absorb borrower demand and shocks; lender fixed effects absorb time-invariant lender propensities. Heterogeneity is identified by comparing how more exposed lenders alter lending to zombie versus non-zombie borrowers within the same firm-year environment. The paper argues that a positive interaction between exposure and zombie status indicates relative favoritism toward zombie firms, consistent with risk shifting rather than general risk aversion. Assumptions remain that zombie classification is meaningful and that no unobserved lender-borrower-year factor jointly drives exposure and relative zombie lending.\n\nSetting: The authors estimate whether AQR-induced credit contraction differs for zombie borrowers. In Table 6, the main exposure coefficient remains negative, while the interaction of exposure with zombie indicators is positive and significant across M1-M3: 0.7216/0.7509 for M1, 1.1526/1.1863 for M2, and 1.1311/1.1247 for M3. They interpret this as zombie firms being less affected by the lending contraction; for M1, they state that a one-standard-deviation increase in exposure lowers lending by 6.2% overall but only about 1.2% for zombie firms because the interaction offsets about 80% of the main effect. This is central evidence for the paper's risk-shifting mechanism.\n\nMain role: These results directly support a central substantive claim of the paper: undercapitalized banks risk-shift by comparatively preserving or increasing zombie lending while cutting overall credit.",
     "H17": "Section 5.2 'Impact on lending to zombie firms', Equation (2), Table 6 columns 1-6 (PDF pages 27-28; article pp. 4158-4159).",
+    "I17": "1",
+    "J17": "FE",
+    "K17": "0",
+    "L17": "1",
+    "M17": "n/a",
     "A18": "25QB398J",
     "B18": "s4",
     "C18": "FE",
@@ -44248,6 +44253,8 @@
     "H8": "Using zombie measure M1, a one-standard-deviation increase in exposure leads to a 6.2% decline in lending overall, but the effect on zombie firms is about 1.2% because the positive interaction offsets 80% of the main effect.",
     "I8": "The comparison benchmark is the overall lending effect for the same outcome under the same treatment increment; the paper states the zombie-firm effect is obtained because the interaction 'wipes out 80% of the overall impact.'",
     "J8": "“In economic terms, when we use the M1 measure, a one standard deviation increase in exposure leads to 6.2% decline in lending in general.26 However, the impact on zombie firms is close to 1.2% as the positive interaction term wipes out 80% of the overall impact.”",
+    "K8": "0",
+    "R8": "Section 5.2, p. 4159: compares estimated lending effects and the interaction's offset of the main effect, not an outcome mean, outcome SD, or other stated outcome level. Does not qualify as an outcome-benchmark comparison.",
     "A9": "25QB398J",
     "B9": "s6",
     "C9": "c1",
@@ -55597,7 +55604,7 @@
     "O1143": "0",
     "P1143": "0",
     "Q1143": "Introduction, p. 4135: \"We find that a one standard-deviation increase in AQR exposure reduces loan supply by 25%. The decline is economically meaningful, given the average annual growth in bank credit of 13.13% in the pre-AQR years.\" Table 5A column 1, p. 4155: exposure coefficient -3.4217; economic significance -24.76%; no FE. Benchmark is average annual pre-AQR bank-credit growth, not an outcome-SD benchmark.",
-    "R1143": "Qualifies under Jia's growth-rate clarification. No division by the 13.13% benchmark is reported. Alignment=0: the focal outcome contrasts collapsed pre/post lending periods, whereas the benchmark is annual pre-AQR credit growth; no common-horizon adjustment is established (Sections 5.1.1 and 5.1.4, pp. 4154-4157). Moved from s1/c1, not an additional duplicate comparison."
+    "R1143": "Qualifies as a growth-rate comparison under the coding rules. No division by the 13.13% benchmark is reported. Alignment=0: the focal outcome contrasts collapsed pre/post lending periods, whereas the benchmark is annual pre-AQR credit growth; no common-horizon adjustment is established (Sections 5.1.1 and 5.1.4, pp. 4154-4157). Moved from s1/c1, not an additional duplicate comparison."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
