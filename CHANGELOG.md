@@ -819,3 +819,210 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T08:49:13.035454+00:00 — 25QB398J s8: approved review, human labels and linked corrections
+
+33 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K12",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R12",
+    "before": null,
+    "after": "Table 12 col. 4 / Section 6.3, p. 4171: the approximately 8% sentence interprets coefficient 0.0789 on growth in the MNREGA wage bill. It provides no separate mean, SD or stated level benchmark. It also belongs to binary treatment h3, not retained continuous s8. Do not add a replacement comparison under h3 because it fails eligibility."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4211",
+    "before": null,
+    "after": "25QB398J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4212",
+    "before": null,
+    "after": "25QB398J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4211",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4212",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4211",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4212",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4211",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4212",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4211",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4212",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4211",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4212",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K36",
+    "before": null,
+    "after": "Growth in the district MNREGA wage bill, not a wage level measured in INR; Table 12 col. 3 and note, p. 4171. Continuous-treatment setting s8 retains columns 1/3; binary columns 2/4 have their own outcomes under h3."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4211",
+    "before": null,
+    "after": "Growth in district nighttime luminosity score (average DNB radiance using VIIRS), Table 12 col. 2, p. 4171. Transformation is growth rate; the exact arithmetic-versus-log growth formula and observed zero mass are not established by Table 2 or Section 6.3. Do not assume a log transformation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4212",
+    "before": null,
+    "after": "Growth in the total district MNREGA wage bill disbursed to bank accounts, Table 12 col. 4, p. 4171; this is a growth measure, not a wage level in INR. Transformation is growth rate; the exact arithmetic-versus-log growth formula and observed zero mass are not established by Table 2 or Section 6.3. Do not assume a log transformation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1749",
+    "before": null,
+    "after": "25QB398J"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1749",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1749",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I22",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1749",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J22",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1749",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K22",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1749",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L22",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1749",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M22",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1749",
+    "before": null,
+    "after": "Table 12, p. 4171, columns 2 and 4: district-year FE regressions of growth in nighttime luminosity and growth in the MNREGA wage bill on a binary indicator for above-median branch-weighted district AQR exposure. District and year FE; district-clustered inference. Coefficients -0.0154 and 0.0789, respectively."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N22",
+    "before": null,
+    "after": "Table 12, p. 4171, columns 1 and 3 only: continuous branch-weighted district AQR exposure, using bank-branch counts as weights, affects growth in nighttime luminosity and growth in the district MNREGA wage bill. District and year FE; district-clustered inference. Coefficients -0.1084 and 0.8810. Binary high-exposure columns 2 and 4 are separated into h3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1749",
+    "before": null,
+    "after": "Binary treatment separated from continuous s8. Supports the regional-growth/distress conclusions in the introduction (p. 4136). The approximately 8% sentence merely interprets the growth-outcome coefficient and supplies no separate outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O22",
+    "before": null,
+    "after": "Replaces pooled binary=unknown with the known continuous treatment. Table 2, p. 4149, and Table 12 distinguish the continuous score from its above-median indicator. No qualifying mean/SD/level benchmark found for the continuous columns."
+  }
+]
+```
