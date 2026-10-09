@@ -2180,3 +2180,252 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T11:35:17.862559+00:00 — Review 2Q8UL8QQ s10: validate labels and linked records
+
+40 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4217",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4218",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4217",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4218",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4217",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4218",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H74",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I74",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4218",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J74",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4217",
+    "before": null,
+    "after": "Indicator for new student-loan default in year t+1, equal to one on default and zero otherwise. Dependent variable is untransformed; not a change in default sensitivity, which is a coefficient/estimand rather than another dependent variable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4218",
+    "before": null,
+    "after": "Indicator for new student-loan default in year t+1, equal to one on default and zero otherwise. Dependent variable is untransformed; not a change in default sensitivity, which is a coefficient/estimand rather than another dependent variable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K74",
+    "before": null,
+    "after": "New-default indicator in year t+1, with t=2006-2011 and recorded default outcomes 2007-2012, per Eq. (2) and Section 6, pp. 15-17. Table 11 heading Default_t is inconsistent with the explicit timing; retain t+1. Untransformed 0/1 individual outcome, not the aggregate rate or a sensitivity coefficient. Nondefault observations (zeros) are supported by the nondegenerate default-rate discussion/Fig. 5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1754",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1755",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1754",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1755",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1754",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I55",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1754",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1755",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J55",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1754",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K55",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1754",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L55",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1754",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1755",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M55",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1754",
+    "before": null,
+    "after": "Table 11 column 1, pp. 15-16: extended-sample FE regression of new borrower default in t+1 on continuous log home prices in t, controlling for IBR eligibility, with zip-code and calendar-year FE. Treatment years 2006-2011, default years 2007-2012; individual loan-balance weights and zip-code clustered standard errors. Home-price coefficient -0.00419 (SE 0.00209), 1,556,296 observations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1755",
+    "before": null,
+    "after": "Fig. 6 Panel A and Section 6, pp. 17-18: dynamic conventional DDD variant of Eq. (2), replacing Home price x IBR eligible x Post with Home price x IBR eligible x year interactions for 2007-2011, relative to baseline 2006. Binary policy eligibility is the exposure; continuous home prices measure shock sensitivity. Outcome is new borrower default in t+1; coefficients for treatment year t are plotted at t+1. Year and zip-code FE; underlying loan-balance weighted specification with zip-code clustered standard errors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N55",
+    "before": null,
+    "after": "Restricted to Table 11 columns 2-4, Eq. (2), Section 6, pp. 15-17: conventional DiD/DDD for binary IBR eligibility under the means test, with Post equal to one beginning in 2009. Outcome is new borrower default in t+1; treatment years 2006-2011 and default years 2007-2012. Full interactions of log home price, eligibility and Post; zip-code plus calendar-year FE in columns 2-3, individual plus year FE in column 4. Individual loan-balance weights and zip-code clustered standard errors. Column 3 restricts to relatively high debt/discretionary-income borrowers. Column 1 is a separate FE specification (h5)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1754",
+    "before": null,
+    "after": "Split from s10: no Post interactions or DDD estimator in column 1. Supporting extended-period home-price result. Eligibility coefficient 0.0256 is a conditional group association here, not an identified policy receipt effect. No qualifying outcome-benchmark comparison found."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1755",
+    "before": null,
+    "after": "Include because the authors substantively interpret the post-2009 jump and subsequent growth in insurance against home-price shocks, not solely a pretrend diagnostic. Pre-2009 coefficients are diagnostic components of this same dynamic setting. Numerical coefficient values not tabulated in the text; do not invent them from the qualitative discussion. Figure 6 Panel B take-up rates alone are descriptive, not outcome benchmarks. No qualifying magnitude comparison found."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O55",
+    "before": null,
+    "after": "Eligibility, not actual enrollment, defines exposure; no IV receipt effect is estimated. In column 2, eligibility x Post is -0.0404 and the triple interaction is 0.00314. With the triple interaction, the post-policy change in the eligibility gap at log price h is beta4 + beta6*h; -0.0404 alone is not an unconditional average program effect. Similarly beta2=0.0425 is not an unconditional baseline gap. Post includes 2009, not only years after 2009. Table heading Default_t conflicts with Eq. (2), text and reporting lag; use t+1. No qualifying benchmark comparison found. Fig. 6 substantive dynamic effects added as h6; do not treat selected take-up groups in Fig. 5 as randomized or IV receipt estimates."
+  }
+]
+```
