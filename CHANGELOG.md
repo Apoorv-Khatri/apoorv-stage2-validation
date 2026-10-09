@@ -2525,3 +2525,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T12:36:59.008700+00:00 — Review 24DPCTZ3 s2: causal scope, outcomes and benchmark evidence
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H8",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8",
+    "before": null,
+    "after": "spurious as a causal-outcome record: parent s2 is rejected under the causal-setting inclusion rule. The underlying descriptive statistic remains valid; original model fields are preserved. See Settings Notes for the source and exclusion rationale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I8",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O8",
+    "before": null,
+    "after": "Section 4.1.2, Table 4/Fig. 5, pp. 2924-2926: conditional mean returns, densities and a fitted scatterplot line document a contemporaneous negative association/cojump distribution. Authors conclude a negative monotone association, not a directional effect of an intervention in CX on equity returns. Model language about a causal effect is unsupported. Exclude as descriptive under the causal-setting gate, not because OLS is inherently inadmissible."
+  }
+]
+```
