@@ -2429,3 +2429,24 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T12:10:25.244015+00:00 — Saved Excel changes
+
+2 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Papers",
+    "cell": "E10",
+    "before": null,
+    "after": "Done"
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E8",
+    "before": null,
+    "after": "Done"
+  }
+]
+```
