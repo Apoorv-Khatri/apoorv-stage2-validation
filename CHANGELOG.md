@@ -2822,3 +2822,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T12:38:12.082897+00:00 — Review 24DPCTZ3 s7: causal scope, outcomes and benchmark evidence
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H16",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I16",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J16",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K16",
+    "before": null,
+    "after": "spurious as a causal-outcome record: parent s7 is rejected under the causal-setting inclusion rule. The underlying descriptive statistic remains valid; original model fields are preserved. See Settings Notes for the source and exclusion rationale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I13",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O13",
+    "before": null,
+    "after": "Section 4.2.4, Figs. 10-11, pp. 2935-2936: centered 21-day averages and scatterplots show the leverage correlation co-varies with CX. Authors state the short sample prevents firm conclusions and suggest association with risk pricing. No implemented directional causal regression or intervention in turbulence is established; the model invents an OLS treatment-effect setting from a descriptive time-series pattern."
+  }
+]
+```
