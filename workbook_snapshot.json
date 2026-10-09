@@ -900,6 +900,13 @@
     "F15": "1",
     "G15": "Treatment: Bank AQR exposure at the lender level, measured as divergence in lender annual provisioning due to AQR divided by lender total assets, in percent. In this collapsed setup the regressor is the difference between average post-AQR exposure and average pre-AQR exposure for the lender in a firm-lender pair.\n\nMethod: Khwaja-Mian-style bank-lending-channel design implemented as linear OLS on a collapsed firm-lender panel. The authors collapse 3 pre-AQR years and 3 post-AQR years to the firm-lender level, and regress the change in log(1+loan amount) from pre to post on the bank's change in average AQR exposure, where exposure is divergence in provisions due to the RBI asset quality review normalized by bank total assets. Main specifications include firm fixed effects to compare different lenders within the same borrowing firm; some columns also add pre-AQR lender controls (size and capital adequacy ratio), and one robustness excludes bank-years under Prompt Corrective Action. Standard errors are clustered at the lender level. Identification is from within-firm cross-lender heterogeneity in exposure, with firm FE intended to absorb borrower credit demand shocks.\n\nIdentification: The endogeneity concern is that banks more exposed to AQR may lend to firms experiencing weaker loan demand. The authors argue that AQR occurred in a relatively stable macro period and, following Khwaja and Mian (2008), use within-firm variation across lenders in AQR exposure. Firm fixed effects absorb borrower-specific demand shocks common across lenders within a firm. The identifying assumption is that, conditional on firm FE and lender controls, cross-lender differences in post-versus-pre exposure within the same firm reflect bank credit supply effects rather than differential borrower demand. Remaining concerns include endogenous bank-firm matching and bank-level omitted shocks correlated with exposure.\n\nSetting: Using a collapsed firm-lender specification with firm fixed effects, the authors interpret higher lender exposure to the Indian AQR as causing lower credit supply to the same borrower relative to less exposed lenders. In Table 5 panel A, the coefficient on Average lender exposure ranges from -3.4217 to -1.7493 depending on controls and exclusions. They state that a one-standard-deviation increase in exposure reduces lending by 24.76% in column 1 and by 23.87%, 15.57%, and 13.94% in subsequent specifications. This setting is central to the paper because it provides the main evidence that the bank cleanup, absent adequate recapitalization, contracted bank lending.\n\nMain role: This is a core empirical design supporting the paper's central claim that AQR-induced undercapitalization reduced bank credit supply through the bank lending channel.",
     "H15": "Section 5.1.1 'The Khwaja Mian setup', Table 5 Panel A, columns 1-4 (PDF page 24; article p. 4155).",
+    "I15": "1",
+    "J15": "FE",
+    "K15": "0",
+    "L15": "1",
+    "M15": "n/a",
+    "N15": "Table 5, Panel A, columns 2-4 (article p. 4155): effect of the post-minus-pre change in average lender AQR exposure (additional provisions divided by lender assets) on the post-minus-pre difference in log(1+loan amount), at the firm-lender level, with identifying firm fixed effects. Columns 3-4 add pre-AQR lender controls; column 4 excludes PCA observations. Column 1 is a separate OLS setting h1.",
+    "O15": "Approved split: retain identifying-FE columns 2-4 here; no-FE column 1 and its headline comparison are recorded under h1. Original model fields preserved.",
     "A16": "25QB398J",
     "B16": "s2",
     "C16": "FE",
@@ -14747,7 +14754,16 @@
     "E1746": "0",
     "F1746": "0",
     "G1746": "Treatment: Current-year ViolOutOfState_t indicator and one additional incentive/culture measure per column: RWOutOfState_t (binary severe out-of-state violation), MeetOrBeat_{t+1} (binary indicator for just meeting/beating analyst EPS by 0 or 1 cent), and WeakCompliance_{t+1} (binary indicator for non-OSHA federal sanctions in the prior three years), with interactions where reported. Treatments are binary.\n\nMethod: The authors estimate three variants of the main firm-state-year linear FE violation model, each adding a measure of incentives or culture. Column 1 adds RWOutOfState, an indicator for an out-of-state Repeat/Willful violation; column 2 interacts ViolOutOfState with MeetOrBeat, an indicator for narrowly meeting/beating analyst earnings forecasts; column 3 interacts ViolOutOfState with WeakCompliance, an indicator for recent non-OSHA federal sanctions. All models include year and firm-by-state fixed effects plus controls. These are heterogeneity and mechanism regressions about when cross-state compliance-effort shifting is stronger.\n\nIdentification: Identification uses within firm-state timing of prior out-of-state violations combined with cross-sectional or time-varying proxies for incentives and culture, controlling for firm-by-state and year fixed effects. The endogeneity concern is that these proxies may capture broader omitted shocks correlated with safety. The authors interpret stronger effects when out-of-state violations are Repeat/Willful, when firms just meet/beat earnings, and when firms have weak compliance cultures as evidence that shifting responds to enforcement incentives, financial pressure, and culture.\n\nSetting: The paper examines when cross-state shifting of violations is strongest. In Table 10 column 1, an out-of-state Repeat/Willful violation adds 0.0066 to next-year in-state violation risk, beyond the 0.0024 effect of any out-of-state violation. In column 2, the interaction ViolOutOfState_t × MeetOrBeat_{t+1} is 0.0037, suggesting more shifting when firms face short-term earnings pressure. In column 3, the interaction ViolOutOfState_t × WeakCompliance_{t+1} is 0.0043, indicating stronger shifting among firms with weaker compliance cultures. The authors use these results to argue that financial incentives and culture shape how firms exploit OSHA information frictions.\n\nMain role: These are cross-sectional mechanism tests that sharpen interpretation of the main result but are not themselves the core headline finding.",
-    "H1746": "Section 7, Table 10 columns 1-3, PDF p. 35."
+    "H1746": "Section 7, Table 10 columns 1-3, PDF p. 35.",
+    "A1747": "25QB398J",
+    "B1747": "h1",
+    "I1747": "1",
+    "J1747": "OLS",
+    "K1747": "0",
+    "L1747": "1",
+    "M1747": "n/a",
+    "N1747": "Table 5, Panel A, column 1 (article p. 4155; Section 5.1.1, p. 4154): no-FE OLS at the firm-lender level, regressing the post-minus-pre difference in log(1+loan amount) on the change in average lender AQR exposure (additional provisions divided by lender total assets). No additional lender controls; lender-clustered inference. Exposure coefficient -3.4217; authors report a 24.76% lending decline for a one-treatment-SD increase.",
+    "O1747": "Separated from s1 because column 1 has no fixed effects. Main-result status follows the headline approximately 25% credit-supply contraction in the introduction (p. 4135). Treatment remains nonbinary."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -44177,7 +44193,11 @@
     "D4208": "ViolInState_{t+1}: indicator equal to 1 if firm i committed at least one OSHA violation in state j in year t+1.",
     "E4208": "1",
     "F4208": "1",
-    "G4208": "none"
+    "G4208": "none",
+    "A4209": "25QB398J",
+    "B4209": "h1",
+    "C4209": "hy1",
+    "K4209": "Post-minus-pre difference in the natural logarithm of one plus total loan amount lent by a lender to a firm; underlying loan amount is in Indian rupees. Table 5, Panel A, column 1, p. 4155. Outcome-type labels left blank because h1 has nonbinary treatment."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -44211,6 +44231,8 @@
     "H7": "One-standard-deviation increase in AQR exposure reduces lending by 24.76% in Table 5 panel A column 1, and by 23.87%, 15.57%, and 13.94% in columns 2-4.",
     "I7": "Average annual growth in bank credit of 13.13% in the pre-AQR years.",
     "J7": "“We find that a one standard-deviation increase in AQR exposure reduces loan supply by 25%. The decline is economically meaningful, given the average annual growth in bank credit of 13.13% in the pre-AQR years.” [ … ] Table 5, Panel A, row “Economic sig.” reports “−24.76%”, “−23.87%”, “−15.57%”, and “−13.94%”.",
+    "K7": "0",
+    "R7": "Wrong-setting attachment after approved OLS/FE split. Headline approximately 25% (24.76%) effect is Table 5A column 1, without FE, not retained FE columns 2-4. Qualifying comparison re-entered as h1/hc1 linked to h1/hy1; original model record preserved.",
     "A8": "25QB398J",
     "B8": "s3",
     "C8": "c1",
@@ -55559,7 +55581,18 @@
     "G1142": "1",
     "H1142": "Average partial effect corresponding to Table 4, column 4, coefficient on ViolOutOfState_t; authors report APE = 0.027 on ViolInState_{t+1}.",
     "I1142": "Mean in-state violation rate of 0.039 for the average firm-state-year in the sample.",
-    "J1142": "“The coefficients in column 4 correspond to average partial effects of −0.048 on ViolInStateijt and 0.027 on ViolOutOfStateijt.” [ … ] “We can use these figures to compute a back-of-the-envelope estimate of the elasticity of violating behavior across state lines… This figure is substantially higher (69.2%) if we instead use the average partial effects corresponding to column 4…”"
+    "J1142": "“The coefficients in column 4 correspond to average partial effects of −0.048 on ViolInStateijt and 0.027 on ViolOutOfStateijt.” [ … ] “We can use these figures to compute a back-of-the-envelope estimate of the elasticity of violating behavior across state lines… This figure is substantially higher (69.2%) if we instead use the average partial effects corresponding to column 4…”",
+    "A1143": "25QB398J",
+    "B1143": "h1",
+    "C1143": "hc1",
+    "K1143": "1",
+    "L1143": "hy1",
+    "M1143": "outcome_mean",
+    "N1143": "1",
+    "O1143": "0",
+    "P1143": "0",
+    "Q1143": "Introduction, p. 4135: \"We find that a one standard-deviation increase in AQR exposure reduces loan supply by 25%. The decline is economically meaningful, given the average annual growth in bank credit of 13.13% in the pre-AQR years.\" Table 5A column 1, p. 4155: exposure coefficient -3.4217; economic significance -24.76%; no FE. Benchmark is average annual pre-AQR bank-credit growth, not an outcome-SD benchmark.",
+    "R1143": "Qualifies under Jia's growth-rate clarification. No division by the 13.13% benchmark is reported. Alignment=0: the focal outcome contrasts collapsed pre/post lending periods, whereas the benchmark is annual pre-AQR credit growth; no common-horizon adjustment is established (Sections 5.1.1 and 5.1.4, pp. 4154-4157). Moved from s1/c1, not an additional duplicate comparison."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
