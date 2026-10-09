@@ -1712,3 +1712,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T11:34:00.373881+00:00 — Review 2Q8UL8QQ s4: validate labels and linked records
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1147",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1148",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1147",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1148",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1147",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1148",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1147",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1148",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1147",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1148",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1147",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1148",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1147",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1148",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1147",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1148",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1147",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1148",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1147",
+    "before": null,
+    "after": "Section 4, p. 10 discussion of Table 5 (p. 11), for-profit institutions, column 3, coefficient -0.0377. Authors note for-profit institutions and community colleges have the largest point estimates, but \"also tend to have much higher default rates\" and \"the implied elasticities are ultimately quite similar to those at (not-for-profit) public and private four-year colleges.\" Benchmark is the respective institution-type default rate; no numerical benchmark value is supplied in this passage. The stated elasticity interpretation normalizes the level response by the outcome rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1148",
+    "before": null,
+    "after": "Section 4, p. 10 discussion of Table 5 (p. 11), community colleges, column 4, coefficient -0.0220. Authors note for-profit institutions and community colleges have the largest point estimates, but \"also tend to have much higher default rates\" and \"the implied elasticities are ultimately quite similar to those at (not-for-profit) public and private four-year colleges.\" Benchmark is the respective institution-type default rate; no numerical benchmark value is supplied in this passage. The stated elasticity interpretation normalizes the level response by the outcome rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1147",
+    "before": null,
+    "after": "Qualitative but explicit outcome-rate scaling, not an invented numerical ratio. Exact rate, reference period, weighting and regression-target match are not reported; alignment unknown. Separate institution populations/focal estimates require separate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1148",
+    "before": null,
+    "after": "Qualitative but explicit outcome-rate scaling, not an invented numerical ratio. Exact rate, reference period, weighting and regression-target match are not reported; alignment unknown. Separate institution populations/focal estimates require separate records."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I49",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J49",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K49",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L49",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M49",
+    "before": null,
+    "after": "n/a"
+  }
+]
+```
