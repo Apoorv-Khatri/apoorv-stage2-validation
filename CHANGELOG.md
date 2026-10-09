@@ -3277,3 +3277,18 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T13:40:09.180649+00:00 — Saved Excel changes
+
+1 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Papers",
+    "cell": "E7",
+    "before": "DONE — Human review complete for main article and included appendices. Retained s1 (OLS strike-range distortion, with omitted VIX* alternative outcome added), corrected s8 (Other: flash-crash reconstruction), added h1 (Other: binary index-rule contrast, Fig. 2). Rejected s2-s7 as descriptive cojump/correlation/leverage analyses, not directional causal treatment settings. Three magnitude comparisons added for the construction-based level contrasts; no qualifying comparison for s1 treatment-SD interpretation. Theoretical pricing identities, descriptive jump distributions/symmetry tests, and data-filter/volatility-estimation procedures do not add causal settings. See per-setting evidence and limitations; original model fields preserved.",
+    "after": "Done"
+  }
+]
+```
