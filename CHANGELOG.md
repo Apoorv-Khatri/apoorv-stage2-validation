@@ -214,3 +214,42 @@ Baseline of the original workbook before the approved OLS split.
 
 0 populated-cell value changes. The XLSX also preserves formatting.
 
+
+## 2026-10-09T07:34:26.624515+00:00 — 25QB398J s2: approved human labels for Table 5B
+
+5 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I16",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J16",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K16",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L16",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M16",
+    "before": null,
+    "after": "n/a"
+  }
+]
+```
