@@ -3080,3 +3080,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T12:38:37.868591+00:00 — Review 24DPCTZ3 h1: causal scope, outcomes and benchmark evidence
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1151",
+    "before": null,
+    "after": "24DPCTZ3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1151",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1151",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1151",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1151",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1151",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1151",
+    "before": null,
+    "after": "Section 3.2, p. 2915 and Fig. 2 p. 2916: RX \"starts out, at 8:30, around 23.5, more than 2% below the RX* value of 24.\" The gap persists until about 11:00, when the RX strike range expands and the indices coincide. Benchmark is same-time RX* from all positive-bid OTM options on February 16, 2010."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1151",
+    "before": null,
+    "after": "Authors explicitly express the index-level discrepancy as a percent of the alternate-rule level: verbal=1, divided=1. Benchmark is other_level, not an outcome mean/SD; alignment=n/a. Approximate levels and the authors stated more-than-2% comparison preserved without inventing an exact ratio."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4220",
+    "before": null,
+    "after": "24DPCTZ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4220",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4220",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4220",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4220",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4220",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4220",
+    "before": null,
+    "after": "Computed RX/RX* implied-volatility index level under the two option-inclusion rules on February 16, 2010. Annualized volatility: prose around 23.5 versus 24, Fig. 2 axis about 0.22-0.24 in decimal units. Untransformed positive index level; displayed full-day paths stay strictly above zero (pp. 2915-2916)."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E7",
+    "before": null,
+    "after": "Human review complete for main article and included appendices. Retained s1 (OLS strike-range distortion, with omitted VIX* alternative outcome added), corrected s8 (Other: flash-crash reconstruction), added h1 (Other: binary index-rule contrast, Fig. 2). Rejected s2-s7 as descriptive cojump/correlation/leverage analyses, not directional causal treatment settings. Three magnitude comparisons added for the construction-based level contrasts; no qualifying comparison for s1 treatment-SD interpretation. Theoretical pricing identities, descriptive jump distributions/symmetry tests, and data-filter/volatility-estimation procedures do not add causal settings. See per-setting evidence and limitations; original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1756",
+    "before": null,
+    "after": "24DPCTZ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1756",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1756",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1756",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1756",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1756",
+    "before": null,
+    "after": "Omitted Section 3.2 measurement-rule comparison, Fig. 2, pp. 2915-2916, February 16, 2010: compute RX with the CBOE cutoff after two consecutive zero-bid strikes versus RX* using all out-of-the-money options with positive bid quotes, on the same underlying market data. This is a two-rule construction contrast. Around 08:30 RX is about 23.5, more than 2% below RX* at 24. Just before 11:00 RX jumps as its lower strike range expands; RX* has no corresponding jump. Authors explicitly attribute the discontinuity solely to the changing option set, not to a meaningful shift in option prices."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1756",
+    "before": null,
+    "after": "Other = direct nonlinear index-formula recomputation under alternative inclusion rules, not OLS or randomized assignment. Binary refers to the two implemented calculation rules, not a high/low volatility dummy. Supporting construction-mechanism result at a distinct date/location from s8. RX* is a wider-range comparator, not guaranteed true volatility; both rules can exhibit truncation problems elsewhere (footnote 13)."
+  }
+]
+```

@@ -12,6 +12,7 @@
     "B7": "Exploring Return Dynamics via Corridor Implied Volatility",
     "C7": "fin",
     "D7": 8,
+    "E7": "Human review complete for main article and included appendices. Retained s1 (OLS strike-range distortion, with omitted VIX* alternative outcome added), corrected s8 (Other: flash-crash reconstruction), added h1 (Other: binary index-rule contrast, Fig. 2). Rejected s2-s7 as descriptive cojump/correlation/leverage analyses, not directional causal treatment settings. Three magnitude comparisons added for the construction-based level contrasts; no qualifying comparison for s1 treatment-SD interpretation. Theoretical pricing identities, descriptive jump distributions/symmetry tests, and data-filter/volatility-estimation procedures do not add causal settings. See per-setting evidence and limitations; original model fields preserved.",
     "A8": "25QB398J",
     "B8": "Bank Cleanups, Capitalization, and Lending: Evidence from India",
     "C8": "fin",
@@ -14967,7 +14968,16 @@
     "L1755": "1",
     "M1755": "n/a",
     "N1755": "Fig. 6 Panel A and Section 6, pp. 17-18: dynamic conventional DDD variant of Eq. (2), replacing Home price x IBR eligible x Post with Home price x IBR eligible x year interactions for 2007-2011, relative to baseline 2006. Binary policy eligibility is the exposure; continuous home prices measure shock sensitivity. Outcome is new borrower default in t+1; coefficients for treatment year t are plotted at t+1. Year and zip-code FE; underlying loan-balance weighted specification with zip-code clustered standard errors.",
-    "O1755": "Include because the authors substantively interpret the post-2009 jump and subsequent growth in insurance against home-price shocks, not solely a pretrend diagnostic. Pre-2009 coefficients are diagnostic components of this same dynamic setting. Numerical coefficient values not tabulated in the text; do not invent them from the qualitative discussion. Figure 6 Panel B take-up rates alone are descriptive, not outcome benchmarks. No qualifying magnitude comparison found."
+    "O1755": "Include because the authors substantively interpret the post-2009 jump and subsequent growth in insurance against home-price shocks, not solely a pretrend diagnostic. Pre-2009 coefficients are diagnostic components of this same dynamic setting. Numerical coefficient values not tabulated in the text; do not invent them from the qualitative discussion. Figure 6 Panel B take-up rates alone are descriptive, not outcome benchmarks. No qualifying magnitude comparison found.",
+    "A1756": "24DPCTZ3",
+    "B1756": "h1",
+    "I1756": "1",
+    "J1756": "Other",
+    "K1756": "1",
+    "L1756": "0",
+    "M1756": "n/a",
+    "N1756": "Omitted Section 3.2 measurement-rule comparison, Fig. 2, pp. 2915-2916, February 16, 2010: compute RX with the CBOE cutoff after two consecutive zero-bid strikes versus RX* using all out-of-the-money options with positive bid quotes, on the same underlying market data. This is a two-rule construction contrast. Around 08:30 RX is about 23.5, more than 2% below RX* at 24. Just before 11:00 RX jumps as its lower strike range expands; RX* has no corresponding jump. Authors explicitly attribute the discontinuity solely to the changing option set, not to a meaningful shift in option prices.",
+    "O1756": "Other = direct nonlinear index-formula recomputation under alternative inclusion rules, not OLS or randomized assignment. Binary refers to the two implemented calculation rules, not a high/low volatility dummy. Supporting construction-mechanism result at a distinct date/location from s8. RX* is a wider-range comparator, not guaranteed true volatility; both rules can exhibit truncation problems elsewhere (footnote 13)."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -44528,7 +44538,14 @@
     "A4219": "24DPCTZ3",
     "B4219": "s1",
     "C4219": "hy1",
-    "K4219": "Relative end-of-day filtered VIX level versus CX, VIX*_t/CX_t - 1, in the analogous regression of Section 3.4, p. 2920 footnote 18. Effective range for RX proxies that of VIX* where their index values are close; other observations excluded. Exact coefficient not reported. Continuous-treatment setting, so detailed outcome-type labels left blank."
+    "K4219": "Relative end-of-day filtered VIX level versus CX, VIX*_t/CX_t - 1, in the analogous regression of Section 3.4, p. 2920 footnote 18. Effective range for RX proxies that of VIX* where their index values are close; other observations excluded. Exact coefficient not reported. Continuous-treatment setting, so detailed outcome-type labels left blank.",
+    "A4220": "24DPCTZ3",
+    "B4220": "h1",
+    "C4220": "hy1",
+    "H4220": "0",
+    "I4220": "0",
+    "J4220": "none",
+    "K4220": "Computed RX/RX* implied-volatility index level under the two option-inclusion rules on February 16, 2010. Annualized volatility: prose around 23.5 versus 24, Fig. 2 axis about 0.22-0.24 in decimal units. Untransformed positive index level; displayed full-day paths stay strictly above zero (pp. 2915-2916)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -56028,7 +56045,18 @@
     "O1150": "1",
     "P1150": "n/a",
     "Q1150": "Section 4.3, Fig. 12 (p. 2937) and p. 2938: authors attribute \"periodic 10% to 15% overvaluation thereafter\" to oscillating effective strike ranges after the crash. Figure reports VIX/CX* - 1. Benchmark is contemporaneous scaled CX* in the post-crash period on May 6, using the same pre-13:30 calibration.",
-    "R1150": "Same-outcome index-level reference comparison with explicit division. This is post-crash overvaluation, not the separate within-VIX spikes exceeding 10%, and not a mean/SD comparison. Numerical benchmark level at each extreme not reported."
+    "R1150": "Same-outcome index-level reference comparison with explicit division. This is post-crash overvaluation, not the separate within-VIX spikes exceeding 10%, and not a mean/SD comparison. Numerical benchmark level at each extreme not reported.",
+    "A1151": "24DPCTZ3",
+    "B1151": "h1",
+    "C1151": "hc1",
+    "K1151": "1",
+    "L1151": "hy1",
+    "M1151": "other_level",
+    "N1151": "1",
+    "O1151": "1",
+    "P1151": "n/a",
+    "Q1151": "Section 3.2, p. 2915 and Fig. 2 p. 2916: RX \"starts out, at 8:30, around 23.5, more than 2% below the RX* value of 24.\" The gap persists until about 11:00, when the RX strike range expands and the indices coincide. Benchmark is same-time RX* from all positive-bid OTM options on February 16, 2010.",
+    "R1151": "Authors explicitly express the index-level discrepancy as a percent of the alternate-rule level: verbal=1, divided=1. Benchmark is other_level, not an outcome mean/SD; alignment=n/a. Approximate levels and the authors stated more-than-2% comparison preserved without inventing an exact ratio."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
