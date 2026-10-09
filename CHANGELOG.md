@@ -399,3 +399,294 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T08:48:49.880145+00:00 — 25QB398J s6: approved review, human labels and linked corrections
+
+47 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K10",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K11",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10",
+    "before": null,
+    "after": "Table 10 col. 4, p. 4168: high-exposure coefficient -60.7650 on annual change in gross PP&E, in INR millions. Section 6.1.1, p. 4169: \"The decline translates to 34% of the average value of property, plant, and machinery in any year.\" Benchmark: the stated average PP&E measure; exact mean value, population, exposure group, period weights and untreated-counterfactual construction are not specified."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10",
+    "before": null,
+    "after": "Alignment unknown: Table 2 defines PP&E as an annual change, whereas the comparison prose says average value. The source does not clearly establish whether the denominator is mean investment or a stock level, or whether it represents the focal high-exposure firms' untreated outcome. Do not infer alignment from a shared sample or invent the denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R11",
+    "before": null,
+    "after": "Section 6.1.1, p. 4169; Table 10 col. 7, p. 4168: the effect is on STALLED/nonworking project value, but the stated 12.2% denominator is the average value of RUNNING projects. As written this is not a same-outcome benchmark and other_level does not waive that requirement. The prose also says decline despite a positive coefficient; do not silently repair the source or substitute a stalled-project mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9",
+    "before": null,
+    "after": "Section 6.1, p. 4167; Table 10 col. 1, p. 4168: the approximately 38% statement interprets the log1p coefficient -0.3848. Other firms identify the treatment contrast, not a separate stated outcome mean, SD or level. Log-percentage interpretation alone does not qualify."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H27",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H28",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H29",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H30",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H31",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H32",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H33",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I27",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I28",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I29",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I30",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I31",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I32",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I33",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J27",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J28",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J29",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J30",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J31",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J32",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J33",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K27",
+    "before": null,
+    "after": "Table 10 col. 1, p. 4168. Zero mass supported by the MCA zero-new-loan construction (p. 4148) and inclusion of firms with active relationships but no new loans (Table 3, p. 4150)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K28",
+    "before": null,
+    "after": "Table 10 col. 2, p. 4168: log(1+borrowings from related parties). Zero mass unknown: no explicit zero frequency for this regression outcome is established. The generic RPT-loans summary is not enough to identify zeros in the inward-borrowing regression sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K29",
+    "before": null,
+    "after": "Unit correction: additions to paid-up equity capital are in INR millions, defined as current minus previous paid-up equity capital, net of forfeited capital (Table 2, p. 4149; Table 10 col. 3, p. 4168). Zero mass is not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K30",
+    "before": null,
+    "after": "Table 2, p. 4149, and Table 10 col. 4, p. 4168: annual change in gross PP&E, in INR millions. Zero mass is not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K31",
+    "before": null,
+    "after": "Table 2, p. 4149, and Table 10 col. 5, p. 4168: annual change in gross fixed assets, in INR millions. Zero mass is not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K32",
+    "before": null,
+    "after": "Table 10 col. 6, p. 4168: log(1+fixed-asset additions). Adding one does not establish observed zero mass; no explicit zero frequency is reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K33",
+    "before": null,
+    "after": "Table 10 col. 7, p. 4168: value of stalled/nonworking projects in INR millions, not a binary stalling indicator. Zero mass is not established by the reported definition or estimates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I20",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J20",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K20",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L20",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M20",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N20",
+    "before": null,
+    "after": "Table 10 / Equation (4), pp. 4167-4169: lender weights use pre-AQR average OUTSTANDING loan amounts, not new lending flows (Table 2, p. 4149; Section 4, p. 4154). Other treatment, FE and outcome definitions are retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O20",
+    "before": null,
+    "after": "Table 10 col. 6: the log1p fixed-asset-additions coefficient is negative but not statistically significant at the table's reported levels. Comparison alignment and uncertain zero masses are coded separately rather than inferred."
+  }
+]
+```
