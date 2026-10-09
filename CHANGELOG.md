@@ -1454,3 +1454,54 @@ Baseline of the original workbook before the approved OLS split.
 
 0 populated-cell value changes. The XLSX also preserves formatting.
 
+
+## 2026-10-09T10:07:54.398350+00:00 — Review 2Q8UL8QQ s2: confirm FE and restrict scope to Table 3 Panel B
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I47",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J47",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K47",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L47",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M47",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N47",
+    "before": null,
+    "after": "Scope restricted to Table 3, Panel B, columns 1-3 (Section 4, pp. 9-10): annual regional panel regressions of the new student-loan default rate in year t+1 on log home prices in year t, with region and year fixed effects. Regions are zip codes, counties, or commuting zones; observations are weighted by total student-loan balances and standard errors clustered at the corresponding regional level. Home prices cover 2006-2009 and recorded defaults 2007-2010. Coefficients are -0.00614, -0.00639, and -0.00728, respectively. Panel A long-difference results are outside this setting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O47",
+    "before": null,
+    "after": "Region FE absorb time-invariant regional heterogeneity and year FE absorb common annual shocks. Regional clustering addresses within-region error dependence for inference; it does not eliminate omitted time-varying regional confounders. Supporting regional evidence preceding the main borrower-level Table 4. No qualifying outcome-benchmark comparison found for Panel B. The p. 10 footnote 10 conversion using the 3.6% default rate refers to the Panel A elasticity, not this setting; Panel A coverage is deferred."
+  }
+]
+```
