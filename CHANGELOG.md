@@ -2753,3 +2753,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T12:37:59.342528+00:00 — Review 24DPCTZ3 s6: causal scope, outcomes and benchmark evidence
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H14",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H15",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I14",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I15",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J14",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J15",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K14",
+    "before": null,
+    "after": "spurious as a causal-outcome record: parent s6 is rejected under the causal-setting inclusion rule. The underlying descriptive statistic remains valid; original model fields are preserved. See Settings Notes for the source and exclusion rationale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K15",
+    "before": null,
+    "after": "spurious as a causal-outcome record: parent s6 is rejected under the causal-setting inclusion rule. The underlying descriptive statistic remains valid; original model fields are preserved. See Settings Notes for the source and exclusion rationale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I12",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O12",
+    "before": null,
+    "after": "Section 4.2.3, Fig. 8/Table 7, pp. 2933-2935: distribution of leverage-correlation estimates across option maturities is a measurement/robustness exercise, not a causally interpreted treatment-response estimator. The mean/SD rows summarize estimated correlations, not a focal causal effect paired with a same-outcome benchmark. Discussion of liquidity/noise is an explanation of estimator precision, not a separately identified maturity intervention."
+  }
+]
+```
