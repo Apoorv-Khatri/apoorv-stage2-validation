@@ -2684,3 +2684,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T12:37:39.043668+00:00 — Review 24DPCTZ3 s5: causal scope, outcomes and benchmark evidence
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H12",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12",
+    "before": null,
+    "after": "spurious as a causal-outcome record: parent s5 is rejected under the causal-setting inclusion rule. The underlying descriptive statistic remains valid; original model fields are preserved. See Settings Notes for the source and exclusion rationale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13",
+    "before": null,
+    "after": "spurious as a causal-outcome record: parent s5 is rejected under the causal-setting inclusion rule. The underlying descriptive statistic remains valid; original model fields are preserved. See Settings Notes for the source and exclusion rationale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I11",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O11",
+    "before": null,
+    "after": "Section 4.2.3, Table 6, p. 2932: jump-exclusion cutoffs, bias correction and alternative price series check robustness of the estimated contemporaneous leverage CORRELATION. They do not estimate a causal effect of equity-return treatment on volatility. Main scientific importance does not satisfy the causal-setting inclusion rule."
+  }
+]
+```
