@@ -2570,3 +2570,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T12:37:12.290241+00:00 — Review 24DPCTZ3 s3: causal scope, outcomes and benchmark evidence
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H9",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9",
+    "before": null,
+    "after": "spurious as a causal-outcome record: parent s3 is rejected under the causal-setting inclusion rule. The underlying descriptive statistic remains valid; original model fields are preserved. See Settings Notes for the source and exclusion rationale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I9",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O9",
+    "before": null,
+    "after": "Section 4.1.2, Table 5/Fig. 6, pp. 2926-2928: authors explicitly reverse the conditioning direction to describe volatility increments conditional on equity-return bins and conclude a contemporaneous inverse cojumping relation. Reversing the conditioning direction does not identify either causal direction. Conditional densities/group means are descriptive, not a separate causal treatment-response setting."
+  }
+]
+```
