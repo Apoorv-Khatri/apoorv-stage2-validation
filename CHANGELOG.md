@@ -2867,3 +2867,216 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T12:38:24.812800+00:00 — Review 24DPCTZ3 s8: causal scope, outcomes and benchmark evidence
+
+34 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1149",
+    "before": null,
+    "after": "24DPCTZ3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1150",
+    "before": null,
+    "after": "24DPCTZ3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1149",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1150",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1149",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1150",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1149",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1150",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1149",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1150",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1149",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1150",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1149",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1150",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1149",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1150",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1149",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1150",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1149",
+    "before": null,
+    "after": "Section 4.3, Fig. 12 (p. 2937) and p. 2938: strike-range instability results in \"a downward bias in VIX of up to 5% during the crash phase\". Figure labels the comparison VIX/CX* - 1. Benchmark is contemporaneous scaled CX* during the May 6 crash, calibrated to VIX before 13:30; numerical benchmark index level at the extreme is not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1150",
+    "before": null,
+    "after": "Section 4.3, Fig. 12 (p. 2937) and p. 2938: authors attribute \"periodic 10% to 15% overvaluation thereafter\" to oscillating effective strike ranges after the crash. Figure reports VIX/CX* - 1. Benchmark is contemporaneous scaled CX* in the post-crash period on May 6, using the same pre-13:30 calibration."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1149",
+    "before": null,
+    "after": "An explicit index-level distortion relative to an alternative same-market volatility-level reference, not a coefficient-only percent interpretation. Keep separate from subsequent overvaluation because the focal period/contrast differs. other_level alignment=n/a; no claim CX* is ground-truth volatility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1150",
+    "before": null,
+    "after": "Same-outcome index-level reference comparison with explicit division. This is post-crash overvaluation, not the separate within-VIX spikes exceeding 10%, and not a mean/SD comparison. Numerical benchmark level at each extreme not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H17",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I17",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J17",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K17",
+    "before": null,
+    "after": "spurious as a causal outcome: Table 8 correlations summarize measurement coherence and are descriptive diagnostics; they are not the outcome of the retained strike-range distortion analysis. Retained level outcome is y2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K18",
+    "before": null,
+    "after": "VIX implied-volatility index LEVEL during May 6, 2010, quoted as annualized volatility (plots use decimal units). Focal distortion is the difference from contemporaneous CX*, the corridor index scaled to match VIX before 13:30; Fig. 12 bottom right reports VIX/CX* - 1. CX* is the benchmark, not unscaled CX. Section 4.3, pp. 2937-2938."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I14",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J14",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K14",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L14",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M14",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N14",
+    "before": null,
+    "after": "Section 4.3, Fig. 12 and discussion, pp. 2937-2938: measurement-mechanism case study of how changing CBOE effective strike-range truncation distorts the VIX level during May 6, 2010. Authors reconstruct major VIX movements using the underlying option quotes and truncation rule, and compare with CX*, the corridor index scaled to match pre-13:30 VIX levels. The range varies continuously/nonbinarly; the 13:30 split is not a treated/post causal DiD design. VIX is reportedly downward biased by up to 5% during the crash and overvalued by 10%-15% subsequently relative to CX*."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O14",
+    "before": null,
+    "after": "Other = formula-based index reconstruction and same-market measurement-counterfactual comparison, not OLS/IV/DiD. Retain only the explicit causal attribution of artificial index movements to strike-range truncation (p. 2938); Table 8 return correlations are supporting descriptive diagnostics, not the causal estimator. Main=1 because real-time robustness during market stress is a central abstract/introduction/conclusion claim. CX* is a scaled reference proxy, not observed true volatility; attribution depends on that maintained measurement argument. Comparisons use other_level, not a mean/SD benchmark."
+  }
+]
+```
