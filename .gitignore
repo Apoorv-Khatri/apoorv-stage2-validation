@@ -1,0 +1,8 @@
+# Explicit allowlist: papers, Excel lock files, and other local files stay private/local.
+*
+!.gitignore
+!README.md
+!CHANGELOG.md
+!cape_stage2_validation.xlsx
+!workbook_snapshot.json
+!version_workbook.py
