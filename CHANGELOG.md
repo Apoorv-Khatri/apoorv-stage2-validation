@@ -1883,3 +1883,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T11:34:13.611515+00:00 — Review 2Q8UL8QQ s5: validate labels and linked records
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I50",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J50",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K50",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L50",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M50",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N50",
+    "before": null,
+    "after": "Table 6 columns 1-4, Section 5.1, pp. 11-12: log zip-code home prices in year t explaining new borrower default in t+1, separately by individual labor-earnings bands shown in the table. Zip-code and year FE, individual loan-balance weights, zip-code clustered standard errors. Coefficients -0.0176, -0.0129, -0.0113 and -0.00498 (last not significant)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O50",
+    "before": null,
+    "after": "Remove unsupported model claim that earnings groups are pre-existing/predetermined: the cited table and discussion do not establish a fixed pre-recession classification. Do not infer an exogenous low-income treatment from subgrouping. Central labor-market-channel evidence; no qualifying magnitude comparison found."
+  }
+]
+```
