@@ -1283,6 +1283,13 @@
     "F52": "0",
     "G52": "Treatment: Primary continuous treatment is zip-code log home price in year t; heterogeneity is by homeowner status measured as an indicator for paying mortgage interest in year t (Form 1098), which proxies for owning a home with a mortgage. The focal causal contrast is whether the home-price effect differs for homeowners versus renters.\n\nMethod: The authors augment the main borrower-level fixed-effects panel regression with homeowner status and its interaction with home prices to test a direct home-equity liquidity channel. The dependent variable is new default in year t+1. Regressors include log home price in year t, an indicator for whether the borrower pays mortgage interest in year t based on Form 1098, and Home price×Owner. Variants mirror the main table: county clustering, controls, cohort-year FE, zip-code×cohort-year FE, and individual FE. This is still a linear FE regression, now with interaction-based heterogeneity in treatment effects.\n\nIdentification: Identification uses within-zip or within-borrower changes in home prices, with the liquidity-channel test coming from differential sensitivity of defaults to home prices for homeowners relative to renters. The paper argues that only homeowners should be directly affected through home-equity borrowing capacity. Assumptions include comparable trends for homeowners and renters after conditioning on FE and controls, and accurate homeowner measurement; the authors discuss attenuation from missed outright owners or those without mortgages.\n\nSetting: To test whether falling home prices raise defaults by constraining home-equity borrowing, the authors compare homeowners and renters in borrower-level FE regressions. Across all specifications, the interaction Home price×Owner is small and insignificant—for example, 0.000972 (s.e. 0.000882) in the baseline—while the main home-price effect remains about -0.0112. Homeowners have lower baseline default rates than renters, but their default sensitivity to home-price changes is not larger. The authors interpret this as evidence against a direct home equity-based liquidity channel.\n\nMain role: Rejecting the direct home-equity liquidity channel is one of the central substantive conclusions highlighted in the abstract, introduction, and conclusion.",
     "H52": "Section 5.2, Table 8 columns 1–6, PDF p. 13.",
+    "I52": "1",
+    "J52": "FE",
+    "K52": "0",
+    "L52": "1",
+    "M52": "n/a",
+    "N52": "Table 8 columns 1-3, 5 and 6, Section 5.2, pp. 13-14: continuous log home-price effect on new borrower default in t+1, with Owner and Home price x Owner testing heterogeneity. Owner indicates mortgage-interest payments reported on Form 1098, not all legal homeownership. Columns 1-3 use zip-code and calendar-year FE; column 5 uses zip-code x cohort FE plus year FE; column 6 uses individual plus year FE. Column 4 split to h4 (HDFE). Baseline home-price coefficient -0.0112 and interaction 0.000972 (insignificant). Loan-balance weighted linear regression.",
+    "O52": "Focal treatment remains continuous home prices; a binary moderator does not make the price treatment binary. Small insignificant homeowner interactions are evidence of no detected differential sensitivity, not proof of identical effects. Owner level coefficients are conditional intercept differences, not unconditional homeowner default gaps. No qualifying outcome-benchmark comparison found.",
     "A53": "2Q8UL8QQ",
     "B53": "s8",
     "C53": "FE",
@@ -14888,7 +14895,16 @@
     "L1752": "0",
     "M1752": "n/a",
     "N1752": "Table 4 column 4, pp. 10-11: log zip-code home price in year t explaining new borrower default in t+1. Three separately included FE dimensions: zip code, repayment cohort (year first entering repayment), and calendar year. Cohort FE address shifts in borrower composition and default propensity by repayment cohort. Weighted linear regression using individual loan balances, zip-code clustered standard errors. Home-price coefficient -0.0105 (SE 0.00281). Substantive robustness for the baseline home-price effect; no qualifying magnitude comparison.",
-    "O1752": "Split from s3 to distinguish HDFE from standard FE under the project taxonomy. Supporting robustness, not a separate headline result."
+    "O1752": "Split from s3 to distinguish HDFE from standard FE under the project taxonomy. Supporting robustness, not a separate headline result.",
+    "A1753": "2Q8UL8QQ",
+    "B1753": "h4",
+    "I1753": "1",
+    "J1753": "HDFE",
+    "K1753": "0",
+    "L1753": "0",
+    "M1753": "n/a",
+    "N1753": "Table 8 column 4, pp. 13-14: continuous log home price in year t and its interaction with Owner explaining new default in t+1. Three separately included FE sets: zip code, repayment cohort and calendar year, mirroring Table 4 composition controls. Loan-balance weighted linear regression, zip-code clustered standard errors. Home-price coefficient -0.0105; Home price x Owner 0.000832 (insignificant). Substantive robustness of the direct-liquidity-channel test.",
+    "O1753": "Split from s7 because three FE dimensions and the linked borrower-composition rationale meet HDFE definition. Interacted FE in Table 8 column 5 is instead one set. No qualifying magnitude comparison found."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -44385,7 +44401,11 @@
     "A4215": "2Q8UL8QQ",
     "B4215": "h3",
     "C4215": "hy1",
-    "K4215": "Indicator for new student-loan default in year t+1, equal to one on default and zero otherwise. Dependent variable is untransformed; not a change in default sensitivity, which is a coefficient/estimand rather than another dependent variable."
+    "K4215": "Indicator for new student-loan default in year t+1, equal to one on default and zero otherwise. Dependent variable is untransformed; not a change in default sensitivity, which is a coefficient/estimand rather than another dependent variable.",
+    "A4216": "2Q8UL8QQ",
+    "B4216": "h4",
+    "C4216": "hy1",
+    "K4216": "Indicator for new student-loan default in year t+1, equal to one on default and zero otherwise. Dependent variable is untransformed; not a change in default sensitivity, which is a coefficient/estimand rather than another dependent variable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

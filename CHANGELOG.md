@@ -1973,3 +1973,132 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T11:34:39.853957+00:00 — Review 2Q8UL8QQ s7: validate labels and linked records
+
+20 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4216",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4216",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4216",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4216",
+    "before": null,
+    "after": "Indicator for new student-loan default in year t+1, equal to one on default and zero otherwise. Dependent variable is untransformed; not a change in default sensitivity, which is a coefficient/estimand rather than another dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1753",
+    "before": null,
+    "after": "2Q8UL8QQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1753",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1753",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I52",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1753",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J52",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1753",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K52",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1753",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L52",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1753",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M52",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1753",
+    "before": null,
+    "after": "Table 8 column 4, pp. 13-14: continuous log home price in year t and its interaction with Owner explaining new default in t+1. Three separately included FE sets: zip code, repayment cohort and calendar year, mirroring Table 4 composition controls. Loan-balance weighted linear regression, zip-code clustered standard errors. Home-price coefficient -0.0105; Home price x Owner 0.000832 (insignificant). Substantive robustness of the direct-liquidity-channel test."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N52",
+    "before": null,
+    "after": "Table 8 columns 1-3, 5 and 6, Section 5.2, pp. 13-14: continuous log home-price effect on new borrower default in t+1, with Owner and Home price x Owner testing heterogeneity. Owner indicates mortgage-interest payments reported on Form 1098, not all legal homeownership. Columns 1-3 use zip-code and calendar-year FE; column 5 uses zip-code x cohort FE plus year FE; column 6 uses individual plus year FE. Column 4 split to h4 (HDFE). Baseline home-price coefficient -0.0112 and interaction 0.000972 (insignificant). Loan-balance weighted linear regression."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1753",
+    "before": null,
+    "after": "Split from s7 because three FE dimensions and the linked borrower-composition rationale meet HDFE definition. Interacted FE in Table 8 column 5 is instead one set. No qualifying magnitude comparison found."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O52",
+    "before": null,
+    "after": "Focal treatment remains continuous home prices; a binary moderator does not make the price treatment binary. Small insignificant homeowner interactions are evidence of no detected differential sensitivity, not proof of identical effects. Owner level coefficients are conditional intercept differences, not unconditional homeowner default gaps. No qualifying outcome-benchmark comparison found."
+  }
+]
+```
