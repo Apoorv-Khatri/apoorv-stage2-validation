@@ -2615,3 +2615,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-09T12:37:25.181596+00:00 — Review 24DPCTZ3 s4: causal scope, outcomes and benchmark evidence
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H10",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10",
+    "before": null,
+    "after": "spurious as a causal-outcome record: parent s4 is rejected under the causal-setting inclusion rule. The underlying descriptive statistic remains valid; original model fields are preserved. See Settings Notes for the source and exclusion rationale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11",
+    "before": null,
+    "after": "spurious as a causal-outcome record: parent s4 is rejected under the causal-setting inclusion rule. The underlying descriptive statistic remains valid; original model fields are preserved. See Settings Notes for the source and exclusion rationale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I10",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O10",
+    "before": null,
+    "after": "Sections 4.2.1-4.2.2, Eqs. (17)-(20), Fig. 7, pp. 2928-2931: leverage is explicitly defined as limiting contemporaneous return-spot-volatility CORRELATION; integrated leverage averages local correlations. One-factor assumptions identify this latent correlation from observable prices, not a directional causal response. Section 4.2 discusses alternative causal explanations without identifying between them. Exclude from causal settings; neither an OLS causal coefficient nor a causal outcome-SD effect."
+  }
+]
+```
