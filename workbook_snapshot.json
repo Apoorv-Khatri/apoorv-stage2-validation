@@ -983,6 +983,13 @@
     "F21": "0",
     "G21": "Treatment: Bank AQR exposure at the lender level, measured as divergence in annual provisioning due to AQR divided by bank total assets, in percent; in this collapsed NBFC-borrower setup, the regressor is the change between average post- and pre-AQR exposure.\n\nMethod: Collapsed firm-lender OLS on the subsample of NBFCs/nonbanks as borrowers, mirroring the Khwaja-Mian bank-lending setup. The dependent variable is the post-minus-pre change in log(1+loan amount) from banks to NBFC borrowers. The key regressor is the bank's change in average post-versus-pre AQR exposure. Specifications include firm fixed effects, optional lender controls (pre-AQR bank size and CAR), and a robustness excluding Prompt Corrective Action bank-years. Standard errors are clustered at the lender level.\n\nIdentification: The identification parallels the main collapsed within-borrower lending design, here restricted to NBFC borrowers. Firm fixed effects compare different bank lenders to the same NBFC borrower, aiming to absorb NBFC-specific credit demand. The assumption is that, within an NBFC, differences across bank lenders in AQR exposure generate differential supply contractions in refinancing. Remaining concerns are analogous to the main setting: endogenous lender-borrower matching and omitted bank shocks correlated with exposure.\n\nSetting: To test spillovers to shadow banks, the authors examine bank lending to NBFCs as borrowers. Table 11 reports negative coefficients on Average lender exposure ranging from -8.1644 to -2.7305, with economic significance from -50.65% to -18.49% depending on controls and exclusion of PCA bank-years. They interpret these estimates as evidence that AQR-exposed banks reduced refinancing to shadow banks, contributing to contagion beyond the directly regulated banking sector.\n\nMain role: This is an important spillover analysis supporting the broader real-economy consequences, but it is secondary to the paper's main lending, capitalization, and firm-investment results.",
     "H21": "Section 6.2.1 'Impact on refinancing by banks', Table 11 columns 1-4 (PDF page 39; article p. 4170).",
+    "I21": "1",
+    "J21": "FE",
+    "K21": "0",
+    "L21": "1",
+    "M21": "n/a",
+    "N21": "Table 11, p. 4170, columns 2-4 only: nonbinary change in average bank AQR exposure affects the post-minus-pre difference in log(1+loans) to NBFC borrowers, using borrower firm FE; cols. 3-4 add pre-AQR lender controls, col. 4 excludes PCA observations. Column 1 has no FE and is separated into h2.",
+    "O21": "Human_main=1: shadow-bank contagion is explicitly a central finding in the abstract (p. 4132), introduction (pp. 4135-4136), and conclusion (p. 4173); Section 6.2.1 / Table 11 supplies direct evidence. Economic-significance rows use treatment SD, not outcome benchmarks.",
     "A22": "25QB398J",
     "B22": "s8",
     "C22": "FE",
@@ -14791,7 +14798,16 @@
     "L1747": "1",
     "M1747": "n/a",
     "N1747": "Table 5, Panel A, column 1 (article p. 4155; Section 5.1.1, p. 4154): no-FE OLS at the firm-lender level, regressing the post-minus-pre difference in log(1+loan amount) on the change in average lender AQR exposure (additional provisions divided by lender total assets). No additional lender controls; lender-clustered inference. Exposure coefficient -3.4217; authors report a 24.76% lending decline for a one-treatment-SD increase.",
-    "O1747": "Separated from s1 because column 1 has no fixed effects. Main-result status follows the headline approximately 25% credit-supply contraction in the introduction (p. 4135). Treatment remains nonbinary."
+    "O1747": "Separated from s1 because column 1 has no fixed effects. Main-result status follows the headline approximately 25% credit-supply contraction in the introduction (p. 4135). Treatment remains nonbinary.",
+    "A1748": "25QB398J",
+    "B1748": "h2",
+    "I1748": "1",
+    "J1748": "OLS",
+    "K1748": "0",
+    "L1748": "1",
+    "M1748": "n/a",
+    "N1748": "Table 11, p. 4170, column 1: no-FE OLS on firm-lender pairs restricted to NBFC/nonbank borrowers. Treatment is the post-minus-pre change in average lender AQR exposure (provision divergence divided by bank assets). Outcome is the post-minus-pre difference in log(1+loan amount). Exposure coefficient -8.1644; reported economic significance -50.65% for a one-treatment-SD change; lender-clustered inference.",
+    "O1748": "OLS specification separated from s7 rather than pooling it with identifying borrower-FE columns. Supports the central shadow-bank-contagion finding (abstract p. 4132; conclusion p. 4173). No qualifying outcome-benchmark comparison found in Table 11 or Section 6.2.1."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -44253,7 +44269,11 @@
     "A4209": "25QB398J",
     "B4209": "h1",
     "C4209": "hy1",
-    "K4209": "Post-minus-pre difference in the natural logarithm of one plus total loan amount lent by a lender to a firm; underlying loan amount is in Indian rupees. Table 5, Panel A, column 1, p. 4155. Outcome-type labels left blank because h1 has nonbinary treatment."
+    "K4209": "Post-minus-pre difference in the natural logarithm of one plus total loan amount lent by a lender to a firm; underlying loan amount is in Indian rupees. Table 5, Panel A, column 1, p. 4155. Outcome-type labels left blank because h1 has nonbinary treatment.",
+    "A4210": "25QB398J",
+    "B4210": "h2",
+    "C4210": "hy1",
+    "K4210": "Post-minus-pre difference in log(1+total bank lending to a given NBFC/nonbank borrower), firm-lender level; underlying loan amount in INR. Table 11 col. 1, p. 4170. Nonbinary treatment; outcome-type labels left blank."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
