@@ -15044,7 +15044,16 @@
     "L1757": "0",
     "M1757": "n/a",
     "N1757": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Table 11 Panel B p. 334: differential analyst-exit effect by top-quartile abnormal hedge-fund holdings. Six variance-ratio deviations; firm/quarter FE, firm/quarter clustering. Triple-interaction coefficients -0.024,-0.027,-0.031,-0.027,-0.038,-0.044. Supporting alternative-measure result split from s8.",
-    "O1757": "Section 5.4 p. 334 explicitly disclaims direct causal identification of hedge-fund activity on efficiency. Retain the authors substantive mechanism interpretation, with endogenous participation/omitted-variable limitations. Insignificance of a coefficient sum is not proof of a zero true effect. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+    "O1757": "Section 5.4 p. 334 explicitly disclaims direct causal identification of hedge-fund activity on efficiency. Retain the authors substantive mechanism interpretation, with endogenous participation/omitted-variable limitations. Insignificance of a coefficient sum is not proof of a zero true effect. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify.",
+    "A1758": "3B6VC3AP",
+    "B1758": "h2",
+    "I1758": "1",
+    "J1758": "DiD_conventional",
+    "K1758": "1",
+    "L1758": "0",
+    "M1758": "n/a",
+    "N1758": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Table 12 columns 3-4 p. 335: difference in the treatment-induced valuation/future-earnings slope change by high hedge-fund participation. Firm FE; year FE in col. 4; firm/year clustering. Col. 4 baseline slope change -0.019; extra high-participation slope change +0.028. High-participation net slope change +0.009, not the interaction alone. Supporting alternative-measure result split from s9.",
+    "O1758": "Section 5.4 p. 334 explicitly disclaims direct causal identification of hedge-fund activity on efficiency. Retain the authors substantive mechanism interpretation, with endogenous participation/omitted-variable limitations. Insignificance of a coefficient sum is not proof of a zero true effect. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -44769,7 +44778,14 @@
     "H4227": "0",
     "I4227": "unknown",
     "J4227": "other",
-    "K4227": "|1-VR(2,20)|: absolute deviation of ratio of per-day quote-midpoint return variances; larger values mean less efficiency."
+    "K4227": "|1-VR(2,20)|: absolute deviation of ratio of per-day quote-midpoint return variances; larger values mean less efficiency.",
+    "A4228": "3B6VC3AP",
+    "B4228": "h2",
+    "C4228": "hy1",
+    "H4228": "0",
+    "I4228": "unknown",
+    "J4228": "other",
+    "K4228": "Next-year EBIT/current total assets; no log of Y."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
