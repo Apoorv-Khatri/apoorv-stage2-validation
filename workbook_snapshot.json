@@ -15098,7 +15098,16 @@
     "L1763": "0",
     "M1763": "n/a",
     "N1763": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Table 7 p. 329: holdings/SUE slope changes by pre-event stock size, idiosyncratic volatility and bid-ask spread. Firm/quarter FE and clustering. Small/high-volatility/high-spread coefficients 0.141/0.127/0.144; opposite groups 0.020/0.048/0.054. Group six subsamples. Supports larger responses for opaque stocks; significance in one subgroup but not another alone is not a formal between-group test.",
-    "O1763": "No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+    "O1763": "No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify.",
+    "A1764": "3B6VC3AP",
+    "B1764": "h8",
+    "I1764": "1",
+    "J1764": "DiD_conventional",
+    "K1764": "1",
+    "L1764": "0",
+    "M1764": "n/a",
+    "N1764": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Table 8 Panel B pp. 330-331: subsequent stock returns conditional on nonhedge-fund purchases, large purchases, sales and large sales. Firm/quarter FE and clustering. Effects 1.084,0.668,-0.521,-0.046 percentage points, all insignificant. Same outcome across four grouped sample variants; profitability proxy, not directly observed transaction profits.",
+    "O1764": "No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -44907,7 +44916,14 @@
     "H4239": "0",
     "I4239": "unknown",
     "J4239": "other",
-    "K4239": "Abnormal hedge-fund holdings, percentage points of shares outstanding: current holdings minus preceding-four-quarter average, measured before earnings announcements."
+    "K4239": "Abnormal hedge-fund holdings, percentage points of shares outstanding: current holdings minus preceding-four-quarter average, measured before earnings announcements.",
+    "A4240": "3B6VC3AP",
+    "B4240": "h8",
+    "C4240": "hy1",
+    "H4240": "0",
+    "I4240": "unknown",
+    "J4240": "none",
+    "K4240": "Three-month DGTW-adjusted stock return from quarter end t to t+1, percentage units; nonhedge-fund trade-direction samples."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

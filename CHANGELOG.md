@@ -5716,3 +5716,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-10T03:59:12.544511+00:00 — Review 3B6VC3AP h8: causal scope, outcomes and benchmark evidence
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4240",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4240",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4240",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4240",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4240",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4240",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4240",
+    "before": null,
+    "after": "Three-month DGTW-adjusted stock return from quarter end t to t+1, percentage units; nonhedge-fund trade-direction samples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1764",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1764",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1764",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1764",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1764",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1764",
+    "before": null,
+    "after": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Table 8 Panel B pp. 330-331: subsequent stock returns conditional on nonhedge-fund purchases, large purchases, sales and large sales. Firm/quarter FE and clustering. Effects 1.084,0.668,-0.521,-0.046 percentage points, all insignificant. Same outcome across four grouped sample variants; profitability proxy, not directly observed transaction profits."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1764",
+    "before": null,
+    "after": "No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+  }
+]
+```
