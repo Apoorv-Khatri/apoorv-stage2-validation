@@ -3292,3 +3292,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-10T03:55:52.142882+00:00 — Review 3B6VC3AP s1: causal scope, outcomes and benchmark evidence
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H166",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H167",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H168",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I166",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I167",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I168",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J166",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J167",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J168",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K166",
+    "before": null,
+    "after": "Ratio of announcement-window CAR to CAR[-63,2]; other transformation. Zero mass is not established by the source. Table 2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K167",
+    "before": null,
+    "after": "Ratio of announcement-window CAR to CAR[-63,2]; other transformation. Zero mass is not established by the source. Table 2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K168",
+    "before": null,
+    "after": "Ratio of announcement-window CAR to CAR[-63,2]; other transformation. Zero mass is not established by the source. Table 2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I68",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J68",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K68",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L68",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M68",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N68",
+    "before": null,
+    "after": "Table 2, pp. 323-324, all six columns. Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Firm FE in all columns; quarter FE in columns 2,4,6. Earnings-announcement observations two years before and after each reduction. The one-year exclusion around the event governs control eligibility, not the regression observation window. Five-or-fewer pre-event analysts. Outcomes are three announcement CAR/full-cycle CAR ratios. Preferred effects 0.051, 0.049, 0.057. More information arrives at the announcement rather than beforehand."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O68",
+    "before": null,
+    "after": "No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+  }
+]
+```
