@@ -3709,3 +3709,168 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-10T03:56:30.918369+00:00 — Review 3B6VC3AP s4: causal scope, outcomes and benchmark evidence
+
+26 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K29",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L29",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M29",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N29",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O29",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P29",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q29",
+    "before": null,
+    "after": "pp. 325-326, Table 5 col. 3: 0.091 times SUE SD 4.32 gives about 0.39 percentage points, described as roughly one-eighth of the SD of abnormal hedge-fund holdings. Table 1 p. 321 identifies holdings SD 3.00 for treated firms in the TWO-YEAR PRE-REDUCTION period, not a pooled full-sample SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R29",
+    "before": null,
+    "after": "Qualifies because of the explicit outcome-SD fraction, not merely the SUE increment. Treated pre-period population and outcome scale are identified; correspondence of that reference distribution/weighting to the regression slope-change target is not fully established, so alignment unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4221",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4221",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4221",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H177",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4221",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I177",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4221",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J177",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4221",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K177",
+    "before": null,
+    "after": "Abnormal aggregate hedge-fund holdings: current holdings minus the mean of the preceding four quarters, percentage points of shares outstanding. other = deviation from trailing mean, not a log. Zero mass for the regression outcome is unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4221",
+    "before": null,
+    "after": "Table 5 columns 4-6: abnormal aggregate NONHEDGE-fund holdings at the quarter end before earnings announcement; current holdings minus preceding-four-quarter mean, percentage points of shares outstanding."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I71",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J71",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K71",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L71",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M71",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N71",
+    "before": null,
+    "after": "Table 5, pp. 325-327. Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. DiD change in the slope of pre-announcement abnormal institutional holdings on future SUE, not the causal effect of an intervention in SUE. Hedge funds columns 1-3 and nonhedge funds columns 4-6 are grouped outcomes. Columns 1/4 have no FE; 2/5 firm FE; 3/6 firm and quarter FE. All remain conventional DiD, so no OLS-method split. Preferred hedge-fund slope change 0.091; nonhedge-fund slope change -0.160, insignificant. Holdings in percentage points of shares outstanding."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O71",
+    "before": null,
+    "after": "Correct the model assertion that every column has firm/quarter FE. Binary refers to analyst-exit exposure; continuous SUE is the slope variable. Nonhedge-fund outcome added as hy1. Keep c1 for the hedge-fund column 3 estimate only."
+  }
+]
+```
