@@ -15080,7 +15080,16 @@
     "L1761": "0",
     "M1761": "n/a",
     "N1761": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Table 6 Panel B p. 328: heterogeneity in analyst-exit-induced hedge-fund holdings/SUE slope changes by exited analyst career. Firm/quarter FE and clustering. Coefficients 0.143 (leave sell side), 0.043 (stay), 0.132 (join hedge fund), 0.108 (do not join). Group four sample variants. Career choices measured within two years AFTER reduction; not randomly assigned subgroups. Supporting mechanism.",
-    "O1761": "No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+    "O1761": "No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify.",
+    "A1762": "3B6VC3AP",
+    "B1762": "h6",
+    "I1762": "1",
+    "J1762": "DiD_conventional",
+    "K1762": "1",
+    "L1762": "0",
+    "M1762": "n/a",
+    "N1762": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Table 6 Panel C p. 329: holdings/SUE slope-change heterogeneity by analyst accuracy, experience and workload. Firm/quarter FE and clustering. More accurate/experienced/less occupied coefficients 0.218/0.147/0.127; opposite groups 0.008/0.039/0.040. Group six sample variants, not six distinct treatments. Supporting information-loss mechanism.",
+    "O1762": "No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -44875,7 +44884,14 @@
     "H4237": "0",
     "I4237": "unknown",
     "J4237": "other",
-    "K4237": "Abnormal hedge-fund holdings, percentage points of shares outstanding: current holdings minus preceding-four-quarter average, measured before earnings announcements."
+    "K4237": "Abnormal hedge-fund holdings, percentage points of shares outstanding: current holdings minus preceding-four-quarter average, measured before earnings announcements.",
+    "A4238": "3B6VC3AP",
+    "B4238": "h6",
+    "C4238": "hy1",
+    "H4238": "0",
+    "I4238": "unknown",
+    "J4238": "other",
+    "K4238": "Abnormal hedge-fund holdings, percentage points of shares outstanding: current holdings minus preceding-four-quarter average, measured before earnings announcements."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
