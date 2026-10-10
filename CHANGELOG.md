@@ -5821,3 +5821,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-10T03:59:24.113040+00:00 — Review 3B6VC3AP h9: causal scope, outcomes and benchmark evidence
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4241",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4242",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4243",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4241",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4242",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4243",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4241",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4242",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4243",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4241",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4242",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4243",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4241",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4242",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4243",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4241",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4242",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4243",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4241",
+    "before": null,
+    "after": "CAR[0,2]/CAR[-21,2], Fama-French 5x5 portfolio-adjusted return ratio."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4242",
+    "before": null,
+    "after": "CAR[-1,2]/CAR[-21,2], Fama-French 5x5 portfolio-adjusted return ratio."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4243",
+    "before": null,
+    "after": "CAR[-2,2]/CAR[-21,2], Fama-French 5x5 portfolio-adjusted return ratio."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1765",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1765",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1765",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1765",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1765",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1765",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1765",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1765",
+    "before": null,
+    "after": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Table A.1 p. 338: alternative price-discovery horizon, day -21 to +2 instead of -63 to +2. Firm FE all columns, quarter FE even columns, firm/quarter clustering. Preferred effects 0.071,0.063,0.067. Three grouped outcomes; supporting substantive horizon robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1765",
+    "before": null,
+    "after": "No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+  }
+]
+```
