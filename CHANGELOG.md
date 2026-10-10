@@ -7081,3 +7081,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-10T04:00:34.887378+00:00 — Review 3B6VC3AP h15: causal scope, outcomes and benchmark evidence
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4262",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4262",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4262",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4262",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4262",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4262",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4262",
+    "before": null,
+    "after": "|1-VR(1,10)|: absolute deviation of ratio of per-day quote-midpoint return variances; larger values mean less efficiency."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1771",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1771",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1771",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1771",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1771",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1771",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1771",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1771",
+    "before": null,
+    "after": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Figure 1 Panel B, pp. 333-336: dynamic variance-ratio deviation response. Seven half-year event-time interactions replace Post, baseline [-2,-1.5) years; window two years before/after. Firm/quarter FE and clustering. Authors interpret post-treatment responses as emerging after coverage loss. Supporting dynamic conventional DiD, not modern DiD. Exact point estimates not tabulated; no numerical graph estimates invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1771",
+    "before": null,
+    "after": "Include substantive post-treatment dynamics discussed in Section 5.3; do not create a separate setting for pretrend diagnostics. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+  }
+]
+```

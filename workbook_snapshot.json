@@ -15161,7 +15161,16 @@
     "L1770": "0",
     "M1770": "n/a",
     "N1770": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Figure 1 Panel A, pp. 333-336: dynamic price discovery response. Seven half-year event-time interactions replace Post, baseline [-2,-1.5) years; window two years before/after. Firm/quarter FE and clustering. Authors interpret post-treatment responses as emerging after coverage loss. Supporting dynamic conventional DiD, not modern DiD. Exact point estimates not tabulated; no numerical graph estimates invented.",
-    "O1770": "Include substantive post-treatment dynamics discussed in Section 5.3; do not create a separate setting for pretrend diagnostics. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+    "O1770": "Include substantive post-treatment dynamics discussed in Section 5.3; do not create a separate setting for pretrend diagnostics. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify.",
+    "A1771": "3B6VC3AP",
+    "B1771": "h15",
+    "I1771": "1",
+    "J1771": "DiD_conventional",
+    "K1771": "1",
+    "L1771": "0",
+    "M1771": "n/a",
+    "N1771": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Figure 1 Panel B, pp. 333-336: dynamic variance-ratio deviation response. Seven half-year event-time interactions replace Post, baseline [-2,-1.5) years; window two years before/after. Firm/quarter FE and clustering. Authors interpret post-treatment responses as emerging after coverage loss. Supporting dynamic conventional DiD, not modern DiD. Exact point estimates not tabulated; no numerical graph estimates invented.",
+    "O1771": "Include substantive post-treatment dynamics discussed in Section 5.3; do not create a separate setting for pretrend diagnostics. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -45124,7 +45133,14 @@
     "H4261": "0",
     "I4261": "unknown",
     "J4261": "other",
-    "K4261": "CAR[0,2]/CAR[-63,2], announcement-window abnormal return divided by full-cycle abnormal return."
+    "K4261": "CAR[0,2]/CAR[-63,2], announcement-window abnormal return divided by full-cycle abnormal return.",
+    "A4262": "3B6VC3AP",
+    "B4262": "h15",
+    "C4262": "hy1",
+    "H4262": "0",
+    "I4262": "unknown",
+    "J4262": "other",
+    "K4262": "|1-VR(1,10)|: absolute deviation of ratio of per-day quote-midpoint return variances; larger values mean less efficiency."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
