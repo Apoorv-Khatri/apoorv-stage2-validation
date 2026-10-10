@@ -4444,3 +4444,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-10T03:57:36.902713+00:00 — Review 3B6VC3AP s9: causal scope, outcomes and benchmark evidence
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H194",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I194",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J194",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K194",
+    "before": null,
+    "after": "Table 12: next-year EBIT divided by CURRENT total assets; no log of dependent variable. other = asset scaling. log(M/A) is a right-hand-side variable. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I76",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J76",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K76",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L76",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M76",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N76",
+    "before": null,
+    "after": "Restrict s9 to Table 12 columns 1-2, pp. 333-335. Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Annual regression of next-year EBIT/current assets on current log(market capitalization/assets) and treated/post interactions. Firm FE throughout; year FE in column 2; clustering by firm and year. Coverage reduces the valuation-future-earnings slope by -0.013/-0.014. Not an unconditional 1.4-percentage-point earnings decline. Columns 3-4 mitigation estimand separated as h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O76",
+    "before": null,
+    "after": "No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+  }
+]
+```
