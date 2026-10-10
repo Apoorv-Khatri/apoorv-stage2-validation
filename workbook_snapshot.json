@@ -15071,7 +15071,16 @@
     "L1760": "0",
     "M1760": "n/a",
     "N1760": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Table 4 Panel B p. 326: quarterly nonhedge-fund EDGAR searches, February 2003-December 2010. Firm/quarter FE and clustering. All-filings coefficient 0.064 insignificant; insider-filings 0.079 weakly significant. Group six filing outcomes. Supporting institutional-type comparison.",
-    "O1760": "No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+    "O1760": "No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify.",
+    "A1761": "3B6VC3AP",
+    "B1761": "h5",
+    "I1761": "1",
+    "J1761": "DiD_conventional",
+    "K1761": "1",
+    "L1761": "0",
+    "M1761": "n/a",
+    "N1761": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Table 6 Panel B p. 328: heterogeneity in analyst-exit-induced hedge-fund holdings/SUE slope changes by exited analyst career. Firm/quarter FE and clustering. Coefficients 0.143 (leave sell side), 0.043 (stay), 0.132 (join hedge fund), 0.108 (do not join). Group four sample variants. Career choices measured within two years AFTER reduction; not randomly assigned subgroups. Supporting mechanism.",
+    "O1761": "No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -44859,7 +44868,14 @@
     "H4236": "0",
     "I4236": "unknown",
     "J4236": "log1p",
-    "K4236": "Log(1+nonhedge-fund quarterly EDGAR requests), other filings."
+    "K4236": "Log(1+nonhedge-fund quarterly EDGAR requests), other filings.",
+    "A4237": "3B6VC3AP",
+    "B4237": "h5",
+    "C4237": "hy1",
+    "H4237": "0",
+    "I4237": "unknown",
+    "J4237": "other",
+    "K4237": "Abnormal hedge-fund holdings, percentage points of shares outstanding: current holdings minus preceding-four-quarter average, measured before earnings announcements."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
