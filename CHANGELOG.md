@@ -4132,3 +4132,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-10T03:57:10.627655+00:00 — Review 3B6VC3AP s7: causal scope, outcomes and benchmark evidence
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H185",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H186",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H187",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I185",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I186",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I187",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J185",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J186",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J187",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K185",
+    "before": null,
+    "after": "Table 10: CAR announcement-window/full-cycle ratio; other transformation. No evidence establishing zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K186",
+    "before": null,
+    "after": "Table 10: CAR announcement-window/full-cycle ratio; other transformation. No evidence establishing zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K187",
+    "before": null,
+    "after": "Table 10: CAR announcement-window/full-cycle ratio; other transformation. No evidence establishing zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I74",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J74",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K74",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L74",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M74",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O74",
+    "before": null,
+    "after": "Table 10. Binary top-quartile abnormal aggregate short interest interaction with the binary coverage shock; not an exogenously assigned participation treatment. Section 5.4 p. 334 explicitly disclaims direct causal identification of hedge-fund activity on efficiency. Retain the authors substantive mechanism interpretation, with endogenous participation/omitted-variable limitations. Insignificance of a coefficient sum is not proof of a zero true effect. Short interest is not a hedge-fund-only measure. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+  }
+]
+```
