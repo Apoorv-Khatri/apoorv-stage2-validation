@@ -15152,7 +15152,16 @@
     "L1769": "0",
     "M1769": "n/a",
     "N1769": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Table A.4 p. 340: participation-mitigation DiD after excluding activist targets and separately prior earnings-guidance firms with their matched controls. Firm/quarter FE and clustering. Actual table columns 1-3 exclude activist targets; 4-6 exclude guiders (prose/header column references are inconsistent). Triple effects -0.133,-0.152,-0.139 and -0.125,-0.119,-0.107. Group two sample variants and three outcomes. Supporting alternative-explanation checks.",
-    "O1769": "Section 5.4 p. 334 explicitly disclaims direct causal identification of hedge-fund activity on efficiency. Retain the authors substantive mechanism interpretation, with endogenous participation/omitted-variable limitations. Insignificance of a coefficient sum is not proof of a zero true effect. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+    "O1769": "Section 5.4 p. 334 explicitly disclaims direct causal identification of hedge-fund activity on efficiency. Retain the authors substantive mechanism interpretation, with endogenous participation/omitted-variable limitations. Insignificance of a coefficient sum is not proof of a zero true effect. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify.",
+    "A1770": "3B6VC3AP",
+    "B1770": "h14",
+    "I1770": "1",
+    "J1770": "DiD_conventional",
+    "K1770": "1",
+    "L1770": "0",
+    "M1770": "n/a",
+    "N1770": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Figure 1 Panel A, pp. 333-336: dynamic price discovery response. Seven half-year event-time interactions replace Post, baseline [-2,-1.5) years; window two years before/after. Firm/quarter FE and clustering. Authors interpret post-treatment responses as emerging after coverage loss. Supporting dynamic conventional DiD, not modern DiD. Exact point estimates not tabulated; no numerical graph estimates invented.",
+    "O1770": "Include substantive post-treatment dynamics discussed in Section 5.3; do not create a separate setting for pretrend diagnostics. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -45108,7 +45117,14 @@
     "H4260": "0",
     "I4260": "unknown",
     "J4260": "other",
-    "K4260": "CAR[-2,2]/CAR[-63,2], announcement-window abnormal return divided by full-cycle abnormal return."
+    "K4260": "CAR[-2,2]/CAR[-63,2], announcement-window abnormal return divided by full-cycle abnormal return.",
+    "A4261": "3B6VC3AP",
+    "B4261": "h14",
+    "C4261": "hy1",
+    "H4261": "0",
+    "I4261": "unknown",
+    "J4261": "other",
+    "K4261": "CAR[0,2]/CAR[-63,2], announcement-window abnormal return divided by full-cycle abnormal return."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
