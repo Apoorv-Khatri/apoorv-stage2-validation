@@ -7396,3 +7396,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-10T04:01:09.705391+00:00 — Review 3B6VC3AP h18: causal scope, outcomes and benchmark evidence
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4265",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4265",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4265",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4265",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4265",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4265",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4265",
+    "before": null,
+    "after": "Abnormal hedge-fund holdings, percentage points of shares outstanding: current holdings minus preceding-four-quarter average, measured before earnings announcements."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1774",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1774",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1774",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1774",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1774",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1774",
+    "before": null,
+    "after": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Figure 1 Panel E, pp. 333-336: dynamic holdings sensitivity to future SUE response. Seven half-year event-time interactions replace Post, baseline [-2,-1.5) years; window two years before/after. Firm/quarter FE and clustering. Triple event-time interactions with SUE estimate holdings slope changes. Authors interpret post-treatment responses as emerging after coverage loss. Supporting dynamic conventional DiD, not modern DiD. Exact point estimates not tabulated; no numerical graph estimates invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1774",
+    "before": null,
+    "after": "Include substantive post-treatment dynamics discussed in Section 5.3; do not create a separate setting for pretrend diagnostics. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+  }
+]
+```

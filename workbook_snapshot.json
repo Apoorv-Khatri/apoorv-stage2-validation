@@ -15188,7 +15188,16 @@
     "L1773": "0",
     "M1773": "n/a",
     "N1773": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Figure 1 Panel D, pp. 333-336: dynamic EDGAR searches response. Seven half-year event-time interactions replace Post, baseline [-2,-1.5) years; window two years before/after. Firm/quarter FE and clustering. Authors interpret post-treatment responses as emerging after coverage loss. Supporting dynamic conventional DiD, not modern DiD. Exact point estimates not tabulated; no numerical graph estimates invented.",
-    "O1773": "Include substantive post-treatment dynamics discussed in Section 5.3; do not create a separate setting for pretrend diagnostics. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+    "O1773": "Include substantive post-treatment dynamics discussed in Section 5.3; do not create a separate setting for pretrend diagnostics. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify.",
+    "A1774": "3B6VC3AP",
+    "B1774": "h18",
+    "I1774": "1",
+    "J1774": "DiD_conventional",
+    "K1774": "1",
+    "L1774": "0",
+    "M1774": "n/a",
+    "N1774": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Figure 1 Panel E, pp. 333-336: dynamic holdings sensitivity to future SUE response. Seven half-year event-time interactions replace Post, baseline [-2,-1.5) years; window two years before/after. Firm/quarter FE and clustering. Triple event-time interactions with SUE estimate holdings slope changes. Authors interpret post-treatment responses as emerging after coverage loss. Supporting dynamic conventional DiD, not modern DiD. Exact point estimates not tabulated; no numerical graph estimates invented.",
+    "O1774": "Include substantive post-treatment dynamics discussed in Section 5.3; do not create a separate setting for pretrend diagnostics. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -45172,7 +45181,14 @@
     "H4264": "0",
     "I4264": "unknown",
     "J4264": "log1p",
-    "K4264": "Log(1+quarterly hedge-fund EDGAR requests), all filings."
+    "K4264": "Log(1+quarterly hedge-fund EDGAR requests), all filings.",
+    "A4265": "3B6VC3AP",
+    "B4265": "h18",
+    "C4265": "hy1",
+    "H4265": "0",
+    "I4265": "unknown",
+    "J4265": "other",
+    "K4265": "Abnormal hedge-fund holdings, percentage points of shares outstanding: current holdings minus preceding-four-quarter average, measured before earnings announcements."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
