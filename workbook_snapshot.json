@@ -15053,7 +15053,16 @@
     "L1758": "0",
     "M1758": "n/a",
     "N1758": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Table 12 columns 3-4 p. 335: difference in the treatment-induced valuation/future-earnings slope change by high hedge-fund participation. Firm FE; year FE in col. 4; firm/year clustering. Col. 4 baseline slope change -0.019; extra high-participation slope change +0.028. High-participation net slope change +0.009, not the interaction alone. Supporting alternative-measure result split from s9.",
-    "O1758": "Section 5.4 p. 334 explicitly disclaims direct causal identification of hedge-fund activity on efficiency. Retain the authors substantive mechanism interpretation, with endogenous participation/omitted-variable limitations. Insignificance of a coefficient sum is not proof of a zero true effect. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+    "O1758": "Section 5.4 p. 334 explicitly disclaims direct causal identification of hedge-fund activity on efficiency. Retain the authors substantive mechanism interpretation, with endogenous participation/omitted-variable limitations. Insignificance of a coefficient sum is not proof of a zero true effect. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify.",
+    "A1759": "3B6VC3AP",
+    "B1759": "h3",
+    "I1759": "1",
+    "J1759": "DiD_conventional",
+    "K1759": "1",
+    "L1759": "0",
+    "M1759": "n/a",
+    "N1759": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Table 3 Panel B p. 325: nonhedge-fund participation in conference calls. Firm FE; quarter FE in cols. 2/4; firm/quarter clustering. Preferred indicator effect 0.003; log-count effect 0.006; neither significant. Supporting comparison to the hedge-fund response.",
+    "O1759": "No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -44785,7 +44794,21 @@
     "H4228": "0",
     "I4228": "unknown",
     "J4228": "other",
-    "K4228": "Next-year EBIT/current total assets; no log of Y."
+    "K4228": "Next-year EBIT/current total assets; no log of Y.",
+    "A4229": "3B6VC3AP",
+    "B4229": "h3",
+    "C4229": "hy1",
+    "H4229": "1",
+    "I4229": "unknown",
+    "J4229": "none",
+    "K4229": "Indicator that at least one nonhedge-fund analyst asks a question.",
+    "A4230": "3B6VC3AP",
+    "B4230": "h3",
+    "C4230": "hy2",
+    "H4230": "0",
+    "I4230": "unknown",
+    "J4230": "log1p",
+    "K4230": "Log(1+number of nonhedge-fund analysts asking questions)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
