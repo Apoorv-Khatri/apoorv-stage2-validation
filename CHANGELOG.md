@@ -4249,3 +4249,198 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-10T03:57:23.908306+00:00 — Review 3B6VC3AP s8: causal scope, outcomes and benchmark evidence
+
+31 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H188",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H189",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H190",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H191",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H192",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H193",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I188",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I189",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I190",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I191",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I192",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I193",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J188",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J189",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J190",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J191",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J192",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J193",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K188",
+    "before": null,
+    "after": "Table 11 Panel A: absolute deviation from one of a ratio of per-day quote-midpoint return variances. other transformation; zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K189",
+    "before": null,
+    "after": "Table 11 Panel A: absolute deviation from one of a ratio of per-day quote-midpoint return variances. other transformation; zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K190",
+    "before": null,
+    "after": "Table 11 Panel A: absolute deviation from one of a ratio of per-day quote-midpoint return variances. other transformation; zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K191",
+    "before": null,
+    "after": "Table 11 Panel A: absolute deviation from one of a ratio of per-day quote-midpoint return variances. other transformation; zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K192",
+    "before": null,
+    "after": "Table 11 Panel A: absolute deviation from one of a ratio of per-day quote-midpoint return variances. other transformation; zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K193",
+    "before": null,
+    "after": "Table 11 Panel A: absolute deviation from one of a ratio of per-day quote-midpoint return variances. other transformation; zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I75",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J75",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K75",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L75",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M75",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N75",
+    "before": null,
+    "after": "Restrict s8 to Table 11 PANEL A, p. 334: Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Effect on six absolute deviations |1-VR(n,m)|; firm and quarter FE and firm/quarter clustering. Preferred coefficients in column order 0.013, 0.030, 0.029, 0.008, 0.019, 0.024. Larger deviations imply lower efficiency. Panel B mitigation estimand separated as h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O75",
+    "before": null,
+    "after": "No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+  }
+]
+```
