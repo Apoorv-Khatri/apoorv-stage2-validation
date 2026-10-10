@@ -6010,3 +6010,276 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-10T03:59:35.889186+00:00 — Review 3B6VC3AP h10: causal scope, outcomes and benchmark evidence
+
+44 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4244",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4245",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4246",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4247",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4248",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4244",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4245",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4246",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4247",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4248",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4244",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4245",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4246",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4247",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4248",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4244",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4245",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4246",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4247",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4248",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4244",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4245",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4246",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4247",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4248",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4244",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4245",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4246",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4247",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4248",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4244",
+    "before": null,
+    "after": "Abnormal institutional holdings, percentage points of shares outstanding: current holdings minus preceding-four-quarter average, measured before earnings announcements. Institution: banks."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4245",
+    "before": null,
+    "after": "Abnormal institutional holdings, percentage points of shares outstanding: current holdings minus preceding-four-quarter average, measured before earnings announcements. Institution: insurance companies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4246",
+    "before": null,
+    "after": "Abnormal institutional holdings, percentage points of shares outstanding: current holdings minus preceding-four-quarter average, measured before earnings announcements. Institution: investment companies (mostly mutual funds)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4247",
+    "before": null,
+    "after": "Abnormal institutional holdings, percentage points of shares outstanding: current holdings minus preceding-four-quarter average, measured before earnings announcements. Institution: investment advisers."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4248",
+    "before": null,
+    "after": "Abnormal institutional holdings, percentage points of shares outstanding: current holdings minus preceding-four-quarter average, measured before earnings announcements. Institution: others including university endowments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1766",
+    "before": null,
+    "after": "3B6VC3AP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1766",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1766",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1766",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1766",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1766",
+    "before": null,
+    "after": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Table A.2 pp. 338-339: nonhedge-fund holdings/SUE slope changes separately for banks, insurers, investment companies, investment advisers and other institutions. Firm/quarter FE and clustering. Triple coefficients -0.001,-0.033,-0.112,-0.007,-0.008, all insignificant. Institution-specific outcomes grouped. Supporting analysis, not excluded for null estimates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1766",
+    "before": null,
+    "after": "No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+  }
+]
+```
