@@ -3415,3 +3415,132 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-10T03:56:05.034158+00:00 — Review 3B6VC3AP s2: causal scope, outcomes and benchmark evidence
+
+20 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K27",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L27",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M27",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N27",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O27",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P27",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q27",
+    "before": null,
+    "after": "Section 4.2.1 p. 323; Table 3 Panel A column 1: participation probability rises by 5.2 percentage points; authors compare with average participation probability 15.4% in our sample. No effect/mean ratio is reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R27",
+    "before": null,
+    "after": "The prose does not identify an untreated mean for the treated target, benchmark timing or weighting clearly enough to establish alignment. Do not invent a ratio or attach this comparison to column 2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H169",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H170",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I169",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I170",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J169",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J170",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I69",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J69",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K69",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L69",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M69",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O69",
+    "before": null,
+    "after": "Table 3 Panel A. Firm FE throughout; quarter FE in columns 2 and 4. Retain c1 for column 1 coefficient 0.052, not column 2 coefficient 0.051. Panel B added separately. Zero participation implies zero participating-analyst count in this same call sample."
+  }
+]
+```
