@@ -35,6 +35,7 @@
     "B12": "Sophisticated investors and market efficiency: Evidence from a natural experiment",
     "C12": "fin",
     "D12": 9,
+    "E12": "DONE — Human review of main article and included Appendix A. Retained s1-s9 with corrected scope; s8/s9 mitigation estimands separated; added substantive nonhedge-fund, heterogeneity, appendix and post-treatment dynamic analyses. Original model fields preserved. Two qualifying comparisons retained; EDGAR log-percent pseudo-comparison rejected. Benchmark alignment remains unknown where target/reference weighting is not established. Descriptive Table 1 balance and Table 6A career frequencies excluded; pretrend diagnostics not separate settings. No independently tabulated coefficients invented for Figure 1.",
     "A13": "3DI8S52Q",
     "B13": "A Tale of Two Premiums: The Role of Hedgers and Speculators in Commodity Futures Markets",
     "C13": "fin",
@@ -15197,7 +15198,16 @@
     "L1774": "0",
     "M1774": "n/a",
     "N1774": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Figure 1 Panel E, pp. 333-336: dynamic holdings sensitivity to future SUE response. Seven half-year event-time interactions replace Post, baseline [-2,-1.5) years; window two years before/after. Firm/quarter FE and clustering. Triple event-time interactions with SUE estimate holdings slope changes. Authors interpret post-treatment responses as emerging after coverage loss. Supporting dynamic conventional DiD, not modern DiD. Exact point estimates not tabulated; no numerical graph estimates invented.",
-    "O1774": "Include substantive post-treatment dynamics discussed in Section 5.3; do not create a separate setting for pretrend diagnostics. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+    "O1774": "Include substantive post-treatment dynamics discussed in Section 5.3; do not create a separate setting for pretrend diagnostics. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify.",
+    "A1775": "3B6VC3AP",
+    "B1775": "h19",
+    "I1775": "1",
+    "J1775": "DiD_conventional",
+    "K1775": "1",
+    "L1775": "0",
+    "M1775": "n/a",
+    "N1775": "Binary coverage-reduction exposure due to brokerage closures/mergers; matched treated/control conventional DiD under parallel trends, not randomized hedge-fund participation or an implemented IV. Figure 1 Panel F, pp. 333-336: dynamic profitability on purchased stocks response. Seven half-year event-time interactions replace Post, baseline [-2,-1.5) years; window two years before/after. Firm/quarter FE and clustering. Authors interpret post-treatment responses as emerging after coverage loss. Supporting dynamic conventional DiD, not modern DiD. Exact point estimates not tabulated; no numerical graph estimates invented.",
+    "O1775": "Include substantive post-treatment dynamics discussed in Section 5.3; do not create a separate setting for pretrend diagnostics. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -45188,7 +45198,14 @@
     "H4265": "0",
     "I4265": "unknown",
     "J4265": "other",
-    "K4265": "Abnormal hedge-fund holdings, percentage points of shares outstanding: current holdings minus preceding-four-quarter average, measured before earnings announcements."
+    "K4265": "Abnormal hedge-fund holdings, percentage points of shares outstanding: current holdings minus preceding-four-quarter average, measured before earnings announcements.",
+    "A4266": "3B6VC3AP",
+    "B4266": "h19",
+    "C4266": "hy1",
+    "H4266": "0",
+    "I4266": "unknown",
+    "J4266": "none",
+    "K4266": "Three-month DGTW-adjusted stock return for hedge-fund purchase sample, percentage units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
