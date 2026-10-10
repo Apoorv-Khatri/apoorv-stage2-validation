@@ -3874,3 +3874,144 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-10T03:56:44.656955+00:00 — Review 3B6VC3AP s5: causal scope, outcomes and benchmark evidence
+
+22 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H178",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H179",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H180",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H181",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I178",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I179",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I180",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I181",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J178",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J179",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J180",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J181",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K178",
+    "before": null,
+    "after": "Table 8 Panel A columns 1-4: three-month stock CAR from quarter end t to t+1, percent units, adjusted by DGTW portfolio return. Same Y on purchase, large-purchase, sale and large-sale samples; coefficients 2.530, 3.731, -0.184, 0.023 respectively. No further log transformation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K179",
+    "before": null,
+    "after": "duplicate of y1: same three-month CAR outcome in an alternative trading-direction/size subsample; preserve column variant in setting/y1 description."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K180",
+    "before": null,
+    "after": "duplicate of y1: same three-month CAR outcome in an alternative trading-direction/size subsample; preserve column variant in setting/y1 description."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K181",
+    "before": null,
+    "after": "duplicate of y1: same three-month CAR outcome in an alternative trading-direction/size subsample; preserve column variant in setting/y1 description."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I72",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J72",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K72",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L72",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M72",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O72",
+    "before": null,
+    "after": "Table 8 Panel A: purchase/large-purchase/sale/large-sale columns use the SAME dependent variable on different samples, grouped here. y2-y4 are duplicate outcome definitions, consolidated into y1. Returns proxy profitability of stocks selected by aggregate holdings changes, not actual transaction-level fund profits. No qualifying same-outcome mean/SD/level comparison found at this location; significance and coefficient-only percentage interpretations do not qualify."
+  }
+]
+```
