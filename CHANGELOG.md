@@ -105138,3 +105138,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:22:21.500714+00:00 — Review 6T38MQ3Y s3: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J159",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K159",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M159",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N159",
+    "before": null,
+    "after": "Table5: monthly Fama–MacBeth OLS excess-return slopes on number of mentions, using all, targeting and admiring mention definitions and routine control/sample/SE variants. Retain count/intensity slopes here; separately interpreted no-mention indicator contrasts are added as h4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O159",
+    "before": null,
+    "after": "p.4317: “number of times a firm is mentioned as a competitor has a significantly positive impact on stock return.” This explicit interpretation passes the gate; predictive Fama–MacBeth format alone would not. Caption defines count, not log1p count; the log(1+mentions) used in descriptive correlations is not this treatment. “Roughly twice” on p.4318 compares two slopes, not an outcome benchmark. Source: §2, pp.4316–4318/PDF17–19; Table5 p.4317; lines1080–1196.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574."
+  }
+]
+```
