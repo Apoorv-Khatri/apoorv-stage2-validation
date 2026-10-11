@@ -84495,3 +84495,318 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:44:25.336391+00:00 — Review 4X76IAGM h3: source-audited coding and linked comparisons
+
+51 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4553",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4554",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4555",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4556",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4557",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4558",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4553",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4554",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4555",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4556",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4557",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4558",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4553",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4554",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4555",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4556",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4557",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4558",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4553",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4554",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4555",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4557",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4553",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4554",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4555",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4557",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4553",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4554",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4555",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4556",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4557",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4558",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4553",
+    "before": null,
+    "after": "Nominal interest rate, fraction; FigA.3 year coefficients relative2013. Observed support: Table1 p.6 has positive loan-size minima300, repayment weeks minimum6, missed payments minimum0 and harassment indicator minimum0. Positive raw sizes are inS$ far above1; log size is not zero. Exact FigA.3 sample count not printed; support uses described loan sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4554",
+    "before": null,
+    "after": "Log desired loan size; FigA.3 year coefficients relative2013. Observed support: Table1 p.6 has positive loan-size minima300, repayment weeks minimum6, missed payments minimum0 and harassment indicator minimum0. Positive raw sizes are inS$ far above1; log size is not zero. Exact FigA.3 sample count not printed; support uses described loan sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4555",
+    "before": null,
+    "after": "Log granted loan size; FigA.3 year coefficients relative2013. Observed support: Table1 p.6 has positive loan-size minima300, repayment weeks minimum6, missed payments minimum0 and harassment indicator minimum0. Positive raw sizes are inS$ far above1; log size is not zero. Exact FigA.3 sample count not printed; support uses described loan sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4556",
+    "before": null,
+    "after": "Weeks to repay; FigA.3 year coefficients relative2013. Observed support: Table1 p.6 has positive loan-size minima300, repayment weeks minimum6, missed payments minimum0 and harassment indicator minimum0. Positive raw sizes are inS$ far above1; log size is not zero. Exact FigA.3 sample count not printed; support uses described loan sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4557",
+    "before": null,
+    "after": "Number of missed payments; FigA.3 year coefficients relative2013. Observed support: Table1 p.6 has positive loan-size minima300, repayment weeks minimum6, missed payments minimum0 and harassment indicator minimum0. Positive raw sizes are inS$ far above1; log size is not zero. Exact FigA.3 sample count not printed; support uses described loan sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4558",
+    "before": null,
+    "after": "Indicator any severe harassment during loan, excluding reminder calls/messages; FigA.3 year coefficients relative2013. Observed support: Table1 p.6 has positive loan-size minima300, repayment weeks minimum6, missed payments minimum0 and harassment indicator minimum0. Positive raw sizes are inS$ far above1; log size is not zero. Exact FigA.3 sample count not printed; support uses described loan sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1908",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1908",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1908",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1908",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1908",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1908",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1908",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1908",
+    "before": null,
+    "after": "Dynamic2014 crackdown exposure: post2013 year coefficients for six observed loan outcomes, controlling borrower–lender-pair, past-loan-count and lag-missed-payment-count FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1908",
+    "before": null,
+    "after": "Strict identifying-role audit: retain implemented linear regression and its actual categorical controls, but code OLS regression adjustment. Eq39 has year indicators plus pair, past-loan-count and lag-missed-payment-count sets. The year coefficients are the focal time contrasts, not an extra nuisance dimension. Authors state these regressions lack a suitable control group and justify attribution by excluding macroeconomic and demand shocks; they do not separately argue that the FE battery solves unobserved heterogeneity/endogeneity. Main p5 says effects persist when controlling pair/history; that alone is adjustment evidence. Substantive post2013 outcomes remain included, with no invented graph magnitudes. Source: Eq39, SecA.4 and FigA.3 appendix pp.13–15; main p.5. Source link: https://ars.els-cdn.com/content/image/1-s2.0-S0304405X2400117X-mmc1.pdf#page=14. Certainty: medium for HDFE role; high that substantive causal event results qualify."
+  }
+]
+```
