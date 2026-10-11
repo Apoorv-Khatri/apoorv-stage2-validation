@@ -115836,3 +115836,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:36:14.770306+00:00 — Review 7TY4IBMQ s4: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H554",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I554",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J554",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K554",
+    "before": null,
+    "after": "spurious: outcome belongs to rejected noncausal predictive/risk-pricing setting s4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I190",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O190",
+    "before": null,
+    "after": "Spurious causal setting: state-variable variance and rolling predictive slopes (and their interaction) predict risk-premium returns. The four cases are fitted conditional forecasts under a covariance-pricing restriction. The term difference-in-difference on p440 means the algebraic contrast (HH−LH)−(HL−LL) in forecast states, not a treated/post parallel-trends design. Economic ICAPM motivation does not turn forecast slopes into an estimated causal response to variance manipulation. Real state-variable FE and no-FE variants remain outside the causal-setting scope. Source: Section5.2, Eq.(10), Table5 pp439–441 (PDF12–14); footnote17 p439. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7TY4IBMQ.pdf. Certainty: high for supplied article; separately referenced Online Appendix not directly inspected."
+  }
+]
+```
