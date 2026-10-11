@@ -55581,3 +55581,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:23:15.013422+00:00 — Review 4QJKKD9J h27: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1521",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1521",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1521",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1521",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1521",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1521",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1521",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1521",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1521",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1521",
+    "before": null,
+    "after": "Companion Appendix TableA.11,cols5,p15: 0.0379, one treatment SD, col5, unweighted; linked benchmark 0.721. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1521",
+    "before": null,
+    "after": "Table-paired mean; no division in table. Sample-wide baseline is not constructed for the instrument-induced continuous-MMA response margin; no complier/margin-specific mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4494",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4494",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4494",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4494",
+    "before": null,
+    "after": "Change1880–1890 in manufacturing share of total agricultural+manufacturing production. Location: Companion Appendix TableA.11,cols5,p15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1885",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1885",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1885",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1885",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1885",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1885",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1885",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1885",
+    "before": null,
+    "after": "Total standardized Δlog MMA;unweighted rather than town-share-weighted IV estimand. Change1880–1890 in manufacturing share of total agricultural+manufacturing production. Location: Companion Appendix TableA.11,cols5,p15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1885",
+    "before": null,
+    "after": "One excluded binary instrument I(population1880<6000); all other X variables, state FE and Loans_o/Loans_d are included controls, not additional excluded instruments. Endogenous receipt is continuous standardized change in log MMA, not binary bank presence. Eq.(2), pp9–11. Authors explicitly do not implement local RD due to sparse support near cutoff (p10). IV takes precedence over DiD.  147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Separate appendix result location. No weight in unweighted estimator; mean row nevertheless unchanged across columns. TableA.11 note erroneously says employment share; title,baseline .0691 andmean .721 establish production share. Source: Companion Appendix TableA.11,cols5,p15."
+  }
+]
+```
