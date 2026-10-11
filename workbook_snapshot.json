@@ -15981,7 +15981,16 @@
     "L1823": "1",
     "M1823": "n/a",
     "N1823": "Top10% versus bottom10% of FIR distribution: unadjusted cumulative log-price,log-bid-ask-spread and log-exchange-rate trajectories fromd−5 tod+9; substantive mean contrast illustrated inFigure2. Figure2 PanelsA–C,p.386 and adjacent intro discussion",
-    "O1823": "No fitted regression claimed:OLS code denotes the linear weighted group-mean contrast. Averages are computed first acrossmonths for eachcountry then across16countries, percaption; this is not causal matching/weighting. Causal gate supported by intro callingFig2 an illustration of maineffects and describing divergent paths after rebalancing. This is a distinct binary extreme-dose contrast, not the continuous dose regression. Identification is weaker than adjusted regressions; no random assignment. Caption saysfirst/lastdecile, while legend explicitly saysTop10%/Bottom10%; uselegend and document wording ambiguity. No exact endpoint means or contrast coefficients printed; do not invent digitized values. Source: Figure2 PanelsA–C,p.386 and adjacent intro discussion. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4CG48IZI.pdf#page=3. Certainty: Medium causal-scope judgment forillustrativeFigure2; highcontrast coding.."
+    "O1823": "No fitted regression claimed:OLS code denotes the linear weighted group-mean contrast. Averages are computed first acrossmonths for eachcountry then across16countries, percaption; this is not causal matching/weighting. Causal gate supported by intro callingFig2 an illustration of maineffects and describing divergent paths after rebalancing. This is a distinct binary extreme-dose contrast, not the continuous dose regression. Identification is weaker than adjusted regressions; no random assignment. Caption saysfirst/lastdecile, while legend explicitly saysTop10%/Bottom10%; uselegend and document wording ambiguity. No exact endpoint means or contrast coefficients printed; do not invent digitized values. Source: Figure2 PanelsA–C,p.386 and adjacent intro discussion. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4CG48IZI.pdf#page=3. Certainty: Medium causal-scope judgment forillustrativeFigure2; highcontrast coding..",
+    "A1824": "4MXMWKXM",
+    "B1824": "h1",
+    "I1824": "1",
+    "J1824": "OLS",
+    "K1824": "1",
+    "L1824": "1",
+    "M1824": "n/a",
+    "N1824": "German civil legal origin versus English common law; Pooled OLS; overall IVA CSR rating0–6.",
+    "O1824": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Source: TableIV col1 pp.873–875."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46984,7 +46993,14 @@
     "H4375": "0",
     "I4375": "unknown",
     "J4375": "other",
-    "K4375": "Figure2 PanelC: cumulative log change inexchange rate (local currency perUSD) fromd−5 tod+z,z=0,…,9, compared acrossTop10%versusBottom10%FIR groups. Graph uses fractional log-change units, not tablepercentage units. Group means first acrossmonths within eachcountry then acrosscountries, percaption. d−5 normalization and prerebalancing paths are diagnostic context, not separate causal outcomes. Transformother denotes log difference/cumulative growth, not loglevel. The mechanically zero baseline atd−5 does not establish an observed probability mass atzero for postwindow outcomes."
+    "K4375": "Figure2 PanelC: cumulative log change inexchange rate (local currency perUSD) fromd−5 tod+z,z=0,…,9, compared acrossTop10%versusBottom10%FIR groups. Graph uses fractional log-change units, not tablepercentage units. Group means first acrossmonths within eachcountry then acrosscountries, percaption. d−5 normalization and prerebalancing paths are diagnostic context, not separate causal outcomes. Transformother denotes log difference/cumulative growth, not loglevel. The mechanically zero baseline atd−5 does not establish an observed probability mass atzero for postwindow outcomes.",
+    "A4376": "4MXMWKXM",
+    "B4376": "h1",
+    "C4376": "hy1",
+    "H4376": "0",
+    "I4376": "unknown",
+    "J4376": "none",
+    "K4376": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -61798,7 +61814,17 @@
     "O1444": "0",
     "P1444": "0",
     "Q1444": "Section 4.2, printed p.394 / PDF 11, right column final paragraph: FIR approximately 22.3% gives predicted cumulative return around 2.05%, compared verbally with observed average Colombian local-currency sovereign-bond cumulative return 2.2% in a ten-day announcement window in March 2014. Episode is expressly outside the regression sample. No effect/2.2 division reported.",
-    "R1444": "Same-outcome comparison qualifies although outcome is a logdifference. It is not a logpercent interpretation alone. Predicted2.05numerically matchesTable4cols2/5 slope0.092×22.3=2.0516%,notfullycontrolledcol8slope0.097×22.3=2.1631%. Textdoesnotnamecolumn; exactcols2versus5unresolved,butbothlieins1underrecommendedFEcoding. Alignment0:benchmark is observedpostannouncementreturn in an excludedlarge-eventColombiaepisode,not an untreatedreturnlevel for the regression target; maintainedextrapolationdoesnotmakethisacontrolbaseline. Nonexperimentalpredictionfit/externalvaliditycomparison,not a newidentifiedColombiaeffect."
+    "R1444": "Same-outcome comparison qualifies although outcome is a logdifference. It is not a logpercent interpretation alone. Predicted2.05numerically matchesTable4cols2/5 slope0.092×22.3=2.0516%,notfullycontrolledcol8slope0.097×22.3=2.1631%. Textdoesnotnamecolumn; exactcols2versus5unresolved,butbothlieins1underrecommendedFEcoding. Alignment0:benchmark is observedpostannouncementreturn in an excludedlarge-eventColombiaepisode,not an untreatedreturnlevel for the regression target; maintainedextrapolationdoesnotmakethisacontrolbaseline. Nonexperimentalpredictionfit/externalvaliditycomparison,not a newidentifiedColombiaeffect.",
+    "A1445": "4MXMWKXM",
+    "B1445": "h1",
+    "C1445": "hc1",
+    "K1445": "unknown",
+    "L1445": "hy1",
+    "N1445": "1",
+    "O1445": "unknown",
+    "P1445": "unknown",
+    "Q1445": "p.875, Table IV cols (1),(2),(5): “7% higher CSR score (or a half-grade on a 0 to 6 scale)” and “more than 14%, or 0.85 to 1 of a grade.” Broad civil-law-versus-common-law summary; no numeric common-law mean or unique denominator identified. Table coefficients preserved as candidates, not exact origin-specific percentage claims. Candidate focal estimate (attribution unresolved): TableIV col1 German coefficient0.355 IVA points; prose summarizes civil-law coefficients as 7% / half-grade.",
+    "R1445": "Unresolved same-outcome benchmark construction and focal-estimate specificity. Do not count as a confirmed outcome_mean comparison. Null Human_benchmark means unresolved, not an unapproved code. If the denominator is later established as a score-scale level use other_level/aligned n/a; if established as common-law mean use outcome_mean and assess alignment separately. No one-grade denominator or Table II mean is supplied by this passage."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
