@@ -99858,3 +99858,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:53:13.696061+00:00 — Review 5IF5MIQQ s3: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I148",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J148",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K148",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L148",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M148",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N148",
+    "before": null,
+    "after": "Lagged ln(1+Carry Trade), domestic minus US money-market rate differential divided by three-month option-implied FX volatility; Tobit USD-share effect Location: Table5 cols1,2,4, pp.721–722."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O148",
+    "before": null,
+    "after": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Narrow pooled proxy row: Bloomberg log carry-return index=h2; high/low conditional interaction=h3; realized-volatility proxy=h30. Source: Table5 cols1,2,4, pp.721–722. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+  }
+]
+```
