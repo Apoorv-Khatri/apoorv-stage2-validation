@@ -106845,3 +106845,234 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:24:51.177562+00:00 — Review 6T38MQ3Y s14: source-audited coding and linked comparisons
+
+37 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2082",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2083",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2082",
+    "before": null,
+    "after": "s14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2083",
+    "before": null,
+    "after": "s14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2082",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2083",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2082",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2083",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2082",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2083",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2082",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2083",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2082",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2083",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2082",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2083",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2082",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2083",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2082",
+    "before": null,
+    "after": "Table15A p.4334/PDF35, Mean excess return row: printed High−No contrast 0.11 percentage points/month paired with no mentions portfolio mean 0.64%/month, 1995–2017. Value-weighted portfolios. Compare the raw excess-return contrast to this raw excess-return mean, not an alpha to a raw return mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2083",
+    "before": null,
+    "after": "Table15A p.4334/PDF35, Mean excess return row: printed High−Low contrast 0.24 percentage points/month paired with low C-Rank portfolio mean 0.51%/month, 1995–2017. Value-weighted portfolios. Compare the raw excess-return contrast to this raw excess-return mean, not an alpha to a raw return mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2082",
+    "before": null,
+    "after": "Observed comparator portfolio mean and contrast use the same return scale and period. However, the paper does not define a causal target/weighting construction establishing that this comparator mean is the untreated mean for the firms whose mention status is changed; unknown rather than assume alignment from shared sample. Table pairing only: the prose gives contrasts but does not verbalize their ratio to these base means. Preserve printed rounded values."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2083",
+    "before": null,
+    "after": "Observed comparator portfolio mean and contrast use the same return scale and period. However, the paper does not define a causal target/weighting construction establishing that this comparator mean is the untreated mean for the firms whose mention status is changed; unknown rather than assume alignment from shared sample. Table pairing only: the prose gives contrasts but does not verbalize their ratio to these base means. Preserve printed rounded values."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H512",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H513",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I512",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I513",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J512",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J513",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K512",
+    "before": null,
+    "after": "Monthly excess portfolio return in percent, not log returns; no evidence establishing a zero mass. Scope narrowed to Table15A; PanelB is copied under h3."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K513",
+    "before": null,
+    "after": "Reported outcome is monthly six-factor risk-adjusted excess-return alpha (Fama–French five factors plus momentum), in percent per month; other = factor adjustment, not log/standardization. No evidence establishing a point mass at zero. Scope narrowed to Table15A; PanelB is h3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I170",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J170",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K170",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L170",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M170",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N170",
+    "before": null,
+    "after": "Table15 PanelA only: single-sort High C-Rank versus No-mentions and High versus Low C-Rank contrasts in monthly mean excess return and six-factor alpha; C-Rank is PageRank-derived with damping 0.7. Separate PanelB size-neutral result is h3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O170",
+    "before": null,
+    "after": "Narrow original pooled PanelsA/B scope consistently with separate original s1/s2 locations. Binary treatment is implemented endpoint contrast, not the continuous network score. PageRank is treatment construction, not a nonlinear causal estimator; the final return contrast is linear OLS-style. Alternative damping 0.5–0.9 is a routine measure-construction robustness statement (footnote1 p.4333); no numerical estimates reported separately. Source: §7.2, pp.4333–4334/PDF34–35; Table15A p.4334; lines2225–2323.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574."
+  }
+]
+```
