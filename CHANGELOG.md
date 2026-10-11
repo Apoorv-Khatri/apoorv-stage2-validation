@@ -100854,3 +100854,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:55:45.598717+00:00 — Review 5IF5MIQQ s11: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K492",
+    "before": null,
+    "after": "ln(1+(cash and short-term investments at t=1 minus date0 cash)/date0 total assets). Cash-stock change, NOT change in cash/assets ratios with varying denominators. Date0=fiscal year-end before issuance. Table14 PanelA only; PanelB moved to h24."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K493",
+    "before": null,
+    "after": "ln(1+(cash and short-term investments at t=2 minus date0 cash)/date0 total assets). Cash-stock change, NOT change in cash/assets ratios with varying denominators. Date0=fiscal year-end before issuance. Table14 PanelA only; PanelB moved to h24."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K494",
+    "before": null,
+    "after": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets). Cash-stock change, NOT change in cash/assets ratios with varying denominators. Date0=fiscal year-end before issuance. Table14 PanelA only; PanelB moved to h24."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I156",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J156",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K156",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L156",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M156",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N156",
+    "before": null,
+    "after": "Continuous USD proceeds log1p intensity and cash accumulation t=1,2,3 in high/low carry-trade opportunity subsamples; narrow to PanelA Location: Table14 PanelA pp.740–742."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O156",
+    "before": null,
+    "after": "Year and industry indicators only: p740 says country FE drop from collinearity, and p742 Table14 caption confirms. Under the strict identifying-role rule classify OLS regression adjustment, not FE/HDFE: the paper does not argue these indicators identify the effect by addressing unobserved heterogeneity/endogeneity. OLS here does not mean no dummy controls. PanelB remains separately located h24, with its three reported indicator sets retained descriptively. Separate sample regressions do not themselves estimate a binary treatment effect. Source: Table14 PanelA pp.740–742. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+  }
+]
+```
