@@ -117129,3 +117129,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:39:50.731632+00:00 — Review 8SZBUU3X s12: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K584",
+    "before": null,
+    "after": "Retained nonbinary-treatment outcome; labels optional. No omitted numeric mean/SD row in focal figure/table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I205",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J205",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K205",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L205",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M205",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N205",
+    "before": null,
+    "after": "Reduced-form monthly dollar deposits on percentage of negative-equity mortgages in estimated ZIP×origination-year×time cells, Table V cols4–5; all mortgage lenders and non-MyBank mortgage subsample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O205",
+    "before": null,
+    "after": "Own LTV unavailable, so explicitly no first stage/no2SLS (p2986). Nonbinary cell percentage, not binary actual receipt. Three identifying sets MSA×time, origination-date×time, HH. Coefficients−48.8/−65.0 in dollars per unit of the displayed percentage regressor; paper does not clarify numeric0–1 versus0–100 storage sufficiently to silently rescale. Source: Table V p2985 cols4–5; p2986. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8SZBUU3X.pdf."
+  }
+]
+```
