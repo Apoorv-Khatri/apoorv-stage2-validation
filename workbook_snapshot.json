@@ -17422,7 +17422,16 @@
     "L1947": "0",
     "M1947": "n/a",
     "N1947": "Lagged Cash-dose effect on USD share excluding back-to-back issues, Tobit; full-sample EME/AE interactions and EME carry-control variant Location: Table8 cols2–3, pp.726–728.",
-    "O1947": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Source: Table8 cols2–3, pp.726–728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+    "O1947": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Source: Table8 cols2–3, pp.726–728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf.",
+    "A1948": "5IF5MIQQ",
+    "B1948": "h12",
+    "I1948": "1",
+    "J1948": "Other",
+    "K1948": "0",
+    "L1948": "0",
+    "M1948": "n/a",
+    "N1948": "Lagged log1p Carry Trade effect on USD share excluding back-to-back issues, EME Tobit Location: Table8 col3, pp.727–728.",
+    "O1948": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Source: Table8 col3, pp.727–728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50164,7 +50173,11 @@
     "A4637": "5IF5MIQQ",
     "B4637": "h11",
     "C4637": "hy1",
-    "K4637": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization."
+    "K4637": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization.",
+    "A4638": "5IF5MIQQ",
+    "B4638": "h12",
+    "C4638": "hy1",
+    "K4638": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
