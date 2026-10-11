@@ -17209,7 +17209,16 @@
     "L1932": "0",
     "M1932": "n/a",
     "N1932": "Set continuous preference parameters beta=1 and weekly delta=.999 (source: .95 annual), Table8 row4. Heterogeneous median impacts by original beta×delta bins in Fig3, both lender profits and borrower surplus. No-lender-information-asymmetry robustness, FigA.6.",
-    "O1932": "Four plotted original beta×delta bins; both profit and surplus panels. No tabulated bar heights; preserve graphical identification rather than inventing numerical percentages. Source: SecA.10, FigA.6 appendix p.26. Source link: https://ars.els-cdn.com/content/image/1-s2.0-S0304405X2400117X-mmc1.pdf#page=26."
+    "O1932": "Four plotted original beta×delta bins; both profit and surplus panels. No tabulated bar heights; preserve graphical identification rather than inventing numerical percentages. Source: SecA.10, FigA.6 appendix p.26. Source link: https://ars.els-cdn.com/content/image/1-s2.0-S0304405X2400117X-mmc1.pdf#page=26.",
+    "A1933": "4X76IAGM",
+    "B1933": "h29",
+    "I1933": "1",
+    "J1933": "Other",
+    "K1933": "1",
+    "L1933": "0",
+    "M1933": "n/a",
+    "N1933": "Certain harassment by a regular lender versus no harassment in one period: monetary compensation required by median borrower.",
+    "O1933": "Structural compensating-variation interpretation, S$2,599.91. Direct disutility mechanism, not predictive calibration only. Comparisons to monthly income and loan principal are different outcomes and excluded. No estimate of a real-world experimental harassment intervention. Source: Sec3.5.3 p.11; Sec5 pp.14–15. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=14."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -49807,7 +49816,14 @@
     "A4616": "4X76IAGM",
     "B4616": "h28",
     "C4616": "hy2",
-    "K4616": "Borrower surplus: median borrower-specific percentage change within original beta×delta bin. For preference changes welfare uses annual .95/no present bias."
+    "K4616": "Borrower surplus: median borrower-specific percentage change within original beta×delta bin. For preference changes welfare uses annual .95/no present bias.",
+    "A4617": "4X76IAGM",
+    "B4617": "h29",
+    "C4617": "hy1",
+    "H4617": "0",
+    "I4617": "unknown",
+    "J4617": "other",
+    "K4617": "Monetary compensation required by median borrower to accept certain harassment in one period, S$; model compensating variation."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
