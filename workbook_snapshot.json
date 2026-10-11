@@ -15496,7 +15496,16 @@
     "L1786": "1",
     "M1786": "n/a",
     "N1786": "Table VI pp.395-396: continuous short-term commercial Q treatment conditional on smoothed HP; columns3/6. Fama-MacBeth OLS, coefficients4.75/2.45 times100. Separate liquidity-demand margin from s5 insurance demand.",
-    "O1786": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. "
+    "O1786": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. ",
+    "A1787": "3DI8S52Q",
+    "B1787": "h3",
+    "I1787": "1",
+    "J1787": "OLS",
+    "K1787": "0",
+    "L1787": "0",
+    "M1787": "n/a",
+    "N1787": "Table VII A-B p.397: continuous short-term Q effects conditional on smoothed hedging pressure, comparing DCOT producers with COT commercials in common June2007-Dec2017 period; controls grouped.",
+    "O1787": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. "
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46053,7 +46062,15 @@
     "A4292": "3DI8S52Q",
     "B4292": "h2",
     "C4292": "hy2",
-    "K4292": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
+    "K4292": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return.",
+    "A4293": "3DI8S52Q",
+    "B4293": "h3",
+    "C4293": "hy1",
+    "K4293": "Commodity front-month futures excess return in week t+1, Tuesday-to-Tuesday simple return.",
+    "A4294": "3DI8S52Q",
+    "B4294": "h3",
+    "C4294": "hy2",
+    "K4294": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
