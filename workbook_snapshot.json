@@ -15631,7 +15631,16 @@
     "L1801": "0",
     "M1801": "unknown",
     "N1801": "pp.405-406 footnote23 main-text summaries of Tables IA.IV-IA.VI: nonmomentum-Q return effects under alternative lag structures (4/13/26/52 weeks), rolling/control/bootstrap/time-series decomposition variants. Group routine variants at summarized robustness block.",
-    "O1801": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Main-text substantive results only; separate Internet Appendix not inspected. No unavailable coefficient, table-specific estimator detail or benchmark invented. Method unknown where full implemented second-stage estimator is not explicitly established."
+    "O1801": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Main-text substantive results only; separate Internet Appendix not inspected. No unavailable coefficient, table-specific estimator detail or benchmark invented. Method unknown where full implemented second-stage estimator is not explicitly established.",
+    "A1802": "3DI8S52Q",
+    "B1802": "h18",
+    "I1802": "1",
+    "J1802": "unknown",
+    "K1802": "0",
+    "L1802": "0",
+    "M1802": "unknown",
+    "N1802": "pp.405-406 main-text summaries of Tables IA.IV-IA.VI: momentum-Q return effects under alternative decomposition implementations; counterpart treatment to h17.",
+    "O1802": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Main-text substantive results only; separate Internet Appendix not inspected. No unavailable coefficient, table-specific estimator detail or benchmark invented. Method unknown where full implemented second-stage estimator is not explicitly established."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46323,7 +46332,15 @@
     "A4322": "3DI8S52Q",
     "B4322": "h17",
     "C4322": "hy2",
-    "K4322": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
+    "K4322": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return.",
+    "A4323": "3DI8S52Q",
+    "B4323": "h18",
+    "C4323": "hy1",
+    "K4323": "Commodity front-month futures excess return in week t+1, Tuesday-to-Tuesday simple return.",
+    "A4324": "3DI8S52Q",
+    "B4324": "h18",
+    "C4324": "hy2",
+    "K4324": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
