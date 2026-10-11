@@ -99702,3 +99702,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:52:30.399847+00:00 — Review 5IF5MIQQ s1: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I146",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J146",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K146",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L146",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M146",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N146",
+    "before": null,
+    "after": "Lagged Cash=(cash+short-term investments)/total assets; multinomial logit issuance choice, USD-majority and non-USD-majority versus no issue Location: Table3 cols1–3, pp.716–718."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O146",
+    "before": null,
+    "after": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Country/year FE all samples; industry FE omitted only in AE because nonconvergence. Cash and exchange-rate treatments separated; h1 covers exchange rate. Source: Table3 cols1–3, pp.716–718. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+  }
+]
+```
