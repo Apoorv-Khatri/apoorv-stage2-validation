@@ -119298,3 +119298,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:42:23.986585+00:00 — Review 8ZEJGZST s8: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H606",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I606",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J606",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K606",
+    "before": null,
+    "after": "Abnormal stock return = stock return minus independently beta/size/book-to-market-quintile portfolio return; decimal return units, e.g..0043=43bp. Table8 p36/Eq2 p34. No log or outcome-SD normalization; exact zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I213",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J213",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K213",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L213",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M213",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N213",
+    "before": null,
+    "after": "Binary lagged Multiple lenders versus single lender contrast in abnormal stock returns around positive/negative DRT news; Table8 cols1–6 p36, Eq2 p34."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O213",
+    "before": null,
+    "after": "Correct unknown treatment label: implemented focal regressor Multiple is binary. Positive/negative news define separate event samples; not one continuous news-dose regressor. Companion Abnormal contrast split h3. Day FE demean the selected subsample (fn16), one categorical dimension; not identifying firm FE/DiD. Benchmark portfolio subtraction constructs outcome, not a reported magnitude comparison. Event windows are routine variants at same location. Source: Sec4.5 pp33–36; Eq2; Table8 p36. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
+  }
+]
+```
