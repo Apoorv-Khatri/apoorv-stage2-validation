@@ -46824,3 +46824,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:49:01.397709+00:00 — Review 4MXMWKXM h29: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4458",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4458",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4458",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4458",
+    "before": null,
+    "after": "Overall MSCI IVA CSR rating, ordered integer0–6, in second-stage channel regression. Observed ordinal score not latent probit and not SD standardized. Bottom rating explicitly maps to0; regression-subset zero frequency not reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1852",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1852",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1852",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1852",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1852",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1852",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1852",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1852",
+    "before": null,
+    "after": "Collective Bargaining Laws Index component predicted from Civil Law Origin and controls, then related to overall IVA rating; two-stage generated-regressor channel analysis, Table XI column 8. Exact IV-equivalent implementation unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1852",
+    "before": null,
+    "after": "Source explicitly says “not an IV regression” (Table XI) and explains that civil law may act through other channels (p.894). The fitted-regressor recipe would equal an IV estimator under compatible linear projections, but the paper does not specify exact first-stage estimator/weighting; reference to Table IV model (2) establishes controls only. Do not assert a verified excluded-instrument set or LATE. Retain as substantive channel evidence, not a diagnostic-only first stage. Human_method unknown is implementation uncertainty, not Other and not a rejection based on identification quality. Source: TableXI col8 p.895; SecV p.894. Certainty: medium; exact stage weights/projection estimator and author-denial interpretation unresolved."
+  }
+]
+```
