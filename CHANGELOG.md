@@ -46044,3 +46044,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:47:14.640389+00:00 — Review 4MXMWKXM h24: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4453",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4453",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4453",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4453",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4453",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4453",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4453",
+    "before": null,
+    "after": "International market share: sales/total global industry-year sales among ASSET4 CSR-rated companies; all-listed-firm denominator robustness fn13. Printed international-share effects are small decimal values; AppendixA defines proportion. No logged DV is reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1847",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1847",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1847",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1847",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1847",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1847",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1847",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1847",
+    "before": null,
+    "after": "Deepwater Horizon oil spill: civil×event-year DiD effect on international oil-and-gas market shares."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1847",
+    "before": null,
+    "after": "Country/year/industry FE. Civil-law interaction isolates relative change, conventional DiD under parallel trends; no modern estimator. Printed international-share effects are small decimal values; AppendixA defines proportion. No logged DV is reported. Source: TableX PanelB p.892; SecIV.E pp.890,893 col4."
+  }
+]
+```
