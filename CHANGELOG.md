@@ -115881,3 +115881,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:36:28.449203+00:00 — Review 7TY4IBMQ s5: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H555",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I555",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J555",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K555",
+    "before": null,
+    "after": "spurious: outcome belongs to rejected noncausal predictive/risk-pricing setting s5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I191",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O191",
+    "before": null,
+    "after": "Spurious causal setting: GARCH consumption-growth variance is a macro-uncertainty proxy used in pooled return prediction. The conclusion is explicitly that macro-uncertainty predicts returns similarly to conditional state-variable variance (p441). The original claim that macro-uncertainty causally amplifies pricing overstates this interpretation. Table6 has two uncertainty proxies and no marked FE column; FE variants are referenced in OA.6, not evidence for classifying the main Table6 as an identifying-FE causal design. Table7 is separately audited as predictive residualization/redefinition, not an omitted causal setting. Source: Section5.3, Eq.(11), Table6 pp441–443 (PDF14–16); Figure4 p442; Table7 p443. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7TY4IBMQ.pdf. Certainty: high for supplied article; separately referenced Online Appendix not directly inspected."
+  }
+]
+```
