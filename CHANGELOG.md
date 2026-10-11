@@ -29385,3 +29385,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:01:15.948123+00:00 — Review 3DI8S52Q s5: causal scope, outcomes and benchmark evidence
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I81",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J81",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K81",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L81",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M81",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N81",
+    "before": null,
+    "after": "Table VI pp.395-396: restrict to continuous SMOOTHED hedging pressure (52-week trailing average net short position, scaled by current open interest), Fama-MacBeth OLS effects on weeks t+1/t+2 excess returns; with/without Q control. Raw HP and focal short-term Q effects split into h1/h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O81",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Smoothing is not an instrument. Smoothed coefficients .52/.47 and .53/.45 (times 100) interpreted as hedging-demand premium. No outcome-mean/SD benchmark."
+  }
+]
+```
