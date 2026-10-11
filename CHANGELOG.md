@@ -116868,3 +116868,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:39:04.917457+00:00 — Review 8SZBUU3X s9: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K578",
+    "before": null,
+    "after": "Retained nonbinary-treatment outcome; labels optional. No omitted numeric mean/SD row in focal figure/table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J202",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K202",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M202",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N202",
+    "before": null,
+    "after": "HPI changes since origination in10-percentage-point buckets on normalized income, Figure2 Panel A only; omitted HPI increase20–30%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O202",
+    "before": null,
+    "after": "Linear category-dummy regression, NOT nonlinear estimator Other and NOT IV simply because reduced form is part of IV argument. Three identifying sets MSA×time, origination-date×time, HH, with explicit confounding discussion pp2972–74,2978. Nonbinary leverage/price dose profile rather than one implemented two-level assignment. Nonlinear response materially supports abstract/conclusion mechanism claim. Figure2 Panel B excluded as diagnostic-only placebo. Estimates plotted, no exact numeric coefficient table supplied. Actual LTV remains endogenous; retain author causal/mechanism interpretation without endorsing identification. Source: Figure2 p2980 Panel A. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8SZBUU3X.pdf."
+  }
+]
+```
