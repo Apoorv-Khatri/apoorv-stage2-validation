@@ -35496,3 +35496,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:12:05.609951+00:00 — Review 3MVCXGJ3 h6: causal scope, outcomes and benchmark evidence
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4335",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4336",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4335",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4336",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4335",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4336",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4335",
+    "before": null,
+    "after": "Foreign R&D expense in year t / total assets; Table7 PanelB. Tabulated linear dependent variable ×100."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4336",
+    "before": null,
+    "after": "Domestic R&D expense in year t / total assets; Table7 PanelB. Tabulated linear dependent variable ×100."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1809",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1809",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1809",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1809",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1809",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1809",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1809",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1809",
+    "before": null,
+    "after": "Lagged Predicted foreign cash-REPAT, foreign and domestic R&D expense/total assets ×100; industry-and-year FE regression. Location: Table7 PanelB cols2,4 pp.191–192"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1809",
+    "before": null,
+    "after": "Same source-confounding caveat as s6. No source-linked R&D magnitude comparison; means .32% and2.39% on p.190 are descriptive, not explicitly linked to these effects. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign_pp_assets\": 0.03, \"domestic_pp_assets\": 0.54}."
+  }
+]
+```
