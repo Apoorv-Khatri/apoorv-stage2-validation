@@ -30921,3 +30921,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:03:04.617943+00:00 — Review 3DI8S52Q s11: causal scope, outcomes and benchmark evidence
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K32",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R32",
+    "before": null,
+    "after": "pp.413-414: 3.13%/3.72% are average absolute Q (treatment). Multiplying slopes by these quantities yields return effects, not effect/return-mean or effect/return-SD comparisons. Contrasting effect estimates across market-size subsamples is not an outcome-level benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I87",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J87",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K87",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L87",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M87",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N87",
+    "before": null,
+    "after": "Table XIII pp.413-414: Fama-MacBeth OLS effect of continuous Q in major/minor commodity samples, split by trader count or open interest. Group routine market-size subsamples, trader sides and weeks t+1/t+2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O87",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Market-size split is a moderator/sample restriction, not randomized treatment. Typical Q scaling uses treatment magnitude, not outcome benchmark."
+  }
+]
+```
