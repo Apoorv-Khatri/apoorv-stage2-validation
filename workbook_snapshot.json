@@ -92,6 +92,7 @@
     "B23": "Negative Home Equity and Household Labor Supply",
     "C23": "fin",
     "D23": 12,
+    "E23": "DONE — Published article and complete author-hosted forthcoming appendix reviewed, including omissions. Grouped routine TableIV IV specifications; excluded diagnostics; corrected identifying FE dimensions and binary receipt/instrument types. Added version-qualified robustness and multiple-binary-instrument specification. Historical-income outcome ratios not counted as separate benchmark comparisons; explicit own-deposit-mean normalization retained with alignment0. Final publisher supplement not verified; appendix version, FE-row and outcome-scale conflicts preserved. Original model fields preserved.",
     "A24": "8ZEJGZST",
     "B24": "Do Debt Contract Enforcement Costs Affect Financing and Asset Structure?",
     "C24": "fin",
@@ -18226,7 +18227,16 @@
     "L2004": "0",
     "M2004": "single binary",
     "N2004": "Negative-equity receipt IV with alternative income definitions: own full-period mean-normalized deposits, origination-income-normalized direct deposits, log-style deposits retaining zeros, and internal household definition. Author Appendix Table BIV cols1–4.",
-    "O2004": "Single binary SLTV instrument; MSA×time, cohort×time, HH FE. Caption says log deposits replacing zero deposits by$1; heading says log(1+Dep). Neither exact transformation nor scaling of printed−3.69 can be reconciled without final supplement/code; Human_transform unknown. This is still linear2SLS on transformed outcome, not Other. Author appendix has four cols; final footnote16 references cols1,3,5. Source: Author Table BIV printed67/PDF68; final p2984 footnote16. Source link: https://leeds-faculty.colorado.edu/asafbernstein/Asaf_Bernstein_NegativeHomeEquityHouseholdLaborSupply.pdf."
+    "O2004": "Single binary SLTV instrument; MSA×time, cohort×time, HH FE. Caption says log deposits replacing zero deposits by$1; heading says log(1+Dep). Neither exact transformation nor scaling of printed−3.69 can be reconciled without final supplement/code; Human_transform unknown. This is still linear2SLS on transformed outcome, not Other. Author appendix has four cols; final footnote16 references cols1,3,5. Source: Author Table BIV printed67/PDF68; final p2984 footnote16. Source link: https://leeds-faculty.colorado.edu/asafbernstein/Asaf_Bernstein_NegativeHomeEquityHouseholdLaborSupply.pdf.",
+    "A2005": "8SZBUU3X",
+    "B2005": "h3",
+    "I2005": "1",
+    "J2005": "IV",
+    "K2005": "1",
+    "L2005": "0",
+    "M2005": "multiple binary",
+    "N2005": "Multiple-bucket instrument robustness for actual binary negative-equity receipt; linear first stage/2SLS described in footnote13.",
+    "O2005": "Footnote13 explicitly says multiple LTV bucket indicators used in first stage for robustness. Classify multiple binary excluded instruments, not single continuous simply because underlying leverage is continuous. Exact bucket thresholds, whether the footnote means SLTV rather than literal LTV, result location, coefficients and reported outcome variants are not established. Do not pool this with the single-binary IV. Qualitative implemented robustness disclosed, no invented estimates. Source: Published p2973 footnote13, eq5. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8SZBUU3X.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -51907,7 +51917,14 @@
     "H4742": "0",
     "I4742": "unknown",
     "J4742": "other",
-    "K4742": "Monthly deposits normalized by origination income with household defined by internal MyBank identifier instead of shared mortgage liability; Table BIV col4."
+    "K4742": "Monthly deposits normalized by origination income with household defined by internal MyBank identifier instead of shared mortgage liability; Table BIV col4.",
+    "A4743": "8SZBUU3X",
+    "B4743": "h3",
+    "C4743": "hy1",
+    "H4743": "0",
+    "I4743": "unknown",
+    "J4743": "unknown",
+    "K4743": "Household income outcome y in eq5 for multiple-bucket robustness mentioned footnote13; exact reported income variant/scale unspecified. Do not copy baseline coefficients."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

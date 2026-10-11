@@ -117588,3 +117588,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:40:28.834061+00:00 — Review 8SZBUU3X h3: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4743",
+    "before": null,
+    "after": "8SZBUU3X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4743",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4743",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4743",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4743",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4743",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4743",
+    "before": null,
+    "after": "Household income outcome y in eq5 for multiple-bucket robustness mentioned footnote13; exact reported income variant/scale unspecified. Do not copy baseline coefficients."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E23",
+    "before": null,
+    "after": "DONE — Published article and complete author-hosted forthcoming appendix reviewed, including omissions. Grouped routine TableIV IV specifications; excluded diagnostics; corrected identifying FE dimensions and binary receipt/instrument types. Added version-qualified robustness and multiple-binary-instrument specification. Historical-income outcome ratios not counted as separate benchmark comparisons; explicit own-deposit-mean normalization retained with alignment0. Final publisher supplement not verified; appendix version, FE-row and outcome-scale conflicts preserved. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2005",
+    "before": null,
+    "after": "8SZBUU3X"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2005",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2005",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2005",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2005",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2005",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2005",
+    "before": null,
+    "after": "multiple binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2005",
+    "before": null,
+    "after": "Multiple-bucket instrument robustness for actual binary negative-equity receipt; linear first stage/2SLS described in footnote13."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2005",
+    "before": null,
+    "after": "Footnote13 explicitly says multiple LTV bucket indicators used in first stage for robustness. Classify multiple binary excluded instruments, not single continuous simply because underlying leverage is continuous. Exact bucket thresholds, whether the footnote means SLTV rather than literal LTV, result location, coefficients and reported outcome variants are not established. Do not pool this with the single-binary IV. Qualitative implemented robustness disclosed, no invented estimates. Source: Published p2973 footnote13, eq5. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8SZBUU3X.pdf."
+  }
+]
+```
