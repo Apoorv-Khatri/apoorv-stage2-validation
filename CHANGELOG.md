@@ -84915,3 +84915,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:44:52.560842+00:00 — Review 4X76IAGM h6: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1898",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1898",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1898",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1898",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1898",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1898",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1898",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1898",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1898",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1898",
+    "before": null,
+    "after": "Sec5 p.14 and Table5 lower panel p.15: regular-lender cost S$437 before crackdown, increases toS$1,487; post increment1.050S$000."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1898",
+    "before": null,
+    "after": "This is an estimated common type-specific cost level, not a reported sample outcome mean; use other_level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4560",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4560",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4560",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4560",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4560",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4560",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4560",
+    "before": null,
+    "after": "Regular lenders’ unit harassment cost, including runner payments plus expected arrest disutility, S$000; nonlinear structural parameter."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1910",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1910",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1910",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1910",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1910",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1910",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1910",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1910",
+    "before": null,
+    "after": "Crackdown shifts regular lenders’ unit harassment cost; nonlinear structural cost parameter theta_post^kappa=1.050 S$000."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1910",
+    "before": null,
+    "after": "Substantively interpreted mechanism: S$437 before toS$1,487 after, includes runner payments plus expected arrest disutility. Different outcome/estimand from Table7 total harassment costs. Nonlinear joint structural estimation despite linear parameterization of cost. Source: Table5 lower panel p.15; Sec5 p.14; Eq14 p.8. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15."
+  }
+]
+```

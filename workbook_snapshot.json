@@ -17002,7 +17002,16 @@
     "L1909": "0",
     "M1909": "n/a",
     "N1909": "Differential post-crackdown effects on model-derived loan borrower surplus by borrower characteristics; borrower and period FE regression, TableA.5.",
-    "O1909": "Strict identifying-role audit: retain implemented linear regression and its actual categorical controls, but code OLS regression adjustment. Table A.5 lists borrower and period FE for heterogeneity of model-derived surplus. Main p17 interprets differential crackdown losses, but supplies no identifying-FE or parallel-trends argument. Generated outcome does not turn the implemented linear regression into Other. Source: TableA.5 appendix p.4; main p.17. Source link: https://ars.els-cdn.com/content/image/1-s2.0-S0304405X2400117X-mmc1.pdf#page=4. Certainty: medium: differential-effects regression versus DiD taxonomy."
+    "O1909": "Strict identifying-role audit: retain implemented linear regression and its actual categorical controls, but code OLS regression adjustment. Table A.5 lists borrower and period FE for heterogeneity of model-derived surplus. Main p17 interprets differential crackdown losses, but supplies no identifying-FE or parallel-trends argument. Generated outcome does not turn the implemented linear regression into Other. Source: TableA.5 appendix p.4; main p.17. Source link: https://ars.els-cdn.com/content/image/1-s2.0-S0304405X2400117X-mmc1.pdf#page=4. Certainty: medium: differential-effects regression versus DiD taxonomy.",
+    "A1910": "4X76IAGM",
+    "B1910": "h6",
+    "I1910": "1",
+    "J1910": "Other",
+    "K1910": "1",
+    "L1910": "1",
+    "M1910": "n/a",
+    "N1910": "Crackdown shifts regular lenders’ unit harassment cost; nonlinear structural cost parameter theta_post^kappa=1.050 S$000.",
+    "O1910": "Substantively interpreted mechanism: S$437 before toS$1,487 after, includes runner payments plus expected arrest disutility. Different outcome/estimand from Table7 total harassment costs. Nonlinear joint structural estimation despite linear parameterization of cost. Source: Table5 lower panel p.15; Sec5 p.14; Eq14 p.8. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -49303,7 +49312,14 @@
     "H4559": "0",
     "I4559": "unknown",
     "J4559": "other",
-    "K4559": "Model-derived borrower surplus of loan inS$000, linear borrower/period-FE regression of heterogeneity; TableA.5. Monetary certainty-equivalent construction."
+    "K4559": "Model-derived borrower surplus of loan inS$000, linear borrower/period-FE regression of heterogeneity; TableA.5. Monetary certainty-equivalent construction.",
+    "A4560": "4X76IAGM",
+    "B4560": "h6",
+    "C4560": "hy1",
+    "H4560": "0",
+    "I4560": "unknown",
+    "J4560": "none",
+    "K4560": "Regular lenders’ unit harassment cost, including runner payments plus expected arrest disutility, S$000; nonlinear structural parameter."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -69260,7 +69276,18 @@
     "O1897": "0",
     "P1897": "unknown",
     "Q1897": "TableA.6 col3, appendix p.4: post coefficient .159, paired mean of dependent variable .272 for this specification; observed regression-sample external-party harassment rate.",
-    "R1897": "Neither time-specific untreated reference nor appropriate adjusted target mean is documented; same sample alone insufficient."
+    "R1897": "Neither time-specific untreated reference nor appropriate adjusted target mean is documented; same sample alone insufficient.",
+    "A1898": "4X76IAGM",
+    "B1898": "h6",
+    "C1898": "hc1",
+    "K1898": "1",
+    "L1898": "hy1",
+    "M1898": "other_level",
+    "N1898": "1",
+    "O1898": "0",
+    "P1898": "n/a",
+    "Q1898": "Sec5 p.14 and Table5 lower panel p.15: regular-lender cost S$437 before crackdown, increases toS$1,487; post increment1.050S$000.",
+    "R1898": "This is an estimated common type-specific cost level, not a reported sample outcome mean; use other_level."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
