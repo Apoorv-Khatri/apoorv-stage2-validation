@@ -16276,7 +16276,16 @@
     "L1848": "0",
     "M1848": "n/a",
     "N1848": "Continuous market share and its post-2010 interaction as determinants of CSR after Deepwater Horizon oil spill; separate civil/common-law samples grouped as sample variants.",
-    "O1848": "Country/year/industry FE used in SectionIV to absorb country heterogeneity, common shocks and sector heterogeneity; three separately reported dimensions. Market share is endogenous/current, not randomized exposure or a predetermined DiD group. Treat as linear HDFE mechanism slopes; TableX and p.893 call these correlations but pp.890–891 explicitly test consumer-demand effects. Retain substantive null mechanism test; do not claim identified mediation. Industry classification can include multiple food/energy subsectors; no evidence this dimension is constant. Source: TableX PanelB cols5–6; TableX PanelB p.892; SecIV.E pp.890,893."
+    "O1848": "Country/year/industry FE used in SectionIV to absorb country heterogeneity, common shocks and sector heterogeneity; three separately reported dimensions. Market share is endogenous/current, not randomized exposure or a predetermined DiD group. Treat as linear HDFE mechanism slopes; TableX and p.893 call these correlations but pp.890–891 explicitly test consumer-demand effects. Retain substantive null mechanism test; do not claim identified mediation. Industry classification can include multiple food/energy subsectors; no evidence this dimension is constant. Source: TableX PanelB cols5–6; TableX PanelB p.892; SecIV.E pp.890,893.",
+    "A1849": "4MXMWKXM",
+    "B1849": "h26",
+    "I1849": "1",
+    "J1849": "unknown",
+    "K1849": "unknown",
+    "L1849": "0",
+    "M1849": "unknown",
+    "N1849": "Shareholder Litigation component predicted from Civil Law Origin and controls, then related to overall IVA rating; two-stage generated-regressor channel analysis, Table XI column 2. Exact IV-equivalent implementation unresolved.",
+    "O1849": "Source explicitly says “not an IV regression” (Table XI) and explains that civil law may act through other channels (p.894). The fitted-regressor recipe would equal an IV estimator under compatible linear projections, but the paper does not specify exact first-stage estimator/weighting; reference to Table IV model (2) establishes controls only. Do not assert a verified excluded-instrument set or LATE. Retain as substantive channel evidence, not a diagnostic-only first stage. Human_method unknown is implementation uncertainty, not Other and not a rejection based on identification quality. The original channel is binary; the implemented predictor is fitted. Without resolving whether this is an IV effect of actual receipt or an association with its continuously fitted component, binary-treatment coding is unresolved. Retain detailed IVA outcome labels already supplied. Source: TableXI col2 p.895; SecV p.894. Certainty: medium; exact stage weights/projection estimator and author-denial interpretation unresolved."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -48030,7 +48039,14 @@
     "A4454": "4MXMWKXM",
     "B4454": "h25",
     "C4454": "hy1",
-    "K4454": "ASSET4 Spill and Pollution Control score0–100. Detailed outcome labels intentionally blank for nonbinary treatment."
+    "K4454": "ASSET4 Spill and Pollution Control score0–100. Detailed outcome labels intentionally blank for nonbinary treatment.",
+    "A4455": "4MXMWKXM",
+    "B4455": "h26",
+    "C4455": "hy1",
+    "H4455": "0",
+    "I4455": "unknown",
+    "J4455": "none",
+    "K4455": "Overall MSCI IVA CSR rating, ordered integer0–6, in second-stage channel regression. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
