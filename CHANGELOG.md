@@ -59034,3 +59034,642 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:25:19.170187+00:00 — Review 4QJKKD9J h36: source-audited coding and linked comparisons
+
+105 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1560",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1561",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1562",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1563",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1564",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1565",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1566",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1567",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1560",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1561",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1562",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1563",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1564",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1565",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1566",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1567",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1560",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1561",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1562",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1563",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1564",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1565",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1566",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1567",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1560",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1561",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1562",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1563",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1565",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1566",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1567",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1560",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1561",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1562",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1563",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1564",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1565",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1566",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1567",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1560",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1561",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1562",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1563",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1564",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1565",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1566",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1567",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1560",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1561",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1562",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1563",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1564",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1565",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1566",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1567",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1560",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1561",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1562",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1563",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1564",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1565",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1566",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1567",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1560",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1561",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1562",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1563",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1564",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1565",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1566",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1567",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1560",
+    "before": null,
+    "after": "Companion Appendix TableA.14,rowΔMMA−O,cols1–8,p18: 0.0173,one treatment SD,col1,ΔMMA−O; linked benchmark 0.721. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1561",
+    "before": null,
+    "after": "Companion Appendix TableA.14,rowΔMMA−O,cols1–8,p18: 0.0532,one treatment SD,col2,ΔMMA−O; linked benchmark 0.721. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1562",
+    "before": null,
+    "after": "Companion Appendix TableA.14,rowΔMMA−O,cols1–8,p18: 0.0595,one treatment SD,col3,ΔMMA−O; linked benchmark 0.721. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1563",
+    "before": null,
+    "after": "Companion Appendix TableA.14,rowΔMMA−O,cols1–8,p18: 0.0543,one treatment SD,col4,ΔMMA−O; linked benchmark 0.721. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1564",
+    "before": null,
+    "after": "Companion Appendix TableA.14,rowΔMMA−O,cols1–8,p18: 0.0284,one treatment SD,col5,ΔMMA−O; linked benchmark 0.329. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1565",
+    "before": null,
+    "after": "Companion Appendix TableA.14,rowΔMMA−O,cols1–8,p18: 0.0267,one treatment SD,col6,ΔMMA−O; linked benchmark 0.329. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1566",
+    "before": null,
+    "after": "Companion Appendix TableA.14,rowΔMMA−O,cols1–8,p18: 0.0283,one treatment SD,col7,ΔMMA−O; linked benchmark 0.329. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1567",
+    "before": null,
+    "after": "Companion Appendix TableA.14,rowΔMMA−O,cols1–8,p18: 0.0258,one treatment SD,col8,ΔMMA−O; linked benchmark 0.329. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1560",
+    "before": null,
+    "after": " Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1561",
+    "before": null,
+    "after": " Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1562",
+    "before": null,
+    "after": " Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1563",
+    "before": null,
+    "after": " Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1564",
+    "before": null,
+    "after": " Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1565",
+    "before": null,
+    "after": " Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1566",
+    "before": null,
+    "after": " Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1567",
+    "before": null,
+    "after": " Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4507",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4508",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4507",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4508",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4507",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4508",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4507",
+    "before": null,
+    "after": "Change1880–1890 in manufacturing share of total agricultural+manufacturing production. Location: Companion Appendix TableA.14,rowΔMMA−O,cols1–8,p18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4508",
+    "before": null,
+    "after": "Change1880–1890 in manufacturing employment divided by male population over21. Location: Companion Appendix TableA.14,rowΔMMA−O,cols1–8,p18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1894",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1894",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1894",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1894",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1894",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1894",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1894",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1894",
+    "before": null,
+    "after": "Continuous standardized Δlog MMA−O; network-exclusion dose,with routine baseline/financial/transport/lending-control variants. Change1880–1890 in manufacturing share of total agricultural+manufacturing production. Change1880–1890 in manufacturing employment divided by male population over21. Location: Companion Appendix TableA.14,rowΔMMA−O,cols1–8,p18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1894",
+    "before": null,
+    "after": "147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Each reported coefficient is from a separate regression; rows are NOT simultaneous instruments/regressors. Appendix titlesA.14/A.15 are swapped relative to outcomes; use actual outcome headers andmeans. Eq.(3) supplies DiD interpretation. Source: Companion Appendix TableA.14,rowΔMMA−O,cols1–8,p18."
+  }
+]
+```
