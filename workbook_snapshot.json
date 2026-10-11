@@ -16591,7 +16591,16 @@
     "L1872": "0",
     "M1872": "single binary",
     "N1872": "Total standardized Δlog MMA;θ=1,2,4,8 alternative trade-elasticity calibrations grouped as routine construction robustness. Change1880–1890 in share of agricultural land acreage used for commodities listed on Chicago Board of Trade (wheat,oats,buckwheat,corn); not value share. Location: Companion Appendix TableA.7,cols1,2,3,4,p12",
-    "O1872": "One excluded binary instrument I(population1880<6000); all other X variables, state FE and Loans_o/Loans_d are included controls, not additional excluded instruments. Endogenous receipt is continuous standardized change in log MMA, not binary bank presence. Eq.(2), pp9–11. Authors explicitly do not implement local RD due to sparse support near cutoff (p10). IV takes precedence over DiD.  147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Separate appendix result location.  Source: Companion Appendix TableA.7,cols1,2,3,4,p12."
+    "O1872": "One excluded binary instrument I(population1880<6000); all other X variables, state FE and Loans_o/Loans_d are included controls, not additional excluded instruments. Endogenous receipt is continuous standardized change in log MMA, not binary bank presence. Eq.(2), pp9–11. Authors explicitly do not implement local RD due to sparse support near cutoff (p10). IV takes precedence over DiD.  147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Separate appendix result location.  Source: Companion Appendix TableA.7,cols1,2,3,4,p12.",
+    "A1873": "4QJKKD9J",
+    "B1873": "h15",
+    "I1873": "1",
+    "J1873": "IV",
+    "K1873": "0",
+    "L1873": "0",
+    "M1873": "single binary",
+    "N1873": "Total standardized Δlog MMA;unweighted rather than town-share-weighted IV estimand. Change1880–1890 in share of agricultural land acreage used for commodities listed on Chicago Board of Trade (wheat,oats,buckwheat,corn); not value share. Location: Companion Appendix TableA.7,cols5,p12",
+    "O1873": "One excluded binary instrument I(population1880<6000); all other X variables, state FE and Loans_o/Loans_d are included controls, not additional excluded instruments. Endogenous receipt is continuous standardized change in log MMA, not binary bank presence. Eq.(2), pp9–11. Authors explicitly do not implement local RD due to sparse support near cutoff (p10). IV takes precedence over DiD.  147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Separate appendix result location. No weight in unweighted estimator; mean row nevertheless unchanged across columns. Source: Companion Appendix TableA.7,cols5,p12."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -48469,7 +48478,11 @@
     "A4481": "4QJKKD9J",
     "B4481": "h14",
     "C4481": "hy1",
-    "K4481": "Change1880–1890 in share of agricultural land acreage used for commodities listed on Chicago Board of Trade (wheat,oats,buckwheat,corn); not value share. Location: Companion Appendix TableA.7,cols1,2,3,4,p12"
+    "K4481": "Change1880–1890 in share of agricultural land acreage used for commodities listed on Chicago Board of Trade (wheat,oats,buckwheat,corn); not value share. Location: Companion Appendix TableA.7,cols1,2,3,4,p12",
+    "A4482": "4QJKKD9J",
+    "B4482": "h15",
+    "C4482": "hy1",
+    "K4482": "Change1880–1890 in share of agricultural land acreage used for commodities listed on Chicago Board of Trade (wheat,oats,buckwheat,corn); not value share. Location: Companion Appendix TableA.7,cols5,p12"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -64038,7 +64051,18 @@
     "O1499": "0",
     "P1499": "0",
     "Q1499": "Companion Appendix TableA.7,cols1,2,3,4,p12: 0.0232, one treatment SD, col4, calibration; linked benchmark 0.905. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated.",
-    "R1499": "Table-paired mean; no division in table. Sample-wide baseline is not constructed for the instrument-induced continuous-MMA response margin; no complier/margin-specific mean."
+    "R1499": "Table-paired mean; no division in table. Sample-wide baseline is not constructed for the instrument-induced continuous-MMA response margin; no complier/margin-specific mean.",
+    "A1500": "4QJKKD9J",
+    "B1500": "h15",
+    "C1500": "hc1",
+    "K1500": "1",
+    "L1500": "hy1",
+    "M1500": "outcome_mean",
+    "N1500": "0",
+    "O1500": "0",
+    "P1500": "0",
+    "Q1500": "Companion Appendix TableA.7,cols5,p12: 0.04, one treatment SD, col5, unweighted; linked benchmark 0.905. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated.",
+    "R1500": "Table-paired mean; no division in table. Sample-wide baseline is not constructed for the instrument-induced continuous-MMA response margin; no complier/margin-specific mean."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
