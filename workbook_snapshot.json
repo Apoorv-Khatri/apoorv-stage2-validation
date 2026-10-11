@@ -67,6 +67,7 @@
     "B18": "The effects of policy interventions to limit illegal money lending",
     "C18": "fin",
     "D18": 11,
+    "E18": "DONE — Complete main article and publisher online supplement reviewed: https://ars.els-cdn.com/content/image/1-s2.0-S0304405X2400117X-mmc1.pdf . Added demand regressions, substantive dynamic results, explicit structural mechanisms, targeted removal and appendix robustness. OLS regression adjustment used where identifying-FE role is not established; retained identifying borrower-FE demand where supported. Normalized structural graph comparisons enumerated by distinct policy point/series without fabricating unprinted ordinates. Prose/figure bin conflict remains unresolved in comparison candidates. Gambling-volatility primitive h32 remains Human_keep=unknown, not a confirmed causal setting. Original model fields preserved.",
     "A19": "5IF5MIQQ",
     "B19": "Global Dollar Credit and Carry Trades: A Firm-Level Analysis",
     "C19": "fin",
@@ -17236,7 +17237,16 @@
     "L1935": "0",
     "M1935": "n/a",
     "N1935": "Eliminate disutility from harassment over a loan while retaining loan-reset feature: weekly willingness to pay of median borrower.",
-    "O1935": "S$107.48 per week from structural model. Distinct throughout-loan intervention from guaranteed harassment in one period. No qualifying same-outcome benchmark. Source: Sec5 p.15. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15."
+    "O1935": "S$107.48 per week from structural model. Distinct throughout-loan intervention from guaranteed harassment in one period. No qualifying same-outcome benchmark. Source: Sec5 p.15. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15.",
+    "A1936": "4X76IAGM",
+    "B1936": "h32",
+    "I1936": "unknown",
+    "J1936": "Other",
+    "K1936": "1",
+    "L1936": "0",
+    "M1936": "n/a",
+    "N1936": "Gambling status changes scale of weekly cash/income shocks in structural repayment model, borrower and lender perspectives.",
+    "O1936": "UNRESOLVED CAUSAL-SETTING CANDIDATE, not a confirmed inclusion. Main p14 says gamblers have a higher variance in income, compared to non-gamblers. Table5 estimates a conditional structural distribution parameter. That sentence does not independently attribute income volatility to an intervention on gambling; being used in the s7 counterfactual does not automatically make every primitive a separate causal setting. Hold weakest mechanism rather than unconditional keep=1. Explicit gambling→profits/surplus counterfactual s7 remains included. Source: Main p14 Sec5; Table5 p15; Eq4–10.. Retained visibly for follow-up rather than silently omitted; do not count as a confirmed causal setting. Source: Eq4–10 pp.7–8; Table5 p.15; Sec5 p.14. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15. Certainty: medium: structural mechanism causal gate."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -49855,7 +49865,21 @@
     "H4619": "0",
     "I4619": "unknown",
     "J4619": "other",
-    "K4619": "Median borrower weekly willingness to pay to eliminate harassment disutility while retaining loan resetting, S$107.48."
+    "K4619": "Median borrower weekly willingness to pay to eliminate harassment disutility while retaining loan resetting, S$107.48.",
+    "A4620": "4X76IAGM",
+    "B4620": "h32",
+    "C4620": "hy1",
+    "H4620": "0",
+    "I4620": "0",
+    "J4620": "none",
+    "K4620": "Standard deviation of borrower weekly cash shock, normalized nongambler baseline1; gambler increment .528. Not the realized shock variance or cash mean. Positive support by construction sigma_i=1+.528*Gambler; no zero SD under either type.",
+    "A4621": "4X76IAGM",
+    "B4621": "h32",
+    "C4621": "hy2",
+    "H4621": "0",
+    "I4621": "unknown",
+    "J4621": "none",
+    "K4621": "Lender-perceived weekly cash-shock SD: gambler increment .409 conditional on prior loan history; baseline constant normalized1. No-history term separately estimated; full support not printed, so zero mass unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

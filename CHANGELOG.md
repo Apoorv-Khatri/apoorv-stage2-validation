@@ -99549,3 +99549,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:52:15.164423+00:00 — Review 4X76IAGM h32: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4620",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4621",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4620",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4621",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4620",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4621",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4620",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4621",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4620",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4621",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4620",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4621",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4620",
+    "before": null,
+    "after": "Standard deviation of borrower weekly cash shock, normalized nongambler baseline1; gambler increment .528. Not the realized shock variance or cash mean. Positive support by construction sigma_i=1+.528*Gambler; no zero SD under either type."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4621",
+    "before": null,
+    "after": "Lender-perceived weekly cash-shock SD: gambler increment .409 conditional on prior loan history; baseline constant normalized1. No-history term separately estimated; full support not printed, so zero mass unknown."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E18",
+    "before": null,
+    "after": "DONE — Complete main article and publisher online supplement reviewed: https://ars.els-cdn.com/content/image/1-s2.0-S0304405X2400117X-mmc1.pdf . Added demand regressions, substantive dynamic results, explicit structural mechanisms, targeted removal and appendix robustness. OLS regression adjustment used where identifying-FE role is not established; retained identifying borrower-FE demand where supported. Normalized structural graph comparisons enumerated by distinct policy point/series without fabricating unprinted ordinates. Prose/figure bin conflict remains unresolved in comparison candidates. Gambling-volatility primitive h32 remains Human_keep=unknown, not a confirmed causal setting. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1936",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1936",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1936",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1936",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1936",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1936",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1936",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1936",
+    "before": null,
+    "after": "Gambling status changes scale of weekly cash/income shocks in structural repayment model, borrower and lender perspectives."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1936",
+    "before": null,
+    "after": "UNRESOLVED CAUSAL-SETTING CANDIDATE, not a confirmed inclusion. Main p14 says gamblers have a higher variance in income, compared to non-gamblers. Table5 estimates a conditional structural distribution parameter. That sentence does not independently attribute income volatility to an intervention on gambling; being used in the s7 counterfactual does not automatically make every primitive a separate causal setting. Hold weakest mechanism rather than unconditional keep=1. Explicit gambling→profits/surplus counterfactual s7 remains included. Source: Main p14 Sec5; Table5 p15; Eq4–10.. Retained visibly for follow-up rather than silently omitted; do not count as a confirmed causal setting. Source: Eq4–10 pp.7–8; Table5 p.15; Sec5 p.14. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15. Certainty: medium: structural mechanism causal gate."
+  }
+]
+```
