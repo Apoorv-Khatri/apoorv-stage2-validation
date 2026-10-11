@@ -115926,3 +115926,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:36:47.589332+00:00 — Review 7TY4IBMQ s6: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K109",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K110",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K111",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K112",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R109",
+    "before": null,
+    "after": "Reject twice: noncausal predictive parent and effect-versus-effect ratio, not same-outcome level benchmark. FF5M HH−LH1.41 versus no-control HH−LH7.20; printed fraction0.20. Both numerator and denominator are fitted high-minus-low contrasts."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R110",
+    "before": null,
+    "after": "Reject twice: noncausal predictive parent and effect-versus-effect ratio. FF5M HH−LH2.43 versus no-control HH−LH6.10; printed fraction0.40. Denominator is another contrast, not outcome mean/SD or other level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R111",
+    "before": null,
+    "after": "Reject twice: noncausal predictive parent and effect-versus-effect ratio. FF5M HH−LH2.50 versus no-control HH−LH9.49; printed fraction0.26. Denominator is another contrast, not outcome mean/SD or other level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R112",
+    "before": null,
+    "after": "Reject twice: noncausal predictive parent and effect-versus-effect ratio. FF5M HH−LH2.37 versus no-control HH−LH5.58; printed fraction0.42. Denominator is another contrast, not outcome mean/SD or other level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H556",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H557",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I556",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I557",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J556",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J557",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K556",
+    "before": null,
+    "after": "spurious: outcome belongs to rejected noncausal predictive/risk-pricing setting s6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K557",
+    "before": null,
+    "after": "spurious: outcome belongs to rejected noncausal predictive/risk-pricing setting s6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I192",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O192",
+    "before": null,
+    "after": "Spurious causal setting: predictive factor-spanning regressions ask whether benchmark factor exposures account for conditional expected-return variation in state-variable-sorted portfolios. Factor returns (CAPM, FF3M, FFCM, FF5M) are not fixed effects. The original FE label and causal framing are unsupported. A sort that measures a risk premium is not an implemented treatment-effect design merely because it uses a High-minus-Low contrast; no change-of-trading-rule causal counterfactual is argued here. Source: Section6, Eq.(12), Table8 pp443–444 (PDF16–17). Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7TY4IBMQ.pdf. Certainty: high for supplied article; separately referenced Online Appendix not directly inspected."
+  }
+]
+```
