@@ -84408,3 +84408,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:44:08.351886+00:00 — Review 4X76IAGM h2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4552",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4552",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4552",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4552",
+    "before": null,
+    "after": "Log desired/requested loan size in S$; not granted loan size. Log-log rate elasticity specification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1907",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1907",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1907",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1907",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1907",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1907",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1907",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1907",
+    "before": null,
+    "after": "Log nominal interest rate affects log desired loan size; separate constant-elasticity borrower-FE regression."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1907",
+    "before": null,
+    "after": "Elasticity−.817; non-new-lender74% subsample−.823 is routine sample robustness grouped here. Distinct functional-form estimand from Table6. No IV implementation. Elasticity/percent interpretation alone is not a benchmark comparison. Source: Sec4.2 p.13; Sec5 p.16. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=16."
+  }
+]
+```

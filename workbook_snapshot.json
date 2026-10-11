@@ -16975,7 +16975,16 @@
     "L1906": "1",
     "M1906": "n/a",
     "N1906": "Prevailing nominal interest rate, interacted with borrower characteristics, affects log desired loan size; linear borrower-FE semilog demand regression, Table6.",
-    "O1906": "Not IV: supply-side crackdown narrative identifies direct rate coefficient but no implemented IV/2SLS. Rate coefficient−5.818 plus interactions;10,269 observations. Borrower FE absorb time-invariant demand heterogeneity. This causal demand stage is substantive, not a diagnostic first stage; it determines counterfactual loan demand. Rate and moderator interactions are one heterogeneous continuous treatment setting. Source: Eq35/Sec4.2 p.13; Table6 p.15; Sec5 p.16. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15."
+    "O1906": "Not IV: supply-side crackdown narrative identifies direct rate coefficient but no implemented IV/2SLS. Rate coefficient−5.818 plus interactions;10,269 observations. Borrower FE absorb time-invariant demand heterogeneity. This causal demand stage is substantive, not a diagnostic first stage; it determines counterfactual loan demand. Rate and moderator interactions are one heterogeneous continuous treatment setting. Source: Eq35/Sec4.2 p.13; Table6 p.15; Sec5 p.16. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15.",
+    "A1907": "4X76IAGM",
+    "B1907": "h2",
+    "I1907": "1",
+    "J1907": "FE",
+    "K1907": "0",
+    "L1907": "0",
+    "M1907": "n/a",
+    "N1907": "Log nominal interest rate affects log desired loan size; separate constant-elasticity borrower-FE regression.",
+    "O1907": "Elasticity−.817; non-new-lender74% subsample−.823 is routine sample robustness grouped here. Distinct functional-form estimand from Table6. No IV implementation. Elasticity/percent interpretation alone is not a benchmark comparison. Source: Sec4.2 p.13; Sec5 p.16. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -49223,7 +49232,11 @@
     "A4551": "4X76IAGM",
     "B4551": "h1",
     "C4551": "hy1",
-    "K4551": "Log desired/requested loan size in S$; not granted loan size. Semilog rate specification."
+    "K4551": "Log desired/requested loan size in S$; not granted loan size. Semilog rate specification.",
+    "A4552": "4X76IAGM",
+    "B4552": "h2",
+    "C4552": "hy1",
+    "K4552": "Log desired/requested loan size in S$; not granted loan size. Log-log rate elasticity specification."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
