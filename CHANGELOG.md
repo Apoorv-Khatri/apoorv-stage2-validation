@@ -50298,3 +50298,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:16:37.992090+00:00 — Review 4QJKKD9J h6: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1472",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1472",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1472",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1472",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1472",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1472",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1472",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1472",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1472",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1472",
+    "before": null,
+    "after": "Table5 p14: 0.0302, one treatment SD, col10; linked benchmark 0.329. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1472",
+    "before": null,
+    "after": "No explicit relative-magnitude sentence for this column. Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4470",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4470",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4470",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4470",
+    "before": null,
+    "after": "Change1880–1890 in manufacturing employment divided by male population over21. Location: Table5 col10,p14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1864",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1864",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1864",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1864",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1864",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1864",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1864",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1864",
+    "before": null,
+    "after": "Continuous standardized Δlog MMA−od25: hold national-bank network fixed within25miles; Change1880–1890 in manufacturing employment divided by male population over21. Location: Table5 upper panel col10,p14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1864",
+    "before": null,
+    "after": "147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Different excluded-network dose from ΔMMA−O; not a new IV instrument. Source: Table5 upper panel col10,p14."
+  }
+]
+```

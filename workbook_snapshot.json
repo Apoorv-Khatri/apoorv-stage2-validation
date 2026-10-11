@@ -16496,7 +16496,16 @@
     "L1863": "1",
     "M1863": "n/a",
     "N1863": "Continuous standardized Δlog MMA−od25: hold national-bank network fixed within25miles; Change1880–1890 in manufacturing share of total agricultural+manufacturing production. Location: Table5 upper panel col5,p14",
-    "O1863": "147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Different excluded-network dose from ΔMMA−O; not a new IV instrument. Source: Table5 upper panel col5,p14."
+    "O1863": "147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Different excluded-network dose from ΔMMA−O; not a new IV instrument. Source: Table5 upper panel col5,p14.",
+    "A1864": "4QJKKD9J",
+    "B1864": "h6",
+    "I1864": "1",
+    "J1864": "DiD_conventional",
+    "K1864": "0",
+    "L1864": "1",
+    "M1864": "n/a",
+    "N1864": "Continuous standardized Δlog MMA−od25: hold national-bank network fixed within25miles; Change1880–1890 in manufacturing employment divided by male population over21. Location: Table5 upper panel col10,p14",
+    "O1864": "147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Different excluded-network dose from ΔMMA−O; not a new IV instrument. Source: Table5 upper panel col10,p14."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -48322,7 +48331,11 @@
     "A4469": "4QJKKD9J",
     "B4469": "h5",
     "C4469": "hy1",
-    "K4469": "Change1880–1890 in manufacturing share of total agricultural+manufacturing production. Location: Table5 col5,p14"
+    "K4469": "Change1880–1890 in manufacturing share of total agricultural+manufacturing production. Location: Table5 col5,p14",
+    "A4470": "4QJKKD9J",
+    "B4470": "h6",
+    "C4470": "hy1",
+    "K4470": "Change1880–1890 in manufacturing employment divided by male population over21. Location: Table5 col10,p14"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -63579,7 +63592,18 @@
     "O1471": "0",
     "P1471": "0",
     "Q1471": "Table5 p14: 0.0992, one treatment SD, IV col8; linked benchmark 0.329. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated.",
-    "R1471": "Deliberately paired coefficient and1880 mean; no outcome-SD comparison. Sample-wide baseline is not constructed for the instrument-induced continuous-MMA response margin; no complier/margin-specific mean."
+    "R1471": "Deliberately paired coefficient and1880 mean; no outcome-SD comparison. Sample-wide baseline is not constructed for the instrument-induced continuous-MMA response margin; no complier/margin-specific mean.",
+    "A1472": "4QJKKD9J",
+    "B1472": "h6",
+    "C1472": "hc1",
+    "K1472": "1",
+    "L1472": "hy1",
+    "M1472": "outcome_mean",
+    "N1472": "0",
+    "O1472": "0",
+    "P1472": "unknown",
+    "Q1472": "Table5 p14: 0.0302, one treatment SD, col10; linked benchmark 0.329. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated.",
+    "R1472": "No explicit relative-magnitude sentence for this column. Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
