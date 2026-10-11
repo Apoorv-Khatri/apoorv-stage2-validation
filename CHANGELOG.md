@@ -105189,3 +105189,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:22:34.242660+00:00 — Review 6T38MQ3Y s4: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H500",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I500",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J500",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K500",
+    "before": null,
+    "after": "Reported outcome is monthly six-factor risk-adjusted excess-return alpha (Fama–French five factors plus momentum), in percent per month; other = factor adjustment, not log/standardization. No evidence establishing a point mass at zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I160",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J160",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K160",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L160",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M160",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N160",
+    "before": null,
+    "after": "Table6: linear abnormal-return group contrasts for receiving at least one cross-sector or within-sector competition mention versus no corresponding mention, further partitioned into targeted versus admired firms; GIC and FF48 variants. Cross- and within-sector mention groups can overlap; do not treat them as disjoint randomized arms."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O160",
+    "before": null,
+    "after": "Main mechanism evidence interpreted as limited attention driving returns (p.4319). Actual implementation uses at-least-one-mention categories because count portfolios would be sparse. Correct the model’s vague “versus other mention categories”: no single pooled other-category control is implemented. Individual alpha estimates are not mean benchmarks for other alpha estimates. Source: §3.1, pp.4318–4319/PDF19–20; Table6 p.4319; lines1208–1295.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574. Certainty: moderate: binary group contrasts are discussed in prose, although the table prints group alphas rather than a separate contrast column."
+  }
+]
+```
