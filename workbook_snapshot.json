@@ -15514,7 +15514,16 @@
     "L1788": "0",
     "M1788": "n/a",
     "N1788": "Table VIII A-B pp.398-399: high-versus-low smoothed hedging-pressure contrast within each Q half; binary HP-bin treatment. Same double sorts as s7 but distinct persistent hedging-demand contrast.",
-    "O1788": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. "
+    "O1788": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. ",
+    "A1789": "3DI8S52Q",
+    "B1789": "h5",
+    "I1789": "1",
+    "J1789": "FE",
+    "K1789": "0",
+    "L1789": "0",
+    "M1789": "n/a",
+    "N1789": "Table IX A pp.400-402: continuous Q return slope modified by high-VIX indicator; commodity-FE panel, weeks t+1/t+2, with/without commodity-volatility modifier. Null VIX mechanism result distinct from commodity-volatility s8.",
+    "O1789": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. "
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46114,7 +46123,15 @@
     "H4299": "0",
     "I4299": "unknown",
     "J4299": "none",
-    "K4299": "Average subsequent commercial position changes, week1/weeks2-4/weeks5-8/weeks1-8, percent of ranking-day open interest."
+    "K4299": "Average subsequent commercial position changes, week1/weeks2-4/weeks5-8/weeks1-8, percent of ranking-day open interest.",
+    "A4300": "3DI8S52Q",
+    "B4300": "h5",
+    "C4300": "hy1",
+    "K4300": "Commodity front-month futures excess return in week t+1, Tuesday-to-Tuesday simple return.",
+    "A4301": "3DI8S52Q",
+    "B4301": "h5",
+    "C4301": "hy2",
+    "K4301": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
