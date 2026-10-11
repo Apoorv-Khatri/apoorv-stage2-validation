@@ -99753,3 +99753,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:52:50.005803+00:00 — Review 5IF5MIQQ s2: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K71",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L71",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M71",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N71",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O71",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P71",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q71",
+    "before": null,
+    "after": "p719 Sec3.2, Table4 col1 p720: Cash Tobit coefficient1.8103; source states a one-percentage-point increase in cash/assets is associated with a greater dollar share of1.8%, around9% of the mean. Benchmark is the USD proceeds-share mean for issuance observations, numeric mean not explicitly printed or precisely population/weight-defined. Col1 n=9,243; full countries2002–2014 issuance design. Visual pages719–720 confirmed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R71",
+    "before": null,
+    "after": "Qualifying verbal outcome-mean normalization. Source calls effect1.8%; ratio units imply percentage points, not a1.8% relative effect. Do not substitute Table1 18.80% USD-majority issuance rate for the unreported continuous-share mean. No demonstrated untreated-reference population or weighting for continuous Cash Tobit effect: alignment unknown. Coefficient may be latent Tobit slope; source does not supply an observed-share average marginal effect for this calculation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K470",
+    "before": null,
+    "after": "Retain: natural logarithm of one plus annual USD-denominated bond proceeds amount, Table4 col6 Tobit. Do not interpret as USD share or outcome-SD units. Different outcome reported with same treatment/estimator in same table; group with y1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I147",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J147",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K147",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L147",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M147",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N147",
+    "before": null,
+    "after": "Lagged Cash and USD share or log(1+USD amount) of annual bond proceeds among issuers; Tobit. Group the two outcomes reported together, EME/AE slopes and pre/post-crisis variants. Location: Table4 cols1–6, pp719–721."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O147",
+    "before": null,
+    "after": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Country/year/industry FE. Col6 is also Tobit, but log1p dollar-amount dependent variable; keep it as second outcome under the same Cash setting rather than splitting solely on outcome scale. Cash×EME does not make continuous Cash binary. fn5 separate EME/AE regressions are routine sample variants. Source: Table4 cols1–6, pp719–721. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+  }
+]
+```
