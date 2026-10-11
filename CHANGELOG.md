@@ -116640,3 +116640,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:38:37.816696+00:00 — Review 8SZBUU3X s7: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H572",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H573",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H574",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H575",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H576",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I572",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I573",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I574",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I575",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I576",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J572",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J573",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J574",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J575",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J576",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K572",
+    "before": null,
+    "after": "spurious: diagnostic-only first stage, origination balance outcome, or positive-equity placebo; excluded from causal outcome set."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K573",
+    "before": null,
+    "after": "spurious: diagnostic-only first stage, origination balance outcome, or positive-equity placebo; excluded from causal outcome set."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K574",
+    "before": null,
+    "after": "spurious: diagnostic-only first stage, origination balance outcome, or positive-equity placebo; excluded from causal outcome set."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K575",
+    "before": null,
+    "after": "Income normalized by household reported income at mortgage origination, displayed as %ΔDep; not log or outcome-SD units. Caption describes deposit/origination-income ratio but prose treats zero deposits as−100% change. Additive centering does not affect slope; mass at zero on reported normalized/change scale unresolved. Underlying deposits can be zero in baseline; s11 col1 excludes them, which does not prove zero mass absent for a growth outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K576",
+    "before": null,
+    "after": "spurious: diagnostic-only first stage, origination balance outcome, or positive-equity placebo; excluded from causal outcome set."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J200",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L200",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M200",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N200",
+    "before": null,
+    "after": "Reduced-form binary synthetic negative equity on normalized current income, Table III col4 only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O200",
+    "before": null,
+    "after": "Three separately included identifying sets: MSA×time, origination-date×time, HH. Text p2978 expressly uses HH FE to absorb unobserved time-invariant differences. Exclude cols1–3 origination diagnostics and cols5–6 positive-equity-only placebo checks. Text p2978 mistakenly cites col4 for omitted-negative-equity sample; actual table maps it to col5. Source: Table III p2977 col4; p2978. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8SZBUU3X.pdf."
+  }
+]
+```
