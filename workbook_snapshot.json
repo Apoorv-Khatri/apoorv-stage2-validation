@@ -17323,7 +17323,16 @@
     "L1936": "0",
     "M1936": "n/a",
     "N1936": "Gambling status changes scale of weekly cash/income shocks in structural repayment model, borrower and lender perspectives.",
-    "O1936": "UNRESOLVED CAUSAL-SETTING CANDIDATE, not a confirmed inclusion. Main p14 says gamblers have a higher variance in income, compared to non-gamblers. Table5 estimates a conditional structural distribution parameter. That sentence does not independently attribute income volatility to an intervention on gambling; being used in the s7 counterfactual does not automatically make every primitive a separate causal setting. Hold weakest mechanism rather than unconditional keep=1. Explicit gambling→profits/surplus counterfactual s7 remains included. Source: Main p14 Sec5; Table5 p15; Eq4–10.. Retained visibly for follow-up rather than silently omitted; do not count as a confirmed causal setting. Source: Eq4–10 pp.7–8; Table5 p.15; Sec5 p.14. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15. Certainty: medium: structural mechanism causal gate."
+    "O1936": "UNRESOLVED CAUSAL-SETTING CANDIDATE, not a confirmed inclusion. Main p14 says gamblers have a higher variance in income, compared to non-gamblers. Table5 estimates a conditional structural distribution parameter. That sentence does not independently attribute income volatility to an intervention on gambling; being used in the s7 counterfactual does not automatically make every primitive a separate causal setting. Hold weakest mechanism rather than unconditional keep=1. Explicit gambling→profits/surplus counterfactual s7 remains included. Source: Main p14 Sec5; Table5 p15; Eq4–10.. Retained visibly for follow-up rather than silently omitted; do not count as a confirmed causal setting. Source: Eq4–10 pp.7–8; Table5 p.15; Sec5 p.14. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15. Certainty: medium: structural mechanism causal gate.",
+    "A1937": "5IF5MIQQ",
+    "B1937": "h1",
+    "I1937": "1",
+    "J1937": "Other",
+    "K1937": "0",
+    "L1937": "1",
+    "M1937": "n/a",
+    "N1937": "Lagged change in real exchange rate, ln(nominal LCU/USD × US CPI/local CPI) difference; multinomial issuance-choice response Location: Table3 cols1–3; p718.",
+    "O1937": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Higher regressor=dollar appreciation; authors explicitly say local appreciation leads to greater EME borrowing. Do not turn it into binary devaluation treatment. Source: Table3 cols1–3; p718. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -49986,7 +49995,15 @@
     "H4621": "0",
     "I4621": "unknown",
     "J4621": "none",
-    "K4621": "Lender-perceived weekly cash-shock SD: gambler increment .409 conditional on prior loan history; baseline constant normalized1. No-history term separately estimated; full support not printed, so zero mass unknown."
+    "K4621": "Lender-perceived weekly cash-shock SD: gambler increment .409 conditional on prior loan history; baseline constant normalized1. No-history term separately estimated; full support not printed, so zero mass unknown.",
+    "A4622": "5IF5MIQQ",
+    "B4622": "h1",
+    "C4622": "hy1",
+    "K4622": "USD-majority issuance category indicator relative to no issue; nonlinear MNL coefficient is not a probability-point marginal effect.",
+    "A4623": "5IF5MIQQ",
+    "B4623": "h1",
+    "C4623": "hy2",
+    "K4623": "non-USD-majority issuance category indicator relative to no issue; nonlinear MNL coefficient is not a probability-point marginal effect."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
