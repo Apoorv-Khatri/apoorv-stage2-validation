@@ -32757,3 +32757,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:04:53.457386+00:00 — Review 3DI8S52Q h6: causal scope, outcomes and benchmark evidence
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4302",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4303",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4302",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4303",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4302",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4303",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4302",
+    "before": null,
+    "after": "Commodity front-month futures excess return in week t+1, Tuesday-to-Tuesday simple return."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4303",
+    "before": null,
+    "after": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1790",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1790",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1790",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1790",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1790",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1790",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1790",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1790",
+    "before": null,
+    "after": "Table IX B pp.402-404: continuous Q return slope modified by above-median previous-four-week commercial capital loss; commodity-FE panel, weeks t+1/t+2. Binding-collateral mechanism."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1790",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. p.404: same Q=3.39% implies8.2bps normally versus15.6bps after large losses. This compares conditional effects, not an outcome benchmark. Week2 interaction insignificant."
+  }
+]
+```
