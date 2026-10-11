@@ -17503,7 +17503,16 @@
     "L1956": "0",
     "M1956": "n/a",
     "N1956": "Continuous nonUSD bond proceeds log1p intensity, cash use in high/low FinDep subsamples, t=1,2,3 Location: Table11 pp.736–737.",
-    "O1956": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Source: Table11 pp.736–737. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion."
+    "O1956": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Source: Table11 pp.736–737. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion.",
+    "A1957": "5IF5MIQQ",
+    "B1957": "h21",
+    "I1957": "1",
+    "J1957": "OLS",
+    "K1957": "0",
+    "L1957": "0",
+    "M1957": "n/a",
+    "N1957": "Continuous USD bond proceeds log1p intensity, cash use for rated/nonrated subsamples, t=1,2,3 Location: Table12 p738.",
+    "O1957": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Rated means debt rated by Moodys at least once during sample; Nonrated=never. Do not call classification predetermined or a binary rating treatment. Source: Table12 p738. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50325,7 +50334,19 @@
     "A4657": "5IF5MIQQ",
     "B4657": "h20",
     "C4657": "hy3",
-    "K4657": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction."
+    "K4657": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction.",
+    "A4658": "5IF5MIQQ",
+    "B4658": "h21",
+    "C4658": "hy1",
+    "K4658": "ln(1+(cash and short-term investments at t=1 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction.",
+    "A4659": "5IF5MIQQ",
+    "B4659": "h21",
+    "C4659": "hy2",
+    "K4659": "ln(1+(cash and short-term investments at t=2 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction.",
+    "A4660": "5IF5MIQQ",
+    "B4660": "h21",
+    "C4660": "hy3",
+    "K4660": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
