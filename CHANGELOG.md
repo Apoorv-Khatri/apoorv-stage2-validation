@@ -115521,3 +115521,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:35:35.271759+00:00 — Review 7TY4IBMQ s1: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H545",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H546",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H547",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I545",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I546",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I547",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J545",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J546",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J547",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K545",
+    "before": null,
+    "after": "spurious: outcome belongs to rejected noncausal predictive/risk-pricing setting s1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K546",
+    "before": null,
+    "after": "spurious: outcome belongs to rejected noncausal predictive/risk-pricing setting s1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K547",
+    "before": null,
+    "after": "spurious: outcome belongs to rejected noncausal predictive/risk-pricing setting s1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I187",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O187",
+    "before": null,
+    "after": "Spurious causal setting: Table1 estimates unconditional forecasts of future log consumption growth from lagged financial state variables. Section3.2 explicitly compares predictive performance. The model-added statement that these regressions show state variables affect future macro growth is not the authors’ empirical interpretation. This is not rejection for weak identification: the estimand itself is predictive, not an author-causal treatment effect. Source: Section3.2, Eq.(5), Table1 p433 (PDF6); data definition p432; Figures1–3 pp430,433–434. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7TY4IBMQ.pdf. Certainty: high for supplied article; separately referenced Online Appendix not directly inspected."
+  }
+]
+```
