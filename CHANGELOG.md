@@ -116292,3 +116292,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:37:42.715223+00:00 — Review 8SZBUU3X s3: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H563",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I563",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J563",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K563",
+    "before": null,
+    "after": "Duplicate of s1/y2 under grouped Table IV setting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I196",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M196",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O196",
+    "before": null,
+    "after": "Duplicate/routine specification within retained s1: same treatment, single binary instrument and linear 2SLS in Table IV. Original IDs/fields preserved; all corresponding estimates and population qualifications retained under s1. Source: Table IV cols3–6 p2982. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8SZBUU3X.pdf."
+  }
+]
+```
