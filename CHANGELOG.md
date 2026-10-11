@@ -44526,3 +44526,270 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:45:03.751966+00:00 — Review 4MXMWKXM s9: source-audited coding and linked comparisons
+
+43 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K48",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K49",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K50",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L48",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L49",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L50",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M48",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M49",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M50",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N48",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N49",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N50",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O48",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O49",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O50",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P48",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P49",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P50",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q48",
+    "before": null,
+    "after": "p.886; TableVIII cols7–9 p.884: focal Civil Law × Post-2010 coefficient7.679; source approximately7-grade/7% increase; benchmark Explicit100-point ASSET4 outcome scale, energy-related companies; no population mean or SD. Focal horizon attribution remains unresolved because the prose and table map the timing oppositely; actual table coefficient/horizon is retained, not silently repaired. Candidate focal estimate (attribution unresolved): Civil Law × Post-2010 coefficient7.679; source approximately7-grade/7% increase."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q49",
+    "before": null,
+    "after": "p.886; TableVIII cols7–9 p.884: focal Civil Law × Post-2010 coefficient7.393; source approximately7-grade/7% increase; benchmark Explicit100-point ASSET4 outcome scale, energy-related companies; no population mean or SD. Focal horizon attribution remains unresolved because the prose and table map the timing oppositely; actual table coefficient/horizon is retained, not silently repaired. Candidate focal estimate (attribution unresolved): Civil Law × Post-2010 coefficient7.393; source approximately7-grade/7% increase."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q50",
+    "before": null,
+    "after": "p.886; TableVIII cols7–9 p.884: focal Civil Law × Post-2010 coefficient6.208; source approximately7-grade/7% increase; benchmark Explicit100-point ASSET4 outcome scale, energy-related companies; no population mean or SD. Focal horizon attribution remains unresolved because the prose and table map the timing oppositely; actual table coefficient/horizon is retained, not silently repaired. Candidate focal estimate (attribution unresolved): Civil Law × Post-2010 coefficient6.208; source approximately7-grade/7% increase."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R48",
+    "before": null,
+    "after": "p.886 names Post-2010 but explicitly cites cols4–6, which the rendered Table VIII assigns to Year2010. It then names Year2010 while citing cols7–10 (no col10 exists). Benchmark 100-point scale and verbal division are clear, but exact focal-estimate allocation is not. Treat this persistent candidate and corresponding h16 immediate candidate symmetrically as unknown, not as six confirmed records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R49",
+    "before": null,
+    "after": "p.886 names Post-2010 but explicitly cites cols4–6, which the rendered Table VIII assigns to Year2010. It then names Year2010 while citing cols7–10 (no col10 exists). Benchmark 100-point scale and verbal division are clear, but exact focal-estimate allocation is not. Treat this persistent candidate and corresponding h16 immediate candidate symmetrically as unknown, not as six confirmed records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R50",
+    "before": null,
+    "after": "p.886 names Post-2010 but explicitly cites cols4–6, which the rendered Table VIII assigns to Year2010. It then names Year2010 while citing cols7–10 (no col10 exists). Benchmark 100-point scale and verbal division are clear, but exact focal-estimate allocation is not. Treat this persistent candidate and corresponding h16 immediate candidate symmetrically as unknown, not as six confirmed records."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H397",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H398",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H399",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I397",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I398",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I399",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J397",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J398",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J399",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K397",
+    "before": null,
+    "after": "No sample zero frequencies reported; zero support is not proof of observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K398",
+    "before": null,
+    "after": "No sample zero frequencies reported; zero support is not proof of observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K399",
+    "before": null,
+    "after": "No sample zero frequencies reported; zero support is not proof of observed zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J118",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M118",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N118",
+    "before": null,
+    "after": "Civil-law versus common-law persistent Post-2010 differential response to Deepwater Horizon oil spill; energy-related firms; three ASSET4 environmental scores. Narrow original setting to persistent response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O118",
+    "before": null,
+    "after": "Conventional linear interaction DiD, not modern DiD or HDFE despite country/year/industry FE. Target is differential change in civil relative to common-law firms after the global shock, not the overall effect of the event. Maintained parallel trends; country FE remove time-invariant country heterogeneity, not differential time-varying shocks. TableVIII caption says country-clustered SE; Eq3 prose says firm/time clustering: preserve discrepancy. Table correctly labels cols7–9 Post-2010; prose p.886 reverses labels and mentions nonexistent col10. Source: TableVIII PanelC cols7–9 p.884; SecIV.C pp.885–886."
+  }
+]
+```
