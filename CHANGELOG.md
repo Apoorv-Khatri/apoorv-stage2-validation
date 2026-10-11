@@ -34575,3 +34575,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:09:24.091475+00:00 — Review 3MVCXGJ3 s2: causal scope, outcomes and benchmark evidence
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I89",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J89",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K89",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L89",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M89",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N89",
+    "before": null,
+    "after": "Lagged REPAT (continuous), number of foreign and domestic acquisitions; negative-binomial regression. Narrow to REPAT only. Location: Table4 cols1,4, p.187; Eq.(2) pp.181–182"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O89",
+    "before": null,
+    "after": "Nonlinear estimator. Year FE; one-treatment-SD increments. Do not call these outcome-SD units based on loose all-variables-standardized caption. Table prints 24,132 for cols1,4, unlike the 24,312 main-sample count; preserve this inconsistency. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign\": 0.07, \"domestic\": 0.01}."
+  }
+]
+```
