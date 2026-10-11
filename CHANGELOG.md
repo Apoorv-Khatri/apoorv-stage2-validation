@@ -120654,3 +120654,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:44:53.006239+00:00 — Review 8ZEJGZST h12: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4756",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4757",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4756",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4757",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4756",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4757",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4756",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4757",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4756",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4757",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4756",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4757",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4756",
+    "before": null,
+    "after": "Plant and machinery component of fixed assets; IA Table9, p39 summary. Share versus amount/log specification not explicit; transformation unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4757",
+    "before": null,
+    "after": "Land and buildings component of fixed assets; IA Table9, p39 summary. Share versus amount/log specification not explicit; transformation unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2016",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2016",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2016",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2016",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2016",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2016",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2016",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2016",
+    "before": null,
+    "after": "DRT effects on plant/machinery versus land/buildings components of asset structure; Internet Appendix Table9 summarized p39."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2016",
+    "before": null,
+    "after": "Main text p39 explicitly attributes fixed-asset-share changes to plant/machinery rather than land/buildings, so retain the substantive extension. Unlike the baseline Table10, the missing IA Table9 implementation is not shown: component shares versus levels/logs, separate regressions versus decomposition, and estimator are unresolved. Do not promote an inferred Eq1 implementation to a verified DiD estimator; use unknown pending appendix. Source: Sec4.7 p39; cited IA Table9. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: exact appendix scales unresolved."
+  }
+]
+```

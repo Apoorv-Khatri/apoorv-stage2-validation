@@ -18386,7 +18386,16 @@
     "L2015": "0",
     "M2015": "n/a",
     "N2015": "DRT effects on STD/assets and trade credit/assets, state macro controls,1993 sample and industry×year FE robustness; Internet Appendix Table8 summarized pp37–38.",
-    "O2015": "Explicit repetition of relevant Eq1 robustness tests for these two dependent variables. Separate reported location, routine controls/sample variants grouped. No coefficient or benchmark in article summary. Source: Sec4.6 pp37–38; cited IA Table8. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: main-text summary only."
+    "O2015": "Explicit repetition of relevant Eq1 robustness tests for these two dependent variables. Separate reported location, routine controls/sample variants grouped. No coefficient or benchmark in article summary. Source: Sec4.6 pp37–38; cited IA Table8. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: main-text summary only.",
+    "A2016": "8ZEJGZST",
+    "B2016": "h12",
+    "I2016": "1",
+    "J2016": "unknown",
+    "K2016": "1",
+    "L2016": "0",
+    "M2016": "unknown",
+    "N2016": "DRT effects on plant/machinery versus land/buildings components of asset structure; Internet Appendix Table9 summarized p39.",
+    "O2016": "Main text p39 explicitly attributes fixed-asset-share changes to plant/machinery rather than land/buildings, so retain the substantive extension. Unlike the baseline Table10, the missing IA Table9 implementation is not shown: component shares versus levels/logs, separate regressions versus decomposition, and estimator are unresolved. Do not promote an inferred Eq1 implementation to a verified DiD estimator; use unknown pending appendix. Source: Sec4.7 p39; cited IA Table9. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: exact appendix scales unresolved."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52232,7 +52241,21 @@
     "H4755": "0",
     "I4755": "unknown",
     "J4755": "none",
-    "K4755": "Trade credit/assets; IA Table8, explicitly stated in Sec4.6 pp36–38."
+    "K4755": "Trade credit/assets; IA Table8, explicitly stated in Sec4.6 pp36–38.",
+    "A4756": "8ZEJGZST",
+    "B4756": "h12",
+    "C4756": "hy1",
+    "H4756": "0",
+    "I4756": "unknown",
+    "J4756": "unknown",
+    "K4756": "Plant and machinery component of fixed assets; IA Table9, p39 summary. Share versus amount/log specification not explicit; transformation unknown.",
+    "A4757": "8ZEJGZST",
+    "B4757": "h12",
+    "C4757": "hy2",
+    "H4757": "0",
+    "I4757": "unknown",
+    "J4757": "unknown",
+    "K4757": "Land and buildings component of fixed assets; IA Table9, p39 summary. Share versus amount/log specification not explicit; transformation unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
