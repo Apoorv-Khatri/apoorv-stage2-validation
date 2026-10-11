@@ -17440,7 +17440,16 @@
     "L1949": "0",
     "M1949": "n/a",
     "N1949": "Lagged Cash effect on USD versus nonUSD issuance conditional on endogenous selection into bond issuance; maximum-likelihood selection-corrected probit Location: Table8 col4a; Sec3.6 p728.",
-    "O1949": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Selection equation4b excluded as diagnostic-only outcome. Excluded selection regressors inflation,GDP growth,institutional quality,private credit; not linear IV treatment estimation. Source: Table8 col4a; Sec3.6 p728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+    "O1949": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Selection equation4b excluded as diagnostic-only outcome. Excluded selection regressors inflation,GDP growth,institutional quality,private credit; not linear IV treatment estimation. Source: Table8 col4a; Sec3.6 p728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf.",
+    "A1950": "5IF5MIQQ",
+    "B1950": "h14",
+    "I1950": "1",
+    "J1950": "Other",
+    "K1950": "0",
+    "L1950": "0",
+    "M1950": "n/a",
+    "N1950": "Lagged real exchange-rate change effect on USD versus nonUSD issuance; selection-corrected probit Location: Table8 col4a; Sec3.6 p728.",
+    "O1950": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Same selection model as h13 but separately interpreted exchange-rate treatment. Column4b not an additional substantive effect setting. Source: Table8 col4a; Sec3.6 p728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50190,7 +50199,11 @@
     "A4639": "5IF5MIQQ",
     "B4639": "h13",
     "C4639": "hy1",
-    "K4639": "Indicator=1 for USD issuance,0 for nonUSD issuance among firms issuing a bond; selection-corrected probit outcome Table8 col4a. Not USD versus no issuance and not col4b selection indicator."
+    "K4639": "Indicator=1 for USD issuance,0 for nonUSD issuance among firms issuing a bond; selection-corrected probit outcome Table8 col4a. Not USD versus no issuance and not col4b selection indicator.",
+    "A4640": "5IF5MIQQ",
+    "B4640": "h14",
+    "C4640": "hy1",
+    "K4640": "Indicator=1 for USD issuance,0 for nonUSD issuance among firms issuing a bond; selection-corrected probit outcome Table8 col4a. Not USD versus no issuance and not col4b selection indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
