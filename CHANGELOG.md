@@ -104286,3 +104286,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T05:50:36.744586+00:00 — Review 5IF5MIQQ h30: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4680",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4680",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4680",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4680",
+    "before": null,
+    "after": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1966",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1966",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1966",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1966",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1966",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1966",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1966",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1966",
+    "before": null,
+    "after": "Alternative Carry Trade proxy: interest differential divided by annualized SD of realized exchange-rate changes, USD-share Tobit Location: Sec3.3 p721 untabulated alternative to Table5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1966",
+    "before": null,
+    "after": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Separate constructed treatment from option-implied volatility and Bloomberg return index. Same results reported; no numbers. Exact transformed scale not independently restated; likely inherited log1p but do not assert as verified. Source: Sec3.3 p721 untabulated alternative to Table5. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium: estimator inherited, transformation not restated."
+  }
+]
+```

@@ -17584,7 +17584,16 @@
     "L1965": "0",
     "M1965": "n/a",
     "N1965": "Cash and euro-denominated share of bond proceeds, Tobit model applied as for dollar issuance Location: Sec3.6 p729 summary of Internet Appendix.",
-    "O1965": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. No numeric effect or benchmark printed. Euro total-proceeds and foreign-proceeds percentages on p729 are descriptive, not linked to an effect. Source: Sec3.6 p729 summary of Internet Appendix. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium: main-text evidence, precise supplementary specification unavailable."
+    "O1965": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. No numeric effect or benchmark printed. Euro total-proceeds and foreign-proceeds percentages on p729 are descriptive, not linked to an effect. Source: Sec3.6 p729 summary of Internet Appendix. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium: main-text evidence, precise supplementary specification unavailable.",
+    "A1966": "5IF5MIQQ",
+    "B1966": "h30",
+    "I1966": "1",
+    "J1966": "Other",
+    "K1966": "0",
+    "L1966": "1",
+    "M1966": "n/a",
+    "N1966": "Alternative Carry Trade proxy: interest differential divided by annualized SD of realized exchange-rate changes, USD-share Tobit Location: Sec3.3 p721 untabulated alternative to Table5.",
+    "O1966": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Separate constructed treatment from option-implied volatility and Bloomberg return index. Same results reported; no numbers. Exact transformed scale not independently restated; likely inherited log1p but do not assert as verified. Source: Sec3.3 p721 untabulated alternative to Table5. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium: estimator inherited, transformation not restated."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50503,7 +50512,11 @@
     "A4679": "5IF5MIQQ",
     "B4679": "h29",
     "C4679": "hy1",
-    "K4679": "Share of annual issuance proceeds denominated in euros; Tobit analogue described p729; exact supplementary specification and zero mass not established."
+    "K4679": "Share of annual issuance proceeds denominated in euros; Tobit analogue described p729; exact supplementary specification and zero mass not established.",
+    "A4680": "5IF5MIQQ",
+    "B4680": "h30",
+    "C4680": "hy1",
+    "K4680": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
