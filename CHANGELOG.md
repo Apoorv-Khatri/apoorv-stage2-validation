@@ -33906,3 +33906,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:07:52.979176+00:00 — Review 3DI8S52Q h17: causal scope, outcomes and benchmark evidence
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4321",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4322",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4321",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4322",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4321",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4322",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4321",
+    "before": null,
+    "after": "Commodity front-month futures excess return in week t+1, Tuesday-to-Tuesday simple return."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4322",
+    "before": null,
+    "after": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1801",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1801",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1801",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1801",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1801",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1801",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1801",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1801",
+    "before": null,
+    "after": "pp.405-406 footnote23 main-text summaries of Tables IA.IV-IA.VI: nonmomentum-Q return effects under alternative lag structures (4/13/26/52 weeks), rolling/control/bootstrap/time-series decomposition variants. Group routine variants at summarized robustness block."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1801",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Main-text substantive results only; separate Internet Appendix not inspected. No unavailable coefficient, table-specific estimator detail or benchmark invented. Method unknown where full implemented second-stage estimator is not explicitly established."
+  }
+]
+```
