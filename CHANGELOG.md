@@ -115614,3 +115614,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:35:48.523907+00:00 — Review 7TY4IBMQ s2: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H548",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H549",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H550",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I548",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I549",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I550",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J548",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J549",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J550",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K548",
+    "before": null,
+    "after": "spurious: outcome belongs to rejected noncausal predictive/risk-pricing setting s2. The target c(t+1:t+H) is the same log consumption-growth target as Eqs.(5)–(6); a generated forecast regressor does not undo that target scale. Original second-stage none-versus-log wording is misleading."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K549",
+    "before": null,
+    "after": "spurious: outcome belongs to rejected noncausal predictive/risk-pricing setting s2. The target c(t+1:t+H) is the same log consumption-growth target as Eqs.(5)–(6); a generated forecast regressor does not undo that target scale. Original second-stage none-versus-log wording is misleading."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K550",
+    "before": null,
+    "after": "spurious: outcome belongs to rejected noncausal predictive/risk-pricing setting s2. The target c(t+1:t+H) is the same log consumption-growth target as Eqs.(5)–(6); a generated forecast regressor does not undo that target scale. Original second-stage none-versus-log wording is misleading."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I188",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O188",
+    "before": null,
+    "after": "Spurious causal setting: rolling-window forecasts are evaluated in a second-stage calibration/predictive regression. The two stages estimate a conditional expectation, not instrumented treatment receipt; no IV setting is implied. Fit comparisons and bootstrap correction for generated regressors are forecasting diagnostics. Authors assume these slopes proxy SDF coefficients for later conditional-pricing tests, not causal effects of fitted forecasts on consumption. Source: Section3.2, Eqs.(6)–(7), Table2 pp434–436 (PDF7–9); AppendixA pp447–448. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7TY4IBMQ.pdf. Certainty: high for supplied article; separately referenced Online Appendix not directly inspected."
+  }
+]
+```
