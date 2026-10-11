@@ -17772,7 +17772,16 @@
     "L1973": "0",
     "M1973": "n/a",
     "N1973": "Table5 separately interpreted extensive-margin no-mention indicator (=1 for no mention, 0 otherwise), with its log(size) interaction, in monthly Fama–MacBeth excess-return regressions. All, targeting and admiring mention definitions; count slope remains in s3.",
-    "O1973": "Authors explicitly isolate/discuss mentioned versus non-mentioned returns, not merely list this covariate: effect does not stem only from that difference. Add a separate binary setting rather than pooling the continuous count and binary margin. These coefficients are not unconditional effects: the binary contrast includes the size interaction; changing count support simultaneously is not the same contrast. Weak statistical significance does not exclude a substantive effect. Source: §2, Table5 p.4317/PDF18, prose pp.4316–4318; lines1086–1092,1116–1123,1154–1166,1180–1182.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574. Certainty: moderate: authors discuss this as a substantive extensive-margin check, although it also functions as a control."
+    "O1973": "Authors explicitly isolate/discuss mentioned versus non-mentioned returns, not merely list this covariate: effect does not stem only from that difference. Add a separate binary setting rather than pooling the continuous count and binary margin. These coefficients are not unconditional effects: the binary contrast includes the size interaction; changing count support simultaneously is not the same contrast. Weak statistical significance does not exclude a substantive effect. Source: §2, Table5 p.4317/PDF18, prose pp.4316–4318; lines1086–1092,1116–1123,1154–1166,1180–1182.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574. Certainty: moderate: authors discuss this as a substantive extensive-margin check, although it also functions as a control.",
+    "A1974": "7PCAD73D",
+    "B1974": "h2",
+    "I1974": "1",
+    "J1974": "FE",
+    "K1974": "1",
+    "L1974": "0",
+    "M1974": "n/a",
+    "N1974": "Breach×STLender enforcement robustness excluding dynamic thresholds, renegotiation, post-first-breach observations, or never-breach loans. Location: Table3B pp.3486–3487",
+    "O1974": "Observational linear interaction design, not an implemented treated/post parallel-trends DiD or a local-polynomial RD. EPS proximity and covenant threshold do not themselves make this RD. Breach×STLender measures differential breach-associated outcome for short-termist lenders, not an IV effect of actual enforcement. Authors acknowledge omitted unobservables and manipulation pp.3476,3484. Identifying FE, not HDFE: source reports Quarter, Industry×Quarter, Lender and Lender×Quarter rows cumulatively. Quarter is nested in Industry×Quarter; Lender is additionally nested in Lender×Quarter. Effective sets by baseline column: (1) quarter; (2) industry×quarter; (3) industry×quarter + lender; (4–5) industry×quarter + lender×quarter. Equation3 itself writes only the two interacted sets. Explicit pp3482–3483 discussion addresses confounding. Preserve every reported Yes/No row as source reporting, but do not count redundant sets as extra separately absorbed dimensions. Analogous year nesting applies to TableB.7. Source: Table3B pp.3486–3487. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50822,7 +50831,14 @@
     "H4688": "0",
     "I4688": "unknown",
     "J4688": "none",
-    "K4688": "Firm monthly stock return in excess of the risk-free rate. Table5 regression coefficients are multiplied by 100, so the reported dummy/interaction contrasts are in percentage points of monthly return. Table5 p.4317/PDF18. No point-mass-at-zero evidence is reported."
+    "K4688": "Firm monthly stock return in excess of the risk-free rate. Table5 regression coefficients are multiplied by 100, so the reported dummy/interaction contrasts are in percentage points of monthly return. Table5 p.4317/PDF18. No point-mass-at-zero evidence is reported.",
+    "A4689": "7PCAD73D",
+    "B4689": "h2",
+    "C4689": "hy1",
+    "H4689": "1",
+    "I4689": "1",
+    "J4689": "none",
+    "K4689": "Enforcement: material covenant violation disclosed in subsequent four quarters, 1 versus0. Definition pp.3477,3482,A.1 p3512; observed overall incidence11.14% in Table1 confirms zeros."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
