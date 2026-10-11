@@ -106644,3 +106644,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:24:10.120695+00:00 — Review 6T38MQ3Y s11: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H509",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I509",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J509",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K509",
+    "before": null,
+    "after": "Reported outcome is monthly six-factor risk-adjusted excess-return alpha (Fama–French five factors plus momentum), in percent per month; other = factor adjustment, not log/standardization. No evidence establishing a point mass at zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I167",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J167",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K167",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L167",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M167",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N167",
+    "before": null,
+    "after": "Table12: linear 3+ versus 1 contrast in number of competitors a firm mentions in its own 10-K, for all, targeting and admiring mentioners; value-weighted six-factor alpha. Supporting reverse-direction contrast to the incoming-mention effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O167",
+    "before": null,
+    "after": "Retain as a substantive negative directional comparison in the same author-attributed information mechanism, not a balance/pretrend diagnostic. The claim is that incoming recognition matters whereas the analogous outgoing mention measure does not explain outperformance. A stricter prediction-only reading is possible; no assertion of experimentally identified null effect. Printed contrast −0.07 is preserved rather than replacing it with the difference of rounded endpoint alphas. Source: §6, Table12 p.4329/PDF30; lines1954–1993.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574. Certainty: moderate: null reverse-link test inherits substantive mechanism interpretation rather than an explicit intervention claim."
+  }
+]
+```
