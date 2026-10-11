@@ -96912,3 +96912,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:49:19.411014+00:00 — Review 4X76IAGM h23: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2042",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2043",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2042",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2043",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2042",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2043",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2042",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2042",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2043",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2042",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2043",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2042",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2043",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2042",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2042",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2043",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2042",
+    "before": null,
+    "after": "TableA.10 row1, Lender Profits column: -33.84% median impact. Sec6.3 computes intervention separately for each borrower then reports median impacts; each percentage uses own unaltered-trait model outcome as denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2043",
+    "before": null,
+    "after": "TableA.10 row1, Borrower Surplus column: +25.51% median impact. Sec6.3 computes intervention separately for each borrower then reports median impacts; each percentage uses own unaltered-trait model outcome as denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2042",
+    "before": null,
+    "after": "other_level because normalization is to each borrower’s own baseline outcome, followed by median aggregation, not an effect divided by a population mean/SD. Lender-profit cells omit % glyph, but main prose and plots establish percentage units. For preference welfare use same .95/no-present-bias evaluation on both sides."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2043",
+    "before": null,
+    "after": "other_level because normalization is to each borrower’s own baseline outcome, followed by median aggregation, not an effect divided by a population mean/SD. Lender-profit cells omit % glyph, but main prose and plots establish percentage units. For preference welfare use same .95/no-present-bias evaluation on both sides."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4605",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4606",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4605",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4606",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4605",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4606",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4605",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4606",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4605",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4606",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4605",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4606",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4605",
+    "before": null,
+    "after": "Chosen lender profits: median borrower-specific percentage change across borrower interventions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4606",
+    "before": null,
+    "after": "Borrower surplus: median borrower-specific percentage change across borrower interventions. For preference changes welfare uses annual .95/no present bias."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1927",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1927",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1927",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1927",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1927",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1927",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1927",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1927",
+    "before": null,
+    "after": "Set an individual borrower’s gambling status to non-use; recompute repayment, demand, lender choice and loan terms; median individual percentage changes in chosen-lender profits and own surplus. No-lender-information-asymmetry robustness, TableA.10 row1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1927",
+    "before": null,
+    "after": "Re-estimated structural model with characteristics known from first loan; intervention effects computed as in Sec6.3, not a direct effect of revealing information. Source: SecA.10, TableA.10 appendix p.26. Source link: https://ars.els-cdn.com/content/image/1-s2.0-S0304405X2400117X-mmc1.pdf#page=26."
+  }
+]
+```
