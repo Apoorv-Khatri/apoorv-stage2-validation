@@ -15487,7 +15487,16 @@
     "L1785": "1",
     "M1785": "n/a",
     "N1785": "Table VI pp.395-396: continuous RAW hedging pressure HP treatment in columns1/4; OLS Fama-MacBeth traditional backwardation test, effects on next two weekly returns. Distinct from smoothed insurance-demand component in s5.",
-    "O1785": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Insignificant -.09/.14 coefficients times100; retain substantive null test."
+    "O1785": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Insignificant -.09/.14 coefficients times100; retain substantive null test.",
+    "A1786": "3DI8S52Q",
+    "B1786": "h2",
+    "I1786": "1",
+    "J1786": "OLS",
+    "K1786": "0",
+    "L1786": "1",
+    "M1786": "n/a",
+    "N1786": "Table VI pp.395-396: continuous short-term commercial Q treatment conditional on smoothed HP; columns3/6. Fama-MacBeth OLS, coefficients4.75/2.45 times100. Separate liquidity-demand margin from s5 insurance demand.",
+    "O1786": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. "
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46036,7 +46045,15 @@
     "A4290": "3DI8S52Q",
     "B4290": "h1",
     "C4290": "hy2",
-    "K4290": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
+    "K4290": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return.",
+    "A4291": "3DI8S52Q",
+    "B4291": "h2",
+    "C4291": "hy1",
+    "K4291": "Commodity front-month futures excess return in week t+1, Tuesday-to-Tuesday simple return.",
+    "A4292": "3DI8S52Q",
+    "B4292": "h2",
+    "C4292": "hy2",
+    "K4292": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
