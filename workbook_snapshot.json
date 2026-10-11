@@ -17981,7 +17981,16 @@
     "L1990": "0",
     "M1990": "n/a",
     "N1990": "Breach×STLender on switching, varying next-loan horizon; two-year col2 repeats Table10A col5 and is not double counted. Location: Table10B cols1,3–5 pp.3499–3500",
-    "O1990": "Observational linear interaction design, not an implemented treated/post parallel-trends DiD or a local-polynomial RD. EPS proximity and covenant threshold do not themselves make this RD. Breach×STLender measures differential breach-associated outcome for short-termist lenders, not an IV effect of actual enforcement. Authors acknowledge omitted unobservables and manipulation pp.3476,3484. Identifying FE, not HDFE: source reports Quarter, Industry×Quarter, Lender and Lender×Quarter rows cumulatively. Quarter is nested in Industry×Quarter; Lender is additionally nested in Lender×Quarter. Effective sets by baseline column: (1) quarter; (2) industry×quarter; (3) industry×quarter + lender; (4–5) industry×quarter + lender×quarter. Equation3 itself writes only the two interacted sets. Explicit pp3482–3483 discussion addresses confounding. Preserve every reported Yes/No row as source reporting, but do not count redundant sets as extra separately absorbed dimensions. Analogous year nesting applies to TableB.7. Source: Table10B cols1,3–5 pp.3499–3500. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+    "O1990": "Observational linear interaction design, not an implemented treated/post parallel-trends DiD or a local-polynomial RD. EPS proximity and covenant threshold do not themselves make this RD. Breach×STLender measures differential breach-associated outcome for short-termist lenders, not an IV effect of actual enforcement. Authors acknowledge omitted unobservables and manipulation pp.3476,3484. Identifying FE, not HDFE: source reports Quarter, Industry×Quarter, Lender and Lender×Quarter rows cumulatively. Quarter is nested in Industry×Quarter; Lender is additionally nested in Lender×Quarter. Effective sets by baseline column: (1) quarter; (2) industry×quarter; (3) industry×quarter + lender; (4–5) industry×quarter + lender×quarter. Equation3 itself writes only the two interacted sets. Explicit pp3482–3483 discussion addresses confounding. Preserve every reported Yes/No row as source reporting, but do not count redundant sets as extra separately absorbed dimensions. Analogous year nesting applies to TableB.7. Source: Table10B cols1,3–5 pp.3499–3500. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf.",
+    "A1991": "7PCAD73D",
+    "B1991": "h21",
+    "I1991": "1",
+    "J1991": "FE",
+    "K1991": "1",
+    "L1991": "1",
+    "M1991": "n/a",
+    "N1991": "Breach×STLender on renegotiated loan amount change; Table11B columns1–5. Log-difference versus percentage-change source scale unresolved.",
+    "O1991": "Observational linear interaction design, not an implemented treated/post parallel-trends DiD or a local-polynomial RD. EPS proximity and covenant threshold do not themselves make this RD. Breach×STLender measures differential breach-associated outcome for short-termist lenders, not an IV effect of actual enforcement. Authors acknowledge omitted unobservables and manipulation pp.3476,3484. Identifying FE, not HDFE: source reports Quarter, Industry×Quarter, Lender and Lender×Quarter rows cumulatively. Quarter is nested in Industry×Quarter; Lender is additionally nested in Lender×Quarter. Effective sets by baseline column: (1) quarter; (2) industry×quarter; (3) industry×quarter + lender; (4–5) industry×quarter + lender×quarter. Equation3 itself writes only the two interacted sets. Explicit pp3482–3483 discussion addresses confounding. Preserve every reported Yes/No row as source reporting, but do not count redundant sets as extra separately absorbed dimensions. Analogous year nesting applies to TableB.7. Routine FE/control variants at this table are grouped after nested-FE adjudication; no additional HDFE method is established. Source: Breach×STLender on renegotiated loan amount change; Table11B columns1–5. Log-difference versus percentage-change source scale unresolved.. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -51211,7 +51220,14 @@
     "H4709": "1",
     "I4709": "1",
     "J4709": "none",
-    "K4709": "Switch to new lead arranger on next loan within5years."
+    "K4709": "Switch to new lead arranger on next loan within5years.",
+    "A4710": "7PCAD73D",
+    "B4710": "h21",
+    "C4710": "hy1",
+    "H4710": "0",
+    "I4710": "unknown",
+    "J4710": "unknown",
+    "K4710": "Renegotiated loan amount change. Equation4 text p3498 defines a difference in natural logs; Table11 p3500 header/caption defines percentage change. Exact implemented log-difference versus arithmetic relative-change scale is unresolved. Continuous, not logged level; Human_binary=0, zero mass unknown. Preserve printed coefficients and approximate 6.8%/15.5% prose without converting to exact percentages."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

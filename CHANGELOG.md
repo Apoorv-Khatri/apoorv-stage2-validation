@@ -111960,3 +111960,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:31:57.415340+00:00 — Review 7PCAD73D h21: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4710",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4710",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4710",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4710",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4710",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4710",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4710",
+    "before": null,
+    "after": "Renegotiated loan amount change. Equation4 text p3498 defines a difference in natural logs; Table11 p3500 header/caption defines percentage change. Exact implemented log-difference versus arithmetic relative-change scale is unresolved. Continuous, not logged level; Human_binary=0, zero mass unknown. Preserve printed coefficients and approximate 6.8%/15.5% prose without converting to exact percentages."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1991",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1991",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1991",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1991",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1991",
+    "before": null,
+    "after": "Breach×STLender on renegotiated loan amount change; Table11B columns1–5. Log-difference versus percentage-change source scale unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1991",
+    "before": null,
+    "after": "Observational linear interaction design, not an implemented treated/post parallel-trends DiD or a local-polynomial RD. EPS proximity and covenant threshold do not themselves make this RD. Breach×STLender measures differential breach-associated outcome for short-termist lenders, not an IV effect of actual enforcement. Authors acknowledge omitted unobservables and manipulation pp.3476,3484. Identifying FE, not HDFE: source reports Quarter, Industry×Quarter, Lender and Lender×Quarter rows cumulatively. Quarter is nested in Industry×Quarter; Lender is additionally nested in Lender×Quarter. Effective sets by baseline column: (1) quarter; (2) industry×quarter; (3) industry×quarter + lender; (4–5) industry×quarter + lender×quarter. Equation3 itself writes only the two interacted sets. Explicit pp3482–3483 discussion addresses confounding. Preserve every reported Yes/No row as source reporting, but do not count redundant sets as extra separately absorbed dimensions. Analogous year nesting applies to TableB.7. Routine FE/control variants at this table are grouped after nested-FE adjudication; no additional HDFE method is established. Source: Breach×STLender on renegotiated loan amount change; Table11B columns1–5. Log-difference versus percentage-change source scale unresolved.. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+  }
+]
+```
