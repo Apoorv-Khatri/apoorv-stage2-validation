@@ -7764,3 +7764,24 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T01:26:07.707050+00:00 — Review 2LWSD69M s8: causal scope, outcomes and benchmark evidence
+
+2 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I30",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O30",
+    "before": null,
+    "after": "Exclude under the pure prediction/descriptive exclusion in the supplied instructions. Table 7 Panel A, Section 5.1, pp. 395,397-398: Size-split portfolio sorts test robustness of return predictability among big/small firms. Neither ranking nor size-group membership is interpreted as an assigned treatment. The paper provides an economic explanation for the apparent premium decline, but does not interpret these signal coefficients as effects of changing X on Y. This decision is about interpretation, not the absence of randomization or remaining endogeneity."
+  }
+]
+```
