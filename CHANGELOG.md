@@ -34626,3 +34626,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:09:45.870750+00:00 — Review 3MVCXGJ3 h2: causal scope, outcomes and benchmark evidence
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4328",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4329",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4328",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4329",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4328",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4329",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4328",
+    "before": null,
+    "after": "Number of foreign cash acquisitions in year t; Table4 generated-proxy columns."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4329",
+    "before": null,
+    "after": "Number of domestic cash acquisitions in year t; Table4 generated-proxy columns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1805",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1805",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1805",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1805",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1805",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1805",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1805",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1805",
+    "before": null,
+    "after": "Lagged Predicted foreign cash-REPAT, number of foreign and domestic acquisitions; negative-binomial regression. Location: Table4 cols2–3,5–6, p.187"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1805",
+    "before": null,
+    "after": "Year FE; full-sample and BEA variants grouped; generated regressor is not IV. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign_full\": 0.06, \"foreign_BEA\": 0.04, \"domestic_full\": \"−0.00\", \"domestic_BEA\": -0.02}."
+  }
+]
+```

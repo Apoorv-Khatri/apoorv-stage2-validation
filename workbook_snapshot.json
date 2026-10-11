@@ -15673,7 +15673,16 @@
     "L1804": "1",
     "M1804": "n/a",
     "N1804": "Lagged Predicted foreign cash-REPAT (continuous generated proxy), foreign and domestic acquisition indicators; probit marginal effects per treatment SD. Location: Table3 cols2–3,5–6, pp.185–186",
-    "O1804": "Full Compustat n=24,312 and BEA n=2,726 are sample variants. Includes predicted-controls and BEA residual cash controls. Not IV. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign_full_pp\": 0.24, \"foreign_BEA_pp\": 0.28, \"domestic_full_pp\": 0.17, \"domestic_BEA_pp\": -0.97}."
+    "O1804": "Full Compustat n=24,312 and BEA n=2,726 are sample variants. Includes predicted-controls and BEA residual cash controls. Not IV. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign_full_pp\": 0.24, \"foreign_BEA_pp\": 0.28, \"domestic_full_pp\": 0.17, \"domestic_BEA_pp\": -0.97}.",
+    "A1805": "3MVCXGJ3",
+    "B1805": "h2",
+    "I1805": "1",
+    "J1805": "Other",
+    "K1805": "0",
+    "L1805": "1",
+    "M1805": "n/a",
+    "N1805": "Lagged Predicted foreign cash-REPAT, number of foreign and domestic acquisitions; negative-binomial regression. Location: Table4 cols2–3,5–6, p.187",
+    "O1805": "Year FE; full-sample and BEA variants grouped; generated regressor is not IV. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign_full\": 0.06, \"foreign_BEA\": 0.04, \"domestic_full\": \"−0.00\", \"domestic_BEA\": -0.02}."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46385,7 +46394,15 @@
     "A4327": "3MVCXGJ3",
     "B4327": "h1",
     "C4327": "hy2",
-    "K4327": "Indicator for at least one domestic cash acquisition in year t; Table3 generated-proxy columns. Nonbinary-treatment setting: detailed human labels intentionally blank."
+    "K4327": "Indicator for at least one domestic cash acquisition in year t; Table3 generated-proxy columns. Nonbinary-treatment setting: detailed human labels intentionally blank.",
+    "A4328": "3MVCXGJ3",
+    "B4328": "h2",
+    "C4328": "hy1",
+    "K4328": "Number of foreign cash acquisitions in year t; Table4 generated-proxy columns.",
+    "A4329": "3MVCXGJ3",
+    "B4329": "h2",
+    "C4329": "hy2",
+    "K4329": "Number of domestic cash acquisitions in year t; Table4 generated-proxy columns."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
