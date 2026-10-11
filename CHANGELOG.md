@@ -116925,3 +116925,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:39:22.658807+00:00 — Review 8SZBUU3X s10: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H579",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I579",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J579",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K579",
+    "before": null,
+    "after": "spurious: diagnostic-only first stage, origination balance outcome, or positive-equity placebo; excluded from causal outcome set."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K580",
+    "before": null,
+    "after": "Retained nonbinary-treatment outcome; labels optional. Figure3 income series only; first-stage negative-equity series excluded."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I203",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J203",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K203",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L203",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M203",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N203",
+    "before": null,
+    "after": "Synthetic LTV10-percentage-point category profile on normalized income only; exclude the plotted negative-equity first stage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O203",
+    "before": null,
+    "after": "Linear category-dummy regression, NOT nonlinear estimator Other and NOT IV simply because reduced form is part of IV argument. Three identifying sets MSA×time, origination-date×time, HH, with explicit confounding discussion pp2972–74,2978. Nonbinary leverage/price dose profile rather than one implemented two-level assignment. Nonlinear response materially supports abstract/conclusion mechanism claim. Figure2 Panel B excluded as diagnostic-only placebo. Estimates plotted, no exact numeric coefficient table supplied. Actual LTV remains endogenous; retain author causal/mechanism interpretation without endorsing identification. Source: Figure3 p2981. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8SZBUU3X.pdf."
+  }
+]
+```
