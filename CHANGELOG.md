@@ -101121,3 +101121,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:56:31.642599+00:00 — Review 5IF5MIQQ h3: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4625",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4625",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4625",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4625",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4625",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4625",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4625",
+    "before": null,
+    "after": "USD proceeds share among EME issuance-years, Table5 col3. Ratio outcome is not binary; no transformation of dependent variable. Zero is a censoring boundary and other sample tables show nonUSD-only issuances, but zero incidence in the exact 1,751-row carry sample is not independently tabulated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1939",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1939",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1939",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1939",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1939",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1939",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1939",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1939",
+    "before": null,
+    "after": "Above versus below contemporaneous cross-country median Carry Trade: conditional contrast over Cash values, Cash×high and Cash×low, Tobit USD share for EME issuers Location: Table5 col3, p722."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1939",
+    "before": null,
+    "after": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Binary threshold setting split from continuous index. Coefficients are cash slopes within binary groups; source does not report a standalone high-minus-low probability/share marginal effect. Footnote4 warns nonlinear interaction effects require margins; do not subtract coefficients and call it a marginal effect. Source: Table5 col3, p722. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+  }
+]
+```
