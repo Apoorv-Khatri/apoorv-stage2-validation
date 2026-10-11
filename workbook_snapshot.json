@@ -18368,7 +18368,16 @@
     "L2013": "0",
     "M2013": "unknown",
     "N2013": "Multiple versus single lenders as determinant of BIFR bankruptcy-board registration; Internet Appendix Table7, discussed pp35–36.",
-    "O2013": "Supporting debt-renegotiation mechanism interpreted as financing structure affecting private renegotiation/registration; retain despite acknowledged endogenous debt structure. Not diagnostic-only or pure prediction. Exact estimator not stated in main text: unknown, not assumed probit/OLS/IV. Separate continuous Short treatment h10. Source: Sec4.5 pp35–36; cited IA Table7. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: unresolved implementation."
+    "O2013": "Supporting debt-renegotiation mechanism interpreted as financing structure affecting private renegotiation/registration; retain despite acknowledged endogenous debt structure. Not diagnostic-only or pure prediction. Exact estimator not stated in main text: unknown, not assumed probit/OLS/IV. Separate continuous Short treatment h10. Source: Sec4.5 pp35–36; cited IA Table7. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: unresolved implementation.",
+    "A2014": "8ZEJGZST",
+    "B2014": "h10",
+    "I2014": "1",
+    "J2014": "unknown",
+    "K2014": "0",
+    "L2014": "0",
+    "M2014": "unknown",
+    "N2014": "Continuous Short (short-term debt/total debt) as determinant of BIFR registration, controlling leverage; Internet Appendix Table7, discussed pp35–36.",
+    "O2014": "Supporting mechanism with explicitly acknowledged omitted-variable/endogeneity limitation. Exact estimator/FE/lag structure not reported; unknown. No numerical estimates or benchmark in supplied source. Source: Sec4.5 pp35–36; cited IA Table7. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: unresolved implementation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52196,7 +52205,11 @@
     "H4752": "unknown",
     "I4752": "unknown",
     "J4752": "unknown",
-    "K4752": "Indicator/likelihood of registration with Board for Industrial and Financial Reconstruction (BIFR), pp35–36 referring IA Table7. Binary registration event implied; exact coded dependent variable, sample zeros and transformation not supplied."
+    "K4752": "Indicator/likelihood of registration with Board for Industrial and Financial Reconstruction (BIFR), pp35–36 referring IA Table7. Binary registration event implied; exact coded dependent variable, sample zeros and transformation not supplied.",
+    "A4753": "8ZEJGZST",
+    "B4753": "h10",
+    "C4753": "hy1",
+    "K4753": "BIFR registration outcome as described pp35–36/IA Table7; nonbinary-treatment setting, detailed outcome labels not required; precise coding unverified."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

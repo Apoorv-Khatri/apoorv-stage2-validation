@@ -120420,3 +120420,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:44:28.116041+00:00 — Review 8ZEJGZST h10: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4753",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4753",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4753",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4753",
+    "before": null,
+    "after": "BIFR registration outcome as described pp35–36/IA Table7; nonbinary-treatment setting, detailed outcome labels not required; precise coding unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2014",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2014",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2014",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2014",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2014",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2014",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2014",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2014",
+    "before": null,
+    "after": "Continuous Short (short-term debt/total debt) as determinant of BIFR registration, controlling leverage; Internet Appendix Table7, discussed pp35–36."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2014",
+    "before": null,
+    "after": "Supporting mechanism with explicitly acknowledged omitted-variable/endogeneity limitation. Exact estimator/FE/lag structure not reported; unknown. No numerical estimates or benchmark in supplied source. Source: Sec4.5 pp35–36; cited IA Table7. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: unresolved implementation."
+  }
+]
+```
