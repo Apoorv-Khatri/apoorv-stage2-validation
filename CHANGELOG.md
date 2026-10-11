@@ -104676,3 +104676,234 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:21:54.964118+00:00 — Review 6T38MQ3Y s1: source-audited coding and linked comparisons
+
+37 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2066",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2067",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2066",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2067",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2066",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2067",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2066",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2067",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2066",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2067",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2066",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2067",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2066",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2067",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2066",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2067",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2066",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2067",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2066",
+    "before": null,
+    "after": "Table3A p.4313/PDF14, Mean excess return row: printed 3+ minus 0 contrast 0.10 percentage points/month paired with zero mentions portfolio mean 0.64%/month, 1995–2017. Value-weighted portfolios. Compare the raw excess-return contrast to this raw excess-return mean, not an alpha to a raw return mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2067",
+    "before": null,
+    "after": "Table3A p.4313/PDF14, Mean excess return row: printed 3+ minus 1 contrast 0.21 percentage points/month paired with one mention portfolio mean 0.53%/month, 1995–2017. Value-weighted portfolios. Compare the raw excess-return contrast to this raw excess-return mean, not an alpha to a raw return mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2066",
+    "before": null,
+    "after": "Observed comparator portfolio mean and contrast use the same return scale and period. However, the paper does not define a causal target/weighting construction establishing that this comparator mean is the untreated mean for the firms whose mention status is changed; unknown rather than assume alignment from shared sample. Table pairing only: the prose gives contrasts but does not verbalize their ratio to these base means. Preserve printed rounded values."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2067",
+    "before": null,
+    "after": "Observed comparator portfolio mean and contrast use the same return scale and period. However, the paper does not define a causal target/weighting construction establishing that this comparator mean is the untreated mean for the firms whose mention status is changed; unknown rather than assume alignment from shared sample. Table pairing only: the prose gives contrasts but does not verbalize their ratio to these base means. Preserve printed rounded values."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H495",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H496",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I495",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I496",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J495",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J496",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K495",
+    "before": null,
+    "after": "Monthly excess portfolio return in percent, not log returns; no evidence establishing a zero mass. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K496",
+    "before": null,
+    "after": "Reported outcome is monthly six-factor risk-adjusted excess-return alpha (Fama–French five factors plus momentum), in percent per month; other = factor adjustment, not log/standardization. No evidence establishing a point mass at zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I157",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J157",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K157",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L157",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M157",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N157",
+    "before": null,
+    "after": "Table3 PanelA: monthly value-weighted 3+ versus 0 and 3+ versus 1 competition-mention portfolio contrasts in mean excess returns and six-factor alphas, excluding microcaps. Linear observational contrasts under the paper’s investor-underreaction interpretation; not a randomized disclosure intervention."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O157",
+    "before": null,
+    "after": "Causal gate: p.4313 explicitly says “positive effect of competition mentions on stock return”; p.4312 attributes future returns to investor inattention. Do not retain the model’s stronger assertion that competition mentions cause underpricing: the interpretation is overlooked opportunities/information and subsequent price adjustment. Binary=1 refers to the implemented endpoint contrasts, not to the underlying count. Source: §1.3, pp.4312–4314, PDF13–15; Table3A p.4313; text lines778–937.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574."
+  }
+]
+```
