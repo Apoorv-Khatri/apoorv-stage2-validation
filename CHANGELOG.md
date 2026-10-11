@@ -85395,3 +85395,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:45:47.775532+00:00 — Review 4X76IAGM h10: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1899",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1899",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1899",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1899",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1899",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1899",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1899",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1899",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1899",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1899",
+    "before": null,
+    "after": "Sec6.1.1 p.16: under annual .95 discount factor/no present bias borrower surplus decreases8.9% (rather than12.4% under stated discounting)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1899",
+    "before": null,
+    "after": "Compare to no-crackdown outcome, not to the−12.4% effect. Same-target model welfare construction establishes alignment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4566",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4566",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4566",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4566",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4566",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4566",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4566",
+    "before": null,
+    "after": "Average borrower welfare revalued at annual discount factor .95 without present bias; percentage effect relative to equally revalued no-crackdown outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1914",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1914",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1914",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1914",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1914",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1914",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1914",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1914",
+    "before": null,
+    "after": "Crackdown versus no crackdown, welfare revalued at standard .95 annual discounting without present bias."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1914",
+    "before": null,
+    "after": "Distinct welfare estimand, not change in actual borrower choices/preferences as in s10. Source reports8.9% fall versus12.4% under own-preference welfare. Keep separate under estimand rule; do not count effect-versus-effect as a benchmark. Source: Sec6.1.1 p.16. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=16."
+  }
+]
+```

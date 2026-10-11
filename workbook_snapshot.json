@@ -17038,7 +17038,16 @@
     "L1913": "0",
     "M1913": "n/a",
     "N1913": "One fewer missed payment with all past lenders changes expected borrower surplus at a new borrowing decision.",
-    "O1913": "Explicit model counterfactual supporting decision to omit dynamic incentives: average borrower surplus higher byS$.69 per week during a loan. No linked same-outcome benchmark; statements about6.5% discounting are a preference quantity, not surplus benchmark. Source: Sec3.5.3 p.11. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=11."
+    "O1913": "Explicit model counterfactual supporting decision to omit dynamic incentives: average borrower surplus higher byS$.69 per week during a loan. No linked same-outcome benchmark; statements about6.5% discounting are a preference quantity, not surplus benchmark. Source: Sec3.5.3 p.11. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=11.",
+    "A1914": "4X76IAGM",
+    "B1914": "h10",
+    "I1914": "1",
+    "J1914": "Other",
+    "K1914": "1",
+    "L1914": "0",
+    "M1914": "n/a",
+    "N1914": "Crackdown versus no crackdown, welfare revalued at standard .95 annual discounting without present bias.",
+    "O1914": "Distinct welfare estimand, not change in actual borrower choices/preferences as in s10. Source reports8.9% fall versus12.4% under own-preference welfare. Keep separate under estimand rule; do not count effect-versus-effect as a benchmark. Source: Sec6.1.1 p.16. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -49366,7 +49375,14 @@
     "A4565": "4X76IAGM",
     "B4565": "h9",
     "C4565": "hy1",
-    "K4565": "Average borrower surplus increase per week of new loan after one fewer past missed payment with all past lenders, S$."
+    "K4565": "Average borrower surplus increase per week of new loan after one fewer past missed payment with all past lenders, S$.",
+    "A4566": "4X76IAGM",
+    "B4566": "h10",
+    "C4566": "hy1",
+    "H4566": "0",
+    "I4566": "unknown",
+    "J4566": "other",
+    "K4566": "Average borrower welfare revalued at annual discount factor .95 without present bias; percentage effect relative to equally revalued no-crackdown outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -69334,7 +69350,18 @@
     "O1898": "0",
     "P1898": "n/a",
     "Q1898": "Sec5 p.14 and Table5 lower panel p.15: regular-lender cost S$437 before crackdown, increases toS$1,487; post increment1.050S$000.",
-    "R1898": "This is an estimated common type-specific cost level, not a reported sample outcome mean; use other_level."
+    "R1898": "This is an estimated common type-specific cost level, not a reported sample outcome mean; use other_level.",
+    "A1899": "4X76IAGM",
+    "B1899": "h10",
+    "C1899": "hc1",
+    "K1899": "1",
+    "L1899": "hy1",
+    "M1899": "outcome_mean",
+    "N1899": "1",
+    "O1899": "1",
+    "P1899": "1",
+    "Q1899": "Sec6.1.1 p.16: under annual .95 discount factor/no present bias borrower surplus decreases8.9% (rather than12.4% under stated discounting).",
+    "R1899": "Compare to no-crackdown outcome, not to the−12.4% effect. Same-target model welfare construction establishes alignment."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
