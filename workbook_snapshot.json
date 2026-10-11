@@ -17047,7 +17047,16 @@
     "L1914": "0",
     "M1914": "n/a",
     "N1914": "Crackdown versus no crackdown, welfare revalued at standard .95 annual discounting without present bias.",
-    "O1914": "Distinct welfare estimand, not change in actual borrower choices/preferences as in s10. Source reports8.9% fall versus12.4% under own-preference welfare. Keep separate under estimand rule; do not count effect-versus-effect as a benchmark. Source: Sec6.1.1 p.16. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=16."
+    "O1914": "Distinct welfare estimand, not change in actual borrower choices/preferences as in s10. Source reports8.9% fall versus12.4% under own-preference welfare. Keep separate under estimand rule; do not count effect-versus-effect as a benchmark. Source: Sec6.1.1 p.16. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=16.",
+    "A1915": "4X76IAGM",
+    "B1915": "h11",
+    "I1915": "1",
+    "J1915": "Other",
+    "K1915": "1",
+    "L1915": "0",
+    "M1915": "n/a",
+    "N1915": "Crackdown-induced lender exit/consideration-set removal in isolation versus reinstated pre-crackdown lenders.",
+    "O1915": "Substantive structural decomposition implemented but omitted from table because no meaningful effect on loan outcomes. Exact outcome-specific coefficients unavailable; preserve broad outcome and uncertainty instead of fabricating zeros. Source: Sec4.2 p.13; Sec6.1.1 p.16 fn16. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -49382,7 +49391,14 @@
     "H4566": "0",
     "I4566": "unknown",
     "J4566": "other",
-    "K4566": "Average borrower welfare revalued at annual discount factor .95 without present bias; percentage effect relative to equally revalued no-crackdown outcome."
+    "K4566": "Average borrower welfare revalued at annual discount factor .95 without present bias; percentage effect relative to equally revalued no-crackdown outcome.",
+    "A4567": "4X76IAGM",
+    "B4567": "h11",
+    "C4567": "hy1",
+    "H4567": "unknown",
+    "I4567": "unknown",
+    "J4567": "unknown",
+    "K4567": "Loan outcomes/payoffs under changing borrower consideration sets alone; source reports no meaningful impact but does not enumerate estimates."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
