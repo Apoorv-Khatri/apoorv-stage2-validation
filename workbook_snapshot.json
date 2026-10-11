@@ -17011,7 +17011,16 @@
     "L1910": "1",
     "M1910": "n/a",
     "N1910": "Crackdown shifts regular lenders’ unit harassment cost; nonlinear structural cost parameter theta_post^kappa=1.050 S$000.",
-    "O1910": "Substantively interpreted mechanism: S$437 before toS$1,487 after, includes runner payments plus expected arrest disutility. Different outcome/estimand from Table7 total harassment costs. Nonlinear joint structural estimation despite linear parameterization of cost. Source: Table5 lower panel p.15; Sec5 p.14; Eq14 p.8. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15."
+    "O1910": "Substantively interpreted mechanism: S$437 before toS$1,487 after, includes runner payments plus expected arrest disutility. Different outcome/estimand from Table7 total harassment costs. Nonlinear joint structural estimation despite linear parameterization of cost. Source: Table5 lower panel p.15; Sec5 p.14; Eq14 p.8. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15.",
+    "A1911": "4X76IAGM",
+    "B1911": "h7",
+    "I1911": "1",
+    "J1911": "Other",
+    "K1911": "0",
+    "L1911": "0",
+    "M1911": "n/a",
+    "N1911": "Increase lender harassment probability and borrower cash available for repayments through effort; structural repayment model parameters, Table5 first two columns.",
+    "O1911": "Explicit causal interpretation: borrowers increase cash when faced with higher harassment probability. Coefficients .257 (borrower perspective) and .384 (lender perspective), unitsS$000 per unit probability. Structural ML integrating unobserved harshness, not OLS. Lender-perspective counterpart models perceived cash; retained together as joint mechanism outcomes. Source: Eq6 p.8; Table5 p.15; Sec5 p.14. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -49319,7 +49328,15 @@
     "H4560": "0",
     "I4560": "unknown",
     "J4560": "none",
-    "K4560": "Regular lenders’ unit harassment cost, including runner payments plus expected arrest disutility, S$000; nonlinear structural parameter."
+    "K4560": "Regular lenders’ unit harassment cost, including runner payments plus expected arrest disutility, S$000; nonlinear structural parameter.",
+    "A4561": "4X76IAGM",
+    "B4561": "h7",
+    "C4561": "hy1",
+    "K4561": "Fixed component of borrower cash generated weekly for repayments, including endogenous effort; structural coefficient inS$000.",
+    "A4562": "4X76IAGM",
+    "B4562": "h7",
+    "C4562": "hy2",
+    "K4562": "Lender-perceived fixed component of borrower cash available for repayment; structural coefficient inS$000."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

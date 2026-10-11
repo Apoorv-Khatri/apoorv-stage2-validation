@@ -85086,3 +85086,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:45:05.686580+00:00 — Review 4X76IAGM h7: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4561",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4562",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4561",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4562",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4561",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4562",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4561",
+    "before": null,
+    "after": "Fixed component of borrower cash generated weekly for repayments, including endogenous effort; structural coefficient inS$000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4562",
+    "before": null,
+    "after": "Lender-perceived fixed component of borrower cash available for repayment; structural coefficient inS$000."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1911",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1911",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1911",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1911",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1911",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1911",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1911",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1911",
+    "before": null,
+    "after": "Increase lender harassment probability and borrower cash available for repayments through effort; structural repayment model parameters, Table5 first two columns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1911",
+    "before": null,
+    "after": "Explicit causal interpretation: borrowers increase cash when faced with higher harassment probability. Coefficients .257 (borrower perspective) and .384 (lender perspective), unitsS$000 per unit probability. Structural ML integrating unobserved harshness, not OLS. Lender-perspective counterpart models perceived cash; retained together as joint mechanism outcomes. Source: Eq6 p.8; Table5 p.15; Sec5 p.14. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15."
+  }
+]
+```
