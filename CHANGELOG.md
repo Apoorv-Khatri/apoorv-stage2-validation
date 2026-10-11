@@ -120315,3 +120315,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:44:16.038017+00:00 — Review 8ZEJGZST h9: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4752",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4752",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4752",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4752",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4752",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4752",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4752",
+    "before": null,
+    "after": "Indicator/likelihood of registration with Board for Industrial and Financial Reconstruction (BIFR), pp35–36 referring IA Table7. Binary registration event implied; exact coded dependent variable, sample zeros and transformation not supplied."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2013",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2013",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2013",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2013",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2013",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2013",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2013",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2013",
+    "before": null,
+    "after": "Multiple versus single lenders as determinant of BIFR bankruptcy-board registration; Internet Appendix Table7, discussed pp35–36."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2013",
+    "before": null,
+    "after": "Supporting debt-renegotiation mechanism interpreted as financing structure affecting private renegotiation/registration; retain despite acknowledged endogenous debt structure. Not diagnostic-only or pure prediction. Exact estimator not stated in main text: unknown, not assumed probit/OLS/IV. Separate continuous Short treatment h10. Source: Sec4.5 pp35–36; cited IA Table7. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: unresolved implementation."
+  }
+]
+```

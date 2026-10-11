@@ -18359,7 +18359,16 @@
     "L2012": "0",
     "M2012": "n/a",
     "N2012": "DRT debt-maturity heterogeneity using separate pre-DRT above/below-median LTD/assets and STD/assets definitions; Internet Appendix Table6, summarized p28.",
-    "O2012": "Substantive alternative subgroup definitions, same underlying DRT binary treatment. Eq1 repeated; grouped routine subgroup-definition variants. Appendix missing: exact outcome list and column estimates unresolved. Source: Sec4.4.1 p28; cited IA Table6. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: main-text summary only."
+    "O2012": "Substantive alternative subgroup definitions, same underlying DRT binary treatment. Eq1 repeated; grouped routine subgroup-definition variants. Appendix missing: exact outcome list and column estimates unresolved. Source: Sec4.4.1 p28; cited IA Table6. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: main-text summary only.",
+    "A2013": "8ZEJGZST",
+    "B2013": "h9",
+    "I2013": "1",
+    "J2013": "unknown",
+    "K2013": "1",
+    "L2013": "0",
+    "M2013": "unknown",
+    "N2013": "Multiple versus single lenders as determinant of BIFR bankruptcy-board registration; Internet Appendix Table7, discussed pp35–36.",
+    "O2013": "Supporting debt-renegotiation mechanism interpreted as financing structure affecting private renegotiation/registration; retain despite acknowledged endogenous debt structure. Not diagnostic-only or pure prediction. Exact estimator not stated in main text: unknown, not assumed probit/OLS/IV. Separate continuous Short treatment h10. Source: Sec4.5 pp35–36; cited IA Table7. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: unresolved implementation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52180,7 +52189,14 @@
     "H4751": "0",
     "I4751": "unknown",
     "J4751": "unknown",
-    "K4751": "Debt-structure outcome(s) for alternative above/below-median pre-DRT LTD/assets and STD/assets subgroup definitions, IA Table6, summarized p28. These ratios define the subgroups; the sentence does not enumerate all dependent-variable columns. Exact outcome inventory/scale remains unresolved."
+    "K4751": "Debt-structure outcome(s) for alternative above/below-median pre-DRT LTD/assets and STD/assets subgroup definitions, IA Table6, summarized p28. These ratios define the subgroups; the sentence does not enumerate all dependent-variable columns. Exact outcome inventory/scale remains unresolved.",
+    "A4752": "8ZEJGZST",
+    "B4752": "h9",
+    "C4752": "hy1",
+    "H4752": "unknown",
+    "I4752": "unknown",
+    "J4752": "unknown",
+    "K4752": "Indicator/likelihood of registration with Board for Industrial and Financial Reconstruction (BIFR), pp35–36 referring IA Table7. Binary registration event implied; exact coded dependent variable, sample zeros and transformation not supplied."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
