@@ -100749,3 +100749,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:55:27.392702+00:00 — Review 5IF5MIQQ s10: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K93",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K94",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K95",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q93",
+    "before": null,
+    "after": "Eligibility audit only (rejected): Table13 pp739–741; lower $US change panel computes effect of one-dollar increase in proceeds at medians. See original evidence preserved above."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q94",
+    "before": null,
+    "after": "Eligibility audit only (rejected): Table13 pp739–741; lower $US change panel computes effect of one-dollar increase in proceeds at medians. See original evidence preserved above."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q95",
+    "before": null,
+    "after": "Eligibility audit only (rejected): Table13 pp739–741; lower $US change panel computes effect of one-dollar increase in proceeds at medians. See original evidence preserved above."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R93",
+    "before": null,
+    "after": "Reject: cents of cash/investment/debt repayment/R&D per dollar of bond proceeds normalize by the TREATMENT increment, not a mean, SD or other level of the SAME OUTCOME. Dollar-to-dollar units do not make proceeds and cash/spending the same variable. EME/AE, USD/nonUSD and cash/CAPEX contrasts compare fitted effects, not outcome levels. Preserve original ID/model evidence; do not transfer these rows to split settings."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R94",
+    "before": null,
+    "after": "Reject: cents of cash/investment/debt repayment/R&D per dollar of bond proceeds normalize by the TREATMENT increment, not a mean, SD or other level of the SAME OUTCOME. Dollar-to-dollar units do not make proceeds and cash/spending the same variable. EME/AE, USD/nonUSD and cash/CAPEX contrasts compare fitted effects, not outcome levels. Preserve original ID/model evidence; do not transfer these rows to split settings."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R95",
+    "before": null,
+    "after": "Reject: cents of cash/investment/debt repayment/R&D per dollar of bond proceeds normalize by the TREATMENT increment, not a mean, SD or other level of the SAME OUTCOME. Dollar-to-dollar units do not make proceeds and cash/spending the same variable. EME/AE, USD/nonUSD and cash/CAPEX contrasts compare fitted effects, not outcome levels. Preserve original ID/model evidence; do not transfer these rows to split settings."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I155",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J155",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K155",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L155",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M155",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N155",
+    "before": null,
+    "after": "Continuous USD proceeds log1p intensity; cumulative CAPEX, long-term-debt reduction and R&D over one-to-three-year horizons. Narrow original pooled-currency row to USD Location: Table13 cols1–9, pp.739–741."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O155",
+    "before": null,
+    "after": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. NonUSD=h23. Outcomes use cumulative flows, not cash-stock changes. R&D printed implied t3 value2.95 preserved; do not reconstruct unpublished median conversion. Three original outcome families each cover all three horizons. Source: Table13 cols1–9, pp.739–741. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium for HDFE criterion."
+  }
+]
+```
