@@ -85842,3 +85842,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:46:30.166444+00:00 — Review 4X76IAGM h13: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1901",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1901",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1901",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1901",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1901",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1901",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1901",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1901",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1901",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1901",
+    "before": null,
+    "after": "Sec6.2 pp.18–19: randomly removedrug users until5% of total loan demand removed, repeat1000 times; mean total lender-profit decrease falls within source range4.4–5.2% across the four policies."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1901",
+    "before": null,
+    "after": "Do not allocate an invented exact endpoint to this trait; range explicitly bounds each of the four implemented effects."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4569",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4569",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4569",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4569",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4569",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4569",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4569",
+    "before": null,
+    "after": "Total lender profits: mean percentage decrease across1000 simulated target-population removal draws, relative to market without removal."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1917",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1917",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1917",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1917",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1917",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1917",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1917",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1917",
+    "before": null,
+    "after": "Remove borrowers selected from drug users until5% of total loan demand is removed; compare market lender profits with no removal."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1917",
+    "before": null,
+    "after": "Randomly draw eligible borrowers1000 times; report mean decrease4.4–5.2% across four targeting policies, without mapping exact number to each policy. Simulated selection, not an empirical RCT. Distinct targeted-population treatments split. Fixed rate/harassment assumption inherited from Sec6.2. Source: Sec6.2 pp.18–19, untabulated trait-targeting experiment. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=19."
+  }
+]
+```

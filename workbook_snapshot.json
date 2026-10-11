@@ -17065,7 +17065,16 @@
     "L1916": "0",
     "M1916": "n/a",
     "N1916": "Remove borrowers selected from gamblers until5% of total loan demand is removed; compare market lender profits with no removal.",
-    "O1916": "Randomly draw eligible borrowers1000 times; report mean decrease4.4–5.2% across four targeting policies, without mapping exact number to each policy. Simulated selection, not an empirical RCT. Distinct targeted-population treatments split. Fixed rate/harassment assumption inherited from Sec6.2. Source: Sec6.2 pp.18–19, untabulated trait-targeting experiment. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=19."
+    "O1916": "Randomly draw eligible borrowers1000 times; report mean decrease4.4–5.2% across four targeting policies, without mapping exact number to each policy. Simulated selection, not an empirical RCT. Distinct targeted-population treatments split. Fixed rate/harassment assumption inherited from Sec6.2. Source: Sec6.2 pp.18–19, untabulated trait-targeting experiment. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=19.",
+    "A1917": "4X76IAGM",
+    "B1917": "h13",
+    "I1917": "1",
+    "J1917": "Other",
+    "K1917": "1",
+    "L1917": "0",
+    "M1917": "n/a",
+    "N1917": "Remove borrowers selected from drug users until5% of total loan demand is removed; compare market lender profits with no removal.",
+    "O1917": "Randomly draw eligible borrowers1000 times; report mean decrease4.4–5.2% across four targeting policies, without mapping exact number to each policy. Simulated selection, not an empirical RCT. Distinct targeted-population treatments split. Fixed rate/harassment assumption inherited from Sec6.2. Source: Sec6.2 pp.18–19, untabulated trait-targeting experiment. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=19."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -49414,7 +49423,14 @@
     "H4568": "0",
     "I4568": "unknown",
     "J4568": "other",
-    "K4568": "Total lender profits: mean percentage decrease across1000 simulated target-population removal draws, relative to market without removal."
+    "K4568": "Total lender profits: mean percentage decrease across1000 simulated target-population removal draws, relative to market without removal.",
+    "A4569": "4X76IAGM",
+    "B4569": "h13",
+    "C4569": "hy1",
+    "H4569": "0",
+    "I4569": "unknown",
+    "J4569": "other",
+    "K4569": "Total lender profits: mean percentage decrease across1000 simulated target-population removal draws, relative to market without removal."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -69404,7 +69420,18 @@
     "O1900": "1",
     "P1900": "n/a",
     "Q1900": "Sec6.2 pp.18–19: randomly removegamblers until5% of total loan demand removed, repeat1000 times; mean total lender-profit decrease falls within source range4.4–5.2% across the four policies.",
-    "R1900": "Do not allocate an invented exact endpoint to this trait; range explicitly bounds each of the four implemented effects."
+    "R1900": "Do not allocate an invented exact endpoint to this trait; range explicitly bounds each of the four implemented effects.",
+    "A1901": "4X76IAGM",
+    "B1901": "h13",
+    "C1901": "hc1",
+    "K1901": "1",
+    "L1901": "hy1",
+    "M1901": "other_level",
+    "N1901": "1",
+    "O1901": "1",
+    "P1901": "n/a",
+    "Q1901": "Sec6.2 pp.18–19: randomly removedrug users until5% of total loan demand removed, repeat1000 times; mean total lender-profit decrease falls within source range4.4–5.2% across the four policies.",
+    "R1901": "Do not allocate an invented exact endpoint to this trait; range explicitly bounds each of the four implemented effects."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
