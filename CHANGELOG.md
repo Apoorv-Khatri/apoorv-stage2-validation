@@ -100164,3 +100164,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:54:33.003331+00:00 — Review 5IF5MIQQ s7: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K480",
+    "before": null,
+    "after": "ln(1+(cash and short-term investments at t=1 minus date0 cash)/date0 total assets). Cash-stock change, NOT change in cash/assets ratios with varying denominators. Date0=fiscal year-end before issuance. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K481",
+    "before": null,
+    "after": "ln(1+(cash and short-term investments at t=2 minus date0 cash)/date0 total assets). Cash-stock change, NOT change in cash/assets ratios with varying denominators. Date0=fiscal year-end before issuance. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K482",
+    "before": null,
+    "after": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets). Cash-stock change, NOT change in cash/assets ratios with varying denominators. Date0=fiscal year-end before issuance. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I152",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J152",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K152",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L152",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M152",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N152",
+    "before": null,
+    "after": "Continuous ln(1+cumulative total bond proceeds/initial assets), AE slope and EME incremental slope; cash accumulation over t=1,2,3 Location: Eq1 and Table9 pp.730–732."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O152",
+    "before": null,
+    "after": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Other-source treatment independently interpreted at h18. Group full/post2007, unpublished pre2007 and nonissuance-year sample extensions. Source: Eq1 and Table9 pp.730–732. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium for HDFE identification-role criterion; high FE counts."
+  }
+]
+```
