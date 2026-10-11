@@ -101460,3 +101460,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:57:39.737071+00:00 — Review 5IF5MIQQ h6: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4629",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4630",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4629",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4630",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4629",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4630",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4629",
+    "before": null,
+    "after": "USD-majority issuance category indicator relative to no issue; nonlinear MNL coefficient is not a probability-point marginal effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4630",
+    "before": null,
+    "after": "non-USD-majority issuance category indicator relative to no issue; nonlinear MNL coefficient is not a probability-point marginal effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1942",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1942",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1942",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1942",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1942",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1942",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1942",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1942",
+    "before": null,
+    "after": "Cash-dose effect on multinomial issuance choice controlling continuous FinDep; supporting precinct of alternative-hypothesis tests Location: Table6 cols1,3, pp.723–725."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1942",
+    "before": null,
+    "after": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Retained because text independently emphasizes cash rather than constraints. Different location from Table3; manufacturing-only variant grouped. Source: Table6 cols1,3, pp.723–725. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+  }
+]
+```
