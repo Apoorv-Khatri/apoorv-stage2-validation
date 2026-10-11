@@ -87126,3 +87126,774 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:47:26.291425+00:00 — Review 4X76IAGM h17: source-audited coding and linked comparisons
+
+127 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1914",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1915",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1916",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1917",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1918",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1919",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1920",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1921",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1922",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1923",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1914",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1915",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1916",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1917",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1918",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1919",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1920",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1921",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1922",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1923",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1914",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1915",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1916",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1917",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1918",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1919",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1920",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1921",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1922",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1923",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1914",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1915",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1916",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1917",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1918",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1919",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1920",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1921",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1922",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1923",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1914",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1915",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1916",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1917",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1918",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1919",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1920",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1921",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1922",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1923",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1914",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1915",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1916",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1917",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1918",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1919",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1920",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1921",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1922",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1923",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1914",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1915",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1916",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1917",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1918",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1919",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1920",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1921",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1922",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1923",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1914",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1915",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1916",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1917",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1918",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1919",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1920",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1921",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1922",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1923",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1914",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1915",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1916",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1917",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1918",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1919",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1920",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1921",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1922",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1923",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1914",
+    "before": null,
+    "after": "Fig3 panelLender Profits; No present bias and .95 annual discount factor series; original weekly beta×delta bin[0.25,0.4308). Y-axis \"Median % change in bin\". Figure visually has four bins and two outcomes; bar heights not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1915",
+    "before": null,
+    "after": "Fig3 panelBorrower Surplus; No present bias and .95 annual discount factor series; original weekly beta×delta bin[0.25,0.4308). Y-axis \"Median % change in bin\". Figure visually has four bins and two outcomes; bar heights not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1916",
+    "before": null,
+    "after": "Fig3 panelLender Profits; No present bias and .95 annual discount factor series; original weekly beta×delta bin[0.4308,0.6116). Y-axis \"Median % change in bin\". Figure visually has four bins and two outcomes; bar heights not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1917",
+    "before": null,
+    "after": "Fig3 panelBorrower Surplus; No present bias and .95 annual discount factor series; original weekly beta×delta bin[0.4308,0.6116). Y-axis \"Median % change in bin\". Figure visually has four bins and two outcomes; bar heights not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1918",
+    "before": null,
+    "after": "Fig3 panelLender Profits; No present bias and .95 annual discount factor series; original weekly beta×delta bin[0.6116,0.7925). Y-axis \"Median % change in bin\". Figure visually has four bins and two outcomes; bar heights not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1919",
+    "before": null,
+    "after": "Fig3 panelBorrower Surplus; No present bias and .95 annual discount factor series; original weekly beta×delta bin[0.6116,0.7925). Y-axis \"Median % change in bin\". Figure visually has four bins and two outcomes; bar heights not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1920",
+    "before": null,
+    "after": "Fig3 panelLender Profits; No present bias and .95 annual discount factor series; original weekly beta×delta bin[0.7925,0.9733]. Y-axis \"Median % change in bin\". Figure visually has four bins and two outcomes; bar heights not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1921",
+    "before": null,
+    "after": "Fig3 panelBorrower Surplus; No present bias and .95 annual discount factor series; original weekly beta×delta bin[0.7925,0.9733]. Y-axis \"Median % change in bin\". Figure visually has four bins and two outcomes; bar heights not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1922",
+    "before": null,
+    "after": "Sec6.3 p.19 final paragraph: over60% decrease in lender profits for original weekly beta×delta[0.25,0.3705], under each of the two preference interventions. Text says six bins; printed Fig3 has four different bins. Candidate focal estimate (attribution unresolved): over60% decrease."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1923",
+    "before": null,
+    "after": "Sec6.3 p.19 final paragraph: over10% decrease in lender profits for original weekly beta×delta[0.8527,0.9733], under each of the two preference interventions. Text says six bins; printed Fig3 has four different bins. Candidate focal estimate (attribution unresolved): over10% decrease."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1914",
+    "before": null,
+    "after": "Do not substitute six-bin prose intervals or endpoint statements for these four-bin bars. Per-borrower normalization followed by bin median; other_level rather than population outcome mean. Treat raw graphical y values as not numerically reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1915",
+    "before": null,
+    "after": "Do not substitute six-bin prose intervals or endpoint statements for these four-bin bars. Per-borrower normalization followed by bin median; other_level rather than population outcome mean. Treat raw graphical y values as not numerically reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1916",
+    "before": null,
+    "after": "Do not substitute six-bin prose intervals or endpoint statements for these four-bin bars. Per-borrower normalization followed by bin median; other_level rather than population outcome mean. Treat raw graphical y values as not numerically reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1917",
+    "before": null,
+    "after": "Do not substitute six-bin prose intervals or endpoint statements for these four-bin bars. Per-borrower normalization followed by bin median; other_level rather than population outcome mean. Treat raw graphical y values as not numerically reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1918",
+    "before": null,
+    "after": "Do not substitute six-bin prose intervals or endpoint statements for these four-bin bars. Per-borrower normalization followed by bin median; other_level rather than population outcome mean. Treat raw graphical y values as not numerically reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1919",
+    "before": null,
+    "after": "Do not substitute six-bin prose intervals or endpoint statements for these four-bin bars. Per-borrower normalization followed by bin median; other_level rather than population outcome mean. Treat raw graphical y values as not numerically reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1920",
+    "before": null,
+    "after": "Do not substitute six-bin prose intervals or endpoint statements for these four-bin bars. Per-borrower normalization followed by bin median; other_level rather than population outcome mean. Treat raw graphical y values as not numerically reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1921",
+    "before": null,
+    "after": "Do not substitute six-bin prose intervals or endpoint statements for these four-bin bars. Per-borrower normalization followed by bin median; other_level rather than population outcome mean. Treat raw graphical y values as not numerically reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1922",
+    "before": null,
+    "after": "Eligibility as same-outcome normalized comparison is clear, but distinctness/implementation is unresolved: may be stale description of the four-bin graph rather than an additional six-bin result. Human_keep unknown, not counted as retained alongside plotted bars until parent resolves."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1923",
+    "before": null,
+    "after": "Eligibility as same-outcome normalized comparison is clear, but distinctness/implementation is unresolved: may be stale description of the four-bin graph rather than an additional six-bin result. Human_keep unknown, not counted as retained alongside plotted bars until parent resolves."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4574",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4575",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4574",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4575",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4574",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4575",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4574",
+    "before": null,
+    "after": "Chosen lender profits: median borrower-specific percentage change within original beta×delta bin."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4575",
+    "before": null,
+    "after": "Borrower surplus: median borrower-specific percentage change within original beta×delta bin. For preference changes welfare uses annual .95/no present bias."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1921",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1921",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1921",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1921",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1921",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1921",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1921",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1921",
+    "before": null,
+    "after": "Set continuous preference parameters beta=1 and weekly delta=.999 (source: .95 annual), Table8 row4. Heterogeneous median impacts by original beta×delta bins in Fig3, both lender profits and borrower surplus."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1921",
+    "before": null,
+    "after": "Separate reported heterogeneous estimands/location from Table8. Visual figure has FOUR bins [.25,.4308),[.4308,.6116),[.6116,.7925),[.7925,.9733], whereas prose says six equal-sized bins and different endpoint boundaries. Use plotted four bins for point-level records and audit prose discrepancy; exact numerical bar heights not printed. Source: Sec6.3, Fig3 p.19. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=19."
+  }
+]
+```
