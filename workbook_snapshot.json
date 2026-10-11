@@ -17020,7 +17020,16 @@
     "L1911": "0",
     "M1911": "n/a",
     "N1911": "Increase lender harassment probability and borrower cash available for repayments through effort; structural repayment model parameters, Table5 first two columns.",
-    "O1911": "Explicit causal interpretation: borrowers increase cash when faced with higher harassment probability. Coefficients .257 (borrower perspective) and .384 (lender perspective), unitsS$000 per unit probability. Structural ML integrating unobserved harshness, not OLS. Lender-perspective counterpart models perceived cash; retained together as joint mechanism outcomes. Source: Eq6 p.8; Table5 p.15; Sec5 p.14. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15."
+    "O1911": "Explicit causal interpretation: borrowers increase cash when faced with higher harassment probability. Coefficients .257 (borrower perspective) and .384 (lender perspective), unitsS$000 per unit probability. Structural ML integrating unobserved harshness, not OLS. Lender-perspective counterpart models perceived cash; retained together as joint mechanism outcomes. Source: Eq6 p.8; Table5 p.15; Sec5 p.14. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15.",
+    "A1912": "4X76IAGM",
+    "B1912": "h8",
+    "I1912": "1",
+    "J1912": "Other",
+    "K1912": "0",
+    "L1912": "0",
+    "M1912": "n/a",
+    "N1912": "Prevailing interest rate changes cash available for repayments/effort; structural borrower and lender-perceived repayment model.",
+    "O1912": "Rate coefficients−2.395 and−2.208S$000 per unit rate; not the linear log-demand equation. Author says higher rates lower effort, beyond mechanical larger repayments. Joint nonlinear likelihood estimator remains Other. Source: Eq6 p.8; Table5 p.15; Sec5 p.14. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -49336,7 +49345,15 @@
     "A4562": "4X76IAGM",
     "B4562": "h7",
     "C4562": "hy2",
-    "K4562": "Lender-perceived fixed component of borrower cash available for repayment; structural coefficient inS$000."
+    "K4562": "Lender-perceived fixed component of borrower cash available for repayment; structural coefficient inS$000.",
+    "A4563": "4X76IAGM",
+    "B4563": "h8",
+    "C4563": "hy1",
+    "K4563": "Fixed component of borrower cash generated weekly for repayments, including endogenous effort; structural coefficient inS$000.",
+    "A4564": "4X76IAGM",
+    "B4564": "h8",
+    "C4564": "hy2",
+    "K4564": "Lender-perceived fixed component of borrower cash available for repayment; structural coefficient inS$000."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

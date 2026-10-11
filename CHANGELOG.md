@@ -85197,3 +85197,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:45:19.803793+00:00 — Review 4X76IAGM h8: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4563",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4564",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4563",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4564",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4563",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4564",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4563",
+    "before": null,
+    "after": "Fixed component of borrower cash generated weekly for repayments, including endogenous effort; structural coefficient inS$000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4564",
+    "before": null,
+    "after": "Lender-perceived fixed component of borrower cash available for repayment; structural coefficient inS$000."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1912",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1912",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1912",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1912",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1912",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1912",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1912",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1912",
+    "before": null,
+    "after": "Prevailing interest rate changes cash available for repayments/effort; structural borrower and lender-perceived repayment model."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1912",
+    "before": null,
+    "after": "Rate coefficients−2.395 and−2.208S$000 per unit rate; not the linear log-demand equation. Author says higher rates lower effort, beyond mechanical larger repayments. Joint nonlinear likelihood estimator remains Other. Source: Eq6 p.8; Table5 p.15; Sec5 p.14. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15."
+  }
+]
+```
