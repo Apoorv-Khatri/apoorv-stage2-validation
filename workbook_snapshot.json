@@ -17915,7 +17915,16 @@
     "L1985": "1",
     "M1985": "n/a",
     "N1985": "Breach×STLender×standardized CEO variable-compensation share on Enforcement Location: Table9 col2 pp.3495–3497",
-    "O1985": "Observational linear interaction design, not an implemented treated/post parallel-trends DiD or a local-polynomial RD. EPS proximity and covenant threshold do not themselves make this RD. Breach×STLender measures differential breach-associated outcome for short-termist lenders, not an IV effect of actual enforcement. Authors acknowledge omitted unobservables and manipulation pp.3476,3484. Identifying FE, not HDFE: source reports Quarter, Industry×Quarter, Lender and Lender×Quarter rows cumulatively. Quarter is nested in Industry×Quarter; Lender is additionally nested in Lender×Quarter. Effective sets by baseline column: (1) quarter; (2) industry×quarter; (3) industry×quarter + lender; (4–5) industry×quarter + lender×quarter. Equation3 itself writes only the two interacted sets. Explicit pp3482–3483 discussion addresses confounding. Preserve every reported Yes/No row as source reporting, but do not count redundant sets as extra separately absorbed dimensions. Analogous year nesting applies to TableB.7. Distinct moderator coefficient, not unconditional total short-termism effect. A continuous standardized moderator is not a standardized outcome; no outcome-SD comparison. Main=1 for benchmark precision/salience and governance/compensation results expressly highlighted in abstract/conclusion. Source: Table9 col2 pp.3495–3497. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+    "O1985": "Observational linear interaction design, not an implemented treated/post parallel-trends DiD or a local-polynomial RD. EPS proximity and covenant threshold do not themselves make this RD. Breach×STLender measures differential breach-associated outcome for short-termist lenders, not an IV effect of actual enforcement. Authors acknowledge omitted unobservables and manipulation pp.3476,3484. Identifying FE, not HDFE: source reports Quarter, Industry×Quarter, Lender and Lender×Quarter rows cumulatively. Quarter is nested in Industry×Quarter; Lender is additionally nested in Lender×Quarter. Effective sets by baseline column: (1) quarter; (2) industry×quarter; (3) industry×quarter + lender; (4–5) industry×quarter + lender×quarter. Equation3 itself writes only the two interacted sets. Explicit pp3482–3483 discussion addresses confounding. Preserve every reported Yes/No row as source reporting, but do not count redundant sets as extra separately absorbed dimensions. Analogous year nesting applies to TableB.7. Distinct moderator coefficient, not unconditional total short-termism effect. A continuous standardized moderator is not a standardized outcome; no outcome-SD comparison. Main=1 for benchmark precision/salience and governance/compensation results expressly highlighted in abstract/conclusion. Source: Table9 col2 pp.3495–3497. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf.",
+    "A1986": "7PCAD73D",
+    "B1986": "h14",
+    "I1986": "1",
+    "J1986": "FE",
+    "K1986": "0",
+    "L1986": "1",
+    "M1986": "n/a",
+    "N1986": "Breach×STLender×institutional ownership share IO on Enforcement Location: Table9 col3 pp.3495–3497",
+    "O1986": "Observational linear interaction design, not an implemented treated/post parallel-trends DiD or a local-polynomial RD. EPS proximity and covenant threshold do not themselves make this RD. Breach×STLender measures differential breach-associated outcome for short-termist lenders, not an IV effect of actual enforcement. Authors acknowledge omitted unobservables and manipulation pp.3476,3484. Identifying FE, not HDFE: source reports Quarter, Industry×Quarter, Lender and Lender×Quarter rows cumulatively. Quarter is nested in Industry×Quarter; Lender is additionally nested in Lender×Quarter. Effective sets by baseline column: (1) quarter; (2) industry×quarter; (3) industry×quarter + lender; (4–5) industry×quarter + lender×quarter. Equation3 itself writes only the two interacted sets. Explicit pp3482–3483 discussion addresses confounding. Preserve every reported Yes/No row as source reporting, but do not count redundant sets as extra separately absorbed dimensions. Analogous year nesting applies to TableB.7. Distinct moderator coefficient, not unconditional total short-termism effect. A continuous standardized moderator is not a standardized outcome; no outcome-SD comparison. Main=1 for benchmark precision/salience and governance/compensation results expressly highlighted in abstract/conclusion. Source: Table9 col3 pp.3495–3497. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -51064,7 +51073,14 @@
     "H4700": "1",
     "I4700": "1",
     "J4700": "none",
-    "K4700": "Enforcement: material covenant violation disclosed in subsequent four quarters, 1 versus0. Definition pp.3477,3482,A.1 p3512; observed overall incidence11.14% in Table1 confirms zeros."
+    "K4700": "Enforcement: material covenant violation disclosed in subsequent four quarters, 1 versus0. Definition pp.3477,3482,A.1 p3512; observed overall incidence11.14% in Table1 confirms zeros.",
+    "A4701": "7PCAD73D",
+    "B4701": "h14",
+    "C4701": "hy1",
+    "H4701": "1",
+    "I4701": "1",
+    "J4701": "none",
+    "K4701": "Enforcement: material covenant violation disclosed in subsequent four quarters, 1 versus0. Definition pp.3477,3482,A.1 p3512; observed overall incidence11.14% in Table1 confirms zeros."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
