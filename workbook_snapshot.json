@@ -15577,7 +15577,16 @@
     "L1795": "1",
     "M1795": "n/a",
     "N1795": "Table XI A-B pp.408-410: commercial profit attribution to continuous hedging, momentum and liquidity components of positions, including crisis-excluded sample. Regression-based position decomposition followed by payoff accounting, not an OLS treatment coefficient; Other. Components grouped as one additive attribution estimand.",
-    "O1795": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Author interprets5.27% liquidity gains offsetting-1.86% momentum losses and-4.71% hedging costs. Component-versus-component attribution is not an untreated outcome benchmark; position denominator is not outcome mean/SD. No fabricated binary adoption treatment."
+    "O1795": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Author interprets5.27% liquidity gains offsetting-1.86% momentum losses and-4.71% hedging costs. Component-versus-component attribution is not an untreated outcome benchmark; position denominator is not outcome mean/SD. No fabricated binary adoption treatment.",
+    "A1796": "3DI8S52Q",
+    "B1796": "h12",
+    "I1796": "1",
+    "J1796": "Other",
+    "K1796": "0",
+    "L1796": "0",
+    "M1796": "n/a",
+    "N1796": "Table XII B pp.411-413, equations(9)-(10): cross-sectional/time-series liquidity-strategy covariance decompositions attribute profits to own-commodity position-return covariation versus cross/mean components; Other accounting estimand, not Table XII A OLS.",
+    "O1796": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Continuous position-proportional weights, not binary buy/sell indicator treatment. Auto contribution.21%, totals.18%/.21%; shares/component comparisons not outcome baseline benchmarks."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46221,7 +46230,15 @@
     "A4310": "3DI8S52Q",
     "B4310": "h11",
     "C4310": "hy1",
-    "K4310": "Annualized total profit/loss and its hedging-demand, momentum and liquidity components, normalized by average absolute commercial net positions; commercial and offsetting trader payoffs."
+    "K4310": "Annualized total profit/loss and its hedging-demand, momentum and liquidity components, normalized by average absolute commercial net positions; commercial and offsetting trader payoffs.",
+    "A4311": "3DI8S52Q",
+    "B4311": "h12",
+    "C4311": "hy1",
+    "K4311": "Weekly cross-sectional liquidity-strategy return and auto/cross/mean-level components.",
+    "A4312": "3DI8S52Q",
+    "B4312": "h12",
+    "C4312": "hy2",
+    "K4312": "Weekly time-series liquidity-strategy return and auto/mean-product components."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

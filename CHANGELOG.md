@@ -33351,3 +33351,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:06:31.725053+00:00 — Review 3DI8S52Q h12: causal scope, outcomes and benchmark evidence
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4311",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4312",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4311",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4312",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4311",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4312",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4311",
+    "before": null,
+    "after": "Weekly cross-sectional liquidity-strategy return and auto/cross/mean-level components."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4312",
+    "before": null,
+    "after": "Weekly time-series liquidity-strategy return and auto/mean-product components."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1796",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1796",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1796",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1796",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1796",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1796",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1796",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1796",
+    "before": null,
+    "after": "Table XII B pp.411-413, equations(9)-(10): cross-sectional/time-series liquidity-strategy covariance decompositions attribute profits to own-commodity position-return covariation versus cross/mean components; Other accounting estimand, not Table XII A OLS."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1796",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Continuous position-proportional weights, not binary buy/sell indicator treatment. Auto contribution.21%, totals.18%/.21%; shares/component comparisons not outcome baseline benchmarks."
+  }
+]
+```
