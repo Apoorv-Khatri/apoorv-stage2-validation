@@ -106449,3 +106449,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:23:28.339092+00:00 — Review 6T38MQ3Y s8: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H505",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H506",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I505",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I506",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J505",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J506",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K505",
+    "before": null,
+    "after": "Spurious for causal extraction because parent s8 is an asset-pricing exposure test; retain original outcome definition and IDs, do not delete."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K506",
+    "before": null,
+    "after": "Spurious for causal extraction because parent s8 is an asset-pricing exposure test; retain original outcome definition and IDs, do not delete."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I164",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O164",
+    "before": null,
+    "after": "Reject at causal-interpretation gate. This is a test of whether estimated exposure to a traded mention-return factor is priced, not an author-attributed intervention effect of changing beta. The model supplies the causal claim “systematic mention risk causes higher expected returns” more strongly than the implemented beta-sort evidence warrants. The substantive role is acknowledged: it challenges a risk explanation, but substantive relevance alone does not turn a pricing correlation into a causal setting. Rolling factor regressions are exposure estimation, not IV/FE identification. Do not reject simply because the null is insignificant. Source: §5, Table9 pp.4324–4325/PDF25–26; lines1644–1718.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574. Certainty: moderate: plausible broader mechanism interpretation is recorded in uncertainty audit."
+  }
+]
+```
