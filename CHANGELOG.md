@@ -28425,3 +28425,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:00:39.903236+00:00 — Review 3DI8S52Q s3: causal scope, outcomes and benchmark evidence
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I79",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J79",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K79",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L79",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M79",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N79",
+    "before": null,
+    "after": "Table IV A-B pp.391-392: Fama-MacBeth OLS impact of continuous net position change Q using finer DCOT categories, June 2007-December 2017. Group trader-category estimates and two horizons."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O79",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. DCOT publication starts June 2006, but TABLE estimation sample starts June 2007. Producer 8.14/4.93 and money-manager -6.19/-4.89 slopes are multiplied by 100. Finer disaggregation supports a central identity-of-liquidity-provider conclusion."
+  }
+]
+```
