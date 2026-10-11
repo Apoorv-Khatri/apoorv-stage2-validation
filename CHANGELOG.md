@@ -83379,3 +83379,234 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:41:14.180077+00:00 — Review 4X76IAGM s8: source-audited coding and linked comparisons
+
+37 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1889",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1890",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1889",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1890",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1889",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1890",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1889",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1890",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1889",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1890",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1889",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1890",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1889",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1890",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1889",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1890",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1889",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1890",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1889",
+    "before": null,
+    "after": "Table8 row2, Lender Profits column: -13.62% median impact. Sec6.3 computes intervention separately for each borrower then reports median impacts; each percentage uses own unaltered-trait model outcome as denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1890",
+    "before": null,
+    "after": "Table8 row2, Borrower Surplus column: +7.68% median impact. Sec6.3 computes intervention separately for each borrower then reports median impacts; each percentage uses own unaltered-trait model outcome as denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1889",
+    "before": null,
+    "after": "other_level because normalization is to each borrower’s own baseline outcome, followed by median aggregation, not an effect divided by a population mean/SD. Lender-profit cells omit % glyph, but main prose and plots establish percentage units. For preference welfare use same .95/no-present-bias evaluation on both sides."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1890",
+    "before": null,
+    "after": "other_level because normalization is to each borrower’s own baseline outcome, followed by median aggregation, not an effect divided by a population mean/SD. Lender-profit cells omit % glyph, but main prose and plots establish percentage units. For preference welfare use same .95/no-present-bias evaluation on both sides."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H460",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H461",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I460",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I461",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J460",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J461",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K460",
+    "before": null,
+    "after": "Chosen lender’s profits, reported as median percentage impact from stopping a borrower using drugs. Median across borrower-specific percentage changes, NOT percentage change in a single median level. Surplus is a model welfare quantity; preference interventions use annual .95/no present bias welfare evaluation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K461",
+    "before": null,
+    "after": "Borrower surplus, reported as percentage change from stopping a borrower using drugs. Median across borrower-specific percentage changes, NOT percentage change in a single median level. Surplus is a model welfare quantity; preference interventions use annual .95/no present bias welfare evaluation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I142",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J142",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K142",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L142",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M142",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N142",
+    "before": null,
+    "after": "Set an individual borrower’s drug use status to non-use; recompute repayment, demand, lender choice and loan terms; median individual percentage changes in chosen-lender profits and own surplus."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O142",
+    "before": null,
+    "after": "Estimated nonlinear structural model, not IV, RCT or DiD. Assumes model primitives invariant under interventions; common cartel rate is taken as given except in rate-grid exercises. No randomized assignment or implemented excluded-instrument first stage. Borrower demand FE altered using a regression of estimated FE on the characteristic. Not an actual randomized rehabilitation program. Drug use is discussed in introduction/Sec6.3 but is not literally named in abstract. Source: Sec6.3, Table8 p.19. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=19."
+  }
+]
+```
