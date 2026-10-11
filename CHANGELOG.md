@@ -28374,3 +28374,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:00:22.205884+00:00 — Review 3DI8S52Q s2: causal scope, outcomes and benchmark evidence
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I78",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J78",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K78",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L78",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M78",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N78",
+    "before": null,
+    "after": "Table III A-B pp.389-390, equation (5): Fama-MacBeth OLS return impact of continuous weekly net position change Q; weeks t+1 and t+2. Group trader-category estimates and routine control variants of the same net-trading treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O78",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Authors infer temporary price pressure and compensation for supplying liquidity, explicitly pp.389,394. No identifying FE, matching or instrument. The sign reverses across sides of the same market. No qualifying outcome benchmark found."
+  }
+]
+```
