@@ -16015,7 +16015,16 @@
     "L1826": "1",
     "M1826": "n/a",
     "N1826": "German civil legal origin versus English common law; Random-effects GLS; overall IVA CSR rating0–6.",
-    "O1826": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Source: TableIV cols2–5 pp.873–875."
+    "O1826": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Source: TableIV cols2–5 pp.873–875.",
+    "A1827": "4MXMWKXM",
+    "B1827": "h4",
+    "I1827": "1",
+    "J1827": "OLS",
+    "K1827": "1",
+    "L1827": "1",
+    "M1827": "n/a",
+    "N1827": "Scandinavian civil legal origin versus English common law; Random-effects GLS; overall IVA CSR rating0–6.",
+    "O1827": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Source: TableIV cols2–5 pp.873–875."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -47043,7 +47052,14 @@
     "H4378": "0",
     "I4378": "unknown",
     "J4378": "none",
-    "K4378": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass."
+    "K4378": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass.",
+    "A4379": "4MXMWKXM",
+    "B4379": "h4",
+    "C4379": "hy1",
+    "H4379": "0",
+    "I4379": "unknown",
+    "J4379": "none",
+    "K4379": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -61911,7 +61927,27 @@
     "O1448": "unknown",
     "P1448": "unknown",
     "Q1448": "p.875, Table IV cols (1),(2),(5): “7% higher CSR score (or a half-grade on a 0 to 6 scale)” and “more than 14%, or 0.85 to 1 of a grade.” Broad civil-law-versus-common-law summary; no numeric common-law mean or unique denominator identified. Table coefficients preserved as candidates, not exact origin-specific percentage claims. Candidate focal estimate (attribution unresolved): TableIV col5 German coefficient0.845 IVA points; prose summarizes civil-law coefficients as more than14% /0.85–1 grade.",
-    "R1448": "Unresolved same-outcome benchmark construction and focal-estimate specificity. Do not count as a confirmed outcome_mean comparison. Null Human_benchmark means unresolved, not an unapproved code. If the denominator is later established as a score-scale level use other_level/aligned n/a; if established as common-law mean use outcome_mean and assess alignment separately. No one-grade denominator or Table II mean is supplied by this passage."
+    "R1448": "Unresolved same-outcome benchmark construction and focal-estimate specificity. Do not count as a confirmed outcome_mean comparison. Null Human_benchmark means unresolved, not an unapproved code. If the denominator is later established as a score-scale level use other_level/aligned n/a; if established as common-law mean use outcome_mean and assess alignment separately. No one-grade denominator or Table II mean is supplied by this passage.",
+    "A1449": "4MXMWKXM",
+    "B1449": "h4",
+    "C1449": "hc1",
+    "K1449": "unknown",
+    "L1449": "hy1",
+    "N1449": "1",
+    "O1449": "unknown",
+    "P1449": "unknown",
+    "Q1449": "p.875, Table IV cols (1),(2),(5): “7% higher CSR score (or a half-grade on a 0 to 6 scale)” and “more than 14%, or 0.85 to 1 of a grade.” Broad civil-law-versus-common-law summary; no numeric common-law mean or unique denominator identified. Table coefficients preserved as candidates, not exact origin-specific percentage claims. Candidate focal estimate (attribution unresolved): TableIV col2 Scandinavian coefficient0.757 IVA points; prose summarizes civil-law coefficients as 7% / half-grade.",
+    "R1449": "Unresolved same-outcome benchmark construction and focal-estimate specificity. Do not count as a confirmed outcome_mean comparison. Null Human_benchmark means unresolved, not an unapproved code. If the denominator is later established as a score-scale level use other_level/aligned n/a; if established as common-law mean use outcome_mean and assess alignment separately. No one-grade denominator or Table II mean is supplied by this passage.",
+    "A1450": "4MXMWKXM",
+    "B1450": "h4",
+    "C1450": "hc2",
+    "K1450": "unknown",
+    "L1450": "hy1",
+    "N1450": "1",
+    "O1450": "unknown",
+    "P1450": "unknown",
+    "Q1450": "p.875, Table IV cols (1),(2),(5): “7% higher CSR score (or a half-grade on a 0 to 6 scale)” and “more than 14%, or 0.85 to 1 of a grade.” Broad civil-law-versus-common-law summary; no numeric common-law mean or unique denominator identified. Table coefficients preserved as candidates, not exact origin-specific percentage claims. Candidate focal estimate (attribution unresolved): TableIV col5 Scandinavian coefficient1.027 IVA points; prose summarizes civil-law coefficients as more than14% /0.85–1 grade.",
+    "R1450": "Unresolved same-outcome benchmark construction and focal-estimate specificity. Do not count as a confirmed outcome_mean comparison. Null Human_benchmark means unresolved, not an unapproved code. If the denominator is later established as a score-scale level use other_level/aligned n/a; if established as common-law mean use outcome_mean and assess alignment separately. No one-grade denominator or Table II mean is supplied by this passage."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

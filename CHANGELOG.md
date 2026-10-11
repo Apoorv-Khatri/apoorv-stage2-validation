@@ -39768,3 +39768,228 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:14:09.346085+00:00 — Review 4MXMWKXM h4: source-audited coding and linked comparisons
+
+36 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1449",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1450",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1449",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1450",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1449",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1450",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1449",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1450",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1449",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1450",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1449",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1450",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1449",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1450",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1449",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1450",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1449",
+    "before": null,
+    "after": "p.875, Table IV cols (1),(2),(5): “7% higher CSR score (or a half-grade on a 0 to 6 scale)” and “more than 14%, or 0.85 to 1 of a grade.” Broad civil-law-versus-common-law summary; no numeric common-law mean or unique denominator identified. Table coefficients preserved as candidates, not exact origin-specific percentage claims. Candidate focal estimate (attribution unresolved): TableIV col2 Scandinavian coefficient0.757 IVA points; prose summarizes civil-law coefficients as 7% / half-grade."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1450",
+    "before": null,
+    "after": "p.875, Table IV cols (1),(2),(5): “7% higher CSR score (or a half-grade on a 0 to 6 scale)” and “more than 14%, or 0.85 to 1 of a grade.” Broad civil-law-versus-common-law summary; no numeric common-law mean or unique denominator identified. Table coefficients preserved as candidates, not exact origin-specific percentage claims. Candidate focal estimate (attribution unresolved): TableIV col5 Scandinavian coefficient1.027 IVA points; prose summarizes civil-law coefficients as more than14% /0.85–1 grade."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1449",
+    "before": null,
+    "after": "Unresolved same-outcome benchmark construction and focal-estimate specificity. Do not count as a confirmed outcome_mean comparison. Null Human_benchmark means unresolved, not an unapproved code. If the denominator is later established as a score-scale level use other_level/aligned n/a; if established as common-law mean use outcome_mean and assess alignment separately. No one-grade denominator or Table II mean is supplied by this passage."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1450",
+    "before": null,
+    "after": "Unresolved same-outcome benchmark construction and focal-estimate specificity. Do not count as a confirmed outcome_mean comparison. Null Human_benchmark means unresolved, not an unapproved code. If the denominator is later established as a score-scale level use other_level/aligned n/a; if established as common-law mean use outcome_mean and assess alignment separately. No one-grade denominator or Table II mean is supplied by this passage."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4379",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4379",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4379",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4379",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4379",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4379",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4379",
+    "before": null,
+    "after": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1827",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1827",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1827",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1827",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1827",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1827",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1827",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1827",
+    "before": null,
+    "after": "Scandinavian civil legal origin versus English common law; Random-effects GLS; overall IVA CSR rating0–6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1827",
+    "before": null,
+    "after": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Source: TableIV cols2–5 pp.873–875."
+  }
+]
+```
