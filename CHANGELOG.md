@@ -37524,3 +37524,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:08:56.017647+00:00 — Review 4CG48IZI s8: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J101",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K101",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L101",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M101",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O101",
+    "before": null,
+    "after": "Absolute monthly fund flows below$3million define AUM subset; treatment remains continuous FIR, not binary low-flow fund status. FE3bond/2FX. PanelA positive spread coefficient .080 atd+5 should not be rewritten as negative. Final method adjudication: OLS/regression adjustment with the stated time/country/maturity indicator controls, not a no-dummy regression. Eq.(3) and pp.388-393 locate identification in mechanically induced informationless flows and rebalancing timing; the source does not establish a separate identifying role of the FE battery. Mere indicator counts do not justify HDFE or automatic FE fallback. This strict-taxonomy judgment is distinguished from the clearly reported specification. Source: Table11 PanelA,p.398; Sec4.4 p.396. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4CG48IZI.pdf#page=15. Certainty: High on implemented linear dose design and coefficients; explicit strict-HDFE classification judgment.."
+  }
+]
+```
