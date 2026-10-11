@@ -15809,7 +15809,16 @@
     "L1816": "0",
     "M1816": "unknown",
     "N1816": "REPAT and foreign stock-deal activity among firms engaging only in stock deals; untabulated substantive financing-mechanism robustness. Location: p.192 fn23",
-    "O1816": "Source says re-estimate our tests for stock-only firms n=126 and find no evidence REPAT is associated with foreign stock deals, interpreted as tax-induced cash leading to foreign cash transactions rather than general investment. Precise dependent variable(s), estimator, and columns rerun are not identified. Do not invent probit, count or CAR estimates. Keep one unresolved setting with broad outcome and explicit uncertainty rather than silently omit or create unsupported detailed settings."
+    "O1816": "Source says re-estimate our tests for stock-only firms n=126 and find no evidence REPAT is associated with foreign stock deals, interpreted as tax-induced cash leading to foreign cash transactions rather than general investment. Precise dependent variable(s), estimator, and columns rerun are not identified. Do not invent probit, count or CAR estimates. Keep one unresolved setting with broad outcome and explicit uncertainty rather than silently omit or create unsupported detailed settings.",
+    "A1817": "3MVCXGJ3",
+    "B1817": "h14",
+    "I1817": "1",
+    "J1817": "FE",
+    "K1817": "0",
+    "L1817": "0",
+    "M1817": "n/a",
+    "N1817": "REPAT and logged foreign cash/net assets in BEA firms; pooled and year-specific linear industry-FE cash-retention regression, pooled model additionally year FE. Location: AppendixB TableB1 PanelB pp.194–195; Sec2.3 p.182",
+    "O1817": "Although this constructs a first-stage proxy, p.195 explicitly interprets 45.29 as suggesting repatriation tax costs induce firms to retain cash overseas. Retain under exception for first stages treated as substantive causal results. Not IV. Group year-specific sample variants in this panel; no no-FE column. AppendixA/TableB1 say net assets; AppendixB prose says total assets: prefer explicit dependent-variable label and flag inconsistency. Source estimates: {\"pooled_REPAT\": 45.29, \"year_coefficients\": [56.28, 16.17, 79.42, 70.27, 47.93, 25.28]}."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46640,7 +46649,11 @@
     "A4348": "3MVCXGJ3",
     "B4348": "h13",
     "C4348": "hy1",
-    "K4348": "Foreign stock-deal activity among stock-only firms (n=126), fn23 p.192. Exact outcome definition and outcome set not stated; do not impute probability/count/CAR from the phrase our tests."
+    "K4348": "Foreign stock-deal activity among stock-only firms (n=126), fn23 p.192. Exact outcome definition and outcome set not stated; do not impute probability/count/CAR from the phrase our tests.",
+    "A4349": "3MVCXGJ3",
+    "B4349": "h14",
+    "C4349": "hy1",
+    "K4349": "Ln(foreign cash/net assets) in year t−1, TableB1 PanelB and AppendixA. AppendixB prose alternatively says total assets; preserve discrepancy. Nonbinary treatment: leave detailed human labels blank."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

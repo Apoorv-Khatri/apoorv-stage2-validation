@@ -36522,3 +36522,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:14:19.201589+00:00 — Review 3MVCXGJ3 h14: causal scope, outcomes and benchmark evidence
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4349",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4349",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4349",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4349",
+    "before": null,
+    "after": "Ln(foreign cash/net assets) in year t−1, TableB1 PanelB and AppendixA. AppendixB prose alternatively says total assets; preserve discrepancy. Nonbinary treatment: leave detailed human labels blank."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1817",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1817",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1817",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1817",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1817",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1817",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1817",
+    "before": null,
+    "after": "REPAT and logged foreign cash/net assets in BEA firms; pooled and year-specific linear industry-FE cash-retention regression, pooled model additionally year FE. Location: AppendixB TableB1 PanelB pp.194–195; Sec2.3 p.182"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1817",
+    "before": null,
+    "after": "Although this constructs a first-stage proxy, p.195 explicitly interprets 45.29 as suggesting repatriation tax costs induce firms to retain cash overseas. Retain under exception for first stages treated as substantive causal results. Not IV. Group year-specific sample variants in this panel; no no-FE column. AppendixA/TableB1 say net assets; AppendixB prose says total assets: prefer explicit dependent-variable label and flag inconsistency. Source estimates: {\"pooled_REPAT\": 45.29, \"year_coefficients\": [56.28, 16.17, 79.42, 70.27, 47.93, 25.28]}."
+  }
+]
+```
