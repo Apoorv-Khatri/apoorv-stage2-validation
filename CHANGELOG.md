@@ -84000,3 +84000,324 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:43:23.069715+00:00 — Review 4X76IAGM s11: source-audited coding and linked comparisons
+
+52 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1895",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1896",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1897",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1895",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1896",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1897",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1895",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1896",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1897",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1895",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1896",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1897",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K70",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1895",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1896",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1897",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L70",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1895",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1896",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1897",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M70",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1895",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1896",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1897",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N70",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1895",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1896",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1897",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O70",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1895",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1896",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1897",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P70",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1895",
+    "before": null,
+    "after": "TableA.6 col1, appendix p.4: post coefficient .083, paired mean of dependent variable .272 for this specification; observed regression-sample external-party harassment rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1896",
+    "before": null,
+    "after": "TableA.6 col2, appendix p.4: post coefficient .144, paired mean of dependent variable .272 for this specification; observed regression-sample external-party harassment rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1897",
+    "before": null,
+    "after": "TableA.6 col3, appendix p.4: post coefficient .159, paired mean of dependent variable .272 for this specification; observed regression-sample external-party harassment rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q70",
+    "before": null,
+    "after": "TableA.6 col4 appendix p.4: post coefficient .057, mean of dependent variable .272. Main p.17 explicitly says increase5.7 percentage points over baseline27.2%. Indicator covers external-party harassment across regression sample; appendix labels .272 as outcome mean, not a verified pre-crackdown mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1895",
+    "before": null,
+    "after": "Neither time-specific untreated reference nor appropriate adjusted target mean is documented; same sample alone insufficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1896",
+    "before": null,
+    "after": "Neither time-specific untreated reference nor appropriate adjusted target mean is documented; same sample alone insufficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1897",
+    "before": null,
+    "after": "Neither time-specific untreated reference nor appropriate adjusted target mean is documented; same sample alone insufficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R70",
+    "before": null,
+    "after": "Correct other_level to outcome_mean. Source does not establish .272 as no-crackdown outcome for within-pair FE target; do not infer a preperiod/control mean from word baseline."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H466",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I466",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J466",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K466",
+    "before": null,
+    "after": "Loan-level indicator of harassment affecting external parties, including family, friends, neighbors, colleagues AND graffiti/paint splashing at borrower home; TableA.6 cols1–4. Outcome mean .272 establishes both zero and one observations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I145",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J145",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K145",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L145",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M145",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N145",
+    "before": null,
+    "after": "Post-crackdown exposure and loan-level external-party harassment; Table A.6 cols1–4 linear regression-adjusted estimates. Columns vary borrower, lender and borrower–lender-pair indicators, with two categorical past-loan-history control sets throughout."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O145",
+    "before": null,
+    "after": "Strict identifying-role audit: Table A.6 lists 2/3/4/3 separately included categorical sets in cols1/2/3/4 respectively, but main p17 only describes the richest specification, not an argument that the FE battery identifies the effect through unobserved heterogeneity/endogeneity. Classify OLS regression adjustment under the requested strict rule, not HDFE solely from counts or FE as a fallback. No suitable untreated comparison or parallel-trends argument; not DiD. Group col1 with cols2–4 as routine control variants; preserve each distinct estimate–mean comparison. Source: Main p.17; TableA.6 cols2–4, appendix p.4. Source link: https://ars.els-cdn.com/content/image/1-s2.0-S0304405X2400117X-mmc1.pdf#page=4. Certainty: medium for HDFE identification-role boundary."
+  }
+]
+```
