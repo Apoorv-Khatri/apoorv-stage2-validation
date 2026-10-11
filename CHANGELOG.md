@@ -30747,3 +30747,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:02:28.827510+00:00 — Review 3DI8S52Q s9: causal scope, outcomes and benchmark evidence
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H221",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I221",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J221",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K221",
+    "before": null,
+    "after": "Spurious within corrected Table X setting: Figure 3 cumulative outcome moved to h9/h10; y1/y2 remain one-week outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I85",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J85",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K85",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L85",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M85",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N85",
+    "before": null,
+    "after": "Table X p.406, equation (7): restrict to continuous NONMOMENTUM component of noncommercial Q, orthogonal to lagged return, and its effects on week t+1/t+2 returns. Momentum component goes to h8; Figure 3 separately reported cumulative estimands go to h9/h10."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O85",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Fama-MacBeth OLS of returns, NOT IV: fitted component construction does not instrument treatment receipt. Equation (6) is preprocessing only. Nonmomentum coefficients -6.00/-4.13 times100. Main profitability explanation emphasized in introduction/conclusion."
+  }
+]
+```
