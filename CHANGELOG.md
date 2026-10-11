@@ -100464,3 +100464,288 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:55:10.375945+00:00 — Review 5IF5MIQQ s9: source-audited coding and linked comparisons
+
+46 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K81",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K82",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K83",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K84",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K85",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K86",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K87",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K88",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K89",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K90",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K91",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K92",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q81",
+    "before": null,
+    "after": "Eligibility audit only (rejected): Tables11–12 pp736–738; lower $US change panel computes effect of one-dollar increase in proceeds at medians. See original evidence preserved above."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q82",
+    "before": null,
+    "after": "Eligibility audit only (rejected): Tables11–12 pp736–738; lower $US change panel computes effect of one-dollar increase in proceeds at medians. See original evidence preserved above."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q83",
+    "before": null,
+    "after": "Eligibility audit only (rejected): Tables11–12 pp736–738; lower $US change panel computes effect of one-dollar increase in proceeds at medians. See original evidence preserved above."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q84",
+    "before": null,
+    "after": "Eligibility audit only (rejected): Tables11–12 pp736–738; lower $US change panel computes effect of one-dollar increase in proceeds at medians. See original evidence preserved above."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q85",
+    "before": null,
+    "after": "Eligibility audit only (rejected): Tables11–12 pp736–738; lower $US change panel computes effect of one-dollar increase in proceeds at medians. See original evidence preserved above."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q86",
+    "before": null,
+    "after": "Eligibility audit only (rejected): Tables11–12 pp736–738; lower $US change panel computes effect of one-dollar increase in proceeds at medians. See original evidence preserved above."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q87",
+    "before": null,
+    "after": "Eligibility audit only (rejected): Tables11–12 pp736–738; lower $US change panel computes effect of one-dollar increase in proceeds at medians. See original evidence preserved above."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q88",
+    "before": null,
+    "after": "Eligibility audit only (rejected): Tables11–12 pp736–738; lower $US change panel computes effect of one-dollar increase in proceeds at medians. See original evidence preserved above."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q89",
+    "before": null,
+    "after": "Eligibility audit only (rejected): Tables11–12 pp736–738; lower $US change panel computes effect of one-dollar increase in proceeds at medians. See original evidence preserved above."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q90",
+    "before": null,
+    "after": "Eligibility audit only (rejected): Tables11–12 pp736–738; lower $US change panel computes effect of one-dollar increase in proceeds at medians. See original evidence preserved above."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q91",
+    "before": null,
+    "after": "Eligibility audit only (rejected): Tables11–12 pp736–738; lower $US change panel computes effect of one-dollar increase in proceeds at medians. See original evidence preserved above."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q92",
+    "before": null,
+    "after": "Eligibility audit only (rejected): Tables11–12 pp736–738; lower $US change panel computes effect of one-dollar increase in proceeds at medians. See original evidence preserved above."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R81",
+    "before": null,
+    "after": "Reject: cents of cash/investment/debt repayment/R&D per dollar of bond proceeds normalize by the TREATMENT increment, not a mean, SD or other level of the SAME OUTCOME. Dollar-to-dollar units do not make proceeds and cash/spending the same variable. EME/AE, USD/nonUSD and cash/CAPEX contrasts compare fitted effects, not outcome levels. Preserve original ID/model evidence; do not transfer these rows to split settings."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R82",
+    "before": null,
+    "after": "Reject: cents of cash/investment/debt repayment/R&D per dollar of bond proceeds normalize by the TREATMENT increment, not a mean, SD or other level of the SAME OUTCOME. Dollar-to-dollar units do not make proceeds and cash/spending the same variable. EME/AE, USD/nonUSD and cash/CAPEX contrasts compare fitted effects, not outcome levels. Preserve original ID/model evidence; do not transfer these rows to split settings."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R83",
+    "before": null,
+    "after": "Reject: cents of cash/investment/debt repayment/R&D per dollar of bond proceeds normalize by the TREATMENT increment, not a mean, SD or other level of the SAME OUTCOME. Dollar-to-dollar units do not make proceeds and cash/spending the same variable. EME/AE, USD/nonUSD and cash/CAPEX contrasts compare fitted effects, not outcome levels. Preserve original ID/model evidence; do not transfer these rows to split settings."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R84",
+    "before": null,
+    "after": "Reject: cents of cash/investment/debt repayment/R&D per dollar of bond proceeds normalize by the TREATMENT increment, not a mean, SD or other level of the SAME OUTCOME. Dollar-to-dollar units do not make proceeds and cash/spending the same variable. EME/AE, USD/nonUSD and cash/CAPEX contrasts compare fitted effects, not outcome levels. Preserve original ID/model evidence; do not transfer these rows to split settings."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R85",
+    "before": null,
+    "after": "Reject: cents of cash/investment/debt repayment/R&D per dollar of bond proceeds normalize by the TREATMENT increment, not a mean, SD or other level of the SAME OUTCOME. Dollar-to-dollar units do not make proceeds and cash/spending the same variable. EME/AE, USD/nonUSD and cash/CAPEX contrasts compare fitted effects, not outcome levels. Preserve original ID/model evidence; do not transfer these rows to split settings."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R86",
+    "before": null,
+    "after": "Reject: cents of cash/investment/debt repayment/R&D per dollar of bond proceeds normalize by the TREATMENT increment, not a mean, SD or other level of the SAME OUTCOME. Dollar-to-dollar units do not make proceeds and cash/spending the same variable. EME/AE, USD/nonUSD and cash/CAPEX contrasts compare fitted effects, not outcome levels. Preserve original ID/model evidence; do not transfer these rows to split settings."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R87",
+    "before": null,
+    "after": "Reject: cents of cash/investment/debt repayment/R&D per dollar of bond proceeds normalize by the TREATMENT increment, not a mean, SD or other level of the SAME OUTCOME. Dollar-to-dollar units do not make proceeds and cash/spending the same variable. EME/AE, USD/nonUSD and cash/CAPEX contrasts compare fitted effects, not outcome levels. Preserve original ID/model evidence; do not transfer these rows to split settings."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R88",
+    "before": null,
+    "after": "Reject: cents of cash/investment/debt repayment/R&D per dollar of bond proceeds normalize by the TREATMENT increment, not a mean, SD or other level of the SAME OUTCOME. Dollar-to-dollar units do not make proceeds and cash/spending the same variable. EME/AE, USD/nonUSD and cash/CAPEX contrasts compare fitted effects, not outcome levels. Preserve original ID/model evidence; do not transfer these rows to split settings."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R89",
+    "before": null,
+    "after": "Reject: cents of cash/investment/debt repayment/R&D per dollar of bond proceeds normalize by the TREATMENT increment, not a mean, SD or other level of the SAME OUTCOME. Dollar-to-dollar units do not make proceeds and cash/spending the same variable. EME/AE, USD/nonUSD and cash/CAPEX contrasts compare fitted effects, not outcome levels. Preserve original ID/model evidence; do not transfer these rows to split settings."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R90",
+    "before": null,
+    "after": "Reject: cents of cash/investment/debt repayment/R&D per dollar of bond proceeds normalize by the TREATMENT increment, not a mean, SD or other level of the SAME OUTCOME. Dollar-to-dollar units do not make proceeds and cash/spending the same variable. EME/AE, USD/nonUSD and cash/CAPEX contrasts compare fitted effects, not outcome levels. Preserve original ID/model evidence; do not transfer these rows to split settings."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R91",
+    "before": null,
+    "after": "Reject: cents of cash/investment/debt repayment/R&D per dollar of bond proceeds normalize by the TREATMENT increment, not a mean, SD or other level of the SAME OUTCOME. Dollar-to-dollar units do not make proceeds and cash/spending the same variable. EME/AE, USD/nonUSD and cash/CAPEX contrasts compare fitted effects, not outcome levels. Preserve original ID/model evidence; do not transfer these rows to split settings."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R92",
+    "before": null,
+    "after": "Reject: cents of cash/investment/debt repayment/R&D per dollar of bond proceeds normalize by the TREATMENT increment, not a mean, SD or other level of the SAME OUTCOME. Dollar-to-dollar units do not make proceeds and cash/spending the same variable. EME/AE, USD/nonUSD and cash/CAPEX contrasts compare fitted effects, not outcome levels. Preserve original ID/model evidence; do not transfer these rows to split settings."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K486",
+    "before": null,
+    "after": "ln(1+(cash and short-term investments at t=1 minus date0 cash)/date0 total assets). Cash-stock change, NOT change in cash/assets ratios with varying denominators. Date0=fiscal year-end before issuance. Table11 only; Table12 moved to h21/h22."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K487",
+    "before": null,
+    "after": "ln(1+(cash and short-term investments at t=2 minus date0 cash)/date0 total assets). Cash-stock change, NOT change in cash/assets ratios with varying denominators. Date0=fiscal year-end before issuance. Table11 only; Table12 moved to h21/h22."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K488",
+    "before": null,
+    "after": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets). Cash-stock change, NOT change in cash/assets ratios with varying denominators. Date0=fiscal year-end before issuance. Table11 only; Table12 moved to h21/h22."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I154",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J154",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K154",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L154",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M154",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N154",
+    "before": null,
+    "after": "Continuous USD proceeds log1p intensity and cash accumulation t=1,2,3, high/low FinDep sample variants; narrow to Table11 USD Location: Table11 pp.736–737."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O154",
+    "before": null,
+    "after": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Table12 rating analysis separately h21/h22; Table11 nonUSD=h20. High/low samples are not treatment assignment. FinDep concerns endogenous sample composition, not a random constraint intervention. Source: Table11 pp.736–737. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium for HDFE criterion."
+  }
+]
+```
