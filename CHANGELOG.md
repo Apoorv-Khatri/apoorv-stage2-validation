@@ -36609,3 +36609,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:14:36.032506+00:00 — Review 3MVCXGJ3 h15: causal scope, outcomes and benchmark evidence
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4350",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4350",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4350",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4350",
+    "before": null,
+    "after": "Five-day domestic-acquisition-announcement CAR(-2,+2) multiplied by100, percentage points. Table5 domestic columns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1818",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1818",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1818",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1818",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1818",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1818",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1818",
+    "before": null,
+    "after": "Table5 cols4 p.188: continuous lagged REPAT effect on DOMESTIC acquisition-announcement CAR(-2,+2), percentage-point scale. Identifying year and target-industry FE; domestic-only target-country dummy is constant. Supporting domestic specificity comparison, split from foreign HDFE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1818",
+    "before": null,
+    "after": "Table labels all three FE sets Y, but U.S. domestic targets have no cross-country variation: count effective nonconstant dimensions, not an intercept-like country label. Coefficients -0.06 percentage points per treatment SD, insignificant. No no-FE OLS claimed; no qualifying same-outcome benchmark."
+  }
+]
+```
