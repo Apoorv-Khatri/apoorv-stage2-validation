@@ -7911,3 +7911,24 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T01:28:10.090537+00:00 — Review 2LWSD69M s15: causal scope, outcomes and benchmark evidence
+
+2 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I37",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O37",
+    "before": null,
+    "after": "Exclude under the pure prediction/descriptive exclusion in the supplied instructions. Tables 8-9, Section 5.2, pp. 396-397,399-401: Alternative-signal and pooled early/late regressions compare predictive premia. Year indicators and decile-period interactions do not turn this into identifying FE or DiD. The paper provides an economic explanation for the apparent premium decline, but does not interpret these signal coefficients as effects of changing X on Y. This decision is about interpretation, not the absence of randomization or remaining endogeneity."
+  }
+]
+```
