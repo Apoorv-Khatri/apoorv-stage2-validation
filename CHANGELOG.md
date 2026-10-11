@@ -107286,3 +107286,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:25:29.915605+00:00 — Review 6T38MQ3Y h3: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2084",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2085",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2084",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2085",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2084",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2085",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2084",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2085",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2084",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2085",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2084",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2085",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2084",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2085",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2084",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2085",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2084",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2085",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2084",
+    "before": null,
+    "after": "Table15B p.4334/PDF35, Mean excess return row: printed High−No contrast 0.37 percentage points/month paired with no mentions portfolio mean 0.80%/month, 1995–2017. Within size terciles value-weighted, then averaged across terciles. Compare the raw excess-return contrast to this raw excess-return mean, not an alpha to a raw return mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2085",
+    "before": null,
+    "after": "Table15B p.4334/PDF35, Mean excess return row: printed High−Low contrast 0.29 percentage points/month paired with low C-Rank portfolio mean 0.89%/month, 1995–2017. Within size terciles value-weighted, then averaged across terciles. Compare the raw excess-return contrast to this raw excess-return mean, not an alpha to a raw return mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2084",
+    "before": null,
+    "after": "Observed comparator portfolio mean and contrast use the same return scale and period. However, the paper does not define a causal target/weighting construction establishing that this comparator mean is the untreated mean for the firms whose mention status is changed; unknown rather than assume alignment from shared sample. Table pairing only: the prose gives contrasts but does not verbalize their ratio to these base means. Preserve printed rounded values."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2085",
+    "before": null,
+    "after": "Observed comparator portfolio mean and contrast use the same return scale and period. However, the paper does not define a causal target/weighting construction establishing that this comparator mean is the untreated mean for the firms whose mention status is changed; unknown rather than assume alignment from shared sample. Table pairing only: the prose gives contrasts but does not verbalize their ratio to these base means. Preserve printed rounded values."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4686",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4687",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4686",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4687",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4686",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4687",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4686",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4687",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4686",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4687",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4686",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4687",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4686",
+    "before": null,
+    "after": "Monthly stock return in excess of risk-free rate, percent per month, for size-neutral C-Rank portfolios and High−No/High−Low contrasts. Table15B p.4334/PDF35. No point-mass-at-zero evidence is reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4687",
+    "before": null,
+    "after": "Monthly six-factor risk-adjusted alpha, percent per month, for size-neutral C-Rank portfolios and High−No/High−Low contrasts. Table15B p.4334/PDF35. No point-mass-at-zero evidence is reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1972",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1972",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1972",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1972",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1972",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1972",
+    "before": null,
+    "after": "Table15 PanelB split from s14: within-size-tercile High C-Rank versus No-mentions/Low C-Rank contrasts in monthly mean excess returns and six-factor alpha, averaged across terciles."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1972",
+    "before": null,
+    "after": "Same OLS-style classification as s2, not Matching. Distinct panel/conditioning estimand split follows original s1/s2. Printed contrasts differ slightly from arithmetic on rounded endpoint means/alphas; visually verified and preserved, not repaired. Source: §7.2, Table15B p.4334/PDF35; lines2304–2323.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574."
+  }
+]
+```
