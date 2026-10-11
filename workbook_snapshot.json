@@ -16206,7 +16206,16 @@
     "L1841": "0",
     "M1841": "n/a",
     "N1841": "Chinese milk scandal: event-year before/after effect on domestic food-industry market shares.",
-    "O1841": "Country/industry FE only; no year FE. This is an adjusted temporal contrast, not DiD because there is no comparison-group interaction. Causal effect attributed to shock in pp.890–893, but susceptible to secular changes. Printed domestic share effects are−20.18 and−6.387 while AppendixA defines a proportion; table does not disclose scaling. Preserve printed units, do not silently call these percentage points or fractions. Source: TableX PanelA p.891; SecIV.E pp.890,893 col3."
+    "O1841": "Country/industry FE only; no year FE. This is an adjusted temporal contrast, not DiD because there is no comparison-group interaction. Causal effect attributed to shock in pp.890–893, but susceptible to secular changes. Printed domestic share effects are−20.18 and−6.387 while AppendixA defines a proportion; table does not disclose scaling. Preserve printed units, do not silently call these percentage points or fractions. Source: TableX PanelA p.891; SecIV.E pp.890,893 col3.",
+    "A1842": "4MXMWKXM",
+    "B1842": "h19",
+    "I1842": "1",
+    "J1842": "DiD_conventional",
+    "K1842": "1",
+    "L1842": "0",
+    "M1842": "n/a",
+    "N1842": "Chinese milk scandal: civil×event-year DiD effect on domestic food-industry market shares.",
+    "O1842": "Country/year/industry FE. Civil-law interaction isolates relative change, conventional DiD under parallel trends; no modern estimator. Printed domestic share effects are−20.18 and−6.387 while AppendixA defines a proportion; table does not disclose scaling. Preserve printed units, do not silently call these percentage points or fractions. Source: TableX PanelA p.891; SecIV.E pp.890,893 col4."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -47877,7 +47886,14 @@
     "H4447": "0",
     "I4447": "unknown",
     "J4447": "none",
-    "K4447": "Domestic market share: sales/total domestic industry-year sales, all companies denominator. Printed domestic share effects are−20.18 and−6.387 while AppendixA defines a proportion; table does not disclose scaling. Preserve printed units, do not silently call these percentage points or fractions."
+    "K4447": "Domestic market share: sales/total domestic industry-year sales, all companies denominator. Printed domestic share effects are−20.18 and−6.387 while AppendixA defines a proportion; table does not disclose scaling. Preserve printed units, do not silently call these percentage points or fractions.",
+    "A4448": "4MXMWKXM",
+    "B4448": "h19",
+    "C4448": "hy1",
+    "H4448": "0",
+    "I4448": "unknown",
+    "J4448": "none",
+    "K4448": "Domestic market share: sales/total domestic industry-year sales, all companies denominator. Printed domestic share effects are−20.18 and−6.387 while AppendixA defines a proportion; table does not disclose scaling. Preserve printed units, do not silently call these percentage points or fractions."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

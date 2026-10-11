@@ -45537,3 +45537,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:46:05.905118+00:00 — Review 4MXMWKXM h19: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4448",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4448",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4448",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4448",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4448",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4448",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4448",
+    "before": null,
+    "after": "Domestic market share: sales/total domestic industry-year sales, all companies denominator. Printed domestic share effects are−20.18 and−6.387 while AppendixA defines a proportion; table does not disclose scaling. Preserve printed units, do not silently call these percentage points or fractions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1842",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1842",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1842",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1842",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1842",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1842",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1842",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1842",
+    "before": null,
+    "after": "Chinese milk scandal: civil×event-year DiD effect on domestic food-industry market shares."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1842",
+    "before": null,
+    "after": "Country/year/industry FE. Civil-law interaction isolates relative change, conventional DiD under parallel trends; no modern estimator. Printed domestic share effects are−20.18 and−6.387 while AppendixA defines a proportion; table does not disclose scaling. Preserve printed units, do not silently call these percentage points or fractions. Source: TableX PanelA p.891; SecIV.E pp.890,893 col4."
+  }
+]
+```
