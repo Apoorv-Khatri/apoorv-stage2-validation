@@ -111243,3 +111243,390 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:31:18.513127+00:00 — Review 7PCAD73D s10: source-audited coding and linked comparisons
+
+63 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2102",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2103",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2104",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2105",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2102",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2103",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2104",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2105",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2102",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2103",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2104",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2105",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2103",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2105",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L102",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2102",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2103",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2104",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2105",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M102",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2102",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2103",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2104",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2105",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2102",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2103",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2104",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2105",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2102",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2103",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2104",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2105",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P102",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2102",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2103",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2104",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2105",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q102",
+    "before": null,
+    "after": "Table10 p3499; prose states13.9% marginal effect; focal estimate: .046 (4.6pp), Table10A col5; benchmark: 33.02% unconditional switching probability"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2102",
+    "before": null,
+    "after": "Table10A note p3499; focal estimate: 0.043 Table10A col3; benchmark: 33.02% unconditional switching probability in two-year analysis"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2103",
+    "before": null,
+    "after": "Table10A note p3499; focal estimate: 0.048 Table10A col4; benchmark: 33.02% unconditional switching probability in two-year analysis"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2104",
+    "before": null,
+    "after": "Table10A note p3499; focal estimate: 0.026 Table10A col1; benchmark: 33.02% unconditional switching probability in two-year analysis"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2105",
+    "before": null,
+    "after": "Table10A note p3499; focal estimate: 0.032 Table10A col2; benchmark: 33.02% unconditional switching probability in two-year analysis"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R102",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2102",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2103",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2104",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2105",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H524",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I524",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J524",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K524",
+    "before": null,
+    "after": "Restrict original pooled horizon description to Table10A two-year outcome; added setting separately contains Table10B horizon outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I180",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J180",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K180",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L180",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M180",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N180",
+    "before": null,
+    "after": "Breach×STLender on lender switching within two years; Table10A columns1–5, all identifying-FE/control variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O180",
+    "before": null,
+    "after": "Observational linear interaction design, not an implemented treated/post parallel-trends DiD or a local-polynomial RD. EPS proximity and covenant threshold do not themselves make this RD. Breach×STLender measures differential breach-associated outcome for short-termist lenders, not an IV effect of actual enforcement. Authors acknowledge omitted unobservables and manipulation pp.3476,3484. Identifying FE, not HDFE: source reports Quarter, Industry×Quarter, Lender and Lender×Quarter rows cumulatively. Quarter is nested in Industry×Quarter; Lender is additionally nested in Lender×Quarter. Effective sets by baseline column: (1) quarter; (2) industry×quarter; (3) industry×quarter + lender; (4–5) industry×quarter + lender×quarter. Equation3 itself writes only the two interacted sets. Explicit pp3482–3483 discussion addresses confounding. Preserve every reported Yes/No row as source reporting, but do not count redundant sets as extra separately absorbed dimensions. Analogous year nesting applies to TableB.7. Routine FE/control variants at this table are grouped after nested-FE adjudication; no additional HDFE method is established. Source: Breach×STLender on lender switching within two years; Table10A columns1–5, all identifying-FE/control variants.. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+  }
+]
+```
