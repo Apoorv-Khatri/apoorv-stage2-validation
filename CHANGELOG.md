@@ -36051,3 +36051,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:13:29.631100+00:00 — Review 3MVCXGJ3 h11: causal scope, outcomes and benchmark evidence
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1442",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1442",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1442",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1442",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1442",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1442",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1442",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1442",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1442",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1442",
+    "before": null,
+    "after": "fn17 pp.187–188:27.95% of foreign deals diversifying for positive-REPAT firms, compared with26.13% for REPAT=$0. This is the binary group-mean contrast itself; no numerical difference or relative ratio printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1442",
+    "before": null,
+    "after": "Baseline is observed zero-REPAT foreign deals. Source does not establish its untreated comparability to positive-REPAT deals or state an ATT target. Unknown alignment. Do not attribute a calculated1.82pp effect or6.97% ratio to authors."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4345",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4345",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4345",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4345",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4345",
+    "before": null,
+    "after": "Deal-level indicator for diversifying foreign acquisition: target one-digit SIC differs from acquirer. Footnote17 compares its group means, 27.95% vs26.13%; not a dependent-variable group-share regression. Both groups include diversifying and nondiversifying deals."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1814",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1814",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1814",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1814",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1814",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1814",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1814",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1814",
+    "before": null,
+    "after": "Positive REPAT versus REPAT=$0: probability a foreign acquisition is diversifying (target one-digit SIC differs from acquirer). Unadjusted deal-level mean contrast supporting agency interpretation. Location: pp.187–188 fn17; AppendixA p.193"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1814",
+    "before": null,
+    "after": "Include substantive binary-threshold contrast, distinct from continuous REPAT regressions. OLS code denotes the linear/unadjusted difference-in-means estimand, not a claim authors fitted a regression. Footnote frames it as evidence consistent with agency-driven acquisitions. No conditional identification or exchangeability argument. Source estimates: {\"positive_REPAT_percent\": 27.95, \"zero_REPAT_percent\": 26.13}."
+  }
+]
+```

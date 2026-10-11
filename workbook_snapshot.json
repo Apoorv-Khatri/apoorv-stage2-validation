@@ -15782,7 +15782,16 @@
     "L1813": "0",
     "M1813": "n/a",
     "N1813": "Lagged Predicted foreign cash-REPAT, foreign and domestic R&D/assets, untabulated Tobit robustness to Eq.(7). Location: p.189 fn21; Eq.(7); Table7 PanelB",
-    "O1813": "Same evidence and reporting limits as h9; distinct proxy, not IV."
+    "O1813": "Same evidence and reporting limits as h9; distinct proxy, not IV.",
+    "A1814": "3MVCXGJ3",
+    "B1814": "h11",
+    "I1814": "1",
+    "J1814": "OLS",
+    "K1814": "1",
+    "L1814": "0",
+    "M1814": "n/a",
+    "N1814": "Positive REPAT versus REPAT=$0: probability a foreign acquisition is diversifying (target one-digit SIC differs from acquirer). Unadjusted deal-level mean contrast supporting agency interpretation. Location: pp.187–188 fn17; AppendixA p.193",
+    "O1814": "Include substantive binary-threshold contrast, distinct from continuous REPAT regressions. OLS code denotes the linear/unadjusted difference-in-means estimand, not a claim authors fitted a regression. Footnote frames it as evidence consistent with agency-driven acquisitions. No conditional identification or exchangeability argument. Source estimates: {\"positive_REPAT_percent\": 27.95, \"zero_REPAT_percent\": 26.13}."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46588,7 +46597,14 @@
     "A4344": "3MVCXGJ3",
     "B4344": "h10",
     "C4344": "hy2",
-    "K4344": "Domestic R&D expense in year t / total assets; Eq.(7), fn21. Tobit re-estimation; exact reporting scale of unpublished coefficients not stated."
+    "K4344": "Domestic R&D expense in year t / total assets; Eq.(7), fn21. Tobit re-estimation; exact reporting scale of unpublished coefficients not stated.",
+    "A4345": "3MVCXGJ3",
+    "B4345": "h11",
+    "C4345": "hy1",
+    "H4345": "1",
+    "I4345": "1",
+    "J4345": "none",
+    "K4345": "Deal-level indicator for diversifying foreign acquisition: target one-digit SIC differs from acquirer. Footnote17 compares its group means, 27.95% vs26.13%; not a dependent-variable group-share regression. Both groups include diversifying and nondiversifying deals."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -61338,7 +61354,18 @@
     "O1441": "1",
     "P1441": "unknown",
     "Q1441": "Sec4.2 p.190 and Table7 PanelA col2 p.191: one predicted-cash-proxy SD associated with0.12 percentage-point increase in foreign CapEx/assets; authors call this10% relative to mean For CapEx1.16% of assets. BEA1998–2003 foreign-investment sample (regression n=2,499).",
-    "R1441": "Mean is an unconditional period/sample mean, with no identified untreated continuous-treatment reference. Unknown alignment. Do not make an additional0.10/1.16 comparison for REPAT col1: source uses0.12. "
+    "R1441": "Mean is an unconditional period/sample mean, with no identified untreated continuous-treatment reference. Unknown alignment. Do not make an additional0.10/1.16 comparison for REPAT col1: source uses0.12. ",
+    "A1442": "3MVCXGJ3",
+    "B1442": "h11",
+    "C1442": "hc1",
+    "K1442": "1",
+    "L1442": "hy1",
+    "M1442": "outcome_mean",
+    "N1442": "1",
+    "O1442": "0",
+    "P1442": "unknown",
+    "Q1442": "fn17 pp.187–188:27.95% of foreign deals diversifying for positive-REPAT firms, compared with26.13% for REPAT=$0. This is the binary group-mean contrast itself; no numerical difference or relative ratio printed.",
+    "R1442": "Baseline is observed zero-REPAT foreign deals. Source does not establish its untreated comparability to positive-REPAT deals or state an ATT target. Unknown alignment. Do not attribute a calculated1.82pp effect or6.97% ratio to authors."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
