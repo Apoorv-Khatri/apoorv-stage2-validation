@@ -29487,3 +29487,1200 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:01:52.457691+00:00 — Review 3DI8S52Q s7: causal scope, outcomes and benchmark evidence
+
+198 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1407",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1408",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1409",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1410",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1411",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1412",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1413",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1414",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1415",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1416",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1417",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1418",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1419",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1420",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1421",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1422",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1407",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1408",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1409",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1410",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1411",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1412",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1413",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1414",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1415",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1416",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1417",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1418",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1419",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1420",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1421",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1422",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1407",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1408",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1409",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1410",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1411",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1412",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1413",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1414",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1415",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1416",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1417",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1418",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1419",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1420",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1421",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1422",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1407",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1408",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1409",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1410",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1411",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1412",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1413",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1414",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1415",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1416",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1419",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1420",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1421",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1422",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1407",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1408",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1409",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1410",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1411",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1412",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1413",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1414",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1415",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1416",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1417",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1418",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1419",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1420",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1421",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1422",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1407",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1408",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1409",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1410",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1411",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1412",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1413",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1414",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1415",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1416",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1417",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1418",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1419",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1420",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1421",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1422",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1407",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1408",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1409",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1410",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1411",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1412",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1413",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1414",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1415",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1416",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1417",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1418",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1419",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1420",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1407",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1408",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1409",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1410",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1411",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1412",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1413",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1414",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1415",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1416",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1417",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1418",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1419",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1420",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1407",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1408",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1409",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1410",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1411",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1412",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1413",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1414",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1415",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1416",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1417",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1418",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1419",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1420",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1407",
+    "before": null,
+    "after": "Table VIII A pp.398-399 days1-4, low-HP stratum: high-minus-low Q difference 0.21 percentage points; low-Q mean -0.1%. Rounded printed differences retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1408",
+    "before": null,
+    "after": "Table VIII A pp.398-399 days1-4, high-HP stratum: high-minus-low Q difference 0.17 percentage points; low-Q mean 0.05%. Rounded printed differences retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1409",
+    "before": null,
+    "after": "Table VIII A pp.398-399 days5-20, low-HP stratum: high-minus-low Q difference 0.05 percentage points; low-Q mean -0.11%. Rounded printed differences retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1410",
+    "before": null,
+    "after": "Table VIII A pp.398-399 days5-20, high-HP stratum: high-minus-low Q difference 0.49 percentage points; low-Q mean 0.2%. Rounded printed differences retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1411",
+    "before": null,
+    "after": "Table VIII A pp.398-399 days21-40, low-HP stratum: high-minus-low Q difference -0.08 percentage points; low-Q mean -0.08%. Rounded printed differences retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1412",
+    "before": null,
+    "after": "Table VIII A pp.398-399 days21-40, high-HP stratum: high-minus-low Q difference -0.05 percentage points; low-Q mean 0.63%. Rounded printed differences retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1413",
+    "before": null,
+    "after": "Table VIII A pp.398-399 days1-40, low-HP stratum: high-minus-low Q difference 0.17 percentage points; low-Q mean -0.29%. Rounded printed differences retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1414",
+    "before": null,
+    "after": "Table VIII A pp.398-399 days1-40, high-HP stratum: high-minus-low Q difference 0.61 percentage points; low-Q mean 0.88%. Rounded printed differences retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1415",
+    "before": null,
+    "after": "Table VIII B pp.398-399 week1, low-HP stratum: high-minus-low Q difference 1.24 percentage points; low-Q mean -0.89%. Rounded printed differences retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1416",
+    "before": null,
+    "after": "Table VIII B pp.398-399 week1, high-HP stratum: high-minus-low Q difference 1.82 percentage points; low-Q mean -0.86%. Rounded printed differences retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1417",
+    "before": null,
+    "after": "Table VIII B pp.398-399 weeks2-4, low-HP stratum: high-minus-low Q difference -0.24 percentage points; low-Q mean -0.51%. Rounded printed differences retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1418",
+    "before": null,
+    "after": "Table VIII B pp.398-399 weeks2-4, high-HP stratum: high-minus-low Q difference -0.96 percentage points; low-Q mean 0.74%. Rounded printed differences retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1419",
+    "before": null,
+    "after": "Table VIII B pp.398-399 weeks5-8, low-HP stratum: high-minus-low Q difference -1.03 percentage points; low-Q mean -0.16%. Rounded printed differences retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1420",
+    "before": null,
+    "after": "Table VIII B pp.398-399 weeks5-8, high-HP stratum: high-minus-low Q difference -1.18 percentage points; low-Q mean 0.9%. Rounded printed differences retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1421",
+    "before": null,
+    "after": "Table VIII B pp.398-399 weeks1-8, low-HP stratum: high-minus-low Q difference -0.03 percentage points; low-Q mean -1.56%. Rounded printed differences retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1422",
+    "before": null,
+    "after": "Table VIII B pp.398-399 weeks1-8, high-HP stratum: high-minus-low Q difference -0.32 percentage points; low-Q mean 0.78%. Rounded printed differences retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1407",
+    "before": null,
+    "after": "Observed comparison-group mean is not established as the treated/high-bin untreated counterfactual. Table pairs an explicit difference with group outcome means; no division by mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1408",
+    "before": null,
+    "after": "Observed comparison-group mean is not established as the treated/high-bin untreated counterfactual. Table pairs an explicit difference with group outcome means; no division by mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1409",
+    "before": null,
+    "after": "Observed comparison-group mean is not established as the treated/high-bin untreated counterfactual. Table pairs an explicit difference with group outcome means; no division by mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1410",
+    "before": null,
+    "after": "Observed comparison-group mean is not established as the treated/high-bin untreated counterfactual. Table pairs an explicit difference with group outcome means; no division by mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1411",
+    "before": null,
+    "after": "Observed comparison-group mean is not established as the treated/high-bin untreated counterfactual. Table pairs an explicit difference with group outcome means; no division by mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1412",
+    "before": null,
+    "after": "Observed comparison-group mean is not established as the treated/high-bin untreated counterfactual. Table pairs an explicit difference with group outcome means; no division by mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1413",
+    "before": null,
+    "after": "Observed comparison-group mean is not established as the treated/high-bin untreated counterfactual. Table pairs an explicit difference with group outcome means; no division by mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1414",
+    "before": null,
+    "after": "Observed comparison-group mean is not established as the treated/high-bin untreated counterfactual. Table pairs an explicit difference with group outcome means; no division by mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1415",
+    "before": null,
+    "after": "Observed comparison-group mean is not established as the treated/high-bin untreated counterfactual. Table pairs an explicit difference with group outcome means; no division by mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1416",
+    "before": null,
+    "after": "Observed comparison-group mean is not established as the treated/high-bin untreated counterfactual. Table pairs an explicit difference with group outcome means; no division by mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1417",
+    "before": null,
+    "after": "Observed comparison-group mean is not established as the treated/high-bin untreated counterfactual. Table pairs an explicit difference with group outcome means; no division by mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1418",
+    "before": null,
+    "after": "Observed comparison-group mean is not established as the treated/high-bin untreated counterfactual. Table pairs an explicit difference with group outcome means; no division by mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1419",
+    "before": null,
+    "after": "Observed comparison-group mean is not established as the treated/high-bin untreated counterfactual. Table pairs an explicit difference with group outcome means; no division by mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1420",
+    "before": null,
+    "after": "Observed comparison-group mean is not established as the treated/high-bin untreated counterfactual. Table pairs an explicit difference with group outcome means; no division by mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1421",
+    "before": null,
+    "after": "Observed comparison-group mean is not established as the treated/high-bin untreated counterfactual. Table pairs an explicit difference with group outcome means; no division by mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1422",
+    "before": null,
+    "after": "Observed comparison-group mean is not established as the treated/high-bin untreated counterfactual. Table pairs an explicit difference with group outcome means; no division by mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H212",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H213",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H214",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H215",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H216",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I212",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I213",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I214",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I215",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I216",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J212",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J213",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J214",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J215",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J216",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I83",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J83",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K83",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L83",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M83",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N83",
+    "before": null,
+    "after": "Table VIII A-B pp.398-399: high-versus-low current commercial Q contrast within each smoothed-hedging-pressure half. Binary Q-bin treatment; separate high-versus-low smoothed-HP contrasts into h4. Outcomes: returns and later commercial position changes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O83",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. OLS category = linear unadjusted two-way sorted-group contrasts (equivalent binary-regressor slopes), NOT covariate-balancing matching. Distinct focal HP and Q contrasts cannot be one unspecified four-valued treatment. Two HP strata are effect heterogeneity for the Q contrast."
+  }
+]
+```
