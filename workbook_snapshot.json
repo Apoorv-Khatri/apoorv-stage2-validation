@@ -17723,7 +17723,16 @@
     "L1970": "1",
     "M1970": "n/a",
     "N1970": "Omitted Table4: 3+ versus 0/1 mention-count portfolio contrasts separately among targeted and admired firms; monthly value-weighted six-factor alpha. Targeting classification is relative market capitalization.",
-    "O1970": "Distinct omitted result location, not merely prose repetition of Table5 or Table6. Materially supports abstract/introduction concentration of outperformance in targeting mentions. The zero-mention comparator is common; targeted/admired classification applies to mentioned firms. Do not treat 0.84 versus 0.20 alpha as a qualifying benchmark comparison. Source: §2, Table4 p.4316/PDF17; lines1037–1079; central motivation pp.4302,4314–4315.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574."
+    "O1970": "Distinct omitted result location, not merely prose repetition of Table5 or Table6. Materially supports abstract/introduction concentration of outperformance in targeting mentions. The zero-mention comparator is common; targeted/admired classification applies to mentioned firms. Do not treat 0.84 versus 0.20 alpha as a qualifying benchmark comparison. Source: §2, Table4 p.4316/PDF17; lines1037–1079; central motivation pp.4302,4314–4315.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574.",
+    "A1971": "6T38MQ3Y",
+    "B1971": "h2",
+    "I1971": "1",
+    "J1971": "OLS",
+    "K1971": "1",
+    "L1971": "0",
+    "M1971": "n/a",
+    "N1971": "Omitted Figure3: repeat 3+ versus 1 incoming-mention six-factor alpha contrast while excluding one GIC sector and the firms mentioned by that sector, one sector at a time. Monthly value-weighted supporting sector-exclusion robustness.",
+    "O1971": "Substantive robustness explicitly says return effect is not driven by a particular sector; include despite being a sample-variant exercise because reported at a separate figure. Keep all 11 exclusion variants together. Exact per-sector values are plotted without printed numerical labels; no invented digitization. Source: §1.3, Figure3 p.4314/PDF15; pp.4313–4314; lines863–868,893–927.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50735,7 +50744,14 @@
     "H4684": "0",
     "I4684": "unknown",
     "J4684": "other",
-    "K4684": "Monthly value-weighted six-factor alpha (Fama–French five factors plus momentum), percent per month, for targeted/admired mention portfolios and 3+ minus 0/1 spreads. Table4 p.4316/PDF17. No point-mass-at-zero evidence is reported."
+    "K4684": "Monthly value-weighted six-factor alpha (Fama–French five factors plus momentum), percent per month, for targeted/admired mention portfolios and 3+ minus 0/1 spreads. Table4 p.4316/PDF17. No point-mass-at-zero evidence is reported.",
+    "A4685": "6T38MQ3Y",
+    "B4685": "h2",
+    "C4685": "hy1",
+    "H4685": "0",
+    "I4685": "unknown",
+    "J4685": "other",
+    "K4685": "Monthly value-weighted six-factor alpha, percent per month, of the 3+ minus 1 mention spread under each sector-and-linked-firm exclusion. Figure3 p.4314/PDF15. No point-mass-at-zero evidence is reported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

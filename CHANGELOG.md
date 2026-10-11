@@ -107181,3 +107181,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:25:17.780170+00:00 — Review 6T38MQ3Y h2: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4685",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4685",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4685",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4685",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4685",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4685",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4685",
+    "before": null,
+    "after": "Monthly value-weighted six-factor alpha, percent per month, of the 3+ minus 1 mention spread under each sector-and-linked-firm exclusion. Figure3 p.4314/PDF15. No point-mass-at-zero evidence is reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1971",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1971",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1971",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1971",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1971",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1971",
+    "before": null,
+    "after": "Omitted Figure3: repeat 3+ versus 1 incoming-mention six-factor alpha contrast while excluding one GIC sector and the firms mentioned by that sector, one sector at a time. Monthly value-weighted supporting sector-exclusion robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1971",
+    "before": null,
+    "after": "Substantive robustness explicitly says return effect is not driven by a particular sector; include despite being a sample-variant exercise because reported at a separate figure. Keep all 11 exclusion variants together. Exact per-sector values are plotted without printed numerical labels; no invented digitization. Source: §1.3, Figure3 p.4314/PDF15; pp.4313–4314; lines863–868,893–927.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574."
+  }
+]
+```
