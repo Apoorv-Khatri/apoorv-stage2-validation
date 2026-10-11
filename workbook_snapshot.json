@@ -15360,7 +15360,16 @@
     "L1779": "0",
     "M1779": "n/a",
     "N1779": "Section 8.3 p. 802 (Table A.4): replace 60-month factor-beta rolling window with 84 or 120 months; Sharpe ratios within 0.02 of baseline. Group windows and portfolio variants.",
-    "O1779": "Implemented pairwise strategy-rule contrasts on common historical price paths, not a causal effect of macro predictors on market prices. Other = forecast-driven constrained mean-variance portfolio recomputation/backtest. Binary refers to adoption of one specified rule versus its comparator, not to the continuously varying monthly hedge ratio. OOS Jan 1997-Jul 2017 unless noted; transaction-cost and price-taking assumptions limit external interpretation. Retain substantive result explicitly reported in MAIN TEXT. Separate online appendix table not inspected; no unavailable coefficients, exact comparison levels or detailed table outcomes invented. No qualifying numerical same-outcome benchmark beyond the narrated contrast identified in main text."
+    "O1779": "Implemented pairwise strategy-rule contrasts on common historical price paths, not a causal effect of macro predictors on market prices. Other = forecast-driven constrained mean-variance portfolio recomputation/backtest. Binary refers to adoption of one specified rule versus its comparator, not to the continuously varying monthly hedge ratio. OOS Jan 1997-Jul 2017 unless noted; transaction-cost and price-taking assumptions limit external interpretation. Retain substantive result explicitly reported in MAIN TEXT. Separate online appendix table not inspected; no unavailable coefficients, exact comparison levels or detailed table outcomes invented. No qualifying numerical same-outcome benchmark beyond the narrated contrast identified in main text.",
+    "A1780": "2RLBINN9",
+    "B1780": "h5",
+    "I1780": "1",
+    "J1780": "Other",
+    "K1780": "1",
+    "L1780": "0",
+    "M1780": "n/a",
+    "N1780": "Section 8.4 p. 802 (Table A.5): replace expanding factor-return estimation with 60/120-month rolling windows; small deterioration, generally statistically indistinguishable except 120-month equal-weight equity case.",
+    "O1780": "Implemented pairwise strategy-rule contrasts on common historical price paths, not a causal effect of macro predictors on market prices. Other = forecast-driven constrained mean-variance portfolio recomputation/backtest. Binary refers to adoption of one specified rule versus its comparator, not to the continuously varying monthly hedge ratio. OOS Jan 1997-Jul 2017 unless noted; transaction-cost and price-taking assumptions limit external interpretation. Retain substantive result explicitly reported in MAIN TEXT. Separate online appendix table not inspected; no unavailable coefficients, exact comparison levels or detailed table outcomes invented. No qualifying numerical same-outcome benchmark beyond the narrated contrast identified in main text."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -45793,7 +45802,21 @@
     "H4279": "0",
     "I4279": "unknown",
     "J4279": "other",
-    "K4279": "Portfolio CEQ return."
+    "K4279": "Portfolio CEQ return.",
+    "A4280": "2RLBINN9",
+    "B4280": "h5",
+    "C4280": "hy1",
+    "H4280": "0",
+    "I4280": "unknown",
+    "J4280": "other",
+    "K4280": "Portfolio Sharpe ratio.",
+    "A4281": "2RLBINN9",
+    "B4281": "h5",
+    "C4281": "hy2",
+    "H4281": "0",
+    "I4281": "unknown",
+    "J4281": "other",
+    "K4281": "Portfolio CEQ return."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
