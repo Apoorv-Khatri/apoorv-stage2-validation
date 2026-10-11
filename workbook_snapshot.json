@@ -57,6 +57,7 @@
     "B16": "On the Foundations of Corporate Social Responsibility",
     "C16": "fin",
     "D16": 11,
+    "E16": "DONE — Complete supplied main article and included Appendices A-D reviewed, with omissions audit. Separated legal-origin contrasts, linear/nonlinear estimators, immediate/persistent responses, market-share channels and financial-performance mechanisms. TableXI generated-regressor channel implementation remains unknown, not asserted IV. Ambiguous 7%/14% denominators and contradictory oil timing/column allocations remain Human_keep=unknown comparison candidates, not confirmed comparisons. All applicable outcome labels and links checked; original model fields preserved. DONE means review complete, not resolution of missing source information.",
     "A17": "4QJKKD9J",
     "B17": "Real effects of supplying safe private money",
     "C17": "fin",
@@ -16357,7 +16358,16 @@
     "L1857": "0",
     "M1857": "n/a",
     "N1857": "MTB Assets as financial-capacity/valuation proxy for doing-good-by-doing-well mechanism; overall IVA rating. Random-effects GLS.",
-    "O1857": "Include supporting alternative-mechanism effect: p.866 explicitly introduces ROA to capture doing-good-by-doing-well effect and MTB in robustness. Continuous proxy; regression controls/year/industry FE, no exogenous financial-performance shock. Empirical discussion uses association language; inclusion follows explicit mechanism claim, not proof of identification. Detailed outcome labels blank for nonbinary treatment. Source: TableIV cols4,5 pp.873–875; SecII.C.4 p.866. Certainty: medium: explicit mechanism interpretation, but reported in control discussion."
+    "O1857": "Include supporting alternative-mechanism effect: p.866 explicitly introduces ROA to capture doing-good-by-doing-well effect and MTB in robustness. Continuous proxy; regression controls/year/industry FE, no exogenous financial-performance shock. Empirical discussion uses association language; inclusion follows explicit mechanism claim, not proof of identification. Detailed outcome labels blank for nonbinary treatment. Source: TableIV cols4,5 pp.873–875; SecII.C.4 p.866. Certainty: medium: explicit mechanism interpretation, but reported in control discussion.",
+    "A1858": "4MXMWKXM",
+    "B1858": "h35",
+    "I1858": "1",
+    "J1858": "Other",
+    "K1858": "0",
+    "L1858": "0",
+    "M1858": "n/a",
+    "N1858": "MTB Assets as financial-capacity/valuation proxy for doing-good-by-doing-well mechanism; overall IVA rating. Random-effects ordered probit.",
+    "O1858": "Include supporting alternative-mechanism effect: p.866 explicitly introduces ROA to capture doing-good-by-doing-well effect and MTB in robustness. Continuous proxy; regression controls/year/industry FE, no exogenous financial-performance shock. Empirical discussion uses association language; inclusion follows explicit mechanism claim, not proof of identification. Detailed outcome labels blank for nonbinary treatment. Source: TableIV cols6,7 pp.873–875; SecII.C.4 p.866. Certainty: medium: explicit mechanism interpretation, but reported in control discussion."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -48153,7 +48163,11 @@
     "A4463": "4MXMWKXM",
     "B4463": "h34",
     "C4463": "hy1",
-    "K4463": "Overall MSCI IVA CSR ordinal score0–6; no outcome standardization. Detailed outcome labels intentionally blank for nonbinary treatment."
+    "K4463": "Overall MSCI IVA CSR ordinal score0–6; no outcome standardization. Detailed outcome labels intentionally blank for nonbinary treatment.",
+    "A4464": "4MXMWKXM",
+    "B4464": "h35",
+    "C4464": "hy1",
+    "K4464": "Overall MSCI IVA CSR ordinal score0–6; no outcome standardization. Detailed outcome labels intentionally blank for nonbinary treatment."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

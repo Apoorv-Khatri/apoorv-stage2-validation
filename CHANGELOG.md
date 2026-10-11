@@ -47346,3 +47346,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:50:59.979608+00:00 — Review 4MXMWKXM h35: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4464",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4464",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4464",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4464",
+    "before": null,
+    "after": "Overall MSCI IVA CSR ordinal score0–6; no outcome standardization. Detailed outcome labels intentionally blank for nonbinary treatment."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E16",
+    "before": null,
+    "after": "DONE — Complete supplied main article and included Appendices A-D reviewed, with omissions audit. Separated legal-origin contrasts, linear/nonlinear estimators, immediate/persistent responses, market-share channels and financial-performance mechanisms. TableXI generated-regressor channel implementation remains unknown, not asserted IV. Ambiguous 7%/14% denominators and contradictory oil timing/column allocations remain Human_keep=unknown comparison candidates, not confirmed comparisons. All applicable outcome labels and links checked; original model fields preserved. DONE means review complete, not resolution of missing source information."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1858",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1858",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1858",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1858",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1858",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1858",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1858",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1858",
+    "before": null,
+    "after": "MTB Assets as financial-capacity/valuation proxy for doing-good-by-doing-well mechanism; overall IVA rating. Random-effects ordered probit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1858",
+    "before": null,
+    "after": "Include supporting alternative-mechanism effect: p.866 explicitly introduces ROA to capture doing-good-by-doing-well effect and MTB in robustness. Continuous proxy; regression controls/year/industry FE, no exogenous financial-performance shock. Empirical discussion uses association language; inclusion follows explicit mechanism claim, not proof of identification. Detailed outcome labels blank for nonbinary treatment. Source: TableIV cols6,7 pp.873–875; SecII.C.4 p.866. Certainty: medium: explicit mechanism interpretation, but reported in control discussion."
+  }
+]
+```
