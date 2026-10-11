@@ -17530,7 +17530,16 @@
     "L1959": "0",
     "M1959": "n/a",
     "N1959": "Continuous nonUSD proceeds log1p intensity; cumulative CAPEX, long-term-debt repayment and R&D t=1,2,3 Location: Table13 cols1–9, pp.739–741.",
-    "O1959": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Source: Table13 cols1–9, pp.739–741. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion."
+    "O1959": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Source: Table13 cols1–9, pp.739–741. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion.",
+    "A1960": "5IF5MIQQ",
+    "B1960": "h24",
+    "I1960": "1",
+    "J1960": "OLS",
+    "K1960": "0",
+    "L1960": "0",
+    "M1960": "n/a",
+    "N1960": "Continuous USD proceeds log1p intensity and cash accumulation t=1,2,3; large/small firm sample variants based on median total assets Location: Table14 PanelB pp.741–742.",
+    "O1960": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Separately reported panel and different FE count from s11. No independent causal size intervention; within-size-group EME/AE slope contrast. Source: Table14 PanelB pp.741–742. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50388,7 +50397,19 @@
     "A4666": "5IF5MIQQ",
     "B4666": "h23",
     "C4666": "hy3",
-    "K4666": "ln(1+cumulative research and development expense/date0 total assets), each separately estimated for t=1,2,3; Table13 matching columns. Keep three horizon estimates in this original-style outcome family rather than inventing one common coefficient."
+    "K4666": "ln(1+cumulative research and development expense/date0 total assets), each separately estimated for t=1,2,3; Table13 matching columns. Keep three horizon estimates in this original-style outcome family rather than inventing one common coefficient.",
+    "A4667": "5IF5MIQQ",
+    "B4667": "h24",
+    "C4667": "hy1",
+    "K4667": "ln(1+(cash and short-term investments at t=1 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction.",
+    "A4668": "5IF5MIQQ",
+    "B4668": "h24",
+    "C4668": "hy2",
+    "K4668": "ln(1+(cash and short-term investments at t=2 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction.",
+    "A4669": "5IF5MIQQ",
+    "B4669": "h24",
+    "C4669": "hy3",
+    "K4669": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
