@@ -35205,3 +35205,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:11:12.076339+00:00 — Review 3MVCXGJ3 s5: causal scope, outcomes and benchmark evidence
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K36",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R36",
+    "before": null,
+    "after": "Exact focal estimate0.12 is Table7 PanelA col2, Predicted foreign cash-REPAT, not REPAT col1 (0.10). Following split, row is wrong-setting. Add h5/hc1; preserve original fields."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I92",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J92",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K92",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L92",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M92",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N92",
+    "before": null,
+    "after": "Lagged REPAT, foreign and domestic capital expenditures/total assets ×100; linear industry-and-year FE regressions. Narrow to REPAT only. Location: Table7 PanelA cols1,3 p.191; Eq.(6) pp.189–190"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O92",
+    "before": null,
+    "after": "Correct OLS to FE; table includes both industry and year despite prose mentioning only year. The 0.12/1.16 magnitude comparison is col2 predicted proxy, not this REPAT setting. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign_pp_assets\": 0.1, \"domestic_pp_assets\": -0.06}."
+  }
+]
+```
