@@ -17227,7 +17227,16 @@
     "L1934": "0",
     "M1934": "n/a",
     "N1934": "Certain harassment by a very harsh lender versus no harassment: required monetary compensation.",
-    "O1934": "Structural compensating variation S$5,301.48; distinct harassment severity treatment. Comparison to median loan size is not same-outcome benchmark. Source: Sec5 pp.14–15. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15."
+    "O1934": "Structural compensating variation S$5,301.48; distinct harassment severity treatment. Comparison to median loan size is not same-outcome benchmark. Source: Sec5 pp.14–15. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15.",
+    "A1935": "4X76IAGM",
+    "B1935": "h31",
+    "I1935": "1",
+    "J1935": "Other",
+    "K1935": "1",
+    "L1935": "0",
+    "M1935": "n/a",
+    "N1935": "Eliminate disutility from harassment over a loan while retaining loan-reset feature: weekly willingness to pay of median borrower.",
+    "O1935": "S$107.48 per week from structural model. Distinct throughout-loan intervention from guaranteed harassment in one period. No qualifying same-outcome benchmark. Source: Sec5 p.15. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -49839,7 +49848,14 @@
     "H4618": "0",
     "I4618": "unknown",
     "J4618": "other",
-    "K4618": "Monetary compensation required by median borrower to accept certain harassment in one period, S$; model compensating variation."
+    "K4618": "Monetary compensation required by median borrower to accept certain harassment in one period, S$; model compensating variation.",
+    "A4619": "4X76IAGM",
+    "B4619": "h31",
+    "C4619": "hy1",
+    "H4619": "0",
+    "I4619": "unknown",
+    "J4619": "other",
+    "K4619": "Median borrower weekly willingness to pay to eliminate harassment disutility while retaining loan resetting, S$107.48."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
