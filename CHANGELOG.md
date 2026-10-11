@@ -113526,3 +113526,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:33:20.451445+00:00 — Review 7PCAD73D s15: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H535",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H536",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H537",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H538",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H539",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I535",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I536",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I537",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I538",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I539",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J535",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J536",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J537",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J538",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J539",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K535",
+    "before": null,
+    "after": "No evidence establishes absence of a point mass at zero; return/factor adjustment itself is not a log transformation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K536",
+    "before": null,
+    "after": "No evidence establishes absence of a point mass at zero; return/factor adjustment itself is not a log transformation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K537",
+    "before": null,
+    "after": "No evidence establishes absence of a point mass at zero; return/factor adjustment itself is not a log transformation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K538",
+    "before": null,
+    "after": "No evidence establishes absence of a point mass at zero; return/factor adjustment itself is not a log transformation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K539",
+    "before": null,
+    "after": "No evidence establishes absence of a point mass at zero; return/factor adjustment itself is not a log transformation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I185",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J185",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K185",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L185",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M185",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N185",
+    "before": null,
+    "after": "STLender on lender three-year cumulative returns. Location: Eq6;Table14 col1 pp.3508–3510"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O185",
+    "before": null,
+    "after": "Calendar-quarter FE present, one set, but this section gives no distinct identifying-FE argument; maintained OLS with calendar controls, not FE merely for dummies. Causal interpretation long-run cost is explicit. No DiD/event-time treatment design. Source: Eq6;Table14 col1 pp.3508–3510. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+  }
+]
+```
