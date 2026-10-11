@@ -117186,3 +117186,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:40:04.309501+00:00 — Review 8SZBUU3X h1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4738",
+    "before": null,
+    "after": "8SZBUU3X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4738",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4738",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4738",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4738",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4738",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4738",
+    "before": null,
+    "after": "%ΔDep: monthly household deposit income normalized by reported origination income; author Appendix BIII all five displayed columns. Caption dollar-outcome claim conflicts with table. Version qualified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2003",
+    "before": null,
+    "after": "8SZBUU3X"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2003",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2003",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2003",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2003",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2003",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2003",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2003",
+    "before": null,
+    "after": "Negative-equity receipt IV without household FE; author Internet Appendix Table BIII cols1–5, normalized income."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2003",
+    "before": null,
+    "after": "Single binary excluded SLTV>1; table HH FE row all N. Distinct supplementary result location, not OLS merely because HH FE absent. Cols1–3 use MSA/ZIP×time and origination-date×time; col4 MSA×time×origination-year. Col5 heading Grad Yr contradicts FE rows (Orig Yr Y, Grad Yr N) and N5.219m rather than student-loan subset. Caption mentions six cols/dollar outcome and HH FE, contrary to five-column table. Preserve uncertainty; all five displayed outcomes %ΔDep. Final article p2983 describes no-HH-FE robustness but appendix numbering differs. Source: Author Appendix Table BIII printed66/PDF67; final p2983. Source link: https://leeds-faculty.colorado.edu/asafbernstein/Asaf_Bernstein_NegativeHomeEquityHouseholdLaborSupply.pdf."
+  }
+]
+```
