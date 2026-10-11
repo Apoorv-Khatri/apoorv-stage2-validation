@@ -115071,3 +115071,216 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:35:11.350075+00:00 — Review 7PCAD73D h35: source-audited coding and linked comparisons
+
+34 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2117",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2117",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2117",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2117",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2117",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2117",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2117",
+    "before": null,
+    "after": "Section3.4 p3507 and Figure4 p3508; focal estimate: 41.1% reduction in near-zero frequency discontinuity under removal; benchmark: observed EPS-surprise discontinuity calculated from two bins either side of zero; level not printed"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2117",
+    "before": null,
+    "after": "Same distribution-discontinuity outcome under observed versus recomputed rule; not outcome mean/SD. Paper also says about a third despite41.1%; preserve both descriptions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4732",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4733",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4732",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4733",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4732",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4733",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4732",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4733",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4732",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4733",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4732",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4733",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4732",
+    "before": null,
+    "after": "Counterfactual lender EPS surprise in cents, reported EPS minus forecast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4733",
+    "before": null,
+    "after": "Relative-frequency difference across two EPS-surprise bins on either side of zero, measure of distribution discontinuity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2001",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2001",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2001",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2001",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2001",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2001",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2001",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2001",
+    "before": null,
+    "after": "Remove versus retain short-termism-induced incremental enforcement income, recompute lender EPS-surprise distribution and near-zero discontinuity. Location: Figure4 pp.3507–3508"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2001",
+    "before": null,
+    "after": "Two-rule counterfactual applied to empirical lender-quarter earnings, not randomized treatment. Uses bank commercial-loan portfolio and fraction in breach. Structural/accounting recomputation conditional on calibrated effects; author-attributed effect on earnings/manipulation central to interpretation. Source: Figure4 pp.3507–3508. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+  }
+]
+```

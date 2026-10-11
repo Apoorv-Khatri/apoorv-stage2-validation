@@ -18106,7 +18106,16 @@
     "L2000": "0",
     "M2000": "n/a",
     "N2000": "Empirical calibrated enforcement-income counterfactual: vary number of average-loan enforcements to raise lender EPS by one cent. Location: Figure3 pp.3506–3507",
-    "O2000": "Nonlinear calibrated inverse accounting calculation, not IV/OLS. Uses fees, spread and loan-amount estimates, one quarterly interest payment, lender retained share, average loan size. Causal counterfactual under stated accounting assumptions, not independent identification. 1-cent target is not an outcome benchmark for the reported required-count outcome. Source: Figure3 pp.3506–3507. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+    "O2000": "Nonlinear calibrated inverse accounting calculation, not IV/OLS. Uses fees, spread and loan-amount estimates, one quarterly interest payment, lender retained share, average loan size. Causal counterfactual under stated accounting assumptions, not independent identification. 1-cent target is not an outcome benchmark for the reported required-count outcome. Source: Figure3 pp.3506–3507. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf.",
+    "A2001": "7PCAD73D",
+    "B2001": "h35",
+    "I2001": "1",
+    "J2001": "Other",
+    "K2001": "1",
+    "L2001": "1",
+    "M2001": "n/a",
+    "N2001": "Remove versus retain short-termism-induced incremental enforcement income, recompute lender EPS-surprise distribution and near-zero discontinuity. Location: Figure4 pp.3507–3508",
+    "O2001": "Two-rule counterfactual applied to empirical lender-quarter earnings, not randomized treatment. Uses bank commercial-loan portfolio and fraction in breach. Structural/accounting recomputation conditional on calibrated effects; author-attributed effect on earnings/manipulation central to interpretation. Source: Figure4 pp.3507–3508. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -51562,7 +51571,21 @@
     "H4731": "0",
     "I4731": "unknown",
     "J4731": "other",
-    "K4731": "Required number of average-loan enforcements to increase EPS one cent."
+    "K4731": "Required number of average-loan enforcements to increase EPS one cent.",
+    "A4732": "7PCAD73D",
+    "B4732": "h35",
+    "C4732": "hy1",
+    "H4732": "0",
+    "I4732": "unknown",
+    "J4732": "none",
+    "K4732": "Counterfactual lender EPS surprise in cents, reported EPS minus forecast.",
+    "A4733": "7PCAD73D",
+    "B4733": "h35",
+    "C4733": "hy2",
+    "H4733": "0",
+    "I4733": "unknown",
+    "J4733": "other",
+    "K4733": "Relative-frequency difference across two EPS-surprise bins on either side of zero, measure of distribution discontinuity."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -74088,7 +74111,18 @@
     "O2116": "1",
     "P2116": "unknown",
     "Q2116": "Section2.2 pp3480–3481: almost double the average rate of enforcement; focal estimate: up to10pp higher enforcement for severe breaches; benchmark: average enforcement rate, no numeric reference value attached in prose",
-    "R2116": "Source comparison uncertain: wording does not clearly distinguish total treated rate from incremental rate. Caption40/25 differs from prose up-to10pp. Keep as explicit comparison with unknown alignment, not reviewer-reconstructed ratio."
+    "R2116": "Source comparison uncertain: wording does not clearly distinguish total treated rate from incremental rate. Caption40/25 differs from prose up-to10pp. Keep as explicit comparison with unknown alignment, not reviewer-reconstructed ratio.",
+    "A2117": "7PCAD73D",
+    "B2117": "h35",
+    "C2117": "hc1",
+    "K2117": "1",
+    "L2117": "hy2",
+    "M2117": "other_level",
+    "N2117": "1",
+    "O2117": "1",
+    "P2117": "n/a",
+    "Q2117": "Section3.4 p3507 and Figure4 p3508; focal estimate: 41.1% reduction in near-zero frequency discontinuity under removal; benchmark: observed EPS-surprise discontinuity calculated from two bins either side of zero; level not printed",
+    "R2117": "Same distribution-discontinuity outcome under observed versus recomputed rule; not outcome mean/SD. Paper also says about a third despite41.1%; preserve both descriptions."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
