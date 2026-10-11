@@ -116043,3 +116043,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:37:01.146645+00:00 — Review 7TY4IBMQ s7: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K113",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K114",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R113",
+    "before": null,
+    "after": "A real same-outcome SD comparison exists: Table9B EW continuous FE HH−LH6.50 percentage points is compared verbally with annual SD15%, without explicit division. Reject because the focal contrast is predictive, not causal. Do not transfer6.50 to the adjacent no-FE column, which reports11.40. Caption rescales mimicking returns to the SD of the underlying state-variable risk-premium returns; the text’s15% is approximate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R114",
+    "before": null,
+    "after": "A real same-outcome SD comparison exists: Table9B VW continuous FE HH−LH6.26 percentage points is included in the prose’s about6.5% compared with annual SD15%, without explicit division. Reject because the focal contrast is predictive, not causal. No-FE continuous contrast is10.97, not6.26. The narrative rounds EW6.50 and VW6.26 together; preserve their separate printed values."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H558",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H559",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I558",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I559",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J558",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J559",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K558",
+    "before": null,
+    "after": "spurious: outcome belongs to rejected noncausal predictive/risk-pricing setting s7."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K559",
+    "before": null,
+    "after": "spurious: outcome belongs to rejected noncausal predictive/risk-pricing setting s7."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E22",
+    "before": null,
+    "after": "DONE — Supplied article and embedded Appendices A/B reviewed, including Table7 and all original rows. No qualifying causal treatment-effect settings found: consumption forecasts, conditional risk-price measurements and factor-spanning tests excluded. Separate Online Appendix OA.1–OA.19 could not be retrieved; its main-text summaries were audited but its tables were not directly inspected. DONE is supplied-source completion, not exhaustive verification of unavailable supplementary material. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I193",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O193",
+    "before": null,
+    "after": "Spurious causal setting: maximum-correlation factor-mimicking portfolios are linear projections of realized state-variable risk premia on factor returns; subsequent regressions test predictability of their expected returns. The authors explicitly frame the question as whether combinations of factors contain conditional expected-return variation. The extraction’s claim that benchmark factors causally contain effects is not a treatment-effect estimand. True state-variable FE in some Table9 columns control cross-variable unconditional differences, not identification of a causal treatment. Rescaling portfolio volatility is measurement, not causal standardization. Source: Section6, Eq.(13), Table9 pp445–446 (PDF18–19); footnotes22–26 p445. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7TY4IBMQ.pdf. Certainty: high for supplied article; separately referenced Online Appendix not directly inspected."
+  }
+]
+```
