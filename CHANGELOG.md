@@ -34128,3 +34128,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:08:25.594239+00:00 — Review 3DI8S52Q h19: causal scope, outcomes and benchmark evidence
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4325",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4325",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4325",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4325",
+    "before": null,
+    "after": "Annualized producer profit/loss components for liquidity provision, momentum and hedging demand."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E13",
+    "before": null,
+    "after": "DONE — Main article pp.377-417 reviewed. Descriptive s1 rejected; causally interpreted return-impact settings retained. Corrected portfolio sorts (not matching), binary extreme-bin contrasts, treatment/location/estimator splits, omitted profit/covariance decompositions and main-text appendix-result summaries. Checked all original comparisons and explicit group-difference/mean pairings; treatment scaling/effect-versus-effect pseudo-benchmarks rejected. Original model fields preserved. Separate Internet Appendix NOT independently inspected; appendix additions limited to results explicitly reported in main text and uncertain implementation labelled unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1803",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1803",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1803",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1803",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1803",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1803",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1803",
+    "before": null,
+    "after": "p.410 main-text report of Table IA.VII: DCOT producer profit attribution, including crisis-excluded sample. Gains from liquidity more than offset momentum losses and partly offset hedging costs. Distinct reported replication of TableXI decomposition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1803",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Main-text report only, separate Internet Appendix not inspected; no numerical table values invented."
+  }
+]
+```

@@ -42,6 +42,7 @@
     "B13": "A Tale of Two Premiums: The Role of Hedgers and Speculators in Commodity Futures Markets",
     "C13": "fin",
     "D13": 11,
+    "E13": "DONE — Main article pp.377-417 reviewed. Descriptive s1 rejected; causally interpreted return-impact settings retained. Corrected portfolio sorts (not matching), binary extreme-bin contrasts, treatment/location/estimator splits, omitted profit/covariance decompositions and main-text appendix-result summaries. Checked all original comparisons and explicit group-difference/mean pairings; treatment scaling/effect-versus-effect pseudo-benchmarks rejected. Original model fields preserved. Separate Internet Appendix NOT independently inspected; appendix additions limited to results explicitly reported in main text and uncertain implementation labelled unknown.",
     "A14": "3MVCXGJ3",
     "B14": "The effect of repatriation tax costs on U.S. multinational investment",
     "C14": "fin",
@@ -15640,7 +15641,16 @@
     "L1802": "0",
     "M1802": "unknown",
     "N1802": "pp.405-406 main-text summaries of Tables IA.IV-IA.VI: momentum-Q return effects under alternative decomposition implementations; counterpart treatment to h17.",
-    "O1802": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Main-text substantive results only; separate Internet Appendix not inspected. No unavailable coefficient, table-specific estimator detail or benchmark invented. Method unknown where full implemented second-stage estimator is not explicitly established."
+    "O1802": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Main-text substantive results only; separate Internet Appendix not inspected. No unavailable coefficient, table-specific estimator detail or benchmark invented. Method unknown where full implemented second-stage estimator is not explicitly established.",
+    "A1803": "3DI8S52Q",
+    "B1803": "h19",
+    "I1803": "1",
+    "J1803": "Other",
+    "K1803": "0",
+    "L1803": "0",
+    "M1803": "n/a",
+    "N1803": "p.410 main-text report of Table IA.VII: DCOT producer profit attribution, including crisis-excluded sample. Gains from liquidity more than offset momentum losses and partly offset hedging costs. Distinct reported replication of TableXI decomposition.",
+    "O1803": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Main-text report only, separate Internet Appendix not inspected; no numerical table values invented."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46340,7 +46350,11 @@
     "A4324": "3DI8S52Q",
     "B4324": "h18",
     "C4324": "hy2",
-    "K4324": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
+    "K4324": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return.",
+    "A4325": "3DI8S52Q",
+    "B4325": "h19",
+    "C4325": "hy1",
+    "K4325": "Annualized producer profit/loss components for liquidity provision, momentum and hedging demand."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
