@@ -118455,3 +118455,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:41:08.420367+00:00 — Review 8ZEJGZST s3: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K123",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L123",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M123",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N123",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O123",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P123",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q123",
+    "before": null,
+    "after": "p24 Sec4.3; printed Table4 p26 col1 DRT(+4) probit coefficient -.194(SE.083). Authors call this odds decline and divide by stated odds2.125=(1-.32)/.32 from pre-DRT Single mean. Reported9.1%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R123",
+    "before": null,
+    "after": "Keep as an explicit author comparison concerning the same binary multiple-versus-single banking outcome, represented by baseline odds p/(1-p). Do not reject solely because probability and odds are different scales. However, -0.194 is a probit latent-index coefficient, not a change in odds or an odds ratio; the reported9.1% calculation is not a validated effect on the odds scale. The baseline2.125 is constructed from Single=.32, not an outcome mean2.125. Sample/period/weight mismatch is not repaired by other_level. No corrected marginal odds effect is recoverable from this coefficient alone."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H592",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H593",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I592",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I593",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J592",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J593",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K592",
+    "before": null,
+    "after": "Multiple banks indicator, one for more than one lender versus zero for a single lender; groups explicitly observed, Table4 p26 / Table7 p34 and pp24–25."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K593",
+    "before": null,
+    "after": "Spurious under narrowed probit s3: number-of-banks outcome belongs to split h1 linear DiD and h2 ordered logit; original row/ID preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I208",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J208",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K208",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L208",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M208",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N208",
+    "before": null,
+    "after": "DRT event-time effects on indicator for multiple banking relationships; probit Table4 cols1–2 p26 (called Table3 in prose)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O208",
+    "before": null,
+    "after": "Narrow original pooled setting to probit. Table4 col3 linear count response split to h1; ordered logit count response split to h2. State/year FE plus size dummies, state trends; no firm FE in these probits (incidental-parameters concern p24). Nonlinear estimator Other despite DiD identification argument. Raw probit coefficient is not an odds-ratio change; preserve but flag author interpretation. Source: Sec4.3 pp24–25; Table4 p26 cols1–2. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
+  }
+]
+```
