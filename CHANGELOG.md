@@ -114141,3 +114141,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:33:59.921278+00:00 — Review 7PCAD73D h29: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2115",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2116",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2115",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2116",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2115",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2116",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2115",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2116",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2115",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2116",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2115",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2115",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2116",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2115",
+    "before": null,
+    "after": "Figure2 caption p3480; focal estimate: approximate40% enforcement with ST lenders versus25% without, Slack<−3; benchmark: approximate25% enforcement rate of non-ST lenders at same severe slack"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2116",
+    "before": null,
+    "after": "Section2.2 pp3480–3481: almost double the average rate of enforcement; focal estimate: up to10pp higher enforcement for severe breaches; benchmark: average enforcement rate, no numeric reference value attached in prose"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2115",
+    "before": null,
+    "after": "Baseline group observed rate paired verbally; regression-target counterfactual comparability not established. Caption rates not replaced by prose up-to10pp statement."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2116",
+    "before": null,
+    "after": "Source comparison uncertain: wording does not clearly distinguish total treated rate from incremental rate. Caption40/25 differs from prose up-to10pp. Keep as explicit comparison with unknown alignment, not reviewer-reconstructed ratio."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4722",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4722",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4722",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4722",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4722",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4722",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4722",
+    "before": null,
+    "after": "Enforcement: material covenant violation disclosed in subsequent four quarters, 1 versus0. Definition pp.3477,3482,A.1 p3512; observed overall incidence11.14% in Table1 confirms zeros."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1995",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1995",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1995",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1995",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1995",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1995",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1995",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1995",
+    "before": null,
+    "after": "STLender and interactions with Slack bins on Enforcement; nonparametric linear bin regression. Location: Figure2 and Section2.2 pp.3480–3481"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1995",
+    "before": null,
+    "after": "Authors explicitly say incentives affect borrowers. Caption specifies regression on STLender and bin interactions, no identifying FE. Not pure descriptive balance. Caption rates40/25 imply a different contrast from prose up to10pp/almost double; retain uncertainty, no silent arithmetic repair. Source: Figure2 and Section2.2 pp.3480–3481. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+  }
+]
+```
