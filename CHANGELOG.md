@@ -7617,3 +7617,24 @@ Baseline of the original workbook before the approved OLS split.
 
 0 populated-cell value changes. The XLSX also preserves formatting.
 
+
+## 2026-10-11T01:24:04.192255+00:00 — Review 2LWSD69M s1: causal scope, outcomes and benchmark evidence
+
+2 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I23",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O23",
+    "before": null,
+    "after": "Exclude under the pure prediction/descriptive exclusion in the supplied instructions. Table 6 Panels A/B, Section 4.4, pp. 394-397: FM/BM portfolio-decile slopes measure univariate or incremental RETURN PREDICTABILITY. Conditioning on the other signal tests predictive spanning, not a causal intervention in firm fundamentals. The paper provides an economic explanation for the apparent premium decline, but does not interpret these signal coefficients as effects of changing X on Y. This decision is about interpretation, not the absence of randomization or remaining endogeneity."
+  }
+]
+```
