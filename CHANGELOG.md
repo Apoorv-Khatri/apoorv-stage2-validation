@@ -37953,3 +37953,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:11:37.214952+00:00 — Review 4CG48IZI h1: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4352",
+    "before": null,
+    "after": "4CG48IZI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4353",
+    "before": null,
+    "after": "4CG48IZI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4354",
+    "before": null,
+    "after": "4CG48IZI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4355",
+    "before": null,
+    "after": "4CG48IZI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4356",
+    "before": null,
+    "after": "4CG48IZI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4357",
+    "before": null,
+    "after": "4CG48IZI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4358",
+    "before": null,
+    "after": "4CG48IZI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4359",
+    "before": null,
+    "after": "4CG48IZI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4360",
+    "before": null,
+    "after": "4CG48IZI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4352",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4353",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4354",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4355",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4356",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4357",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4358",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4359",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4360",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4352",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4353",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4354",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4355",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4356",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4357",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4358",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4359",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4360",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4352",
+    "before": null,
+    "after": "Cumulative change100×[ln(Price atd+3)−ln(Price atd−5)] in percentage units. Price is bond mid-price averageofComposite/TRPSquotes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4353",
+    "before": null,
+    "after": "Cumulative change100×[ln(Price atd+5)−ln(Price atd−5)] in percentage units. Price is bond mid-price averageofComposite/TRPSquotes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4354",
+    "before": null,
+    "after": "Cumulative change100×[ln(Price atd+7)−ln(Price atd−5)] in percentage units. Price is bond mid-price averageofComposite/TRPSquotes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4355",
+    "before": null,
+    "after": "Cumulative change100×[ln(Bid-Ask Spread atd+3)−ln(Bid-Ask Spread atd−5)] in percentage units. Spread is absoluteask−bid, averaged acrossComposite/TRPSsources, notrelative spread."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4356",
+    "before": null,
+    "after": "Cumulative change100×[ln(Bid-Ask Spread atd+5)−ln(Bid-Ask Spread atd−5)] in percentage units. Spread is absoluteask−bid, averaged acrossComposite/TRPSsources, notrelative spread."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4357",
+    "before": null,
+    "after": "Cumulative change100×[ln(Bid-Ask Spread atd+7)−ln(Bid-Ask Spread atd−5)] in percentage units. Spread is absoluteask−bid, averaged acrossComposite/TRPSsources, notrelative spread."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4358",
+    "before": null,
+    "after": "Cumulative change100×[ln(Exchange Rate atd+3)−ln(Exchange Rate atd−5)] in percentage units. FX is localcurrency perUSD; negative means appreciation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4359",
+    "before": null,
+    "after": "Cumulative change100×[ln(Exchange Rate atd+5)−ln(Exchange Rate atd−5)] in percentage units. FX is localcurrency perUSD; negative means appreciation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4360",
+    "before": null,
+    "after": "Cumulative change100×[ln(Exchange Rate atd+7)−ln(Exchange Rate atd−5)] in percentage units. FX is localcurrency perUSD; negative means appreciation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1820",
+    "before": null,
+    "after": "4CG48IZI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1820",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1820",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1820",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1820",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1820",
+    "before": null,
+    "after": "Continuous FIR interacted with period indicators2009–2012 and2013–2016; price,spread,FX atd+3,d+5,d+7. Table15PanelB,p.401; Sec4.5p.397; intro p.386"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1820",
+    "before": null,
+    "after": "Split froms16 by separately reported panel and period-specific estimands. Period dummy is modifier, not treatment. Later-period results central to growing preferred-habitat importance. Text elsewhere says2012–2016; table andSec4.5 say2013–2016. Main1 is deliberate correction of pooled modelmain0. Final method adjudication: OLS/regression adjustment with the stated time/country/maturity indicator controls, not a no-dummy regression. Eq.(3) and pp.388-393 locate identification in mechanically induced informationless flows and rebalancing timing; the source does not establish a separate identifying role of the FE battery. Mere indicator counts do not justify HDFE or automatic FE fallback. This strict-taxonomy judgment is distinguished from the clearly reported specification. Source: Table15PanelB,p.401; Sec4.5p.397; intro p.386. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4CG48IZI.pdf#page=18. Certainty: High result/scope; strictHDFE judgment applies.."
+  }
+]
+```
