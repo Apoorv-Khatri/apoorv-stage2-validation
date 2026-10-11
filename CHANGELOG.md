@@ -117699,3 +117699,636 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:40:40.967538+00:00 — Review 8ZEJGZST s1: source-audited coding and linked comparisons
+
+104 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2119",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2120",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2121",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2122",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2119",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2120",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2121",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2122",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2119",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2120",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2121",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2122",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K119",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K121",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K122",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2121",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2122",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L115",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L116",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L117",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L118",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2119",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2120",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2121",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2122",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M115",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M116",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M117",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M118",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2119",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2120",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2121",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2122",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2121",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2122",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2121",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2122",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P115",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P116",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P117",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P118",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2119",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2121",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2122",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q115",
+    "before": null,
+    "after": "p3; Table2A p22 col5, DRT(+4): LTD/assets coefficient 0.025, SE0.009; Table1 p14 overall1993–2010 sample mean 0.21,45,140 firm-years. Authors express effect as 11.9% of sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q116",
+    "before": null,
+    "after": "p3; Table2A p22 col6, DRT(+4): STD/assets coefficient -0.017, SE0.007; Table1 p14 overall1993–2010 sample mean 0.15,45,140 firm-years. Authors express effect as 11.3% of sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q117",
+    "before": null,
+    "after": "p3; Table2A p22 col7 (also identical col3), DRT(+4): Short coefficient -0.066, SE0.023; Table1 p14 overall1993–2010 sample mean 0.45,45,140 firm-years. Authors express effect as 14.7% of sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q118",
+    "before": null,
+    "after": "pp4,20; Table2A p22 col4, DRT(+4): Trade credit/assets coefficient -0.011, SE0.004; Table1 p14 overall1993–2010 sample mean 0.17,45,140 firm-years. Authors express effect as 6.4% of sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2119",
+    "before": null,
+    "after": "Table2A p22 col1 DRT(+1) LTD/assets .011(SE.005) versus overall mean .21: p19 explicitly5.2%(.011/.21). Mean from Table1 p14,1993–2010 full45,140 firm-year sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2120",
+    "before": null,
+    "after": "Table2A p22 col2 DRT(+1) STD/assets -.005(SE.003) versus overall mean .15: p19 explicitly3.3%. Mean from Table1 p14,1993–2010 full45,140 firm-year sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2121",
+    "before": null,
+    "after": "Table2A p22 col3 DRT(+1) Short -.034(SE.012) versus overall mean .45: p19 explicitly7.6%. Mean from Table1 p14,1993–2010 full45,140 firm-year sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2122",
+    "before": null,
+    "after": "Table2A p22 col1 DRT(+4) LTD/assets .023(SE.009), p20 explicitly2.3 percentage points/11% relative to overall sample mean .21. Distinct from controlled .025/11.9% s1:c1. Mean from Table1 p14,1993–2010 full45,140 firm-year sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R115",
+    "before": null,
+    "after": "Overall mean pools pre/post treated observations (Table1 DRT mean .88), not untreated counterfactual at +4 for the event-time DiD target. No population/period/weight adjustment. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R116",
+    "before": null,
+    "after": "Overall mean pools pre/post treated observations (Table1 DRT mean .88), not untreated counterfactual at +4 for the event-time DiD target. No population/period/weight adjustment. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R117",
+    "before": null,
+    "after": "Overall mean pools pre/post treated observations (Table1 DRT mean .88), not untreated counterfactual at +4 for the event-time DiD target. No population/period/weight adjustment. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R118",
+    "before": null,
+    "after": "Overall mean pools pre/post treated observations (Table1 DRT mean .88), not untreated counterfactual at +4 for the event-time DiD target. No population/period/weight adjustment. Correct original col8 -.010 to col4 -.011 per explicit p20 calculation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R119",
+    "before": null,
+    "after": "p21 compares DRT effect with effect of a tangibility/profitability change. Covariate SD/effect-versus-effect comparison, not outcome SD or stated same-outcome level. Reject, not relabel other_level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R120",
+    "before": null,
+    "after": "p21 compares DRT effect with effect of a tangibility/profitability change. Covariate SD/effect-versus-effect comparison, not outcome SD or stated same-outcome level. Reject, not relabel other_level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R121",
+    "before": null,
+    "after": "p21 compares DRT effect with effect of a tangibility/profitability change. Covariate SD/effect-versus-effect comparison, not outcome SD or stated same-outcome level. Reject, not relabel other_level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R122",
+    "before": null,
+    "after": "p21 compares DRT effect with effect of a tangibility/profitability change. Covariate SD/effect-versus-effect comparison, not outcome SD or stated same-outcome level. Reject, not relabel other_level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2119",
+    "before": null,
+    "after": "Omitted distinct focal estimate × outcome × benchmark. Overall observed pre/post mean not untreated counterfactual for DiD horizon; aligned0."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2120",
+    "before": null,
+    "after": "Omitted distinct focal estimate × outcome × benchmark. Overall observed pre/post mean not untreated counterfactual for DiD horizon; aligned0."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2121",
+    "before": null,
+    "after": "Omitted distinct focal estimate × outcome × benchmark. Overall observed pre/post mean not untreated counterfactual for DiD horizon; aligned0."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2122",
+    "before": null,
+    "after": "Omitted distinct focal estimate × outcome × benchmark. Overall observed pre/post mean not untreated counterfactual for DiD horizon; aligned0."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H585",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H586",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H587",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H588",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I585",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I586",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I587",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I588",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J585",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J586",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J587",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J588",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K585",
+    "before": null,
+    "after": "p13 fn8 explicitly recodes46 negative LTD/assets observations to0 in the45,140 baseline sample; evidence of zero mass, not inferred from variable name."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I206",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J206",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K206",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L206",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M206",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N206",
+    "before": null,
+    "after": "DRT access effects on long-term debt/assets, short-term debt/assets, Short and trade credit/assets; Table2A cols1–8, pp18–22."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O206",
+    "before": null,
+    "after": "Binary DRT access; fully saturated conventional event-time DiD, year -1 reference, firm/year FE, size-percentile dummies, state-specific linear trends and state-clustered SE. Controls/no-controls are routine variants, not OLS versus FE settings. Correct trade-credit headline mapping:6.4% refers to -.011 col4, not -.010 col8. Figure2 is descriptive graphical support, not another independently estimated effect. Source: Eq1 pp18–19; Table2A p22; magnitude discussion pp3–4,19–21. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
+  }
+]
+```
