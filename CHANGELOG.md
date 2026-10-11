@@ -8154,3 +8154,24 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T01:37:02.103533+00:00 — Review 2RLBINN9 s1: causal scope, outcomes and benchmark evidence
+
+2 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I56",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O56",
+    "before": null,
+    "after": "Section 5.1 pp. 789-790, Table 2: explicitly in-sample OLS predictive regressions of next-month currency-factor returns on lagged predictors. Economic stories motivate forecasting variables, but coefficients are not implemented causal interventions. Exclude pure prediction; no OLS causal setting is created merely because OLS is used."
+  }
+]
+```
