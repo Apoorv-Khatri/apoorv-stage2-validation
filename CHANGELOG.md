@@ -120210,3 +120210,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:44:03.950615+00:00 — Review 8ZEJGZST h8: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4751",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4751",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4751",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4751",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4751",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4751",
+    "before": null,
+    "after": "Debt-structure outcome(s) for alternative above/below-median pre-DRT LTD/assets and STD/assets subgroup definitions, IA Table6, summarized p28. These ratios define the subgroups; the sentence does not enumerate all dependent-variable columns. Exact outcome inventory/scale remains unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2012",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2012",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2012",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2012",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2012",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2012",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2012",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2012",
+    "before": null,
+    "after": "DRT debt-maturity heterogeneity using separate pre-DRT above/below-median LTD/assets and STD/assets definitions; Internet Appendix Table6, summarized p28."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2012",
+    "before": null,
+    "after": "Substantive alternative subgroup definitions, same underlying DRT binary treatment. Eq1 repeated; grouped routine subgroup-definition variants. Appendix missing: exact outcome list and column estimates unresolved. Source: Sec4.4.1 p28; cited IA Table6. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: main-text summary only."
+  }
+]
+```

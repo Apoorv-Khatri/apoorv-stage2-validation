@@ -18350,7 +18350,16 @@
     "L2011": "0",
     "M2011": "n/a",
     "N2011": "DRT effects on debt-structure outcomes in the restricted sample with nonmissing banking information; baseline tests re-estimated in IA Table4, as explicitly reported p25. Exact dependent-variable and column inventory unavailable.",
-    "O2011": "Retain existence/design of this separately reported substantive robustness under DiD_conventional, but do not copy the four Table2A outcomes into IA Table4 without the supplement. The reference to baseline tests could include a different subset or scale. Coefficients, FE by column and magnitude comparisons not verified. Source: Sec4.4.1 p25; cited IA Table4. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: main-text summary only."
+    "O2011": "Retain existence/design of this separately reported substantive robustness under DiD_conventional, but do not copy the four Table2A outcomes into IA Table4 without the supplement. The reference to baseline tests could include a different subset or scale. Coefficients, FE by column and magnitude comparisons not verified. Source: Sec4.4.1 p25; cited IA Table4. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: main-text summary only.",
+    "A2012": "8ZEJGZST",
+    "B2012": "h8",
+    "I2012": "1",
+    "J2012": "DiD_conventional",
+    "K2012": "1",
+    "L2012": "0",
+    "M2012": "n/a",
+    "N2012": "DRT debt-maturity heterogeneity using separate pre-DRT above/below-median LTD/assets and STD/assets definitions; Internet Appendix Table6, summarized p28.",
+    "O2012": "Substantive alternative subgroup definitions, same underlying DRT binary treatment. Eq1 repeated; grouped routine subgroup-definition variants. Appendix missing: exact outcome list and column estimates unresolved. Source: Sec4.4.1 p28; cited IA Table6. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: main-text summary only."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52164,7 +52173,14 @@
     "H4750": "0",
     "I4750": "unknown",
     "J4750": "unknown",
-    "K4750": "Debt-structure outcome(s) in baseline tests repeated for firms with nonmissing banking information, IA Table4, summarized p25. Placeholder only: exact ratio-versus-log amounts and separate outcome columns unresolved; do not assert LTD/assets specifically."
+    "K4750": "Debt-structure outcome(s) in baseline tests repeated for firms with nonmissing banking information, IA Table4, summarized p25. Placeholder only: exact ratio-versus-log amounts and separate outcome columns unresolved; do not assert LTD/assets specifically.",
+    "A4751": "8ZEJGZST",
+    "B4751": "h8",
+    "C4751": "hy1",
+    "H4751": "0",
+    "I4751": "unknown",
+    "J4751": "unknown",
+    "K4751": "Debt-structure outcome(s) for alternative above/below-median pre-DRT LTD/assets and STD/assets subgroup definitions, IA Table6, summarized p28. These ratios define the subgroups; the sentence does not enumerate all dependent-variable columns. Exact outcome inventory/scale remains unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
