@@ -47085,3 +47085,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:50:15.027223+00:00 — Review 4MXMWKXM h32: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4461",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4461",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4461",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4461",
+    "before": null,
+    "after": "Overall MSCI IVA CSR ordinal score0–6; no outcome standardization. Detailed outcome labels intentionally blank for nonbinary treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1855",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1855",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1855",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1855",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1855",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1855",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1855",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1855",
+    "before": null,
+    "after": "ROA as financial-capacity/valuation proxy for doing-good-by-doing-well mechanism; overall IVA rating. Random-effects GLS."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1855",
+    "before": null,
+    "after": "Include supporting alternative-mechanism effect: p.866 explicitly introduces ROA to capture doing-good-by-doing-well effect and MTB in robustness. Continuous proxy; regression controls/year/industry FE, no exogenous financial-performance shock. Empirical discussion uses association language; inclusion follows explicit mechanism claim, not proof of identification. Detailed outcome labels blank for nonbinary treatment. Source: TableIV cols2,3,4,5 pp.873–875; SecII.C.4 p.866. Certainty: medium: explicit mechanism interpretation, but reported in control discussion."
+  }
+]
+```
