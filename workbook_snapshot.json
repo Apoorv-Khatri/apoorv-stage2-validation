@@ -17377,7 +17377,16 @@
     "L1942": "0",
     "M1942": "n/a",
     "N1942": "Cash-dose effect on multinomial issuance choice controlling continuous FinDep; supporting precinct of alternative-hypothesis tests Location: Table6 cols1,3, pp.723–725.",
-    "O1942": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Retained because text independently emphasizes cash rather than constraints. Different location from Table3; manufacturing-only variant grouped. Source: Table6 cols1,3, pp.723–725. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+    "O1942": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Retained because text independently emphasizes cash rather than constraints. Different location from Table3; manufacturing-only variant grouped. Source: Table6 cols1,3, pp.723–725. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf.",
+    "A1943": "5IF5MIQQ",
+    "B1943": "h7",
+    "I1943": "1",
+    "J1943": "Other",
+    "K1943": "0",
+    "L1943": "0",
+    "M1943": "n/a",
+    "N1943": "Cash-dose effect on USD share controlling FinDep and Carry Trade, EME Tobit Location: Table6 col4, p725.",
+    "O1943": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Substantive cash robustness separately reported, not FinDep treatment. Source: Table6 col4, p725. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50085,7 +50094,11 @@
     "A4630": "5IF5MIQQ",
     "B4630": "h6",
     "C4630": "hy2",
-    "K4630": "non-USD-majority issuance category indicator relative to no issue; nonlinear MNL coefficient is not a probability-point marginal effect."
+    "K4630": "non-USD-majority issuance category indicator relative to no issue; nonlinear MNL coefficient is not a probability-point marginal effect.",
+    "A4631": "5IF5MIQQ",
+    "B4631": "h7",
+    "C4631": "hy1",
+    "K4631": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
