@@ -15791,7 +15791,16 @@
     "L1814": "0",
     "M1814": "n/a",
     "N1814": "Positive REPAT versus REPAT=$0: probability a foreign acquisition is diversifying (target one-digit SIC differs from acquirer). Unadjusted deal-level mean contrast supporting agency interpretation. Location: pp.187–188 fn17; AppendixA p.193",
-    "O1814": "Include substantive binary-threshold contrast, distinct from continuous REPAT regressions. OLS code denotes the linear/unadjusted difference-in-means estimand, not a claim authors fitted a regression. Footnote frames it as evidence consistent with agency-driven acquisitions. No conditional identification or exchangeability argument. Source estimates: {\"positive_REPAT_percent\": 27.95, \"zero_REPAT_percent\": 26.13}."
+    "O1814": "Include substantive binary-threshold contrast, distinct from continuous REPAT regressions. OLS code denotes the linear/unadjusted difference-in-means estimand, not a claim authors fitted a regression. Footnote frames it as evidence consistent with agency-driven acquisitions. No conditional identification or exchangeability argument. Source estimates: {\"positive_REPAT_percent\": 27.95, \"zero_REPAT_percent\": 26.13}.",
+    "A1815": "3MVCXGJ3",
+    "B1815": "h12",
+    "I1815": "1",
+    "J1815": "OLS",
+    "K1815": "1",
+    "L1815": "0",
+    "M1815": "n/a",
+    "N1815": "Positive REPAT versus REPAT=$0: cash-only versus hybrid/stock financing of foreign acquisitions, unadjusted deal-level mean contrast. Location: Table8 right-hand columns and Sec4.3, pp.190–192",
+    "O1815": "Authors explicitly introduce Sec4.3 as testing whether tax-induced foreign cash affects deal financing. Include despite weak significance. Binary threshold is separate from continuous dose. OLS is regression-equivalent mean contrast; no actual regression claimed. Table8 foreign-vs-domestic columns are descriptive context, not a separate tax treatment. Source estimates: {\"cash_positive_percent\": 85.61, \"cash_zero_percent\": 81.19, \"printed_cash_difference_pp\": 4.41, \"cash_difference_p\": 0.183, \"hybrid_stock_positive_percent\": 14.39, \"hybrid_stock_zero_percent\": 18.81}."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46604,7 +46613,21 @@
     "H4345": "1",
     "I4345": "1",
     "J4345": "none",
-    "K4345": "Deal-level indicator for diversifying foreign acquisition: target one-digit SIC differs from acquirer. Footnote17 compares its group means, 27.95% vs26.13%; not a dependent-variable group-share regression. Both groups include diversifying and nondiversifying deals."
+    "K4345": "Deal-level indicator for diversifying foreign acquisition: target one-digit SIC differs from acquirer. Footnote17 compares its group means, 27.95% vs26.13%; not a dependent-variable group-share regression. Both groups include diversifying and nondiversifying deals.",
+    "A4346": "3MVCXGJ3",
+    "B4346": "h12",
+    "C4346": "hy1",
+    "H4346": "1",
+    "I4346": "1",
+    "J4346": "none",
+    "K4346": "Deal-level cash-only financing indicator for a foreign acquisition. Table8 cash row: 85.61% positive REPAT vs81.19% zero REPAT; remaining deals provide explicit zeros.",
+    "A4347": "3MVCXGJ3",
+    "B4347": "h12",
+    "C4347": "hy2",
+    "H4347": "1",
+    "I4347": "1",
+    "J4347": "none",
+    "K4347": "Deal-level hybrid-or-stock financing indicator (complement of cash-only). Table8:14.39% positive REPAT vs18.81% zero REPAT. Retain reported complementary outcome; no separately printed effect estimate."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -61365,7 +61388,18 @@
     "O1442": "0",
     "P1442": "unknown",
     "Q1442": "fn17 pp.187–188:27.95% of foreign deals diversifying for positive-REPAT firms, compared with26.13% for REPAT=$0. This is the binary group-mean contrast itself; no numerical difference or relative ratio printed.",
-    "R1442": "Baseline is observed zero-REPAT foreign deals. Source does not establish its untreated comparability to positive-REPAT deals or state an ATT target. Unknown alignment. Do not attribute a calculated1.82pp effect or6.97% ratio to authors."
+    "R1442": "Baseline is observed zero-REPAT foreign deals. Source does not establish its untreated comparability to positive-REPAT deals or state an ATT target. Unknown alignment. Do not attribute a calculated1.82pp effect or6.97% ratio to authors.",
+    "A1443": "3MVCXGJ3",
+    "B1443": "h12",
+    "C1443": "hc1",
+    "K1443": "1",
+    "L1443": "hy1",
+    "M1443": "outcome_mean",
+    "N1443": "1",
+    "O1443": "0",
+    "P1443": "unknown",
+    "Q1443": "Table8 p.192 right-hand cash row: positive REPAT85.61%, zero REPAT81.19%, printed difference4.41 percentage points (p=.183). Sec4.3 prose repeats85.61% versus81.19%. Benchmark is zero-REPAT foreign acquisitions in expanded cash/noncash deal sample.",
+    "R1443": "No division by mean is performed. Table printed4.41 differs from subtraction of rounded displayed rates (4.42); verified visually, preserve4.41. No untreated comparability/causal target weighting established; alignment unknown."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

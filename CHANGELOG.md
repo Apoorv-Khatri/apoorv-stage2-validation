@@ -36222,3 +36222,216 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:13:45.755927+00:00 — Review 3MVCXGJ3 h12: causal scope, outcomes and benchmark evidence
+
+34 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1443",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1443",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1443",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1443",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1443",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1443",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1443",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1443",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1443",
+    "before": null,
+    "after": "Table8 p.192 right-hand cash row: positive REPAT85.61%, zero REPAT81.19%, printed difference4.41 percentage points (p=.183). Sec4.3 prose repeats85.61% versus81.19%. Benchmark is zero-REPAT foreign acquisitions in expanded cash/noncash deal sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1443",
+    "before": null,
+    "after": "No division by mean is performed. Table printed4.41 differs from subtraction of rounded displayed rates (4.42); verified visually, preserve4.41. No untreated comparability/causal target weighting established; alignment unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4346",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4347",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4346",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4347",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4346",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4347",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4346",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4347",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4346",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4347",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4346",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4347",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4346",
+    "before": null,
+    "after": "Deal-level cash-only financing indicator for a foreign acquisition. Table8 cash row: 85.61% positive REPAT vs81.19% zero REPAT; remaining deals provide explicit zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4347",
+    "before": null,
+    "after": "Deal-level hybrid-or-stock financing indicator (complement of cash-only). Table8:14.39% positive REPAT vs18.81% zero REPAT. Retain reported complementary outcome; no separately printed effect estimate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1815",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1815",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1815",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1815",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1815",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1815",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1815",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1815",
+    "before": null,
+    "after": "Positive REPAT versus REPAT=$0: cash-only versus hybrid/stock financing of foreign acquisitions, unadjusted deal-level mean contrast. Location: Table8 right-hand columns and Sec4.3, pp.190–192"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1815",
+    "before": null,
+    "after": "Authors explicitly introduce Sec4.3 as testing whether tax-induced foreign cash affects deal financing. Include despite weak significance. Binary threshold is separate from continuous dose. OLS is regression-equivalent mean contrast; no actual regression claimed. Table8 foreign-vs-domestic columns are descriptive context, not a separate tax treatment. Source estimates: {\"cash_positive_percent\": 85.61, \"cash_zero_percent\": 81.19, \"printed_cash_difference_pp\": 4.41, \"cash_difference_p\": 0.183, \"hybrid_stock_positive_percent\": 14.39, \"hybrid_stock_zero_percent\": 18.81}."
+  }
+]
+```
