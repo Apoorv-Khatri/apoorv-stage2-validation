@@ -119373,3 +119373,168 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:42:37.372342+00:00 — Review 8ZEJGZST s9: source-audited coding and linked comparisons
+
+26 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K130",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K131",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L130",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L131",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M130",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M131",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N130",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N131",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O130",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O131",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P130",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P131",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q130",
+    "before": null,
+    "after": "Introduction p6 states3.5% of sample mean; Table10 p41 col1 DRT(+4) fixed assets/assets .015(SE.008), Table1 p14 overall42,746-observation mean .43."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q131",
+    "before": null,
+    "after": "p39 Sec4.7 explicitly8.8%=(.038/.43), three years after DRT for abnormal-maturity firms. Visually checked Table10 p41: .038(SE.012) is col4 abnormal-minus-other difference at+3; abnormal col2 .033(SE.010), other col3-.004(SE.007). Table1 p14 .43 is overall fixed-assets/assets mean, not abnormal-group mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R130",
+    "before": null,
+    "after": "Full-sample observed mean includes treated/post outcomes, not untreated target mean for +4 DiD. No counterfactual construction; unaligned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R131",
+    "before": null,
+    "after": "Correct original focal label to differential effect, preserve author equation. Prose misdescribes difference as own-group effect. Overall observed mean does not match subgroup differential estimand or untreated counterfactual; aligned0. Do not replace numerator with.033 or add another +4 comparison merely because difference repeats."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H607",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I607",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J607",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I214",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J214",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K214",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L214",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M214",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N214",
+    "before": null,
+    "after": "DRT access effects on gross fixed assets/total assets, overall and pre-DRT abnormal-maturity/size heterogeneity; Table10 cols1–7 p41."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O214",
+    "before": null,
+    "after": "Binary DRT access; fully saturated conventional event-time DiD, year -1 reference, firm/year FE, size-percentile dummies, state-specific linear trends and state-clustered SE. Controls/no-controls are routine variants, not OLS versus FE settings. Correct .038: it is abnormal-minus-other difference col4 at +3 and +4, not abnormal subgroup coefficient. Abnormal subgroup .033 at +3/.035 at +4. Prose p39 uses .038/.43 and calls it subgroup effect; retain comparison with explicit source inconsistency. Source: Sec4.7 pp38–39; Table10 p41; introduction p6. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
+  }
+]
+```
