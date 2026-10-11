@@ -104199,3 +104199,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T05:50:24.749930+00:00 — Review 5IF5MIQQ h29: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4679",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4679",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4679",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4679",
+    "before": null,
+    "after": "Share of annual issuance proceeds denominated in euros; Tobit analogue described p729; exact supplementary specification and zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1965",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1965",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1965",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1965",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1965",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1965",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1965",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1965",
+    "before": null,
+    "after": "Cash and euro-denominated share of bond proceeds, Tobit model applied as for dollar issuance Location: Sec3.6 p729 summary of Internet Appendix."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1965",
+    "before": null,
+    "after": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. No numeric effect or benchmark printed. Euro total-proceeds and foreign-proceeds percentages on p729 are descriptive, not linked to an effect. Source: Sec3.6 p729 summary of Internet Appendix. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium: main-text evidence, precise supplementary specification unavailable."
+  }
+]
+```

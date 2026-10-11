@@ -17575,7 +17575,16 @@
     "L1964": "0",
     "M1964": "n/a",
     "N1964": "Cash and euro-denominated issuance choice, multinomial model applied as for dollar issuance Location: Sec3.6 p729 summary of Internet Appendix.",
-    "O1964": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Main text explicitly reports implemented multinomial and Tobit euro tests, lower Cash among euro issuers. Appendix not supplied: do not invent coefficients, exact euro threshold or detailed FE variants. Interpret choice categories by analogous description only. Source: Sec3.6 p729 summary of Internet Appendix. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium: main-text evidence, exact supplement table unavailable."
+    "O1964": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Main text explicitly reports implemented multinomial and Tobit euro tests, lower Cash among euro issuers. Appendix not supplied: do not invent coefficients, exact euro threshold or detailed FE variants. Interpret choice categories by analogous description only. Source: Sec3.6 p729 summary of Internet Appendix. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium: main-text evidence, exact supplement table unavailable.",
+    "A1965": "5IF5MIQQ",
+    "B1965": "h29",
+    "I1965": "1",
+    "J1965": "Other",
+    "K1965": "0",
+    "L1965": "0",
+    "M1965": "n/a",
+    "N1965": "Cash and euro-denominated share of bond proceeds, Tobit model applied as for dollar issuance Location: Sec3.6 p729 summary of Internet Appendix.",
+    "O1965": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. No numeric effect or benchmark printed. Euro total-proceeds and foreign-proceeds percentages on p729 are descriptive, not linked to an effect. Source: Sec3.6 p729 summary of Internet Appendix. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium: main-text evidence, precise supplementary specification unavailable."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50490,7 +50499,11 @@
     "A4678": "5IF5MIQQ",
     "B4678": "h28",
     "C4678": "hy2",
-    "K4678": "Euro-denominated issuance choice category 2 in analogous multinomial model; exact majority threshold and comparison-category definition not restated in supplied article (p729).; nonlinear MNL coefficient is not a probability-point marginal effect."
+    "K4678": "Euro-denominated issuance choice category 2 in analogous multinomial model; exact majority threshold and comparison-category definition not restated in supplied article (p729).; nonlinear MNL coefficient is not a probability-point marginal effect.",
+    "A4679": "5IF5MIQQ",
+    "B4679": "h29",
+    "C4679": "hy1",
+    "K4679": "Share of annual issuance proceeds denominated in euros; Tobit analogue described p729; exact supplementary specification and zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
