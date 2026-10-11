@@ -117006,3 +117006,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:39:37.248277+00:00 — Review 8SZBUU3X s11: source-audited coding and linked comparisons
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H581",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H582",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H583",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I581",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I582",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I583",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J581",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J582",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J583",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K581",
+    "before": null,
+    "after": "Monthly deposit income normalized by reported mortgage-origination income (%ΔDep), Table V cols1-2. Source calls it percent change but describes a ratio numerator/denominator; exact centering unresolved. Col1 excludes raw $0 deposits (p2984), reducing N to4.794m. Col2 N3.888m: prose excludes declines greater than25%, table row says >-25%, caption says excludes changes larger than25%; retain all wording, not an invented symmetric rule. Raw zeros and zeros of the reported centered/change variable differ; Human_zero_mass unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K582",
+    "before": null,
+    "after": "Duplicate of s11/y1: Table V col2 uses the same origination-income-normalized deposit outcome in a different restricted sample. Keep the col2 sample-rule conflict and coefficient -0.07 under s11; do not treat the sample restriction as a new outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K583",
+    "before": null,
+    "after": "Household Social Security/disability receipt indicator; reported effect0.91 percentage points. Timing-based classification described pp2969–70 and Table V. Zero/nonreceipt category is part of varying binary outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I204",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J204",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K204",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L204",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M204",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N204",
+    "before": null,
+    "after": "Binary actual negative equity instrumented by binary synthetic negative equity; Table V cols1–3 income-hiding robustness and social-security/disability receipt."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O204",
+    "before": null,
+    "after": "Single excluded instrument1{SLTV>1}; three FE sets as baseline. Preserve source inconsistency: caption col2 says excludes changes larger than25%, row says >−25%, prose says declines greater than25%; do not assert a symmetric absolute-value restriction. Col3 outcome is household receipt indicator shown in percentage-point units; not an aggregate share. Source: Table V p2985 cols1–3; pp2984–86. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8SZBUU3X.pdf."
+  }
+]
+```
