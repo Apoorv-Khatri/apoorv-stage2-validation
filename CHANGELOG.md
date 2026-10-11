@@ -106719,3 +106719,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:24:23.813880+00:00 — Review 6T38MQ3Y s12: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I168",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J168",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K168",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L168",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M168",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N168",
+    "before": null,
+    "after": "Table13: mention-count Fama–MacBeth excess-return slopes with mention-change, shared-analyst-return and news-co-mention-return controls, individually and jointly; retain new controlled specifications, not the repeated Table5 baseline column."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O168",
+    "before": null,
+    "after": "Controls are weighted returns of linked firms, not merely link-count indicators. Cols2/4/6 estimate alternative predictors without competition mentions; do not misattribute them as focal mention-effect columns. The separate predictive findings for those controls do not establish additional causal treatments. Substantive robustness of the retained mention effect, not pure preprocessing. Source: §6, Table13 p.4330/PDF31 and p.4331; lines2021–2092.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574."
+  }
+]
+```
