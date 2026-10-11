@@ -16966,7 +16966,16 @@
     "L1905": "0",
     "M1905": "single binary",
     "N1905": "Total standardized Δlog MMA; origin-only versus destination-only lending controls;six outcomes reported together. Location: Companion Appendix TableA.17,IV panel cols1–12,p21",
-    "O1905": "147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. One excluded binary instrument I(population1880<6000); all other X variables, state FE and Loans_o/Loans_d are included controls, not additional excluded instruments. Endogenous receipt is continuous standardized change in log MMA, not binary bank presence. Eq.(2), pp9–11. Authors explicitly do not implement local RD due to sparse support near cutoff (p10). IV takes precedence over DiD. Routine control variants grouped at this separate result location. TableA.17 caption incorrectly copiesA.16 polynomial wording; rows identify lending-control variants. Source: Companion Appendix TableA.17,IV panel cols1–12,p21."
+    "O1905": "147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. One excluded binary instrument I(population1880<6000); all other X variables, state FE and Loans_o/Loans_d are included controls, not additional excluded instruments. Endogenous receipt is continuous standardized change in log MMA, not binary bank presence. Eq.(2), pp9–11. Authors explicitly do not implement local RD due to sparse support near cutoff (p10). IV takes precedence over DiD. Routine control variants grouped at this separate result location. TableA.17 caption incorrectly copiesA.16 polynomial wording; rows identify lending-control variants. Source: Companion Appendix TableA.17,IV panel cols1–12,p21.",
+    "A1906": "4X76IAGM",
+    "B1906": "h1",
+    "I1906": "1",
+    "J1906": "FE",
+    "K1906": "0",
+    "L1906": "1",
+    "M1906": "n/a",
+    "N1906": "Prevailing nominal interest rate, interacted with borrower characteristics, affects log desired loan size; linear borrower-FE semilog demand regression, Table6.",
+    "O1906": "Not IV: supply-side crackdown narrative identifies direct rate coefficient but no implemented IV/2SLS. Rate coefficient−5.818 plus interactions;10,269 observations. Borrower FE absorb time-invariant demand heterogeneity. This causal demand stage is substantive, not a diagnostic first stage; it determines counterfactual loan demand. Rate and moderator interactions are one heterogeneous continuous treatment setting. Source: Eq35/Sec4.2 p.13; Table6 p.15; Sec5 p.16. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -49210,7 +49219,11 @@
     "H4550": "0",
     "I4550": "unknown",
     "J4550": "other",
-    "K4550": "Total harassment costs; Fig2 percentage difference relative to baseline without borrower removal."
+    "K4550": "Total harassment costs; Fig2 percentage difference relative to baseline without borrower removal.",
+    "A4551": "4X76IAGM",
+    "B4551": "h1",
+    "C4551": "hy1",
+    "K4551": "Log desired/requested loan size in S$; not granted loan size. Semilog rate specification."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

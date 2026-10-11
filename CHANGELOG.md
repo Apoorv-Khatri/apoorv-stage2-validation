@@ -84321,3 +84321,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:43:52.525346+00:00 — Review 4X76IAGM h1: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4551",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4551",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4551",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4551",
+    "before": null,
+    "after": "Log desired/requested loan size in S$; not granted loan size. Semilog rate specification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1906",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1906",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1906",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1906",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1906",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1906",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1906",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1906",
+    "before": null,
+    "after": "Prevailing nominal interest rate, interacted with borrower characteristics, affects log desired loan size; linear borrower-FE semilog demand regression, Table6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1906",
+    "before": null,
+    "after": "Not IV: supply-side crackdown narrative identifies direct rate coefficient but no implemented IV/2SLS. Rate coefficient−5.818 plus interactions;10,269 observations. Borrower FE absorb time-invariant demand heterogeneity. This causal demand stage is substantive, not a diagnostic first stage; it determines counterfactual loan demand. Rate and moderator interactions are one heterogeneous continuous treatment setting. Source: Eq35/Sec4.2 p.13; Table6 p.15; Sec5 p.16. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15."
+  }
+]
+```
