@@ -101034,3 +101034,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:56:17.900186+00:00 — Review 5IF5MIQQ h2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4624",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4624",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4624",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4624",
+    "before": null,
+    "after": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1938",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1938",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1938",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1938",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1938",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1938",
+    "before": null,
+    "after": "Lagged log Bloomberg Carry Return Index (cumulative interest differential and FX returns), Tobit USD share Location: Table5 cols5–7, pp.721–722."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1938",
+    "before": null,
+    "after": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Distinct constructed return proxy, not same as ex ante volatility-adjusted spread. Source: Table5 cols5–7, pp.721–722. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+  }
+]
+```

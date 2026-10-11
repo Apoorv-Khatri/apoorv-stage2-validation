@@ -17332,7 +17332,16 @@
     "L1937": "1",
     "M1937": "n/a",
     "N1937": "Lagged change in real exchange rate, ln(nominal LCU/USD × US CPI/local CPI) difference; multinomial issuance-choice response Location: Table3 cols1–3; p718.",
-    "O1937": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Higher regressor=dollar appreciation; authors explicitly say local appreciation leads to greater EME borrowing. Do not turn it into binary devaluation treatment. Source: Table3 cols1–3; p718. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+    "O1937": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Higher regressor=dollar appreciation; authors explicitly say local appreciation leads to greater EME borrowing. Do not turn it into binary devaluation treatment. Source: Table3 cols1–3; p718. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf.",
+    "A1938": "5IF5MIQQ",
+    "B1938": "h2",
+    "I1938": "1",
+    "J1938": "Other",
+    "K1938": "0",
+    "L1938": "1",
+    "M1938": "n/a",
+    "N1938": "Lagged log Bloomberg Carry Return Index (cumulative interest differential and FX returns), Tobit USD share Location: Table5 cols5–7, pp.721–722.",
+    "O1938": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Distinct constructed return proxy, not same as ex ante volatility-adjusted spread. Source: Table5 cols5–7, pp.721–722. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50003,7 +50012,11 @@
     "A4623": "5IF5MIQQ",
     "B4623": "h1",
     "C4623": "hy2",
-    "K4623": "non-USD-majority issuance category indicator relative to no issue; nonlinear MNL coefficient is not a probability-point marginal effect."
+    "K4623": "non-USD-majority issuance category indicator relative to no issue; nonlinear MNL coefficient is not a probability-point marginal effect.",
+    "A4624": "5IF5MIQQ",
+    "B4624": "h2",
+    "C4624": "hy1",
+    "K4624": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
