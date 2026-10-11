@@ -110964,3 +110964,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:31:06.906381+00:00 — Review 7PCAD73D h17: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2100",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2101",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2100",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2101",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2100",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2101",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2100",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2100",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2101",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2100",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2101",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2100",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2101",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2100",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2101",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2100",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2101",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2100",
+    "before": null,
+    "after": "Table7 p3492; focal estimate: .043 col1; benchmark: 5.42% all-loan enforcement rate mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2101",
+    "before": null,
+    "after": "Table7 p3492; focal estimate: .094 col5; benchmark: 12.15% breached-loan enforcement rate mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2100",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2101",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4704",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4705",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4704",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4705",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4704",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4705",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4704",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4705",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4704",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4705",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4704",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4705",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4704",
+    "before": null,
+    "after": "Bank enforcement fraction, denominator all loans."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4705",
+    "before": null,
+    "after": "Bank enforcement fraction, denominator breached loans."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1989",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1989",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1989",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1989",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1989",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1989",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1989",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1989",
+    "before": null,
+    "after": "ExAnteSTLender on bank-quarter enforcement rates with no fixed effects or controls. Location: Table7 cols1,5 p.3492"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1989",
+    "before": null,
+    "after": "Split from identifying-FE s7. Binary latent EPS[-2,0) exposure; not RD merely because the sample is near latent zero. Source: Table7 cols1,5 p.3492. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+  }
+]
+```
