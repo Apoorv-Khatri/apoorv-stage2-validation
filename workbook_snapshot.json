@@ -17404,7 +17404,16 @@
     "L1945": "0",
     "M1945": "n/a",
     "N1945": "Lagged Cash-dose effect on issuance choice among firms reporting US sales, multinomial logit Location: Table7 col1, pp.725–726.",
-    "O1945": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Distinct from US-sales binary conditional interaction s5; both outcome equations retained. Source: Table7 col1, pp.725–726. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+    "O1945": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Distinct from US-sales binary conditional interaction s5; both outcome equations retained. Source: Table7 col1, pp.725–726. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf.",
+    "A1946": "5IF5MIQQ",
+    "B1946": "h10",
+    "I1946": "1",
+    "J1946": "Other",
+    "K1946": "1",
+    "L1946": "0",
+    "M1946": "n/a",
+    "N1946": "Tradable versus nontradable sector, conditional difference in Cash slopes in EME multinomial logit Location: Table7 col3, p726.",
+    "O1946": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Tradable=agriculture,mining,manufacturing; other listed sectors nontradable. Binary contrast is separate from US-sales exposure. No significant difference over Cash range; do not invent timing of group membership. Source: Table7 col3, p726. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50128,7 +50137,21 @@
     "A4634": "5IF5MIQQ",
     "B4634": "h9",
     "C4634": "hy2",
-    "K4634": "non-USD-majority issuance category indicator relative to no issue; nonlinear MNL coefficient is not a probability-point marginal effect."
+    "K4634": "non-USD-majority issuance category indicator relative to no issue; nonlinear MNL coefficient is not a probability-point marginal effect.",
+    "A4635": "5IF5MIQQ",
+    "B4635": "h10",
+    "C4635": "hy1",
+    "H4635": "1",
+    "I4635": "1",
+    "J4635": "none",
+    "K4635": "USD-majority issuance category indicator relative to no issue; nonlinear MNL coefficient is not a probability-point marginal effect.",
+    "A4636": "5IF5MIQQ",
+    "B4636": "h10",
+    "C4636": "hy2",
+    "H4636": "1",
+    "I4636": "1",
+    "J4636": "none",
+    "K4636": "non-USD-majority issuance category indicator relative to no issue; nonlinear MNL coefficient is not a probability-point marginal effect."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
