@@ -110499,3 +110499,468 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:30:53.079916+00:00 — Review 7PCAD73D s7: source-audited coding and linked comparisons
+
+76 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2095",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2096",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2097",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2098",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2099",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2095",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2096",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2097",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2098",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2099",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2095",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2096",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2097",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2098",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2099",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2095",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2096",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2097",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2098",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2099",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L101",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2095",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2096",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2097",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2098",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2099",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M101",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2095",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2096",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2097",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2098",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2099",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2095",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2096",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2097",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2098",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2099",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2095",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2096",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2097",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2098",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2099",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P101",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2095",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2096",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2097",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2098",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2099",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q101",
+    "before": null,
+    "after": "Table7 p3492; prose p3493 says3.7% or69% relative to5.4%; focal estimate: .037, col4; benchmark: 5.42% enforcement fraction across all loans"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2095",
+    "before": null,
+    "after": "Table7 p3492; focal estimate: 0.044, col2; benchmark: 5.42% all-loan enforcement rate group mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2096",
+    "before": null,
+    "after": "Table7 p3492; focal estimate: 0.037, col3; benchmark: 5.42% all-loan enforcement rate group mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2097",
+    "before": null,
+    "after": "Table7 p3492; focal estimate: 0.097, col6; benchmark: 12.15% breached-loan enforcement rate group mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2098",
+    "before": null,
+    "after": "Table7 p3492; focal estimate: 0.076, col7; benchmark: 12.15% breached-loan enforcement rate group mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2099",
+    "before": null,
+    "after": "Table7 p3492; focal estimate: 0.076, col8; benchmark: 12.15% breached-loan enforcement rate group mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R101",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2095",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2096",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2097",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2098",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2099",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H520",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H521",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I520",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I521",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J520",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J521",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I177",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J177",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K177",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L177",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M177",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N177",
+    "before": null,
+    "after": "ExAnteSTLender on bank-quarter enforcement rates (all loans and breached loans); FE cols2–4,6–8 only. Location: Table7 pp.3492–3493"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O177",
+    "before": null,
+    "after": "One/two identifying FE sets (quarter, lender), explicitly absorb secular and bank differences. Latent EPS subtracts fee income; not an IV first stage. Cols1/5 no-FE OLS separately added. Source: Table7 pp.3492–3493. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+  }
+]
+```
