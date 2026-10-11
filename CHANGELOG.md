@@ -106518,3 +106518,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:23:42.457223+00:00 — Review 6T38MQ3Y s9: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I165",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J165",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K165",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L165",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M165",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N165",
+    "before": null,
+    "after": "Table10: Fama–MacBeth excess-return slopes on all/targeting/admiring mention counts, controlling for industry operating leverage, concentration and their interactions with mentions; GIC and FF48 definitions. Distinct supporting regression location."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O165",
+    "before": null,
+    "after": "Substantive robustness of the explicitly interpreted mention effect, not a diagnostic-only first stage. Lower-order mention coefficients are conditional at zero values of included interaction moderators, not unconditional average marginal effects. The significant targeted×GIC operating-leverage interaction is discussed as consistent with the risk literature (p.4326); include it within this dose-and-moderation setting rather than silently omit it. No extra causal settings for all routine controls. Source: §5, pp.4326–4327/PDF27–28; Table10 p.4327; lines1742–1862.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574."
+  }
+]
+```
