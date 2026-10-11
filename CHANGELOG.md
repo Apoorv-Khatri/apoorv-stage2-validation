@@ -34824,3 +34824,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:10:20.767996+00:00 — Review 3MVCXGJ3 h3: causal scope, outcomes and benchmark evidence
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4330",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4330",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4330",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4330",
+    "before": null,
+    "after": "Five-day CAR(−2,+2) for foreign acquisition announcements ×100, percentage points; Table5 generated-proxy columns. Not outcome-SD standardized."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1806",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1806",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1806",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1806",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1806",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1806",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1806",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1806",
+    "before": null,
+    "after": "Table5 cols2-3 p.188: continuous lagged Predicted foreign cash-REPAT effect on FOREIGN-deal CAR(-2,+2), multiplied by100; identifying year, target-industry, target-country FE, HDFE. Full sample and BEA variants grouped; domestic cols5-6 split to h16."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1806",
+    "before": null,
+    "after": "Generated cash proxy is not an IV treatment receipt estimator. Foreign target countries provide third FE dimension; domestic U.S.-only country dummy is constant and handled in h16. Coefficients -0.38/-0.39 percentage points; latter insignificant. No no-FE linear counterpart reported. Source estimates: {\"foreign_full_pp\": -0.38, \"foreign_BEA_pp\": -0.39, \"domestic_full_pp\": -0.04, \"domestic_BEA_pp\": -0.1}."
+  }
+]
+```

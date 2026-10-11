@@ -15689,7 +15689,16 @@
     "L1805": "1",
     "M1805": "n/a",
     "N1805": "Lagged Predicted foreign cash-REPAT, number of foreign and domestic acquisitions; negative-binomial regression. Location: Table4 cols2–3,5–6, p.187",
-    "O1805": "Year FE; full-sample and BEA variants grouped; generated regressor is not IV. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign_full\": 0.06, \"foreign_BEA\": 0.04, \"domestic_full\": \"−0.00\", \"domestic_BEA\": -0.02}."
+    "O1805": "Year FE; full-sample and BEA variants grouped; generated regressor is not IV. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign_full\": 0.06, \"foreign_BEA\": 0.04, \"domestic_full\": \"−0.00\", \"domestic_BEA\": -0.02}.",
+    "A1806": "3MVCXGJ3",
+    "B1806": "h3",
+    "I1806": "1",
+    "J1806": "HDFE",
+    "K1806": "0",
+    "L1806": "1",
+    "M1806": "n/a",
+    "N1806": "Table5 cols2-3 p.188: continuous lagged Predicted foreign cash-REPAT effect on FOREIGN-deal CAR(-2,+2), multiplied by100; identifying year, target-industry, target-country FE, HDFE. Full sample and BEA variants grouped; domestic cols5-6 split to h16.",
+    "O1806": "Generated cash proxy is not an IV treatment receipt estimator. Foreign target countries provide third FE dimension; domestic U.S.-only country dummy is constant and handled in h16. Coefficients -0.38/-0.39 percentage points; latter insignificant. No no-FE linear counterpart reported. Source estimates: {\"foreign_full_pp\": -0.38, \"foreign_BEA_pp\": -0.39, \"domestic_full_pp\": -0.04, \"domestic_BEA_pp\": -0.1}."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46413,7 +46422,11 @@
     "A4329": "3MVCXGJ3",
     "B4329": "h2",
     "C4329": "hy2",
-    "K4329": "Number of domestic cash acquisitions in year t; Table4 generated-proxy columns."
+    "K4329": "Number of domestic cash acquisitions in year t; Table4 generated-proxy columns.",
+    "A4330": "3MVCXGJ3",
+    "B4330": "h3",
+    "C4330": "hy1",
+    "K4330": "Five-day CAR(−2,+2) for foreign acquisition announcements ×100, percentage points; Table5 generated-proxy columns. Not outcome-SD standardized."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
