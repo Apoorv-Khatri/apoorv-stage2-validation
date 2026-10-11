@@ -15559,7 +15559,16 @@
     "L1793": "1",
     "M1793": "n/a",
     "N1793": "Figure3 pp.406-407, equation(8): continuous nonmomentum component of noncommercial Q effect on cumulative returns through horizons1-26 weeks; panel linear regression with controls. No FE stated, so OLS. Separately reported cumulative estimand split from Table X.",
-    "O1793": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Substantive post-trade trajectory, not a pretrend diagnostic. No qualifying outcome benchmark identified."
+    "O1793": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Substantive post-trade trajectory, not a pretrend diagnostic. No qualifying outcome benchmark identified.",
+    "A1794": "3DI8S52Q",
+    "B1794": "h10",
+    "I1794": "1",
+    "J1794": "OLS",
+    "K1794": "0",
+    "L1794": "1",
+    "M1794": "n/a",
+    "N1794": "Figure3 pp.406-407, equation(8): continuous momentum component of noncommercial Q effect on cumulative returns through horizons1-26 weeks; panel linear regression with controls. No FE stated, so OLS. Separately reported cumulative estimand split from Table X.",
+    "O1794": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Substantive post-trade trajectory, not a pretrend diagnostic. No qualifying outcome benchmark identified."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46195,7 +46204,11 @@
     "A4308": "3DI8S52Q",
     "B4308": "h9",
     "C4308": "hy1",
-    "K4308": "Cumulative futures excess return from week t+1 to t+n, n=1,...,26. Exact compounding convention not established; no graph values invented."
+    "K4308": "Cumulative futures excess return from week t+1 to t+n, n=1,...,26. Exact compounding convention not established; no graph values invented.",
+    "A4309": "3DI8S52Q",
+    "B4309": "h10",
+    "C4309": "hy1",
+    "K4309": "Cumulative futures excess return from week t+1 to t+n, n=1,...,26. Exact compounding convention not established; no graph values invented."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -33177,3 +33177,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:05:59.256703+00:00 — Review 3DI8S52Q h10: causal scope, outcomes and benchmark evidence
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4309",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4309",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4309",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4309",
+    "before": null,
+    "after": "Cumulative futures excess return from week t+1 to t+n, n=1,...,26. Exact compounding convention not established; no graph values invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1794",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1794",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1794",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1794",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1794",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1794",
+    "before": null,
+    "after": "Figure3 pp.406-407, equation(8): continuous momentum component of noncommercial Q effect on cumulative returns through horizons1-26 weeks; panel linear regression with controls. No FE stated, so OLS. Separately reported cumulative estimand split from Table X."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1794",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Substantive post-trade trajectory, not a pretrend diagnostic. No qualifying outcome benchmark identified."
+  }
+]
+```
