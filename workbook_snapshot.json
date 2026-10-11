@@ -17714,7 +17714,16 @@
     "L1969": "1",
     "M1969": "n/a",
     "N1969": "Lagged Cash-dose effect on USD share controlling carry-trade proxies, Tobit full/EME/AE samples Location: Table5 cols1,2,4–7, pp.721–722.",
-    "O1969": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Text p722 independently emphasizes cash effect remains positive for EME; continuous Cash not conflated with carry proxy. Col3 binary-group interaction separately h3. Source: Table5 cols1,2,4–7, pp.721–722. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+    "O1969": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Text p722 independently emphasizes cash effect remains positive for EME; continuous Cash not conflated with carry proxy. Col3 binary-group interaction separately h3. Source: Table5 cols1,2,4–7, pp.721–722. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf.",
+    "A1970": "6T38MQ3Y",
+    "B1970": "h1",
+    "I1970": "1",
+    "J1970": "OLS",
+    "K1970": "1",
+    "L1970": "1",
+    "M1970": "n/a",
+    "N1970": "Omitted Table4: 3+ versus 0/1 mention-count portfolio contrasts separately among targeted and admired firms; monthly value-weighted six-factor alpha. Targeting classification is relative market capitalization.",
+    "O1970": "Distinct omitted result location, not merely prose repetition of Table5 or Table6. Materially supports abstract/introduction concentration of outperformance in targeting mentions. The zero-mention comparator is common; targeted/admired classification applies to mentioned firms. Do not treat 0.84 versus 0.20 alpha as a qualifying benchmark comparison. Source: §2, Table4 p.4316/PDF17; lines1037–1079; central motivation pp.4302,4314–4315.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50719,7 +50728,14 @@
     "A4683": "5IF5MIQQ",
     "B4683": "h33",
     "C4683": "hy1",
-    "K4683": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization."
+    "K4683": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization.",
+    "A4684": "6T38MQ3Y",
+    "B4684": "h1",
+    "C4684": "hy1",
+    "H4684": "0",
+    "I4684": "unknown",
+    "J4684": "other",
+    "K4684": "Monthly value-weighted six-factor alpha (Fama–French five factors plus momentum), percent per month, for targeted/admired mention portfolios and 3+ minus 0/1 spreads. Table4 p.4316/PDF17. No point-mass-at-zero evidence is reported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

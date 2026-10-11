@@ -107076,3 +107076,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:25:05.112417+00:00 — Review 6T38MQ3Y h1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4684",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4684",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4684",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4684",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4684",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4684",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4684",
+    "before": null,
+    "after": "Monthly value-weighted six-factor alpha (Fama–French five factors plus momentum), percent per month, for targeted/admired mention portfolios and 3+ minus 0/1 spreads. Table4 p.4316/PDF17. No point-mass-at-zero evidence is reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1970",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1970",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1970",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1970",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1970",
+    "before": null,
+    "after": "Omitted Table4: 3+ versus 0/1 mention-count portfolio contrasts separately among targeted and admired firms; monthly value-weighted six-factor alpha. Targeting classification is relative market capitalization."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1970",
+    "before": null,
+    "after": "Distinct omitted result location, not merely prose repetition of Table5 or Table6. Materially supports abstract/introduction concentration of outperformance in targeting mentions. The zero-mention comparator is common; targeted/admired classification applies to mentioned firms. Do not treat 0.84 versus 0.20 alpha as a qualifying benchmark comparison. Source: §2, Table4 p.4316/PDF17; lines1037–1079; central motivation pp.4302,4314–4315.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574."
+  }
+]
+```
