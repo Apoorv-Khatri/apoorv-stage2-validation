@@ -38841,3 +38841,216 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:12:44.162312+00:00 — Review 4MXMWKXM s1: source-audited coding and linked comparisons
+
+34 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K41",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K42",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K43",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L41",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L42",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L43",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M42",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M43",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N41",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N42",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N43",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O41",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O42",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O43",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P41",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P42",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P43",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q41",
+    "before": null,
+    "after": "p.875, Table IV cols (1),(2),(5): “7% higher CSR score (or a half-grade on a 0 to 6 scale)” and “more than 14%, or 0.85 to 1 of a grade.” Broad civil-law-versus-common-law summary; no numeric common-law mean or unique denominator identified. Table coefficients preserved as candidates, not exact origin-specific percentage claims. Candidate focal estimate (attribution unresolved): TableIV col1 French coefficient0.468 IVA points; prose summarizes civil-law coefficients as 7% / half-grade."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q42",
+    "before": null,
+    "after": "p.875: focal Table IV, col. (2) GLS coefficient for civil-law firms relative to common-law firms, described in prose as about 0.5 on the IVA Rating (0-6 scale).; benchmark One CSR grade on the 0 to 6 IVA rating scale; the authors compare the effect to 'a half-grade on a 0 to 6 scale.'."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q43",
+    "before": null,
+    "after": "p.875: focal Table IV, col. (5) GLS coefficients for French Civil Origin = 0.905, German Civil Origin = 0.845, Scandinavian Civil Origin = 1.027 on IVA Rating (0-6 scale).; benchmark One CSR grade on the 0 to 6 IVA rating scale; the authors compare these effects to '0.85 to 1 of a grade.'."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R41",
+    "before": null,
+    "after": "Unresolved same-outcome benchmark construction and focal-estimate specificity. Do not count as a confirmed outcome_mean comparison. Null Human_benchmark means unresolved, not an unapproved code. If the denominator is later established as a score-scale level use other_level/aligned n/a; if established as common-law mean use outcome_mean and assess alignment separately. No one-grade denominator or Table II mean is supplied by this passage."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R42",
+    "before": null,
+    "after": "Wrong setting: cited coefficient is GLS, not pooled OLS. Also benchmark one grade is invented as a reference level; preserve original row and use corrected GLS records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R43",
+    "before": null,
+    "after": "Wrong setting: cited coefficient is GLS, not pooled OLS. Also benchmark one grade is invented as a reference level; preserve original row and use corrected GLS records."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H362",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I362",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J362",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K362",
+    "before": null,
+    "after": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I110",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J110",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K110",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L110",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M110",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N110",
+    "before": null,
+    "after": "French civil legal origin versus English common law; Pooled OLS; overall IVA CSR rating0–6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O110",
+    "before": null,
+    "after": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Source: TableIV col1 pp.873–875."
+  }
+]
+```
