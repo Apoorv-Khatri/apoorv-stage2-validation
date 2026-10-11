@@ -17548,7 +17548,16 @@
     "L1961": "0",
     "M1961": "n/a",
     "N1961": "Majority-USD issuance year versus otherwise, conditional cash-allocation slope contrast in ln(total bond proceeds/assets+1)×USD-majority indicator; separate AE/EME regressions Location: Sec4.1 final paragraph p735, untabulated alternative Eq1.",
-    "O1961": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Binary currency-majority interaction replaces separate USD/nonUSD proceeds. Source says indicator1 for majority USD year,0 otherwise. Cash saved more from USD proceeds only in EME. No coefficients printed; FE scope inherited from model1, not separately restated. Source: Sec4.1 final paragraph p735, untabulated alternative Eq1. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium: untabulated inherited FE and horizons."
+    "O1961": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Binary currency-majority interaction replaces separate USD/nonUSD proceeds. Source says indicator1 for majority USD year,0 otherwise. Cash saved more from USD proceeds only in EME. No coefficients printed; FE scope inherited from model1, not separately restated. Source: Sec4.1 final paragraph p735, untabulated alternative Eq1. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium: untabulated inherited FE and horizons.",
+    "A1962": "5IF5MIQQ",
+    "B1962": "h26",
+    "I1962": "1",
+    "J1962": "OLS",
+    "K1962": "0",
+    "L1962": "0",
+    "M1962": "n/a",
+    "N1962": "Continuous USD proceeds log1p intensity and cash accumulation t=1,2, by one-digit SIC sectors1–4 Location: TableA3 PanelsA–B pp.743–746; discussion p735.",
+    "O1962": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Missing included-appendix setting. Industry FE remains nonconstant within one-digit sectors if common two-digit SIC coding is followed; equation on p744 explicitly retains63 industry dummies. Horizons grouped as outcome set; sector sample variants grouped. Source: TableA3 PanelsA–B pp.743–746; discussion p735. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE identification role; high included result."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50439,7 +50448,15 @@
     "H4672": "0",
     "I4672": "unknown",
     "J4672": "log1p",
-    "K4672": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction."
+    "K4672": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction.",
+    "A4673": "5IF5MIQQ",
+    "B4673": "h26",
+    "C4673": "hy1",
+    "K4673": "ln(1+(cash and short-term investments at t=1 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction.",
+    "A4674": "5IF5MIQQ",
+    "B4674": "h26",
+    "C4674": "hy2",
+    "K4674": "ln(1+(cash and short-term investments at t=2 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
