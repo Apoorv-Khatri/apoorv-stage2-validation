@@ -15586,7 +15586,16 @@
     "L1796": "0",
     "M1796": "n/a",
     "N1796": "Table XII B pp.411-413, equations(9)-(10): cross-sectional/time-series liquidity-strategy covariance decompositions attribute profits to own-commodity position-return covariation versus cross/mean components; Other accounting estimand, not Table XII A OLS.",
-    "O1796": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Continuous position-proportional weights, not binary buy/sell indicator treatment. Auto contribution.21%, totals.18%/.21%; shares/component comparisons not outcome baseline benchmarks."
+    "O1796": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Continuous position-proportional weights, not binary buy/sell indicator treatment. Auto contribution.21%, totals.18%/.21%; shares/component comparisons not outcome baseline benchmarks.",
+    "A1797": "3DI8S52Q",
+    "B1797": "h13",
+    "I1797": "1",
+    "J1797": "OLS",
+    "K1797": "0",
+    "L1797": "0",
+    "M1797": "n/a",
+    "N1797": "pp.389-390 main-text report of Table IA.I: Q return-impact OLS using2003/2008 cutoff subsamples; effects similar before/after. Separate reported robustness location, not a causal effect of financialization or crisis.",
+    "O1797": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Main-text substantive results only; separate Internet Appendix not inspected. No unavailable coefficient, table-specific estimator detail or benchmark invented. Method OLS follows described replication of main Fama-MacBeth specification."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46238,7 +46247,15 @@
     "A4312": "3DI8S52Q",
     "B4312": "h12",
     "C4312": "hy2",
-    "K4312": "Weekly time-series liquidity-strategy return and auto/mean-product components."
+    "K4312": "Weekly time-series liquidity-strategy return and auto/mean-product components.",
+    "A4313": "3DI8S52Q",
+    "B4313": "h13",
+    "C4313": "hy1",
+    "K4313": "Commodity front-month futures excess return in week t+1, Tuesday-to-Tuesday simple return.",
+    "A4314": "3DI8S52Q",
+    "B4314": "h13",
+    "C4314": "hy2",
+    "K4314": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

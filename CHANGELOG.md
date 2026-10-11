@@ -33462,3 +33462,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:06:48.559170+00:00 — Review 3DI8S52Q h13: causal scope, outcomes and benchmark evidence
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4313",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4314",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4313",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4314",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4313",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4314",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4313",
+    "before": null,
+    "after": "Commodity front-month futures excess return in week t+1, Tuesday-to-Tuesday simple return."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4314",
+    "before": null,
+    "after": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1797",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1797",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1797",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1797",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1797",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1797",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1797",
+    "before": null,
+    "after": "pp.389-390 main-text report of Table IA.I: Q return-impact OLS using2003/2008 cutoff subsamples; effects similar before/after. Separate reported robustness location, not a causal effect of financialization or crisis."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1797",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Main-text substantive results only; separate Internet Appendix not inspected. No unavailable coefficient, table-specific estimator detail or benchmark invented. Method OLS follows described replication of main Fama-MacBeth specification."
+  }
+]
+```
