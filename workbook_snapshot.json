@@ -16083,7 +16083,16 @@
     "L1832": "0",
     "M1832": "n/a",
     "N1832": "French civil legal origin versus English common law; Random-effects GLS; culture/religion-control variants; overall IVA CSR rating0–6.",
-    "O1832": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Source: TableV PanelB p.878."
+    "O1832": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Source: TableV PanelB p.878.",
+    "A1833": "4MXMWKXM",
+    "B1833": "h10",
+    "I1833": "1",
+    "J1833": "OLS",
+    "K1833": "1",
+    "L1833": "0",
+    "M1833": "n/a",
+    "N1833": "German civil legal origin versus English common law; Random-effects GLS; culture/religion-control variants; overall IVA CSR rating0–6.",
+    "O1833": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Source: TableV PanelB p.878."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -47161,7 +47170,14 @@
     "H4384": "0",
     "I4384": "unknown",
     "J4384": "none",
-    "K4384": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass."
+    "K4384": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass.",
+    "A4385": "4MXMWKXM",
+    "B4385": "h10",
+    "C4385": "hy1",
+    "H4385": "0",
+    "I4385": "unknown",
+    "J4385": "none",
+    "K4385": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
