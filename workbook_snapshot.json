@@ -16564,7 +16564,16 @@
     "L1869": "0",
     "M1869": "single binary",
     "N1869": "Total standardized Δlog MMA;θ=1,2,4,8 alternative trade-elasticity calibrations grouped as routine construction robustness. Change1880–1890 in agricultural plus manufacturing production value per male resident over21 (tradables output). Location: Companion Appendix TableA.6,cols1,2,3,4,p11",
-    "O1869": "One excluded binary instrument I(population1880<6000); all other X variables, state FE and Loans_o/Loans_d are included controls, not additional excluded instruments. Endogenous receipt is continuous standardized change in log MMA, not binary bank presence. Eq.(2), pp9–11. Authors explicitly do not implement local RD due to sparse support near cutoff (p10). IV takes precedence over DiD.  147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Separate appendix result location.  Source: Companion Appendix TableA.6,cols1,2,3,4,p11."
+    "O1869": "One excluded binary instrument I(population1880<6000); all other X variables, state FE and Loans_o/Loans_d are included controls, not additional excluded instruments. Endogenous receipt is continuous standardized change in log MMA, not binary bank presence. Eq.(2), pp9–11. Authors explicitly do not implement local RD due to sparse support near cutoff (p10). IV takes precedence over DiD.  147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Separate appendix result location.  Source: Companion Appendix TableA.6,cols1,2,3,4,p11.",
+    "A1870": "4QJKKD9J",
+    "B1870": "h12",
+    "I1870": "1",
+    "J1870": "IV",
+    "K1870": "0",
+    "L1870": "0",
+    "M1870": "single binary",
+    "N1870": "Total standardized Δlog MMA;unweighted rather than town-share-weighted IV estimand. Change1880–1890 in agricultural plus manufacturing production value per male resident over21 (tradables output). Location: Companion Appendix TableA.6,cols5,p11",
+    "O1870": "One excluded binary instrument I(population1880<6000); all other X variables, state FE and Loans_o/Loans_d are included controls, not additional excluded instruments. Endogenous receipt is continuous standardized change in log MMA, not binary bank presence. Eq.(2), pp9–11. Authors explicitly do not implement local RD due to sparse support near cutoff (p10). IV takes precedence over DiD.  147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Separate appendix result location. No weight in unweighted estimator; mean row nevertheless unchanged across columns. Source: Companion Appendix TableA.6,cols5,p11."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -48430,7 +48439,11 @@
     "A4478": "4QJKKD9J",
     "B4478": "h11",
     "C4478": "hy1",
-    "K4478": "Change1880–1890 in agricultural plus manufacturing production value per male resident over21 (tradables output). Location: Companion Appendix TableA.6,cols1,2,3,4,p11"
+    "K4478": "Change1880–1890 in agricultural plus manufacturing production value per male resident over21 (tradables output). Location: Companion Appendix TableA.6,cols1,2,3,4,p11",
+    "A4479": "4QJKKD9J",
+    "B4479": "h12",
+    "C4479": "hy1",
+    "K4479": "Change1880–1890 in agricultural plus manufacturing production value per male resident over21 (tradables output). Location: Companion Appendix TableA.6,cols5,p11"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -63944,7 +63957,18 @@
     "O1494": "1",
     "P1494": "0",
     "Q1494": "Companion Appendix TableA.6,cols1,2,3,4,p11: 125.5, one treatment SD, col4, calibration; linked benchmark 775.6. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated.",
-    "R1494": "Published p12 explicitly gives 125.5 (16.2%);same triple merged with appendix pairing. Sample-wide baseline is not constructed for the instrument-induced continuous-MMA response margin; no complier/margin-specific mean."
+    "R1494": "Published p12 explicitly gives 125.5 (16.2%);same triple merged with appendix pairing. Sample-wide baseline is not constructed for the instrument-induced continuous-MMA response margin; no complier/margin-specific mean.",
+    "A1495": "4QJKKD9J",
+    "B1495": "h12",
+    "C1495": "hc1",
+    "K1495": "1",
+    "L1495": "hy1",
+    "M1495": "outcome_mean",
+    "N1495": "1",
+    "O1495": "1",
+    "P1495": "0",
+    "Q1495": "Companion Appendix TableA.6,cols5,p11: 202.5, one treatment SD, col5, unweighted; linked benchmark 775.6. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated.",
+    "R1495": "Published p12 explicitly gives 202.5 (26.1%);same triple merged with appendix pairing. Sample-wide baseline is not constructed for the instrument-induced continuous-MMA response margin; no complier/margin-specific mean."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
