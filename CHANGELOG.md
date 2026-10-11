@@ -107676,3 +107676,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:25:54.421346+00:00 — Review 7PCAD73D s1: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H514",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I514",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J514",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K514",
+    "before": null,
+    "after": "spurious: parent s1 excluded as diagnostic-only evidence."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I171",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J171",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K171",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L171",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M171",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N171",
+    "before": null,
+    "after": "Figure1A diagnostic capital-market discontinuity, excluded under diagnostic-only gate. Location: Figure1A pp.3469,3478"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O171",
+    "before": null,
+    "after": "Section2.1 explicitly calls these diagnostic tests; they establish motivation/measurement, not a separate spillover causal setting. Exclude Figure1B density test as well. Source: Figure1A pp.3469,3478. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+  }
+]
+```
