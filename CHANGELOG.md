@@ -84810,3 +84810,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:44:40.444373+00:00 — Review 4X76IAGM h5: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4559",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4559",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4559",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4559",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4559",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4559",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4559",
+    "before": null,
+    "after": "Model-derived borrower surplus of loan inS$000, linear borrower/period-FE regression of heterogeneity; TableA.5. Monetary certainty-equivalent construction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1909",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1909",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1909",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1909",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1909",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1909",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1909",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1909",
+    "before": null,
+    "after": "Differential post-crackdown effects on model-derived loan borrower surplus by borrower characteristics; borrower and period FE regression, TableA.5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1909",
+    "before": null,
+    "after": "Strict identifying-role audit: retain implemented linear regression and its actual categorical controls, but code OLS regression adjustment. Table A.5 lists borrower and period FE for heterogeneity of model-derived surplus. Main p17 interprets differential crackdown losses, but supplies no identifying-FE or parallel-trends argument. Generated outcome does not turn the implemented linear regression into Other. Source: TableA.5 appendix p.4; main p.17. Source link: https://ars.els-cdn.com/content/image/1-s2.0-S0304405X2400117X-mmc1.pdf#page=4. Certainty: medium: differential-effects regression versus DiD taxonomy."
+  }
+]
+```
