@@ -43215,3 +43215,246 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:17:47.659588+00:00 — Review 4MXMWKXM s6: source-audited coding and linked comparisons
+
+39 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H386",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H387",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H388",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H389",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H390",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H391",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H392",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H393",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I386",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I387",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I388",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I389",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I390",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I391",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I392",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I393",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J386",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J387",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J388",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J389",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J390",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J391",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J392",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J393",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K386",
+    "before": null,
+    "after": "Vigeo Human Resources score. Scores range0–100; distinct provider outcomes, not standardized outcomes. No sample zero frequencies reported; zero support is not proof of observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K387",
+    "before": null,
+    "after": "Vigeo Environment score. Scores range0–100; distinct provider outcomes, not standardized outcomes. No sample zero frequencies reported; zero support is not proof of observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K388",
+    "before": null,
+    "after": "Vigeo Customer and Supplier score. Scores range0–100; distinct provider outcomes, not standardized outcomes. No sample zero frequencies reported; zero support is not proof of observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K389",
+    "before": null,
+    "after": "Vigeo Community Involvement score. Scores range0–100; distinct provider outcomes, not standardized outcomes. No sample zero frequencies reported; zero support is not proof of observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K390",
+    "before": null,
+    "after": "Vigeo Human Rights score. Scores range0–100; distinct provider outcomes, not standardized outcomes. No sample zero frequencies reported; zero support is not proof of observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K391",
+    "before": null,
+    "after": "Vigeo Corporate Governance score. Scores range0–100; distinct provider outcomes, not standardized outcomes. No sample zero frequencies reported; zero support is not proof of observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K392",
+    "before": null,
+    "after": "ASSET4 Environment score. Scores range0–100; distinct provider outcomes, not standardized outcomes. No sample zero frequencies reported; zero support is not proof of observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K393",
+    "before": null,
+    "after": "ASSET4 Social score. Scores range0–100; distinct provider outcomes, not standardized outcomes. No sample zero frequencies reported; zero support is not proof of observed zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J115",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L115",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M115",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N115",
+    "before": null,
+    "after": "French civil legal origin versus English common law; Random-effects GLS; Vigeo and ASSET4 outcomes; outcomes grouped by reported columns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O115",
+    "before": null,
+    "after": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Source: TableVII cols1–8 p.881."
+  }
+]
+```
