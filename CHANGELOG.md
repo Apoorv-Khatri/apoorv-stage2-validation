@@ -112500,3 +112500,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:32:23.988551+00:00 — Review 7PCAD73D s13: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K105",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L105",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M105",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N105",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O105",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P105",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q105",
+    "before": null,
+    "after": "Table12B p3503; focal estimate: .041 col5; benchmark: 34.5% significant-investment-cut probability"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R105",
+    "before": null,
+    "after": "Wrong outcome/setting after panel split; replacement under h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H528",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H529",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I528",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I529",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J528",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J529",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K528",
+    "before": null,
+    "after": "Restrict to Table12A growth outcome; exact percent-growth formulation not given beyond caption. Introduction3.9% differs from preferred Table12A -0.078 and section3.2 7.8%."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K529",
+    "before": null,
+    "after": "spurious in narrowed s13 scope; replacement under Table12B added setting, preserving original model field/ID."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I183",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J183",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K183",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L183",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M183",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N183",
+    "before": null,
+    "after": "Breach×STLender on quarterly total investment growth; Table12A columns1–5, all identifying-FE/control variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O183",
+    "before": null,
+    "after": "Observational linear interaction design, not an implemented treated/post parallel-trends DiD or a local-polynomial RD. EPS proximity and covenant threshold do not themselves make this RD. Breach×STLender measures differential breach-associated outcome for short-termist lenders, not an IV effect of actual enforcement. Authors acknowledge omitted unobservables and manipulation pp.3476,3484. Identifying FE, not HDFE: source reports Quarter, Industry×Quarter, Lender and Lender×Quarter rows cumulatively. Quarter is nested in Industry×Quarter; Lender is additionally nested in Lender×Quarter. Effective sets by baseline column: (1) quarter; (2) industry×quarter; (3) industry×quarter + lender; (4–5) industry×quarter + lender×quarter. Equation3 itself writes only the two interacted sets. Explicit pp3482–3483 discussion addresses confounding. Preserve every reported Yes/No row as source reporting, but do not count redundant sets as extra separately absorbed dimensions. Analogous year nesting applies to TableB.7. Main-text preferred effect7.8%, not introductory3.9% claim (p3471). Outcomes are total investment growth, not just capital expenditures. Routine FE/control variants at this table are grouped after nested-FE adjudication; no additional HDFE method is established. Source: Breach×STLender on quarterly total investment growth; Table12A columns1–5, all identifying-FE/control variants.. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+  }
+]
+```
