@@ -18377,7 +18377,16 @@
     "L2014": "0",
     "M2014": "unknown",
     "N2014": "Continuous Short (short-term debt/total debt) as determinant of BIFR registration, controlling leverage; Internet Appendix Table7, discussed pp35–36.",
-    "O2014": "Supporting mechanism with explicitly acknowledged omitted-variable/endogeneity limitation. Exact estimator/FE/lag structure not reported; unknown. No numerical estimates or benchmark in supplied source. Source: Sec4.5 pp35–36; cited IA Table7. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: unresolved implementation."
+    "O2014": "Supporting mechanism with explicitly acknowledged omitted-variable/endogeneity limitation. Exact estimator/FE/lag structure not reported; unknown. No numerical estimates or benchmark in supplied source. Source: Sec4.5 pp35–36; cited IA Table7. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: unresolved implementation.",
+    "A2015": "8ZEJGZST",
+    "B2015": "h11",
+    "I2015": "1",
+    "J2015": "DiD_conventional",
+    "K2015": "1",
+    "L2015": "0",
+    "M2015": "n/a",
+    "N2015": "DRT effects on STD/assets and trade credit/assets, state macro controls,1993 sample and industry×year FE robustness; Internet Appendix Table8 summarized pp37–38.",
+    "O2015": "Explicit repetition of relevant Eq1 robustness tests for these two dependent variables. Separate reported location, routine controls/sample variants grouped. No coefficient or benchmark in article summary. Source: Sec4.6 pp37–38; cited IA Table8. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: main-text summary only."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52209,7 +52218,21 @@
     "A4753": "8ZEJGZST",
     "B4753": "h10",
     "C4753": "hy1",
-    "K4753": "BIFR registration outcome as described pp35–36/IA Table7; nonbinary-treatment setting, detailed outcome labels not required; precise coding unverified."
+    "K4753": "BIFR registration outcome as described pp35–36/IA Table7; nonbinary-treatment setting, detailed outcome labels not required; precise coding unverified.",
+    "A4754": "8ZEJGZST",
+    "B4754": "h11",
+    "C4754": "hy1",
+    "H4754": "0",
+    "I4754": "unknown",
+    "J4754": "none",
+    "K4754": "Short-term debt/assets; IA Table8, explicitly stated in Sec4.6 pp36–38.",
+    "A4755": "8ZEJGZST",
+    "B4755": "h11",
+    "C4755": "hy2",
+    "H4755": "0",
+    "I4755": "unknown",
+    "J4755": "none",
+    "K4755": "Trade credit/assets; IA Table8, explicitly stated in Sec4.6 pp36–38."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
