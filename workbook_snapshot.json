@@ -16312,7 +16312,16 @@
     "L1852": "0",
     "M1852": "unknown",
     "N1852": "Collective Bargaining Laws Index component predicted from Civil Law Origin and controls, then related to overall IVA rating; two-stage generated-regressor channel analysis, Table XI column 8. Exact IV-equivalent implementation unresolved.",
-    "O1852": "Source explicitly says “not an IV regression” (Table XI) and explains that civil law may act through other channels (p.894). The fitted-regressor recipe would equal an IV estimator under compatible linear projections, but the paper does not specify exact first-stage estimator/weighting; reference to Table IV model (2) establishes controls only. Do not assert a verified excluded-instrument set or LATE. Retain as substantive channel evidence, not a diagnostic-only first stage. Human_method unknown is implementation uncertainty, not Other and not a rejection based on identification quality. Source: TableXI col8 p.895; SecV p.894. Certainty: medium; exact stage weights/projection estimator and author-denial interpretation unresolved."
+    "O1852": "Source explicitly says “not an IV regression” (Table XI) and explains that civil law may act through other channels (p.894). The fitted-regressor recipe would equal an IV estimator under compatible linear projections, but the paper does not specify exact first-stage estimator/weighting; reference to Table IV model (2) establishes controls only. Do not assert a verified excluded-instrument set or LATE. Retain as substantive channel evidence, not a diagnostic-only first stage. Human_method unknown is implementation uncertainty, not Other and not a rejection based on identification quality. Source: TableXI col8 p.895; SecV p.894. Certainty: medium; exact stage weights/projection estimator and author-denial interpretation unresolved.",
+    "A1853": "4MXMWKXM",
+    "B1853": "h30",
+    "I1853": "1",
+    "J1853": "unknown",
+    "K1853": "0",
+    "L1853": "0",
+    "M1853": "unknown",
+    "N1853": "State Involvement component predicted from Civil Law Origin and controls, then related to overall IVA rating; two-stage generated-regressor channel analysis, Table XI column 10. Exact IV-equivalent implementation unresolved.",
+    "O1853": "Source explicitly says “not an IV regression” (Table XI) and explains that civil law may act through other channels (p.894). The fitted-regressor recipe would equal an IV estimator under compatible linear projections, but the paper does not specify exact first-stage estimator/weighting; reference to Table IV model (2) establishes controls only. Do not assert a verified excluded-instrument set or LATE. Retain as substantive channel evidence, not a diagnostic-only first stage. Human_method unknown is implementation uncertainty, not Other and not a rejection based on identification quality. Source: TableXI col10 p.895; SecV p.894. Certainty: medium; exact stage weights/projection estimator and author-denial interpretation unresolved."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -48088,7 +48097,11 @@
     "A4458": "4MXMWKXM",
     "B4458": "h29",
     "C4458": "hy1",
-    "K4458": "Overall MSCI IVA CSR rating, ordered integer0–6, in second-stage channel regression. Observed ordinal score not latent probit and not SD standardized. Bottom rating explicitly maps to0; regression-subset zero frequency not reported."
+    "K4458": "Overall MSCI IVA CSR rating, ordered integer0–6, in second-stage channel regression. Observed ordinal score not latent probit and not SD standardized. Bottom rating explicitly maps to0; regression-subset zero frequency not reported.",
+    "A4459": "4MXMWKXM",
+    "B4459": "h30",
+    "C4459": "hy1",
+    "K4459": "Overall MSCI IVA CSR rating, ordered integer0–6, in second-stage channel regression. Observed ordinal score not latent probit and not SD standardized. Bottom rating explicitly maps to0; regression-subset zero frequency not reported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
