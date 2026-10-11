@@ -44793,3 +44793,390 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:45:17.026032+00:00 — Review 4MXMWKXM h16: source-audited coding and linked comparisons
+
+63 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1451",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1452",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1453",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1451",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1452",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1453",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1451",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1452",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1453",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1451",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1452",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1453",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1451",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1452",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1453",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1451",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1452",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1453",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1451",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1452",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1453",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1451",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1452",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1453",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1451",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1452",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1453",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1451",
+    "before": null,
+    "after": "p.886; TableVIII cols4–6 p.884: focal Civil Law × Year2010 coefficient6.393; benchmark 100-point ASSET4 outcome scale, energy-related firms. Candidate focal estimate (attribution unresolved): Civil Law × Year2010 coefficient6.393."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1452",
+    "before": null,
+    "after": "p.886; TableVIII cols4–6 p.884: focal Civil Law × Year2010 coefficient7.578; benchmark 100-point ASSET4 outcome scale, energy-related firms. Candidate focal estimate (attribution unresolved): Civil Law × Year2010 coefficient7.578."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1453",
+    "before": null,
+    "after": "p.886; TableVIII cols4–6 p.884: focal Civil Law × Year2010 coefficient6.587; benchmark 100-point ASSET4 outcome scale, energy-related firms. Candidate focal estimate (attribution unresolved): Civil Law × Year2010 coefficient6.587."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1451",
+    "before": null,
+    "after": "Omission candidate, not a confidently new qualifying comparison: prose cites cols4–6 for7% scale normalization but calls them Post-2010; actual cols4–6 are Year2010. Later sentence says immediate results economically similar. Because exact estimate-to-prose attribution is contradictory, mark unknown rather than count both sets automatically. Retained persistent records reflect the named Post2010 effect; parent can reject these candidates if only explicit unambiguous pairs are admitted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1452",
+    "before": null,
+    "after": "Omission candidate, not a confidently new qualifying comparison: prose cites cols4–6 for7% scale normalization but calls them Post-2010; actual cols4–6 are Year2010. Later sentence says immediate results economically similar. Because exact estimate-to-prose attribution is contradictory, mark unknown rather than count both sets automatically. Retained persistent records reflect the named Post2010 effect; parent can reject these candidates if only explicit unambiguous pairs are admitted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1453",
+    "before": null,
+    "after": "Omission candidate, not a confidently new qualifying comparison: prose cites cols4–6 for7% scale normalization but calls them Post-2010; actual cols4–6 are Year2010. Later sentence says immediate results economically similar. Because exact estimate-to-prose attribution is contradictory, mark unknown rather than count both sets automatically. Retained persistent records reflect the named Post2010 effect; parent can reject these candidates if only explicit unambiguous pairs are admitted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4443",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4444",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4445",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4443",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4444",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4445",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4443",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4444",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4445",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4444",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4445",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4443",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4444",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4445",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4443",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4444",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4445",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4443",
+    "before": null,
+    "after": "Spill and Pollution Control score, a 0-100 measure of how much the company is under media spotlight because of spill/pollution controversies and its policies related to environmental contamination. No sample zero frequencies reported; zero support is not proof of observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4444",
+    "before": null,
+    "after": "Environmental R&D score, a 0-100 measure of the extent to which the company invests in R&D on environmentally friendly products or services that limit emissions and resource use. No sample zero frequencies reported; zero support is not proof of observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4445",
+    "before": null,
+    "after": "Clean Energy Products score, a 0-100 measure of the extent to which the company develops products or technologies for clean renewable energy. No sample zero frequencies reported; zero support is not proof of observed zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1839",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1839",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1839",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1839",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1839",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1839",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1839",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1839",
+    "before": null,
+    "after": "Civil-law versus common-law immediate Year2010 differential response to Deepwater Horizon oil spill; same three environmental outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1839",
+    "before": null,
+    "after": "Conventional linear interaction DiD, not modern DiD or HDFE despite country/year/industry FE. Target is differential change in civil relative to common-law firms after the global shock, not the overall effect of the event. Maintained parallel trends; country FE remove time-invariant country heterogeneity, not differential time-varying shocks. TableVIII caption says country-clustered SE; Eq3 prose says firm/time clustering: preserve discrepancy. Separate immediate event-year estimand, not merely alternative standard errors/controls. Source: TableVIII PanelC cols4–6 p.884; p.886."
+  }
+]
+```
