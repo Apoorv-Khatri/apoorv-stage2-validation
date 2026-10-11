@@ -120801,3 +120801,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:45:04.974376+00:00 — Review 8ZEJGZST h13: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4758",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4759",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4758",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4759",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4758",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4759",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4758",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4759",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4758",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4759",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4758",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4759",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4758",
+    "before": null,
+    "after": "Gross fixed assets/total assets, baseline definition land,buildings,plant and machinery; IA Table10 summarized p39."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4759",
+    "before": null,
+    "after": "Alternative fixed-assets share adding transport equipment to fixed assets; IA Table10 summarized p39; exact column unverified."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E24",
+    "before": null,
+    "after": "DONE — Complete supplied accepted-manuscript article and included Appendices A1–A2 reviewed, including omissions. Corrected linear DiD versus nonlinear estimator splits, binary return contrasts, subgroup differences and comparison attribution. Separate Internet Appendix unavailable: only explicitly supported main-text summaries coded; unsupported outcome inventory held, h6 distinctness held outside workbook, and unresolved estimators/scales marked unknown. Author probit-to-odds comparisons retained as reported claims with explicit interpretation errors, not validated odds effects. DONE is available-source completion, not exhaustive appendix verification. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2017",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2017",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2017",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2017",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2017",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2017",
+    "before": null,
+    "after": "DRT effects on fixed-asset share under state macro controls,industry×year FE,alternative fixed assets including transport equipment,debt/assets instead of interest coverage,and lagged sales growth; Internet Appendix Table10 summarized p39."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2017",
+    "before": null,
+    "after": "Substantive robustness at separate result location; routine variants grouped. Exact column allocation/coefficients not recoverable; alternative outcome definition included. No magnitude benchmark in summary. Source: Sec4.7 p39; cited IA Table10. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: main-text summary only."
+  }
+]
+```

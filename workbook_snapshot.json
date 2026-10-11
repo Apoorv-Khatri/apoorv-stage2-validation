@@ -97,6 +97,7 @@
     "B24": "Do Debt Contract Enforcement Costs Affect Financing and Asset Structure?",
     "C24": "fin",
     "D24": 9,
+    "E24": "DONE — Complete supplied accepted-manuscript article and included Appendices A1–A2 reviewed, including omissions. Corrected linear DiD versus nonlinear estimator splits, binary return contrasts, subgroup differences and comparison attribution. Separate Internet Appendix unavailable: only explicitly supported main-text summaries coded; unsupported outcome inventory held, h6 distinctness held outside workbook, and unresolved estimators/scales marked unknown. Author probit-to-odds comparisons retained as reported claims with explicit interpretation errors, not validated odds effects. DONE is available-source completion, not exhaustive appendix verification. Original model fields preserved.",
     "A25": "95E3CUNG",
     "B25": "Trade credit and cross-country predictable firm returns",
     "C25": "fin",
@@ -18395,7 +18396,16 @@
     "L2016": "0",
     "M2016": "unknown",
     "N2016": "DRT effects on plant/machinery versus land/buildings components of asset structure; Internet Appendix Table9 summarized p39.",
-    "O2016": "Main text p39 explicitly attributes fixed-asset-share changes to plant/machinery rather than land/buildings, so retain the substantive extension. Unlike the baseline Table10, the missing IA Table9 implementation is not shown: component shares versus levels/logs, separate regressions versus decomposition, and estimator are unresolved. Do not promote an inferred Eq1 implementation to a verified DiD estimator; use unknown pending appendix. Source: Sec4.7 p39; cited IA Table9. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: exact appendix scales unresolved."
+    "O2016": "Main text p39 explicitly attributes fixed-asset-share changes to plant/machinery rather than land/buildings, so retain the substantive extension. Unlike the baseline Table10, the missing IA Table9 implementation is not shown: component shares versus levels/logs, separate regressions versus decomposition, and estimator are unresolved. Do not promote an inferred Eq1 implementation to a verified DiD estimator; use unknown pending appendix. Source: Sec4.7 p39; cited IA Table9. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: exact appendix scales unresolved.",
+    "A2017": "8ZEJGZST",
+    "B2017": "h13",
+    "I2017": "1",
+    "J2017": "DiD_conventional",
+    "K2017": "1",
+    "L2017": "0",
+    "M2017": "n/a",
+    "N2017": "DRT effects on fixed-asset share under state macro controls,industry×year FE,alternative fixed assets including transport equipment,debt/assets instead of interest coverage,and lagged sales growth; Internet Appendix Table10 summarized p39.",
+    "O2017": "Substantive robustness at separate result location; routine variants grouped. Exact column allocation/coefficients not recoverable; alternative outcome definition included. No magnitude benchmark in summary. Source: Sec4.7 p39; cited IA Table10. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: main-text summary only."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52255,7 +52265,21 @@
     "H4757": "0",
     "I4757": "unknown",
     "J4757": "unknown",
-    "K4757": "Land and buildings component of fixed assets; IA Table9, p39 summary. Share versus amount/log specification not explicit; transformation unknown."
+    "K4757": "Land and buildings component of fixed assets; IA Table9, p39 summary. Share versus amount/log specification not explicit; transformation unknown.",
+    "A4758": "8ZEJGZST",
+    "B4758": "h13",
+    "C4758": "hy1",
+    "H4758": "0",
+    "I4758": "unknown",
+    "J4758": "none",
+    "K4758": "Gross fixed assets/total assets, baseline definition land,buildings,plant and machinery; IA Table10 summarized p39.",
+    "A4759": "8ZEJGZST",
+    "B4759": "h13",
+    "C4759": "hy2",
+    "H4759": "0",
+    "I4759": "unknown",
+    "J4759": "none",
+    "K4759": "Alternative fixed-assets share adding transport equipment to fixed assets; IA Table10 summarized p39; exact column unverified."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
