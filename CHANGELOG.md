@@ -28353,3 +28353,24 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:00:04.027499+00:00 — Review 3DI8S52Q s1: causal scope, outcomes and benchmark evidence
+
+2 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I77",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O77",
+    "before": null,
+    "after": "Table II p.388 characterizes correlations/trading styles. Authors explicitly say the strong correlation does not indicate who initiates trades, and then introduce Table III to infer liquidity direction. Table II alone is descriptive, not an implemented effect of returns on trading. Exclude under causal-interpretation gate; do not promote an input description into a separate causal setting."
+  }
+]
+```
