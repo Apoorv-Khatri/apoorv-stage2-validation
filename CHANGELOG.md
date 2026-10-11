@@ -34221,3 +34221,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:08:49.220336+00:00 — Review 3MVCXGJ3 s1: causal scope, outcomes and benchmark evidence
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1439",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1439",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1439",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1439",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K33",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K34",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1439",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L33",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1439",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M33",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1439",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N33",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1439",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O33",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1439",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P33",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1439",
+    "before": null,
+    "after": "p.186 fn16: Table3 col4 REPAT marginal effect0.33 percentage points compared with unconditional domestic acquisition probability20.6%, yielding source-reported relative change1.6%. Benchmark is original24,312 firm-years,1988–2004."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q33",
+    "before": null,
+    "after": "Sec3.3.1 p.185, Table3 col1 p.186 and Table2 PanelA p.185: one REPAT SD increases ForInd by0.23 percentage points; unconditional ForInd mean4.5% for24,312 multinational firm-years,1988–2004; authors say relative increase5%. Footnote16 p.186 repeats this with4.6% and5.1%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1439",
+    "before": null,
+    "after": "Missing original comparison. Non-significance does not disqualify. Overall mean not established as appropriate untreated reference for continuous adjusted probit effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R33",
+    "before": null,
+    "after": "Continuous-dose adjusted probit marginal effect: overall sample probability is not shown to represent the specific intervention/reference-population untreated mean. Alignment unknown, not mechanically1 or0. Footnote16 prints4.6% whereas Table2 and main prose print4.5%; keep repeated same estimate/benchmark as one record and document discrepancy."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R34",
+    "before": null,
+    "after": "Pooled intro statement either proxy: REPAT component duplicates s1/c1; unique predicted-proxy component belongs to h1 after treatment split. Reject this original row as pooled/wrong-setting and add h1/hc1. Do not count intro repetition as a second REPAT comparison."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I88",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J88",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K88",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L88",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M88",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N88",
+    "before": null,
+    "after": "Lagged REPAT (continuous), foreign and domestic acquisition indicators; probit marginal effects per treatment SD. Narrow original pooled-proxy description to REPAT only. Location: Table3 cols1,4, pp.185–186; Eq.(1) pp.181–182"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O88",
+    "before": null,
+    "after": "Year FE, acquisition controls; nonlinear probit, not FE or IV. Full Compustat sample n=24,312. Predicted proxy is h1. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign_pp\": 0.23, \"domestic_pp\": 0.33}."
+  }
+]
+```
