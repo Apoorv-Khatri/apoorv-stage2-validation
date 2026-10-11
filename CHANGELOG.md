@@ -71298,3 +71298,6390 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:39:25.035531+00:00 — Review 4X76IAGM s5: source-audited coding and linked comparisons
+
+1063 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1712",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1713",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1714",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1715",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1716",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1717",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1718",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1719",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1720",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1721",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1722",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1723",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1724",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1725",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1726",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1727",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1728",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1729",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1730",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1731",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1732",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1733",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1734",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1735",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1736",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1737",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1738",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1739",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1740",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1741",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1742",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1743",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1744",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1745",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1746",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1747",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1748",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1749",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1750",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1751",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1752",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1753",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1754",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1755",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1756",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1757",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1758",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1759",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1760",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1761",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1762",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1763",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1764",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1765",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1766",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1767",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1768",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1769",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1770",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1771",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1772",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1773",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1774",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1775",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1776",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1777",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1778",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1779",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1780",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1781",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1782",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1783",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1784",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1785",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1786",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1787",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1788",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1789",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1790",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1791",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1792",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1793",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1794",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1795",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1796",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1797",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1798",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1799",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1800",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1801",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1802",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1803",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1804",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1805",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1806",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1712",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1713",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1714",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1715",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1716",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1717",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1718",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1719",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1720",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1721",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1722",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1723",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1724",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1725",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1726",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1727",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1728",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1729",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1730",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1731",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1732",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1733",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1734",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1735",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1736",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1737",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1738",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1739",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1740",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1741",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1742",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1743",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1744",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1745",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1746",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1747",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1748",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1749",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1750",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1751",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1752",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1753",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1754",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1755",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1756",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1757",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1758",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1759",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1760",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1761",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1762",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1763",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1764",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1765",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1766",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1767",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1768",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1769",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1770",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1771",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1772",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1773",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1774",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1775",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1776",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1777",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1778",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1779",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1780",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1781",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1782",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1783",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1784",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1785",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1786",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1787",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1788",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1789",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1790",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1791",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1792",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1793",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1794",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1795",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1796",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1797",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1798",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1799",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1800",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1801",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1802",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1803",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1804",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1805",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1806",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1712",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1713",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1714",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1715",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1716",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1717",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1718",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1719",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1720",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1721",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1722",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1723",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1724",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1725",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1726",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1727",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1728",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1729",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1730",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1731",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1732",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1733",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1734",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1735",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1736",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1737",
+    "before": null,
+    "after": "hc26"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1738",
+    "before": null,
+    "after": "hc27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1739",
+    "before": null,
+    "after": "hc28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1740",
+    "before": null,
+    "after": "hc29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1741",
+    "before": null,
+    "after": "hc30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1742",
+    "before": null,
+    "after": "hc31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1743",
+    "before": null,
+    "after": "hc32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1744",
+    "before": null,
+    "after": "hc33"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1745",
+    "before": null,
+    "after": "hc34"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1746",
+    "before": null,
+    "after": "hc35"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1747",
+    "before": null,
+    "after": "hc36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1748",
+    "before": null,
+    "after": "hc37"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1749",
+    "before": null,
+    "after": "hc38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1750",
+    "before": null,
+    "after": "hc39"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1751",
+    "before": null,
+    "after": "hc40"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1752",
+    "before": null,
+    "after": "hc41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1753",
+    "before": null,
+    "after": "hc42"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1754",
+    "before": null,
+    "after": "hc43"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1755",
+    "before": null,
+    "after": "hc44"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1756",
+    "before": null,
+    "after": "hc45"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1757",
+    "before": null,
+    "after": "hc46"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1758",
+    "before": null,
+    "after": "hc47"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1759",
+    "before": null,
+    "after": "hc48"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1760",
+    "before": null,
+    "after": "hc49"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1761",
+    "before": null,
+    "after": "hc50"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1762",
+    "before": null,
+    "after": "hc51"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1763",
+    "before": null,
+    "after": "hc52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1764",
+    "before": null,
+    "after": "hc53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1765",
+    "before": null,
+    "after": "hc54"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1766",
+    "before": null,
+    "after": "hc55"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1767",
+    "before": null,
+    "after": "hc56"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1768",
+    "before": null,
+    "after": "hc57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1769",
+    "before": null,
+    "after": "hc58"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1770",
+    "before": null,
+    "after": "hc59"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1771",
+    "before": null,
+    "after": "hc60"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1772",
+    "before": null,
+    "after": "hc61"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1773",
+    "before": null,
+    "after": "hc62"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1774",
+    "before": null,
+    "after": "hc63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1775",
+    "before": null,
+    "after": "hc64"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1776",
+    "before": null,
+    "after": "hc65"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1777",
+    "before": null,
+    "after": "hc66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1778",
+    "before": null,
+    "after": "hc67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1779",
+    "before": null,
+    "after": "hc68"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1780",
+    "before": null,
+    "after": "hc69"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1781",
+    "before": null,
+    "after": "hc70"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1782",
+    "before": null,
+    "after": "hc71"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1783",
+    "before": null,
+    "after": "hc72"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1784",
+    "before": null,
+    "after": "hc73"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1785",
+    "before": null,
+    "after": "hc74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1786",
+    "before": null,
+    "after": "hc75"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1787",
+    "before": null,
+    "after": "hc76"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1788",
+    "before": null,
+    "after": "hc77"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1789",
+    "before": null,
+    "after": "hc78"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1790",
+    "before": null,
+    "after": "hc79"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1791",
+    "before": null,
+    "after": "hc80"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1792",
+    "before": null,
+    "after": "hc81"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1793",
+    "before": null,
+    "after": "hc82"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1794",
+    "before": null,
+    "after": "hc83"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1795",
+    "before": null,
+    "after": "hc84"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1796",
+    "before": null,
+    "after": "hc85"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1797",
+    "before": null,
+    "after": "hc86"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1798",
+    "before": null,
+    "after": "hc87"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1799",
+    "before": null,
+    "after": "hc88"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1800",
+    "before": null,
+    "after": "hc89"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1801",
+    "before": null,
+    "after": "hc90"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1802",
+    "before": null,
+    "after": "hc91"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1803",
+    "before": null,
+    "after": "hc92"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1804",
+    "before": null,
+    "after": "hc93"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1805",
+    "before": null,
+    "after": "hc94"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1806",
+    "before": null,
+    "after": "hc95"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1712",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1713",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1718",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1721",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1722",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1725",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1726",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1727",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1729",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1731",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1732",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1733",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1734",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1735",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1736",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1737",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1738",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1739",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1740",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1741",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1742",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1743",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1744",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1745",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1747",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1749",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1750",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1752",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1753",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1754",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1762",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1763",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1765",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1767",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1769",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1770",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1771",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1772",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1773",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1775",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1776",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1777",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1778",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1779",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1780",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1781",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1782",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1783",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1786",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1787",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1789",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1790",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1791",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1792",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1795",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1796",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1798",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1800",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1801",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1805",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1806",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1712",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1713",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1714",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1715",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1716",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1717",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1718",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1719",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1720",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1721",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1722",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1723",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1724",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1725",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1726",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1727",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1728",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1729",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1730",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1731",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1732",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1733",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1734",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1735",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1736",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1737",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1738",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1739",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1740",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1741",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1742",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1743",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1744",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1745",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1746",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1747",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1748",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1749",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1750",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1751",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1752",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1753",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1754",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1755",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1756",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1757",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1758",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1759",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1760",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1761",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1762",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1763",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1764",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1765",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1766",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1767",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1768",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1769",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1770",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1771",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1772",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1773",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1774",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1775",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1776",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1777",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1778",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1779",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1780",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1781",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1782",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1783",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1784",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1785",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1786",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1787",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1788",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1789",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1790",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1791",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1792",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1793",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1794",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1795",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1796",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1797",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1798",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1799",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1800",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1801",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1802",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1803",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1804",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1805",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1806",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1712",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1713",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1714",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1715",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1716",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1717",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1718",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1719",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1720",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1721",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1722",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1723",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1724",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1725",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1726",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1727",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1728",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1729",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1730",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1731",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1732",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1733",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1734",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1735",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1736",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1737",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1738",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1739",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1740",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1741",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1742",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1743",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1744",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1745",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1746",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1747",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1748",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1749",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1750",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1751",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1752",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1753",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1754",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1755",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1756",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1757",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1758",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1759",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1760",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1761",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1762",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1763",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1764",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1765",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1766",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1767",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1768",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1769",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1770",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1771",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1772",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1773",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1774",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1775",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1776",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1777",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1778",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1779",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1780",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1781",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1782",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1783",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1784",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1785",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1786",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1787",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1788",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1789",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1790",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1791",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1792",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1793",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1794",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1795",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1796",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1797",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1798",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1799",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1800",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1801",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1802",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1803",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1804",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1805",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1806",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1712",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1713",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1714",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1715",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1716",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1717",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1718",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1719",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1720",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1721",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1722",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1723",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1724",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1725",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1726",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1727",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1728",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1729",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1730",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1731",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1732",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1733",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1734",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1735",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1736",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1737",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1738",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1739",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1740",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1741",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1742",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1743",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1744",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1745",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1746",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1747",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1748",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1749",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1750",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1752",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1753",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1754",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1755",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1756",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1757",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1758",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1759",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1760",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1761",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1762",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1763",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1764",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1765",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1766",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1767",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1768",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1769",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1770",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1771",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1772",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1773",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1774",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1775",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1776",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1777",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1778",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1779",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1780",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1781",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1782",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1784",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1785",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1786",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1787",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1789",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1790",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1791",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1793",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1794",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1795",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1796",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1797",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1798",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1799",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1800",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1801",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1803",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1804",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1805",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1806",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1712",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1713",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1718",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1721",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1722",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1725",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1726",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1727",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1729",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1731",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1732",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1733",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1734",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1735",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1736",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1737",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1738",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1739",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1740",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1741",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1742",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1743",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1744",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1745",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1747",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1749",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1750",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1752",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1753",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1754",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1762",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1763",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1765",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1767",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1769",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1770",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1771",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1772",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1773",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1775",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1776",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1777",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1778",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1779",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1780",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1781",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1782",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1783",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1786",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1787",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1789",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1790",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1791",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1792",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1795",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1796",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1798",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1800",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1801",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1805",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1806",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1712",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1713",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1718",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1721",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1722",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1725",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1726",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1727",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1729",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1731",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1732",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1733",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1734",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1735",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1736",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1737",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1738",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1739",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1740",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1741",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1742",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1743",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1744",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1745",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1747",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1749",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1750",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1752",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1753",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1754",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1762",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1763",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1765",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1767",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1769",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1770",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1771",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1772",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1773",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1775",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1776",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1777",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1778",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1779",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1780",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1781",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1782",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1783",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1786",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1787",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1789",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1790",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1791",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1792",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1795",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1796",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1798",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1800",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1801",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1805",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1806",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1712",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=-90% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. Main pp.17–18 reports endpoint-15.7%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1713",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=-90% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1714",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=-90% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1715",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=-90% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1716",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=-90% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1717",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=-80% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1718",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=-80% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1719",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=-80% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1720",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=-80% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1721",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=-80% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1722",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=-70% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1723",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=-70% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1724",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=-70% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1725",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=-70% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1726",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=-70% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1727",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=-60% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1728",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=-60% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1729",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=-60% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1730",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=-60% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1731",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=-60% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1732",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=-50% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1733",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=-50% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1734",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=-50% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1735",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=-50% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1736",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=-50% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1737",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=-40% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1738",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=-40% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1739",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=-40% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1740",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=-40% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1741",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=-40% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1742",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=-30% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1743",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=-30% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1744",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=-30% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1745",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=-30% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1746",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=-30% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1747",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=-20% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1748",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=-20% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1749",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=-20% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1750",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=-20% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1751",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=-20% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1752",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=-10% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1753",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=-10% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1754",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=-10% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1755",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=-10% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1756",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=-10% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1757",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=+0% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1758",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=+0% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1759",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=+0% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1760",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=+0% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1761",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=+0% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1762",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=+10% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1763",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=+10% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1764",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=+10% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1765",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=+10% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1766",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=+10% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1767",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=+20% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1768",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=+20% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1769",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=+20% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1770",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=+20% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1771",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=+20% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1772",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=+30% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1773",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=+30% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1774",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=+30% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1775",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=+30% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1776",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=+30% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1777",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=+40% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1778",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=+40% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1779",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=+40% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1780",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=+40% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1781",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=+40% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1782",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=+50% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1783",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=+50% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1784",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=+50% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1785",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=+50% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1786",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=+50% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1787",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=+60% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1788",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=+60% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1789",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=+60% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1790",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=+60% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1791",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=+60% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1792",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=+70% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1793",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=+70% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1794",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=+70% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1795",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=+70% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1796",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=+70% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1797",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=+80% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1798",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=+80% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1799",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=+80% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1800",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=+80% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1801",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=+80% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1802",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Borrower surplus series at x=+90% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. Main pp.17–18 reports endpoint-11.2%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1803",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Loan size series at x=+90% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1804",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Harassment probability series at x=+90% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1805",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of missed payments series at x=+90% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1806",
+    "before": null,
+    "after": "FigA.1 appendix p.3, Number of times harassed series at x=+90% change in crackdown cost increment theta_post^kappa (estimated1.050). Caption: reported outcomes relative to no-crackdown situation for all loans in2015–2016. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1712",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1713",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1714",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1715",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1716",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1717",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1718",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1719",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1720",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1721",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1722",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1723",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1724",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1725",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1726",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1727",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1728",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1729",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1730",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1731",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1732",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1733",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1734",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1735",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1736",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1737",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1738",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1739",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1740",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1741",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1742",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1743",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1744",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1745",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1746",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1747",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1748",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1749",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1750",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1751",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1752",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1753",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1754",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1755",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1756",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1757",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1758",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1759",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1760",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1761",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1762",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1763",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1764",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1765",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1766",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1767",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1768",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1769",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1770",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1771",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1772",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1773",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1774",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1775",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1776",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1777",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1778",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1779",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1780",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1781",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1782",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1783",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1784",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1785",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1786",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1787",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1788",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1789",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1790",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1791",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1792",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1793",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1794",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1795",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1796",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1797",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1798",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1799",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1800",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1801",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1802",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1803",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1804",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1805",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1806",
+    "before": null,
+    "after": "Same-population, same-horizon structural counterfactual mean. This is actual outcome normalization even though no absolute benchmark printed. At x=0, policy is still actual crackdown versus no crackdown, not a self-comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4547",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4548",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4547",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4548",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4547",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4548",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K453",
+    "before": null,
+    "after": "Average borrower surplus; percent change relative to no crackdown for2015–2016, FigA.1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K454",
+    "before": null,
+    "after": "Loan size (not an independently plotted total-volume series), percent change relative to no crackdown in2015–2016, FigA.1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4547",
+    "before": null,
+    "after": "Average number of missed payments; FigA.1 percentage change relative to no crackdown for2015–2016."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4548",
+    "before": null,
+    "after": "Average number of times harassed; FigA.1 percentage change relative to no crackdown for2015–2016."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K455",
+    "before": null,
+    "after": "Harassment probability, percent change relative to no crackdown in2015–2016, FigA.1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I139",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J139",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K139",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L139",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M139",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N139",
+    "before": null,
+    "after": "Crackdown intensity: post-crackdown unit-cost increment varied−90% to+90% in10pp steps; optimal cartel rate remains35%; five loan outcomes relative to no crackdown,2015–2016."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O139",
+    "before": null,
+    "after": "Estimated nonlinear structural model, not IV, RCT or DiD. Assumes model primitives invariant under interventions; common cartel rate is taken as given except in rate-grid exercises. No randomized assignment or implemented excluded-instrument first stage. Outcome set additionally includes missed payments and times harassed; not just welfare/loan size/harassment probability. Source: Sec6.1.3 pp.17–18; FigA.1 appendix p.3. Source link: https://ars.els-cdn.com/content/image/1-s2.0-S0304405X2400117X-mmc1.pdf#page=3."
+  }
+]
+```
