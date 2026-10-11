@@ -35268,3 +35268,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:11:30.477195+00:00 — Review 3MVCXGJ3 h5: causal scope, outcomes and benchmark evidence
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1441",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1441",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1441",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1441",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1441",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1441",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1441",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1441",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1441",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1441",
+    "before": null,
+    "after": "Sec4.2 p.190 and Table7 PanelA col2 p.191: one predicted-cash-proxy SD associated with0.12 percentage-point increase in foreign CapEx/assets; authors call this10% relative to mean For CapEx1.16% of assets. BEA1998–2003 foreign-investment sample (regression n=2,499)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1441",
+    "before": null,
+    "after": "Mean is an unconditional period/sample mean, with no identified untreated continuous-treatment reference. Unknown alignment. Do not make an additional0.10/1.16 comparison for REPAT col1: source uses0.12. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4333",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4334",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4333",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4334",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4333",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4334",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4333",
+    "before": null,
+    "after": "Foreign capital expenditures in year t / total assets; Table7 PanelA. Tabulated linear dependent variable ×100."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4334",
+    "before": null,
+    "after": "Domestic capital expenditures in year t / total assets; Table7 PanelA. Tabulated linear dependent variable ×100."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1808",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1808",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1808",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1808",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1808",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1808",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1808",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1808",
+    "before": null,
+    "after": "Lagged Predicted foreign cash-REPAT, foreign and domestic capital expenditures/total assets ×100; linear industry-and-year FE regressions. Location: Table7 PanelA cols2,4 p.191; Sec4.2 p.190"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1808",
+    "before": null,
+    "after": "Generated proxy construction repeated for 1998–2003 BEA panel; not IV. Includes controls-predicted and residual foreign cash. Foreign n=2,499, domestic n=2,316. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign_pp_assets\": 0.12, \"domestic_pp_assets\": -0.02}."
+  }
+]
+```

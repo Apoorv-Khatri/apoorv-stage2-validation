@@ -15721,7 +15721,16 @@
     "L1807": "0",
     "M1807": "n/a",
     "N1807": "AJCA tax-holiday exposure in 2005, foreign versus domestic acquisition counts; negative-binomial models and across-equation comparison. Location: Table6 cols2,4 p.190; Eq.(5) and discussion p.189",
-    "O1807": "Split from s4 because count estimator/estimand differs from probit. Nonlinear DiD argument belongs in Other, not conventional linear DiD. No linked outcome mean/SD. Source estimates: {\"foreign\": -0.12, \"domestic\": 0.08, \"difference_test_p\": 0.1}."
+    "O1807": "Split from s4 because count estimator/estimand differs from probit. Nonlinear DiD argument belongs in Other, not conventional linear DiD. No linked outcome mean/SD. Source estimates: {\"foreign\": -0.12, \"domestic\": 0.08, \"difference_test_p\": 0.1}.",
+    "A1808": "3MVCXGJ3",
+    "B1808": "h5",
+    "I1808": "1",
+    "J1808": "FE",
+    "K1808": "0",
+    "L1808": "0",
+    "M1808": "n/a",
+    "N1808": "Lagged Predicted foreign cash-REPAT, foreign and domestic capital expenditures/total assets ×100; linear industry-and-year FE regressions. Location: Table7 PanelA cols2,4 p.191; Sec4.2 p.190",
+    "O1808": "Generated proxy construction repeated for 1998–2003 BEA panel; not IV. Includes controls-predicted and residual foreign cash. Foreign n=2,499, domestic n=2,316. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign_pp_assets\": 0.12, \"domestic_pp_assets\": -0.02}."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46479,7 +46488,15 @@
     "H4332": "0",
     "I4332": "1",
     "J4332": "none",
-    "K4332": "Number of domestic cash acquisitions in firm-year; Table6 col4. Counts include zero (extended sample contains original zero-count observations); no log transform of dependent variable merely because negative-binomial link is nonlinear."
+    "K4332": "Number of domestic cash acquisitions in firm-year; Table6 col4. Counts include zero (extended sample contains original zero-count observations); no log transform of dependent variable merely because negative-binomial link is nonlinear.",
+    "A4333": "3MVCXGJ3",
+    "B4333": "h5",
+    "C4333": "hy1",
+    "K4333": "Foreign capital expenditures in year t / total assets; Table7 PanelA. Tabulated linear dependent variable ×100.",
+    "A4334": "3MVCXGJ3",
+    "B4334": "h5",
+    "C4334": "hy2",
+    "K4334": "Domestic capital expenditures in year t / total assets; Table7 PanelA. Tabulated linear dependent variable ×100."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -61218,7 +61235,18 @@
     "O1440": "1",
     "P1440": "unknown",
     "Q1440": "Introduction p.180: one SD increase in either proxy gives approximately5% relative increase in foreign-acquisition probability. Sec3.3.1 p.185 links ForInd mean4.5% to economic magnitude and says predicted proxy col2 yields similar magnitude; Table3 col2 p.186 is0.24 percentage points. Benchmark is24,312 Compustat firm-years1988–2004, not BEA-only n=2,726.",
-    "R1440": "Do not transfer this to col3 BEA estimate0.28. Author summary justifies divided1 without inventing a recalculated percentage. Alignment unknown for continuous generated-proxy marginal effect. "
+    "R1440": "Do not transfer this to col3 BEA estimate0.28. Author summary justifies divided1 without inventing a recalculated percentage. Alignment unknown for continuous generated-proxy marginal effect. ",
+    "A1441": "3MVCXGJ3",
+    "B1441": "h5",
+    "C1441": "hc1",
+    "K1441": "1",
+    "L1441": "hy1",
+    "M1441": "outcome_mean",
+    "N1441": "1",
+    "O1441": "1",
+    "P1441": "unknown",
+    "Q1441": "Sec4.2 p.190 and Table7 PanelA col2 p.191: one predicted-cash-proxy SD associated with0.12 percentage-point increase in foreign CapEx/assets; authors call this10% relative to mean For CapEx1.16% of assets. BEA1998–2003 foreign-investment sample (regression n=2,499).",
+    "R1441": "Mean is an unconditional period/sample mean, with no identified untreated continuous-treatment reference. Unknown alignment. Do not make an additional0.10/1.16 comparison for REPAT col1: source uses0.12. "
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
