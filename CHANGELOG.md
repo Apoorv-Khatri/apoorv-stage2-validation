@@ -118797,3 +118797,168 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:41:43.628127+00:00 — Review 8ZEJGZST s5: source-audited coding and linked comparisons
+
+26 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K126",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L126",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M126",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N126",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O126",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P126",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q126",
+    "before": null,
+    "after": "p29 Sec4.4.1; Table5B p31 col10 DRT(+4), abnormal subgroup trade credit/assets -.035(SE.012), stated subgroup mean .16, reported21.9%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R126",
+    "before": null,
+    "after": "Subgroup matches by name, but benchmark period/untreated-counterfactual construction not stated; aligned unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H597",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H598",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H599",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H600",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I597",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I598",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I599",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I600",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J597",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J598",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J599",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J600",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I210",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J210",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K210",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L210",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M210",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O210",
+    "before": null,
+    "after": "Binary DRT access; fully saturated conventional event-time DiD, year -1 reference, firm/year FE, size-percentile dummies, state-specific linear trends and state-clustered SE. Controls/no-controls are routine variants, not OLS versus FE settings. Pre-DRT abnormal group requires both below-median industry-adjusted LTD/assets and above-median STD/assets. No causal random assignment to this subgroup claimed. Source: Table5B pp31–32; Sec4.4.1 pp28–29. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
+  }
+]
+```
