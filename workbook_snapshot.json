@@ -15595,7 +15595,16 @@
     "L1797": "0",
     "M1797": "n/a",
     "N1797": "pp.389-390 main-text report of Table IA.I: Q return-impact OLS using2003/2008 cutoff subsamples; effects similar before/after. Separate reported robustness location, not a causal effect of financialization or crisis.",
-    "O1797": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Main-text substantive results only; separate Internet Appendix not inspected. No unavailable coefficient, table-specific estimator detail or benchmark invented. Method OLS follows described replication of main Fama-MacBeth specification."
+    "O1797": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Main-text substantive results only; separate Internet Appendix not inspected. No unavailable coefficient, table-specific estimator detail or benchmark invented. Method OLS follows described replication of main Fama-MacBeth specification.",
+    "A1798": "3DI8S52Q",
+    "B1798": "h14",
+    "I1798": "1",
+    "J1798": "OLS",
+    "K1798": "0",
+    "L1798": "0",
+    "M1798": "n/a",
+    "N1798": "p.390 main-text report of Table IA.II: Q return-impact OLS conditional on commercial net-long versus net-short hedging-pressure sign; similar effects. Sign is subgroup, Q remains continuous.",
+    "O1798": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Main-text substantive results only; separate Internet Appendix not inspected. No unavailable coefficient, table-specific estimator detail or benchmark invented. Method OLS follows described replication of main Fama-MacBeth specification."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46255,7 +46264,15 @@
     "A4314": "3DI8S52Q",
     "B4314": "h13",
     "C4314": "hy2",
-    "K4314": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
+    "K4314": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return.",
+    "A4315": "3DI8S52Q",
+    "B4315": "h14",
+    "C4315": "hy1",
+    "K4315": "Commodity front-month futures excess return in week t+1, Tuesday-to-Tuesday simple return.",
+    "A4316": "3DI8S52Q",
+    "B4316": "h14",
+    "C4316": "hy2",
+    "K4316": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
