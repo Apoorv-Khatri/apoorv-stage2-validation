@@ -17485,7 +17485,16 @@
     "L1954": "1",
     "M1954": "n/a",
     "N1954": "Continuous log1p cumulative Other Sources/initial assets (total sources minus bond proceeds), effect on cash accumulation t=1,2,3 Location: Eq1 and Table9 pp.730–732.",
-    "O1954": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Independently interpreted as proportion of other financing allocated to cash; not simply a nuisance coefficient. Total sources include operations, PPE sales, debt and equity issuance. Treatment-to-treatment effect comparisons are not base-rate comparisons. Source: Eq1 and Table9 pp.730–732. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion."
+    "O1954": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Independently interpreted as proportion of other financing allocated to cash; not simply a nuisance coefficient. Total sources include operations, PPE sales, debt and equity issuance. Treatment-to-treatment effect comparisons are not base-rate comparisons. Source: Eq1 and Table9 pp.730–732. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion.",
+    "A1955": "5IF5MIQQ",
+    "B1955": "h19",
+    "I1955": "1",
+    "J1955": "OLS",
+    "K1955": "0",
+    "L1955": "1",
+    "M1955": "n/a",
+    "N1955": "Continuous nonUSD bond proceeds log1p intensity, AE and EME cash-use slopes, t=1,2,3 Location: Eq2 and Table10 pp.733–735.",
+    "O1955": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Source: Eq2 and Table10 pp.733–735. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50283,7 +50292,19 @@
     "A4651": "5IF5MIQQ",
     "B4651": "h18",
     "C4651": "hy3",
-    "K4651": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction."
+    "K4651": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction.",
+    "A4652": "5IF5MIQQ",
+    "B4652": "h19",
+    "C4652": "hy1",
+    "K4652": "ln(1+(cash and short-term investments at t=1 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction.",
+    "A4653": "5IF5MIQQ",
+    "B4653": "h19",
+    "C4653": "hy2",
+    "K4653": "ln(1+(cash and short-term investments at t=2 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction.",
+    "A4654": "5IF5MIQQ",
+    "B4654": "h19",
+    "C4654": "hy3",
+    "K4654": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -102867,3 +102867,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T05:48:20.991375+00:00 — Review 5IF5MIQQ h19: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4652",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4653",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4654",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4652",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4653",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4654",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4652",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4653",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4654",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4652",
+    "before": null,
+    "after": "ln(1+(cash and short-term investments at t=1 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4653",
+    "before": null,
+    "after": "ln(1+(cash and short-term investments at t=2 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4654",
+    "before": null,
+    "after": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1955",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1955",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1955",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1955",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1955",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1955",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1955",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1955",
+    "before": null,
+    "after": "Continuous nonUSD bond proceeds log1p intensity, AE and EME cash-use slopes, t=1,2,3 Location: Eq2 and Table10 pp.733–735."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1955",
+    "before": null,
+    "after": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Source: Eq2 and Table10 pp.733–735. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion."
+  }
+]
+```
