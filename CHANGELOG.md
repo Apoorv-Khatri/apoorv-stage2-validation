@@ -27597,3 +27597,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T01:42:11.573567+00:00 — Review 2RLBINN9 h6: causal scope, outcomes and benchmark evidence
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4282",
+    "before": null,
+    "after": "2RLBINN9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4283",
+    "before": null,
+    "after": "2RLBINN9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4282",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4283",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4282",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4283",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4282",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4283",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4282",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4283",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4282",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4283",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4282",
+    "before": null,
+    "after": "Portfolio Sharpe ratio; reported contrasts relative to alternative rules."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4283",
+    "before": null,
+    "after": "Portfolio CEQ return; reported contrasts relative to alternative rules."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1781",
+    "before": null,
+    "after": "2RLBINN9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1781",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1781",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1781",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1781",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1781",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1781",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1781",
+    "before": null,
+    "after": "Section 8.5 pp. 802-803 (Table A.6): DCF-versus-alternative hedging-rule performance after excluding all crises or separately Asian crisis Jul 1997-Dec 1998, GFC Jul 2007-Mar 2009, European debt crisis May 2010-Dec 2012. Group sample exclusions; NOT a causal effect of crises."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1781",
+    "before": null,
+    "after": "Implemented pairwise strategy-rule contrasts on common historical price paths, not a causal effect of macro predictors on market prices. Other = forecast-driven constrained mean-variance portfolio recomputation/backtest. Binary refers to adoption of one specified rule versus its comparator, not to the continuously varying monthly hedge ratio. OOS Jan 1997-Jul 2017 unless noted; transaction-cost and price-taking assumptions limit external interpretation. Retain substantive result explicitly reported in MAIN TEXT. Separate online appendix table not inspected; no unavailable coefficients, exact comparison levels or detailed table outcomes invented. No qualifying numerical same-outcome benchmark beyond the narrated contrast identified in main text."
+  }
+]
+```
