@@ -16645,7 +16645,16 @@
     "L1878": "0",
     "M1878": "single binary",
     "N1878": "Total standardized Δlog MMA;θ=1,2,4,8 alternative trade-elasticity calibrations grouped as routine construction robustness. Change1880–1890 in manufacturing inputs value per male resident over21. Location: Companion Appendix TableA.9,cols1,2,3,4,p13",
-    "O1878": "One excluded binary instrument I(population1880<6000); all other X variables, state FE and Loans_o/Loans_d are included controls, not additional excluded instruments. Endogenous receipt is continuous standardized change in log MMA, not binary bank presence. Eq.(2), pp9–11. Authors explicitly do not implement local RD due to sparse support near cutoff (p10). IV takes precedence over DiD.  147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Separate appendix result location.  Source: Companion Appendix TableA.9,cols1,2,3,4,p13."
+    "O1878": "One excluded binary instrument I(population1880<6000); all other X variables, state FE and Loans_o/Loans_d are included controls, not additional excluded instruments. Endogenous receipt is continuous standardized change in log MMA, not binary bank presence. Eq.(2), pp9–11. Authors explicitly do not implement local RD due to sparse support near cutoff (p10). IV takes precedence over DiD.  147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Separate appendix result location.  Source: Companion Appendix TableA.9,cols1,2,3,4,p13.",
+    "A1879": "4QJKKD9J",
+    "B1879": "h21",
+    "I1879": "1",
+    "J1879": "IV",
+    "K1879": "0",
+    "L1879": "0",
+    "M1879": "single binary",
+    "N1879": "Total standardized Δlog MMA;unweighted rather than town-share-weighted IV estimand. Change1880–1890 in manufacturing inputs value per male resident over21. Location: Companion Appendix TableA.9,cols5,p13",
+    "O1879": "One excluded binary instrument I(population1880<6000); all other X variables, state FE and Loans_o/Loans_d are included controls, not additional excluded instruments. Endogenous receipt is continuous standardized change in log MMA, not binary bank presence. Eq.(2), pp9–11. Authors explicitly do not implement local RD due to sparse support near cutoff (p10). IV takes precedence over DiD.  147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Separate appendix result location. No weight in unweighted estimator; mean row nevertheless unchanged across columns. Source: Companion Appendix TableA.9,cols5,p13."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -48547,7 +48556,11 @@
     "A4487": "4QJKKD9J",
     "B4487": "h20",
     "C4487": "hy1",
-    "K4487": "Change1880–1890 in manufacturing inputs value per male resident over21. Location: Companion Appendix TableA.9,cols1,2,3,4,p13"
+    "K4487": "Change1880–1890 in manufacturing inputs value per male resident over21. Location: Companion Appendix TableA.9,cols1,2,3,4,p13",
+    "A4488": "4QJKKD9J",
+    "B4488": "h21",
+    "C4488": "hy1",
+    "K4488": "Change1880–1890 in manufacturing inputs value per male resident over21. Location: Companion Appendix TableA.9,cols5,p13"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -64226,7 +64239,18 @@
     "O1509": "0",
     "P1509": "0",
     "Q1509": "Companion Appendix TableA.9,cols1,2,3,4,p13: 74.44, one treatment SD, col4, calibration; linked benchmark 380.9. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated.",
-    "R1509": "Table-paired mean; no division in table. Sample-wide baseline is not constructed for the instrument-induced continuous-MMA response margin; no complier/margin-specific mean."
+    "R1509": "Table-paired mean; no division in table. Sample-wide baseline is not constructed for the instrument-induced continuous-MMA response margin; no complier/margin-specific mean.",
+    "A1510": "4QJKKD9J",
+    "B1510": "h21",
+    "C1510": "hc1",
+    "K1510": "1",
+    "L1510": "hy1",
+    "M1510": "outcome_mean",
+    "N1510": "0",
+    "O1510": "0",
+    "P1510": "0",
+    "Q1510": "Companion Appendix TableA.9,cols5,p13: 108.5, one treatment SD, col5, unweighted; linked benchmark 380.9. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated.",
+    "R1510": "Table-paired mean; no division in table. Sample-wide baseline is not constructed for the instrument-induced continuous-MMA response margin; no complier/margin-specific mean."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
