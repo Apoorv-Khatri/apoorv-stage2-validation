@@ -17602,7 +17602,16 @@
     "L1967": "0",
     "M1967": "n/a",
     "N1967": "Untabulated financial-dependence interaction robustness for EME USD-share Tobit; high/low FinDep thresholds Location: Sec3.4.1 p725 final paragraph.",
-    "O1967": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Source literally says interact FinDep with dummy variables High FinDep and Low FinDep as in Column(2), but col2 actually interacts Cash. Thus treatment could be continuous piecewise FinDep or binary-group conditional Cash contrast. Keep one unresolved implemented Tobit setting rather than silently correcting source; no estimates printed. Source: Sec3.4.1 p725 final paragraph. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: low treatment definition; high that robustness performed."
+    "O1967": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Source literally says interact FinDep with dummy variables High FinDep and Low FinDep as in Column(2), but col2 actually interacts Cash. Thus treatment could be continuous piecewise FinDep or binary-group conditional Cash contrast. Keep one unresolved implemented Tobit setting rather than silently correcting source; no estimates printed. Source: Sec3.4.1 p725 final paragraph. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: low treatment definition; high that robustness performed.",
+    "A1968": "5IF5MIQQ",
+    "B1968": "h32",
+    "I1968": "unknown",
+    "J1968": "unknown",
+    "K1968": "unknown",
+    "L1968": "0",
+    "M1968": "unknown",
+    "N1968": "Capital-control stringency and incidence of carry trades; only reported main-text summary of own Internet Appendix test Location: Introduction p705.",
+    "O1968": "UNRESOLVED CAUSAL-SETTING CANDIDATE, not a confirmed inclusion. p705 establishes an own capital-controls result but says only associated with greater incidence of carry trades. Implemented estimator, treatment/outcome definitions and causal interpretation remain unresolved. Keep in audit candidate queue rather than mark an unverified new causal setting Human_keep=1. This is NOT exclusion merely because appendix is unavailable; h28/h29 have explicit main-text implementations and remain retained. Source: Introduction p705; Internet Appendix not recovered.. Retained visibly for follow-up rather than silently omitted; do not count as a confirmed causal setting. Source: Introduction p705. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: low; provisional candidate requiring supplement for detailed resolution."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50532,7 +50541,14 @@
     "H4681": "0",
     "I4681": "unknown",
     "J4681": "none",
-    "K4681": "USD share among EME issuers, untabulated Tobit p725. Parent binary status unresolved due FinDep-versus-Cash textual ambiguity."
+    "K4681": "USD share among EME issuers, untabulated Tobit p725. Parent binary status unresolved due FinDep-versus-Cash textual ambiguity.",
+    "A4682": "5IF5MIQQ",
+    "B4682": "h32",
+    "C4682": "hy1",
+    "H4682": "unknown",
+    "I4682": "unknown",
+    "J4682": "unknown",
+    "K4682": "Incidence of carry trades, as summarized p705; exact outcome definition, units and regression estimator unavailable in supplied PDF."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

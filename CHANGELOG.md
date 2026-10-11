@@ -104478,3 +104478,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T05:51:00.532181+00:00 — Review 5IF5MIQQ h32: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4682",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4682",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4682",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4682",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4682",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4682",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4682",
+    "before": null,
+    "after": "Incidence of carry trades, as summarized p705; exact outcome definition, units and regression estimator unavailable in supplied PDF."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1968",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1968",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1968",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1968",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1968",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1968",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1968",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1968",
+    "before": null,
+    "after": "Capital-control stringency and incidence of carry trades; only reported main-text summary of own Internet Appendix test Location: Introduction p705."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1968",
+    "before": null,
+    "after": "UNRESOLVED CAUSAL-SETTING CANDIDATE, not a confirmed inclusion. p705 establishes an own capital-controls result but says only associated with greater incidence of carry trades. Implemented estimator, treatment/outcome definitions and causal interpretation remain unresolved. Keep in audit candidate queue rather than mark an unverified new causal setting Human_keep=1. This is NOT exclusion merely because appendix is unavailable; h28/h29 have explicit main-text implementations and remain retained. Source: Introduction p705; Internet Appendix not recovered.. Retained visibly for follow-up rather than silently omitted; do not count as a confirmed causal setting. Source: Introduction p705. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: low; provisional candidate requiring supplement for detailed resolution."
+  }
+]
+```
