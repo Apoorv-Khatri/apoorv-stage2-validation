@@ -28116,3 +28116,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T01:43:01.221473+00:00 — Review 2RLBINN9 h9: causal scope, outcomes and benchmark evidence
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1395",
+    "before": null,
+    "after": "2RLBINN9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1396",
+    "before": null,
+    "after": "2RLBINN9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1395",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1396",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1395",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1396",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1395",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1396",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1395",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1396",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1395",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1396",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1395",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1396",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1395",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1396",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1395",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1396",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1395",
+    "before": null,
+    "after": "Section 8.6 p. 803: DCF median turnover about 20%-25% versus momentum over 25%; turnover is the same outcome under two rules."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1396",
+    "before": null,
+    "after": "Section 8.6 p. 803: DCF median turnover about 20%-25% versus stated range 0%-10% for other strategies. Individual median values not given; retain reported range, not invented separate numerical medians."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1396",
+    "before": null,
+    "after": "Grouped benchmark is the explicitly stated range, not a pooled mean or exact strategy-specific median."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4287",
+    "before": null,
+    "after": "2RLBINN9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4287",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4287",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4287",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4287",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4287",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4287",
+    "before": null,
+    "after": "Monthly currency-hedge turnover distribution/median, fraction of hedge position changed; percent."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E11",
+    "before": null,
+    "after": "DONE — Main-article review: predictive Table 2 s1 excluded; s2-s12 retained as explicit portfolio-rule counterfactuals (Other), not macroeconomic causal estimates. Corrected fee direction and outcome transformations; checked all original and omitted comparisons, including table contrast/level pairings. Added expected-return oracle split, main-text Sections 8.1-8.6 robustness, Figure 2 terminal wealth and turnover channel. Source numerical/sign inconsistencies preserved and flagged. Original fields unchanged. Main article Tables 1-10/Figures 1-3 and footnotes reviewed; separate Internet Appendix not inspected, and no unreported table coefficients invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1784",
+    "before": null,
+    "after": "2RLBINN9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1784",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1784",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1784",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1784",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1784",
+    "before": null,
+    "after": "Section 8.6 p. 803 (Figure A.2): effects of hedging rule on currency hedge turnover, a substantive implementation-cost channel. DCF monthly median turnover about 20%-25%, momentum over 25%, other rules 0%-10%; full hedge and no hedge both zero turnover by construction. Group strategy contrasts; no external price-impact inference."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1784",
+    "before": null,
+    "after": "Implemented pairwise strategy-rule contrasts on common historical price paths, not a causal effect of macro predictors on market prices. Other = forecast-driven constrained mean-variance portfolio recomputation/backtest. Binary refers to adoption of one specified rule versus its comparator, not to the continuously varying monthly hedge ratio. OOS Jan 1997-Jul 2017 unless noted; transaction-cost and price-taking assumptions limit external interpretation. Qualifies as rule-induced implementation outcome, not merely input balance. Main-text summary only; exact appendix quantiles not invented."
+  }
+]
+```
