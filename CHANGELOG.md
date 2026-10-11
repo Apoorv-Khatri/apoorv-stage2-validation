@@ -36789,3 +36789,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:06:44.882531+00:00 — Review 4CG48IZI s1: source-audited coding and linked comparisons
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1444",
+    "before": null,
+    "after": "4CG48IZI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1444",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1444",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K37",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1444",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1444",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1444",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1444",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1444",
+    "before": null,
+    "after": "Section 4.2, printed p.394 / PDF 11, right column final paragraph: FIR approximately 22.3% gives predicted cumulative return around 2.05%, compared verbally with observed average Colombian local-currency sovereign-bond cumulative return 2.2% in a ten-day announcement window in March 2014. Episode is expressly outside the regression sample. No effect/2.2 division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1444",
+    "before": null,
+    "after": "Same-outcome comparison qualifies although outcome is a logdifference. It is not a logpercent interpretation alone. Predicted2.05numerically matchesTable4cols2/5 slope0.092×22.3=2.0516%,notfullycontrolledcol8slope0.097×22.3=2.1631%. Textdoesnotnamecolumn; exactcols2versus5unresolved,butbothlieins1underrecommendedFEcoding. Alignment0:benchmark is observedpostannouncementreturn in an excludedlarge-eventColombiaepisode,not an untreatedreturnlevel for the regression target; maintainedextrapolationdoesnotmakethisacontrolbaseline. Nonexperimentalpredictionfit/externalvaliditycomparison,not a newidentifiedColombiaeffect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R37",
+    "before": null,
+    "after": "Reject: reported SD is ofFIR,theTREATMENT,not of the dependent outcome. Multiplying a slope by treatmentSD and describing effect inbp/percentageunits is not a same-outcome magnitude comparison. other_level does not rescue a different-variable benchmark. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I94",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J94",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K94",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L94",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M94",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O94",
+    "before": null,
+    "after": "Group routine controls and horizon variants: none is no-FE OLS. FE set counts1,2,3 across column blocks; HDFE qualification caveat recorded. Headline8bp is compatible with .092×.872 (8.0224bp), whereas col8 gives8.4584bp; do not attach headline exclusively to col8. Colombia predicted2.05% is numerically compatible with .092 (cols2/5), not .097(col8); the paper does not identify the exact column, so this matching is reviewer inference. Final method adjudication: OLS/regression adjustment with the stated time/country/maturity indicator controls, not a no-dummy regression. Eq.(3) and pp.388-393 locate identification in mechanically induced informationless flows and rebalancing timing; the source does not establish a separate identifying role of the FE battery. Mere indicator counts do not justify HDFE or automatic FE fallback. This strict-taxonomy judgment is distinguished from the clearly reported specification. Source: Table4 cols1–9, p.392; Eq.(3) p.388; Sec4.1. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4CG48IZI.pdf#page=9. Certainty: High on implemented linear dose design and coefficients; explicit strict-HDFE classification judgment.."
+  }
+]
+```
