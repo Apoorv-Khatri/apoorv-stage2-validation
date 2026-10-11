@@ -44256,3 +44256,198 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:18:44.995912+00:00 — Review 4MXMWKXM s7: source-audited coding and linked comparisons
+
+31 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K46",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K47",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L46",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L47",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M46",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M47",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N46",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N47",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O46",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O47",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P46",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P47",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q46",
+    "before": null,
+    "after": "p.883; TableVIII cols1–2 p.884: focal Civil Law × Post-2009 coefficient5.344; source more than5% /5–7% of score scale; benchmark Explicit score-scale upper level100, not a group mean/SD; food-related firms excluding China."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q47",
+    "before": null,
+    "after": "p.883; TableVIII cols1–2 p.884: focal Civil Law × Post-2009 coefficient0.667; source more than5% /5–7% of score scale; benchmark Explicit score-scale upper level10, not a group mean/SD; food-related firms excluding China."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R46",
+    "before": null,
+    "after": "Qualifies as another stated same-outcome level because authors explicitly normalize to scale100 or10. Not5–7% of common-law mean, not percentage-point change in a binary probability."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R47",
+    "before": null,
+    "after": "Qualifies as another stated same-outcome level because authors explicitly normalize to scale100 or10. Not5–7% of common-law mean, not percentage-point change in a binary probability."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H394",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H395",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I394",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I395",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J394",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J395",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K394",
+    "before": null,
+    "after": "No sample zero frequencies reported; zero support is not proof of observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K395",
+    "before": null,
+    "after": "No sample zero frequencies reported; zero support is not proof of observed zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J116",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M116",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N116",
+    "before": null,
+    "after": "Civil-law versus common-law differential post-2009 response to 2008 Chinese milk scandal; food-related firms excluding China; product responsibility and product safety."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O116",
+    "before": null,
+    "after": "Conventional linear interaction DiD, not modern DiD or HDFE despite country/year/industry FE. Target is differential change in civil relative to common-law firms after the global shock, not the overall effect of the event. Maintained parallel trends; country FE remove time-invariant country heterogeneity, not differential time-varying shocks. TableVIII caption says country-clustered SE; Eq3 prose says firm/time clustering: preserve discrepancy. Source: TableVIII PanelA cols1–2 p.884; SecIV.A p.883."
+  }
+]
+```
