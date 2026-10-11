@@ -15333,7 +15333,16 @@
     "L1776": "0",
     "M1776": "n/a",
     "N1776": "Table 5 Actual rets columns, p. 795, Section 6.1 p. 796: replace expected currency returns with actual next-month returns, keeping the baseline covariance framework. Compare with historical baseline DCF for equity/bond and equal/GDP weights. Infeasible perfect-information counterfactual isolates potential gains from better return forecasts; not achievable OOS performance.",
-    "O1776": "Implemented pairwise strategy-rule contrasts on common historical price paths, not a causal effect of macro predictors on market prices. Other = forecast-driven constrained mean-variance portfolio recomputation/backtest. Binary refers to adoption of one specified rule versus its comparator, not to the continuously varying monthly hedge ratio. OOS Jan 1997-Jul 2017 unless noted; transaction-cost and price-taking assumptions limit external interpretation. "
+    "O1776": "Implemented pairwise strategy-rule contrasts on common historical price paths, not a causal effect of macro predictors on market prices. Other = forecast-driven constrained mean-variance portfolio recomputation/backtest. Binary refers to adoption of one specified rule versus its comparator, not to the continuously varying monthly hedge ratio. OOS Jan 1997-Jul 2017 unless noted; transaction-cost and price-taking assumptions limit external interpretation. ",
+    "A1777": "2RLBINN9",
+    "B1777": "h2",
+    "I1777": "1",
+    "J1777": "Other",
+    "K1777": "1",
+    "L1777": "0",
+    "M1777": "n/a",
+    "N1777": "Section 8.1 p. 802 (references Table A.2): DCF adoption under alternative OOS starts Jan 1992 and Jan 2002; same Jul 2017 endpoint. Results qualitatively unchanged; Sharpe/CEQ often slightly higher. Group date variants.",
+    "O1777": "Implemented pairwise strategy-rule contrasts on common historical price paths, not a causal effect of macro predictors on market prices. Other = forecast-driven constrained mean-variance portfolio recomputation/backtest. Binary refers to adoption of one specified rule versus its comparator, not to the continuously varying monthly hedge ratio. OOS Jan 1997-Jul 2017 unless noted; transaction-cost and price-taking assumptions limit external interpretation. Retain substantive result explicitly reported in MAIN TEXT. Separate online appendix table not inspected; no unavailable coefficients, exact comparison levels or detailed table outcomes invented. No qualifying numerical same-outcome benchmark beyond the narrated contrast identified in main text."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -45724,7 +45733,21 @@
     "H4273": "0",
     "I4273": "unknown",
     "J4273": "other",
-    "K4273": "Fee to switch to historical baseline DCF, relative risk aversion 6, percent per year."
+    "K4273": "Fee to switch to historical baseline DCF, relative risk aversion 6, percent per year.",
+    "A4274": "2RLBINN9",
+    "B4274": "h2",
+    "C4274": "hy1",
+    "H4274": "0",
+    "I4274": "unknown",
+    "J4274": "other",
+    "K4274": "Portfolio Sharpe ratio under alternative evaluation periods.",
+    "A4275": "2RLBINN9",
+    "B4275": "h2",
+    "C4275": "hy2",
+    "H4275": "0",
+    "I4275": "unknown",
+    "J4275": "other",
+    "K4275": "Portfolio CEQ return under alternative evaluation periods."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

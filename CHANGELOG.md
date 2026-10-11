@@ -27009,3 +27009,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T01:41:04.937845+00:00 — Review 2RLBINN9 h2: causal scope, outcomes and benchmark evidence
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4274",
+    "before": null,
+    "after": "2RLBINN9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4275",
+    "before": null,
+    "after": "2RLBINN9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4274",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4275",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4274",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4275",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4274",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4275",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4274",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4275",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4274",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4275",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4274",
+    "before": null,
+    "after": "Portfolio Sharpe ratio under alternative evaluation periods."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4275",
+    "before": null,
+    "after": "Portfolio CEQ return under alternative evaluation periods."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1777",
+    "before": null,
+    "after": "2RLBINN9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1777",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1777",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1777",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1777",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1777",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1777",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1777",
+    "before": null,
+    "after": "Section 8.1 p. 802 (references Table A.2): DCF adoption under alternative OOS starts Jan 1992 and Jan 2002; same Jul 2017 endpoint. Results qualitatively unchanged; Sharpe/CEQ often slightly higher. Group date variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1777",
+    "before": null,
+    "after": "Implemented pairwise strategy-rule contrasts on common historical price paths, not a causal effect of macro predictors on market prices. Other = forecast-driven constrained mean-variance portfolio recomputation/backtest. Binary refers to adoption of one specified rule versus its comparator, not to the continuously varying monthly hedge ratio. OOS Jan 1997-Jul 2017 unless noted; transaction-cost and price-taking assumptions limit external interpretation. Retain substantive result explicitly reported in MAIN TEXT. Separate online appendix table not inspected; no unavailable coefficients, exact comparison levels or detailed table outcomes invented. No qualifying numerical same-outcome benchmark beyond the narrated contrast identified in main text."
+  }
+]
+```
