@@ -46236,3 +46236,294 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:47:48.184798+00:00 — Review 4MXMWKXM s11: source-audited coding and linked comparisons
+
+47 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H404",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H405",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H406",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H407",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H408",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H409",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H410",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H411",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H412",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H413",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I404",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I405",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I406",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I407",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I408",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I409",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I410",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I411",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I412",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I413",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J404",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J405",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J406",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J407",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J408",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J409",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J410",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J411",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J412",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J413",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K404",
+    "before": null,
+    "after": "Shareholder Litigation index, a binary legal-rights indicator for judicial remedies available to minority shareholders. AppendixA gives explicit binary construction."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K405",
+    "before": null,
+    "after": "spurious under narrowed first-stage s11; second-stage IVA outcome belongs under h26/hy1. Preserve original model fields and IDs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K406",
+    "before": null,
+    "after": "Supermajority Rule indicator equal to one if the company requires a supermajority vote for charter/bylaw amendments or lock-in provisions. AppendixA gives explicit binary construction."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K407",
+    "before": null,
+    "after": "spurious under narrowed first-stage s11; second-stage IVA outcome belongs under h27/hy1. Preserve original model fields and IDs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K408",
+    "before": null,
+    "after": "Employment Laws Index measuring protection of labor and employment laws. Index/fraction; no observed zero mass stated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K409",
+    "before": null,
+    "after": "spurious under narrowed first-stage s11; second-stage IVA outcome belongs under h28/hy1. Preserve original model fields and IDs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K410",
+    "before": null,
+    "after": "Collective Bargaining Laws Index measuring labor union power and collective disputes protection. Index/fraction; no observed zero mass stated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K411",
+    "before": null,
+    "after": "spurious under narrowed first-stage s11; second-stage IVA outcome belongs under h29/hy1. Preserve original model fields and IDs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K412",
+    "before": null,
+    "after": "State Involvement, fraction of nonagricultural GDP due to state-owned enterprises. Index/fraction; no observed zero mass stated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K413",
+    "before": null,
+    "after": "spurious under narrowed first-stage s11; second-stage IVA outcome belongs under h30/hy1. Preserve original model fields and IDs."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J120",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M120",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N120",
+    "before": null,
+    "after": "Civil Law Origin versus common law: effects on five institutional/governance mechanism outcomes. Narrow to first-stage columns1,3,5,7,9."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O120",
+    "before": null,
+    "after": "Retain first stages because abstract/introduction and SecV interpret legal origin as driving lower litigation risk, supermajority rules, labor regulation and state involvement. Linear regressions with year/industry FE and included controls, no country FE. These FE are incidental for time-invariant country treatment, hence OLS category. This row is NOT the five second-stage channel-to-CSR effects. Source: TableXI odd columns p.895; SecV p.894; AppendixA pp.898–901."
+  }
+]
+```
