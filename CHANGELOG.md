@@ -100083,3 +100083,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:54:11.308812+00:00 — Review 5IF5MIQQ s6: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H479",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I479",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J479",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K477",
+    "before": null,
+    "after": "USD-majority issuance category indicator versus no issue in narrowed Table8 col1 multinomial setting. The distinct USD-vs-nonUSD selection-corrected probit outcome is h13/hy1, not this reference category."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K479",
+    "before": null,
+    "after": "spurious within narrowed parent setting; real outcome retained at h11/hy1. Preserve original model row/ID."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J151",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K151",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L151",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M151",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N151",
+    "before": null,
+    "after": "Lagged Cash and multinomial issuance choice after excluding back-to-back issues, EME sample; narrow to MNL only Location: Table8 col1, pp.726–728."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O151",
+    "before": null,
+    "after": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Tobit cash=h11; carry=h12; selection-corrected probit=h13/h14; exchange-rate MNL=h15. Controls/lagged outcomes/back-to-back dummy and frequent-issuer exclusions from fn6 grouped as routine variants. Source: Table8 col1, pp.726–728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+  }
+]
+```
