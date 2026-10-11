@@ -45285,3 +45285,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:45:40.911871+00:00 — Review 4MXMWKXM s10: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H400",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H401",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H402",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H403",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I400",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I401",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I402",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I403",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J400",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J401",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J402",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J403",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K400",
+    "before": null,
+    "after": "Domestic market share: sales/total domestic industry-year sales, all companies denominator. Printed domestic share effects are−20.18 and−6.387 while AppendixA defines a proportion; table does not disclose scaling. Preserve printed units, do not silently call these percentage points or fractions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K401",
+    "before": null,
+    "after": "spurious under narrowed s10; retain corresponding outcome under h20/hy1 (and other market-share temporal contrasts where relevant). Original fields/ID preserved. Method/treatment/location split, not deletion of substantive outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K402",
+    "before": null,
+    "after": "spurious under narrowed s10; retain corresponding outcome under h22/hy1 (and other market-share temporal contrasts where relevant). Original fields/ID preserved. Method/treatment/location split, not deletion of substantive outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K403",
+    "before": null,
+    "after": "spurious under narrowed s10; retain corresponding outcome under h25/hy1 (and other market-share temporal contrasts where relevant). Original fields/ID preserved. Method/treatment/location split, not deletion of substantive outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J119",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L119",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M119",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N119",
+    "before": null,
+    "after": "Chinese milk scandal: civil×post DiD effect on domestic food-industry market shares."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O119",
+    "before": null,
+    "after": "Country/year/industry FE. Civil-law interaction isolates relative change, conventional DiD under parallel trends; no modern estimator. Printed domestic share effects are−20.18 and−6.387 while AppendixA defines a proportion; table does not disclose scaling. Preserve printed units, do not silently call these percentage points or fractions. Source: TableX PanelA p.891; SecIV.E pp.890,893 col2."
+  }
+]
+```
