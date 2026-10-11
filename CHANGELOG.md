@@ -116445,3 +116445,198 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:38:24.021519+00:00 — Review 8SZBUU3X s6: source-audited coding and linked comparisons
+
+31 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H566",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H567",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H568",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H569",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H570",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H571",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I566",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I567",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I568",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I569",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I570",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I571",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J566",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J567",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J568",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J569",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J570",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J571",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K566",
+    "before": null,
+    "after": "spurious: diagnostic-only first stage, origination balance outcome, or positive-equity placebo; excluded from causal outcome set."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K567",
+    "before": null,
+    "after": "Income normalized by household reported income at mortgage origination, displayed as %ΔDep; not log or outcome-SD units. Caption describes deposit/origination-income ratio but prose treats zero deposits as−100% change. Additive centering does not affect slope; mass at zero on reported normalized/change scale unresolved. Underlying deposits can be zero in baseline; s11 col1 excludes them, which does not prove zero mass absent for a growth outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K568",
+    "before": null,
+    "after": "Raw monthly dollar deposit inflows. Observed zero-deposit months established by p2984/Table V exclusion and author Appendix BIV caption; do not infer strictly positive deposits from panel-entry filters."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K569",
+    "before": null,
+    "after": "spurious: diagnostic-only first stage, origination balance outcome, or positive-equity placebo; excluded from causal outcome set."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K570",
+    "before": null,
+    "after": "spurious: diagnostic-only first stage, origination balance outcome, or positive-equity placebo; excluded from causal outcome set."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K571",
+    "before": null,
+    "after": "spurious: diagnostic-only first stage, origination balance outcome, or positive-equity placebo; excluded from causal outcome set."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J199",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L199",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M199",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N199",
+    "before": null,
+    "after": "Reduced-form effect of binary synthetic negative equity Z=1{SLTV>1} on current normalized deposits and dollar deposits, Table II cols2–3 only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O199",
+    "before": null,
+    "after": "Two identifying FE sets: MSA×time and origination-date×time; no HH FE. Exclude col1 first stage and cols4–6 origination balance/placebo outcomes. Current-income reduced form is substantively interpreted as a potential causal link (p2976), not merely first-stage diagnostics. Not IV receipt or RD. Source: Table II p2975 cols2–3; pp2974–76. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8SZBUU3X.pdf."
+  }
+]
+```
