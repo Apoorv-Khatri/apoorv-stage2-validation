@@ -18323,7 +18323,16 @@
     "L2008": "0",
     "M2008": "n/a",
     "N2008": "Binary lagged Abnormal short debt maturity versus other firms contrast in abnormal stock returns around DRT news; Table8 cols1–6 p36.",
-    "O2008": "Separate focal binary regressor from Multiple (s8) in Eq2. OLS with day demeaning and benchmark-return outcome adjustment; no treatment-propensity matching estimator. Same news dates/windows as s8. Source: Sec4.5 pp33–36; Eq2 p34; Table8 p36. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
+    "O2008": "Separate focal binary regressor from Multiple (s8) in Eq2. OLS with day demeaning and benchmark-return outcome adjustment; no treatment-propensity matching estimator. Same news dates/windows as s8. Source: Sec4.5 pp33–36; Eq2 p34; Table8 p36. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf.",
+    "A2009": "8ZEJGZST",
+    "B2009": "h4",
+    "I2009": "1",
+    "J2009": "DiD_conventional",
+    "K2009": "1",
+    "L2009": "0",
+    "M2009": "n/a",
+    "N2009": "DRT effects on Short in substantive robustness: excluding syndicated loans, excluding current LTD portion from numerator, state macro controls,1993 firms,balanced panel,industry×year FE; Table9 cols1–6 p38.",
+    "O2009": "Binary DRT access; fully saturated conventional event-time DiD, year -1 reference, firm/year FE, size-percentile dummies, state-specific linear trends and state-clustered SE. Controls/no-controls are routine variants, not OLS versus FE settings. Distinct robustness result location omitted from extraction. Group routine samples/controls; add alternative outcome definition for col2. Industry×year FE replace year FE in col6; do not count it as separate industry plus year dimensions or switch method to HDFE. Source: Sec4.6 pp36–38; Table9 p38. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52109,7 +52118,21 @@
     "H4746": "0",
     "I4746": "unknown",
     "J4746": "none",
-    "K4746": "Abnormal stock return, same decimal-return outcome as s8:y1, Table8 p36; portfolio subtraction is benchmark adjustment, no logarithm."
+    "K4746": "Abnormal stock return, same decimal-return outcome as s8:y1, Table8 p36; portfolio subtraction is benchmark adjustment, no logarithm.",
+    "A4747": "8ZEJGZST",
+    "B4747": "h4",
+    "C4747": "hy1",
+    "H4747": "0",
+    "I4747": "unknown",
+    "J4747": "none",
+    "K4747": "Short = short-term debt/total debt, Table9 cols1,3–6 p38.",
+    "A4748": "8ZEJGZST",
+    "B4748": "h4",
+    "C4748": "hy2",
+    "H4748": "0",
+    "I4748": "unknown",
+    "J4748": "none",
+    "K4748": "Short excluding current portion of long-term debt from numerator only; denominator remains total debt. Table9 col2 p38."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
