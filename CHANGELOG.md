@@ -30822,3 +30822,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:02:46.874873+00:00 — Review 3DI8S52Q s10: causal scope, outcomes and benchmark evidence
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H224",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H225",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I224",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I225",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J224",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J225",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K224",
+    "before": null,
+    "after": "Spurious within Table XII A regression setting; strategy-return decomposition belongs to h12."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K225",
+    "before": null,
+    "after": "Spurious within Table XII A regression setting; strategy-return decomposition belongs to h12."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I86",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J86",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K86",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L86",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M86",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N86",
+    "before": null,
+    "after": "Table XII A pp.410-412: commodity-specific time-series OLS of future own-commodity returns on continuous own net position changes, with controls. Average/median coefficient summaries across commodities; weeks t+1/t+2 and trader sides grouped. Panel B portfolio decomposition split to h12."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O86",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. No fixed effects are stated for these individual-commodity time-series regressions. Separately reported accounting decomposition is not the same OLS effect estimator. No qualifying benchmark: coefficient median is not an outcome median."
+  }
+]
+```
