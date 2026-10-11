@@ -105264,3 +105264,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:22:48.028834+00:00 — Review 6T38MQ3Y s5: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H501",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I501",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J501",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K501",
+    "before": null,
+    "after": "Reported outcome is monthly six-factor risk-adjusted excess-return alpha (Fama–French five factors plus momentum), in percent per month; other = factor adjustment, not log/standardization. No evidence establishing a point mass at zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I161",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J161",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K161",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L161",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M161",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N161",
+    "before": null,
+    "after": "Table7: 3+ versus 0/1 mention portfolio contrasts within analyst-coverage environments (none, any, single-sector, multisector, and coverage of mentioning sectors); value-weighted monthly six-factor alphas. Coverage categories moderate the mention contrast, not randomly assigned analyst treatments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O161",
+    "before": null,
+    "after": "Supports the central attention mechanism, not a causal effect of assigning analyst coverage. Baseline row repeats s1; do not create duplicate setting/comparison records. Very small single-sector portfolios are cautioned by the authors (p.4321). Source: §3.2, Table7 p.4320/PDF21, prose p.4321/PDF22; lines1309–1401.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574."
+  }
+]
+```
