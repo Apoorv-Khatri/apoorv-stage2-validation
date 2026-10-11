@@ -99984,3 +99984,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:53:53.978196+00:00 — Review 5IF5MIQQ s5: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H475",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H476",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I475",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I476",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J475",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J476",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K475",
+    "before": null,
+    "after": "Outcome category indicator in three-choice multinomial logit, not dependent-variable USD proceeds share. USD-majority issuance versus no issuance. Table7 col2 reports both choices and no-issue reference; observed alternative categories establish zeros. Full multinomial dependent variable is three-valued, while this row represents its binary category indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K476",
+    "before": null,
+    "after": "Outcome category indicator in three-choice multinomial logit, not dependent-variable USD proceeds share. nonUSD-majority issuance versus no issuance. Table7 col2 reports both choices and no-issue reference; observed alternative categories establish zeros. Full multinomial dependent variable is three-valued, while this row represents its binary category indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I150",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J150",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K150",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L150",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M150",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N150",
+    "before": null,
+    "after": "Reports US sales versus does not report US sales: conditional difference in cash slopes over Cash values, implemented Cash×US Sales and Cash×NoUS Sales in EME multinomial logit. Narrow to US-sales interaction contrast Location: Table7 col2, pp.725–726."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O150",
+    "before": null,
+    "after": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Binary moderator contrast, not a standalone unconditional effect of sales and not Cash itself binary. Both outcome category equations retained. Separate tradability=h10; col1 cash-dose subsample=h9. Geographic reporting often combines US with other regions (~60%); membership timing not established. Difference over Cash range not significant. Source: Table7 col2, pp.725–726. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+  }
+]
+```
