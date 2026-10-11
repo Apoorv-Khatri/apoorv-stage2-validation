@@ -32868,3 +32868,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:05:09.888696+00:00 — Review 3DI8S52Q h7: causal scope, outcomes and benchmark evidence
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4304",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4305",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4304",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4305",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4304",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4305",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4304",
+    "before": null,
+    "after": "Commodity front-month futures excess return in week t+1, Tuesday-to-Tuesday simple return."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4305",
+    "before": null,
+    "after": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1791",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1791",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1791",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1791",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1791",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1791",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1791",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1791",
+    "before": null,
+    "after": "Table IX B pp.402-404: continuous Q return slope modified by four successive same-direction trading weeks (order imbalance); commodity-FE panel, weeks t+1/t+2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1791",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Approximately doubles is an effect-to-effect comparison; not a qualifying outcome-level benchmark."
+  }
+]
+```

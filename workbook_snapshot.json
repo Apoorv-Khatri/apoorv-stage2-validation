@@ -15532,7 +15532,16 @@
     "L1790": "1",
     "M1790": "n/a",
     "N1790": "Table IX B pp.402-404: continuous Q return slope modified by above-median previous-four-week commercial capital loss; commodity-FE panel, weeks t+1/t+2. Binding-collateral mechanism.",
-    "O1790": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. p.404: same Q=3.39% implies8.2bps normally versus15.6bps after large losses. This compares conditional effects, not an outcome benchmark. Week2 interaction insignificant."
+    "O1790": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. p.404: same Q=3.39% implies8.2bps normally versus15.6bps after large losses. This compares conditional effects, not an outcome benchmark. Week2 interaction insignificant.",
+    "A1791": "3DI8S52Q",
+    "B1791": "h7",
+    "I1791": "1",
+    "J1791": "FE",
+    "K1791": "0",
+    "L1791": "1",
+    "M1791": "n/a",
+    "N1791": "Table IX B pp.402-404: continuous Q return slope modified by four successive same-direction trading weeks (order imbalance); commodity-FE panel, weeks t+1/t+2.",
+    "O1791": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Approximately doubles is an effect-to-effect comparison; not a qualifying outcome-level benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46148,7 +46157,15 @@
     "A4303": "3DI8S52Q",
     "B4303": "h6",
     "C4303": "hy2",
-    "K4303": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
+    "K4303": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return.",
+    "A4304": "3DI8S52Q",
+    "B4304": "h7",
+    "C4304": "hy1",
+    "K4304": "Commodity front-month futures excess return in week t+1, Tuesday-to-Tuesday simple return.",
+    "A4305": "3DI8S52Q",
+    "B4305": "h7",
+    "C4305": "hy2",
+    "K4305": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
