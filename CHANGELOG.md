@@ -118332,3 +118332,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:40:54.934362+00:00 — Review 8ZEJGZST s2: source-audited coding and linked comparisons
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H589",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H590",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H591",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I589",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I590",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I591",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J589",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J590",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J591",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K589",
+    "before": null,
+    "after": "Table2B p23 log(1+amount), real Rs10 million at2000 prices (A2 p43). Log1p alone does not establish observed zero mass. Ratio recoding in fn8 does not establish whether original amount variable is also recoded."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K590",
+    "before": null,
+    "after": "Table2B p23 log(1+amount), real Rs10 million at2000 prices (A2 p43). Log1p alone does not establish observed zero mass. Ratio recoding in fn8 does not establish whether original amount variable is also recoded."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K591",
+    "before": null,
+    "after": "Table2B p23 log(1+amount), real Rs10 million at2000 prices (A2 p43). Log1p alone does not establish observed zero mass. Ratio recoding in fn8 does not establish whether original amount variable is also recoded."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I207",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J207",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K207",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L207",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M207",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N207",
+    "before": null,
+    "after": "DRT access effects on log(1+long-term debt), log(1+short-term debt), log(1+trade credit); Table2B cols1–6 p23."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O207",
+    "before": null,
+    "after": "Binary DRT access; fully saturated conventional event-time DiD, year -1 reference, firm/year FE, size-percentile dummies, state-specific linear trends and state-clustered SE. Controls/no-controls are routine variants, not OLS versus FE settings. Correct FE to DiD_conventional: precisely same Eq1 timing identification. Log1p does not remove linearity. Prose22.1%/-19.4%/-7% uses cols1–3, not controlled cols4–6; log percentage interpretation alone is not a benchmark comparison. No evidence of zeros merely from log1p. Source: Table2B p23; Sec4.2 pp23–24. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
+  }
+]
+```
