@@ -8079,3 +8079,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T01:30:31.706725+00:00 — Review 2LWSD69M s23: causal scope, outcomes and benchmark evidence
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K13",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13",
+    "before": null,
+    "after": "Outside causal scope: linked parent s23 is a descriptive/predictive portfolio-sort comparison, not a qualifying causal setting. Preserve the original reported premium comparisons; do not treat them as causal effect/benchmark records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14",
+    "before": null,
+    "after": "Outside causal scope: linked parent s23 is a descriptive/predictive portfolio-sort comparison, not a qualifying causal setting. Preserve the original reported premium comparisons; do not treat them as causal effect/benchmark records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15",
+    "before": null,
+    "after": "Outside causal scope: linked parent s23 is a descriptive/predictive portfolio-sort comparison, not a qualifying causal setting. Preserve the original reported premium comparisons; do not treat them as causal effect/benchmark records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16",
+    "before": null,
+    "after": "Outside causal scope: linked parent s23 is a descriptive/predictive portfolio-sort comparison, not a qualifying causal setting. Preserve the original reported premium comparisons; do not treat them as causal effect/benchmark records."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E9",
+    "before": null,
+    "after": "DONE — Main-article review: s1-s23 excluded as predictive portfolio sorts/regressions rather than causally interpreted changes in valuation signals. Four linked comparisons excluded with parent s23. Original model fields preserved; rejected-row secondary fields and outcome labels left blank as permitted. Omissions audit covered Tables 1-11, Figures 1-4 and Sections 2-6: VAR/valuation machinery forecasts or constructs FE; correlations, portfolio premia and Figure 4 covariance identity are descriptive/predictive rather than implemented causal estimators. No qualifying missing causal setting identified in the main article. Separate online supplement was not reviewed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I45",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O45",
+    "before": null,
+    "after": "Exclude under the pure prediction/descriptive exclusion in the supplied instructions. Figure 1 and Table 5, Section 4.3, pp. 383,391-394: High-minus-low returns summarize portfolios selected by valuation signals. High/low decile membership is not treatment assignment. Comparing FM and BM predictive premia does not by itself establish a causal setting. The paper provides an economic explanation for the apparent premium decline, but does not interpret these signal coefficients as effects of changing X on Y. This decision is about interpretation, not the absence of randomization or remaining endogeneity."
+  }
+]
+```
