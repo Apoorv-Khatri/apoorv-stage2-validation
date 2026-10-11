@@ -106770,3 +106770,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:24:37.115611+00:00 — Review 6T38MQ3Y s13: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H511",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I511",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J511",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K511",
+    "before": null,
+    "after": "Reported outcome is monthly six-factor risk-adjusted excess-return alpha (Fama–French five factors plus momentum), in percent per month; other = factor adjustment, not log/standardization. No evidence establishing a point mass at zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I169",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J169",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K169",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L169",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M169",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N169",
+    "before": null,
+    "after": "Table14: supporting 3+ versus 1 mention alpha contrasts across subsamples, size-neutral subperiod variants, value/equal portfolio weights, and 3/6/12/18-month holding horizons. Overlapping holding-period portfolios are equally averaged; reported alphas remain percent per month, not cumulative horizon returns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O169",
+    "before": null,
+    "after": "Keep substantive robustness. p.4332 explicitly calls the early/late result the “effect of competition mentions.” Baseline VW row repeats s1. No new Matching method arises from equal weights. Do not count comparing alpha across periods/horizons/weights as effect-to-outcome-mean comparisons. Source: §7.1, Table14 pp.4331–4332/PDF32–33; lines2095–2204.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574."
+  }
+]
+```
