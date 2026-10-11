@@ -118962,3 +118962,216 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:41:56.950795+00:00 — Review 8ZEJGZST s6: source-audited coding and linked comparisons
+
+34 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K127",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K128",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L127",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L128",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M127",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M128",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N127",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N128",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O127",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O128",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P127",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P128",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q127",
+    "before": null,
+    "after": "p30; Table5C p32 col8 DRT(+4), small-firm Short -.112(SE.029), small-firm sample mean .51, reported21.9%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q128",
+    "before": null,
+    "after": "p30 explicitly third year after DRT; Table5C p32 col11 DRT(+3) trade credit/assets -.017(SE.005), small-firm mean .18, reported9.4%. Fourth-year effect -.019 is different and not the reported calculation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R127",
+    "before": null,
+    "after": "Pre-DRT size subgroup identified; benchmark period, untreated status and event-time target weights not reported. Alignment unknown, not mechanically1 because subgroup labels match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R128",
+    "before": null,
+    "after": "Pre-DRT size subgroup identified; benchmark period, untreated status and event-time target weights not reported. Alignment unknown, not mechanically1 because subgroup labels match."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H601",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H602",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H603",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H604",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I601",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I602",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I603",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I604",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J601",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J602",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J603",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J604",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I211",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J211",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K211",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L211",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M211",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O211",
+    "before": null,
+    "after": "Binary DRT access; fully saturated conventional event-time DiD, year -1 reference, firm/year FE, size-percentile dummies, state-specific linear trends and state-clustered SE. Controls/no-controls are routine variants, not OLS versus FE settings. Pre-DRT size split based on tangible assets, not current size. Trade-credit9.4% is third-year -.017, not fourth-year -.019. Source: Table5C p32; Sec4.4.1 pp29–30. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
+  }
+]
+```
