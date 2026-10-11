@@ -17458,7 +17458,16 @@
     "L1951": "0",
     "M1951": "n/a",
     "N1951": "Lagged real exchange-rate change and multinomial issuance choice after excluding consecutive issues, EME firms Location: Table8 col1, pp.727–728.",
-    "O1951": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Baseline exchange-rate result substantively checked by Table8; not the selection-equation coefficient. Source: Table8 col1, pp.727–728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+    "O1951": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Baseline exchange-rate result substantively checked by Table8; not the selection-equation coefficient. Source: Table8 col1, pp.727–728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf.",
+    "A1952": "5IF5MIQQ",
+    "B1952": "h16",
+    "I1952": "1",
+    "J1952": "Other",
+    "K1952": "0",
+    "L1952": "0",
+    "M1952": "n/a",
+    "N1952": "Lagged Cash, separate binary logit choices: any issue versus none; USD versus nonUSD issue; USD versus no issue Location: Sec3.6 untabulated binary logits, p728.",
+    "O1952": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Distinct estimator/choice-set robustness rather than pooling with MNL or selection-corrected probit. No numeric coefficients printed. Cash insignificant for any issuance; significant for latter two choices. Source: Sec3.6 untabulated binary logits, p728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: high implementation; numerical coefficients unavailable."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50220,7 +50229,19 @@
     "A4642": "5IF5MIQQ",
     "B4642": "h15",
     "C4642": "hy2",
-    "K4642": "non-USD-majority issuance category indicator relative to no issue; nonlinear MNL coefficient is not a probability-point marginal effect."
+    "K4642": "non-USD-majority issuance category indicator relative to no issue; nonlinear MNL coefficient is not a probability-point marginal effect.",
+    "A4643": "5IF5MIQQ",
+    "B4643": "h16",
+    "C4643": "hy1",
+    "K4643": "Any bond issuance=1 versus no bond=0; separate binary-logit choice set p728, numerical coefficients not reported.",
+    "A4644": "5IF5MIQQ",
+    "B4644": "h16",
+    "C4644": "hy2",
+    "K4644": "USD issuance=1 versus nonUSD issuance=0; separate binary-logit choice set p728, numerical coefficients not reported.",
+    "A4645": "5IF5MIQQ",
+    "B4645": "h16",
+    "C4645": "hy3",
+    "K4645": "USD issuance=1 versus no issuance=0; separate binary-logit choice set p728, numerical coefficients not reported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
