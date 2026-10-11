@@ -50532,3 +50532,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:17:45.175229+00:00 — Review 4QJKKD9J s14: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I134",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J134",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K134",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L134",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M134",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N134",
+    "before": null,
+    "after": "Continuous standardized ΔMMA−O, decadal manufacturing-output-per-capita event study. Location: Published Sec6.3,Fig4(c),p15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O134",
+    "before": null,
+    "after": "Same FE,controls,weighting asFig4(b). Persistent output until1900 supports central abstract/conclusion statement; change original main0 to1. No exact plotted coefficient invented. No mean/SD pairing or benchmark ratio. Source: Published Sec6.3,Fig4(c),p15."
+  }
+]
+```
