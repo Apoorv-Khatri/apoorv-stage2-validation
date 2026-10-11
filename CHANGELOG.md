@@ -102597,3 +102597,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T05:47:56.297255+00:00 — Review 5IF5MIQQ h17: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4646",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4647",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4648",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4646",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4647",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4648",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4646",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4647",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4648",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4646",
+    "before": null,
+    "after": "Any bond issuance=1 versus no bond=0; separate binary-logit choice set p728, numerical coefficients not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4647",
+    "before": null,
+    "after": "USD issuance=1 versus nonUSD issuance=0; separate binary-logit choice set p728, numerical coefficients not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4648",
+    "before": null,
+    "after": "USD issuance=1 versus no issuance=0; separate binary-logit choice set p728, numerical coefficients not reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1953",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1953",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1953",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1953",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1953",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1953",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1953",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1953",
+    "before": null,
+    "after": "Lagged real exchange-rate change, separate binary logits for the three issuance choices Location: Sec3.6 untabulated binary logits, p728."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1953",
+    "before": null,
+    "after": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Currency appreciation increases any issuance and USD versus none, but is insignificant for USD versus nonUSD. No numeric coefficients printed. Source: Sec3.6 untabulated binary logits, p728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: high implementation; numerical coefficients unavailable."
+  }
+]
+```

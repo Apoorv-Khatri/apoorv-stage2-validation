@@ -17467,7 +17467,16 @@
     "L1952": "0",
     "M1952": "n/a",
     "N1952": "Lagged Cash, separate binary logit choices: any issue versus none; USD versus nonUSD issue; USD versus no issue Location: Sec3.6 untabulated binary logits, p728.",
-    "O1952": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Distinct estimator/choice-set robustness rather than pooling with MNL or selection-corrected probit. No numeric coefficients printed. Cash insignificant for any issuance; significant for latter two choices. Source: Sec3.6 untabulated binary logits, p728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: high implementation; numerical coefficients unavailable."
+    "O1952": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Distinct estimator/choice-set robustness rather than pooling with MNL or selection-corrected probit. No numeric coefficients printed. Cash insignificant for any issuance; significant for latter two choices. Source: Sec3.6 untabulated binary logits, p728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: high implementation; numerical coefficients unavailable.",
+    "A1953": "5IF5MIQQ",
+    "B1953": "h17",
+    "I1953": "1",
+    "J1953": "Other",
+    "K1953": "0",
+    "L1953": "0",
+    "M1953": "n/a",
+    "N1953": "Lagged real exchange-rate change, separate binary logits for the three issuance choices Location: Sec3.6 untabulated binary logits, p728.",
+    "O1953": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Currency appreciation increases any issuance and USD versus none, but is insignificant for USD versus nonUSD. No numeric coefficients printed. Source: Sec3.6 untabulated binary logits, p728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: high implementation; numerical coefficients unavailable."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50241,7 +50250,19 @@
     "A4645": "5IF5MIQQ",
     "B4645": "h16",
     "C4645": "hy3",
-    "K4645": "USD issuance=1 versus no issuance=0; separate binary-logit choice set p728, numerical coefficients not reported."
+    "K4645": "USD issuance=1 versus no issuance=0; separate binary-logit choice set p728, numerical coefficients not reported.",
+    "A4646": "5IF5MIQQ",
+    "B4646": "h17",
+    "C4646": "hy1",
+    "K4646": "Any bond issuance=1 versus no bond=0; separate binary-logit choice set p728, numerical coefficients not reported.",
+    "A4647": "5IF5MIQQ",
+    "B4647": "h17",
+    "C4647": "hy2",
+    "K4647": "USD issuance=1 versus nonUSD issuance=0; separate binary-logit choice set p728, numerical coefficients not reported.",
+    "A4648": "5IF5MIQQ",
+    "B4648": "h17",
+    "C4648": "hy3",
+    "K4648": "USD issuance=1 versus no issuance=0; separate binary-logit choice set p728, numerical coefficients not reported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
