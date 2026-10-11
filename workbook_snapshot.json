@@ -15773,7 +15773,16 @@
     "L1812": "0",
     "M1812": "n/a",
     "N1812": "Lagged REPAT, foreign and domestic R&D/assets, untabulated Tobit robustness to Eq.(7). Location: p.189 fn21; Eq.(7); Table7 PanelB",
-    "O1812": "Tobit explicitly implemented because many BEA R&D observations equal zero; results consistent and stronger. Keep nonlinear Tobit separate from FE linear regression. No Tobit coefficients or precise marginal-effect definition printed. Source says missing BEA R&D often coded zero; observed zeros are not necessarily genuine economic zeros."
+    "O1812": "Tobit explicitly implemented because many BEA R&D observations equal zero; results consistent and stronger. Keep nonlinear Tobit separate from FE linear regression. No Tobit coefficients or precise marginal-effect definition printed. Source says missing BEA R&D often coded zero; observed zeros are not necessarily genuine economic zeros.",
+    "A1813": "3MVCXGJ3",
+    "B1813": "h10",
+    "I1813": "1",
+    "J1813": "Other",
+    "K1813": "0",
+    "L1813": "0",
+    "M1813": "n/a",
+    "N1813": "Lagged Predicted foreign cash-REPAT, foreign and domestic R&D/assets, untabulated Tobit robustness to Eq.(7). Location: p.189 fn21; Eq.(7); Table7 PanelB",
+    "O1813": "Same evidence and reporting limits as h9; distinct proxy, not IV."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46571,7 +46580,15 @@
     "A4342": "3MVCXGJ3",
     "B4342": "h9",
     "C4342": "hy2",
-    "K4342": "Domestic R&D expense in year t / total assets; Eq.(7), fn21. Tobit re-estimation; exact reporting scale of unpublished coefficients not stated."
+    "K4342": "Domestic R&D expense in year t / total assets; Eq.(7), fn21. Tobit re-estimation; exact reporting scale of unpublished coefficients not stated.",
+    "A4343": "3MVCXGJ3",
+    "B4343": "h10",
+    "C4343": "hy1",
+    "K4343": "Foreign R&D expense in year t / total assets; Eq.(7), fn21. Tobit re-estimation; exact reporting scale of unpublished coefficients not stated.",
+    "A4344": "3MVCXGJ3",
+    "B4344": "h10",
+    "C4344": "hy2",
+    "K4344": "Domestic R&D expense in year t / total assets; Eq.(7), fn21. Tobit re-estimation; exact reporting scale of unpublished coefficients not stated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

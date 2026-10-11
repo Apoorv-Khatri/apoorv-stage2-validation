@@ -35940,3 +35940,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:13:13.647578+00:00 — Review 3MVCXGJ3 h10: causal scope, outcomes and benchmark evidence
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4343",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4344",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4343",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4344",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4343",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4344",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4343",
+    "before": null,
+    "after": "Foreign R&D expense in year t / total assets; Eq.(7), fn21. Tobit re-estimation; exact reporting scale of unpublished coefficients not stated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4344",
+    "before": null,
+    "after": "Domestic R&D expense in year t / total assets; Eq.(7), fn21. Tobit re-estimation; exact reporting scale of unpublished coefficients not stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1813",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1813",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1813",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1813",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1813",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1813",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1813",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1813",
+    "before": null,
+    "after": "Lagged Predicted foreign cash-REPAT, foreign and domestic R&D/assets, untabulated Tobit robustness to Eq.(7). Location: p.189 fn21; Eq.(7); Table7 PanelB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1813",
+    "before": null,
+    "after": "Same evidence and reporting limits as h9; distinct proxy, not IV."
+  }
+]
+```
