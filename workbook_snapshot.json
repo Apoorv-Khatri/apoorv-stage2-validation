@@ -18341,7 +18341,16 @@
     "L2010": "0",
     "M2010": "n/a",
     "N2010": "DRT effects on multiple-bank indicator using alternative logit; Internet Appendix Table2, summarized Sec4.3 p25.",
-    "O2010": "Actual logit estimator explicitly named. Appendix missing: exact coefficients, controls/FE by column and outcome construction not verified; do not fabricate. Not IV merely because DRT is quasi-experimental. Source: p25 Sec4.3; cited IA Table2. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: main-text summary only."
+    "O2010": "Actual logit estimator explicitly named. Appendix missing: exact coefficients, controls/FE by column and outcome construction not verified; do not fabricate. Not IV merely because DRT is quasi-experimental. Source: p25 Sec4.3; cited IA Table2. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: main-text summary only.",
+    "A2011": "8ZEJGZST",
+    "B2011": "h7",
+    "I2011": "1",
+    "J2011": "DiD_conventional",
+    "K2011": "1",
+    "L2011": "0",
+    "M2011": "n/a",
+    "N2011": "DRT effects on debt-structure outcomes in the restricted sample with nonmissing banking information; baseline tests re-estimated in IA Table4, as explicitly reported p25. Exact dependent-variable and column inventory unavailable.",
+    "O2011": "Retain existence/design of this separately reported substantive robustness under DiD_conventional, but do not copy the four Table2A outcomes into IA Table4 without the supplement. The reference to baseline tests could include a different subset or scale. Coefficients, FE by column and magnitude comparisons not verified. Source: Sec4.4.1 p25; cited IA Table4. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: main-text summary only."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52148,7 +52157,14 @@
     "H4749": "1",
     "I4749": "unknown",
     "J4749": "none",
-    "K4749": "Multiple-bank indicator in alternative logit; Sec4.3 p25 citing IA Table2. Exact estimation-sample zero frequency not supplied."
+    "K4749": "Multiple-bank indicator in alternative logit; Sec4.3 p25 citing IA Table2. Exact estimation-sample zero frequency not supplied.",
+    "A4750": "8ZEJGZST",
+    "B4750": "h7",
+    "C4750": "hy1",
+    "H4750": "0",
+    "I4750": "unknown",
+    "J4750": "unknown",
+    "K4750": "Debt-structure outcome(s) in baseline tests repeated for firms with nonmissing banking information, IA Table4, summarized p25. Placeholder only: exact ratio-versus-log amounts and separate outcome columns unresolved; do not assert LTD/assets specifically."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

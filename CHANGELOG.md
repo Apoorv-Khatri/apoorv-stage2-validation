@@ -120105,3 +120105,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:43:51.749450+00:00 — Review 8ZEJGZST h7: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4750",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4750",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4750",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4750",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4750",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4750",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4750",
+    "before": null,
+    "after": "Debt-structure outcome(s) in baseline tests repeated for firms with nonmissing banking information, IA Table4, summarized p25. Placeholder only: exact ratio-versus-log amounts and separate outcome columns unresolved; do not assert LTD/assets specifically."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2011",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2011",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2011",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2011",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2011",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2011",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2011",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2011",
+    "before": null,
+    "after": "DRT effects on debt-structure outcomes in the restricted sample with nonmissing banking information; baseline tests re-estimated in IA Table4, as explicitly reported p25. Exact dependent-variable and column inventory unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2011",
+    "before": null,
+    "after": "Retain existence/design of this separately reported substantive robustness under DiD_conventional, but do not copy the four Table2A outcomes into IA Table4 without the supplement. The reference to baseline tests could include a different subset or scale. Coefficients, FE by column and magnitude comparisons not verified. Source: Sec4.4.1 p25; cited IA Table4. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: main-text summary only."
+  }
+]
+```
