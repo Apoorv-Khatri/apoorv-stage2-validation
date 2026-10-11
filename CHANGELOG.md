@@ -116811,3 +116811,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:38:51.577104+00:00 — Review 8SZBUU3X s8: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K577",
+    "before": null,
+    "after": "Retained nonbinary-treatment outcome; labels optional. No omitted numeric mean/SD row in focal figure/table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J201",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K201",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M201",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N201",
+    "before": null,
+    "after": "Actual current LTV10-percentage-point category profile on normalized income; omitted LTV30–40%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O201",
+    "before": null,
+    "after": "Linear category-dummy regression, NOT nonlinear estimator Other and NOT IV simply because reduced form is part of IV argument. Three identifying sets MSA×time, origination-date×time, HH, with explicit confounding discussion pp2972–74,2978. Nonbinary leverage/price dose profile rather than one implemented two-level assignment. Nonlinear response materially supports abstract/conclusion mechanism claim. Figure2 Panel B excluded as diagnostic-only placebo. Estimates plotted, no exact numeric coefficient table supplied. Actual LTV remains endogenous; retain author causal/mechanism interpretation without endorsing identification. Source: Figure1 p2979. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8SZBUU3X.pdf."
+  }
+]
+```
