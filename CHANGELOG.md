@@ -49932,3 +49932,258 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:15:14.629761+00:00 — Review 4QJKKD9J s11: source-audited coding and linked comparisons
+
+41 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1469",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1470",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1471",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1469",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1470",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1471",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1469",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1470",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1471",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1469",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1470",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1471",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1469",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1470",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1471",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1469",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1470",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1471",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1469",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1470",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1471",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1469",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1470",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1471",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1469",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1470",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1471",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1469",
+    "before": null,
+    "after": "Table5 p14: 0.0621, one treatment SD, IV col6; linked benchmark 0.329. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1470",
+    "before": null,
+    "after": "Table5 p14: 0.0658, one treatment SD, IV col7; linked benchmark 0.329. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1471",
+    "before": null,
+    "after": "Table5 p14: 0.0992, one treatment SD, IV col8; linked benchmark 0.329. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1469",
+    "before": null,
+    "after": "Deliberately paired coefficient and1880 mean; no outcome-SD comparison. Sample-wide baseline is not constructed for the instrument-induced continuous-MMA response margin; no complier/margin-specific mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1470",
+    "before": null,
+    "after": "Deliberately paired coefficient and1880 mean; no outcome-SD comparison. Sample-wide baseline is not constructed for the instrument-induced continuous-MMA response margin; no complier/margin-specific mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1471",
+    "before": null,
+    "after": "Deliberately paired coefficient and1880 mean; no outcome-SD comparison. Sample-wide baseline is not constructed for the instrument-induced continuous-MMA response margin; no complier/margin-specific mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K424",
+    "before": null,
+    "after": "Use full IV column block, not only preferred column. Change1880–1890 in manufacturing employment divided by male population over21."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I131",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J131",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K131",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L131",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M131",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N131",
+    "before": null,
+    "after": "Continuous standardized total Δlog MMA, population-threshold IV; Change1880–1890 in manufacturing employment divided by male population over21. Location: Published Table5, IV panel cols6–8,p14;Eq.(3),p11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O131",
+    "before": null,
+    "after": "147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. One excluded binary instrument I(population1880<6000); all other X variables, state FE and Loans_o/Loans_d are included controls, not additional excluded instruments. Endogenous receipt is continuous standardized change in log MMA, not binary bank presence. Eq.(2), pp9–11. Authors explicitly do not implement local RD due to sparse support near cutoff (p10). IV takes precedence over DiD.  Source: Published Table5, IV panel cols6–8,p14;Eq.(3),p11."
+  }
+]
+```
