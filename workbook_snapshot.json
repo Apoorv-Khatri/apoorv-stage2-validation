@@ -16519,7 +16519,16 @@
     "L1864": "1",
     "M1864": "n/a",
     "N1864": "Continuous standardized Δlog MMA−od25: hold national-bank network fixed within25miles; Change1880–1890 in manufacturing employment divided by male population over21. Location: Table5 upper panel col10,p14",
-    "O1864": "147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Different excluded-network dose from ΔMMA−O; not a new IV instrument. Source: Table5 upper panel col10,p14."
+    "O1864": "147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Different excluded-network dose from ΔMMA−O; not a new IV instrument. Source: Table5 upper panel col10,p14.",
+    "A1865": "4QJKKD9J",
+    "B1865": "h7",
+    "I1865": "1",
+    "J1865": "OLS",
+    "K1865": "1",
+    "L1865": "0",
+    "M1865": "n/a",
+    "N1865": "Above-median versus below-median change in MMA: substantive high/low-group comparison of cumulative patent growth by1910, normalized to1 in1880. Location: Published Fig4(a),Sec6.3,p15",
+    "O1865": "Regression-equivalent linear group contrast (not claimed to be a fitted OLS regression). Source uses this realized high/low contrast as supporting long-run causal pattern; no standalone adjusted DiD is implemented in panel(a). Do not substitute binary contrast for continuous panel(b). Group assignment uses changes in MMA; source does not explicitly identify panel(a) measure as−O. Causal-gate judgment is medium certainty: may be classified descriptive if scope requires explicit design implementation. Source: Published Fig4(a),Sec6.3,p15. Certainty: medium."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -48350,7 +48359,14 @@
     "A4470": "4QJKKD9J",
     "B4470": "h6",
     "C4470": "hy1",
-    "K4470": "Change1880–1890 in manufacturing employment divided by male population over21. Location: Table5 col10,p14"
+    "K4470": "Change1880–1890 in manufacturing employment divided by male population over21. Location: Table5 col10,p14",
+    "A4471": "4QJKKD9J",
+    "B4471": "h7",
+    "C4471": "hy1",
+    "H4471": "0",
+    "I4471": "unknown",
+    "J4471": "other",
+    "K4471": "Cumulative patent-growth ratio,5% winsorized,group-series normalized to1 in1880. This is not a binary patent indicator. Source does not establish zero mass. Exact averaging/denominator construction is incompletely reported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -63622,7 +63638,18 @@
     "O1472": "0",
     "P1472": "unknown",
     "Q1472": "Table5 p14: 0.0302, one treatment SD, col10; linked benchmark 0.329. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated.",
-    "R1472": "No explicit relative-magnitude sentence for this column. Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
+    "R1472": "No explicit relative-magnitude sentence for this column. Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels.",
+    "A1473": "4QJKKD9J",
+    "B1473": "h7",
+    "C1473": "hc1",
+    "K1473": "1",
+    "L1473": "hy1",
+    "M1473": "other_level",
+    "N1473": "1",
+    "O1473": "1",
+    "P1473": "n/a",
+    "Q1473": "Fig4(a),Sec6.3,p15: 1910 above-median series reported approximately1.3 times the below-median series; linked benchmark below-median group cumulative-growth level,1910. Population: Below-median realized-MMA-change locations,1910; each plotted series normalized to1 in1880.",
+    "R1473": "Fig4(a) describes cumulative patent growth for two location groups, normalized to1 in1880, and says the ratio of accumulated patents is approximately1.3 times larger in the above-median group by1910. It does not establish that the displayed group series is a sample outcome mean or its averaging weights. Treat the below-median normalized group-series level as other_level rather than inventing a group mean. This is distinct from the continuous-dose event-study coefficient1.3 in panel(b). Retention remains conditional on substantive causal interpretation of panel(a), not a claim of exogenous median assignment."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

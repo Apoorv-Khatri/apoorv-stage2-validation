@@ -50583,3 +50583,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:18:18.624311+00:00 — Review 4QJKKD9J h7: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1473",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1473",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1473",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1473",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1473",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1473",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1473",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1473",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1473",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1473",
+    "before": null,
+    "after": "Fig4(a),Sec6.3,p15: 1910 above-median series reported approximately1.3 times the below-median series; linked benchmark below-median group cumulative-growth level,1910. Population: Below-median realized-MMA-change locations,1910; each plotted series normalized to1 in1880."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1473",
+    "before": null,
+    "after": "Fig4(a) describes cumulative patent growth for two location groups, normalized to1 in1880, and says the ratio of accumulated patents is approximately1.3 times larger in the above-median group by1910. It does not establish that the displayed group series is a sample outcome mean or its averaging weights. Treat the below-median normalized group-series level as other_level rather than inventing a group mean. This is distinct from the continuous-dose event-study coefficient1.3 in panel(b). Retention remains conditional on substantive causal interpretation of panel(a), not a claim of exogenous median assignment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4471",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4471",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4471",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4471",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4471",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4471",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4471",
+    "before": null,
+    "after": "Cumulative patent-growth ratio,5% winsorized,group-series normalized to1 in1880. This is not a binary patent indicator. Source does not establish zero mass. Exact averaging/denominator construction is incompletely reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1865",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1865",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1865",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1865",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1865",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1865",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1865",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1865",
+    "before": null,
+    "after": "Above-median versus below-median change in MMA: substantive high/low-group comparison of cumulative patent growth by1910, normalized to1 in1880. Location: Published Fig4(a),Sec6.3,p15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1865",
+    "before": null,
+    "after": "Regression-equivalent linear group contrast (not claimed to be a fitted OLS regression). Source uses this realized high/low contrast as supporting long-run causal pattern; no standalone adjusted DiD is implemented in panel(a). Do not substitute binary contrast for continuous panel(b). Group assignment uses changes in MMA; source does not explicitly identify panel(a) measure as−O. Causal-gate judgment is medium certainty: may be classified descriptive if scope requires explicit design implementation. Source: Published Fig4(a),Sec6.3,p15. Certainty: medium."
+  }
+]
+```
