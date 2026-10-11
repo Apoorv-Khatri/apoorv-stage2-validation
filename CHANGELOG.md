@@ -34911,3 +34911,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:10:37.147570+00:00 — Review 3MVCXGJ3 s4: causal scope, outcomes and benchmark evidence
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H234",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H235",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H236",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H237",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I234",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I235",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I236",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I237",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J234",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J235",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J236",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J237",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K234",
+    "before": null,
+    "after": "Foreign cash acquisition indicator (Table6 col1); zero otherwise; probability effects ×100."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K235",
+    "before": null,
+    "after": "spurious within narrowed probit setting; count outcome retained under new setting h4 as hy1. Original model fields preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K236",
+    "before": null,
+    "after": "Domestic cash acquisition indicator (Table6 col3); zero otherwise; probability effects ×100."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K237",
+    "before": null,
+    "after": "spurious within narrowed probit setting; count outcome retained under new setting h4 as hy2. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I91",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J91",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K91",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L91",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M91",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N91",
+    "before": null,
+    "after": "AJCA tax-holiday exposure in 2005, foreign versus domestic acquisition likelihood; nonlinear probit and across-equation comparison of Year2005 effects. Narrow original row to probability outcomes. Location: Table6 cols1,3 p.190; Eq.(4) and discussion p.189; fn19 p.189"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O91",
+    "before": null,
+    "after": "Correct DiD_conventional to Other because actual outcome estimator is probit. Preserve nonlinear DiD/SUR interpretation in description; no linear DiD coefficient is reported. Policy timing is binary, not continuous because printed marginal effects use standardized regressor units. Foreign vs domestic is the policy-exposure contrast, not merely an unexplained post dummy. Domestic activity can itself respond to AJCA. Extended 2005–2006 probit/SUR robustness in fn19 grouped as a routine horizon/sample variant, t statistics 1.53 and2.09; across-equation p=.11. Exact extended effects not given. Source estimates: {\"foreign_pp\": -0.25, \"domestic_pp\": 2.1, \"difference_test_p\": 0.09}."
+  }
+]
+```
