@@ -16181,7 +16181,16 @@
     "L1839": "1",
     "M1839": "n/a",
     "N1839": "Civil-law versus common-law immediate Year2010 differential response to Deepwater Horizon oil spill; same three environmental outcomes.",
-    "O1839": "Conventional linear interaction DiD, not modern DiD or HDFE despite country/year/industry FE. Target is differential change in civil relative to common-law firms after the global shock, not the overall effect of the event. Maintained parallel trends; country FE remove time-invariant country heterogeneity, not differential time-varying shocks. TableVIII caption says country-clustered SE; Eq3 prose says firm/time clustering: preserve discrepancy. Separate immediate event-year estimand, not merely alternative standard errors/controls. Source: TableVIII PanelC cols4–6 p.884; p.886."
+    "O1839": "Conventional linear interaction DiD, not modern DiD or HDFE despite country/year/industry FE. Target is differential change in civil relative to common-law firms after the global shock, not the overall effect of the event. Maintained parallel trends; country FE remove time-invariant country heterogeneity, not differential time-varying shocks. TableVIII caption says country-clustered SE; Eq3 prose says firm/time clustering: preserve discrepancy. Separate immediate event-year estimand, not merely alternative standard errors/controls. Source: TableVIII PanelC cols4–6 p.884; p.886.",
+    "A1840": "4MXMWKXM",
+    "B1840": "h17",
+    "I1840": "1",
+    "J1840": "FE",
+    "K1840": "1",
+    "L1840": "0",
+    "M1840": "n/a",
+    "N1840": "Chinese milk scandal: post before/after effect on domestic food-industry market shares.",
+    "O1840": "Country/industry FE only; no year FE. This is an adjusted temporal contrast, not DiD because there is no comparison-group interaction. Causal effect attributed to shock in pp.890–893, but susceptible to secular changes. Printed domestic share effects are−20.18 and−6.387 while AppendixA defines a proportion; table does not disclose scaling. Preserve printed units, do not silently call these percentage points or fractions. Source: TableX PanelA p.891; SecIV.E pp.890,893 col1."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -47822,7 +47831,14 @@
     "H4445": "0",
     "I4445": "unknown",
     "J4445": "none",
-    "K4445": "Clean Energy Products score, a 0-100 measure of the extent to which the company develops products or technologies for clean renewable energy. No sample zero frequencies reported; zero support is not proof of observed zero mass."
+    "K4445": "Clean Energy Products score, a 0-100 measure of the extent to which the company develops products or technologies for clean renewable energy. No sample zero frequencies reported; zero support is not proof of observed zero mass.",
+    "A4446": "4MXMWKXM",
+    "B4446": "h17",
+    "C4446": "hy1",
+    "H4446": "0",
+    "I4446": "unknown",
+    "J4446": "none",
+    "K4446": "Domestic market share: sales/total domestic industry-year sales, all companies denominator. Printed domestic share effects are−20.18 and−6.387 while AppendixA defines a proportion; table does not disclose scaling. Preserve printed units, do not silently call these percentage points or fractions."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
