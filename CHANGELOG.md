@@ -44451,3 +44451,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:19:03.080193+00:00 — Review 4MXMWKXM s8: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H396",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I396",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J396",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K396",
+    "before": null,
+    "after": "Corporate cash donations scaled by total cash, measured as Ln(1 + cash donations/total cash) × 10^3, winsorized at the 1% level. Donations include direct cash giving and cash giving via a corporate foundation. 1000×log1p(donations/total cash), winsorized1%. Factor1000 is scaling, not SD normalization. No source establishes donation zeros; change original zero_mass1 to unknown. TableI names ASSET4; TableVIII says Datastream."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J117",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M117",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N117",
+    "before": null,
+    "after": "Civil-law versus common-law differential 2005 donation response to December2004 Indian Ocean tsunami; company cash donations/total cash."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O117",
+    "before": null,
+    "after": "Conventional linear interaction DiD, not modern DiD or HDFE despite country/year/industry FE. Target is differential change in civil relative to common-law firms after the global shock, not the overall effect of the event. Maintained parallel trends; country FE remove time-invariant country heterogeneity, not differential time-varying shocks. TableVIII caption says country-clustered SE; Eq3 prose says firm/time clustering: preserve discrepancy. Source: TableVIII PanelB col3 p.884; SecIV.B pp.883–885."
+  }
+]
+```
