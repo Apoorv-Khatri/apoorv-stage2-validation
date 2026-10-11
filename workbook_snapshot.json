@@ -15705,7 +15705,16 @@
     "L1806": "1",
     "M1806": "n/a",
     "N1806": "Table5 cols2-3 p.188: continuous lagged Predicted foreign cash-REPAT effect on FOREIGN-deal CAR(-2,+2), multiplied by100; identifying year, target-industry, target-country FE, HDFE. Full sample and BEA variants grouped; domestic cols5-6 split to h16.",
-    "O1806": "Generated cash proxy is not an IV treatment receipt estimator. Foreign target countries provide third FE dimension; domestic U.S.-only country dummy is constant and handled in h16. Coefficients -0.38/-0.39 percentage points; latter insignificant. No no-FE linear counterpart reported. Source estimates: {\"foreign_full_pp\": -0.38, \"foreign_BEA_pp\": -0.39, \"domestic_full_pp\": -0.04, \"domestic_BEA_pp\": -0.1}."
+    "O1806": "Generated cash proxy is not an IV treatment receipt estimator. Foreign target countries provide third FE dimension; domestic U.S.-only country dummy is constant and handled in h16. Coefficients -0.38/-0.39 percentage points; latter insignificant. No no-FE linear counterpart reported. Source estimates: {\"foreign_full_pp\": -0.38, \"foreign_BEA_pp\": -0.39, \"domestic_full_pp\": -0.04, \"domestic_BEA_pp\": -0.1}.",
+    "A1807": "3MVCXGJ3",
+    "B1807": "h4",
+    "I1807": "1",
+    "J1807": "Other",
+    "K1807": "1",
+    "L1807": "0",
+    "M1807": "n/a",
+    "N1807": "AJCA tax-holiday exposure in 2005, foreign versus domestic acquisition counts; negative-binomial models and across-equation comparison. Location: Table6 cols2,4 p.190; Eq.(5) and discussion p.189",
+    "O1807": "Split from s4 because count estimator/estimand differs from probit. Nonlinear DiD argument belongs in Other, not conventional linear DiD. No linked outcome mean/SD. Source estimates: {\"foreign\": -0.12, \"domestic\": 0.08, \"difference_test_p\": 0.1}."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46449,7 +46458,21 @@
     "A4330": "3MVCXGJ3",
     "B4330": "h3",
     "C4330": "hy1",
-    "K4330": "Five-day CAR(−2,+2) for foreign acquisition announcements ×100, percentage points; Table5 generated-proxy columns. Not outcome-SD standardized."
+    "K4330": "Five-day CAR(−2,+2) for foreign acquisition announcements ×100, percentage points; Table5 generated-proxy columns. Not outcome-SD standardized.",
+    "A4331": "3MVCXGJ3",
+    "B4331": "h4",
+    "C4331": "hy1",
+    "H4331": "0",
+    "I4331": "1",
+    "J4331": "none",
+    "K4331": "Number of foreign cash acquisitions in firm-year; Table6 col2. Counts include zero (extended sample contains original zero-count observations); no log transform of dependent variable merely because negative-binomial link is nonlinear.",
+    "A4332": "3MVCXGJ3",
+    "B4332": "h4",
+    "C4332": "hy2",
+    "H4332": "0",
+    "I4332": "1",
+    "J4332": "none",
+    "K4332": "Number of domestic cash acquisitions in firm-year; Table6 col4. Counts include zero (extended sample contains original zero-count observations); no log transform of dependent variable merely because negative-binomial link is nonlinear."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -35058,3 +35058,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:10:55.705236+00:00 — Review 3MVCXGJ3 h4: causal scope, outcomes and benchmark evidence
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4331",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4332",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4331",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4332",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4331",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4332",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4331",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4332",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4331",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4332",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4331",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4332",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4331",
+    "before": null,
+    "after": "Number of foreign cash acquisitions in firm-year; Table6 col2. Counts include zero (extended sample contains original zero-count observations); no log transform of dependent variable merely because negative-binomial link is nonlinear."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4332",
+    "before": null,
+    "after": "Number of domestic cash acquisitions in firm-year; Table6 col4. Counts include zero (extended sample contains original zero-count observations); no log transform of dependent variable merely because negative-binomial link is nonlinear."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1807",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1807",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1807",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1807",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1807",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1807",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1807",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1807",
+    "before": null,
+    "after": "AJCA tax-holiday exposure in 2005, foreign versus domestic acquisition counts; negative-binomial models and across-equation comparison. Location: Table6 cols2,4 p.190; Eq.(5) and discussion p.189"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1807",
+    "before": null,
+    "after": "Split from s4 because count estimator/estimand differs from probit. Nonlinear DiD argument belongs in Other, not conventional linear DiD. No linked outcome mean/SD. Source estimates: {\"foreign\": -0.12, \"domestic\": 0.08, \"difference_test_p\": 0.1}."
+  }
+]
+```
