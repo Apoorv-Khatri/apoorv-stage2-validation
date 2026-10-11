@@ -104583,3 +104583,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T05:51:12.843416+00:00 — Review 5IF5MIQQ h33: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4683",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4683",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4683",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4683",
+    "before": null,
+    "after": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E19",
+    "before": null,
+    "after": "DONE — Complete supplied article and included Appendix TablesA1-A3 reviewed. Split currency/treatment/estimator and substantive outcome omissions. Linear allocation regressions coded OLS with actual country/year/industry indicators documented, not automatic HDFE from dimension count. One outcome-mean comparison retained with unknown alignment; treatment-dollar normalizations rejected. Separate Internet Appendix could not be recovered: euro results coded only to explicit main-text scope; capital-controls h32 remains Human_keep=unknown and FinDep interaction coding remains unknown. Scope/identification/source-number uncertainties documented rather than guessed. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1969",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1969",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1969",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1969",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1969",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1969",
+    "before": null,
+    "after": "Lagged Cash-dose effect on USD share controlling carry-trade proxies, Tobit full/EME/AE samples Location: Table5 cols1,2,4–7, pp.721–722."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1969",
+    "before": null,
+    "after": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Text p722 independently emphasizes cash effect remains positive for EME; continuous Cash not conflated with carry proxy. Col3 binary-group interaction separately h3. Source: Table5 cols1,2,4–7, pp.721–722. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+  }
+]
+```

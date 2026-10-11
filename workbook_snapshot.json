@@ -72,6 +72,7 @@
     "B19": "Global Dollar Credit and Carry Trades: A Firm-Level Analysis",
     "C19": "fin",
     "D19": 11,
+    "E19": "DONE — Complete supplied article and included Appendix TablesA1-A3 reviewed. Split currency/treatment/estimator and substantive outcome omissions. Linear allocation regressions coded OLS with actual country/year/industry indicators documented, not automatic HDFE from dimension count. One outcome-mean comparison retained with unknown alignment; treatment-dollar normalizations rejected. Separate Internet Appendix could not be recovered: euro results coded only to explicit main-text scope; capital-controls h32 remains Human_keep=unknown and FinDep interaction coding remains unknown. Scope/identification/source-number uncertainties documented rather than guessed. Original model fields preserved.",
     "A20": "6T38MQ3Y",
     "B20": "Competition Links and Stock Returns",
     "C20": "fin",
@@ -17611,7 +17612,16 @@
     "L1968": "0",
     "M1968": "unknown",
     "N1968": "Capital-control stringency and incidence of carry trades; only reported main-text summary of own Internet Appendix test Location: Introduction p705.",
-    "O1968": "UNRESOLVED CAUSAL-SETTING CANDIDATE, not a confirmed inclusion. p705 establishes an own capital-controls result but says only associated with greater incidence of carry trades. Implemented estimator, treatment/outcome definitions and causal interpretation remain unresolved. Keep in audit candidate queue rather than mark an unverified new causal setting Human_keep=1. This is NOT exclusion merely because appendix is unavailable; h28/h29 have explicit main-text implementations and remain retained. Source: Introduction p705; Internet Appendix not recovered.. Retained visibly for follow-up rather than silently omitted; do not count as a confirmed causal setting. Source: Introduction p705. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: low; provisional candidate requiring supplement for detailed resolution."
+    "O1968": "UNRESOLVED CAUSAL-SETTING CANDIDATE, not a confirmed inclusion. p705 establishes an own capital-controls result but says only associated with greater incidence of carry trades. Implemented estimator, treatment/outcome definitions and causal interpretation remain unresolved. Keep in audit candidate queue rather than mark an unverified new causal setting Human_keep=1. This is NOT exclusion merely because appendix is unavailable; h28/h29 have explicit main-text implementations and remain retained. Source: Introduction p705; Internet Appendix not recovered.. Retained visibly for follow-up rather than silently omitted; do not count as a confirmed causal setting. Source: Introduction p705. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: low; provisional candidate requiring supplement for detailed resolution.",
+    "A1969": "5IF5MIQQ",
+    "B1969": "h33",
+    "I1969": "1",
+    "J1969": "Other",
+    "K1969": "0",
+    "L1969": "1",
+    "M1969": "n/a",
+    "N1969": "Lagged Cash-dose effect on USD share controlling carry-trade proxies, Tobit full/EME/AE samples Location: Table5 cols1,2,4–7, pp.721–722.",
+    "O1969": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Text p722 independently emphasizes cash effect remains positive for EME; continuous Cash not conflated with carry proxy. Col3 binary-group interaction separately h3. Source: Table5 cols1,2,4–7, pp.721–722. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50548,7 +50558,11 @@
     "H4682": "unknown",
     "I4682": "unknown",
     "J4682": "unknown",
-    "K4682": "Incidence of carry trades, as summarized p705; exact outcome definition, units and regression estimator unavailable in supplied PDF."
+    "K4682": "Incidence of carry trades, as summarized p705; exact outcome definition, units and regression estimator unavailable in supplied PDF.",
+    "A4683": "5IF5MIQQ",
+    "B4683": "h33",
+    "C4683": "hy1",
+    "K4683": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
