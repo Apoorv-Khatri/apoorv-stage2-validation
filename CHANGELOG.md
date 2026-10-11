@@ -114777,3 +114777,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:34:47.668321+00:00 — Review 7PCAD73D h33: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4728",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4729",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4730",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4728",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4729",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4730",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4728",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4729",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4730",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4728",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4729",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4730",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4728",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4729",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4730",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4728",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4729",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4730",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4728",
+    "before": null,
+    "after": "Next-quarter change in ln(total loan amounts)"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4729",
+    "before": null,
+    "after": "Next-quarter change in ln(number of loans)"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4730",
+    "before": null,
+    "after": "Next-quarter change in league-table rank based on market share"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1999",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1999",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1999",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1999",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1999",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1999",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1999",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1999",
+    "before": null,
+    "after": "Bank enforcement rate (violations/all loans) on next-quarter loan volume growth, loan count growth and league-table-rank change. Location: TableD.1B p.3519; interpretation p.3501"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1999",
+    "before": null,
+    "after": "Quarter FE throughout; lender FE even columns. Caption explicitly links FE to unobserved lender characteristics/secular trends. Main prose attributes indirect costs to enforcement; include despite correlational wording. Source: TableD.1B p.3519; interpretation p.3501. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+  }
+]
+```
