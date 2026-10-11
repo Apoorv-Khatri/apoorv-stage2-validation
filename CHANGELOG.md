@@ -38646,3 +38646,198 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:12:27.040183+00:00 — Review 4CG48IZI h4: source-audited coding and linked comparisons
+
+31 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4373",
+    "before": null,
+    "after": "4CG48IZI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4374",
+    "before": null,
+    "after": "4CG48IZI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4375",
+    "before": null,
+    "after": "4CG48IZI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4373",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4374",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4375",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4373",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4374",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4375",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4373",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4374",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4375",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4373",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4374",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4375",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4373",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4374",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4375",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4373",
+    "before": null,
+    "after": "Figure2 PanelA: cumulative log change inbond price fromd−5 tod+z,z=0,…,9, compared acrossTop10%versusBottom10%FIR groups. Graph uses fractional log-change units, not tablepercentage units. Group means first acrossmonths within eachcountry then acrosscountries, percaption. d−5 normalization and prerebalancing paths are diagnostic context, not separate causal outcomes. Transformother denotes log difference/cumulative growth, not loglevel. The mechanically zero baseline atd−5 does not establish an observed probability mass atzero for postwindow outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4374",
+    "before": null,
+    "after": "Figure2 PanelB: cumulative log change inabsolute bid-ask spread fromd−5 tod+z,z=0,…,9, compared acrossTop10%versusBottom10%FIR groups. Graph uses fractional log-change units, not tablepercentage units. Group means first acrossmonths within eachcountry then acrosscountries, percaption. d−5 normalization and prerebalancing paths are diagnostic context, not separate causal outcomes. Transformother denotes log difference/cumulative growth, not loglevel. The mechanically zero baseline atd−5 does not establish an observed probability mass atzero for postwindow outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4375",
+    "before": null,
+    "after": "Figure2 PanelC: cumulative log change inexchange rate (local currency perUSD) fromd−5 tod+z,z=0,…,9, compared acrossTop10%versusBottom10%FIR groups. Graph uses fractional log-change units, not tablepercentage units. Group means first acrossmonths within eachcountry then acrosscountries, percaption. d−5 normalization and prerebalancing paths are diagnostic context, not separate causal outcomes. Transformother denotes log difference/cumulative growth, not loglevel. The mechanically zero baseline atd−5 does not establish an observed probability mass atzero for postwindow outcomes."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E15",
+    "before": null,
+    "after": "DONE — Complete supplied main article reviewed, including all original settings/outcomes/comparisons and omissions. Added Table15 panel splits and Figure2 substantive extreme-dose contrast; diagnostic-only pre-date outcomes excluded. Linear regressions coded OLS/regression adjustment under the identifying-role requirement, retaining actual indicator controls in descriptions. Four treatment-SD comparisons rejected; Colombia same-outcome comparison added, with unaligned out-of-sample observed benchmark and explicitly inferred coefficient match. Separate Online Appendix not independently reviewed; source inconsistencies and graphical-inclusion judgment documented. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1823",
+    "before": null,
+    "after": "4CG48IZI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1823",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1823",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1823",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1823",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1823",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1823",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1823",
+    "before": null,
+    "after": "Top10% versus bottom10% of FIR distribution: unadjusted cumulative log-price,log-bid-ask-spread and log-exchange-rate trajectories fromd−5 tod+9; substantive mean contrast illustrated inFigure2. Figure2 PanelsA–C,p.386 and adjacent intro discussion"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1823",
+    "before": null,
+    "after": "No fitted regression claimed:OLS code denotes the linear weighted group-mean contrast. Averages are computed first acrossmonths for eachcountry then across16countries, percaption; this is not causal matching/weighting. Causal gate supported by intro callingFig2 an illustration of maineffects and describing divergent paths after rebalancing. This is a distinct binary extreme-dose contrast, not the continuous dose regression. Identification is weaker than adjusted regressions; no random assignment. Caption saysfirst/lastdecile, while legend explicitly saysTop10%/Bottom10%; uselegend and document wording ambiguity. No exact endpoint means or contrast coefficients printed; do not invent digitized values. Source: Figure2 PanelsA–C,p.386 and adjacent intro discussion. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4CG48IZI.pdf#page=3. Certainty: Medium causal-scope judgment forillustrativeFigure2; highcontrast coding.."
+  }
+]
+```
