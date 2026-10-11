@@ -107751,3 +107751,366 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:26:08.011830+00:00 — Review 7PCAD73D s2: source-audited coding and linked comparisons
+
+59 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2086",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2087",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2088",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2086",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2087",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2088",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2086",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2087",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2088",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K100",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2086",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2087",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K99",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L100",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2086",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2087",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2088",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L99",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M100",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2086",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2087",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2088",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M99",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N100",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2086",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2087",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2088",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N99",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O100",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2086",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2087",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2088",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O99",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P100",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2086",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2087",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2088",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P99",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q100",
+    "before": null,
+    "after": "Table2 p3483; prose p3482 says36.3%; focal estimate: .033 (3.3pp), col1; benchmark: 9.14% conditional breach enforcement mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2086",
+    "before": null,
+    "after": "Table2 p3483; focal estimate: .029, col2; benchmark: 9.44% conditional breach enforcement mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2087",
+    "before": null,
+    "after": "Table2 p3483; focal estimate: 0.031, col3; benchmark: 9.4% E[Enforcement|Breach=1]"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2088",
+    "before": null,
+    "after": "Table2 p3483; focal estimate: 0.032, col4; benchmark: 9.18% E[Enforcement|Breach=1]"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q99",
+    "before": null,
+    "after": "Table2 p3483; prose pp3483–3484 says51.6%; focal estimate: .032 (3.2pp), col5; benchmark: E[Enforcement|Breach=1]=6.24%"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R100",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2086",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2087",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2088",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R99",
+    "before": null,
+    "after": "Reported estimation-sample/conditional mean is not demonstrated to be the untreated target mean for the focal conditional interaction/regression contrast; exact reference weights and treatment status are not supplied."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J515",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I172",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J172",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K172",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L172",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M172",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N172",
+    "before": null,
+    "after": "Breach×STLender on Enforcement; Table2 columns1–5, including all identifying-FE/control variants. Effective one or two FE sets; retain all reported FE rows."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O172",
+    "before": null,
+    "after": "Observational linear interaction design, not an implemented treated/post parallel-trends DiD or a local-polynomial RD. EPS proximity and covenant threshold do not themselves make this RD. Breach×STLender measures differential breach-associated outcome for short-termist lenders, not an IV effect of actual enforcement. Authors acknowledge omitted unobservables and manipulation pp.3476,3484. Identifying FE, not HDFE: source reports Quarter, Industry×Quarter, Lender and Lender×Quarter rows cumulatively. Quarter is nested in Industry×Quarter; Lender is additionally nested in Lender×Quarter. Effective sets by baseline column: (1) quarter; (2) industry×quarter; (3) industry×quarter + lender; (4–5) industry×quarter + lender×quarter. Equation3 itself writes only the two interacted sets. Explicit pp3482–3483 discussion addresses confounding. Preserve every reported Yes/No row as source reporting, but do not count redundant sets as extra separately absorbed dimensions. Analogous year nesting applies to TableB.7. Routine FE/control variants at this table are grouped after nested-FE adjudication; no additional HDFE method is established. Source: Breach×STLender on Enforcement; Table2 columns1–5, including all identifying-FE/control variants. Effective one or two FE sets; retain all reported FE rows.. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+  }
+]
+```
