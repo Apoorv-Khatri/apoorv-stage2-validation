@@ -17359,7 +17359,16 @@
     "L1940": "0",
     "M1940": "n/a",
     "N1940": "Continuous FinDep and USD share among EME issuers, Tobit Location: Table6 col4, pp.724–725.",
-    "O1940": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Country/year FE, no industry FE; distinct outcome likelihood from MNL s4. Source: Table6 col4, pp.724–725. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+    "O1940": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Country/year FE, no industry FE; distinct outcome likelihood from MNL s4. Source: Table6 col4, pp.724–725. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf.",
+    "A1941": "5IF5MIQQ",
+    "B1941": "h5",
+    "I1941": "1",
+    "J1941": "Other",
+    "K1941": "1",
+    "L1941": "0",
+    "M1941": "n/a",
+    "N1941": "High versus low industry FinDep relative to median: conditional contrast over Cash values in EME multinomial logit Location: Table6 col2, pp.724–725.",
+    "O1941": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Continuous Cash is moderator for binary-group comparison. Both slopes positive for USD; their margins contrast not significant. No unconditional financial-constraint effect claimed. Source: Table6 col2, pp.724–725. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50045,7 +50054,21 @@
     "A4626": "5IF5MIQQ",
     "B4626": "h4",
     "C4626": "hy1",
-    "K4626": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization."
+    "K4626": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization.",
+    "A4627": "5IF5MIQQ",
+    "B4627": "h5",
+    "C4627": "hy1",
+    "H4627": "1",
+    "I4627": "1",
+    "J4627": "none",
+    "K4627": "USD-majority issuance category indicator relative to no issue; nonlinear MNL coefficient is not a probability-point marginal effect.",
+    "A4628": "5IF5MIQQ",
+    "B4628": "h5",
+    "C4628": "hy2",
+    "H4628": "1",
+    "I4628": "1",
+    "J4628": "none",
+    "K4628": "non-USD-majority issuance category indicator relative to no issue; nonlinear MNL coefficient is not a probability-point marginal effect."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
