@@ -30684,3 +30684,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:02:10.385432+00:00 — Review 3DI8S52Q s8: causal scope, outcomes and benchmark evidence
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K31",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R31",
+    "before": null,
+    "after": "Wrong benchmark and now wrong split: 3.39% of open interest is treatment magnitude, NOT return outcome baseline. The 8.2 versus 15.6 bps statement p.404 compares two conditional Q effects (large-loss modifier now h6), not an outcome-level benchmark; do not relabel an effect-versus-effect comparison as other_level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I84",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J84",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K84",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L84",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M84",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N84",
+    "before": null,
+    "after": "Table IX A pp.400-402: continuous commercial Q return slope and its modification by high commodity-specific implied volatility. Commodity-FE linear panel regression, weeks t+1/t+2, with/without high-VIX interaction. Other risk modifiers split into h5-h7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O84",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Q remains continuous; a binary moderator does not by itself make the focal dose treatment binary. Commodity FE remove time-invariant commodity heterogeneity. Main conclusion explicitly emphasized in introduction/conclusion. The roughly twice wording compares conditional Q effects, not effect to an outcome mean/SD or untreated outcome level."
+  }
+]
+```
