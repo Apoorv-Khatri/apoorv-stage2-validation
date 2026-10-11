@@ -106230,3 +106230,222 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:23:14.716380+00:00 — Review 6T38MQ3Y s7: source-audited coding and linked comparisons
+
+35 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K96",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K97",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K98",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L96",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L97",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L98",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M96",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M97",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M98",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N96",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N97",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N98",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O96",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O97",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O98",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P96",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P97",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P98",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q96",
+    "before": null,
+    "after": "Table8 p.4323/PDF24 and Figure6 p.4324/PDF25; all mentions, 1995–2017. Logit targeting dummy switched 0 (admired) to 1 (targeted), Billett–Xue score held at its sample mean. Figure6 baseline predicted probability 2.63%; upper-bar increment 2.24 percentage points. Prose reports 85% relative increase. This is a model-implied untreated baseline at the same covariate evaluation point, not the observed mean among admired firms. Prose gives 2.63%→4.88%; Figure6 prints 2.24 pp increment instead. Preserve both; do not silently reconcile the rounding discrepancy."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q97",
+    "before": null,
+    "after": "Table8 p.4323/PDF24 and Figure6 p.4324/PDF25; cross-sector mentions, 1995–2017. Logit targeting dummy switched 0 (admired) to 1 (targeted), Billett–Xue score held at its sample mean. Figure6 baseline predicted probability 2.24%; upper-bar increment 2.73 percentage points. Prose reports 122% relative increase. This is a model-implied untreated baseline at the same covariate evaluation point, not the observed mean among admired firms."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q98",
+    "before": null,
+    "after": "Table8 p.4323/PDF24 and Figure6 p.4324/PDF25; within-sector mentions, 1995–2017. Logit targeting dummy switched 0 (admired) to 1 (targeted), Billett–Xue score held at its sample mean. Figure6 baseline predicted probability 2.73%; upper-bar increment 2.09 percentage points. Prose reports 77% relative increase. This is a model-implied untreated baseline at the same covariate evaluation point, not the observed mean among admired firms."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R96",
+    "before": null,
+    "after": "Figure6 deliberately compares the same-logit dummy switch with its dummy=0 model-implied baseline, holding the takeover score at its mean. This establishes outcome/probability scale and intended conditional comparison, not the treatment-target population or weighting of reported firm/time FE. Figure6 does not state FE evaluation or averaging. Under the strict alignment rule, unknown rather than 1; not 0 because no definite mismatch is demonstrated. Retain eligibility, verbal=1, divided=1 and printed probability values."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R97",
+    "before": null,
+    "after": "Figure6 deliberately compares the same-logit dummy switch with its dummy=0 model-implied baseline, holding the takeover score at its mean. This establishes outcome/probability scale and intended conditional comparison, not the treatment-target population or weighting of reported firm/time FE. Figure6 does not state FE evaluation or averaging. Under the strict alignment rule, unknown rather than 1; not 0 because no definite mismatch is demonstrated. Retain eligibility, verbal=1, divided=1 and printed probability values."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R98",
+    "before": null,
+    "after": "Figure6 deliberately compares the same-logit dummy switch with its dummy=0 model-implied baseline, holding the takeover score at its mean. This establishes outcome/probability scale and intended conditional comparison, not the treatment-target population or weighting of reported firm/time FE. Figure6 does not state FE evaluation or averaging. Under the strict alignment rule, unknown rather than 1; not 0 because no definite mismatch is demonstrated. Retain eligibility, verbal=1, divided=1 and printed probability values."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H504",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I504",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J504",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K504",
+    "before": null,
+    "after": "Table8 p.4323/PDF24 defines a binary merger-target-announcement outcome in the next 12 months, explicitly 0 otherwise. Logit models the probability; it does not transform the observed dependent variable to log odds. Figure6 predictions are means/probabilities of this same indicator, not a second dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I163",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J163",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K163",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L163",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M163",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N163",
+    "before": null,
+    "after": "Table8/Figure6: logit of merger-target announcement within 12 months on targeted=1 versus admired=0 among mentioned firms, controlling for the Billett–Xue takeover score and reported firm/time FE. All, cross-sector and within-sector samples; probabilities evaluated by switching the dummy while holding the score at its mean."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O163",
+    "before": null,
+    "after": "Nonlinear logit remains Other, not FE/HDFE. The Billett–Xue fitted probability is an included control, not an excluded instrument. Firm/time FE are reported but probability-plot handling of individual FE is not detailed. p.4323 explicitly states recognition by larger firms increases acquisition likelihood. Preserve the small prose-versus-graph difference; see c1 and uncertainty audit. Source: §4, Table8 p.4323/PDF24 and Figure6 p.4324/PDF25; lines1537–1641.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574."
+  }
+]
+```
