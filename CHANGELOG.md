@@ -36912,3 +36912,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:07:09.446649+00:00 — Review 4CG48IZI s2: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K38",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R38",
+    "before": null,
+    "after": "Reject: reported SD is ofFIR,theTREATMENT,not of the dependent outcome. Multiplying a slope by treatmentSD and describing effect inbp/percentageunits is not a same-outcome magnitude comparison. other_level does not rescue a different-variable benchmark. Additional error:the0.82prose magnitude fitsTable5col4(−.943),notcol7(−1.057); see visual/arithmeticaudit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I95",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J95",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K95",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L95",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M95",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O95",
+    "before": null,
+    "after": "Same1/2/3categorical-set counts asTable4. Prose .82 effect maps numerically to col4 −.943×.871, not col7 −1.057×.871=−.920647. Outcome is log change in absolute bid-ask spread, not a percentage-point fall in relative spread. Preserve source wording but explain scale. Final method adjudication: OLS/regression adjustment with the stated time/country/maturity indicator controls, not a no-dummy regression. Eq.(3) and pp.388-393 locate identification in mechanically induced informationless flows and rebalancing timing; the source does not establish a separate identifying role of the FE battery. Mere indicator counts do not justify HDFE or automatic FE fallback. This strict-taxonomy judgment is distinguished from the clearly reported specification. Source: Table5 cols1–9,p.393; Eq.(3). Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4CG48IZI.pdf#page=10. Certainty: High on implemented linear dose design and coefficients; explicit strict-HDFE classification judgment.."
+  }
+]
+```
