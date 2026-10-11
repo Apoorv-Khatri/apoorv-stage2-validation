@@ -115284,3 +115284,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:35:23.292605+00:00 — Review 7PCAD73D h36: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4734",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4735",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4736",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4737",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4734",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4735",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4736",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4737",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4734",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4735",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4736",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4737",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4734",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4735",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4736",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4737",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4734",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4735",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4736",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4737",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4734",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4735",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4736",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4737",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4734",
+    "before": null,
+    "after": "Change in total investment scaled by lagged total assets"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4735",
+    "before": null,
+    "after": "Asset growth: change in total assets divided by lagged assets"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4736",
+    "before": null,
+    "after": "Indicator for bottom quartile of investment growth distribution"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4737",
+    "before": null,
+    "after": "Indicator for bottom decile of investment growth distribution"
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E21",
+    "before": null,
+    "after": "DONE — Complete supplied article and included Appendices A–D reviewed, including omissions. Identifying regressions coded FE after accounting for nested redundant quarter/lender main effects; routine method-only splits merged. Separate genuine Table7 OLS retained. Treatment/moderator, outcome-panel, appendix and structural-counterfactual omissions added. Table11 scale, Table14 denominator, Figure2 numerical conflicts and unreported footnote16 details explicitly unresolved. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2002",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2002",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2002",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2002",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2002",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2002",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2002",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2002",
+    "before": null,
+    "after": "Breach×STLender real-effects robustness with alternative investment growth/outcome and cut-threshold definitions, unreported numeric results. Location: Footnote16 p.3503"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2002",
+    "before": null,
+    "after": "Footnote16 p3503 reports robustness without numerical results. Retain FE as the Equation4 identifying-FE framework; exact battery is not reported. Do not claim a known HDFE implementation or invent coefficients. Detailed binary-treatment outcome coding remains required for each alternative outcome. Source: Footnote16 p.3503. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+  }
+]
+```
