@@ -16285,7 +16285,16 @@
     "L1849": "0",
     "M1849": "unknown",
     "N1849": "Shareholder Litigation component predicted from Civil Law Origin and controls, then related to overall IVA rating; two-stage generated-regressor channel analysis, Table XI column 2. Exact IV-equivalent implementation unresolved.",
-    "O1849": "Source explicitly says “not an IV regression” (Table XI) and explains that civil law may act through other channels (p.894). The fitted-regressor recipe would equal an IV estimator under compatible linear projections, but the paper does not specify exact first-stage estimator/weighting; reference to Table IV model (2) establishes controls only. Do not assert a verified excluded-instrument set or LATE. Retain as substantive channel evidence, not a diagnostic-only first stage. Human_method unknown is implementation uncertainty, not Other and not a rejection based on identification quality. The original channel is binary; the implemented predictor is fitted. Without resolving whether this is an IV effect of actual receipt or an association with its continuously fitted component, binary-treatment coding is unresolved. Retain detailed IVA outcome labels already supplied. Source: TableXI col2 p.895; SecV p.894. Certainty: medium; exact stage weights/projection estimator and author-denial interpretation unresolved."
+    "O1849": "Source explicitly says “not an IV regression” (Table XI) and explains that civil law may act through other channels (p.894). The fitted-regressor recipe would equal an IV estimator under compatible linear projections, but the paper does not specify exact first-stage estimator/weighting; reference to Table IV model (2) establishes controls only. Do not assert a verified excluded-instrument set or LATE. Retain as substantive channel evidence, not a diagnostic-only first stage. Human_method unknown is implementation uncertainty, not Other and not a rejection based on identification quality. The original channel is binary; the implemented predictor is fitted. Without resolving whether this is an IV effect of actual receipt or an association with its continuously fitted component, binary-treatment coding is unresolved. Retain detailed IVA outcome labels already supplied. Source: TableXI col2 p.895; SecV p.894. Certainty: medium; exact stage weights/projection estimator and author-denial interpretation unresolved.",
+    "A1850": "4MXMWKXM",
+    "B1850": "h27",
+    "I1850": "1",
+    "J1850": "unknown",
+    "K1850": "unknown",
+    "L1850": "0",
+    "M1850": "unknown",
+    "N1850": "Supermajority Rule component predicted from Civil Law Origin and controls, then related to overall IVA rating; two-stage generated-regressor channel analysis, Table XI column 4. Exact IV-equivalent implementation unresolved.",
+    "O1850": "Source explicitly says “not an IV regression” (Table XI) and explains that civil law may act through other channels (p.894). The fitted-regressor recipe would equal an IV estimator under compatible linear projections, but the paper does not specify exact first-stage estimator/weighting; reference to Table IV model (2) establishes controls only. Do not assert a verified excluded-instrument set or LATE. Retain as substantive channel evidence, not a diagnostic-only first stage. Human_method unknown is implementation uncertainty, not Other and not a rejection based on identification quality. The original channel is binary; the implemented predictor is fitted. Without resolving whether this is an IV effect of actual receipt or an association with its continuously fitted component, binary-treatment coding is unresolved. Retain detailed IVA outcome labels already supplied. Source: TableXI col4 p.895; SecV p.894. Certainty: medium; exact stage weights/projection estimator and author-denial interpretation unresolved."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -48046,7 +48055,14 @@
     "H4455": "0",
     "I4455": "unknown",
     "J4455": "none",
-    "K4455": "Overall MSCI IVA CSR rating, ordered integer0–6, in second-stage channel regression. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass."
+    "K4455": "Overall MSCI IVA CSR rating, ordered integer0–6, in second-stage channel regression. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass.",
+    "A4456": "4MXMWKXM",
+    "B4456": "h27",
+    "C4456": "hy1",
+    "H4456": "0",
+    "I4456": "unknown",
+    "J4456": "none",
+    "K4456": "Overall MSCI IVA CSR rating, ordered integer0–6, in second-stage channel regression. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
