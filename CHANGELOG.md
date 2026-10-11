@@ -118602,3 +118602,198 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:41:29.611594+00:00 — Review 8ZEJGZST s4: source-audited coding and linked comparisons
+
+31 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K125",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L124",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L125",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M124",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M125",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N125",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O125",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P124",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P125",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q124",
+    "before": null,
+    "after": "p27 Sec4.4.1; Table5A p31 col2 DRT(+4) multiple-lender LTD/assets +.052(SE.010), subsample mean .22; reported23.6%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q125",
+    "before": null,
+    "after": "p27 reports13.3%=(-.02/.15) for STD/assets in multiple-lender subgroup. Table5A p31 col5 has -.020(SE.007) at +3 and -.021(SE.010) at +4. Benchmark stated subgroup mean .15; horizon not explicit in sentence."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R124",
+    "before": null,
+    "after": "Mean for multiple-lender subgroup but period, treatment state and counterfactual weights not specified. Pre-DRT subgroup definition alone does not make mean an untreated baseline; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R125",
+    "before": null,
+    "after": "Do not assert -.021 at+4 exactly underlies prose-.020; it may be rounding or +3. Qualifying comparison retained once with unresolved focal horizon; mean period/untreated status/weights unreported, aligned unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H594",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H595",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H596",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I594",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I595",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I596",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J594",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J595",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J596",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I209",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J209",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K209",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L209",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M209",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O209",
+    "before": null,
+    "after": "Binary DRT access; fully saturated conventional event-time DiD, year -1 reference, firm/year FE, size-percentile dummies, state-specific linear trends and state-clustered SE. Controls/no-controls are routine variants, not OLS versus FE settings. Table5A pp31–32 is called Table4A in prose. Pre-DRT single/multiple lender groups are nonrandom; group-specific regressions/interacted controls and FE address observable trend differences. No trade-credit outcome in this panel (explicitly excluded by theory, p27). Short-term debt prose -.020 matches +3 not printed +4 -.021; preserve horizon ambiguity. Source: Sec4.4.1 pp25–28; Table5A p31. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
+  }
+]
+```
