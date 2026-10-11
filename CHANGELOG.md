@@ -106569,3 +106569,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:23:55.766396+00:00 — Review 6T38MQ3Y s10: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H508",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I508",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J508",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K508",
+    "before": null,
+    "after": "Reported outcome is monthly six-factor risk-adjusted excess-return alpha (Fama–French five factors plus momentum), in percent per month; other = factor adjustment, not log/standardization. No evidence establishing a point mass at zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J166",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L166",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M166",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N166",
+    "before": null,
+    "after": "Table11: mention-status and targeted/admired portfolio group contrasts separately for links connecting Hoberg–Phillips product-similarity peers and nonpeers; value-weighted monthly six-factor alphas. Binary mention/group contrasts, not a continuous HP distance treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O166",
+    "before": null,
+    "after": "p.4328 explicitly discusses the “competition-link effect” and says mentions between HP peers “generate higher returns.” Retain supporting mechanism robustness, but do not claim HP peer status is exogenous; groups can overlap at firm level. Baseline all-firms column duplicates Table6 evidence. Alpha-versus-alpha comparisons are effect-effect, not qualifying outcome benchmarks. Source: §6, Table11 p.4328/PDF29; lines1885–1938.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574. Certainty: moderate: table reports group alphas and prose contrasts."
+  }
+]
+```
