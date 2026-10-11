@@ -18332,7 +18332,16 @@
     "L2009": "0",
     "M2009": "n/a",
     "N2009": "DRT effects on Short in substantive robustness: excluding syndicated loans, excluding current LTD portion from numerator, state macro controls,1993 firms,balanced panel,industry×year FE; Table9 cols1–6 p38.",
-    "O2009": "Binary DRT access; fully saturated conventional event-time DiD, year -1 reference, firm/year FE, size-percentile dummies, state-specific linear trends and state-clustered SE. Controls/no-controls are routine variants, not OLS versus FE settings. Distinct robustness result location omitted from extraction. Group routine samples/controls; add alternative outcome definition for col2. Industry×year FE replace year FE in col6; do not count it as separate industry plus year dimensions or switch method to HDFE. Source: Sec4.6 pp36–38; Table9 p38. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
+    "O2009": "Binary DRT access; fully saturated conventional event-time DiD, year -1 reference, firm/year FE, size-percentile dummies, state-specific linear trends and state-clustered SE. Controls/no-controls are routine variants, not OLS versus FE settings. Distinct robustness result location omitted from extraction. Group routine samples/controls; add alternative outcome definition for col2. Industry×year FE replace year FE in col6; do not count it as separate industry plus year dimensions or switch method to HDFE. Source: Sec4.6 pp36–38; Table9 p38. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf.",
+    "A2010": "8ZEJGZST",
+    "B2010": "h5",
+    "I2010": "1",
+    "J2010": "Other",
+    "K2010": "1",
+    "L2010": "0",
+    "M2010": "n/a",
+    "N2010": "DRT effects on multiple-bank indicator using alternative logit; Internet Appendix Table2, summarized Sec4.3 p25.",
+    "O2010": "Actual logit estimator explicitly named. Appendix missing: exact coefficients, controls/FE by column and outcome construction not verified; do not fabricate. Not IV merely because DRT is quasi-experimental. Source: p25 Sec4.3; cited IA Table2. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf. Certainty: limited: main-text summary only."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52132,7 +52141,14 @@
     "H4748": "0",
     "I4748": "unknown",
     "J4748": "none",
-    "K4748": "Short excluding current portion of long-term debt from numerator only; denominator remains total debt. Table9 col2 p38."
+    "K4748": "Short excluding current portion of long-term debt from numerator only; denominator remains total debt. Table9 col2 p38.",
+    "A4749": "8ZEJGZST",
+    "B4749": "h5",
+    "C4749": "hy1",
+    "H4749": "1",
+    "I4749": "unknown",
+    "J4749": "none",
+    "K4749": "Multiple-bank indicator in alternative logit; Sec4.3 p25 citing IA Table2. Exact estimation-sample zero frequency not supplied."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
