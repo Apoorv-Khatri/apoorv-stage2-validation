@@ -37026,3 +37026,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:07:45.332581+00:00 — Review 4CG48IZI s4: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H251",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H252",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H253",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H254",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I251",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I252",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I253",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I254",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J251",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J252",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J253",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J254",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K251",
+    "before": null,
+    "after": "spurious in causal-outcome inventory: pre-rebalancing d−4 throughd−1 coefficients are diagnostic-only placebo/pretrend tests. Keep original fields; exclude this outcome from substantive on/after-rebalancing setting."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K252",
+    "before": null,
+    "after": "spurious in causal-outcome inventory: pre-rebalancing d−4 throughd−1 coefficients are diagnostic-only placebo/pretrend tests. Keep original fields; exclude this outcome from substantive on/after-rebalancing setting."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K253",
+    "before": null,
+    "after": "spurious in causal-outcome inventory: pre-rebalancing d−4 throughd−1 coefficients are diagnostic-only placebo/pretrend tests. Keep original fields; exclude this outcome from substantive on/after-rebalancing setting."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K254",
+    "before": null,
+    "after": "spurious in causal-outcome inventory: pre-rebalancing d−4 throughd−1 coefficients are diagnostic-only placebo/pretrend tests. Keep original fields; exclude this outcome from substantive on/after-rebalancing setting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I97",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J97",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K97",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L97",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M97",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N97",
+    "before": null,
+    "after": "Continuous baseline FIR effects on cumulative bond log returns from d−5 through d,d+1,d+2,d+3,d+4. Narrow to on/after-rebalancing substantive dynamics; pre-date columns are diagnostic only. Table7,p.395; Sec4.3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O97",
+    "before": null,
+    "after": "Retain substantive on/after-rebalancing dynamics, not pretrend-only columns. FE3sets, strict HDFE caveat. Do not classify modernDiD or invent a daily panel event-study estimator: each regression has cumulative event-window outcome. d+3 repeatsTable4col7, no extra comparison. Final method adjudication: OLS/regression adjustment with the stated time/country/maturity indicator controls, not a no-dummy regression. Eq.(3) and pp.388-393 locate identification in mechanically induced informationless flows and rebalancing timing; the source does not establish a separate identifying role of the FE battery. Mere indicator counts do not justify HDFE or automatic FE fallback. This strict-taxonomy judgment is distinguished from the clearly reported specification. Source: Table7,p.395; Sec4.3. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4CG48IZI.pdf#page=12. Certainty: High on implemented linear dose design and coefficients; explicit strict-HDFE classification judgment.."
+  }
+]
+```
