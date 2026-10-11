@@ -68148,3 +68148,918 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:28:23.866929+00:00 — Review 4X76IAGM s1: source-audited coding and linked comparisons
+
+151 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1672",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1673",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1674",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1675",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1676",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1677",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1678",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1679",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1680",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1681",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1672",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1673",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1674",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1675",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1676",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1677",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1678",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1679",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1680",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1681",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1672",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1673",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1674",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1675",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1676",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1677",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1678",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1679",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1680",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1681",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1672",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1673",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1675",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1677",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1679",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1680",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1681",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K69",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1672",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1673",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1674",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1675",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1676",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1677",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1678",
+    "before": null,
+    "after": "y7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1679",
+    "before": null,
+    "after": "y8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1680",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1681",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1672",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1673",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1674",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1675",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1676",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1677",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1678",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1679",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1680",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1681",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1672",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1673",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1674",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1675",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1677",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1679",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1680",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1681",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1672",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1673",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1675",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1677",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1679",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1680",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1681",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1672",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1673",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1675",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1676",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1677",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1679",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1680",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1681",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1672",
+    "before": null,
+    "after": "Table7 row \"Total lender profits\", col3: -67.66% relative to col1 no-crackdown 3.08 S$m; col2 crackdown level 1 S$m. Target is same model-simulated2014–2016 loan market under baseline primitives."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1673",
+    "before": null,
+    "after": "Table7 row \"Total loan volume\", col3: -48.64% relative to col1 no-crackdown 2.63 S$m; col2 crackdown level 1.35 S$m. Target is same model-simulated2014–2016 loan market under baseline primitives."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1674",
+    "before": null,
+    "after": "Table7 row \"Average harassment probability chosen\", col3: -51.10% relative to col1 no-crackdown 0.17 probability; col2 crackdown level 0.08 probability. Target is same model-simulated2014–2016 loan market under baseline primitives."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1675",
+    "before": null,
+    "after": "Table7 row \"Total interest revenue\", col3: -4.75% relative to col1 no-crackdown 6.99 S$m; col2 crackdown level 6.66 S$m. Target is same model-simulated2014–2016 loan market under baseline primitives."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1676",
+    "before": null,
+    "after": "Table7 row \"Total harassment costs\", col3: +235.88% relative to col1 no-crackdown 1.28 S$m; col2 crackdown level 4.31 S$m. Target is same model-simulated2014–2016 loan market under baseline primitives."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1677",
+    "before": null,
+    "after": "Table7 row \"Average borrower surplus\", col3: -12.38% relative to col1 no-crackdown 0.51 S$000; col2 crackdown level 0.45 S$000. Target is same model-simulated2014–2016 loan market under baseline primitives."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1678",
+    "before": null,
+    "after": "Table7 row \"Average number missed payments\", col3: +30.78% relative to col1 no-crackdown 4.58 payments/loan; col2 crackdown level 6 payments/loan. Target is same model-simulated2014–2016 loan market under baseline primitives."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1679",
+    "before": null,
+    "after": "Table7 row \"Average number times harassed\", col3: +31.02% relative to col1 no-crackdown 1.93 harassments/loan; col2 crackdown level 2.52 harassments/loan. Target is same model-simulated2014–2016 loan market under baseline primitives."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1680",
+    "before": null,
+    "after": "Sec6.1.1 p.16: harsh lenders reduced average harassment probability from20.6% to11.4%. Same model crackdown/no-crackdown2014–2016 comparison, conditional on lender type."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1681",
+    "before": null,
+    "after": "Sec6.1.1 p.16: very harsh lenders reduced average harassment probability from28.2% to16.4%. Same model crackdown/no-crackdown2014–2016 comparison, conditional on lender type."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1672",
+    "before": null,
+    "after": "Eligible outcome normalization; not merely a percentage/log interpretation. Means aligned within maintained model because no-crackdown counterfactual is simulated for the same intervention population/horizon. Printed percentages use unrounded calculations; do not recompute from rounded levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1673",
+    "before": null,
+    "after": "Eligible outcome normalization; not merely a percentage/log interpretation. Means aligned within maintained model because no-crackdown counterfactual is simulated for the same intervention population/horizon. Printed percentages use unrounded calculations; do not recompute from rounded levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1674",
+    "before": null,
+    "after": "Eligible outcome normalization; not merely a percentage/log interpretation. Means aligned within maintained model because no-crackdown counterfactual is simulated for the same intervention population/horizon. Printed percentages use unrounded calculations; do not recompute from rounded levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1675",
+    "before": null,
+    "after": "Eligible outcome normalization; not merely a percentage/log interpretation. Means aligned within maintained model because no-crackdown counterfactual is simulated for the same intervention population/horizon. Printed percentages use unrounded calculations; do not recompute from rounded levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1676",
+    "before": null,
+    "after": "Eligible outcome normalization; not merely a percentage/log interpretation. Means aligned within maintained model because no-crackdown counterfactual is simulated for the same intervention population/horizon. Printed percentages use unrounded calculations; do not recompute from rounded levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1677",
+    "before": null,
+    "after": "Eligible outcome normalization; not merely a percentage/log interpretation. Means aligned within maintained model because no-crackdown counterfactual is simulated for the same intervention population/horizon. Printed percentages use unrounded calculations; do not recompute from rounded levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1678",
+    "before": null,
+    "after": "Eligible outcome normalization; not merely a percentage/log interpretation. Means aligned within maintained model because no-crackdown counterfactual is simulated for the same intervention population/horizon. Printed percentages use unrounded calculations; do not recompute from rounded levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1679",
+    "before": null,
+    "after": "Eligible outcome normalization; not merely a percentage/log interpretation. Means aligned within maintained model because no-crackdown counterfactual is simulated for the same intervention population/horizon. Printed percentages use unrounded calculations; do not recompute from rounded levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1680",
+    "before": null,
+    "after": "Separate subgroup average from aggregate Table7/y3; do not count as binary realized harassment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1681",
+    "before": null,
+    "after": "Separate subgroup average from aggregate Table7/y3; do not count as binary realized harassment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R69",
+    "before": null,
+    "after": "Wrong setting and wrong outcome link:5.7pp/.272 refers to external-party harassment regression TableA.6 col4, retained as s11/c1; not structural number of times harassed s1/y8. Duplicate cross-setting evidence."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H428",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H429",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H430",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H431",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H432",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H433",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I428",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I429",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I430",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I431",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I432",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I433",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I434",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I435",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J428",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J429",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J430",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J431",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J432",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J433",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J434",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J435",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K428",
+    "before": null,
+    "after": "Total lender profits, in millions of Singapore dollars, aggregated over the simulated market. Model-simulated outcome in Table7; level and percent-change reporting are distinguished in comparisons."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K429",
+    "before": null,
+    "after": "Total loan volume, in millions of Singapore dollars, aggregated over the simulated market. Model-simulated outcome in Table7; level and percent-change reporting are distinguished in comparisons."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K430",
+    "before": null,
+    "after": "Average harassment probability chosen by lenders following a missed payment. Model-simulated outcome in Table7; level and percent-change reporting are distinguished in comparisons."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K431",
+    "before": null,
+    "after": "Total interest revenue, in millions of Singapore dollars, aggregated over the simulated market. Model-simulated outcome in Table7; level and percent-change reporting are distinguished in comparisons."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K432",
+    "before": null,
+    "after": "Total harassment costs, in millions of Singapore dollars, aggregated over the simulated market. Model-simulated outcome in Table7; level and percent-change reporting are distinguished in comparisons."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K433",
+    "before": null,
+    "after": "Average model borrower surplus, certainty-equivalent weekly monetary amount (S$000), evaluated with week-zero preferences at stated discount factors; Table7."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K434",
+    "before": null,
+    "after": "Average number of missed payments per loan. Model-simulated outcome in Table7; level and percent-change reporting are distinguished in comparisons."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K435",
+    "before": null,
+    "after": "Average number of times harassed per loan. Model-simulated outcome in Table7; level and percent-change reporting are distinguished in comparisons."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I135",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J135",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K135",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L135",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M135",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N135",
+    "before": null,
+    "after": "2014 crackdown versus simulated no-crackdown regime; higher harassment costs, cartel rate increase and lender exits; Table7 col3, 2014–2016."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O135",
+    "before": null,
+    "after": "Estimated nonlinear structural model, not IV, RCT or DiD. Assumes model primitives invariant under interventions; common cartel rate is taken as given except in rate-grid exercises. No randomized assignment or implemented excluded-instrument first stage. Source: Sec6.1.1, Table7 cols1–3, p.16. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=16."
+  }
+]
+```
