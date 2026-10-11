@@ -90390,3 +90390,1014 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:48:51.277885+00:00 — Review 4X76IAGM h21: source-audited coding and linked comparisons
+
+167 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1948",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1949",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1950",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1951",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1952",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1953",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1954",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1955",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1956",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1957",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1958",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1959",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1960",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1961",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1948",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1949",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1950",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1951",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1952",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1953",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1954",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1955",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1956",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1957",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1958",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1959",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1960",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1961",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1948",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1949",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1950",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1951",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1952",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1953",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1954",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1955",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1956",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1957",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1958",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1959",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1960",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1961",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1948",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1949",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1950",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1951",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1952",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1953",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1954",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1955",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1956",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1957",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1958",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1959",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1960",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1961",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1948",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1949",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1950",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1951",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1952",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1953",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1954",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1955",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1956",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1957",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1958",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1959",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1960",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1961",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1948",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1949",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1950",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1951",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1952",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1953",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1954",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1955",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1956",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1957",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1958",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1959",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1960",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1961",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1948",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1949",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1950",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1951",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1952",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1953",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1954",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1955",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1956",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1957",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1958",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1959",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1960",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1961",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1948",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1949",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1950",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1951",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1952",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1953",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1954",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1955",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1956",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1957",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1958",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1959",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1960",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1961",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1948",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1949",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1950",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1951",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1952",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1953",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1954",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1955",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1956",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1957",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1958",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1959",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1960",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1961",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1948",
+    "before": null,
+    "after": "FigA.4 2009–2013 series, x=15% nominal rate; y-axis \"% Change in Total Lender Profits Relative to Baseline\". Benchmark is same-period market profit at20% rate; absolute profit and exact y value not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1949",
+    "before": null,
+    "after": "FigA.4 2009–2013 series, x=25% nominal rate; y-axis \"% Change in Total Lender Profits Relative to Baseline\". Benchmark is same-period market profit at20% rate; absolute profit and exact y value not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1950",
+    "before": null,
+    "after": "FigA.4 2009–2013 series, x=30% nominal rate; y-axis \"% Change in Total Lender Profits Relative to Baseline\". Benchmark is same-period market profit at20% rate; absolute profit and exact y value not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1951",
+    "before": null,
+    "after": "FigA.4 2009–2013 series, x=35% nominal rate; y-axis \"% Change in Total Lender Profits Relative to Baseline\". Benchmark is same-period market profit at20% rate; absolute profit and exact y value not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1952",
+    "before": null,
+    "after": "FigA.4 2009–2013 series, x=40% nominal rate; y-axis \"% Change in Total Lender Profits Relative to Baseline\". Benchmark is same-period market profit at20% rate; absolute profit and exact y value not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1953",
+    "before": null,
+    "after": "FigA.4 2009–2013 series, x=45% nominal rate; y-axis \"% Change in Total Lender Profits Relative to Baseline\". Benchmark is same-period market profit at20% rate; absolute profit and exact y value not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1954",
+    "before": null,
+    "after": "FigA.4 2009–2013 series, x=50% nominal rate; y-axis \"% Change in Total Lender Profits Relative to Baseline\". Benchmark is same-period market profit at20% rate; absolute profit and exact y value not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1955",
+    "before": null,
+    "after": "FigA.4 2015–2016 series, x=15% nominal rate; y-axis \"% Change in Total Lender Profits Relative to Baseline\". Benchmark is same-period market profit at35% rate; absolute profit and exact y value not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1956",
+    "before": null,
+    "after": "FigA.4 2015–2016 series, x=20% nominal rate; y-axis \"% Change in Total Lender Profits Relative to Baseline\". Benchmark is same-period market profit at35% rate; absolute profit and exact y value not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1957",
+    "before": null,
+    "after": "FigA.4 2015–2016 series, x=25% nominal rate; y-axis \"% Change in Total Lender Profits Relative to Baseline\". Benchmark is same-period market profit at35% rate; absolute profit and exact y value not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1958",
+    "before": null,
+    "after": "FigA.4 2015–2016 series, x=30% nominal rate; y-axis \"% Change in Total Lender Profits Relative to Baseline\". Benchmark is same-period market profit at35% rate; absolute profit and exact y value not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1959",
+    "before": null,
+    "after": "FigA.4 2015–2016 series, x=40% nominal rate; y-axis \"% Change in Total Lender Profits Relative to Baseline\". Benchmark is same-period market profit at35% rate; absolute profit and exact y value not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1960",
+    "before": null,
+    "after": "FigA.4 2015–2016 series, x=45% nominal rate; y-axis \"% Change in Total Lender Profits Relative to Baseline\". Benchmark is same-period market profit at35% rate; absolute profit and exact y value not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1961",
+    "before": null,
+    "after": "FigA.4 2015–2016 series, x=50% nominal rate; y-axis \"% Change in Total Lender Profits Relative to Baseline\". Benchmark is same-period market profit at35% rate; absolute profit and exact y value not tabulated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1948",
+    "before": null,
+    "after": "One record per distinct plotted rate×period. Baseline-rate self-comparison omitted because no treatment change. Figure ends50%; no record invented for prose-only55%. Exact point percentages and denominator pairing appear graphically; broad maximizing-rate discussion is not counted as an additional numerical verbal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1949",
+    "before": null,
+    "after": "One record per distinct plotted rate×period. Baseline-rate self-comparison omitted because no treatment change. Figure ends50%; no record invented for prose-only55%. Exact point percentages and denominator pairing appear graphically; broad maximizing-rate discussion is not counted as an additional numerical verbal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1950",
+    "before": null,
+    "after": "One record per distinct plotted rate×period. Baseline-rate self-comparison omitted because no treatment change. Figure ends50%; no record invented for prose-only55%. Exact point percentages and denominator pairing appear graphically; broad maximizing-rate discussion is not counted as an additional numerical verbal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1951",
+    "before": null,
+    "after": "One record per distinct plotted rate×period. Baseline-rate self-comparison omitted because no treatment change. Figure ends50%; no record invented for prose-only55%. Exact point percentages and denominator pairing appear graphically; broad maximizing-rate discussion is not counted as an additional numerical verbal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1952",
+    "before": null,
+    "after": "One record per distinct plotted rate×period. Baseline-rate self-comparison omitted because no treatment change. Figure ends50%; no record invented for prose-only55%. Exact point percentages and denominator pairing appear graphically; broad maximizing-rate discussion is not counted as an additional numerical verbal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1953",
+    "before": null,
+    "after": "One record per distinct plotted rate×period. Baseline-rate self-comparison omitted because no treatment change. Figure ends50%; no record invented for prose-only55%. Exact point percentages and denominator pairing appear graphically; broad maximizing-rate discussion is not counted as an additional numerical verbal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1954",
+    "before": null,
+    "after": "One record per distinct plotted rate×period. Baseline-rate self-comparison omitted because no treatment change. Figure ends50%; no record invented for prose-only55%. Exact point percentages and denominator pairing appear graphically; broad maximizing-rate discussion is not counted as an additional numerical verbal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1955",
+    "before": null,
+    "after": "One record per distinct plotted rate×period. Baseline-rate self-comparison omitted because no treatment change. Figure ends50%; no record invented for prose-only55%. Exact point percentages and denominator pairing appear graphically; broad maximizing-rate discussion is not counted as an additional numerical verbal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1956",
+    "before": null,
+    "after": "One record per distinct plotted rate×period. Baseline-rate self-comparison omitted because no treatment change. Figure ends50%; no record invented for prose-only55%. Exact point percentages and denominator pairing appear graphically; broad maximizing-rate discussion is not counted as an additional numerical verbal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1957",
+    "before": null,
+    "after": "One record per distinct plotted rate×period. Baseline-rate self-comparison omitted because no treatment change. Figure ends50%; no record invented for prose-only55%. Exact point percentages and denominator pairing appear graphically; broad maximizing-rate discussion is not counted as an additional numerical verbal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1958",
+    "before": null,
+    "after": "One record per distinct plotted rate×period. Baseline-rate self-comparison omitted because no treatment change. Figure ends50%; no record invented for prose-only55%. Exact point percentages and denominator pairing appear graphically; broad maximizing-rate discussion is not counted as an additional numerical verbal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1959",
+    "before": null,
+    "after": "One record per distinct plotted rate×period. Baseline-rate self-comparison omitted because no treatment change. Figure ends50%; no record invented for prose-only55%. Exact point percentages and denominator pairing appear graphically; broad maximizing-rate discussion is not counted as an additional numerical verbal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1960",
+    "before": null,
+    "after": "One record per distinct plotted rate×period. Baseline-rate self-comparison omitted because no treatment change. Figure ends50%; no record invented for prose-only55%. Exact point percentages and denominator pairing appear graphically; broad maximizing-rate discussion is not counted as an additional numerical verbal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1961",
+    "before": null,
+    "after": "One record per distinct plotted rate×period. Baseline-rate self-comparison omitted because no treatment change. Figure ends50%; no record invented for prose-only55%. Exact point percentages and denominator pairing appear graphically; broad maximizing-rate discussion is not counted as an additional numerical verbal comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4600",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4600",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4600",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4600",
+    "before": null,
+    "after": "Total lender profits; FigureA.4 percentage changes relative to baseline rate for each period."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1925",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1925",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1925",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1925",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1925",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1925",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1925",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1925",
+    "before": null,
+    "after": "Alternative common cartel rates and total lender profits,2009–2013 versus2015–2016, re-estimated model without lender information asymmetry."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1925",
+    "before": null,
+    "after": "Same rate-grid logic as s4; visible15–50% in5pp steps. Separate result location and structural robustness. Source: SecA.10, FigA.4 appendix p.25. Source link: https://ars.els-cdn.com/content/image/1-s2.0-S0304405X2400117X-mmc1.pdf#page=25."
+  }
+]
+```
