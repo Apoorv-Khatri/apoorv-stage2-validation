@@ -17056,7 +17056,16 @@
     "L1915": "0",
     "M1915": "n/a",
     "N1915": "Crackdown-induced lender exit/consideration-set removal in isolation versus reinstated pre-crackdown lenders.",
-    "O1915": "Substantive structural decomposition implemented but omitted from table because no meaningful effect on loan outcomes. Exact outcome-specific coefficients unavailable; preserve broad outcome and uncertainty instead of fabricating zeros. Source: Sec4.2 p.13; Sec6.1.1 p.16 fn16. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=16."
+    "O1915": "Substantive structural decomposition implemented but omitted from table because no meaningful effect on loan outcomes. Exact outcome-specific coefficients unavailable; preserve broad outcome and uncertainty instead of fabricating zeros. Source: Sec4.2 p.13; Sec6.1.1 p.16 fn16. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=16.",
+    "A1916": "4X76IAGM",
+    "B1916": "h12",
+    "I1916": "1",
+    "J1916": "Other",
+    "K1916": "1",
+    "L1916": "0",
+    "M1916": "n/a",
+    "N1916": "Remove borrowers selected from gamblers until5% of total loan demand is removed; compare market lender profits with no removal.",
+    "O1916": "Randomly draw eligible borrowers1000 times; report mean decrease4.4–5.2% across four targeting policies, without mapping exact number to each policy. Simulated selection, not an empirical RCT. Distinct targeted-population treatments split. Fixed rate/harassment assumption inherited from Sec6.2. Source: Sec6.2 pp.18–19, untabulated trait-targeting experiment. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=19."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -49398,7 +49407,14 @@
     "H4567": "unknown",
     "I4567": "unknown",
     "J4567": "unknown",
-    "K4567": "Loan outcomes/payoffs under changing borrower consideration sets alone; source reports no meaningful impact but does not enumerate estimates."
+    "K4567": "Loan outcomes/payoffs under changing borrower consideration sets alone; source reports no meaningful impact but does not enumerate estimates.",
+    "A4568": "4X76IAGM",
+    "B4568": "h12",
+    "C4568": "hy1",
+    "H4568": "0",
+    "I4568": "unknown",
+    "J4568": "other",
+    "K4568": "Total lender profits: mean percentage decrease across1000 simulated target-population removal draws, relative to market without removal."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -69377,7 +69393,18 @@
     "O1899": "1",
     "P1899": "1",
     "Q1899": "Sec6.1.1 p.16: under annual .95 discount factor/no present bias borrower surplus decreases8.9% (rather than12.4% under stated discounting).",
-    "R1899": "Compare to no-crackdown outcome, not to the−12.4% effect. Same-target model welfare construction establishes alignment."
+    "R1899": "Compare to no-crackdown outcome, not to the−12.4% effect. Same-target model welfare construction establishes alignment.",
+    "A1900": "4X76IAGM",
+    "B1900": "h12",
+    "C1900": "hc1",
+    "K1900": "1",
+    "L1900": "hy1",
+    "M1900": "other_level",
+    "N1900": "1",
+    "O1900": "1",
+    "P1900": "n/a",
+    "Q1900": "Sec6.2 pp.18–19: randomly removegamblers until5% of total loan demand removed, repeat1000 times; mean total lender-profit decrease falls within source range4.4–5.2% across the four policies.",
+    "R1900": "Do not allocate an invented exact endpoint to this trait; range explicitly bounds each of the four implemented effects."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
