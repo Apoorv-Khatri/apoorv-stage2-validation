@@ -40068,3 +40068,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:14:43.183024+00:00 — Review 4MXMWKXM h5: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4380",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4380",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4380",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4380",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4380",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4380",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4380",
+    "before": null,
+    "after": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass. Ordered-probit coefficients are latent-index effects; observed rating remains untransformed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1828",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1828",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1828",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1828",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1828",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1828",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1828",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1828",
+    "before": null,
+    "after": "German civil legal origin versus English common law; Random-effects ordered probit; overall IVA CSR rating0–6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1828",
+    "before": null,
+    "after": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Ordered-probit coefficients are latent-index effects, not rating-point or probability changes. Col7 relabels socialist countries; it belongs here, not GLS s2. Source: TableIV cols6–7 pp.873–875."
+  }
+]
+```
