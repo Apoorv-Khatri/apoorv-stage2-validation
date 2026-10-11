@@ -17593,7 +17593,16 @@
     "L1966": "1",
     "M1966": "n/a",
     "N1966": "Alternative Carry Trade proxy: interest differential divided by annualized SD of realized exchange-rate changes, USD-share Tobit Location: Sec3.3 p721 untabulated alternative to Table5.",
-    "O1966": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Separate constructed treatment from option-implied volatility and Bloomberg return index. Same results reported; no numbers. Exact transformed scale not independently restated; likely inherited log1p but do not assert as verified. Source: Sec3.3 p721 untabulated alternative to Table5. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium: estimator inherited, transformation not restated."
+    "O1966": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Separate constructed treatment from option-implied volatility and Bloomberg return index. Same results reported; no numbers. Exact transformed scale not independently restated; likely inherited log1p but do not assert as verified. Source: Sec3.3 p721 untabulated alternative to Table5. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium: estimator inherited, transformation not restated.",
+    "A1967": "5IF5MIQQ",
+    "B1967": "h31",
+    "I1967": "1",
+    "J1967": "Other",
+    "K1967": "unknown",
+    "L1967": "0",
+    "M1967": "n/a",
+    "N1967": "Untabulated financial-dependence interaction robustness for EME USD-share Tobit; high/low FinDep thresholds Location: Sec3.4.1 p725 final paragraph.",
+    "O1967": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Source literally says interact FinDep with dummy variables High FinDep and Low FinDep as in Column(2), but col2 actually interacts Cash. Thus treatment could be continuous piecewise FinDep or binary-group conditional Cash contrast. Keep one unresolved implemented Tobit setting rather than silently correcting source; no estimates printed. Source: Sec3.4.1 p725 final paragraph. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: low treatment definition; high that robustness performed."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50516,7 +50525,14 @@
     "A4680": "5IF5MIQQ",
     "B4680": "h30",
     "C4680": "hy1",
-    "K4680": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization."
+    "K4680": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization.",
+    "A4681": "5IF5MIQQ",
+    "B4681": "h31",
+    "C4681": "hy1",
+    "H4681": "0",
+    "I4681": "unknown",
+    "J4681": "none",
+    "K4681": "USD share among EME issuers, untabulated Tobit p725. Parent binary status unresolved due FinDep-versus-Cash textual ambiguity."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

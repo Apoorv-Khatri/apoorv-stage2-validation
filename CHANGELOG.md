@@ -104373,3 +104373,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T05:50:48.600664+00:00 — Review 5IF5MIQQ h31: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4681",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4681",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4681",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4681",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4681",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4681",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4681",
+    "before": null,
+    "after": "USD share among EME issuers, untabulated Tobit p725. Parent binary status unresolved due FinDep-versus-Cash textual ambiguity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1967",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1967",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1967",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1967",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1967",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1967",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1967",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1967",
+    "before": null,
+    "after": "Untabulated financial-dependence interaction robustness for EME USD-share Tobit; high/low FinDep thresholds Location: Sec3.4.1 p725 final paragraph."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1967",
+    "before": null,
+    "after": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Source literally says interact FinDep with dummy variables High FinDep and Low FinDep as in Column(2), but col2 actually interacts Cash. Thus treatment could be continuous piecewise FinDep or binary-group conditional Cash contrast. Keep one unresolved implemented Tobit setting rather than silently correcting source; no estimates printed. Source: Sec3.4.1 p725 final paragraph. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: low treatment definition; high that robustness performed."
+  }
+]
+```
