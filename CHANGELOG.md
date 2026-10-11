@@ -102177,3 +102177,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T05:47:06.284439+00:00 — Review 5IF5MIQQ h13: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4639",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4639",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4639",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4639",
+    "before": null,
+    "after": "Indicator=1 for USD issuance,0 for nonUSD issuance among firms issuing a bond; selection-corrected probit outcome Table8 col4a. Not USD versus no issuance and not col4b selection indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1949",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1949",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1949",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1949",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1949",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1949",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1949",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1949",
+    "before": null,
+    "after": "Lagged Cash effect on USD versus nonUSD issuance conditional on endogenous selection into bond issuance; maximum-likelihood selection-corrected probit Location: Table8 col4a; Sec3.6 p728."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1949",
+    "before": null,
+    "after": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Selection equation4b excluded as diagnostic-only outcome. Excluded selection regressors inflation,GDP growth,institutional quality,private credit; not linear IV treatment estimation. Source: Table8 col4a; Sec3.6 p728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+  }
+]
+```

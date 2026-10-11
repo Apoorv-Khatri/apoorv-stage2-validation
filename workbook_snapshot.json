@@ -17431,7 +17431,16 @@
     "L1948": "0",
     "M1948": "n/a",
     "N1948": "Lagged log1p Carry Trade effect on USD share excluding back-to-back issues, EME Tobit Location: Table8 col3, pp.727–728.",
-    "O1948": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Source: Table8 col3, pp.727–728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+    "O1948": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Source: Table8 col3, pp.727–728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf.",
+    "A1949": "5IF5MIQQ",
+    "B1949": "h13",
+    "I1949": "1",
+    "J1949": "Other",
+    "K1949": "0",
+    "L1949": "0",
+    "M1949": "n/a",
+    "N1949": "Lagged Cash effect on USD versus nonUSD issuance conditional on endogenous selection into bond issuance; maximum-likelihood selection-corrected probit Location: Table8 col4a; Sec3.6 p728.",
+    "O1949": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Selection equation4b excluded as diagnostic-only outcome. Excluded selection regressors inflation,GDP growth,institutional quality,private credit; not linear IV treatment estimation. Source: Table8 col4a; Sec3.6 p728. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50177,7 +50186,11 @@
     "A4638": "5IF5MIQQ",
     "B4638": "h12",
     "C4638": "hy1",
-    "K4638": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization."
+    "K4638": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization.",
+    "A4639": "5IF5MIQQ",
+    "B4639": "h13",
+    "C4639": "hy1",
+    "K4639": "Indicator=1 for USD issuance,0 for nonUSD issuance among firms issuing a bond; selection-corrected probit outcome Table8 col4a. Not USD versus no issuance and not col4b selection indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
