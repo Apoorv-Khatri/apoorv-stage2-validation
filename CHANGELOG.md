@@ -34737,3 +34737,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:10:02.742827+00:00 — Review 3MVCXGJ3 s3: causal scope, outcomes and benchmark evidence
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K35",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R35",
+    "before": null,
+    "after": "CAR loss is compared with transaction purchase value (6% of acquirer market capitalization), a different quantity from the CAR outcome. The5.3%/roughly5–6% of transaction value and dollar equivalents are genuine source claims but not a same-outcome benchmark. Reject other_level as a catch-all. No replacement under either CAR proxy; neither mean CAR0.59% nor SD5.59% is linked to the treatment effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H233",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I233",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J233",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K233",
+    "before": null,
+    "after": "Spurious within narrowed FOREIGN HDFE setting: domestic CAR belongs to h15/hy1, with two effective FE dimensions. Original fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I90",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J90",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K90",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L90",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M90",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N90",
+    "before": null,
+    "after": "Table5 col1 pp.187-188: continuous lagged REPAT effect on FOREIGN-deal CAR(-2,+2), multiplied by100; year, target-industry and target-country identifying FE (three dimensions), HDFE. Domestic col4 split to h15."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O90",
+    "before": null,
+    "after": "p.182 explicitly says FE control time/country/industry trends affecting acquisition behavior and market reactions. Foreign targets span countries. No no-FE comparator. One treatment SD coefficient -0.32 percentage points. Table marks country FE Y even for domestic columns, but a constant U.S. category adds no effective FE dimension; domestic setting h15 is FE, not HDFE. Causal interpretation remains observational and subject to deal selection/omitted variables. Source estimates: {\"foreign_pp\": -0.32, \"domestic_pp\": -0.06}."
+  }
+]
+```
