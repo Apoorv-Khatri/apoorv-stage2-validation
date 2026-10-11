@@ -51261,3 +51261,510 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:18:44.290026+00:00 — Review 4QJKKD9J h9: source-audited coding and linked comparisons
+
+83 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1480",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1481",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1482",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1483",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1484",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1485",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1480",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1481",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1482",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1483",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1484",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1485",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1480",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1481",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1482",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1483",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1484",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1485",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1480",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1483",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1484",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1485",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1480",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1481",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1482",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1483",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1484",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1485",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1480",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1481",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1482",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1483",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1484",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1485",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1480",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1481",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1482",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1483",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1484",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1485",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1480",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1481",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1482",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1483",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1484",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1485",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1480",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1481",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1482",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1483",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1484",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1485",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1480",
+    "before": null,
+    "after": "Table4 p14: 50.97, one treatment SD, upper-panel col1; linked benchmark 626.4. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1481",
+    "before": null,
+    "after": "Table4 p14: 56.74, one treatment SD, upper-panel col2; linked benchmark 626.4. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1482",
+    "before": null,
+    "after": "Table4 p14: 81.75, one treatment SD, upper-panel col3; linked benchmark 626.4. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1483",
+    "before": null,
+    "after": "Table4 p14: 31.59, one treatment SD, upper-panel col6; linked benchmark 380.9. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1484",
+    "before": null,
+    "after": "Table4 p14: 32.41, one treatment SD, upper-panel col7; linked benchmark 380.9. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1485",
+    "before": null,
+    "after": "Table4 p14: 43.55, one treatment SD, upper-panel col8; linked benchmark 380.9. Population: 1880 pre-period outcome level,147-town analysis sample (county outcomes); table repeats same mean across columns; precise benchmark weighting not stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1480",
+    "before": null,
+    "after": " Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1481",
+    "before": null,
+    "after": " Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1482",
+    "before": null,
+    "after": "Table-only pairing. Nearby prose percentages13.1/11.4/11.1 numerically fit some of these estimates but are not reassigned from source IV wording without clarification. Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1483",
+    "before": null,
+    "after": " Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1484",
+    "before": null,
+    "after": " Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1485",
+    "before": null,
+    "after": "Table-only pairing. Nearby prose percentages13.1/11.4/11.1 numerically fit some of these estimates but are not reassigned from source IV wording without clarification. Continuous-dose DiD/regression target and untreated-reference weighting not established by overall baseline mean; parallel trends does not imply equal untreated levels."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4474",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4475",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4474",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4475",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4474",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4475",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4474",
+    "before": null,
+    "after": "Change1880–1890 in manufacturing production value per male resident over21. Location: Table4 upper panel,p14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4475",
+    "before": null,
+    "after": "Change1880–1890 in manufacturing inputs value per male resident over21. Location: Table4 upper panel,p14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1867",
+    "before": null,
+    "after": "4QJKKD9J"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1867",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1867",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1867",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1867",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1867",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1867",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1867",
+    "before": null,
+    "after": "Uninstrumented continuous total standardized Δlog MMA, including own-location entry, on Change1880–1890 in manufacturing production value per male resident over21. and Change1880–1890 in manufacturing inputs value per male resident over21. Location: Table4 upper OLS panel cols1–3,6–8,p14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1867",
+    "before": null,
+    "after": "147 towns: fewer than6000 residents in1870, no national bank in1875, population4000–8000 in1880. County outcomes linked to towns; weights are town share of county population; county-clustered SE. Outcome first differences1880–1890, treatment log-MMA changes1875–1885. State FE absorb unobserved state-level regulatory changes; population change1870–1880 and stated controls. Eq.(3), Sec5.3 published p11 explicitly specifies difference-in-differences. Substantive causally interpreted benchmark regressions; author discusses possible endogeneity and unsigned bias,pp9–10. Do not omit because IV preferred. Estimation is weighted OLS but implemented Eq.(3) design is conventional DiD; not an identifying-FE-only or no-FE OLS setting. Source: Table4 upper OLS panel cols1–3,6–8,p14."
+  }
+]
+```
