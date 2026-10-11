@@ -16224,7 +16224,16 @@
     "L1843": "0",
     "M1843": "n/a",
     "N1843": "Continuous market share and its post-2009 interaction as determinants of CSR after Chinese milk scandal; separate civil/common-law samples grouped as sample variants.",
-    "O1843": "Country/year/industry FE used in SectionIV to absorb country heterogeneity, common shocks and sector heterogeneity; three separately reported dimensions. Market share is endogenous/current, not randomized exposure or a predetermined DiD group. Treat as linear HDFE mechanism slopes; TableX and p.893 call these correlations but pp.890–891 explicitly test consumer-demand effects. Retain substantive null mechanism test; do not claim identified mediation. Industry classification can include multiple food/energy subsectors; no evidence this dimension is constant. Source: TableX PanelA cols5–6; TableX PanelA p.891; SecIV.E pp.890,893."
+    "O1843": "Country/year/industry FE used in SectionIV to absorb country heterogeneity, common shocks and sector heterogeneity; three separately reported dimensions. Market share is endogenous/current, not randomized exposure or a predetermined DiD group. Treat as linear HDFE mechanism slopes; TableX and p.893 call these correlations but pp.890–891 explicitly test consumer-demand effects. Retain substantive null mechanism test; do not claim identified mediation. Industry classification can include multiple food/energy subsectors; no evidence this dimension is constant. Source: TableX PanelA cols5–6; TableX PanelA p.891; SecIV.E pp.890,893.",
+    "A1844": "4MXMWKXM",
+    "B1844": "h21",
+    "I1844": "1",
+    "J1844": "FE",
+    "K1844": "1",
+    "L1844": "0",
+    "M1844": "n/a",
+    "N1844": "Deepwater Horizon oil spill: post before/after effect on international oil-and-gas market shares.",
+    "O1844": "Country/industry FE only; no year FE. This is an adjusted temporal contrast, not DiD because there is no comparison-group interaction. Causal effect attributed to shock in pp.890–893, but susceptible to secular changes. Printed international-share effects are small decimal values; AppendixA defines proportion. No logged DV is reported. Source: TableX PanelB p.892; SecIV.E pp.890,893 col1."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -47906,7 +47915,14 @@
     "A4449": "4MXMWKXM",
     "B4449": "h20",
     "C4449": "hy1",
-    "K4449": "ASSET4 Product Responsibility score0–100. Detailed outcome labels intentionally blank for nonbinary treatment."
+    "K4449": "ASSET4 Product Responsibility score0–100. Detailed outcome labels intentionally blank for nonbinary treatment.",
+    "A4450": "4MXMWKXM",
+    "B4450": "h21",
+    "C4450": "hy1",
+    "H4450": "0",
+    "I4450": "unknown",
+    "J4450": "none",
+    "K4450": "International market share: sales/total global industry-year sales among ASSET4 CSR-rated companies; all-listed-firm denominator robustness fn13. Printed international-share effects are small decimal values; AppendixA defines proportion. No logged DV is reported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
