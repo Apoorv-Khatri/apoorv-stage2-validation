@@ -15478,7 +15478,16 @@
     "L1784": "0",
     "M1784": "n/a",
     "N1784": "Section 8.6 p. 803 (Figure A.2): effects of hedging rule on currency hedge turnover, a substantive implementation-cost channel. DCF monthly median turnover about 20%-25%, momentum over 25%, other rules 0%-10%; full hedge and no hedge both zero turnover by construction. Group strategy contrasts; no external price-impact inference.",
-    "O1784": "Implemented pairwise strategy-rule contrasts on common historical price paths, not a causal effect of macro predictors on market prices. Other = forecast-driven constrained mean-variance portfolio recomputation/backtest. Binary refers to adoption of one specified rule versus its comparator, not to the continuously varying monthly hedge ratio. OOS Jan 1997-Jul 2017 unless noted; transaction-cost and price-taking assumptions limit external interpretation. Qualifies as rule-induced implementation outcome, not merely input balance. Main-text summary only; exact appendix quantiles not invented."
+    "O1784": "Implemented pairwise strategy-rule contrasts on common historical price paths, not a causal effect of macro predictors on market prices. Other = forecast-driven constrained mean-variance portfolio recomputation/backtest. Binary refers to adoption of one specified rule versus its comparator, not to the continuously varying monthly hedge ratio. OOS Jan 1997-Jul 2017 unless noted; transaction-cost and price-taking assumptions limit external interpretation. Qualifies as rule-induced implementation outcome, not merely input balance. Main-text summary only; exact appendix quantiles not invented.",
+    "A1785": "3DI8S52Q",
+    "B1785": "h1",
+    "I1785": "1",
+    "J1785": "OLS",
+    "K1785": "0",
+    "L1785": "1",
+    "M1785": "n/a",
+    "N1785": "Table VI pp.395-396: continuous RAW hedging pressure HP treatment in columns1/4; OLS Fama-MacBeth traditional backwardation test, effects on next two weekly returns. Distinct from smoothed insurance-demand component in s5.",
+    "O1785": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Insignificant -.09/.14 coefficients times100; retain substantive null test."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46019,7 +46028,15 @@
     "H4288": "0",
     "I4288": "unknown",
     "J4288": "none",
-    "K4288": "Days 1-20 post-ranking excess return; p.394 reports high-minus-low 73 bps, about 9% annualized. Distinct from y5 days 1-40. Rounded Table V subperiod spreads .24+.29+.19 percentage points sum .72; retain printed prose .73 rather than silently altering source."
+    "K4288": "Days 1-20 post-ranking excess return; p.394 reports high-minus-low 73 bps, about 9% annualized. Distinct from y5 days 1-40. Rounded Table V subperiod spreads .24+.29+.19 percentage points sum .72; retain printed prose .73 rather than silently altering source.",
+    "A4289": "3DI8S52Q",
+    "B4289": "h1",
+    "C4289": "hy1",
+    "K4289": "Commodity front-month futures excess return in week t+1, Tuesday-to-Tuesday simple return.",
+    "A4290": "3DI8S52Q",
+    "B4290": "h1",
+    "C4290": "hy2",
+    "K4290": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

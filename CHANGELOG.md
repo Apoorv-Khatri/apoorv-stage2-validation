@@ -30984,3 +30984,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:03:23.044992+00:00 — Review 3DI8S52Q h1: causal scope, outcomes and benchmark evidence
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4289",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4290",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4289",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4290",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4289",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4290",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4289",
+    "before": null,
+    "after": "Commodity front-month futures excess return in week t+1, Tuesday-to-Tuesday simple return."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4290",
+    "before": null,
+    "after": "Commodity front-month futures excess return in week t+2, Tuesday-to-Tuesday simple return."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1785",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1785",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1785",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1785",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1785",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1785",
+    "before": null,
+    "after": "Table VI pp.395-396: continuous RAW hedging pressure HP treatment in columns1/4; OLS Fama-MacBeth traditional backwardation test, effects on next two weekly returns. Distinct from smoothed insurance-demand component in s5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1785",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Insignificant -.09/.14 coefficients times100; retain substantive null test."
+  }
+]
+```
