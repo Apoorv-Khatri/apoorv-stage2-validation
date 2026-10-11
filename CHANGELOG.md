@@ -8037,3 +8037,24 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T01:29:55.825840+00:00 — Review 2LWSD69M s21: causal scope, outcomes and benchmark evidence
+
+2 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I43",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O43",
+    "before": null,
+    "after": "Exclude under the pure prediction/descriptive exclusion in the supplied instructions. Tables 10-11 Panel B, Section 5.4, pp. 398,402-403: Composite in-sample/out-of-sample signals are evaluated for combined predictive power; in-sample overfitting/look-ahead is explicitly discussed. This is forecasting/portfolio sorting, not a causal treatment effect. The paper provides an economic explanation for the apparent premium decline, but does not interpret these signal coefficients as effects of changing X on Y. This decision is about interpretation, not the absence of randomization or remaining endogeneity."
+  }
+]
+```
