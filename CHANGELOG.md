@@ -110010,3 +110010,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:29:51.249412+00:00 — Review 7PCAD73D s9: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H523",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I523",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J523",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I179",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J179",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K179",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L179",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M179",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N179",
+    "before": null,
+    "after": "Breach×STLender×standardized CEO/CFO pay-performance sensitivity Delta on Enforcement Location: Table9 col1 pp.3495–3497"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O179",
+    "before": null,
+    "after": "Observational linear interaction design, not an implemented treated/post parallel-trends DiD or a local-polynomial RD. EPS proximity and covenant threshold do not themselves make this RD. Breach×STLender measures differential breach-associated outcome for short-termist lenders, not an IV effect of actual enforcement. Authors acknowledge omitted unobservables and manipulation pp.3476,3484. Identifying FE, not HDFE: source reports Quarter, Industry×Quarter, Lender and Lender×Quarter rows cumulatively. Quarter is nested in Industry×Quarter; Lender is additionally nested in Lender×Quarter. Effective sets by baseline column: (1) quarter; (2) industry×quarter; (3) industry×quarter + lender; (4–5) industry×quarter + lender×quarter. Equation3 itself writes only the two interacted sets. Explicit pp3482–3483 discussion addresses confounding. Preserve every reported Yes/No row as source reporting, but do not count redundant sets as extra separately absorbed dimensions. Analogous year nesting applies to TableB.7. Distinct moderator coefficient, not unconditional total short-termism effect. A continuous standardized moderator is not a standardized outcome; no outcome-SD comparison. Main=1 for benchmark precision/salience and governance/compensation results expressly highlighted in abstract/conclusion. Source: Table9 col1 pp.3495–3497. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+  }
+]
+```
