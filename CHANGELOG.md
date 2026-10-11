@@ -36969,3 +36969,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:07:27.165526+00:00 — Review 4CG48IZI s3: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K39",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R39",
+    "before": null,
+    "after": "Reject: reported SD is ofFIR,theTREATMENT,not of the dependent outcome. Multiplying a slope by treatmentSD and describing effect inbp/percentageunits is not a same-outcome magnitude comparison. other_level does not rescue a different-variable benchmark. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I96",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J96",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K96",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L96",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M96",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O96",
+    "before": null,
+    "after": "Time-only cols1–3; time+country cols4–9; clustering country×year is not another FE. Prose36bp≈.414×.874×100. p.389 says dollars per local currency, a source reversal; pp.390,393 explicitly establish local currency perUSD. Final method adjudication: OLS/regression adjustment with the stated time/country/maturity indicator controls, not a no-dummy regression. Eq.(3) and pp.388-393 locate identification in mechanically induced informationless flows and rebalancing timing; the source does not establish a separate identifying role of the FE battery. Mere indicator counts do not justify HDFE or automatic FE fallback. This strict-taxonomy judgment is distinguished from the clearly reported specification. Source: Table6 cols1–9,p.393; Eq.(4)p.389. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4CG48IZI.pdf#page=10. Certainty: High on implemented linear dose design and coefficients; explicit strict-HDFE classification judgment.."
+  }
+]
+```
