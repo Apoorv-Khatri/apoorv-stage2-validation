@@ -117291,3 +117291,300 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:40:16.368937+00:00 — Review 8SZBUU3X h2: source-audited coding and linked comparisons
+
+48 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2118",
+    "before": null,
+    "after": "8SZBUU3X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2118",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2118",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2118",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2118",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2118",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2118",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2118",
+    "before": null,
+    "after": "Author Appendix Table BIV col1 printed67/PDF68: focal coefficient -4.08. Caption: “the denominator is the households average monthly deposit inflows over the entire sample period”; table Denominator “Mean Dep”; coefficient−4.08(SE0.76),5.375m household-months. Each household’s own2010–2014 time-average deposits, rather than one overall numeric mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2118",
+    "before": null,
+    "after": "Explicit outcome-mean scaling, divided1; caption defines normalization but does not separately verbalize an effect/base comparison, verbal0. Unaligned: mean includes treated/untreated periods over the full sample, not untreated/control-complier mean. Period/IV target mismatch remains even though denominator is household-specific. Values source-qualified to forthcoming appendix. Eligibility is based specifically on explicit same-outcome mean scaling in the result table. Forthcoming-version estimate -4.08 only; final supplement version/weighting not verified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4739",
+    "before": null,
+    "after": "8SZBUU3X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4740",
+    "before": null,
+    "after": "8SZBUU3X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4741",
+    "before": null,
+    "after": "8SZBUU3X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4742",
+    "before": null,
+    "after": "8SZBUU3X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4739",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4740",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4741",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4742",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4739",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4740",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4741",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4742",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4739",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4740",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4741",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4742",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4739",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4740",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4741",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4742",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4739",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4740",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4741",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4742",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4739",
+    "before": null,
+    "after": "Monthly deposit income normalized by each household’s average monthly deposits over entire sample period; Table BIV col1. Own mean, not untreated-complier mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4740",
+    "before": null,
+    "after": "Monthly direct deposits normalized by household reported income at origination, Table BIV col2; filtered direct-deposit households. Raw direct-deposit zero mass not established separately."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4741",
+    "before": null,
+    "after": "Log-style monthly deposits, Table BIV col3. Heading log(1+Dep), caption log deposits with zeros replaced by1. Exact transformation and factor100 scaling unresolved. Both described alternatives map observed raw zeros to zero."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4742",
+    "before": null,
+    "after": "Monthly deposits normalized by origination income with household defined by internal MyBank identifier instead of shared mortgage liability; Table BIV col4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2004",
+    "before": null,
+    "after": "8SZBUU3X"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2004",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2004",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2004",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2004",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2004",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2004",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2004",
+    "before": null,
+    "after": "Negative-equity receipt IV with alternative income definitions: own full-period mean-normalized deposits, origination-income-normalized direct deposits, log-style deposits retaining zeros, and internal household definition. Author Appendix Table BIV cols1–4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2004",
+    "before": null,
+    "after": "Single binary SLTV instrument; MSA×time, cohort×time, HH FE. Caption says log deposits replacing zero deposits by$1; heading says log(1+Dep). Neither exact transformation nor scaling of printed−3.69 can be reconciled without final supplement/code; Human_transform unknown. This is still linear2SLS on transformed outcome, not Other. Author appendix has four cols; final footnote16 references cols1,3,5. Source: Author Table BIV printed67/PDF68; final p2984 footnote16. Source link: https://leeds-faculty.colorado.edu/asafbernstein/Asaf_Bernstein_NegativeHomeEquityHouseholdLaborSupply.pdf."
+  }
+]
+```
