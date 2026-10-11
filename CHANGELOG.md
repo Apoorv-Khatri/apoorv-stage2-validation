@@ -46149,3 +46149,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:47:35.858917+00:00 — Review 4MXMWKXM h25: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4454",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4454",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4454",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4454",
+    "before": null,
+    "after": "ASSET4 Spill and Pollution Control score0–100. Detailed outcome labels intentionally blank for nonbinary treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1848",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1848",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1848",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1848",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1848",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1848",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1848",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1848",
+    "before": null,
+    "after": "Continuous market share and its post-2010 interaction as determinants of CSR after Deepwater Horizon oil spill; separate civil/common-law samples grouped as sample variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1848",
+    "before": null,
+    "after": "Country/year/industry FE used in SectionIV to absorb country heterogeneity, common shocks and sector heterogeneity; three separately reported dimensions. Market share is endogenous/current, not randomized exposure or a predetermined DiD group. Treat as linear HDFE mechanism slopes; TableX and p.893 call these correlations but pp.890–891 explicitly test consumer-demand effects. Retain substantive null mechanism test; do not claim identified mediation. Industry classification can include multiple food/energy subsectors; no evidence this dimension is constant. Source: TableX PanelB cols5–6; TableX PanelB p.892; SecIV.E pp.890,893."
+  }
+]
+```
