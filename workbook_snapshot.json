@@ -16065,7 +16065,16 @@
     "L1830": "0",
     "M1830": "n/a",
     "N1830": "German civil legal origin versus English common law; Random-effects GLS; ownership-control variants; overall IVA CSR rating0–6.",
-    "O1830": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Narrow original row to PanelA; PanelB is separately reported below. Source: TableV PanelA p.877."
+    "O1830": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Narrow original row to PanelA; PanelB is separately reported below. Source: TableV PanelA p.877.",
+    "A1831": "4MXMWKXM",
+    "B1831": "h8",
+    "I1831": "1",
+    "J1831": "OLS",
+    "K1831": "1",
+    "L1831": "0",
+    "M1831": "n/a",
+    "N1831": "Scandinavian civil legal origin versus English common law; Random-effects GLS; ownership-control variants; overall IVA CSR rating0–6.",
+    "O1831": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Narrow original row to PanelA; PanelB is separately reported below. Source: TableV PanelA p.877."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -47129,7 +47138,14 @@
     "H4382": "0",
     "I4382": "unknown",
     "J4382": "none",
-    "K4382": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass."
+    "K4382": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass.",
+    "A4383": "4MXMWKXM",
+    "B4383": "h8",
+    "C4383": "hy1",
+    "H4383": "0",
+    "I4383": "unknown",
+    "J4383": "none",
+    "K4383": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
