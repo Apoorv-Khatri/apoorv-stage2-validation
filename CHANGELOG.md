@@ -104088,3 +104088,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T05:50:12.654002+00:00 — Review 5IF5MIQQ h28: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4677",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4678",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4677",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4678",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4677",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4678",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4677",
+    "before": null,
+    "after": "Euro-denominated issuance choice category 1 in analogous multinomial model; exact majority threshold and comparison-category definition not restated in supplied article (p729).; nonlinear MNL coefficient is not a probability-point marginal effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4678",
+    "before": null,
+    "after": "Euro-denominated issuance choice category 2 in analogous multinomial model; exact majority threshold and comparison-category definition not restated in supplied article (p729).; nonlinear MNL coefficient is not a probability-point marginal effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1964",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1964",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1964",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1964",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1964",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1964",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1964",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1964",
+    "before": null,
+    "after": "Cash and euro-denominated issuance choice, multinomial model applied as for dollar issuance Location: Sec3.6 p729 summary of Internet Appendix."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1964",
+    "before": null,
+    "after": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Main text explicitly reports implemented multinomial and Tobit euro tests, lower Cash among euro issuers. Appendix not supplied: do not invent coefficients, exact euro threshold or detailed FE variants. Interpret choice categories by analogous description only. Source: Sec3.6 p729 summary of Internet Appendix. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium: main-text evidence, exact supplement table unavailable."
+  }
+]
+```

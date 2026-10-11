@@ -17566,7 +17566,16 @@
     "L1963": "0",
     "M1963": "n/a",
     "N1963": "Continuous nonUSD proceeds log1p intensity and cash accumulation t=1,2, sector-level use-of-funds robustness Location: TableA3 PanelsA–B pp.743–746.",
-    "O1963": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Included same decomposition as Eq2; nonUSD contrasted with USD, not invented binary currency assignment. Source: TableA3 PanelsA–B pp.743–746. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion."
+    "O1963": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Included same decomposition as Eq2; nonUSD contrasted with USD, not invented binary currency assignment. Source: TableA3 PanelsA–B pp.743–746. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion.",
+    "A1964": "5IF5MIQQ",
+    "B1964": "h28",
+    "I1964": "1",
+    "J1964": "Other",
+    "K1964": "0",
+    "L1964": "0",
+    "M1964": "n/a",
+    "N1964": "Cash and euro-denominated issuance choice, multinomial model applied as for dollar issuance Location: Sec3.6 p729 summary of Internet Appendix.",
+    "O1964": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Main text explicitly reports implemented multinomial and Tobit euro tests, lower Cash among euro issuers. Appendix not supplied: do not invent coefficients, exact euro threshold or detailed FE variants. Interpret choice categories by analogous description only. Source: Sec3.6 p729 summary of Internet Appendix. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium: main-text evidence, exact supplement table unavailable."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50473,7 +50482,15 @@
     "A4676": "5IF5MIQQ",
     "B4676": "h27",
     "C4676": "hy2",
-    "K4676": "ln(1+(cash and short-term investments at t=2 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction."
+    "K4676": "ln(1+(cash and short-term investments at t=2 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction.",
+    "A4677": "5IF5MIQQ",
+    "B4677": "h28",
+    "C4677": "hy1",
+    "K4677": "Euro-denominated issuance choice category 1 in analogous multinomial model; exact majority threshold and comparison-category definition not restated in supplied article (p729).; nonlinear MNL coefficient is not a probability-point marginal effect.",
+    "A4678": "5IF5MIQQ",
+    "B4678": "h28",
+    "C4678": "hy2",
+    "K4678": "Euro-denominated issuance choice category 2 in analogous multinomial model; exact majority threshold and comparison-category definition not restated in supplied article (p729).; nonlinear MNL coefficient is not a probability-point marginal effect."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
