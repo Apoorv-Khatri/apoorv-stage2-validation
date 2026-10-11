@@ -16215,7 +16215,16 @@
     "L1842": "0",
     "M1842": "n/a",
     "N1842": "Chinese milk scandal: civil×event-year DiD effect on domestic food-industry market shares.",
-    "O1842": "Country/year/industry FE. Civil-law interaction isolates relative change, conventional DiD under parallel trends; no modern estimator. Printed domestic share effects are−20.18 and−6.387 while AppendixA defines a proportion; table does not disclose scaling. Preserve printed units, do not silently call these percentage points or fractions. Source: TableX PanelA p.891; SecIV.E pp.890,893 col4."
+    "O1842": "Country/year/industry FE. Civil-law interaction isolates relative change, conventional DiD under parallel trends; no modern estimator. Printed domestic share effects are−20.18 and−6.387 while AppendixA defines a proportion; table does not disclose scaling. Preserve printed units, do not silently call these percentage points or fractions. Source: TableX PanelA p.891; SecIV.E pp.890,893 col4.",
+    "A1843": "4MXMWKXM",
+    "B1843": "h20",
+    "I1843": "1",
+    "J1843": "HDFE",
+    "K1843": "0",
+    "L1843": "0",
+    "M1843": "n/a",
+    "N1843": "Continuous market share and its post-2009 interaction as determinants of CSR after Chinese milk scandal; separate civil/common-law samples grouped as sample variants.",
+    "O1843": "Country/year/industry FE used in SectionIV to absorb country heterogeneity, common shocks and sector heterogeneity; three separately reported dimensions. Market share is endogenous/current, not randomized exposure or a predetermined DiD group. Treat as linear HDFE mechanism slopes; TableX and p.893 call these correlations but pp.890–891 explicitly test consumer-demand effects. Retain substantive null mechanism test; do not claim identified mediation. Industry classification can include multiple food/energy subsectors; no evidence this dimension is constant. Source: TableX PanelA cols5–6; TableX PanelA p.891; SecIV.E pp.890,893."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -47893,7 +47902,11 @@
     "H4448": "0",
     "I4448": "unknown",
     "J4448": "none",
-    "K4448": "Domestic market share: sales/total domestic industry-year sales, all companies denominator. Printed domestic share effects are−20.18 and−6.387 while AppendixA defines a proportion; table does not disclose scaling. Preserve printed units, do not silently call these percentage points or fractions."
+    "K4448": "Domestic market share: sales/total domestic industry-year sales, all companies denominator. Printed domestic share effects are−20.18 and−6.387 while AppendixA defines a proportion; table does not disclose scaling. Preserve printed units, do not silently call these percentage points or fractions.",
+    "A4449": "4MXMWKXM",
+    "B4449": "h20",
+    "C4449": "hy1",
+    "K4449": "ASSET4 Product Responsibility score0–100. Detailed outcome labels intentionally blank for nonbinary treatment."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

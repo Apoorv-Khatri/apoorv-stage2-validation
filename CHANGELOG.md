@@ -45642,3 +45642,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:46:17.971524+00:00 — Review 4MXMWKXM h20: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4449",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4449",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4449",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4449",
+    "before": null,
+    "after": "ASSET4 Product Responsibility score0–100. Detailed outcome labels intentionally blank for nonbinary treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1843",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1843",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1843",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1843",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1843",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1843",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1843",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1843",
+    "before": null,
+    "after": "Continuous market share and its post-2009 interaction as determinants of CSR after Chinese milk scandal; separate civil/common-law samples grouped as sample variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1843",
+    "before": null,
+    "after": "Country/year/industry FE used in SectionIV to absorb country heterogeneity, common shocks and sector heterogeneity; three separately reported dimensions. Market share is endogenous/current, not randomized exposure or a predetermined DiD group. Treat as linear HDFE mechanism slopes; TableX and p.893 call these correlations but pp.890–891 explicitly test consumer-demand effects. Retain substantive null mechanism test; do not claim identified mediation. Industry classification can include multiple food/energy subsectors; no evidence this dimension is constant. Source: TableX PanelA cols5–6; TableX PanelA p.891; SecIV.E pp.890,893."
+  }
+]
+```
