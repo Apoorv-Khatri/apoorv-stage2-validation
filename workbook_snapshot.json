@@ -77,6 +77,7 @@
     "B20": "Competition Links and Stock Returns",
     "C20": "fin",
     "D20": 14,
+    "E20": "DONE — Complete supplied article and included Appendices A–D reviewed, including omissions. Retained author-interpreted mention/inattention effects with observational limitations; excluded beta-pricing-only s8. Added omitted Table4/Figure3, size-neutral C-Rank and no-mention treatment splits. Figure5 graphical comparisons recorded without invented values. Table8/Figure6 probability alignment unknown because FE conditioning/averaging is unspecified. Original model fields preserved.",
     "A21": "7PCAD73D",
     "B21": "Short-Termism Spillovers from the Financial Industry",
     "C21": "fin",
@@ -17741,7 +17742,16 @@
     "L1972": "0",
     "M1972": "n/a",
     "N1972": "Table15 PanelB split from s14: within-size-tercile High C-Rank versus No-mentions/Low C-Rank contrasts in monthly mean excess returns and six-factor alpha, averaged across terciles.",
-    "O1972": "Same OLS-style classification as s2, not Matching. Distinct panel/conditioning estimand split follows original s1/s2. Printed contrasts differ slightly from arithmetic on rounded endpoint means/alphas; visually verified and preserved, not repaired. Source: §7.2, Table15B p.4334/PDF35; lines2304–2323.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574."
+    "O1972": "Same OLS-style classification as s2, not Matching. Distinct panel/conditioning estimand split follows original s1/s2. Printed contrasts differ slightly from arithmetic on rounded endpoint means/alphas; visually verified and preserved, not repaired. Source: §7.2, Table15B p.4334/PDF35; lines2304–2323.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574.",
+    "A1973": "6T38MQ3Y",
+    "B1973": "h4",
+    "I1973": "1",
+    "J1973": "OLS",
+    "K1973": "1",
+    "L1973": "0",
+    "M1973": "n/a",
+    "N1973": "Table5 separately interpreted extensive-margin no-mention indicator (=1 for no mention, 0 otherwise), with its log(size) interaction, in monthly Fama–MacBeth excess-return regressions. All, targeting and admiring mention definitions; count slope remains in s3.",
+    "O1973": "Authors explicitly isolate/discuss mentioned versus non-mentioned returns, not merely list this covariate: effect does not stem only from that difference. Add a separate binary setting rather than pooling the continuous count and binary margin. These coefficients are not unconditional effects: the binary contrast includes the size interaction; changing count support simultaneously is not the same contrast. Weak statistical significance does not exclude a substantive effect. Source: §2, Table5 p.4317/PDF18, prose pp.4316–4318; lines1086–1092,1116–1123,1154–1166,1180–1182.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574. Certainty: moderate: authors discuss this as a substantive extensive-margin check, although it also functions as a control."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50774,7 +50784,14 @@
     "H4687": "0",
     "I4687": "unknown",
     "J4687": "other",
-    "K4687": "Monthly six-factor risk-adjusted alpha, percent per month, for size-neutral C-Rank portfolios and High−No/High−Low contrasts. Table15B p.4334/PDF35. No point-mass-at-zero evidence is reported."
+    "K4687": "Monthly six-factor risk-adjusted alpha, percent per month, for size-neutral C-Rank portfolios and High−No/High−Low contrasts. Table15B p.4334/PDF35. No point-mass-at-zero evidence is reported.",
+    "A4688": "6T38MQ3Y",
+    "B4688": "h4",
+    "C4688": "hy1",
+    "H4688": "0",
+    "I4688": "unknown",
+    "J4688": "none",
+    "K4688": "Firm monthly stock return in excess of the risk-free rate. Table5 regression coefficients are multiplied by 100, so the reported dummy/interaction contrasts are in percentage points of monthly return. Table5 p.4317/PDF18. No point-mass-at-zero evidence is reported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

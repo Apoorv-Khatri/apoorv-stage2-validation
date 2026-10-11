@@ -107565,3 +107565,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:25:42.017451+00:00 — Review 6T38MQ3Y h4: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4688",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4688",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4688",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4688",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4688",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4688",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4688",
+    "before": null,
+    "after": "Firm monthly stock return in excess of the risk-free rate. Table5 regression coefficients are multiplied by 100, so the reported dummy/interaction contrasts are in percentage points of monthly return. Table5 p.4317/PDF18. No point-mass-at-zero evidence is reported."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E20",
+    "before": null,
+    "after": "DONE — Complete supplied article and included Appendices A–D reviewed, including omissions. Retained author-interpreted mention/inattention effects with observational limitations; excluded beta-pricing-only s8. Added omitted Table4/Figure3, size-neutral C-Rank and no-mention treatment splits. Figure5 graphical comparisons recorded without invented values. Table8/Figure6 probability alignment unknown because FE conditioning/averaging is unspecified. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1973",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1973",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1973",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1973",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1973",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1973",
+    "before": null,
+    "after": "Table5 separately interpreted extensive-margin no-mention indicator (=1 for no mention, 0 otherwise), with its log(size) interaction, in monthly Fama–MacBeth excess-return regressions. All, targeting and admiring mention definitions; count slope remains in s3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1973",
+    "before": null,
+    "after": "Authors explicitly isolate/discuss mentioned versus non-mentioned returns, not merely list this covariate: effect does not stem only from that difference. Add a separate binary setting rather than pooling the continuous count and binary margin. These coefficients are not unconditional effects: the binary contrast includes the size interaction; changing count support simultaneously is not the same contrast. Weak statistical significance does not exclude a substantive effect. Source: §2, Table5 p.4317/PDF18, prose pp.4316–4318; lines1086–1092,1116–1123,1154–1166,1180–1182.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574. Certainty: moderate: authors discuss this as a substantive extensive-margin check, although it also functions as a control."
+  }
+]
+```
