@@ -18296,7 +18296,16 @@
     "L2005": "0",
     "M2005": "multiple binary",
     "N2005": "Multiple-bucket instrument robustness for actual binary negative-equity receipt; linear first stage/2SLS described in footnote13.",
-    "O2005": "Footnote13 explicitly says multiple LTV bucket indicators used in first stage for robustness. Classify multiple binary excluded instruments, not single continuous simply because underlying leverage is continuous. Exact bucket thresholds, whether the footnote means SLTV rather than literal LTV, result location, coefficients and reported outcome variants are not established. Do not pool this with the single-binary IV. Qualitative implemented robustness disclosed, no invented estimates. Source: Published p2973 footnote13, eq5. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8SZBUU3X.pdf."
+    "O2005": "Footnote13 explicitly says multiple LTV bucket indicators used in first stage for robustness. Classify multiple binary excluded instruments, not single continuous simply because underlying leverage is continuous. Exact bucket thresholds, whether the footnote means SLTV rather than literal LTV, result location, coefficients and reported outcome variants are not established. Do not pool this with the single-binary IV. Qualitative implemented robustness disclosed, no invented estimates. Source: Published p2973 footnote13, eq5. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8SZBUU3X.pdf.",
+    "A2006": "8ZEJGZST",
+    "B2006": "h1",
+    "I2006": "1",
+    "J2006": "DiD_conventional",
+    "K2006": "1",
+    "L2006": "0",
+    "M2006": "n/a",
+    "N2006": "DRT effects on number of banking relationships, linear OLS event-time implementation; Table4 col3 p26.",
+    "O2006": "Split from s3 because linear estimator differs from probit/ordered logit. Same conventional staggered DiD, not method OLS or FE. Firm/year FE, size bins and state trends; no state FE in col3. Source: Table4 col3 p26; Sec4.3 pp24–25. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52061,7 +52070,14 @@
     "H4743": "0",
     "I4743": "unknown",
     "J4743": "unknown",
-    "K4743": "Household income outcome y in eq5 for multiple-bucket robustness mentioned footnote13; exact reported income variant/scale unspecified. Do not copy baseline coefficients."
+    "K4743": "Household income outcome y in eq5 for multiple-bucket robustness mentioned footnote13; exact reported income variant/scale unspecified. Do not copy baseline coefficients.",
+    "A4744": "8ZEJGZST",
+    "B4744": "h1",
+    "C4744": "hy1",
+    "H4744": "0",
+    "I4744": "unknown",
+    "J4744": "none",
+    "K4744": "Number of banks, financial institutions and cooperatives lending to firm in year; count outcome, Table4 col3 p26/A2 p43. Minimum/zero frequency not reported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
