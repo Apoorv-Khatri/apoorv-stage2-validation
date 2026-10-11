@@ -15568,7 +15568,16 @@
     "L1794": "1",
     "M1794": "n/a",
     "N1794": "Figure3 pp.406-407, equation(8): continuous momentum component of noncommercial Q effect on cumulative returns through horizons1-26 weeks; panel linear regression with controls. No FE stated, so OLS. Separately reported cumulative estimand split from Table X.",
-    "O1794": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Substantive post-trade trajectory, not a pretrend diagnostic. No qualifying outcome benchmark identified."
+    "O1794": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Substantive post-trade trajectory, not a pretrend diagnostic. No qualifying outcome benchmark identified.",
+    "A1795": "3DI8S52Q",
+    "B1795": "h11",
+    "I1795": "1",
+    "J1795": "Other",
+    "K1795": "0",
+    "L1795": "1",
+    "M1795": "n/a",
+    "N1795": "Table XI A-B pp.408-410: commercial profit attribution to continuous hedging, momentum and liquidity components of positions, including crisis-excluded sample. Regression-based position decomposition followed by payoff accounting, not an OLS treatment coefficient; Other. Components grouped as one additive attribution estimand.",
+    "O1795": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Author interprets5.27% liquidity gains offsetting-1.86% momentum losses and-4.71% hedging costs. Component-versus-component attribution is not an untreated outcome benchmark; position denominator is not outcome mean/SD. No fabricated binary adoption treatment."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46208,7 +46217,11 @@
     "A4309": "3DI8S52Q",
     "B4309": "h10",
     "C4309": "hy1",
-    "K4309": "Cumulative futures excess return from week t+1 to t+n, n=1,...,26. Exact compounding convention not established; no graph values invented."
+    "K4309": "Cumulative futures excess return from week t+1 to t+n, n=1,...,26. Exact compounding convention not established; no graph values invented.",
+    "A4310": "3DI8S52Q",
+    "B4310": "h11",
+    "C4310": "hy1",
+    "K4310": "Annualized total profit/loss and its hedging-demand, momentum and liquidity components, normalized by average absolute commercial net positions; commercial and offsetting trader payoffs."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

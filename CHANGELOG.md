@@ -33264,3 +33264,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:06:15.430629+00:00 — Review 3DI8S52Q h11: causal scope, outcomes and benchmark evidence
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4310",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4310",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4310",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4310",
+    "before": null,
+    "after": "Annualized total profit/loss and its hedging-demand, momentum and liquidity components, normalized by average absolute commercial net positions; commercial and offsetting trader payoffs."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1795",
+    "before": null,
+    "after": "3DI8S52Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1795",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1795",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1795",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1795",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1795",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1795",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1795",
+    "before": null,
+    "after": "Table XI A-B pp.408-410: commercial profit attribution to continuous hedging, momentum and liquidity components of positions, including crisis-excluded sample. Regression-based position decomposition followed by payoff accounting, not an OLS treatment coefficient; Other. Components grouped as one additive attribution estimand."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1795",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Author interprets5.27% liquidity gains offsetting-1.86% momentum losses and-4.71% hedging costs. Component-versus-component attribution is not an untreated outcome benchmark; position denominator is not outcome mean/SD. No fabricated binary adoption treatment."
+  }
+]
+```
