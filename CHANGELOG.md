@@ -113697,3 +113697,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:33:34.001694+00:00 — Review 7PCAD73D s16: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H540",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H541",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H542",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H543",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H544",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I540",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I541",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I542",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I543",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I544",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J540",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J541",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J542",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J543",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J544",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K540",
+    "before": null,
+    "after": "No evidence establishes absence of a point mass at zero; return/factor adjustment itself is not a log transformation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K541",
+    "before": null,
+    "after": "No evidence establishes absence of a point mass at zero; return/factor adjustment itself is not a log transformation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K542",
+    "before": null,
+    "after": "No evidence establishes absence of a point mass at zero; return/factor adjustment itself is not a log transformation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K543",
+    "before": null,
+    "after": "No evidence establishes absence of a point mass at zero; return/factor adjustment itself is not a log transformation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K544",
+    "before": null,
+    "after": "No evidence establishes absence of a point mass at zero; return/factor adjustment itself is not a log transformation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I186",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J186",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K186",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L186",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M186",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N186",
+    "before": null,
+    "after": "STLender×year-over-year change in enforcement rate, Table14 columns 2–3 (Loans/count-based in heading/prose), on three-year lender returns. Exact enforcement-rate denominator unresolved across caption and prose. Equation7 pp3509–3510."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O186",
+    "before": null,
+    "after": "One quarter FE set, no separate identifying-FE claim in this section. Continuous treatment dose. Heading Loans; prose says number in violation/number in breach; caption says all loan portfolio. Denominator unresolved. Coefficients are change-in-rate interactions, not unconditional effect of lender status. Preserve two source-reported constructions, not two confidently verified denominator populations. Caption distinguishes entire portfolio versus breached loans; p3510 describes breached-loan count versus value weights. Do not silently select one definition. Source: Eq7;Table14 cols2–3 pp.3509–3510. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+  }
+]
+```
