@@ -104907,3 +104907,234 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:22:08.457423+00:00 — Review 6T38MQ3Y s2: source-audited coding and linked comparisons
+
+37 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2068",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2069",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2068",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2069",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2068",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2069",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2069",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2068",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2069",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2068",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2069",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2068",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2069",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2068",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2069",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2068",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2069",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2068",
+    "before": null,
+    "after": "Table3B p.4313/PDF14, Mean excess return row: printed 3+ minus 0 contrast 0.48 percentage points/month paired with zero mentions portfolio mean 0.80%/month, 1995–2017. Within size terciles value-weighted, then averaged across terciles. Compare the raw excess-return contrast to this raw excess-return mean, not an alpha to a raw return mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2069",
+    "before": null,
+    "after": "Table3B p.4313/PDF14, Mean excess return row: printed 3+ minus 1 contrast 0.38 percentage points/month paired with one mention portfolio mean 0.90%/month, 1995–2017. Within size terciles value-weighted, then averaged across terciles. Compare the raw excess-return contrast to this raw excess-return mean, not an alpha to a raw return mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2068",
+    "before": null,
+    "after": "Observed comparator portfolio mean and contrast use the same return scale and period. However, the paper does not define a causal target/weighting construction establishing that this comparator mean is the untreated mean for the firms whose mention status is changed; unknown rather than assume alignment from shared sample. Table pairing only: the prose gives contrasts but does not verbalize their ratio to these base means. Preserve printed rounded values."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2069",
+    "before": null,
+    "after": "Observed comparator portfolio mean and contrast use the same return scale and period. However, the paper does not define a causal target/weighting construction establishing that this comparator mean is the untreated mean for the firms whose mention status is changed; unknown rather than assume alignment from shared sample. Table pairing only: the prose gives contrasts but does not verbalize their ratio to these base means. Preserve printed rounded values."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H497",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H498",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I497",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I498",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J497",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J498",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K497",
+    "before": null,
+    "after": "Monthly excess portfolio return in percent, not log returns; no evidence establishing a zero mass. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K498",
+    "before": null,
+    "after": "Reported outcome is monthly six-factor risk-adjusted excess-return alpha (Fama–French five factors plus momentum), in percent per month; other = factor adjustment, not log/standardization. No evidence establishing a point mass at zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I158",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J158",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K158",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L158",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M158",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N158",
+    "before": null,
+    "after": "Table3 PanelB: size-neutral 3+ versus 0/1 mention contrasts in monthly mean excess returns and six-factor alphas. Sort first into size terciles, then mention groups; average value-weighted portfolio outcomes across terciles."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O158",
+    "before": null,
+    "after": "Size stratification is regression-adjustment-style conditioning, not a separately established matching estimator. No identifying FE. Source: §1.3, Table3B p.4313/PDF14; pp.4313–4314; lines838–879,930–932.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574."
+  }
+]
+```
