@@ -16056,7 +16056,16 @@
     "L1829": "1",
     "M1829": "n/a",
     "N1829": "Scandinavian civil legal origin versus English common law; Random-effects ordered probit; overall IVA CSR rating0–6.",
-    "O1829": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Ordered-probit coefficients are latent-index effects, not rating-point or probability changes. Col7 relabels socialist countries; it belongs here, not GLS s2. Source: TableIV cols6–7 pp.873–875."
+    "O1829": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Ordered-probit coefficients are latent-index effects, not rating-point or probability changes. Col7 relabels socialist countries; it belongs here, not GLS s2. Source: TableIV cols6–7 pp.873–875.",
+    "A1830": "4MXMWKXM",
+    "B1830": "h7",
+    "I1830": "1",
+    "J1830": "OLS",
+    "K1830": "1",
+    "L1830": "0",
+    "M1830": "n/a",
+    "N1830": "German civil legal origin versus English common law; Random-effects GLS; ownership-control variants; overall IVA CSR rating0–6.",
+    "O1830": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Narrow original row to PanelA; PanelB is separately reported below. Source: TableV PanelA p.877."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -47113,7 +47122,14 @@
     "H4381": "0",
     "I4381": "unknown",
     "J4381": "none",
-    "K4381": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass. Ordered-probit coefficients are latent-index effects; observed rating remains untransformed."
+    "K4381": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass. Ordered-probit coefficients are latent-index effects; observed rating remains untransformed.",
+    "A4382": "4MXMWKXM",
+    "B4382": "h7",
+    "C4382": "hy1",
+    "H4382": "0",
+    "I4382": "unknown",
+    "J4382": "none",
+    "K4382": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
