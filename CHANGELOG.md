@@ -119175,3 +119175,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:42:10.976015+00:00 — Review 8ZEJGZST s7: source-audited coding and linked comparisons
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L129",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M129",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P129",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q129",
+    "before": null,
+    "after": "Sec4.4.2 p33 reports a21.1% reduction using -0.36 against odds1.7. Table7 p34 DRT(+4): col1 Abnormal=-.464(SE.109), col2 1-Abnormal=-.104(SE.093), col3 Diff(1)-(2)=-.360(SE.149). The author numerator therefore matches a between-group probit-coefficient difference, not the abnormal-group effect. Prose first says multiple versus single, but the benchmark sentence literally calls1.7 the odds of borrowing from a single bank. Preserve both statements; direction of the intended benchmark is unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R129",
+    "before": null,
+    "after": "Retain the explicit claimed comparison without validating it. Same underlying banking-response odds transformation is not by itself wrong-outcome evidence; the direction conflict is a separate unresolved source inconsistency. Do not silently invert1.7, replace it by odds of multiple lenders, or substitute -.464 for -.360. A difference of probit latent-index coefficients is not a difference of odds. other_level/n/a does not certify aligned scales."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J605",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K605",
+    "before": null,
+    "after": "Multiple banks indicator, one for more than one lender versus zero for a single lender; groups explicitly observed, Table4 p26 / Table7 p34 and pp24–25."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I212",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J212",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K212",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L212",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M212",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N212",
+    "before": null,
+    "after": "DRT event-time probit effects on multiple-bank indicator, by pre-DRT abnormal maturity and size; Table7 cols1–6 p34."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O212",
+    "before": null,
+    "after": "Nonlinear probit Other. Table7 says Firm FEs Yes and Year FEs Yes; prose says model similar to baseline state-FE probit (which explicitly omits firm FE). Retain this unresolved implementation inconsistency, not assert state FE certainly. The -.360 used in prose is the cross-group coefficient difference col3, not abnormal-group coefficient -.464 col1. Odds interpretation unsupported by probit transformation. Source: Sec4.4.2 p33; Table7 p34. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
+  }
+]
+```
