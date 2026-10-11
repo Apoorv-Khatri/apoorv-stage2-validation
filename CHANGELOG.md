@@ -29436,3 +29436,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:01:34.004457+00:00 — Review 3DI8S52Q s6: causal scope, outcomes and benchmark evidence
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I82",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J82",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K82",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L82",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M82",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N82",
+    "before": null,
+    "after": "Table VII A-B pp.396-397: continuous smoothed hedging-pressure effect on weeks t+1/t+2 returns; DCOT producers and comparable-period COT commercial measures, June 2007-December 2017, with/without controls. Short-term Q treatment separated into h3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O82",
+    "before": null,
+    "after": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Restore omitted COT columns as same-location alternative measurement/sample comparison, rather than treating them as absent. Fama-MacBeth OLS, no FE."
+  }
+]
+```
