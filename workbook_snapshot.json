@@ -15800,7 +15800,16 @@
     "L1815": "0",
     "M1815": "n/a",
     "N1815": "Positive REPAT versus REPAT=$0: cash-only versus hybrid/stock financing of foreign acquisitions, unadjusted deal-level mean contrast. Location: Table8 right-hand columns and Sec4.3, pp.190–192",
-    "O1815": "Authors explicitly introduce Sec4.3 as testing whether tax-induced foreign cash affects deal financing. Include despite weak significance. Binary threshold is separate from continuous dose. OLS is regression-equivalent mean contrast; no actual regression claimed. Table8 foreign-vs-domestic columns are descriptive context, not a separate tax treatment. Source estimates: {\"cash_positive_percent\": 85.61, \"cash_zero_percent\": 81.19, \"printed_cash_difference_pp\": 4.41, \"cash_difference_p\": 0.183, \"hybrid_stock_positive_percent\": 14.39, \"hybrid_stock_zero_percent\": 18.81}."
+    "O1815": "Authors explicitly introduce Sec4.3 as testing whether tax-induced foreign cash affects deal financing. Include despite weak significance. Binary threshold is separate from continuous dose. OLS is regression-equivalent mean contrast; no actual regression claimed. Table8 foreign-vs-domestic columns are descriptive context, not a separate tax treatment. Source estimates: {\"cash_positive_percent\": 85.61, \"cash_zero_percent\": 81.19, \"printed_cash_difference_pp\": 4.41, \"cash_difference_p\": 0.183, \"hybrid_stock_positive_percent\": 14.39, \"hybrid_stock_zero_percent\": 18.81}.",
+    "A1816": "3MVCXGJ3",
+    "B1816": "h13",
+    "I1816": "1",
+    "J1816": "unknown",
+    "K1816": "0",
+    "L1816": "0",
+    "M1816": "unknown",
+    "N1816": "REPAT and foreign stock-deal activity among firms engaging only in stock deals; untabulated substantive financing-mechanism robustness. Location: p.192 fn23",
+    "O1816": "Source says re-estimate our tests for stock-only firms n=126 and find no evidence REPAT is associated with foreign stock deals, interpreted as tax-induced cash leading to foreign cash transactions rather than general investment. Precise dependent variable(s), estimator, and columns rerun are not identified. Do not invent probit, count or CAR estimates. Keep one unresolved setting with broad outcome and explicit uncertainty rather than silently omit or create unsupported detailed settings."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46627,7 +46636,11 @@
     "H4347": "1",
     "I4347": "1",
     "J4347": "none",
-    "K4347": "Deal-level hybrid-or-stock financing indicator (complement of cash-only). Table8:14.39% positive REPAT vs18.81% zero REPAT. Retain reported complementary outcome; no separately printed effect estimate."
+    "K4347": "Deal-level hybrid-or-stock financing indicator (complement of cash-only). Table8:14.39% positive REPAT vs18.81% zero REPAT. Retain reported complementary outcome; no separately printed effect estimate.",
+    "A4348": "3MVCXGJ3",
+    "B4348": "h13",
+    "C4348": "hy1",
+    "K4348": "Foreign stock-deal activity among stock-only firms (n=126), fn23 p.192. Exact outcome definition and outcome set not stated; do not impute probability/count/CAR from the phrase our tests."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

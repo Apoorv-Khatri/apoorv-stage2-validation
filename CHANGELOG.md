@@ -36435,3 +36435,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:14:02.236515+00:00 — Review 3MVCXGJ3 h13: causal scope, outcomes and benchmark evidence
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4348",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4348",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4348",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4348",
+    "before": null,
+    "after": "Foreign stock-deal activity among stock-only firms (n=126), fn23 p.192. Exact outcome definition and outcome set not stated; do not impute probability/count/CAR from the phrase our tests."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1816",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1816",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1816",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1816",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1816",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1816",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1816",
+    "before": null,
+    "after": "REPAT and foreign stock-deal activity among firms engaging only in stock deals; untabulated substantive financing-mechanism robustness. Location: p.192 fn23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1816",
+    "before": null,
+    "after": "Source says re-estimate our tests for stock-only firms n=126 and find no evidence REPAT is associated with foreign stock deals, interpreted as tax-induced cash leading to foreign cash transactions rather than general investment. Precise dependent variable(s), estimator, and columns rerun are not identified. Do not invent probit, count or CAR estimates. Keep one unresolved setting with broad outcome and explicit uncertainty rather than silently omit or create unsupported detailed settings."
+  }
+]
+```
