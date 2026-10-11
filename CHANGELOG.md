@@ -83610,3 +83610,198 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:41:37.198421+00:00 — Review 4X76IAGM s9: source-audited coding and linked comparisons
+
+31 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1891",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A1892",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1891",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1892",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1891",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1892",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1891",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1892",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1891",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1892",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1891",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1892",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1891",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1892",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1891",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1892",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1891",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1892",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1891",
+    "before": null,
+    "after": "Table8 row3, Lender Profits column: -46.09% median impact. Sec6.3 computes intervention separately for each borrower then reports median impacts; each percentage uses own unaltered-trait model outcome as denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1892",
+    "before": null,
+    "after": "Table8 row3, Borrower Surplus column: +6.66% median impact. Sec6.3 computes intervention separately for each borrower then reports median impacts; each percentage uses own unaltered-trait model outcome as denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1891",
+    "before": null,
+    "after": "other_level because normalization is to each borrower’s own baseline outcome, followed by median aggregation, not an effect divided by a population mean/SD. Lender-profit cells omit % glyph, but main prose and plots establish percentage units. For preference welfare use same .95/no-present-bias evaluation on both sides."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1892",
+    "before": null,
+    "after": "other_level because normalization is to each borrower’s own baseline outcome, followed by median aggregation, not an effect divided by a population mean/SD. Lender-profit cells omit % glyph, but main prose and plots establish percentage units. For preference welfare use same .95/no-present-bias evaluation on both sides."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K462",
+    "before": null,
+    "after": "Chosen lender’s profits, median percentage impact from removing present bias. Median across borrower-specific percentage changes, NOT percentage change in a single median level. Surplus is a model welfare quantity; preference interventions use annual .95/no present bias welfare evaluation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K463",
+    "before": null,
+    "after": "Borrower surplus, median percentage impact from removing present bias. Median across borrower-specific percentage changes, NOT percentage change in a single median level. Surplus is a model welfare quantity; preference interventions use annual .95/no present bias welfare evaluation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I143",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J143",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K143",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L143",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M143",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N143",
+    "before": null,
+    "after": "Set each borrower’s continuous present-bias parameter beta to1; median changes in chosen-lender profits and own surplus, Table8 row3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O143",
+    "before": null,
+    "after": "Estimated nonlinear structural model, not IV, RCT or DiD. Assumes model primitives invariant under interventions; common cartel rate is taken as given except in rate-grid exercises. No randomized assignment or implemented excluded-instrument first stage. Heterogeneous original beta values imply a nonbinary parameter treatment. Separate Fig3 heterogeneity setting below. Source: Sec6.3, Table8 row3 p.19. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=19."
+  }
+]
+```
