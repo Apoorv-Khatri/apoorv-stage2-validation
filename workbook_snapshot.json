@@ -47,6 +47,7 @@
     "B14": "The effect of repatriation tax costs on U.S. multinational investment",
     "C14": "fin",
     "D14": 6,
+    "E14": "DONE — Main article and included Appendices A-B fully reviewed. Preserved six model settings with corrected scope; split REPAT/generated-cash treatments, nonlinear AJCA probability/count models, and foreign HDFE versus domestic two-dimension FE. Added linear-count and Tobit robustness, binary REPAT diversification/financing, stock-only uncertainty and substantive cash-retention result. Checked all outcomes/comparisons; CAR-versus-transaction-value rejected; CapEx benchmark attached to predicted-cash estimator. Unconditional continuous-treatment benchmark alignment unknown. Untabulated estimator/scope uncertainties and source rounding/definition inconsistencies explicitly recorded. Original model fields unchanged.",
     "A15": "4CG48IZI",
     "B15": "Capital flows and sovereign debt markets: Evidence from index rebalancings",
     "C15": "fin",
@@ -15827,7 +15828,16 @@
     "L1818": "0",
     "M1818": "n/a",
     "N1818": "Table5 cols4 p.188: continuous lagged REPAT effect on DOMESTIC acquisition-announcement CAR(-2,+2), percentage-point scale. Identifying year and target-industry FE; domestic-only target-country dummy is constant. Supporting domestic specificity comparison, split from foreign HDFE.",
-    "O1818": "Table labels all three FE sets Y, but U.S. domestic targets have no cross-country variation: count effective nonconstant dimensions, not an intercept-like country label. Coefficients -0.06 percentage points per treatment SD, insignificant. No no-FE OLS claimed; no qualifying same-outcome benchmark."
+    "O1818": "Table labels all three FE sets Y, but U.S. domestic targets have no cross-country variation: count effective nonconstant dimensions, not an intercept-like country label. Coefficients -0.06 percentage points per treatment SD, insignificant. No no-FE OLS claimed; no qualifying same-outcome benchmark.",
+    "A1819": "3MVCXGJ3",
+    "B1819": "h16",
+    "I1819": "1",
+    "J1819": "FE",
+    "K1819": "0",
+    "L1819": "0",
+    "M1819": "n/a",
+    "N1819": "Table5 cols5-6 p.188: continuous lagged Predicted foreign cash-REPAT effect on DOMESTIC acquisition-announcement CAR(-2,+2), percentage-point scale. Identifying year and target-industry FE; domestic-only target-country dummy is constant. Supporting domestic specificity comparison, split from foreign HDFE.",
+    "O1819": "Table labels all three FE sets Y, but U.S. domestic targets have no cross-country variation: count effective nonconstant dimensions, not an intercept-like country label. Coefficients -0.04/-0.10 percentage points per treatment SD, insignificant. No no-FE OLS claimed; no qualifying same-outcome benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46666,7 +46676,11 @@
     "A4350": "3MVCXGJ3",
     "B4350": "h15",
     "C4350": "hy1",
-    "K4350": "Five-day domestic-acquisition-announcement CAR(-2,+2) multiplied by100, percentage points. Table5 domestic columns."
+    "K4350": "Five-day domestic-acquisition-announcement CAR(-2,+2) multiplied by100, percentage points. Table5 domestic columns.",
+    "A4351": "3MVCXGJ3",
+    "B4351": "h16",
+    "C4351": "hy1",
+    "K4351": "Five-day domestic-acquisition-announcement CAR(-2,+2) multiplied by100, percentage points. Table5 domestic columns."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

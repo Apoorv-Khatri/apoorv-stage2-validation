@@ -36696,3 +36696,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:14:52.239488+00:00 — Review 3MVCXGJ3 h16: causal scope, outcomes and benchmark evidence
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4351",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4351",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4351",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4351",
+    "before": null,
+    "after": "Five-day domestic-acquisition-announcement CAR(-2,+2) multiplied by100, percentage points. Table5 domestic columns."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E14",
+    "before": null,
+    "after": "DONE — Main article and included Appendices A-B fully reviewed. Preserved six model settings with corrected scope; split REPAT/generated-cash treatments, nonlinear AJCA probability/count models, and foreign HDFE versus domestic two-dimension FE. Added linear-count and Tobit robustness, binary REPAT diversification/financing, stock-only uncertainty and substantive cash-retention result. Checked all outcomes/comparisons; CAR-versus-transaction-value rejected; CapEx benchmark attached to predicted-cash estimator. Unconditional continuous-treatment benchmark alignment unknown. Untabulated estimator/scope uncertainties and source rounding/definition inconsistencies explicitly recorded. Original model fields unchanged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1819",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1819",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1819",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1819",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1819",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1819",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1819",
+    "before": null,
+    "after": "Table5 cols5-6 p.188: continuous lagged Predicted foreign cash-REPAT effect on DOMESTIC acquisition-announcement CAR(-2,+2), percentage-point scale. Identifying year and target-industry FE; domestic-only target-country dummy is constant. Supporting domestic specificity comparison, split from foreign HDFE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1819",
+    "before": null,
+    "after": "Table labels all three FE sets Y, but U.S. domestic targets have no cross-country variation: count effective nonconstant dimensions, not an intercept-like country label. Coefficients -0.04/-0.10 percentage points per treatment SD, insignificant. No no-FE OLS claimed; no qualifying same-outcome benchmark."
+  }
+]
+```
