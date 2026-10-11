@@ -103407,3 +103407,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T05:49:09.895261+00:00 — Review 5IF5MIQQ h23: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4664",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4665",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4666",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4664",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4665",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4666",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4664",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4665",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4666",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4664",
+    "before": null,
+    "after": "ln(1+cumulative capital expenditures (excluding acquisition-related fixed-asset purchases)/date0 total assets), each separately estimated for t=1,2,3; Table13 matching columns. Keep three horizon estimates in this original-style outcome family rather than inventing one common coefficient."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4665",
+    "before": null,
+    "after": "ln(1+cumulative gross long-term-debt reduction (not net of new debt issues)/date0 total assets), each separately estimated for t=1,2,3; Table13 matching columns. Keep three horizon estimates in this original-style outcome family rather than inventing one common coefficient."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4666",
+    "before": null,
+    "after": "ln(1+cumulative research and development expense/date0 total assets), each separately estimated for t=1,2,3; Table13 matching columns. Keep three horizon estimates in this original-style outcome family rather than inventing one common coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1959",
+    "before": null,
+    "after": "5IF5MIQQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1959",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1959",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1959",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1959",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1959",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1959",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1959",
+    "before": null,
+    "after": "Continuous nonUSD proceeds log1p intensity; cumulative CAPEX, long-term-debt repayment and R&D t=1,2,3 Location: Table13 cols1–9, pp.739–741."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1959",
+    "before": null,
+    "after": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Source: Table13 cols1–9, pp.739–741. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion."
+  }
+]
+```

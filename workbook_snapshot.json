@@ -17521,7 +17521,16 @@
     "L1958": "0",
     "M1958": "n/a",
     "N1958": "Continuous nonUSD bond proceeds log1p intensity, cash use for rated/nonrated subsamples, t=1,2,3 Location: Table12 p738.",
-    "O1958": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Source: Table12 p738. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion."
+    "O1958": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Source: Table12 p738. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion.",
+    "A1959": "5IF5MIQQ",
+    "B1959": "h23",
+    "I1959": "1",
+    "J1959": "OLS",
+    "K1959": "0",
+    "L1959": "0",
+    "M1959": "n/a",
+    "N1959": "Continuous nonUSD proceeds log1p intensity; cumulative CAPEX, long-term-debt repayment and R&D t=1,2,3 Location: Table13 cols1–9, pp.739–741.",
+    "O1959": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Source: Table13 cols1–9, pp.739–741. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50367,7 +50376,19 @@
     "A4663": "5IF5MIQQ",
     "B4663": "h22",
     "C4663": "hy3",
-    "K4663": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction."
+    "K4663": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction.",
+    "A4664": "5IF5MIQQ",
+    "B4664": "h23",
+    "C4664": "hy1",
+    "K4664": "ln(1+cumulative capital expenditures (excluding acquisition-related fixed-asset purchases)/date0 total assets), each separately estimated for t=1,2,3; Table13 matching columns. Keep three horizon estimates in this original-style outcome family rather than inventing one common coefficient.",
+    "A4665": "5IF5MIQQ",
+    "B4665": "h23",
+    "C4665": "hy2",
+    "K4665": "ln(1+cumulative gross long-term-debt reduction (not net of new debt issues)/date0 total assets), each separately estimated for t=1,2,3; Table13 matching columns. Keep three horizon estimates in this original-style outcome family rather than inventing one common coefficient.",
+    "A4666": "5IF5MIQQ",
+    "B4666": "h23",
+    "C4666": "hy3",
+    "K4666": "ln(1+cumulative research and development expense/date0 total assets), each separately estimated for t=1,2,3; Table13 matching columns. Keep three horizon estimates in this original-style outcome family rather than inventing one common coefficient."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
