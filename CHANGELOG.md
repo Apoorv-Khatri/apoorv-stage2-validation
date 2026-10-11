@@ -105339,3 +105339,894 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:23:01.606457+00:00 — Review 6T38MQ3Y s6: source-audited coding and linked comparisons
+
+147 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2070",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2071",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2072",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2073",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2074",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2075",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2076",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2077",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2078",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2079",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2080",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2081",
+    "before": null,
+    "after": "6T38MQ3Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2070",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2071",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2072",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2073",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2074",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2075",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2076",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2077",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2078",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2079",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2080",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2081",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2070",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2071",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2072",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2073",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2074",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2075",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2076",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2077",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2078",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2079",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2080",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2081",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2070",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2071",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2072",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2073",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2074",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2075",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2076",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2077",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2078",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2079",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2080",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2081",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2070",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2071",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2072",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2073",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2074",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2075",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2076",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2077",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2078",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2079",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2080",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2081",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2070",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2071",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2072",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2073",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2074",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2075",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2076",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2077",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2078",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2079",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2080",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2081",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2070",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2071",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2072",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2073",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2074",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2075",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2076",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2077",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2078",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2079",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2080",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2081",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2070",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2071",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2072",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2073",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2074",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2075",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2076",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2077",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2078",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2079",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2080",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2081",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2070",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2071",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2072",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2073",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2074",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2075",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2076",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2077",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2078",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2079",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2080",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2081",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2070",
+    "before": null,
+    "after": "Figure5 upper left panel, p.4322/PDF23; §4 pp.4321–4322, lines1415–1430,1492–1523. cross-sector, 1-year cumulative adjusted sales growth. The panel pairs targeted/admired mean-growth bars and plots the t-statistic for Targeted−Admired; prose compares growth by these groups. Benchmark is the admired-firm mean on the same adjusted-growth scale. Exact per-horizon means and contrasts are NOT numerically labeled; source is graphical, and no exact number is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2071",
+    "before": null,
+    "after": "Figure5 upper left panel, p.4322/PDF23; §4 pp.4321–4322, lines1415–1430,1492–1523. cross-sector, 2-year cumulative adjusted sales growth. The panel pairs targeted/admired mean-growth bars and plots the t-statistic for Targeted−Admired; prose compares growth by these groups. Benchmark is the admired-firm mean on the same adjusted-growth scale. Exact per-horizon means and contrasts are NOT numerically labeled; source is graphical, and no exact number is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2072",
+    "before": null,
+    "after": "Figure5 upper left panel, p.4322/PDF23; §4 pp.4321–4322, lines1415–1430,1492–1523. cross-sector, 3-year cumulative adjusted sales growth. The panel pairs targeted/admired mean-growth bars and plots the t-statistic for Targeted−Admired; prose compares growth by these groups. Benchmark is the admired-firm mean on the same adjusted-growth scale. Exact per-horizon means and contrasts are NOT numerically labeled; source is graphical, and no exact number is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2073",
+    "before": null,
+    "after": "Figure5 upper right panel, p.4322/PDF23; §4 pp.4321–4322, lines1415–1430,1492–1523. cross-sector, 1-year cumulative adjusted operating income growth. The panel pairs targeted/admired mean-growth bars and plots the t-statistic for Targeted−Admired; prose compares growth by these groups. Benchmark is the admired-firm mean on the same adjusted-growth scale. Exact per-horizon means and contrasts are NOT numerically labeled; source is graphical, and no exact number is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2074",
+    "before": null,
+    "after": "Figure5 upper right panel, p.4322/PDF23; §4 pp.4321–4322, lines1415–1430,1492–1523. cross-sector, 2-year cumulative adjusted operating income growth. The panel pairs targeted/admired mean-growth bars and plots the t-statistic for Targeted−Admired; prose compares growth by these groups. Benchmark is the admired-firm mean on the same adjusted-growth scale. Exact per-horizon means and contrasts are NOT numerically labeled; source is graphical, and no exact number is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2075",
+    "before": null,
+    "after": "Figure5 upper right panel, p.4322/PDF23; §4 pp.4321–4322, lines1415–1430,1492–1523. cross-sector, 3-year cumulative adjusted operating income growth. The panel pairs targeted/admired mean-growth bars and plots the t-statistic for Targeted−Admired; prose compares growth by these groups. Benchmark is the admired-firm mean on the same adjusted-growth scale. Exact per-horizon means and contrasts are NOT numerically labeled; source is graphical, and no exact number is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2076",
+    "before": null,
+    "after": "Figure5 lower left panel, p.4322/PDF23; §4 pp.4321–4322, lines1415–1430,1492–1523. within-sector, 1-year cumulative adjusted sales growth. The panel pairs targeted/admired mean-growth bars and plots the t-statistic for Admired−Targeted; prose compares growth by these groups. Benchmark is the targeted-firm mean on the same adjusted-growth scale. Exact per-horizon means and contrasts are NOT numerically labeled; source is graphical, and no exact number is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2077",
+    "before": null,
+    "after": "Figure5 lower left panel, p.4322/PDF23; §4 pp.4321–4322, lines1415–1430,1492–1523. within-sector, 2-year cumulative adjusted sales growth. The panel pairs targeted/admired mean-growth bars and plots the t-statistic for Admired−Targeted; prose compares growth by these groups. Benchmark is the targeted-firm mean on the same adjusted-growth scale. Exact per-horizon means and contrasts are NOT numerically labeled; source is graphical, and no exact number is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2078",
+    "before": null,
+    "after": "Figure5 lower left panel, p.4322/PDF23; §4 pp.4321–4322, lines1415–1430,1492–1523. within-sector, 3-year cumulative adjusted sales growth. The panel pairs targeted/admired mean-growth bars and plots the t-statistic for Admired−Targeted; prose compares growth by these groups. Benchmark is the targeted-firm mean on the same adjusted-growth scale. Exact per-horizon means and contrasts are NOT numerically labeled; source is graphical, and no exact number is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2079",
+    "before": null,
+    "after": "Figure5 lower right panel, p.4322/PDF23; §4 pp.4321–4322, lines1415–1430,1492–1523. within-sector, 1-year cumulative adjusted operating income growth. The panel pairs targeted/admired mean-growth bars and plots the t-statistic for Admired−Targeted; prose compares growth by these groups. Benchmark is the targeted-firm mean on the same adjusted-growth scale. Exact per-horizon means and contrasts are NOT numerically labeled; source is graphical, and no exact number is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2080",
+    "before": null,
+    "after": "Figure5 lower right panel, p.4322/PDF23; §4 pp.4321–4322, lines1415–1430,1492–1523. within-sector, 2-year cumulative adjusted operating income growth. The panel pairs targeted/admired mean-growth bars and plots the t-statistic for Admired−Targeted; prose compares growth by these groups. Benchmark is the targeted-firm mean on the same adjusted-growth scale. Exact per-horizon means and contrasts are NOT numerically labeled; source is graphical, and no exact number is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2081",
+    "before": null,
+    "after": "Figure5 lower right panel, p.4322/PDF23; §4 pp.4321–4322, lines1415–1430,1492–1523. within-sector, 3-year cumulative adjusted operating income growth. The panel pairs targeted/admired mean-growth bars and plots the t-statistic for Admired−Targeted; prose compares growth by these groups. Benchmark is the targeted-firm mean on the same adjusted-growth scale. Exact per-horizon means and contrasts are NOT numerically labeled; source is graphical, and no exact number is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2070",
+    "before": null,
+    "after": "Deliberate graphical mean/difference comparison, not a separate descriptive-statistics mean. Authors report a cross-sector difference range across horizons (sales 1.1–2.1 pp; operating income 2.7–5.8 pp), but do not give an exact numerical value for each horizon. Do not assign endpoints to horizons. The common peer-median adjustment does not establish that the other group’s mean is the treated group’s counterfactual at common target weights; alignment unknown. The peer median itself is not a second comparison because it is part of constructing adjusted growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2071",
+    "before": null,
+    "after": "Deliberate graphical mean/difference comparison, not a separate descriptive-statistics mean. Authors report a cross-sector difference range across horizons (sales 1.1–2.1 pp; operating income 2.7–5.8 pp), but do not give an exact numerical value for each horizon. Do not assign endpoints to horizons. The common peer-median adjustment does not establish that the other group’s mean is the treated group’s counterfactual at common target weights; alignment unknown. The peer median itself is not a second comparison because it is part of constructing adjusted growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2072",
+    "before": null,
+    "after": "Deliberate graphical mean/difference comparison, not a separate descriptive-statistics mean. Authors report a cross-sector difference range across horizons (sales 1.1–2.1 pp; operating income 2.7–5.8 pp), but do not give an exact numerical value for each horizon. Do not assign endpoints to horizons. The common peer-median adjustment does not establish that the other group’s mean is the treated group’s counterfactual at common target weights; alignment unknown. The peer median itself is not a second comparison because it is part of constructing adjusted growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2073",
+    "before": null,
+    "after": "Deliberate graphical mean/difference comparison, not a separate descriptive-statistics mean. Authors report a cross-sector difference range across horizons (sales 1.1–2.1 pp; operating income 2.7–5.8 pp), but do not give an exact numerical value for each horizon. Do not assign endpoints to horizons. The common peer-median adjustment does not establish that the other group’s mean is the treated group’s counterfactual at common target weights; alignment unknown. The peer median itself is not a second comparison because it is part of constructing adjusted growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2074",
+    "before": null,
+    "after": "Deliberate graphical mean/difference comparison, not a separate descriptive-statistics mean. Authors report a cross-sector difference range across horizons (sales 1.1–2.1 pp; operating income 2.7–5.8 pp), but do not give an exact numerical value for each horizon. Do not assign endpoints to horizons. The common peer-median adjustment does not establish that the other group’s mean is the treated group’s counterfactual at common target weights; alignment unknown. The peer median itself is not a second comparison because it is part of constructing adjusted growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2075",
+    "before": null,
+    "after": "Deliberate graphical mean/difference comparison, not a separate descriptive-statistics mean. Authors report a cross-sector difference range across horizons (sales 1.1–2.1 pp; operating income 2.7–5.8 pp), but do not give an exact numerical value for each horizon. Do not assign endpoints to horizons. The common peer-median adjustment does not establish that the other group’s mean is the treated group’s counterfactual at common target weights; alignment unknown. The peer median itself is not a second comparison because it is part of constructing adjusted growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2076",
+    "before": null,
+    "after": "Deliberate graphical mean/difference comparison, not a separate descriptive-statistics mean. Authors report a cross-sector difference range across horizons (sales 1.1–2.1 pp; operating income 2.7–5.8 pp), but do not give an exact numerical value for each horizon. Do not assign endpoints to horizons. The common peer-median adjustment does not establish that the other group’s mean is the treated group’s counterfactual at common target weights; alignment unknown. The peer median itself is not a second comparison because it is part of constructing adjusted growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2077",
+    "before": null,
+    "after": "Deliberate graphical mean/difference comparison, not a separate descriptive-statistics mean. Authors report a cross-sector difference range across horizons (sales 1.1–2.1 pp; operating income 2.7–5.8 pp), but do not give an exact numerical value for each horizon. Do not assign endpoints to horizons. The common peer-median adjustment does not establish that the other group’s mean is the treated group’s counterfactual at common target weights; alignment unknown. The peer median itself is not a second comparison because it is part of constructing adjusted growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2078",
+    "before": null,
+    "after": "Deliberate graphical mean/difference comparison, not a separate descriptive-statistics mean. Authors report a cross-sector difference range across horizons (sales 1.1–2.1 pp; operating income 2.7–5.8 pp), but do not give an exact numerical value for each horizon. Do not assign endpoints to horizons. The common peer-median adjustment does not establish that the other group’s mean is the treated group’s counterfactual at common target weights; alignment unknown. The peer median itself is not a second comparison because it is part of constructing adjusted growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2079",
+    "before": null,
+    "after": "Deliberate graphical mean/difference comparison, not a separate descriptive-statistics mean. Authors report a cross-sector difference range across horizons (sales 1.1–2.1 pp; operating income 2.7–5.8 pp), but do not give an exact numerical value for each horizon. Do not assign endpoints to horizons. The common peer-median adjustment does not establish that the other group’s mean is the treated group’s counterfactual at common target weights; alignment unknown. The peer median itself is not a second comparison because it is part of constructing adjusted growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2080",
+    "before": null,
+    "after": "Deliberate graphical mean/difference comparison, not a separate descriptive-statistics mean. Authors report a cross-sector difference range across horizons (sales 1.1–2.1 pp; operating income 2.7–5.8 pp), but do not give an exact numerical value for each horizon. Do not assign endpoints to horizons. The common peer-median adjustment does not establish that the other group’s mean is the treated group’s counterfactual at common target weights; alignment unknown. The peer median itself is not a second comparison because it is part of constructing adjusted growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2081",
+    "before": null,
+    "after": "Deliberate graphical mean/difference comparison, not a separate descriptive-statistics mean. Authors report a cross-sector difference range across horizons (sales 1.1–2.1 pp; operating income 2.7–5.8 pp), but do not give an exact numerical value for each horizon. Do not assign endpoints to horizons. The common peer-median adjustment does not establish that the other group’s mean is the treated group’s counterfactual at common target weights; alignment unknown. The peer median itself is not a second comparison because it is part of constructing adjusted growth."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H502",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H503",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I502",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I503",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J502",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J503",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K502",
+    "before": null,
+    "after": "Percent change in sales over 1, 2, 3 years, adjusted by subtracting the comparable-firm median growth in the same GIC sector and 3×3 size/market-to-book cell; winsorized 1st/99th percentiles. This is an adjusted growth outcome, not log growth or outcome-SD units. Zero mass is not established. Figure5 p.4322/PDF23."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K503",
+    "before": null,
+    "after": "Percent change in operating income before depreciation/amortization over 1, 2, 3 years, adjusted by subtracting the comparable-firm median growth in the same GIC sector and 3×3 size/market-to-book cell; winsorized 1st/99th percentiles. This is an adjusted growth outcome, not log growth or outcome-SD units. Zero mass is not established. Figure5 p.4322/PDF23."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I162",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J162",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K162",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L162",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M162",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N162",
+    "before": null,
+    "after": "Figure5: targeted versus admired mentioned firms, separately cross- and within-GIC-sector, comparing 1-,2-,3-year cumulative sales and operating-income growth adjusted by comparable-firm median growth. Monthly classifications; winsorize growth at 1st/99th percentiles; Newey–West inference. Observational adjusted mean contrasts, not a treatment-matched causal estimator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O162",
+    "before": null,
+    "after": "Causal gate is supported by the “real effects” interpretation and discussion of within-sector targeting leading to competitive pressure and lower fundamentals (p.4322), not by the section title alone. Cross-sector interpretation is chiefly opportunity revelation rather than disclosure creating productive opportunities. Figure5 uses Targeted−Admired t-statistics above, Admired−Targeted below. Comparator-median adjustment is construction of the dependent variable, not a separately stated median benchmark magnitude comparison. Source: §4, pp.4321–4322/PDF22–23; Figure5 p.4322; lines1404–1523.. Source link: https://academic.oup.com/rfs/article/35/9/4300/6470574. Certainty: moderate: interpretive real-effects claim; exact graph magnitudes not numerically reported."
+  }
+]
+```
