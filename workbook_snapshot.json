@@ -15746,7 +15746,16 @@
     "L1809": "0",
     "M1809": "n/a",
     "N1809": "Lagged Predicted foreign cash-REPAT, foreign and domestic R&D expense/total assets ×100; industry-and-year FE regression. Location: Table7 PanelB cols2,4 pp.191–192",
-    "O1809": "Same source-confounding caveat as s6. No source-linked R&D magnitude comparison; means .32% and2.39% on p.190 are descriptive, not explicitly linked to these effects. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign_pp_assets\": 0.03, \"domestic_pp_assets\": 0.54}."
+    "O1809": "Same source-confounding caveat as s6. No source-linked R&D magnitude comparison; means .32% and2.39% on p.190 are descriptive, not explicitly linked to these effects. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign_pp_assets\": 0.03, \"domestic_pp_assets\": 0.54}.",
+    "A1810": "3MVCXGJ3",
+    "B1810": "h7",
+    "I1810": "1",
+    "J1810": "FE",
+    "K1810": "0",
+    "L1810": "0",
+    "M1810": "n/a",
+    "N1810": "Lagged REPAT, foreign and domestic acquisition counts, untabulated linear least-squares robustness to negative-binomial Eq.(2). Location: p.182 fn6, referring to Eq.(2)",
+    "O1810": "Footnote says OLS with two-way clustered SE arrives at same inferences. Eq.(2) includes year FE, so classify identifying FE rather than inventing a no-FE OLS. Numerical coefficients not reported. Proxy-specific reporting is implicit from rerunning the Eq.(2) models; note this scope inference. Year FE inherited from re-estimated Eq.(2); no claim that an unspecified no-FE regression was run."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46520,7 +46529,15 @@
     "A4336": "3MVCXGJ3",
     "B4336": "h6",
     "C4336": "hy2",
-    "K4336": "Domestic R&D expense in year t / total assets; Table7 PanelB. Tabulated linear dependent variable ×100."
+    "K4336": "Domestic R&D expense in year t / total assets; Table7 PanelB. Tabulated linear dependent variable ×100.",
+    "A4337": "3MVCXGJ3",
+    "B4337": "h7",
+    "C4337": "hy1",
+    "K4337": "Number of foreign cash acquisitions in year t; Eq.(2), fn6.",
+    "A4338": "3MVCXGJ3",
+    "B4338": "h7",
+    "C4338": "hy2",
+    "K4338": "Number of domestic cash acquisitions in year t; Eq.(2), fn6."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

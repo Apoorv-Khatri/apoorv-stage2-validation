@@ -35607,3 +35607,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:12:21.739631+00:00 — Review 3MVCXGJ3 h7: causal scope, outcomes and benchmark evidence
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4337",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4338",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4337",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4338",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4337",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4338",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4337",
+    "before": null,
+    "after": "Number of foreign cash acquisitions in year t; Eq.(2), fn6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4338",
+    "before": null,
+    "after": "Number of domestic cash acquisitions in year t; Eq.(2), fn6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1810",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1810",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1810",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1810",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1810",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1810",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1810",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1810",
+    "before": null,
+    "after": "Lagged REPAT, foreign and domestic acquisition counts, untabulated linear least-squares robustness to negative-binomial Eq.(2). Location: p.182 fn6, referring to Eq.(2)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1810",
+    "before": null,
+    "after": "Footnote says OLS with two-way clustered SE arrives at same inferences. Eq.(2) includes year FE, so classify identifying FE rather than inventing a no-FE OLS. Numerical coefficients not reported. Proxy-specific reporting is implicit from rerunning the Eq.(2) models; note this scope inference. Year FE inherited from re-estimated Eq.(2); no claim that an unspecified no-FE regression was run."
+  }
+]
+```
