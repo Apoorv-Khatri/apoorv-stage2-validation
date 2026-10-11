@@ -16233,7 +16233,16 @@
     "L1844": "0",
     "M1844": "n/a",
     "N1844": "Deepwater Horizon oil spill: post before/after effect on international oil-and-gas market shares.",
-    "O1844": "Country/industry FE only; no year FE. This is an adjusted temporal contrast, not DiD because there is no comparison-group interaction. Causal effect attributed to shock in pp.890–893, but susceptible to secular changes. Printed international-share effects are small decimal values; AppendixA defines proportion. No logged DV is reported. Source: TableX PanelB p.892; SecIV.E pp.890,893 col1."
+    "O1844": "Country/industry FE only; no year FE. This is an adjusted temporal contrast, not DiD because there is no comparison-group interaction. Causal effect attributed to shock in pp.890–893, but susceptible to secular changes. Printed international-share effects are small decimal values; AppendixA defines proportion. No logged DV is reported. Source: TableX PanelB p.892; SecIV.E pp.890,893 col1.",
+    "A1845": "4MXMWKXM",
+    "B1845": "h22",
+    "I1845": "1",
+    "J1845": "DiD_conventional",
+    "K1845": "1",
+    "L1845": "0",
+    "M1845": "n/a",
+    "N1845": "Deepwater Horizon oil spill: civil×post DiD effect on international oil-and-gas market shares.",
+    "O1845": "Country/year/industry FE. Civil-law interaction isolates relative change, conventional DiD under parallel trends; no modern estimator. Printed international-share effects are small decimal values; AppendixA defines proportion. No logged DV is reported. Source: TableX PanelB p.892; SecIV.E pp.890,893 col2."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -47922,7 +47931,14 @@
     "H4450": "0",
     "I4450": "unknown",
     "J4450": "none",
-    "K4450": "International market share: sales/total global industry-year sales among ASSET4 CSR-rated companies; all-listed-firm denominator robustness fn13. Printed international-share effects are small decimal values; AppendixA defines proportion. No logged DV is reported."
+    "K4450": "International market share: sales/total global industry-year sales among ASSET4 CSR-rated companies; all-listed-firm denominator robustness fn13. Printed international-share effects are small decimal values; AppendixA defines proportion. No logged DV is reported.",
+    "A4451": "4MXMWKXM",
+    "B4451": "h22",
+    "C4451": "hy1",
+    "H4451": "0",
+    "I4451": "unknown",
+    "J4451": "none",
+    "K4451": "International market share: sales/total global industry-year sales among ASSET4 CSR-rated companies; all-listed-firm denominator robustness fn13. Printed international-share effects are small decimal values; AppendixA defines proportion. No logged DV is reported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
