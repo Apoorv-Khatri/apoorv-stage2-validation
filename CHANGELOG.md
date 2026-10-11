@@ -7995,3 +7995,24 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T01:29:20.594105+00:00 — Review 2LWSD69M s19: causal scope, outcomes and benchmark evidence
+
+2 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I41",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O41",
+    "before": null,
+    "after": "Exclude under the pure prediction/descriptive exclusion in the supplied instructions. Tables 10-11 Panel A, Section 5.4, pp. 398,402-403: Authors explicitly call this the return predictability effect of BM controlling for size, investment, profitability and quality. Predictive covariate adjustment is not causally interpreted regression adjustment. The paper provides an economic explanation for the apparent premium decline, but does not interpret these signal coefficients as effects of changing X on Y. This decision is about interpretation, not the absence of randomization or remaining endogeneity."
+  }
+]
+```
