@@ -17350,7 +17350,16 @@
     "L1939": "1",
     "M1939": "n/a",
     "N1939": "Above versus below contemporaneous cross-country median Carry Trade: conditional contrast over Cash values, Cash×high and Cash×low, Tobit USD share for EME issuers Location: Table5 col3, p722.",
-    "O1939": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Binary threshold setting split from continuous index. Coefficients are cash slopes within binary groups; source does not report a standalone high-minus-low probability/share marginal effect. Footnote4 warns nonlinear interaction effects require margins; do not subtract coefficients and call it a marginal effect. Source: Table5 col3, p722. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+    "O1939": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Binary threshold setting split from continuous index. Coefficients are cash slopes within binary groups; source does not report a standalone high-minus-low probability/share marginal effect. Footnote4 warns nonlinear interaction effects require margins; do not subtract coefficients and call it a marginal effect. Source: Table5 col3, p722. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf.",
+    "A1940": "5IF5MIQQ",
+    "B1940": "h4",
+    "I1940": "1",
+    "J1940": "Other",
+    "K1940": "0",
+    "L1940": "0",
+    "M1940": "n/a",
+    "N1940": "Continuous FinDep and USD share among EME issuers, Tobit Location: Table6 col4, pp.724–725.",
+    "O1940": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Country/year FE, no industry FE; distinct outcome likelihood from MNL s4. Source: Table6 col4, pp.724–725. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50032,7 +50041,11 @@
     "H4625": "0",
     "I4625": "unknown",
     "J4625": "none",
-    "K4625": "USD proceeds share among EME issuance-years, Table5 col3. Ratio outcome is not binary; no transformation of dependent variable. Zero is a censoring boundary and other sample tables show nonUSD-only issuances, but zero incidence in the exact 1,751-row carry sample is not independently tabulated."
+    "K4625": "USD proceeds share among EME issuance-years, Table5 col3. Ratio outcome is not binary; no transformation of dependent variable. Zero is a censoring boundary and other sample tables show nonUSD-only issuances, but zero incidence in the exact 1,751-row carry sample is not independently tabulated.",
+    "A4626": "5IF5MIQQ",
+    "B4626": "h4",
+    "C4626": "hy1",
+    "K4626": "USD-denominated annual bond proceeds / total annual bond proceeds among issuers; continuous share, Tobit dependent variable. See parent setting location; no outcome-SD standardization."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
