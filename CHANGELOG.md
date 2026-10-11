@@ -50451,3 +50451,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:16:49.758874+00:00 — Review 4QJKKD9J s13: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K67",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K68",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R67",
+    "before": null,
+    "after": "Figure4(a) realized high/low binary group contrast is not continuous Fig4(b) estimator. Replace under h7/hc1; group mean benchmark rather than automatic other_level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R68",
+    "before": null,
+    "after": "Coefficient1.3 and omitted year1880 alone do not constitute a separate effect-to-outcome benchmark. Fig4(b) is an additive regression coefficient on cumulative-growth ratio, not proof of a1.3-times outcome-level effect. Intro p3 loosely says1.3times cumulative innovation; no separate reference population/value or normalization for that claim can be established. Do not turn event-study normalization into an other_level benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K426",
+    "before": null,
+    "after": "Remove assertion that regression dependent variable is normalized to1 in1880: this is explicitly stated for Fig4(a) plotting only. Exact denominator/aggregation of cumulative-growth ratio is not fully specified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I133",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J133",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K133",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L133",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M133",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N133",
+    "before": null,
+    "after": "Continuous standardized ΔMMA−O interacted with annual indicators: cumulative patent-growth event-study effects; only Fig4(b), not binary Fig4(a). Location: Published Sec6.3 and Fig4(b),p15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O133",
+    "before": null,
+    "after": "Location FE,state×year FE,controls×year interactions;1880 omitted;town-share weights;county/year clustered SE. Conventional continuous-dose event-study, not modern DiD. Outcome cumulative growth relative to1860–1865,winsorized5%;Fig4(a) plotting normalization is not automatically the regression normalization. Source: Published Sec6.3 and Fig4(b),p15."
+  }
+]
+```
