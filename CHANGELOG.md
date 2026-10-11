@@ -119643,3 +119643,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:43:03.351042+00:00 — Review 8ZEJGZST h2: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4745",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4745",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4745",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4745",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4745",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4745",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4745",
+    "before": null,
+    "after": "Number of banking relationships, ordered-logit dependent category/count; Table4 col4 p26/A2 p43. Not binary and no log transformation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2007",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2007",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2007",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2007",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2007",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2007",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2007",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2007",
+    "before": null,
+    "after": "DRT effects on number of banking relationships, ordered logit; Table4 col4 p26."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2007",
+    "before": null,
+    "after": "Distinct nonlinear count/order estimator and outcome from probit s3; state/year FE, size dummies and state trends; firm FE absent. No IV. Source: Table4 col4 p26. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
+  }
+]
+```

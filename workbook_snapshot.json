@@ -18305,7 +18305,16 @@
     "L2006": "0",
     "M2006": "n/a",
     "N2006": "DRT effects on number of banking relationships, linear OLS event-time implementation; Table4 col3 p26.",
-    "O2006": "Split from s3 because linear estimator differs from probit/ordered logit. Same conventional staggered DiD, not method OLS or FE. Firm/year FE, size bins and state trends; no state FE in col3. Source: Table4 col3 p26; Sec4.3 pp24–25. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
+    "O2006": "Split from s3 because linear estimator differs from probit/ordered logit. Same conventional staggered DiD, not method OLS or FE. Firm/year FE, size bins and state trends; no state FE in col3. Source: Table4 col3 p26; Sec4.3 pp24–25. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf.",
+    "A2007": "8ZEJGZST",
+    "B2007": "h2",
+    "I2007": "1",
+    "J2007": "Other",
+    "K2007": "1",
+    "L2007": "0",
+    "M2007": "n/a",
+    "N2007": "DRT effects on number of banking relationships, ordered logit; Table4 col4 p26.",
+    "O2007": "Distinct nonlinear count/order estimator and outcome from probit s3; state/year FE, size dummies and state trends; firm FE absent. No IV. Source: Table4 col4 p26. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52077,7 +52086,14 @@
     "H4744": "0",
     "I4744": "unknown",
     "J4744": "none",
-    "K4744": "Number of banks, financial institutions and cooperatives lending to firm in year; count outcome, Table4 col3 p26/A2 p43. Minimum/zero frequency not reported."
+    "K4744": "Number of banks, financial institutions and cooperatives lending to firm in year; count outcome, Table4 col3 p26/A2 p43. Minimum/zero frequency not reported.",
+    "A4745": "8ZEJGZST",
+    "B4745": "h2",
+    "C4745": "hy1",
+    "H4745": "0",
+    "I4745": "unknown",
+    "J4745": "none",
+    "K4745": "Number of banking relationships, ordered-logit dependent category/count; Table4 col4 p26/A2 p43. Not binary and no log transformation."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
