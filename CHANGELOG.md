@@ -116142,3 +116142,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:37:14.614668+00:00 — Review 8SZBUU3X s1: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H560",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H561",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I560",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I561",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J560",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J561",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K560",
+    "before": null,
+    "after": "Raw monthly dollar deposit inflows. Observed zero-deposit months established by p2984/Table V exclusion and author Appendix BIV caption; do not infer strictly positive deposits from panel-entry filters."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K561",
+    "before": null,
+    "after": "Income normalized by household reported income at mortgage origination, displayed as %ΔDep; not log or outcome-SD units. Caption describes deposit/origination-income ratio but prose treats zero deposits as−100% change. Additive centering does not affect slope; mass at zero on reported normalized/change scale unresolved. Underlying deposits can be zero in baseline; s11 col1 excludes them, which does not prove zero mass absent for a growth outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I194",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J194",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K194",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L194",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M194",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N194",
+    "before": null,
+    "after": "Actual household-month negative-equity indicator U=1{LTV≥100}, instrumented by Z=1{SLTV≥100}; linear 2SLS monthly dollar deposits and origination-income-normalized deposits. Table IV cols1–6 grouped as routine controls/sample variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O194",
+    "before": null,
+    "after": "Eq5 p2973 specifies ≥100; tables use >1. Receipt U is binary, not fitted probability or continuous SLTV. Exactly one excluded binary Z; SLTV uses cohort median origination LTV, synthetic30-year amortization and MSA HPI. MSA×time and origination-date×time absorb local demand and nationwide cohort/lending conditions; HH FE absorb invariant household heterogeneity. IV takes precedence regardless of FE count. Col3 substitutes ZIP×time; col4 adds flexible characteristics×time; col5 uses MSA×time×origination-year plus HH (two sets); col6 uses MSA×time, graduation-year×MSA×time, HH with origination-date×time absent (MSA×time nested). Main role supported by abstract and conclusion. Negative equity depth and probability cannot be separated economically (p2983), but implemented receipt remains binary. Source: Table IV p2982; eq5 pp2973–74; discussion pp2981–84. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8SZBUU3X.pdf."
+  }
+]
+```
