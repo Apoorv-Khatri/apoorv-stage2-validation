@@ -39219,3 +39219,168 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T03:13:18.367890+00:00 — Review 4MXMWKXM h2: source-audited coding and linked comparisons
+
+26 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1446",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1446",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1446",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1446",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1446",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1446",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1446",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1446",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1446",
+    "before": null,
+    "after": "p.875, Table IV cols (1),(2),(5): “7% higher CSR score (or a half-grade on a 0 to 6 scale)” and “more than 14%, or 0.85 to 1 of a grade.” Broad civil-law-versus-common-law summary; no numeric common-law mean or unique denominator identified. Table coefficients preserved as candidates, not exact origin-specific percentage claims. Candidate focal estimate (attribution unresolved): TableIV col1 Scandinavian coefficient0.502 IVA points; prose summarizes civil-law coefficients as 7% / half-grade."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1446",
+    "before": null,
+    "after": "Unresolved same-outcome benchmark construction and focal-estimate specificity. Do not count as a confirmed outcome_mean comparison. Null Human_benchmark means unresolved, not an unapproved code. If the denominator is later established as a score-scale level use other_level/aligned n/a; if established as common-law mean use outcome_mean and assess alignment separately. No one-grade denominator or Table II mean is supplied by this passage."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4377",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4377",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4377",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4377",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4377",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4377",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4377",
+    "before": null,
+    "after": "Overall MSCI IVA CSR rating, ordinal integer0–6 (CCC=0 through AAA=6); no transformation of observed dependent variable. TableI defines a zero-valued lowest rating category, but no zero frequency is supplied for this specific regression sample. Do not equate permitted support with observed sample mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1825",
+    "before": null,
+    "after": "4MXMWKXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1825",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1825",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1825",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1825",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1825",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1825",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1825",
+    "before": null,
+    "after": "Scandinavian civil legal origin versus English common law; Pooled OLS; overall IVA CSR rating0–6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1825",
+    "before": null,
+    "after": "Country-clustered SE; industry and year FE; no country FE, since legal origin is country-time-invariant. Omitted country-level confounding remains. An arm-versus-English coefficient is binary. Outcome ordinal score is not binary and is not SD-standardized. Source: TableIV col1 pp.873–875."
+  }
+]
+```
