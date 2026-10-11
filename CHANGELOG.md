@@ -35445,3 +35445,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:11:47.516710+00:00 — Review 3MVCXGJ3 s6: causal scope, outcomes and benchmark evidence
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I93",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J93",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K93",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L93",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M93",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N93",
+    "before": null,
+    "after": "Lagged REPAT, foreign and domestic R&D expense/total assets ×100; industry-and-year FE regression. Narrow to REPAT only. Location: Table7 PanelB cols1,3 pp.191–192; Eq.(7) pp.189–190"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O93",
+    "before": null,
+    "after": "Correct OLS to FE. Retain domestic R&D with explicit confounding caution, not as clean identification. Source attributes domestic correlation to domestic R&D credit and offshore IP planning. Tobit is a separate estimator below. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign_pp_assets\": 0.04, \"domestic_pp_assets\": 0.58}."
+  }
+]
+```
