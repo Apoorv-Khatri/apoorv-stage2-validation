@@ -17029,7 +17029,16 @@
     "L1912": "0",
     "M1912": "n/a",
     "N1912": "Prevailing interest rate changes cash available for repayments/effort; structural borrower and lender-perceived repayment model.",
-    "O1912": "Rate coefficients−2.395 and−2.208S$000 per unit rate; not the linear log-demand equation. Author says higher rates lower effort, beyond mechanical larger repayments. Joint nonlinear likelihood estimator remains Other. Source: Eq6 p.8; Table5 p.15; Sec5 p.14. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15."
+    "O1912": "Rate coefficients−2.395 and−2.208S$000 per unit rate; not the linear log-demand equation. Author says higher rates lower effort, beyond mechanical larger repayments. Joint nonlinear likelihood estimator remains Other. Source: Eq6 p.8; Table5 p.15; Sec5 p.14. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15.",
+    "A1913": "4X76IAGM",
+    "B1913": "h9",
+    "I1913": "1",
+    "J1913": "Other",
+    "K1913": "0",
+    "L1913": "0",
+    "M1913": "n/a",
+    "N1913": "One fewer missed payment with all past lenders changes expected borrower surplus at a new borrowing decision.",
+    "O1913": "Explicit model counterfactual supporting decision to omit dynamic incentives: average borrower surplus higher byS$.69 per week during a loan. No linked same-outcome benchmark; statements about6.5% discounting are a preference quantity, not surplus benchmark. Source: Sec3.5.3 p.11. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=11."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -49353,7 +49362,11 @@
     "A4564": "4X76IAGM",
     "B4564": "h8",
     "C4564": "hy2",
-    "K4564": "Lender-perceived fixed component of borrower cash available for repayment; structural coefficient inS$000."
+    "K4564": "Lender-perceived fixed component of borrower cash available for repayment; structural coefficient inS$000.",
+    "A4565": "4X76IAGM",
+    "B4565": "h9",
+    "C4565": "hy1",
+    "K4565": "Average borrower surplus increase per week of new loan after one fewer past missed payment with all past lenders, S$."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

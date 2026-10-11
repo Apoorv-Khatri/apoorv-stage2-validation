@@ -85308,3 +85308,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:45:32.442745+00:00 — Review 4X76IAGM h9: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4565",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4565",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4565",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4565",
+    "before": null,
+    "after": "Average borrower surplus increase per week of new loan after one fewer past missed payment with all past lenders, S$."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1913",
+    "before": null,
+    "after": "4X76IAGM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1913",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1913",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1913",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1913",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1913",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1913",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1913",
+    "before": null,
+    "after": "One fewer missed payment with all past lenders changes expected borrower surplus at a new borrowing decision."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1913",
+    "before": null,
+    "after": "Explicit model counterfactual supporting decision to omit dynamic incentives: average borrower surplus higher byS$.69 per week during a loan. No linked same-outcome benchmark; statements about6.5% discounting are a preference quantity, not surplus benchmark. Source: Sec3.5.3 p.11. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=11."
+  }
+]
+```
