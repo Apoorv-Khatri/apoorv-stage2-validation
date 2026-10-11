@@ -99909,3 +99909,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T04:53:32.006897+00:00 — Review 5IF5MIQQ s4: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H474",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I474",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J474",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K474",
+    "before": null,
+    "after": "spurious within narrowed parent setting; real outcome retained at h4/hy1. Preserve original model row/ID."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I149",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J149",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K149",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L149",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M149",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N149",
+    "before": null,
+    "after": "Continuous industry FinDep and multinomial issuance choice; FinDep=(CAPEX−operating cash flow)/CAPEX summed1990–2000 for US firms, then two-digit SIC median Location: Table6 cols1,3, pp.723–725."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O149",
+    "before": null,
+    "after": "Nonlinear implemented estimator: Other, regardless of FE. Observational conditional-exogeneity argument; no randomization, instrumented receipt, RD or DiD. Retain continuous FinDep MNL only; Tobit=h4 and binary threshold interaction=h5. Country/year FE; no industry FE in these columns because treatment industry-level. Source: Table6 cols1,3, pp.723–725. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf."
+  }
+]
+```
