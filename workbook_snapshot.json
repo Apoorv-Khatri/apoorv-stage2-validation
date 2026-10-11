@@ -18097,7 +18097,16 @@
     "L1999": "0",
     "M1999": "n/a",
     "N1999": "Bank enforcement rate (violations/all loans) on next-quarter loan volume growth, loan count growth and league-table-rank change. Location: TableD.1B p.3519; interpretation p.3501",
-    "O1999": "Quarter FE throughout; lender FE even columns. Caption explicitly links FE to unobserved lender characteristics/secular trends. Main prose attributes indirect costs to enforcement; include despite correlational wording. Source: TableD.1B p.3519; interpretation p.3501. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+    "O1999": "Quarter FE throughout; lender FE even columns. Caption explicitly links FE to unobserved lender characteristics/secular trends. Main prose attributes indirect costs to enforcement; include despite correlational wording. Source: TableD.1B p.3519; interpretation p.3501. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf.",
+    "A2000": "7PCAD73D",
+    "B2000": "h34",
+    "I2000": "1",
+    "J2000": "Other",
+    "K2000": "0",
+    "L2000": "0",
+    "M2000": "n/a",
+    "N2000": "Empirical calibrated enforcement-income counterfactual: vary number of average-loan enforcements to raise lender EPS by one cent. Location: Figure3 pp.3506–3507",
+    "O2000": "Nonlinear calibrated inverse accounting calculation, not IV/OLS. Uses fees, spread and loan-amount estimates, one quarterly interest payment, lender retained share, average loan size. Causal counterfactual under stated accounting assumptions, not independent identification. 1-cent target is not an outcome benchmark for the reported required-count outcome. Source: Figure3 pp.3506–3507. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -51546,7 +51555,14 @@
     "H4730": "0",
     "I4730": "unknown",
     "J4730": "other",
-    "K4730": "Next-quarter change in league-table rank based on market share"
+    "K4730": "Next-quarter change in league-table rank based on market share",
+    "A4731": "7PCAD73D",
+    "B4731": "h34",
+    "C4731": "hy1",
+    "H4731": "0",
+    "I4731": "unknown",
+    "J4731": "other",
+    "K4731": "Required number of average-loan enforcements to increase EPS one cent."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

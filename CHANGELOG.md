@@ -114966,3 +114966,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:34:59.460963+00:00 — Review 7PCAD73D h34: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4731",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4731",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4731",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4731",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4731",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4731",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4731",
+    "before": null,
+    "after": "Required number of average-loan enforcements to increase EPS one cent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2000",
+    "before": null,
+    "after": "7PCAD73D"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2000",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2000",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2000",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2000",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2000",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2000",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2000",
+    "before": null,
+    "after": "Empirical calibrated enforcement-income counterfactual: vary number of average-loan enforcements to raise lender EPS by one cent. Location: Figure3 pp.3506–3507"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2000",
+    "before": null,
+    "after": "Nonlinear calibrated inverse accounting calculation, not IV/OLS. Uses fees, spread and loan-amount estimates, one quarterly interest payment, lender retained share, average loan size. Causal counterfactual under stated accounting assumptions, not independent identification. 1-cent target is not an outcome benchmark for the reported required-count outcome. Source: Figure3 pp.3506–3507. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7PCAD73D.pdf."
+  }
+]
+```
