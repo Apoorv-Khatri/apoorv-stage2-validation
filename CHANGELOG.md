@@ -115707,3 +115707,132 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:36:01.894495+00:00 — Review 7TY4IBMQ s3: source-audited coding and linked comparisons
+
+20 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K106",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K107",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K108",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R106",
+    "before": null,
+    "after": "A real same-outcome volatility/Sharpe comparison exists: above-median versus below-median forecast-state return contrast is 6.31 annualized percentage points at H=4; discussion rounds to about −3% versus +3%, with annual SD near15% and Sharpe-ratio change about0.4. Reject because its focal contrast belongs to noncausal predictive setting s3, not because the SD comparison is absent. Wording refers jointly to horizon estimates, not exclusively PanelC. Table4 caption says spec2 slope is identical with/without FE and the displayed intercept comes from no-FE regression."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R107",
+    "before": null,
+    "after": "Real verbal magnitude comparison: approximately2.5 annualized percentage points for one predictor-SD at quarterly horizon versus unconditional state-variable average risk premia with absolute magnitudes0.2%–4.5%. Reject under the causal gate. Predictor SD alone is not an outcome benchmark; the separately linked unconditional means provide the benchmark here. If it were eligible, outcome_mean rather than other_level would describe the unconditional average-return benchmarks. Prose does not uniquely allocate the rounded2.5 to no-FE spec3 versus FE spec4."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R108",
+    "before": null,
+    "after": "Real verbal magnitude comparison: approximately3 annualized percentage points for one predictor-SD at annual horizon versus absolute unconditional average risk premia0.2%–4.5%. Reject under the causal gate. Predictor SD is not itself the qualifying benchmark; the outcome means are. Original other_level mislabels these means. Rounded prose spans specs3–4, so it does not resolve a unique column-level focal estimate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H551",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H552",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H553",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I551",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I552",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I553",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J551",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J552",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J553",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K551",
+    "before": null,
+    "after": "spurious: outcome belongs to rejected noncausal predictive/risk-pricing setting s3."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K552",
+    "before": null,
+    "after": "spurious: outcome belongs to rejected noncausal predictive/risk-pricing setting s3."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K553",
+    "before": null,
+    "after": "spurious: outcome belongs to rejected noncausal predictive/risk-pricing setting s3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I189",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O189",
+    "before": null,
+    "after": "Spurious causal setting: pooled predictive regressions test conditional ICAPM sign consistency of constructed risk-premium returns with lagged consumption-predictability slopes. Positive/above-median indicators select forecast states, not treated/control interventions. Authors use increases/effects to describe time-varying conditional expected returns. The extraction adds the unsupported claim that macro predictive content causally shifts risk prices. Actual state-variable FE remove unconditional cross-variable differences (p437); they do not convert this predictive estimand into an author-causal treatment effect. No binary/continuous or OLS/FE h-splits are warranted after the causal gate fails. Source: Section5.1, Eq.(9), Table4 pp437–439 (PDF10–12); Section2 Eqs.(1)–(4) pp431–432. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/7TY4IBMQ.pdf. Certainty: high for supplied article; separately referenced Online Appendix not directly inspected."
+  }
+]
+```
