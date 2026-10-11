@@ -15378,7 +15378,16 @@
     "L1781": "0",
     "M1781": "n/a",
     "N1781": "Section 8.5 pp. 802-803 (Table A.6): DCF-versus-alternative hedging-rule performance after excluding all crises or separately Asian crisis Jul 1997-Dec 1998, GFC Jul 2007-Mar 2009, European debt crisis May 2010-Dec 2012. Group sample exclusions; NOT a causal effect of crises.",
-    "O1781": "Implemented pairwise strategy-rule contrasts on common historical price paths, not a causal effect of macro predictors on market prices. Other = forecast-driven constrained mean-variance portfolio recomputation/backtest. Binary refers to adoption of one specified rule versus its comparator, not to the continuously varying monthly hedge ratio. OOS Jan 1997-Jul 2017 unless noted; transaction-cost and price-taking assumptions limit external interpretation. Retain substantive result explicitly reported in MAIN TEXT. Separate online appendix table not inspected; no unavailable coefficients, exact comparison levels or detailed table outcomes invented. No qualifying numerical same-outcome benchmark beyond the narrated contrast identified in main text."
+    "O1781": "Implemented pairwise strategy-rule contrasts on common historical price paths, not a causal effect of macro predictors on market prices. Other = forecast-driven constrained mean-variance portfolio recomputation/backtest. Binary refers to adoption of one specified rule versus its comparator, not to the continuously varying monthly hedge ratio. OOS Jan 1997-Jul 2017 unless noted; transaction-cost and price-taking assumptions limit external interpretation. Retain substantive result explicitly reported in MAIN TEXT. Separate online appendix table not inspected; no unavailable coefficients, exact comparison levels or detailed table outcomes invented. No qualifying numerical same-outcome benchmark beyond the narrated contrast identified in main text.",
+    "A1782": "2RLBINN9",
+    "B1782": "h7",
+    "I1782": "1",
+    "J1782": "Other",
+    "K1782": "1",
+    "L1782": "0",
+    "M1782": "n/a",
+    "N1782": "Section 8.6 p. 803 (Table A.7): double bid-ask spreads in the backtest versus baseline costs. DCF incremental annual returns decline about 20 basis points for equity and bond portfolios; relative performance remains similar. This is a transaction-cost parameter counterfactual, not a forecast of endogenous market impact.",
+    "O1782": "Implemented pairwise strategy-rule contrasts on common historical price paths, not a causal effect of macro predictors on market prices. Other = forecast-driven constrained mean-variance portfolio recomputation/backtest. Binary refers to adoption of one specified rule versus its comparator, not to the continuously varying monthly hedge ratio. OOS Jan 1997-Jul 2017 unless noted; transaction-cost and price-taking assumptions limit external interpretation. Retain substantive result explicitly reported in MAIN TEXT. Separate online appendix table not inspected; no unavailable coefficients, exact comparison levels or detailed table outcomes invented. No qualifying numerical same-outcome benchmark beyond the narrated contrast identified in main text."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -45839,7 +45848,14 @@
     "H4283": "0",
     "I4283": "unknown",
     "J4283": "other",
-    "K4283": "Portfolio CEQ return; reported contrasts relative to alternative rules."
+    "K4283": "Portfolio CEQ return; reported contrasts relative to alternative rules.",
+    "A4284": "2RLBINN9",
+    "B4284": "h7",
+    "C4284": "hy1",
+    "H4284": "0",
+    "I4284": "unknown",
+    "J4284": "none",
+    "K4284": "Incremental annual hedging return, percent per annum; change about -20 basis points under doubled spreads."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
