@@ -17218,7 +17218,16 @@
     "L1933": "0",
     "M1933": "n/a",
     "N1933": "Certain harassment by a regular lender versus no harassment in one period: monetary compensation required by median borrower.",
-    "O1933": "Structural compensating-variation interpretation, S$2,599.91. Direct disutility mechanism, not predictive calibration only. Comparisons to monthly income and loan principal are different outcomes and excluded. No estimate of a real-world experimental harassment intervention. Source: Sec3.5.3 p.11; Sec5 pp.14–15. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=14."
+    "O1933": "Structural compensating-variation interpretation, S$2,599.91. Direct disutility mechanism, not predictive calibration only. Comparisons to monthly income and loan principal are different outcomes and excluded. No estimate of a real-world experimental harassment intervention. Source: Sec3.5.3 p.11; Sec5 pp.14–15. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=14.",
+    "A1934": "4X76IAGM",
+    "B1934": "h30",
+    "I1934": "1",
+    "J1934": "Other",
+    "K1934": "1",
+    "L1934": "0",
+    "M1934": "n/a",
+    "N1934": "Certain harassment by a very harsh lender versus no harassment: required monetary compensation.",
+    "O1934": "Structural compensating variation S$5,301.48; distinct harassment severity treatment. Comparison to median loan size is not same-outcome benchmark. Source: Sec5 pp.14–15. Source link: file:///Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/4X76IAGM.pdf#page=15."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -49823,7 +49832,14 @@
     "H4617": "0",
     "I4617": "unknown",
     "J4617": "other",
-    "K4617": "Monetary compensation required by median borrower to accept certain harassment in one period, S$; model compensating variation."
+    "K4617": "Monetary compensation required by median borrower to accept certain harassment in one period, S$; model compensating variation.",
+    "A4618": "4X76IAGM",
+    "B4618": "h30",
+    "C4618": "hy1",
+    "H4618": "0",
+    "I4618": "unknown",
+    "J4618": "other",
+    "K4618": "Monetary compensation required by median borrower to accept certain harassment in one period, S$; model compensating variation."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
