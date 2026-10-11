@@ -35718,3 +35718,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:12:37.914420+00:00 — Review 3MVCXGJ3 h8: causal scope, outcomes and benchmark evidence
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4339",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4340",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4339",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4340",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4339",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4340",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4339",
+    "before": null,
+    "after": "Number of foreign cash acquisitions in year t; Eq.(2), fn6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4340",
+    "before": null,
+    "after": "Number of domestic cash acquisitions in year t; Eq.(2), fn6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1811",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1811",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1811",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1811",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1811",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1811",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1811",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1811",
+    "before": null,
+    "after": "Lagged Predicted foreign cash-REPAT, foreign and domestic acquisition counts, untabulated linear least-squares robustness to negative-binomial Eq.(2). Location: p.182 fn6, referring to Eq.(2)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1811",
+    "before": null,
+    "after": "Same evidence as h7; split distinct constructed treatment. No numerical results or benchmark reported. Year FE inherited from re-estimated Eq.(2); no claim that an unspecified no-FE regression was run."
+  }
+]
+```

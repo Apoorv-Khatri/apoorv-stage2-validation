@@ -15755,7 +15755,16 @@
     "L1810": "0",
     "M1810": "n/a",
     "N1810": "Lagged REPAT, foreign and domestic acquisition counts, untabulated linear least-squares robustness to negative-binomial Eq.(2). Location: p.182 fn6, referring to Eq.(2)",
-    "O1810": "Footnote says OLS with two-way clustered SE arrives at same inferences. Eq.(2) includes year FE, so classify identifying FE rather than inventing a no-FE OLS. Numerical coefficients not reported. Proxy-specific reporting is implicit from rerunning the Eq.(2) models; note this scope inference. Year FE inherited from re-estimated Eq.(2); no claim that an unspecified no-FE regression was run."
+    "O1810": "Footnote says OLS with two-way clustered SE arrives at same inferences. Eq.(2) includes year FE, so classify identifying FE rather than inventing a no-FE OLS. Numerical coefficients not reported. Proxy-specific reporting is implicit from rerunning the Eq.(2) models; note this scope inference. Year FE inherited from re-estimated Eq.(2); no claim that an unspecified no-FE regression was run.",
+    "A1811": "3MVCXGJ3",
+    "B1811": "h8",
+    "I1811": "1",
+    "J1811": "FE",
+    "K1811": "0",
+    "L1811": "0",
+    "M1811": "n/a",
+    "N1811": "Lagged Predicted foreign cash-REPAT, foreign and domestic acquisition counts, untabulated linear least-squares robustness to negative-binomial Eq.(2). Location: p.182 fn6, referring to Eq.(2)",
+    "O1811": "Same evidence as h7; split distinct constructed treatment. No numerical results or benchmark reported. Year FE inherited from re-estimated Eq.(2); no claim that an unspecified no-FE regression was run."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46537,7 +46546,15 @@
     "A4338": "3MVCXGJ3",
     "B4338": "h7",
     "C4338": "hy2",
-    "K4338": "Number of domestic cash acquisitions in year t; Eq.(2), fn6."
+    "K4338": "Number of domestic cash acquisitions in year t; Eq.(2), fn6.",
+    "A4339": "3MVCXGJ3",
+    "B4339": "h8",
+    "C4339": "hy1",
+    "K4339": "Number of foreign cash acquisitions in year t; Eq.(2), fn6.",
+    "A4340": "3MVCXGJ3",
+    "B4340": "h8",
+    "C4340": "hy2",
+    "K4340": "Number of domestic cash acquisitions in year t; Eq.(2), fn6."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
