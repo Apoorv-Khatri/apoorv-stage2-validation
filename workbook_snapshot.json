@@ -15764,7 +15764,16 @@
     "L1811": "0",
     "M1811": "n/a",
     "N1811": "Lagged Predicted foreign cash-REPAT, foreign and domestic acquisition counts, untabulated linear least-squares robustness to negative-binomial Eq.(2). Location: p.182 fn6, referring to Eq.(2)",
-    "O1811": "Same evidence as h7; split distinct constructed treatment. No numerical results or benchmark reported. Year FE inherited from re-estimated Eq.(2); no claim that an unspecified no-FE regression was run."
+    "O1811": "Same evidence as h7; split distinct constructed treatment. No numerical results or benchmark reported. Year FE inherited from re-estimated Eq.(2); no claim that an unspecified no-FE regression was run.",
+    "A1812": "3MVCXGJ3",
+    "B1812": "h9",
+    "I1812": "1",
+    "J1812": "Other",
+    "K1812": "0",
+    "L1812": "0",
+    "M1812": "n/a",
+    "N1812": "Lagged REPAT, foreign and domestic R&D/assets, untabulated Tobit robustness to Eq.(7). Location: p.189 fn21; Eq.(7); Table7 PanelB",
+    "O1812": "Tobit explicitly implemented because many BEA R&D observations equal zero; results consistent and stronger. Keep nonlinear Tobit separate from FE linear regression. No Tobit coefficients or precise marginal-effect definition printed. Source says missing BEA R&D often coded zero; observed zeros are not necessarily genuine economic zeros."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46554,7 +46563,15 @@
     "A4340": "3MVCXGJ3",
     "B4340": "h8",
     "C4340": "hy2",
-    "K4340": "Number of domestic cash acquisitions in year t; Eq.(2), fn6."
+    "K4340": "Number of domestic cash acquisitions in year t; Eq.(2), fn6.",
+    "A4341": "3MVCXGJ3",
+    "B4341": "h9",
+    "C4341": "hy1",
+    "K4341": "Foreign R&D expense in year t / total assets; Eq.(7), fn21. Tobit re-estimation; exact reporting scale of unpublished coefficients not stated.",
+    "A4342": "3MVCXGJ3",
+    "B4342": "h9",
+    "C4342": "hy2",
+    "K4342": "Domestic R&D expense in year t / total assets; Eq.(7), fn21. Tobit re-estimation; exact reporting scale of unpublished coefficients not stated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

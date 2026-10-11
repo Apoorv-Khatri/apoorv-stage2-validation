@@ -35829,3 +35829,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:12:56.076705+00:00 — Review 3MVCXGJ3 h9: causal scope, outcomes and benchmark evidence
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4341",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4342",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4341",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4342",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4341",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4342",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4341",
+    "before": null,
+    "after": "Foreign R&D expense in year t / total assets; Eq.(7), fn21. Tobit re-estimation; exact reporting scale of unpublished coefficients not stated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4342",
+    "before": null,
+    "after": "Domestic R&D expense in year t / total assets; Eq.(7), fn21. Tobit re-estimation; exact reporting scale of unpublished coefficients not stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1812",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1812",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1812",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1812",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1812",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1812",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1812",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1812",
+    "before": null,
+    "after": "Lagged REPAT, foreign and domestic R&D/assets, untabulated Tobit robustness to Eq.(7). Location: p.189 fn21; Eq.(7); Table7 PanelB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1812",
+    "before": null,
+    "after": "Tobit explicitly implemented because many BEA R&D observations equal zero; results consistent and stronger. Keep nonlinear Tobit separate from FE linear regression. No Tobit coefficients or precise marginal-effect definition printed. Source says missing BEA R&D often coded zero; observed zeros are not necessarily genuine economic zeros."
+  }
+]
+```
