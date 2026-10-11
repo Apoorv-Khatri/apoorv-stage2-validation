@@ -16321,7 +16321,16 @@
     "L1853": "0",
     "M1853": "unknown",
     "N1853": "State Involvement component predicted from Civil Law Origin and controls, then related to overall IVA rating; two-stage generated-regressor channel analysis, Table XI column 10. Exact IV-equivalent implementation unresolved.",
-    "O1853": "Source explicitly says “not an IV regression” (Table XI) and explains that civil law may act through other channels (p.894). The fitted-regressor recipe would equal an IV estimator under compatible linear projections, but the paper does not specify exact first-stage estimator/weighting; reference to Table IV model (2) establishes controls only. Do not assert a verified excluded-instrument set or LATE. Retain as substantive channel evidence, not a diagnostic-only first stage. Human_method unknown is implementation uncertainty, not Other and not a rejection based on identification quality. Source: TableXI col10 p.895; SecV p.894. Certainty: medium; exact stage weights/projection estimator and author-denial interpretation unresolved."
+    "O1853": "Source explicitly says “not an IV regression” (Table XI) and explains that civil law may act through other channels (p.894). The fitted-regressor recipe would equal an IV estimator under compatible linear projections, but the paper does not specify exact first-stage estimator/weighting; reference to Table IV model (2) establishes controls only. Do not assert a verified excluded-instrument set or LATE. Retain as substantive channel evidence, not a diagnostic-only first stage. Human_method unknown is implementation uncertainty, not Other and not a rejection based on identification quality. Source: TableXI col10 p.895; SecV p.894. Certainty: medium; exact stage weights/projection estimator and author-denial interpretation unresolved.",
+    "A1854": "4MXMWKXM",
+    "B1854": "h31",
+    "I1854": "1",
+    "J1854": "OLS",
+    "K1854": "0",
+    "L1854": "0",
+    "M1854": "n/a",
+    "N1854": "ROA as financial-capacity/valuation proxy for doing-good-by-doing-well mechanism; overall IVA rating. Pooled OLS.",
+    "O1854": "Include supporting alternative-mechanism effect: p.866 explicitly introduces ROA to capture doing-good-by-doing-well effect and MTB in robustness. Continuous proxy; regression controls/year/industry FE, no exogenous financial-performance shock. Empirical discussion uses association language; inclusion follows explicit mechanism claim, not proof of identification. Detailed outcome labels blank for nonbinary treatment. Source: TableIV cols1 pp.873–875; SecII.C.4 p.866. Certainty: medium: explicit mechanism interpretation, but reported in control discussion."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -48101,7 +48110,11 @@
     "A4459": "4MXMWKXM",
     "B4459": "h30",
     "C4459": "hy1",
-    "K4459": "Overall MSCI IVA CSR rating, ordered integer0–6, in second-stage channel regression. Observed ordinal score not latent probit and not SD standardized. Bottom rating explicitly maps to0; regression-subset zero frequency not reported."
+    "K4459": "Overall MSCI IVA CSR rating, ordered integer0–6, in second-stage channel regression. Observed ordinal score not latent probit and not SD standardized. Bottom rating explicitly maps to0; regression-subset zero frequency not reported.",
+    "A4460": "4MXMWKXM",
+    "B4460": "h31",
+    "C4460": "hy1",
+    "K4460": "Overall MSCI IVA CSR ordinal score0–6; no outcome standardization. Detailed outcome labels intentionally blank for nonbinary treatment."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
