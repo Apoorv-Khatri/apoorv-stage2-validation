@@ -17494,7 +17494,16 @@
     "L1955": "1",
     "M1955": "n/a",
     "N1955": "Continuous nonUSD bond proceeds log1p intensity, AE and EME cash-use slopes, t=1,2,3 Location: Eq2 and Table10 pp.733–735.",
-    "O1955": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Source: Eq2 and Table10 pp.733–735. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion."
+    "O1955": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Source: Eq2 and Table10 pp.733–735. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion.",
+    "A1956": "5IF5MIQQ",
+    "B1956": "h20",
+    "I1956": "1",
+    "J1956": "OLS",
+    "K1956": "0",
+    "L1956": "0",
+    "M1956": "n/a",
+    "N1956": "Continuous nonUSD bond proceeds log1p intensity, cash use in high/low FinDep subsamples, t=1,2,3 Location: Table11 pp.736–737.",
+    "O1956": "Linear regression adjustment on the reported log1p scale. Retain the actual year, industry and country indicator sets in the specification description, but classify OLS: the source lists these controls without an argument that their battery identifies the effect by addressing unobserved heterogeneity/endogeneity. Three dimensions alone do not qualify for HDFE, and FE is not an automatic fallback. Residual issuance/currency choice remains endogenous. Source: Table11 pp.736–737. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/5IF5MIQQ.pdf. Certainty: medium HDFE criterion."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -50304,7 +50313,19 @@
     "A4654": "5IF5MIQQ",
     "B4654": "h19",
     "C4654": "hy3",
-    "K4654": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction."
+    "K4654": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction.",
+    "A4655": "5IF5MIQQ",
+    "B4655": "h20",
+    "C4655": "hy1",
+    "K4655": "ln(1+(cash and short-term investments at t=1 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction.",
+    "A4656": "5IF5MIQQ",
+    "B4656": "h20",
+    "C4656": "hy2",
+    "K4656": "ln(1+(cash and short-term investments at t=2 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction.",
+    "A4657": "5IF5MIQQ",
+    "B4657": "h20",
+    "C4657": "hy3",
+    "K4657": "ln(1+(cash and short-term investments at t=3 minus date0 cash)/date0 total assets), with date0 fiscal year-end before bond issuance. Continuous signed stock change normalized once by initial assets; zeros not established by log1p construction."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
