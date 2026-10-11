@@ -15657,7 +15657,16 @@
     "L1803": "0",
     "M1803": "n/a",
     "N1803": "p.410 main-text report of Table IA.VII: DCOT producer profit attribution, including crisis-excluded sample. Gains from liquidity more than offset momentum losses and partly offset hedging costs. Distinct reported replication of TableXI decomposition.",
-    "O1803": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Main-text report only, separate Internet Appendix not inspected; no numerical table values invented."
+    "O1803": "Retained for the authors explicit price-pressure/liquidity causal interpretation, not as design-based proof. Observational position/return covariation can reflect omitted fundamentals and simultaneous trading. Main-text report only, separate Internet Appendix not inspected; no numerical table values invented.",
+    "A1804": "3MVCXGJ3",
+    "B1804": "h1",
+    "I1804": "1",
+    "J1804": "Other",
+    "K1804": "0",
+    "L1804": "1",
+    "M1804": "n/a",
+    "N1804": "Lagged Predicted foreign cash-REPAT (continuous generated proxy), foreign and domestic acquisition indicators; probit marginal effects per treatment SD. Location: Table3 cols2–3,5–6, pp.185–186",
+    "O1804": "Full Compustat n=24,312 and BEA n=2,726 are sample variants. Includes predicted-controls and BEA residual cash controls. Not IV. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign_full_pp\": 0.24, \"foreign_BEA_pp\": 0.28, \"domestic_full_pp\": 0.17, \"domestic_BEA_pp\": -0.97}."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -46361,7 +46370,15 @@
     "A4325": "3DI8S52Q",
     "B4325": "h19",
     "C4325": "hy1",
-    "K4325": "Annualized producer profit/loss components for liquidity provision, momentum and hedging demand."
+    "K4325": "Annualized producer profit/loss components for liquidity provision, momentum and hedging demand.",
+    "A4326": "3MVCXGJ3",
+    "B4326": "h1",
+    "C4326": "hy1",
+    "K4326": "Indicator for at least one foreign cash acquisition in year t; Table3 generated-proxy columns. Nonbinary-treatment setting: detailed human labels intentionally blank.",
+    "A4327": "3MVCXGJ3",
+    "B4327": "h1",
+    "C4327": "hy2",
+    "K4327": "Indicator for at least one domestic cash acquisition in year t; Table3 generated-proxy columns. Nonbinary-treatment setting: detailed human labels intentionally blank."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -61085,7 +61102,18 @@
     "O1439": "1",
     "P1439": "unknown",
     "Q1439": "p.186 fn16: Table3 col4 REPAT marginal effect0.33 percentage points compared with unconditional domestic acquisition probability20.6%, yielding source-reported relative change1.6%. Benchmark is original24,312 firm-years,1988–2004.",
-    "R1439": "Missing original comparison. Non-significance does not disqualify. Overall mean not established as appropriate untreated reference for continuous adjusted probit effect."
+    "R1439": "Missing original comparison. Non-significance does not disqualify. Overall mean not established as appropriate untreated reference for continuous adjusted probit effect.",
+    "A1440": "3MVCXGJ3",
+    "B1440": "h1",
+    "C1440": "hc1",
+    "K1440": "1",
+    "L1440": "hy1",
+    "M1440": "outcome_mean",
+    "N1440": "1",
+    "O1440": "1",
+    "P1440": "unknown",
+    "Q1440": "Introduction p.180: one SD increase in either proxy gives approximately5% relative increase in foreign-acquisition probability. Sec3.3.1 p.185 links ForInd mean4.5% to economic magnitude and says predicted proxy col2 yields similar magnitude; Table3 col2 p.186 is0.24 percentage points. Benchmark is24,312 Compustat firm-years1988–2004, not BEA-only n=2,726.",
+    "R1440": "Do not transfer this to col3 BEA estimate0.28. Author summary justifies divided1 without inventing a recalculated percentage. Alignment unknown for continuous generated-proxy marginal effect. "
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

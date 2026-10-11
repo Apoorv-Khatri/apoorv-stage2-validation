@@ -34398,3 +34398,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T02:09:07.329849+00:00 — Review 3MVCXGJ3 h1: causal scope, outcomes and benchmark evidence
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A1440",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B1440",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C1440",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1440",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1440",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1440",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1440",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1440",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1440",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1440",
+    "before": null,
+    "after": "Introduction p.180: one SD increase in either proxy gives approximately5% relative increase in foreign-acquisition probability. Sec3.3.1 p.185 links ForInd mean4.5% to economic magnitude and says predicted proxy col2 yields similar magnitude; Table3 col2 p.186 is0.24 percentage points. Benchmark is24,312 Compustat firm-years1988–2004, not BEA-only n=2,726."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1440",
+    "before": null,
+    "after": "Do not transfer this to col3 BEA estimate0.28. Author summary justifies divided1 without inventing a recalculated percentage. Alignment unknown for continuous generated-proxy marginal effect. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4326",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4327",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4326",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4327",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4326",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4327",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4326",
+    "before": null,
+    "after": "Indicator for at least one foreign cash acquisition in year t; Table3 generated-proxy columns. Nonbinary-treatment setting: detailed human labels intentionally blank."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4327",
+    "before": null,
+    "after": "Indicator for at least one domestic cash acquisition in year t; Table3 generated-proxy columns. Nonbinary-treatment setting: detailed human labels intentionally blank."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A1804",
+    "before": null,
+    "after": "3MVCXGJ3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B1804",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1804",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1804",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1804",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1804",
+    "before": null,
+    "after": "Lagged Predicted foreign cash-REPAT (continuous generated proxy), foreign and domestic acquisition indicators; probit marginal effects per treatment SD. Location: Table3 cols2–3,5–6, pp.185–186"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1804",
+    "before": null,
+    "after": "Full Compustat n=24,312 and BEA n=2,726 are sample variants. Includes predicted-controls and BEA residual cash controls. Not IV. Retained under authors tax-policy/locked-out-cash causal interpretation, not proof of exogeneity. Treatment standardization is not outcome-SD estimation. Source estimates: {\"foreign_full_pp\": 0.24, \"foreign_BEA_pp\": 0.28, \"domestic_full_pp\": 0.17, \"domestic_BEA_pp\": -0.97}."
+  }
+]
+```
