@@ -18314,7 +18314,16 @@
     "L2007": "0",
     "M2007": "n/a",
     "N2007": "DRT effects on number of banking relationships, ordered logit; Table4 col4 p26.",
-    "O2007": "Distinct nonlinear count/order estimator and outcome from probit s3; state/year FE, size dummies and state trends; firm FE absent. No IV. Source: Table4 col4 p26. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
+    "O2007": "Distinct nonlinear count/order estimator and outcome from probit s3; state/year FE, size dummies and state trends; firm FE absent. No IV. Source: Table4 col4 p26. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf.",
+    "A2008": "8ZEJGZST",
+    "B2008": "h3",
+    "I2008": "1",
+    "J2008": "OLS",
+    "K2008": "1",
+    "L2008": "0",
+    "M2008": "n/a",
+    "N2008": "Binary lagged Abnormal short debt maturity versus other firms contrast in abnormal stock returns around DRT news; Table8 cols1–6 p36.",
+    "O2008": "Separate focal binary regressor from Multiple (s8) in Eq2. OLS with day demeaning and benchmark-return outcome adjustment; no treatment-propensity matching estimator. Same news dates/windows as s8. Source: Sec4.5 pp33–36; Eq2 p34; Table8 p36. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52093,7 +52102,14 @@
     "H4745": "0",
     "I4745": "unknown",
     "J4745": "none",
-    "K4745": "Number of banking relationships, ordered-logit dependent category/count; Table4 col4 p26/A2 p43. Not binary and no log transformation."
+    "K4745": "Number of banking relationships, ordered-logit dependent category/count; Table4 col4 p26/A2 p43. Not binary and no log transformation.",
+    "A4746": "8ZEJGZST",
+    "B4746": "h3",
+    "C4746": "hy1",
+    "H4746": "0",
+    "I4746": "unknown",
+    "J4746": "none",
+    "K4746": "Abnormal stock return, same decimal-return outcome as s8:y1, Table8 p36; portfolio subtraction is benchmark adjustment, no logarithm."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

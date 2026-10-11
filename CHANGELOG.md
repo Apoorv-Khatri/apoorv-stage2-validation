@@ -119748,3 +119748,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-11T06:43:15.109803+00:00 — Review 8ZEJGZST h3: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4746",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4746",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4746",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4746",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4746",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4746",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4746",
+    "before": null,
+    "after": "Abnormal stock return, same decimal-return outcome as s8:y1, Table8 p36; portfolio subtraction is benchmark adjustment, no logarithm."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2008",
+    "before": null,
+    "after": "8ZEJGZST"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2008",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2008",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2008",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2008",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2008",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2008",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2008",
+    "before": null,
+    "after": "Binary lagged Abnormal short debt maturity versus other firms contrast in abnormal stock returns around DRT news; Table8 cols1–6 p36."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2008",
+    "before": null,
+    "after": "Separate focal binary regressor from Multiple (s8) in Eq2. OLS with day demeaning and benchmark-return outcome adjustment; no treatment-propensity matching estimator. Same news dates/windows as s8. Source: Sec4.5 pp33–36; Eq2 p34; Table8 p36. Source link: /Users/apoorvkhatri/Downloads/apoorv-stage2-validation/pdfs/8ZEJGZST.pdf."
+  }
+]
+```
