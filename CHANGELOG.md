@@ -346458,3 +346458,348 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:55:13.939123+00:00 — Review F4QBG3CB h71: source-audited coding and linked comparisons
+
+56 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4259",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4260",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4261",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4262",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4259",
+    "before": null,
+    "after": "h71"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4260",
+    "before": null,
+    "after": "h71"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4261",
+    "before": null,
+    "after": "h71"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4262",
+    "before": null,
+    "after": "h71"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4259",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4260",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4261",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4262",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4259",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4260",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4261",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4262",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4259",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4260",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4261",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4262",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4259",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4260",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4261",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4262",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4259",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4260",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4261",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4262",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4259",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4260",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4261",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4262",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4259",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4260",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4261",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4262",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4259",
+    "before": null,
+    "after": "IA4/TableIA1 IA PDF6 printed5: Logistic exit,nonparticipating preferred: claim value 0.243 without dividend versus0.244 with8% cumulative dividend. Explicit0.1%/0.5%-of-firm-value increments do not establish division by own-claim benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4260",
+    "before": null,
+    "after": "IA4/TableIA1 IA PDF6 printed5: Logistic exit,participating preferred: claim value 0.253 without dividend versus0.258 with8% cumulative dividend. Explicit0.1%/0.5%-of-firm-value increments do not establish division by own-claim benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4261",
+    "before": null,
+    "after": "Exponential5year exit robustness,nonparticipating: baseline claim value0.23, feature-on claim value0.248. IA4 verbally compares the securities; no normalization by own claim."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4262",
+    "before": null,
+    "after": "Exponential5year exit robustness,participating: baseline claim value0.282, feature-on claim value0.303. IA4 verbally compares the securities; no normalization by own claim."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6161",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6161",
+    "before": null,
+    "after": "h71"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6161",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6161",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6161",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6161",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6161",
+    "before": null,
+    "after": "Time-zero value of investor security/claim for the same underlying startup asset process (initial total firm value normalized1). Not total startup value."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2418",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2418",
+    "before": null,
+    "after": "h71"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2418",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2418",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2418",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2418",
+    "before": null,
+    "after": "Binary security-feature valuation contrast: 8% cumulative dividend versus no cumulative dividend."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2418",
+    "before": null,
+    "after": "Calibrated Monte Carlo valuation of contract cash-flow claims:1million GBM paths, initial firm value1,volatility90%,risk-free2%, bankruptcy below.15,initial investment.25,conversion14.7%,no later rounds. Holding asset process fixed, change security feature; author interprets incremental payoff values. Other, not causal effect of a forecast on firm value. Logistic endogenous exit baseline; exponential mean5year exit robustness grouped. Parameter values are assumptions, not estimated causal coefficients. Source: IA4/TableIA1 IA PDF6 printed5."
+  }
+]
+```
