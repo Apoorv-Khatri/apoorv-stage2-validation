@@ -166881,3 +166881,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:47:04.388578+00:00 — Review CETFVPE5 h5: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2440",
+    "before": null,
+    "after": "CETFVPE5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2440",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2440",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2440",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2440",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2440",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2440",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2440",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2440",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2440",
+    "before": null,
+    "after": "Published p154, §4.2, main-text report of Appendix TableA5 (main.txt lines1170–1184). Focal estimate: highest-minus-lowest volatility-quintile contrast; numeric difference not separately printed, t1.56. Conditional seasonal spread group levels: low73 and high111bps/month. Reference: 73bps/month in the lowest-volatility quintile. These are group-average monthly seasonal spreads; the spread is the focal outcome in this setting. Authors compare levels/differences in words, without a fraction, percentage or normalization. Full Appendix unavailable."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2440",
+    "before": null,
+    "after": "Eligibility is separate from alignment: the stated group level is a mean of the spread outcome at the outer moderator contrast, not an outcome SD or an estimated effect of another treatment on individual-stock return. The observed comparison-group mean is not established to represent the focal target’s untreated/counterfactual mean. Target weights, portfolio weighting and required population correspondence are unreported; use unknown, not automatically1 or0. No ratio or unprinted numeric difference has been calculated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5016",
+    "before": null,
+    "after": "CETFVPE5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5016",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5016",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5016",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5016",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5016",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5016",
+    "before": null,
+    "after": "Monthly seasonality return spread from conditional portfolio sorts: first sort by idiosyncratic volatility, then by past same-month minus other-month returns. Units: basis points/month. This spread, not an individual-stock return, is the outcome of the outer extreme-idiosyncratic volatility-group comparison. Exact second-sort legs/cutoffs and portfolio weights are not specified in the accessible A5 description. Nonbinary outcome; no log/SD transformation reported; observed zero mass unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2146",
+    "before": null,
+    "after": "CETFVPE5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2146",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2146",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2146",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2146",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2146",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2146",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2146",
+    "before": null,
+    "after": "Referenced TableA5 and §4.2: implemented highest-minus-lowest idiosyncratic-volatility quintile contrast in conditional seasonality return spreads. First sort on volatility quintile, then same-minus-other historical returns; low73bps/month, high111bps/month, extreme difference t1.56 (numeric difference not printed in prose)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2146",
+    "before": null,
+    "after": "Retain the author-interpreted limits-to-arbitrage mechanism and the explicitly compared two extreme groups, not the whole multi-bin dose. Linear sorted-group contrast: OLS, not Matching or DiD. Main-text implemented methodology and endpoint results suffice without the full A5 grid. Exact second-sort portfolio cutoffs, weights, dates and unreported coefficients remain unknown. The outcome here is the conditional seasonal return spread itself. Its group levels (low73 and high111bps/month) are therefore same-outcome reference levels for the outer idiosyncratic volatility contrast, not another treatment effect used as a benchmark for an individual-stock-return coefficient. Comparison hc1 is verbal without division; population alignment is unknown. Do not invent intermediate contrasts or calculate an unreported author estimate. Source: §4.2 p154 lines1146–1194; referenced TableA5."
+  }
+]
+```
