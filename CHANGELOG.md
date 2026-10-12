@@ -176463,3 +176463,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T10:10:21.872077+00:00 — Review ED5IDPT4 s3: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H902",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I902",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J902",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K902",
+    "before": null,
+    "after": "spurious within causal-setting inventory: parent s3 is a diagnostic proxy-validity regression, not a retained causal setting. Original CPIE definition is preserved; probability support or rounded 0/1 values do not themselves establish empirical zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I348",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O348",
+    "before": null,
+    "after": "Reject as diagnostic-only GPIN proxy-validity regression. Low R-squared of turnover heuristics and its rise when adding other data test model informativeness; they do not estimate a causal effect of changing either heuristic on information arrival. No new settings for continuous turn, turn-squared or incidental controls. Main stock-level and appendix stock-year diagnostics must not be conflated. Source: §4.1/Table7 pp809–810, main.txt L1099–1153."
+  }
+]
+```
