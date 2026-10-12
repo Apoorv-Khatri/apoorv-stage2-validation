@@ -148050,3 +148050,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:39:15.689444+00:00 — Review ACJ72JDD h36: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4981",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4982",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4983",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4984",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4981",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4982",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4983",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4984",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4981",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4982",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4983",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4984",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4981",
+    "before": null,
+    "after": "1LSg-linked flow in decomposed demand/arbitrage response regressions; exact separate Bitcoin/Tether/average flow definition and complete exchange set unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4982",
+    "before": null,
+    "after": "Other Poloniex/Bittrex-account flow in decomposed demand/arbitrage response regressions; exact separate Bitcoin/Tether/average flow definition and complete exchange set unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4983",
+    "before": null,
+    "after": "Flow to Binance in the Panel C account/exchange arbitrage-spread analysis of Table IA.XIII. Main p.1958 explicitly reports a positive spread relationship; whether the reported series is separate Tether, Bitcoin, or an average flow and its exact units remain unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4984",
+    "before": null,
+    "after": "Flow to Huobi in the Panel C account/exchange arbitrage-spread analysis of Table IA.XIII. Main p.1958 explicitly reports a positive spread relationship; whether the reported series is separate Tether, Bitcoin, or an average flow and its exact units remain unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2120",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2120",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2120",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2120",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2120",
+    "before": null,
+    "after": "Decomposed account/exchange flow response to USD-minus-Tether-exchange arbitrage return spread, analogous to TableVIII."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2120",
+    "before": null,
+    "after": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main reports similar demand results for1LSg/other accounts and positive arbitrage-spread relation for Binance/Huobi, not1LSg/other PLX/BTX. These are substantive alternative drivers, not pure forecasting. Full set of flow outcomes and standardized coefficients cannot be enumerated from primary alone. Source: p.1958 lines2057–2075; Table IA.XIII. Certainty: source-grounded."
+  }
+]
+```

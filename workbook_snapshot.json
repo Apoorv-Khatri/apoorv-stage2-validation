@@ -19697,7 +19697,16 @@
     "L2119": "0",
     "M2119": "n/a",
     "N2119": "Minimum-scope robustness of the Table VIII flow response using alternative Tether-price proxies: value-weighted and equal-weighted Tether-USD rates across available exchanges, and a synthetic rate from Bitfinex versus dollar-exchange Bitcoin prices; net Tether and Bitcoin flow outcomes. Tables IA.X, IA.XI, and IA.XII collectively; exact proxy-to-table mapping and additional setting splits unresolved.",
-    "O2119": "Main p.1958 explicitly reports that these proxies were constructed and gave similar results. This one minimum-scope record preserves implemented robustness, not a claim that the three tables are one fully verified estimator. Do not infer six treatment-by-proxy settings or any standardized coefficients without the appendix. h29–h33 remain candidate expansions outside the workbook. OLS is supported by direct substitution into the Table VIII regressions, but appendix-only estimator changes remain unchecked. Source: p.1958 lines2052–2057; Tables IA.X–IA.XII. Certainty: minimum proxy/table mapping from ordered primary list."
+    "O2119": "Main p.1958 explicitly reports that these proxies were constructed and gave similar results. This one minimum-scope record preserves implemented robustness, not a claim that the three tables are one fully verified estimator. Do not infer six treatment-by-proxy settings or any standardized coefficients without the appendix. h29–h33 remain candidate expansions outside the workbook. OLS is supported by direct substitution into the Table VIII regressions, but appendix-only estimator changes remain unchecked. Source: p.1958 lines2052–2057; Tables IA.X–IA.XII. Certainty: minimum proxy/table mapping from ordered primary list.",
+    "A2120": "ACJ72JDD",
+    "B2120": "h36",
+    "I2120": "1",
+    "J2120": "OLS",
+    "K2120": "0",
+    "L2120": "0",
+    "M2120": "n/a",
+    "N2120": "Decomposed account/exchange flow response to USD-minus-Tether-exchange arbitrage return spread, analogous to TableVIII.",
+    "O2120": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main reports similar demand results for1LSg/other accounts and positive arbitrage-spread relation for Binance/Huobi, not1LSg/other PLX/BTX. These are substantive alternative drivers, not pure forecasting. Full set of flow outcomes and standardized coefficients cannot be enumerated from primary alone. Source: p.1958 lines2057–2075; Table IA.XIII. Certainty: source-grounded."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55097,7 +55106,23 @@
     "A4980": "ACJ72JDD",
     "B4980": "h28",
     "C4980": "hy2",
-    "K4980": "Bitcoin flow in alternative Tether-price-proxy regressions; units/standardization and exact table assignment pending supplementary verification."
+    "K4980": "Bitcoin flow in alternative Tether-price-proxy regressions; units/standardization and exact table assignment pending supplementary verification.",
+    "A4981": "ACJ72JDD",
+    "B4981": "h36",
+    "C4981": "hy1",
+    "K4981": "1LSg-linked flow in decomposed demand/arbitrage response regressions; exact separate Bitcoin/Tether/average flow definition and complete exchange set unresolved.",
+    "A4982": "ACJ72JDD",
+    "B4982": "h36",
+    "C4982": "hy2",
+    "K4982": "Other Poloniex/Bittrex-account flow in decomposed demand/arbitrage response regressions; exact separate Bitcoin/Tether/average flow definition and complete exchange set unresolved.",
+    "A4983": "ACJ72JDD",
+    "B4983": "h36",
+    "C4983": "hy3",
+    "K4983": "Flow to Binance in the Panel C account/exchange arbitrage-spread analysis of Table IA.XIII. Main p.1958 explicitly reports a positive spread relationship; whether the reported series is separate Tether, Bitcoin, or an average flow and its exact units remain unresolved.",
+    "A4984": "ACJ72JDD",
+    "B4984": "h36",
+    "C4984": "hy4",
+    "K4984": "Flow to Huobi in the Panel C account/exchange arbitrage-spread analysis of Table IA.XIII. Main p.1958 explicitly reports a positive spread relationship; whether the reported series is separate Tether, Bitcoin, or an average flow and its exact units remain unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
