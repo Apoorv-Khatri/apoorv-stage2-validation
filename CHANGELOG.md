@@ -127473,3 +127473,270 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:32:34.742620+00:00 — Review 9SK5H9MK s12: source-audited coding and linked comparisons
+
+43 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K142",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K143",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K144",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L142",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L143",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L144",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M142",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M143",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M144",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N142",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N143",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N144",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O142",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O143",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O144",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P142",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P143",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P144",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q142",
+    "before": null,
+    "after": "Table IX Panel B p.1027/PDF29; §II.G pp.1026-1028. Focal estimate: high-minus-low 0.98 percentage points at entry. Benchmark: low-tercile pooled2000-2003 startup-cohort mean 4.19% of2000 CZ employment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q143",
+    "before": null,
+    "after": "Table IX Panel B p.1027/PDF29; §II.G pp.1026-1028. Focal estimate: high-minus-low 0.78 percentage points at two years. Benchmark: low-tercile pooled2000-2003 startup-cohort mean 3.64% of2000 CZ employment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q144",
+    "before": null,
+    "after": "Table IX Panel B p.1027/PDF29; §II.G pp.1026-1028. Focal estimate: high-minus-low 0.72 percentage points at four years. Benchmark: low-tercile pooled2000-2003 startup-cohort mean 3.17% of2000 CZ employment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R142",
+    "before": null,
+    "after": "Reclassify other_level→outcome_mean: this is a group average rate, not a median. Table deliberately juxtaposes high-low contrast and low-group mean. No division by low mean. Observational low-tercile mean is not demonstrated to be high-tercile untreated counterfactual; alignment unknown. Entry printed contrast0.98pp despite displayed high5.18%,low4.19%; preserve printed difference, possibly rounding. Table IX denominator caption employment versus prose population is unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R143",
+    "before": null,
+    "after": "Reclassify other_level→outcome_mean: this is a group average rate, not a median. Table deliberately juxtaposes high-low contrast and low-group mean. No division by low mean. Observational low-tercile mean is not demonstrated to be high-tercile untreated counterfactual; alignment unknown. Table IX denominator caption employment versus prose population is unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R144",
+    "before": null,
+    "after": "Reclassify other_level→outcome_mean: this is a group average rate, not a median. Table deliberately juxtaposes high-low contrast and low-group mean. No division by low mean. Observational low-tercile mean is not demonstrated to be high-tercile untreated counterfactual; alignment unknown. Table IX denominator caption employment versus prose population is unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H725",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H726",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H727",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I725",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I726",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I727",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J725",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J726",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J727",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K725",
+    "before": null,
+    "after": "Startup cohorts2000-2003 employment at entry divided by2000 CZ total employment, Table IX B. Caption employment versus adjacent prose population inconsistency retained; continuous share, not a survival indicator. Zero mass not established by source; nonnegative startup construction does not prove absence or presence of zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K726",
+    "before": null,
+    "after": "Startup cohorts2000-2003 employment after two years divided by2000 CZ total employment, Table IX B. Caption employment versus adjacent prose population inconsistency retained; continuous share, not a survival indicator. Zero mass not established by source; nonnegative startup construction does not prove absence or presence of zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K727",
+    "before": null,
+    "after": "Startup cohorts2000-2003 employment after four years divided by2000 CZ total employment, Table IX B. Caption employment versus adjacent prose population inconsistency retained; continuous share, not a survival indicator. Zero mass not established by source; nonnegative startup construction does not prove absence or presence of zeros."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I245",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J245",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K245",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L245",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M245",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N245",
+    "before": null,
+    "after": "Table IX B: unadjusted high-minus-low tercile realized income growth contrast in startup-cohort employment at entry, two and four years later, pooling 2000-2003 cohorts. Linear group-mean contrast; two-valued endpoint contrast, not 2SLS and not weighting/matching. Caption scales by CZ total employment as of2000."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O245",
+    "before": null,
+    "after": "Substantive job-resilience interpretation pp.1027-1028: authors discuss jobs created as a result of local opportunities, so retain intended causal-support contrast while explicitly acknowledging observational sorting. Firm age is cohort tracking, not the treatment. Caption says employment denominator; adjacent prose says population; do not silently fix. No conditional exchangeability/untreated-counterfactual construction established. Source: Table IX Panel B p.1027/PDF29; §II.G pp.1026-1028. Source link: https://doi.org/10.1111/jofi.12495. Certainty: moderate."
+  }
+]
+```
