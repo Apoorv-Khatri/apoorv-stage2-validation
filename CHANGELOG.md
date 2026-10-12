@@ -171870,3 +171870,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:17:55.340001+00:00 — Review DFSQYG6H s8: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H887",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I887",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J887",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K887",
+    "before": null,
+    "after": "Outcome definition retained. Zero mass unknown: rounded minimum 0.00 in descriptive Table1 is not proof of a point mass at zero in the matched estimation sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I335",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J335",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K335",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L335",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M335",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O335",
+    "before": null,
+    "after": "Conventional DiD/DDD takes priority over identifying FE. Firm+year or firm+industry×year are two effective FE sets, not HDFE. Post coefficients are printed alongside full year FE even though a common Post lies in their span; preserve reporting and flag implementation/normalization uncertainty, not an invented alternative estimator. Exposure is binary decimalization high-trading versus other firms; moderator is fixed in 2000. Triple interaction is differential treatment effect, not unconditional total. Treat×Post is the effect at DC/NL=0, with the triple term added at DC/NL=1. Null estimates do not establish equivalence. Captions abbreviate lower-order terms that are shown in table body/Eq8. Source: §5.2/Table14 pp922–924."
+  }
+]
+```
