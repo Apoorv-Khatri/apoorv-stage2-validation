@@ -148437,3 +148437,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:58:44.060849+00:00 — Review ANHCKZYX s1: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H780",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H781",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I780",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I781",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J780",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J781",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K780",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s1 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K781",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s1 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I273",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O273",
+    "before": null,
+    "after": "Outside causal scope: Replication of constructed long-short return means/Sharpe ratios is explicitly a test of existence and replicability of return predictability, not an estimated effect of a factor signal on prices. Holding a trading portfolio is not itself a treatment-effect estimand. The original extraction supplies a causal gloss not established by this source. Source: Table 2; §2.2 pp.1132–1134; text lines249–424. Certainty: source-grounded causal-gate recommendation."
+  }
+]
+```
