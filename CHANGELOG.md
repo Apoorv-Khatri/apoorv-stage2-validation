@@ -136629,3 +136629,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:47:31.629393+00:00 — Review 9XGMQWX5 h31: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4927",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4927",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4927",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4927",
+    "before": null,
+    "after": "Deal success indicator: 1 if IPO or acquisition value exceeds invested capital; 0 otherwise. Decimal probability scale."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E28",
+    "before": null,
+    "after": "DONE — Complete supplied final article, included appendices and author-hosted forthcoming Online Appendix reviewed. Separated OLS, direct daughters reduced forms and all-versus-senior single-continuous-instrument IV. Included children are controls, not excluded instruments; actual female-hired share remains continuous. Standalone Female VC founder correlation not promoted to a causal setting. Corrected excess-IRR benchmark/link, retained historical-active-hires denominator discrepancy and printed age/outcome/arithmetic conflicts. Final publisher supplement identity and exact scope of unlocated prose-only variants remain unverified. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2087",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2087",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2087",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2087",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2087",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2087",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2087",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2087",
+    "before": null,
+    "after": "Prose-only IV effect of continuous Female Hired Ratio on deal performance after excluding email respondents."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2087",
+    "before": null,
+    "after": "“Similarly, the IV results continue to hold.” Context is hiring and reduced-form deal performance under exclusion of email respondents. Exact excluded set (all-partner/senior or both separately) is not provided in recovered tables; do not pool hypothetical instruments or claim a verified single-continuous category here. No coefficients available. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Final §4.4 p.16."
+  }
+]
+```
