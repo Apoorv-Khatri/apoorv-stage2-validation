@@ -122412,3 +122412,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:24:09.962702+00:00 — Review 96H6UQNF s7: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H622",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I622",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J622",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K622",
+    "before": null,
+    "after": "Underlying estimated dependent variable is log(1+price-scaled quarterly EPS), Eq.(2). Economic impact is a derived treatment-effect functional; Table6 reports Wald statistics rather than a new dependent variable. No outcome SD normalization."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I227",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J227",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K227",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L227",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M227",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O227",
+    "before": null,
+    "after": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Substantive comparison of estimated temperature effects (First vs. Second Half), not diagnostic-only inference; keep underlying FE causal setting, not a causal effect of belonging to the subgroup. Wald statistics are tests, not outcome observations or magnitude benchmarks. Tail doubling is a continuous-dose functional, not a binary treatment. Group membership/time period is a moderator, not treatment. Supporting heterogeneity/mechanism/adaptation result. Source: §3.2.4 p.25; Table6 second row p.26. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```
