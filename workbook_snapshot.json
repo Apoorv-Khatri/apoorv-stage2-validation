@@ -20536,7 +20536,16 @@
     "L2177": "0",
     "M2177": "n/a",
     "N2177": "Internet Appendix TableA1 cols1–10, same regressions as Table3: MTB (market-to-book assets ratio) effect on cash ratio. Industry and year dummy controls; displayed period/control/liquidity-proxy variants grouped.",
-    "O2177": "Final prose explicitly interprets increased cash ratio with MTB. Include under broad author intention, not on A2 title alone; do not confuse with low/high-MTB Tobit subgroup comparisons. OLS with industry/year controls: no separately argued identifying role for those dummies. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
+    "O2177": "Final prose explicitly interprets increased cash ratio with MTB. Include under broad author intention, not on A2 title alone; do not confuse with low/high-MTB Tobit subgroup comparisons. OLS with industry/year controls: no separately argued identifying role for those dummies. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65.",
+    "A2178": "DFSQYG6H",
+    "B2178": "h11",
+    "I2178": "1",
+    "J2178": "FE",
+    "K2178": "0",
+    "L2178": "0",
+    "M2178": "n/a",
+    "N2178": "Internet Appendix TableA1 cols11–12, same regressions as Table3: MTB (market-to-book assets ratio) effect on cash ratio. Identifying firm and year fixed effects,1998–2015.",
+    "O2178": "Final prose explicitly interprets increased cash ratio with MTB. Include under broad author intention, not on A2 title alone; do not confuse with low/high-MTB Tobit subgroup comparisons. Identifying firm and year FE: final p909 explicitly targets time-invariant firm-specific omitted variables. Retain implemented sensitivity, without claiming its sign/significance matches OLS. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56689,7 +56698,11 @@
     "A5068": "DFSQYG6H",
     "B5068": "h10",
     "C5068": "hy1",
-    "K5068": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
+    "K5068": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged.",
+    "A5069": "DFSQYG6H",
+    "B5069": "h11",
+    "C5069": "hy1",
+    "K5069": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
