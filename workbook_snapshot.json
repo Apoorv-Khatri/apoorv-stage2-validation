@@ -22262,7 +22262,16 @@
     "L2342": "1",
     "M2342": "n/a",
     "N2342": "Electronic-filing-timing design in waves1–4: Table9C cols1–4 with nine-quarter window centered on electronic filing; separates filing event and subsequent Jan17,1994 online access, with broker-size interactions. Distinct from online-centered cols5–8 in s14.",
-    "O2342": "Substantive rival-treatment test: filing alone has no effect, online access does. Report lower-order policy effects plus broker-size interactions separately; neither is an unconditional total average effect. Conditional random rollout/matched control design and FE apply, but no explicit qualifying modern estimator for this altered timing specification. Not excluded simply because caption calls sample placebo. Source: Table9C cols1–4 PDF38; §3.2.2 PDF35–37."
+    "O2342": "Substantive rival-treatment test: filing alone has no effect, online access does. Report lower-order policy effects plus broker-size interactions separately; neither is an unconditional total average effect. Conditional random rollout/matched control design and FE apply, but no explicit qualifying modern estimator for this altered timing specification. Not excluded simply because caption calls sample placebo. Source: Table9C cols1–4 PDF38; §3.2.2 PDF35–37.",
+    "A2343": "EYWPN7YT",
+    "B2343": "h15",
+    "I2343": "1",
+    "J2343": "DiD_modern",
+    "K2343": "1",
+    "L2343": "0",
+    "M2343": "n/a",
+    "N2343": "EDGAR access effect on forecast informativeness after purging forecast revisions preceding first EDGAR filing in the inclusion quarter; estimated reduction grows by around25% in absolute terms.",
+    "O2343": "Implemented substantive outcome-construction robustness at separate footnote location. No numeric coefficient or table reported. Relative growth versus another effect is not an outcome benchmark. Source: PDF24 fn27."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -62773,7 +62782,14 @@
     "H5937": "0",
     "I5937": "unknown",
     "J5937": "other",
-    "K5937": "Analyst-stock long-term forecast inaccuracy for waves 1–4 subsample. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. Scope: Electronic-filing-timing design in waves1–4: Table9C cols1–4 with nine-quarter window centered on electronic filing; separates filing event and subsequent Jan17,1994 online access, with broker-size interactions. Distinct from online-centered cols5–8 in s14."
+    "K5937": "Analyst-stock long-term forecast inaccuracy for waves 1–4 subsample. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. Scope: Electronic-filing-timing design in waves1–4: Table9C cols1–4 with nine-quarter window centered on electronic filing; separates filing event and subsequent Jan17,1994 online access, with broker-size interactions. Distinct from online-centered cols5–8 in s14.",
+    "A5938": "EYWPN7YT",
+    "B5938": "h15",
+    "C5938": "hy1",
+    "H5938": "0",
+    "I5938": "unknown",
+    "J5938": "none",
+    "K5938": "Unsigned forecast informativeness: share of absolute abnormal returns attributable to forecast days, purging forecasts that precede first EDGAR filings in inclusion quarter."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

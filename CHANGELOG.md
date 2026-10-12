@@ -329358,3 +329358,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:09:09.930566+00:00 — Review EYWPN7YT h15: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5938",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5938",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5938",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5938",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5938",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5938",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5938",
+    "before": null,
+    "after": "Unsigned forecast informativeness: share of absolute abnormal returns attributable to forecast days, purging forecasts that precede first EDGAR filings in inclusion quarter."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2343",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2343",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2343",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2343",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2343",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2343",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2343",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2343",
+    "before": null,
+    "after": "EDGAR access effect on forecast informativeness after purging forecast revisions preceding first EDGAR filing in the inclusion quarter; estimated reduction grows by around25% in absolute terms."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2343",
+    "before": null,
+    "after": "Implemented substantive outcome-construction robustness at separate footnote location. No numeric coefficient or table reported. Relative growth versus another effect is not an outcome benchmark. Source: PDF24 fn27."
+  }
+]
+```
