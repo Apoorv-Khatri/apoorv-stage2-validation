@@ -169938,3 +169938,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:13:24.227029+00:00 — Review CN4YZYPH h14: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5042",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5043",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5042",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5043",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5042",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5043",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5042",
+    "before": null,
+    "after": "DGTW characteristic-adjusted annual stock return, fiscal year t (decimal return). Baseline outcome identity supplied for the stock/operating-performance robustness context; the untabulated sentence does not enumerate outcome-by-peer-type estimates or give coefficients."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5043",
+    "before": null,
+    "after": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1. Baseline outcome identity supplied for the stock/operating-performance robustness context; the untabulated sentence does not enumerate outcome-by-peer-type estimates or give coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2161",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2161",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2161",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2161",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2161",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2161",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2161",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2161",
+    "before": null,
+    "after": "RPQ ranking on previous-year raw ROE; untabulated alternative relative-quality effects on stock and operating performance, results qualitatively unchanged. Peer-type-specific coverage is not separately enumerated in the untabulated prose."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2161",
+    "before": null,
+    "after": "Implemented alternative-RPQ robustness and unchanged qualitative results are explicit. OLS is supported by the pooled-regression context of §6.1, but coefficients, exact columns and compensation-versus-bonus coverage are not reported separately. This is one minimum evidence record, not an asserted two-peer-type by two-outcome result grid. Source: §6.1 pp210–211; lines1141–1172,1234–1236."
+  }
+]
+```
