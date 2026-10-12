@@ -149220,3 +149220,234 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:02:02.561343+00:00 — Review ANHCKZYX s12: source-audited coding and linked comparisons
+
+37 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2244",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2245",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2244",
+    "before": null,
+    "after": "s12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2245",
+    "before": null,
+    "after": "s12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2244",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2245",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2244",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2245",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2244",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2245",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2244",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2245",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2244",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2245",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2244",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2245",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2244",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2245",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2244",
+    "before": null,
+    "after": "Table10 p.1147, row Panel, Rec./Exp. block; cached line1412. Printed Dif. (bad minus good)=-0.31 annualized percentage points; deliberately paired Exp. mean=5.17% annualized return. Benchmark is the index-adjusted pooled global-factor state mean in the Panel row, January1800–December2016. Other paired state: Rec.=4.86%, Exp.=5.17%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2245",
+    "before": null,
+    "after": "Table10 p.1147, row Panel, Rec./Exp. block; cached line1412. Printed Dif. (bad minus good)=-0.31 annualized percentage points; deliberately paired Rec. mean=4.86% annualized return. Benchmark is the index-adjusted pooled global-factor state mean in the Panel row, January1800–December2016. Other paired state: Rec.=4.86%, Exp.=5.17%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2244",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. Panel weights/normalization not supplied. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2245",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. Panel weights/normalization not supplied. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H803",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H804",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I803",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I804",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J803",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J804",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K803",
+    "before": null,
+    "after": "spurious under narrowed parent scope (not an incorrect empirical return): original individual-portfolio outcomes are now represented by h5/hy1 (recession), h6/hy1 (crisis), h7/hy1 (bear). s12 is retained only for the pooled recession contrast. Preserve original ID and model fields."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K804",
+    "before": null,
+    "after": "Monthly global factor portfolio return in the pooled index-intercept regression; annualized state mean levels and bad-minus-good coefficient reported in Table10 Panel row, Rec./Exp. columns. Underlying outcome is a return, not an estimate or a t-statistic. No point mass at zero established for these constructed portfolio returns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I284",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J284",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K284",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L284",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M284",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N284",
+    "before": null,
+    "after": "Table10 Rec./Exp. columns, Panel row: pooled common effect on monthly global factor portfolio returns, allowing index-specific intercepts. Treatment is recession versus expansion: at least six recession months in the calendar year versus otherwise. Sample January1800–December2016; reported contrasts and state levels are annualized percent returns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O284",
+    "before": null,
+    "after": "Broad intended-interpretation gate: Section 4.3 tests a substantive macroeconomic-risk mechanism, and the authors interpret the implemented state contrast as common effects/aggregate impact. Do not require induced recessions or an accepted exogeneity proof. Observational selection and contemporaneous state classification remain interpretation limits. Table10 panel has one asset class–factor/index FE set and date-clustered SE, not date FE. Source does not establish an identifying role for the FE beyond pooled level adjustment; code OLS/regression adjustment, not FE/HDFE. Individual contrasts and pooled common coefficients are distinct estimands, not method-only FE splits. Source: §4.3 pp.1146–1147, Table10; cached lines1308–1418. Certainty: Recommended broad-gate adjudication; FE role not independently identifying on available source."
+  }
+]
+```
