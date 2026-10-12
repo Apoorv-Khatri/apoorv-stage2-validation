@@ -19209,7 +19209,16 @@
     "L2075": "0",
     "M2075": "single continuous",
     "N2075": "OnlineA6(3–4): Female Hired Ratio on IPO-only deal outcome, 2SLS with average daughters of all partners as the one excluded instrument.",
-    "O2075": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. Receipt is continuous; average children remains included. No same-outcome benchmark paired with these estimates. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Author forthcoming manuscript Table Online A6, printed/PDF p.50; final article §4.4 p.16."
+    "O2075": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. Receipt is continuous; average children remains included. No same-outcome benchmark paired with these estimates. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Author forthcoming manuscript Table Online A6, printed/PDF p.50; final article §4.4 p.16.",
+    "A2076": "9XGMQWX5",
+    "B2076": "h20",
+    "I2076": "1",
+    "J2076": "IV",
+    "K2076": "0",
+    "L2076": "0",
+    "M2076": "single continuous",
+    "N2076": "OnlineA6(5–6): Female Hired Ratio on IPO-only deal outcome, 2SLS with average daughters of senior partners as the one excluded instrument.",
+    "O2076": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. Receipt is continuous; average children remains included. No same-outcome benchmark paired with these estimates. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Author forthcoming manuscript Table Online A6, printed/PDF p.50; final article §4.4 p.16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54142,7 +54151,11 @@
     "A4915": "9XGMQWX5",
     "B4915": "h19",
     "C4915": "hy1",
-    "K4915": "IPO indicator, equal to 1 if the deal went public, 0 otherwise; not the broader IPO-or-profitable-acquisition success measure."
+    "K4915": "IPO indicator, equal to 1 if the deal went public, 0 otherwise; not the broader IPO-or-profitable-acquisition success measure.",
+    "A4916": "9XGMQWX5",
+    "B4916": "h20",
+    "C4916": "hy1",
+    "K4916": "IPO indicator, equal to 1 if the deal went public, 0 otherwise; not the broader IPO-or-profitable-acquisition success measure."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
