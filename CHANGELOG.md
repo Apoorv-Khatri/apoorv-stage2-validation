@@ -327573,3 +327573,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:06:02.354741+00:00 — Review EYWPN7YT h2: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5912",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5913",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5912",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5913",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5912",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5913",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5912",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5913",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5912",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5913",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5912",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5913",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5912",
+    "before": null,
+    "after": "Number of analysts covering the stock in the fiscal quarter, counting unique I/B/E/S analyst identifiers.  Scope: Dynamic event-time EDGAR access effects on coverage, 2: post-treatment path at stock and analyst-stock level, beyond static inclusion-quarter/pooled-four-quarter estimates. Pre-event coefficients are diagnostic only."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5913",
+    "before": null,
+    "after": "Indicator equal to one if analyst k issues coverage/earnings forecast for firm i in quarter t. Coverage indicator takes 1 if analyst covers firm that quarter and 0 otherwise (Table3 note); zero category is explicitly implemented, contrary to model zero_mass=0. Scope: Dynamic event-time EDGAR access effects on coverage, 2: post-treatment path at stock and analyst-stock level, beyond static inclusion-quarter/pooled-four-quarter estimates. Pre-event coefficients are diagnostic only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2332",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2332",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2332",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2332",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2332",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2332",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2332",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2332",
+    "before": null,
+    "after": "Dynamic event-time EDGAR access effects on coverage, 2: post-treatment path at stock and analyst-stock level, beyond static inclusion-quarter/pooled-four-quarter estimates. Pre-event coefficients are diagnostic only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2332",
+    "before": null,
+    "after": "Implemented Cengiz et al. (2019) stacked-regression estimator: cohort-specific datasets, clean future-treated controls, nine-quarter window, explicitly addressing time-varying effects and treatment-effect heterogeneity (§1.2–1.3, PDF9–10). This is not modern merely because adoption is staggered. Administrative randomized rollout is analyzed with DD, not a separately implemented experimental ITT. Matching is preprocessing; no IV or separate identifying-FE/OLS setting. Authors interpret persistent post-treatment changes, not only parallel-trends checks. Numerical graph coordinates not invented; no separate means or SD benchmarks linked to these dynamic coefficients. Source: Figure2 PDF16–17; §2.2."
+  }
+]
+```
