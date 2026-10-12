@@ -134976,3 +134976,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:43:17.280822+00:00 — Review 9XGMQWX5 h12: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4908",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4908",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4908",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4908",
+    "before": null,
+    "after": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2068",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2068",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2068",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2068",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2068",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2068",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2068",
+    "before": null,
+    "after": "OnlineA4: average daughters conditional on children on female hiring, excluding email-solicited children information; all/senior variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2068",
+    "before": null,
+    "after": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific.  Source: Author forthcoming manuscript Table Online A4, printed/PDF p.48; final article §4.4 p.16."
+  }
+]
+```

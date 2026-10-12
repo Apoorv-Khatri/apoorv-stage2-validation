@@ -19137,7 +19137,16 @@
     "L2067": "0",
     "M2067": "n/a",
     "N2067": "OnlineA3: average daughters conditional on average children on female hiring, restricting to observations with children age information; all/senior partner variants.",
-    "O2067": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. OnlineA3(2) is numerically the A7(1) benchmark; count it only here as the all-age restricted-sample dose. Source: Author forthcoming manuscript Table Online A3, printed/PDF p.47; final article §4.4 p.16."
+    "O2067": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. OnlineA3(2) is numerically the A7(1) benchmark; count it only here as the all-age restricted-sample dose. Source: Author forthcoming manuscript Table Online A3, printed/PDF p.47; final article §4.4 p.16.",
+    "A2068": "9XGMQWX5",
+    "B2068": "h12",
+    "I2068": "1",
+    "J2068": "OLS",
+    "K2068": "0",
+    "L2068": "0",
+    "M2068": "n/a",
+    "N2068": "OnlineA4: average daughters conditional on children on female hiring, excluding email-solicited children information; all/senior variants.",
+    "O2068": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific.  Source: Author forthcoming manuscript Table Online A4, printed/PDF p.48; final article §4.4 p.16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54038,7 +54047,11 @@
     "A4907": "9XGMQWX5",
     "B4907": "h11",
     "C4907": "hy1",
-    "K4907": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level."
+    "K4907": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level.",
+    "A4908": "9XGMQWX5",
+    "B4908": "h12",
+    "C4908": "hy1",
+    "K4908": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
