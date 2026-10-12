@@ -176133,3 +176133,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:50:02.515425+00:00 — Review DPFRSKRY h10: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5095",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5095",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5095",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5095",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5095",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5095",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5095",
+    "before": null,
+    "after": "Portfolio weight of disaster-zone stock s in far mutual fund m at quarter end, percent of fund portfolio. No reported evidence establishes exact-zero mass in the estimation sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2204",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2204",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2204",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2204",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2204",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2204",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2204",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2204",
+    "before": null,
+    "after": "Table3 cols2–6, own POST parameter: binary post-disaster change for FAR funds in disaster-zone stock portfolio weights, conditional on identifying fund, county and time FE, with routine control variants; POST coefficients −.041,−.040,−.041,−.042,−.034 percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2204",
+    "before": null,
+    "after": "Genuine identifying-FE split from h9 for the separately interpreted far-fund before/after parameter, not a split of the DiD parameter s1. Retain HDFE on the contextual reading of county as firm/disaster geography: fund + county + time supplies three effective sets even if year is nested in calendar-quarter effects. County and disaster-quarter indexing are not explicitly defined; effective rank/nonnesting cannot be independently certified from the caption. Relative-event-time FE would absorb POST. Broader within-fund/time identification argument pp1152–1153 applies; do not silently infer omitted FE or a normalization. Source: pp1152–1153,1160–1162/Table3 cols2–6; L411–414,454–460,805–815,844–936."
+  }
+]
+```
