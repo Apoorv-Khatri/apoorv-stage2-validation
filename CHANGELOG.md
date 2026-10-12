@@ -170943,3 +170943,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:15:58.849833+00:00 — Review DFSQYG6H s1: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K163",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K164",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K165",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R163",
+    "before": null,
+    "after": "Qualifying prose comparison but wrong retained estimator after OLS/FE split: footnote8 assigns industry/year specifications, not firm-FE cols11–12. Preserved original; replaced by h1/hc1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R164",
+    "before": null,
+    "after": "Qualifying prose comparison but wrong retained estimator after OLS/FE split: footnote8 assigns industry/year specifications, not firm-FE cols11–12. Preserved original; replaced by h1/hc2."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R165",
+    "before": null,
+    "after": "Qualifying prose comparison but wrong retained estimator after OLS/FE split: footnote8 assigns industry/year specifications, not firm-FE cols11–12. Preserved original; replaced by h1/hc3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I328",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J328",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K328",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L328",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M328",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N328",
+    "before": null,
+    "after": "Table 3 cols11–12 only: lagged continuous ILLIQ_res or Log_resprd_res effect on cash ratio, with identifying firm and year FE; 1998–2015. OLS industry/year-dummy specifications cols1–10 are moved to h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O328",
+    "before": null,
+    "after": "The text explicitly adds firm FE to control time-invariant firm-specific omitted variables (p909). Two effective FE sets, not HDFE. Broad causal gate: p910 says a decrease in ILLIQ_res increases cash ratio, though introduction/section heading describe preliminary correlations; p910 endogeneity caveat does not negate this explicit parameter interpretation. Main=0 follows the authors’ preliminary/main distinction. No headline mean comparison belongs to cols11–12 (footnote8). Source: §2.5 pp909–912; main.txt lines341–469,516–546."
+  }
+]
+```
