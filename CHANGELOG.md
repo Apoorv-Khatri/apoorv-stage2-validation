@@ -171744,3 +171744,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:17:22.652034+00:00 — Review DFSQYG6H s6: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K885",
+    "before": null,
+    "after": "Repurchase dollar volume is adjusted by decreases in preferred stock (Appendix A p926) and divided by prior-year-end market capitalization. The regression is zero-censored Tobit; many zero repurchases explicitly reported p920. PanelB marginal outcomes are separate in h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I333",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J333",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K333",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L333",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M333",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N333",
+    "before": null,
+    "after": "Table12 PanelA: Tobit latent-index coefficients for continuous lagged ILLIQ_res/Log_resprd_res on repurchase ratio, low/high contemporaneous-year MTB subsamples. PanelB decomposed marginal-effect estimands are separated into h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O333",
+    "before": null,
+    "after": "Nonlinear Tobit, not linear FE. ILLIQ_res printed −0.027/−0.008 are multiplied by100: actual latent-index coefficients −0.00027/−0.00008. Log_resprd_res −0.014/−0.010 unscaled. Industry/year dummies do not override nonlinear method. Low/high MTB is a subgroup, not the treatment, and is based on yearly medians, not documented predetermined membership. Source: §4.2/Table12A pp919–921; main.txt lines1129–1249."
+  }
+]
+```
