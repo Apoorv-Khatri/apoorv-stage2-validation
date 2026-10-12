@@ -20061,7 +20061,16 @@
     "L2143": "0",
     "M2143": "n/a",
     "N2143": "Table6 cols2,4: idiosyncratic-volatility moderation of same-/other-month historical-return exposures on monthly stock returns. Standardized RHS variables; volatility×same/other interactions −0.03/−0.04 for all stocks and −0.05/−0.05 for all-but-microcaps. Include raw-RHS robustness actually implemented in fn15; no separate main-effect-only pricing setting.",
-    "O2143": "Distinct continuous limits-to-arbitrage proxy split from s9. Same broad mechanism gate, OLS and supporting role. Caption measures volatility over month t, while prose says prior month: visually verified conflict, timing unresolved. Volatility is estimated from FF3 residuals; these factor controls are not FE. Raw-RHS robustness gives a t-value −2.69 for the volatility main effect, not an interaction coefficient or outcome-SD scaling. Source: §4.2 pp153–154; Table6 cols2,4; lines1029–1144; fn15."
+    "O2143": "Distinct continuous limits-to-arbitrage proxy split from s9. Same broad mechanism gate, OLS and supporting role. Caption measures volatility over month t, while prose says prior month: visually verified conflict, timing unresolved. Volatility is estimated from FF3 residuals; these factor controls are not FE. Raw-RHS robustness gives a t-value −2.69 for the volatility main effect, not an interaction coefficient or outcome-SD scaling. Source: §4.2 pp153–154; Table6 cols2,4; lines1029–1144; fn15.",
+    "A2144": "CETFVPE5",
+    "B2144": "h2",
+    "I2144": "1",
+    "J2144": "OLS",
+    "K2144": "0",
+    "L2144": "0",
+    "M2144": "n/a",
+    "N2144": "Table6 cols2,4: size-adjusted institutional-ownership moderation of same-/other-month historical-return exposures on monthly stock returns. Ownership×same/other interactions0.04/−0.01 and0.03/0.02, respectively. Include implemented raw-RHS sensitivity in fn15 without inferring its coefficients.",
+    "O2144": "Distinct continuous limits-to-arbitrage proxy split from s9. Ownership is residualized by cross-sectional logit on squared log firm size; this is preprocessing, not the final nonlinear outcome estimator. Final Fama–MacBeth regressions are linear OLS. Endogenous proxy and mixed signs limit identification but do not erase the authors’ mechanism interpretation. Source: §4.2 pp153–154; Table6 cols2,4; lines1029–1144; fn15."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55924,7 +55933,11 @@
     "A5013": "CETFVPE5",
     "B5013": "h1",
     "C5013": "hy1",
-    "K5013": "Monthly U.S. individual-stock return in percentage units, not outcome-SD units."
+    "K5013": "Monthly U.S. individual-stock return in percentage units, not outcome-SD units.",
+    "A5014": "CETFVPE5",
+    "B5014": "h2",
+    "C5014": "hy1",
+    "K5014": "Monthly U.S. individual-stock return in percentage units, not outcome-SD units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

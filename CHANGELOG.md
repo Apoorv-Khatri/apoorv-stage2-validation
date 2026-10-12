@@ -166623,3 +166623,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:46:34.032598+00:00 — Review CETFVPE5 h2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5014",
+    "before": null,
+    "after": "CETFVPE5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5014",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5014",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5014",
+    "before": null,
+    "after": "Monthly U.S. individual-stock return in percentage units, not outcome-SD units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2144",
+    "before": null,
+    "after": "CETFVPE5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2144",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2144",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2144",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2144",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2144",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2144",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2144",
+    "before": null,
+    "after": "Table6 cols2,4: size-adjusted institutional-ownership moderation of same-/other-month historical-return exposures on monthly stock returns. Ownership×same/other interactions0.04/−0.01 and0.03/0.02, respectively. Include implemented raw-RHS sensitivity in fn15 without inferring its coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2144",
+    "before": null,
+    "after": "Distinct continuous limits-to-arbitrage proxy split from s9. Ownership is residualized by cross-sectional logit on squared log firm size; this is preprocessing, not the final nonlinear outcome estimator. Final Fama–MacBeth regressions are linear OLS. Endogenous proxy and mixed signs limit identification but do not erase the authors’ mechanism interpretation. Source: §4.2 pp153–154; Table6 cols2,4; lines1029–1144; fn15."
+  }
+]
+```
