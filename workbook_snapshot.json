@@ -19634,7 +19634,16 @@
     "L2112": "1",
     "M2112": "n/a",
     "N2112": "1LSg-specific flow effects on six other major cryptocurrency returns, analogous to TableIII aggregate-flow regressions.",
-    "O2112": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main explicitly says similar results for 1LSg flows and other prices, establishing an implemented distinct focal-flow robustness. Source: p.1938 footnote28 lines1143–1145, Table IA.III. Certainty: source-grounded."
+    "O2112": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main explicitly says similar results for 1LSg flows and other prices, establishing an implemented distinct focal-flow robustness. Source: p.1938 footnote28 lines1143–1145, Table IA.III. Certainty: source-grounded.",
+    "A2113": "ACJ72JDD",
+    "B2113": "h15",
+    "I2113": "1",
+    "J2113": "unknown",
+    "K2113": "1",
+    "L2113": "0",
+    "M2113": "unknown",
+    "N2113": "High-flow event spillover contrast: exchange-level value-weighted altcoin-BTC return indices on Bitfinex/Poloniex/Bittrex versus other exchanges in hours immediately after aggregate high-flow events.",
+    "O2113": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Explicit two exchange-group contrast; pre-event null is contextual, not the sole purpose. Exact implementation/FE/DiD claim not established; use unknown, not presumed FE or DiD. The binary contrast established in prose is exposure of altcoins listed on Bitfinex/Poloniex/Bittrex versus other exchanges during post-high-flow hours. Do not infer binary high-flow receipt from the post-window alone; pre-period equality does not establish DiD implementation. Source: p.1940 lines1236–1243; Table IA.IV. Certainty: estimator unresolved."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54989,7 +54998,14 @@
     "A4971": "ACJ72JDD",
     "B4971": "h14",
     "C4971": "hy6",
-    "K4971": "Zcash return in 1LSg flow regression; main cross-reference says analogous TableIII; exact appendix horizon/scale pending verification."
+    "K4971": "Zcash return in 1LSg flow regression; main cross-reference says analogous TableIII; exact appendix horizon/scale pending verification.",
+    "A4972": "ACJ72JDD",
+    "B4972": "h15",
+    "C4972": "hy1",
+    "H4972": "0",
+    "I4972": "unknown",
+    "J4972": "unknown",
+    "K4972": "Value-weighted exchange-level return index of all altcoins other than Bitcoin, denominated in Bitcoin, from coin-BTC pairs; comparison of linked exchanges to others after high-flow events. Exact return transformation unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -147339,3 +147339,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:37:32.078046+00:00 — Review ACJ72JDD h15: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4972",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4972",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4972",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4972",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4972",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4972",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4972",
+    "before": null,
+    "after": "Value-weighted exchange-level return index of all altcoins other than Bitcoin, denominated in Bitcoin, from coin-BTC pairs; comparison of linked exchanges to others after high-flow events. Exact return transformation unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2113",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2113",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2113",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2113",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2113",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2113",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2113",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2113",
+    "before": null,
+    "after": "High-flow event spillover contrast: exchange-level value-weighted altcoin-BTC return indices on Bitfinex/Poloniex/Bittrex versus other exchanges in hours immediately after aggregate high-flow events."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2113",
+    "before": null,
+    "after": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Explicit two exchange-group contrast; pre-event null is contextual, not the sole purpose. Exact implementation/FE/DiD claim not established; use unknown, not presumed FE or DiD. The binary contrast established in prose is exposure of altcoins listed on Bitfinex/Poloniex/Bittrex versus other exchanges during post-high-flow hours. Do not infer binary high-flow receipt from the post-window alone; pre-period equality does not establish DiD implementation. Source: p.1940 lines1236–1243; Table IA.IV. Certainty: estimator unresolved."
+  }
+]
+```
