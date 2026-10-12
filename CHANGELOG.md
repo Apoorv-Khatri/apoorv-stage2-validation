@@ -176349,3 +176349,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T10:09:49.121513+00:00 — Review ED5IDPT4 s1: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K172",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R172",
+    "before": null,
+    "after": "Reject because parent s1 is diagnostic only, not because the quotation is fabricated. Paper verbally compares conditional levels of fitted CPIE; this is descriptive model behavior, not an eligible causal estimate. If causal scope were adjudicated differently, the comparator is a conditional mean rather than automatically other_level just because reported for the median stock; target/weight alignment would need separate review. No author division is present. Do not confuse this group contrast with an unlinked parameter-distribution mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H900",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I900",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J900",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K900",
+    "before": null,
+    "after": "spurious within causal-setting inventory: parent s1 is a diagnostic proxy-validity regression, not a retained causal setting. Original CPIE definition is preserved; probability support or rounded 0/1 values do not themselves establish empirical zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I346",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O346",
+    "before": null,
+    "after": "Reject as diagnostic-only: regresses fitted CPIE_PIN on a turnover heuristic to test whether the proxy is approximated mechanically by turnover; no causal turnover intervention or private-information response is estimated. Source expressly calls these placebo tests (p796) and says measures gauge similarity and cannot be used for trading strategies (fn17). Main claim concerns validity of a measurement model, not an empirical effect of assigning the heuristic. OLS implementation alone does not establish a causal setting. Original stock-year regression description is also inaccurate: main regressions are stock-level time series using yearly fitted parameters; stock-year regressions are separate appendix diagnostics. Source: §3.1/Table3 p803–804, main.txt L592–687,740–767; introduction p796 L89–123; fn17 L674–682."
+  }
+]
+```
