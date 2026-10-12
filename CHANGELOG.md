@@ -120954,3 +120954,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:19:47.941896+00:00 — Review 95E3CUNG s1: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K132",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K133",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R132",
+    "before": null,
+    "after": "Annualizing the same monthly effect is a unit/horizon conversion, not comparison with another same-outcome level. The approximately14% figure is not an external annual return benchmark. The underlying1.176pp monthly estimate belongs to no-control OLS h1, not retained FE s1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R133",
+    "before": null,
+    "after": "Annualizing the same monthly effect is not a benchmark comparison. The prose explicitly says excluding fixed effects: controlled non-FE estimate1.047pp/month belongs to h1, not retained FE s1;1.098 is the separate FE estimate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H608",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I608",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J608",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K608",
+    "before": null,
+    "after": "Monthly US-dollar simple producer-firm return, reported in percent; strategy coefficients are percentage-point monthly return differences. Paper calls the contrasts excess-return differences, while Eq.(24) labels the dependent variable FirmReturn. No evidence establishing a mass at zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J215",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M215",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N215",
+    "before": null,
+    "after": "Baseline monthly firm-level WLS: reported low-minus-high trade-credit-tercile contrasts within each customer-return quintile; top-minus-bottom customer-return contrasts within trade-credit groups; and the two explicitly reported endpoint cross-group long-short contrasts. Retain only the columns/rows explicitly labeled with country and industry fixed effects; non-FE results are separately proposed as h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O215",
+    "before": null,
+    "after": "Binary=1 refers to the implemented two-endpoint contrasts, not the underlying three-level trade-credit or five-level customer-return sorting variables. Interior cell means describe the grouped regression, not new standalone causal treatments. Country and industry FE are two separate, nonnested categorical dimensions, not HDFE. The substantive identification argument is explicit: p.604 adds these FE to soak up potential variation from those sources and interprets invariance to industry dummies as evidence against cross-industry trade-credit variation driving the strategy. This is not classification from dimension count alone. Without these identifying FE, the same linear WLS contrasts are OLS/regression adjustment. Country-industry-month clustered standard errors are not an additional FE dimension. Factor controls are not FE. No IV, randomized assignment, RD, matching treatment weights or parallel-trends DiD is implemented. Observational, model-motivated mechanism test. Customer country indices proxy unobserved bilateral customer-firm links; trade credit, foreign sales, volume and stress states can be endogenous. Controls and country/industry FE do not prove exogeneity. Retention records the authors’ interpretation, not endorsement of their identification. Source: §§4.1–4.2, Eq.(24), Table3 p.603/PDF12; interpretation p.604/PDF13.. Certainty: high for printed estimates/design split; author-interpreted mechanism, not proven causal identification."
+  }
+]
+```
