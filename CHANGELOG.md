@@ -170382,3 +170382,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:14:24.840834+00:00 — Review CN4YZYPH h18: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5050",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5051",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5050",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5051",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5050",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5051",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5050",
+    "before": null,
+    "after": "Unadjusted annual stock return. Explicit outcome named in §6.2; exact mapping to each cited model and peer type is unreported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5051",
+    "before": null,
+    "after": "Unadjusted ROA (level, rather than baseline change in industry-adjusted ROA); detailed timing not reported. Explicit outcome named in §6.2; exact mapping to each cited model and peer type is unreported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2165",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2165",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2165",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2165",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2165",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2165",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2165",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2165",
+    "before": null,
+    "after": "Untabulated RPQ–performance robustness following the model specifications of Core, Holthausen and Larcker (1999) and Albuquerque et al. (2013), using unadjusted returns and unadjusted ROA. Results stated consistent with baseline. The source does not enumerate separate model-family × peer-type × outcome estimates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2165",
+    "before": null,
+    "after": "Minimum implemented-result record for both named specification families. Exact estimator, identifying FE, peer-type coverage and model-to-outcome mapping unresolved; method unknown rather than importing an estimator from the cited papers. Split only when distinct implemented estimators/estimands can be verified. Source: §6.2 p211; lines1174–1189."
+  }
+]
+```

@@ -20368,7 +20368,16 @@
     "L2164": "0",
     "M2164": "n/a",
     "N2164": "RPQ based on actual managerial-ability difference from peer mean/median; untabulated alternative relative-quality effects on stock and operating performance, results qualitatively unchanged. Peer-type-specific coverage is not separately enumerated in the untabulated prose.",
-    "O2164": "Implemented alternative-RPQ robustness and unchanged qualitative results are explicit. OLS is supported by the pooled-regression context of §6.1, but coefficients, exact columns and compensation-versus-bonus coverage are not reported separately. This is one minimum evidence record, not an asserted two-peer-type by two-outcome result grid. Mean/median reference variants grouped; signed gap orientation not specified. Source: §6.1 pp210–211; lines1141–1172,1234–1236."
+    "O2164": "Implemented alternative-RPQ robustness and unchanged qualitative results are explicit. OLS is supported by the pooled-regression context of §6.1, but coefficients, exact columns and compensation-versus-bonus coverage are not reported separately. This is one minimum evidence record, not an asserted two-peer-type by two-outcome result grid. Mean/median reference variants grouped; signed gap orientation not specified. Source: §6.1 pp210–211; lines1141–1172,1234–1236.",
+    "A2165": "CN4YZYPH",
+    "B2165": "h18",
+    "I2165": "1",
+    "J2165": "unknown",
+    "K2165": "0",
+    "L2165": "0",
+    "M2165": "unknown",
+    "N2165": "Untabulated RPQ–performance robustness following the model specifications of Core, Holthausen and Larcker (1999) and Albuquerque et al. (2013), using unadjusted returns and unadjusted ROA. Results stated consistent with baseline. The source does not enumerate separate model-family × peer-type × outcome estimates.",
+    "O2165": "Minimum implemented-result record for both named specification families. Exact estimator, identifying FE, peer-type coverage and model-to-outcome mapping unresolved; method unknown rather than importing an estimator from the cited papers. Split only when distinct implemented estimators/estimands can be verified. Source: §6.2 p211; lines1174–1189."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56411,7 +56420,15 @@
     "A5049": "CN4YZYPH",
     "B5049": "h17",
     "C5049": "hy2",
-    "K5049": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1. Baseline outcome identity supplied for the stock/operating-performance robustness context; the untabulated sentence does not enumerate outcome-by-peer-type estimates or give coefficients."
+    "K5049": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1. Baseline outcome identity supplied for the stock/operating-performance robustness context; the untabulated sentence does not enumerate outcome-by-peer-type estimates or give coefficients.",
+    "A5050": "CN4YZYPH",
+    "B5050": "h18",
+    "C5050": "hy1",
+    "K5050": "Unadjusted annual stock return. Explicit outcome named in §6.2; exact mapping to each cited model and peer type is unreported.",
+    "A5051": "CN4YZYPH",
+    "B5051": "h18",
+    "C5051": "hy2",
+    "K5051": "Unadjusted ROA (level, rather than baseline change in industry-adjusted ROA); detailed timing not reported. Explicit outcome named in §6.2; exact mapping to each cited model and peer type is unreported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
