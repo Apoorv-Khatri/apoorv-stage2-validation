@@ -162924,3 +162924,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:20:35.163034+00:00 — Review BHYG5F75 s4: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I289",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J289",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K289",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L289",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M289",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N289",
+    "before": null,
+    "after": "Table5 col1: industry-year public-company average R&D expense/assets affects private-borrower disclosure propensity, linear regression with loan controls; continuous treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O289",
+    "before": null,
+    "after": "Retain under broad intended-interpretation gate: proprietary costs are said to drive/discourage disclosure (§3.1; introduction p3077), despite suggestive observational evidence. Distinct determinants split to h4–h10. Equation2 and prose omit FE, although caption generically says fixed effects; classify implemented cross-sectional linear adjustment OLS and preserve the caption discrepancy. Footnote16 also refers broadly to year effects in all specifications; Table5 implementation is therefore unresolved rather than verified to contain no dummy controls. OLS is a qualified Eq2-based classification. Source: Table5 col1 pp3090–3092 lines995–1155."
+  }
+]
+```
