@@ -19065,7 +19065,16 @@
     "L2059": "0",
     "M2059": "n/a",
     "N2059": "Table8(4): Daughter-Heavy Partner Fraction, fraction of senior partners with more daughters than sons minus fraction with fewer daughters than sons, on female-hire probability, conditional on average children and firm/year controls.",
-    "O2059": "Treatment is the firm-level scalar aggregate, not the underlying binary partner-level indicator. Source: Table8 p.11; §4.1 p.10."
+    "O2059": "Treatment is the firm-level scalar aggregate, not the underlying binary partner-level indicator. Source: Table8 p.11; §4.1 p.10.",
+    "A2060": "9XGMQWX5",
+    "B2060": "h3",
+    "I2060": "1",
+    "J2060": "OLS",
+    "K2060": "0",
+    "L2060": "0",
+    "M2060": "n/a",
+    "N2060": "Table8(5): First Daughter Partner Fraction, fraction of senior partners whose first child is a daughter, on female-hire probability, conditional on average children and firm/year controls.",
+    "O2060": "Treatment is the firm-level scalar aggregate, not the underlying binary partner-level indicator. Source: Table8 p.11; §4.1 p.10."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -53930,7 +53939,11 @@
     "A4898": "9XGMQWX5",
     "B4898": "h2",
     "C4898": "hy1",
-    "K4898": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level."
+    "K4898": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level.",
+    "A4899": "9XGMQWX5",
+    "B4899": "h3",
+    "C4899": "hy1",
+    "K4899": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
