@@ -139818,3 +139818,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:32:34.795683+00:00 — Review ACJ72JDD s3: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K760",
+    "before": null,
+    "after": "Average of the next three hourly simple Dash return using price data from the most liquid exchange; units are basis points/percent. Not a compounded three-hour cumulative return."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K761",
+    "before": null,
+    "after": "Average of the next three hourly simple Ethereum Classic return using price data from the most liquid exchange; units are basis points/percent. Not a compounded three-hour cumulative return."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K762",
+    "before": null,
+    "after": "Average of the next three hourly simple Ethereum return using price data from the most liquid exchange; units are basis points/percent. Not a compounded three-hour cumulative return."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K763",
+    "before": null,
+    "after": "Average of the next three hourly simple Litecoin return using price data from the most liquid exchange; units are basis points/percent. Not a compounded three-hour cumulative return."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K764",
+    "before": null,
+    "after": "Average of the next three hourly simple Monero return using price data from the most liquid exchange; units are basis points/percent. Not a compounded three-hour cumulative return."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K765",
+    "before": null,
+    "after": "Average of the next three hourly simple Zcash return using price data from the most liquid exchange; units are basis points/percent. Not a compounded three-hour cumulative return."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I267",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J267",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K267",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L267",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M267",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O267",
+    "before": null,
+    "after": "Panel E prints XMR=7.44bp; prose p.1938 says 7.89–10.19, which omits the lower XMR value. Keep printed values and discrepancy; repeated Panel A/E t statistics are not repaired. No FE. Source: Table III A–E pp.1939–1940; lines1126–1230. Certainty: source-grounded."
+  }
+]
+```
