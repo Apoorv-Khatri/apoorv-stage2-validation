@@ -122673,3 +122673,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:24:59.302078+00:00 — Review 96H6UQNF s10: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4764",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4764",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4764",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4764",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H627",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4764",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I627",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4764",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J627",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4764",
+    "before": null,
+    "after": "Standardized unexpected earnings: actual earnings minus mean analysts’ forecasts as of fiscal-quarter end, divided by end-quarter share price (§3.3 p.27), NOT divided by its SD. Fig.9 reports impacts in log points ×1,000 under similar Eq.(2); exact additional transformation unresolved, not fabricated as none."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K627",
+    "before": null,
+    "after": "Mean consensus quarterly EPS forecast as of earnings announcement date (§3.3 p.27), in price-scaled forecast units. Fig.9 reports log-point effects ×1,000; exact outcome transformation not restated independently, so unknown rather than none. Distinguish SUE quarter-end forecast timing."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J230",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K230",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M230",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N230",
+    "before": null,
+    "after": "Table7/Fig.9: continuous quarterly temperature exposure effects on BOTH analyst mean consensus EPS forecasts and standardized unexpected earnings (SUE), using Eq.(2) industry-by-season firm/time FE. Group jointly reported outcome set; s11 is merged here as hy1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O230",
+    "before": null,
+    "after": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Explicit weather-induced expectations/surprise interpretation passes causal gate despite predictive terminology. Main analyst-information conclusion. Forecast timing is announcement date in §3.3, while SUE uses mean forecast at fiscal-quarter end and end-quarter price; preserve this distinction. Figure9 calls impacts log points ×1,000; exact transformation not independently restated for SUE, so do not assert SD normalization. Source: §3.3 pp.26–31; Table7/Fig.9.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```
