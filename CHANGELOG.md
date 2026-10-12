@@ -128871,3 +128871,186 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:34:35.662784+00:00 — Review 9SK5H9MK h18: source-audited coding and linked comparisons
+
+29 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4825",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4826",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4827",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4828",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4829",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4825",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4826",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4827",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4828",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4829",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4825",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4826",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4827",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4828",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4829",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4825",
+    "before": null,
+    "after": "aggregate: net job change/pooled mean2000-2007 total CZ nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4826",
+    "before": null,
+    "after": "0-1 years: net job change/pooled mean2000-2007 total CZ nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4827",
+    "before": null,
+    "after": "2-3 years: net job change/pooled mean2000-2007 total CZ nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4828",
+    "before": null,
+    "after": "4-5 years: net job change/pooled mean2000-2007 total CZ nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4829",
+    "before": null,
+    "after": "6+ years: net job change/pooled mean2000-2007 total CZ nontradable employment"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2043",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2043",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2043",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2043",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2043",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2043",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2043",
+    "before": null,
+    "after": "IAIII B: alternative denominator N2044; IV continuous two-year regional income-growth response; net job change/pooled mean2000-2007 total CZ nontradable employment. Aggregate/four age bins. Baseline controls/year dummies unless FE specification stated; region-clustered SE; nonoverlapping2001/03/05/07 unless stated otherwise."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2043",
+    "before": null,
+    "after": "Endogenous receipt/dose is continuous income growth, not the instrument or a subgroup indicator. A single scalar shift-share sum uses lagged four-digit manufacturing employment shares times national industry employment growth excluding the focal region; do not count component industries as separate excluded instruments. Exclusion requires manufacturing shocks to affect nontradable employment only through income (pp.1011-1014, eqs.2-3). Source: Author Appendix Table IAIII Panel B, printed p.8/appendix PDF9; cols3,5,7,9,11. Source link: https://songma.org/files/amr_jf_app_final.pdf."
+  }
+]
+```
