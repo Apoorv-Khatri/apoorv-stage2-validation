@@ -326034,3 +326034,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:03:23.835148+00:00 — Review EYWPN7YT s7: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H970",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H971",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I970",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I971",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J970",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J971",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K970",
+    "before": null,
+    "after": "Forecast optimism in IA.3 heterogeneity by pretreatment discretionary accruals and reporting richness. Baseline price-scaled signed error (optimism) or absolute error (inaccuracy). Accessible prose confirms the family, not the short-/long-term or stock/analyst-stock cell grid; leave the pooled model definition scope unverified. Zero mass unreported; optimism sign-wording conflict remains as in AppendixB."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K971",
+    "before": null,
+    "after": "Forecast inaccuracy in IA.3 heterogeneity by pretreatment discretionary accruals and reporting richness. Baseline price-scaled signed error (optimism) or absolute error (inaccuracy). Accessible prose confirms the family, not the short-/long-term or stock/analyst-stock cell grid; leave the pooled model definition scope unverified. Zero mass unreported; optimism sign-wording conflict remains as in AppendixB."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J372",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L372",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M372",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O372",
+    "before": null,
+    "after": "Implemented Cengiz et al. (2019) stacked-regression estimator: cohort-specific datasets, clean future-treated controls, nine-quarter window, explicitly addressing time-varying effects and treatment-effect heterogeneity (§1.2–1.3, PDF9–10). This is not modern merely because adoption is staggered. Administrative randomized rollout is analyzed with DD, not a separately implemented experimental ITT. Matching is preprocessing; no IV or separate identifying-FE/OLS setting. Main text establishes implemented DDD and results, but appendix columns, unit-of-observation scope and exact coefficients cannot be verified. |DA(Jones)| and reporting richness are distinct pretreatment moderators within the same auxiliary result family; not assumed independently exogenous doses. Source: §2.2.5 PDF21–23, referenced IA.3 (not retrieved)."
+  }
+]
+```
