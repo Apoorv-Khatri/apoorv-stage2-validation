@@ -139623,3 +139623,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:52:35.537464+00:00 — Review AAT34438 h12: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4941",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4941",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4941",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4941",
+    "before": null,
+    "after": "Earnings-announcement price jump ratio CAR(T−1,T+2)/CAR(T−21,T+2), estimated on the full stock-quarter-event sample rather than the restricted denominator-cutoff sample. Ratio of abnormal log-return sums, not the log of the ratio; exact special handling of zero denominators is not established by the main-text robustness sentence."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E30",
+    "before": null,
+    "after": "DONE — Available-source review: complete supplied publication and Appendices A–B reviewed. Separated identifying stock FE from OLS; distinguished direct binary price/AT contrasts from IV receipt; added nonsynchronicity robustness and minimum main-text-supported full-sample median/WLS settings. Outcome-component-selected matched pairs classified Other, not ordinary Matching. WLS identification remains unknown. Separate Internet Appendix unavailable: negative-news/channel analyses and further estimator splits pending; no exhaustive supplement claim. Printed percentage, FE-row, window and uncertainty-statistic conflicts retained. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2099",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2099",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2099",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2099",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2099",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2099",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2099",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2099",
+    "before": null,
+    "after": "Full-sample weighted least squares robustness for continuous AT-proxy effects on the earnings-announcement price jump ratio. Section3.2 p2194 explicitly reports estimates on the full sample of stock-quarter events as virtually identical to the restricted-sample coefficients; detailed results are assigned to the Online Appendix. Do not apply the baseline denominator cutoff to this full-sample robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2099",
+    "before": null,
+    "after": "Weighted least squares is explicitly implemented, but the main-text sentence does not identify whether the robustness re-estimates ordinary regressions, identifying-FE regressions, or IV specifications, nor the weights. Use unknown rather than invent an OLS/IV classification; replace after the final supplement is inspected. This is not outcome-adaptive Other merely because weights are undocumented. No numerical effect or linked outcome benchmark is reported in the available sentence. This minimum setting may require subdivision when the supplement is obtained. Source: Section3.2, p.2194; explicit main-text report of implemented full-sample robustness; separate Online Appendix unavailable. Certainty: scope-limited; exact supplementary implementation unavailable."
+  }
+]
+```
