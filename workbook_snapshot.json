@@ -20070,7 +20070,16 @@
     "L2144": "0",
     "M2144": "n/a",
     "N2144": "Table6 cols2,4: size-adjusted institutional-ownership moderation of same-/other-month historical-return exposures on monthly stock returns. Ownership×same/other interactions0.04/−0.01 and0.03/0.02, respectively. Include implemented raw-RHS sensitivity in fn15 without inferring its coefficients.",
-    "O2144": "Distinct continuous limits-to-arbitrage proxy split from s9. Ownership is residualized by cross-sectional logit on squared log firm size; this is preprocessing, not the final nonlinear outcome estimator. Final Fama–MacBeth regressions are linear OLS. Endogenous proxy and mixed signs limit identification but do not erase the authors’ mechanism interpretation. Source: §4.2 pp153–154; Table6 cols2,4; lines1029–1144; fn15."
+    "O2144": "Distinct continuous limits-to-arbitrage proxy split from s9. Ownership is residualized by cross-sectional logit on squared log firm size; this is preprocessing, not the final nonlinear outcome estimator. Final Fama–MacBeth regressions are linear OLS. Endogenous proxy and mixed signs limit identification but do not erase the authors’ mechanism interpretation. Source: §4.2 pp153–154; Table6 cols2,4; lines1029–1144; fn15.",
+    "A2145": "CETFVPE5",
+    "B2145": "h4",
+    "I2145": "1",
+    "J2145": "OLS",
+    "K2145": "1",
+    "L2145": "0",
+    "M2145": "n/a",
+    "N2145": "Referenced TableA5 and §4.2: implemented microcap versus large-stock extreme size contrast in the seasonality return spread from conditional portfolio sorts. First sort by size (micro/small/large), then by same-minus-other historical returns; microcap spread101bps/month versus large76bps, reported difference25bps, t2.01.",
+    "O2145": "Retain the author-interpreted limits-to-arbitrage mechanism and the explicitly compared two extreme groups, not the whole multi-bin dose. Linear sorted-group contrast: OLS, not Matching or DiD. Main-text implemented methodology and endpoint results suffice without the full A5 grid. Exact second-sort portfolio cutoffs, weights, dates and unreported coefficients remain unknown. The outcome here is the conditional seasonal return spread itself. Its group levels (microcaps101 and large stocks76bps/month) are therefore same-outcome reference levels for the outer firm size contrast, not another treatment effect used as a benchmark for an individual-stock-return coefficient. Comparison hc1 is verbal without division; population alignment is unknown. Do not invent intermediate contrasts or calculate an unreported author estimate. Source: §4.2 p154 lines1146–1194; referenced TableA5."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55937,7 +55946,14 @@
     "A5014": "CETFVPE5",
     "B5014": "h2",
     "C5014": "hy1",
-    "K5014": "Monthly U.S. individual-stock return in percentage units, not outcome-SD units."
+    "K5014": "Monthly U.S. individual-stock return in percentage units, not outcome-SD units.",
+    "A5015": "CETFVPE5",
+    "B5015": "h4",
+    "C5015": "hy1",
+    "H5015": "0",
+    "I5015": "unknown",
+    "J5015": "none",
+    "K5015": "Monthly seasonality return spread from conditional portfolio sorts: first sort by firm size, then by past same-month minus other-month returns. Units: basis points/month. This spread, not an individual-stock return, is the outcome of the outer extreme-firm size-group comparison. Exact second-sort legs/cutoffs and portfolio weights are not specified in the accessible A5 description. Nonbinary outcome; no log/SD transformation reported; observed zero mass unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -82294,7 +82310,18 @@
     "O2438": "1",
     "P2438": "unknown",
     "Q2438": "Table6 col1 p3093 lines1204–1215: focal 2.6845pp 3≤years<6; benchmark IPO-subsample disclosure mean9%; joint prose says30%–40% increases.",
-    "R2438": "Distinct categorical contrasts; mean pools event-time groups rather than establishes relevant untreated/reference-category mean. Exact regression target unspecified; unknown alignment. No per-year interpretation of log time imported."
+    "R2438": "Distinct categorical contrasts; mean pools event-time groups rather than establishes relevant untreated/reference-category mean. Exact regression target unspecified; unknown alignment. No per-year interpretation of log time imported.",
+    "A2439": "CETFVPE5",
+    "B2439": "h4",
+    "C2439": "hc1",
+    "K2439": "1",
+    "L2439": "hy1",
+    "M2439": "outcome_mean",
+    "N2439": "1",
+    "O2439": "0",
+    "P2439": "unknown",
+    "Q2439": "Published p154, §4.2, main-text report of Appendix TableA5 (main.txt lines1146–1170). Focal estimate: microcap-minus-large spread difference25bps/month, t2.01. Conditional seasonal spread group levels: microcaps101 and large stocks76bps/month. Reference: 76bps/month among large stocks. These are group-average monthly seasonal spreads; the spread is the focal outcome in this setting. Authors compare levels/differences in words, without a fraction, percentage or normalization. Full Appendix unavailable.",
+    "R2439": "Eligibility is separate from alignment: the stated group level is a mean of the spread outcome at the outer moderator contrast, not an outcome SD or an estimated effect of another treatment on individual-stock return. The observed comparison-group mean is not established to represent the focal target’s untreated/counterfactual mean. Target weights, portfolio weighting and required population correspondence are unreported; use unknown, not automatically1 or0. No ratio or unprinted numeric difference has been calculated."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

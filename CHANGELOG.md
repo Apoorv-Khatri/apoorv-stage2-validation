@@ -166710,3 +166710,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:46:48.826708+00:00 — Review CETFVPE5 h4: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2439",
+    "before": null,
+    "after": "CETFVPE5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2439",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2439",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2439",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2439",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2439",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2439",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2439",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2439",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2439",
+    "before": null,
+    "after": "Published p154, §4.2, main-text report of Appendix TableA5 (main.txt lines1146–1170). Focal estimate: microcap-minus-large spread difference25bps/month, t2.01. Conditional seasonal spread group levels: microcaps101 and large stocks76bps/month. Reference: 76bps/month among large stocks. These are group-average monthly seasonal spreads; the spread is the focal outcome in this setting. Authors compare levels/differences in words, without a fraction, percentage or normalization. Full Appendix unavailable."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2439",
+    "before": null,
+    "after": "Eligibility is separate from alignment: the stated group level is a mean of the spread outcome at the outer moderator contrast, not an outcome SD or an estimated effect of another treatment on individual-stock return. The observed comparison-group mean is not established to represent the focal target’s untreated/counterfactual mean. Target weights, portfolio weighting and required population correspondence are unreported; use unknown, not automatically1 or0. No ratio or unprinted numeric difference has been calculated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5015",
+    "before": null,
+    "after": "CETFVPE5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5015",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5015",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5015",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5015",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5015",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5015",
+    "before": null,
+    "after": "Monthly seasonality return spread from conditional portfolio sorts: first sort by firm size, then by past same-month minus other-month returns. Units: basis points/month. This spread, not an individual-stock return, is the outcome of the outer extreme-firm size-group comparison. Exact second-sort legs/cutoffs and portfolio weights are not specified in the accessible A5 description. Nonbinary outcome; no log/SD transformation reported; observed zero mass unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2145",
+    "before": null,
+    "after": "CETFVPE5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2145",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2145",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2145",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2145",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2145",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2145",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2145",
+    "before": null,
+    "after": "Referenced TableA5 and §4.2: implemented microcap versus large-stock extreme size contrast in the seasonality return spread from conditional portfolio sorts. First sort by size (micro/small/large), then by same-minus-other historical returns; microcap spread101bps/month versus large76bps, reported difference25bps, t2.01."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2145",
+    "before": null,
+    "after": "Retain the author-interpreted limits-to-arbitrage mechanism and the explicitly compared two extreme groups, not the whole multi-bin dose. Linear sorted-group contrast: OLS, not Matching or DiD. Main-text implemented methodology and endpoint results suffice without the full A5 grid. Exact second-sort portfolio cutoffs, weights, dates and unreported coefficients remain unknown. The outcome here is the conditional seasonal return spread itself. Its group levels (microcaps101 and large stocks76bps/month) are therefore same-outcome reference levels for the outer firm size contrast, not another treatment effect used as a benchmark for an individual-stock-return coefficient. Comparison hc1 is verbal without division; population alignment is unknown. Do not invent intermediate contrasts or calculate an unreported author estimate. Source: §4.2 p154 lines1146–1194; referenced TableA5."
+  }
+]
+```
