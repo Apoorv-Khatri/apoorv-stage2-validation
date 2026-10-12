@@ -123102,3 +123102,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:26:17.997959+00:00 — Review 96H6UQNF h2: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4766",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4766",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4766",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4766",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4766",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4766",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4766",
+    "before": null,
+    "after": "Daily SafeGraph establishment visits, April–June2018–2021, full sample and reported NAICS subsamples; estimated log(1+daily count). No explicit evidence of an exact zero atom in regression sample; neither Poisson nor log1p proves observed zeros."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2023",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2023",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2023",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2023",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2023",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2023",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2023",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2023",
+    "before": null,
+    "after": "TableA.4 PanelA: linear regression of log(1+daily visits) on binary extreme-cold day, with same weather controls, sample and two identifying FE sets as Table5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2023",
+    "before": null,
+    "after": "Two effective FE dimensions: year-quarter × establishment and establishment × day-of-week. p.24 explains absorption of variation over years and systematic weekly foot traffic. Components of interacted sets are not separately counted. No parallel-trends treated/post identification is implemented. Linear log1p outcome means identifying FE category rather than Other or OLS. Full-sample coefficient −0.0267. All columns include both FE; no no-FE OLS column exists. Source: TableA.4A p.37; p.24 supporting foot-traffic robustness.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```

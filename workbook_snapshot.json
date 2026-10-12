@@ -18569,7 +18569,16 @@
     "L2022": "0",
     "M2022": "n/a",
     "N2022": "Table5 PanelB: extreme-cold day × Friday–Sunday weekend heterogeneity in daily visits, Poisson FE; main shock coefficient is weekday response and interaction is additional weekend response, not total weekend effect.",
-    "O2022": "Two effective FE dimensions: year-quarter × establishment and establishment × day-of-week. p.24 explains absorption of variation over years and systematic weekly foot traffic. Components of interacted sets are not separately counted. No parallel-trends treated/post identification is implemented. Supporting weekend-demand mechanism. Full-sample shock −0.0356 and interaction −0.0373. Do not treat the lower-order coefficient as unconditional; nonlinear conditional-mean estimator remains Other. Source: Table5B p.24; §3.2.1 pp.24–25.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+    "O2022": "Two effective FE dimensions: year-quarter × establishment and establishment × day-of-week. p.24 explains absorption of variation over years and systematic weekly foot traffic. Components of interacted sets are not separately counted. No parallel-trends treated/post identification is implemented. Supporting weekend-demand mechanism. Full-sample shock −0.0356 and interaction −0.0373. Do not treat the lower-order coefficient as unconditional; nonlinear conditional-mean estimator remains Other. Source: Table5B p.24; §3.2.1 pp.24–25.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002.",
+    "A2023": "96H6UQNF",
+    "B2023": "h2",
+    "I2023": "1",
+    "J2023": "FE",
+    "K2023": "1",
+    "L2023": "0",
+    "M2023": "n/a",
+    "N2023": "TableA.4 PanelA: linear regression of log(1+daily visits) on binary extreme-cold day, with same weather controls, sample and two identifying FE sets as Table5.",
+    "O2023": "Two effective FE dimensions: year-quarter × establishment and establishment × day-of-week. p.24 explains absorption of variation over years and systematic weekly foot traffic. Components of interacted sets are not separately counted. No parallel-trends treated/post identification is implemented. Linear log1p outcome means identifying FE category rather than Other or OLS. Full-sample coefficient −0.0267. All columns include both FE; no no-FE OLS column exists. Source: TableA.4A p.37; p.24 supporting foot-traffic robustness.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52577,7 +52586,14 @@
     "H4765": "0",
     "I4765": "unknown",
     "J4765": "none",
-    "K4765": "Daily SafeGraph establishment visits, April–June2018–2021, full sample and reported NAICS subsamples; raw count outcome in Poisson model. No explicit evidence of an exact zero atom in regression sample; neither Poisson nor log1p proves observed zeros."
+    "K4765": "Daily SafeGraph establishment visits, April–June2018–2021, full sample and reported NAICS subsamples; raw count outcome in Poisson model. No explicit evidence of an exact zero atom in regression sample; neither Poisson nor log1p proves observed zeros.",
+    "A4766": "96H6UQNF",
+    "B4766": "h2",
+    "C4766": "hy1",
+    "H4766": "0",
+    "I4766": "unknown",
+    "J4766": "log1p",
+    "K4766": "Daily SafeGraph establishment visits, April–June2018–2021, full sample and reported NAICS subsamples; estimated log(1+daily count). No explicit evidence of an exact zero atom in regression sample; neither Poisson nor log1p proves observed zeros."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
