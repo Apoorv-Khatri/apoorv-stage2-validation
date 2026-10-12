@@ -149592,3 +149592,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:02:34.549451+00:00 — Review ANHCKZYX h1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4989",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4989",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4989",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4989",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4989",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4989",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4989",
+    "before": null,
+    "after": "Global factor portfolio return/premium following high versus low sentiment months, individual 24 factor–asset-class series and six multi-asset combinations. Footnote28 p.1147; sample1899–2014. Returns are nonbinary; footnote does not establish zero mass or the precise outcome scale/annualization/standardization of these unreported results. Do not infer log or sd_units from Sharpe tables elsewhere."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2123",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2123",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2123",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2123",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2123",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2123",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2123",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2123",
+    "before": null,
+    "after": "Investor sentiment mechanism: compare global factor returns following high versus low sentiment months, 1899–2014. High sentiment means prior-month market-wide text pessimism below its full-sample median; low means above median. Separate asset-class/factor and multi-asset contrasts described in footnote28, not Table10 state numbers."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2123",
+    "before": null,
+    "after": "Scope-limited addition: authors explicitly test impact of investor sentiment as a mispricing explanation. Linear high-versus-low group-return contrast is OLS/regression adjustment, not matching or DiD. Factor premiums are positive in both states and generally stronger after high sentiment; 13 of24 factor coefficients and5 of6 multi-asset combinations have the stated direction. No exact coefficients, base means, equality-at-median rule, or table identifier supplied. Causal gate is interpretive and should be independently checked; retained for explicit mechanism attribution, not prediction alone. Distinctness is supported by separately reported individual/factor-specific contrasts versus the pooled common panel effect, not by a proven OLS-versus-FE method difference. These could arise within a common computational panel; do not claim separate datasets or different identifying methods. Source: Footnote 28 p.1147/PDF20; text lines1421–1445 (continuation1433–1435); visually checked page1147.png. Certainty: Implemented qualitative result established; numerical results unavailable."
+  }
+]
+```

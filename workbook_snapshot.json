@@ -19756,7 +19756,16 @@
     "L2122": "0",
     "M2122": "n/a",
     "N2122": "Cross-Tether-exchange arbitrage/price-response regression: average Bitcoin return controlling for return spread drives net Tether/Bitcoin flows; aggregate net Tether and Bitcoin outcomes. Footnote37 also establishes account-decomposed robustness, whose exact outcome inventory remains outside this row pending Table IA.XIV.",
-    "O2122": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main gives outcome-SD effects and interprets price decline as economically sizable driver. Spread response range printed0.0336–0.419 SD with t2.39–3.13; average-price decrease effect0.043–0.12 SD with t3.15–6.68. Do not silently replace0.419 with0.0419; precise coefficient/outcome/column allocation unresolved. Comparative driver sizes are effect-versus-effect, not extra benchmarks. Source: §IV.C pp.1960–1961 lines2198–2218 and footnote37; Table IA.XIV. Certainty: source-grounded."
+    "O2122": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main gives outcome-SD effects and interprets price decline as economically sizable driver. Spread response range printed0.0336–0.419 SD with t2.39–3.13; average-price decrease effect0.043–0.12 SD with t3.15–6.68. Do not silently replace0.419 with0.0419; precise coefficient/outcome/column allocation unresolved. Comparative driver sizes are effect-versus-effect, not extra benchmarks. Source: §IV.C pp.1960–1961 lines2198–2218 and footnote37; Table IA.XIV. Certainty: source-grounded.",
+    "A2123": "ANHCKZYX",
+    "B2123": "h1",
+    "I2123": "1",
+    "J2123": "OLS",
+    "K2123": "1",
+    "L2123": "0",
+    "M2123": "n/a",
+    "N2123": "Investor sentiment mechanism: compare global factor returns following high versus low sentiment months, 1899–2014. High sentiment means prior-month market-wide text pessimism below its full-sample median; low means above median. Separate asset-class/factor and multi-asset contrasts described in footnote28, not Table10 state numbers.",
+    "O2123": "Scope-limited addition: authors explicitly test impact of investor sentiment as a mispricing explanation. Linear high-versus-low group-return contrast is OLS/regression adjustment, not matching or DiD. Factor premiums are positive in both states and generally stronger after high sentiment; 13 of24 factor coefficients and5 of6 multi-asset combinations have the stated direction. No exact coefficients, base means, equality-at-median rule, or table identifier supplied. Causal gate is interpretive and should be independently checked; retained for explicit mechanism attribution, not prediction alone. Distinctness is supported by separately reported individual/factor-specific contrasts versus the pooled common panel effect, not by a proven OLS-versus-FE method difference. These could arise within a common computational panel; do not claim separate datasets or different identifying methods. Source: Footnote 28 p.1147/PDF20; text lines1421–1445 (continuation1433–1435); visually checked page1147.png. Certainty: Implemented qualitative result established; numerical results unavailable."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55308,7 +55317,14 @@
     "A4988": "ACJ72JDD",
     "B4988": "h39",
     "C4988": "hy2",
-    "K4988": "Net Bitcoin flow in TableIA.XIV; primary explicitly interprets effects in flow-outcome standard deviations; exact coefficient/outcome mapping unresolved."
+    "K4988": "Net Bitcoin flow in TableIA.XIV; primary explicitly interprets effects in flow-outcome standard deviations; exact coefficient/outcome mapping unresolved.",
+    "A4989": "ANHCKZYX",
+    "B4989": "h1",
+    "C4989": "hy1",
+    "H4989": "0",
+    "I4989": "unknown",
+    "J4989": "unknown",
+    "K4989": "Global factor portfolio return/premium following high versus low sentiment months, individual 24 factor–asset-class series and six multi-asset combinations. Footnote28 p.1147; sample1899–2014. Returns are nonbinary; footnote does not establish zero mass or the precise outcome scale/annualization/standardization of these unreported results. Do not infer log or sd_units from Sharpe tables elsewhere."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
