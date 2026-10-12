@@ -232551,3 +232551,966 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T10:48:46.031671+00:00 — Review EWJTD63J h31: source-audited coding and linked comparisons
+
+159 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A3150",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3151",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3152",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3153",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3154",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3155",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3156",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3157",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3158",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3159",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3150",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3151",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3152",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3153",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3154",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3155",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3156",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3157",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3158",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3159",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3150",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3151",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3152",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3153",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3154",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3155",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3156",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3157",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3158",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3159",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3150",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3152",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3153",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3154",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3155",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3156",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3157",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3158",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3150",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3151",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3152",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3153",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3154",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3155",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3156",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3157",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3158",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3159",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3150",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3151",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3152",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3153",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3154",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3155",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3156",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3157",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3158",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3159",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3150",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3151",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3152",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3153",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3154",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3155",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3156",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3157",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3158",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3159",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3150",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3152",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3153",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3154",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3155",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3156",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3157",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3158",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3150",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3151",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3152",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3153",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3154",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3155",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3156",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3157",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3158",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3159",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3150",
+    "before": null,
+    "after": "OA.44 p73, supplement.txt L2724, row1 col1: standardized focal coefficient 0.459 outcome SD per one SD of the named treatment. DisInf; SPF; printed coefficient row 1, column 1. Outcome-specific SD normalization explicitly stated in caption; table caption and N row define reference observations, with source inconsistencies preserved in setting Notes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3151",
+    "before": null,
+    "after": "OA.44 p73, supplement.txt L2724, row1 col2: standardized focal coefficient 0.439 outcome SD per one SD of the named treatment. DisInf; SPF; printed coefficient row 1, column 2. Outcome-specific SD normalization explicitly stated in caption; table caption and N row define reference observations, with source inconsistencies preserved in setting Notes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3152",
+    "before": null,
+    "after": "OA.44 p73, supplement.txt L2724, row1 col3: standardized focal coefficient 0.395 outcome SD per one SD of the named treatment. DisInf; SPF; printed coefficient row 1, column 3. Outcome-specific SD normalization explicitly stated in caption; table caption and N row define reference observations, with source inconsistencies preserved in setting Notes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3153",
+    "before": null,
+    "after": "OA.44 p73, supplement.txt L2724, row1 col4: standardized focal coefficient 0.378 outcome SD per one SD of the named treatment. DisInf; SPF; printed coefficient row 1, column 4. Outcome-specific SD normalization explicitly stated in caption; table caption and N row define reference observations, with source inconsistencies preserved in setting Notes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3154",
+    "before": null,
+    "after": "OA.44 p73, supplement.txt L2724, row1 col5: standardized focal coefficient 0.364 outcome SD per one SD of the named treatment. DisInf; SPF; printed coefficient row 1, column 5. Outcome-specific SD normalization explicitly stated in caption; table caption and N row define reference observations, with source inconsistencies preserved in setting Notes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3155",
+    "before": null,
+    "after": "OA.44 p73, supplement.txt L2724, row1 col6: standardized focal coefficient 0.551 outcome SD per one SD of the named treatment. DisInf; MSC; printed coefficient row 1, column 6. Outcome-specific SD normalization explicitly stated in caption; table caption and N row define reference observations, with source inconsistencies preserved in setting Notes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3156",
+    "before": null,
+    "after": "OA.44 p73, supplement.txt L2724, row1 col7: standardized focal coefficient 0.579 outcome SD per one SD of the named treatment. DisInf; MSC; printed coefficient row 1, column 7. Outcome-specific SD normalization explicitly stated in caption; table caption and N row define reference observations, with source inconsistencies preserved in setting Notes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3157",
+    "before": null,
+    "after": "OA.44 p73, supplement.txt L2724, row1 col8: standardized focal coefficient 0.600 outcome SD per one SD of the named treatment. DisInf; MSC; printed coefficient row 1, column 8. Outcome-specific SD normalization explicitly stated in caption; table caption and N row define reference observations, with source inconsistencies preserved in setting Notes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3158",
+    "before": null,
+    "after": "OA.44 p73, supplement.txt L2724, row1 col9: standardized focal coefficient 0.618 outcome SD per one SD of the named treatment. DisInf; MSC; printed coefficient row 1, column 9. Outcome-specific SD normalization explicitly stated in caption; table caption and N row define reference observations, with source inconsistencies preserved in setting Notes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3159",
+    "before": null,
+    "after": "OA.44 p73, supplement.txt L2724, row1 col10: standardized focal coefficient 0.632 outcome SD per one SD of the named treatment. DisInf; MSC; printed coefficient row 1, column 10. Outcome-specific SD normalization explicitly stated in caption; table caption and N row define reference observations, with source inconsistencies preserved in setting Notes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3150",
+    "before": null,
+    "after": "Column blocks explicitly label Real/SPF versus Nominal/MSC, maturities2,3,5,7,10; N124/371. Do not invent missing Real/MSC or Nominal/SPF grids. Nominal maturity source ambiguous. Real DisEar coefficients in controlled row are negative/significant although main calls earnings relation insignificant; preserve. Outcome-SD normalization is explicit, but the causal target/weights for this continuous time-series regression are not separately established. Same estimation sample alone does not prove causal benchmark alignment; code unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3151",
+    "before": null,
+    "after": "Column blocks explicitly label Real/SPF versus Nominal/MSC, maturities2,3,5,7,10; N124/371. Do not invent missing Real/MSC or Nominal/SPF grids. Nominal maturity source ambiguous. Real DisEar coefficients in controlled row are negative/significant although main calls earnings relation insignificant; preserve. Outcome-SD normalization is explicit, but the causal target/weights for this continuous time-series regression are not separately established. Same estimation sample alone does not prove causal benchmark alignment; code unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3152",
+    "before": null,
+    "after": "Column blocks explicitly label Real/SPF versus Nominal/MSC, maturities2,3,5,7,10; N124/371. Do not invent missing Real/MSC or Nominal/SPF grids. Nominal maturity source ambiguous. Real DisEar coefficients in controlled row are negative/significant although main calls earnings relation insignificant; preserve. Outcome-SD normalization is explicit, but the causal target/weights for this continuous time-series regression are not separately established. Same estimation sample alone does not prove causal benchmark alignment; code unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3153",
+    "before": null,
+    "after": "Column blocks explicitly label Real/SPF versus Nominal/MSC, maturities2,3,5,7,10; N124/371. Do not invent missing Real/MSC or Nominal/SPF grids. Nominal maturity source ambiguous. Real DisEar coefficients in controlled row are negative/significant although main calls earnings relation insignificant; preserve. Outcome-SD normalization is explicit, but the causal target/weights for this continuous time-series regression are not separately established. Same estimation sample alone does not prove causal benchmark alignment; code unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3154",
+    "before": null,
+    "after": "Column blocks explicitly label Real/SPF versus Nominal/MSC, maturities2,3,5,7,10; N124/371. Do not invent missing Real/MSC or Nominal/SPF grids. Nominal maturity source ambiguous. Real DisEar coefficients in controlled row are negative/significant although main calls earnings relation insignificant; preserve. Outcome-SD normalization is explicit, but the causal target/weights for this continuous time-series regression are not separately established. Same estimation sample alone does not prove causal benchmark alignment; code unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3155",
+    "before": null,
+    "after": "Column blocks explicitly label Real/SPF versus Nominal/MSC, maturities2,3,5,7,10; N124/371. Do not invent missing Real/MSC or Nominal/SPF grids. Nominal maturity source ambiguous. Real DisEar coefficients in controlled row are negative/significant although main calls earnings relation insignificant; preserve. Outcome-SD normalization is explicit, but the causal target/weights for this continuous time-series regression are not separately established. Same estimation sample alone does not prove causal benchmark alignment; code unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3156",
+    "before": null,
+    "after": "Column blocks explicitly label Real/SPF versus Nominal/MSC, maturities2,3,5,7,10; N124/371. Do not invent missing Real/MSC or Nominal/SPF grids. Nominal maturity source ambiguous. Real DisEar coefficients in controlled row are negative/significant although main calls earnings relation insignificant; preserve. Outcome-SD normalization is explicit, but the causal target/weights for this continuous time-series regression are not separately established. Same estimation sample alone does not prove causal benchmark alignment; code unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3157",
+    "before": null,
+    "after": "Column blocks explicitly label Real/SPF versus Nominal/MSC, maturities2,3,5,7,10; N124/371. Do not invent missing Real/MSC or Nominal/SPF grids. Nominal maturity source ambiguous. Real DisEar coefficients in controlled row are negative/significant although main calls earnings relation insignificant; preserve. Outcome-SD normalization is explicit, but the causal target/weights for this continuous time-series regression are not separately established. Same estimation sample alone does not prove causal benchmark alignment; code unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3158",
+    "before": null,
+    "after": "Column blocks explicitly label Real/SPF versus Nominal/MSC, maturities2,3,5,7,10; N124/371. Do not invent missing Real/MSC or Nominal/SPF grids. Nominal maturity source ambiguous. Real DisEar coefficients in controlled row are negative/significant although main calls earnings relation insignificant; preserve. Outcome-SD normalization is explicit, but the causal target/weights for this continuous time-series regression are not separately established. Same estimation sample alone does not prove causal benchmark alignment; code unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3159",
+    "before": null,
+    "after": "Column blocks explicitly label Real/SPF versus Nominal/MSC, maturities2,3,5,7,10; N124/371. Do not invent missing Real/MSC or Nominal/SPF grids. Nominal maturity source ambiguous. Real DisEar coefficients in controlled row are negative/significant although main calls earnings relation insignificant; preserve. Outcome-SD normalization is explicit, but the causal target/weights for this continuous time-series regression are not separately established. Same estimation sample alone does not prove causal benchmark alignment; code unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5387",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5388",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5389",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5390",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5391",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5392",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5393",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5394",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5395",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5396",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5387",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5388",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5389",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5390",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5391",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5392",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5393",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5394",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5395",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5396",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5387",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5388",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5389",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5390",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5391",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5392",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5393",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5394",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5395",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5396",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5387",
+    "before": null,
+    "after": "2-year real yield; reported regression coefficients standardized to outcome-SD units unless source detail is unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5388",
+    "before": null,
+    "after": "3-year real yield; reported regression coefficients standardized to outcome-SD units unless source detail is unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5389",
+    "before": null,
+    "after": "5-year real yield; reported regression coefficients standardized to outcome-SD units unless source detail is unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5390",
+    "before": null,
+    "after": "7-year real yield; reported regression coefficients standardized to outcome-SD units unless source detail is unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5391",
+    "before": null,
+    "after": "10-year real yield; reported regression coefficients standardized to outcome-SD units unless source detail is unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5392",
+    "before": null,
+    "after": "2-year nominal yield; reported regression coefficients standardized to outcome-SD units unless source detail is unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5393",
+    "before": null,
+    "after": "3-year nominal yield; reported regression coefficients standardized to outcome-SD units unless source detail is unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5394",
+    "before": null,
+    "after": "5-year nominal yield; reported regression coefficients standardized to outcome-SD units unless source detail is unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5395",
+    "before": null,
+    "after": "7-year nominal yield; reported regression coefficients standardized to outcome-SD units unless source detail is unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5396",
+    "before": null,
+    "after": "10-year nominal yield; reported regression coefficients standardized to outcome-SD units unless source detail is unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2236",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2236",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2236",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2236",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2236",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2236",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2236",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2236",
+    "before": null,
+    "after": "OLS effect of continuous survey inflation disagreement on the grouped outcomes in TableOA.44; earnings disagreement controls. Table OA.44: Earnings Disagreement. The table reports results from OLS regressions of real and nominal yields on disagreement about inflation (DisInf) and market capitalization weighted disagreement about corporate earnings growth (DisEar). The t-statistics (t-stat) are Newey-West corrected with 12 lags. Regression coefficients are standardized. Sample: Q1-1983 to Q4-2013. Real Yields                            Nominal Yields Survey of Professionals                  Surveys of Consumers 2y      3y      5y       7y     10y      2y      3y      5y     7y      10y DisEar -0.136    -0.130   -0.091   -0.075 -0.065 -0.072 -0.054    -0.040 -0.020    0.003 t-stat -0.68     -0.65    -0.46    -0.39 -0.34 -0.50 -0.37        -0.27 -0.14      0.02 adj. R2   0.01      0.01     0.00     0.00   0.00   0.00   0.00      0.00   0.00     0.00 N    124       124      124      124    124    371    371       371    371      371"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2236",
+    "before": null,
+    "after": "Column blocks explicitly label Real/SPF versus Nominal/MSC, maturities2,3,5,7,10; N124/371. Do not invent missing Real/MSC or Nominal/SPF grids. Nominal maturity source ambiguous. Real DisEar coefficients in controlled row are negative/significant although main calls earnings relation insignificant; preserve. Column blocks explicitly label Real/SPF versus Nominal/MSC, maturities2,3,5,7,10; N124/371. Do not invent missing Real/MSC or Nominal/SPF grids. Nominal maturity source ambiguous. Real DisEar coefficients in controlled row are negative/significant although main calls earnings relation insignificant; preserve. Source: TableOA.44, supplement p73."
+  }
+]
+```
