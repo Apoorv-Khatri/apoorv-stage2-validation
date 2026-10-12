@@ -124977,3 +124977,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:29:57.283162+00:00 — Review 9SK5H9MK s2: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H643",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H644",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H646",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H647",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H648",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H649",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H650",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I643",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I644",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I646",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I647",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I648",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I649",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I650",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J643",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J644",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J646",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J647",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J648",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J649",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J650",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K641",
+    "before": null,
+    "after": "Aggregate six-year net employment creation in the nontradable sector (NAICS 44-45, 72) in the CZ, scaled by total nontradable employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K642",
+    "before": null,
+    "after": "Six-year net employment creation of firms aged0-5 at2007 (all firms created2001-2007), divided by2000 CZ nontradable employment; Table IV col5. Not age0-1 only."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K643",
+    "before": null,
+    "after": "spurious: Table IV reports aggregate, age0-5 and age6+ net job changes only; no separate age2-3/4-5 or elasticity outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K644",
+    "before": null,
+    "after": "spurious: Table IV reports aggregate, age0-5 and age6+ net job changes only; no separate age2-3/4-5 or elasticity outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K645",
+    "before": null,
+    "after": "Six-year net employment creation by firms aged 6+ years in the nontradable sector, scaled by total nontradable employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K646",
+    "before": null,
+    "after": "spurious: Table IV reports aggregate, age0-5 and age6+ net job changes only; no separate age2-3/4-5 or elasticity outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K647",
+    "before": null,
+    "after": "spurious: Table IV reports aggregate, age0-5 and age6+ net job changes only; no separate age2-3/4-5 or elasticity outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K648",
+    "before": null,
+    "after": "spurious: Table IV reports aggregate, age0-5 and age6+ net job changes only; no separate age2-3/4-5 or elasticity outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K649",
+    "before": null,
+    "after": "spurious: Table IV reports aggregate, age0-5 and age6+ net job changes only; no separate age2-3/4-5 or elasticity outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K650",
+    "before": null,
+    "after": "spurious: Table IV reports aggregate, age0-5 and age6+ net job changes only; no separate age2-3/4-5 or elasticity outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I235",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J235",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K235",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L235",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M235",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N235",
+    "before": null,
+    "after": "Six-year growth in local wages/salaries (2001-2007) instrumented by the six-year manufacturing Bartik. One 2007 cross-section of 543 CZs; net nontradable jobs/2000 nontradable employment for aggregate, firms created during 2001-2007 (age0-5) and incumbents age6+. No year FE in this single cross-section, no bank/housing interactions, no elasticity row. Table IV cols3,5,7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O235",
+    "before": null,
+    "after": "Endogenous receipt/dose is continuous income growth, not the instrument or a subgroup indicator. A single scalar shift-share sum uses lagged four-digit manufacturing employment shares times national industry employment growth excluding the focal region; do not count component industries as separate excluded instruments. Exclusion requires manufacturing shocks to affect nontradable employment only through income (pp.1011-1014, eqs.2-3). Robust SE, not panel clustering as in the copied model description. Source: Table IV p.1012/PDF14; §II.B p.1018/PDF20. Source link: https://doi.org/10.1111/jofi.12495."
+  }
+]
+```
