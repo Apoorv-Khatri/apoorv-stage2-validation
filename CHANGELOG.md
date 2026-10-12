@@ -165930,3 +165930,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:43:16.758388+00:00 — Review CETFVPE5 s2: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H836",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H837",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I836",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I837",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J836",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J837",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K836",
+    "before": null,
+    "after": "Spurious as an outcome of the rejected causal setting; the reported return variable itself is real."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K837",
+    "before": null,
+    "after": "Spurious as an outcome of the rejected causal setting; the reported return variable itself is real."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I300",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O300",
+    "before": null,
+    "after": "Spurious as a causal setting. Alternative formation windows are tests of return predictability and the adding-up restriction, with explicit assumptions about fading autocorrelation. They do not estimate causal responses to lagged returns. Comparisons across all/same/other coefficients are estimate-versus-estimate, not outcome benchmarks. Source: §3.1.3 pp148–149; Table2; lines613–792."
+  }
+]
+```
