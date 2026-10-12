@@ -20052,7 +20052,16 @@
     "L2142": "0",
     "M2142": "unknown",
     "N2142": "Untabulated §2.3 disclosure × new-lender indicator interactions for subsequent spread and loan-amount outcomes. Binary disclosure effect heterogeneity by realized switching; interaction coefficients statistically insignificant for both outcomes.",
-    "O2142": "Implemented substantive mechanism: improved outside option can benefit borrowers without switching. Exact FE/control configuration and numerical interaction estimates unreported; do not copy HDFE from preferred Table4 column or invent a grid. Unknown method rather than Other; no affirmative IV evidence. Switching is an outcome/moderator, not established predetermined assignment. Insignificant interaction estimates do not prove equal effects or establish the proposed mechanism. Source: §2.3 p3089 lines920–935."
+    "O2142": "Implemented substantive mechanism: improved outside option can benefit borrowers without switching. Exact FE/control configuration and numerical interaction estimates unreported; do not copy HDFE from preferred Table4 column or invent a grid. Unknown method rather than Other; no affirmative IV evidence. Switching is an outcome/moderator, not established predetermined assignment. Insignificant interaction estimates do not prove equal effects or establish the proposed mechanism. Source: §2.3 p3089 lines920–935.",
+    "A2143": "CETFVPE5",
+    "B2143": "h1",
+    "I2143": "1",
+    "J2143": "OLS",
+    "K2143": "0",
+    "L2143": "0",
+    "M2143": "n/a",
+    "N2143": "Table6 cols2,4: idiosyncratic-volatility moderation of same-/other-month historical-return exposures on monthly stock returns. Standardized RHS variables; volatility×same/other interactions −0.03/−0.04 for all stocks and −0.05/−0.05 for all-but-microcaps. Include raw-RHS robustness actually implemented in fn15; no separate main-effect-only pricing setting.",
+    "O2143": "Distinct continuous limits-to-arbitrage proxy split from s9. Same broad mechanism gate, OLS and supporting role. Caption measures volatility over month t, while prose says prior month: visually verified conflict, timing unresolved. Volatility is estimated from FF3 residuals; these factor controls are not FE. Raw-RHS robustness gives a t-value −2.69 for the volatility main effect, not an interaction coefficient or outcome-SD scaling. Source: §4.2 pp153–154; Table6 cols2,4; lines1029–1144; fn15."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55911,7 +55920,11 @@
     "H5012": "0",
     "I5012": "unknown",
     "J5012": "other",
-    "K5012": "Loan amount outcome in untabulated disclosure × new-lender interaction tests (§2.3). The surrounding Table4 analysis uses next-minus-current natural logs; this scale is inferred from continuation of those tests, not independently specified for the untabulated regression. Human_transform=other records that contextual log-difference reading. Exact specification and observed zero mass are unreported."
+    "K5012": "Loan amount outcome in untabulated disclosure × new-lender interaction tests (§2.3). The surrounding Table4 analysis uses next-minus-current natural logs; this scale is inferred from continuation of those tests, not independently specified for the untabulated regression. Human_transform=other records that contextual log-difference reading. Exact specification and observed zero mass are unreported.",
+    "A5013": "CETFVPE5",
+    "B5013": "h1",
+    "C5013": "hy1",
+    "K5013": "Monthly U.S. individual-stock return in percentage units, not outcome-SD units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

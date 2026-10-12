@@ -166536,3 +166536,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:46:18.532754+00:00 — Review CETFVPE5 h1: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5013",
+    "before": null,
+    "after": "CETFVPE5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5013",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5013",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5013",
+    "before": null,
+    "after": "Monthly U.S. individual-stock return in percentage units, not outcome-SD units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2143",
+    "before": null,
+    "after": "CETFVPE5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2143",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2143",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2143",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2143",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2143",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2143",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2143",
+    "before": null,
+    "after": "Table6 cols2,4: idiosyncratic-volatility moderation of same-/other-month historical-return exposures on monthly stock returns. Standardized RHS variables; volatility×same/other interactions −0.03/−0.04 for all stocks and −0.05/−0.05 for all-but-microcaps. Include raw-RHS robustness actually implemented in fn15; no separate main-effect-only pricing setting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2143",
+    "before": null,
+    "after": "Distinct continuous limits-to-arbitrage proxy split from s9. Same broad mechanism gate, OLS and supporting role. Caption measures volatility over month t, while prose says prior month: visually verified conflict, timing unresolved. Volatility is estimated from FF3 residuals; these factor controls are not FE. Raw-RHS robustness gives a t-value −2.69 for the volatility main effect, not an interaction coefficient or outcome-SD scaling. Source: §4.2 pp153–154; Table6 cols2,4; lines1029–1144; fn15."
+  }
+]
+```
