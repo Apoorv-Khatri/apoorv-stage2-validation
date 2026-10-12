@@ -122790,3 +122790,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:25:15.193591+00:00 — Review 96H6UQNF s11: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H628",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I628",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J628",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K628",
+    "before": null,
+    "after": "Duplicate of s10/hy1 after grouping Table7/Fig.9 outcome set; preserve source definition there."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I231",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M231",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N231",
+    "before": null,
+    "after": "Merged with s10: same method, treatment, estimator framework, Table7/Fig.9 and jointly reported outcome set."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O231",
+    "before": null,
+    "after": "Duplicate setting after grouping outcomes: preserve original ID and mark 0; s11/y1 migrated to s10/hy1. Source: §3.3 pp.27–31; Table7/Fig.9.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```
