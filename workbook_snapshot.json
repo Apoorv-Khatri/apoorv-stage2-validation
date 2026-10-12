@@ -20251,7 +20251,16 @@
     "L2151": "0",
     "M2151": "n/a",
     "N2151": "Continuous bonus-peer RPQ effects on earnings-management changes; Table11 cols4–6.",
-    "O2151": "Prose p215 claims every RPQ coefficient insignificant, but col4 is −1.04** (t=−2.52), verified visually. Preserve significant negative estimate; it does not support increased manipulation. Year/industry controls; OLS. Source: §7.4/Table11 pp215–216; lines1512–1633."
+    "O2151": "Prose p215 claims every RPQ coefficient insignificant, but col4 is −1.04** (t=−2.52), verified visually. Preserve significant negative estimate; it does not support increased manipulation. Year/industry controls; OLS. Source: §7.4/Table11 pp215–216; lines1512–1633.",
+    "A2152": "CN4YZYPH",
+    "B2152": "h5",
+    "I2152": "1",
+    "J2152": "OLS",
+    "K2152": "0",
+    "L2152": "0",
+    "M2152": "n/a",
+    "N2152": "Continuous bonus-peer RPQ and RPQ×High_GPQ slopes on stock return/profitability growth; Table12 A/B col2.",
+    "O2152": "Causal-intention gate passes: authors interpret this focal peer-quality/policy contrast as affecting the stated outcome. Year/industry dummy controls alone have no separately argued identifying role; retain OLS classification, not HDFE. Table12 displays no standalone High_GPQ row. Do not invent its coefficient or interpret interaction alone as unconditional binary GPQ effect. Broad prose says overall negative marginal effect; actual reported estimand is slope moderation. Source: §7.5/Table12 pp216–217; lines1638–1716."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56178,7 +56187,15 @@
     "A5023": "CN4YZYPH",
     "B5023": "h4",
     "C5023": "hy3",
-    "K5023": "Change in cash-flow-based earnings-management measure (Dechow and Dichev,2002)."
+    "K5023": "Change in cash-flow-based earnings-management measure (Dechow and Dichev,2002).",
+    "A5024": "CN4YZYPH",
+    "B5024": "h5",
+    "C5024": "hy1",
+    "K5024": "DGTW characteristic-adjusted annual stock return, fiscal year t (decimal return).",
+    "A5025": "CN4YZYPH",
+    "B5025": "h5",
+    "C5025": "hy2",
+    "K5025": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
