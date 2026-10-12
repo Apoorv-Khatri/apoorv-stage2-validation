@@ -147939,3 +147939,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:39:00.429520+00:00 — Review ACJ72JDD h28: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4979",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4980",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4979",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4980",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4979",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4980",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4979",
+    "before": null,
+    "after": "Tether flow in alternative Tether-price-proxy regressions; units/standardization and exact table assignment pending supplementary verification."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4980",
+    "before": null,
+    "after": "Bitcoin flow in alternative Tether-price-proxy regressions; units/standardization and exact table assignment pending supplementary verification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2119",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2119",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2119",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2119",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2119",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2119",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2119",
+    "before": null,
+    "after": "Minimum-scope robustness of the Table VIII flow response using alternative Tether-price proxies: value-weighted and equal-weighted Tether-USD rates across available exchanges, and a synthetic rate from Bitfinex versus dollar-exchange Bitcoin prices; net Tether and Bitcoin flow outcomes. Tables IA.X, IA.XI, and IA.XII collectively; exact proxy-to-table mapping and additional setting splits unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2119",
+    "before": null,
+    "after": "Main p.1958 explicitly reports that these proxies were constructed and gave similar results. This one minimum-scope record preserves implemented robustness, not a claim that the three tables are one fully verified estimator. Do not infer six treatment-by-proxy settings or any standardized coefficients without the appendix. h29–h33 remain candidate expansions outside the workbook. OLS is supported by direct substitution into the Table VIII regressions, but appendix-only estimator changes remain unchecked. Source: p.1958 lines2052–2057; Tables IA.X–IA.XII. Certainty: minimum proxy/table mapping from ordered primary list."
+  }
+]
+```

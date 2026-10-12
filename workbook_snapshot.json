@@ -19688,7 +19688,16 @@
     "L2118": "1",
     "M2118": "n/a",
     "N2118": "Top-tail 1LSg high-flow indicators and lagged-return interactions in Bitcoin hourly reversal regressions, analogous to TableIV C.",
-    "O2118": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Primary reports reversal driven entirely by1LSg and no relation for other flow groups; top1%1LSg implies52bp reversal per1% price drop. Threshold variants/coefficients unavailable. Binary high-tail-versus-other contrast; not a treatment-SD effect. Primary footnote32 reports null relationships for top hours of other flows. Preserve these as attribution/negative-control evidence; h26/h27 are pending distinct-setting implementation rather than confirmed additional regressions. Source: pp.1945–1947 footnote32 lines1404–1406,1519–1520; Table IA.VII. Certainty: source-grounded."
+    "O2118": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Primary reports reversal driven entirely by1LSg and no relation for other flow groups; top1%1LSg implies52bp reversal per1% price drop. Threshold variants/coefficients unavailable. Binary high-tail-versus-other contrast; not a treatment-SD effect. Primary footnote32 reports null relationships for top hours of other flows. Preserve these as attribution/negative-control evidence; h26/h27 are pending distinct-setting implementation rather than confirmed additional regressions. Source: pp.1945–1947 footnote32 lines1404–1406,1519–1520; Table IA.VII. Certainty: source-grounded.",
+    "A2119": "ACJ72JDD",
+    "B2119": "h28",
+    "I2119": "1",
+    "J2119": "OLS",
+    "K2119": "0",
+    "L2119": "0",
+    "M2119": "n/a",
+    "N2119": "Minimum-scope robustness of the Table VIII flow response using alternative Tether-price proxies: value-weighted and equal-weighted Tether-USD rates across available exchanges, and a synthetic rate from Bitfinex versus dollar-exchange Bitcoin prices; net Tether and Bitcoin flow outcomes. Tables IA.X, IA.XI, and IA.XII collectively; exact proxy-to-table mapping and additional setting splits unresolved.",
+    "O2119": "Main p.1958 explicitly reports that these proxies were constructed and gave similar results. This one minimum-scope record preserves implemented robustness, not a claim that the three tables are one fully verified estimator. Do not infer six treatment-by-proxy settings or any standardized coefficients without the appendix. h29–h33 remain candidate expansions outside the workbook. OLS is supported by direct substitution into the Table VIII regressions, but appendix-only estimator changes remain unchecked. Source: p.1958 lines2052–2057; Tables IA.X–IA.XII. Certainty: minimum proxy/table mapping from ordered primary list."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55080,7 +55089,15 @@
     "H4978": "0",
     "I4978": "unknown",
     "J4978": "unknown",
-    "K4978": "Hourly Bitcoin return; high-flow indicator modifies response to lagged return. Exact appendix outcome scale pending."
+    "K4978": "Hourly Bitcoin return; high-flow indicator modifies response to lagged return. Exact appendix outcome scale pending.",
+    "A4979": "ACJ72JDD",
+    "B4979": "h28",
+    "C4979": "hy1",
+    "K4979": "Tether flow in alternative Tether-price-proxy regressions; units/standardization and exact table assignment pending supplementary verification.",
+    "A4980": "ACJ72JDD",
+    "B4980": "h28",
+    "C4980": "hy2",
+    "K4980": "Bitcoin flow in alternative Tether-price-proxy regressions; units/standardization and exact table assignment pending supplementary verification."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
