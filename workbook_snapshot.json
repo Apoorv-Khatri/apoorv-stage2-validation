@@ -18560,7 +18560,16 @@
     "L2021": "1",
     "M2021": "n/a",
     "N2021": "Monthly firm-level WLS endpoint trade-credit/customer-return contrasts conditional on high/low emerging-market financial stress. Stress means IMF stress indicator above one in any emerging market, covering65 of195 sample months. Unlike Table5, Table6 augments Table3 and does not restrict the estimand to high-foreign-sales firms. Specifications without identifying country/industry FE; routine no-control/controlled variants are grouped where reported at this location. The FE results remain under s4.",
-    "O2021": "Binary=1 refers to the implemented two-endpoint contrasts, not the underlying three-level trade-credit or five-level customer-return sorting variables. Interior cell means describe the grouped regression, not new standalone causal treatments. Country and industry FE are two separate, nonnested categorical dimensions, not HDFE. The substantive identification argument is explicit: p.604 adds these FE to soak up potential variation from those sources and interprets invariance to industry dummies as evidence against cross-industry trade-credit variation driving the strategy. This is not classification from dimension count alone. Without these identifying FE, the same linear WLS contrasts are OLS/regression adjustment. Country-industry-month clustered standard errors are not an additional FE dimension. Factor controls are not FE. No IV, randomized assignment, RD, matching treatment weights or parallel-trends DiD is implemented. Observational, model-motivated mechanism test. Customer country indices proxy unobserved bilateral customer-firm links; trade credit, foreign sales, volume and stress states can be endogenous. Controls and country/industry FE do not prove exogeneity. Retention records the authors’ interpretation, not endorsement of their identification. Source: §4.2/Table6 p.608/PDF17; discussion p.606.. Certainty: high for printed estimates/design split; author-interpreted mechanism, not proven causal identification."
+    "O2021": "Binary=1 refers to the implemented two-endpoint contrasts, not the underlying three-level trade-credit or five-level customer-return sorting variables. Interior cell means describe the grouped regression, not new standalone causal treatments. Country and industry FE are two separate, nonnested categorical dimensions, not HDFE. The substantive identification argument is explicit: p.604 adds these FE to soak up potential variation from those sources and interprets invariance to industry dummies as evidence against cross-industry trade-credit variation driving the strategy. This is not classification from dimension count alone. Without these identifying FE, the same linear WLS contrasts are OLS/regression adjustment. Country-industry-month clustered standard errors are not an additional FE dimension. Factor controls are not FE. No IV, randomized assignment, RD, matching treatment weights or parallel-trends DiD is implemented. Observational, model-motivated mechanism test. Customer country indices proxy unobserved bilateral customer-firm links; trade credit, foreign sales, volume and stress states can be endogenous. Controls and country/industry FE do not prove exogeneity. Retention records the authors’ interpretation, not endorsement of their identification. Source: §4.2/Table6 p.608/PDF17; discussion p.606.. Certainty: high for printed estimates/design split; author-interpreted mechanism, not proven causal identification.",
+    "A2022": "96H6UQNF",
+    "B2022": "h1",
+    "I2022": "1",
+    "J2022": "Other",
+    "K2022": "1",
+    "L2022": "0",
+    "M2022": "n/a",
+    "N2022": "Table5 PanelB: extreme-cold day × Friday–Sunday weekend heterogeneity in daily visits, Poisson FE; main shock coefficient is weekday response and interaction is additional weekend response, not total weekend effect.",
+    "O2022": "Two effective FE dimensions: year-quarter × establishment and establishment × day-of-week. p.24 explains absorption of variation over years and systematic weekly foot traffic. Components of interacted sets are not separately counted. No parallel-trends treated/post identification is implemented. Supporting weekend-demand mechanism. Full-sample shock −0.0356 and interaction −0.0373. Do not treat the lower-order coefficient as unconditional; nonlinear conditional-mean estimator remains Other. Source: Table5B p.24; §3.2.1 pp.24–25.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52561,7 +52570,14 @@
     "H4764": "0",
     "I4764": "unknown",
     "J4764": "unknown",
-    "K4764": "Standardized unexpected earnings: actual earnings minus mean analysts’ forecasts as of fiscal-quarter end, divided by end-quarter share price (§3.3 p.27), NOT divided by its SD. Fig.9 reports impacts in log points ×1,000 under similar Eq.(2); exact additional transformation unresolved, not fabricated as none."
+    "K4764": "Standardized unexpected earnings: actual earnings minus mean analysts’ forecasts as of fiscal-quarter end, divided by end-quarter share price (§3.3 p.27), NOT divided by its SD. Fig.9 reports impacts in log points ×1,000 under similar Eq.(2); exact additional transformation unresolved, not fabricated as none.",
+    "A4765": "96H6UQNF",
+    "B4765": "h1",
+    "C4765": "hy1",
+    "H4765": "0",
+    "I4765": "unknown",
+    "J4765": "none",
+    "K4765": "Daily SafeGraph establishment visits, April–June2018–2021, full sample and reported NAICS subsamples; raw count outcome in Poisson model. No explicit evidence of an exact zero atom in regression sample; neither Poisson nor log1p proves observed zeros."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
