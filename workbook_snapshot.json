@@ -19553,7 +19553,16 @@
     "L2103": "1",
     "M2103": "n/a",
     "N2103": "Table VII A/B columns4 and7: continuous monthly Bitcoin-denominated Tether issuance divided by its SD, issuance main effect and EOM×issuance; daily Bitcoin/top-five value-weighted returns. Column7 excludes December2017 and January2018.",
-    "O2103": "Focal dose is issuance, not the EOM indicator alone. Interaction changes EOM-versus-surrounding-day differential per issuance SD. Issuance effect at EOM equals issuance main+interaction; EOM effect at issuance x equals EOM main+interaction*x. Outcome not standardized. Do not classify interaction as DiD without a parallel-trends design. Source: Table VII pp.1955–1956; text pp.1954,1957; lines1887–1999. Certainty: source-grounded."
+    "O2103": "Focal dose is issuance, not the EOM indicator alone. Interaction changes EOM-versus-surrounding-day differential per issuance SD. Issuance effect at EOM equals issuance main+interaction; EOM effect at issuance x equals EOM main+interaction*x. Outcome not standardized. Do not classify interaction as DiD without a parallel-trends design. Source: Table VII pp.1955–1956; text pp.1954,1957; lines1887–1999. Certainty: source-grounded.",
+    "A2104": "ACJ72JDD",
+    "B2104": "h5",
+    "I2104": "1",
+    "J2104": "OLS",
+    "K2104": "1",
+    "L2104": "1",
+    "M2104": "n/a",
+    "N2104": "Table VII A/B columns5 and8: implemented low-, medium-, high-issuance-group versus zero-issuance-group contrasts in EOM effects, with group main effects and EOM interactions; binary arm-versus-zero contrasts within multigroup design.",
+    "O2104": "Not one continuous issuance coefficient. High×EOM is a differential EOM slope relative to zero group, not unconditional EOM return. Total EOM slope in high group adds EOM main. Restricted columns exclude Dec2017/Jan2018. Text p.1957 says Dec2018, -7.7%, t=-4.00 and 4.8%, t=-3.64; verified table says Dec2017, interaction -0.0762 (t=-3.99), restricted -0.0474 (t=-3.63). Preserve discrepancy, no silent repair. Source: Table VII A/B pp.1955–1956; lines1901–1999. Certainty: source-grounded."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54778,7 +54787,21 @@
     "A4946": "ACJ72JDD",
     "B4946": "h4",
     "C4946": "hy2",
-    "K4946": "Daily simple return on value-weighted portfolio of top-five cryptocurrencies selected by previous-week average market capitalization; TableVII. Decimal-return scale."
+    "K4946": "Daily simple return on value-weighted portfolio of top-five cryptocurrencies selected by previous-week average market capitalization; TableVII. Decimal-return scale.",
+    "A4947": "ACJ72JDD",
+    "B4947": "h5",
+    "C4947": "hy1",
+    "H4947": "0",
+    "I4947": "unknown",
+    "J4947": "none",
+    "K4947": "Daily simple Bitcoin return; TableVII. Decimal-return scale.",
+    "A4948": "ACJ72JDD",
+    "B4948": "h5",
+    "C4948": "hy2",
+    "H4948": "0",
+    "I4948": "unknown",
+    "J4948": "none",
+    "K4948": "Daily simple return on value-weighted portfolio of top-five cryptocurrencies selected by previous-week average market capitalization; TableVII. Decimal-return scale."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -140862,3 +140862,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:35:18.672555+00:00 — Review ACJ72JDD h5: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4947",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4948",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4947",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4948",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4947",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4948",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4947",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4948",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4947",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4948",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4947",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4948",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4947",
+    "before": null,
+    "after": "Daily simple Bitcoin return; TableVII. Decimal-return scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4948",
+    "before": null,
+    "after": "Daily simple return on value-weighted portfolio of top-five cryptocurrencies selected by previous-week average market capitalization; TableVII. Decimal-return scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2104",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2104",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2104",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2104",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2104",
+    "before": null,
+    "after": "Table VII A/B columns5 and8: implemented low-, medium-, high-issuance-group versus zero-issuance-group contrasts in EOM effects, with group main effects and EOM interactions; binary arm-versus-zero contrasts within multigroup design."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2104",
+    "before": null,
+    "after": "Not one continuous issuance coefficient. High×EOM is a differential EOM slope relative to zero group, not unconditional EOM return. Total EOM slope in high group adds EOM main. Restricted columns exclude Dec2017/Jan2018. Text p.1957 says Dec2018, -7.7%, t=-4.00 and 4.8%, t=-3.64; verified table says Dec2017, interaction -0.0762 (t=-3.99), restricted -0.0474 (t=-3.63). Preserve discrepancy, no silent repair. Source: Table VII A/B pp.1955–1956; lines1901–1999. Certainty: source-grounded."
+  }
+]
+```
