@@ -134778,3 +134778,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:42:51.255270+00:00 — Review 9XGMQWX5 h9: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4905",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4906",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4905",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4906",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4905",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4906",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4905",
+    "before": null,
+    "after": "Female Founder Ratio: fraction of the portfolio company founding team who are women. Final Table13 caption and pp.14–16 establish this despite column headers saying Female Hired Ratio."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4906",
+    "before": null,
+    "after": "Indicator that the portfolio company has at least one female founder; alternative outcome in §4.3 pp.14–16, no coefficients/table provided in inspected sources."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2066",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2066",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2066",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2066",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2066",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2066",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2066",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2066",
+    "before": null,
+    "after": "Table13(3)–(4): investing partner’s own daughter ratio on portfolio-company female founder share, conditioning on own children count; associated any-female-founder alternative is prose-only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2066",
+    "before": null,
+    "after": "Distinct individual treatment from firm-average treatment s7. Caption/prose identify founder outcomes; headers erroneously say hired ratio. Source: Table13 p.15; pp.14–16."
+  }
+]
+```

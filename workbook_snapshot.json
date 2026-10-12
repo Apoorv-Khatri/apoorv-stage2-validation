@@ -19119,7 +19119,16 @@
     "L2065": "0",
     "M2065": "n/a",
     "N2065": "Table12(1)–(2): actual continuous Female Hired Ratio on fund excess IRR, OLS with year indicators and optional firm controls.",
-    "O2065": "Retain as observational causal-effect comparator to IV under the broad intent gate. No linked benchmark. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Table12 p.15; discussion p.14."
+    "O2065": "Retain as observational causal-effect comparator to IV under the broad intent gate. No linked benchmark. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Table12 p.15; discussion p.14.",
+    "A2066": "9XGMQWX5",
+    "B2066": "h9",
+    "I2066": "1",
+    "J2066": "OLS",
+    "K2066": "0",
+    "L2066": "0",
+    "M2066": "n/a",
+    "N2066": "Table13(3)–(4): investing partner’s own daughter ratio on portfolio-company female founder share, conditioning on own children count; associated any-female-founder alternative is prose-only.",
+    "O2066": "Distinct individual treatment from firm-average treatment s7. Caption/prose identify founder outcomes; headers erroneously say hired ratio. Source: Table13 p.15; pp.14–16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54008,7 +54017,15 @@
     "A4904": "9XGMQWX5",
     "B4904": "h8",
     "C4904": "hy1",
-    "K4904": "Fund excess IRR in decimal return units: net IRR minus the Preqin median fund benchmark. Table captions specify region and year; p.6 also says investment strategy. Not raw net IRR and not an outcome normalization by an outcome mean."
+    "K4904": "Fund excess IRR in decimal return units: net IRR minus the Preqin median fund benchmark. Table captions specify region and year; p.6 also says investment strategy. Not raw net IRR and not an outcome normalization by an outcome mean.",
+    "A4905": "9XGMQWX5",
+    "B4905": "h9",
+    "C4905": "hy1",
+    "K4905": "Female Founder Ratio: fraction of the portfolio company founding team who are women. Final Table13 caption and pp.14–16 establish this despite column headers saying Female Hired Ratio.",
+    "A4906": "9XGMQWX5",
+    "B4906": "h9",
+    "C4906": "hy2",
+    "K4906": "Indicator that the portfolio company has at least one female founder; alternative outcome in §4.3 pp.14–16, no coefficients/table provided in inspected sources."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
