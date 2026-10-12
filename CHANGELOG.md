@@ -163968,3 +163968,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:22:59.301660+00:00 — Review BHYG5F75 h1: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2432",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2432",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2432",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2432",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2432",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2432",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2432",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2432",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2432",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2432",
+    "before": null,
+    "after": "Table2 col1 and pp3084–3085 lines620–678: focal 7.0540pp (rounded7.0); benchmark sample switching probability20.7%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2432",
+    "before": null,
+    "after": "Exact regression target and untreated baseline not established; source labels overall sample probability. No author division. Abstract16% higher is not an additional effect/base calculation: detailed text identifies16.1pp, and no distinct base is supplied for that headline."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4996",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4996",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4996",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4996",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4996",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4996",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4996",
+    "before": null,
+    "after": "Binary next-loan lender/lead-arranger switch, with zero for no switch. Printed coefficients are percentage points; Table1 shows a nondegenerate switching rate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2130",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2130",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2130",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2130",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2130",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2130",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2130",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2130",
+    "before": null,
+    "after": "Table2 columns1–2: binary voluntary disclosure versus no disclosure on next-loan lender switching. Column1 year FE; column2 borrower plus year FE; no lender FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2130",
+    "before": null,
+    "after": "Year FE explicitly remove time-varying economic conditions (§2 and Tables2–4 captions); borrower FE remove fixed unobserved quality; lender FE remove persistent lender differences. Count year, borrower, lender as three separate effective dimensions. No DiD design: changes in the dependent variable alone do not imply DiD. Standard FE (one/two sets), not HDFE. No no-FE OLS column exists here, so no artificial OLS setting is added. Source: Table2 cols1–2; pp3085–3088."
+  }
+]
+```
