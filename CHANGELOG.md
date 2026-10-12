@@ -327951,3 +327951,234 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:06:36.146333+00:00 — Review EYWPN7YT h4: source-audited coding and linked comparisons
+
+37 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5918",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5919",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5920",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5921",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5918",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5919",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5920",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5921",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5918",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5919",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5920",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5921",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5918",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5919",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5920",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5921",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5918",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5919",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5920",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5921",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5918",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5919",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5920",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5921",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5918",
+    "before": null,
+    "after": "Stock-level short-term forecast inaccuracy: average absolute next-quarter EPS forecast error across analysts, scaled by previous quarter-end stock price. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. Scope: Dynamic event-time EDGAR access effects on inaccuracy, 4: post-treatment path at stock and analyst-stock level, beyond static inclusion-quarter/pooled-four-quarter estimates. Pre-event coefficients are diagnostic only."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5919",
+    "before": null,
+    "after": "Stock-level long-term forecast inaccuracy: average absolute current-fiscal-year EPS forecast error across analysts, scaled by previous quarter-end stock price. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. Scope: Dynamic event-time EDGAR access effects on inaccuracy, 4: post-treatment path at stock and analyst-stock level, beyond static inclusion-quarter/pooled-four-quarter estimates. Pre-event coefficients are diagnostic only."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5920",
+    "before": null,
+    "after": "Analyst-stock short-term forecast inaccuracy: analyst-specific absolute next-quarter EPS forecast error for a firm-quarter, scaled by previous quarter-end stock price. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. Scope: Dynamic event-time EDGAR access effects on inaccuracy, 4: post-treatment path at stock and analyst-stock level, beyond static inclusion-quarter/pooled-four-quarter estimates. Pre-event coefficients are diagnostic only."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5921",
+    "before": null,
+    "after": "Analyst-stock long-term forecast inaccuracy: analyst-specific absolute current-fiscal-year EPS forecast error for a firm-quarter, scaled by previous quarter-end stock price. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. Scope: Dynamic event-time EDGAR access effects on inaccuracy, 4: post-treatment path at stock and analyst-stock level, beyond static inclusion-quarter/pooled-four-quarter estimates. Pre-event coefficients are diagnostic only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2334",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2334",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2334",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2334",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2334",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2334",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2334",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2334",
+    "before": null,
+    "after": "Dynamic event-time EDGAR access effects on inaccuracy, 4: post-treatment path at stock and analyst-stock level, beyond static inclusion-quarter/pooled-four-quarter estimates. Pre-event coefficients are diagnostic only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2334",
+    "before": null,
+    "after": "Implemented Cengiz et al. (2019) stacked-regression estimator: cohort-specific datasets, clean future-treated controls, nine-quarter window, explicitly addressing time-varying effects and treatment-effect heterogeneity (§1.2–1.3, PDF9–10). This is not modern merely because adoption is staggered. Administrative randomized rollout is analyzed with DD, not a separately implemented experimental ITT. Matching is preprocessing; no IV or separate identifying-FE/OLS setting. Authors interpret persistent post-treatment changes, not only parallel-trends checks. Numerical graph coordinates not invented; no separate means or SD benchmarks linked to these dynamic coefficients. Source: Figure4 PDF20–21; §2.2."
+  }
+]
+```
