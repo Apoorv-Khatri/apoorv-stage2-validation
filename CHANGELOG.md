@@ -125616,3 +125616,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:30:45.270703+00:00 — Review 9SK5H9MK s5: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K671",
+    "before": null,
+    "after": "Aggregate two-year net employment creation in the construction sector (NAICS 23) in the CZ, scaled by total construction employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K672",
+    "before": null,
+    "after": "Two-year net employment creation by startups (firms aged 0-1 years) in the construction sector, scaled by total construction employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K673",
+    "before": null,
+    "after": "Two-year net employment creation by firms aged 2-3 years in the construction sector, scaled by total construction employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K674",
+    "before": null,
+    "after": "Two-year net employment creation by firms aged 4-5 years in the construction sector, scaled by total construction employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K675",
+    "before": null,
+    "after": "Two-year net employment creation by firms aged 6+ years in the construction sector, scaled by total construction employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K676",
+    "before": null,
+    "after": "Two-year employment growth rate for aggregate construction employment, used to report elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K677",
+    "before": null,
+    "after": "Two-year employment growth rate for startup construction employment, used to report elasticity; startups use the authors' startup-growth formula based on startup employment at t and t-2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K678",
+    "before": null,
+    "after": "Two-year employment growth rate for construction firms aged 2-3 years, used to report elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K679",
+    "before": null,
+    "after": "Two-year employment growth rate for construction firms aged 4-5 years, used to report elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K680",
+    "before": null,
+    "after": "Two-year employment growth rate for construction firms aged 6+ years, used to report elasticity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I238",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J238",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K238",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L238",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M238",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N238",
+    "before": null,
+    "after": "Table VI IV cols3,5,7,9,11: continuous local income growth effects on construction-sector (NAICS23) net employment and employment growth/elasticity, scaled by 2000 construction employment, not nontradable employment. CZ observations, nonoverlapping endpoints 2001/2003/2005/2007; two-year real growth in total wages and salaries; controls log labor force, high-school share and log total wages measured in 2000; year dummies; CZ-clustered SE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O238",
+    "before": null,
+    "after": "Endogenous receipt/dose is continuous income growth, not the instrument or a subgroup indicator. A single scalar shift-share sum uses lagged four-digit manufacturing employment shares times national industry employment growth excluding the focal region; do not count component industries as separate excluded instruments. Exclusion requires manufacturing shocks to affect nontradable employment only through income (pp.1011-1014, eqs.2-3). Supporting sector robustness against nontradable franchising explanation, §II.D. Footnote10 p.1004 says elasticity regressions use the middle90% of each category and untrimmed results leave conclusions unchanged, available from authors. This is an unreported routine trimming variant, not a new verified result table; coefficients and full sector scope of the untrimmed extension are unavailable. Source: Table VI p.1022/PDF24; §II.D p.1021. Source link: https://doi.org/10.1111/jofi.12495."
+  }
+]
+```
