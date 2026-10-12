@@ -20296,7 +20296,16 @@
     "L2156": "0",
     "M2156": "n/a",
     "N2156": "Bonus peers: High_RPQ (indicator RPQ>0.5 versus RPQ≤0.5) effects on adjusted returns and change in adjusted ROA; Table7 A/B col4; pooled linear regression with year/industry controls.",
-    "O2156": "Alternative treatment, not mere covariate variant; author reports baseline findings remain qualitatively consistent. Source: §6.1/Table7 pp209–211; lines1066–1236."
+    "O2156": "Alternative treatment, not mere covariate variant; author reports baseline findings remain qualitatively consistent. Source: §6.1/Table7 pp209–211; lines1066–1236.",
+    "A2157": "CN4YZYPH",
+    "B2157": "h10",
+    "I2157": "1",
+    "J2157": "OLS",
+    "K2157": "0",
+    "L2157": "0",
+    "M2157": "n/a",
+    "N2157": "Bonus peers: RPQ_3Y (rank fraction based on previous-three-year average managerial ability) effects on adjusted returns and change in adjusted ROA; Table7 A/B col5; pooled linear regression with year/industry controls.",
+    "O2157": "Alternative treatment, not mere covariate variant; author reports baseline findings remain qualitatively consistent. Source: §6.1/Table7 pp209–211; lines1066–1236."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56275,7 +56284,15 @@
     "H5033": "0",
     "I5033": "unknown",
     "J5033": "other",
-    "K5033": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1."
+    "K5033": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1.",
+    "A5034": "CN4YZYPH",
+    "B5034": "h10",
+    "C5034": "hy1",
+    "K5034": "DGTW characteristic-adjusted annual stock return, fiscal year t (decimal return).",
+    "A5035": "CN4YZYPH",
+    "B5035": "h10",
+    "C5035": "hy2",
+    "K5035": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
