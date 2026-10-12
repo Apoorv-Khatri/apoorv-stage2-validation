@@ -19765,7 +19765,16 @@
     "L2123": "0",
     "M2123": "n/a",
     "N2123": "Investor sentiment mechanism: compare global factor returns following high versus low sentiment months, 1899–2014. High sentiment means prior-month market-wide text pessimism below its full-sample median; low means above median. Separate asset-class/factor and multi-asset contrasts described in footnote28, not Table10 state numbers.",
-    "O2123": "Scope-limited addition: authors explicitly test impact of investor sentiment as a mispricing explanation. Linear high-versus-low group-return contrast is OLS/regression adjustment, not matching or DiD. Factor premiums are positive in both states and generally stronger after high sentiment; 13 of24 factor coefficients and5 of6 multi-asset combinations have the stated direction. No exact coefficients, base means, equality-at-median rule, or table identifier supplied. Causal gate is interpretive and should be independently checked; retained for explicit mechanism attribution, not prediction alone. Distinctness is supported by separately reported individual/factor-specific contrasts versus the pooled common panel effect, not by a proven OLS-versus-FE method difference. These could arise within a common computational panel; do not claim separate datasets or different identifying methods. Source: Footnote 28 p.1147/PDF20; text lines1421–1445 (continuation1433–1435); visually checked page1147.png. Certainty: Implemented qualitative result established; numerical results unavailable."
+    "O2123": "Scope-limited addition: authors explicitly test impact of investor sentiment as a mispricing explanation. Linear high-versus-low group-return contrast is OLS/regression adjustment, not matching or DiD. Factor premiums are positive in both states and generally stronger after high sentiment; 13 of24 factor coefficients and5 of6 multi-asset combinations have the stated direction. No exact coefficients, base means, equality-at-median rule, or table identifier supplied. Causal gate is interpretive and should be independently checked; retained for explicit mechanism attribution, not prediction alone. Distinctness is supported by separately reported individual/factor-specific contrasts versus the pooled common panel effect, not by a proven OLS-versus-FE method difference. These could arise within a common computational panel; do not claim separate datasets or different identifying methods. Source: Footnote 28 p.1147/PDF20; text lines1421–1445 (continuation1433–1435); visually checked page1147.png. Certainty: Implemented qualitative result established; numerical results unavailable.",
+    "A2124": "ANHCKZYX",
+    "B2124": "h2",
+    "I2124": "1",
+    "J2124": "unknown",
+    "K2124": "1",
+    "L2124": "0",
+    "M2124": "unknown",
+    "N2124": "Investor sentiment mechanism: pooled panel regression of global factor returns contrasting prior-month high versus low sentiment, footnote28 p.1147, 1899–2014; authors report a strong significant effect. Separate from individual factor contrasts in h1.",
+    "O2124": "Minimum scope supported by explicit implemented-result sentence. Exact panel estimator, covariates and FE are not stated for this sentiment regression. Do not copy Table10 asset class–factor FE to an unreported sentiment regression or invent a table/grid. Unknown method/IV status reflects missing implementation detail, not affirmative IV evidence; no excluded instrument is reported. High/low sentiment definition is the same as h1. Coefficient, return aggregation weights and benchmark unavailable. Separate from h1 because the pooled common estimand is separately reported after the individual coefficient signs. Even if computed in one panel framework, it is not simply another routine control variant. Unknown method does not itself create a setting. Reassess or merge only if a fuller source shows this sentence merely summarizes the same individual estimands without a pooled common coefficient. Source: Footnote 28 p.1147/PDF20; text lines1421–1445 (continuation1433–1435); visually checked page1147.png. Certainty: Panel result established; method unresolved."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55324,7 +55333,14 @@
     "H4989": "0",
     "I4989": "unknown",
     "J4989": "unknown",
-    "K4989": "Global factor portfolio return/premium following high versus low sentiment months, individual 24 factor–asset-class series and six multi-asset combinations. Footnote28 p.1147; sample1899–2014. Returns are nonbinary; footnote does not establish zero mass or the precise outcome scale/annualization/standardization of these unreported results. Do not infer log or sd_units from Sharpe tables elsewhere."
+    "K4989": "Global factor portfolio return/premium following high versus low sentiment months, individual 24 factor–asset-class series and six multi-asset combinations. Footnote28 p.1147; sample1899–2014. Returns are nonbinary; footnote does not establish zero mass or the precise outcome scale/annualization/standardization of these unreported results. Do not infer log or sd_units from Sharpe tables elsewhere.",
+    "A4990": "ANHCKZYX",
+    "B4990": "h2",
+    "C4990": "hy1",
+    "H4990": "0",
+    "I4990": "unknown",
+    "J4990": "unknown",
+    "K4990": "Global factor portfolio returns in the pooled sentiment panel regression. Footnote28 p.1147; sample1899–2014. Returns are nonbinary; footnote does not establish zero mass or the precise outcome scale/annualization/standardization of these unreported results. Do not infer log or sd_units from Sharpe tables elsewhere."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -149697,3 +149697,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:02:49.880016+00:00 — Review ANHCKZYX h2: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4990",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4990",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4990",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4990",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4990",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4990",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4990",
+    "before": null,
+    "after": "Global factor portfolio returns in the pooled sentiment panel regression. Footnote28 p.1147; sample1899–2014. Returns are nonbinary; footnote does not establish zero mass or the precise outcome scale/annualization/standardization of these unreported results. Do not infer log or sd_units from Sharpe tables elsewhere."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2124",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2124",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2124",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2124",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2124",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2124",
+    "before": null,
+    "after": "Investor sentiment mechanism: pooled panel regression of global factor returns contrasting prior-month high versus low sentiment, footnote28 p.1147, 1899–2014; authors report a strong significant effect. Separate from individual factor contrasts in h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2124",
+    "before": null,
+    "after": "Minimum scope supported by explicit implemented-result sentence. Exact panel estimator, covariates and FE are not stated for this sentiment regression. Do not copy Table10 asset class–factor FE to an unreported sentiment regression or invent a table/grid. Unknown method/IV status reflects missing implementation detail, not affirmative IV evidence; no excluded instrument is reported. High/low sentiment definition is the same as h1. Coefficient, return aggregation weights and benchmark unavailable. Separate from h1 because the pooled common estimand is separately reported after the individual coefficient signs. Even if computed in one panel framework, it is not simply another routine control variant. Unknown method does not itself create a setting. Reassess or merge only if a fuller source shows this sentence merely summarizes the same individual estimands without a pooled common coefficient. Source: Footnote 28 p.1147/PDF20; text lines1421–1445 (continuation1433–1435); visually checked page1147.png. Certainty: Panel result established; method unresolved."
+  }
+]
+```
