@@ -133761,3 +133761,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:39:39.799299+00:00 — Review 9XGMQWX5 s6: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K149",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R149",
+    "before": null,
+    "after": "Spurious link: p.14 says a5% female-share increase raises fund excess IRR4.2–4.7%, but does not compare that effect with an outcome mean/SD. The3.9% sentence is the earlier descriptive/reduced-form discussion pp.6,12; model concatenated unrelated passages. No linked mean row in Table12. Treatment increment and effect percentage points do not create a benchmark. Do not add a duplicate comparison to h7."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K735",
+    "before": null,
+    "after": "Fund excess IRR in decimal return units: net IRR minus the Preqin median fund benchmark. Table captions specify region and year; p.6 also says investment strategy. Not raw net IRR and not an outcome normalization by an outcome mean. The paper does not establish a point mass at exactly zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I252",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J252",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K252",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L252",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M252",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N252",
+    "before": null,
+    "after": "Table12(5)–(6): 2SLS effect of active Female Hired Ratio on fund excess IRR using senior hiring partners’ average daughters as the sole excluded instrument. All-partner IV h7 and OLS h8 are separate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O252",
+    "before": null,
+    "after": "Average Children (Senior) is included in both stages. No linked mean/SD comparison for these IV estimates: the model imported the 3.9% mean from earlier reduced-form discussion. The prose 4.2–4.7 pp effect range is not the range implied by the four Table12 IV coefficients. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Table12 p.15; §4.3 p.14; A4 p.19; Eq.2–3 p.8."
+  }
+]
+```
