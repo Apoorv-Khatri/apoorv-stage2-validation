@@ -133911,3 +133911,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:40:10.622387+00:00 — Review 9XGMQWX5 s8: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K737",
+    "before": null,
+    "after": "Model zero-mass=0 is incorrect: the untransformed deal-success indicator includes unsuccessful deals coded0 (Table3A and Success definitions). Detailed Human outcome labels may remain blank because treatment is nonbinary."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I254",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J254",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K254",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L254",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M254",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N254",
+    "before": null,
+    "after": "Appendix A5: continuous senior-partner daughter ratio on deal success, with Female VC and interaction controls. The daughter slope is moderated by deal-maker gender; no IV here."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O254",
+    "before": null,
+    "after": "Main daughter coefficients 0.065, 0.066, 0.055; interaction 0.145. In col3, 0.055 is the daughter slope for male deal-makers, not the unconditional slope; 0.145 is the female-minus-male slope difference. Female VC is a moderator here, not binary treatment receipt. A6(1)–(2) repeat A5(1)–(2), so do not add duplicate firm-ratio settings. Source: TableA5 p.19; §4.3 p.16."
+  }
+]
+```
