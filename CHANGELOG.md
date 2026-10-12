@@ -329889,3 +329889,354 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:35:38.718965+00:00 — Review F4QBG3CB s1: source-audited coding and linked comparisons
+
+57 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4221",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4221",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4221",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K205",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K206",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K207",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K208",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K209",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K210",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K211",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4221",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L205",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L206",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L209",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L210",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4221",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M205",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M206",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M209",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M210",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4221",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N205",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N206",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N209",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N210",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4221",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O205",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O206",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O209",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O210",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4221",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P205",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P206",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P209",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P210",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4221",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q205",
+    "before": null,
+    "after": "Fig3 caption PDF17 and §5.2.4 PDF18: representative observed (0.396,1,0,1) contract achieves 82.6% of maximal startup value under cMax=(0.147,0,1,0), holding the same agent qualities fixed. This is a joint contract-level contrast; denominator is model-optimal same-firm value, not a sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q206",
+    "before": null,
+    "after": "Fig3 caption PDF17 and §5.2.4 PDF18: unconstrained VC-optimal (0.445,1,0,1) contract achieves 77.5% of maximal startup value under cMax=(0.147,0,1,0), holding the same agent qualities fixed. This is a joint contract-level contrast; denominator is model-optimal same-firm value, not a sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q209",
+    "before": null,
+    "after": "Fig3 right panel/caption (PDF17, printed147), §5.2.5 (PDF18): VC value share under the representative observed (0.396,1,0,1) contract is 49.1%, contrasted with 28.2% under cMax=(0.147,0,1,0), holding agent qualities fixed. These are levels of the same outcome alpha(c). The paper does not divide the share difference or treated share by 28.2%; the percentage sign denotes a share, not effect/base division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q210",
+    "before": null,
+    "after": "Fig3 right panel/caption (PDF17, printed147), §5.2.5 (PDF18): VC value share under the unconstrained VC-optimal (0.445,1,0,1) contract is 52.8%, contrasted with 28.2% under cMax=(0.147,0,1,0), holding agent qualities fixed. These are levels of the same outcome alpha(c). The paper does not divide the share difference or treated share by 28.2%; the percentage sign denotes a share, not effect/base division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4221",
+    "before": null,
+    "after": "Fig3 left panel/caption PDF17: continuous-equity response for the baseline convertible-preferred contract with no participation, pay-to-play or VC board seat (solid black curve), startup value divided by its maximal value under cMax=(0.147,0,1,0), with agent qualities fixed. This record is restricted to that baseline curve. Feature-specific normalized curves are h1–h3/hc1; the named joint-contract points are s1/c1,c2. No curve ordinates or new point coefficients are inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R205",
+    "before": null,
+    "after": "Caption and main prose expressly compare values: verbal=1. Intro rounded 83% repeats c1, not a new comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R206",
+    "before": null,
+    "after": "Caption and main prose expressly compare values: verbal=1. Intro rounded 83% repeats c1, not a new comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R207",
+    "before": null,
+    "after": "Duplicate of s1/c1: introductory 83% is the rounded 82.6% representative-contract value ratio, not another estimate/population."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R208",
+    "before": null,
+    "after": "Ineligible as extracted: 28.2%,49.1%,52.8% are VC share outcome levels, with total firm value as denominator. Total firm value is not a level/mean/SD of the outcome VC value share. Do not use other_level to rescue a cross-outcome denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R209",
+    "before": null,
+    "after": "Original whole-firm-value benchmark is ineligible, but a distinct same-outcome contract-level contrast is explicitly displayed and discussed. Retain this original ID with corrected benchmark/evidence. Moderate judgment: if bare named-regime outcome-level pairing is ruled insufficient, reject this comparison; do not claim the original total-value denominator qualified."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R210",
+    "before": null,
+    "after": "Original whole-firm-value benchmark is ineligible, but a distinct same-outcome contract-level contrast is explicitly displayed and discussed. Retain this original ID with corrected benchmark/evidence. Moderate judgment: if bare named-regime outcome-level pairing is ruled insufficient, reject this comparison; do not claim the original total-value denominator qualified."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R211",
+    "before": null,
+    "after": "Wrong treatment/setting: the 89% effect changes VC quality with endogenous contracts (Fig4/§5.2.6), not contract terms holding qualities fixed. Retained once under the added equilibrium-quality setting."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4221",
+    "before": null,
+    "after": "Moderate functional-record convention: one explicitly normalized response family, not each x-grid point. Baseline solid-black curve only; excludes all feature-on curves and the two highlighted joint-contract points, removing overlap in the original generic scope."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K999",
+    "before": null,
+    "after": "Observed success is binary (IPO or acquisition worth at least twice all invested capital, within seven years); structural fitted success probabilities are continuous mappings of latent value, not observed linear-regression effects. See Eq14 PDF14 and §4.1 PDF11."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I380",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J380",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K380",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L380",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M380",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N380",
+    "before": null,
+    "after": "Main structural continuous VC equity-share response (linear/quadratic in the value function) and joint nonbinary negotiated-contract comparisons, holding investor/entrepreneur qualities fixed. Outcomes: success, latent total startup value, and VC value share. Table5, §5.2.3–5 and Fig3. Binary participation, pay-to-play and board-seat responses are separately linked human settings; quality/matching effects in Fig2/Fig4 are not this treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O380",
+    "before": null,
+    "after": "Nonlinear structural dynamic search-and-matching equilibrium estimated by efficient-weight GMM; endogenous contract choice and latent agent qualities jointly modeled. Random encounters, functional forms and success-to-value mapping identify the response; this is not linear IV, empirical covariate matching, or identifying FE. Structural quality-distribution parameters and model-fit moments are not separate causal treatments. Local Table5 visually prints unsigned magnitudes where §5.2.3 explicitly gives negative signs (rho, beta2, beta3, beta5, gamma1, gamma2, gamma4); gamma6 prints 0029. Preserve this source conflict, do not silently repair Table5. Signed qualitative interpretations below follow explicit prose, corroborated by separately estimated appendix variants, not a substituted baseline table. Source: Table5 PDF13; §5.2.3 PDF16; Fig3 PDF17 and §5.2.4–5 PDF18."
+  }
+]
+```
