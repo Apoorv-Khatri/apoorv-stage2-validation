@@ -19517,7 +19517,16 @@
     "L2099": "0",
     "M2099": "unknown",
     "N2099": "Full-sample weighted least squares robustness for continuous AT-proxy effects on the earnings-announcement price jump ratio. Section3.2 p2194 explicitly reports estimates on the full sample of stock-quarter events as virtually identical to the restricted-sample coefficients; detailed results are assigned to the Online Appendix. Do not apply the baseline denominator cutoff to this full-sample robustness.",
-    "O2099": "Weighted least squares is explicitly implemented, but the main-text sentence does not identify whether the robustness re-estimates ordinary regressions, identifying-FE regressions, or IV specifications, nor the weights. Use unknown rather than invent an OLS/IV classification; replace after the final supplement is inspected. This is not outcome-adaptive Other merely because weights are undocumented. No numerical effect or linked outcome benchmark is reported in the available sentence. This minimum setting may require subdivision when the supplement is obtained. Source: Section3.2, p.2194; explicit main-text report of implemented full-sample robustness; separate Online Appendix unavailable. Certainty: scope-limited; exact supplementary implementation unavailable."
+    "O2099": "Weighted least squares is explicitly implemented, but the main-text sentence does not identify whether the robustness re-estimates ordinary regressions, identifying-FE regressions, or IV specifications, nor the weights. Use unknown rather than invent an OLS/IV classification; replace after the final supplement is inspected. This is not outcome-adaptive Other merely because weights are undocumented. No numerical effect or linked outcome benchmark is reported in the available sentence. This minimum setting may require subdivision when the supplement is obtained. Source: Section3.2, p.2194; explicit main-text report of implemented full-sample robustness; separate Online Appendix unavailable. Certainty: scope-limited; exact supplementary implementation unavailable.",
+    "A2100": "ACJ72JDD",
+    "B2100": "h1",
+    "I2100": "1",
+    "J2100": "OLS",
+    "K2100": "0",
+    "L2100": "1",
+    "M2100": "n/a",
+    "N2100": "Table IV B: continuous standardized 1LSg-linked flow and lagged-return interaction; non-1LSg Poloniex/Bittrex and other-exchange flows included to test attribution; hourly Bitcoin return.",
+    "O2100": "Distinct focal flow from aggregate Panel A. No identifying FE; no outcome SD benchmark. Interaction negative-return estimate -0.0545; full sample -0.0280. Source: Table IV B pp.1946–1947; lines1448–1479. Certainty: source-grounded."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54719,7 +54728,11 @@
     "A4941": "AAT34438",
     "B4941": "h12",
     "C4941": "hy1",
-    "K4941": "Earnings-announcement price jump ratio CAR(T−1,T+2)/CAR(T−21,T+2), estimated on the full stock-quarter-event sample rather than the restricted denominator-cutoff sample. Ratio of abnormal log-return sums, not the log of the ratio; exact special handling of zero denominators is not established by the main-text robustness sentence."
+    "K4941": "Earnings-announcement price jump ratio CAR(T−1,T+2)/CAR(T−21,T+2), estimated on the full stock-quarter-event sample rather than the restricted denominator-cutoff sample. Ratio of abnormal log-return sums, not the log of the ratio; exact special handling of zero denominators is not established by the main-text robustness sentence.",
+    "A4942": "ACJ72JDD",
+    "B4942": "h1",
+    "C4942": "hy1",
+    "K4942": "Hourly simple Bitcoin return of equal-weighted price index across Tether exchanges; Table IV. Not outcome-SD standardized."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

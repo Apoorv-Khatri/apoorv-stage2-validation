@@ -140472,3 +140472,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:34:19.424023+00:00 — Review ACJ72JDD h1: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4942",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4942",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4942",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4942",
+    "before": null,
+    "after": "Hourly simple Bitcoin return of equal-weighted price index across Tether exchanges; Table IV. Not outcome-SD standardized."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2100",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2100",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2100",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2100",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2100",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2100",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2100",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2100",
+    "before": null,
+    "after": "Table IV B: continuous standardized 1LSg-linked flow and lagged-return interaction; non-1LSg Poloniex/Bittrex and other-exchange flows included to test attribution; hourly Bitcoin return."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2100",
+    "before": null,
+    "after": "Distinct focal flow from aggregate Panel A. No identifying FE; no outcome SD benchmark. Interaction negative-return estimate -0.0545; full sample -0.0280. Source: Table IV B pp.1946–1947; lines1448–1479. Certainty: source-grounded."
+  }
+]
+```
