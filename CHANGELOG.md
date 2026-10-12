@@ -345387,3 +345387,558 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:54:26.350001+00:00 — Review F4QBG3CB h68: source-audited coding and linked comparisons
+
+91 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4251",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4252",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4253",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4251",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4252",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4253",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4251",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4252",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4253",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4251",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4252",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4253",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4251",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4252",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4253",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4251",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4252",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4253",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4251",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4252",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4253",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4251",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4252",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4253",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4251",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4252",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4253",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4251",
+    "before": null,
+    "after": "IA5 IA PDF7–8 printed6–7; TableIA2 IA PDF10 printed9: Removing VC board seats, full equilibrium: average total startup value changes -2.43% relative to unrestricted-equilibrium mean pi*(All). Equilibrium rematching changes deal composition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4252",
+    "before": null,
+    "after": "IA5 IA PDF7–8 printed6–7; TableIA2 IA PDF10 printed9: Removing VC board seats, full equilibrium: expected deal frequency changes 5.30% relative to unrestricted-equilibrium expected frequency Lambda*(All). Same incumbent market populations, no entry/exit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4253",
+    "before": null,
+    "after": "IA5 IA PDF7–8 printed6–7; TableIA2 IA PDF10 printed9: Removing VC board seats, full equilibrium: aggregate market PV changes 1.66% relative to unrestricted aggregate PV*(All)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4251",
+    "before": null,
+    "after": "Baseline regime is clear, but focal average changes both composition and deal values; source does not construct untreated outcomes using the counterfactual matched-deal weights. Do not assume a same-population average causal effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4252",
+    "before": null,
+    "after": "Marketwide rate intervention for the same fixed populations; own unrestricted-policy baseline is established by IA5 and TableIA2."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4253",
+    "before": null,
+    "after": "Investor/entrepreneur PV components in adjacent columns use total-market denominator, not their own outcomes; no extra comparisons from those percentages."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6152",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6153",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6154",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6155",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6156",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6157",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6158",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6152",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6153",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6154",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6155",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6156",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6157",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6158",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6152",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6153",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6154",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6155",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6156",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6157",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6158",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6152",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6153",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6154",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6155",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6156",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6157",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6158",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6152",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6153",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6154",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6155",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6156",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6157",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6158",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6152",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6153",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6154",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6155",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6156",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6157",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6158",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6152",
+    "before": null,
+    "after": "Average expected total startup value across equilibrium deals."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6153",
+    "before": null,
+    "after": "Average investor expected value per equilibrium deal."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6154",
+    "before": null,
+    "after": "Average entrepreneur expected value per equilibrium deal."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6155",
+    "before": null,
+    "after": "Equilibrium expected deal frequency (deals per year)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6156",
+    "before": null,
+    "after": "Aggregate present value of all market deals."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6157",
+    "before": null,
+    "after": "Aggregate investor present value."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6158",
+    "before": null,
+    "after": "Aggregate entrepreneur present value."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2415",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2415",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2415",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2415",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2415",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2415",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2415",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2415",
+    "before": null,
+    "after": "Binary prohibition of VC board seats features versus unrestricted market: full equilibrium rebalancing AND endogenous rematching. Changes average deal values, deal frequencies and aggregate market PV; not a mechanical deletion holding all other terms fixed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2415",
+    "before": null,
+    "after": "Nonlinear structural dynamic search-and-matching equilibrium estimated by efficient-weight GMM; endogenous contract choice and latent agent qualities jointly modeled. Random encounters, functional forms and success-to-value mapping identify the response; this is not linear IV, empirical covariate matching, or identifying FE. Structural quality-distribution parameters and model-fit moments are not separate causal treatments. Source: IA5 IA PDF7–8 printed6–7; TableIA2 IA PDF10 printed9."
+  }
+]
+```
