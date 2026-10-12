@@ -20269,7 +20269,16 @@
     "L2153": "0",
     "M2153": "n/a",
     "N2153": "Compensation peers: High_RPQ (indicator RPQ>0.5 versus RPQ≤0.5) effects on adjusted returns and change in adjusted ROA; Table7 A/B col1; pooled linear regression with year/industry controls.",
-    "O2153": "Supporting alternative-treatment robustness. Table7A col1 prints 0.03* with t=2.32; retain printed star, not silently revise it. Source: §6.1/Table7 pp209–211; lines1066–1236."
+    "O2153": "Supporting alternative-treatment robustness. Table7A col1 prints 0.03* with t=2.32; retain printed star, not silently revise it. Source: §6.1/Table7 pp209–211; lines1066–1236.",
+    "A2154": "CN4YZYPH",
+    "B2154": "h7",
+    "I2154": "1",
+    "J2154": "OLS",
+    "K2154": "0",
+    "L2154": "0",
+    "M2154": "n/a",
+    "N2154": "Compensation peers: RPQ_3Y (rank fraction based on previous-three-year average managerial ability) effects on adjusted returns and change in adjusted ROA; Table7 A/B col2; pooled linear regression with year/industry controls.",
+    "O2154": "Alternative treatment, not mere covariate variant; author reports baseline findings remain qualitatively consistent. Source: §6.1/Table7 pp209–211; lines1066–1236."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56218,7 +56227,15 @@
     "H5027": "0",
     "I5027": "unknown",
     "J5027": "other",
-    "K5027": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1."
+    "K5027": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1.",
+    "A5028": "CN4YZYPH",
+    "B5028": "h7",
+    "C5028": "hy1",
+    "K5028": "DGTW characteristic-adjusted annual stock return, fiscal year t (decimal return).",
+    "A5029": "CN4YZYPH",
+    "B5029": "h7",
+    "C5029": "hy2",
+    "K5029": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

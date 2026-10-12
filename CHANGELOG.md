@@ -169125,3 +169125,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:11:42.283733+00:00 — Review CN4YZYPH h7: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5028",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5029",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5028",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5029",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5028",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5029",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5028",
+    "before": null,
+    "after": "DGTW characteristic-adjusted annual stock return, fiscal year t (decimal return)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5029",
+    "before": null,
+    "after": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2154",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2154",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2154",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2154",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2154",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2154",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2154",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2154",
+    "before": null,
+    "after": "Compensation peers: RPQ_3Y (rank fraction based on previous-three-year average managerial ability) effects on adjusted returns and change in adjusted ROA; Table7 A/B col2; pooled linear regression with year/industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2154",
+    "before": null,
+    "after": "Alternative treatment, not mere covariate variant; author reports baseline findings remain qualitatively consistent. Source: §6.1/Table7 pp209–211; lines1066–1236."
+  }
+]
+```
