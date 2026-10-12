@@ -170826,3 +170826,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:15:26.305014+00:00 — Review CN4YZYPH h34: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5058",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5059",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5058",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5059",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5058",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5059",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5058",
+    "before": null,
+    "after": "DGTW characteristic-adjusted annual stock return, fiscal year t (decimal return). Untabulated result: peer-type coverage and estimate mapping unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5059",
+    "before": null,
+    "after": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1. Untabulated result: peer-type coverage and estimate mapping unresolved."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E35",
+    "before": null,
+    "after": "DONE — Available-source review: all 24 supplied publication pages and included variable Appendix reviewed and independently cross-checked. Added Table7 alternative treatments including binary High_RPQ, separated policy/peer-type analyses, and corrected linear risk-shifting contrasts to OLS. Both original treatment-SD comparisons rejected; four Table10 outcome-mean pairings added. Untabulated robustness consolidated to minimum supported analysis families, not assumed peer-type/model grids; baseline raw-return outcome retained with possible overlap disclosed. Table8 actual firm/year controls documented; OLS versus identifying-FE taxonomy remains an interpretive judgment. Printed leverage definitions, significance/prose conflicts and absent GPQ coefficient preserved. Available-upon-request results, exact untabulated implementation and additional supplemental coverage remain unverified. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2169",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2169",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2169",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2169",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2169",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2169",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2169",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2169",
+    "before": null,
+    "after": "Alternative RPQ constructed from CEO fixed effects inferred from total compensation as the managerial-ability proxy; footnote12 reports qualitatively similar results. Exact performance-outcome and peer-type coverage not separately enumerated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2169",
+    "before": null,
+    "after": "Explicit alternative RPQ/result statement, but implemented regression details, coverage and numeric estimates unresolved. Do not confuse generated CEO-FE ability measure with identifying FE in outcome equation. Retain one minimum implemented record, without asserting separate compensation and bonus result cells. No numeric estimate is available. Source: p200 footnote12 lines348–354."
+  }
+]
+```

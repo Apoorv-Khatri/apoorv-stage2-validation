@@ -152,6 +152,7 @@
     "B35": "Relative peer quality and firm performance",
     "C35": "fin",
     "D35": 18,
+    "E35": "DONE — Available-source review: all 24 supplied publication pages and included variable Appendix reviewed and independently cross-checked. Added Table7 alternative treatments including binary High_RPQ, separated policy/peer-type analyses, and corrected linear risk-shifting contrasts to OLS. Both original treatment-SD comparisons rejected; four Table10 outcome-mean pairings added. Untabulated robustness consolidated to minimum supported analysis families, not assumed peer-type/model grids; baseline raw-return outcome retained with possible overlap disclosed. Table8 actual firm/year controls documented; OLS versus identifying-FE taxonomy remains an interpretive judgment. Printed leverage definitions, significance/prose conflicts and absent GPQ coefficient preserved. Available-upon-request results, exact untabulated implementation and additional supplemental coverage remain unverified. Original model fields preserved.",
     "A36": "DFSQYG6H",
     "B36": "The effect of stock liquidity on cash holdings: The repurchase motive",
     "C36": "fin",
@@ -20404,7 +20405,16 @@
     "L2168": "0",
     "M2168": "n/a",
     "N2168": "RPQ effects on levels of the three earnings-management measures rather than changes; §7.4 states similar results. Exact peer-type coverage of the unreported levels exercise is not enumerated.",
-    "O2168": "Implemented levels robustness explicitly described as similar. Same linear regression context; exact coefficients absent. Retain one minimum implemented record, without asserting separate compensation and bonus result cells. No numeric estimate is available. Source: §7.4 p215 lines1525–1545."
+    "O2168": "Implemented levels robustness explicitly described as similar. Same linear regression context; exact coefficients absent. Retain one minimum implemented record, without asserting separate compensation and bonus result cells. No numeric estimate is available. Source: §7.4 p215 lines1525–1545.",
+    "A2169": "CN4YZYPH",
+    "B2169": "h34",
+    "I2169": "1",
+    "J2169": "unknown",
+    "K2169": "0",
+    "L2169": "0",
+    "M2169": "unknown",
+    "N2169": "Alternative RPQ constructed from CEO fixed effects inferred from total compensation as the managerial-ability proxy; footnote12 reports qualitatively similar results. Exact performance-outcome and peer-type coverage not separately enumerated.",
+    "O2169": "Explicit alternative RPQ/result statement, but implemented regression details, coverage and numeric estimates unresolved. Do not confuse generated CEO-FE ability measure with identifying FE in outcome equation. Retain one minimum implemented record, without asserting separate compensation and bonus result cells. No numeric estimate is available. Source: p200 footnote12 lines348–354."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56479,7 +56489,15 @@
     "A5057": "CN4YZYPH",
     "B5057": "h22",
     "C5057": "hy3",
-    "K5057": "Level of cash-flow-based earnings-management measure (Dechow and Dichev,2002). Untabulated result: peer-type coverage and estimate mapping unresolved."
+    "K5057": "Level of cash-flow-based earnings-management measure (Dechow and Dichev,2002). Untabulated result: peer-type coverage and estimate mapping unresolved.",
+    "A5058": "CN4YZYPH",
+    "B5058": "h34",
+    "C5058": "hy1",
+    "K5058": "DGTW characteristic-adjusted annual stock return, fiscal year t (decimal return). Untabulated result: peer-type coverage and estimate mapping unresolved.",
+    "A5059": "CN4YZYPH",
+    "B5059": "h34",
+    "C5059": "hy2",
+    "K5059": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1. Untabulated result: peer-type coverage and estimate mapping unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
