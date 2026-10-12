@@ -172545,3 +172545,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:19:12.597232+00:00 — Review DFSQYG6H h5: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5065",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5065",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5065",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5065",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5065",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5065",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5065",
+    "before": null,
+    "after": "Change in cash ratio (CHE/AT) from end-1981 to end-1983; bias-corrected matched treated/control contrast; first difference (other)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2174",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2174",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2174",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2174",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2174",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2174",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2174",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2174",
+    "before": null,
+    "after": "Internet Appendix TableA5: Rule10b-18 matched DiD ATT in cash-ratio change with broader pre-event covariate matching; low ILLIQ_res versus rest; displayed0.019 in December2020 appendix."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2174",
+    "before": null,
+    "after": "Implemented family established final fn16 pp917–918. Alternate appendix explicitly bottom-tercile treatment supports prose, but is not final-source correction. A5 caption says before decimalization although this is1982 rule event; retain as source error, do not change event to2001. No new numerical benchmark. Source: Final pp917–918 fn16; author-forthcoming.txt lines2318–2339; IA p7/PDF68."
+  }
+]
+```

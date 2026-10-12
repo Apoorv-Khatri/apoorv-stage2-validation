@@ -20500,7 +20500,16 @@
     "L2173": "0",
     "M2173": "n/a",
     "N2173": "Internet Appendix TableA4: decimalization regression DiD cash-ratio effect with additional financial-constraint controls, small-firm/SAI/WWI/bond-rating/paper-rating variants; firm+year FE, window[-2,+2].",
-    "O2173": "Implemented robustness established final p916. December2020 appendix Treat×Post estimates0.016,0.016,0.016,0.016,0.015. Final fn13 defines rating dummy as having rating; appendix caption defines no rating. Preserve conflicting control coding; focal binary exposure unaffected. Post/year-FE normalization unexplained. Do not infer causal effects of the added control coefficients, which are not shown. Source: Final p916/fn13; author-forthcoming.txt lines2279–2317; IA p6/PDF67."
+    "O2173": "Implemented robustness established final p916. December2020 appendix Treat×Post estimates0.016,0.016,0.016,0.016,0.015. Final fn13 defines rating dummy as having rating; appendix caption defines no rating. Preserve conflicting control coding; focal binary exposure unaffected. Post/year-FE normalization unexplained. Do not infer causal effects of the added control coefficients, which are not shown. Source: Final p916/fn13; author-forthcoming.txt lines2279–2317; IA p6/PDF67.",
+    "A2174": "DFSQYG6H",
+    "B2174": "h5",
+    "I2174": "1",
+    "J2174": "DiD_conventional",
+    "K2174": "1",
+    "L2174": "0",
+    "M2174": "n/a",
+    "N2174": "Internet Appendix TableA5: Rule10b-18 matched DiD ATT in cash-ratio change with broader pre-event covariate matching; low ILLIQ_res versus rest; displayed0.019 in December2020 appendix.",
+    "O2174": "Implemented family established final fn16 pp917–918. Alternate appendix explicitly bottom-tercile treatment supports prose, but is not final-source correction. A5 caption says before decimalization although this is1982 rule event; retain as source error, do not change event to2001. No new numerical benchmark. Source: Final pp917–918 fn16; author-forthcoming.txt lines2318–2339; IA p7/PDF68."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56634,7 +56643,14 @@
     "H5064": "0",
     "I5064": "unknown",
     "J5064": "none",
-    "K5064": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
+    "K5064": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged.",
+    "A5065": "DFSQYG6H",
+    "B5065": "h5",
+    "C5065": "hy1",
+    "H5065": "0",
+    "I5065": "unknown",
+    "J5065": "other",
+    "K5065": "Change in cash ratio (CHE/AT) from end-1981 to end-1983; bias-corrected matched treated/control contrast; first difference (other)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
