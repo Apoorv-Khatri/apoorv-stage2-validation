@@ -163305,3 +163305,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:21:46.506068+00:00 — Review BHYG5F75 s9: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H823",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H824",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H825",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I823",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I824",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I825",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J823",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J824",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J825",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K823",
+    "before": null,
+    "after": "Outcome is next-minus-current number of lenders. Zero mass for these changes is not tabulated; level zeros in Table1 do not establish change zeros in each regression sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K824",
+    "before": null,
+    "after": "Outcome is next-minus-current lead arranger retained share (percentage points). Zero mass for these changes is not tabulated; level zeros in Table1 do not establish change zeros in each regression sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K825",
+    "before": null,
+    "after": "Outcome is next-minus-current number of nonbank institutions. Zero mass for these changes is not tabulated; level zeros in Table1 do not establish change zeros in each regression sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I294",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J294",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K294",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L294",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M294",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O294",
+    "before": null,
+    "after": "Single nonbinary excluded source: (t−T_i^0)/T_i^MAX, the fraction elapsed from first sample appearance to IPO, Eq4. Linear stages predict time to IPO, then disclosure, then outcome using the same included X and year FE. IV precedence applies to actual binary disclosure receipt. AppendixA uses a stylized centered remaining-time formula (T−Tbar)/Tmax instead, not an additional jointly used instrument. Introduction describes fraction remaining, while Eq4 uses elapsed; preserve this sign/centering discrepancy. Exclusion relies on the life-cycle variation affecting financing only through disclosure; Appendix orthogonality claim is not a proof of this exclusion. Bootstrapped SE; possible weak/noisy identification acknowledged p3096. Main=1: mechanism and unobservable-quality correction jointly support central conclusion. Visual Eq4 caution: the printed second-stage disclosure equation omits a slope coefficient on predicted time to IPO, whereas stylized AppendixA2 prints β². This is a source-notation ambiguity. Author-explicit IV and the scalar excluded source support IV/single continuous coding, but common controls alone do not prove an exactly implemented conventional 2SLS projection; no replication code is available here. Source: Table8 cols3,6,9 p3098; Eq4 p3096; AppendixA p3101."
+  }
+]
+```
