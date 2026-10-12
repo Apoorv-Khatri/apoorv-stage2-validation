@@ -165261,3 +165261,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:25:02.786903+00:00 — Review BHYG5F75 h10: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5008",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5008",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5008",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5008",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5008",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5008",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5008",
+    "before": null,
+    "after": "Disclose: one if at least one eligible financial metric voluntarily disclosed in loan, zero otherwise; not a sample disclosure rate. Main sample rate5.75%, IPO sample9%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2139",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2139",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2139",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2139",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2139",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2139",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2139",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2139",
+    "before": null,
+    "after": "Table5 col8: LitigationRisk (indicator for high-litigation-risk primary SIC industry) affects binary voluntary disclosure; coefficient −6.3247, linear regression with loan controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2139",
+    "before": null,
+    "after": "Distinct substantive determinant split from s4. Broad causal-intention inclusion, not a claim of credible exogenous assignment. No identifying FE established in Eq2/prose despite generic caption. GrowthDispersion is a treatment SD measure, not an outcome-SD benchmark. Footnote16 also refers broadly to year effects in all specifications; Table5 implementation is therefore unresolved rather than verified to contain no dummy controls. OLS is a qualified Eq2-based classification. Source: Table5 col8, pp3090–3092."
+  }
+]
+```

@@ -19988,7 +19988,16 @@
     "L2138": "0",
     "M2138": "n/a",
     "N2138": "Table5 col7: GrowthDispersion (industry-state-year SD of public-company sales growth) affects binary voluntary disclosure; coefficient 0.1913, linear regression with loan controls.",
-    "O2138": "Distinct substantive determinant split from s4. Broad causal-intention inclusion, not a claim of credible exogenous assignment. No identifying FE established in Eq2/prose despite generic caption. GrowthDispersion is a treatment SD measure, not an outcome-SD benchmark. Footnote16 also refers broadly to year effects in all specifications; Table5 implementation is therefore unresolved rather than verified to contain no dummy controls. OLS is a qualified Eq2-based classification. Source: Table5 col7, pp3090–3092."
+    "O2138": "Distinct substantive determinant split from s4. Broad causal-intention inclusion, not a claim of credible exogenous assignment. No identifying FE established in Eq2/prose despite generic caption. GrowthDispersion is a treatment SD measure, not an outcome-SD benchmark. Footnote16 also refers broadly to year effects in all specifications; Table5 implementation is therefore unresolved rather than verified to contain no dummy controls. OLS is a qualified Eq2-based classification. Source: Table5 col7, pp3090–3092.",
+    "A2139": "BHYG5F75",
+    "B2139": "h10",
+    "I2139": "1",
+    "J2139": "OLS",
+    "K2139": "1",
+    "L2139": "0",
+    "M2139": "n/a",
+    "N2139": "Table5 col8: LitigationRisk (indicator for high-litigation-risk primary SIC industry) affects binary voluntary disclosure; coefficient −6.3247, linear regression with loan controls.",
+    "O2139": "Distinct substantive determinant split from s4. Broad causal-intention inclusion, not a claim of credible exogenous assignment. No identifying FE established in Eq2/prose despite generic caption. GrowthDispersion is a treatment SD measure, not an outcome-SD benchmark. Footnote16 also refers broadly to year effects in all specifications; Table5 implementation is therefore unresolved rather than verified to contain no dummy controls. OLS is a qualified Eq2-based classification. Source: Table5 col8, pp3090–3092."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55743,7 +55752,14 @@
     "A5007": "BHYG5F75",
     "B5007": "h9",
     "C5007": "hy1",
-    "K5007": "Disclose: one if at least one eligible financial metric voluntarily disclosed in loan, zero otherwise; not a sample disclosure rate. Main sample rate5.75%, IPO sample9%."
+    "K5007": "Disclose: one if at least one eligible financial metric voluntarily disclosed in loan, zero otherwise; not a sample disclosure rate. Main sample rate5.75%, IPO sample9%.",
+    "A5008": "BHYG5F75",
+    "B5008": "h10",
+    "C5008": "hy1",
+    "H5008": "1",
+    "I5008": "1",
+    "J5008": "none",
+    "K5008": "Disclose: one if at least one eligible financial metric voluntarily disclosed in loan, zero otherwise; not a sample disclosure rate. Main sample rate5.75%, IPO sample9%."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
