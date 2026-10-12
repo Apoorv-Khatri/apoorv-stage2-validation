@@ -149058,3 +149058,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:01:20.521152+00:00 — Review ANHCKZYX s10: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H798",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I798",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J798",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K798",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s10 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I282",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O282",
+    "before": null,
+    "after": "Outside causal scope: Spanning regressions and expansion of the mean-variance frontier assess redundancy/unique added investment value. They are linear projections, not author-attributed causal effects of other factors on a focal factor return. Predictive mean matching in footnote24 imputes regressors; it is not causal matching. Source: §4.1 Table 8C pp.1143–1144; lines1071–1136,1178–1193. Certainty: source-grounded causal-gate recommendation."
+  }
+]
+```
