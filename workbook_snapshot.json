@@ -22441,7 +22441,16 @@
     "L2358": "1",
     "M2358": "n/a",
     "N2358": "Continuous VC-quality effect at fixed entrepreneur quality with equilibrium renegotiated contracts: Fig4 first two bars for entrepreneurs at the 50th, 75th and 99th quality percentiles. At the 99th percentile, moving VC quality from 4.13 to 10 raises firm value by 89.0% and entrepreneur value by 32.8%. The off-equilibrium fixed-contract response is separately h74. Min/max illustrate endpoints of a continuous quality response, not a binary quality assignment.",
-    "O2358": "Nonlinear structural dynamic search-and-matching equilibrium estimated by efficient-weight GMM; endogenous contract choice and latent agent qualities jointly modeled. Random encounters, functional forms and success-to-value mapping identify the response; this is not linear IV, empirical covariate matching, or identifying FE. Structural quality-distribution parameters and model-fit moments are not separate causal treatments. Source: §5.2.6 PDF18; Fig4 PDF19."
+    "O2358": "Nonlinear structural dynamic search-and-matching equilibrium estimated by efficient-weight GMM; endogenous contract choice and latent agent qualities jointly modeled. Random encounters, functional forms and success-to-value mapping identify the response; this is not linear IV, empirical covariate matching, or identifying FE. Structural quality-distribution parameters and model-fit moments are not separate causal treatments. Source: §5.2.6 PDF18; Fig4 PDF19.",
+    "A2359": "F4QBG3CB",
+    "B2359": "h12",
+    "I2359": "1",
+    "J2359": "Other",
+    "K2359": "1",
+    "L2359": "0",
+    "M2359": "n/a",
+    "N2359": "Binary switch from common-equity post-money valuation rule (investment/equity fraction) to preferred-terms-adjusted rule (investment/VC value share), for representative and unconstrained contracts. Authors explicitly attribute valuation overstatement to ignoring contract terms; counterfactual measurement effect, not a change in real startup cash flows.",
+    "O2359": "Nonlinear structural dynamic search-and-matching equilibrium estimated by efficient-weight GMM; endogenous contract choice and latent agent qualities jointly modeled. Random encounters, functional forms and success-to-value mapping identify the response; this is not linear IV, empirical covariate matching, or identifying FE. Structural quality-distribution parameters and model-fit moments are not separate causal treatments. Computed valuation identity using estimated structural shares; classify Other, not regression. Contested broad causal gate: retain explicit rule-attributed measurement distortion. Source: §5.2.5 PDF18."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -63223,7 +63232,14 @@
     "A5977": "F4QBG3CB",
     "B5977": "h11",
     "C5977": "hy3",
-    "K5977": "VC expected payoff pi_i, distinct from payoff share."
+    "K5977": "VC expected payoff pi_i, distinct from payoff share.",
+    "A5978": "F4QBG3CB",
+    "B5978": "h12",
+    "C5978": "hy1",
+    "H5978": "0",
+    "I5978": "0",
+    "J5978": "none",
+    "K5978": "Computed startup valuation per dollar invested under alternative valuation rules."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -109664,7 +109680,27 @@
     "O4234": "0",
     "P4234": "n/a",
     "Q4234": "Fig4 PDF19, printed149, 99th entrepreneur-quality percentile: plotted VC expected payoff for the highest-quality acceptable VC with its equilibrium renegotiated contract is deliberately paired with the same outcome for the lowest-quality acceptable VC and its equilibrium contract. The two agents’ stacked values sum to total startup value. These are graphical same-outcome levels; no exact numerical effect or baseline is printed for this comparison, and none is digitized or inferred. The lowest-VC bar is the benchmark, not another estimated effect.",
-    "R4234": "Moderate eligibility judgment: explicitly designed counterfactual bar pairing qualifies as a same-outcome level comparison, even without printed bar values. Not a mean/SD pairing, no numerical reading off the axis, no ratio inferred. Caption identifies the regimes but supplies no verbal magnitude comparison for this exact triple."
+    "R4234": "Moderate eligibility judgment: explicitly designed counterfactual bar pairing qualifies as a same-outcome level comparison, even without printed bar values. Not a mean/SD pairing, no numerical reading off the axis, no ratio inferred. Caption identifies the regimes but supplies no verbal magnitude comparison for this exact triple.",
+    "A4235": "F4QBG3CB",
+    "B4235": "h12",
+    "C4235": "hc1",
+    "K4235": "1",
+    "L4235": "hy1",
+    "M4235": "other_level",
+    "N4235": "1",
+    "O4235": "1",
+    "P4235": "n/a",
+    "Q4235": "§5.2.5 PDF18: Unconstrained contract: modified valuation $1/0.528=$1.89 versus post-money $1/0.445=$2.25 per dollar invested; source reports15.7% lower. Printed arithmetic/rounding retained, no replacement recalculation.",
+    "A4236": "F4QBG3CB",
+    "B4236": "h12",
+    "C4236": "hc2",
+    "K4236": "1",
+    "L4236": "hy1",
+    "M4236": "other_level",
+    "N4236": "1",
+    "O4236": "1",
+    "P4236": "n/a",
+    "Q4236": "§5.2.5 PDF18: Representative contract: modified valuation is19.3% below post-money valuation. Benchmark is valuation from original equity-only rule for the same contract; not an empirical mean."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
