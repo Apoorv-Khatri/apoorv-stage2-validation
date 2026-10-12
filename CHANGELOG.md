@@ -327720,3 +327720,234 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:06:19.343059+00:00 — Review EYWPN7YT h3: source-audited coding and linked comparisons
+
+37 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5914",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5915",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5916",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5917",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5914",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5915",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5916",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5917",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5914",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5915",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5916",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5917",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5914",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5915",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5916",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5917",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5914",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5915",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5916",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5917",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5914",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5915",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5916",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5917",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5914",
+    "before": null,
+    "after": "Stock-level short-term forecast optimism: average across analysts of (forecasted next-fiscal-quarter EPS minus realized EPS, signed per paper’s definition) scaled by prior quarter-end stock price. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. AppendixB wording says difference between realized earnings and forecast, whereas main interpretation and high-optimism indicator use forecasts exceeding earnings; preserve this sign-wording ambiguity rather than silently fixing source. Scope: Dynamic event-time EDGAR access effects on optimism, 3: post-treatment path at stock and analyst-stock level, beyond static inclusion-quarter/pooled-four-quarter estimates. Pre-event coefficients are diagnostic only."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5915",
+    "before": null,
+    "after": "Stock-level long-term forecast optimism: average across analysts of signed current-fiscal-year EPS forecast error scaled by prior quarter-end stock price. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. AppendixB wording says difference between realized earnings and forecast, whereas main interpretation and high-optimism indicator use forecasts exceeding earnings; preserve this sign-wording ambiguity rather than silently fixing source. Scope: Dynamic event-time EDGAR access effects on optimism, 3: post-treatment path at stock and analyst-stock level, beyond static inclusion-quarter/pooled-four-quarter estimates. Pre-event coefficients are diagnostic only."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5916",
+    "before": null,
+    "after": "Analyst-stock short-term forecast optimism: analyst-specific signed next-quarter EPS forecast error for a firm-quarter, averaged within analyst-stock-quarter if multiple forecasts, scaled by prior quarter-end stock price. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. AppendixB wording says difference between realized earnings and forecast, whereas main interpretation and high-optimism indicator use forecasts exceeding earnings; preserve this sign-wording ambiguity rather than silently fixing source. Scope: Dynamic event-time EDGAR access effects on optimism, 3: post-treatment path at stock and analyst-stock level, beyond static inclusion-quarter/pooled-four-quarter estimates. Pre-event coefficients are diagnostic only."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5917",
+    "before": null,
+    "after": "Analyst-stock long-term forecast optimism: analyst-specific signed current-fiscal-year EPS forecast error for a firm-quarter, scaled by prior quarter-end stock price. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. AppendixB wording says difference between realized earnings and forecast, whereas main interpretation and high-optimism indicator use forecasts exceeding earnings; preserve this sign-wording ambiguity rather than silently fixing source. Scope: Dynamic event-time EDGAR access effects on optimism, 3: post-treatment path at stock and analyst-stock level, beyond static inclusion-quarter/pooled-four-quarter estimates. Pre-event coefficients are diagnostic only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2333",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2333",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2333",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2333",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2333",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2333",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2333",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2333",
+    "before": null,
+    "after": "Dynamic event-time EDGAR access effects on optimism, 3: post-treatment path at stock and analyst-stock level, beyond static inclusion-quarter/pooled-four-quarter estimates. Pre-event coefficients are diagnostic only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2333",
+    "before": null,
+    "after": "Implemented Cengiz et al. (2019) stacked-regression estimator: cohort-specific datasets, clean future-treated controls, nine-quarter window, explicitly addressing time-varying effects and treatment-effect heterogeneity (§1.2–1.3, PDF9–10). This is not modern merely because adoption is staggered. Administrative randomized rollout is analyzed with DD, not a separately implemented experimental ITT. Matching is preprocessing; no IV or separate identifying-FE/OLS setting. Authors interpret persistent post-treatment changes, not only parallel-trends checks. Numerical graph coordinates not invented; no separate means or SD benchmarks linked to these dynamic coefficients. Source: Figure3 PDF18,20; §2.2."
+  }
+]
+```
