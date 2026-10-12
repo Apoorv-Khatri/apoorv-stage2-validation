@@ -122847,3 +122847,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:25:31.194264+00:00 — Review 96H6UQNF s12: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H629",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I629",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J629",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K629",
+    "before": null,
+    "after": "Mean consensus quarterly EPS forecast scaled by beginning-quarter share price, sign-reversed for favorable earnings shocks and demeaned within event window; reported pre/post change. Not outcome-SD standardized. Zero mass unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I232",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J232",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K232",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L232",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M232",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N232",
+    "before": null,
+    "after": "Table8 col.1/Fig.10: before-versus-after extreme-weather event linear mean contrast in sign-aligned, price-scaled analyst forecasts. Binary event occurrence, not continuous temperature dose; no untreated comparison cohort or DiD estimator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O232",
+    "before": null,
+    "after": "Method correction Other→OLS: sample mean differences are linear regression contrasts under author response interpretation. Demeaning is centering, not a separately argued identifying FE design. No RCT/RD/IV. Null reactions are substantive main results, not diagnostics. Table values 0.003,0.007,0.005,0.007 across [-20,+20],[-10,+10],[-5,+5],[-1,+1], N=8,584. Preserve units as caption gives scaled forecasts; do not impose an unreported multiplier. C.1 baseline repeats this result but has inconsistent window labels. Source: §3.4 pp.28,31–32; Table8(1), Fig.10.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```
