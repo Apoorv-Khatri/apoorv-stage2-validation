@@ -329463,3 +329463,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:09:26.008903+00:00 — Review EYWPN7YT h16: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5939",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5939",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5939",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5939",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5939",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5939",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5939",
+    "before": null,
+    "after": "Analyst coverage under relaxed size matching/preliminary phase-in dates; main fn23 references coverage increase without specifying stock vs analyst-stock grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2344",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2344",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2344",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2344",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2344",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2344",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2344",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2344",
+    "before": null,
+    "after": "EDGAR coverage result under simultaneous relaxation of size matching and use of preliminary SEC dates rather than actual online-access dates: authors replicate positive coverage result of prior work."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2344",
+    "before": null,
+    "after": "Implemented substantive alternative treatment-timing/matching result, not pure citation. Main confirms positive coverage effect can be replicated but does not establish exact regression implementation or clean-cohort construction; method unknown. No prior-paper coefficients imported. Source: PDF15 fn23."
+  }
+]
+```

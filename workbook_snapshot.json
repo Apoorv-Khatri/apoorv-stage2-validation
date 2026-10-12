@@ -22271,7 +22271,16 @@
     "L2343": "0",
     "M2343": "n/a",
     "N2343": "EDGAR access effect on forecast informativeness after purging forecast revisions preceding first EDGAR filing in the inclusion quarter; estimated reduction grows by around25% in absolute terms.",
-    "O2343": "Implemented substantive outcome-construction robustness at separate footnote location. No numeric coefficient or table reported. Relative growth versus another effect is not an outcome benchmark. Source: PDF24 fn27."
+    "O2343": "Implemented substantive outcome-construction robustness at separate footnote location. No numeric coefficient or table reported. Relative growth versus another effect is not an outcome benchmark. Source: PDF24 fn27.",
+    "A2344": "EYWPN7YT",
+    "B2344": "h16",
+    "I2344": "1",
+    "J2344": "unknown",
+    "K2344": "1",
+    "L2344": "0",
+    "M2344": "unknown",
+    "N2344": "EDGAR coverage result under simultaneous relaxation of size matching and use of preliminary SEC dates rather than actual online-access dates: authors replicate positive coverage result of prior work.",
+    "O2344": "Implemented substantive alternative treatment-timing/matching result, not pure citation. Main confirms positive coverage effect can be replicated but does not establish exact regression implementation or clean-cohort construction; method unknown. No prior-paper coefficients imported. Source: PDF15 fn23."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -62789,7 +62798,14 @@
     "H5938": "0",
     "I5938": "unknown",
     "J5938": "none",
-    "K5938": "Unsigned forecast informativeness: share of absolute abnormal returns attributable to forecast days, purging forecasts that precede first EDGAR filings in inclusion quarter."
+    "K5938": "Unsigned forecast informativeness: share of absolute abnormal returns attributable to forecast days, purging forecasts that precede first EDGAR filings in inclusion quarter.",
+    "A5939": "EYWPN7YT",
+    "B5939": "h16",
+    "C5939": "hy1",
+    "H5939": "unknown",
+    "I5939": "unknown",
+    "J5939": "unknown",
+    "K5939": "Analyst coverage under relaxed size matching/preliminary phase-in dates; main fn23 references coverage increase without specifying stock vs analyst-stock grid."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
