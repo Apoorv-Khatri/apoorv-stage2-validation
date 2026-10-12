@@ -305652,3 +305652,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T11:27:26.192769+00:00 — Review EYAZZ4D5 s8: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H947",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H948",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H949",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I947",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I948",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I949",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J947",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J948",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J949",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K947",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K948",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K949",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I365",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O365",
+    "before": null,
+    "after": "VAR accounting decomposition followed by predictive regressions: short sellers anticipate cash-flow news rather than cause cash flows. §6 discusses information-set/joint-hypothesis alternatives, not an identified directional SII effect. No structural shock intervention or causal IV estimate. Source: §5 Eqs(19)–(29), Table8 pp60–62; §6 pp62–63 (PDF15–18)."
+  }
+]
+```
