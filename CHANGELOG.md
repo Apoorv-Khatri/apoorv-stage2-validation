@@ -175293,3 +175293,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:48:15.426272+00:00 — Review DPFRSKRY h2: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5087",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5087",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5087",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5087",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5087",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5087",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5087",
+    "before": null,
+    "after": "Sales growth: percentage change in quarterly firm sales relative to same fiscal quarter in previous year; disaster-zone versus rest-of-US pre/post contrast. No reported evidence establishes exact-zero mass in the estimation sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2196",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2196",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2196",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2196",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2196",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2196",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2196",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2196",
+    "before": null,
+    "after": "Untabulated §3.3.2 replication: disaster-zone firms versus firms in the rest of the United States; disaster-related sales-growth comparison in full, non-locally-held, and locally-held treatment samples. Binary disaster-zone exposure; implemented estimator and exact event window unresolved in accessible text."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2196",
+    "before": null,
+    "after": "Retain the implemented performance replication, but main text says replicate the results of DM and repeat these tests, not that Equation (3) or its estimator is reused. Conventional DiD is plausible, not uniquely established; code method and IV status unknown pending implementation evidence. Minimum confirmed outcome is sales growth; do not infer an ROA grid, coefficients, or prior-study implementation. Distinct comparison population from s9. The $46m median and $354m mean market capitalizations describe firms, not the focal sales-growth outcome. Source: pp1175–1176; L1872–1933."
+  }
+]
+```

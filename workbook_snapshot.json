@@ -20762,7 +20762,16 @@
     "L2195": "0",
     "M2195": "n/a",
     "N2195": "Untabulated fn19: effect of binary close-versus-distant fund disaster exposure on net fund flow in the event quarter plus two subsequent quarters relative to two prior quarters; fund-quarter CLOSE×POST regression.",
-    "O2195": "Substantive clientele/outflow mechanism test, not a covariate balance diagnostic. Main text explicitly gives interaction and result (no differential change); FE/controls and fund-level mapping of CLOSE_ms subscript not reported. Do not invent extra columns. Source: p1170 fn19; main.txt L1549–1556."
+    "O2195": "Substantive clientele/outflow mechanism test, not a covariate balance diagnostic. Main text explicitly gives interaction and result (no differential change); FE/controls and fund-level mapping of CLOSE_ms subscript not reported. Do not invent extra columns. Source: p1170 fn19; main.txt L1549–1556.",
+    "A2196": "DPFRSKRY",
+    "B2196": "h2",
+    "I2196": "1",
+    "J2196": "unknown",
+    "K2196": "1",
+    "L2196": "0",
+    "M2196": "unknown",
+    "N2196": "Untabulated §3.3.2 replication: disaster-zone firms versus firms in the rest of the United States; disaster-related sales-growth comparison in full, non-locally-held, and locally-held treatment samples. Binary disaster-zone exposure; implemented estimator and exact event window unresolved in accessible text.",
+    "O2196": "Retain the implemented performance replication, but main text says replicate the results of DM and repeat these tests, not that Equation (3) or its estimator is reused. Conventional DiD is plausible, not uniquely established; code method and IV status unknown pending implementation evidence. Minimum confirmed outcome is sales growth; do not infer an ROA grid, coefficients, or prior-study implementation. Distinct comparison population from s9. The $46m median and $354m mean market capitalizations describe firms, not the focal sales-growth outcome. Source: pp1175–1176; L1872–1933."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -57036,7 +57045,14 @@
     "H5086": "0",
     "I5086": "unknown",
     "J5086": "none",
-    "K5086": "Net fund flow for fund m in quarter t, percent of previous-quarter TNA: 100×[TNA_t−TNA_(t−1)(1+R_t)]/TNA_(t−1), with R_t CRSP net quarterly return. No reported evidence establishes exact-zero mass in the estimation sample."
+    "K5086": "Net fund flow for fund m in quarter t, percent of previous-quarter TNA: 100×[TNA_t−TNA_(t−1)(1+R_t)]/TNA_(t−1), with R_t CRSP net quarterly return. No reported evidence establishes exact-zero mass in the estimation sample.",
+    "A5087": "DPFRSKRY",
+    "B5087": "h2",
+    "C5087": "hy1",
+    "H5087": "0",
+    "I5087": "unknown",
+    "J5087": "none",
+    "K5087": "Sales growth: percentage change in quarterly firm sales relative to same fiscal quarter in previous year; disaster-zone versus rest-of-US pre/post contrast. No reported evidence establishes exact-zero mass in the estimation sample."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
