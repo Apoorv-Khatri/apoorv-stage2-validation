@@ -20473,7 +20473,16 @@
     "L2170": "0",
     "M2170": "n/a",
     "N2170": "Table 3 cols1–10: continuous lagged ILLIQ/ILLIQ_res or Log_resprd/Log_resprd_res effects on cash ratio; pooled linear regressions with industry and year dummy controls across 1964–2015, 1971–2015, 1981–2015, 1998–2015.",
-    "O2170": "Industry/year dummies are reported controls; no separate identifying rationale for this battery is established in §2.5. Firm-FE identifying argument is explicitly specific to cols11–12. Retain broad causal interpretation from p910 even though preliminary association wording also occurs. Orthogonalized/raw liquidity proxies are routine operationalizations of the same construct, not separate policies. Source: §2.5/Table3 cols1–10 p912; p910 footnote8."
+    "O2170": "Industry/year dummies are reported controls; no separate identifying rationale for this battery is established in §2.5. Firm-FE identifying argument is explicitly specific to cols11–12. Retain broad causal interpretation from p910 even though preliminary association wording also occurs. Orthogonalized/raw liquidity proxies are routine operationalizations of the same construct, not separate policies. Source: §2.5/Table3 cols1–10 p912; p910 footnote8.",
+    "A2171": "DFSQYG6H",
+    "B2171": "h2",
+    "I2171": "1",
+    "J2171": "Other",
+    "K2171": "0",
+    "L2171": "0",
+    "M2171": "n/a",
+    "N2171": "Table12 PanelB: Tobit-derived average marginal effects of continuous ILLIQ_res and Log_resprd_res on conditional repurchase ratio and probability of positive repurchase, evaluated at observed covariates within low/high-MTB samples.",
+    "O2171": "Separate reported estimands from latent Tobit coefficients in s6. ILLIQ_res rows are ×100: printed conditional effects −0.007/−0.002 and probability effects −0.105/−0.049. Spread conditional effects −0.004/−0.004 and probability effects −0.072/−0.076 unscaled. Cross-subsample 3.5-times/two-times statements compare effect estimates, not outcome levels. Source: §4.2/Table12B pp920–921; main.txt lines1176–1249."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56585,7 +56594,15 @@
     "A5060": "DFSQYG6H",
     "B5060": "h1",
     "C5060": "hy1",
-    "K5060": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
+    "K5060": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged.",
+    "A5061": "DFSQYG6H",
+    "B5061": "h2",
+    "C5061": "hy1",
+    "K5061": "Repurchase ratio Rep among positive-repurchase observations (Rep>0), measured as adjusted dollar repurchases divided by lagged year-end market capitalization. Panel12B estimates an average derivative of E[Rep | Rep>0,X]; that derivative is the effect estimate, not the outcome.",
+    "A5062": "DFSQYG6H",
+    "B5062": "h2",
+    "C5062": "hy2",
+    "K5062": "Any-positive-repurchase indicator 1{Rep>0}. Panel12B reports the Tobit-implied average derivative of Pr(Rep>0 | X), the probability/mean of this binary event; the marginal effect is not an outcome or a separately fitted probit. Treatment remains continuous; detailed human outcome labels are optional."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

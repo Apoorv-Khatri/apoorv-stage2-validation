@@ -172224,3 +172224,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:18:27.739443+00:00 — Review DFSQYG6H h2: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5061",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5062",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5061",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5062",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5061",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5062",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5061",
+    "before": null,
+    "after": "Repurchase ratio Rep among positive-repurchase observations (Rep>0), measured as adjusted dollar repurchases divided by lagged year-end market capitalization. Panel12B estimates an average derivative of E[Rep | Rep>0,X]; that derivative is the effect estimate, not the outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5062",
+    "before": null,
+    "after": "Any-positive-repurchase indicator 1{Rep>0}. Panel12B reports the Tobit-implied average derivative of Pr(Rep>0 | X), the probability/mean of this binary event; the marginal effect is not an outcome or a separately fitted probit. Treatment remains continuous; detailed human outcome labels are optional."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2171",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2171",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2171",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2171",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2171",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2171",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2171",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2171",
+    "before": null,
+    "after": "Table12 PanelB: Tobit-derived average marginal effects of continuous ILLIQ_res and Log_resprd_res on conditional repurchase ratio and probability of positive repurchase, evaluated at observed covariates within low/high-MTB samples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2171",
+    "before": null,
+    "after": "Separate reported estimands from latent Tobit coefficients in s6. ILLIQ_res rows are ×100: printed conditional effects −0.007/−0.002 and probability effects −0.105/−0.049. Spread conditional effects −0.004/−0.004 and probability effects −0.072/−0.076 unscaled. Cross-subsample 3.5-times/two-times statements compare effect estimates, not outcome levels. Source: §4.2/Table12B pp920–921; main.txt lines1176–1249."
+  }
+]
+```
