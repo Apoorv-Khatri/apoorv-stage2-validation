@@ -184527,3 +184527,462 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T10:40:29.016526+00:00 — Review EWJTD63J s6: source-audited coding and linked comparisons
+
+75 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2554",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2555",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2556",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2557",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2558",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2559",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2554",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2555",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2556",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2557",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2558",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2559",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2554",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2555",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2556",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2557",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2558",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2559",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2554",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2556",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2557",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2559",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2554",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2555",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2556",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2557",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2558",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2559",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2554",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2555",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2556",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2557",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2558",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2559",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2554",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2555",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2557",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2558",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2559",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2554",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2556",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2557",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2559",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2554",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2555",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2556",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2557",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2558",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2559",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2554",
+    "before": null,
+    "after": "Table4 panel A col3 p473: standardized focal coefficient 0.332 outcome SD per one SD of the named treatment. MSC disagreement; column-specific monthly outcome SD. Caption periods April1984–Dec2012 (CEX), Jan2001–Aug2013 (Treasury), Apr1986–Dec2013 (futures), May2005–Feb2012 (swaps); N=151. Raw summary SD elsewhere is not a separate mean comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2555",
+    "before": null,
+    "after": "Table4 panel A col4 p473: standardized focal coefficient 0.314 outcome SD per one SD of the named treatment. MSC disagreement; column-specific monthly outcome SD. Caption periods April1984–Dec2012 (CEX), Jan2001–Aug2013 (Treasury), Apr1986–Dec2013 (futures), May2005–Feb2012 (swaps); N=333. Raw summary SD elsewhere is not a separate mean comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2556",
+    "before": null,
+    "after": "Table4 panel A col5 p473: standardized focal coefficient 0.265 outcome SD per one SD of the named treatment. MSC disagreement; column-specific monthly outcome SD. Caption periods April1984–Dec2012 (CEX), Jan2001–Aug2013 (Treasury), Apr1986–Dec2013 (futures), May2005–Feb2012 (swaps); N=70. Raw summary SD elsewhere is not a separate mean comparison. Sample provenance conflict: p468 says monthly inflation-swap notionals available since December2005; Table4 caption gives May2005-February2012, N70. Preserve printed period and count; exact usable start/month exclusions unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2557",
+    "before": null,
+    "after": "Table4 panel B col3 p473: standardized focal coefficient 0.549 outcome SD per one SD of the named treatment. MSC disagreement; column-specific monthly outcome SD. Caption periods April1984–Dec2012 (CEX), Jan2001–Aug2013 (Treasury), Apr1986–Dec2013 (futures), May2005–Feb2012 (swaps); N=151. Raw summary SD elsewhere is not a separate mean comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2558",
+    "before": null,
+    "after": "Table4 panel B col4 p473: standardized focal coefficient 0.282 outcome SD per one SD of the named treatment. MSC disagreement; column-specific monthly outcome SD. Caption periods April1984–Dec2012 (CEX), Jan2001–Aug2013 (Treasury), Apr1986–Dec2013 (futures), May2005–Feb2012 (swaps); N=333. Raw summary SD elsewhere is not a separate mean comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2559",
+    "before": null,
+    "after": "Table4 panel B col5 p473: standardized focal coefficient 0.153 outcome SD per one SD of the named treatment. MSC disagreement; column-specific monthly outcome SD. Caption periods April1984–Dec2012 (CEX), Jan2001–Aug2013 (Treasury), Apr1986–Dec2013 (futures), May2005–Feb2012 (swaps); N=70. Raw summary SD elsewhere is not a separate mean comparison. Sample provenance conflict: p468 says monthly inflation-swap notionals available since December2005; Table4 caption gives May2005-February2012, N70. Preserve printed period and count; exact usable start/month exclusions unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2554",
+    "before": null,
+    "after": "Outcome-SD normalization is explicit, but the causal target/weights for this continuous time-series regression are not separately established. Same estimation sample alone does not prove causal benchmark alignment; code unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2555",
+    "before": null,
+    "after": "Outcome-SD normalization is explicit, but the causal target/weights for this continuous time-series regression are not separately established. Same estimation sample alone does not prove causal benchmark alignment; code unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2556",
+    "before": null,
+    "after": "Outcome-SD normalization is explicit, but the causal target/weights for this continuous time-series regression are not separately established. Same estimation sample alone does not prove causal benchmark alignment; code unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2557",
+    "before": null,
+    "after": "Outcome-SD normalization is explicit, but the causal target/weights for this continuous time-series regression are not separately established. Same estimation sample alone does not prove causal benchmark alignment; code unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2558",
+    "before": null,
+    "after": "Outcome-SD normalization is explicit, but the causal target/weights for this continuous time-series regression are not separately established. Same estimation sample alone does not prove causal benchmark alignment; code unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2559",
+    "before": null,
+    "after": "Outcome-SD normalization is explicit, but the causal target/weights for this continuous time-series regression are not separately established. Same estimation sample alone does not prove causal benchmark alignment; code unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K914",
+    "before": null,
+    "after": "GARCH(1,1) conditional volatility of Treasury trading volume divided by outstanding Treasuries (constant mean equation); coefficients are reported in standardized outcome-SD units where stated in the table caption. Original raw percent definition is not the reported coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K915",
+    "before": null,
+    "after": "Interest-rate futures open interest divided by all financial-futures open interest; coefficients are reported in standardized outcome-SD units where stated in the table caption. Original raw percent definition is not the reported coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K916",
+    "before": null,
+    "after": "Detrended log brokered inflation-swap notionals, monthly average activity; coefficients are reported in standardized outcome-SD units where stated in the table caption. Original raw percent definition is not the reported coefficient scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I356",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J356",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K356",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L356",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M356",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O356",
+    "before": null,
+    "after": "Retain author-interpreted empirical response under broad causal gate, not a claim of valid exogenous identification. No identifying FE, IV, RCT, RD, DiD, matching, or nonlinear focal estimator. All reported coefficients standardized; each distinct focal estimate receives an outcome-SD comparison. Sample provenance conflict: p468 says monthly inflation-swap notionals available since December2005; Table4 caption gives May2005-February2012, N70. Preserve printed period and count; exact usable start/month exclusions unresolved. Source: §3.5/Table4 A–B cols3–5 pp473–474."
+  }
+]
+```
