@@ -163422,3 +163422,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:22:00.919653+00:00 — Review BHYG5F75 s10: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H826",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H827",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I826",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I827",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J826",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J827",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K826",
+    "before": null,
+    "after": "Difference of natural logs (next minus current), interpreted on percentage/log-point scale in Tables4/9. Not log of the change. Scaling by100 is implicit in percentage prose, not explicitly stated in caption. Zero change is possible but observed point mass is not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K827",
+    "before": null,
+    "after": "Difference of natural logs (next minus current), interpreted on percentage/log-point scale in Tables4/9. Not log of the change. Scaling by100 is implicit in percentage prose, not explicitly stated in caption. Zero change is possible but observed point mass is not reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I295",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J295",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K295",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L295",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M295",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N295",
+    "before": null,
+    "after": "Table9 cols1,2,4,5: binary voluntary disclosure in a private loan versus no disclosure, among eventual IPO firms, on next-minus-current natural log spread and natural log loan amount. Linear regressions with loan-year fixed effects and loan controls; versions with and without IPO-timing controls grouped. No borrower/lender FE. Survey method FE because year effects address secular conditions; authors label the computational estimator OLS."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O295",
+    "before": null,
+    "after": "Year FE are an identifying adjustment for secular macroeconomic conditions, not merely a label: §2 p3083–3085, §3.2 p3093 and footnote16 p3095. Thus code FE despite authors calling the linear estimator OLS. No borrower/lender FE in IPO sample (footnote15). Main=1 because alternative timing-control strategy is specifically emphasized in introduction pp3078 and conclusion as central evidence against unobserved-quality explanation; not merely table-order robustness. Source: Table9 cols1,2,4,5 p3098."
+  }
+]
+```
