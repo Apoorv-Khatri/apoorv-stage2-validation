@@ -175923,3 +175923,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:49:36.272609+00:00 — Review DPFRSKRY h8: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5093",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5093",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5093",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5093",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5093",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5093",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5093",
+    "before": null,
+    "after": "Fund volatility: standard deviation of imputed daily returns during the quarter from the ex ante disclosed portfolio; no log or standardization stated. No reported evidence establishes exact-zero mass in the estimation sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2202",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2202",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2202",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2202",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2202",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2202",
+    "before": null,
+    "after": "§3.4.10 fund risk-taking response: post-disaster effect on volatility of close mutual funds; binary disaster-experience before/after contrast."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2202",
+    "before": null,
+    "after": "Main text establishes implemented finding that post-disaster volatility of close funds decreases, but does not identify whether this is a within-close before/after regression, a close/far DiD, or another estimator. Method/IV status unknown rather than guessed; no unsupported coefficient, FE battery or far-fund comparison. Outcome is an SD but not an effect expressed in outcome-SD units. Source: p1181 §3.4.10; L2253–2260."
+  }
+]
+```

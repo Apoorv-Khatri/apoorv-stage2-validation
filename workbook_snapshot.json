@@ -20816,7 +20816,16 @@
     "L2201": "0",
     "M2201": "n/a",
     "N2201": "§3.4.9 home-bias robustness: binary close versus far fund exposure × POST effect on natural log of total dollar value of a disaster-zone stock held by the fund.",
-    "O2201": "Implemented baseline tests with changed dependent variable. Authors infer close funds sell a greater fraction of predisaster holdings. Log-percent interpretation and hypothetical two funds each selling half are not effect-to-outcome benchmarks. Treatment binary; log-zero handling unspecified; raw holdings zeros and mass at log value zero not established. Source: pp1180–1181 §3.4.9; L2215–2251."
+    "O2201": "Implemented baseline tests with changed dependent variable. Authors infer close funds sell a greater fraction of predisaster holdings. Log-percent interpretation and hypothetical two funds each selling half are not effect-to-outcome benchmarks. Treatment binary; log-zero handling unspecified; raw holdings zeros and mass at log value zero not established. Source: pp1180–1181 §3.4.9; L2215–2251.",
+    "A2202": "DPFRSKRY",
+    "B2202": "h8",
+    "I2202": "1",
+    "J2202": "unknown",
+    "K2202": "1",
+    "L2202": "0",
+    "M2202": "unknown",
+    "N2202": "§3.4.10 fund risk-taking response: post-disaster effect on volatility of close mutual funds; binary disaster-experience before/after contrast.",
+    "O2202": "Main text establishes implemented finding that post-disaster volatility of close funds decreases, but does not identify whether this is a within-close before/after regression, a close/far DiD, or another estimator. Method/IV status unknown rather than guessed; no unsupported coefficient, FE battery or far-fund comparison. Outcome is an SD but not an effect expressed in outcome-SD units. Source: p1181 §3.4.10; L2253–2260."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -57132,7 +57141,14 @@
     "H5092": "0",
     "I5092": "unknown",
     "J5092": "log",
-    "K5092": "Natural logarithm of total dollar value of shares of a disaster-zone stock held by a fund (stock-fund-quarter holding value); not log1p, not the log of portfolio weight. No reported evidence establishes exact-zero mass in the estimation sample."
+    "K5092": "Natural logarithm of total dollar value of shares of a disaster-zone stock held by a fund (stock-fund-quarter holding value); not log1p, not the log of portfolio weight. No reported evidence establishes exact-zero mass in the estimation sample.",
+    "A5093": "DPFRSKRY",
+    "B5093": "h8",
+    "C5093": "hy1",
+    "H5093": "0",
+    "I5093": "unknown",
+    "J5093": "none",
+    "K5093": "Fund volatility: standard deviation of imputed daily returns during the quarter from the ex ante disclosed portfolio; no log or standardization stated. No reported evidence establishes exact-zero mass in the estimation sample."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
