@@ -122199,3 +122199,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:23:19.849441+00:00 — Review 96H6UQNF s4: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H619",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I619",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J619",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K619",
+    "before": null,
+    "after": "Raw daily visit count (Poisson conditional mean), not a log-transformed dependent variable. Zero support is possible but actual positive mass at zero is not explicitly established; unknown rather than inferred1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I224",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J224",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K224",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L224",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M224",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N224",
+    "before": null,
+    "after": "Table5 PanelA: binary extreme-cold day effect on daily SafeGraph visits, full NAICS71–72 sample and five 4-digit subsamples, April–June 2018–2021. Poisson conditional-mean regression with identifying establishment-quarter and establishment-day-of-week FE. Weekend interaction results are separated to h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O224",
+    "before": null,
+    "after": "Two effective FE dimensions: year-quarter × establishment and establishment × day-of-week. p.24 explains absorption of variation over years and systematic weekly foot traffic. Components of interacted sets are not separately counted. No parallel-trends treated/post identification is implemented. Nonlinear Poisson estimator => Other, not FE. Cold definition is <4°C in caption but ≤4°C in prose; support binary either way, equality convention unresolved. Raw count zeros are not established merely by Poisson or log1p alternatives. Main=1: direct consumer-demand evidence is expressly emphasized in introduction p.3. Full-sample coefficient −0.0508 (z=−33.26); text incorrectly assigns z=−3.64, which is column2. Source: §3.2.1 pp.21,24; Table5A.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```
