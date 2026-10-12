@@ -133656,3 +133656,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:39:24.413810+00:00 — Review 9XGMQWX5 s5: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K148",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L148",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M148",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N148",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O148",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P148",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q148",
+    "before": null,
+    "after": "Final p.14 (also intro p.2), Table11(6): senior-daughters IV coefficient0.942, a5 percentage-point increase in Female Hired Ratio (historically hired partners still active, per Eq.2 text) gives about4.7 percentage-point higher deal success, called17% of overall27.3% success rate. Table3A benchmark is10987 observed deals; IV N10435."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R148",
+    "before": null,
+    "after": "Single nonbinary excluded instrument and continuous receipt imply an instrument-induced dose-margin target, not a binary-complier endpoint. Paper does not define its target/weights or construct the untreated outcome mean on that support. Overall observed success mean cannot establish alignment. Code unknown under the continuous-IV target rule rather than inventing a binary LATE or assuming matching dataset implies1; benchmark and estimation sample sizes differ. A stricter mismatch-based adjudication could choose0, but alignment is certainly not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K734",
+    "before": null,
+    "after": "Model zero-mass=0 is incorrect: the untransformed deal-success indicator includes unsuccessful deals coded0 (Table3A and Success definitions). Detailed Human outcome labels may remain blank because treatment is nonbinary."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I251",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J251",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K251",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L251",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M251",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N251",
+    "before": null,
+    "after": "Table11(5)–(6): 2SLS effect of continuous active Female Hired Ratio on deal success, using only senior hiring partners’ average number of daughters as the excluded instrument. All-partner IV moves to h5; OLS moves to h6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O251",
+    "before": null,
+    "after": "Exactly ONE scalar nonbinary excluded instrument per specification. Average Children (Senior) appears in both stages and is an included control, not another excluded instrument. A3(3)–(4) maps to Table11(5)–(6). Exclusion is not guaranteed by tests. Instrument aggregates relevant hiring partners and is not a binary daughter indicator. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Table11 p.13; §4.3 pp.12–14; Eq.2–3 p.8; A3 p.18."
+  }
+]
+```
