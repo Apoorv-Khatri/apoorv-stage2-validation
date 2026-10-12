@@ -19436,7 +19436,16 @@
     "L2096": "0",
     "M2096": "n/a",
     "N2096": "Matched-pair mean jump-ratio effect comparing top versus bottom quintile of lagged log stock price. Each calendar quarter, minimize Mahalanobis distance on lagged market capitalization and absolute total announcement CAR scaled by lagged volatility; retain 100 best pairs; regress pairwise differences on a constant.",
-    "O2096": "Outcome-adaptive Mahalanobis matched-pair procedure: matches and retained-pair weights are selected using |CAR(T−21,T+2)/lagged volatility|, a realized post-event return component of the focal jump-ratio denominator, as well as lagged market capitalization. Conditional on selected matches the pairwise-mean contrast is linear, but the complete procedure is outcome-adaptive and fails the project Matching requirement that comparison weights not be selected using focal outcomes. This is a method-taxonomy judgment, not rejection for imperfect identification. Retain the explicit binary contrast. For price-sorted pairs the focal treatment is high versus low lagged price, not instrumented AT receipt; no Wald/first-stage division is implemented. Wilcoxon tests do not supply median treatment-effect magnitudes. Source: AppendixB pp2221–2223, TableB1 panelB.2 quintiles5−1. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
+    "O2096": "Outcome-adaptive Mahalanobis matched-pair procedure: matches and retained-pair weights are selected using |CAR(T−21,T+2)/lagged volatility|, a realized post-event return component of the focal jump-ratio denominator, as well as lagged market capitalization. Conditional on selected matches the pairwise-mean contrast is linear, but the complete procedure is outcome-adaptive and fails the project Matching requirement that comparison weights not be selected using focal outcomes. This is a method-taxonomy judgment, not rejection for imperfect identification. Retain the explicit binary contrast. For price-sorted pairs the focal treatment is high versus low lagged price, not instrumented AT receipt; no Wald/first-stage division is implemented. Wilcoxon tests do not supply median treatment-effect magnitudes. Source: AppendixB pp2221–2223, TableB1 panelB.2 quintiles5−1. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities.",
+    "A2097": "AAT34438",
+    "B2097": "h10",
+    "I2097": "1",
+    "J2097": "IV",
+    "K2097": "0",
+    "L2097": "0",
+    "M2097": "single continuous",
+    "N2097": "Untabulated multiplicative alternative to Eq10: regress event-period nonsynchronicity divided by typical-period nonsynchronicity on continuous instrumented AT proxies, using same lagged log-price IV.",
+    "O2097": "Source explicitly says replacing the difference with a ratio delivers same qualitative relationships and similar significance. No coefficient or benchmark reported. Distinct outcome/estimand at footnote result location; no invented values. Source: Footnote28 p2214; Eq10/Table7 context pp2212–2213. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54566,7 +54575,14 @@
     "H4938": "0",
     "I4938": "unknown",
     "J4938": "other",
-    "K4938": "Price jump ratio CAR(T−1,T+2)/CAR(T−21,T+2), using Fama–French three-factor residualized log returns. This is a ratio, NOT log of the ratio; continuous, zero mass unknown. Denominator volatility filter excludes near-zero denominators, not zero numerators. Eq2 pp2192–2194."
+    "K4938": "Price jump ratio CAR(T−1,T+2)/CAR(T−21,T+2), using Fama–French three-factor residualized log returns. This is a ratio, NOT log of the ratio; continuous, zero mass unknown. Denominator volatility filter excludes near-zero denominators, not zero numerators. Eq2 pp2192–2194.",
+    "A4939": "AAT34438",
+    "B4939": "h10",
+    "C4939": "hy1",
+    "H4939": "0",
+    "I4939": "unknown",
+    "J4939": "other",
+    "K4939": "Ratio nonsynch(event)/nonsynch(average), where each nonsynch=1−R². Footnote28 p2214; typical window inherits the unresolved prose/caption conflict. Not a log outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

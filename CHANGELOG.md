@@ -139431,3 +139431,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:52:08.145031+00:00 — Review AAT34438 h10: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4939",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4939",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4939",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4939",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4939",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4939",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4939",
+    "before": null,
+    "after": "Ratio nonsynch(event)/nonsynch(average), where each nonsynch=1−R². Footnote28 p2214; typical window inherits the unresolved prose/caption conflict. Not a log outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2097",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2097",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2097",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2097",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2097",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2097",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2097",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2097",
+    "before": null,
+    "after": "Untabulated multiplicative alternative to Eq10: regress event-period nonsynchronicity divided by typical-period nonsynchronicity on continuous instrumented AT proxies, using same lagged log-price IV."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2097",
+    "before": null,
+    "after": "Source explicitly says replacing the difference with a ratio delivers same qualitative relationships and similar significance. No coefficient or benchmark reported. Distinct outcome/estimand at footnote result location; no invented values. Source: Footnote28 p2214; Eq10/Table7 context pp2212–2213. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
+  }
+]
+```
