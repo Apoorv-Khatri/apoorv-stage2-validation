@@ -132231,3 +132231,990 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:37:54.543491+00:00 — Review 9SK5H9MK h41: source-audited coding and linked comparisons
+
+163 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2140",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2141",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2142",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2143",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2144",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2145",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2146",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2147",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2148",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2149",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2150",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2151",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2140",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2141",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2142",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2143",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2144",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2145",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2146",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2147",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2148",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2149",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2150",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2151",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2140",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2141",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2142",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2143",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2144",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2145",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2146",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2147",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2148",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2149",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2150",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2151",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2140",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2141",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2142",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2143",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2144",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2145",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2146",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2147",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2148",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2149",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2150",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2140",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2141",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2142",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2143",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2144",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2145",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2146",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2147",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2148",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2149",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2150",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2151",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2140",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2141",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2142",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2143",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2144",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2145",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2146",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2147",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2148",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2149",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2150",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2151",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2140",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2141",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2142",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2143",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2144",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2145",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2146",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2147",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2148",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2149",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2150",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2151",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2140",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2141",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2142",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2143",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2144",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2145",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2146",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2147",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2148",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2149",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2150",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2151",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2140",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2141",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2142",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2143",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2144",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2145",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2146",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2147",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2148",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2149",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2150",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2151",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2140",
+    "before": null,
+    "after": "Author Appendix IAX panel A p.16/PDF17; author copy provenance applies. Focal estimate: 2000 cohort income high-minus-low difference 1.55 percentage points at entry. Benchmark: low-income-tercile mean 4.51% of2000 CZ employment for same cohort/horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2141",
+    "before": null,
+    "after": "Author Appendix IAX panel A p.16/PDF17; author copy provenance applies. Focal estimate: 2000 cohort income high-minus-low difference 1.27 percentage points at two-year horizon. Benchmark: low-income-tercile mean 3.64% of2000 CZ employment for same cohort/horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2142",
+    "before": null,
+    "after": "Author Appendix IAX panel A p.16/PDF17; author copy provenance applies. Focal estimate: 2000 cohort income high-minus-low difference 1.15 percentage points at four-year horizon. Benchmark: low-income-tercile mean 3.21% of2000 CZ employment for same cohort/horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2143",
+    "before": null,
+    "after": "Author Appendix IAX panel B p.16/PDF17; author copy provenance applies. Focal estimate: 2001 cohort income high-minus-low difference 1.07 percentage points at entry. Benchmark: low-income-tercile mean 3.99% of2000 CZ employment for same cohort/horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2144",
+    "before": null,
+    "after": "Author Appendix IAX panel B p.16/PDF17; author copy provenance applies. Focal estimate: 2001 cohort income high-minus-low difference 0.97 percentage points at two-year horizon. Benchmark: low-income-tercile mean 3.52% of2000 CZ employment for same cohort/horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2145",
+    "before": null,
+    "after": "Author Appendix IAX panel B p.16/PDF17; author copy provenance applies. Focal estimate: 2001 cohort income high-minus-low difference 0.87 percentage points at four-year horizon. Benchmark: low-income-tercile mean 3.09% of2000 CZ employment for same cohort/horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2146",
+    "before": null,
+    "after": "Author Appendix IAX panel C p.17/PDF18; author copy provenance applies. Focal estimate: 2002 cohort income high-minus-low difference 0.80 percentage points at entry. Benchmark: low-income-tercile mean 4.03% of2000 CZ employment for same cohort/horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2147",
+    "before": null,
+    "after": "Author Appendix IAX panel C p.17/PDF18; author copy provenance applies. Focal estimate: 2002 cohort income high-minus-low difference 0.47 percentage points at two-year horizon. Benchmark: low-income-tercile mean 3.71% of2000 CZ employment for same cohort/horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2148",
+    "before": null,
+    "after": "Author Appendix IAX panel C p.17/PDF18; author copy provenance applies. Focal estimate: 2002 cohort income high-minus-low difference 0.51 percentage points at four-year horizon. Benchmark: low-income-tercile mean 3.21% of2000 CZ employment for same cohort/horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2149",
+    "before": null,
+    "after": "Author Appendix IAX panel D p.17/PDF18; author copy provenance applies. Focal estimate: 2003 cohort income high-minus-low difference 0.64 percentage points at entry. Benchmark: low-income-tercile mean 4.27% of2000 CZ employment for same cohort/horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2150",
+    "before": null,
+    "after": "Author Appendix IAX panel D p.17/PDF18; author copy provenance applies. Focal estimate: 2003 cohort income high-minus-low difference 0.54 percentage points at two-year horizon. Benchmark: low-income-tercile mean 3.68% of2000 CZ employment for same cohort/horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2151",
+    "before": null,
+    "after": "Author Appendix IAX panel D p.17/PDF18; author copy provenance applies. Focal estimate: 2003 cohort income high-minus-low difference 0.45 percentage points at four-year horizon. Benchmark: low-income-tercile mean 3.16% of2000 CZ employment for same cohort/horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2140",
+    "before": null,
+    "after": "The observed low-shock group mean is not shown to represent the high-shock group untreated counterfactual. Observational/regression target and weights are insufficiently specified for alignment; unknown, not automatic alignment from common data."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2141",
+    "before": null,
+    "after": "The observed low-shock group mean is not shown to represent the high-shock group untreated counterfactual. Observational/regression target and weights are insufficiently specified for alignment; unknown, not automatic alignment from common data."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2142",
+    "before": null,
+    "after": "The observed low-shock group mean is not shown to represent the high-shock group untreated counterfactual. Observational/regression target and weights are insufficiently specified for alignment; unknown, not automatic alignment from common data."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2143",
+    "before": null,
+    "after": "The observed low-shock group mean is not shown to represent the high-shock group untreated counterfactual. Observational/regression target and weights are insufficiently specified for alignment; unknown, not automatic alignment from common data."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2144",
+    "before": null,
+    "after": "The observed low-shock group mean is not shown to represent the high-shock group untreated counterfactual. Observational/regression target and weights are insufficiently specified for alignment; unknown, not automatic alignment from common data."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2145",
+    "before": null,
+    "after": "The observed low-shock group mean is not shown to represent the high-shock group untreated counterfactual. Observational/regression target and weights are insufficiently specified for alignment; unknown, not automatic alignment from common data."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2146",
+    "before": null,
+    "after": "The observed low-shock group mean is not shown to represent the high-shock group untreated counterfactual. Observational/regression target and weights are insufficiently specified for alignment; unknown, not automatic alignment from common data."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2147",
+    "before": null,
+    "after": "The observed low-shock group mean is not shown to represent the high-shock group untreated counterfactual. Observational/regression target and weights are insufficiently specified for alignment; unknown, not automatic alignment from common data."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2148",
+    "before": null,
+    "after": "The observed low-shock group mean is not shown to represent the high-shock group untreated counterfactual. Observational/regression target and weights are insufficiently specified for alignment; unknown, not automatic alignment from common data."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2149",
+    "before": null,
+    "after": "The observed low-shock group mean is not shown to represent the high-shock group untreated counterfactual. Observational/regression target and weights are insufficiently specified for alignment; unknown, not automatic alignment from common data."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2150",
+    "before": null,
+    "after": "The observed low-shock group mean is not shown to represent the high-shock group untreated counterfactual. Observational/regression target and weights are insufficiently specified for alignment; unknown, not automatic alignment from common data."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2151",
+    "before": null,
+    "after": "The observed low-shock group mean is not shown to represent the high-shock group untreated counterfactual. Observational/regression target and weights are insufficiently specified for alignment; unknown, not automatic alignment from common data."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4893",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4894",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4895",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4893",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4894",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4895",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4893",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4894",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4895",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4893",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4894",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4895",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4893",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4894",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4895",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4893",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4894",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4895",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4893",
+    "before": null,
+    "after": "Startup cohort employment entry/2000 total CZ employment; IAX. Separate2000-2003 cohort regressions. No evidence of zero mass in reported CZ cohort share; unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4894",
+    "before": null,
+    "after": "Startup cohort employment two years later/2000 total CZ employment; IAX. Separate2000-2003 cohort regressions. No evidence of zero mass in reported CZ cohort share; unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4895",
+    "before": null,
+    "after": "Startup cohort employment four years later/2000 total CZ employment; IAX. Separate2000-2003 cohort regressions. No evidence of zero mass in reported CZ cohort share; unknown."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E27",
+    "before": null,
+    "after": "DONE — Complete supplied final article and recovered author-hosted appendix reviewed. Corrected phantom elasticity outcomes, six-year age bins, actual scalar/interaction instruments and cohort benchmarks; added qualifying appendix/reduced-form/geographic-FE settings and omitted age-size outcomes. Unwritten raw-conditional-correlation OLS mirror candidates excluded after weighing contrary joint-column response language; this is an interpretive causal-gate judgment, not rejection for weak identification. Routine credit-control panels grouped. Final publisher appendix identity not authenticated; denominator, coefficient mapping and timing conflicts and unreported trimming/year variants remain explicitly qualified. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2057",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2057",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2057",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2057",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2057",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2057",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2057",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2057",
+    "before": null,
+    "after": "IAX cohort-by-cohort high-minus-low tercile income shocks: employment at startup entry, two and four years later; four cohorts2000-2003; unadjusted linear differences with reported t-statistics. Binary endpoint contrast, no IV."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2057",
+    "before": null,
+    "after": "Same substantive job-resilience interpretation and limitations as s11/s12. Cohort variants grouped at same table; each horizon/year estimate-low-group-mean triple separately coded. Sorting is not a matching estimator. Source: Author Appendix Table IAX Panels A-D, pp.16-17/PDF17-18; main pp.1027-1028. Source link: https://songma.org/files/amr_jf_app_final.pdf. Certainty: moderate."
+  }
+]
+```
