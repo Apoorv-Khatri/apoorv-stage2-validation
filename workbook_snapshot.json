@@ -19544,7 +19544,16 @@
     "L2102": "1",
     "M2102": "single binary",
     "N2102": "Table VI C: 2SLS effect of continuous 1LSg-linked lagged flow on average next-three-hour Bitcoin return, with other PLX/BTX flows and other-exchange flows included as controls.",
-    "O2102": "Text explicitly instruments 1LSg rather than aggregate flow; it does NOT instrument all three flow regressors. Same one binary below-cutoff AND authorization instrument as s6, not multiple instruments. Receipt is continuous. Some first-stage F statistics weak (7.639,3.291,4.277), despite general prose claim of strength. Source: Table VI C p.1951 and text p.1952 lines1806–1813. Certainty: source-grounded."
+    "O2102": "Text explicitly instruments 1LSg rather than aggregate flow; it does NOT instrument all three flow regressors. Same one binary below-cutoff AND authorization instrument as s6, not multiple instruments. Receipt is continuous. Some first-stage F statistics weak (7.639,3.291,4.277), despite general prose claim of strength. Source: Table VI C p.1951 and text p.1952 lines1806–1813. Certainty: source-grounded.",
+    "A2103": "ACJ72JDD",
+    "B2103": "h4",
+    "I2103": "1",
+    "J2103": "OLS",
+    "K2103": "0",
+    "L2103": "1",
+    "M2103": "n/a",
+    "N2103": "Table VII A/B columns4 and7: continuous monthly Bitcoin-denominated Tether issuance divided by its SD, issuance main effect and EOM×issuance; daily Bitcoin/top-five value-weighted returns. Column7 excludes December2017 and January2018.",
+    "O2103": "Focal dose is issuance, not the EOM indicator alone. Interaction changes EOM-versus-surrounding-day differential per issuance SD. Issuance effect at EOM equals issuance main+interaction; EOM effect at issuance x equals EOM main+interaction*x. Outcome not standardized. Do not classify interaction as DiD without a parallel-trends design. Source: Table VII pp.1955–1956; text pp.1954,1957; lines1887–1999. Certainty: source-grounded."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54761,7 +54770,15 @@
     "A4944": "ACJ72JDD",
     "B4944": "h3",
     "C4944": "hy1",
-    "K4944": "Mean of the next three hourly simple Bitcoin returns, (Rt+Rt+1+Rt+2)/3, NOT the compounded three-hour cumulative return. Equal-weighted Bitcoin price index across Bitfinex, Poloniex, Bittrex, Binance, HitBTC, Huobi and OKEx. Table coefficients interpreted as basis points per 100 BTC flow; equation is on hourly-return scale."
+    "K4944": "Mean of the next three hourly simple Bitcoin returns, (Rt+Rt+1+Rt+2)/3, NOT the compounded three-hour cumulative return. Equal-weighted Bitcoin price index across Bitfinex, Poloniex, Bittrex, Binance, HitBTC, Huobi and OKEx. Table coefficients interpreted as basis points per 100 BTC flow; equation is on hourly-return scale.",
+    "A4945": "ACJ72JDD",
+    "B4945": "h4",
+    "C4945": "hy1",
+    "K4945": "Daily simple Bitcoin return; TableVII. Decimal-return scale.",
+    "A4946": "ACJ72JDD",
+    "B4946": "h4",
+    "C4946": "hy2",
+    "K4946": "Daily simple return on value-weighted portfolio of top-five cryptocurrencies selected by previous-week average market capitalization; TableVII. Decimal-return scale."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

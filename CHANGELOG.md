@@ -140751,3 +140751,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:35:03.386249+00:00 — Review ACJ72JDD h4: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4945",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4946",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4945",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4946",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4945",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4946",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4945",
+    "before": null,
+    "after": "Daily simple Bitcoin return; TableVII. Decimal-return scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4946",
+    "before": null,
+    "after": "Daily simple return on value-weighted portfolio of top-five cryptocurrencies selected by previous-week average market capitalization; TableVII. Decimal-return scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2103",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2103",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2103",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2103",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2103",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2103",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2103",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2103",
+    "before": null,
+    "after": "Table VII A/B columns4 and7: continuous monthly Bitcoin-denominated Tether issuance divided by its SD, issuance main effect and EOM×issuance; daily Bitcoin/top-five value-weighted returns. Column7 excludes December2017 and January2018."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2103",
+    "before": null,
+    "after": "Focal dose is issuance, not the EOM indicator alone. Interaction changes EOM-versus-surrounding-day differential per issuance SD. Issuance effect at EOM equals issuance main+interaction; EOM effect at issuance x equals EOM main+interaction*x. Outcome not standardized. Do not classify interaction as DiD without a parallel-trends design. Source: Table VII pp.1955–1956; text pp.1954,1957; lines1887–1999. Certainty: source-grounded."
+  }
+]
+```
