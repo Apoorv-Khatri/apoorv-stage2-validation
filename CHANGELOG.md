@@ -123732,3 +123732,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:27:44.812234+00:00 — Review 96H6UQNF h8: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4772",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4772",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4772",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4772",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4772",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4772",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4772",
+    "before": null,
+    "after": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2029",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2029",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2029",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2029",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2029",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2029",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2029",
+    "before": null,
+    "after": "TableA.2: quarterly EPS response to equal-weighted establishment temperature exposure; Eq.(2), industry/season subsamples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2029",
+    "before": null,
+    "after": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Distinct reported robustness location; exposure weighting is not causal Matching. Example Construction & Engineering Q3 heat (−,33°C). Source: Footnote10 p.6; TableA.2 p.34.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```

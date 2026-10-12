@@ -18623,7 +18623,16 @@
     "L2028": "0",
     "M2028": "n/a",
     "N2028": "TableA.1: quarterly EPS response to employee-weighted (rather than sales-weighted) temperature exposure across establishments; Eq.(2), industry/season subsamples.",
-    "O2028": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Distinct reported weighting robustness location, not Matching: weights construct the temperature measure, not treatment-effect reweighting. Example Software Q1 cold (−,−5°C); identifying FE unchanged. Source: Footnote10 p.6; TableA.1 p.34.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+    "O2028": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Distinct reported weighting robustness location, not Matching: weights construct the temperature measure, not treatment-effect reweighting. Example Software Q1 cold (−,−5°C); identifying FE unchanged. Source: Footnote10 p.6; TableA.1 p.34.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002.",
+    "A2029": "96H6UQNF",
+    "B2029": "h8",
+    "I2029": "1",
+    "J2029": "FE",
+    "K2029": "0",
+    "L2029": "0",
+    "M2029": "n/a",
+    "N2029": "TableA.2: quarterly EPS response to equal-weighted establishment temperature exposure; Eq.(2), industry/season subsamples.",
+    "O2029": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Distinct reported robustness location; exposure weighting is not causal Matching. Example Construction & Engineering Q3 heat (−,33°C). Source: Footnote10 p.6; TableA.2 p.34.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52673,7 +52682,14 @@
     "H4771": "0",
     "I4771": "unknown",
     "J4771": "log1p",
-    "K4771": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established."
+    "K4771": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established.",
+    "A4772": "96H6UQNF",
+    "B4772": "h8",
+    "C4772": "hy1",
+    "H4772": "0",
+    "I4772": "unknown",
+    "J4772": "log1p",
+    "K4772": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
