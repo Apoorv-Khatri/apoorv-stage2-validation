@@ -165999,3 +165999,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:43:40.426589+00:00 — Review CETFVPE5 s3: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H838",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I838",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J838",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K838",
+    "before": null,
+    "after": "Spurious as an outcome of the rejected causal setting; the reported return variable itself is real."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I301",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O301",
+    "before": null,
+    "after": "Spurious as a causal setting. Baseline weekday-aligned historical-return regressions predict returns. Discussion of retail selling pressure cites other papers and offers a possible explanation; it is not an estimated selling-pressure effect in Table3. Distinguish the direct mechanism tests in §4 from this baseline predictive evidence. Source: §3.2 pp149–150; Table3; lines699–813."
+  }
+]
+```
