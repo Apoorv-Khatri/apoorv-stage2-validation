@@ -146559,3 +146559,246 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:36:32.986265+00:00 — Review ACJ72JDD h11: source-audited coding and linked comparisons
+
+39 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2240",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2241",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2240",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2241",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2240",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2241",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2240",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2241",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2240",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2241",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2240",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2241",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2240",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2241",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2240",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2241",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2240",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2241",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2240",
+    "before": null,
+    "after": "TableVIII C column1: Arbitrage Spread coefficient0.0032 in corresponding Tether-flow (col1) or Bitcoin-flow (col2) SD units; all variables standardized by caption. Lagged3-hour average regressor."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2241",
+    "before": null,
+    "after": "TableVIII C column2: Arbitrage Spread coefficient0.0163 in corresponding Tether-flow (col1) or Bitcoin-flow (col2) SD units; all variables standardized by caption. Lagged3-hour average regressor."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2240",
+    "before": null,
+    "after": "Normalization reference period/weights and continuous-treatment regression target unresolved; not automatically aligned merely because same data."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2241",
+    "before": null,
+    "after": "Normalization reference period/weights and continuous-treatment regression target unresolved; not automatically aligned merely because same data."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4961",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4962",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4961",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4962",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4961",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4962",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4961",
+    "before": null,
+    "after": "Net flow of Tether from Bitfinex; standardized by subtracting its mean and dividing by its standard deviation, TableVIII. Nonbinary treatment: detailed labels intentionally blank."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4962",
+    "before": null,
+    "after": "Net flow of Bitcoin to Bitfinex; standardized by subtracting its mean and dividing by its standard deviation, TableVIII. Nonbinary treatment: detailed labels intentionally blank."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2109",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2109",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2109",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2109",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2109",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2109",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2109",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2109",
+    "before": null,
+    "after": "Table VIII C: lagged three-hour average arbitrage spread, USD-exchange minus Tether-exchange return as continuous driver of net Tether outflow and corresponding Bitcoin inflow to Bitfinex. Both dependent flow variables and regressors standardized by subtracting mean and dividing by SD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2109",
+    "before": null,
+    "after": "Retained as substantive tests of demand/supply/arbitrage mechanisms, including null effects, under H1A/H1B and explicit driver interpretation; not pure prediction. No FE. Lag orders1–5 are routine specification variants, not new settings, but each printed focal coefficient is a distinct outcome-SD comparison. Caption dates Apr1,2017–Mar1,2018 conflict with prose full period Mar1,2017–Mar31,2018 and N=8750; do not silently resolve normalization period. Outcome-SD benchmark qualifies independently of treatment standardization. Source: Table VIII pp.1959–1960; §IV.B.2 pp.1957–1958; lines2026–2193. Certainty: source-grounded."
+  }
+]
+```
