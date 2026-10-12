@@ -299946,3 +299946,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T11:26:51.393109+00:00 — Review EYAZZ4D5 s6: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H939",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H940",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H941",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H942",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I939",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I940",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I941",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I942",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J939",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J940",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J941",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J942",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K939",
+    "before": null,
+    "after": "Annualized nonlinear mean-variance CER gain (difference of CER levels), percentage points, not a log-return outcome; includes full sample and both subperiods. Zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K940",
+    "before": null,
+    "after": "Annualized nonlinear mean-variance CER gain (difference of CER levels), percentage points, not a log-return outcome; includes full sample and both subperiods. Zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K941",
+    "before": null,
+    "after": "Annualized nonlinear mean-variance CER gain (difference of CER levels), percentage points, not a log-return outcome; includes full sample and both subperiods. Zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K942",
+    "before": null,
+    "after": "Annualized nonlinear mean-variance CER gain (difference of CER levels), percentage points, not a log-return outcome; includes full sample and both subperiods. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I363",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J363",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K363",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L363",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M363",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N363",
+    "before": null,
+    "after": "Switch from prevailing-mean forecast to SII forecast in constrained mean-variance portfolio rule; annualized CER differences (Table6), horizons/rebalancing1,3,6,12 months, full1990–2014 and subperiods1990–2006/2007–2014. §4 holds volatility forecasting rule and underlying market path fixed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O363",
+    "before": null,
+    "after": "Author-explicit forecast-rule counterfactual, not causal effect of short interest on prices: §4 says the investor uses the alternative forecast instead, and footnote29 holds the ten-year variance forecast fixed so weights differ only because of return forecasts. Same realized underlying market/bill path, weights recomputed, price-taking interpretation; no transaction-cost, loan-fee or market-impact adjustment established. Nonlinear performance recomputation, not OLS. Binary refers to implemented rule-versus-prevailing-mean contrast, not continuously varying SII/weights. Review this inclusion priority independently. Source: §4 Eqs(7)–(8), footnotes28–30, Table6 pp57–58 (PDF12–13)."
+  }
+]
+```
