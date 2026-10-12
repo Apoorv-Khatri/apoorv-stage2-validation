@@ -148899,3 +148899,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:00:24.395540+00:00 — Review ANHCKZYX s7: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H794",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I794",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J794",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K794",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I279",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O279",
+    "before": null,
+    "after": "Outside causal scope: Rolling-window positive Sharpe frequencies and fixed subperiod consistency are descriptive robustness to period selection, not effects of historical periods. Source: §3.4.1 Table 6 p.1140; lines834–902. Certainty: source-grounded causal-gate recommendation."
+  }
+]
+```
