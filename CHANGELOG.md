@@ -174396,3 +174396,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:45:25.835844+00:00 — Review DPFRSKRY s1: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K171",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L171",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M171",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N171",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O171",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P171",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q171",
+    "before": null,
+    "after": "p1160 §3.1.1/fn13, Table3 col1: CLOSE×POST=−.089 portfolio-weight percentage points (rounded .09%). Authors convert using median fund size $239m and dollar value of median disaster-zone stock holding by close funds $2.05m, explicitly claim ≈1.5% reduction in holding value. This is deliberate same-holding level scaling, not an outcome-mean comparison and not attached to FE cols2–6. Visually verified printed equation and values."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R171",
+    "before": null,
+    "after": "Preserve printed arithmetic conflict: applying percentage units to .09%×$239m/$2.05m implies ≈10.493%, not1.5%; this calculation is reviewer diagnostic, NOT substituted paper evidence. Dollar stock-holding benchmark corresponds to the same weight outcome after stated portfolio-size conversion. Median/typical holding level => other_level; alignment n/a. Benchmark period and weighting not supplied."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H888",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I888",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J888",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K888",
+    "before": null,
+    "after": "No verified evidence establishes a probability mass at zero in the actual estimation sample. Holdings/trades can in principle be zero, but source does not state whether unheld pairs/exits/no-trade observations are retained; change model zero_mass=1 to unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I336",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J336",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K336",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L336",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M336",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O336",
+    "before": null,
+    "after": "Conventional DiD takes precedence over OLS/FE even in no-FE column1; no method split for the CLOSE×POST parameter. Four named FE rows do not change its DiD classification. Eq1 describes year-quarter effects whereas table lists year and disaster-quarter: preserve this ambiguity. Also covers minimum implemented routine baseline variants in §3.4.6–8 (windows, clustering, extra FE), without inventing unseen supplement tables. Separately interpreted far-fund POST effect is added in h9/h10, not confused with the DiD coefficient. The baseline portfolio-weight coefficient is in percentage points, not a relative percent change. Source: §1.2, §3.1.1, Eq1/Table3 pp1152–1162; main.txt L394–486,795–947; §3.4.6–8 pp1180 L2198–2224."
+  }
+]
+```
