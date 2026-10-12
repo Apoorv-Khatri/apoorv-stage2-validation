@@ -121710,3 +121710,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:21:56.714446+00:00 — Review 95E3CUNG s5: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H612",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I612",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J612",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K612",
+    "before": null,
+    "after": "spurious: outcome belongs to excluded diagnostic-only placebo setting s5; Table7 baseline is duplicate of Table3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I219",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O219",
+    "before": null,
+    "after": "Diagnostic-only placebo. Table7 randomly reassigns the measured trade-credit field within industry-month and checks whether conditioning retains predictive information. This is not randomized treatment received by firms and does not identify an RCT effect. Actual-data baseline row repeats Table3. Exclude as a causal setting rather than adding OLS/FE versions. Source: §4.3/Table7 p.609/PDF18; introduction p.594.."
+  }
+]
+```
