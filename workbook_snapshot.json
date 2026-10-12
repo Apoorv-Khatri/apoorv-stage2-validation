@@ -20753,7 +20753,16 @@
     "L2194": "0",
     "M2194": "n/a",
     "N2194": "Internet Appendix TableA1 cols11–12, same regressions as Table3: Non-blocks_res (size-orthogonalized institutional nonblock share fraction) effect on cash ratio. Identifying firm and year fixed effects,1998–2015.",
-    "O2194": "Own positive coefficient is explicitly linked to cash-as-ammunition and vulnerable stock prices from easy-to-sell small holdings. Identifying firm and year FE: final p909 explicitly targets time-invariant firm-specific omitted variables. Retain implemented sensitivity, without claiming its sign/significance matches OLS. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
+    "O2194": "Own positive coefficient is explicitly linked to cash-as-ammunition and vulnerable stock prices from easy-to-sell small holdings. Identifying firm and year FE: final p909 explicitly targets time-invariant firm-specific omitted variables. Retain implemented sensitivity, without claiming its sign/significance matches OLS. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65.",
+    "A2195": "DPFRSKRY",
+    "B2195": "h1",
+    "I2195": "1",
+    "J2195": "DiD_conventional",
+    "K2195": "1",
+    "L2195": "0",
+    "M2195": "n/a",
+    "N2195": "Untabulated fn19: effect of binary close-versus-distant fund disaster exposure on net fund flow in the event quarter plus two subsequent quarters relative to two prior quarters; fund-quarter CLOSE×POST regression.",
+    "O2195": "Substantive clientele/outflow mechanism test, not a covariate balance diagnostic. Main text explicitly gives interaction and result (no differential change); FE/controls and fund-level mapping of CLOSE_ms subscript not reported. Do not invent extra columns. Source: p1170 fn19; main.txt L1549–1556."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -57020,7 +57029,14 @@
     "A5085": "DFSQYG6H",
     "B5085": "h51",
     "C5085": "hy1",
-    "K5085": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
+    "K5085": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged.",
+    "A5086": "DPFRSKRY",
+    "B5086": "h1",
+    "C5086": "hy1",
+    "H5086": "0",
+    "I5086": "unknown",
+    "J5086": "none",
+    "K5086": "Net fund flow for fund m in quarter t, percent of previous-quarter TNA: 100×[TNA_t−TNA_(t−1)(1+R_t)]/TNA_(t−1), with R_t CRSP net quarterly return. No reported evidence establishes exact-zero mass in the estimation sample."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -175188,3 +175188,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:48:01.214363+00:00 — Review DPFRSKRY h1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5086",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5086",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5086",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5086",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5086",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5086",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5086",
+    "before": null,
+    "after": "Net fund flow for fund m in quarter t, percent of previous-quarter TNA: 100×[TNA_t−TNA_(t−1)(1+R_t)]/TNA_(t−1), with R_t CRSP net quarterly return. No reported evidence establishes exact-zero mass in the estimation sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2195",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2195",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2195",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2195",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2195",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2195",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2195",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2195",
+    "before": null,
+    "after": "Untabulated fn19: effect of binary close-versus-distant fund disaster exposure on net fund flow in the event quarter plus two subsequent quarters relative to two prior quarters; fund-quarter CLOSE×POST regression."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2195",
+    "before": null,
+    "after": "Substantive clientele/outflow mechanism test, not a covariate balance diagnostic. Main text explicitly gives interaction and result (no differential change); FE/controls and fund-level mapping of CLOSE_ms subscript not reported. Do not invent extra columns. Source: p1170 fn19; main.txt L1549–1556."
+  }
+]
+```
