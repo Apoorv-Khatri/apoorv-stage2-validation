@@ -148599,3 +148599,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:59:14.211537+00:00 — Review ANHCKZYX s3: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H785",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H786",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I785",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I786",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J785",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J786",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K785",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s3 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K786",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s3 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I275",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O275",
+    "before": null,
+    "after": "Outside causal scope: Pre-sample factor-premium validation estimates persistence of return patterns in new historical data; out-of-sample validation addresses data mining, not a source-argued causal effect of changing signals or an implemented policy intervention. Source: §3.2 Table 4A pp.1137–1138; lines618–692. Certainty: source-grounded causal-gate recommendation."
+  }
+]
+```
