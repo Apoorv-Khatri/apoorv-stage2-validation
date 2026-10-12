@@ -167727,3 +167727,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:07:58.490649+00:00 — Review CN4YZYPH s11: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I320",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J320",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K320",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L320",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M320",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O320",
+    "before": null,
+    "after": "Single excluded scalar instrument: median RPQ of firms in the same two-digit SIC industry. Continuous receipt RPQ; year/industry FE do not supersede 2SLS. First stages and weak-identification diagnostics are not separate substantive settings. Source: §5.3/Table6 A/B col2 pp209–210; lines980–1155."
+  }
+]
+```
