@@ -147444,3 +147444,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:37:46.254795+00:00 — Review ACJ72JDD h19: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4973",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4973",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4973",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4973",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4973",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4973",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4973",
+    "before": null,
+    "after": "Three-hour cumulative postevent Bitcoin return, high-flow events and preceding-return-matched hours; exact arithmetic-versus-compounded construction pending."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2114",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2114",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2114",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2114",
+    "before": null,
+    "after": "Matching"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2114",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2114",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2114",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2114",
+    "before": null,
+    "after": "Nearest-lagged-return matched comparison for the95 aggregate high-flow events: choose sample hours closest in preceding three-hour returns without conditioning on high flow, compare subsequent three-hour Bitcoin return."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2114",
+    "before": null,
+    "after": "Matching on preceding three-hour returns is explicitly implemented and does not select weights using the focal subsequent return. The 95 high-flow hours are the target; selected comparison hours have similar preceding returns, but authors explicitly do not condition on high flow. The main text does not establish a high-flow=1 versus high-flow=0 receipt contrast or exclusion of treated hours from controls. Matching method retained; binary treatment and untreated-target alignment require Figure IA.11. Number of neighbors, replacement and weights are unresolved. Source: pp.1940–1941 lines1252–1264; Figure IA.11. Certainty: source-grounded."
+  }
+]
+```

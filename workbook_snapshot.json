@@ -19643,7 +19643,16 @@
     "L2113": "0",
     "M2113": "unknown",
     "N2113": "High-flow event spillover contrast: exchange-level value-weighted altcoin-BTC return indices on Bitfinex/Poloniex/Bittrex versus other exchanges in hours immediately after aggregate high-flow events.",
-    "O2113": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Explicit two exchange-group contrast; pre-event null is contextual, not the sole purpose. Exact implementation/FE/DiD claim not established; use unknown, not presumed FE or DiD. The binary contrast established in prose is exposure of altcoins listed on Bitfinex/Poloniex/Bittrex versus other exchanges during post-high-flow hours. Do not infer binary high-flow receipt from the post-window alone; pre-period equality does not establish DiD implementation. Source: p.1940 lines1236–1243; Table IA.IV. Certainty: estimator unresolved."
+    "O2113": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Explicit two exchange-group contrast; pre-event null is contextual, not the sole purpose. Exact implementation/FE/DiD claim not established; use unknown, not presumed FE or DiD. The binary contrast established in prose is exposure of altcoins listed on Bitfinex/Poloniex/Bittrex versus other exchanges during post-high-flow hours. Do not infer binary high-flow receipt from the post-window alone; pre-period equality does not establish DiD implementation. Source: p.1940 lines1236–1243; Table IA.IV. Certainty: estimator unresolved.",
+    "A2114": "ACJ72JDD",
+    "B2114": "h19",
+    "I2114": "1",
+    "J2114": "Matching",
+    "K2114": "unknown",
+    "L2114": "0",
+    "M2114": "n/a",
+    "N2114": "Nearest-lagged-return matched comparison for the95 aggregate high-flow events: choose sample hours closest in preceding three-hour returns without conditioning on high flow, compare subsequent three-hour Bitcoin return.",
+    "O2114": "Matching on preceding three-hour returns is explicitly implemented and does not select weights using the focal subsequent return. The 95 high-flow hours are the target; selected comparison hours have similar preceding returns, but authors explicitly do not condition on high flow. The main text does not establish a high-flow=1 versus high-flow=0 receipt contrast or exclusion of treated hours from controls. Matching method retained; binary treatment and untreated-target alignment require Figure IA.11. Number of neighbors, replacement and weights are unresolved. Source: pp.1940–1941 lines1252–1264; Figure IA.11. Certainty: source-grounded."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55005,7 +55014,14 @@
     "H4972": "0",
     "I4972": "unknown",
     "J4972": "unknown",
-    "K4972": "Value-weighted exchange-level return index of all altcoins other than Bitcoin, denominated in Bitcoin, from coin-BTC pairs; comparison of linked exchanges to others after high-flow events. Exact return transformation unresolved."
+    "K4972": "Value-weighted exchange-level return index of all altcoins other than Bitcoin, denominated in Bitcoin, from coin-BTC pairs; comparison of linked exchanges to others after high-flow events. Exact return transformation unresolved.",
+    "A4973": "ACJ72JDD",
+    "B4973": "h19",
+    "C4973": "hy1",
+    "H4973": "0",
+    "I4973": "unknown",
+    "J4973": "unknown",
+    "K4973": "Three-hour cumulative postevent Bitcoin return, high-flow events and preceding-return-matched hours; exact arithmetic-versus-compounded construction pending."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
