@@ -20386,7 +20386,16 @@
     "L2166": "0",
     "M2166": "n/a",
     "N2166": "RPQ effects on raw annual returns and industry-adjusted annual returns replacing DGTW-adjusted returns in the unreported baseline stock-return robustness (footnote16); results qualitatively similar. §6.2 repeats the industry-adjusted-return check. Peer-type-specific coverage not enumerated.",
-    "O2166": "Keep raw and industry-adjusted return outcome variants together at this result location; do not infer coefficients or individual peer-type coverage. Baseline linear-regression context supports OLS. Footnote16 raw-return check is not proven identical to the borrowed-model tests in §6.2: retain the distinct location/implementation while flagging potential overlap, rather than declaring it already covered. Source: p204 footnote16; §6.2 p211 lines666–668,1185–1189."
+    "O2166": "Keep raw and industry-adjusted return outcome variants together at this result location; do not infer coefficients or individual peer-type coverage. Baseline linear-regression context supports OLS. Footnote16 raw-return check is not proven identical to the borrowed-model tests in §6.2: retain the distinct location/implementation while flagging potential overlap, rather than declaring it already covered. Source: p204 footnote16; §6.2 p211 lines666–668,1185–1189.",
+    "A2167": "CN4YZYPH",
+    "B2167": "h21",
+    "I2167": "1",
+    "J2167": "unknown",
+    "K2167": "0",
+    "L2167": "0",
+    "M2167": "unknown",
+    "N2167": "Peer-policy effect using change in reporting-firm market leverage rather than its level (footnote24). Peer-type-specific coverage not enumerated; whether the peer-policy regressor is a level or change is unresolved.",
+    "O2167": "Explicit implemented robustness with similar results. Do not infer whether peer policy regressor is level or change, or the exact FE specification. Retain one minimum implemented record, without asserting separate compensation and bonus result cells. No numeric estimate is available. Source: p211 footnote24 lines1233–1236."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56445,7 +56454,11 @@
     "A5053": "CN4YZYPH",
     "B5053": "h20",
     "C5053": "hy2",
-    "K5053": "Unadjusted (raw) annual stock return as dependent variable in the baseline-model robustness, p204 footnote16. Distinct from DGTW/industry-adjusted returns; coefficients and peer-type-specific coverage unreported. Not assumed identical to the borrowed-model analyses of §6.2."
+    "K5053": "Unadjusted (raw) annual stock return as dependent variable in the baseline-model robustness, p204 footnote16. Distinct from DGTW/industry-adjusted returns; coefficients and peer-type-specific coverage unreported. Not assumed identical to the borrowed-model analyses of §6.2.",
+    "A5054": "CN4YZYPH",
+    "B5054": "h21",
+    "C5054": "hy1",
+    "K5054": "Change in reporting-firm market-based leverage; timing and treatment level/change specification unresolved. Untabulated result: peer-type coverage and estimate mapping unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

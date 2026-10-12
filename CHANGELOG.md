@@ -170604,3 +170604,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:14:54.940466+00:00 — Review CN4YZYPH h21: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5054",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5054",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5054",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5054",
+    "before": null,
+    "after": "Change in reporting-firm market-based leverage; timing and treatment level/change specification unresolved. Untabulated result: peer-type coverage and estimate mapping unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2167",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2167",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2167",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2167",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2167",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2167",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2167",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2167",
+    "before": null,
+    "after": "Peer-policy effect using change in reporting-firm market leverage rather than its level (footnote24). Peer-type-specific coverage not enumerated; whether the peer-policy regressor is a level or change is unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2167",
+    "before": null,
+    "after": "Explicit implemented robustness with similar results. Do not infer whether peer policy regressor is level or change, or the exact FE specification. Retain one minimum implemented record, without asserting separate compensation and bonus result cells. No numeric estimate is available. Source: p211 footnote24 lines1233–1236."
+  }
+]
+```
