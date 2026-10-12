@@ -20771,7 +20771,16 @@
     "L2196": "0",
     "M2196": "unknown",
     "N2196": "Untabulated §3.3.2 replication: disaster-zone firms versus firms in the rest of the United States; disaster-related sales-growth comparison in full, non-locally-held, and locally-held treatment samples. Binary disaster-zone exposure; implemented estimator and exact event window unresolved in accessible text.",
-    "O2196": "Retain the implemented performance replication, but main text says replicate the results of DM and repeat these tests, not that Equation (3) or its estimator is reused. Conventional DiD is plausible, not uniquely established; code method and IV status unknown pending implementation evidence. Minimum confirmed outcome is sales growth; do not infer an ROA grid, coefficients, or prior-study implementation. Distinct comparison population from s9. The $46m median and $354m mean market capitalizations describe firms, not the focal sales-growth outcome. Source: pp1175–1176; L1872–1933."
+    "O2196": "Retain the implemented performance replication, but main text says replicate the results of DM and repeat these tests, not that Equation (3) or its estimator is reused. Conventional DiD is plausible, not uniquely established; code method and IV status unknown pending implementation evidence. Minimum confirmed outcome is sales growth; do not infer an ROA grid, coefficients, or prior-study implementation. Distinct comparison population from s9. The $46m median and $354m mean market capitalizations describe firms, not the focal sales-growth outcome. Source: pp1175–1176; L1872–1933.",
+    "A2197": "DPFRSKRY",
+    "B2197": "h3",
+    "I2197": "1",
+    "J2197": "DiD_conventional",
+    "K2197": "1",
+    "L2197": "0",
+    "M2197": "n/a",
+    "N2197": "§3.4.1 damage heterogeneity: binary close versus far fund disaster exposure on portfolio weight, estimated separately above/below median total disaster-county damage and above/below median per-capita damage for hurricanes/tornadoes/wildfires.",
+    "O2197": "Implemented baseline interaction CLOSE×POST is explicitly reported qualitatively as larger for more damage-intensive disasters. These are conditional disaster effects, not a separately identified causal coefficient on continuous property damage. Minimum implemented family from main text; unavailable appendix table/FE coefficients unknown. Source: p1179 §3.4.1; L2129–2139."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -57052,7 +57061,14 @@
     "H5087": "0",
     "I5087": "unknown",
     "J5087": "none",
-    "K5087": "Sales growth: percentage change in quarterly firm sales relative to same fiscal quarter in previous year; disaster-zone versus rest-of-US pre/post contrast. No reported evidence establishes exact-zero mass in the estimation sample."
+    "K5087": "Sales growth: percentage change in quarterly firm sales relative to same fiscal quarter in previous year; disaster-zone versus rest-of-US pre/post contrast. No reported evidence establishes exact-zero mass in the estimation sample.",
+    "A5088": "DPFRSKRY",
+    "B5088": "h3",
+    "C5088": "hy1",
+    "H5088": "0",
+    "I5088": "unknown",
+    "J5088": "none",
+    "K5088": "Portfolio weight of disaster-zone stock s in mutual fund m at quarter end, percent of fund portfolio. No reported evidence establishes exact-zero mass in the estimation sample."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
