@@ -133830,3 +133830,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:39:55.250660+00:00 — Review 9XGMQWX5 s7: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4896",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4896",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4896",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4896",
+    "before": null,
+    "after": "Indicator that the portfolio company has at least one female founder; alternative outcome in §4.3 pp.14–16, no coefficients/table provided in inspected sources."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K736",
+    "before": null,
+    "after": "Female Founder Ratio: fraction of the portfolio company founding team who are women. Final Table13 caption and pp.14–16 establish this despite column headers saying Female Hired Ratio. Zero mass is not established specifically for these regression samples; do not infer it from the outcome name."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I253",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J253",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K253",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L253",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M253",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N253",
+    "before": null,
+    "after": "Table13(1)–(2): firm-level daughter ratio on the fraction of female founders of portfolio companies, conditional on children count. Individual-partner dose is split to h9. Female VC remains an included control, not an additional retained causal treatment. Related any-female-founder indicator alternative is reported only in prose."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O253",
+    "before": null,
+    "after": "Substantive alternative-channel test, not diagnostic-only first stage. Column header says Female Hired Ratio, but caption and prose clearly define Female Founder Ratio. Preserve discrepancy; do not reinterpret as an IV first stage. The Female VC coefficient is described as significantly related to founders and supports a conditional possible channel, not a separately causally interpreted intervention on the investing VC’s gender. Do not infer that hiring a female partner is the same treatment as the identity of the individual deal-maker. Drop unwritten h10 only; retain both daughters settings and their any-female-founder outcomes. Source: Table13 p.15; §4.3 pp.14–16."
+  }
+]
+```
