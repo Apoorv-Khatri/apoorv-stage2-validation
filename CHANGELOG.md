@@ -167637,3 +167637,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:07:24.070968+00:00 — Review CN4YZYPH s9: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I318",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J318",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K318",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L318",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M318",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O318",
+    "before": null,
+    "after": "Causal-intention gate passes: authors interpret this focal peer-quality/policy contrast as affecting the stated outcome. Year/industry dummy controls alone have no separately argued identifying role; retain OLS classification, not HDFE. Footnote21 reports board-independence partitions; footnote22 alternative top-tercile busy/co-opted partitions. Group as routine subsample variants with continuous RPQ, not binary treatments. Source: Table5 A/B cols1–2 pp208–209; lines916–1049."
+  }
+]
+```
