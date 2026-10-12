@@ -326127,3 +326127,198 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:03:43.168535+00:00 — Review EYWPN7YT s8: source-audited coding and linked comparisons
+
+31 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K198",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L198",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M198",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N198",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O198",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P198",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q198",
+    "before": null,
+    "after": "§2.2.7 PDF24: unsigned informativeness declines11%, from0.071 for average treated stock before inclusion to0.063 in inclusion quarter; Table5 col1 PDF25 coefficient -0.765 (x100 display). Table1 PDF12 instead reports treated mean0.036. Preserve prose0.071; no verified explanation for discrepancy."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R198",
+    "before": null,
+    "after": "Prose versus Table1 mean discrepancy; original explanation that0.071 is regression-sample-specific is unsupported. Eligibility/verbal/division remain1; alignment unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H972",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H973",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H976",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I972",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I973",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I974",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I975",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I976",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J972",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J973",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J974",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J975",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J976",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K974",
+    "before": null,
+    "after": "Pooled recommendation-change price impact: average three-day FF3-adjusted return taking a LONG position for upgrades and a SHORT position for downgrades, then averaging within firm/fiscal quarter. Not raw signed returns pooled without direction adjustment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K976",
+    "before": null,
+    "after": "Downgrade price impact uses a SHORT position, i.e. sign-adjusted three-day FF3 abnormal return; pooled measure combines long upgrades and short downgrades (AppendixB PDF43)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J373",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M373",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O373",
+    "before": null,
+    "after": "Implemented Cengiz et al. (2019) stacked-regression estimator: cohort-specific datasets, clean future-treated controls, nine-quarter window, explicitly addressing time-varying effects and treatment-effect heterogeneity (§1.2–1.3, PDF9–10). This is not modern merely because adoption is staggered. Administrative randomized rollout is analyzed with DD, not a separately implemented experimental ITT. Matching is preprocessing; no IV or separate identifying-FE/OLS setting. The prose baseline 0.071 conflicts with Table1 mean 0.036. Do not assume an undocumented regression-sample explanation. Purged-forecast robustness is h15. Source: Table5 cols1–5 PDF25, §2.2.7 PDF24."
+  }
+]
+```
