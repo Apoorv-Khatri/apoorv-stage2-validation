@@ -328329,3 +328329,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:07:17.780854+00:00 — Review EYWPN7YT h7: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5924",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5924",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5924",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5924",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5924",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5924",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5924",
+    "before": null,
+    "after": "Forecast timing: average days between forecasts and earnings announcement. AppendixB defines stock-level and analyst-stock measures and short/long horizons, but exact IA.4 unit/horizon grid is unverified; retain a single minimum family rather than invent all cells."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2336",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2336",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2336",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2336",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2336",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2336",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2336",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2336",
+    "before": null,
+    "after": "EDGAR access effects on forecast timing, used to test whether later forecasts explain optimism/accuracy changes; no change found."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2336",
+    "before": null,
+    "after": "Internet Appendix not retrieved. Main-text sentence establishes an implemented substantive analysis, but exact appendix specification, coefficient grid and additional outcomes remain unverified; do not infer unseen cells. Substantive timing mechanism, not a statistical balance test. Forecast-day definition is available, but estimator is not specified in main; method unknown. Source: §2.2.6 PDF23, referenced IA.4; AppendixB #days PDF41,44."
+  }
+]
+```

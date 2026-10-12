@@ -22199,7 +22199,16 @@
     "L2335": "0",
     "M2335": "unknown",
     "N2335": "EDGAR access effects on proportion of analysts whose forecasts exceed realized earnings (stock level) and indicator forecast exceeds realized earnings (analyst-stock level); outlier robustness.",
-    "O2335": "Internet Appendix not retrieved. Main-text sentence establishes an implemented substantive analysis, but exact appendix specification, coefficient grid and additional outcomes remain unverified; do not infer unseen cells. Main gives fraction/probability outcomes and4–8pp reductions but does not establish linear probability versus nonlinear implementation; method unknown. Source: PDF18 fn24, cited IA.1 (label conflicts with PDF10 fn18 propensity-score IA.1)."
+    "O2335": "Internet Appendix not retrieved. Main-text sentence establishes an implemented substantive analysis, but exact appendix specification, coefficient grid and additional outcomes remain unverified; do not infer unseen cells. Main gives fraction/probability outcomes and4–8pp reductions but does not establish linear probability versus nonlinear implementation; method unknown. Source: PDF18 fn24, cited IA.1 (label conflicts with PDF10 fn18 propensity-score IA.1).",
+    "A2336": "EYWPN7YT",
+    "B2336": "h7",
+    "I2336": "1",
+    "J2336": "unknown",
+    "K2336": "1",
+    "L2336": "0",
+    "M2336": "unknown",
+    "N2336": "EDGAR access effects on forecast timing, used to test whether later forecasts explain optimism/accuracy changes; no change found.",
+    "O2336": "Internet Appendix not retrieved. Main-text sentence establishes an implemented substantive analysis, but exact appendix specification, coefficient grid and additional outcomes remain unverified; do not infer unseen cells. Substantive timing mechanism, not a statistical balance test. Forecast-day definition is available, but estimator is not specified in main; method unknown. Source: §2.2.6 PDF23, referenced IA.4; AppendixB #days PDF41,44."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -62612,7 +62621,14 @@
     "H5923": "1",
     "I5923": "1",
     "J5923": "none",
-    "K5923": "Indicator that analyst forecast exceeds subsequent realized earnings, analyst-stock level; horizons and aggregation unverified."
+    "K5923": "Indicator that analyst forecast exceeds subsequent realized earnings, analyst-stock level; horizons and aggregation unverified.",
+    "A5924": "EYWPN7YT",
+    "B5924": "h7",
+    "C5924": "hy1",
+    "H5924": "0",
+    "I5924": "unknown",
+    "J5924": "none",
+    "K5924": "Forecast timing: average days between forecasts and earnings announcement. AppendixB defines stock-level and analyst-stock measures and short/long horizons, but exact IA.4 unit/horizon grid is unverified; retain a single minimum family rather than invent all cells."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
