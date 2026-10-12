@@ -137904,3 +137904,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:49:49.701717+00:00 — Review AAT34438 s4: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H757",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I757",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J757",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K757",
+    "before": null,
+    "after": "Event-minus-typical price nonsynchronicity, with nonsynchronicity=1−R² from market and three-digit SIC industry-return regression. Event[T−21,T−1]; prose p2212 typical[T−252,T−64], Table7 caption p2213 typical[T−252,T−1]. Baseline period genuinely inconsistent; not silently resolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I264",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J264",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K264",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L264",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M264",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N264",
+    "before": null,
+    "after": "Table7 continuous AT proxies instrumented separately with lagged log price; dependent variable event-minus-typical-period nonsynchronicity. Stacked earnings and RavenPack product-release, executive-turnover and M&A events; not separate causal interventions for each news category."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O264",
+    "before": null,
+    "after": "Single continuous lagged log-price instrument. Difference of outcome levels is not itself DiD. Main text baseline window[T−252,T−64] conflicts with table caption[T−252,T−1]; keep unresolved. Source: §6.1 Eq10, Table7 pp2210–2214. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
+  }
+]
+```
