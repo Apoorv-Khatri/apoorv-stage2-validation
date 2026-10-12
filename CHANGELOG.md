@@ -124455,3 +124455,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:28:58.457562+00:00 — Review 96H6UQNF h13: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2126",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2126",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2126",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2126",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2126",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2126",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2126",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2126",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2126",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2126",
+    "before": null,
+    "after": "AppendixB2 p.42, visually checked: four industries with changed earnings responses after injury/illness adjustment (aerospace/defense, machinery, leisure products, textiles/apparel/luxury goods); economic magnitudes “averaging25.9 basis points of mean earnings for a doubling of the extreme5% tails.” Mean level, exact industry-quarter set and weights not numerically specified."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2126",
+    "before": null,
+    "after": "Eligible “of mean earnings” normalization. Alignment unknown: no mean construction establishing same target, transformation, period, conditioning and weights. Separate nearby “about70% of overall economic effect” is effect-to-effect, NOT an additional outcome-level comparison. Preserve25.9 without reverse-engineering mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4777",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4777",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4777",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4777",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4777",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4777",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4777",
+    "before": null,
+    "after": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2034",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2034",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2034",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2034",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2034",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2034",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2034",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2034",
+    "before": null,
+    "after": "AppendixB2: temperature effects on EPS moderated by firm-level sales-weighted work injury/illness incidence; BLS SOII annual industry-state rates 1996–2014 matched to establishments, included in levels and interacted with temperature polynomial coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2034",
+    "before": null,
+    "after": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Supporting exploratory labor-productivity mechanism, not injury incidence as dependent variable. Source reports four industries,25.9 basis points of mean earnings for tail doubling and about70% of overall effect. Only the explicit mean-earnings comparison qualifies; the70% effect-to-effect share does not. Footnote20 discloses coarse annual state-industry data. Publisher Internet Appendix Table IA1 caption (printed p.21/PDF22) specifies joint significance tests of moderator × Chebyshev interaction terms, with the moderator also included in levels. These are not Wald/local-Wald treatment-effect estimators, and the printed baseline coefficient block is not a table of each augmented specification’s full coefficients. Several reported Wald values are negative with p=1.000; retain the source inconsistency without treating those entries as valid conventional nonnegative Wald statistics or repairing them. Source: AppendixB2 p.42; TableIA1 Wald(illness/injuries).. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```

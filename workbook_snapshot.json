@@ -18668,7 +18668,16 @@
     "L2033": "0",
     "M2033": "n/a",
     "N2033": "AppendixB1: temperature effects on earnings moderated by firm-level electricity costs; utility commercial/industrial dollars per customer matched by ZIP/state and sales-weighted across establishments, added in levels and interacted with temperature polynomials.",
-    "O2033": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Supporting exploratory heating/cooling channel, not electricity expenditure as outcome and not exogenous intervention on electricity prices. Eight affected industries; printed14.1 bp impact and about one third of overall temperature effect. That denominator is another estimated effect, not an eligible other_level benchmark. Publisher Internet Appendix Table IA1 caption (printed p.21/PDF22) specifies joint significance tests of moderator × Chebyshev interaction terms, with the moderator also included in levels. These are not Wald/local-Wald treatment-effect estimators, and the printed baseline coefficient block is not a table of each augmented specification’s full coefficients. Several reported Wald values are negative with p=1.000; retain the source inconsistency without treating those entries as valid conventional nonnegative Wald statistics or repairing them. Source: AppendixB1 p.42; TableIA1 Wald(electricity).. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+    "O2033": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Supporting exploratory heating/cooling channel, not electricity expenditure as outcome and not exogenous intervention on electricity prices. Eight affected industries; printed14.1 bp impact and about one third of overall temperature effect. That denominator is another estimated effect, not an eligible other_level benchmark. Publisher Internet Appendix Table IA1 caption (printed p.21/PDF22) specifies joint significance tests of moderator × Chebyshev interaction terms, with the moderator also included in levels. These are not Wald/local-Wald treatment-effect estimators, and the printed baseline coefficient block is not a table of each augmented specification’s full coefficients. Several reported Wald values are negative with p=1.000; retain the source inconsistency without treating those entries as valid conventional nonnegative Wald statistics or repairing them. Source: AppendixB1 p.42; TableIA1 Wald(electricity).. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002.",
+    "A2034": "96H6UQNF",
+    "B2034": "h13",
+    "I2034": "1",
+    "J2034": "FE",
+    "K2034": "0",
+    "L2034": "0",
+    "M2034": "n/a",
+    "N2034": "AppendixB2: temperature effects on EPS moderated by firm-level sales-weighted work injury/illness incidence; BLS SOII annual industry-state rates 1996–2014 matched to establishments, included in levels and interacted with temperature polynomial coefficients.",
+    "O2034": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Supporting exploratory labor-productivity mechanism, not injury incidence as dependent variable. Source reports four industries,25.9 basis points of mean earnings for tail doubling and about70% of overall effect. Only the explicit mean-earnings comparison qualifies; the70% effect-to-effect share does not. Footnote20 discloses coarse annual state-industry data. Publisher Internet Appendix Table IA1 caption (printed p.21/PDF22) specifies joint significance tests of moderator × Chebyshev interaction terms, with the moderator also included in levels. These are not Wald/local-Wald treatment-effect estimators, and the printed baseline coefficient block is not a table of each augmented specification’s full coefficients. Several reported Wald values are negative with p=1.000; retain the source inconsistency without treating those entries as valid conventional nonnegative Wald statistics or repairing them. Source: AppendixB2 p.42; TableIA1 Wald(illness/injuries).. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52753,7 +52762,14 @@
     "H4776": "0",
     "I4776": "unknown",
     "J4776": "log1p",
-    "K4776": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established."
+    "K4776": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established.",
+    "A4777": "96H6UQNF",
+    "B4777": "h13",
+    "C4777": "hy1",
+    "H4777": "0",
+    "I4777": "unknown",
+    "J4777": "log1p",
+    "K4777": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -75532,7 +75548,18 @@
     "O2125": "1",
     "P2125": "unknown",
     "Q2125": "AppendixA2 p.38: four highlighted industry-calendar-quarter response changes after hedging adjustment; “averaging just 6.93 basis points of mean earnings for a doubling of the extreme 5% tails.” Prose names trading companies/distributors Q1, leisure products Q1, personal products Q2, electric utilities Q2. Mean earnings numerical level and weights are unstated.",
-    "R2125": "“Of mean earnings” is a stated normalization, unlike mere basis-point units. Alignment unknown: no untreated/zero-hedging target mean or averaging construction reported. Preserve source subgroup list despite electric-utilities quarter conflict with IA1; do not silently reassign6.93 to another quarter."
+    "R2125": "“Of mean earnings” is a stated normalization, unlike mere basis-point units. Alignment unknown: no untreated/zero-hedging target mean or averaging construction reported. Preserve source subgroup list despite electric-utilities quarter conflict with IA1; do not silently reassign6.93 to another quarter.",
+    "A2126": "96H6UQNF",
+    "B2126": "h13",
+    "C2126": "hc1",
+    "K2126": "1",
+    "L2126": "hy1",
+    "M2126": "outcome_mean",
+    "N2126": "1",
+    "O2126": "1",
+    "P2126": "unknown",
+    "Q2126": "AppendixB2 p.42, visually checked: four industries with changed earnings responses after injury/illness adjustment (aerospace/defense, machinery, leisure products, textiles/apparel/luxury goods); economic magnitudes “averaging25.9 basis points of mean earnings for a doubling of the extreme5% tails.” Mean level, exact industry-quarter set and weights not numerically specified.",
+    "R2126": "Eligible “of mean earnings” normalization. Alignment unknown: no mean construction establishing same target, transformation, period, conditioning and weights. Separate nearby “about70% of overall economic effect” is effect-to-effect, NOT an additional outcome-level comparison. Preserve25.9 without reverse-engineering mean."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
