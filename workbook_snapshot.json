@@ -19997,7 +19997,16 @@
     "L2139": "0",
     "M2139": "n/a",
     "N2139": "Table5 col8: LitigationRisk (indicator for high-litigation-risk primary SIC industry) affects binary voluntary disclosure; coefficient −6.3247, linear regression with loan controls.",
-    "O2139": "Distinct substantive determinant split from s4. Broad causal-intention inclusion, not a claim of credible exogenous assignment. No identifying FE established in Eq2/prose despite generic caption. GrowthDispersion is a treatment SD measure, not an outcome-SD benchmark. Footnote16 also refers broadly to year effects in all specifications; Table5 implementation is therefore unresolved rather than verified to contain no dummy controls. OLS is a qualified Eq2-based classification. Source: Table5 col8, pp3090–3092."
+    "O2139": "Distinct substantive determinant split from s4. Broad causal-intention inclusion, not a claim of credible exogenous assignment. No identifying FE established in Eq2/prose despite generic caption. GrowthDispersion is a treatment SD measure, not an outcome-SD benchmark. Footnote16 also refers broadly to year effects in all specifications; Table5 implementation is therefore unresolved rather than verified to contain no dummy controls. OLS is a qualified Eq2-based classification. Source: Table5 col8, pp3090–3092.",
+    "A2140": "BHYG5F75",
+    "B2140": "h11",
+    "I2140": "1",
+    "J2140": "FE",
+    "K2140": "1",
+    "L2140": "0",
+    "M2140": "n/a",
+    "N2140": "Table6 cols1–2: 1[Time to IPO≤2] binary event-time-category contrast on disclosure, conditioning on the other category indicator; reference is omitted more-distant pre-IPO category. Year FE with/without loan controls.",
+    "O2140": "Not DiD: no untreated/post comparison or parallel-trends design. Retain a substantive net-cost mechanism result rather than diagnostic-only first stage. Table row gives3≤Time to IPO<6, caption says3 and4 years, prose says next3 years; preserve mismatch and use printed row definition. Caption log-time definition versus year-based dummy labels also unresolved. Source: Table6 pp3093–3094 lines1204–1265; rendered page3094.png."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55759,7 +55768,14 @@
     "H5008": "1",
     "I5008": "1",
     "J5008": "none",
-    "K5008": "Disclose: one if at least one eligible financial metric voluntarily disclosed in loan, zero otherwise; not a sample disclosure rate. Main sample rate5.75%, IPO sample9%."
+    "K5008": "Disclose: one if at least one eligible financial metric voluntarily disclosed in loan, zero otherwise; not a sample disclosure rate. Main sample rate5.75%, IPO sample9%.",
+    "A5009": "BHYG5F75",
+    "B5009": "h11",
+    "C5009": "hy1",
+    "H5009": "1",
+    "I5009": "1",
+    "J5009": "none",
+    "K5009": "Disclose: one if at least one eligible financial metric voluntarily disclosed in loan, zero otherwise; not a sample disclosure rate. Main sample rate5.75%, IPO sample9%."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -82094,7 +82110,18 @@
     "O2436": "0",
     "P2436": "0",
     "Q2436": "Table3C col1 p3087 lines811–823: focal 0.0531 nonbank institutions (rounded0.05); benchmark 0.01 institutions per average syndicate.",
-    "R2436": "Explicit author comparison qualifies on underlying outcome, but estimated dependent variable is next-minus-current change while benchmark is level; alignment0. Do not relabel benchmark as mean change. Prose says marginal increase grows with FE, but printed coefficients fall0.0531→0.0482→0.0478→0.0366; do not repair or infer extra comparisons. Rounded0.05 could also cover cols2–3, but discussion baseline attribution supports col1; ambiguity logged. Alignment0 uses the literal reported change-outcome versus level-benchmark convention, not a dimensional-unit incompatibility. Under a future-level-effect interpretation, untreated population and conditioning remain unresolved."
+    "R2436": "Explicit author comparison qualifies on underlying outcome, but estimated dependent variable is next-minus-current change while benchmark is level; alignment0. Do not relabel benchmark as mean change. Prose says marginal increase grows with FE, but printed coefficients fall0.0531→0.0482→0.0478→0.0366; do not repair or infer extra comparisons. Rounded0.05 could also cover cols2–3, but discussion baseline attribution supports col1; ambiguity logged. Alignment0 uses the literal reported change-outcome versus level-benchmark convention, not a dimensional-unit incompatibility. Under a future-level-effect interpretation, untreated population and conditioning remain unresolved.",
+    "A2437": "BHYG5F75",
+    "B2437": "h11",
+    "C2437": "hc1",
+    "K2437": "1",
+    "L2437": "hy1",
+    "M2437": "outcome_mean",
+    "N2437": "1",
+    "O2437": "1",
+    "P2437": "unknown",
+    "Q2437": "Table6 col1 p3093 lines1204–1215: focal 3.6393pp ≤2years; benchmark IPO-subsample disclosure mean9%; joint prose says30%–40% increases.",
+    "R2437": "Distinct categorical contrasts; mean pools event-time groups rather than establishes relevant untreated/reference-category mean. Exact regression target unspecified; unknown alignment. No per-year interpretation of log time imported."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
