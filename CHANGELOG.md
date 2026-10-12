@@ -133218,3 +133218,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:38:09.325128+00:00 — Review 9XGMQWX5 s1: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2152",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2152",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2152",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K145",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2152",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L145",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2152",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M145",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2152",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N145",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2152",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O145",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2152",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P145",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2152",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q145",
+    "before": null,
+    "after": "Final p.9 Table7(4): Avg Daughters (Senior)=0.051; one more daughter on average among senior partners, holding children fixed, raises female-hire probability by 5.1 percentage points. Prose compares this with the 9.9% overall female-hire rate and calls it a 50% increase. Benchmark is 1645 observed hires (p.5 and A2); focal column N=1546."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2152",
+    "before": null,
+    "after": "Final introduction p.2: “relative effect of having a daughter rather than a son for all senior partners” translates to4.4% higher female-hiring probability, compared with9.9% baseline, described as45% increase. This is a distinct0.044 effect from Table7(4)’s0.051. Table7(5) senior and Table7(2) all-partner coefficients both print0.044; introduction explicitly says senior but gives no column."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R145",
+    "before": null,
+    "after": "A continuous regression-dose target is not explicitly defined; the overall observed hire mean is not established as the untreated/son-counterfactual mean with the coefficient’s weights. Preserve authors’ rounded 50%, do not replace by a calculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2152",
+    "before": null,
+    "after": "Retain distinct reported estimate–outcome–benchmark triple in s1 without silently changing intro4.4 to5.1. Exact column attribution is unresolved within the same setting. Overall observed hire mean is not established as the relevant untreated target mean. Treatment SD0.90 in footnote is not outcome-SD evidence."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K730",
+    "before": null,
+    "after": "Model zero-mass=0 is incorrect: the untransformed female-hire indicator includes male hires coded0 (Table7 and descriptive hire frequencies). Detailed Human outcome labels may remain blank because treatment is nonbinary."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I247",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J247",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K247",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L247",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M247",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N247",
+    "before": null,
+    "after": "Table7: average daughters among existing partners, conditional on average children, on female-hire probability; all-partner and senior/junior specifications. Table8(1) repeats Table7(4)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O247",
+    "before": null,
+    "after": "Conditional on total children, daughter composition is treated as exogenous under absence of sex selection and gender-dependent stopping. This is a natural-experiment regression, not researcher-randomized RCT assignment. Main Appendix A1 is a stopping-rule diagnostic. The identification argument is quasi-random child gender conditional on total children (pp.7–8), not identification by the dummy battery. Year and, for deals, industry/round/country indicators are listed as controls. No separate author argument establishes identifying FE absorption. OLS code does not mean those indicators are absent; do not mechanically code FE/HDFE from their count. Source: Table7 pp.9–10; Eq.1 pp.7–8."
+  }
+]
+```
