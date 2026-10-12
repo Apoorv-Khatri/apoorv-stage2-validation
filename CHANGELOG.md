@@ -175608,3 +175608,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:48:56.065449+00:00 — Review DPFRSKRY h5: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5090",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5090",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5090",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5090",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5090",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5090",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5090",
+    "before": null,
+    "after": "Portfolio weight of stock s in the relevant disaster zone in mutual fund m at quarter end, percent of fund portfolio. No reported evidence establishes exact-zero mass in the estimation sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2199",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2199",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2199",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2199",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2199",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2199",
+    "before": null,
+    "after": "§3.4.3 other disasters: binary close versus far post-disaster exposure on portfolio weight, examined separately for remaining disaster types beyond hurricanes/tornadoes/wildfires/floods."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2199",
+    "before": null,
+    "after": "Main text establishes separately examined types and CLOSE×POST results; group routine disaster-type samples in this reported family. Only droughts and winter weather have significant interaction estimates. Other types from Table1 are wind, coastal, landslide, severe storm/thunderstorm, hail, tsunami/seiche, lightning, fog, avalanche, heat. No unseen coefficient/grid inferred. Source: p1179 §3.4.3/Table1 p1155; L2149–2157,574–591."
+  }
+]
+```

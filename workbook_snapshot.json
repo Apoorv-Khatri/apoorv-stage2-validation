@@ -20789,7 +20789,16 @@
     "L2198": "0",
     "M2198": "n/a",
     "N2198": "§3.1.1/§3.4.2 floods: binary close versus far post-disaster exposure on portfolio weight for floods, including above-median total/per-capita damage flood subsamples and the pooled sample including floods with hurricanes/tornadoes/wildfires.",
-    "O2198": "Minimum flood robustness family, not an invented cross-product of models. Overall flood evidence weak; severe floods and pooled inclusion support relative underweighting. Same baseline DiD, not causal effect of damage as a continuous treatment. Source: pp1162/1179; L937–947,2141–2147."
+    "O2198": "Minimum flood robustness family, not an invented cross-product of models. Overall flood evidence weak; severe floods and pooled inclusion support relative underweighting. Same baseline DiD, not causal effect of damage as a continuous treatment. Source: pp1162/1179; L937–947,2141–2147.",
+    "A2199": "DPFRSKRY",
+    "B2199": "h5",
+    "I2199": "1",
+    "J2199": "DiD_conventional",
+    "K2199": "1",
+    "L2199": "0",
+    "M2199": "n/a",
+    "N2199": "§3.4.3 other disasters: binary close versus far post-disaster exposure on portfolio weight, examined separately for remaining disaster types beyond hurricanes/tornadoes/wildfires/floods.",
+    "O2199": "Main text establishes separately examined types and CLOSE×POST results; group routine disaster-type samples in this reported family. Only droughts and winter weather have significant interaction estimates. Other types from Table1 are wind, coastal, landslide, severe storm/thunderstorm, hail, tsunami/seiche, lightning, fog, avalanche, heat. No unseen coefficient/grid inferred. Source: p1179 §3.4.3/Table1 p1155; L2149–2157,574–591."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -57084,7 +57093,14 @@
     "H5089": "0",
     "I5089": "unknown",
     "J5089": "none",
-    "K5089": "Portfolio weight of flood-zone/disaster-zone stock s in mutual fund m at quarter end, percent of fund portfolio. No reported evidence establishes exact-zero mass in the estimation sample."
+    "K5089": "Portfolio weight of flood-zone/disaster-zone stock s in mutual fund m at quarter end, percent of fund portfolio. No reported evidence establishes exact-zero mass in the estimation sample.",
+    "A5090": "DPFRSKRY",
+    "B5090": "h5",
+    "C5090": "hy1",
+    "H5090": "0",
+    "I5090": "unknown",
+    "J5090": "none",
+    "K5090": "Portfolio weight of stock s in the relevant disaster zone in mutual fund m at quarter end, percent of fund portfolio. No reported evidence establishes exact-zero mass in the estimation sample."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
