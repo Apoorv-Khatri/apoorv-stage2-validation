@@ -176406,3 +176406,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T10:10:05.310206+00:00 — Review ED5IDPT4 s2: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K173",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R173",
+    "before": null,
+    "after": "Reject because parent s2 is diagnostic only, not because the quotation is fabricated. Paper verbally compares conditional levels of fitted CPIE; this is descriptive model behavior, not an eligible causal estimate. If causal scope were adjudicated differently, the comparator is a conditional mean rather than automatically other_level just because reported for the median stock; target/weight alignment would need separate review. No author division is present. Do not confuse this group contrast with an unlinked parameter-distribution mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H901",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I901",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J901",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K901",
+    "before": null,
+    "after": "spurious within causal-setting inventory: parent s2 is a diagnostic proxy-validity regression, not a retained causal setting. Original CPIE definition is preserved; probability support or rounded 0/1 values do not themselves establish empirical zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I347",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O347",
+    "before": null,
+    "after": "Reject as diagnostic-only APIN proxy-validity regression, not an empirical causal response to turnover or to assigning a heuristic. Eq4 is binary 0/1 over four alternating turnover intervals, not simply lower versus higher noise regime. Main regressions are stock-level; separate stock-year diagnostic results occur in the author-version appendix. The stronger causal interpretation in the model extraction is not in the empirical claim. Source: §3.2/Eq4/Table5 p807, main.txt L886–981; §3.2 pp804–806 L740–882."
+  }
+]
+```
