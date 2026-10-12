@@ -149802,3 +149802,4068 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:03:05.904595+00:00 — Review ANHCKZYX h5: source-audited coding and linked comparisons
+
+676 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2246",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2247",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2248",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2249",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2250",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2251",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2252",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2253",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2254",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2255",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2256",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2257",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2258",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2259",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2260",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2261",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2262",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2263",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2264",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2265",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2266",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2267",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2268",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2269",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2270",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2271",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2272",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2273",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2274",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2275",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2276",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2277",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2278",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2279",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2280",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2281",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2282",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2283",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2284",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2285",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2286",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2287",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2288",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2289",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2290",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2291",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2292",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2293",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2294",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2295",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2296",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2297",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2298",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2299",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2300",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2301",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2302",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2303",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2304",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2305",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2246",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2247",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2248",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2249",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2250",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2251",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2252",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2253",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2254",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2255",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2256",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2257",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2258",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2259",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2260",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2261",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2262",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2263",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2264",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2265",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2266",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2267",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2268",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2269",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2270",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2271",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2272",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2273",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2274",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2275",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2276",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2277",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2278",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2279",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2280",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2281",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2282",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2283",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2284",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2285",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2286",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2287",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2288",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2289",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2290",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2291",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2292",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2293",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2294",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2295",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2296",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2297",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2298",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2299",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2300",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2301",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2302",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2303",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2304",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2305",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2246",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2247",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2248",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2249",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2250",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2251",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2252",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2253",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2254",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2255",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2256",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2257",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2258",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2259",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2260",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2261",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2262",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2263",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2264",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2265",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2266",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2267",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2268",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2269",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2270",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2271",
+    "before": null,
+    "after": "hc26"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2272",
+    "before": null,
+    "after": "hc27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2273",
+    "before": null,
+    "after": "hc28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2274",
+    "before": null,
+    "after": "hc29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2275",
+    "before": null,
+    "after": "hc30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2276",
+    "before": null,
+    "after": "hc31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2277",
+    "before": null,
+    "after": "hc32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2278",
+    "before": null,
+    "after": "hc33"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2279",
+    "before": null,
+    "after": "hc34"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2280",
+    "before": null,
+    "after": "hc35"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2281",
+    "before": null,
+    "after": "hc36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2282",
+    "before": null,
+    "after": "hc37"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2283",
+    "before": null,
+    "after": "hc38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2284",
+    "before": null,
+    "after": "hc39"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2285",
+    "before": null,
+    "after": "hc40"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2286",
+    "before": null,
+    "after": "hc41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2287",
+    "before": null,
+    "after": "hc42"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2288",
+    "before": null,
+    "after": "hc43"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2289",
+    "before": null,
+    "after": "hc44"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2290",
+    "before": null,
+    "after": "hc45"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2291",
+    "before": null,
+    "after": "hc46"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2292",
+    "before": null,
+    "after": "hc47"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2293",
+    "before": null,
+    "after": "hc48"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2294",
+    "before": null,
+    "after": "hc49"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2295",
+    "before": null,
+    "after": "hc50"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2296",
+    "before": null,
+    "after": "hc51"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2297",
+    "before": null,
+    "after": "hc52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2298",
+    "before": null,
+    "after": "hc53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2299",
+    "before": null,
+    "after": "hc54"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2300",
+    "before": null,
+    "after": "hc55"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2301",
+    "before": null,
+    "after": "hc56"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2302",
+    "before": null,
+    "after": "hc57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2303",
+    "before": null,
+    "after": "hc58"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2304",
+    "before": null,
+    "after": "hc59"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2305",
+    "before": null,
+    "after": "hc60"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2246",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2247",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2248",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2249",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2250",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2251",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2252",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2253",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2254",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2255",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2256",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2257",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2258",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2259",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2260",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2261",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2262",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2263",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2264",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2265",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2266",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2267",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2268",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2269",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2270",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2271",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2272",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2273",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2274",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2275",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2276",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2277",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2278",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2279",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2280",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2281",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2282",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2283",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2284",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2285",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2286",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2287",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2288",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2289",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2290",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2291",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2292",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2293",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2294",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2295",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2296",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2297",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2298",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2299",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2300",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2301",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2302",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2303",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2304",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2305",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2246",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2247",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2248",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2249",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2250",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2251",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2252",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2253",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2254",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2255",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2256",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2257",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2258",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2259",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2260",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2261",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2262",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2263",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2264",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2265",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2266",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2267",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2268",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2269",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2270",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2271",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2272",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2273",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2274",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2275",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2276",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2277",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2278",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2279",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2280",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2281",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2282",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2283",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2284",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2285",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2286",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2287",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2288",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2289",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2290",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2291",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2292",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2293",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2294",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2295",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2296",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2297",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2298",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2299",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2300",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2301",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2302",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2303",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2304",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2305",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2246",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2247",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2248",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2249",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2250",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2251",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2252",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2253",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2254",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2255",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2256",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2257",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2258",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2259",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2260",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2261",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2262",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2263",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2264",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2265",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2266",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2267",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2268",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2269",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2270",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2271",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2272",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2273",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2274",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2275",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2276",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2277",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2278",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2279",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2280",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2281",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2282",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2283",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2284",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2285",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2286",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2287",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2288",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2289",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2290",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2291",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2292",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2293",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2294",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2295",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2296",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2297",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2298",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2299",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2300",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2301",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2302",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2303",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2304",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2305",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2246",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2247",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2248",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2249",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2250",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2251",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2252",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2253",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2254",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2255",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2256",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2257",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2258",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2259",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2260",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2261",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2262",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2263",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2264",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2265",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2266",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2267",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2268",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2269",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2270",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2271",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2272",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2273",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2274",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2275",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2276",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2277",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2278",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2279",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2280",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2281",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2282",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2283",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2284",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2285",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2286",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2287",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2288",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2289",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2290",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2291",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2292",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2293",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2294",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2295",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2296",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2297",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2298",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2299",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2300",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2301",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2302",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2303",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2304",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2305",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2246",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2247",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2248",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2249",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2250",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2251",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2252",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2253",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2254",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2255",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2256",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2257",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2258",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2259",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2260",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2261",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2262",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2263",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2264",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2265",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2266",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2267",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2268",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2269",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2270",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2271",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2272",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2273",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2274",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2275",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2276",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2277",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2278",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2279",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2280",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2281",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2282",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2283",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2284",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2285",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2286",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2287",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2288",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2289",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2290",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2291",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2292",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2293",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2294",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2295",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2296",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2297",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2298",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2299",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2300",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2301",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2302",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2303",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2304",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2305",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2246",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2247",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2248",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2249",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2250",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2251",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2252",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2253",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2254",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2255",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2256",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2257",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2258",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2259",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2260",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2261",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2262",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2263",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2264",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2265",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2266",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2267",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2268",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2269",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2270",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2271",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2272",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2273",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2274",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2275",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2276",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2277",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2278",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2279",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2280",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2281",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2282",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2283",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2284",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2285",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2286",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2287",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2288",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2289",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2290",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2291",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2292",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2293",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2294",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2295",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2296",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2297",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2298",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2299",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2300",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2301",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2302",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2303",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2304",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2305",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2246",
+    "before": null,
+    "after": "Table10 p.1147, row Trend Eq., Rec./Exp. block; cached line1380. Printed Dif. (bad minus good)=-1.36 annualized percentage points; deliberately paired Exp. mean=9.66% annualized return. Benchmark is the observed Exp.-state mean of Trend Eq. portfolio returns, January1800–December2016. Other paired state: Rec.=8.30%, Exp.=9.66%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2247",
+    "before": null,
+    "after": "Table10 p.1147, row Trend Eq., Rec./Exp. block; cached line1380. Printed Dif. (bad minus good)=-1.36 annualized percentage points; deliberately paired Rec. mean=8.30% annualized return. Benchmark is the observed Rec.-state mean of Trend Eq. portfolio returns, January1800–December2016. Other paired state: Rec.=8.30%, Exp.=9.66%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2248",
+    "before": null,
+    "after": "Table10 p.1147, row Trend Bo., Rec./Exp. block; cached line1381. Printed Dif. (bad minus good)=0.62 annualized percentage points; deliberately paired Exp. mean=6.28% annualized return. Benchmark is the observed Exp.-state mean of Trend Bo. portfolio returns, January1800–December2016. Other paired state: Rec.=6.90%, Exp.=6.28%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2249",
+    "before": null,
+    "after": "Table10 p.1147, row Trend Bo., Rec./Exp. block; cached line1381. Printed Dif. (bad minus good)=0.62 annualized percentage points; deliberately paired Rec. mean=6.90% annualized return. Benchmark is the observed Rec.-state mean of Trend Bo. portfolio returns, January1800–December2016. Other paired state: Rec.=6.90%, Exp.=6.28%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2250",
+    "before": null,
+    "after": "Table10 p.1147, row Trend Co., Rec./Exp. block; cached line1382. Printed Dif. (bad minus good)=3.90 annualized percentage points; deliberately paired Exp. mean=4.98% annualized return. Benchmark is the observed Exp.-state mean of Trend Co. portfolio returns, January1800–December2016. Other paired state: Rec.=8.88%, Exp.=4.98%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2251",
+    "before": null,
+    "after": "Table10 p.1147, row Trend Co., Rec./Exp. block; cached line1382. Printed Dif. (bad minus good)=3.90 annualized percentage points; deliberately paired Rec. mean=8.88% annualized return. Benchmark is the observed Rec.-state mean of Trend Co. portfolio returns, January1800–December2016. Other paired state: Rec.=8.88%, Exp.=4.98%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2252",
+    "before": null,
+    "after": "Table10 p.1147, row Trend FX, Rec./Exp. block; cached line1383. Printed Dif. (bad minus good)=-0.99 annualized percentage points; deliberately paired Exp. mean=5.17% annualized return. Benchmark is the observed Exp.-state mean of Trend FX portfolio returns, January1800–December2016. Other paired state: Rec.=4.18%, Exp.=5.17%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2253",
+    "before": null,
+    "after": "Table10 p.1147, row Trend FX, Rec./Exp. block; cached line1383. Printed Dif. (bad minus good)=-0.99 annualized percentage points; deliberately paired Rec. mean=4.18% annualized return. Benchmark is the observed Rec.-state mean of Trend FX portfolio returns, January1800–December2016. Other paired state: Rec.=4.18%, Exp.=5.17%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2254",
+    "before": null,
+    "after": "Table10 p.1147, row Momentum Eq., Rec./Exp. block; cached line1384. Printed Dif. (bad minus good)=0.76 annualized percentage points; deliberately paired Exp. mean=5.57% annualized return. Benchmark is the observed Exp.-state mean of Momentum Eq. portfolio returns, January1800–December2016. Other paired state: Rec.=6.33%, Exp.=5.57%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2255",
+    "before": null,
+    "after": "Table10 p.1147, row Momentum Eq., Rec./Exp. block; cached line1384. Printed Dif. (bad minus good)=0.76 annualized percentage points; deliberately paired Rec. mean=6.33% annualized return. Benchmark is the observed Rec.-state mean of Momentum Eq. portfolio returns, January1800–December2016. Other paired state: Rec.=6.33%, Exp.=5.57%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2256",
+    "before": null,
+    "after": "Table10 p.1147, row Momentum Bo., Rec./Exp. block; cached line1385. Printed Dif. (bad minus good)=-0.34 annualized percentage points; deliberately paired Exp. mean=2.63% annualized return. Benchmark is the observed Exp.-state mean of Momentum Bo. portfolio returns, January1800–December2016. Other paired state: Rec.=2.29%, Exp.=2.63%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2257",
+    "before": null,
+    "after": "Table10 p.1147, row Momentum Bo., Rec./Exp. block; cached line1385. Printed Dif. (bad minus good)=-0.34 annualized percentage points; deliberately paired Rec. mean=2.29% annualized return. Benchmark is the observed Rec.-state mean of Momentum Bo. portfolio returns, January1800–December2016. Other paired state: Rec.=2.29%, Exp.=2.63%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2258",
+    "before": null,
+    "after": "Table10 p.1147, row Momentum Co., Rec./Exp. block; cached line1386. Printed Dif. (bad minus good)=0.14 annualized percentage points; deliberately paired Exp. mean=6.33% annualized return. Benchmark is the observed Exp.-state mean of Momentum Co. portfolio returns, January1800–December2016. Other paired state: Rec.=6.47%, Exp.=6.33%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2259",
+    "before": null,
+    "after": "Table10 p.1147, row Momentum Co., Rec./Exp. block; cached line1386. Printed Dif. (bad minus good)=0.14 annualized percentage points; deliberately paired Rec. mean=6.47% annualized return. Benchmark is the observed Rec.-state mean of Momentum Co. portfolio returns, January1800–December2016. Other paired state: Rec.=6.47%, Exp.=6.33%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2260",
+    "before": null,
+    "after": "Table10 p.1147, row Momentum FX, Rec./Exp. block; cached line1387. Printed Dif. (bad minus good)=-1.48 annualized percentage points; deliberately paired Exp. mean=3.79% annualized return. Benchmark is the observed Exp.-state mean of Momentum FX portfolio returns, January1800–December2016. Other paired state: Rec.=2.31%, Exp.=3.79%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2261",
+    "before": null,
+    "after": "Table10 p.1147, row Momentum FX, Rec./Exp. block; cached line1387. Printed Dif. (bad minus good)=-1.48 annualized percentage points; deliberately paired Rec. mean=2.31% annualized return. Benchmark is the observed Rec.-state mean of Momentum FX portfolio returns, January1800–December2016. Other paired state: Rec.=2.31%, Exp.=3.79%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2262",
+    "before": null,
+    "after": "Table10 p.1147, row Value Eq., Rec./Exp. block; cached line1388. Printed Dif. (bad minus good)=4.65 annualized percentage points; deliberately paired Exp. mean=0.59% annualized return. Benchmark is the observed Exp.-state mean of Value Eq. portfolio returns, January1800–December2016. Other paired state: Rec.=5.24%, Exp.=0.59%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2263",
+    "before": null,
+    "after": "Table10 p.1147, row Value Eq., Rec./Exp. block; cached line1388. Printed Dif. (bad minus good)=4.65 annualized percentage points; deliberately paired Rec. mean=5.24% annualized return. Benchmark is the observed Rec.-state mean of Value Eq. portfolio returns, January1800–December2016. Other paired state: Rec.=5.24%, Exp.=0.59%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2264",
+    "before": null,
+    "after": "Table10 p.1147, row Value Bo., Rec./Exp. block; cached line1389. Printed Dif. (bad minus good)=-1.19 annualized percentage points; deliberately paired Exp. mean=2.89% annualized return. Benchmark is the observed Exp.-state mean of Value Bo. portfolio returns, January1800–December2016. Other paired state: Rec.=1.70%, Exp.=2.89%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2265",
+    "before": null,
+    "after": "Table10 p.1147, row Value Bo., Rec./Exp. block; cached line1389. Printed Dif. (bad minus good)=-1.19 annualized percentage points; deliberately paired Rec. mean=1.70% annualized return. Benchmark is the observed Rec.-state mean of Value Bo. portfolio returns, January1800–December2016. Other paired state: Rec.=1.70%, Exp.=2.89%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2266",
+    "before": null,
+    "after": "Table10 p.1147, row Value Co., Rec./Exp. block; cached line1390. Printed Dif. (bad minus good)=-0.71 annualized percentage points; deliberately paired Exp. mean=2.76% annualized return. Benchmark is the observed Exp.-state mean of Value Co. portfolio returns, January1800–December2016. Other paired state: Rec.=2.05%, Exp.=2.76%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2267",
+    "before": null,
+    "after": "Table10 p.1147, row Value Co., Rec./Exp. block; cached line1390. Printed Dif. (bad minus good)=-0.71 annualized percentage points; deliberately paired Rec. mean=2.05% annualized return. Benchmark is the observed Rec.-state mean of Value Co. portfolio returns, January1800–December2016. Other paired state: Rec.=2.05%, Exp.=2.76%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2268",
+    "before": null,
+    "after": "Table10 p.1147, row Value FX, Rec./Exp. block; cached line1391. Printed Dif. (bad minus good)=-1.14 annualized percentage points; deliberately paired Exp. mean=1.43% annualized return. Benchmark is the observed Exp.-state mean of Value FX portfolio returns, January1800–December2016. Other paired state: Rec.=0.29%, Exp.=1.43%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2269",
+    "before": null,
+    "after": "Table10 p.1147, row Value FX, Rec./Exp. block; cached line1391. Printed Dif. (bad minus good)=-1.14 annualized percentage points; deliberately paired Rec. mean=0.29% annualized return. Benchmark is the observed Rec.-state mean of Value FX portfolio returns, January1800–December2016. Other paired state: Rec.=0.29%, Exp.=1.43%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2270",
+    "before": null,
+    "after": "Table10 p.1147, row Carry Eq., Rec./Exp. block; cached line1392. Printed Dif. (bad minus good)=2.72 annualized percentage points; deliberately paired Exp. mean=5.16% annualized return. Benchmark is the observed Exp.-state mean of Carry Eq. portfolio returns, January1800–December2016. Other paired state: Rec.=7.88%, Exp.=5.16%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2271",
+    "before": null,
+    "after": "Table10 p.1147, row Carry Eq., Rec./Exp. block; cached line1392. Printed Dif. (bad minus good)=2.72 annualized percentage points; deliberately paired Rec. mean=7.88% annualized return. Benchmark is the observed Rec.-state mean of Carry Eq. portfolio returns, January1800–December2016. Other paired state: Rec.=7.88%, Exp.=5.16%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2272",
+    "before": null,
+    "after": "Table10 p.1147, row Carry Bo., Rec./Exp. block; cached line1393. Printed Dif. (bad minus good)=2.72 annualized percentage points; deliberately paired Exp. mean=4.95% annualized return. Benchmark is the observed Exp.-state mean of Carry Bo. portfolio returns, January1800–December2016. Other paired state: Rec.=7.67%, Exp.=4.95%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2273",
+    "before": null,
+    "after": "Table10 p.1147, row Carry Bo., Rec./Exp. block; cached line1393. Printed Dif. (bad minus good)=2.72 annualized percentage points; deliberately paired Rec. mean=7.67% annualized return. Benchmark is the observed Rec.-state mean of Carry Bo. portfolio returns, January1800–December2016. Other paired state: Rec.=7.67%, Exp.=4.95%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2274",
+    "before": null,
+    "after": "Table10 p.1147, row Carry Co., Rec./Exp. block; cached line1394. Printed Dif. (bad minus good)=1.95 annualized percentage points; deliberately paired Exp. mean=1.84% annualized return. Benchmark is the observed Exp.-state mean of Carry Co. portfolio returns, January1800–December2016. Other paired state: Rec.=3.79%, Exp.=1.84%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2275",
+    "before": null,
+    "after": "Table10 p.1147, row Carry Co., Rec./Exp. block; cached line1394. Printed Dif. (bad minus good)=1.95 annualized percentage points; deliberately paired Rec. mean=3.79% annualized return. Benchmark is the observed Rec.-state mean of Carry Co. portfolio returns, January1800–December2016. Other paired state: Rec.=3.79%, Exp.=1.84%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2276",
+    "before": null,
+    "after": "Table10 p.1147, row Carry FX, Rec./Exp. block; cached line1395. Printed Dif. (bad minus good)=-2.24 annualized percentage points; deliberately paired Exp. mean=6.39% annualized return. Benchmark is the observed Exp.-state mean of Carry FX portfolio returns, January1800–December2016. Other paired state: Rec.=4.15%, Exp.=6.39%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2277",
+    "before": null,
+    "after": "Table10 p.1147, row Carry FX, Rec./Exp. block; cached line1395. Printed Dif. (bad minus good)=-2.24 annualized percentage points; deliberately paired Rec. mean=4.15% annualized return. Benchmark is the observed Rec.-state mean of Carry FX portfolio returns, January1800–December2016. Other paired state: Rec.=4.15%, Exp.=6.39%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2278",
+    "before": null,
+    "after": "Table10 p.1147, row Seasonality Eq., Rec./Exp. block; cached line1396. Printed Dif. (bad minus good)=1.35 annualized percentage points; deliberately paired Exp. mean=5.07% annualized return. Benchmark is the observed Exp.-state mean of Seasonality Eq. portfolio returns, January1800–December2016. Other paired state: Rec.=6.42%, Exp.=5.07%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2279",
+    "before": null,
+    "after": "Table10 p.1147, row Seasonality Eq., Rec./Exp. block; cached line1396. Printed Dif. (bad minus good)=1.35 annualized percentage points; deliberately paired Rec. mean=6.42% annualized return. Benchmark is the observed Rec.-state mean of Seasonality Eq. portfolio returns, January1800–December2016. Other paired state: Rec.=6.42%, Exp.=5.07%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2280",
+    "before": null,
+    "after": "Table10 p.1147, row Seasonality Bo., Rec./Exp. block; cached line1397. Printed Dif. (bad minus good)=3.20 annualized percentage points; deliberately paired Exp. mean=7.71% annualized return. Benchmark is the observed Exp.-state mean of Seasonality Bo. portfolio returns, January1800–December2016. Other paired state: Rec.=10.91%, Exp.=7.71%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2281",
+    "before": null,
+    "after": "Table10 p.1147, row Seasonality Bo., Rec./Exp. block; cached line1397. Printed Dif. (bad minus good)=3.20 annualized percentage points; deliberately paired Rec. mean=10.91% annualized return. Benchmark is the observed Rec.-state mean of Seasonality Bo. portfolio returns, January1800–December2016. Other paired state: Rec.=10.91%, Exp.=7.71%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2282",
+    "before": null,
+    "after": "Table10 p.1147, row Seasonality Co., Rec./Exp. block; cached line1398. Printed Dif. (bad minus good)=4.94 annualized percentage points; deliberately paired Exp. mean=2.91% annualized return. Benchmark is the observed Exp.-state mean of Seasonality Co. portfolio returns, January1800–December2016. Other paired state: Rec.=7.86%, Exp.=2.91%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2283",
+    "before": null,
+    "after": "Table10 p.1147, row Seasonality Co., Rec./Exp. block; cached line1398. Printed Dif. (bad minus good)=4.94 annualized percentage points; deliberately paired Rec. mean=7.86% annualized return. Benchmark is the observed Rec.-state mean of Seasonality Co. portfolio returns, January1800–December2016. Other paired state: Rec.=7.86%, Exp.=2.91%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2284",
+    "before": null,
+    "after": "Table10 p.1147, row Seasonality FX, Rec./Exp. block; cached line1399. Printed Dif. (bad minus good)=-0.39 annualized percentage points; deliberately paired Exp. mean=3.39% annualized return. Benchmark is the observed Exp.-state mean of Seasonality FX portfolio returns, January1800–December2016. Other paired state: Rec.=2.99%, Exp.=3.39%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2285",
+    "before": null,
+    "after": "Table10 p.1147, row Seasonality FX, Rec./Exp. block; cached line1399. Printed Dif. (bad minus good)=-0.39 annualized percentage points; deliberately paired Rec. mean=2.99% annualized return. Benchmark is the observed Rec.-state mean of Seasonality FX portfolio returns, January1800–December2016. Other paired state: Rec.=2.99%, Exp.=3.39%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2286",
+    "before": null,
+    "after": "Table10 p.1147, row BAB Eq., Rec./Exp. block; cached line1400. Printed Dif. (bad minus good)=-0.33 annualized percentage points; deliberately paired Exp. mean=3.25% annualized return. Benchmark is the observed Exp.-state mean of BAB Eq. portfolio returns, January1800–December2016. Other paired state: Rec.=2.92%, Exp.=3.25%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2287",
+    "before": null,
+    "after": "Table10 p.1147, row BAB Eq., Rec./Exp. block; cached line1400. Printed Dif. (bad minus good)=-0.33 annualized percentage points; deliberately paired Rec. mean=2.92% annualized return. Benchmark is the observed Rec.-state mean of BAB Eq. portfolio returns, January1800–December2016. Other paired state: Rec.=2.92%, Exp.=3.25%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2288",
+    "before": null,
+    "after": "Table10 p.1147, row BAB Bo., Rec./Exp. block; cached line1401. Printed Dif. (bad minus good)=-0.29 annualized percentage points; deliberately paired Exp. mean=0.55% annualized return. Benchmark is the observed Exp.-state mean of BAB Bo. portfolio returns, January1800–December2016. Other paired state: Rec.=0.27%, Exp.=0.55%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2289",
+    "before": null,
+    "after": "Table10 p.1147, row BAB Bo., Rec./Exp. block; cached line1401. Printed Dif. (bad minus good)=-0.29 annualized percentage points; deliberately paired Rec. mean=0.27% annualized return. Benchmark is the observed Rec.-state mean of BAB Bo. portfolio returns, January1800–December2016. Other paired state: Rec.=0.27%, Exp.=0.55%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2290",
+    "before": null,
+    "after": "Table10 p.1147, row BAB Co., Rec./Exp. block; cached line1402. Printed Dif. (bad minus good)=-4.39 annualized percentage points; deliberately paired Exp. mean=2.61% annualized return. Benchmark is the observed Exp.-state mean of BAB Co. portfolio returns, January1800–December2016. Other paired state: Rec.=-1.78%, Exp.=2.61%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2291",
+    "before": null,
+    "after": "Table10 p.1147, row BAB Co., Rec./Exp. block; cached line1402. Printed Dif. (bad minus good)=-4.39 annualized percentage points; deliberately paired Rec. mean=-1.78% annualized return. Benchmark is the observed Rec.-state mean of BAB Co. portfolio returns, January1800–December2016. Other paired state: Rec.=-1.78%, Exp.=2.61%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2292",
+    "before": null,
+    "after": "Table10 p.1147, row BAB FX, Rec./Exp. block; cached line1403. Printed Dif. (bad minus good)=-1.68 annualized percentage points; deliberately paired Exp. mean=0.99% annualized return. Benchmark is the observed Exp.-state mean of BAB FX portfolio returns, January1800–December2016. Other paired state: Rec.=-0.69%, Exp.=0.99%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2293",
+    "before": null,
+    "after": "Table10 p.1147, row BAB FX, Rec./Exp. block; cached line1403. Printed Dif. (bad minus good)=-1.68 annualized percentage points; deliberately paired Rec. mean=-0.69% annualized return. Benchmark is the observed Rec.-state mean of BAB FX portfolio returns, January1800–December2016. Other paired state: Rec.=-0.69%, Exp.=0.99%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2294",
+    "before": null,
+    "after": "Table10 p.1147, row Trend MA, Rec./Exp. block; cached line1405. Printed Dif. (bad minus good)=0.65 annualized percentage points; deliberately paired Exp. mean=12.51% annualized return. Benchmark is the observed Exp.-state mean of Trend MA portfolio returns, January1800–December2016. Other paired state: Rec.=13.17%, Exp.=12.51%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2295",
+    "before": null,
+    "after": "Table10 p.1147, row Trend MA, Rec./Exp. block; cached line1405. Printed Dif. (bad minus good)=0.65 annualized percentage points; deliberately paired Rec. mean=13.17% annualized return. Benchmark is the observed Rec.-state mean of Trend MA portfolio returns, January1800–December2016. Other paired state: Rec.=13.17%, Exp.=12.51%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2296",
+    "before": null,
+    "after": "Table10 p.1147, row Momentum MA, Rec./Exp. block; cached line1406. Printed Dif. (bad minus good)=-0.01 annualized percentage points; deliberately paired Exp. mean=7.95% annualized return. Benchmark is the observed Exp.-state mean of Momentum MA portfolio returns, January1800–December2016. Other paired state: Rec.=7.94%, Exp.=7.95%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2297",
+    "before": null,
+    "after": "Table10 p.1147, row Momentum MA, Rec./Exp. block; cached line1406. Printed Dif. (bad minus good)=-0.01 annualized percentage points; deliberately paired Rec. mean=7.94% annualized return. Benchmark is the observed Rec.-state mean of Momentum MA portfolio returns, January1800–December2016. Other paired state: Rec.=7.94%, Exp.=7.95%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2298",
+    "before": null,
+    "after": "Table10 p.1147, row Value MA, Rec./Exp. block; cached line1407. Printed Dif. (bad minus good)=1.91 annualized percentage points; deliberately paired Exp. mean=2.37% annualized return. Benchmark is the observed Exp.-state mean of Value MA portfolio returns, January1800–December2016. Other paired state: Rec.=4.28%, Exp.=2.37%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2299",
+    "before": null,
+    "after": "Table10 p.1147, row Value MA, Rec./Exp. block; cached line1407. Printed Dif. (bad minus good)=1.91 annualized percentage points; deliberately paired Rec. mean=4.28% annualized return. Benchmark is the observed Rec.-state mean of Value MA portfolio returns, January1800–December2016. Other paired state: Rec.=4.28%, Exp.=2.37%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2300",
+    "before": null,
+    "after": "Table10 p.1147, row Carry MA, Rec./Exp. block; cached line1408. Printed Dif. (bad minus good)=2.50 annualized percentage points; deliberately paired Exp. mean=9.07% annualized return. Benchmark is the observed Exp.-state mean of Carry MA portfolio returns, January1800–December2016. Other paired state: Rec.=11.57%, Exp.=9.07%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2301",
+    "before": null,
+    "after": "Table10 p.1147, row Carry MA, Rec./Exp. block; cached line1408. Printed Dif. (bad minus good)=2.50 annualized percentage points; deliberately paired Rec. mean=11.57% annualized return. Benchmark is the observed Rec.-state mean of Carry MA portfolio returns, January1800–December2016. Other paired state: Rec.=11.57%, Exp.=9.07%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2302",
+    "before": null,
+    "after": "Table10 p.1147, row Seasonality MA, Rec./Exp. block; cached line1409. Printed Dif. (bad minus good)=4.09 annualized percentage points; deliberately paired Exp. mean=9.31% annualized return. Benchmark is the observed Exp.-state mean of Seasonality MA portfolio returns, January1800–December2016. Other paired state: Rec.=13.40%, Exp.=9.31%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2303",
+    "before": null,
+    "after": "Table10 p.1147, row Seasonality MA, Rec./Exp. block; cached line1409. Printed Dif. (bad minus good)=4.09 annualized percentage points; deliberately paired Rec. mean=13.40% annualized return. Benchmark is the observed Rec.-state mean of Seasonality MA portfolio returns, January1800–December2016. Other paired state: Rec.=13.40%, Exp.=9.31%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2304",
+    "before": null,
+    "after": "Table10 p.1147, row BAB MA, Rec./Exp. block; cached line1410. Printed Dif. (bad minus good)=-2.48 annualized percentage points; deliberately paired Exp. mean=3.09% annualized return. Benchmark is the observed Exp.-state mean of BAB MA portfolio returns, January1800–December2016. Other paired state: Rec.=0.60%, Exp.=3.09%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2305",
+    "before": null,
+    "after": "Table10 p.1147, row BAB MA, Rec./Exp. block; cached line1410. Printed Dif. (bad minus good)=-2.48 annualized percentage points; deliberately paired Rec. mean=0.60% annualized return. Benchmark is the observed Rec.-state mean of BAB MA portfolio returns, January1800–December2016. Other paired state: Rec.=0.60%, Exp.=3.09%. Printed values preserved; not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2246",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2247",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2248",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2249",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2250",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2251",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2252",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2253",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2254",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2255",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2256",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2257",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2258",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2259",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2260",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2261",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2262",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2263",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2264",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2265",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2266",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2267",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2268",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2269",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2270",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2271",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2272",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2273",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2274",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2275",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2276",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2277",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2278",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2279",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2280",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2281",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2282",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2283",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2284",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2285",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2286",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2287",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2288",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2289",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2290",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2291",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2292",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2293",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2294",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2295",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2296",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2297",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2298",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2299",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2300",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2301",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2302",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2303",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2304",
+    "before": null,
+    "after": "Good-state mean is observed in other macroeconomic periods; source does not establish its equality to the target population’s untreated counterfactual or specify target weights sufficiently; alignment=unknown. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2305",
+    "before": null,
+    "after": "Treated/bad-state mean is not an untreated/control baseline; alignment=0. verbal=0: retained evidence is table mean–contrast pairing; prose about significance/direction is not a quantitative magnitude-to-baseline statement. divided=0: no ratio to the mean is reported. State means are two distinct benchmark populations, not duplicate records."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4991",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4991",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4991",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4991",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4991",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4991",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4991",
+    "before": null,
+    "after": "Monthly global factor portfolio returns, separately for 24 factor–asset-class portfolios and six multi-asset combinations; annualized state means and bad-minus-good contrasts reported in Table10, Rec./Exp. columns. Underlying outcome is a return, not an estimate or a t-statistic. No point mass at zero established for these constructed portfolio returns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2125",
+    "before": null,
+    "after": "ANHCKZYX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2125",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2125",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2125",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2125",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2125",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2125",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2125",
+    "before": null,
+    "after": "Table10 Rec./Exp. columns, Individual factor–asset-class and six multi-asset rows: separate bad-minus-good mean-return contrasts. Treatment is recession versus expansion: at least six recession months in the calendar year versus otherwise. Sample January1800–December2016; reported contrasts and state levels are annualized percent returns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2125",
+    "before": null,
+    "after": "Broad intended-interpretation gate: Section 4.3 tests a substantive macroeconomic-risk mechanism, and the authors interpret the implemented state contrast as common effects/aggregate impact. Do not require induced recessions or an accepted exogeneity proof. Observational selection and contemporaneous state classification remain interpretation limits. Table10 panel has one asset class–factor/index FE set and date-clustered SE, not date FE. Source does not establish an identifying role for the FE beyond pooled level adjustment; code OLS/regression adjustment, not FE/HDFE. Individual contrasts and pooled common coefficients are distinct estimands, not method-only FE splits. Source: §4.3 pp.1146–1147, Table10; cached lines1308–1418. Certainty: Recommended broad-gate adjudication; FE role not independently identifying on available source."
+  }
+]
+```
