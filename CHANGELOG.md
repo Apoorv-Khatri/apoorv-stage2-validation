@@ -133968,3 +133968,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:40:27.159278+00:00 — Review 9XGMQWX5 s9: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K738",
+    "before": null,
+    "after": "Model zero-mass=0 is incorrect: the untransformed deal-success indicator includes unsuccessful deals coded0 (Table3A and Success definitions). Detailed Human outcome labels may remain blank because treatment is nonbinary."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I255",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J255",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K255",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L255",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M255",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N255",
+    "before": null,
+    "after": "Appendix A6(3)–(4): individual investing partner’s daughter ratio, conditional on own children count, on own deal success. Columns1–2 are repeated firm-ratio results from A5, not specifications jointly including firm and individual ratios."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O255",
+    "before": null,
+    "after": "Correct model suggestion that firm ratio is additionally controlled in individual-ratio columns: the rendered table uses alternative columns. This substantive direct-productivity mechanism test remains causal under the paper’s null-effect interpretation. Source: TableA6 p.20; §4.3 p.16."
+  }
+]
+```
