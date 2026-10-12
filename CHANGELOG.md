@@ -127869,3 +127869,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:33:10.650550+00:00 — Review 9SK5H9MK h1: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4799",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4799",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4799",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4799",
+    "before": null,
+    "after": "Startup age0-1 two-year net jobs/2000 CZ nontradable employment, Table VIII col4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2037",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2037",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2037",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2037",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2037",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2037",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2037",
+    "before": null,
+    "after": "Table VIII col4: continuous income-growth slope and its interaction with LOW Saiz housing-supply elasticity indicator, instrumented with Bartik and Bartik×low-Saiz dummy. Startup jobs/2000 nontradable employment only; N892, year controls. Separate from HPA col2 because moderator and excluded-instrument set differ."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2037",
+    "before": null,
+    "after": "Header HPA=Low Saiz Elasticity; do not call this high-elasticity treatment. Two nonbinary excluded instruments, binary moderator included. p.1025: geographical/regulatory elasticity is used because realized HPA may be endogenous. Source: Table VIII col4 p.1026/PDF28. Source link: https://doi.org/10.1111/jofi.12495."
+  }
+]
+```

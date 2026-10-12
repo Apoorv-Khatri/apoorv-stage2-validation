@@ -18787,7 +18787,16 @@
     "L2036": "0",
     "M2036": "n/a",
     "N2036": "TableC.2 cols.2–3: binary extreme-weather event effect on sign-adjusted Carhart-model CARs in top/bottom terciles of headquarters-county climate-harm beliefs, used to probe heterogeneous investor response.",
-    "O2036": "Linear normal-return imputation event study, not causal effect of beliefs or a treated/control DiD. Supporting result; col.1 is expressly repeated baseline, not new setting. Caption prints training days−150 to−121 and abnormal-return period[-120,+20], unlike Table8 −50 to−21/[-20,+20]. Table rows print[-120,+20],[-110,+10],[-15,+5],[-11,+1]. All-event values repeat Table8 exactly. Preserve source ambiguity instead of silently repairing horizons. Pro-CC CARs −0.002,−0.001,−0.002,0.001; Anti-CC 0.002,0.003,0.002,0.001, all insignificant. Source: AppendixC2 p.44; TableC.2.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+    "O2036": "Linear normal-return imputation event study, not causal effect of beliefs or a treated/control DiD. Supporting result; col.1 is expressly repeated baseline, not new setting. Caption prints training days−150 to−121 and abnormal-return period[-120,+20], unlike Table8 −50 to−21/[-20,+20]. Table rows print[-120,+20],[-110,+10],[-15,+5],[-11,+1]. All-event values repeat Table8 exactly. Preserve source ambiguity instead of silently repairing horizons. Pro-CC CARs −0.002,−0.001,−0.002,0.001; Anti-CC 0.002,0.003,0.002,0.001, all insignificant. Source: AppendixC2 p.44; TableC.2.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002.",
+    "A2037": "9SK5H9MK",
+    "B2037": "h1",
+    "I2037": "1",
+    "J2037": "IV",
+    "K2037": "0",
+    "L2037": "0",
+    "M2037": "other",
+    "N2037": "Table VIII col4: continuous income-growth slope and its interaction with LOW Saiz housing-supply elasticity indicator, instrumented with Bartik and Bartik×low-Saiz dummy. Startup jobs/2000 nontradable employment only; N892, year controls. Separate from HPA col2 because moderator and excluded-instrument set differ.",
+    "O2037": "Header HPA=Low Saiz Elasticity; do not call this high-elasticity treatment. Two nonbinary excluded instruments, binary moderator included. p.1025: geographical/regulatory elasticity is used because realized HPA may be endogenous. Source: Table VIII col4 p.1026/PDF28. Source link: https://doi.org/10.1111/jofi.12495."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -53224,7 +53233,11 @@
     "A4798": "9SK5H9MK",
     "B4798": "s9",
     "C4798": "hy19",
-    "K4798": "Table XII C: >100 size, 6+ years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=0.868; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+    "K4798": "Table XII C: >100 size, 6+ years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=0.868; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict.",
+    "A4799": "9SK5H9MK",
+    "B4799": "h1",
+    "C4799": "hy1",
+    "K4799": "Startup age0-1 two-year net jobs/2000 CZ nontradable employment, Table VIII col4."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
