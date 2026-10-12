@@ -148944,3 +148944,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:00:41.433813+00:00 — Review ANHCKZYX s8: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H795",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H796",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I795",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I796",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J795",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J796",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K795",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s8 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K796",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s8 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I280",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O280",
+    "before": null,
+    "after": "Outside causal scope: Alternative screens, quarters, trims and added markets test whether predictive premiums are artifacts of data quality/sample construction. The paper does discuss impact on estimates, but does not estimate a substantive intervention on investor returns or market prices. These routine sensitivity choices are not separate causal treatments. Source: §3.4.3–3.4.4 Table 7 pp.1140–1142; lines891–1064. Certainty: source-grounded causal-gate recommendation."
+  }
+]
+```
