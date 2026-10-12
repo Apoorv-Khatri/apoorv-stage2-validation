@@ -171579,3 +171579,168 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:17:06.133197+00:00 — Review DFSQYG6H s5: source-audited coding and linked comparisons
+
+26 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K169",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K170",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L169",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L170",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M169",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M170",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N169",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N170",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O169",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O170",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P169",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P170",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q169",
+    "before": null,
+    "after": "§4.1.2/Table10 pp918–919. “In the ﬁrst four speciﬁcations, which use the same baseline [−2,+2] event window but different sets of controls and ﬁxed effects, the DiD estimator is in a fairly tight range from 0.012 (Column 4) to 0.016 (Column 2). A treatment effect in the middle of this range of 0.014, or 1.4 pps, represents approximately 15% of treated ﬁrms’ mean Cash ratio in the closest pre-shock year, 1981.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q170",
+    "before": null,
+    "after": "§4.1.2/Table10 pp918–919. “The estimate of the treatment effect on the treated ﬁrms increases to 2.1 pps over the expanded [−3,+3] event window (Column 6), which represents approximately 23% of pre-shock average cash holdings.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R169",
+    "before": null,
+    "after": "Benchmark is treated firms’ own pre-event untreated cash-ratio level, not control-firm mean. Regression sample/weights and relation of the reported unweighted treated pre-event mean to the particular covariate-adjusted effect target are insufficiently documented; alignment unknown. No assumption that parallel trends equates outcome levels. Published matching prose reports1.9pps=17.4% whereas regression prose1.4pps≈15% and2.1pps≈23% implies a different baseline. Neither denominator is printed; do not substitute a computed mean or assume common weights/samples."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R170",
+    "before": null,
+    "after": "Benchmark is treated firms’ own pre-event untreated cash-ratio level, not control-firm mean. Regression sample/weights and relation of the reported unweighted treated pre-event mean to the particular covariate-adjusted effect target are insufficiently documented; alignment unknown. No assumption that parallel trends equates outcome levels. Published matching prose reports1.9pps=17.4% whereas regression prose1.4pps≈15% and2.1pps≈23% implies a different baseline. Neither denominator is printed; do not substitute a computed mean or assume common weights/samples."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H884",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I884",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J884",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K884",
+    "before": null,
+    "after": "Outcome definition retained. Zero mass unknown: rounded minimum 0.00 in descriptive Table1 is not proof of a point mass at zero in the matched estimation sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I332",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J332",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K332",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L332",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M332",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O332",
+    "before": null,
+    "after": "Conventional DiD/DDD takes priority over identifying FE. Firm+year or firm+industry×year are two effective FE sets, not HDFE. Post coefficients are printed alongside full year FE even though a common Post lies in their span; preserve reporting and flag implementation/normalization uncertainty, not an invented alternative estimator. The same bottom-versus-top ILLIQ_res caption conflict as s4 applies. Baseline 0.014 comparison is the prose mid-range summary, not necessarily an attribution to col1 alone. Source: §4.1.2/Table10 pp918–919."
+  }
+]
+```
