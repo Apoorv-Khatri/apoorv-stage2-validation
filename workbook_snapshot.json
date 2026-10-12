@@ -20359,7 +20359,16 @@
     "L2163": "0",
     "M2163": "n/a",
     "N2163": "RPQ ranking on previous-year industry-adjusted ROE; untabulated alternative relative-quality effects on stock and operating performance, results qualitatively unchanged. Peer-type-specific coverage is not separately enumerated in the untabulated prose.",
-    "O2163": "Implemented alternative-RPQ robustness and unchanged qualitative results are explicit. OLS is supported by the pooled-regression context of §6.1, but coefficients, exact columns and compensation-versus-bonus coverage are not reported separately. This is one minimum evidence record, not an asserted two-peer-type by two-outcome result grid. Source: §6.1 pp210–211; lines1141–1172,1234–1236."
+    "O2163": "Implemented alternative-RPQ robustness and unchanged qualitative results are explicit. OLS is supported by the pooled-regression context of §6.1, but coefficients, exact columns and compensation-versus-bonus coverage are not reported separately. This is one minimum evidence record, not an asserted two-peer-type by two-outcome result grid. Source: §6.1 pp210–211; lines1141–1172,1234–1236.",
+    "A2164": "CN4YZYPH",
+    "B2164": "h17",
+    "I2164": "1",
+    "J2164": "OLS",
+    "K2164": "0",
+    "L2164": "0",
+    "M2164": "n/a",
+    "N2164": "RPQ based on actual managerial-ability difference from peer mean/median; untabulated alternative relative-quality effects on stock and operating performance, results qualitatively unchanged. Peer-type-specific coverage is not separately enumerated in the untabulated prose.",
+    "O2164": "Implemented alternative-RPQ robustness and unchanged qualitative results are explicit. OLS is supported by the pooled-regression context of §6.1, but coefficients, exact columns and compensation-versus-bonus coverage are not reported separately. This is one minimum evidence record, not an asserted two-peer-type by two-outcome result grid. Mean/median reference variants grouped; signed gap orientation not specified. Source: §6.1 pp210–211; lines1141–1172,1234–1236."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56394,7 +56403,15 @@
     "A5047": "CN4YZYPH",
     "B5047": "h16",
     "C5047": "hy2",
-    "K5047": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1. Baseline outcome identity supplied for the stock/operating-performance robustness context; the untabulated sentence does not enumerate outcome-by-peer-type estimates or give coefficients."
+    "K5047": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1. Baseline outcome identity supplied for the stock/operating-performance robustness context; the untabulated sentence does not enumerate outcome-by-peer-type estimates or give coefficients.",
+    "A5048": "CN4YZYPH",
+    "B5048": "h17",
+    "C5048": "hy1",
+    "K5048": "DGTW characteristic-adjusted annual stock return, fiscal year t (decimal return). Baseline outcome identity supplied for the stock/operating-performance robustness context; the untabulated sentence does not enumerate outcome-by-peer-type estimates or give coefficients.",
+    "A5049": "CN4YZYPH",
+    "B5049": "h17",
+    "C5049": "hy2",
+    "K5049": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1. Baseline outcome identity supplied for the stock/operating-performance robustness context; the untabulated sentence does not enumerate outcome-by-peer-type estimates or give coefficients."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
