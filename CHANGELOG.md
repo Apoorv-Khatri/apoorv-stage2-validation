@@ -326790,3 +326790,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:04:35.342911+00:00 — Review EYWPN7YT s11: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H984",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H985",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H986",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I984",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I985",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I986",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J984",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J985",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J986",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K985",
+    "before": null,
+    "after": "Sum of daily logarithms of trading volume over the three-day earnings-announcement window, not log of summed volume (AppendixB PDF44). Raw zero-volume handling not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K986",
+    "before": null,
+    "after": "Absolute compounded CAPM-adjusted abnormal return from day -30 through day +2 around earnings announcement, AppendixB PDF43. Not the three-day window used for the other two Table7 outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J376",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L376",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M376",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O376",
+    "before": null,
+    "after": "Implemented Cengiz et al. (2019) stacked-regression estimator: cohort-specific datasets, clean future-treated controls, nine-quarter window, explicitly addressing time-varying effects and treatment-effect heterogeneity (§1.2–1.3, PDF9–10). This is not modern merely because adoption is staggered. Administrative randomized rollout is analyzed with DD, not a separately implemented experimental ITT. Matching is preprocessing; no IV or separate identifying-FE/OLS setting. Source: Table7 PDF30, §2.4 PDF29."
+  }
+]
+```
