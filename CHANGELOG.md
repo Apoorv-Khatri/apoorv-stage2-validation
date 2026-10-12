@@ -123522,3 +123522,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:27:15.830568+00:00 — Review 96H6UQNF h6: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4770",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4770",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4770",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4770",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4770",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4770",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4770",
+    "before": null,
+    "after": "Quarterly operating cash flow constructed from EPS including extraordinary and special items plus depreciation/amortization and deferred taxes, per-share/price-scaled analog of baseline under Eq.(2), log1p transformation inherited from stated specification. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2027",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2027",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2027",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2027",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2027",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2027",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2027",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2027",
+    "before": null,
+    "after": "TableA.10: continuous quarterly temperature exposure effects on operating cash flow, defined as EPS including extraordinary and special items plus depreciation/amortization and deferred taxes, Eq.(2)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2027",
+    "before": null,
+    "after": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Split from s9; supporting alternative-profitability robustness. Retain printed threshold Consumer Finance Q4 heat (+,−11°C); do not silently fix its surprising sign/value. Source: §3.2.6 p.26; TableA.10 p.41.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```

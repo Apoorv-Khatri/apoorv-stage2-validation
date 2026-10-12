@@ -18605,7 +18605,16 @@
     "L2026": "0",
     "M2026": "n/a",
     "N2026": "TableA.9: continuous quarterly temperature exposure effects on EPS including extraordinary AND special items, Eq.(2) firm/time FE.",
-    "O2026": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Split from s9; supporting alternative-profitability robustness. Source: §3.2.6 p.26; TableA.9 p.41.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+    "O2026": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Split from s9; supporting alternative-profitability robustness. Source: §3.2.6 p.26; TableA.9 p.41.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002.",
+    "A2027": "96H6UQNF",
+    "B2027": "h6",
+    "I2027": "1",
+    "J2027": "FE",
+    "K2027": "0",
+    "L2027": "0",
+    "M2027": "n/a",
+    "N2027": "TableA.10: continuous quarterly temperature exposure effects on operating cash flow, defined as EPS including extraordinary and special items plus depreciation/amortization and deferred taxes, Eq.(2).",
+    "O2027": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Split from s9; supporting alternative-profitability robustness. Retain printed threshold Consumer Finance Q4 heat (+,−11°C); do not silently fix its surprising sign/value. Source: §3.2.6 p.26; TableA.10 p.41.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52641,7 +52650,14 @@
     "H4769": "0",
     "I4769": "unknown",
     "J4769": "log1p",
-    "K4769": "Quarterly EPS including extraordinary and special items, per-share/price-scaled analog of baseline under Eq.(2), log1p transformation inherited from stated specification. Zero mass not established."
+    "K4769": "Quarterly EPS including extraordinary and special items, per-share/price-scaled analog of baseline under Eq.(2), log1p transformation inherited from stated specification. Zero mass not established.",
+    "A4770": "96H6UQNF",
+    "B4770": "h6",
+    "C4770": "hy1",
+    "H4770": "0",
+    "I4770": "unknown",
+    "J4770": "log1p",
+    "K4770": "Quarterly operating cash flow constructed from EPS including extraordinary and special items plus depreciation/amortization and deferred taxes, per-share/price-scaled analog of baseline under Eq.(2), log1p transformation inherited from stated specification. Zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
