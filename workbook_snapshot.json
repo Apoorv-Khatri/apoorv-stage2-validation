@@ -20509,7 +20509,16 @@
     "L2174": "0",
     "M2174": "n/a",
     "N2174": "Internet Appendix TableA5: Rule10b-18 matched DiD ATT in cash-ratio change with broader pre-event covariate matching; low ILLIQ_res versus rest; displayed0.019 in December2020 appendix.",
-    "O2174": "Implemented family established final fn16 pp917–918. Alternate appendix explicitly bottom-tercile treatment supports prose, but is not final-source correction. A5 caption says before decimalization although this is1982 rule event; retain as source error, do not change event to2001. No new numerical benchmark. Source: Final pp917–918 fn16; author-forthcoming.txt lines2318–2339; IA p7/PDF68."
+    "O2174": "Implemented family established final fn16 pp917–918. Alternate appendix explicitly bottom-tercile treatment supports prose, but is not final-source correction. A5 caption says before decimalization although this is1982 rule event; retain as source error, do not change event to2001. No new numerical benchmark. Source: Final pp917–918 fn16; author-forthcoming.txt lines2318–2339; IA p7/PDF68.",
+    "A2175": "DFSQYG6H",
+    "B2175": "h6",
+    "I2175": "1",
+    "J2175": "OLS",
+    "K2175": "0",
+    "L2175": "0",
+    "M2175": "n/a",
+    "N2175": "Internet Appendix TableA1 cols1–10, same regressions as Table3: Firm size (log real total assets in1962 dollars) effect on cash ratio. Industry and year dummy controls; displayed period/control/liquidity-proxy variants grouped.",
+    "O2175": "Final prose explicitly interprets its own cash-ratio response; size is separately discussed as a determinant. Broad author-intention gate is met, although increasing-in-size wording conflicts with every A1 coefficient. Do not silently repair the sign. OLS with industry/year controls: no separately argued identifying role for those dummies. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56650,7 +56659,11 @@
     "H5065": "0",
     "I5065": "unknown",
     "J5065": "other",
-    "K5065": "Change in cash ratio (CHE/AT) from end-1981 to end-1983; bias-corrected matched treated/control contrast; first difference (other)."
+    "K5065": "Change in cash ratio (CHE/AT) from end-1981 to end-1983; bias-corrected matched treated/control contrast; first difference (other).",
+    "A5066": "DFSQYG6H",
+    "B5066": "h6",
+    "C5066": "hy1",
+    "K5066": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
