@@ -140361,3 +140361,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:34:03.754011+00:00 — Review ACJ72JDD s8: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K153",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R153",
+    "before": null,
+    "after": "The neighboring-day mean is subtracted to CONSTRUCT the EOM effect. The -6% number is the resulting abnormal return; it is not compared with or divided by that mean. A deliberately stated same-outcome mean normalization would qualify, but subtraction alone is not that normalization. No raw mean values or effect-to-mean pairing are printed. Source: pp.1953–1954 lines1840–1847,1869–1878"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H778",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H779",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I778",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I779",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J778",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J779",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K778",
+    "before": null,
+    "after": "Daily Bitcoin return; units are decimal returns. Continuous return; exact atom at zero is not established. Stale-price carry-forward up to five minutes in data construction does not establish zero mass in this aggregated/horizon sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K779",
+    "before": null,
+    "after": "Daily return on a value-weighted portfolio of the top five cryptocurrencies by lagged market capitalization; units are decimal returns. Continuous return; exact atom at zero is not established. Stale-price carry-forward up to five minutes in data construction does not establish zero mass in this aggregated/horizon sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I272",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J272",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K272",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L272",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M272",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N272",
+    "before": null,
+    "after": "Binary EOM day versus surrounding days: Table VII A/B columns1–3 and6, grouped routine issuance/noissuance/restricted samples; Figure9 raw and surrounding-day-adjusted EOM Bitcoin means by issuance group. EOM is second-to-last calendar day closing midnight UTC. Separate continuous issuance interaction (h4), categorical issuance interactions (h5), and monthly-only regressions (h23)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O272",
+    "before": null,
+    "after": "OLS calendar-event comparison, no stated parallel-trends DiD. March2016–March2018; nine days per month (EOM and four before/four after); 225 observations, restricted sample207, issuance sample135 or117. Column3 -0.0377 is within issuance months EOM versus surrounding-day return, not an issuance-versus-zero-month effect. Figure9 high-group raw-minus-neighbor mean is approximately -6%, not identical to TableVII High×EOM interaction. Source: Figure9 and Table VII A/B cols1–3,6, pp.1953–1957; lines1816–1999. Certainty: source-grounded."
+  }
+]
+```
