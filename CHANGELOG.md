@@ -148806,3 +148806,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:00:04.449461+00:00 — Review ANHCKZYX s6: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H791",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H792",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H793",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I791",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I792",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I793",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J791",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J792",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J793",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K791",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K792",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K793",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I278",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O278",
+    "before": null,
+    "after": "Outside causal scope: Applying the Bayesian inference framework to pre/full samples does not create a causal setting. Original model wording also reverses the null: the paper tests zero premiums, not a null that premiums are nonzero. Source: Table 5 pp.1138–1139; lines624–639,727–808. Certainty: source-grounded causal-gate recommendation."
+  }
+]
+```
