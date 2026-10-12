@@ -122922,3 +122922,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:25:47.159042+00:00 — Review 96H6UQNF s13: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H630",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I630",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J630",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K630",
+    "before": null,
+    "after": "Carhart four-factor abnormal daily returns, sign-reversed for favorable earnings shocks, cumulated over event windows; Table8 0.003 corresponds to0.3% in p.32 prose. Not log or outcome-SD scale. Zero mass unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I233",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J233",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K233",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L233",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M233",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N233",
+    "before": null,
+    "after": "Table8 col.2/Fig.11: linear factor-model imputation event study of extreme-weather shocks on cumulative abnormal stock returns. Carhart four-factor OLS estimated days −50 to −21; normal-return predictions subtracted from realized returns and summed over event windows; favorable earnings shocks sign-reversed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O233",
+    "before": null,
+    "after": "Method correction Other→OLS: causal linear normal-return imputation plus linear contrasts; factors are not FE, and event study is not automatically DiD. Main investor-response conclusion. CARs 0.003,0.001,0.001,0.001 across four windows; p.32 interprets 0.003 as 0.3%. Counterfactual benchmark return is part of estimator construction, not an explicit effect-to-outcome-level comparison. Future factor realizations are conditioning covariates, not instruments. Source: §3.4 pp.31–33; Table8(2), Fig.11.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```
