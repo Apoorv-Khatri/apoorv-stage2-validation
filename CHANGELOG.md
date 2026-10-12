@@ -166044,3 +166044,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:44:06.673159+00:00 — Review CETFVPE5 s4: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H839",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I839",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J839",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K839",
+    "before": null,
+    "after": "Spurious as an outcome of the rejected causal setting; the reported return variable itself is real."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I302",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O302",
+    "before": null,
+    "after": "Spurious as a causal setting. International predictive Fama–MacBeth regressions. Table4A actually contains country FE, but presence of these controls does not convert a prediction into an identifying-FE causal setting. No independent identifying role is established and no no-FE causal OLS split is warranted. Source: §3.3 pp150–151; Table4A; lines824–898."
+  }
+]
+```
