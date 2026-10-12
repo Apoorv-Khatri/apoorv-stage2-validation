@@ -167337,3 +167337,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:05:43.647354+00:00 — Review CN4YZYPH s3: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I312",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J312",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K312",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L312",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M312",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N312",
+    "before": null,
+    "after": "Retain original treatment/outcome; extend scope to Table 3 cols7–10, including the same-method Intrinsic_Talent control specification (§5.1). Routine controls do not form a new setting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O312",
+    "before": null,
+    "after": "Causal-intention gate passes: authors interpret this focal peer-quality/policy contrast as affecting the stated outcome. Year/industry dummy controls alone have no separately argued identifying role; retain OLS classification, not HDFE. §6.2 peer-reporting dummy controls, exclusion of financial firms and crisis years are routine controls/sample variants, not new methods. Footnote12 also reports compensation-derived CEO-FE ability RPQ: separate minimum setting below. Source: §4.1/Table3 cols7–10 pp204–206."
+  }
+]
+```
