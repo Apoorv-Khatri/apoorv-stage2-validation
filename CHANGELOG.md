@@ -325281,3 +325281,264 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:02:35.046327+00:00 — Review EYWPN7YT s4: source-audited coding and linked comparisons
+
+42 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4219",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4219",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4219",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K195",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4219",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L195",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4219",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M195",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4219",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N195",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4219",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O195",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4219",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P195",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4219",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q195",
+    "before": null,
+    "after": "PDF18 §2.2.2 reports a42% fall in short-term stock optimism, from treated pretreatment mean0.008 to around0.005 in the treatment quarter and next four quarters. THIS record concerns Table4 col1 inclusion-quarter -0.336 (coefficient display x100; effect -0.00336). Treated stock mean0.008 is printed in Table1. The later coefficient belongs to hc1; broad prose horizon/percentage imprecision is preserved there."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4219",
+    "before": null,
+    "after": "PDF18 §2.2.2: “joining EDGAR reduces average short-term optimism by 42%, from 0.008 in the pretreatment quarter to around 0.005 in the treatment quarter and the next four quarters.” THIS record is Table4 col1 next-four-quarter effect -0.377 (x100 display; -0.00377), benchmark treated pretreatment mean0.008. Preserve the authors' broad42% normalization; it is not numerically consistent with this later coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R195",
+    "before": null,
+    "after": "An observed treated pre-exposure mean can be a relevant untreated historical baseline; a constructed post-treatment counterfactual level is not required merely because the effect is DiD. Table1 short-term mean uses544 treated stocks observed at t-1, while the effect uses available stock-quarter forecasts over the event window (Table4 stock short-term regressions:2,251 firms pooled treated/control). The regression target's relationship to this t-1 observed-forecast subset and its weights is not established. Retain unknown for sample/weight correspondence, not preperiod timing alone."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4219",
+    "before": null,
+    "after": "Division is explicit in the source sentence for the later horizon as well as inclusion quarter.42% agrees with inclusion -0.00336/0.008; the later coefficient yields47.125% only as a reviewer diagnostic, not an author-reported percentage. Do not replace the printed42% or pretend the paper gives a separately calculated later ratio. Alignment unknown: the treated historical baseline is eligible, but later pooled cohort/event-time weights (including the truncated wave7 horizon) are not established to equal the Table1 weighting."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H960",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H961",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H962",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H963",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I960",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I961",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I962",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I963",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J960",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J961",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J962",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J963",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K960",
+    "before": null,
+    "after": "Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. AppendixB wording says difference between realized earnings and forecast, whereas main interpretation and high-optimism indicator use forecasts exceeding earnings; preserve this sign-wording ambiguity rather than silently fixing source."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K961",
+    "before": null,
+    "after": "Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. AppendixB wording says difference between realized earnings and forecast, whereas main interpretation and high-optimism indicator use forecasts exceeding earnings; preserve this sign-wording ambiguity rather than silently fixing source."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K962",
+    "before": null,
+    "after": "Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. AppendixB wording says difference between realized earnings and forecast, whereas main interpretation and high-optimism indicator use forecasts exceeding earnings; preserve this sign-wording ambiguity rather than silently fixing source."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K963",
+    "before": null,
+    "after": "Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. AppendixB wording says difference between realized earnings and forecast, whereas main interpretation and high-optimism indicator use forecasts exceeding earnings; preserve this sign-wording ambiguity rather than silently fixing source."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J369",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M369",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N369",
+    "before": null,
+    "after": "Binary online-access EDGAR exposure in Table4 cols1–4 PDF19; §2.2.2 PDF18; static inclusion-quarter and next-four-quarter effects. Dynamic Figure3 separately recorded in h3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O369",
+    "before": null,
+    "after": "Implemented Cengiz et al. (2019) stacked-regression estimator: cohort-specific datasets, clean future-treated controls, nine-quarter window, explicitly addressing time-varying effects and treatment-effect heterogeneity (§1.2–1.3, PDF9–10). This is not modern merely because adoption is staggered. Administrative randomized rollout is analyzed with DD, not a separately implemented experimental ITT. Matching is preprocessing; no IV or separate identifying-FE/OLS setting. Source: Table4 cols1–4 PDF19; §2.2.2 PDF18."
+  }
+]
+```
