@@ -22244,7 +22244,16 @@
     "L2340": "0",
     "M2340": "unknown",
     "N2340": "EDGAR access effects on firms fundamentals and disclosure policies: null substantive alternative-mechanism test, not merely covariate balance.",
-    "O2340": "Internet Appendix not retrieved. Main-text sentence establishes an implemented substantive analysis, but exact appendix specification, coefficient grid and additional outcomes remain unverified; do not infer unseen cells. Accessible main states no change in fundamentals or transparency, but does not specify implemented estimator or individual dependent variables. AppendixB definitions alone are insufficient evidence every listed accounting measure is an IA.8 regression outcome. Source: PDF4; PDF30 fn33, referenced §IA.1/TableIA.8; conclusion PDF39."
+    "O2340": "Internet Appendix not retrieved. Main-text sentence establishes an implemented substantive analysis, but exact appendix specification, coefficient grid and additional outcomes remain unverified; do not infer unseen cells. Accessible main states no change in fundamentals or transparency, but does not specify implemented estimator or individual dependent variables. AppendixB definitions alone are insufficient evidence every listed accounting measure is an IA.8 regression outcome. Source: PDF4; PDF30 fn33, referenced §IA.1/TableIA.8; conclusion PDF39.",
+    "A2341": "EYWPN7YT",
+    "B2341": "h12",
+    "I2341": "1",
+    "J2341": "DiD_conventional",
+    "K2341": "1",
+    "L2341": "0",
+    "M2341": "n/a",
+    "N2341": "Waves1–2 restriction of the electronic-filing-centered joint timing test in Table9C cols1–4: analyst-stock optimism and inaccuracy responses to electronic filing versus subsequent online access, with broker-size moderation. One minimum IA.10 robustness family; not a verified second online-centered model.",
+    "O2341": "Main fn40 says the placebo test is robust to restricting firms to waves1 and2, improving separation of electronic filing and January17,1994 online access. Keep the two jointly modeled timing components together because no separate appendix models or outcome grids are observable. Conventional joint DD/DDD timing design; no verified cohort-stack implementation for this altered design. Internet Appendix unavailable; horizons, coefficient rows and any further splits unresolved. Source: PDF37 fn40, referenced IA.10."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -62713,7 +62722,21 @@
     "H5931": "unknown",
     "I5931": "unknown",
     "J5931": "unknown",
-    "K5931": "Firm disclosure policies/transparency affected by EDGAR: minimum main-text-supported outcome family; exact dependent-variable identity/scale unverified because TableIA.8 unavailable."
+    "K5931": "Firm disclosure policies/transparency affected by EDGAR: minimum main-text-supported outcome family; exact dependent-variable identity/scale unverified because TableIA.8 unavailable.",
+    "A5932": "EYWPN7YT",
+    "B5932": "h12",
+    "C5932": "hy1",
+    "H5932": "0",
+    "I5932": "unknown",
+    "J5932": "other",
+    "K5932": "Analyst-stock optimism in the waves1–2 restricted electronic-filing-centered joint timing test, distinguishing electronic filing from subsequent online access. Baseline price-scaled earnings error; exact IA.10 short-/long-term grid unverified.",
+    "A5933": "EYWPN7YT",
+    "B5933": "h12",
+    "C5933": "hy2",
+    "H5933": "0",
+    "I5933": "unknown",
+    "J5933": "other",
+    "K5933": "Analyst-stock inaccuracy in the waves1–2 restricted electronic-filing-centered joint timing test, distinguishing electronic filing from subsequent online access. Baseline price-scaled earnings error; exact IA.10 short-/long-term grid unverified."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

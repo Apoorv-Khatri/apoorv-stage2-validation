@@ -328980,3 +328980,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:08:37.677063+00:00 — Review EYWPN7YT h12: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5932",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5933",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5932",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5933",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5932",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5933",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5932",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5933",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5932",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5933",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5932",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5933",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5932",
+    "before": null,
+    "after": "Analyst-stock optimism in the waves1–2 restricted electronic-filing-centered joint timing test, distinguishing electronic filing from subsequent online access. Baseline price-scaled earnings error; exact IA.10 short-/long-term grid unverified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5933",
+    "before": null,
+    "after": "Analyst-stock inaccuracy in the waves1–2 restricted electronic-filing-centered joint timing test, distinguishing electronic filing from subsequent online access. Baseline price-scaled earnings error; exact IA.10 short-/long-term grid unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2341",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2341",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2341",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2341",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2341",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2341",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2341",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2341",
+    "before": null,
+    "after": "Waves1–2 restriction of the electronic-filing-centered joint timing test in Table9C cols1–4: analyst-stock optimism and inaccuracy responses to electronic filing versus subsequent online access, with broker-size moderation. One minimum IA.10 robustness family; not a verified second online-centered model."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2341",
+    "before": null,
+    "after": "Main fn40 says the placebo test is robust to restricting firms to waves1 and2, improving separation of electronic filing and January17,1994 online access. Keep the two jointly modeled timing components together because no separate appendix models or outcome grids are observable. Conventional joint DD/DDD timing design; no verified cohort-stack implementation for this altered design. Internet Appendix unavailable; horizons, coefficient rows and any further splits unresolved. Source: PDF37 fn40, referenced IA.10."
+  }
+]
+```
