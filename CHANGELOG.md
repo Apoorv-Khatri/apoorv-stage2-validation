@@ -170493,3 +170493,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:14:39.515478+00:00 — Review CN4YZYPH h20: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5052",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5053",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5052",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5053",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5052",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5053",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5052",
+    "before": null,
+    "after": "Industry-adjusted annual stock return; industry benchmark details not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5053",
+    "before": null,
+    "after": "Unadjusted (raw) annual stock return as dependent variable in the baseline-model robustness, p204 footnote16. Distinct from DGTW/industry-adjusted returns; coefficients and peer-type-specific coverage unreported. Not assumed identical to the borrowed-model analyses of §6.2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2166",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2166",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2166",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2166",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2166",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2166",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2166",
+    "before": null,
+    "after": "RPQ effects on raw annual returns and industry-adjusted annual returns replacing DGTW-adjusted returns in the unreported baseline stock-return robustness (footnote16); results qualitatively similar. §6.2 repeats the industry-adjusted-return check. Peer-type-specific coverage not enumerated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2166",
+    "before": null,
+    "after": "Keep raw and industry-adjusted return outcome variants together at this result location; do not infer coefficients or individual peer-type coverage. Baseline linear-regression context supports OLS. Footnote16 raw-return check is not proven identical to the borrowed-model tests in §6.2: retain the distinct location/implementation while flagging potential overlap, rather than declaring it already covered. Source: p204 footnote16; §6.2 p211 lines666–668,1185–1189."
+  }
+]
+```
