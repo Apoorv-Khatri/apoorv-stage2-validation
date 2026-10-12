@@ -327342,3 +327342,234 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:05:45.860584+00:00 — Review EYWPN7YT h1: source-audited coding and linked comparisons
+
+37 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5908",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5909",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5910",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5911",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5908",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5909",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5910",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5911",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5908",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5909",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5910",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5911",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5908",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5909",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5910",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5911",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5908",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5909",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5910",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5911",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5908",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5909",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5910",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5911",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5908",
+    "before": null,
+    "after": "Stock-level short-term forecast inaccuracy: average absolute next-quarter EPS forecast error across analysts, scaled by previous quarter-end stock price. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. Scope: Binary EDGAR access effects on forecast INACCURACY across quantiles: Figure6A stock and 6B analyst-stock, short and long horizons."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5909",
+    "before": null,
+    "after": "Stock-level long-term forecast inaccuracy: average absolute current-fiscal-year EPS forecast error across analysts, scaled by previous quarter-end stock price. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. Scope: Binary EDGAR access effects on forecast INACCURACY across quantiles: Figure6A stock and 6B analyst-stock, short and long horizons."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5910",
+    "before": null,
+    "after": "Analyst-stock short-term forecast inaccuracy: analyst-specific absolute next-quarter EPS forecast error for a firm-quarter, scaled by previous quarter-end stock price. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. Scope: Binary EDGAR access effects on forecast INACCURACY across quantiles: Figure6A stock and 6B analyst-stock, short and long horizons."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5911",
+    "before": null,
+    "after": "Analyst-stock long-term forecast inaccuracy: analyst-specific absolute current-fiscal-year EPS forecast error for a firm-quarter, scaled by previous quarter-end stock price. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. Scope: Binary EDGAR access effects on forecast INACCURACY across quantiles: Figure6A stock and 6B analyst-stock, short and long horizons."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2331",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2331",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2331",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2331",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2331",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2331",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2331",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2331",
+    "before": null,
+    "after": "Binary EDGAR access effects on forecast INACCURACY across quantiles: Figure6A stock and 6B analyst-stock, short and long horizons."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2331",
+    "before": null,
+    "after": "§2.2.4 and Figure5 title explicitly call these quantile regressions; nonlinear quantile effect estimator => Other. Figure5 caption simultaneously says all specifications estimated using OLS (visually confirmed). Retain most explicit estimator identification, but flag unresolved caption conflict and unspecified quantile implementation. No inferred quantile algorithm or rank invariance. Figure6 is h1. Separate inaccuracy outcome set, not a duplicate of Figure5 optimism. Source: Figure6 PDF23; §2.2.4 PDF20–21."
+  }
+]
+```
