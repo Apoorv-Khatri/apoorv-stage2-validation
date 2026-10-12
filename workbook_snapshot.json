@@ -19670,7 +19670,16 @@
     "L2116": "0",
     "M2116": "n/a",
     "N2116": "Monthly-only regression of EOM cryptocurrency return on monthly Tether issuance, full25 months and excluding top-two issuance months; Bitcoin and top-five value-weighted return.",
-    "O2116": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Distinct monthly EOM-only estimand from daily EOM×issuance h4. Main reports Bitcoin t=-2.85 and -1.26 full/restricted; top-five t=-4.85 and -2.97. Coefficients unreported in main; do not impute h4 coefficients. Source: p.1954 text/footnote35 lines1882–1900; Table IA.VIII. Certainty: source-grounded."
+    "O2116": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Distinct monthly EOM-only estimand from daily EOM×issuance h4. Main reports Bitcoin t=-2.85 and -1.26 full/restricted; top-five t=-4.85 and -2.97. Coefficients unreported in main; do not impute h4 coefficients. Source: p.1954 text/footnote35 lines1882–1900; Table IA.VIII. Certainty: source-grounded.",
+    "A2117": "ACJ72JDD",
+    "B2117": "h24",
+    "I2117": "1",
+    "J2117": "unknown",
+    "K2117": "unknown",
+    "L2117": "1",
+    "M2117": "unknown",
+    "N2117": "Monthly issuance/end-of-month reserve-liquidation relation: Bitcoin net flows from Bitfinex reserve wallets during last five days, and analogous exchange placebo wallets.",
+    "O2117": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main establishes implemented substantive reserve channel, Bitfinex outflow t=3.14, other-exchange null. It does not specify estimator or whether focal treatment is continuous issuance, high-issuance indicator, EOM indicator or interaction. Do not invent treatment support or FE. Addresses/construction in missing header. Source: p.1957 lines2004–2037; Table IA.IX. Certainty: estimator/treatment support unresolved."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55051,7 +55060,11 @@
     "A4976": "ACJ72JDD",
     "B4976": "h23",
     "C4976": "hy2",
-    "K4976": "Top-five value-weighted cryptocurrency index EOM return in monthly-only regression; exact raw versus surrounding-day-adjusted scale in IA.VIII unresolved."
+    "K4976": "Top-five value-weighted cryptocurrency index EOM return in monthly-only regression; exact raw versus surrounding-day-adjusted scale in IA.VIII unresolved.",
+    "A4977": "ACJ72JDD",
+    "B4977": "h24",
+    "C4977": "hy1",
+    "K4977": "Net Bitcoin outflow from Bitfinex reserve wallets including main cold wallets, last five days of month; main reports significant outflow in large-issuance months; exact normalization pending."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -147747,3 +147747,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:38:31.142408+00:00 — Review ACJ72JDD h24: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4977",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4977",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4977",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4977",
+    "before": null,
+    "after": "Net Bitcoin outflow from Bitfinex reserve wallets including main cold wallets, last five days of month; main reports significant outflow in large-issuance months; exact normalization pending."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2117",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2117",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2117",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2117",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2117",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2117",
+    "before": null,
+    "after": "Monthly issuance/end-of-month reserve-liquidation relation: Bitcoin net flows from Bitfinex reserve wallets during last five days, and analogous exchange placebo wallets."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2117",
+    "before": null,
+    "after": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main establishes implemented substantive reserve channel, Bitfinex outflow t=3.14, other-exchange null. It does not specify estimator or whether focal treatment is continuous issuance, high-issuance indicator, EOM indicator or interaction. Do not invent treatment support or FE. Addresses/construction in missing header. Source: p.1957 lines2004–2037; Table IA.IX. Certainty: estimator/treatment support unresolved."
+  }
+]
+```
