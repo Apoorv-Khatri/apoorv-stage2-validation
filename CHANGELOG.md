@@ -167052,3 +167052,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:47:19.196248+00:00 — Review CETFVPE5 h6: source-audited coding and linked comparisons
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2441",
+    "before": null,
+    "after": "CETFVPE5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2441",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2441",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2441",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2441",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2441",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2441",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2441",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2441",
+    "before": null,
+    "after": "Published p154, §4.2, main-text report of Appendix TableA5 (main.txt lines1184–1194). Focal estimate: high-minus-low institutional-ownership-quintile contrast; numeric difference and its t-value not separately printed. Conditional seasonal spread group levels: low101 and high112bps/month. Reference: 101bps/month in the low-IO quintile. These are group-average monthly seasonal spreads; the spread is the focal outcome in this setting. Authors compare levels/differences in words, without a fraction, percentage or normalization. Full Appendix unavailable."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2441",
+    "before": null,
+    "after": "Eligibility is separate from alignment: the stated group level is a mean of the spread outcome at the outer moderator contrast, not an outcome SD or an estimated effect of another treatment on individual-stock return. The observed comparison-group mean is not established to represent the focal target’s untreated/counterfactual mean. Target weights, portfolio weighting and required population correspondence are unreported; use unknown, not automatically1 or0. No ratio or unprinted numeric difference has been calculated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5017",
+    "before": null,
+    "after": "CETFVPE5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5017",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5017",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5017",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5017",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5017",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5017",
+    "before": null,
+    "after": "Monthly seasonality return spread from conditional portfolio sorts: first sort by size-adjusted institutional ownership, then by past same-month minus other-month returns. Units: basis points/month. This spread, not an individual-stock return, is the outcome of the outer extreme-size-adjusted institutional ownership-group comparison. Exact second-sort legs/cutoffs and portfolio weights are not specified in the accessible A5 description. Nonbinary outcome; no log/SD transformation reported; observed zero mass unknown."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E34",
+    "before": null,
+    "after": "DONE — Available-source review: all 24 supplied published pages and original records reviewed and independently cross-checked. Historical-return prediction, mood-beta pricing, decomposition and performance settings excluded on parameter-specific causal interpretation, not identification quality. Retained author-interpreted limits-to-arbitrage moderator tests and main-text-supported extreme-group seasonal-spread contrasts; added three spread-outcome mean comparisons, with alignment unknown and no invented division. External Appendix unavailable: exact sort weights/cutoffs, additional specifications and supplementary comparisons remain unverified. Causal-gate boundary is interpretive; original model fields preserved. NOT exhaustive whole-package completion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2147",
+    "before": null,
+    "after": "CETFVPE5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2147",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2147",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2147",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2147",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2147",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2147",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2147",
+    "before": null,
+    "after": "Referenced TableA5 and §4.2: high-versus-low size-adjusted institutional-ownership quintile contrast in conditional seasonality return spreads; low-IO101bps/month and high-IO112bps/month. Authors conclude the spread does not vary meaningfully with institutional ownership."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2147",
+    "before": null,
+    "after": "Retain the author-interpreted limits-to-arbitrage mechanism and the explicitly compared two extreme groups, not the whole multi-bin dose. Linear sorted-group contrast: OLS, not Matching or DiD. Main-text implemented methodology and endpoint results suffice without the full A5 grid. Exact second-sort portfolio cutoffs, weights, dates and unreported coefficients remain unknown. The outcome here is the conditional seasonal return spread itself. Its group levels (low101 and high112bps/month) are therefore same-outcome reference levels for the outer size-adjusted institutional ownership contrast, not another treatment effect used as a benchmark for an individual-stock-return coefficient. Comparison hc1 is verbal without division; population alignment is unknown. Do not invent intermediate contrasts or calculate an unreported author estimate. Source: §4.2 p154 lines1146–1194; referenced TableA5."
+  }
+]
+```

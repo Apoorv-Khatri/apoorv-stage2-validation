@@ -147,6 +147,7 @@
     "B34": "Are return seasonalities due to risk or mispricing?",
     "C34": "fin",
     "D34": 11,
+    "E34": "DONE — Available-source review: all 24 supplied published pages and original records reviewed and independently cross-checked. Historical-return prediction, mood-beta pricing, decomposition and performance settings excluded on parameter-specific causal interpretation, not identification quality. Retained author-interpreted limits-to-arbitrage moderator tests and main-text-supported extreme-group seasonal-spread contrasts; added three spread-outcome mean comparisons, with alignment unknown and no invented division. External Appendix unavailable: exact sort weights/cutoffs, additional specifications and supplementary comparisons remain unverified. Causal-gate boundary is interpretive; original model fields preserved. NOT exhaustive whole-package completion.",
     "A35": "CN4YZYPH",
     "B35": "Relative peer quality and firm performance",
     "C35": "fin",
@@ -20088,7 +20089,16 @@
     "L2146": "0",
     "M2146": "n/a",
     "N2146": "Referenced TableA5 and §4.2: implemented highest-minus-lowest idiosyncratic-volatility quintile contrast in conditional seasonality return spreads. First sort on volatility quintile, then same-minus-other historical returns; low73bps/month, high111bps/month, extreme difference t1.56 (numeric difference not printed in prose).",
-    "O2146": "Retain the author-interpreted limits-to-arbitrage mechanism and the explicitly compared two extreme groups, not the whole multi-bin dose. Linear sorted-group contrast: OLS, not Matching or DiD. Main-text implemented methodology and endpoint results suffice without the full A5 grid. Exact second-sort portfolio cutoffs, weights, dates and unreported coefficients remain unknown. The outcome here is the conditional seasonal return spread itself. Its group levels (low73 and high111bps/month) are therefore same-outcome reference levels for the outer idiosyncratic volatility contrast, not another treatment effect used as a benchmark for an individual-stock-return coefficient. Comparison hc1 is verbal without division; population alignment is unknown. Do not invent intermediate contrasts or calculate an unreported author estimate. Source: §4.2 p154 lines1146–1194; referenced TableA5."
+    "O2146": "Retain the author-interpreted limits-to-arbitrage mechanism and the explicitly compared two extreme groups, not the whole multi-bin dose. Linear sorted-group contrast: OLS, not Matching or DiD. Main-text implemented methodology and endpoint results suffice without the full A5 grid. Exact second-sort portfolio cutoffs, weights, dates and unreported coefficients remain unknown. The outcome here is the conditional seasonal return spread itself. Its group levels (low73 and high111bps/month) are therefore same-outcome reference levels for the outer idiosyncratic volatility contrast, not another treatment effect used as a benchmark for an individual-stock-return coefficient. Comparison hc1 is verbal without division; population alignment is unknown. Do not invent intermediate contrasts or calculate an unreported author estimate. Source: §4.2 p154 lines1146–1194; referenced TableA5.",
+    "A2147": "CETFVPE5",
+    "B2147": "h6",
+    "I2147": "1",
+    "J2147": "OLS",
+    "K2147": "1",
+    "L2147": "0",
+    "M2147": "n/a",
+    "N2147": "Referenced TableA5 and §4.2: high-versus-low size-adjusted institutional-ownership quintile contrast in conditional seasonality return spreads; low-IO101bps/month and high-IO112bps/month. Authors conclude the spread does not vary meaningfully with institutional ownership.",
+    "O2147": "Retain the author-interpreted limits-to-arbitrage mechanism and the explicitly compared two extreme groups, not the whole multi-bin dose. Linear sorted-group contrast: OLS, not Matching or DiD. Main-text implemented methodology and endpoint results suffice without the full A5 grid. Exact second-sort portfolio cutoffs, weights, dates and unreported coefficients remain unknown. The outcome here is the conditional seasonal return spread itself. Its group levels (low101 and high112bps/month) are therefore same-outcome reference levels for the outer size-adjusted institutional ownership contrast, not another treatment effect used as a benchmark for an individual-stock-return coefficient. Comparison hc1 is verbal without division; population alignment is unknown. Do not invent intermediate contrasts or calculate an unreported author estimate. Source: §4.2 p154 lines1146–1194; referenced TableA5."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55969,7 +55979,14 @@
     "H5016": "0",
     "I5016": "unknown",
     "J5016": "none",
-    "K5016": "Monthly seasonality return spread from conditional portfolio sorts: first sort by idiosyncratic volatility, then by past same-month minus other-month returns. Units: basis points/month. This spread, not an individual-stock return, is the outcome of the outer extreme-idiosyncratic volatility-group comparison. Exact second-sort legs/cutoffs and portfolio weights are not specified in the accessible A5 description. Nonbinary outcome; no log/SD transformation reported; observed zero mass unknown."
+    "K5016": "Monthly seasonality return spread from conditional portfolio sorts: first sort by idiosyncratic volatility, then by past same-month minus other-month returns. Units: basis points/month. This spread, not an individual-stock return, is the outcome of the outer extreme-idiosyncratic volatility-group comparison. Exact second-sort legs/cutoffs and portfolio weights are not specified in the accessible A5 description. Nonbinary outcome; no log/SD transformation reported; observed zero mass unknown.",
+    "A5017": "CETFVPE5",
+    "B5017": "h6",
+    "C5017": "hy1",
+    "H5017": "0",
+    "I5017": "unknown",
+    "J5017": "none",
+    "K5017": "Monthly seasonality return spread from conditional portfolio sorts: first sort by size-adjusted institutional ownership, then by past same-month minus other-month returns. Units: basis points/month. This spread, not an individual-stock return, is the outcome of the outer extreme-size-adjusted institutional ownership-group comparison. Exact second-sort legs/cutoffs and portfolio weights are not specified in the accessible A5 description. Nonbinary outcome; no log/SD transformation reported; observed zero mass unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -82348,7 +82365,18 @@
     "O2440": "0",
     "P2440": "unknown",
     "Q2440": "Published p154, §4.2, main-text report of Appendix TableA5 (main.txt lines1170–1184). Focal estimate: highest-minus-lowest volatility-quintile contrast; numeric difference not separately printed, t1.56. Conditional seasonal spread group levels: low73 and high111bps/month. Reference: 73bps/month in the lowest-volatility quintile. These are group-average monthly seasonal spreads; the spread is the focal outcome in this setting. Authors compare levels/differences in words, without a fraction, percentage or normalization. Full Appendix unavailable.",
-    "R2440": "Eligibility is separate from alignment: the stated group level is a mean of the spread outcome at the outer moderator contrast, not an outcome SD or an estimated effect of another treatment on individual-stock return. The observed comparison-group mean is not established to represent the focal target’s untreated/counterfactual mean. Target weights, portfolio weighting and required population correspondence are unreported; use unknown, not automatically1 or0. No ratio or unprinted numeric difference has been calculated."
+    "R2440": "Eligibility is separate from alignment: the stated group level is a mean of the spread outcome at the outer moderator contrast, not an outcome SD or an estimated effect of another treatment on individual-stock return. The observed comparison-group mean is not established to represent the focal target’s untreated/counterfactual mean. Target weights, portfolio weighting and required population correspondence are unreported; use unknown, not automatically1 or0. No ratio or unprinted numeric difference has been calculated.",
+    "A2441": "CETFVPE5",
+    "B2441": "h6",
+    "C2441": "hc1",
+    "K2441": "1",
+    "L2441": "hy1",
+    "M2441": "outcome_mean",
+    "N2441": "1",
+    "O2441": "0",
+    "P2441": "unknown",
+    "Q2441": "Published p154, §4.2, main-text report of Appendix TableA5 (main.txt lines1184–1194). Focal estimate: high-minus-low institutional-ownership-quintile contrast; numeric difference and its t-value not separately printed. Conditional seasonal spread group levels: low101 and high112bps/month. Reference: 101bps/month in the low-IO quintile. These are group-average monthly seasonal spreads; the spread is the focal outcome in this setting. Authors compare levels/differences in words, without a fraction, percentage or normalization. Full Appendix unavailable.",
+    "R2441": "Eligibility is separate from alignment: the stated group level is a mean of the spread outcome at the outer moderator contrast, not an outcome SD or an estimated effect of another treatment on individual-stock return. The observed comparison-group mean is not established to represent the focal target’s untreated/counterfactual mean. Target weights, portfolio weighting and required population correspondence are unreported; use unknown, not automatically1 or0. No ratio or unprinted numeric difference has been calculated."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
