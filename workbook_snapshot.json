@@ -19934,7 +19934,16 @@
     "L2132": "1",
     "M2132": "n/a",
     "N2132": "Table4 columns1–2: binary voluntary disclosure versus no disclosure on changes in log spread and log loan amount. Column1 year FE; column2 borrower plus year FE; no lender FE.",
-    "O2132": "Year FE explicitly remove time-varying economic conditions (§2 and Tables2–4 captions); borrower FE remove fixed unobserved quality; lender FE remove persistent lender differences. Count year, borrower, lender as three separate effective dimensions. No DiD design: changes in the dependent variable alone do not imply DiD. Standard FE (one/two sets), not HDFE. No no-FE OLS column exists here, so no artificial OLS setting is added. Source: Table4 cols1–2; pp3085–3088."
+    "O2132": "Year FE explicitly remove time-varying economic conditions (§2 and Tables2–4 captions); borrower FE remove fixed unobserved quality; lender FE remove persistent lender differences. Count year, borrower, lender as three separate effective dimensions. No DiD design: changes in the dependent variable alone do not imply DiD. Standard FE (one/two sets), not HDFE. No no-FE OLS column exists here, so no artificial OLS setting is added. Source: Table4 cols1–2; pp3085–3088.",
+    "A2133": "BHYG5F75",
+    "B2133": "h4",
+    "I2133": "1",
+    "J2133": "OLS",
+    "K2133": "0",
+    "L2133": "0",
+    "M2133": "n/a",
+    "N2133": "Table5 col2: HHI (industry-state-year revenue concentration) affects binary voluntary disclosure; coefficient −10.7481, linear regression with loan controls.",
+    "O2133": "Distinct substantive determinant split from s4. Broad causal-intention inclusion, not a claim of credible exogenous assignment. No identifying FE established in Eq2/prose despite generic caption. GrowthDispersion is a treatment SD measure, not an outcome-SD benchmark. Footnote16 also refers broadly to year effects in all specifications; Table5 implementation is therefore unresolved rather than verified to contain no dummy controls. OLS is a qualified Eq2-based classification. Source: Table5 col2, pp3090–3092."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55665,7 +55674,11 @@
     "H5001": "0",
     "I5001": "unknown",
     "J5001": "other",
-    "K5001": "Next-minus-current natural-log loan amount, Table4 panel B cols1–2. Difference of logs, not log of a change. Percentage interpretations imply a scale convention not expressly stated in the caption; preserve printed coefficients. Observed zero mass of the log change is unreported."
+    "K5001": "Next-minus-current natural-log loan amount, Table4 panel B cols1–2. Difference of logs, not log of a change. Percentage interpretations imply a scale convention not expressly stated in the caption; preserve printed coefficients. Observed zero mass of the log change is unreported.",
+    "A5002": "BHYG5F75",
+    "B5002": "h4",
+    "C5002": "hy1",
+    "K5002": "Disclose: one if at least one eligible financial metric voluntarily disclosed in loan, zero otherwise; not a sample disclosure rate. Main sample rate5.75%, IPO sample9%."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
