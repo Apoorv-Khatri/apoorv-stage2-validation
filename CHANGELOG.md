@@ -149013,3 +149013,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:00:57.608340+00:00 — Review ANHCKZYX s9: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H797",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I797",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J797",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K797",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s9 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I281",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O281",
+    "before": null,
+    "after": "Outside causal scope: Market-adjusted alphas test whether premiums are explained by correlation to traditional markets. An intercept/risk-adjusted performance is not a causal response to exposure; market factors are controls, not identifying FE. Source: §4.1 Table 8A pp.1143–1144; lines1084–1101,1143–1166. Certainty: source-grounded causal-gate recommendation."
+  }
+]
+```
