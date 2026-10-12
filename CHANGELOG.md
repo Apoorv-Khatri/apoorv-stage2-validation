@@ -164139,3 +164139,456 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:23:12.570748+00:00 — Review BHYG5F75 h2: source-audited coding and linked comparisons
+
+74 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2433",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2434",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2435",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2436",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2433",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2434",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2435",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2436",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2433",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2434",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2435",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2436",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2436",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2433",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2434",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2435",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2436",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2433",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2434",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2435",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2436",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2436",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2433",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2433",
+    "before": null,
+    "after": "Table3A col1 p3086 lines772–774: focal 0.1942 lenders (rounded0.2), stated7%; benchmark 2.8 syndicate participants including sole-lender loans."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2434",
+    "before": null,
+    "after": "Table3B col1 and p3087 lines798–810: focal −8.8448pp retained-share change; benchmark average retained-share level including sole-led loans, exact value unstated; prose range5.5–8.8pp is13%–20%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2435",
+    "before": null,
+    "after": "Table3B col2 and p3087 lines798–810: focal −7.8381pp retained-share change; benchmark average retained-share level including sole-led loans, exact value unstated; prose range5.5–8.8pp is13%–20%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2436",
+    "before": null,
+    "after": "Table3C col1 p3087 lines811–823: focal 0.0531 nonbank institutions (rounded0.05); benchmark 0.01 institutions per average syndicate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2433",
+    "before": null,
+    "after": "Explicit author comparison qualifies on underlying outcome, but estimated dependent variable is next-minus-current change while benchmark is level; alignment0. Do not relabel benchmark as mean change. Table1 overall mean3.04 is not the stated2.8; retain source discrepancy. Alignment0 uses the literal reported change-outcome versus level-benchmark convention, not a dimensional-unit incompatibility. Under a future-level-effect interpretation, untreated population and conditioning remain unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2434",
+    "before": null,
+    "after": "Explicit author comparison qualifies on underlying outcome, but estimated dependent variable is next-minus-current change while benchmark is level; alignment0. Do not relabel benchmark as mean change. Broad range described across columns; per-column normalized percentage not given. Rounded5.5 matches both cols3 and4; preserve both distinct coefficients. Independent audit of range scope recommended. Alignment0 uses the literal reported change-outcome versus level-benchmark convention, not a dimensional-unit incompatibility. Under a future-level-effect interpretation, untreated population and conditioning remain unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2435",
+    "before": null,
+    "after": "Explicit author comparison qualifies on underlying outcome, but estimated dependent variable is next-minus-current change while benchmark is level; alignment0. Do not relabel benchmark as mean change. Broad range described across columns; per-column normalized percentage not given. Rounded5.5 matches both cols3 and4; preserve both distinct coefficients. Independent audit of range scope recommended. Alignment0 uses the literal reported change-outcome versus level-benchmark convention, not a dimensional-unit incompatibility. Under a future-level-effect interpretation, untreated population and conditioning remain unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2436",
+    "before": null,
+    "after": "Explicit author comparison qualifies on underlying outcome, but estimated dependent variable is next-minus-current change while benchmark is level; alignment0. Do not relabel benchmark as mean change. Prose says marginal increase grows with FE, but printed coefficients fall0.0531→0.0482→0.0478→0.0366; do not repair or infer extra comparisons. Rounded0.05 could also cover cols2–3, but discussion baseline attribution supports col1; ambiguity logged. Alignment0 uses the literal reported change-outcome versus level-benchmark convention, not a dimensional-unit incompatibility. Under a future-level-effect interpretation, untreated population and conditioning remain unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4997",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4998",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4999",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4997",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4998",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4999",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4997",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4998",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4999",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4997",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4998",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4999",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4997",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4998",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4999",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4997",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4998",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4999",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4997",
+    "before": null,
+    "after": "Outcome is next-minus-current number of lenders. Zero mass for these changes is not tabulated; level zeros in Table1 do not establish change zeros in each regression sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4998",
+    "before": null,
+    "after": "Outcome is next-minus-current lead arranger retained share (percentage points). Zero mass for these changes is not tabulated; level zeros in Table1 do not establish change zeros in each regression sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4999",
+    "before": null,
+    "after": "Outcome is next-minus-current number of nonbank institutions. Zero mass for these changes is not tabulated; level zeros in Table1 do not establish change zeros in each regression sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2131",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2131",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2131",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2131",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2131",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2131",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2131",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2131",
+    "before": null,
+    "after": "Table3 columns1–2: binary voluntary disclosure versus no disclosure on changes in syndicate size, retained share and nonbank participant count. Column1 year FE; column2 borrower plus year FE; no lender FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2131",
+    "before": null,
+    "after": "Year FE explicitly remove time-varying economic conditions (§2 and Tables2–4 captions); borrower FE remove fixed unobserved quality; lender FE remove persistent lender differences. Count year, borrower, lender as three separate effective dimensions. No DiD design: changes in the dependent variable alone do not imply DiD. Standard FE (one/two sets), not HDFE. No no-FE OLS column exists here, so no artificial OLS setting is added. Source: Table3 cols1–2; pp3085–3088."
+  }
+]
+```
