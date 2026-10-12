@@ -174957,3 +174957,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:47:15.570342+00:00 — Review DPFRSKRY s8: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H896",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I896",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J896",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K896",
+    "before": null,
+    "after": "No verified evidence establishes a probability mass at zero in the actual estimation sample. Holdings/trades can in principle be zero, but source does not state whether unheld pairs/exits/no-trade observations are retained; change model zero_mass=1 to unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I343",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J343",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K343",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L343",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M343",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O343",
+    "before": null,
+    "after": "DDD takes precedence over all FE. Near-disaster CLOSE×POST=.003 is the lower-order comparison-group effect, triple interaction=−.050 the incremental disaster-zone differential. Matched neighboring counties are preprocessing, not a separate Matching estimator. Visually verified all four columns have identical reported coefficients, p-values, N and adjusted R2 despite changing controls; flag rather than repair. The explicitly interpreted near-disaster CLOSE×POST=.003 estimand is recorded separately in h11; this row retains the incremental disaster-versus-near-disaster DDD estimand. The implied total close/far effect in disaster firms is not a separately reported estimate and is not added. Source: §3.3.1/Table9 PanelB cols5–8 pp1172–1173; L1635–1695,1727–1747."
+  }
+]
+```
