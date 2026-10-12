@@ -20287,7 +20287,16 @@
     "L2155": "0",
     "M2155": "n/a",
     "N2155": "Compensation peers: Residual RPQ (residual from pooled RPQ on lagged industry-adjusted ROA regression) effects on adjusted returns and change in adjusted ROA; Table7 A/B col3; pooled linear regression with year/industry controls.",
-    "O2155": "Alternative treatment, not mere covariate variant; author reports baseline findings remain qualitatively consistent. Source: §6.1/Table7 pp209–211; lines1066–1236."
+    "O2155": "Alternative treatment, not mere covariate variant; author reports baseline findings remain qualitatively consistent. Source: §6.1/Table7 pp209–211; lines1066–1236.",
+    "A2156": "CN4YZYPH",
+    "B2156": "h9",
+    "I2156": "1",
+    "J2156": "OLS",
+    "K2156": "1",
+    "L2156": "0",
+    "M2156": "n/a",
+    "N2156": "Bonus peers: High_RPQ (indicator RPQ>0.5 versus RPQ≤0.5) effects on adjusted returns and change in adjusted ROA; Table7 A/B col4; pooled linear regression with year/industry controls.",
+    "O2156": "Alternative treatment, not mere covariate variant; author reports baseline findings remain qualitatively consistent. Source: §6.1/Table7 pp209–211; lines1066–1236."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56252,7 +56261,21 @@
     "A5031": "CN4YZYPH",
     "B5031": "h8",
     "C5031": "hy2",
-    "K5031": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1."
+    "K5031": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1.",
+    "A5032": "CN4YZYPH",
+    "B5032": "h9",
+    "C5032": "hy1",
+    "H5032": "0",
+    "I5032": "unknown",
+    "J5032": "none",
+    "K5032": "DGTW characteristic-adjusted annual stock return, fiscal year t (decimal return).",
+    "A5033": "CN4YZYPH",
+    "B5033": "h9",
+    "C5033": "hy2",
+    "H5033": "0",
+    "I5033": "unknown",
+    "J5033": "other",
+    "K5033": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

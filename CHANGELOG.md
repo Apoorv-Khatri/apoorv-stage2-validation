@@ -169347,3 +169347,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:12:11.336045+00:00 — Review CN4YZYPH h9: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5032",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5033",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5032",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5033",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5032",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5033",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5032",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5033",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5032",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5033",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5032",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5033",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5032",
+    "before": null,
+    "after": "DGTW characteristic-adjusted annual stock return, fiscal year t (decimal return)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5033",
+    "before": null,
+    "after": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2156",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2156",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2156",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2156",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2156",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2156",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2156",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2156",
+    "before": null,
+    "after": "Bonus peers: High_RPQ (indicator RPQ>0.5 versus RPQ≤0.5) effects on adjusted returns and change in adjusted ROA; Table7 A/B col4; pooled linear regression with year/industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2156",
+    "before": null,
+    "after": "Alternative treatment, not mere covariate variant; author reports baseline findings remain qualitatively consistent. Source: §6.1/Table7 pp209–211; lines1066–1236."
+  }
+]
+```
