@@ -137682,3 +137682,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:49:18.691070+00:00 — Review AAT34438 s2: source-audited coding and linked comparisons
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K151",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L151",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M151",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P151",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q151",
+    "before": null,
+    "after": "Introduction p2187: “a one standard deviation increase in algorithmic trading decreases information acquisition before earnings announcements by 9% to 13%.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R151",
+    "before": null,
+    "after": "Rejected as a separately codable benchmark comparison: treatment SD is not outcome SD; no actual same-outcome level or specific table-column/benchmark association is stated for this IV headline. Do not import Table2 OLS median0.455 to Table4 IV. Percentage claim preserved in audit, but other_level cannot be an unspecified normalization catch-all."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H754",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I754",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J754",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K754",
+    "before": null,
+    "after": "Price jump ratio CAR(T−1,T+2)/CAR(T−21,T+2), using Fama–French three-factor residualized log returns. This is a ratio, NOT log of the ratio; continuous, zero mass unknown. Denominator volatility filter excludes near-zero denominators, not zero numerators. Eq2 pp2192–2194."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I262",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J262",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K262",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L262",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M262",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N262",
+    "before": null,
+    "after": "Table4 linear2SLS effect of continuous log AT activity on jump ratio. One excluded instrument: log average stock price over[T−42,T−22], one AT proxy at a time. Basic controls versus fuller controls+month FE remain routine variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O262",
+    "before": null,
+    "after": "Instrument is lagged log price, not the endogenous AT proxy or fitted first-stage index. Relative one-cent tick rationale motivates relevance; conditional exclusion asserted. No stock FE in2SLS. No binary treatment. Source: Eq5, Table4 pp2203–2205; §5.2 pp2201–2206. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
+  }
+]
+```
