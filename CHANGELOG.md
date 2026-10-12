@@ -141894,3 +141894,486 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:35:48.651797+00:00 — Review ACJ72JDD h8: source-audited coding and linked comparisons
+
+79 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2174",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2175",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2176",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2177",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2178",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2179",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2174",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2175",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2176",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2177",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2178",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2179",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2174",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2175",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2176",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2177",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2178",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2179",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2174",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2175",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2176",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2177",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2178",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2179",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2174",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2175",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2176",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2177",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2178",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2179",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2174",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2175",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2176",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2177",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2178",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2179",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2174",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2175",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2176",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2177",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2178",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2179",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2174",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2175",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2176",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2177",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2178",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2179",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2174",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2175",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2176",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2177",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2178",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2179",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2174",
+    "before": null,
+    "after": "§III.C p.1941 and TableIA.V cross-reference: delete next-hour returns following top1%1LSg flows; Bitcoin buy-and-hold return 55.0% lower than actual481.8% over March1,2017–Mar31,2018. Top1% deletion leaves216%; remaining exact deleted levels not printed in primary."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2175",
+    "before": null,
+    "after": "Figure7 p.1944: bootstrap replacement of next-hour returns after top1%1LSg flows,10000 draws, compared to actual481.8% compounded Bitcoin return. Primary p.1941 reports simulated mean221% for top1%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2176",
+    "before": null,
+    "after": "§III.C p.1941 and TableIA.V cross-reference: delete next-hour returns following top5%1LSg flows; Bitcoin buy-and-hold return 67.2% lower than actual481.8% over March1,2017–Mar31,2018. Top1% deletion leaves216%; remaining exact deleted levels not printed in primary."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2177",
+    "before": null,
+    "after": "Figure7 p.1944: bootstrap replacement of next-hour returns after top5%1LSg flows,10000 draws, compared to actual481.8% compounded Bitcoin return. Mean of this simulated distribution not printed in primary."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2178",
+    "before": null,
+    "after": "§III.C p.1941 and TableIA.V cross-reference: delete next-hour returns following top10%1LSg flows; Bitcoin buy-and-hold return 79.2% lower than actual481.8% over March1,2017–Mar31,2018. Top1% deletion leaves216%; remaining exact deleted levels not printed in primary."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2179",
+    "before": null,
+    "after": "Figure7 p.1944: bootstrap replacement of next-hour returns after top10%1LSg flows,10000 draws, compared to actual481.8% compounded Bitcoin return. Mean of this simulated distribution not printed in primary."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2175",
+    "before": null,
+    "after": "Bootstrap replacement, not same estimate as deterministic deletion. Do not treat10000 repetitions or extreme-tail probability as magnitude comparison themselves."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2177",
+    "before": null,
+    "after": "Bootstrap replacement, not same estimate as deterministic deletion. Do not treat10000 repetitions or extreme-tail probability as magnitude comparison themselves."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2179",
+    "before": null,
+    "after": "Bootstrap replacement, not same estimate as deterministic deletion. Do not treat10000 repetitions or extreme-tail probability as magnitude comparison themselves."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4956",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4956",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4956",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4956",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4956",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4956",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4956",
+    "before": null,
+    "after": "Bitcoin compounded buy-and-hold return (percent), March1,2017–March31,2018; actual versus 1LSg-selected-hour deletion/replacement."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2106",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2106",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2106",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2106",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2106",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2106",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2106",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2106",
+    "before": null,
+    "after": "§III.C/Figure7 and referenced Table IA.V: compounded Bitcoin path with versus without next-hour returns following top1%,5%,10% 1LSg-specific flows; bootstrap replacements as companion counterfactual."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2106",
+    "before": null,
+    "after": "Same nonlinear partial assessment limitations as h7; distinct focal source of flow. Top-tail variants grouped. Bootstrap mean221% for top1% is not the deletion return216%; do not merge distinct recomputations. Source: pp.1941,1944–1945, Figure7; lines1289–1380; Table IA.V not recovered. Certainty: source-grounded."
+  }
+]
+```
