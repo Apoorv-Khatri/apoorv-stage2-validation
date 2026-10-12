@@ -326655,3 +326655,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:04:17.976046+00:00 — Review EYWPN7YT s10: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K203",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R203",
+    "before": null,
+    "after": "One in ten analysts upgrading one notch is a translation of a mean rating change into its natural scale, not comparison with a stated same-outcome baseline level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H982",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H983",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I982",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I983",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J981",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J982",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J983",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K981",
+    "before": null,
+    "after": "Reverse-scored recommendation scale 1–5, or stock-level average thereof; zero excluded by scale. Value Line null result has substantive mechanism interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K982",
+    "before": null,
+    "after": "Reverse-scored recommendation scale 1–5, or stock-level average thereof; zero excluded by scale. Value Line null result has substantive mechanism interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K983",
+    "before": null,
+    "after": "Duplicate of h19/hy1 after method split: Value Line Table6 col3 has1993–1994 data and the single January17,1994 online-access contrast. Preserve original row/ID; do not count this outcome under multi-cohort s10."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J375",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M375",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N375",
+    "before": null,
+    "after": "Binary EDGAR online-access effect on sell-side recommendation strength at stock and analyst-stock levels, Table6 cols1–2 only. Value Line col3 is retained separately in h19 because its1993–1994 sample has only one online-access treatment date."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O375",
+    "before": null,
+    "after": "Implemented Cengiz et al. (2019) stacked-regression estimator: cohort-specific datasets, clean future-treated controls, nine-quarter window, explicitly addressing time-varying effects and treatment-effect heterogeneity (§1.2–1.3, PDF9–10). This is not modern merely because adoption is staggered. Administrative randomized rollout is analyzed with DD, not a separately implemented experimental ITT. Matching is preprocessing; no IV or separate identifying-FE/OLS setting. Value Line col3 moved to h19 (conventional single-date DD), not discarded as diagnostic-only. No eligible rating-level benchmark in the one-in-ten one-notch interpretation. Source: Table6 PDF27, §2.2.9 PDF26 and conclusion PDF40."
+  }
+]
+```
