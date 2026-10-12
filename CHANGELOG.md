@@ -133551,3 +133551,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:38:54.665305+00:00 — Review 9XGMQWX5 s4: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K147",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L147",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M147",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N147",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O147",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P147",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q147",
+    "before": null,
+    "after": "Final p.12/Table10(4) p.13: effect described as 4.56 percentage points excess IRR (table rounded coefficient0.046). Prose explicitly compares with average excess return3.9% for funds in the sample, Table3B N395; regression N371. Retain this same-outcome mean only."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R147",
+    "before": null,
+    "after": "Correct benchmark other_level to outcome_mean. The adjacent14.0% raw net IRR is a different outcome, not a second same-outcome benchmark. Counterfactual/continuous-target population and weights for the3.9% mean are unreported. Definition of excess IRR subtracting a fund median is not itself an additional effect comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K733",
+    "before": null,
+    "after": "Fund excess IRR in decimal return units: net IRR minus the Preqin median fund benchmark. Table captions specify region and year; p.6 also says investment strategy. Not raw net IRR and not an outcome normalization by an outcome mean. The paper does not establish a point mass at exactly zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I250",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J250",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K250",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L250",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M250",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N250",
+    "before": null,
+    "after": "Table10 direct reduced-form effect of hiring-relevant average daughters, all/senior partners, on fund excess IRR."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O250",
+    "before": null,
+    "after": "Average net IRR 14.0% is a different outcome level from excess IRR. Retain only the explicitly compared excess-return mean 3.9%. Table10(4) prints 0.046; prose reports 4.56 percentage points. Source: Table10 pp.12–13."
+  }
+]
+```
