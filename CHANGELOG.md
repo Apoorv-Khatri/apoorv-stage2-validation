@@ -167967,3 +167967,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:09:03.176532+00:00 — Review CN4YZYPH s15: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I324",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J324",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K324",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L324",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M324",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O324",
+    "before": null,
+    "after": "Causal-intention gate passes: authors interpret this focal peer-quality/policy contrast as affecting the stated outcome. Year/industry dummy controls alone have no separately argued identifying role; retain OLS classification, not HDFE. Footnote29 firm-size proxy for peer CEO pay gives similar results; group as prize/proxy robustness. Current-year Pay_Gap is not claimed predetermined. Chow-test prose says performance-effect difference significant at5%, without explicitly restricting to stock returns; do not narrow that claim to PanelA. Source: §7.2/Table9 A/B pp214–215; lines1402–1508."
+  }
+]
+```
