@@ -134343,3 +134343,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:41:42.902101+00:00 — Review 9XGMQWX5 h4: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4900",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4900",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4900",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4900",
+    "before": null,
+    "after": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2061",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2061",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2061",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2061",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2061",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2061",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2061",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2061",
+    "before": null,
+    "after": "Table8(6): At Least One Daughter Fraction, fraction of senior partners with at least one daughter, on female-hire probability, conditional on average children and firm/year controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2061",
+    "before": null,
+    "after": "Treatment is the firm-level scalar aggregate, not the underlying binary partner-level indicator. Source: Table8 p.11; §4.1 p.10."
+  }
+]
+```
