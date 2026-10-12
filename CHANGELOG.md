@@ -134889,3 +134889,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:43:04.299146+00:00 — Review 9XGMQWX5 h11: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4907",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4907",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4907",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4907",
+    "before": null,
+    "after": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2067",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2067",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2067",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2067",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2067",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2067",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2067",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2067",
+    "before": null,
+    "after": "OnlineA3: average daughters conditional on average children on female hiring, restricting to observations with children age information; all/senior partner variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2067",
+    "before": null,
+    "after": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. OnlineA3(2) is numerically the A7(1) benchmark; count it only here as the all-age restricted-sample dose. Source: Author forthcoming manuscript Table Online A3, printed/PDF p.47; final article §4.4 p.16."
+  }
+]
+```

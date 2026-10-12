@@ -19128,7 +19128,16 @@
     "L2066": "0",
     "M2066": "n/a",
     "N2066": "Table13(3)–(4): investing partner’s own daughter ratio on portfolio-company female founder share, conditioning on own children count; associated any-female-founder alternative is prose-only.",
-    "O2066": "Distinct individual treatment from firm-average treatment s7. Caption/prose identify founder outcomes; headers erroneously say hired ratio. Source: Table13 p.15; pp.14–16."
+    "O2066": "Distinct individual treatment from firm-average treatment s7. Caption/prose identify founder outcomes; headers erroneously say hired ratio. Source: Table13 p.15; pp.14–16.",
+    "A2067": "9XGMQWX5",
+    "B2067": "h11",
+    "I2067": "1",
+    "J2067": "OLS",
+    "K2067": "0",
+    "L2067": "0",
+    "M2067": "n/a",
+    "N2067": "OnlineA3: average daughters conditional on average children on female hiring, restricting to observations with children age information; all/senior partner variants.",
+    "O2067": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. OnlineA3(2) is numerically the A7(1) benchmark; count it only here as the all-age restricted-sample dose. Source: Author forthcoming manuscript Table Online A3, printed/PDF p.47; final article §4.4 p.16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54025,7 +54034,11 @@
     "A4906": "9XGMQWX5",
     "B4906": "h9",
     "C4906": "hy2",
-    "K4906": "Indicator that the portfolio company has at least one female founder; alternative outcome in §4.3 pp.14–16, no coefficients/table provided in inspected sources."
+    "K4906": "Indicator that the portfolio company has at least one female founder; alternative outcome in §4.3 pp.14–16, no coefficients/table provided in inspected sources.",
+    "A4907": "9XGMQWX5",
+    "B4907": "h11",
+    "C4907": "hy1",
+    "K4907": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
