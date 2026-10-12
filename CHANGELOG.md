@@ -168732,3 +168732,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:10:58.056958+00:00 — Review CN4YZYPH h4: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5021",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5022",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5023",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5021",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5022",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5023",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5021",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5022",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5023",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5021",
+    "before": null,
+    "after": "Change in Jones (1991) discretionary accruals."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5022",
+    "before": null,
+    "after": "Change in performance/ROA-matched discretionary accruals (Kothari et al.,2005)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5023",
+    "before": null,
+    "after": "Change in cash-flow-based earnings-management measure (Dechow and Dichev,2002)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2151",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2151",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2151",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2151",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2151",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2151",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2151",
+    "before": null,
+    "after": "Continuous bonus-peer RPQ effects on earnings-management changes; Table11 cols4–6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2151",
+    "before": null,
+    "after": "Prose p215 claims every RPQ coefficient insignificant, but col4 is −1.04** (t=−2.52), verified visually. Preserve significant negative estimate; it does not support increased manipulation. Year/industry controls; OLS. Source: §7.4/Table11 pp215–216; lines1512–1633."
+  }
+]
+```

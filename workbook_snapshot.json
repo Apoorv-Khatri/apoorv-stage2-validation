@@ -20242,7 +20242,16 @@
     "L2150": "0",
     "M2150": "n/a",
     "N2150": "Bonus-peer top-versus-bottom RPQ-tercile mean RAR contrast, Table10 final column; footnote30 median split robustness.",
-    "O2150": "Causally intended null risk-shifting test; linear unadjusted difference of means => OLS. Not Other or matching. Source: §7.3/Table10 p215; lines1482–1576."
+    "O2150": "Causally intended null risk-shifting test; linear unadjusted difference of means => OLS. Not Other or matching. Source: §7.3/Table10 p215; lines1482–1576.",
+    "A2151": "CN4YZYPH",
+    "B2151": "h4",
+    "I2151": "1",
+    "J2151": "OLS",
+    "K2151": "0",
+    "L2151": "0",
+    "M2151": "n/a",
+    "N2151": "Continuous bonus-peer RPQ effects on earnings-management changes; Table11 cols4–6.",
+    "O2151": "Prose p215 claims every RPQ coefficient insignificant, but col4 is −1.04** (t=−2.52), verified visually. Preserve significant negative estimate; it does not support increased manipulation. Year/industry controls; OLS. Source: §7.4/Table11 pp215–216; lines1512–1633."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56157,7 +56166,19 @@
     "H5020": "0",
     "I5020": "unknown",
     "J5020": "other",
-    "K5020": "Risk adjustment ratio RAR: standard deviation of 12 monthly returns in fiscal year t divided by previous-year standard deviation; not the H−L difference as an individual dependent variable."
+    "K5020": "Risk adjustment ratio RAR: standard deviation of 12 monthly returns in fiscal year t divided by previous-year standard deviation; not the H−L difference as an individual dependent variable.",
+    "A5021": "CN4YZYPH",
+    "B5021": "h4",
+    "C5021": "hy1",
+    "K5021": "Change in Jones (1991) discretionary accruals.",
+    "A5022": "CN4YZYPH",
+    "B5022": "h4",
+    "C5022": "hy2",
+    "K5022": "Change in performance/ROA-matched discretionary accruals (Kothari et al.,2005).",
+    "A5023": "CN4YZYPH",
+    "B5023": "h4",
+    "C5023": "hy3",
+    "K5023": "Change in cash-flow-based earnings-management measure (Dechow and Dichev,2002)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
