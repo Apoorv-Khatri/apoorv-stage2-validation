@@ -166317,3 +166317,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:45:29.999756+00:00 — Review CETFVPE5 s9: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K846",
+    "before": null,
+    "after": "Monthly stock return, not standardized into outcome-SD units; only RHS variables are z-scored in Table6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I307",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J307",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K307",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L307",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M307",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N307",
+    "before": null,
+    "after": "Table6 cols2,4: continuous firm-size moderation of the strength of seasonal mispricing, estimated by size×same-month and size×other-month historical-return interactions in monthly stock-return Fama–MacBeth regressions. The estimand is size-related attenuation/amplification of the seasonal predictive relation, not a causal effect of manipulating past returns. RHS variables are standardized; size interactions0.06/0.06 and0.08/0.01 for all stocks/all-but-microcaps. Distinct volatility and ownership moderators are h1/h2. Include the implemented raw-RHS sensitivity in fn15 as routine scale robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O307",
+    "before": null,
+    "after": "Retain under the project’s broad author-interpretation gate: §4.2 explicitly predicts attenuation moving from small to big firms and interprets the contrary interaction sign as running counter to the limits-to-arbitrage mechanism (p154). This is an estimated moderator parameter, unlike the unchanged historical-return predictors in s7/s8. Weak/inconsistent signs and endogenous proxies do not justify exclusion. OLS; no identifying FE or higher-priority design. This is not proof of exogeneity. Only explanatory variables are z-scored; no outcome-SD comparison. Supporting rather than a central abstract/introduction/conclusion result. Source: §4.2 pp153–154; Table6 cols2,4; lines1029–1144; fn15."
+  }
+]
+```
