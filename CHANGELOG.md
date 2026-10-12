@@ -136722,3 +136722,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:47:46.133491+00:00 — Review 9Z93VMJ3 s1: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H740",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H741",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H742",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I740",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I741",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I742",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J740",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J741",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J742",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K740",
+    "before": null,
+    "after": "spurious as a causal-outcome row because parent s1 is excluded. The observed quantity is the simple forward excess return R−1, where R=F(T,T)/F(t,T); it is represented rather than caused by its own constructed factors."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K741",
+    "before": null,
+    "after": "spurious as a causal-outcome row because parent s1 is excluded. Figure 5 displays absolute realized returns and absolute cumulative approximations, not separately estimated causal dependent variables."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K742",
+    "before": null,
+    "after": "spurious as a causal-outcome row because parent s1 is excluded. Figure 13 averages f0−1, f1 and f2 across time; these are unconditional contributions to the equity premium, not treatment effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I257",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O257",
+    "before": null,
+    "after": "Spurious causal setting: Sections 2–4 define a conditional projection/return identity, not the effect of changing risk exposure. Equation (22) writes the same realized return as (f0−1)+f1+f2+…; the basis functions themselves depend on that return. Section 4 calls this a composition of the market return; Figure 5 plots absolute contributions and Figure 13 time-series averages. Words such as drivers, compensation, impact, and depends describe that anatomy and its economic interpretation, not an estimated directional treatment response. Tradeability of replicating option portfolios does not turn an algebraic decomposition into a changed-rule portfolio counterfactual. Rejection does not require exogenous assignment or dispute a causal claim for lack of credible identification; the empirical estimand is decomposition, not a causal effect. Source: Sections 2–3, pp.327–333, Eqs.(9)–(11),(18)–(22),(29)–(36); Section 4.1 p.333, Figure 5 p.335; Section 5.3 p.340, Figure 13 p.344; conclusion pp.346–347.. Certainty: high for the supplied published article; separate Internet Appendix unavailable."
+  }
+]
+```
