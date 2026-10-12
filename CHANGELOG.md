@@ -162477,3 +162477,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:19:52.411990+00:00 — Review BHYG5F75 s1: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K154",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R154",
+    "before": null,
+    "after": "Wrong focal attribution: 20.7% benchmark immediately follows column1 7.0540 effect, not column4 16.0735. Replace under h1/hc1; do not transpose benchmark to HDFE."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H810",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I810",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J810",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K810",
+    "before": null,
+    "after": "Binary next-loan lender/lead-arranger switch, with zero for no switch. Printed coefficients are percentage points; Table1 shows a nondegenerate switching rate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I286",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J286",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K286",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L286",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M286",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N286",
+    "before": null,
+    "after": "Voluntary disclosure (at least one of seven financial metrics, subject to financial-statement reference and covenant exclusion rules) versus no disclosure; Table2 cols3–4 p3085; §2 pp3083–3085 lines530–690. Retain only columns3–4 with borrower, lender and year FE; columns1–2 are separate standard-FE setting h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O286",
+    "before": null,
+    "after": "Year FE explicitly remove time-varying economic conditions (§2 and Tables2–4 captions); borrower FE remove fixed unobserved quality; lender FE remove persistent lender differences. Count year, borrower, lender as three separate effective dimensions. No DiD design: changes in the dependent variable alone do not imply DiD. Source: Table2 cols3–4 p3085; §2 pp3083–3085 lines530–690."
+  }
+]
+```
