@@ -325194,3 +325194,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:02:18.936618+00:00 — Review EYWPN7YT s3: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H958",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H959",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I958",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I959",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J958",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J959",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K959",
+    "before": null,
+    "after": "Coverage indicator takes 1 if analyst covers firm that quarter and 0 otherwise (Table3 note); zero category is explicitly implemented, contrary to model zero_mass=0."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J368",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L368",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M368",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O368",
+    "before": null,
+    "after": "Implemented Cengiz et al. (2019) stacked-regression estimator: cohort-specific datasets, clean future-treated controls, nine-quarter window, explicitly addressing time-varying effects and treatment-effect heterogeneity (§1.2–1.3, PDF9–10). This is not modern merely because adoption is staggered. Administrative randomized rollout is analyzed with DD, not a separately implemented experimental ITT. Matching is preprocessing; no IV or separate identifying-FE/OLS setting. DQ is a continuous pretreatment moderator, not a separately assigned continuous treatment: EDGAR exposure remains binary. Each policy effect is the lower-order coefficient plus the DQ interaction times DQ, not the lower-order coefficient alone. Source: Table3 cols2,4 PDF17–18."
+  }
+]
+```
