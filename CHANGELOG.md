@@ -122013,3 +122013,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:22:46.005531+00:00 — Review 96H6UQNF s2: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H615",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H616",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I615",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I616",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J615",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J616",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K615",
+    "before": null,
+    "after": "Original raw outcome definition retained. Eq.(2) reused and Fig.6/Fig.7 captions report log-point effects ×1,000, inconsistent with LLM none/no transformation claim. Log1p is suggested by baseline methodology but not separately spelled out for this component: exact transformation left unknown. A rounded SG&A first quartile of0.000 in Table1 does not establish an exact zero atom in this estimation subsample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K616",
+    "before": null,
+    "after": "Original raw outcome definition retained. Eq.(2) reused and Fig.6/Fig.7 captions report log-point effects ×1,000, inconsistent with LLM none/no transformation claim. Log1p is suggested by baseline methodology but not separately spelled out for this component: exact transformation left unknown. A rounded SG&A first quartile of0.000 in Table1 does not establish an exact zero atom in this estimation subsample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I222",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J222",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K222",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L222",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M222",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O222",
+    "before": null,
+    "after": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Continuous firm-quarter temperature-exposure distribution across US establishments, ordinarily sales-weighted hours in 1°C bins, third-order Chebyshev basis, lagged firm covariates and linear/quadratic precipitation; 1990–2015. Statistical critical thresholds do not make exposure binary. Main: revenue-versus-cost evidence supports consumer-demand interpretation highlighted in introduction and conclusion. Outcome transformations corrected below; actual EPS signs repeated for context are not a new earnings outcome. Source: §3.1.1 pp.13,16–19; Table3/Fig.6.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```
