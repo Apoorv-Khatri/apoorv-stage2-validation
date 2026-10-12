@@ -330432,3 +330432,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:36:58.840870+00:00 — Review F4QBG3CB s6: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1008",
+    "before": null,
+    "after": "Observed binary success entering the structural probit-type mapping; fitted probabilities are not themselves binary. New financing round or successful exit within two years (TableA1)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I385",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J385",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K385",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L385",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M385",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N385",
+    "before": null,
+    "after": "Alternative-follow-on financing or successful exit within two years structural outcome mapping: retain continuous VC equity-share response; separate binary contract terms into human settings. Full nonlinear GMM re-estimation, same latent-value and value-split equations. N=2581 through2015; kappa1=0.458 (SE0.488), so value-to-success link is insignificant."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O385",
+    "before": null,
+    "after": "Nonlinear structural dynamic search-and-matching equilibrium estimated by efficient-weight GMM; endogenous contract choice and latent agent qualities jointly modeled. Random encounters, functional forms and success-to-value mapping identify the response; this is not linear IV, empirical covariate matching, or identifying FE. Structural quality-distribution parameters and model-fit moments are not separate causal treatments. Verified publisher supplement supplies numerical parameter estimates; original claim of no main-text coefficients is not a source-access limitation now. Source: Internet Appendix TableIA3 PanelB, IA PDF11 printed10; main §7 PDF22, TableA1 PDF25."
+  }
+]
+```
