@@ -136932,3 +136932,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:48:17.667902+00:00 — Review 9Z93VMJ3 s3: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H747",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H748",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H749",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I747",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I748",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I749",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J747",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J748",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J749",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K747",
+    "before": null,
+    "after": "spurious as a causal-outcome row because parent s3 is excluded. Table 6 labels its dependent variable f0; the additive simple-return component in Eq.(22) is f0−1. Preserve this distinction; do not silently relabel the table. The tiny negative intercept does not by itself establish that the printed label is wrong."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K748",
+    "before": null,
+    "after": "spurious as a causal-outcome row because parent s3 is excluded. Real observed return/factor series, but used for prediction or descriptive association rather than a causal response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K749",
+    "before": null,
+    "after": "spurious as a causal-outcome row because parent s3 is excluded. Real observed return/factor series, but used for prediction or descriptive association rather than a causal response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I259",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O259",
+    "before": null,
+    "after": "Spurious causal setting: Section 4.4 and Table 6 relate alternative risk measures to the observed decomposition factors. The author describes correlation, loadings and predictors, and explicitly attributes strong f0 associations to the measures all being option-based (p.337). The regressions establish common economic/measurement content, not an author-interpreted intervention effect. OLS describes the calculation, but cannot override the causal gate. No fixed-effects identification or IV is implemented here; no settings should be added for the individual FI, LJV or pricing-kernel regressors. Source: Section 4.4 pp.337; Table 6 p.346 (PDF22). The table is physically near Section 5.5.3, but its substantive discussion belongs to Section 4.4.. Certainty: high for the supplied published article; separate Internet Appendix unavailable."
+  }
+]
+```
