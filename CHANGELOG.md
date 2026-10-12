@@ -327195,3 +327195,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:05:28.860466+00:00 — Review EYWPN7YT s14: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H995",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H996",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H997",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H998",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I995",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I996",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I997",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I998",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J995",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J996",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J997",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J998",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K995",
+    "before": null,
+    "after": "Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. AppendixB wording says difference between realized earnings and forecast, whereas main interpretation and high-optimism indicator use forecasts exceeding earnings; preserve this sign-wording ambiguity rather than silently fixing source."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K996",
+    "before": null,
+    "after": "Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. AppendixB wording says difference between realized earnings and forecast, whereas main interpretation and high-optimism indicator use forecasts exceeding earnings; preserve this sign-wording ambiguity rather than silently fixing source."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K997",
+    "before": null,
+    "after": "Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K998",
+    "before": null,
+    "after": "Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I379",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J379",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K379",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L379",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M379",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N379",
+    "before": null,
+    "after": "Waves1–4 binary online-access exposure on January17,1994: Table9C baseline-window cols5–8, optimism/inaccuracy short-/long-term at analyst-stock level, interacted with pretreatment broker analyst count. Electronic-filing-window cols1–4 separated in h13."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O379",
+    "before": null,
+    "after": "Single common online-access treatment date in waves1–4 subset; implemented conventional DD/DDD with pre-Jan17 indicators, not a heterogeneous-staggered estimator here. Calendar-quarter, fiscal-quarter and analyst-firm FE are subordinate to DiD. The earlier filing-timing contrast is substantively evaluated against online access, not discarded as diagnostic-only; see h13. Main=1: timing distinction supports the central strategic mechanism. Source: Table9 panelC cols5–8 PDF38; §3.2.2 PDF35–37."
+  }
+]
+```
