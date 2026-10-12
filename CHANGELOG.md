@@ -173955,3 +173955,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:23:10.825905+00:00 — Review DFSQYG6H h47: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5081",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5081",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5081",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5081",
+    "before": null,
+    "after": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2190",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2190",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2190",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2190",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2190",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2190",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2190",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2190",
+    "before": null,
+    "after": "Internet Appendix TableA1 cols11–12, same regressions as Table3: Equity beta (annual Scholes-Williams equity beta) effect on cash ratio. Identifying firm and year fixed effects,1998–2015."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2190",
+    "before": null,
+    "after": "Explicit precautionary-risk mechanism and positive-impact prediction are linked to own findings. Insignificance in FE does not remove the implemented robustness setting. Identifying firm and year FE: final p909 explicitly targets time-invariant firm-specific omitted variables. Retain implemented sensitivity, without claiming its sign/significance matches OLS. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
+  }
+]
+```
