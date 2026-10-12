@@ -138378,3 +138378,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:50:58.271308+00:00 — Review AAT34438 h5: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4934",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4934",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4934",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4934",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4934",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4934",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4934",
+    "before": null,
+    "after": "Relative cumulative abnormal perfect-foresight portfolio return (% of that portfolio’s total abnormal return through T+2), by preannouncement date, with annual sorts. Figure3 plots low-AT minus high-AT."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2092",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2092",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2092",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2092",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2092",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2092",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2092",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2092",
+    "before": null,
+    "after": "Annual Figure3 time paths comparing high versus low lagged log-price quintiles. Perfect-foresight hedge portfolios are constructed within the endpoint groups; compare normalized cumulative portfolio returns through preannouncement dates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2092",
+    "before": null,
+    "after": "Binary refers to the implemented quintile5-versus1 contrast, not the underlying continuous sorting variable. Observational linear group contrasts under author’s information-acquisition interpretation; equal portfolio weights are not matching on covariates. No first-stage/Wald division in the price sort. Annual plot and quarterly estimates have separately reported result locations and aggregation. Return normalization is outcome construction, not a separately stated effect-to-own-outcome benchmark. Source: Figure3 p2215; §6.2 p2214. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
+  }
+]
+```
