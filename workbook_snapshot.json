@@ -18659,7 +18659,16 @@
     "L2032": "0",
     "M2032": "n/a",
     "N2032": "AppendixA3: quarterly continuous temperature effects on EPS, heterogeneous by northern versus southern firm operations. Sales-weighted annual geographic centroid and industry-median latitude define a binary moderator interacted with the temperature polynomial.",
-    "O2032": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Binary location moderator does not make focal temperature dose binary; not RD at median latitude. Printed change in right/left tail impacts 2.64/13.75 bp, selected four industries about22 bp. No explicit outcome-mean/SD comparison. Geography/adaptation interpretation, not identified effect of moving firm north. Publisher Internet Appendix Table IA1 caption (printed p.21/PDF22) specifies joint significance tests of moderator × Chebyshev interaction terms, with the moderator also included in levels. These are not Wald/local-Wald treatment-effect estimators, and the printed baseline coefficient block is not a table of each augmented specification’s full coefficients. Several reported Wald values are negative with p=1.000; retain the source inconsistency without treating those entries as valid conventional nonnegative Wald statistics or repairing them. Source: AppendixA3 pp.40,42; TableIA1 Wald(north/south).. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+    "O2032": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Binary location moderator does not make focal temperature dose binary; not RD at median latitude. Printed change in right/left tail impacts 2.64/13.75 bp, selected four industries about22 bp. No explicit outcome-mean/SD comparison. Geography/adaptation interpretation, not identified effect of moving firm north. Publisher Internet Appendix Table IA1 caption (printed p.21/PDF22) specifies joint significance tests of moderator × Chebyshev interaction terms, with the moderator also included in levels. These are not Wald/local-Wald treatment-effect estimators, and the printed baseline coefficient block is not a table of each augmented specification’s full coefficients. Several reported Wald values are negative with p=1.000; retain the source inconsistency without treating those entries as valid conventional nonnegative Wald statistics or repairing them. Source: AppendixA3 pp.40,42; TableIA1 Wald(north/south).. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002.",
+    "A2033": "96H6UQNF",
+    "B2033": "h12",
+    "I2033": "1",
+    "J2033": "FE",
+    "K2033": "0",
+    "L2033": "0",
+    "M2033": "n/a",
+    "N2033": "AppendixB1: temperature effects on earnings moderated by firm-level electricity costs; utility commercial/industrial dollars per customer matched by ZIP/state and sales-weighted across establishments, added in levels and interacted with temperature polynomials.",
+    "O2033": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Supporting exploratory heating/cooling channel, not electricity expenditure as outcome and not exogenous intervention on electricity prices. Eight affected industries; printed14.1 bp impact and about one third of overall temperature effect. That denominator is another estimated effect, not an eligible other_level benchmark. Publisher Internet Appendix Table IA1 caption (printed p.21/PDF22) specifies joint significance tests of moderator × Chebyshev interaction terms, with the moderator also included in levels. These are not Wald/local-Wald treatment-effect estimators, and the printed baseline coefficient block is not a table of each augmented specification’s full coefficients. Several reported Wald values are negative with p=1.000; retain the source inconsistency without treating those entries as valid conventional nonnegative Wald statistics or repairing them. Source: AppendixB1 p.42; TableIA1 Wald(electricity).. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52737,7 +52746,14 @@
     "H4775": "0",
     "I4775": "unknown",
     "J4775": "log1p",
-    "K4775": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established."
+    "K4775": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established.",
+    "A4776": "96H6UQNF",
+    "B4776": "h12",
+    "C4776": "hy1",
+    "H4776": "0",
+    "I4776": "unknown",
+    "J4776": "log1p",
+    "K4776": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
