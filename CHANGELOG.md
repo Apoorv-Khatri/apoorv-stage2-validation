@@ -127956,3 +127956,186 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:33:24.673048+00:00 — Review 9SK5H9MK h8: source-audited coding and linked comparisons
+
+29 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4800",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4801",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4802",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4803",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4804",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4800",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4801",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4802",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4803",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4804",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4800",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4801",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4802",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4803",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4804",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4800",
+    "before": null,
+    "after": "aggregate: sum over eight quarters of gross job gains minus job losses/2000 CZ nontradable employment; rotating age-bin membership, Table V C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4801",
+    "before": null,
+    "after": "0-1 years: sum over eight quarters of gross job gains minus job losses/2000 CZ nontradable employment; rotating age-bin membership, Table V C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4802",
+    "before": null,
+    "after": "2-3 years: sum over eight quarters of gross job gains minus job losses/2000 CZ nontradable employment; rotating age-bin membership, Table V C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4803",
+    "before": null,
+    "after": "4-5 years: sum over eight quarters of gross job gains minus job losses/2000 CZ nontradable employment; rotating age-bin membership, Table V C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4804",
+    "before": null,
+    "after": "6+ years: sum over eight quarters of gross job gains minus job losses/2000 CZ nontradable employment; rotating age-bin membership, Table V C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2038",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2038",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2038",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2038",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2038",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2038",
+    "before": null,
+    "after": "Table V C: income-growth IV effect on eight-quarter gross job gains minus gross losses, different from Table III fixed-cohort net change. CZ observations, nonoverlapping endpoints 2001/2003/2005/2007; two-year real growth in total wages and salaries; controls log labor force, high-school share and log total wages measured in 2000; year dummies; CZ-clustered SE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2038",
+    "before": null,
+    "after": "Endogenous receipt/dose is continuous income growth, not the instrument or a subgroup indicator. A single scalar shift-share sum uses lagged four-digit manufacturing employment shares times national industry employment growth excluding the focal region; do not count component industries as separate excluded instruments. Exclusion requires manufacturing shocks to affect nontradable employment only through income (pp.1011-1014, eqs.2-3). Source: Table V Panel C p.1020/PDF22. Source link: https://doi.org/10.1111/jofi.12495."
+  }
+]
+```
