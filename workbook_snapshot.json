@@ -20314,7 +20314,16 @@
     "L2158": "0",
     "M2158": "n/a",
     "N2158": "Bonus peers: Residual RPQ (residual from pooled RPQ on lagged industry-adjusted ROA regression) effects on adjusted returns and change in adjusted ROA; Table7 A/B col6; pooled linear regression with year/industry controls.",
-    "O2158": "Alternative treatment, not mere covariate variant; author reports baseline findings remain qualitatively consistent. Source: §6.1/Table7 pp209–211; lines1066–1236."
+    "O2158": "Alternative treatment, not mere covariate variant; author reports baseline findings remain qualitatively consistent. Source: §6.1/Table7 pp209–211; lines1066–1236.",
+    "A2159": "CN4YZYPH",
+    "B2159": "h12",
+    "I2159": "1",
+    "J2159": "OLS",
+    "K2159": "0",
+    "L2159": "0",
+    "M2159": "n/a",
+    "N2159": "RPQ using previous-two-year average DLM ability; untabulated alternative relative-quality effects on stock and operating performance, results qualitatively unchanged. Peer-type-specific coverage is not separately enumerated in the untabulated prose.",
+    "O2159": "Implemented alternative-RPQ robustness and unchanged qualitative results are explicit. OLS is supported by the pooled-regression context of §6.1, but coefficients, exact columns and compensation-versus-bonus coverage are not reported separately. This is one minimum evidence record, not an asserted two-peer-type by two-outcome result grid. Source: §6.1 pp210–211; lines1141–1172,1234–1236."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56309,7 +56318,15 @@
     "A5037": "CN4YZYPH",
     "B5037": "h11",
     "C5037": "hy2",
-    "K5037": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1."
+    "K5037": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1.",
+    "A5038": "CN4YZYPH",
+    "B5038": "h12",
+    "C5038": "hy1",
+    "K5038": "DGTW characteristic-adjusted annual stock return, fiscal year t (decimal return). Baseline outcome identity supplied for the stock/operating-performance robustness context; the untabulated sentence does not enumerate outcome-by-peer-type estimates or give coefficients.",
+    "A5039": "CN4YZYPH",
+    "B5039": "h12",
+    "C5039": "hy2",
+    "K5039": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1. Baseline outcome identity supplied for the stock/operating-performance robustness context; the untabulated sentence does not enumerate outcome-by-peer-type estimates or give coefficients."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
