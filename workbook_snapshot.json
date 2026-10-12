@@ -20395,7 +20395,16 @@
     "L2167": "0",
     "M2167": "unknown",
     "N2167": "Peer-policy effect using change in reporting-firm market leverage rather than its level (footnote24). Peer-type-specific coverage not enumerated; whether the peer-policy regressor is a level or change is unresolved.",
-    "O2167": "Explicit implemented robustness with similar results. Do not infer whether peer policy regressor is level or change, or the exact FE specification. Retain one minimum implemented record, without asserting separate compensation and bonus result cells. No numeric estimate is available. Source: p211 footnote24 lines1233–1236."
+    "O2167": "Explicit implemented robustness with similar results. Do not infer whether peer policy regressor is level or change, or the exact FE specification. Retain one minimum implemented record, without asserting separate compensation and bonus result cells. No numeric estimate is available. Source: p211 footnote24 lines1233–1236.",
+    "A2168": "CN4YZYPH",
+    "B2168": "h22",
+    "I2168": "1",
+    "J2168": "OLS",
+    "K2168": "0",
+    "L2168": "0",
+    "M2168": "n/a",
+    "N2168": "RPQ effects on levels of the three earnings-management measures rather than changes; §7.4 states similar results. Exact peer-type coverage of the unreported levels exercise is not enumerated.",
+    "O2168": "Implemented levels robustness explicitly described as similar. Same linear regression context; exact coefficients absent. Retain one minimum implemented record, without asserting separate compensation and bonus result cells. No numeric estimate is available. Source: §7.4 p215 lines1525–1545."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56458,7 +56467,19 @@
     "A5054": "CN4YZYPH",
     "B5054": "h21",
     "C5054": "hy1",
-    "K5054": "Change in reporting-firm market-based leverage; timing and treatment level/change specification unresolved. Untabulated result: peer-type coverage and estimate mapping unresolved."
+    "K5054": "Change in reporting-firm market-based leverage; timing and treatment level/change specification unresolved. Untabulated result: peer-type coverage and estimate mapping unresolved.",
+    "A5055": "CN4YZYPH",
+    "B5055": "h22",
+    "C5055": "hy1",
+    "K5055": "Level of Jones (1991) discretionary accruals. Untabulated result: peer-type coverage and estimate mapping unresolved.",
+    "A5056": "CN4YZYPH",
+    "B5056": "h22",
+    "C5056": "hy2",
+    "K5056": "Level of performance/ROA-matched discretionary accruals (Kothari et al.,2005). Untabulated result: peer-type coverage and estimate mapping unresolved.",
+    "A5057": "CN4YZYPH",
+    "B5057": "h22",
+    "C5057": "hy3",
+    "K5057": "Level of cash-flow-based earnings-management measure (Dechow and Dichev,2002). Untabulated result: peer-type coverage and estimate mapping unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

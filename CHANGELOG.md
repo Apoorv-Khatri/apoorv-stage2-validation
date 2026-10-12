@@ -170691,3 +170691,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:15:10.144060+00:00 — Review CN4YZYPH h22: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5055",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5056",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5057",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5055",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5056",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5057",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5055",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5056",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5057",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5055",
+    "before": null,
+    "after": "Level of Jones (1991) discretionary accruals. Untabulated result: peer-type coverage and estimate mapping unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5056",
+    "before": null,
+    "after": "Level of performance/ROA-matched discretionary accruals (Kothari et al.,2005). Untabulated result: peer-type coverage and estimate mapping unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5057",
+    "before": null,
+    "after": "Level of cash-flow-based earnings-management measure (Dechow and Dichev,2002). Untabulated result: peer-type coverage and estimate mapping unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2168",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2168",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2168",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2168",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2168",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2168",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2168",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2168",
+    "before": null,
+    "after": "RPQ effects on levels of the three earnings-management measures rather than changes; §7.4 states similar results. Exact peer-type coverage of the unreported levels exercise is not enumerated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2168",
+    "before": null,
+    "after": "Implemented levels robustness explicitly described as similar. Same linear regression context; exact coefficients absent. Retain one minimum implemented record, without asserting separate compensation and bonus result cells. No numeric estimate is available. Source: §7.4 p215 lines1525–1545."
+  }
+]
+```
