@@ -130884,3 +130884,186 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:37:12.400120+00:00 — Review 9SK5H9MK h37: source-audited coding and linked comparisons
+
+29 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4880",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4881",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4882",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4883",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4884",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4880",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4881",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4882",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4883",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4884",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4880",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4881",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4882",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4883",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4884",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4880",
+    "before": null,
+    "after": "aggregate: all-sector net job change; caption says denominator2000 nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4881",
+    "before": null,
+    "after": "0-1 years: all-sector net job change; caption says denominator2000 nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4882",
+    "before": null,
+    "after": "2-3 years: all-sector net job change; caption says denominator2000 nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4883",
+    "before": null,
+    "after": "4-5 years: all-sector net job change; caption says denominator2000 nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4884",
+    "before": null,
+    "after": "6+ years: all-sector net job change; caption says denominator2000 nontradable employment"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2054",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2054",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2054",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2054",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2054",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2054",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2054",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2054",
+    "before": null,
+    "after": "IAXI B: all-industry QWI MSA sample N1386; IV continuous two-year regional income-growth response; all-sector net job change; caption says denominator2000 nontradable employment. Aggregate/four age bins. Baseline controls/year dummies unless FE specification stated; region-clustered SE; nonoverlapping2001/03/05/07 unless stated otherwise."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2054",
+    "before": null,
+    "after": "Endogenous receipt/dose is continuous income growth, not the instrument or a subgroup indicator. A single scalar shift-share sum uses lagged four-digit manufacturing employment shares times national industry employment growth excluding the focal region; do not count component industries as separate excluded instruments. Exclusion requires manufacturing shocks to affect nontradable employment only through income (pp.1011-1014, eqs.2-3). All-sector numerator includes manufacturing; no clean sector separation. Appendix caption denominator nontradable conflicts with main BDS all-employment construction; retain literal wording and unresolved scale. Source: Author Appendix Table IAXI Panel B, printed p.19/appendix PDF20; cols3,5,7,9,11. Source link: https://songma.org/files/amr_jf_app_final.pdf."
+  }
+]
+```
