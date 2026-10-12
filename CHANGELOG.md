@@ -172998,3 +172998,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:20:26.050840+00:00 — Review DFSQYG6H h12: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5070",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5070",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5070",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5070",
+    "before": null,
+    "after": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2179",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2179",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2179",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2179",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2179",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2179",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2179",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2179",
+    "before": null,
+    "after": "Internet Appendix TableA1 cols1–10, same regressions as Table3: Industry sigma (industry mean of firm cash-flow standard deviations) effect on cash ratio. Industry and year dummy controls; displayed period/control/liquidity-proxy variants grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2179",
+    "before": null,
+    "after": "Final prose explicitly interprets increased cash ratio with Industry sigma, a cash-flow risk measure. Identifying firm-FE robustness is implemented although its coefficients are insignificant. OLS with industry/year controls: no separately argued identifying role for those dummies. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
+  }
+]
+```
