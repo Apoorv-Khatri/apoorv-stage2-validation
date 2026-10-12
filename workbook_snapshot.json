@@ -20581,7 +20581,16 @@
     "L2182": "0",
     "M2182": "n/a",
     "N2182": "Internet Appendix TableA1 cols11–12, same regressions as Table3: R&D (R&D expenditure/assets; missing expense set tozero) effect on cash ratio. Identifying firm and year fixed effects,1998–2015.",
-    "O2182": "Final prose interprets its own R&D cash-ratio response. Keep implemented firm-FE sensitivity despite opposite sign; do not generalize the positive prose to FE coefficients. Identifying firm and year FE: final p909 explicitly targets time-invariant firm-specific omitted variables. Retain implemented sensitivity, without claiming its sign/significance matches OLS. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
+    "O2182": "Final prose interprets its own R&D cash-ratio response. Keep implemented firm-FE sensitivity despite opposite sign; do not generalize the positive prose to FE coefficients. Identifying firm and year FE: final p909 explicitly targets time-invariant firm-specific omitted variables. Retain implemented sensitivity, without claiming its sign/significance matches OLS. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65.",
+    "A2183": "DFSQYG6H",
+    "B2183": "h38",
+    "I2183": "1",
+    "J2183": "OLS",
+    "K2183": "0",
+    "L2183": "0",
+    "M2183": "n/a",
+    "N2183": "Internet Appendix TableA1 cols5–10, same regressions as Table3: Inst_turn (annual institutional investor churn/turnover measure) effect on cash ratio. Industry and year dummy controls; displayed period/control/liquidity-proxy variants grouped.",
+    "O2183": "Own positive coefficient is explicitly used to support cash-as-ammunition; section2.3 explains unstable shareholders and price-stabilizing repurchases. This is substantive interpretation, not generic effect wording. OLS with industry/year controls: no separately argued identifying role for those dummies. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56754,7 +56763,11 @@
     "A5073": "DFSQYG6H",
     "B5073": "h17",
     "C5073": "hy1",
-    "K5073": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
+    "K5073": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged.",
+    "A5074": "DFSQYG6H",
+    "B5074": "h38",
+    "C5074": "hy1",
+    "K5074": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
