@@ -174582,3 +174582,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:45:54.382538+00:00 — Review DPFRSKRY s3: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H890",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I890",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J890",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K890",
+    "before": null,
+    "after": "No verified evidence establishes a probability mass at zero in the actual estimation sample. Holdings/trades can in principle be zero, but source does not state whether unheld pairs/exits/no-trade observations are retained; change model zero_mass=1 to unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I338",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J338",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K338",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L338",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M338",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O338",
+    "before": null,
+    "after": "Supporting learning/heterogeneity analysis. Prior experience is explicitly counted before current disaster; no separate causal effect of experience is estimated. Table5 shows quartiles3/4 p=.148/.196, contradicting initial prose claim all four significant; later prose acknowledges this. Visually verified. First-to-second quartile magnitudes are not monotonic; do not strengthen the learning result. Source: §3.1.3/Table5 pp1163–1165; L1022–1105,1126–1182."
+  }
+]
+```
