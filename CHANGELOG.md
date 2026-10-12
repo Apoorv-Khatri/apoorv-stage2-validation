@@ -167433,3 +167433,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:06:20.983829+00:00 — Review CN4YZYPH s5: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K162",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R162",
+    "before": null,
+    "after": "Treatment SD (RPQ=0.30), not same-outcome level/mean/SD. Multiplying coefficient by treatment increment is not an eligible magnitude benchmark comparison."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I314",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J314",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K314",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L314",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M314",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N314",
+    "before": null,
+    "after": "Retain original treatment/outcome; extend scope to Table 4 cols1–4, including the same-method Intrinsic_Talent control specification (§5.1). Routine controls do not form a new setting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O314",
+    "before": null,
+    "after": "Causal-intention gate passes: authors interpret this focal peer-quality/policy contrast as affecting the stated outcome. Year/industry dummy controls alone have no separately argued identifying role; retain OLS classification, not HDFE. §6.2 peer-reporting dummy controls, exclusion of financial firms and crisis years are routine controls/sample variants, not new methods. Footnote12 also reports compensation-derived CEO-FE ability RPQ: separate minimum setting below. Source: §4.2/Table4 cols1–4 pp205–207; lines740–790,834–902."
+  }
+]
+```
