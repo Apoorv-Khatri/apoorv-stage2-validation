@@ -19652,7 +19652,16 @@
     "L2114": "0",
     "M2114": "n/a",
     "N2114": "Nearest-lagged-return matched comparison for the95 aggregate high-flow events: choose sample hours closest in preceding three-hour returns without conditioning on high flow, compare subsequent three-hour Bitcoin return.",
-    "O2114": "Matching on preceding three-hour returns is explicitly implemented and does not select weights using the focal subsequent return. The 95 high-flow hours are the target; selected comparison hours have similar preceding returns, but authors explicitly do not condition on high flow. The main text does not establish a high-flow=1 versus high-flow=0 receipt contrast or exclusion of treated hours from controls. Matching method retained; binary treatment and untreated-target alignment require Figure IA.11. Number of neighbors, replacement and weights are unresolved. Source: pp.1940–1941 lines1252–1264; Figure IA.11. Certainty: source-grounded."
+    "O2114": "Matching on preceding three-hour returns is explicitly implemented and does not select weights using the focal subsequent return. The 95 high-flow hours are the target; selected comparison hours have similar preceding returns, but authors explicitly do not condition on high flow. The main text does not establish a high-flow=1 versus high-flow=0 receipt contrast or exclusion of treated hours from controls. Matching method retained; binary treatment and untreated-target alignment require Figure IA.11. Number of neighbors, replacement and weights are unresolved. Source: pp.1940–1941 lines1252–1264; Figure IA.11. Certainty: source-grounded.",
+    "A2115": "ACJ72JDD",
+    "B2115": "h22",
+    "I2115": "1",
+    "J2115": "OLS",
+    "K2115": "0",
+    "L2115": "0",
+    "M2115": "n/a",
+    "N2115": "TableIV continuous-flow reversal regressions augmented with flow×volatility control interaction.",
+    "O2115": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main reports significant full-sample flow effect, insignificant in positive/negative subsamples. Separately reported substantive robustness, not a new row for every control. Exact aggregate/decomposed flow columns unresolved; this is minimum scope and may require a split. Source: p.1945 footnote31 lines1400–1403; Table IA.VI. Certainty: source-grounded."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55021,7 +55030,11 @@
     "H4973": "0",
     "I4973": "unknown",
     "J4973": "unknown",
-    "K4973": "Three-hour cumulative postevent Bitcoin return, high-flow events and preceding-return-matched hours; exact arithmetic-versus-compounded construction pending."
+    "K4973": "Three-hour cumulative postevent Bitcoin return, high-flow events and preceding-return-matched hours; exact arithmetic-versus-compounded construction pending.",
+    "A4974": "ACJ72JDD",
+    "B4974": "h22",
+    "C4974": "hy1",
+    "K4974": "Hourly Bitcoin return in augmented reversal regression; outcome is not established as standardized by the main cross-reference."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

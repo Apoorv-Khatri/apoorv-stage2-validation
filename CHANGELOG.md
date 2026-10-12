@@ -147549,3 +147549,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:38:01.337073+00:00 — Review ACJ72JDD h22: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4974",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4974",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4974",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4974",
+    "before": null,
+    "after": "Hourly Bitcoin return in augmented reversal regression; outcome is not established as standardized by the main cross-reference."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2115",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2115",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2115",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2115",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2115",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2115",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2115",
+    "before": null,
+    "after": "TableIV continuous-flow reversal regressions augmented with flow×volatility control interaction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2115",
+    "before": null,
+    "after": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main reports significant full-sample flow effect, insignificant in positive/negative subsamples. Separately reported substantive robustness, not a new row for every control. Exact aggregate/decomposed flow columns unresolved; this is minimum scope and may require a split. Source: p.1945 footnote31 lines1400–1403; Table IA.VI. Certainty: source-grounded."
+  }
+]
+```
