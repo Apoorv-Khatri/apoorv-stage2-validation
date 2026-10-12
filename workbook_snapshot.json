@@ -22981,7 +22981,16 @@
     "L2418": "0",
     "M2418": "n/a",
     "N2418": "Binary security-feature valuation contrast: 8% cumulative dividend versus no cumulative dividend.",
-    "O2418": "Calibrated Monte Carlo valuation of contract cash-flow claims:1million GBM paths, initial firm value1,volatility90%,risk-free2%, bankruptcy below.15,initial investment.25,conversion14.7%,no later rounds. Holding asset process fixed, change security feature; author interprets incremental payoff values. Other, not causal effect of a forecast on firm value. Logistic endogenous exit baseline; exponential mean5year exit robustness grouped. Parameter values are assumptions, not estimated causal coefficients. Source: IA4/TableIA1 IA PDF6 printed5."
+    "O2418": "Calibrated Monte Carlo valuation of contract cash-flow claims:1million GBM paths, initial firm value1,volatility90%,risk-free2%, bankruptcy below.15,initial investment.25,conversion14.7%,no later rounds. Holding asset process fixed, change security feature; author interprets incremental payoff values. Other, not causal effect of a forecast on firm value. Logistic endogenous exit baseline; exponential mean5year exit robustness grouped. Parameter values are assumptions, not estimated causal coefficients. Source: IA4/TableIA1 IA PDF6 printed5.",
+    "A2419": "F4QBG3CB",
+    "B2419": "h72",
+    "I2419": "1",
+    "J2419": "Other",
+    "K2419": "1",
+    "L2419": "0",
+    "M2419": "n/a",
+    "N2419": "Binary valuation-rule distortion in calibrated IA4 example: equity-only post-money calculation versus true initial underlying firm valuation. Explicit claim that post-money overstates true value by assuming common equity.",
+    "O2419": "Calibrated Monte Carlo valuation of contract cash-flow claims:1million GBM paths, initial firm value1,volatility90%,risk-free2%, bankruptcy below.15,initial investment.25,conversion14.7%,no later rounds. Holding asset process fixed, change security feature; author interprets incremental payoff values. Other, not causal effect of a forecast on firm value. Logistic endogenous exit baseline; exponential mean5year exit robustness grouped. Parameter values are assumptions, not estimated causal coefficients. Measurement-counterfactual only; no real firm-value causal response. Source: IA4 IA PDF6 printed5."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -65051,7 +65060,14 @@
     "H6161": "0",
     "I6161": "0",
     "J6161": "none",
-    "K6161": "Time-zero value of investor security/claim for the same underlying startup asset process (initial total firm value normalized1). Not total startup value."
+    "K6161": "Time-zero value of investor security/claim for the same underlying startup asset process (initial total firm value normalized1). Not total startup value.",
+    "A6162": "F4QBG3CB",
+    "B6162": "h72",
+    "C6162": "hy1",
+    "H6162": "0",
+    "I6162": "0",
+    "J6162": "none",
+    "K6162": "Computed total startup valuation under equity-only post-money rule versus true asset value, in million-dollar example."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -111783,7 +111799,17 @@
     "N4262": "1",
     "O4262": "0",
     "P4262": "n/a",
-    "Q4262": "Exponential5year exit robustness,participating: baseline claim value0.282, feature-on claim value0.303. IA4 verbally compares the securities; no normalization by own claim."
+    "Q4262": "Exponential5year exit robustness,participating: baseline claim value0.282, feature-on claim value0.303. IA4 verbally compares the securities; no normalization by own claim.",
+    "A4263": "F4QBG3CB",
+    "B4263": "h72",
+    "C4263": "hc1",
+    "K4263": "1",
+    "L4263": "hy1",
+    "M4263": "other_level",
+    "N4263": "1",
+    "O4263": "0",
+    "P4263": "n/a",
+    "Q4263": "IA4 final paragraph: true$1million valuation differs from post-money$0.25million/0.147=$1.7million; overstatement attributed to common-equity assumption. No effect/base percentage or multiple actually computed in this passage."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

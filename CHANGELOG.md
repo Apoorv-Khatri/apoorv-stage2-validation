@@ -346803,3 +346803,168 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:55:30.102428+00:00 — Review F4QBG3CB h72: source-audited coding and linked comparisons
+
+26 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4263",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4263",
+    "before": null,
+    "after": "h72"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4263",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4263",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4263",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4263",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4263",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4263",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4263",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4263",
+    "before": null,
+    "after": "IA4 final paragraph: true$1million valuation differs from post-money$0.25million/0.147=$1.7million; overstatement attributed to common-equity assumption. No effect/base percentage or multiple actually computed in this passage."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6162",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6162",
+    "before": null,
+    "after": "h72"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6162",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6162",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6162",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6162",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6162",
+    "before": null,
+    "after": "Computed total startup valuation under equity-only post-money rule versus true asset value, in million-dollar example."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2419",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2419",
+    "before": null,
+    "after": "h72"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2419",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2419",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2419",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2419",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2419",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2419",
+    "before": null,
+    "after": "Binary valuation-rule distortion in calibrated IA4 example: equity-only post-money calculation versus true initial underlying firm valuation. Explicit claim that post-money overstates true value by assuming common equity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2419",
+    "before": null,
+    "after": "Calibrated Monte Carlo valuation of contract cash-flow claims:1million GBM paths, initial firm value1,volatility90%,risk-free2%, bankruptcy below.15,initial investment.25,conversion14.7%,no later rounds. Holding asset process fixed, change security feature; author interprets incremental payoff values. Other, not causal effect of a forecast on firm value. Logistic endogenous exit baseline; exponential mean5year exit robustness grouped. Parameter values are assumptions, not estimated causal coefficients. Measurement-counterfactual only; no real firm-value causal response. Source: IA4 IA PDF6 printed5."
+  }
+]
+```
