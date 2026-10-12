@@ -166227,3 +166227,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:44:56.563745+00:00 — Review CETFVPE5 s7: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H844",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I844",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J844",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K844",
+    "before": null,
+    "after": "Spurious as an outcome of the rejected causal setting; the reported return variable itself is real."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I305",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O305",
+    "before": null,
+    "after": "Spurious as a causal setting. Table5A re-estimates historical-return prediction within mood-defined samples and after adding a mood-beta control. The estimated same-/other-month slopes remain signals of expected returns, not effects of changing sentiment or historical returns. The general belief that sentiment contributes to mispricing (pp152–153) does not give these predictor coefficients a causal interpretation. Baseline cols1,5 repeat Table1. This rejection concerns the estimand, not absence of randomization or remaining endogeneity. Source: §4.1 pp151–153; Table5A; lines930–1025,1067–1076."
+  }
+]
+```
