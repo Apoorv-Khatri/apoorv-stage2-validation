@@ -136020,3 +136020,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:45:55.006375+00:00 — Review 9XGMQWX5 h24: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4920",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4920",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4920",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4920",
+    "before": null,
+    "after": "Fund excess IRR in decimal return units: net IRR minus the Preqin median fund benchmark. Table captions specify region and year; p.6 also says investment strategy. Not raw net IRR and not an outcome normalization by an outcome mean."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2080",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2080",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2080",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2080",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2080",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2080",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2080",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2080",
+    "before": null,
+    "after": "OnlineA8(1–2): Female Hired Ratio on excess fund IRR for funds targeting only the US, OLS comparator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2080",
+    "before": null,
+    "after": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. One year dummy set, included children and firm controls. Median fund subtraction defines outcome; not a qualifying standalone effect-to-outcome-level comparison. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Author forthcoming manuscript Table Online A8, printed/PDF p.52; final article §4.4 p.16."
+  }
+]
+```
