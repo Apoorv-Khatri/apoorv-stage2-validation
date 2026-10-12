@@ -299595,3 +299595,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T11:26:04.713954+00:00 — Review EYAZZ4D5 s3: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H927",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H928",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H929",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H930",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I927",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I928",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I929",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I930",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J927",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J928",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J929",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J930",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K927",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K928",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K929",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K930",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I360",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O360",
+    "before": null,
+    "after": "Alternative detrending of a predictor; neither detrending regressions nor subsequent forecast slopes receive causal interpretation. Source: §3.2 Eq(4), Table4 pp53–54 (PDF8–9)."
+  }
+]
+```
