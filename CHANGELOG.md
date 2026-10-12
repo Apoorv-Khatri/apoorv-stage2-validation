@@ -299478,3 +299478,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T11:25:48.424208+00:00 — Review EYAZZ4D5 s2: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H923",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H924",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H925",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H926",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I923",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I924",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I925",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I926",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J923",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J924",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J925",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J926",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K923",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K924",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K925",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K926",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I359",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O359",
+    "before": null,
+    "after": "Incremental predictive information after principal-component controls, not a causally interpreted SII coefficient; PCs are not identifying fixed effects. Would be routine control variants, not a separate identifying design, even if causal gate were met. Source: §3.1 Eq(3), Table3 last row pp52–53 (PDF7–8)."
+  }
+]
+```
