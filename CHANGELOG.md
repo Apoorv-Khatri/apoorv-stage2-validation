@@ -245478,3 +245478,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T10:51:17.019406+00:00 — Review EWJTD63J h40: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5473",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5474",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5473",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5474",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5473",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5474",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5473",
+    "before": null,
+    "after": "Break-even inflation rate (nominal yield minus real yield), empirical horizon unresolved; final prose establishes effect, not coefficient scale or detailed construction."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5474",
+    "before": null,
+    "after": "Inflation risk premium, empirical construction/horizon unresolved; final prose establishes effect, not coefficient scale or detailed construction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2245",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2245",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2245",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2245",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2245",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2245",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2245",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2245",
+    "before": null,
+    "after": "Continuous inflation disagreement effect on break-even inflation rates and inflation risk premia: final article footnote3 explicitly states economically/statistically positive empirical effects in Online Appendix. No corresponding empirical regression grid located in recovered appendix; theoretical OA.1.5/FigOA.1–3 are NOT that grid. Minimum prose-supported family only; estimator and horizons unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2245",
+    "before": null,
+    "after": "Contested source omission/version inconsistency. Keep qualitative empirical family, unknown estimator/IV type, no invented table, coefficients, horizons or comparisons. Appendix otherwise verified publisher supplement. Source: Main p460 footnote3; OA.1.5 pp7–9 and FiguresOA.1–3 pp28–29 (theoretical only)."
+  }
+]
+```
