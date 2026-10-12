@@ -174882,3 +174882,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:47:00.157035+00:00 — Review DPFRSKRY s7: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H895",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I895",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J895",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K895",
+    "before": null,
+    "after": "No verified evidence establishes a probability mass at zero in the actual estimation sample. Holdings/trades can in principle be zero, but source does not state whether unheld pairs/exits/no-trade observations are retained; change model zero_mass=1 to unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I342",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J342",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K342",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L342",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M342",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N342",
+    "before": null,
+    "after": "Table9 PanelA cols1–4: binary POST (event quarter and next two versus two prior quarters) effect on portfolio weight within close/far × disaster/near-disaster strata. Single-difference linear regressions with identifying fund, county and time FE, not a within-column DiD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O342",
+    "before": null,
+    "after": "Single-difference before/after coefficients, NOT DiD merely because used alongside DDD. Identifying fund/time FE rationale is explicit pp1152–1153. Table9A reports fund, county, year and disaster-quarter FE. Retain HDFE on the contextual reading of county as firm/disaster geography: fund + county + time supplies three effective sets even if year is nested in calendar-quarter effects. County indexing is inferred from the firm/disaster geography, not explicitly defined in the table; do not claim its nonnesting is independently verified. Exact disaster-quarter indexing also remains unresolved; relative-event-time FE would absorb POST. Supplement or replication code is needed to certify the effective design matrix. No no-FE column is shown. Source: §3.3.1/Table9 PanelA cols1–4 pp1171–1173; L1585–1721."
+  }
+]
+```
