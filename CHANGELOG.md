@@ -121158,3 +121158,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:20:18.191429+00:00 — Review 95E3CUNG s2: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H609",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I609",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J609",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K609",
+    "before": null,
+    "after": "Monthly US-dollar simple producer-firm return, reported in percent; strategy coefficients are percentage-point monthly return differences. Paper calls the contrasts excess-return differences, while Eq.(24) labels the dependent variable FirmReturn. No evidence establishing a mass at zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J216",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M216",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N216",
+    "before": null,
+    "after": "Monthly firm-level WLS endpoint trade-credit/customer-return contrasts conditional on high versus other foreign sales. High foreign sales means the prior-period foreign/total-sales ratio is in the top country tercile; Table4 reports both foreign-sales states. Foreign sales is a mechanism-conditioning variable, not assumed exogenously assigned. Retain only the columns/rows explicitly labeled with country and industry fixed effects; non-FE results are separately proposed as h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O216",
+    "before": null,
+    "after": "Binary=1 refers to the implemented two-endpoint contrasts, not the underlying three-level trade-credit or five-level customer-return sorting variables. Interior cell means describe the grouped regression, not new standalone causal treatments. Country and industry FE are two separate, nonnested categorical dimensions, not HDFE. The substantive identification argument is explicit: p.604 adds these FE to soak up potential variation from those sources and interprets invariance to industry dummies as evidence against cross-industry trade-credit variation driving the strategy. This is not classification from dimension count alone. Without these identifying FE, the same linear WLS contrasts are OLS/regression adjustment. Country-industry-month clustered standard errors are not an additional FE dimension. Factor controls are not FE. No IV, randomized assignment, RD, matching treatment weights or parallel-trends DiD is implemented. Observational, model-motivated mechanism test. Customer country indices proxy unobserved bilateral customer-firm links; trade credit, foreign sales, volume and stress states can be endogenous. Controls and country/industry FE do not prove exogeneity. Retention records the authors’ interpretation, not endorsement of their identification. Source: §4.2/Table4 p.605/PDF14; discussion pp.604,606.. Certainty: high for printed estimates/design split; author-interpreted mechanism, not proven causal identification."
+  }
+]
+```
