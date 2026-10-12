@@ -124731,3 +124731,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:29:27.588150+00:00 — Review 96H6UQNF h15: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4779",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4779",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4779",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4779",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4779",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4779",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4779",
+    "before": null,
+    "after": "Sign-adjusted cumulative abnormal stock returns from Carhart four-factor linear normal-return model, by headquarters-county belief terciles. Printed event horizons differ from Table8 and are preserved in setting Notes. Not outcome-SD units; zero mass unknown."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E26",
+    "before": null,
+    "after": "DONE — Complete supplied article, included appendices and independently byte-verified 36-page publisher Internet Appendix reviewed. Added omitted methods/panels/exposure weights/mechanisms/event heterogeneity; grouped duplicate baseline outcomes and retained actual firm/time identifying FE, Poisson Other and conventional contract-eligibility DiD. Mean-relative earnings comparisons coded separately from effect-to-effect ratios. Printed negative Wald statistics, quarter allocation and event-window/scale conflicts retained unresolved rather than repaired. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2036",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2036",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2036",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2036",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2036",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2036",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2036",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2036",
+    "before": null,
+    "after": "TableC.2 cols.2–3: binary extreme-weather event effect on sign-adjusted Carhart-model CARs in top/bottom terciles of headquarters-county climate-harm beliefs, used to probe heterogeneous investor response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2036",
+    "before": null,
+    "after": "Linear normal-return imputation event study, not causal effect of beliefs or a treated/control DiD. Supporting result; col.1 is expressly repeated baseline, not new setting. Caption prints training days−150 to−121 and abnormal-return period[-120,+20], unlike Table8 −50 to−21/[-20,+20]. Table rows print[-120,+20],[-110,+10],[-15,+5],[-11,+1]. All-event values repeat Table8 exactly. Preserve source ambiguity instead of silently repairing horizons. Pro-CC CARs −0.002,−0.001,−0.002,0.001; Anti-CC 0.002,0.003,0.002,0.001, all insignificant. Source: AppendixC2 p.44; TableC.2.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```

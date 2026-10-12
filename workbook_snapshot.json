@@ -107,6 +107,7 @@
     "B26": "Temperature shocks and industry earnings news",
     "C26": "fin",
     "D26": 13,
+    "E26": "DONE — Complete supplied article, included appendices and independently byte-verified 36-page publisher Internet Appendix reviewed. Added omitted methods/panels/exposure weights/mechanisms/event heterogeneity; grouped duplicate baseline outcomes and retained actual firm/time identifying FE, Poisson Other and conventional contract-eligibility DiD. Mean-relative earnings comparisons coded separately from effect-to-effect ratios. Printed negative Wald statistics, quarter allocation and event-window/scale conflicts retained unresolved rather than repaired. Original model fields preserved.",
     "A27": "9SK5H9MK",
     "B27": "Firm Age, Investment Opportunities, and Job Creation",
     "C27": "fin",
@@ -18686,7 +18687,16 @@
     "L2035": "0",
     "M2035": "n/a",
     "N2035": "TableC.1 cols.2–11: binary extreme-weather event pre/post linear mean-forecast contrasts by analyst proximity, prior firm/industry shock experience, local climate beliefs and political contributions. Same outcome and event estimand across routine subgroup variants; group within this table.",
-    "O2035": "OLS linear before/after contrasts, no DiD/control cohort or identifying FE. Weather remains focal binary event; subgroup status is not separately assigned treatment. Substantive heterogeneity supports baseline immediate-underreaction conclusion; main=0 relative to s12. Do not add col.1 again: text calls it baseline comparator and values/t-statistics repeat Table8. Preserve anomalous printed windows [-120,+20],[-110,+10],[-15,+5],[-11,+1], visually verified; actual horizon unresolved versus baseline discussion. Pro-CC/Anti-CC and party subgroups show no significant response; neither proves zero outcome mass. Source: AppendixC1 pp.42–44; TableC.1 p.43.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+    "O2035": "OLS linear before/after contrasts, no DiD/control cohort or identifying FE. Weather remains focal binary event; subgroup status is not separately assigned treatment. Substantive heterogeneity supports baseline immediate-underreaction conclusion; main=0 relative to s12. Do not add col.1 again: text calls it baseline comparator and values/t-statistics repeat Table8. Preserve anomalous printed windows [-120,+20],[-110,+10],[-15,+5],[-11,+1], visually verified; actual horizon unresolved versus baseline discussion. Pro-CC/Anti-CC and party subgroups show no significant response; neither proves zero outcome mass. Source: AppendixC1 pp.42–44; TableC.1 p.43.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002.",
+    "A2036": "96H6UQNF",
+    "B2036": "h15",
+    "I2036": "1",
+    "J2036": "OLS",
+    "K2036": "1",
+    "L2036": "0",
+    "M2036": "n/a",
+    "N2036": "TableC.2 cols.2–3: binary extreme-weather event effect on sign-adjusted Carhart-model CARs in top/bottom terciles of headquarters-county climate-harm beliefs, used to probe heterogeneous investor response.",
+    "O2036": "Linear normal-return imputation event study, not causal effect of beliefs or a treated/control DiD. Supporting result; col.1 is expressly repeated baseline, not new setting. Caption prints training days−150 to−121 and abnormal-return period[-120,+20], unlike Table8 −50 to−21/[-20,+20]. Table rows print[-120,+20],[-110,+10],[-15,+5],[-11,+1]. All-event values repeat Table8 exactly. Preserve source ambiguity instead of silently repairing horizons. Pro-CC CARs −0.002,−0.001,−0.002,0.001; Anti-CC 0.002,0.003,0.002,0.001, all insignificant. Source: AppendixC2 p.44; TableC.2.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52785,7 +52795,14 @@
     "H4778": "0",
     "I4778": "unknown",
     "J4778": "other",
-    "K4778": "Price-scaled analyst consensus EPS forecasts, sign-aligned and event-window demeaned; pre/post contrasts by reported analyst subgroups. Printed event horizons differ from Table8 and are preserved in setting Notes. Not outcome-SD units; zero mass unknown."
+    "K4778": "Price-scaled analyst consensus EPS forecasts, sign-aligned and event-window demeaned; pre/post contrasts by reported analyst subgroups. Printed event horizons differ from Table8 and are preserved in setting Notes. Not outcome-SD units; zero mass unknown.",
+    "A4779": "96H6UQNF",
+    "B4779": "h15",
+    "C4779": "hy1",
+    "H4779": "0",
+    "I4779": "unknown",
+    "J4779": "other",
+    "K4779": "Sign-adjusted cumulative abnormal stock returns from Carhart four-factor linear normal-return model, by headquarters-county belief terciles. Printed event horizons differ from Table8 and are preserved in setting Notes. Not outcome-SD units; zero mass unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
