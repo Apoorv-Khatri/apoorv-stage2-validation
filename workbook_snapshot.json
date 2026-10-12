@@ -19364,7 +19364,16 @@
     "L2088": "1",
     "M2088": "n/a",
     "N2088": "Table2 non-stock-FE columns1,2,4,5,7,8,10,11: continuous logged AT proxy effects on price jump ratio, parsimonious and fuller regression adjustments. Month dummy controls where present do not establish a separate identifying-FE method.",
-    "O2088": "All first columns have no FE. Month FE row prints Yes for2/5 and No for8/11, contrary to general prose; preserve conflict. Baseline is causally interpreted in whole-paper argument although endogeneity motivates IV. Source: Table2 p2199; §5.1 p2200; text956–1066. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
+    "O2088": "All first columns have no FE. Month FE row prints Yes for2/5 and No for8/11, contrary to general prose; preserve conflict. Baseline is causally interpreted in whole-paper argument although endogeneity motivates IV. Source: Table2 p2199; §5.1 p2200; text956–1066. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities.",
+    "A2089": "AAT34438",
+    "B2089": "h2",
+    "I2089": "1",
+    "J2089": "OLS",
+    "K2089": "1",
+    "L2089": "0",
+    "M2089": "n/a",
+    "N2089": "Quarterly Table8 linear endpoint contrasts comparing high versus low AT quintiles using four proxies and their first principal component. Perfect-foresight hedge portfolios are constructed within the endpoint groups; compare normalized cumulative portfolio returns at T and intraperiod timeliness (area under normalized cumulative-return curve) at T.",
+    "O2089": "Binary refers to the implemented quintile5-versus1 contrast, not the underlying continuous sorting variable. Observational linear group contrasts under author’s information-acquisition interpretation; equal portfolio weights are not matching on covariates. No first-stage/Wald division in the price sort. Annual plot and quarterly estimates have separately reported result locations and aggregation. Return normalization is outcome construction, not a separately stated effect-to-own-outcome benchmark. Source: Table8 panelsA/B p2216; §6.2 pp2214–2216. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54424,7 +54433,21 @@
     "H4928": "0",
     "I4928": "unknown",
     "J4928": "other",
-    "K4928": "Price jump ratio CAR(T−1,T+2)/CAR(T−21,T+2), using Fama–French three-factor residualized log returns. This is a ratio, NOT log of the ratio; continuous, zero mass unknown. Denominator volatility filter excludes near-zero denominators, not zero numerators. Eq2 pp2192–2194."
+    "K4928": "Price jump ratio CAR(T−1,T+2)/CAR(T−21,T+2), using Fama–French three-factor residualized log returns. This is a ratio, NOT log of the ratio; continuous, zero mass unknown. Denominator volatility filter excludes near-zero denominators, not zero numerators. Eq2 pp2192–2194.",
+    "A4929": "AAT34438",
+    "B4929": "h2",
+    "C4929": "hy1",
+    "H4929": "0",
+    "I4929": "unknown",
+    "J4929": "other",
+    "K4929": "Relative cumulative abnormal perfect-foresight portfolio return (% of that portfolio’s total abnormal return through T+2), as of T, using quarterly sorts. Table8A reports Q5−Q1 after proxies oriented toward increasing AT.",
+    "A4930": "AAT34438",
+    "B4930": "h2",
+    "C4930": "hy2",
+    "H4930": "0",
+    "I4930": "unknown",
+    "J4930": "other",
+    "K4930": "Intraperiod timeliness as of T: area under the normalized cumulative abnormal portfolio return curve, percentage-point-days; Table8B. Continuous aggregate, not a binary outcome; zero mass unestablished."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
