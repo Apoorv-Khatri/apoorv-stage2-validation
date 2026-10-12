@@ -19083,7 +19083,16 @@
     "L2061": "0",
     "M2061": "n/a",
     "N2061": "Table8(6): At Least One Daughter Fraction, fraction of senior partners with at least one daughter, on female-hire probability, conditional on average children and firm/year controls.",
-    "O2061": "Treatment is the firm-level scalar aggregate, not the underlying binary partner-level indicator. Source: Table8 p.11; §4.1 p.10."
+    "O2061": "Treatment is the firm-level scalar aggregate, not the underlying binary partner-level indicator. Source: Table8 p.11; §4.1 p.10.",
+    "A2062": "9XGMQWX5",
+    "B2062": "h5",
+    "I2062": "1",
+    "J2062": "IV",
+    "K2062": "0",
+    "L2062": "1",
+    "M2062": "single continuous",
+    "N2062": "Table11(3)–(4): continuous Female Hired Ratio on deal success, 2SLS with hiring-relevant average daughters across all existing partners as the sole excluded instrument.",
+    "O2062": "All-partner instrument differs from senior-only s5; average children is an included covariate in both stages, not an excluded instrument. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Table11 p.13; A3(1)–(2) p.18."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -53956,7 +53965,11 @@
     "A4900": "9XGMQWX5",
     "B4900": "h4",
     "C4900": "hy1",
-    "K4900": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level."
+    "K4900": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level.",
+    "A4901": "9XGMQWX5",
+    "B4901": "h5",
+    "C4901": "hy1",
+    "K4901": "Deal success indicator: 1 if IPO or acquisition value exceeds invested capital; 0 otherwise. Decimal probability scale."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
