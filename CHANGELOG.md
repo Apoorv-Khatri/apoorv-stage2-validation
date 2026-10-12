@@ -140229,3 +140229,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:33:24.501253+00:00 — Review ACJ72JDD s6: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K776",
+    "before": null,
+    "after": "Mean of the next three hourly simple Bitcoin returns, (Rt+Rt+1+Rt+2)/3, NOT the compounded three-hour cumulative return. Equal-weighted Bitcoin price index across Bitfinex, Poloniex, Bittrex, Binance, HitBTC, Huobi and OKEx. Table coefficients interpreted as basis points per 100 BTC flow; equation is on hourly-return scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I270",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J270",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K270",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L270",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M270",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N270",
+    "before": null,
+    "after": "Table VI Panel B only: 2SLS/fuzzy RD effect of continuous lagged aggregate Tether/Bitcoin flow on average next-three-hour Bitcoin return. Excluded instrument is one binary below-cutoff × within-72-hour-authorization indicator. Panel C 1LSg receipt estimand is h3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O270",
+    "before": null,
+    "after": "One instrument, not separate cutoff and authorization instruments. Within local $50-above/below sample, z=1 below AND authorization; z=0 above OR nonauthorization. In authorization-only samples it reduces to below-cutoff. Author calls first stages strong, but printed F declines to 8.217 and 5.264 in sign splits; preserve rather than endorse uniform strength. Controls are not instruments. The original model description incorrectly places the quotation about using discontinuity as an instrument in the abstract. It is in the introduction, p.1918, lines246–248; the abstract does not contain that quotation. Source: Table VI B p.1951; §IV.A p.1952; lines1713–1813. Certainty: source-grounded."
+  }
+]
+```
