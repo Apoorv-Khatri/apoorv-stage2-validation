@@ -342657,3 +342657,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:52:23.455456+00:00 — Review F4QBG3CB h60: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6120",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6121",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6122",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6120",
+    "before": null,
+    "after": "h60"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6121",
+    "before": null,
+    "after": "h60"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6122",
+    "before": null,
+    "after": "h60"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6120",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6121",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6122",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6121",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6122",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6121",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6122",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6120",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6121",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6122",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6120",
+    "before": null,
+    "after": "Observed success indicator: IPO or acquisition worth at least twice capital invested within seven years. Enters structural probit-type outcome mapping; model-fitted probabilities are continuous."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6121",
+    "before": null,
+    "after": "Latent expected total startup value pi(i,e,c), present value of future cash flows; contract response represented through h(c). Not a dollar-calibrated observed valuation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6122",
+    "before": null,
+    "after": "Investor share alpha(c) of expected startup value; gamma coefficients are parameterized through entrepreneur share 1-alpha, not direct probability-point effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2407",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2407",
+    "before": null,
+    "after": "h60"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2407",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2407",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2407",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2407",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2407",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2407",
+    "before": null,
+    "after": "One-sided asymmetric information: implemented binary inclusion versus absence of VC board-seat representation, other contract components/agent qualities held fixed for the structural response. beta5 / gamma4; interactions with participation and pay-to-play; interactions are conditional modifiers, not independent treatment assignments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2407",
+    "before": null,
+    "after": "Nonlinear structural dynamic search-and-matching equilibrium estimated by efficient-weight GMM; endogenous contract choice and latent agent qualities jointly modeled. Random encounters, functional forms and success-to-value mapping identify the response; this is not linear IV, empirical covariate matching, or identifying FE. Structural quality-distribution parameters and model-fit moments are not separate causal treatments. Perceived entrepreneur quality e has true quality e or fixed t with common likelihood; source says estimated similar results. Exact t/likelihood and coefficients unreported; do not claim general adverse-selection model. Source: §8 mainPDF23 seventh extension."
+  }
+]
+```
