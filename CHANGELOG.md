@@ -124842,3 +124842,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:29:41.673806+00:00 — Review 9SK5H9MK s1: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K138",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L138",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q138",
+    "before": null,
+    "after": "p.1000/PDF2: treatment IQR move produces1.5% of2000 employment; Table III col3=.306; Table I income p25=0,p75=.05."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R138",
+    "before": null,
+    "after": "Model benchmark is the IQR of the TREATMENT, not an outcome level. Baseline2000 employment is the construction denominator of a net-job-change outcome, not its mean/SD or an explicit focal same-outcome benchmark. Reject eligibility independently of division/alignment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K631",
+    "before": null,
+    "after": "Aggregate two-year net employment creation in the nontradable sector (NAICS 44-45, 72) in the CZ, scaled by total nontradable employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K632",
+    "before": null,
+    "after": "Two-year net employment creation by startups (firms aged 0-1 years) in the nontradable sector, scaled by total nontradable employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K633",
+    "before": null,
+    "after": "Two-year net employment creation by firms aged 2-3 years in the nontradable sector, scaled by total nontradable employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K634",
+    "before": null,
+    "after": "Two-year net employment creation by firms aged 4-5 years in the nontradable sector, scaled by total nontradable employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K635",
+    "before": null,
+    "after": "Two-year net employment creation by firms aged 6+ years in the nontradable sector, scaled by total nontradable employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K636",
+    "before": null,
+    "after": "Two-year employment growth rate for aggregate nontradable employment, used to report elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K637",
+    "before": null,
+    "after": "Two-year employment growth rate for startup nontradable employment, used to report elasticity; startups use the authors' startup-growth formula based on startup employment at t and t-2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K638",
+    "before": null,
+    "after": "Two-year employment growth rate for nontradable firms aged 2-3 years, used to report elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K639",
+    "before": null,
+    "after": "Two-year employment growth rate for nontradable firms aged 4-5 years, used to report elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K640",
+    "before": null,
+    "after": "Two-year employment growth rate for nontradable firms aged 6+ years, used to report elasticity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I234",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J234",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K234",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L234",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M234",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N234",
+    "before": null,
+    "after": "Two-year continuous local income-growth effect on nontradable net job creation and separately employment growth/elasticities; 2SLS Table III columns3,5,7,9,11. CZ observations, nonoverlapping endpoints 2001/2003/2005/2007; two-year real growth in total wages and salaries; controls log labor force, high-school share and log total wages measured in 2000; year dummies; CZ-clustered SE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O234",
+    "before": null,
+    "after": "Endogenous receipt/dose is continuous income growth, not the instrument or a subgroup indicator. A single scalar shift-share sum uses lagged four-digit manufacturing employment shares times national industry employment growth excluding the focal region; do not count component industries as separate excluded instruments. Exclusion requires manufacturing shocks to affect nontradable employment only through income (pp.1011-1014, eqs.2-3). Footnote10 p.1004 says elasticity regressions use the middle90% of each category and untrimmed results leave conclusions unchanged, available from authors. This is an unreported routine trimming variant, not a new verified result table; coefficients and full sector scope of the untrimmed extension are unavailable. Footnote15 p.1015 says results remain robust when including2008–2012, but exact specifications/outcome coverage are not tabulated in recovered sources. Record this sample-variant existence here without fabricating an additional fully specified setting. Source: Table III p.1010/PDF12; §II.A pp.1016-1018/PDF18-20. Source link: https://doi.org/10.1111/jofi.12495."
+  }
+]
+```
