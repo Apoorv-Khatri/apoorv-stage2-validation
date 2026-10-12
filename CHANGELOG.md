@@ -133389,3 +133389,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:38:24.520473+00:00 — Review 9XGMQWX5 s2: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K731",
+    "before": null,
+    "after": "Model zero-mass=0 is incorrect: the untransformed female-hire indicator includes male hires coded0 (Table7 and descriptive hire frequencies). Detailed Human outcome labels may remain blank because treatment is nonbinary."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I248",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J248",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K248",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L248",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M248",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N248",
+    "before": null,
+    "after": "Table8(2): senior-partner Daughter Ratio (total daughters divided by total children at the firm), on female-hire probability. Other alternative metrics are split into h1–h4; Table8(1) repeats s1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O248",
+    "before": null,
+    "after": "Distinct alternative treatment definitions are split rather than pooled. All are nonbinary firm-level aggregates, including shares built from binary partner indicators. Source: Table8 p.11; §4.1 p.10."
+  }
+]
+```
