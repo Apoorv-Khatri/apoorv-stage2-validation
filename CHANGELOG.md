@@ -330330,3 +330330,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:36:26.723750+00:00 — Review F4QBG3CB s4: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1004",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1004",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1004",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1004",
+    "before": null,
+    "after": "Spurious for causal inventory: parent is a descriptive/diagnostic regression foil; retain original definition unchanged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I383",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O383",
+    "before": null,
+    "after": "Excluded at author-intention gate, not because identification is unconvincing: §5.1 explicitly presents misleading/counterintuitive regressions as an omitted-quality illustration and calls results correlations; §5.2 replaces them to address this problem. Contested broad-gate boundary: the phrase suggests full ownership maximizes success could support inclusion if treated as an asserted causal interpretation rather than a diagnostic foil. Table3 caption establishes probit cols1–5 and OLS col6, contrary to the blanket OLS wording in §5.1. No independent identifying role is argued for the four dummy-control sets; do not automatically call col6 HDFE. Source: §5.1 PDF11 printed141; Table3 PDF12 printed142."
+  }
+]
+```
