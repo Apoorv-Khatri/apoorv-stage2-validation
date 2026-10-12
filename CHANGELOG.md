@@ -139716,3 +139716,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:32:01.915144+00:00 — Review ACJ72JDD s1: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K758",
+    "before": null,
+    "after": "Mean of the next three hourly simple Bitcoin returns, (Rt+Rt+1+Rt+2)/3, NOT the compounded three-hour cumulative return. Equal-weighted Bitcoin price index across Bitfinex, Poloniex, Bittrex, Binance, HitBTC, Huobi and OKEx. Table coefficients interpreted as basis points per 100 BTC flow; equation is on hourly-return scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I265",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J265",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K265",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L265",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M265",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O265",
+    "before": null,
+    "after": "Correct outcome horizon: average hourly return over the next three hours, not cumulative three-hour return. No FE. Routine controls/sample variants stay grouped. Source: Table II A pp.1937–1938; §III.A p.1936; lines1005–1077. Certainty: source-grounded."
+  }
+]
+```
