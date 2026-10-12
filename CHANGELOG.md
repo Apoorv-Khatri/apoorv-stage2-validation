@@ -163038,3 +163038,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:21:03.552617+00:00 — Review BHYG5F75 s6: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J818",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K818",
+    "before": null,
+    "after": "Binary next-loan lender/lead-arranger switch, with zero for no switch. Printed coefficients are percentage points; Table1 shows a nondegenerate switching rate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I291",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J291",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K291",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L291",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M291",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N291",
+    "before": null,
+    "after": "Table7 cols1–2: binary voluntary disclosure in a private loan versus no disclosure, among eventual IPO firms, on next-loan lender switching. Linear regressions with loan-year fixed effects and loan controls; versions with and without IPO-timing controls grouped. No borrower/lender FE. Survey method FE because year effects address secular conditions; authors label the computational estimator OLS."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O291",
+    "before": null,
+    "after": "Year FE are an identifying adjustment for secular macroeconomic conditions, not merely a label: §2 p3083–3085, §3.2 p3093 and footnote16 p3095. Thus code FE despite authors calling the linear estimator OLS. No borrower/lender FE in IPO sample (footnote15). Main=1 because alternative timing-control strategy is specifically emphasized in introduction pp3078 and conclusion as central evidence against unobserved-quality explanation; not merely table-order robustness. Source: Table7 cols1–2 p3097; Eq3 p3095."
+  }
+]
+```
