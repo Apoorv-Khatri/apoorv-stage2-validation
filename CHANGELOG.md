@@ -125928,3 +125928,276 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:31:16.813684+00:00 — Review 9SK5H9MK s7: source-audited coding and linked comparisons
+
+44 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H691",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H693",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H694",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H695",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H696",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H697",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H698",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H699",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H700",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I691",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I693",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I694",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I695",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I696",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I697",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I698",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I699",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I700",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J691",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J693",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J694",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J695",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J696",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J697",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J698",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J699",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J700",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K691",
+    "before": null,
+    "after": "spurious: Table VIII only reports startup net job creation, not aggregate/older-age or employment-growth regressions. Retained y2 applies to col2; Saiz col4 moved to h1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K692",
+    "before": null,
+    "after": "Two-year net employment creation by startups (firms aged 0-1 years) in the nontradable sector, scaled by total nontradable employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K693",
+    "before": null,
+    "after": "spurious: Table VIII only reports startup net job creation, not aggregate/older-age or employment-growth regressions. Retained y2 applies to col2; Saiz col4 moved to h1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K694",
+    "before": null,
+    "after": "spurious: Table VIII only reports startup net job creation, not aggregate/older-age or employment-growth regressions. Retained y2 applies to col2; Saiz col4 moved to h1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K695",
+    "before": null,
+    "after": "spurious: Table VIII only reports startup net job creation, not aggregate/older-age or employment-growth regressions. Retained y2 applies to col2; Saiz col4 moved to h1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K696",
+    "before": null,
+    "after": "spurious: Table VIII only reports startup net job creation, not aggregate/older-age or employment-growth regressions. Retained y2 applies to col2; Saiz col4 moved to h1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K697",
+    "before": null,
+    "after": "spurious: Table VIII only reports startup net job creation, not aggregate/older-age or employment-growth regressions. Retained y2 applies to col2; Saiz col4 moved to h1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K698",
+    "before": null,
+    "after": "spurious: Table VIII only reports startup net job creation, not aggregate/older-age or employment-growth regressions. Retained y2 applies to col2; Saiz col4 moved to h1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K699",
+    "before": null,
+    "after": "spurious: Table VIII only reports startup net job creation, not aggregate/older-age or employment-growth regressions. Retained y2 applies to col2; Saiz col4 moved to h1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K700",
+    "before": null,
+    "after": "spurious: Table VIII only reports startup net job creation, not aggregate/older-age or employment-growth regressions. Retained y2 applies to col2; Saiz col4 moved to h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I240",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J240",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K240",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L240",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M240",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N240",
+    "before": null,
+    "after": "Table VIII column2 only: instrument income growth and income growth×above-median house-price-appreciation indicator jointly with Bartik and Bartik×same indicator. Startup (age0-1) net jobs/2000 CZ nontradable employment only. Continuous income dose; indicator moderates slope. 1155 observations; year dummies and baseline controls. House-price classification uses pooled median two-year HPA, 2000-2007."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O240",
+    "before": null,
+    "after": "Two NONBINARY excluded instruments Z and Z×D: binary D is an included control, not a separate excluded binary instrument; not mixed. HPA may itself be endogenous. Split alternative Saiz moderator/instrument set to h1. Baseline slope .335, additional high-HPA slope -.052, not a binary IV-receipt effect. Source: Table VIII column2 p.1026/PDF28; §II.F pp.1024-1025. Source link: https://doi.org/10.1111/jofi.12495."
+  }
+]
+```
