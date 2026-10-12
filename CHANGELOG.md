@@ -163182,3 +163182,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:21:32.377215+00:00 — Review BHYG5F75 s8: source-audited coding and linked comparisons
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H820",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H821",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H822",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I820",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I821",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I822",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J820",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J821",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J822",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K820",
+    "before": null,
+    "after": "Outcome is next-minus-current number of lenders. Zero mass for these changes is not tabulated; level zeros in Table1 do not establish change zeros in each regression sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K821",
+    "before": null,
+    "after": "Outcome is next-minus-current lead arranger retained share (percentage points). Zero mass for these changes is not tabulated; level zeros in Table1 do not establish change zeros in each regression sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K822",
+    "before": null,
+    "after": "Outcome is next-minus-current number of nonbank institutions. Zero mass for these changes is not tabulated; level zeros in Table1 do not establish change zeros in each regression sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I293",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J293",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K293",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L293",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M293",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N293",
+    "before": null,
+    "after": "Table8 cols1,2,4,5,7,8: binary voluntary disclosure in a private loan versus no disclosure, among eventual IPO firms, on next-minus-current number of lenders, retained lead share and number of nonbank institutions. Linear regressions with loan-year fixed effects and loan controls; versions with and without IPO-timing controls grouped. No borrower/lender FE. Survey method FE because year effects address secular conditions; authors label the computational estimator OLS."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O293",
+    "before": null,
+    "after": "Year FE are an identifying adjustment for secular macroeconomic conditions, not merely a label: §2 p3083–3085, §3.2 p3093 and footnote16 p3095. Thus code FE despite authors calling the linear estimator OLS. No borrower/lender FE in IPO sample (footnote15). Main=1 because alternative timing-control strategy is specifically emphasized in introduction pp3078 and conclusion as central evidence against unobserved-quality explanation; not merely table-order robustness. Source: Table8 cols1,2,4,5,7,8 p3098."
+  }
+]
+```
