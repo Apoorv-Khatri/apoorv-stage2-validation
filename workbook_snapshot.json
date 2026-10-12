@@ -19146,7 +19146,16 @@
     "L2068": "0",
     "M2068": "n/a",
     "N2068": "OnlineA4: average daughters conditional on children on female hiring, excluding email-solicited children information; all/senior variants.",
-    "O2068": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific.  Source: Author forthcoming manuscript Table Online A4, printed/PDF p.48; final article §4.4 p.16."
+    "O2068": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific.  Source: Author forthcoming manuscript Table Online A4, printed/PDF p.48; final article §4.4 p.16.",
+    "A2069": "9XGMQWX5",
+    "B2069": "h13",
+    "I2069": "1",
+    "J2069": "OLS",
+    "K2069": "0",
+    "L2069": "0",
+    "M2069": "n/a",
+    "N2069": "OnlineA5(2): all-partner Daughter Ratio (total daughters / total children) on female-hire probability.",
+    "O2069": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. All measures are nonbinary aggregates. Col1 repeats Table7(2) and is not a new setting. Source: Author forthcoming manuscript Table Online A5, printed/PDF p.49; final article §4.4 p.16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54051,7 +54060,11 @@
     "A4908": "9XGMQWX5",
     "B4908": "h12",
     "C4908": "hy1",
-    "K4908": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level."
+    "K4908": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level.",
+    "A4909": "9XGMQWX5",
+    "B4909": "h13",
+    "C4909": "hy1",
+    "K4909": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
