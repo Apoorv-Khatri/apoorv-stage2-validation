@@ -165537,3 +165537,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:25:30.017220+00:00 — Review BHYG5F75 h12: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2438",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2438",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2438",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2438",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2438",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2438",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2438",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2438",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2438",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2438",
+    "before": null,
+    "after": "Table6 col1 p3093 lines1204–1215: focal 2.6845pp 3≤years<6; benchmark IPO-subsample disclosure mean9%; joint prose says30%–40% increases."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2438",
+    "before": null,
+    "after": "Distinct categorical contrasts; mean pools event-time groups rather than establishes relevant untreated/reference-category mean. Exact regression target unspecified; unknown alignment. No per-year interpretation of log time imported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5010",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5010",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5010",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5010",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5010",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5010",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5010",
+    "before": null,
+    "after": "Disclose: one if at least one eligible financial metric voluntarily disclosed in loan, zero otherwise; not a sample disclosure rate. Main sample rate5.75%, IPO sample9%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2141",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2141",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2141",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2141",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2141",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2141",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2141",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2141",
+    "before": null,
+    "after": "Table6 cols1–2: 1[3≤Time to IPO<6] binary event-time-category contrast on disclosure, conditioning on the other category indicator; reference is omitted more-distant pre-IPO category. Year FE with/without loan controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2141",
+    "before": null,
+    "after": "Not DiD: no untreated/post comparison or parallel-trends design. Retain a substantive net-cost mechanism result rather than diagnostic-only first stage. Table row gives3≤Time to IPO<6, caption says3 and4 years, prose says next3 years; preserve mismatch and use printed row definition. Caption log-time definition versus year-based dummy labels also unresolved. Source: Table6 pp3093–3094 lines1204–1265; rendered page3094.png."
+  }
+]
+```
