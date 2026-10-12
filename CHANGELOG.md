@@ -329778,3 +329778,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:10:16.192375+00:00 — Review EYWPN7YT h19: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5942",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5942",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5942",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5942",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5942",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5942",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5942",
+    "before": null,
+    "after": "Stock-level Value Line recommendation strength, reverse-scored five-point scale (1=strong sell,5=strong buy), Table6 col3. A rating/average rating is not binary; zero is excluded by the1–5 scale. Only calendar1993–1994 observations available."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E41",
+    "before": null,
+    "after": "DONE — Complete50-page final publication including AppendicesA/B reviewed and independently cross-checked; final Internet Appendix unavailable despite additional institutional retrieval.31 settings retained: verified cohort-specific clean-control Cengiz stacks classified modern DiD; single-date Value Line separated as h19 conventional DiD, original outcome preserved as moved duplicate. Quantile estimators Other with contradictory OLS captions flagged. Selective-exit association excluded; waves1–2 timing robustness consolidated; prose-supported appendix families retained only at minimum established scope with unknown details.14 comparisons retained,3 rejected;8.1% coverage coefficient corrected, quantile populations split, later optimism broad42% normalization preserved despite printed arithmetic conflict. Alignment reasons identify actual population/weight discrepancies or missing detail, not automatic rejection of historical untreated means. Informativeness benchmark, outcome wording and prose/table conflicts preserved. Unseen appendix grids/comparisons not certified complete. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2347",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2347",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2347",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2347",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2347",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2347",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2347",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2347",
+    "before": null,
+    "after": "EDGAR online access and stock-level Value Line recommendation strength, Table6 col3. Calendar1993–1994 availability restricts observed treatment to the common January17,1994 online-access date; matched future-treated controls. Substantive null test of strategic incentives, separate from sell-side recommendation columns1–2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2347",
+    "before": null,
+    "after": "Table6 explicitly limits Value Line recommendations to calendar1993 and1994. Later baseline online-access cohorts begin in1995, so this observed contrast is a single-date conventional linear DD with firm/calendar-quarter/fiscal-quarter FE, not a heterogeneous multi-cohort estimator. Table6 estimates -0.201 in inclusion quarter and -0.333 in next-four-quarter row (no stars). Conclusion PDF40 uses the no-change result as mechanism evidence; retain main=1. No linked outcome-level benchmark; rating units1–5 exclude zero. Source: Table6 col3 PDF27; fn30 PDF26; AppendixA PDF41; conclusion PDF40."
+  }
+]
+```
