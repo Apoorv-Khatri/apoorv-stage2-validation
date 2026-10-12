@@ -322278,3 +322278,1026 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T11:34:53.736070+00:00 — Review EYAZZ4D5 h28: source-audited coding and linked comparisons
+
+169 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4194",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4195",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4196",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4197",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4198",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4199",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4200",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4201",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4202",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4203",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4204",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4205",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4194",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4195",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4196",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4197",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4198",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4199",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4200",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4201",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4202",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4203",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4204",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4205",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4194",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4195",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4196",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4197",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4198",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4199",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4200",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4201",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4202",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4203",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4204",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4205",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4194",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4195",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4196",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4197",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4198",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4203",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4204",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4205",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4194",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4195",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4196",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4197",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4198",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4199",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4200",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4201",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4202",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4203",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4204",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4205",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4194",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4195",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4196",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4197",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4198",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4199",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4200",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4201",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4202",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4203",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4204",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4205",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4194",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4195",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4196",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4197",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4198",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4199",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4200",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4201",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4202",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4203",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4204",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4205",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4194",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4195",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4196",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4197",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4198",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4199",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4200",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4201",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4202",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4203",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4204",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4205",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4194",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4195",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4196",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4197",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4198",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4199",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4200",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4201",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4202",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4203",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4204",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4205",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4194",
+    "before": null,
+    "after": "Table7 p59 col2: INFL annualized Sharpe ratio 0.36 versus prevailing-mean-rule Sharpe ratio 0.39; 1990:01–2014:12, h=1 months, same historical market path and variance forecasting rule. Table caption explicitly compares forecast-based allocations with prevailing mean; no paper-reported effect/base division for this cell. Prose p58, full 1990:01–2014:12 scope: “The 14 predictors from the literature rarely outperform the prevailing mean in terms of the Sharpe ratio.” This is a verbal group comparison covering these named rows; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4195",
+    "before": null,
+    "after": "Table7 p59 col3: INFL annualized Sharpe ratio 0.31 versus prevailing-mean-rule Sharpe ratio 0.31; 1990:01–2014:12, h=3 months, same historical market path and variance forecasting rule. Table caption explicitly compares forecast-based allocations with prevailing mean; no paper-reported effect/base division for this cell. Prose p58, full 1990:01–2014:12 scope: “The 14 predictors from the literature rarely outperform the prevailing mean in terms of the Sharpe ratio.” This is a verbal group comparison covering these named rows; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4196",
+    "before": null,
+    "after": "Table7 p59 col4: INFL annualized Sharpe ratio 0.49 versus prevailing-mean-rule Sharpe ratio 0.37; 1990:01–2014:12, h=6 months, same historical market path and variance forecasting rule. Table caption explicitly compares forecast-based allocations with prevailing mean; no paper-reported effect/base division for this cell. Prose p58, full 1990:01–2014:12 scope: “The 14 predictors from the literature rarely outperform the prevailing mean in terms of the Sharpe ratio.” This is a verbal group comparison covering these named rows; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4197",
+    "before": null,
+    "after": "Table7 p59 col5: INFL annualized Sharpe ratio 0.46 versus prevailing-mean-rule Sharpe ratio 0.35; 1990:01–2014:12, h=12 months, same historical market path and variance forecasting rule. Table caption explicitly compares forecast-based allocations with prevailing mean; no paper-reported effect/base division for this cell. Prose p58, full 1990:01–2014:12 scope: “The 14 predictors from the literature rarely outperform the prevailing mean in terms of the Sharpe ratio.” This is a verbal group comparison covering these named rows; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4198",
+    "before": null,
+    "after": "Table7 p59 col6: INFL annualized Sharpe ratio 0.43 versus prevailing-mean-rule Sharpe ratio 0.38; 1990:01–2006:12, h=1 months, same historical market path and variance forecasting rule. Table caption explicitly compares forecast-based allocations with prevailing mean; no paper-reported effect/base division for this cell."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4199",
+    "before": null,
+    "after": "Table7 p59 col7: INFL annualized Sharpe ratio 0.36 versus prevailing-mean-rule Sharpe ratio 0.33; 1990:01–2006:12, h=3 months, same historical market path and variance forecasting rule. Table caption explicitly compares forecast-based allocations with prevailing mean; no paper-reported effect/base division for this cell."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4200",
+    "before": null,
+    "after": "Table7 p59 col8: INFL annualized Sharpe ratio 0.49 versus prevailing-mean-rule Sharpe ratio 0.45; 1990:01–2006:12, h=6 months, same historical market path and variance forecasting rule. Table caption explicitly compares forecast-based allocations with prevailing mean; no paper-reported effect/base division for this cell."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4201",
+    "before": null,
+    "after": "Table7 p59 col9: INFL annualized Sharpe ratio 0.40 versus prevailing-mean-rule Sharpe ratio 0.37; 1990:01–2006:12, h=12 months, same historical market path and variance forecasting rule. Table caption explicitly compares forecast-based allocations with prevailing mean; no paper-reported effect/base division for this cell."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4202",
+    "before": null,
+    "after": "Table7 p59 col10: INFL annualized Sharpe ratio 0.19 versus prevailing-mean-rule Sharpe ratio 0.40; 2007:01–2014:12, h=1 months, same historical market path and variance forecasting rule. Table caption explicitly compares forecast-based allocations with prevailing mean; no paper-reported effect/base division for this cell."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4203",
+    "before": null,
+    "after": "Table7 p59 col11: INFL annualized Sharpe ratio 0.18 versus prevailing-mean-rule Sharpe ratio 0.28; 2007:01–2014:12, h=3 months, same historical market path and variance forecasting rule. Table caption explicitly compares forecast-based allocations with prevailing mean; no paper-reported effect/base division for this cell."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4204",
+    "before": null,
+    "after": "Table7 p59 col12: INFL annualized Sharpe ratio 0.49 versus prevailing-mean-rule Sharpe ratio 0.19; 2007:01–2014:12, h=6 months, same historical market path and variance forecasting rule. Table caption explicitly compares forecast-based allocations with prevailing mean; no paper-reported effect/base division for this cell."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4205",
+    "before": null,
+    "after": "Table7 p59 col13: INFL annualized Sharpe ratio 0.59 versus prevailing-mean-rule Sharpe ratio 0.28; 2007:01–2014:12, h=12 months, same historical market path and variance forecasting rule. Table caption explicitly compares forecast-based allocations with prevailing mean; no paper-reported effect/base division for this cell."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4194",
+    "before": null,
+    "after": "Benchmark is a level of the same nonlinear Sharpe-ratio outcome, not mean portfolio returns or an outcome-SD benchmark. Inclusion depends on accepting the explicit rule counterfactual; table-based pairing for competing rules is an audit priority."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4195",
+    "before": null,
+    "after": "Benchmark is a level of the same nonlinear Sharpe-ratio outcome, not mean portfolio returns or an outcome-SD benchmark. Inclusion depends on accepting the explicit rule counterfactual; table-based pairing for competing rules is an audit priority."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4196",
+    "before": null,
+    "after": "Benchmark is a level of the same nonlinear Sharpe-ratio outcome, not mean portfolio returns or an outcome-SD benchmark. Inclusion depends on accepting the explicit rule counterfactual; table-based pairing for competing rules is an audit priority."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4197",
+    "before": null,
+    "after": "Benchmark is a level of the same nonlinear Sharpe-ratio outcome, not mean portfolio returns or an outcome-SD benchmark. Inclusion depends on accepting the explicit rule counterfactual; table-based pairing for competing rules is an audit priority."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4198",
+    "before": null,
+    "after": "Benchmark is a level of the same nonlinear Sharpe-ratio outcome, not mean portfolio returns or an outcome-SD benchmark. Inclusion depends on accepting the explicit rule counterfactual; table-based pairing for competing rules is an audit priority."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4199",
+    "before": null,
+    "after": "Benchmark is a level of the same nonlinear Sharpe-ratio outcome, not mean portfolio returns or an outcome-SD benchmark. Inclusion depends on accepting the explicit rule counterfactual; table-based pairing for competing rules is an audit priority."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4200",
+    "before": null,
+    "after": "Benchmark is a level of the same nonlinear Sharpe-ratio outcome, not mean portfolio returns or an outcome-SD benchmark. Inclusion depends on accepting the explicit rule counterfactual; table-based pairing for competing rules is an audit priority."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4201",
+    "before": null,
+    "after": "Benchmark is a level of the same nonlinear Sharpe-ratio outcome, not mean portfolio returns or an outcome-SD benchmark. Inclusion depends on accepting the explicit rule counterfactual; table-based pairing for competing rules is an audit priority."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4202",
+    "before": null,
+    "after": "Benchmark is a level of the same nonlinear Sharpe-ratio outcome, not mean portfolio returns or an outcome-SD benchmark. Inclusion depends on accepting the explicit rule counterfactual; table-based pairing for competing rules is an audit priority."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4203",
+    "before": null,
+    "after": "Benchmark is a level of the same nonlinear Sharpe-ratio outcome, not mean portfolio returns or an outcome-SD benchmark. Inclusion depends on accepting the explicit rule counterfactual; table-based pairing for competing rules is an audit priority."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4204",
+    "before": null,
+    "after": "Benchmark is a level of the same nonlinear Sharpe-ratio outcome, not mean portfolio returns or an outcome-SD benchmark. Inclusion depends on accepting the explicit rule counterfactual; table-based pairing for competing rules is an audit priority."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4205",
+    "before": null,
+    "after": "Benchmark is a level of the same nonlinear Sharpe-ratio outcome, not mean portfolio returns or an outcome-SD benchmark. Inclusion depends on accepting the explicit rule counterfactual; table-based pairing for competing rules is an audit priority."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5893",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5894",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5895",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5896",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5893",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5894",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5895",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5896",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5893",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5894",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5895",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5896",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5893",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5894",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5895",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5896",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5893",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5894",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5895",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5896",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5893",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5894",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5895",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5896",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5893",
+    "before": null,
+    "after": "Annualized Sharpe ratio, portfolio excess-return mean divided by portfolio-return SD with annualization for INFL rule, 1-month rebalancing/evaluation horizon; full1990:01–2014:12 and1990:01–2006:12/2007:01–2014:12. Zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5894",
+    "before": null,
+    "after": "Annualized Sharpe ratio, portfolio excess-return mean divided by portfolio-return SD with annualization for INFL rule, 3-month rebalancing/evaluation horizon; full1990:01–2014:12 and1990:01–2006:12/2007:01–2014:12. Zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5895",
+    "before": null,
+    "after": "Annualized Sharpe ratio, portfolio excess-return mean divided by portfolio-return SD with annualization for INFL rule, 6-month rebalancing/evaluation horizon; full1990:01–2014:12 and1990:01–2006:12/2007:01–2014:12. Zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5896",
+    "before": null,
+    "after": "Annualized Sharpe ratio, portfolio excess-return mean divided by portfolio-return SD with annualization for INFL rule, 12-month rebalancing/evaluation horizon; full1990:01–2014:12 and1990:01–2006:12/2007:01–2014:12. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2327",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2327",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2327",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2327",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2327",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2327",
+    "before": null,
+    "after": "Use INFL predictive-regression forecast in the constrained mean-variance allocation rule instead of prevailing-mean forecast rule. Table7 annualized Sharpe ratios, horizons1,3,6,12 months;1990–2014,1990–2006,2007–2014. Distinct rule contrast, not the effect of the predictor on prices."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2327",
+    "before": null,
+    "after": "Author-explicit forecast-rule counterfactual, not causal effect of short interest on prices: §4 says the investor uses the alternative forecast instead, and footnote29 holds the ten-year variance forecast fixed so weights differ only because of return forecasts. Same realized underlying market/bill path, weights recomputed, price-taking interpretation; no transaction-cost, loan-fee or market-impact adjustment established. Nonlinear performance recomputation, not OLS. Binary refers to implemented rule-versus-prevailing-mean contrast, not continuously varying SII/weights. Review this inclusion priority independently. Supporting competing-rule results explicitly implemented and discussed, not merely predictive-regression coefficient rows. Source: §4 pp57–59, Table7 INFL row (PDF12–14)."
+  }
+]
+```
