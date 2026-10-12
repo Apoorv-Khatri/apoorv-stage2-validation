@@ -127740,3 +127740,132 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:32:55.471667+00:00 — Review 9SK5H9MK s13: source-audited coding and linked comparisons
+
+20 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2127",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2127",
+    "before": null,
+    "after": "s13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2127",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2127",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2127",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2127",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2127",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2127",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2127",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2127",
+    "before": null,
+    "after": "§III p.1029/PDF31 following Table X. Focal estimate: one-SD increase in local-bank share associated with0.3 percentage-point increase in startup employment share (slope.016). Benchmark: long-term average startup employment share6.1% across CZs."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2127",
+    "before": null,
+    "after": "Eligible same employment-share magnitude comparison, not merely treatment-SD scaling: the prose expressly states average6.1% alongside effect0.3pp. No ratio is reported. Continuous observational regression target and untreated benchmark are not established; alignment unknown. Baseline outcome is time-series median but prose calls benchmark long-term average; do not assume equivalence."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K728",
+    "before": null,
+    "after": "CZ time-series median share of employment in firms aged≤1; Table X col1. Caption defines employment share despite column heading saying % of firms; do not substitute firm count share."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K729",
+    "before": null,
+    "after": "CZ time-series median share of employment in firms aged≥6; Table X col2. Caption defines employment share despite column heading saying % of firms; do not substitute firm count share."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I246",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J246",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K246",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L246",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M246",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N246",
+    "before": null,
+    "after": "Table X: cross-sectional OLS of time-series median employment shares in startup firms age≤1 and older firms age≥6 on CZ time-series median local-bank deposit share; baseline 2000 controls plus state dummies; N555. Treatment is continuous local bank share, not firm age or a high/low indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O246",
+    "before": null,
+    "after": "Causal gate retained with moderate confidence: §III says “confirming that local banking is important for firm creation” and interprets local share as financing access, then uses a one-treatment-SD change to quantify employment-share change. The same paragraph calls the results correlated, so do not claim causal identification. This is not simply descriptive age-employment association. No separate source argument that state dummies identify the bank effect; method OLS, not FE merely because state FE are listed. Medians mitigate labor-market feedback but cannot establish exogeneity. Source: Table X p.1029/PDF31; §III pp.1028-1030. Source link: https://doi.org/10.1111/jofi.12495. Certainty: moderate."
+  }
+]
+```
