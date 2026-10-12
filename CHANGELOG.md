@@ -174744,3 +174744,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:46:30.531293+00:00 — Review DPFRSKRY s5: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H893",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I893",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J893",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K893",
+    "before": null,
+    "after": "No verified evidence establishes a probability mass at zero in the actual estimation sample. Holdings/trades can in principle be zero, but source does not state whether unheld pairs/exits/no-trade observations are retained; change model zero_mass=1 to unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I340",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J340",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K340",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L340",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M340",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O340",
+    "before": null,
+    "after": "Routine within-table fund-characteristic subsamples grouped; these are disaster effects within strata, not separately identified effects of concentration, size, age or manager experience. Subgroup timing not further established. Source: §3.2.2/Table7 pp1167–1168; L1301–1321,1349–1393."
+  }
+]
+```
