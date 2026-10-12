@@ -324555,3 +324555,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T11:35:41.122610+00:00 — Review EYAZZ4D5 h31: source-audited coding and linked comparisons
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4218",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4218",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4218",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4218",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4218",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4218",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4218",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4218",
+    "before": null,
+    "after": "Fig2B p60, with §4 p59: log cumulative wealth paths for monthly SII and prevailing-mean portfolios,1990:01–2014:12, each starting with $1 and reinvesting all proceeds. The SII portfolio makes money in the early crisis and rides the2009–2014 bull market; “In contrast” the prevailing-mean portfolio suffers a major drawdown and end2014 cumulative wealth barely returns to its end2007 level. Focal SII wealth path versus the deliberately linked prevailing-mean wealth path, particularly the crisis/recovery segment. Exact numerical curve ordinates or a scalar treatment-effect estimate are not printed and are not digitized or invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4218",
+    "before": null,
+    "after": "Qualitative same-outcome level comparison corroborated by deliberately paired figure curves, not a ratio of CER gains and not a log-percent interpretation. One path-level comparison, not a fabricated record for every month. Contested eligibility: retain under the broad stated-level/graphical comparison reading; a numeric-only extraction convention would omit this record, but that restriction is not in the supplied instructions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5905",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5905",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5905",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5905",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5905",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5905",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5905",
+    "before": null,
+    "after": "Log cumulative wealth from $1 initial wealth, all proceeds reinvested; Fig2B. SII versus prevailing-mean rule;1990:01–2014:12. Zero mass of reported path not established; initial normalization alone is not a distributional zero-mass estimate."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E40",
+    "before": null,
+    "after": "DONE — Complete20-page publication and7-page coauthor-linked February2016 appendix reviewed and independently cross-checked. Original s1–s5/s8 excluded as prediction/diagnostics; s6/s7 retained as explicit portfolio-rule counterfactuals, not effects of short interest on market prices. Added31 settings for implemented competing/passive rules and Figure2 wealth;33 retained settings, Other nonlinear performance recomputation, binary rule contrasts. Passive holding is not a forecast-only substitution.262 numerical Sharpe-level comparisons plus1 qualitative wealth-path comparison retained; original2 annualizations rejected. Figure2 weights retained as implementation evidence, not a separate outcome; qualitative comparison and supporting-policy scope explicitly qualified. No invented wealth ordinates or CER-level benchmarks; verbal/division scope independently corrected. Author-appendix footnote/version mismatch remains; final publisher-supplement identity unverified. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2330",
+    "before": null,
+    "after": "EYAZZ4D5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2330",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2330",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2330",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2330",
+    "before": null,
+    "after": "SII versus prevailing-mean monthly portfolio rule: log cumulative wealth from $1 initial wealth with all proceeds reinvested,1990–2014; Fig2B pp59–60. Fig2A documents the induced equity-weight path as implementation/mechanism, not a separate outcome. Authors attribute crisis-period wealth preservation and growth to short-then-long positioning induced by SII information."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2330",
+    "before": null,
+    "after": "Author-explicit forecast-rule counterfactual, not causal effect of short interest on prices: §4 says the investor uses the alternative forecast instead, and footnote29 holds the ten-year variance forecast fixed so weights differ only because of return forecasts. Same realized underlying market/bill path, weights recomputed, price-taking interpretation; no transaction-cost, loan-fee or market-impact adjustment established. Nonlinear performance recomputation, not OLS. Binary refers to implemented rule-versus-prevailing-mean contrast, not continuously varying SII/weights. Review this inclusion priority independently. Fig2A is retained as implementation evidence only; Fig2B is the substantive wealth outcome. No invented digitized point estimates. Source: §4 p59; Fig2 A/B p60 (PDF14–15)."
+  }
+]
+```
