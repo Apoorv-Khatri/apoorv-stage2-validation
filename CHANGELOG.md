@@ -136542,3 +136542,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:47:18.004979+00:00 — Review 9XGMQWX5 h30: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4926",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4926",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4926",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4926",
+    "before": null,
+    "after": "Deal success indicator: 1 if IPO or acquisition value exceeds invested capital; 0 otherwise. Decimal probability scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2086",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2086",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2086",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2086",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2086",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2086",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2086",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2086",
+    "before": null,
+    "after": "Prose-only reduced-form daughters-on-deal-success robustness excluding email respondents, separate from the tabulated hiring restriction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2086",
+    "before": null,
+    "after": "Explicitly reported as reduced-form deal performance analysis; coefficients and exact sample unavailable in final PDF and recovered OnlineA1–A10. Do not invent values or assign OnlineA4 hiring coefficients to deals. Source: Final §4.4 p.16."
+  }
+]
+```

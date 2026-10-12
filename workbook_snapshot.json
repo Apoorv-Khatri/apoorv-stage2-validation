@@ -19299,7 +19299,16 @@
     "L2085": "0",
     "M2085": "n/a",
     "N2085": "Prose-only reduced-form effect of average daughters (all/senior partners) on IPO-only deal outcome; not the Female Hired Ratio IV/OLS estimates in OnlineA6.",
-    "O2085": "Authors explicitly say they also present reduced-form IPO regressions and report moderately significant all-partner results with stronger senior-partner t statistics. No such reduced-form table was recovered: OnlineA6 contains actual-share OLS and IV, not daughters-on-IPO reduced form. Coefficients unavailable; implemented linear reduced-form method follows the stated same-regression design. Source: Final p.12 footnote7; §4.4 p.16."
+    "O2085": "Authors explicitly say they also present reduced-form IPO regressions and report moderately significant all-partner results with stronger senior-partner t statistics. No such reduced-form table was recovered: OnlineA6 contains actual-share OLS and IV, not daughters-on-IPO reduced form. Coefficients unavailable; implemented linear reduced-form method follows the stated same-regression design. Source: Final p.12 footnote7; §4.4 p.16.",
+    "A2086": "9XGMQWX5",
+    "B2086": "h30",
+    "I2086": "1",
+    "J2086": "OLS",
+    "K2086": "0",
+    "L2086": "0",
+    "M2086": "n/a",
+    "N2086": "Prose-only reduced-form daughters-on-deal-success robustness excluding email respondents, separate from the tabulated hiring restriction.",
+    "O2086": "Explicitly reported as reduced-form deal performance analysis; coefficients and exact sample unavailable in final PDF and recovered OnlineA1–A10. Do not invent values or assign OnlineA4 hiring coefficients to deals. Source: Final §4.4 p.16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54272,7 +54281,11 @@
     "A4925": "9XGMQWX5",
     "B4925": "h29",
     "C4925": "hy1",
-    "K4925": "IPO indicator, equal to 1 if the deal went public, 0 otherwise; not the broader IPO-or-profitable-acquisition success measure."
+    "K4925": "IPO indicator, equal to 1 if the deal went public, 0 otherwise; not the broader IPO-or-profitable-acquisition success measure.",
+    "A4926": "9XGMQWX5",
+    "B4926": "h30",
+    "C4926": "hy1",
+    "K4926": "Deal success indicator: 1 if IPO or acquisition value exceeds invested capital; 0 otherwise. Decimal probability scale."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
