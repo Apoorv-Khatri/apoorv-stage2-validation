@@ -131067,3 +131067,186 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:37:26.210269+00:00 — Review 9SK5H9MK h39: source-audited coding and linked comparisons
+
+29 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4885",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4886",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4887",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4888",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4889",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4885",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4886",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4887",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4888",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4889",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4885",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4886",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4887",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4888",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4889",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4885",
+    "before": null,
+    "after": "aggregate: two-year nontradable net job change/2000 CZ nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4886",
+    "before": null,
+    "after": "0-1 years: two-year nontradable net job change/2000 CZ nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4887",
+    "before": null,
+    "after": "2-3 years: two-year nontradable net job change/2000 CZ nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4888",
+    "before": null,
+    "after": "4-5 years: two-year nontradable net job change/2000 CZ nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4889",
+    "before": null,
+    "after": "6+ years: two-year nontradable net job change/2000 CZ nontradable employment"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2055",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2055",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2055",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2055",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2055",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2055",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2055",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2055",
+    "before": null,
+    "after": "IAIX: continuous manufacturing Bartik reduced-form effect on nontradable net job changes/2000 employment, aggregate/four ages; year dummies and baseline controls, nonoverlapping N2044, CZ-clustered SE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2055",
+    "before": null,
+    "after": "Not IV: shock itself is the continuous treatment. Substantive shock-response interpretation under Table VII discussion; no endogenous income coefficient estimated. Source: Author Appendix Table IAIX printed p.15/PDF16; main p.1024 refers to continuous reduced form. Source link: https://songma.org/files/amr_jf_app_final.pdf."
+  }
+]
+```
