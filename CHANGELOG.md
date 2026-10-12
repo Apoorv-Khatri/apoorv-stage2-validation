@@ -168012,3 +168012,276 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:09:18.935778+00:00 — Review CN4YZYPH s16: source-audited coding and linked comparisons
+
+44 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2442",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2443",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2444",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2442",
+    "before": null,
+    "after": "s16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2443",
+    "before": null,
+    "after": "s16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2444",
+    "before": null,
+    "after": "s16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2442",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2443",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2444",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2442",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2443",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2442",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2443",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2444",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2442",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2443",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2444",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2442",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2444",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2442",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2444",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2442",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2443",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2444",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2442",
+    "before": null,
+    "after": "Table10 p215: all compensation-peer firms, high/low RPQ-tercile mean RAR 1.19/1.16; H−L=0.03. Benchmark is low-RPQ group mean 1.16, 2006–2010, directly paired in same column. No effect/benchmark ratio reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2443",
+    "before": null,
+    "after": "Table10 p215: high Pay_Gap compensation-peer firms, high/low RPQ-tercile mean RAR 1.23/1.20; H−L=0.03. Benchmark is low-RPQ group mean 1.20, 2006–2010, directly paired in same column. No effect/benchmark ratio reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2444",
+    "before": null,
+    "after": "Table10 p215: low Pay_Gap compensation-peer firms, high/low RPQ-tercile mean RAR 1.20/1.14; H−L=0.06. Benchmark is low-RPQ group mean 1.14, 2006–2010, directly paired in same column. No effect/benchmark ratio reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2442",
+    "before": null,
+    "after": "Eligibility arises from deliberate estimate–mean pairing, not RAR normalization by historical volatility. Unadjusted observational contrast: source does not establish low-group mean represents target untreated/counterfactual mean or specify target weights. Prose names actual means only for overall compensation group; other columns paired nonverbally."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2443",
+    "before": null,
+    "after": "Eligibility arises from deliberate estimate–mean pairing, not RAR normalization by historical volatility. Unadjusted observational contrast: source does not establish low-group mean represents target untreated/counterfactual mean or specify target weights. Prose names actual means only for overall compensation group; other columns paired nonverbally."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2444",
+    "before": null,
+    "after": "Eligibility arises from deliberate estimate–mean pairing, not RAR normalization by historical volatility. Unadjusted observational contrast: source does not establish low-group mean represents target untreated/counterfactual mean or specify target weights. Prose names actual means only for overall compensation group; other columns paired nonverbally."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H874",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I874",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J874",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K874",
+    "before": null,
+    "after": "Risk adjustment ratio RAR: standard deviation of 12 monthly returns in fiscal year t divided by previous-year standard deviation; not the H−L difference as an individual dependent variable. Continuous ratio; observed zero mass not established. Compensation sample only after split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J325",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L325",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M325",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N325",
+    "before": null,
+    "after": "Table10 compensation peers only: top-versus-bottom RPQ-tercile binary contrast in mean RAR, overall and high/low Pay_Gap subsamples. Unadjusted linear mean differences; not a nonlinear effect estimator. Bonus peer contrast split separately. Footnote30 top/bottom-half robustness grouped here."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O325",
+    "before": null,
+    "after": "Author-intended test of whether higher RPQ induces risk shifting. Difference in sample means is linear in reported RAR; its ratio-defined dependent variable does not make estimator Other. No matching design. Low-group means paired with differences qualify; previous-year volatility denominator by itself is not a focal-effect comparison. Source: §7.3/Table10 compensation columns p215; lines1482–1576."
+  }
+]
+```
