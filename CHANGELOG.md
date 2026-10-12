@@ -171147,3 +171147,318 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:16:31.559165+00:00 — Review DFSQYG6H s3: source-audited coding and linked comparisons
+
+51 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2446",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2447",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2448",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2446",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2447",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2448",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2446",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2447",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2448",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K167",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2446",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2447",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2448",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L167",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2446",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2447",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2448",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M167",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2446",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2447",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2448",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N167",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2446",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2447",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2448",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O167",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2446",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2447",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2448",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P167",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2446",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2447",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2448",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q167",
+    "before": null,
+    "after": "Table6 col1, p915: Treat×Post0.016 ratio points (~1.6pps), stated approximately10% of treated year2000 average cash ratio. Retain original c1 for col1; separate other compared column estimates below."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2446",
+    "before": null,
+    "after": "p915/Table6 and adjacent economic-magnitude prose: Table6 col2 Treat×Post=0.015 ratio points, authors state approximately10%; benchmark treated firms’ year2000 pre-event cash-ratio mean; value not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2447",
+    "before": null,
+    "after": "p915/Table6 and adjacent economic-magnitude prose: Table6 col3 Treat×Post=0.016 ratio points, authors state approximately10%; benchmark treated firms’ year2000 pre-event cash-ratio mean; value not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2448",
+    "before": null,
+    "after": "p915/Table6 and adjacent economic-magnitude prose: Table6 col4 Treat×Post=0.015 ratio points, authors state approximately10%; benchmark treated firms’ year2000 pre-event cash-ratio mean; value not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R167",
+    "before": null,
+    "after": "Benchmark is treated firms’ own pre-event untreated cash-ratio level, not control-firm mean. Regression sample/weights and relation of the reported unweighted treated pre-event mean to the particular covariate-adjusted effect target are insufficiently documented; alignment unknown. No assumption that parallel trends equates outcome levels. Original pooled four specifications is split into distinct focal estimates; same rounded values need not be identical underlying estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2446",
+    "before": null,
+    "after": "Distinct column-specific compared effect, separated from original pooled c1. Regression target/weights versus reported treated baseline not established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2447",
+    "before": null,
+    "after": "Distinct column-specific compared effect, separated from original pooled c1. Regression target/weights versus reported treated baseline not established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2448",
+    "before": null,
+    "after": "Distinct column-specific compared effect, separated from original pooled c1. Regression target/weights versus reported treated baseline not established; alignment unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H882",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I882",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J882",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K882",
+    "before": null,
+    "after": "Outcome definition retained. Zero mass unknown: rounded minimum 0.00 in descriptive Table1 is not proof of a point mass at zero in the matched estimation sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J330",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M330",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O330",
+    "before": null,
+    "after": "Conventional DiD/DDD takes priority over identifying FE. Firm+year or firm+industry×year are two effective FE sets, not HDFE. Post coefficients are printed alongside full year FE even though a common Post lies in their span; preserve reporting and flag implementation/normalization uncertainty, not an invented alternative estimator. Source: §3.3/Table6 pp914–916."
+  }
+]
+```
