@@ -20617,7 +20617,16 @@
     "L2186": "0",
     "M2186": "n/a",
     "N2186": "Internet Appendix TableA1 cols11–12, same regressions as Table3: Fluidity (Hoberg-Phillips product-market competition/fluidity index) effect on cash ratio. Identifying firm and year fixed effects,1998–2015.",
-    "O2186": "Competition/negative-price-feedback mechanism is linked to its own positive coefficient supporting the hypothesis. Firm-FE implementation is a valid robustness response even though rounded coefficient is 0.000 and insignificant. Identifying firm and year FE: final p909 explicitly targets time-invariant firm-specific omitted variables. Retain implemented sensitivity, without claiming its sign/significance matches OLS. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
+    "O2186": "Competition/negative-price-feedback mechanism is linked to its own positive coefficient supporting the hypothesis. Firm-FE implementation is a valid robustness response even though rounded coefficient is 0.000 and insignificant. Identifying firm and year FE: final p909 explicitly targets time-invariant firm-specific omitted variables. Retain implemented sensitivity, without claiming its sign/significance matches OLS. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65.",
+    "A2187": "DFSQYG6H",
+    "B2187": "h44",
+    "I2187": "1",
+    "J2187": "OLS",
+    "K2187": "0",
+    "L2187": "0",
+    "M2187": "n/a",
+    "N2187": "Internet Appendix TableA1 cols5–10, same regressions as Table3: Firm age (log(1+months since first CRSP appearance)) effect on cash ratio. Industry and year dummy controls; displayed period/control/liquidity-proxy variants grouped.",
+    "O2187": "Explicit negative-effect hypothesis based on stakeholder ties is linked to own negative coefficient as mechanism evidence. A2 incorrectly implies col9 significance; retain intent, not the erroneous significance claim. OLS with industry/year controls: no separately argued identifying role for those dummies. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56806,7 +56815,11 @@
     "A5077": "DFSQYG6H",
     "B5077": "h41",
     "C5077": "hy1",
-    "K5077": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
+    "K5077": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged.",
+    "A5078": "DFSQYG6H",
+    "B5078": "h44",
+    "C5078": "hy1",
+    "K5078": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
