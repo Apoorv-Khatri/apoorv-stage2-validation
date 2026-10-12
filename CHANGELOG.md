@@ -162975,3 +162975,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:20:49.512179+00:00 — Review BHYG5F75 s5: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K158",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R158",
+    "before": null,
+    "after": "Pooled two categorical contrasts wrongly attached to continuous-time parent; split to h11/hc1 and h12/hc1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I290",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J290",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K290",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L290",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M290",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N290",
+    "before": null,
+    "after": "Table6 cols3–4: continuous TimetoIPO affects disclosure probability among eventual IPO firms, year FE with/without loan controls. Caption defines natural log years; coefficients −0.4714 and −0.3425. Categorical contrasts moved to h11 and h12."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O290",
+    "before": null,
+    "after": "Year FE are an identifying adjustment for secular macroeconomic conditions, not merely a label: §2 p3083–3085, §3.2 p3093 and footnote16 p3095. Thus code FE despite authors calling the linear estimator OLS. No borrower/lender FE in IPO sample (footnote15). Prose says per year and next column, although table distinguishes log-years and cols3–4. Do not silently convert to a per-year coefficient. Figure1 is smoothed descriptive motivation, not a second causal estimator. Source: Table6 cols3–4 pp3093–3094 lines1197–1265."
+  }
+]
+```
