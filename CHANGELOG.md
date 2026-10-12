@@ -135411,3 +135411,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:44:23.274449+00:00 — Review 9XGMQWX5 h17: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4913",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4913",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4913",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4913",
+    "before": null,
+    "after": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2073",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2073",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2073",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2073",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2073",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2073",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2073",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2073",
+    "before": null,
+    "after": "OnlineA5(6): all-partner At Least One Daughter Fraction (share of partners with at least one daughter) on female-hire probability."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2073",
+    "before": null,
+    "after": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. All measures are nonbinary aggregates. Col1 repeats Table7(2) and is not a new setting. Source: Author forthcoming manuscript Table Online A5, printed/PDF p.49; final article §4.4 p.16."
+  }
+]
+```
