@@ -347223,3 +347223,726 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:56:01.042408+00:00 — Review F4QBG3CB h74: source-audited coding and linked comparisons
+
+119 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4265",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4266",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4267",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4268",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4269",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4270",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4271",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4272",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4273",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4265",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4266",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4267",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4268",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4269",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4270",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4271",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4272",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4273",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4265",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4266",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4267",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4268",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4269",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4270",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4271",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4272",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4273",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4265",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4266",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4267",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4268",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4269",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4270",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4271",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4272",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4273",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4265",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4266",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4267",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4268",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4269",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4270",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4271",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4272",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4273",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4265",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4266",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4267",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4268",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4269",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4270",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4271",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4272",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4273",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4265",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4266",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4267",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4268",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4269",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4270",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4271",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4272",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4273",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4265",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4266",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4267",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4268",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4269",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4270",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4271",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4272",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4273",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4265",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4266",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4267",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4268",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4269",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4270",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4271",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4272",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4273",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4265",
+    "before": null,
+    "after": "§5.2.6 PDF18: for entrepreneur e=8.32 (99th percentile), move VC quality from 4.13 to10. off-equilibrium fixed lowest-VC contract 141.4% increase relative to the same outcome with the lowest acceptable VC. The 33% introductory entrepreneur figure is rounded32.8%, not a second estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4266",
+    "before": null,
+    "after": "§5.2.6 PDF18: for entrepreneur e=8.32 (99th percentile), move VC quality from 4.13 to10. off-equilibrium fixed lowest-VC contract 141.4% increase relative to the same outcome with the lowest acceptable VC. The 33% introductory entrepreneur figure is rounded32.8%, not a second estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4267",
+    "before": null,
+    "after": "Fig4 PDF19, printed149, 50th entrepreneur-quality percentile: plotted total startup value for the highest-quality acceptable VC retaining the lowest-quality VC contract (off equilibrium) is deliberately paired with the same outcome for the lowest-quality acceptable VC and its equilibrium contract. The two agents’ stacked values sum to total startup value. These are graphical same-outcome levels; no exact numerical effect or baseline is printed for this comparison, and none is digitized or inferred. The lowest-VC bar is the benchmark, not another estimated effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4268",
+    "before": null,
+    "after": "Fig4 PDF19, printed149, 50th entrepreneur-quality percentile: plotted entrepreneur expected payoff for the highest-quality acceptable VC retaining the lowest-quality VC contract (off equilibrium) is deliberately paired with the same outcome for the lowest-quality acceptable VC and its equilibrium contract. The two agents’ stacked values sum to total startup value. These are graphical same-outcome levels; no exact numerical effect or baseline is printed for this comparison, and none is digitized or inferred. The lowest-VC bar is the benchmark, not another estimated effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4269",
+    "before": null,
+    "after": "Fig4 PDF19, printed149, 50th entrepreneur-quality percentile: plotted VC expected payoff for the highest-quality acceptable VC retaining the lowest-quality VC contract (off equilibrium) is deliberately paired with the same outcome for the lowest-quality acceptable VC and its equilibrium contract. The two agents’ stacked values sum to total startup value. These are graphical same-outcome levels; no exact numerical effect or baseline is printed for this comparison, and none is digitized or inferred. The lowest-VC bar is the benchmark, not another estimated effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4270",
+    "before": null,
+    "after": "Fig4 PDF19, printed149, 75th entrepreneur-quality percentile: plotted total startup value for the highest-quality acceptable VC retaining the lowest-quality VC contract (off equilibrium) is deliberately paired with the same outcome for the lowest-quality acceptable VC and its equilibrium contract. The two agents’ stacked values sum to total startup value. These are graphical same-outcome levels; no exact numerical effect or baseline is printed for this comparison, and none is digitized or inferred. The lowest-VC bar is the benchmark, not another estimated effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4271",
+    "before": null,
+    "after": "Fig4 PDF19, printed149, 75th entrepreneur-quality percentile: plotted entrepreneur expected payoff for the highest-quality acceptable VC retaining the lowest-quality VC contract (off equilibrium) is deliberately paired with the same outcome for the lowest-quality acceptable VC and its equilibrium contract. The two agents’ stacked values sum to total startup value. These are graphical same-outcome levels; no exact numerical effect or baseline is printed for this comparison, and none is digitized or inferred. The lowest-VC bar is the benchmark, not another estimated effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4272",
+    "before": null,
+    "after": "Fig4 PDF19, printed149, 75th entrepreneur-quality percentile: plotted VC expected payoff for the highest-quality acceptable VC retaining the lowest-quality VC contract (off equilibrium) is deliberately paired with the same outcome for the lowest-quality acceptable VC and its equilibrium contract. The two agents’ stacked values sum to total startup value. These are graphical same-outcome levels; no exact numerical effect or baseline is printed for this comparison, and none is digitized or inferred. The lowest-VC bar is the benchmark, not another estimated effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4273",
+    "before": null,
+    "after": "Fig4 PDF19, printed149, 99th entrepreneur-quality percentile: plotted VC expected payoff for the highest-quality acceptable VC retaining the lowest-quality VC contract (off equilibrium) is deliberately paired with the same outcome for the lowest-quality acceptable VC and its equilibrium contract. The two agents’ stacked values sum to total startup value. These are graphical same-outcome levels; no exact numerical effect or baseline is printed for this comparison, and none is digitized or inferred. The lowest-VC bar is the benchmark, not another estimated effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4267",
+    "before": null,
+    "after": "Moderate eligibility judgment: explicitly designed counterfactual bar pairing qualifies as a same-outcome level comparison, even without printed bar values. Not a mean/SD pairing, no numerical reading off the axis, no ratio inferred. Caption identifies the regimes but supplies no verbal magnitude comparison for this exact triple."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4268",
+    "before": null,
+    "after": "Moderate eligibility judgment: explicitly designed counterfactual bar pairing qualifies as a same-outcome level comparison, even without printed bar values. Not a mean/SD pairing, no numerical reading off the axis, no ratio inferred. Caption identifies the regimes but supplies no verbal magnitude comparison for this exact triple."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4269",
+    "before": null,
+    "after": "Moderate eligibility judgment: explicitly designed counterfactual bar pairing qualifies as a same-outcome level comparison, even without printed bar values. Not a mean/SD pairing, no numerical reading off the axis, no ratio inferred. Caption identifies the regimes but supplies no verbal magnitude comparison for this exact triple."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4270",
+    "before": null,
+    "after": "Moderate eligibility judgment: explicitly designed counterfactual bar pairing qualifies as a same-outcome level comparison, even without printed bar values. Not a mean/SD pairing, no numerical reading off the axis, no ratio inferred. Caption identifies the regimes but supplies no verbal magnitude comparison for this exact triple."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4271",
+    "before": null,
+    "after": "Moderate eligibility judgment: explicitly designed counterfactual bar pairing qualifies as a same-outcome level comparison, even without printed bar values. Not a mean/SD pairing, no numerical reading off the axis, no ratio inferred. Caption identifies the regimes but supplies no verbal magnitude comparison for this exact triple."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4272",
+    "before": null,
+    "after": "Moderate eligibility judgment: explicitly designed counterfactual bar pairing qualifies as a same-outcome level comparison, even without printed bar values. Not a mean/SD pairing, no numerical reading off the axis, no ratio inferred. Caption identifies the regimes but supplies no verbal magnitude comparison for this exact triple."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4273",
+    "before": null,
+    "after": "Moderate eligibility judgment: explicitly designed counterfactual bar pairing qualifies as a same-outcome level comparison, even without printed bar values. Not a mean/SD pairing, no numerical reading off the axis, no ratio inferred. Caption identifies the regimes but supplies no verbal magnitude comparison for this exact triple."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6166",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6167",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6168",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6166",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6167",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6168",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6166",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6167",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6168",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6166",
+    "before": null,
+    "after": "Expected total startup value pi. Fixed lowest-VC contract, with entrepreneur quality held fixed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6167",
+    "before": null,
+    "after": "Entrepreneur expected payoff pi_e, distinct from payoff share. Fixed lowest-VC contract, with entrepreneur quality held fixed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6168",
+    "before": null,
+    "after": "VC expected payoff pi_i, distinct from payoff share. Fixed lowest-VC contract, with entrepreneur quality held fixed."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E42",
+    "before": null,
+    "after": "DONE — Complete28-page publication including appendices and16-page verified publisher supplement reviewed and independently cross-checked.81 setting records,78 retained structural/model counterfactual families classified Other; Table3 correlations/diagnostic foil excluded with competing causal-language interpretation documented. Continuous equity and binary contract features separated across implemented robustness families; fixed-contract quality h74 separated from equilibrium renegotiation h11.59 comparisons retained,7 rejected; same-share benchmarks corrected, graphical comparisons explicitly qualitative with no invented bar values, overlapping Fig3 scopes narrowed. Cross-outcome total-value denominators and effect decompositions excluded. Fixed-match versus endogenous-rematching alignment distinguished. Measurement-rule and calibrated claim interventions qualified, not asserted empirical real-value shocks. Printed Tables4/5/7 sign conflicts, unresolved5x sign and pay-to-play prose/figure conflict preserved; unreported robustness details remain unknown. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2421",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2421",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2421",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2421",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2421",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2421",
+    "before": null,
+    "after": "Off-equilibrium controlled VC-quality response with entrepreneur quality and the lowest-acceptable-VC contract fixed. Fig4 third bar versus first bar, separately for 50th, 75th and 99th entrepreneur quality percentiles. Unlike h11, the contract does not renegotiate when VC quality changes. At the 99th percentile, startup and entrepreneur values each increase by 141.4% when VC quality moves from 4.13 to 10."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2421",
+    "before": null,
+    "after": "Nonlinear structural dynamic search-and-matching equilibrium estimated by efficient-weight GMM; endogenous contract choice and latent agent qualities jointly modeled. Random encounters, functional forms and success-to-value mapping identify the response; this is not linear IV, empirical covariate matching, or identifying FE. Structural quality-distribution parameters and model-fit moments are not separate causal treatments. Distinct fixed-contract estimand from the equilibrium-contract quality response in h11; not a routine control variant. The hypothetical counterfactual is supporting rather than itself the central equilibrium conclusion. Source: §5.2.6 PDF18; Fig4 PDF19."
+  }
+]
+```
