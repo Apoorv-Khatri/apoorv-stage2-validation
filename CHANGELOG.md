@@ -163113,3 +163113,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:21:18.079705+00:00 — Review BHYG5F75 s7: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J819",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K819",
+    "before": null,
+    "after": "Binary next-loan lender/lead-arranger switch, with zero for no switch. Printed coefficients are percentage points; Table1 shows a nondegenerate switching rate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I292",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J292",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K292",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L292",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M292",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O292",
+    "before": null,
+    "after": "Single nonbinary excluded source: (t−T_i^0)/T_i^MAX, the fraction elapsed from first sample appearance to IPO, Eq4. Linear stages predict time to IPO, then disclosure, then outcome using the same included X and year FE. IV precedence applies to actual binary disclosure receipt. AppendixA uses a stylized centered remaining-time formula (T−Tbar)/Tmax instead, not an additional jointly used instrument. Introduction describes fraction remaining, while Eq4 uses elapsed; preserve this sign/centering discrepancy. Exclusion relies on the life-cycle variation affecting financing only through disclosure; Appendix orthogonality claim is not a proof of this exclusion. Bootstrapped SE; possible weak/noisy identification acknowledged p3096. Visual Eq4 caution: the printed second-stage disclosure equation omits a slope coefficient on predicted time to IPO, whereas stylized AppendixA2 prints β². This is a source-notation ambiguity. Author-explicit IV and the scalar excluded source support IV/single continuous coding, but common controls alone do not prove an exactly implemented conventional 2SLS projection; no replication code is available here. Source: Table7 col3 p3097; Eq4 p3096; AppendixA p3101."
+  }
+]
+```
