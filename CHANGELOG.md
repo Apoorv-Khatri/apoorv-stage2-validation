@@ -149451,3 +149451,144 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:02:18.520856+00:00 — Review ANHCKZYX s13: source-audited coding and linked comparisons
+
+22 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H805",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H806",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H807",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H808",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H809",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I805",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I806",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I807",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I808",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I809",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J805",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J806",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J807",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J808",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J809",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K805",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s13 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K806",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s13 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K807",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s13 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K808",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s13 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K809",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s13 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I285",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O285",
+    "before": null,
+    "after": "Outside causal scope: Time-series macro loadings and Fama–MacBeth prices decompose actual returns into model-predicted and unexplained returns. These are unconditional covariance-pricing/specification tests; no implemented macro shock intervention or causal structural response is established. Two-pass Fama–MacBeth is not IV. Source: §4.3 Table 11 pp.1147–1149; lines1417–1530. Certainty: source-grounded causal-gate recommendation."
+  }
+]
+```
