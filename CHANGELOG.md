@@ -137247,3 +137247,438 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:49:04.982753+00:00 — Review AAT34438 h1: source-audited coding and linked comparisons
+
+71 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2153",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2154",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2155",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2156",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2157",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2153",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2154",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2155",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2156",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2157",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2153",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2154",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2155",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2156",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2157",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2153",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2154",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2155",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2156",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2157",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2153",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2154",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2155",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2156",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2157",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2153",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2154",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2155",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2156",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2157",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2153",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2154",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2155",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2156",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2157",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2153",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2154",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2155",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2156",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2157",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2153",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2154",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2155",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2156",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2157",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2153",
+    "before": null,
+    "after": "§5.1 p2200, Table2 column1: “a one unit increase in the log odd lot ratio increases the price jump ratio by 0.074 (relative to a median price jump ratio of 0.455).” Table coefficient0.0741; median0.455 pertains to the sample discussed there, no finer weighting/population given."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2154",
+    "before": null,
+    "after": "§5.1 p2200, Table2 column1, odd-lot ratio: coefficient 0.0741; one proxy-SD magnitude (SD0.8, Table1 p2198), reported 13% reduction in preannouncement information share. Opening paragraph explicitly supplies median jump ratio0.455; closing paragraph links first-specification coefficients and each proxy SD to 13/10/9/15%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2155",
+    "before": null,
+    "after": "§5.1 p2200, Table2 column4, trade-to-order ratio: coefficient -0.0725; one proxy-SD magnitude (SD0.63, Table1 p2198), reported 10% reduction in preannouncement information share. Opening paragraph explicitly supplies median jump ratio0.455; closing paragraph links first-specification coefficients and each proxy SD to 13/10/9/15%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2156",
+    "before": null,
+    "after": "§5.1 p2200, Table2 column7, cancel-to-trade ratio: coefficient 0.0718; one proxy-SD magnitude (SD0.58, Table1 p2198), reported 9% reduction in preannouncement information share. Opening paragraph explicitly supplies median jump ratio0.455; closing paragraph links first-specification coefficients and each proxy SD to 13/10/9/15%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2157",
+    "before": null,
+    "after": "§5.1 p2200, Table2 column10, average trade size: coefficient -0.152; one proxy-SD magnitude (SD0.45, Table1 p2198), reported 15% reduction in preannouncement information share. Opening paragraph explicitly supplies median jump ratio0.455; closing paragraph links first-specification coefficients and each proxy SD to 13/10/9/15%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2153",
+    "before": null,
+    "after": "This is the one-unit estimate compared to the same-outcome median; distinct from following one-treatment-SD estimate. Explicit relative-to comparison without division for this stated unit contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2154",
+    "before": null,
+    "after": "Proposed retention of the paper’s explicit median-linked normalization, not a new computed effect. SOURCE INCONSISTENCY: paper calls this a fall in preannouncement share, whereas printed median is announcement jump ratio. All four percentages match scaling by0.455, not complement0.545. Do not endorse the preannouncement relative-percent interpretation or silently replace denominator. Same-outcome median eligibility is anchored in stated jump-ratio benchmark; no outcome-mean alignment test applies. Attribution of common median to later three prose percentages is contextual rather than separately restated; flag for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2155",
+    "before": null,
+    "after": "Proposed retention of the paper’s explicit median-linked normalization, not a new computed effect. SOURCE INCONSISTENCY: paper calls this a fall in preannouncement share, whereas printed median is announcement jump ratio. All four percentages match scaling by0.455, not complement0.545. Do not endorse the preannouncement relative-percent interpretation or silently replace denominator. Same-outcome median eligibility is anchored in stated jump-ratio benchmark; no outcome-mean alignment test applies. Attribution of common median to later three prose percentages is contextual rather than separately restated; flag for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2156",
+    "before": null,
+    "after": "Proposed retention of the paper’s explicit median-linked normalization, not a new computed effect. SOURCE INCONSISTENCY: paper calls this a fall in preannouncement share, whereas printed median is announcement jump ratio. All four percentages match scaling by0.455, not complement0.545. Do not endorse the preannouncement relative-percent interpretation or silently replace denominator. Same-outcome median eligibility is anchored in stated jump-ratio benchmark; no outcome-mean alignment test applies. Attribution of common median to later three prose percentages is contextual rather than separately restated; flag for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2157",
+    "before": null,
+    "after": "Proposed retention of the paper’s explicit median-linked normalization, not a new computed effect. SOURCE INCONSISTENCY: paper calls this a fall in preannouncement share, whereas printed median is announcement jump ratio. All four percentages match scaling by0.455, not complement0.545. Do not endorse the preannouncement relative-percent interpretation or silently replace denominator. Same-outcome median eligibility is anchored in stated jump-ratio benchmark; no outcome-mean alignment test applies. Attribution of common median to later three prose percentages is contextual rather than separately restated; flag for adjudication."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4928",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4928",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4928",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4928",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4928",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4928",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4928",
+    "before": null,
+    "after": "Price jump ratio CAR(T−1,T+2)/CAR(T−21,T+2), using Fama–French three-factor residualized log returns. This is a ratio, NOT log of the ratio; continuous, zero mass unknown. Denominator volatility filter excludes near-zero denominators, not zero numerators. Eq2 pp2192–2194."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2088",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2088",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2088",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2088",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2088",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2088",
+    "before": null,
+    "after": "Table2 non-stock-FE columns1,2,4,5,7,8,10,11: continuous logged AT proxy effects on price jump ratio, parsimonious and fuller regression adjustments. Month dummy controls where present do not establish a separate identifying-FE method."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2088",
+    "before": null,
+    "after": "All first columns have no FE. Month FE row prints Yes for2/5 and No for8/11, contrary to general prose; preserve conflict. Baseline is causally interpreted in whole-paper argument although endogeneity motivates IV. Source: Table2 p2199; §5.1 p2200; text956–1066. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
+  }
+]
+```
