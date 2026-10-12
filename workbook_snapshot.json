@@ -19373,7 +19373,16 @@
     "L2089": "0",
     "M2089": "n/a",
     "N2089": "Quarterly Table8 linear endpoint contrasts comparing high versus low AT quintiles using four proxies and their first principal component. Perfect-foresight hedge portfolios are constructed within the endpoint groups; compare normalized cumulative portfolio returns at T and intraperiod timeliness (area under normalized cumulative-return curve) at T.",
-    "O2089": "Binary refers to the implemented quintile5-versus1 contrast, not the underlying continuous sorting variable. Observational linear group contrasts under author’s information-acquisition interpretation; equal portfolio weights are not matching on covariates. No first-stage/Wald division in the price sort. Annual plot and quarterly estimates have separately reported result locations and aggregation. Return normalization is outcome construction, not a separately stated effect-to-own-outcome benchmark. Source: Table8 panelsA/B p2216; §6.2 pp2214–2216. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
+    "O2089": "Binary refers to the implemented quintile5-versus1 contrast, not the underlying continuous sorting variable. Observational linear group contrasts under author’s information-acquisition interpretation; equal portfolio weights are not matching on covariates. No first-stage/Wald division in the price sort. Annual plot and quarterly estimates have separately reported result locations and aggregation. Return normalization is outcome construction, not a separately stated effect-to-own-outcome benchmark. Source: Table8 panelsA/B p2216; §6.2 pp2214–2216. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities.",
+    "A2090": "AAT34438",
+    "B2090": "h3",
+    "I2090": "1",
+    "J2090": "OLS",
+    "K2090": "1",
+    "L2090": "0",
+    "M2090": "n/a",
+    "N2090": "Quarterly Table8 linear endpoint contrasts comparing high versus low lagged log-price quintiles. Perfect-foresight hedge portfolios are constructed within the endpoint groups; compare normalized cumulative portfolio returns at T and intraperiod timeliness (area under normalized cumulative-return curve) at T.",
+    "O2090": "Binary refers to the implemented quintile5-versus1 contrast, not the underlying continuous sorting variable. Observational linear group contrasts under author’s information-acquisition interpretation; equal portfolio weights are not matching on covariates. No first-stage/Wald division in the price sort. Annual plot and quarterly estimates have separately reported result locations and aggregation. Return normalization is outcome construction, not a separately stated effect-to-own-outcome benchmark. Source: Table8 panelsA/B p2216; §6.2 pp2214–2216. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54447,7 +54456,21 @@
     "H4930": "0",
     "I4930": "unknown",
     "J4930": "other",
-    "K4930": "Intraperiod timeliness as of T: area under the normalized cumulative abnormal portfolio return curve, percentage-point-days; Table8B. Continuous aggregate, not a binary outcome; zero mass unestablished."
+    "K4930": "Intraperiod timeliness as of T: area under the normalized cumulative abnormal portfolio return curve, percentage-point-days; Table8B. Continuous aggregate, not a binary outcome; zero mass unestablished.",
+    "A4931": "AAT34438",
+    "B4931": "h3",
+    "C4931": "hy1",
+    "H4931": "0",
+    "I4931": "unknown",
+    "J4931": "other",
+    "K4931": "Relative cumulative abnormal perfect-foresight portfolio return (% of that portfolio’s total abnormal return through T+2), as of T, using quarterly sorts. Table8A reports Q5−Q1 after proxies oriented toward increasing AT.",
+    "A4932": "AAT34438",
+    "B4932": "h3",
+    "C4932": "hy2",
+    "H4932": "0",
+    "I4932": "unknown",
+    "J4932": "other",
+    "K4932": "Intraperiod timeliness as of T: area under the normalized cumulative abnormal portfolio return curve, percentage-point-days; Table8B. Continuous aggregate, not a binary outcome; zero mass unestablished."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

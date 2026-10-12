@@ -138126,3 +138126,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:50:29.416401+00:00 — Review AAT34438 h3: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4931",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4932",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4931",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4932",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4931",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4932",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4931",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4932",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4931",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4932",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4931",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4932",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4931",
+    "before": null,
+    "after": "Relative cumulative abnormal perfect-foresight portfolio return (% of that portfolio’s total abnormal return through T+2), as of T, using quarterly sorts. Table8A reports Q5−Q1 after proxies oriented toward increasing AT."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4932",
+    "before": null,
+    "after": "Intraperiod timeliness as of T: area under the normalized cumulative abnormal portfolio return curve, percentage-point-days; Table8B. Continuous aggregate, not a binary outcome; zero mass unestablished."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2090",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2090",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2090",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2090",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2090",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2090",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2090",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2090",
+    "before": null,
+    "after": "Quarterly Table8 linear endpoint contrasts comparing high versus low lagged log-price quintiles. Perfect-foresight hedge portfolios are constructed within the endpoint groups; compare normalized cumulative portfolio returns at T and intraperiod timeliness (area under normalized cumulative-return curve) at T."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2090",
+    "before": null,
+    "after": "Binary refers to the implemented quintile5-versus1 contrast, not the underlying continuous sorting variable. Observational linear group contrasts under author’s information-acquisition interpretation; equal portfolio weights are not matching on covariates. No first-stage/Wald division in the price sort. Annual plot and quarterly estimates have separately reported result locations and aggregation. Return normalization is outcome construction, not a separately stated effect-to-own-outcome benchmark. Source: Table8 panelsA/B p2216; §6.2 pp2214–2216. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
+  }
+]
+```
