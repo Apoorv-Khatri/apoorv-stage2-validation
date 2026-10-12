@@ -18677,7 +18677,16 @@
     "L2034": "0",
     "M2034": "n/a",
     "N2034": "AppendixB2: temperature effects on EPS moderated by firm-level sales-weighted work injury/illness incidence; BLS SOII annual industry-state rates 1996–2014 matched to establishments, included in levels and interacted with temperature polynomial coefficients.",
-    "O2034": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Supporting exploratory labor-productivity mechanism, not injury incidence as dependent variable. Source reports four industries,25.9 basis points of mean earnings for tail doubling and about70% of overall effect. Only the explicit mean-earnings comparison qualifies; the70% effect-to-effect share does not. Footnote20 discloses coarse annual state-industry data. Publisher Internet Appendix Table IA1 caption (printed p.21/PDF22) specifies joint significance tests of moderator × Chebyshev interaction terms, with the moderator also included in levels. These are not Wald/local-Wald treatment-effect estimators, and the printed baseline coefficient block is not a table of each augmented specification’s full coefficients. Several reported Wald values are negative with p=1.000; retain the source inconsistency without treating those entries as valid conventional nonnegative Wald statistics or repairing them. Source: AppendixB2 p.42; TableIA1 Wald(illness/injuries).. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+    "O2034": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Supporting exploratory labor-productivity mechanism, not injury incidence as dependent variable. Source reports four industries,25.9 basis points of mean earnings for tail doubling and about70% of overall effect. Only the explicit mean-earnings comparison qualifies; the70% effect-to-effect share does not. Footnote20 discloses coarse annual state-industry data. Publisher Internet Appendix Table IA1 caption (printed p.21/PDF22) specifies joint significance tests of moderator × Chebyshev interaction terms, with the moderator also included in levels. These are not Wald/local-Wald treatment-effect estimators, and the printed baseline coefficient block is not a table of each augmented specification’s full coefficients. Several reported Wald values are negative with p=1.000; retain the source inconsistency without treating those entries as valid conventional nonnegative Wald statistics or repairing them. Source: AppendixB2 p.42; TableIA1 Wald(illness/injuries).. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002.",
+    "A2035": "96H6UQNF",
+    "B2035": "h14",
+    "I2035": "1",
+    "J2035": "OLS",
+    "K2035": "1",
+    "L2035": "0",
+    "M2035": "n/a",
+    "N2035": "TableC.1 cols.2–11: binary extreme-weather event pre/post linear mean-forecast contrasts by analyst proximity, prior firm/industry shock experience, local climate beliefs and political contributions. Same outcome and event estimand across routine subgroup variants; group within this table.",
+    "O2035": "OLS linear before/after contrasts, no DiD/control cohort or identifying FE. Weather remains focal binary event; subgroup status is not separately assigned treatment. Substantive heterogeneity supports baseline immediate-underreaction conclusion; main=0 relative to s12. Do not add col.1 again: text calls it baseline comparator and values/t-statistics repeat Table8. Preserve anomalous printed windows [-120,+20],[-110,+10],[-15,+5],[-11,+1], visually verified; actual horizon unresolved versus baseline discussion. Pro-CC/Anti-CC and party subgroups show no significant response; neither proves zero outcome mass. Source: AppendixC1 pp.42–44; TableC.1 p.43.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52769,7 +52778,14 @@
     "H4777": "0",
     "I4777": "unknown",
     "J4777": "log1p",
-    "K4777": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established."
+    "K4777": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established.",
+    "A4778": "96H6UQNF",
+    "B4778": "h14",
+    "C4778": "hy1",
+    "H4778": "0",
+    "I4778": "unknown",
+    "J4778": "other",
+    "K4778": "Price-scaled analyst consensus EPS forecasts, sign-aligned and event-window demeaned; pre/post contrasts by reported analyst subgroups. Printed event horizons differ from Table8 and are preserved in setting Notes. Not outcome-SD units; zero mass unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

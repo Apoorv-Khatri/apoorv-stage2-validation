@@ -124626,3 +124626,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:29:13.038374+00:00 — Review 96H6UQNF h14: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4778",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4778",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4778",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4778",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4778",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4778",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4778",
+    "before": null,
+    "after": "Price-scaled analyst consensus EPS forecasts, sign-aligned and event-window demeaned; pre/post contrasts by reported analyst subgroups. Printed event horizons differ from Table8 and are preserved in setting Notes. Not outcome-SD units; zero mass unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2035",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2035",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2035",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2035",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2035",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2035",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2035",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2035",
+    "before": null,
+    "after": "TableC.1 cols.2–11: binary extreme-weather event pre/post linear mean-forecast contrasts by analyst proximity, prior firm/industry shock experience, local climate beliefs and political contributions. Same outcome and event estimand across routine subgroup variants; group within this table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2035",
+    "before": null,
+    "after": "OLS linear before/after contrasts, no DiD/control cohort or identifying FE. Weather remains focal binary event; subgroup status is not separately assigned treatment. Substantive heterogeneity supports baseline immediate-underreaction conclusion; main=0 relative to s12. Do not add col.1 again: text calls it baseline comparator and values/t-statistics repeat Table8. Preserve anomalous printed windows [-120,+20],[-110,+10],[-15,+5],[-11,+1], visually verified; actual horizon unresolved versus baseline discussion. Pro-CC/Anti-CC and party subgroups show no significant response; neither proves zero outcome mass. Source: AppendixC1 pp.42–44; TableC.1 p.43.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```
