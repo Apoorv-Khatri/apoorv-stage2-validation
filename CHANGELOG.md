@@ -166272,3 +166272,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:45:12.931260+00:00 — Review CETFVPE5 s8: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H845",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I845",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J845",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K845",
+    "before": null,
+    "after": "Spurious as an outcome of the rejected causal setting; the reported return variable itself is real."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I306",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O306",
+    "before": null,
+    "after": "Spurious as a causal setting. Table5B estimates returns-on-past-returns predictions in Monday/Friday and Tuesday–Thursday subsamples. Stronger predictive slopes in mood-related weekdays are compatible with a sentiment mechanism, but no mood or weekday treatment coefficient, or causal change in the historical-return signal, is estimated. Do not relabel sample restriction as a binary treatment. Apply the same predictive gate as Table3 and the timing decomposition. Source: §4.1 pp152–153; Table5B; lines982–1025,1067–1076."
+  }
+]
+```
