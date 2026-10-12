@@ -147045,3 +147045,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:37:02.173072+00:00 — Review ACJ72JDD h13: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4965",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4965",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4965",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4965",
+    "before": null,
+    "after": "Tether flow used to purchase Bitcoin following negative versus positive price shocks; exact dependent flow construction/transformation and outcome multiplicity in IA.II unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2111",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2111",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2111",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2111",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2111",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2111",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2111",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2111",
+    "before": null,
+    "after": "Response of Tether/Bitcoin purchase flows to lagged Bitcoin price changes, asymmetric negative versus positive shocks."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2111",
+    "before": null,
+    "after": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main text establishes implemented substantive response, but does not establish the exact estimator. Do not infer OLS from a table title not seen. Underlying shock continuous, sign splits routine; not binary simply because samples split. Source: §II.D p.1934 lines924–929; Figure IA.6/Table IA.II cited. Certainty: minimum scope; estimator unresolved."
+  }
+]
+```

@@ -19616,7 +19616,16 @@
     "L2110": "0",
     "M2110": "n/a",
     "N2110": "Table VIII C: lagged three-hour average Bitcoin return across USD and Tether exchanges as continuous driver of net Tether outflow and corresponding Bitcoin inflow to Bitfinex. Both dependent flow variables and regressors standardized by subtracting mean and dividing by SD.",
-    "O2110": "Retained as substantive tests of demand/supply/arbitrage mechanisms, including null effects, under H1A/H1B and explicit driver interpretation; not pure prediction. No FE. Lag orders1–5 are routine specification variants, not new settings, but each printed focal coefficient is a distinct outcome-SD comparison. Caption dates Apr1,2017–Mar1,2018 conflict with prose full period Mar1,2017–Mar31,2018 and N=8750; do not silently resolve normalization period. Outcome-SD benchmark qualifies independently of treatment standardization. Source: Table VIII pp.1959–1960; §IV.B.2 pp.1957–1958; lines2026–2193. Certainty: source-grounded."
+    "O2110": "Retained as substantive tests of demand/supply/arbitrage mechanisms, including null effects, under H1A/H1B and explicit driver interpretation; not pure prediction. No FE. Lag orders1–5 are routine specification variants, not new settings, but each printed focal coefficient is a distinct outcome-SD comparison. Caption dates Apr1,2017–Mar1,2018 conflict with prose full period Mar1,2017–Mar31,2018 and N=8750; do not silently resolve normalization period. Outcome-SD benchmark qualifies independently of treatment standardization. Source: Table VIII pp.1959–1960; §IV.B.2 pp.1957–1958; lines2026–2193. Certainty: source-grounded.",
+    "A2111": "ACJ72JDD",
+    "B2111": "h13",
+    "I2111": "1",
+    "J2111": "unknown",
+    "K2111": "0",
+    "L2111": "1",
+    "M2111": "unknown",
+    "N2111": "Response of Tether/Bitcoin purchase flows to lagged Bitcoin price changes, asymmetric negative versus positive shocks.",
+    "O2111": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main text establishes implemented substantive response, but does not establish the exact estimator. Do not infer OLS from a table title not seen. Underlying shock continuous, sign splits routine; not binary simply because samples split. Source: §II.D p.1934 lines924–929; Figure IA.6/Table IA.II cited. Certainty: minimum scope; estimator unresolved."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54943,7 +54952,11 @@
     "A4964": "ACJ72JDD",
     "B4964": "h12",
     "C4964": "hy2",
-    "K4964": "Net flow of Bitcoin to Bitfinex; standardized by subtracting its mean and dividing by its standard deviation, TableVIII. Nonbinary treatment: detailed labels intentionally blank."
+    "K4964": "Net flow of Bitcoin to Bitfinex; standardized by subtracting its mean and dividing by its standard deviation, TableVIII. Nonbinary treatment: detailed labels intentionally blank.",
+    "A4965": "ACJ72JDD",
+    "B4965": "h13",
+    "C4965": "hy1",
+    "K4965": "Tether flow used to purchase Bitcoin following negative versus positive price shocks; exact dependent flow construction/transformation and outcome multiplicity in IA.II unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
