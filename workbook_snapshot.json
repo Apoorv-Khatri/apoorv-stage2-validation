@@ -20635,7 +20635,16 @@
     "L2188": "0",
     "M2188": "n/a",
     "N2188": "Internet Appendix TableA1 cols11–12, same regressions as Table3: Firm age (log(1+months since first CRSP appearance)) effect on cash ratio. Identifying firm and year fixed effects,1998–2015.",
-    "O2188": "Explicit negative-effect hypothesis based on stakeholder ties is linked to own negative coefficient as mechanism evidence. A2 incorrectly implies col9 significance; retain intent, not the erroneous significance claim. Identifying firm and year FE: final p909 explicitly targets time-invariant firm-specific omitted variables. Retain implemented sensitivity, without claiming its sign/significance matches OLS. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
+    "O2188": "Explicit negative-effect hypothesis based on stakeholder ties is linked to own negative coefficient as mechanism evidence. A2 incorrectly implies col9 significance; retain intent, not the erroneous significance claim. Identifying firm and year FE: final p909 explicitly targets time-invariant firm-specific omitted variables. Retain implemented sensitivity, without claiming its sign/significance matches OLS. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65.",
+    "A2189": "DFSQYG6H",
+    "B2189": "h46",
+    "I2189": "1",
+    "J2189": "OLS",
+    "K2189": "0",
+    "L2189": "0",
+    "M2189": "n/a",
+    "N2189": "Internet Appendix TableA1 cols5–10, same regressions as Table3: Equity beta (annual Scholes-Williams equity beta) effect on cash ratio. Industry and year dummy controls; displayed period/control/liquidity-proxy variants grouped.",
+    "O2189": "Explicit precautionary-risk mechanism and positive-impact prediction are linked to own findings. Insignificance in FE does not remove the implemented robustness setting. OLS with industry/year controls: no separately argued identifying role for those dummies. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56832,7 +56841,11 @@
     "A5079": "DFSQYG6H",
     "B5079": "h45",
     "C5079": "hy1",
-    "K5079": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
+    "K5079": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged.",
+    "A5080": "DFSQYG6H",
+    "B5080": "h46",
+    "C5080": "hy1",
+    "K5080": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
