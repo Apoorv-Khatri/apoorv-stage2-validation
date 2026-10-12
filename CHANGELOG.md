@@ -261015,3 +261015,846 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T10:55:02.818016+00:00 — Review EWJTD63J h53: source-audited coding and linked comparisons
+
+139 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A3501",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3502",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3503",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3504",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3505",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3506",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3507",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3508",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3509",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3510",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3501",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3502",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3503",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3504",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3505",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3506",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3507",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3508",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3509",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3510",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3501",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3502",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3503",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3504",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3505",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3506",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3507",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3508",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3509",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3510",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3501",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3503",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3504",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3505",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3506",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3507",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3508",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3510",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3501",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3502",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3503",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3504",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3505",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3506",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3507",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3508",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3509",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3510",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3501",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3502",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3503",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3504",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3505",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3506",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3507",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3508",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3509",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3510",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3501",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3502",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3503",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3504",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3505",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3506",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3507",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3508",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3509",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3510",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3501",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3503",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3504",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3505",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3506",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3507",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3508",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3510",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3501",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3502",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3503",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3504",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3505",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3506",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3507",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3508",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3509",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3510",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3501",
+    "before": null,
+    "after": "Table OA.11, PDF p40, ExpCIII, supplement.txt L1774, col1: ExpCIII standardized coefficient 0.21; 1-year nominal yield; SPF block; printed N=131. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of ExpCIII. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3502",
+    "before": null,
+    "after": "Table OA.11, PDF p40, ExpCIII, supplement.txt L1774, col2: ExpCIII standardized coefficient 0.23; 2-year nominal yield; SPF block; printed N=131. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of ExpCIII. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3503",
+    "before": null,
+    "after": "Table OA.11, PDF p40, ExpCIII, supplement.txt L1774, col3: ExpCIII standardized coefficient 0.23; 3-year nominal yield; SPF block; printed N=131. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of ExpCIII. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3504",
+    "before": null,
+    "after": "Table OA.11, PDF p40, ExpCIII, supplement.txt L1774, col4: ExpCIII standardized coefficient 0.23; 4-year nominal yield; SPF block; printed N=131. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of ExpCIII. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3505",
+    "before": null,
+    "after": "Table OA.11, PDF p40, ExpCIII, supplement.txt L1774, col5: ExpCIII standardized coefficient 0.24; 5-year nominal yield; SPF block; printed N=131. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of ExpCIII. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3506",
+    "before": null,
+    "after": "Table OA.11, PDF p40, ExpCIII, supplement.txt L1774, col6: ExpCIII standardized coefficient 0.25; 1-year nominal yield; MSC block; printed N=131. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of ExpCIII. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3507",
+    "before": null,
+    "after": "Table OA.11, PDF p40, ExpCIII, supplement.txt L1774, col7: ExpCIII standardized coefficient 0.26; 2-year nominal yield; MSC block; printed N=131. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of ExpCIII. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3508",
+    "before": null,
+    "after": "Table OA.11, PDF p40, ExpCIII, supplement.txt L1774, col8: ExpCIII standardized coefficient 0.26; 3-year nominal yield; MSC block; printed N=131. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of ExpCIII. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3509",
+    "before": null,
+    "after": "Table OA.11, PDF p40, ExpCIII, supplement.txt L1774, col9: ExpCIII standardized coefficient 0.26; 4-year nominal yield; MSC block; printed N=131. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of ExpCIII. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3510",
+    "before": null,
+    "after": "Table OA.11, PDF p40, ExpCIII, supplement.txt L1774, col10: ExpCIII standardized coefficient 0.27; 5-year nominal yield; MSC block; printed N=131. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of ExpCIII. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3501",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. These are supporting confound checks, not claimed exogenous shocks. GDP/IP and alternative forecast variants have weaker own-coefficient discussion; inclusion is moderate interpretive extension of the author-stated expected-growth mechanism, not a transcription error. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3502",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. These are supporting confound checks, not claimed exogenous shocks. GDP/IP and alternative forecast variants have weaker own-coefficient discussion; inclusion is moderate interpretive extension of the author-stated expected-growth mechanism, not a transcription error. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3503",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. These are supporting confound checks, not claimed exogenous shocks. GDP/IP and alternative forecast variants have weaker own-coefficient discussion; inclusion is moderate interpretive extension of the author-stated expected-growth mechanism, not a transcription error. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3504",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. These are supporting confound checks, not claimed exogenous shocks. GDP/IP and alternative forecast variants have weaker own-coefficient discussion; inclusion is moderate interpretive extension of the author-stated expected-growth mechanism, not a transcription error. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3505",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. These are supporting confound checks, not claimed exogenous shocks. GDP/IP and alternative forecast variants have weaker own-coefficient discussion; inclusion is moderate interpretive extension of the author-stated expected-growth mechanism, not a transcription error. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3506",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. These are supporting confound checks, not claimed exogenous shocks. GDP/IP and alternative forecast variants have weaker own-coefficient discussion; inclusion is moderate interpretive extension of the author-stated expected-growth mechanism, not a transcription error. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3507",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. These are supporting confound checks, not claimed exogenous shocks. GDP/IP and alternative forecast variants have weaker own-coefficient discussion; inclusion is moderate interpretive extension of the author-stated expected-growth mechanism, not a transcription error. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3508",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. These are supporting confound checks, not claimed exogenous shocks. GDP/IP and alternative forecast variants have weaker own-coefficient discussion; inclusion is moderate interpretive extension of the author-stated expected-growth mechanism, not a transcription error. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3509",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. These are supporting confound checks, not claimed exogenous shocks. GDP/IP and alternative forecast variants have weaker own-coefficient discussion; inclusion is moderate interpretive extension of the author-stated expected-growth mechanism, not a transcription error. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3510",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. These are supporting confound checks, not claimed exogenous shocks. GDP/IP and alternative forecast variants have weaker own-coefficient discussion; inclusion is moderate interpretive extension of the author-stated expected-growth mechanism, not a transcription error. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5550",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5551",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5552",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5553",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5554",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5550",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5551",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5552",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5553",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5554",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5550",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5551",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5552",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5553",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5554",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5550",
+    "before": null,
+    "after": "1-year nominal yield; standardized regression coefficient is in outcome-SD units per treatment SD. Nonbinary treatment: detailed outcome labels not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5551",
+    "before": null,
+    "after": "2-year nominal yield; standardized regression coefficient is in outcome-SD units per treatment SD. Nonbinary treatment: detailed outcome labels not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5552",
+    "before": null,
+    "after": "3-year nominal yield; standardized regression coefficient is in outcome-SD units per treatment SD. Nonbinary treatment: detailed outcome labels not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5553",
+    "before": null,
+    "after": "4-year nominal yield; standardized regression coefficient is in outcome-SD units per treatment SD. Nonbinary treatment: detailed outcome labels not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5554",
+    "before": null,
+    "after": "5-year nominal yield; standardized regression coefficient is in outcome-SD units per treatment SD. Nonbinary treatment: detailed outcome labels not required."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2258",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2258",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2258",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2258",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2258",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2258",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2258",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2258",
+    "before": null,
+    "after": "Continuous expected consumption growth (ExpCIII), annualized projection on constant/current consumption growth/current inflation disagreement effect on real/nominal yield levels as printed in included panels; separately interpreted supporting parameter, conditional time-series OLS. Table OA.11. Newey-West12-lag inference; all printed standardized coefficients, including null/negative estimates. Routine controls and survey/sample variants at this location grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2258",
+    "before": null,
+    "after": "Introduction p461 and pp470/472/474 articulate the consumption-smoothing causal mechanism (higher expected economic growth increases yields), and p472 interprets the estimated consumption-growth coefficient as having the expected statistically positive sign. Expected GDP/IP replace consumption forecasts in implemented tests. Retain these level-response parameters and their alternative forecast constructions; forecast construction itself is not causal IV. Competing evidence: These are supporting confound checks, not claimed exogenous shocks. GDP/IP and alternative forecast variants have weaker own-coefficient discussion; inclusion is moderate interpretive extension of the author-stated expected-growth mechanism, not a transcription error. No exogenous identification claimed; no identifying FE or causal IV from generated forecasts. Source: Table OA.11; Main L184-198, L886-898, L1060-1062, L1168-1194; OA.7-20, OA.42-43.."
+  }
+]
+```
