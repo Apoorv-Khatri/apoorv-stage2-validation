@@ -163614,3 +163614,216 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:22:30.085518+00:00 — Review BHYG5F75 s12: source-audited coding and linked comparisons
+
+34 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2431",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2431",
+    "before": null,
+    "after": "s12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2431",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2431",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L159",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2431",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M159",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2431",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2431",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2431",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P159",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2431",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q159",
+    "before": null,
+    "after": "Table10 col4 Underpricing coefficient −0.1838 percentage points. p3100: across specifications18–86bps, or2.5%–12.3% of average underpricing in IPO sample. Exact mean not printed; record only this focal column, not pooled OLS/IV range."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2431",
+    "before": null,
+    "after": "Table10 col5 and p3100 lines1664–1673: focal −0.1876pp underpricing, timing-control specification; benchmark average IPO-sample underpricing, exact value unstated; across-specification18–86bps or2.5%–12.3%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R159",
+    "before": null,
+    "after": "Benchmark is observed IPO-sample mean, not identified untreated counterfactual. Regression target/conditioning and relevant untreated mean not established; unknown alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2431",
+    "before": null,
+    "after": "Distinct estimate from col4 and IVcol6. Authors provide range and say timing-control magnitude similar; no exact col5 effect/mean ratio printed. Untreated regression-target mean not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H830",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H831",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I830",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I831",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J830",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J831",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K830",
+    "before": null,
+    "after": "Natural log of IPO dollar amount, as defined in Table10 caption. Printed coefficients are 0.3575, 0.3638 and 3.3019; p3100 describes the IV coefficient 3.3019 as a 3.3% increase. Caption and interpretation are inconsistent unless an unstated rescaling was used; the source does not establish whether rescaling or a prose error explains this. Preserve both, do not infer a verified multiplier or exponentiate 3.3019 as an author-reported effect. Observed zero mass on the reported log scale is unreported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K831",
+    "before": null,
+    "after": "IPO underpricing percentage per Table10 caption; −0.1838/−0.1876/−0.8619 interpreted as approximately18–86bps in text. No observed zero mass reported; do not convert these into18–86 percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I297",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J297",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K297",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L297",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M297",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N297",
+    "before": null,
+    "after": "Table10 cols1,2,4,5: binary voluntary disclosure in a private loan versus no disclosure, among eventual IPO firms, on natural log IPO amount and IPO underpricing percentage. Linear regressions with loan-year fixed effects and loan controls; versions with and without IPO-timing controls grouped. No borrower/lender FE. Survey method FE because year effects address secular conditions; authors label the computational estimator OLS."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O297",
+    "before": null,
+    "after": "Year FE are an identifying adjustment for secular macroeconomic conditions, not merely a label: §2 p3083–3085, §3.2 p3093 and footnote16 p3095. Thus code FE despite authors calling the linear estimator OLS. No borrower/lender FE in IPO sample (footnote15). Public-offering extension is supporting. Table10 log IPO amount coefficients 0.3575,0.3638,3.3019 conflict with the p3100 interpretation of IV3.3019 as3.3% under the caption’s natural-log definition. An unstated multiplier or a prose error could explain this; neither is verified. Preserve both printed values and wording without silently resolving the conflict. Source: Table10 cols1,2,4,5 p3099; §3.4 pp3099–3100."
+  }
+]
+```
