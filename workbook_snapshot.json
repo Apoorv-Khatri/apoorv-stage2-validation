@@ -19092,7 +19092,16 @@
     "L2062": "1",
     "M2062": "single continuous",
     "N2062": "Table11(3)–(4): continuous Female Hired Ratio on deal success, 2SLS with hiring-relevant average daughters across all existing partners as the sole excluded instrument.",
-    "O2062": "All-partner instrument differs from senior-only s5; average children is an included covariate in both stages, not an excluded instrument. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Table11 p.13; A3(1)–(2) p.18."
+    "O2062": "All-partner instrument differs from senior-only s5; average children is an included covariate in both stages, not an excluded instrument. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Table11 p.13; A3(1)–(2) p.18.",
+    "A2063": "9XGMQWX5",
+    "B2063": "h6",
+    "I2063": "1",
+    "J2063": "OLS",
+    "K2063": "0",
+    "L2063": "0",
+    "M2063": "n/a",
+    "N2063": "Table11(1)–(2): actual continuous Female Hired Ratio on deal success by OLS, with year/industry/round/country dummies and optional firm controls.",
+    "O2063": "Retain under broad causal gate: the paper analyzes upward/downward OLS bias as estimates of diversity’s performance effect, not pure prediction. Separate from IV receipt estimates; no no-FE/FE split is warranted. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Table11 p.13; discussion p.14."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -53969,7 +53978,11 @@
     "A4901": "9XGMQWX5",
     "B4901": "h5",
     "C4901": "hy1",
-    "K4901": "Deal success indicator: 1 if IPO or acquisition value exceeds invested capital; 0 otherwise. Decimal probability scale."
+    "K4901": "Deal success indicator: 1 if IPO or acquisition value exceeds invested capital; 0 otherwise. Decimal probability scale.",
+    "A4902": "9XGMQWX5",
+    "B4902": "h6",
+    "C4902": "hy1",
+    "K4902": "Deal success indicator: 1 if IPO or acquisition value exceeds invested capital; 0 otherwise. Decimal probability scale."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

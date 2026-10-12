@@ -134517,3 +134517,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:42:10.628640+00:00 — Review 9XGMQWX5 h6: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4902",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4902",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4902",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4902",
+    "before": null,
+    "after": "Deal success indicator: 1 if IPO or acquisition value exceeds invested capital; 0 otherwise. Decimal probability scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2063",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2063",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2063",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2063",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2063",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2063",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2063",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2063",
+    "before": null,
+    "after": "Table11(1)–(2): actual continuous Female Hired Ratio on deal success by OLS, with year/industry/round/country dummies and optional firm controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2063",
+    "before": null,
+    "after": "Retain under broad causal gate: the paper analyzes upward/downward OLS bias as estimates of diversity’s performance effect, not pure prediction. Separate from IV receipt estimates; no no-FE/FE split is warranted. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Table11 p.13; discussion p.14."
+  }
+]
+```
