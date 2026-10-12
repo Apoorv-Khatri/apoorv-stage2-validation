@@ -299712,3 +299712,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T11:26:20.181050+00:00 — Review EYAZZ4D5 s4: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H931",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H932",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H933",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H934",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I931",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I932",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I933",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I934",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J931",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J932",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J933",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J934",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K931",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K932",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K933",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K934",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I361",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O361",
+    "before": null,
+    "after": "Recursive forecast accuracy/MSFE improvement, not SII treatment effects on stock returns. Prevailing-mean forecast is a forecast benchmark, not an outcome baseline for a causal effect. Source: §3.3.1 Eq(5), Table5 cols2–5 pp54–55 (PDF9–10)."
+  }
+]
+```
