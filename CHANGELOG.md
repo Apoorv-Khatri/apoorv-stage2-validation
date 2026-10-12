@@ -168561,3 +168561,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:10:43.350100+00:00 — Review CN4YZYPH h3: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2445",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2445",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2445",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2445",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2445",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2445",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2445",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2445",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2445",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2445",
+    "before": null,
+    "after": "Table10 p215: all bonus-peer firms, high/low RPQ-tercile mean RAR 1.20/1.11; H−L=0.09. Benchmark is low-RPQ group mean 1.11, 2006–2010, directly paired in same column. No effect/benchmark ratio reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2445",
+    "before": null,
+    "after": "Eligibility arises from deliberate estimate–mean pairing, not RAR normalization by historical volatility. Unadjusted observational contrast: source does not establish low-group mean represents target untreated/counterfactual mean or specify target weights. Prose names actual means only for overall compensation group; other columns paired nonverbally."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5020",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5020",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5020",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5020",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5020",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5020",
+    "before": null,
+    "after": "Risk adjustment ratio RAR: standard deviation of 12 monthly returns in fiscal year t divided by previous-year standard deviation; not the H−L difference as an individual dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2150",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2150",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2150",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2150",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2150",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2150",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2150",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2150",
+    "before": null,
+    "after": "Bonus-peer top-versus-bottom RPQ-tercile mean RAR contrast, Table10 final column; footnote30 median split robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2150",
+    "before": null,
+    "after": "Causally intended null risk-shifting test; linear unadjusted difference of means => OLS. Not Other or matching. Source: §7.3/Table10 p215; lines1482–1576."
+  }
+]
+```

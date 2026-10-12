@@ -20233,7 +20233,16 @@
     "L2149": "0",
     "M2149": "n/a",
     "N2149": "Table8 Panel B: average bonus-peer market leverage affecting reporting-firm market leverage, all/dropped/non-SIC3/high-/low-ability variants; firm/year dummy controls.",
-    "O2149": "Independent source adjudication retains OLS/regression adjustment under the project taxonomy. Table8 includes firm and year FE (two effective dimensions), but §7.1 motivates own/peer controls, dropped-peer tests and cross-industry peer restrictions—not FE—as the strategies separating learning from similarity/industry effects. The explicit time-constant-unobservables argument on p206 is scoped to §5.2 (Tables3–4), not a paper-wide identification claim. This is a taxonomy judgment, not denial of actual FE or proof of exogeneity; FE remains a defensible interpretive alternative but HDFE is ruled out. All/dropped/non-SIC3/high-/low-ability peer constructions grouped within each policy variable as same-location exposure-construction robustness; do not split each column mechanically. Footnotes25–26 non-SIC2 and high/low-ability × non-SIC3 variants included without invented coefficients. Source: §7.1/Table8B pp212–213; lines1322–1396."
+    "O2149": "Independent source adjudication retains OLS/regression adjustment under the project taxonomy. Table8 includes firm and year FE (two effective dimensions), but §7.1 motivates own/peer controls, dropped-peer tests and cross-industry peer restrictions—not FE—as the strategies separating learning from similarity/industry effects. The explicit time-constant-unobservables argument on p206 is scoped to §5.2 (Tables3–4), not a paper-wide identification claim. This is a taxonomy judgment, not denial of actual FE or proof of exogeneity; FE remains a defensible interpretive alternative but HDFE is ruled out. All/dropped/non-SIC3/high-/low-ability peer constructions grouped within each policy variable as same-location exposure-construction robustness; do not split each column mechanically. Footnotes25–26 non-SIC2 and high/low-ability × non-SIC3 variants included without invented coefficients. Source: §7.1/Table8B pp212–213; lines1322–1396.",
+    "A2150": "CN4YZYPH",
+    "B2150": "h3",
+    "I2150": "1",
+    "J2150": "OLS",
+    "K2150": "1",
+    "L2150": "0",
+    "M2150": "n/a",
+    "N2150": "Bonus-peer top-versus-bottom RPQ-tercile mean RAR contrast, Table10 final column; footnote30 median split robustness.",
+    "O2150": "Causally intended null risk-shifting test; linear unadjusted difference of means => OLS. Not Other or matching. Source: §7.3/Table10 p215; lines1482–1576."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56141,7 +56150,14 @@
     "A5019": "CN4YZYPH",
     "B5019": "h2",
     "C5019": "hy1",
-    "K5019": "Reporting-firm MLEVERAGE at t: Appendix p218 defines current liabilities plus long-term debt divided by market value of total assets; Table8 caption instead says total debt. Preserve this numerator discrepancy."
+    "K5019": "Reporting-firm MLEVERAGE at t: Appendix p218 defines current liabilities plus long-term debt divided by market value of total assets; Table8 caption instead says total debt. Preserve this numerator discrepancy.",
+    "A5020": "CN4YZYPH",
+    "B5020": "h3",
+    "C5020": "hy1",
+    "H5020": "0",
+    "I5020": "unknown",
+    "J5020": "other",
+    "K5020": "Risk adjustment ratio RAR: standard deviation of 12 monthly returns in fiscal year t divided by previous-year standard deviation; not the H−L difference as an individual dependent variable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -82568,7 +82584,18 @@
     "O2444": "0",
     "P2444": "unknown",
     "Q2444": "Table10 p215: low Pay_Gap compensation-peer firms, high/low RPQ-tercile mean RAR 1.20/1.14; H−L=0.06. Benchmark is low-RPQ group mean 1.14, 2006–2010, directly paired in same column. No effect/benchmark ratio reported.",
-    "R2444": "Eligibility arises from deliberate estimate–mean pairing, not RAR normalization by historical volatility. Unadjusted observational contrast: source does not establish low-group mean represents target untreated/counterfactual mean or specify target weights. Prose names actual means only for overall compensation group; other columns paired nonverbally."
+    "R2444": "Eligibility arises from deliberate estimate–mean pairing, not RAR normalization by historical volatility. Unadjusted observational contrast: source does not establish low-group mean represents target untreated/counterfactual mean or specify target weights. Prose names actual means only for overall compensation group; other columns paired nonverbally.",
+    "A2445": "CN4YZYPH",
+    "B2445": "h3",
+    "C2445": "hc1",
+    "K2445": "1",
+    "L2445": "hy1",
+    "M2445": "outcome_mean",
+    "N2445": "0",
+    "O2445": "0",
+    "P2445": "unknown",
+    "Q2445": "Table10 p215: all bonus-peer firms, high/low RPQ-tercile mean RAR 1.20/1.11; H−L=0.09. Benchmark is low-RPQ group mean 1.11, 2006–2010, directly paired in same column. No effect/benchmark ratio reported.",
+    "R2445": "Eligibility arises from deliberate estimate–mean pairing, not RAR normalization by historical volatility. Unadjusted observational contrast: source does not establish low-group mean represents target untreated/counterfactual mean or specify target weights. Prose names actual means only for overall compensation group; other columns paired nonverbally."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
