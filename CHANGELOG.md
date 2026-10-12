@@ -168978,3 +168978,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:11:27.845912+00:00 — Review CN4YZYPH h6: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5026",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5027",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5026",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5027",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5026",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5027",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5026",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5027",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5026",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5027",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5026",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5027",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5026",
+    "before": null,
+    "after": "DGTW characteristic-adjusted annual stock return, fiscal year t (decimal return)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5027",
+    "before": null,
+    "after": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2153",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2153",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2153",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2153",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2153",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2153",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2153",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2153",
+    "before": null,
+    "after": "Compensation peers: High_RPQ (indicator RPQ>0.5 versus RPQ≤0.5) effects on adjusted returns and change in adjusted ROA; Table7 A/B col1; pooled linear regression with year/industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2153",
+    "before": null,
+    "after": "Supporting alternative-treatment robustness. Table7A col1 prints 0.03* with t=2.32; retain printed star, not silently revise it. Source: §6.1/Table7 pp209–211; lines1066–1236."
+  }
+]
+```

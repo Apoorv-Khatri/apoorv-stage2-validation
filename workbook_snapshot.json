@@ -20260,7 +20260,16 @@
     "L2152": "0",
     "M2152": "n/a",
     "N2152": "Continuous bonus-peer RPQ and RPQ×High_GPQ slopes on stock return/profitability growth; Table12 A/B col2.",
-    "O2152": "Causal-intention gate passes: authors interpret this focal peer-quality/policy contrast as affecting the stated outcome. Year/industry dummy controls alone have no separately argued identifying role; retain OLS classification, not HDFE. Table12 displays no standalone High_GPQ row. Do not invent its coefficient or interpret interaction alone as unconditional binary GPQ effect. Broad prose says overall negative marginal effect; actual reported estimand is slope moderation. Source: §7.5/Table12 pp216–217; lines1638–1716."
+    "O2152": "Causal-intention gate passes: authors interpret this focal peer-quality/policy contrast as affecting the stated outcome. Year/industry dummy controls alone have no separately argued identifying role; retain OLS classification, not HDFE. Table12 displays no standalone High_GPQ row. Do not invent its coefficient or interpret interaction alone as unconditional binary GPQ effect. Broad prose says overall negative marginal effect; actual reported estimand is slope moderation. Source: §7.5/Table12 pp216–217; lines1638–1716.",
+    "A2153": "CN4YZYPH",
+    "B2153": "h6",
+    "I2153": "1",
+    "J2153": "OLS",
+    "K2153": "1",
+    "L2153": "0",
+    "M2153": "n/a",
+    "N2153": "Compensation peers: High_RPQ (indicator RPQ>0.5 versus RPQ≤0.5) effects on adjusted returns and change in adjusted ROA; Table7 A/B col1; pooled linear regression with year/industry controls.",
+    "O2153": "Supporting alternative-treatment robustness. Table7A col1 prints 0.03* with t=2.32; retain printed star, not silently revise it. Source: §6.1/Table7 pp209–211; lines1066–1236."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56195,7 +56204,21 @@
     "A5025": "CN4YZYPH",
     "B5025": "h5",
     "C5025": "hy2",
-    "K5025": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1."
+    "K5025": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1.",
+    "A5026": "CN4YZYPH",
+    "B5026": "h6",
+    "C5026": "hy1",
+    "H5026": "0",
+    "I5026": "unknown",
+    "J5026": "none",
+    "K5026": "DGTW characteristic-adjusted annual stock return, fiscal year t (decimal return).",
+    "A5027": "CN4YZYPH",
+    "B5027": "h6",
+    "C5027": "hy2",
+    "H5027": "0",
+    "I5027": "unknown",
+    "J5027": "other",
+    "K5027": "Change from t−1 to t in two-digit-SIC industry-median-adjusted ROA; Appendix defines ROA as EBITDA divided by assets at end t−1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
