@@ -147636,3 +147636,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:38:15.876666+00:00 — Review ACJ72JDD h23: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4975",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4976",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4975",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4976",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4975",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4976",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4975",
+    "before": null,
+    "after": "Bitcoin EOM return in monthly-only regression; exact raw versus surrounding-day-adjusted scale in IA.VIII unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4976",
+    "before": null,
+    "after": "Top-five value-weighted cryptocurrency index EOM return in monthly-only regression; exact raw versus surrounding-day-adjusted scale in IA.VIII unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2116",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2116",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2116",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2116",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2116",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2116",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2116",
+    "before": null,
+    "after": "Monthly-only regression of EOM cryptocurrency return on monthly Tether issuance, full25 months and excluding top-two issuance months; Bitcoin and top-five value-weighted return."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2116",
+    "before": null,
+    "after": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Distinct monthly EOM-only estimand from daily EOM×issuance h4. Main reports Bitcoin t=-2.85 and -1.26 full/restricted; top-five t=-4.85 and -2.97. Coefficients unreported in main; do not impute h4 coefficients. Source: p.1954 text/footnote35 lines1882–1900; Table IA.VIII. Certainty: source-grounded."
+  }
+]
+```

@@ -19661,7 +19661,16 @@
     "L2115": "0",
     "M2115": "n/a",
     "N2115": "TableIV continuous-flow reversal regressions augmented with flow×volatility control interaction.",
-    "O2115": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main reports significant full-sample flow effect, insignificant in positive/negative subsamples. Separately reported substantive robustness, not a new row for every control. Exact aggregate/decomposed flow columns unresolved; this is minimum scope and may require a split. Source: p.1945 footnote31 lines1400–1403; Table IA.VI. Certainty: source-grounded."
+    "O2115": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main reports significant full-sample flow effect, insignificant in positive/negative subsamples. Separately reported substantive robustness, not a new row for every control. Exact aggregate/decomposed flow columns unresolved; this is minimum scope and may require a split. Source: p.1945 footnote31 lines1400–1403; Table IA.VI. Certainty: source-grounded.",
+    "A2116": "ACJ72JDD",
+    "B2116": "h23",
+    "I2116": "1",
+    "J2116": "OLS",
+    "K2116": "0",
+    "L2116": "0",
+    "M2116": "n/a",
+    "N2116": "Monthly-only regression of EOM cryptocurrency return on monthly Tether issuance, full25 months and excluding top-two issuance months; Bitcoin and top-five value-weighted return.",
+    "O2116": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Distinct monthly EOM-only estimand from daily EOM×issuance h4. Main reports Bitcoin t=-2.85 and -1.26 full/restricted; top-five t=-4.85 and -2.97. Coefficients unreported in main; do not impute h4 coefficients. Source: p.1954 text/footnote35 lines1882–1900; Table IA.VIII. Certainty: source-grounded."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55034,7 +55043,15 @@
     "A4974": "ACJ72JDD",
     "B4974": "h22",
     "C4974": "hy1",
-    "K4974": "Hourly Bitcoin return in augmented reversal regression; outcome is not established as standardized by the main cross-reference."
+    "K4974": "Hourly Bitcoin return in augmented reversal regression; outcome is not established as standardized by the main cross-reference.",
+    "A4975": "ACJ72JDD",
+    "B4975": "h23",
+    "C4975": "hy1",
+    "K4975": "Bitcoin EOM return in monthly-only regression; exact raw versus surrounding-day-adjusted scale in IA.VIII unresolved.",
+    "A4976": "ACJ72JDD",
+    "B4976": "h23",
+    "C4976": "hy2",
+    "K4976": "Top-five value-weighted cryptocurrency index EOM return in monthly-only regression; exact raw versus surrounding-day-adjusted scale in IA.VIII unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
