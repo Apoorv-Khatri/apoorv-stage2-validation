@@ -329127,3 +329127,234 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:08:54.342761+00:00 — Review EYWPN7YT h13: source-audited coding and linked comparisons
+
+37 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5934",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5935",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5936",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5937",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5934",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5935",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5936",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5937",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5934",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5935",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5936",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5937",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5934",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5935",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5936",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5937",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5934",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5935",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5936",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5937",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5934",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5935",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5936",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5937",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5934",
+    "before": null,
+    "after": "Analyst-stock short-term forecast optimism for waves 1–4 subsample. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. AppendixB wording says difference between realized earnings and forecast, whereas main interpretation and high-optimism indicator use forecasts exceeding earnings; preserve this sign-wording ambiguity rather than silently fixing source. Scope: Electronic-filing-timing design in waves1–4: Table9C cols1–4 with nine-quarter window centered on electronic filing; separates filing event and subsequent Jan17,1994 online access, with broker-size interactions. Distinct from online-centered cols5–8 in s14."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5935",
+    "before": null,
+    "after": "Analyst-stock long-term forecast optimism for waves 1–4 subsample. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. AppendixB wording says difference between realized earnings and forecast, whereas main interpretation and high-optimism indicator use forecasts exceeding earnings; preserve this sign-wording ambiguity rather than silently fixing source. Scope: Electronic-filing-timing design in waves1–4: Table9C cols1–4 with nine-quarter window centered on electronic filing; separates filing event and subsequent Jan17,1994 online access, with broker-size interactions. Distinct from online-centered cols5–8 in s14."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5936",
+    "before": null,
+    "after": "Analyst-stock short-term forecast inaccuracy for waves 1–4 subsample. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. Scope: Electronic-filing-timing design in waves1–4: Table9C cols1–4 with nine-quarter window centered on electronic filing; separates filing event and subsequent Jan17,1994 online access, with broker-size interactions. Distinct from online-centered cols5–8 in s14."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5937",
+    "before": null,
+    "after": "Analyst-stock long-term forecast inaccuracy for waves 1–4 subsample. Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented. Scope: Electronic-filing-timing design in waves1–4: Table9C cols1–4 with nine-quarter window centered on electronic filing; separates filing event and subsequent Jan17,1994 online access, with broker-size interactions. Distinct from online-centered cols5–8 in s14."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2342",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2342",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2342",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2342",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2342",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2342",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2342",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2342",
+    "before": null,
+    "after": "Electronic-filing-timing design in waves1–4: Table9C cols1–4 with nine-quarter window centered on electronic filing; separates filing event and subsequent Jan17,1994 online access, with broker-size interactions. Distinct from online-centered cols5–8 in s14."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2342",
+    "before": null,
+    "after": "Substantive rival-treatment test: filing alone has no effect, online access does. Report lower-order policy effects plus broker-size interactions separately; neither is an unconditional total average effect. Conditional random rollout/matched control design and FE apply, but no explicit qualifying modern estimator for this altered timing specification. Not excluded simply because caption calls sample placebo. Source: Table9C cols1–4 PDF38; §3.2.2 PDF35–37."
+  }
+]
+```
