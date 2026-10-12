@@ -332649,3 +332649,186 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:39:46.150072+00:00 — Review F4QBG3CB h10: source-audited coding and linked comparisons
+
+29 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5970",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5971",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5972",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5973",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5974",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5970",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5971",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5972",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5973",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5974",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5970",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5971",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5972",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5973",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5974",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5970",
+    "before": null,
+    "after": "Negotiated VC equity fraction c1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5971",
+    "before": null,
+    "after": "Participation indicator in equilibrium contract."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5972",
+    "before": null,
+    "after": "Pay-to-play indicator in equilibrium contract."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5973",
+    "before": null,
+    "after": "VC board-seat indicator in equilibrium contract."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5974",
+    "before": null,
+    "after": "Investor share of firm value alpha(c)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2357",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2357",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2357",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2357",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2357",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2357",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2357",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2357",
+    "before": null,
+    "after": "Equilibrium comparative response to continuous VC/entrepreneur quality in contract offers and feasible matches: Fig2/§5.2.4,5.2.10. Higher-quality VCs bargain for equity, participation and board seats and drop pay-to-play; persistence interpreted through bargaining rather than fixed VC style. Quality distributions/assortativity alone are descriptive; included outcomes are the substantively interpreted endogenous contract choices."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2357",
+    "before": null,
+    "after": "Nonlinear structural dynamic search-and-matching equilibrium estimated by efficient-weight GMM; endogenous contract choice and latent agent qualities jointly modeled. Random encounters, functional forms and success-to-value mapping identify the response; this is not linear IV, empirical covariate matching, or identifying FE. Structural quality-distribution parameters and model-fit moments are not separate causal treatments. Source conflict: §5.2.10 PDF21 says a VC of quality 7 offers participation, pay-to-play and a board seat to all feasible matches, but Fig2 Panel C PDF17 and §5.2.4 PDF16 show high-quality VCs dropping pay-to-play. Retain the diagram/§5.2.4 qualitative bargaining response while flagging the conflicting persistence sentence; do not use it to assert universal coexistence of all three terms. Source: Fig2 PDF17; §5.2.4 PDF16 and §5.2.10 PDF21."
+  }
+]
+```
