@@ -345138,3 +345138,252 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:54:11.002652+00:00 — Review F4QBG3CB h67: source-audited coding and linked comparisons
+
+40 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4250",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4250",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4250",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4250",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4250",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4250",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4250",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4250",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4250",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4250",
+    "before": null,
+    "after": "IA5 IA PDF7–8 printed6–7; TableIA2 IA PDF10 printed9: Removing VC board seats, rebalanced terms only: change in average total startup value -0.14% of unrestricted-model average startup value pi*(All). Matches held fixed; baseline is same matched population without prohibition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6149",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6150",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6151",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6149",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6150",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6151",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6149",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6150",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6151",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6149",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6150",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6151",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6149",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6150",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6151",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6149",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6150",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6151",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6149",
+    "before": null,
+    "after": "Average expected total startup value across matched deals."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6150",
+    "before": null,
+    "after": "Average investor expected value per deal."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6151",
+    "before": null,
+    "after": "Average entrepreneur expected value per deal."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2414",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2414",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2414",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2414",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2414",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2414",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2414",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2414",
+    "before": null,
+    "after": "Binary prohibition of VC board seats features versus unrestricted market: partial/off-equilibrium contract rebalancing, constrained to retain the same matches and compensate entrepreneurs. Distinct from full-equilibrium removal."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2414",
+    "before": null,
+    "after": "Nonlinear structural dynamic search-and-matching equilibrium estimated by efficient-weight GMM; endogenous contract choice and latent agent qualities jointly modeled. Random encounters, functional forms and success-to-value mapping identify the response; this is not linear IV, empirical covariate matching, or identifying FE. Structural quality-distribution parameters and model-fit moments are not separate causal treatments. Source: TableIA2 rebalanced-terms-only row; IA5 IA PDF7–8 printed6–7; TableIA2 IA PDF10 printed9."
+  }
+]
+```
