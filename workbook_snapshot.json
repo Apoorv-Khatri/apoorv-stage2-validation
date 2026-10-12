@@ -19526,7 +19526,16 @@
     "L2100": "1",
     "M2100": "n/a",
     "N2100": "Table IV B: continuous standardized 1LSg-linked flow and lagged-return interaction; non-1LSg Poloniex/Bittrex and other-exchange flows included to test attribution; hourly Bitcoin return.",
-    "O2100": "Distinct focal flow from aggregate Panel A. No identifying FE; no outcome SD benchmark. Interaction negative-return estimate -0.0545; full sample -0.0280. Source: Table IV B pp.1946–1947; lines1448–1479. Certainty: source-grounded."
+    "O2100": "Distinct focal flow from aggregate Panel A. No identifying FE; no outcome SD benchmark. Interaction negative-return estimate -0.0545; full sample -0.0280. Source: Table IV B pp.1946–1947; lines1448–1479. Certainty: source-grounded.",
+    "A2101": "ACJ72JDD",
+    "B2101": "h2",
+    "I2101": "1",
+    "J2101": "OLS",
+    "K2101": "1",
+    "L2101": "1",
+    "M2101": "n/a",
+    "N2101": "Table IV C: top1%, top5% or top10% lagged aggregate-flow indicator and its interaction with lagged returns; negative-lagged-return observations; hourly Bitcoin return.",
+    "O2101": "Binary implemented high-flow-versus-other-hours contrast, not continuous flow. High-volatility indicator/interactions are controls. Marginal high-flow effect at lagged return r equals dummy coefficient + interaction*r. Printed 61bp prose comes from interaction -0.6091, not a full prediction including lag-return baseline, dummy and volatility terms. Source: Table IV C p.1947; text p.1945; lines1387–1498. Certainty: source-grounded."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54732,7 +54741,14 @@
     "A4942": "ACJ72JDD",
     "B4942": "h1",
     "C4942": "hy1",
-    "K4942": "Hourly simple Bitcoin return of equal-weighted price index across Tether exchanges; Table IV. Not outcome-SD standardized."
+    "K4942": "Hourly simple Bitcoin return of equal-weighted price index across Tether exchanges; Table IV. Not outcome-SD standardized.",
+    "A4943": "ACJ72JDD",
+    "B4943": "h2",
+    "C4943": "hy1",
+    "H4943": "0",
+    "I4943": "unknown",
+    "J4943": "none",
+    "K4943": "Hourly simple Bitcoin return of equal-weighted price index across Tether exchanges; Table IV. Not outcome-SD standardized."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

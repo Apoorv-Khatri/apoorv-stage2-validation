@@ -140559,3 +140559,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:34:33.931005+00:00 — Review ACJ72JDD h2: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4943",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4943",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4943",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4943",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4943",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4943",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4943",
+    "before": null,
+    "after": "Hourly simple Bitcoin return of equal-weighted price index across Tether exchanges; Table IV. Not outcome-SD standardized."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2101",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2101",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2101",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2101",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2101",
+    "before": null,
+    "after": "Table IV C: top1%, top5% or top10% lagged aggregate-flow indicator and its interaction with lagged returns; negative-lagged-return observations; hourly Bitcoin return."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2101",
+    "before": null,
+    "after": "Binary implemented high-flow-versus-other-hours contrast, not continuous flow. High-volatility indicator/interactions are controls. Marginal high-flow effect at lagged return r equals dummy coefficient + interaction*r. Printed 61bp prose comes from interaction -0.6091, not a full prediction including lag-return baseline, dummy and volatility terms. Source: Table IV C p.1947; text p.1945; lines1387–1498. Certainty: source-grounded."
+  }
+]
+```
