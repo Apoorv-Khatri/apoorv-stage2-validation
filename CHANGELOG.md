@@ -139899,3 +139899,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:32:51.462365+00:00 — Review ACJ72JDD s4: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K152",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R152",
+    "before": null,
+    "after": "Reject: 61bp versus6bp compares estimated return sensitivities/effects, not an independent same-outcome level or mean/SD benchmark. Moreover TableIV C is binary h2, not continuous PanelA s4. Do not move as a retained comparison. Printed61bp corresponds to interaction -0.6091, not total slope including baseline -0.0583 and volatility terms."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I268",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J268",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K268",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L268",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M268",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N268",
+    "before": null,
+    "after": "Table IV Panel A only: continuous standardized aggregate lagged Tether/Bitcoin flow and its interaction with lagged Bitcoin return; future hourly Bitcoin return. Panel B decomposition is h1; binary top-tail version is h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O268",
+    "before": null,
+    "after": "Main=1: induced asymmetric autocorrelation is explicitly named in abstract and introduction, not merely supporting due to table order. Treatment flow is standardized, outcome returns are not. Interaction is the flow-induced change in return sensitivity, not an unconditional total return. Source: Table IV A p.1946; §III.D pp.1945–1947; lines1382–1446. Certainty: source-grounded."
+  }
+]
+```
