@@ -121836,3 +121836,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:22:28.969092+00:00 — Review 96H6UQNF s1: source-audited coding and linked comparisons
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K135",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K136",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K137",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L135",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L136",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L137",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M135",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M136",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M137",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N135",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O135",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P135",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q135",
+    "before": null,
+    "after": "Introduction p.3: “37.4 basis point average change in earnings, amounting to more than half of quarterly earnings for the average firm in our sample.” §3.1 p.12 identifies focal average over32 significant industry-quarter cells; Table1 p.10 gives full matched-sample mean price-scaled EPS0.007; A.3 pp.35–36 reports underlying tail impacts. Preserve37.4, not a recalculated aggregation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q136",
+    "before": null,
+    "after": "pp.3,12 report subgroup magnitude; A.3 has estimates and t-statistics only, not paired EPS means. No corresponding subgroup benchmark statement."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q137",
+    "before": null,
+    "after": "pp.3,12 report subgroup magnitude; A.3 has estimates and t-statistics only, not paired EPS means. No corresponding subgroup benchmark statement."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R135",
+    "before": null,
+    "after": "Eligible explicit same-outcome mean comparison; verbal=1, divided=1 (“more than half”). Aligned=0: selected significant industry-quarter response average is compared with full matched-sample firm mean, with no construction aligning populations/weights or untreated no-extra-tail counterfactual. Additional scale caution: regression is log1p(scaled EPS), while prose expresses derived effect in earnings bp; source does not detail retransformation. This does not erase the explicit comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R136",
+    "before": null,
+    "after": "Reject: 48 bp positive-response subgroup effect is reported but not explicitly compared to an outcome mean/SD/level. Table1 elsewhere is insufficient; nearby overall-effect comparison cannot be automatically inherited by subgroup estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R137",
+    "before": null,
+    "after": "Reject: 28 bp negative-response subgroup effect is reported but not explicitly compared to an outcome mean/SD/level. Table1 elsewhere is insufficient; nearby overall-effect comparison cannot be automatically inherited by subgroup estimates."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H614",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I614",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J614",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K614",
+    "before": null,
+    "after": "Estimated dependent variable is log(1+split-adjusted EPS/beginning-quarter share price), Eq.(2) p.11. No empirical zero mass established; do not retain unsupported LLM zero_mass=0."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I221",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J221",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K221",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L221",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M221",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O221",
+    "before": null,
+    "after": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Continuous firm-quarter temperature-exposure distribution across US establishments, ordinarily sales-weighted hours in 1°C bins, third-order Chebyshev basis, lagged firm covariates and linear/quadratic precipitation; 1990–2015. Statistical critical thresholds do not make exposure binary. Scope includes null industry-quarter results in IA1 and derived linear tail-doubling impacts in A.3, not only the selected significant cells. pp.3/12 report 37.4 bp overall, +48 bp positive-response cells, −28 bp negative-response cells. Main: central profitability conclusion. No separate setting for the same effects repeated in prose. Footnotes 9,13,14 describe routine station-input, time-FE exclusion and basis variants; firm FE remain when time FE are removed, so no no-FE OLS setting is supported. Source: Eq.(2), p.11; §3.1 pp.12–15; Table2/Fig.5; A.3 pp.35–36; IA1 full industry coverage.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```
