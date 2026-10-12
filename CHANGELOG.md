@@ -329568,3 +329568,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:09:41.837304+00:00 — Review EYWPN7YT h17: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5940",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5940",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5940",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5940",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5940",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5940",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5940",
+    "before": null,
+    "after": "Forecast informativeness under altered matching/timing (positive effect); exact proxy in this unreported regression is not identified in accessible source."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2345",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2345",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2345",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2345",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2345",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2345",
+    "before": null,
+    "after": "EDGAR informativeness result under the same altered matching and preliminary-date rules as fn23: authors replicate increased informativeness reported by prior work."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2345",
+    "before": null,
+    "after": "Implemented substantive alternative treatment-timing/matching result; exact informativeness proxy and regression implementation unreported, method unknown. No prior-paper coefficients imported. Source: PDF24 fn28 referring PDF15 fn23."
+  }
+]
+```

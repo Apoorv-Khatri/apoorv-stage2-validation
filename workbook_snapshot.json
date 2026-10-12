@@ -22280,7 +22280,16 @@
     "L2344": "0",
     "M2344": "unknown",
     "N2344": "EDGAR coverage result under simultaneous relaxation of size matching and use of preliminary SEC dates rather than actual online-access dates: authors replicate positive coverage result of prior work.",
-    "O2344": "Implemented substantive alternative treatment-timing/matching result, not pure citation. Main confirms positive coverage effect can be replicated but does not establish exact regression implementation or clean-cohort construction; method unknown. No prior-paper coefficients imported. Source: PDF15 fn23."
+    "O2344": "Implemented substantive alternative treatment-timing/matching result, not pure citation. Main confirms positive coverage effect can be replicated but does not establish exact regression implementation or clean-cohort construction; method unknown. No prior-paper coefficients imported. Source: PDF15 fn23.",
+    "A2345": "EYWPN7YT",
+    "B2345": "h17",
+    "I2345": "1",
+    "J2345": "unknown",
+    "K2345": "1",
+    "L2345": "0",
+    "M2345": "unknown",
+    "N2345": "EDGAR informativeness result under the same altered matching and preliminary-date rules as fn23: authors replicate increased informativeness reported by prior work.",
+    "O2345": "Implemented substantive alternative treatment-timing/matching result; exact informativeness proxy and regression implementation unreported, method unknown. No prior-paper coefficients imported. Source: PDF24 fn28 referring PDF15 fn23."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -62805,7 +62814,14 @@
     "H5939": "unknown",
     "I5939": "unknown",
     "J5939": "unknown",
-    "K5939": "Analyst coverage under relaxed size matching/preliminary phase-in dates; main fn23 references coverage increase without specifying stock vs analyst-stock grid."
+    "K5939": "Analyst coverage under relaxed size matching/preliminary phase-in dates; main fn23 references coverage increase without specifying stock vs analyst-stock grid.",
+    "A5940": "EYWPN7YT",
+    "B5940": "h17",
+    "C5940": "hy1",
+    "H5940": "0",
+    "I5940": "unknown",
+    "J5940": "unknown",
+    "K5940": "Forecast informativeness under altered matching/timing (positive effect); exact proxy in this unreported regression is not identified in accessible source."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
