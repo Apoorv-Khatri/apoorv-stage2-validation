@@ -138957,3 +138957,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:51:40.232489+00:00 — Review AAT34438 h8: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2162",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2163",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2162",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2163",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2162",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2163",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2162",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2163",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2162",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2163",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2162",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2163",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2162",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2163",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2162",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2163",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2162",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2163",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2162",
+    "before": null,
+    "after": "AppendixB pp2221–2223, TableB1 panelB.2 halves2−1: printed high-minus-low mean difference 0.03; low-group mean 0.48; high-group mean 0.51. Means deliberately paired with the outcome-adaptive matched-pair mean contrast in the same subpanel. Benchmark population is retained low-group matches in each quarter."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2163",
+    "before": null,
+    "after": "AppendixB pp2221–2223, TableB1 panelB.2 halves2−1: same printed difference 0.03 paired with high-group mean 0.51; retained high price observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2162",
+    "before": null,
+    "after": "Eligible same-panel effect–outcome-mean pairing even though the complete estimator is Other. Retained low-group matches supply the reported benchmark. The source does not establish a same-weight untreated counterfactual for the retained high-group target; post-event outcome-component matching and selective retention compound target ambiguity. Human_aligned remains unknown; method change does not invalidate comparison eligibility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2163",
+    "before": null,
+    "after": "Observed exposed high-group mean is not an untreated baseline for the focal high-minus-low effect; definite treatment-state mismatch. Separate benchmark from the low-group mean, not a duplicate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4937",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4937",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4937",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4937",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4937",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4937",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4937",
+    "before": null,
+    "after": "Price jump ratio CAR(T−1,T+2)/CAR(T−21,T+2), using Fama–French three-factor residualized log returns. This is a ratio, NOT log of the ratio; continuous, zero mass unknown. Denominator volatility filter excludes near-zero denominators, not zero numerators. Eq2 pp2192–2194."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2095",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2095",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2095",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2095",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2095",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2095",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2095",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2095",
+    "before": null,
+    "after": "Matched-pair mean jump-ratio effect comparing above versus below median of lagged log stock price. Each calendar quarter, minimize Mahalanobis distance on lagged market capitalization and absolute total announcement CAR scaled by lagged volatility; retain 300 best pairs; regress pairwise differences on a constant."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2095",
+    "before": null,
+    "after": "Outcome-adaptive Mahalanobis matched-pair procedure: matches and retained-pair weights are selected using |CAR(T−21,T+2)/lagged volatility|, a realized post-event return component of the focal jump-ratio denominator, as well as lagged market capitalization. Conditional on selected matches the pairwise-mean contrast is linear, but the complete procedure is outcome-adaptive and fails the project Matching requirement that comparison weights not be selected using focal outcomes. This is a method-taxonomy judgment, not rejection for imperfect identification. Retain the explicit binary contrast. For price-sorted pairs the focal treatment is high versus low lagged price, not instrumented AT receipt; no Wald/first-stage division is implemented. Wilcoxon tests do not supply median treatment-effect magnitudes. Source: AppendixB pp2221–2223, TableB1 panelB.2 halves2−1. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
+  }
+]
+```
