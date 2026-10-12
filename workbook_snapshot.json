@@ -132,6 +132,7 @@
     "B31": "Is Bitcoin Really Untethered?",
     "C31": "fin",
     "D31": 8,
+    "E31": "DONE — Available-source review only: all 52 supplied article pages and original records reviewed and independently cross-checked. Direct round-cutoff contrasts coded RD; aggregate and 1LSg flow receipt separated as IV with one binary instrument. Continuous/binary flow and EOM specifications separated; Table VIII outcome-SD coefficients checked. Event-index paths, diagnostic placebos and unsupported appendix grids withheld; effect-construction and effect-to-effect comparisons rejected. Separate Internet Appendix unavailable: minimum prose-supported records remain scope-limited, with exact estimator/outcome splits, IA.XIV comparison allocations and omitted candidates pending. NOT exhaustive whole-package completion. Original model fields preserved.",
     "A32": "ANHCKZYX",
     "B32": "Global factor premiums",
     "C32": "fin",
@@ -19715,7 +19716,16 @@
     "L2121": "0",
     "M2121": "n/a",
     "N2121": "Cross-Tether-exchange arbitrage/price-response regression: Bitfinex-versus-other-Tether-exchange return spread drives net Tether/Bitcoin flows; aggregate net Tether and Bitcoin outcomes. Footnote37 also establishes account-decomposed robustness, whose exact outcome inventory remains outside this row pending Table IA.XIV.",
-    "O2121": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main gives outcome-SD effects and interprets price decline as economically sizable driver. Spread response range printed0.0336–0.419 SD with t2.39–3.13; average-price decrease effect0.043–0.12 SD with t3.15–6.68. Do not silently replace0.419 with0.0419; precise coefficient/outcome/column allocation unresolved. Comparative driver sizes are effect-versus-effect, not extra benchmarks. Source: §IV.C pp.1960–1961 lines2198–2218 and footnote37; Table IA.XIV. Certainty: source-grounded."
+    "O2121": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main gives outcome-SD effects and interprets price decline as economically sizable driver. Spread response range printed0.0336–0.419 SD with t2.39–3.13; average-price decrease effect0.043–0.12 SD with t3.15–6.68. Do not silently replace0.419 with0.0419; precise coefficient/outcome/column allocation unresolved. Comparative driver sizes are effect-versus-effect, not extra benchmarks. Source: §IV.C pp.1960–1961 lines2198–2218 and footnote37; Table IA.XIV. Certainty: source-grounded.",
+    "A2122": "ACJ72JDD",
+    "B2122": "h39",
+    "I2122": "1",
+    "J2122": "OLS",
+    "K2122": "0",
+    "L2122": "0",
+    "M2122": "n/a",
+    "N2122": "Cross-Tether-exchange arbitrage/price-response regression: average Bitcoin return controlling for return spread drives net Tether/Bitcoin flows; aggregate net Tether and Bitcoin outcomes. Footnote37 also establishes account-decomposed robustness, whose exact outcome inventory remains outside this row pending Table IA.XIV.",
+    "O2122": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main gives outcome-SD effects and interprets price decline as economically sizable driver. Spread response range printed0.0336–0.419 SD with t2.39–3.13; average-price decrease effect0.043–0.12 SD with t3.15–6.68. Do not silently replace0.419 with0.0419; precise coefficient/outcome/column allocation unresolved. Comparative driver sizes are effect-versus-effect, not extra benchmarks. Source: §IV.C pp.1960–1961 lines2198–2218 and footnote37; Table IA.XIV. Certainty: source-grounded."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55139,7 +55149,15 @@
     "A4986": "ACJ72JDD",
     "B4986": "h38",
     "C4986": "hy2",
-    "K4986": "Net Bitcoin flow in TableIA.XIV; primary explicitly interprets effects in flow-outcome standard deviations; exact coefficient/outcome mapping unresolved."
+    "K4986": "Net Bitcoin flow in TableIA.XIV; primary explicitly interprets effects in flow-outcome standard deviations; exact coefficient/outcome mapping unresolved.",
+    "A4987": "ACJ72JDD",
+    "B4987": "h39",
+    "C4987": "hy1",
+    "K4987": "Net Tether flow in TableIA.XIV; primary explicitly interprets effects in flow-outcome standard deviations; exact coefficient/outcome mapping unresolved.",
+    "A4988": "ACJ72JDD",
+    "B4988": "h39",
+    "C4988": "hy2",
+    "K4988": "Net Bitcoin flow in TableIA.XIV; primary explicitly interprets effects in flow-outcome standard deviations; exact coefficient/outcome mapping unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
