@@ -129603,3 +129603,186 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:35:31.135628+00:00 — Review 9SK5H9MK h25: source-audited coding and linked comparisons
+
+29 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4845",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4846",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4847",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4848",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4849",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4845",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4846",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4847",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4848",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4849",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4845",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4846",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4847",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4848",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4849",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4845",
+    "before": null,
+    "after": "aggregate: net job change/2000 nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4846",
+    "before": null,
+    "after": "0-1 years: net job change/2000 nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4847",
+    "before": null,
+    "after": "2-3 years: net job change/2000 nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4848",
+    "before": null,
+    "after": "4-5 years: net job change/2000 nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4849",
+    "before": null,
+    "after": "6+ years: net job change/2000 nontradable employment"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2047",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2047",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2047",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2047",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2047",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2047",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2047",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2047",
+    "before": null,
+    "after": "IAV : year plus Census Division FE N2044; FE continuous two-year regional income-growth response; net job change/2000 nontradable employment. Aggregate/four age bins. Baseline controls/year dummies unless FE specification stated; region-clustered SE; nonoverlapping2001/03/05/07 unless stated otherwise."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2047",
+    "before": null,
+    "after": "Author appendix p.1 and main p.1018 explicitly motivate geographic FE as removing general regional startup/dynamism trends. This establishes identifying role, unlike baseline year-only controls. Year plus Census Division are two separately absorbed sets. Linear income-growth response, hence FE not HDFE; remaining reverse causality acknowledged. Not a DiD treatment-by-post design. Census Division plus year = two identifying FE dimensions. Main p.1018 and appendix p.1 explicitly say these absorb broad regional trends; this is why the non-IV columns qualify as FE, unlike year-only raw-correlation comparators. Remaining reverse causality is acknowledged, not resolved by assertion. Source: Author Appendix Table IAV, printed p.10/appendix PDF11; cols2,4,6,8,10. Source link: https://songma.org/files/amr_jf_app_final.pdf. Certainty: moderate."
+  }
+]
+```
