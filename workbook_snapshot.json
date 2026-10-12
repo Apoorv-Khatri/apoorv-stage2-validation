@@ -20825,7 +20825,16 @@
     "L2202": "0",
     "M2202": "unknown",
     "N2202": "§3.4.10 fund risk-taking response: post-disaster effect on volatility of close mutual funds; binary disaster-experience before/after contrast.",
-    "O2202": "Main text establishes implemented finding that post-disaster volatility of close funds decreases, but does not identify whether this is a within-close before/after regression, a close/far DiD, or another estimator. Method/IV status unknown rather than guessed; no unsupported coefficient, FE battery or far-fund comparison. Outcome is an SD but not an effect expressed in outcome-SD units. Source: p1181 §3.4.10; L2253–2260."
+    "O2202": "Main text establishes implemented finding that post-disaster volatility of close funds decreases, but does not identify whether this is a within-close before/after regression, a close/far DiD, or another estimator. Method/IV status unknown rather than guessed; no unsupported coefficient, FE battery or far-fund comparison. Outcome is an SD but not an effect expressed in outcome-SD units. Source: p1181 §3.4.10; L2253–2260.",
+    "A2203": "DPFRSKRY",
+    "B2203": "h9",
+    "I2203": "1",
+    "J2203": "OLS",
+    "K2203": "1",
+    "L2203": "0",
+    "M2203": "n/a",
+    "N2203": "Table3 column1, own POST parameter: binary disaster-quarter and next two quarters versus two prior quarters change in disaster-zone stock portfolio weights for FAR funds; no-FE linear before/after contrast, coefficient −.021 percentage points.",
+    "O2203": "Own-parameter gate supported by p1160: authors interpret POST as distant funds selling after disaster because stocks adversely affected or salience affects both close/far funds. Not merely an incidental control. At CLOSE=0, POST is the far-fund simple change, not the DID effect in s1; cross-sectional CLOSE preference remains descriptive. OLS rather than DiD for this own parameter. Source: p1160/Table3 col1 p1161; L805–815,844–900."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -57148,7 +57157,14 @@
     "H5093": "0",
     "I5093": "unknown",
     "J5093": "none",
-    "K5093": "Fund volatility: standard deviation of imputed daily returns during the quarter from the ex ante disclosed portfolio; no log or standardization stated. No reported evidence establishes exact-zero mass in the estimation sample."
+    "K5093": "Fund volatility: standard deviation of imputed daily returns during the quarter from the ex ante disclosed portfolio; no log or standardization stated. No reported evidence establishes exact-zero mass in the estimation sample.",
+    "A5094": "DPFRSKRY",
+    "B5094": "h9",
+    "C5094": "hy1",
+    "H5094": "0",
+    "I5094": "unknown",
+    "J5094": "none",
+    "K5094": "Portfolio weight of disaster-zone stock s in far mutual fund m at quarter end, percent of fund portfolio. No reported evidence establishes exact-zero mass in the estimation sample."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

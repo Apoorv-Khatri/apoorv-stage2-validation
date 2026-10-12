@@ -176028,3 +176028,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:49:49.321396+00:00 — Review DPFRSKRY h9: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5094",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5094",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5094",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5094",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5094",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5094",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5094",
+    "before": null,
+    "after": "Portfolio weight of disaster-zone stock s in far mutual fund m at quarter end, percent of fund portfolio. No reported evidence establishes exact-zero mass in the estimation sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2203",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2203",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2203",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2203",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2203",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2203",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2203",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2203",
+    "before": null,
+    "after": "Table3 column1, own POST parameter: binary disaster-quarter and next two quarters versus two prior quarters change in disaster-zone stock portfolio weights for FAR funds; no-FE linear before/after contrast, coefficient −.021 percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2203",
+    "before": null,
+    "after": "Own-parameter gate supported by p1160: authors interpret POST as distant funds selling after disaster because stocks adversely affected or salience affects both close/far funds. Not merely an incidental control. At CLOSE=0, POST is the far-fund simple change, not the DID effect in s1; cross-sectional CLOSE preference remains descriptive. OLS rather than DiD for this own parameter. Source: p1160/Table3 col1 p1161; L805–815,844–900."
+  }
+]
+```
