@@ -172440,3 +172440,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:18:58.176897+00:00 — Review DFSQYG6H h4: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5064",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5064",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5064",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5064",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5064",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5064",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5064",
+    "before": null,
+    "after": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2173",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2173",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2173",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2173",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2173",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2173",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2173",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2173",
+    "before": null,
+    "after": "Internet Appendix TableA4: decimalization regression DiD cash-ratio effect with additional financial-constraint controls, small-firm/SAI/WWI/bond-rating/paper-rating variants; firm+year FE, window[-2,+2]."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2173",
+    "before": null,
+    "after": "Implemented robustness established final p916. December2020 appendix Treat×Post estimates0.016,0.016,0.016,0.016,0.015. Final fn13 defines rating dummy as having rating; appendix caption defines no rating. Preserve conflicting control coding; focal binary exposure unaffected. Post/year-FE normalization unexplained. Do not infer causal effects of the added control coefficients, which are not shown. Source: Final p916/fn13; author-forthcoming.txt lines2279–2317; IA p6/PDF67."
+  }
+]
+```

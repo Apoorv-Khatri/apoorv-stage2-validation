@@ -20491,7 +20491,16 @@
     "L2172": "0",
     "M2172": "n/a",
     "N2172": "Internet Appendix TableA3: decimalization matched DiD ATT in change in cash ratio, broader pre-event matching set including firm size and other controls; displayed estimate0.028 in December2020 appendix.",
-    "O2172": "Implemented family established by final p913 footnote9; supplementary details from author accepted-version appendix, not verified final supplement. Bias-corrected matched DiD remains conventional DiD. Pretrend deterioration explicitly acknowledged in final footnote; no new diagnostic setting. Source: Final p913 fn9; author-forthcoming.txt lines2256–2278; IA p5/PDF66."
+    "O2172": "Implemented family established by final p913 footnote9; supplementary details from author accepted-version appendix, not verified final supplement. Bias-corrected matched DiD remains conventional DiD. Pretrend deterioration explicitly acknowledged in final footnote; no new diagnostic setting. Source: Final p913 fn9; author-forthcoming.txt lines2256–2278; IA p5/PDF66.",
+    "A2173": "DFSQYG6H",
+    "B2173": "h4",
+    "I2173": "1",
+    "J2173": "DiD_conventional",
+    "K2173": "1",
+    "L2173": "0",
+    "M2173": "n/a",
+    "N2173": "Internet Appendix TableA4: decimalization regression DiD cash-ratio effect with additional financial-constraint controls, small-firm/SAI/WWI/bond-rating/paper-rating variants; firm+year FE, window[-2,+2].",
+    "O2173": "Implemented robustness established final p916. December2020 appendix Treat×Post estimates0.016,0.016,0.016,0.016,0.015. Final fn13 defines rating dummy as having rating; appendix caption defines no rating. Preserve conflicting control coding; focal binary exposure unaffected. Post/year-FE normalization unexplained. Do not infer causal effects of the added control coefficients, which are not shown. Source: Final p916/fn13; author-forthcoming.txt lines2279–2317; IA p6/PDF67."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56618,7 +56627,14 @@
     "H5063": "0",
     "I5063": "unknown",
     "J5063": "other",
-    "K5063": "Change in cash ratio (CHE/AT) from end-2000 to end-2002, bias-corrected matched treated/control contrast; first difference (other)."
+    "K5063": "Change in cash ratio (CHE/AT) from end-2000 to end-2002, bias-corrected matched treated/control contrast; first difference (other).",
+    "A5064": "DFSQYG6H",
+    "B5064": "h4",
+    "C5064": "hy1",
+    "H5064": "0",
+    "I5064": "unknown",
+    "J5064": "none",
+    "K5064": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
