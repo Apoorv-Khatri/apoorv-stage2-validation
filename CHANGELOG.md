@@ -121413,3 +121413,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:21:05.310869+00:00 — Review 95E3CUNG h3: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4762",
+    "before": null,
+    "after": "95E3CUNG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4762",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4762",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4762",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4762",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4762",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4762",
+    "before": null,
+    "after": "Monthly producer-firm US-dollar simple return, with the paper’s strategy contrasts described as excess-return differences; percentages/percentage points per month. WLS weights use market capitalization relative to firms in the same trade-credit group. Low-minus-high and top-minus-bottom estimates are linear contrasts in this outcome, not new binary dependent variables."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2020",
+    "before": null,
+    "after": "95E3CUNG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2020",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2020",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2020",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2020",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2020",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2020",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2020",
+    "before": null,
+    "after": "Monthly firm-level WLS endpoint trade-credit/customer-return contrasts for high-foreign-sales firms, conditional on low/high producer-country stock trading volume relative to market capitalization. Retain both volume states; this is not a separate identified causal effect of trading volume. The volume proxy can have interpretations other than uninformed trading. Specifications without identifying country/industry FE; routine no-control/controlled variants are grouped where reported at this location. The FE results remain under s3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2020",
+    "before": null,
+    "after": "Binary=1 refers to the implemented two-endpoint contrasts, not the underlying three-level trade-credit or five-level customer-return sorting variables. Interior cell means describe the grouped regression, not new standalone causal treatments. Country and industry FE are two separate, nonnested categorical dimensions, not HDFE. The substantive identification argument is explicit: p.604 adds these FE to soak up potential variation from those sources and interprets invariance to industry dummies as evidence against cross-industry trade-credit variation driving the strategy. This is not classification from dimension count alone. Without these identifying FE, the same linear WLS contrasts are OLS/regression adjustment. Country-industry-month clustered standard errors are not an additional FE dimension. Factor controls are not FE. No IV, randomized assignment, RD, matching treatment weights or parallel-trends DiD is implemented. Observational, model-motivated mechanism test. Customer country indices proxy unobserved bilateral customer-firm links; trade credit, foreign sales, volume and stress states can be endogenous. Controls and country/industry FE do not prove exogeneity. Retention records the authors’ interpretation, not endorsement of their identification. Source: §4.2/Table5 p.607/PDF16; discussion p.606.. Certainty: high for printed estimates/design split; author-interpreted mechanism, not proven causal identification."
+  }
+]
+```
