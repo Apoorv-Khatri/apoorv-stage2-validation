@@ -171939,3 +171939,288 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:18:11.849624+00:00 — Review DFSQYG6H h1: source-audited coding and linked comparisons
+
+46 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2449",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2450",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2451",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2449",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2450",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2451",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2449",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2450",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2451",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2449",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2450",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2451",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2449",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2450",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2451",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2449",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2450",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2451",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2449",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2450",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2451",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2449",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2450",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2451",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2449",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2450",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2451",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2449",
+    "before": null,
+    "after": "p910/fn8 and Table3 col1 p912: Col1 ILLIQ_res coefficient−0.087×10^-2; one-treatment-SD decrease produces1.42pps, stated≈10%; benchmark overall1964–2015 cash-ratio mean14%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2450",
+    "before": null,
+    "after": "p910/fn8 and Table3 col7 p912: Col7 ILLIQ_res coefficient−0.064×10^-2; one-treatment-SD decrease produces1.11pps, stated6.2%; benchmark overall1998–2015 cash-ratio mean18%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2451",
+    "before": null,
+    "after": "p910/fn8 and Table3 col9 p912: Col9 Log_resprd_res coefficient−0.024; one-treatment-SD decrease produces1.54pps, stated8.5%; benchmark overall1998–2015 cash-ratio mean18%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2449",
+    "before": null,
+    "after": "Continuous-treatment regression target/weights and untreated-reference construction not established, so alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2450",
+    "before": null,
+    "after": "Continuous-treatment regression target/weights and untreated-reference construction not established, so alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2451",
+    "before": null,
+    "after": "Continuous-treatment regression target/weights and untreated-reference construction not established, so alignment unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5060",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5060",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5060",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5060",
+    "before": null,
+    "after": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2170",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2170",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2170",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2170",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2170",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2170",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2170",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2170",
+    "before": null,
+    "after": "Table 3 cols1–10: continuous lagged ILLIQ/ILLIQ_res or Log_resprd/Log_resprd_res effects on cash ratio; pooled linear regressions with industry and year dummy controls across 1964–2015, 1971–2015, 1981–2015, 1998–2015."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2170",
+    "before": null,
+    "after": "Industry/year dummies are reported controls; no separate identifying rationale for this battery is established in §2.5. Firm-FE identifying argument is explicitly specific to cols11–12. Retain broad causal interpretation from p910 even though preliminary association wording also occurs. Orthogonalized/raw liquidity proxies are routine operationalizations of the same construct, not separate policies. Source: §2.5/Table3 cols1–10 p912; p910 footnote8."
+  }
+]
+```
