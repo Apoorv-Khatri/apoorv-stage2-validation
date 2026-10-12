@@ -171030,3 +171030,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:16:15.075680+00:00 — Review DFSQYG6H s2: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L166",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M166",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q166",
+    "before": null,
+    "after": "§3.2/Table5 PanelA pp912–914. “The Abadie and Imbens (2011) bias-corrected estimator is 0.024 and is statistically signiﬁcant at the 1% level. In other words, the treatment effect on the treated ﬁrms is 2.4 pps on average. With respect to economic signiﬁcance, this represents 16% of treated ﬁrms’ mean pre-shock (year 2000) Cash ratio.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R166",
+    "before": null,
+    "after": "Benchmark is treated firms’ own pre-event untreated cash-ratio level, not control-firm mean. Matched ATT target is the treated population; pre-event mean represents that same population baseline. Although estimated outcome is a cash-ratio change, the contrast is an effect on the underlying cash-ratio level, not a comparison to mean cash growth; baseline comparison retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H881",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I881",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J881",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K881",
+    "before": null,
+    "after": "First difference in cash ratio (CHE/AT), year after minus year before the event; code transformation other. A cash-ratio change is not a binary outcome. No sample evidence establishes an atom at exactly zero in these changes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I329",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J329",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K329",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L329",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M329",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O329",
+    "before": null,
+    "after": "Bias-corrected matched before–after ATT is conventional DiD under the method hierarchy, not Matching: pre/post changes and parallel trends supply identification. No implemented 2SLS despite the word instrument on p912. Matching uses pre-event covariates; selecting variables partly for their correlation with cash savings is a design caveat, not a reported use of focal realized post-event outcomes to set pair weights.  Source: §3.2/Table5 PanelA pp912–914."
+  }
+]
+```
