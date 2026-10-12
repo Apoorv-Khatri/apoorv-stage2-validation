@@ -147132,3 +147132,210 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:37:17.039633+00:00 — Review ACJ72JDD h14: source-audited coding and linked comparisons
+
+33 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4966",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4967",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4968",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4969",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4970",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4971",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4966",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4967",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4968",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4969",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4970",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4971",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4966",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4967",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4968",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4969",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4970",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4971",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4966",
+    "before": null,
+    "after": "Dash return in 1LSg flow regression; main cross-reference says analogous TableIII; exact appendix horizon/scale pending verification."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4967",
+    "before": null,
+    "after": "Ethereum Classic return in 1LSg flow regression; main cross-reference says analogous TableIII; exact appendix horizon/scale pending verification."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4968",
+    "before": null,
+    "after": "Ethereum return in 1LSg flow regression; main cross-reference says analogous TableIII; exact appendix horizon/scale pending verification."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4969",
+    "before": null,
+    "after": "Litecoin return in 1LSg flow regression; main cross-reference says analogous TableIII; exact appendix horizon/scale pending verification."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4970",
+    "before": null,
+    "after": "Monero return in 1LSg flow regression; main cross-reference says analogous TableIII; exact appendix horizon/scale pending verification."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4971",
+    "before": null,
+    "after": "Zcash return in 1LSg flow regression; main cross-reference says analogous TableIII; exact appendix horizon/scale pending verification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2112",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2112",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2112",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2112",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2112",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2112",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2112",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2112",
+    "before": null,
+    "after": "1LSg-specific flow effects on six other major cryptocurrency returns, analogous to TableIII aggregate-flow regressions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2112",
+    "before": null,
+    "after": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main explicitly says similar results for 1LSg flows and other prices, establishing an implemented distinct focal-flow robustness. Source: p.1938 footnote28 lines1143–1145, Table IA.III. Certainty: source-grounded."
+  }
+]
+```
