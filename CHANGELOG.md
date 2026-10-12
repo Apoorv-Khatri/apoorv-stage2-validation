@@ -136368,3 +136368,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:46:48.752172+00:00 — Review 9XGMQWX5 h28: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4924",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4924",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4924",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4924",
+    "before": null,
+    "after": "VC career tenure: years a partner has worked as a venture capitalist, in levels; US sample and VCs with at least two deals. Exact zero mass is not reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2084",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2084",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2084",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2084",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2084",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2084",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2084",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2084",
+    "before": null,
+    "after": "OnlineA10: daughter ratio (all/senior partners) on VC career tenure in years, with Female VC interactions and children controls; linear level regressions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2084",
+    "before": null,
+    "after": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. Substantive authority/retention channel. Year/industry dummy controls do not separately establish FE identification. Col2 interaction is printed Female VC x Daughters, while main regressor says Daughter Ratio; preserve ambiguous label. Table reports ordinary regression in outcome years, not survival/hazard or log tenure. Source: Author forthcoming manuscript Table Online A10, printed/PDF p.54; final article §4.4 p.16."
+  }
+]
+```

@@ -19281,7 +19281,16 @@
     "L2083": "0",
     "M2083": "n/a",
     "N2083": "OnlineA9: daughter ratio (all/senior partners) on investing partner’s board-deal count, including interactions with Female VC and children controls; Poisson regressions.",
-    "O2083": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. Substantive authority mechanism in final p.16. Nonlinear Poisson estimator means Other, regardless of year/industry dummies. US portfolio companies and VCs with at least two deals; do not code as log-transformed dependent variable. Source: Author forthcoming manuscript Table Online A9, printed/PDF p.53; final article §4.4 p.16."
+    "O2083": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. Substantive authority mechanism in final p.16. Nonlinear Poisson estimator means Other, regardless of year/industry dummies. US portfolio companies and VCs with at least two deals; do not code as log-transformed dependent variable. Source: Author forthcoming manuscript Table Online A9, printed/PDF p.53; final article §4.4 p.16.",
+    "A2084": "9XGMQWX5",
+    "B2084": "h28",
+    "I2084": "1",
+    "J2084": "OLS",
+    "K2084": "0",
+    "L2084": "0",
+    "M2084": "n/a",
+    "N2084": "OnlineA10: daughter ratio (all/senior partners) on VC career tenure in years, with Female VC interactions and children controls; linear level regressions.",
+    "O2084": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. Substantive authority/retention channel. Year/industry dummy controls do not separately establish FE identification. Col2 interaction is printed Female VC x Daughters, while main regressor says Daughter Ratio; preserve ambiguous label. Table reports ordinary regression in outcome years, not survival/hazard or log tenure. Source: Author forthcoming manuscript Table Online A10, printed/PDF p.54; final article §4.4 p.16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54246,7 +54255,11 @@
     "A4923": "9XGMQWX5",
     "B4923": "h27",
     "C4923": "hy1",
-    "K4923": "Number of deals on whose boards the VC has served; sample restricted to at least two deals. Count outcome modeled by Poisson, not observed log(Y)."
+    "K4923": "Number of deals on whose boards the VC has served; sample restricted to at least two deals. Count outcome modeled by Poisson, not observed log(Y).",
+    "A4924": "9XGMQWX5",
+    "B4924": "h28",
+    "C4924": "hy1",
+    "K4924": "VC career tenure: years a partner has worked as a venture capitalist, in levels; US sample and VCs with at least two deals. Exact zero mass is not reported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
