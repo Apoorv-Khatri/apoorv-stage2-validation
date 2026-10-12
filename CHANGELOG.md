@@ -122550,3 +122550,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:24:42.858812+00:00 — Review 96H6UQNF s9: source-audited coding and linked comparisons
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H624",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H625",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H626",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I624",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I625",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I626",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J624",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J625",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J626",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K624",
+    "before": null,
+    "after": "TableA.8 only: EPS including extraordinary items, price-scaled as baseline and transformed under Eq.(2). Broader EPS and cash-flow rows transferred to separate locations."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K625",
+    "before": null,
+    "after": "Spurious under narrowed s9 scope; moved to h5/hy1 for separately reported TableA.9."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K626",
+    "before": null,
+    "after": "Spurious under narrowed s9 scope; moved to h6/hy1 for separately reported TableA.10."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I229",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J229",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K229",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L229",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M229",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N229",
+    "before": null,
+    "after": "TableA.8 only: continuous temperature exposures affecting quarterly EPS including extraordinary items. Eq.(2) identifying firm/time FE; alternative measures at separate Tables A.9 and A.10 moved to h5 and h6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O229",
+    "before": null,
+    "after": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Separately reported outcome sets require location-specific settings. Supporting robustness, not three pooled table locations. Source: §3.2.6 p.26; TableA.8 p.40.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```
