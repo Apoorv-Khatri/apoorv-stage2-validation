@@ -19535,7 +19535,16 @@
     "L2101": "1",
     "M2101": "n/a",
     "N2101": "Table IV C: top1%, top5% or top10% lagged aggregate-flow indicator and its interaction with lagged returns; negative-lagged-return observations; hourly Bitcoin return.",
-    "O2101": "Binary implemented high-flow-versus-other-hours contrast, not continuous flow. High-volatility indicator/interactions are controls. Marginal high-flow effect at lagged return r equals dummy coefficient + interaction*r. Printed 61bp prose comes from interaction -0.6091, not a full prediction including lag-return baseline, dummy and volatility terms. Source: Table IV C p.1947; text p.1945; lines1387–1498. Certainty: source-grounded."
+    "O2101": "Binary implemented high-flow-versus-other-hours contrast, not continuous flow. High-volatility indicator/interactions are controls. Marginal high-flow effect at lagged return r equals dummy coefficient + interaction*r. Printed 61bp prose comes from interaction -0.6091, not a full prediction including lag-return baseline, dummy and volatility terms. Source: Table IV C p.1947; text p.1945; lines1387–1498. Certainty: source-grounded.",
+    "A2102": "ACJ72JDD",
+    "B2102": "h3",
+    "I2102": "1",
+    "J2102": "IV",
+    "K2102": "0",
+    "L2102": "1",
+    "M2102": "single binary",
+    "N2102": "Table VI C: 2SLS effect of continuous 1LSg-linked lagged flow on average next-three-hour Bitcoin return, with other PLX/BTX flows and other-exchange flows included as controls.",
+    "O2102": "Text explicitly instruments 1LSg rather than aggregate flow; it does NOT instrument all three flow regressors. Same one binary below-cutoff AND authorization instrument as s6, not multiple instruments. Receipt is continuous. Some first-stage F statistics weak (7.639,3.291,4.277), despite general prose claim of strength. Source: Table VI C p.1951 and text p.1952 lines1806–1813. Certainty: source-grounded."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54748,7 +54757,11 @@
     "H4943": "0",
     "I4943": "unknown",
     "J4943": "none",
-    "K4943": "Hourly simple Bitcoin return of equal-weighted price index across Tether exchanges; Table IV. Not outcome-SD standardized."
+    "K4943": "Hourly simple Bitcoin return of equal-weighted price index across Tether exchanges; Table IV. Not outcome-SD standardized.",
+    "A4944": "ACJ72JDD",
+    "B4944": "h3",
+    "C4944": "hy1",
+    "K4944": "Mean of the next three hourly simple Bitcoin returns, (Rt+Rt+1+Rt+2)/3, NOT the compounded three-hour cumulative return. Equal-weighted Bitcoin price index across Bitfinex, Poloniex, Bittrex, Binance, HitBTC, Huobi and OKEx. Table coefficients interpreted as basis points per 100 BTC flow; equation is on hourly-return scale."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

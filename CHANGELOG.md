@@ -140664,3 +140664,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:34:48.695243+00:00 — Review ACJ72JDD h3: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4944",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4944",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4944",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4944",
+    "before": null,
+    "after": "Mean of the next three hourly simple Bitcoin returns, (Rt+Rt+1+Rt+2)/3, NOT the compounded three-hour cumulative return. Equal-weighted Bitcoin price index across Bitfinex, Poloniex, Bittrex, Binance, HitBTC, Huobi and OKEx. Table coefficients interpreted as basis points per 100 BTC flow; equation is on hourly-return scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2102",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2102",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2102",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2102",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2102",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2102",
+    "before": null,
+    "after": "Table VI C: 2SLS effect of continuous 1LSg-linked lagged flow on average next-three-hour Bitcoin return, with other PLX/BTX flows and other-exchange flows included as controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2102",
+    "before": null,
+    "after": "Text explicitly instruments 1LSg rather than aggregate flow; it does NOT instrument all three flow regressors. Same one binary below-cutoff AND authorization instrument as s6, not multiple instruments. Receipt is continuous. Some first-stage F statistics weak (7.639,3.291,4.277), despite general prose claim of strength. Source: Table VI C p.1951 and text p.1952 lines1806–1813. Certainty: source-grounded."
+  }
+]
+```
