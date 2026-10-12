@@ -123942,3 +123942,306 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:28:14.124770+00:00 — Review 96H6UQNF h10: source-audited coding and linked comparisons
+
+49 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2123",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2124",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2125",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2123",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2124",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2125",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2123",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2124",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2125",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2123",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2125",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2123",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2124",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2125",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2123",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2124",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2125",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2123",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2125",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2123",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2125",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2123",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2124",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2125",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2123",
+    "before": null,
+    "after": "Appendix A2 p.38, right column: “the average change in the earnings impact associated with a doubling of the extreme 5% right (left) tail of the temperature distribution is just 0.18 (2.00) basis points relative to mean earnings.” This record is the right-tail 0.18 printed basis-point comparison relative to mean earnings. Mean value, population, weights and construction are unstated; do not import Table1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2124",
+    "before": null,
+    "after": "Appendix A2 p.38, right column: “the average change in the earnings impact associated with a doubling of the extreme 5% right (left) tail of the temperature distribution is just 0.18 (2.00) basis points relative to mean earnings.” This record is the left-tail 2.00 printed basis-point comparison relative to mean earnings. Mean value, population, weights and construction are unstated; do not import Table1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2125",
+    "before": null,
+    "after": "AppendixA2 p.38: four highlighted industry-calendar-quarter response changes after hedging adjustment; “averaging just 6.93 basis points of mean earnings for a doubling of the extreme 5% tails.” Prose names trading companies/distributors Q1, leisure products Q1, personal products Q2, electric utilities Q2. Mean earnings numerical level and weights are unstated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2123",
+    "before": null,
+    "after": "The explicitly named denominator in “basis points relative to mean earnings” supports divided=1 under the rule allowing verbal normalization without a printed division sign. This is not a bare basis-point effect with no denominator. Preserve literal source units; no numerical ratio or retransformation independently reconstructed. Alignment remains unknown because the benchmark population, target weights, period and untreated/no-hedging mean construction are unspecified."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2124",
+    "before": null,
+    "after": "The explicitly named denominator in “basis points relative to mean earnings” supports divided=1 under the rule allowing verbal normalization without a printed division sign. This is not a bare basis-point effect with no denominator. Preserve literal source units; no numerical ratio or retransformation independently reconstructed. Alignment remains unknown because the benchmark population, target weights, period and untreated/no-hedging mean construction are unspecified."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2125",
+    "before": null,
+    "after": "“Of mean earnings” is a stated normalization, unlike mere basis-point units. Alignment unknown: no untreated/zero-hedging target mean or averaging construction reported. Preserve source subgroup list despite electric-utilities quarter conflict with IA1; do not silently reassign6.93 to another quarter."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4774",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4774",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4774",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4774",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4774",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4774",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4774",
+    "before": null,
+    "after": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2031",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2031",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2031",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2031",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2031",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2031",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2031",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2031",
+    "before": null,
+    "after": "AppendixA2: staggered city weather-derivative introductions/discontinuations change firms’ hedging opportunity and its moderation of temperature–earnings sensitivity. Establishment eligibility is within 100 miles of an active contract station; firm treatment is sales-weighted share of eligible establishments, entered in levels and interacted with temperature polynomials in Eq.(2)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2031",
+    "before": null,
+    "after": "Authors explicitly implement difference-in-difference using the CME staggered natural experiment (p.38). Conventional linear interaction design; no named heterogeneity-robust estimator. Firm/time FE inherited but DiD has priority. Firm-level exposure is continuous share, NOT binary establishment indicator and NOT actual hedging receipt. No excluded instrument or 2SLS: IV_type=n/a. Common evolution conditional on FE and absence of correlated changes in hedge eligibility underpin interpretation; do not claim actual derivatives uptake is observed. Headline statements: over81% unchanged; right/left 0.18/2.00 bp relative to mean earnings; selected four 6.93 bp of mean earnings. Source inconsistencies (notably electric-utilities Q2) are documented below. Publisher Internet Appendix Table IA1 caption (printed p.21/PDF22) specifies joint significance tests of moderator × Chebyshev interaction terms, with the moderator also included in levels. These are not Wald/local-Wald treatment-effect estimators, and the printed baseline coefficient block is not a table of each augmented specification’s full coefficients. Several reported Wald values are negative with p=1.000; retain the source inconsistency without treating those entries as valid conventional nonnegative Wald statistics or repairing them. Source: AppendixA2 pp.38,40; TableIA1 Wald(hedging), printed pp.21–35.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```
