@@ -148209,3 +148209,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:39:30.974295+00:00 — Review ACJ72JDD h38: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4985",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4986",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4985",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4986",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4985",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4986",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4985",
+    "before": null,
+    "after": "Net Tether flow in TableIA.XIV; primary explicitly interprets effects in flow-outcome standard deviations; exact coefficient/outcome mapping unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4986",
+    "before": null,
+    "after": "Net Bitcoin flow in TableIA.XIV; primary explicitly interprets effects in flow-outcome standard deviations; exact coefficient/outcome mapping unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2121",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2121",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2121",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2121",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2121",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2121",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2121",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2121",
+    "before": null,
+    "after": "Cross-Tether-exchange arbitrage/price-response regression: Bitfinex-versus-other-Tether-exchange return spread drives net Tether/Bitcoin flows; aggregate net Tether and Bitcoin outcomes. Footnote37 also establishes account-decomposed robustness, whose exact outcome inventory remains outside this row pending Table IA.XIV."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2121",
+    "before": null,
+    "after": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main gives outcome-SD effects and interprets price decline as economically sizable driver. Spread response range printed0.0336–0.419 SD with t2.39–3.13; average-price decrease effect0.043–0.12 SD with t3.15–6.68. Do not silently replace0.419 with0.0419; precise coefficient/outcome/column allocation unresolved. Comparative driver sizes are effect-versus-effect, not extra benchmarks. Source: §IV.C pp.1960–1961 lines2198–2218 and footnote37; Table IA.XIV. Certainty: source-grounded."
+  }
+]
+```

@@ -19706,7 +19706,16 @@
     "L2120": "0",
     "M2120": "n/a",
     "N2120": "Decomposed account/exchange flow response to USD-minus-Tether-exchange arbitrage return spread, analogous to TableVIII.",
-    "O2120": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main reports similar demand results for1LSg/other accounts and positive arbitrage-spread relation for Binance/Huobi, not1LSg/other PLX/BTX. These are substantive alternative drivers, not pure forecasting. Full set of flow outcomes and standardized coefficients cannot be enumerated from primary alone. Source: p.1958 lines2057–2075; Table IA.XIII. Certainty: source-grounded."
+    "O2120": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main reports similar demand results for1LSg/other accounts and positive arbitrage-spread relation for Binance/Huobi, not1LSg/other PLX/BTX. These are substantive alternative drivers, not pure forecasting. Full set of flow outcomes and standardized coefficients cannot be enumerated from primary alone. Source: p.1958 lines2057–2075; Table IA.XIII. Certainty: source-grounded.",
+    "A2121": "ACJ72JDD",
+    "B2121": "h38",
+    "I2121": "1",
+    "J2121": "OLS",
+    "K2121": "0",
+    "L2121": "0",
+    "M2121": "n/a",
+    "N2121": "Cross-Tether-exchange arbitrage/price-response regression: Bitfinex-versus-other-Tether-exchange return spread drives net Tether/Bitcoin flows; aggregate net Tether and Bitcoin outcomes. Footnote37 also establishes account-decomposed robustness, whose exact outcome inventory remains outside this row pending Table IA.XIV.",
+    "O2121": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main gives outcome-SD effects and interprets price decline as economically sizable driver. Spread response range printed0.0336–0.419 SD with t2.39–3.13; average-price decrease effect0.043–0.12 SD with t3.15–6.68. Do not silently replace0.419 with0.0419; precise coefficient/outcome/column allocation unresolved. Comparative driver sizes are effect-versus-effect, not extra benchmarks. Source: §IV.C pp.1960–1961 lines2198–2218 and footnote37; Table IA.XIV. Certainty: source-grounded."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55122,7 +55131,15 @@
     "A4984": "ACJ72JDD",
     "B4984": "h36",
     "C4984": "hy4",
-    "K4984": "Flow to Huobi in the Panel C account/exchange arbitrage-spread analysis of Table IA.XIII. Main p.1958 explicitly reports a positive spread relationship; whether the reported series is separate Tether, Bitcoin, or an average flow and its exact units remain unresolved."
+    "K4984": "Flow to Huobi in the Panel C account/exchange arbitrage-spread analysis of Table IA.XIII. Main p.1958 explicitly reports a positive spread relationship; whether the reported series is separate Tether, Bitcoin, or an average flow and its exact units remain unresolved.",
+    "A4985": "ACJ72JDD",
+    "B4985": "h38",
+    "C4985": "hy1",
+    "K4985": "Net Tether flow in TableIA.XIV; primary explicitly interprets effects in flow-outcome standard deviations; exact coefficient/outcome mapping unresolved.",
+    "A4986": "ACJ72JDD",
+    "B4986": "h38",
+    "C4986": "hy2",
+    "K4986": "Net Bitcoin flow in TableIA.XIV; primary explicitly interprets effects in flow-outcome standard deviations; exact coefficient/outcome mapping unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
