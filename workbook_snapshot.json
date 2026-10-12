@@ -20215,7 +20215,16 @@
     "L2147": "0",
     "M2147": "n/a",
     "N2147": "Referenced TableA5 and §4.2: high-versus-low size-adjusted institutional-ownership quintile contrast in conditional seasonality return spreads; low-IO101bps/month and high-IO112bps/month. Authors conclude the spread does not vary meaningfully with institutional ownership.",
-    "O2147": "Retain the author-interpreted limits-to-arbitrage mechanism and the explicitly compared two extreme groups, not the whole multi-bin dose. Linear sorted-group contrast: OLS, not Matching or DiD. Main-text implemented methodology and endpoint results suffice without the full A5 grid. Exact second-sort portfolio cutoffs, weights, dates and unreported coefficients remain unknown. The outcome here is the conditional seasonal return spread itself. Its group levels (low101 and high112bps/month) are therefore same-outcome reference levels for the outer size-adjusted institutional ownership contrast, not another treatment effect used as a benchmark for an individual-stock-return coefficient. Comparison hc1 is verbal without division; population alignment is unknown. Do not invent intermediate contrasts or calculate an unreported author estimate. Source: §4.2 p154 lines1146–1194; referenced TableA5."
+    "O2147": "Retain the author-interpreted limits-to-arbitrage mechanism and the explicitly compared two extreme groups, not the whole multi-bin dose. Linear sorted-group contrast: OLS, not Matching or DiD. Main-text implemented methodology and endpoint results suffice without the full A5 grid. Exact second-sort portfolio cutoffs, weights, dates and unreported coefficients remain unknown. The outcome here is the conditional seasonal return spread itself. Its group levels (low101 and high112bps/month) are therefore same-outcome reference levels for the outer size-adjusted institutional ownership contrast, not another treatment effect used as a benchmark for an individual-stock-return coefficient. Comparison hc1 is verbal without division; population alignment is unknown. Do not invent intermediate contrasts or calculate an unreported author estimate. Source: §4.2 p154 lines1146–1194; referenced TableA5.",
+    "A2148": "CN4YZYPH",
+    "B2148": "h1",
+    "I2148": "1",
+    "J2148": "OLS",
+    "K2148": "0",
+    "L2148": "1",
+    "M2148": "n/a",
+    "N2148": "Table8 Panel B: average compensation-peer market leverage affecting reporting-firm market leverage, all/dropped/non-SIC3/high-/low-ability variants; firm/year dummy controls.",
+    "O2148": "Independent source adjudication retains OLS/regression adjustment under the project taxonomy. Table8 includes firm and year FE (two effective dimensions), but §7.1 motivates own/peer controls, dropped-peer tests and cross-industry peer restrictions—not FE—as the strategies separating learning from similarity/industry effects. The explicit time-constant-unobservables argument on p206 is scoped to §5.2 (Tables3–4), not a paper-wide identification claim. This is a taxonomy judgment, not denial of actual FE or proof of exogeneity; FE remains a defensible interpretive alternative but HDFE is ruled out. All/dropped/non-SIC3/high-/low-ability peer constructions grouped within each policy variable as same-location exposure-construction robustness; do not split each column mechanically. Footnotes25–26 non-SIC2 and high/low-ability × non-SIC3 variants included without invented coefficients. Source: §7.1/Table8B pp212–213; lines1322–1396."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56115,7 +56124,11 @@
     "H5017": "0",
     "I5017": "unknown",
     "J5017": "none",
-    "K5017": "Monthly seasonality return spread from conditional portfolio sorts: first sort by size-adjusted institutional ownership, then by past same-month minus other-month returns. Units: basis points/month. This spread, not an individual-stock return, is the outcome of the outer extreme-size-adjusted institutional ownership-group comparison. Exact second-sort legs/cutoffs and portfolio weights are not specified in the accessible A5 description. Nonbinary outcome; no log/SD transformation reported; observed zero mass unknown."
+    "K5017": "Monthly seasonality return spread from conditional portfolio sorts: first sort by size-adjusted institutional ownership, then by past same-month minus other-month returns. Units: basis points/month. This spread, not an individual-stock return, is the outcome of the outer extreme-size-adjusted institutional ownership-group comparison. Exact second-sort legs/cutoffs and portfolio weights are not specified in the accessible A5 description. Nonbinary outcome; no log/SD transformation reported; observed zero mass unknown.",
+    "A5018": "CN4YZYPH",
+    "B5018": "h1",
+    "C5018": "hy1",
+    "K5018": "Reporting-firm MLEVERAGE at t: Appendix p218 defines current liabilities plus long-term debt divided by market value of total assets; Table8 caption instead says total debt. Preserve this numerator discrepancy."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
