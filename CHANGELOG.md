@@ -140286,3 +140286,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:33:40.747628+00:00 — Review ACJ72JDD s7: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H777",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I777",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J777",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K777",
+    "before": null,
+    "after": "Mean of the next three hourly simple Bitcoin returns, (Rt+Rt+1+Rt+2)/3, NOT the compounded three-hour cumulative return. Equal-weighted Bitcoin price index across Bitfinex, Poloniex, Bittrex, Binance, HitBTC, Huobi and OKEx. Table coefficients interpreted as basis points per 100 BTC flow; equation is on hourly-return scale. Continuous return; exact atom at zero is not established. Stale-price carry-forward up to five minutes in data construction does not establish zero mass in this aggregated/horizon sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I271",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J271",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K271",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L271",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M271",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N271",
+    "before": null,
+    "after": "Direct reduced-form local-mean discontinuity of average next-three-hour Bitcoin return for below versus above round $500 threshold, within $50 on either side. Table VI A; authorization/noauthorization and lagged-sign subsamples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O271",
+    "before": null,
+    "after": "RD takes precedence over OLS implementation; not the IV receipt effect and not a diagnostic-only first stage. Main=1: materially supports the main round-cutoff causal price-impact conclusion. Source: Table VI A p.1951; pp.1950–1952; lines1708–1776. Certainty: source-grounded."
+  }
+]
+```
