@@ -136281,3 +136281,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:46:34.357981+00:00 — Review 9XGMQWX5 h27: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4923",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4923",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4923",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4923",
+    "before": null,
+    "after": "Number of deals on whose boards the VC has served; sample restricted to at least two deals. Count outcome modeled by Poisson, not observed log(Y)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2083",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2083",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2083",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2083",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2083",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2083",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2083",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2083",
+    "before": null,
+    "after": "OnlineA9: daughter ratio (all/senior partners) on investing partner’s board-deal count, including interactions with Female VC and children controls; Poisson regressions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2083",
+    "before": null,
+    "after": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. Substantive authority mechanism in final p.16. Nonlinear Poisson estimator means Other, regardless of year/industry dummies. US portfolio companies and VCs with at least two deals; do not code as log-transformed dependent variable. Source: Author forthcoming manuscript Table Online A9, printed/PDF p.53; final article §4.4 p.16."
+  }
+]
+```
