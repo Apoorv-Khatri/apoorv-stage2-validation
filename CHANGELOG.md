@@ -176238,3 +176238,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:50:17.102390+00:00 — Review DPFRSKRY h11: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5096",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5096",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5096",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5096",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5096",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5096",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5096",
+    "before": null,
+    "after": "Portfolio weight of a near-disaster-zone firm stock in a mutual fund at quarter end, percent of fund portfolio; lower-order near-disaster close/far DiD contrast in Table9B. No explicit evidence establishes an exact-zero mass in the estimation sample."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E37",
+    "before": null,
+    "after": "DONE — Available-source review: all 38 publication pages reviewed and independently cross-checked. Distinguished conventional DiD/DDD from single-difference effects; added explicitly interpreted near-disaster DiD alongside incremental DDD, far-fund OLS/HDFE split and minimum substantive robustness families. Table11 extreme-tercile investor-cost contrast coded OLS/binary, not a causal price-impact claim. HDFE effective rank remains contextual because county/time indices are unresolved. Untabulated profitability replication and volatility estimator unknown. Footnote13 printed1.5% magnitude and conflicting inputs retained; Table9B repeated estimates and Table11 arithmetic conflicts flagged. Internet Appendix unavailable: no exhaustive supplementary coverage or invented specifications. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2205",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2205",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2205",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2205",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2205",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2205",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2205",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2205",
+    "before": null,
+    "after": "Table9 PanelB cols5–8, lower-order CLOSE×POST parameter: binary close versus far fund post-disaster portfolio-weight response for NEAR-DISASTER firms (DISASTER=0). Reported coefficient .003 percentage points, p=.515, in each printed column. Conventional DiD estimand embedded in the DDD regression."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2205",
+    "before": null,
+    "after": "Authors explicitly interpret this parameter on p1173 as no differential close/far response for near-disaster firms, directly supporting the central claim that salience is concentrated in directly hit firms. This is not a nuisance control: parameter-specific gate follows the same rule used for Table3 POST in h9/h10. Distinct from s7 within-group POST single differences and s8 incremental disaster-versus-near-disaster triple difference. Retain the printed .003 and p=.515 despite duplicated PanelB estimates; no coefficient repair. Do not add an implied disaster-group total effect. Source: Table9B p1172 and §3.3.1 p1173; main.txt L1659–1663,1683–1695,1739–1747; introduction p1149 L214–224; conclusion p1181 L2265–2270."
+  }
+]
+```

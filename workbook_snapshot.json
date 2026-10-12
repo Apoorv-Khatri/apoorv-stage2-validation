@@ -162,6 +162,7 @@
     "B37": "Do Fund Managers Misestimate Climatic Disaster Risk",
     "C37": "fin",
     "D37": 10,
+    "E37": "DONE — Available-source review: all 38 publication pages reviewed and independently cross-checked. Distinguished conventional DiD/DDD from single-difference effects; added explicitly interpreted near-disaster DiD alongside incremental DDD, far-fund OLS/HDFE split and minimum substantive robustness families. Table11 extreme-tercile investor-cost contrast coded OLS/binary, not a causal price-impact claim. HDFE effective rank remains contextual because county/time indices are unresolved. Untabulated profitability replication and volatility estimator unknown. Footnote13 printed1.5% magnitude and conflicting inputs retained; Table9B repeated estimates and Table11 arithmetic conflicts flagged. Internet Appendix unavailable: no exhaustive supplementary coverage or invented specifications. Original model fields preserved.",
     "A38": "ED5IDPT4",
     "B38": "A comparison of some structural models of private information arrival",
     "C38": "fin",
@@ -20843,7 +20844,16 @@
     "L2204": "0",
     "M2204": "n/a",
     "N2204": "Table3 cols2–6, own POST parameter: binary post-disaster change for FAR funds in disaster-zone stock portfolio weights, conditional on identifying fund, county and time FE, with routine control variants; POST coefficients −.041,−.040,−.041,−.042,−.034 percentage points.",
-    "O2204": "Genuine identifying-FE split from h9 for the separately interpreted far-fund before/after parameter, not a split of the DiD parameter s1. Retain HDFE on the contextual reading of county as firm/disaster geography: fund + county + time supplies three effective sets even if year is nested in calendar-quarter effects. County and disaster-quarter indexing are not explicitly defined; effective rank/nonnesting cannot be independently certified from the caption. Relative-event-time FE would absorb POST. Broader within-fund/time identification argument pp1152–1153 applies; do not silently infer omitted FE or a normalization. Source: pp1152–1153,1160–1162/Table3 cols2–6; L411–414,454–460,805–815,844–936."
+    "O2204": "Genuine identifying-FE split from h9 for the separately interpreted far-fund before/after parameter, not a split of the DiD parameter s1. Retain HDFE on the contextual reading of county as firm/disaster geography: fund + county + time supplies three effective sets even if year is nested in calendar-quarter effects. County and disaster-quarter indexing are not explicitly defined; effective rank/nonnesting cannot be independently certified from the caption. Relative-event-time FE would absorb POST. Broader within-fund/time identification argument pp1152–1153 applies; do not silently infer omitted FE or a normalization. Source: pp1152–1153,1160–1162/Table3 cols2–6; L411–414,454–460,805–815,844–936.",
+    "A2205": "DPFRSKRY",
+    "B2205": "h11",
+    "I2205": "1",
+    "J2205": "DiD_conventional",
+    "K2205": "1",
+    "L2205": "1",
+    "M2205": "n/a",
+    "N2205": "Table9 PanelB cols5–8, lower-order CLOSE×POST parameter: binary close versus far fund post-disaster portfolio-weight response for NEAR-DISASTER firms (DISASTER=0). Reported coefficient .003 percentage points, p=.515, in each printed column. Conventional DiD estimand embedded in the DDD regression.",
+    "O2205": "Authors explicitly interpret this parameter on p1173 as no differential close/far response for near-disaster firms, directly supporting the central claim that salience is concentrated in directly hit firms. This is not a nuisance control: parameter-specific gate follows the same rule used for Table3 POST in h9/h10. Distinct from s7 within-group POST single differences and s8 incremental disaster-versus-near-disaster triple difference. Retain the printed .003 and p=.515 despite duplicated PanelB estimates; no coefficient repair. Do not add an implied disaster-group total effect. Source: Table9B p1172 and §3.3.1 p1173; main.txt L1659–1663,1683–1695,1739–1747; introduction p1149 L214–224; conclusion p1181 L2265–2270."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -57180,7 +57190,14 @@
     "H5095": "0",
     "I5095": "unknown",
     "J5095": "none",
-    "K5095": "Portfolio weight of disaster-zone stock s in far mutual fund m at quarter end, percent of fund portfolio. No reported evidence establishes exact-zero mass in the estimation sample."
+    "K5095": "Portfolio weight of disaster-zone stock s in far mutual fund m at quarter end, percent of fund portfolio. No reported evidence establishes exact-zero mass in the estimation sample.",
+    "A5096": "DPFRSKRY",
+    "B5096": "h11",
+    "C5096": "hy1",
+    "H5096": "0",
+    "I5096": "unknown",
+    "J5096": "none",
+    "K5096": "Portfolio weight of a near-disaster-zone firm stock in a mutual fund at quarter end, percent of fund portfolio; lower-order near-disaster close/far DiD contrast in Table9B. No explicit evidence establishes an exact-zero mass in the estimation sample."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
