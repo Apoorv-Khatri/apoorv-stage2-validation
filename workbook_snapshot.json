@@ -20798,7 +20798,16 @@
     "L2199": "0",
     "M2199": "n/a",
     "N2199": "§3.4.3 other disasters: binary close versus far post-disaster exposure on portfolio weight, examined separately for remaining disaster types beyond hurricanes/tornadoes/wildfires/floods.",
-    "O2199": "Main text establishes separately examined types and CLOSE×POST results; group routine disaster-type samples in this reported family. Only droughts and winter weather have significant interaction estimates. Other types from Table1 are wind, coastal, landslide, severe storm/thunderstorm, hail, tsunami/seiche, lightning, fog, avalanche, heat. No unseen coefficient/grid inferred. Source: p1179 §3.4.3/Table1 p1155; L2149–2157,574–591."
+    "O2199": "Main text establishes separately examined types and CLOSE×POST results; group routine disaster-type samples in this reported family. Only droughts and winter weather have significant interaction estimates. Other types from Table1 are wind, coastal, landslide, severe storm/thunderstorm, hail, tsunami/seiche, lightning, fog, avalanche, heat. No unseen coefficient/grid inferred. Source: p1179 §3.4.3/Table1 p1155; L2149–2157,574–591.",
+    "A2200": "DPFRSKRY",
+    "B2200": "h6",
+    "I2200": "1",
+    "J2200": "DiD_conventional",
+    "K2200": "1",
+    "L2200": "1",
+    "M2200": "n/a",
+    "N2200": "§3.4.4 alternative binary close-fund definitions: CLOSE based on distance less than 50,150,200 or250 miles, each versus its complementary far group, interacted with POST in baseline portfolio-weight DiD.",
+    "O2200": "Threshold alternatives grouped as routine cutoffs, not a continuously estimated distance dose. Magnitude declines with distance, directly supporting abstract/conclusion distance-decay claim, so main=1. Appendix unavailable; no numerical effects invented. Placebo900–1000-mile definition in §3.4.5 is diagnostic only and excluded. Source: pp1179–1180 §3.4.4; L2159–2188."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -57100,7 +57109,14 @@
     "H5090": "0",
     "I5090": "unknown",
     "J5090": "none",
-    "K5090": "Portfolio weight of stock s in the relevant disaster zone in mutual fund m at quarter end, percent of fund portfolio. No reported evidence establishes exact-zero mass in the estimation sample."
+    "K5090": "Portfolio weight of stock s in the relevant disaster zone in mutual fund m at quarter end, percent of fund portfolio. No reported evidence establishes exact-zero mass in the estimation sample.",
+    "A5091": "DPFRSKRY",
+    "B5091": "h6",
+    "C5091": "hy1",
+    "H5091": "0",
+    "I5091": "unknown",
+    "J5091": "none",
+    "K5091": "Portfolio weight of disaster-zone stock s in mutual fund m at quarter end, percent of fund portfolio. No reported evidence establishes exact-zero mass in the estimation sample."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

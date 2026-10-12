@@ -175713,3 +175713,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:49:09.661933+00:00 — Review DPFRSKRY h6: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5091",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5091",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5091",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5091",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5091",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5091",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5091",
+    "before": null,
+    "after": "Portfolio weight of disaster-zone stock s in mutual fund m at quarter end, percent of fund portfolio. No reported evidence establishes exact-zero mass in the estimation sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2200",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2200",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2200",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2200",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2200",
+    "before": null,
+    "after": "§3.4.4 alternative binary close-fund definitions: CLOSE based on distance less than 50,150,200 or250 miles, each versus its complementary far group, interacted with POST in baseline portfolio-weight DiD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2200",
+    "before": null,
+    "after": "Threshold alternatives grouped as routine cutoffs, not a continuously estimated distance dose. Magnitude declines with distance, directly supporting abstract/conclusion distance-decay claim, so main=1. Appendix unavailable; no numerical effects invented. Placebo900–1000-mile definition in §3.4.5 is diagnostic only and excluded. Source: pp1179–1180 §3.4.4; L2159–2188."
+  }
+]
+```
