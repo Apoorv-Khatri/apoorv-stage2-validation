@@ -174216,3 +174216,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:23:55.965914+00:00 — Review DFSQYG6H h50: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5084",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5084",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5084",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5084",
+    "before": null,
+    "after": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2193",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2193",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2193",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2193",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2193",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2193",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2193",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2193",
+    "before": null,
+    "after": "Internet Appendix TableA1 cols5–10, same regressions as Table3: Non-blocks_res (size-orthogonalized institutional nonblock share fraction) effect on cash ratio. Industry and year dummy controls; displayed period/control/liquidity-proxy variants grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2193",
+    "before": null,
+    "after": "Own positive coefficient is explicitly linked to cash-as-ammunition and vulnerable stock prices from easy-to-sell small holdings. OLS with industry/year controls: no separately argued identifying role for those dummies. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
+  }
+]
+```

@@ -20671,7 +20671,16 @@
     "L2192": "0",
     "M2192": "n/a",
     "N2192": "Internet Appendix TableA1 cols11–12, same regressions as Table3: Blocks (share fraction owned by institutional investors each holding more than5%) effect on cash ratio. Identifying firm and year fixed effects,1998–2015.",
-    "O2192": "Own positive coefficient is explicitly interpreted via governance reducing cash-holding costs; section2.3 supplies the mechanism. Identifying firm and year FE: final p909 explicitly targets time-invariant firm-specific omitted variables. Retain implemented sensitivity, without claiming its sign/significance matches OLS. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
+    "O2192": "Own positive coefficient is explicitly interpreted via governance reducing cash-holding costs; section2.3 supplies the mechanism. Identifying firm and year FE: final p909 explicitly targets time-invariant firm-specific omitted variables. Retain implemented sensitivity, without claiming its sign/significance matches OLS. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65.",
+    "A2193": "DFSQYG6H",
+    "B2193": "h50",
+    "I2193": "1",
+    "J2193": "OLS",
+    "K2193": "0",
+    "L2193": "0",
+    "M2193": "n/a",
+    "N2193": "Internet Appendix TableA1 cols5–10, same regressions as Table3: Non-blocks_res (size-orthogonalized institutional nonblock share fraction) effect on cash ratio. Industry and year dummy controls; displayed period/control/liquidity-proxy variants grouped.",
+    "O2193": "Own positive coefficient is explicitly linked to cash-as-ammunition and vulnerable stock prices from easy-to-sell small holdings. OLS with industry/year controls: no separately argued identifying role for those dummies. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56884,7 +56893,11 @@
     "A5083": "DFSQYG6H",
     "B5083": "h49",
     "C5083": "hy1",
-    "K5083": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
+    "K5083": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged.",
+    "A5084": "DFSQYG6H",
+    "B5084": "h50",
+    "C5084": "hy1",
+    "K5084": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
