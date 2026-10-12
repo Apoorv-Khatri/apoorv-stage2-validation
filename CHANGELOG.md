@@ -325542,3 +325542,198 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:02:51.569261+00:00 — Review EYWPN7YT s5: source-audited coding and linked comparisons
+
+31 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K196",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L196",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M196",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N196",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O196",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P196",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q196",
+    "before": null,
+    "after": "“As an illustration, we can observe that joining EDGAR reduces average short-term inaccuracy by 22%, from 0.012 in the pretreatment quarter to 0.009 in the treatment quarter, without reverting back over the next four quarters.” [ … ] Table 4 note: “The coefficients are multiplied by 100 for ease of exposition.” [ … ] Table 4, col. (5): “Quarter of EDGAR inclusion −0.269**” [ … ] Table 1: “Inaccuracy (short-term)” treated-firm pretreatment mean “0.012”. Benchmark population: Pretreatment mean stock-level short-term inaccuracy for treated firms = 0.012 in Table 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R196",
+    "before": null,
+    "after": "An observed treated pre-exposure mean can be a relevant untreated historical baseline; a constructed post-treatment counterfactual level is not required merely because the effect is DiD. Table1 short-term mean uses544 treated stocks observed at t-1, while the effect uses available stock-quarter forecasts over the event window (Table4 stock short-term regressions:2,251 firms pooled treated/control). The regression target's relationship to this t-1 observed-forecast subset and its weights is not established. Retain unknown for sample/weight correspondence, not preperiod timing alone."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H964",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H965",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H966",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H967",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I964",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I965",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I966",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I967",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J964",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J965",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J966",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J967",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K964",
+    "before": null,
+    "after": "Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K965",
+    "before": null,
+    "after": "Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K966",
+    "before": null,
+    "after": "Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K967",
+    "before": null,
+    "after": "Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J370",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M370",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N370",
+    "before": null,
+    "after": "Binary online-access EDGAR exposure in Table4 cols5–8 PDF19; §2.2.3 PDF18,20; static inclusion-quarter and next-four-quarter effects. Dynamic Figure4 separately recorded in h4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O370",
+    "before": null,
+    "after": "Implemented Cengiz et al. (2019) stacked-regression estimator: cohort-specific datasets, clean future-treated controls, nine-quarter window, explicitly addressing time-varying effects and treatment-effect heterogeneity (§1.2–1.3, PDF9–10). This is not modern merely because adoption is staggered. Administrative randomized rollout is analyzed with DD, not a separately implemented experimental ITT. Matching is preprocessing; no IV or separate identifying-FE/OLS setting. Source: Table4 cols5–8 PDF19; §2.2.3 PDF18,20."
+  }
+]
+```
