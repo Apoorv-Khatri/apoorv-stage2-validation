@@ -346968,3 +346968,258 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:55:45.715960+00:00 — Review F4QBG3CB h73: source-audited coding and linked comparisons
+
+41 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4264",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4264",
+    "before": null,
+    "after": "h73"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4264",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4264",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4264",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4264",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4264",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4264",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4264",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4264",
+    "before": null,
+    "after": "IA5 IA PDF7 printed6: Participation prohibition: total average startup value -2.45%, constrained rebalancing -0.01%, author-reported rematching component -2.44%; all relative to unrestricted average total startup value. Investor -1.50% and entrepreneur -0.94% components are divided by total startup value and are not separate own-outcome comparisons."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4264",
+    "before": null,
+    "after": "Changes in matched-deal composition prevent asserting equality to untreated outcomes under counterfactual weights."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6163",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6164",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6165",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6163",
+    "before": null,
+    "after": "h73"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6164",
+    "before": null,
+    "after": "h73"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6165",
+    "before": null,
+    "after": "h73"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6163",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6164",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6165",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6163",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6164",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6165",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6163",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6164",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6165",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6163",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6164",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6165",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6163",
+    "before": null,
+    "after": "Average total startup value: rematching component."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6164",
+    "before": null,
+    "after": "Average VC expected value: rematching component."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6165",
+    "before": null,
+    "after": "Average entrepreneur expected value: rematching component."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2420",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2420",
+    "before": null,
+    "after": "h73"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2420",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2420",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2420",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2420",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2420",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2420",
+    "before": null,
+    "after": "Binary participation-feature prohibition: rematching-only component of the total equilibrium response, calculated by decomposing total change into constrained contract rebalancing and additional rematching. Not a new independently randomized intervention."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2420",
+    "before": null,
+    "after": "Nonlinear structural dynamic search-and-matching equilibrium estimated by efficient-weight GMM; endogenous contract choice and latent agent qualities jointly modeled. Random encounters, functional forms and success-to-value mapping identify the response; this is not linear IV, empirical covariate matching, or identifying FE. Structural quality-distribution parameters and model-fit moments are not separate causal treatments. Component estimand; equilibrium minus fixed-match rebalancing, as expressly reported by authors. Source: IA5 IA PDF7 printed6."
+  }
+]
+```
