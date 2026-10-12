@@ -168474,3 +168474,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:10:25.483486+00:00 — Review CN4YZYPH h2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5019",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5019",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5019",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5019",
+    "before": null,
+    "after": "Reporting-firm MLEVERAGE at t: Appendix p218 defines current liabilities plus long-term debt divided by market value of total assets; Table8 caption instead says total debt. Preserve this numerator discrepancy."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2149",
+    "before": null,
+    "after": "CN4YZYPH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2149",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2149",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2149",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2149",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2149",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2149",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2149",
+    "before": null,
+    "after": "Table8 Panel B: average bonus-peer market leverage affecting reporting-firm market leverage, all/dropped/non-SIC3/high-/low-ability variants; firm/year dummy controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2149",
+    "before": null,
+    "after": "Independent source adjudication retains OLS/regression adjustment under the project taxonomy. Table8 includes firm and year FE (two effective dimensions), but §7.1 motivates own/peer controls, dropped-peer tests and cross-industry peer restrictions—not FE—as the strategies separating learning from similarity/industry effects. The explicit time-constant-unobservables argument on p206 is scoped to §5.2 (Tables3–4), not a paper-wide identification claim. This is a taxonomy judgment, not denial of actual FE or proof of exogeneity; FE remains a defensible interpretive alternative but HDFE is ruled out. All/dropped/non-SIC3/high-/low-ability peer constructions grouped within each policy variable as same-location exposure-construction robustness; do not split each column mechanically. Footnotes25–26 non-SIC2 and high/low-ability × non-SIC3 variants included without invented coefficients. Source: §7.1/Table8B pp212–213; lines1322–1396."
+  }
+]
+```

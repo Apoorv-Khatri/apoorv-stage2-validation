@@ -20224,7 +20224,16 @@
     "L2148": "1",
     "M2148": "n/a",
     "N2148": "Table8 Panel B: average compensation-peer market leverage affecting reporting-firm market leverage, all/dropped/non-SIC3/high-/low-ability variants; firm/year dummy controls.",
-    "O2148": "Independent source adjudication retains OLS/regression adjustment under the project taxonomy. Table8 includes firm and year FE (two effective dimensions), but §7.1 motivates own/peer controls, dropped-peer tests and cross-industry peer restrictions—not FE—as the strategies separating learning from similarity/industry effects. The explicit time-constant-unobservables argument on p206 is scoped to §5.2 (Tables3–4), not a paper-wide identification claim. This is a taxonomy judgment, not denial of actual FE or proof of exogeneity; FE remains a defensible interpretive alternative but HDFE is ruled out. All/dropped/non-SIC3/high-/low-ability peer constructions grouped within each policy variable as same-location exposure-construction robustness; do not split each column mechanically. Footnotes25–26 non-SIC2 and high/low-ability × non-SIC3 variants included without invented coefficients. Source: §7.1/Table8B pp212–213; lines1322–1396."
+    "O2148": "Independent source adjudication retains OLS/regression adjustment under the project taxonomy. Table8 includes firm and year FE (two effective dimensions), but §7.1 motivates own/peer controls, dropped-peer tests and cross-industry peer restrictions—not FE—as the strategies separating learning from similarity/industry effects. The explicit time-constant-unobservables argument on p206 is scoped to §5.2 (Tables3–4), not a paper-wide identification claim. This is a taxonomy judgment, not denial of actual FE or proof of exogeneity; FE remains a defensible interpretive alternative but HDFE is ruled out. All/dropped/non-SIC3/high-/low-ability peer constructions grouped within each policy variable as same-location exposure-construction robustness; do not split each column mechanically. Footnotes25–26 non-SIC2 and high/low-ability × non-SIC3 variants included without invented coefficients. Source: §7.1/Table8B pp212–213; lines1322–1396.",
+    "A2149": "CN4YZYPH",
+    "B2149": "h2",
+    "I2149": "1",
+    "J2149": "OLS",
+    "K2149": "0",
+    "L2149": "0",
+    "M2149": "n/a",
+    "N2149": "Table8 Panel B: average bonus-peer market leverage affecting reporting-firm market leverage, all/dropped/non-SIC3/high-/low-ability variants; firm/year dummy controls.",
+    "O2149": "Independent source adjudication retains OLS/regression adjustment under the project taxonomy. Table8 includes firm and year FE (two effective dimensions), but §7.1 motivates own/peer controls, dropped-peer tests and cross-industry peer restrictions—not FE—as the strategies separating learning from similarity/industry effects. The explicit time-constant-unobservables argument on p206 is scoped to §5.2 (Tables3–4), not a paper-wide identification claim. This is a taxonomy judgment, not denial of actual FE or proof of exogeneity; FE remains a defensible interpretive alternative but HDFE is ruled out. All/dropped/non-SIC3/high-/low-ability peer constructions grouped within each policy variable as same-location exposure-construction robustness; do not split each column mechanically. Footnotes25–26 non-SIC2 and high/low-ability × non-SIC3 variants included without invented coefficients. Source: §7.1/Table8B pp212–213; lines1322–1396."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56128,7 +56137,11 @@
     "A5018": "CN4YZYPH",
     "B5018": "h1",
     "C5018": "hy1",
-    "K5018": "Reporting-firm MLEVERAGE at t: Appendix p218 defines current liabilities plus long-term debt divided by market value of total assets; Table8 caption instead says total debt. Preserve this numerator discrepancy."
+    "K5018": "Reporting-firm MLEVERAGE at t: Appendix p218 defines current liabilities plus long-term debt divided by market value of total assets; Table8 caption instead says total debt. Preserve this numerator discrepancy.",
+    "A5019": "CN4YZYPH",
+    "B5019": "h2",
+    "C5019": "hy1",
+    "K5019": "Reporting-firm MLEVERAGE at t: Appendix p218 defines current liabilities plus long-term debt divided by market value of total assets; Table8 caption instead says total debt. Preserve this numerator discrepancy."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
