@@ -19679,7 +19679,16 @@
     "L2117": "1",
     "M2117": "unknown",
     "N2117": "Monthly issuance/end-of-month reserve-liquidation relation: Bitcoin net flows from Bitfinex reserve wallets during last five days, and analogous exchange placebo wallets.",
-    "O2117": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main establishes implemented substantive reserve channel, Bitfinex outflow t=3.14, other-exchange null. It does not specify estimator or whether focal treatment is continuous issuance, high-issuance indicator, EOM indicator or interaction. Do not invent treatment support or FE. Addresses/construction in missing header. Source: p.1957 lines2004–2037; Table IA.IX. Certainty: estimator/treatment support unresolved."
+    "O2117": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Main establishes implemented substantive reserve channel, Bitfinex outflow t=3.14, other-exchange null. It does not specify estimator or whether focal treatment is continuous issuance, high-issuance indicator, EOM indicator or interaction. Do not invent treatment support or FE. Addresses/construction in missing header. Source: p.1957 lines2004–2037; Table IA.IX. Certainty: estimator/treatment support unresolved.",
+    "A2118": "ACJ72JDD",
+    "B2118": "h25",
+    "I2118": "1",
+    "J2118": "OLS",
+    "K2118": "1",
+    "L2118": "1",
+    "M2118": "n/a",
+    "N2118": "Top-tail 1LSg high-flow indicators and lagged-return interactions in Bitcoin hourly reversal regressions, analogous to TableIV C.",
+    "O2118": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Primary reports reversal driven entirely by1LSg and no relation for other flow groups; top1%1LSg implies52bp reversal per1% price drop. Threshold variants/coefficients unavailable. Binary high-tail-versus-other contrast; not a treatment-SD effect. Primary footnote32 reports null relationships for top hours of other flows. Preserve these as attribution/negative-control evidence; h26/h27 are pending distinct-setting implementation rather than confirmed additional regressions. Source: pp.1945–1947 footnote32 lines1404–1406,1519–1520; Table IA.VII. Certainty: source-grounded."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55064,7 +55073,14 @@
     "A4977": "ACJ72JDD",
     "B4977": "h24",
     "C4977": "hy1",
-    "K4977": "Net Bitcoin outflow from Bitfinex reserve wallets including main cold wallets, last five days of month; main reports significant outflow in large-issuance months; exact normalization pending."
+    "K4977": "Net Bitcoin outflow from Bitfinex reserve wallets including main cold wallets, last five days of month; main reports significant outflow in large-issuance months; exact normalization pending.",
+    "A4978": "ACJ72JDD",
+    "B4978": "h25",
+    "C4978": "hy1",
+    "H4978": "0",
+    "I4978": "unknown",
+    "J4978": "unknown",
+    "K4978": "Hourly Bitcoin return; high-flow indicator modifies response to lagged return. Exact appendix outcome scale pending."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

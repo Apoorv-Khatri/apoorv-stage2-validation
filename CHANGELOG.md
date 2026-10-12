@@ -147834,3 +147834,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:38:45.811623+00:00 — Review ACJ72JDD h25: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4978",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4978",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4978",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4978",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4978",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4978",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4978",
+    "before": null,
+    "after": "Hourly Bitcoin return; high-flow indicator modifies response to lagged return. Exact appendix outcome scale pending."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2118",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2118",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2118",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2118",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2118",
+    "before": null,
+    "after": "Top-tail 1LSg high-flow indicators and lagged-return interactions in Bitcoin hourly reversal regressions, analogous to TableIV C."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2118",
+    "before": null,
+    "after": "Separate Internet Appendix not recovered. Scope and reported qualitative/numeric result below are grounded only in primary cross-reference. Exact coefficients, samples, FE, transformations and complete comparison inventory must be checked against appendix before completion. Primary reports reversal driven entirely by1LSg and no relation for other flow groups; top1%1LSg implies52bp reversal per1% price drop. Threshold variants/coefficients unavailable. Binary high-tail-versus-other contrast; not a treatment-SD effect. Primary footnote32 reports null relationships for top hours of other flows. Preserve these as attribution/negative-control evidence; h26/h27 are pending distinct-setting implementation rather than confirmed additional regressions. Source: pp.1945–1947 footnote32 lines1404–1406,1519–1520; Table IA.VII. Certainty: source-grounded."
+  }
+]
+```
