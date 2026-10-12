@@ -134025,3 +134025,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:40:42.851794+00:00 — Review 9XGMQWX5 s10: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K739",
+    "before": null,
+    "after": "Model zero-mass=0 is incorrect: the untransformed female-hire indicator includes male hires coded0 (Table7 and descriptive hire frequencies). Detailed Human outcome labels may remain blank because treatment is nonbinary."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I256",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J256",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K256",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L256",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M256",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N256",
+    "before": null,
+    "after": "Appendix A7(2)–(4): age-decomposed daughter exposure on female hiring, including both age-specific doses jointly in col4, conditional on total children. Col1 is age-observed all-daughters benchmark (also OnlineA3(2))."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O256",
+    "before": null,
+    "after": "Preserve source conflict: printed row for the claimed older group is “Avg Daughters (≤ 12 Years)” and the other is “< 12 Years”. Prose says over12 vs under12 and interprets the first as teenage exposure. Exact implemented cutoff cannot be certified. Both are continuous average counts, not a binary older/younger treatment contrast. Retain one joint age-decomposition setting instead of double-counting col4. Source: TableA7 p.20; §4.4 p.16."
+  }
+]
+```
