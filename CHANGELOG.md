@@ -144468,3 +144468,2094 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:36:18.658971+00:00 — Review ACJ72JDD h10: source-audited coding and linked comparisons
+
+347 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2210",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2211",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2212",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2213",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2214",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2215",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2216",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2217",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2218",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2219",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2220",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2221",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2222",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2223",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2224",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2225",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2226",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2227",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2228",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2229",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2230",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2231",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2232",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2233",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2234",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2235",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2236",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2237",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2238",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2239",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2210",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2211",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2212",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2213",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2214",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2215",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2216",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2217",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2218",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2219",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2220",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2221",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2222",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2223",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2224",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2225",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2226",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2227",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2228",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2229",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2230",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2231",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2232",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2233",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2234",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2235",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2236",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2237",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2238",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2239",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2210",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2211",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2212",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2213",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2214",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2215",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2216",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2217",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2218",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2219",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2220",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2221",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2222",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2223",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2224",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2225",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2226",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2227",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2228",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2229",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2230",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2231",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2232",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2233",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2234",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2235",
+    "before": null,
+    "after": "hc26"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2236",
+    "before": null,
+    "after": "hc27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2237",
+    "before": null,
+    "after": "hc28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2238",
+    "before": null,
+    "after": "hc29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2239",
+    "before": null,
+    "after": "hc30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2210",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2211",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2212",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2213",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2214",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2217",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2219",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2221",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2222",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2223",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2224",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2225",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2226",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2227",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2228",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2229",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2231",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2232",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2233",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2234",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2235",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2236",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2237",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2238",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2239",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2210",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2211",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2212",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2213",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2214",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2215",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2216",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2217",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2218",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2219",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2220",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2221",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2222",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2223",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2224",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2225",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2226",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2227",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2228",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2229",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2230",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2231",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2232",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2233",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2234",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2235",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2236",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2237",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2238",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2239",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2210",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2211",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2212",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2213",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2214",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2215",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2216",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2217",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2218",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2219",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2220",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2221",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2222",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2223",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2224",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2225",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2226",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2227",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2228",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2229",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2230",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2231",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2232",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2233",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2234",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2235",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2236",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2237",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2238",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2239",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2210",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2211",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2212",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2213",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2214",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2215",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2216",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2217",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2218",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2219",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2220",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2221",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2222",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2223",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2224",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2225",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2226",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2227",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2228",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2229",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2230",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2231",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2232",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2233",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2234",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2235",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2236",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2237",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2238",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2239",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2210",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2211",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2212",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2213",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2214",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2217",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2219",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2221",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2222",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2223",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2224",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2225",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2226",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2227",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2228",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2229",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2231",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2232",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2233",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2234",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2235",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2236",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2237",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2238",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2239",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2210",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2211",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2212",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2213",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2214",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2215",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2216",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2217",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2218",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2219",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2220",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2221",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2222",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2223",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2224",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2225",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2226",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2227",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2228",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2229",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2230",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2231",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2232",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2233",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2234",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2235",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2236",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2237",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2238",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2239",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2210",
+    "before": null,
+    "after": "TableVIII PanelA, column1, lag1 BTC-USD return: coefficient -0.0448 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Tether net outflow from Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2211",
+    "before": null,
+    "after": "TableVIII PanelA, column2, lag1 BTC-USD return: coefficient -0.0472 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Tether net outflow from Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2212",
+    "before": null,
+    "after": "TableVIII PanelA, column3, lag1 BTC-USD return: coefficient -0.0482 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Tether net outflow from Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2213",
+    "before": null,
+    "after": "TableVIII PanelA, column4, lag1 BTC-USD return: coefficient -0.0489 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Tether net outflow from Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2214",
+    "before": null,
+    "after": "TableVIII PanelA, column5, lag1 BTC-USD return: coefficient -0.0490 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Tether net outflow from Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2215",
+    "before": null,
+    "after": "TableVIII PanelA, column2, lag2 BTC-USD return: coefficient -0.0688 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Tether net outflow from Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2216",
+    "before": null,
+    "after": "TableVIII PanelA, column3, lag2 BTC-USD return: coefficient -0.0698 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Tether net outflow from Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2217",
+    "before": null,
+    "after": "TableVIII PanelA, column4, lag2 BTC-USD return: coefficient -0.0715 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Tether net outflow from Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2218",
+    "before": null,
+    "after": "TableVIII PanelA, column5, lag2 BTC-USD return: coefficient -0.0719 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Tether net outflow from Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2219",
+    "before": null,
+    "after": "TableVIII PanelA, column3, lag3 BTC-USD return: coefficient -0.0299 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Tether net outflow from Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2220",
+    "before": null,
+    "after": "TableVIII PanelA, column4, lag3 BTC-USD return: coefficient -0.0316 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Tether net outflow from Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2221",
+    "before": null,
+    "after": "TableVIII PanelA, column5, lag3 BTC-USD return: coefficient -0.0325 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Tether net outflow from Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2222",
+    "before": null,
+    "after": "TableVIII PanelA, column4, lag4 BTC-USD return: coefficient -0.0419 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Tether net outflow from Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2223",
+    "before": null,
+    "after": "TableVIII PanelA, column5, lag4 BTC-USD return: coefficient -0.0426 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Tether net outflow from Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2224",
+    "before": null,
+    "after": "TableVIII PanelA, column5, lag5 BTC-USD return: coefficient -0.0263 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Tether net outflow from Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2225",
+    "before": null,
+    "after": "TableVIII PanelB, column1, lag1 BTC-USD return: coefficient -0.1066 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Bitcoin net inflow to Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2226",
+    "before": null,
+    "after": "TableVIII PanelB, column2, lag1 BTC-USD return: coefficient -0.1093 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Bitcoin net inflow to Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2227",
+    "before": null,
+    "after": "TableVIII PanelB, column3, lag1 BTC-USD return: coefficient -0.1126 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Bitcoin net inflow to Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2228",
+    "before": null,
+    "after": "TableVIII PanelB, column4, lag1 BTC-USD return: coefficient -0.1133 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Bitcoin net inflow to Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2229",
+    "before": null,
+    "after": "TableVIII PanelB, column5, lag1 BTC-USD return: coefficient -0.1134 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Bitcoin net inflow to Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2230",
+    "before": null,
+    "after": "TableVIII PanelB, column2, lag2 BTC-USD return: coefficient -0.0775 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Bitcoin net inflow to Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2231",
+    "before": null,
+    "after": "TableVIII PanelB, column3, lag2 BTC-USD return: coefficient -0.0808 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Bitcoin net inflow to Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2232",
+    "before": null,
+    "after": "TableVIII PanelB, column4, lag2 BTC-USD return: coefficient -0.0825 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Bitcoin net inflow to Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2233",
+    "before": null,
+    "after": "TableVIII PanelB, column5, lag2 BTC-USD return: coefficient -0.0829 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Bitcoin net inflow to Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2234",
+    "before": null,
+    "after": "TableVIII PanelB, column3, lag3 BTC-USD return: coefficient -0.0734 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Bitcoin net inflow to Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2235",
+    "before": null,
+    "after": "TableVIII PanelB, column4, lag3 BTC-USD return: coefficient -0.0750 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Bitcoin net inflow to Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2236",
+    "before": null,
+    "after": "TableVIII PanelB, column5, lag3 BTC-USD return: coefficient -0.0761 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Bitcoin net inflow to Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2237",
+    "before": null,
+    "after": "TableVIII PanelB, column4, lag4 BTC-USD return: coefficient -0.0450 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Bitcoin net inflow to Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2238",
+    "before": null,
+    "after": "TableVIII PanelB, column5, lag4 BTC-USD return: coefficient -0.0460 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Bitcoin net inflow to Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2239",
+    "before": null,
+    "after": "TableVIII PanelB, column5, lag5 BTC-USD return: coefficient -0.0280 flow-outcome SD per one regressor SD. Caption p.1959 explicitly standardizes ALL variables by subtracting mean/dividing SD; outcome is Bitcoin net inflow to Bitfinex. Benchmark is SD of corresponding flow series; exact normalizing dates/sample weights not resolved (caption/prose sample conflict)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2210",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2211",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2212",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2213",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2214",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2215",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2216",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2217",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2218",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2219",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2220",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2221",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2222",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2223",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2224",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2225",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2226",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2227",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2228",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2229",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2230",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2231",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2232",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2233",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2234",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2235",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2236",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2237",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2238",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2239",
+    "before": null,
+    "after": "Qualifies because dependent flow is standardized, not merely because treatment is standardized. Continuous observational regression target/normalization reference population not fully identified. Include insignificant coefficients and all routine lag-order columns as distinct focal estimates."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4959",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4960",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4959",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4960",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4959",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4960",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4959",
+    "before": null,
+    "after": "Net flow of Tether from Bitfinex; standardized by subtracting its mean and dividing by its standard deviation, TableVIII. Nonbinary treatment: detailed labels intentionally blank."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4960",
+    "before": null,
+    "after": "Net flow of Bitcoin to Bitfinex; standardized by subtracting its mean and dividing by its standard deviation, TableVIII. Nonbinary treatment: detailed labels intentionally blank."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2108",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2108",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2108",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2108",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2108",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2108",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2108",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2108",
+    "before": null,
+    "after": "Table VIII A/B: lagged BTC-USD returns (price response) as continuous driver of net Tether outflow and corresponding Bitcoin inflow to Bitfinex. Both dependent flow variables and regressors standardized by subtracting mean and dividing by SD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2108",
+    "before": null,
+    "after": "Retained as substantive tests of demand/supply/arbitrage mechanisms, including null effects, under H1A/H1B and explicit driver interpretation; not pure prediction. No FE. Lag orders1–5 are routine specification variants, not new settings, but each printed focal coefficient is a distinct outcome-SD comparison. Caption dates Apr1,2017–Mar1,2018 conflict with prose full period Mar1,2017–Mar31,2018 and N=8750; do not silently resolve normalization period. Outcome-SD benchmark qualifies independently of treatment standardization. Alternative-price-proxy and account robustness are explicitly reported on p.1958; do not infer the complete auxiliary BTC-coefficient grid h29/h31/h33/h35 without the appendix. Source: Table VIII pp.1959–1960; §IV.B.2 pp.1957–1958; lines2026–2193. Certainty: source-grounded."
+  }
+]
+```
