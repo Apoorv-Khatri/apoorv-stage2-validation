@@ -22954,7 +22954,16 @@
     "L2415": "0",
     "M2415": "n/a",
     "N2415": "Binary prohibition of VC board seats features versus unrestricted market: full equilibrium rebalancing AND endogenous rematching. Changes average deal values, deal frequencies and aggregate market PV; not a mechanical deletion holding all other terms fixed.",
-    "O2415": "Nonlinear structural dynamic search-and-matching equilibrium estimated by efficient-weight GMM; endogenous contract choice and latent agent qualities jointly modeled. Random encounters, functional forms and success-to-value mapping identify the response; this is not linear IV, empirical covariate matching, or identifying FE. Structural quality-distribution parameters and model-fit moments are not separate causal treatments. Source: IA5 IA PDF7–8 printed6–7; TableIA2 IA PDF10 printed9."
+    "O2415": "Nonlinear structural dynamic search-and-matching equilibrium estimated by efficient-weight GMM; endogenous contract choice and latent agent qualities jointly modeled. Random encounters, functional forms and success-to-value mapping identify the response; this is not linear IV, empirical covariate matching, or identifying FE. Structural quality-distribution parameters and model-fit moments are not separate causal treatments. Source: IA5 IA PDF7–8 printed6–7; TableIA2 IA PDF10 printed9.",
+    "A2416": "F4QBG3CB",
+    "B2416": "h69",
+    "I2416": "1",
+    "J2416": "Other",
+    "K2416": "1",
+    "L2416": "0",
+    "M2416": "n/a",
+    "N2416": "Binary security-feature valuation contrast: convertible preferred with1x liquidation preference versus pure common equity.",
+    "O2416": "Calibrated Monte Carlo valuation of contract cash-flow claims:1million GBM paths, initial firm value1,volatility90%,risk-free2%, bankruptcy below.15,initial investment.25,conversion14.7%,no later rounds. Holding asset process fixed, change security feature; author interprets incremental payoff values. Other, not causal effect of a forecast on firm value. Logistic endogenous exit baseline; exponential mean5year exit robustness grouped. Parameter values are assumptions, not estimated causal coefficients. Source: IA4/TableIA1 IA PDF6 printed5."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -65003,7 +65012,14 @@
     "H6158": "0",
     "I6158": "unknown",
     "J6158": "none",
-    "K6158": "Aggregate entrepreneur present value."
+    "K6158": "Aggregate entrepreneur present value.",
+    "A6159": "F4QBG3CB",
+    "B6159": "h69",
+    "C6159": "hy1",
+    "H6159": "0",
+    "I6159": "0",
+    "J6159": "none",
+    "K6159": "Time-zero value of investor security/claim for the same underlying startup asset process (initial total firm value normalized1). Not total startup value."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -111644,7 +111660,18 @@
     "O4253": "1",
     "P4253": "n/a",
     "Q4253": "IA5 IA PDF7–8 printed6–7; TableIA2 IA PDF10 printed9: Removing VC board seats, full equilibrium: aggregate market PV changes 1.66% relative to unrestricted aggregate PV*(All).",
-    "R4253": "Investor/entrepreneur PV components in adjacent columns use total-market denominator, not their own outcomes; no extra comparisons from those percentages."
+    "R4253": "Investor/entrepreneur PV components in adjacent columns use total-market denominator, not their own outcomes; no extra comparisons from those percentages.",
+    "A4254": "F4QBG3CB",
+    "B4254": "h69",
+    "C4254": "hc1",
+    "K4254": "1",
+    "L4254": "hy1",
+    "M4254": "other_level",
+    "N4254": "1",
+    "O4254": "0",
+    "P4254": "n/a",
+    "Q4254": "IA4/TableIA1 IA PDF6 printed5: Logistic-exit calibration: convertible preferred value0.243 versus pure-common value0.147, explicitly described as an increase relative to common stock. The additional claim is about almost10% of firm value, but that cross-outcome normalization is not divided by common-claim value.",
+    "R4254": "Same investor-claim counterfactual level qualifies; 71% of the structural valuation gap is an effect-decomposition ratio, not an outcome benchmark."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
