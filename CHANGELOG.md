@@ -128505,3 +128505,186 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:34:08.048480+00:00 — Review 9SK5H9MK h14: source-audited coding and linked comparisons
+
+29 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4815",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4816",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4817",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4818",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4819",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4815",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4816",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4817",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4818",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4819",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4815",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4816",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4817",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4818",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4819",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4815",
+    "before": null,
+    "after": "aggregate: net job change/2000 nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4816",
+    "before": null,
+    "after": "0-1 years: net job change/2000 nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4817",
+    "before": null,
+    "after": "2-3 years: net job change/2000 nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4818",
+    "before": null,
+    "after": "4-5 years: net job change/2000 nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4819",
+    "before": null,
+    "after": "6+ years: net job change/2000 nontradable employment"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2041",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2041",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2041",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2041",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2041",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2041",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2041",
+    "before": null,
+    "after": "IAII B: employment2000-weighted regressions N2044; IV continuous two-year regional income-growth response; net job change/2000 nontradable employment. Aggregate/four age bins. Baseline controls/year dummies unless FE specification stated; region-clustered SE; nonoverlapping2001/03/05/07 unless stated otherwise."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2041",
+    "before": null,
+    "after": "Endogenous receipt/dose is continuous income growth, not the instrument or a subgroup indicator. A single scalar shift-share sum uses lagged four-digit manufacturing employment shares times national industry employment growth excluding the focal region; do not count component industries as separate excluded instruments. Exclusion requires manufacturing shocks to affect nontradable employment only through income (pp.1011-1014, eqs.2-3). Source: Author Appendix Table IAII Panel B, printed p.6/appendix PDF7; cols3,5,7,9,11. Source link: https://songma.org/files/amr_jf_app_final.pdf."
+  }
+]
+```
