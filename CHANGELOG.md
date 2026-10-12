@@ -148506,3 +148506,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:58:58.929344+00:00 — Review ANHCKZYX s2: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H782",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H783",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H784",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I782",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I783",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I784",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J782",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J783",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J784",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K782",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s2 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K783",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s2 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K784",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s2 is an excluded return-predictability, performance/inference or risk-pricing analysis; preserve original model record."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I274",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O274",
+    "before": null,
+    "after": "Outside causal scope: Bayesianized p-values and break-even prior odds are transformations of inferential evidence, not a separate treatment-effect estimator. Even the original description concedes this. Source: §2.3 equations(1)–(3), Table 3 pp.1134–1136; lines426–546. Certainty: source-grounded causal-gate recommendation."
+  }
+]
+```
