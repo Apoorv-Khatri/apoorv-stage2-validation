@@ -18650,7 +18650,16 @@
     "L2031": "0",
     "M2031": "n/a",
     "N2031": "AppendixA2: staggered city weather-derivative introductions/discontinuations change firms’ hedging opportunity and its moderation of temperature–earnings sensitivity. Establishment eligibility is within 100 miles of an active contract station; firm treatment is sales-weighted share of eligible establishments, entered in levels and interacted with temperature polynomials in Eq.(2).",
-    "O2031": "Authors explicitly implement difference-in-difference using the CME staggered natural experiment (p.38). Conventional linear interaction design; no named heterogeneity-robust estimator. Firm/time FE inherited but DiD has priority. Firm-level exposure is continuous share, NOT binary establishment indicator and NOT actual hedging receipt. No excluded instrument or 2SLS: IV_type=n/a. Common evolution conditional on FE and absence of correlated changes in hedge eligibility underpin interpretation; do not claim actual derivatives uptake is observed. Headline statements: over81% unchanged; right/left 0.18/2.00 bp relative to mean earnings; selected four 6.93 bp of mean earnings. Source inconsistencies (notably electric-utilities Q2) are documented below. Publisher Internet Appendix Table IA1 caption (printed p.21/PDF22) specifies joint significance tests of moderator × Chebyshev interaction terms, with the moderator also included in levels. These are not Wald/local-Wald treatment-effect estimators, and the printed baseline coefficient block is not a table of each augmented specification’s full coefficients. Several reported Wald values are negative with p=1.000; retain the source inconsistency without treating those entries as valid conventional nonnegative Wald statistics or repairing them. Source: AppendixA2 pp.38,40; TableIA1 Wald(hedging), printed pp.21–35.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+    "O2031": "Authors explicitly implement difference-in-difference using the CME staggered natural experiment (p.38). Conventional linear interaction design; no named heterogeneity-robust estimator. Firm/time FE inherited but DiD has priority. Firm-level exposure is continuous share, NOT binary establishment indicator and NOT actual hedging receipt. No excluded instrument or 2SLS: IV_type=n/a. Common evolution conditional on FE and absence of correlated changes in hedge eligibility underpin interpretation; do not claim actual derivatives uptake is observed. Headline statements: over81% unchanged; right/left 0.18/2.00 bp relative to mean earnings; selected four 6.93 bp of mean earnings. Source inconsistencies (notably electric-utilities Q2) are documented below. Publisher Internet Appendix Table IA1 caption (printed p.21/PDF22) specifies joint significance tests of moderator × Chebyshev interaction terms, with the moderator also included in levels. These are not Wald/local-Wald treatment-effect estimators, and the printed baseline coefficient block is not a table of each augmented specification’s full coefficients. Several reported Wald values are negative with p=1.000; retain the source inconsistency without treating those entries as valid conventional nonnegative Wald statistics or repairing them. Source: AppendixA2 pp.38,40; TableIA1 Wald(hedging), printed pp.21–35.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002.",
+    "A2032": "96H6UQNF",
+    "B2032": "h11",
+    "I2032": "1",
+    "J2032": "FE",
+    "K2032": "0",
+    "L2032": "0",
+    "M2032": "n/a",
+    "N2032": "AppendixA3: quarterly continuous temperature effects on EPS, heterogeneous by northern versus southern firm operations. Sales-weighted annual geographic centroid and industry-median latitude define a binary moderator interacted with the temperature polynomial.",
+    "O2032": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Binary location moderator does not make focal temperature dose binary; not RD at median latitude. Printed change in right/left tail impacts 2.64/13.75 bp, selected four industries about22 bp. No explicit outcome-mean/SD comparison. Geography/adaptation interpretation, not identified effect of moving firm north. Publisher Internet Appendix Table IA1 caption (printed p.21/PDF22) specifies joint significance tests of moderator × Chebyshev interaction terms, with the moderator also included in levels. These are not Wald/local-Wald treatment-effect estimators, and the printed baseline coefficient block is not a table of each augmented specification’s full coefficients. Several reported Wald values are negative with p=1.000; retain the source inconsistency without treating those entries as valid conventional nonnegative Wald statistics or repairing them. Source: AppendixA3 pp.40,42; TableIA1 Wald(north/south).. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52721,7 +52730,14 @@
     "H4774": "0",
     "I4774": "unknown",
     "J4774": "log1p",
-    "K4774": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established."
+    "K4774": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established.",
+    "A4775": "96H6UQNF",
+    "B4775": "h11",
+    "C4775": "hy1",
+    "H4775": "0",
+    "I4775": "unknown",
+    "J4775": "log1p",
+    "K4775": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
