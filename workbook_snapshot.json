@@ -19263,7 +19263,16 @@
     "L2081": "0",
     "M2081": "single continuous",
     "N2081": "OnlineA8(3–4): Female Hired Ratio on excess fund IRR for funds targeting only the US, 2SLS with average daughters of all partners as sole excluded instrument.",
-    "O2081": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. One year dummy set, included children and firm controls. Median fund subtraction defines outcome; not a qualifying standalone effect-to-outcome-level comparison. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Author forthcoming manuscript Table Online A8, printed/PDF p.52; final article §4.4 p.16."
+    "O2081": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. One year dummy set, included children and firm controls. Median fund subtraction defines outcome; not a qualifying standalone effect-to-outcome-level comparison. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Author forthcoming manuscript Table Online A8, printed/PDF p.52; final article §4.4 p.16.",
+    "A2082": "9XGMQWX5",
+    "B2082": "h26",
+    "I2082": "1",
+    "J2082": "IV",
+    "K2082": "0",
+    "L2082": "0",
+    "M2082": "single continuous",
+    "N2082": "OnlineA8(5–6): Female Hired Ratio on excess fund IRR for funds targeting only the US, 2SLS with average daughters of senior partners as sole excluded instrument.",
+    "O2082": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. One year dummy set, included children and firm controls. Median fund subtraction defines outcome; not a qualifying standalone effect-to-outcome-level comparison. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Author forthcoming manuscript Table Online A8, printed/PDF p.52; final article §4.4 p.16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54220,7 +54229,11 @@
     "A4921": "9XGMQWX5",
     "B4921": "h25",
     "C4921": "hy1",
-    "K4921": "Fund excess IRR in decimal return units: net IRR minus the Preqin median fund benchmark. Table captions specify region and year; p.6 also says investment strategy. Not raw net IRR and not an outcome normalization by an outcome mean."
+    "K4921": "Fund excess IRR in decimal return units: net IRR minus the Preqin median fund benchmark. Table captions specify region and year; p.6 also says investment strategy. Not raw net IRR and not an outcome normalization by an outcome mean.",
+    "A4922": "9XGMQWX5",
+    "B4922": "h26",
+    "C4922": "hy1",
+    "K4922": "Fund excess IRR in decimal return units: net IRR minus the Preqin median fund benchmark. Table captions specify region and year; p.6 also says investment strategy. Not raw net IRR and not an outcome normalization by an outcome mean."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
