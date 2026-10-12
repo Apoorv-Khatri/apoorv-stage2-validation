@@ -20807,7 +20807,16 @@
     "L2200": "1",
     "M2200": "n/a",
     "N2200": "§3.4.4 alternative binary close-fund definitions: CLOSE based on distance less than 50,150,200 or250 miles, each versus its complementary far group, interacted with POST in baseline portfolio-weight DiD.",
-    "O2200": "Threshold alternatives grouped as routine cutoffs, not a continuously estimated distance dose. Magnitude declines with distance, directly supporting abstract/conclusion distance-decay claim, so main=1. Appendix unavailable; no numerical effects invented. Placebo900–1000-mile definition in §3.4.5 is diagnostic only and excluded. Source: pp1179–1180 §3.4.4; L2159–2188."
+    "O2200": "Threshold alternatives grouped as routine cutoffs, not a continuously estimated distance dose. Magnitude declines with distance, directly supporting abstract/conclusion distance-decay claim, so main=1. Appendix unavailable; no numerical effects invented. Placebo900–1000-mile definition in §3.4.5 is diagnostic only and excluded. Source: pp1179–1180 §3.4.4; L2159–2188.",
+    "A2201": "DPFRSKRY",
+    "B2201": "h7",
+    "I2201": "1",
+    "J2201": "DiD_conventional",
+    "K2201": "1",
+    "L2201": "0",
+    "M2201": "n/a",
+    "N2201": "§3.4.9 home-bias robustness: binary close versus far fund exposure × POST effect on natural log of total dollar value of a disaster-zone stock held by the fund.",
+    "O2201": "Implemented baseline tests with changed dependent variable. Authors infer close funds sell a greater fraction of predisaster holdings. Log-percent interpretation and hypothetical two funds each selling half are not effect-to-outcome benchmarks. Treatment binary; log-zero handling unspecified; raw holdings zeros and mass at log value zero not established. Source: pp1180–1181 §3.4.9; L2215–2251."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -57116,7 +57125,14 @@
     "H5091": "0",
     "I5091": "unknown",
     "J5091": "none",
-    "K5091": "Portfolio weight of disaster-zone stock s in mutual fund m at quarter end, percent of fund portfolio. No reported evidence establishes exact-zero mass in the estimation sample."
+    "K5091": "Portfolio weight of disaster-zone stock s in mutual fund m at quarter end, percent of fund portfolio. No reported evidence establishes exact-zero mass in the estimation sample.",
+    "A5092": "DPFRSKRY",
+    "B5092": "h7",
+    "C5092": "hy1",
+    "H5092": "0",
+    "I5092": "unknown",
+    "J5092": "log",
+    "K5092": "Natural logarithm of total dollar value of shares of a disaster-zone stock held by a fund (stock-fund-quarter holding value); not log1p, not the log of portfolio weight. No reported evidence establishes exact-zero mass in the estimation sample."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -175818,3 +175818,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:49:22.855100+00:00 — Review DPFRSKRY h7: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5092",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5092",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5092",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5092",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5092",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5092",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5092",
+    "before": null,
+    "after": "Natural logarithm of total dollar value of shares of a disaster-zone stock held by a fund (stock-fund-quarter holding value); not log1p, not the log of portfolio weight. No reported evidence establishes exact-zero mass in the estimation sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2201",
+    "before": null,
+    "after": "DPFRSKRY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2201",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2201",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2201",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2201",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2201",
+    "before": null,
+    "after": "§3.4.9 home-bias robustness: binary close versus far fund exposure × POST effect on natural log of total dollar value of a disaster-zone stock held by the fund."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2201",
+    "before": null,
+    "after": "Implemented baseline tests with changed dependent variable. Authors infer close funds sell a greater fraction of predisaster holdings. Log-percent interpretation and hypothetical two funds each selling half are not effect-to-outcome benchmarks. Treatment binary; log-zero handling unspecified; raw holdings zeros and mass at log value zero not established. Source: pp1180–1181 §3.4.9; L2215–2251."
+  }
+]
+```
