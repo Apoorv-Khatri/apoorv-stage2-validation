@@ -121755,3 +121755,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:22:13.122418+00:00 — Review 95E3CUNG s6: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H613",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I613",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J613",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K613",
+    "before": null,
+    "after": "Table8 monthly value-weighted US-dollar simple portfolio return in excess of monthly US Treasury bill rate; reported mean excess returns and three-factor alphas are estimates on this same percent-per-month scale, not separate binary outcomes. No evidence establishing a mass at zero."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E25",
+    "before": null,
+    "after": "DONE — Available-source review: complete supplied article and included theoretical Appendix A reviewed, including all original rows and main-article omissions. Retained author-interpreted trade-credit transmission with observational caveats; added four no-identifying-FE OLS settings; excluded permutation diagnostic and annualization/effect-to-effect comparisons. Separate Online Appendix unavailable: substantive A2–A9 candidates, including alternative net trade credit and NBER conditioning, remain pending source verification. This is NOT whole-package completion or exhaustive supplement coverage. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J220",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L220",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M220",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N220",
+    "before": null,
+    "after": "Table8: value-weighted customer-return-quintile × trade-credit-quintile portfolios, reported endpoint low-minus-high trade-credit and top-minus-bottom customer-return contrasts, and cross-group long-short contrasts. Mean excess returns and linear three-factor time-series alphas (world market, country momentum, global HML) are estimated on the same monthly return scale. Retain as a substantive risk-adjustment/nonlinearity test under the authors’ explicitly interpreted trade-credit transmission mechanism, not a causal effect of strategy adoption."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O220",
+    "before": null,
+    "after": "Correct Other to OLS: simple mean contrasts and linear factor regressions are not nonlinear effect estimators. Factor controls are not fixed effects, and market-cap weights are portfolio weights, not treatment balancing/matching weights. Binary refers to reported endpoint contrasts. The original summary reverses the Table8 spread: 1.192 and1.035 are LOW minus HIGH trade credit, not high minus low. Alphas are adjusted estimates of the same return outcome, not separate dependent variables requiring fabricated outcome IDs. Observational, model-motivated mechanism test. Customer country indices proxy unobserved bilateral customer-firm links; trade credit, foreign sales, volume and stress states can be endogenous. Controls and country/industry FE do not prove exogeneity. Retention records the authors’ interpretation, not endorsement of their identification. Source: §4.3, pp.609–610; Table8 p.610/PDF19; visual page19.png.. Certainty: high on method/values; causal retention is the source’s mechanism interpretation."
+  }
+]
+```
