@@ -162564,3 +162564,264 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:20:06.647146+00:00 — Review BHYG5F75 s2: source-audited coding and linked comparisons
+
+42 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2430",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2430",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2430",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K155",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K156",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K157",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2430",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L156",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2430",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M156",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2430",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N156",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2430",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O156",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2430",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P156",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2430",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q156",
+    "before": null,
+    "after": "Table3B col4 −5.4755pp change in retained share. p3087 compares the5.5–8.8pp range to13%–20% of average retained-share LEVEL in sample including sole-led loans. Exact benchmark not printed in comparison; do not substitute Table1 36.52%. Other columns separately recorded."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2430",
+    "before": null,
+    "after": "Table3B col3 and p3087 lines798–810: focal −5.4555pp retained-share change; benchmark average retained-share level including sole-led loans, exact value unstated; prose range5.5–8.8pp is13%–20%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R155",
+    "before": null,
+    "after": "Comparison belongs to Table3 column1 in h2, not retained HDFE s2. Added with correct estimator/outcome link."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R156",
+    "before": null,
+    "after": "Change outcome versus level benchmark, not mean of change; alignment0. Eligibility retained as authors explicitly benchmark effect on underlying share against its level. Range division is author-reported; no per-column ratio invented. Table1 36.52% does not reproduce stated13%–20%. Alignment0 uses the literal reported change-outcome versus level-benchmark convention, not a dimensional-unit incompatibility. Under a future-level-effect interpretation, untreated population and conditioning remain unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R157",
+    "before": null,
+    "after": "Comparison belongs to Table3 column1 in h2, not retained HDFE s2. Added with correct estimator/outcome link."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2430",
+    "before": null,
+    "after": "Explicit author comparison qualifies on underlying outcome, but estimated dependent variable is next-minus-current change while benchmark is level; alignment0. Do not relabel benchmark as mean change. Broad range described across columns; per-column normalized percentage not given. Rounded5.5 matches both cols3 and4; preserve both distinct coefficients. Independent audit of range scope recommended. Alignment0 uses the literal reported change-outcome versus level-benchmark convention, not a dimensional-unit incompatibility. Under a future-level-effect interpretation, untreated population and conditioning remain unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H811",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H812",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H813",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I811",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I812",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I813",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J811",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J812",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J813",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K811",
+    "before": null,
+    "after": "Outcome is next-minus-current number of lenders. Zero mass for these changes is not tabulated; level zeros in Table1 do not establish change zeros in each regression sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K812",
+    "before": null,
+    "after": "Outcome is next-minus-current lead arranger retained share (percentage points). Zero mass for these changes is not tabulated; level zeros in Table1 do not establish change zeros in each regression sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K813",
+    "before": null,
+    "after": "Outcome is next-minus-current number of nonbank institutions. Zero mass for these changes is not tabulated; level zeros in Table1 do not establish change zeros in each regression sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I287",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J287",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K287",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L287",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M287",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N287",
+    "before": null,
+    "after": "Voluntary disclosure (at least one of seven financial metrics, subject to financial-statement reference and covenant exclusion rules) versus no disclosure; Table3 panelsA–C cols3–4 pp3086–3087 lines713–823. Retain only columns3–4 with borrower, lender and year FE; columns1–2 are separate standard-FE setting h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O287",
+    "before": null,
+    "after": "Year FE explicitly remove time-varying economic conditions (§2 and Tables2–4 captions); borrower FE remove fixed unobserved quality; lender FE remove persistent lender differences. Count year, borrower, lender as three separate effective dimensions. No DiD design: changes in the dependent variable alone do not imply DiD. Source: Table3 panelsA–C cols3–4 pp3086–3087 lines713–823."
+  }
+]
+```
