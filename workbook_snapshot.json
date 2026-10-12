@@ -19445,7 +19445,16 @@
     "L2097": "0",
     "M2097": "single continuous",
     "N2097": "Untabulated multiplicative alternative to Eq10: regress event-period nonsynchronicity divided by typical-period nonsynchronicity on continuous instrumented AT proxies, using same lagged log-price IV.",
-    "O2097": "Source explicitly says replacing the difference with a ratio delivers same qualitative relationships and similar significance. No coefficient or benchmark reported. Distinct outcome/estimand at footnote result location; no invented values. Source: Footnote28 p2214; Eq10/Table7 context pp2212–2213. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
+    "O2097": "Source explicitly says replacing the difference with a ratio delivers same qualitative relationships and similar significance. No coefficient or benchmark reported. Distinct outcome/estimand at footnote result location; no invented values. Source: Footnote28 p2214; Eq10/Table7 context pp2212–2213. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities.",
+    "A2098": "AAT34438",
+    "B2098": "h11",
+    "I2098": "1",
+    "J2098": "Other",
+    "K2098": "0",
+    "L2098": "0",
+    "M2098": "n/a",
+    "N2098": "Full-sample median regression robustness for continuous AT-proxy effects on the earnings-announcement price jump ratio. Section3.2 p2194 explicitly reports estimates on the full sample of stock-quarter events as virtually identical to the restricted-sample coefficients; detailed results are assigned to the Online Appendix. Do not apply the baseline denominator cutoff to this full-sample robustness.",
+    "O2098": "Nonlinear conditional-median effect estimator belongs in Other even though the treatment remains continuous. Exact regressor/instrument specification, detailed table location, and coefficients require the unavailable supplement. No numerical effect or linked outcome benchmark is reported in the available sentence. This minimum setting may require subdivision when the supplement is obtained. Source: Section3.2, p.2194; explicit main-text report of implemented full-sample robustness; separate Online Appendix unavailable. Certainty: scope-limited; exact supplementary implementation unavailable."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54582,7 +54591,11 @@
     "H4939": "0",
     "I4939": "unknown",
     "J4939": "other",
-    "K4939": "Ratio nonsynch(event)/nonsynch(average), where each nonsynch=1−R². Footnote28 p2214; typical window inherits the unresolved prose/caption conflict. Not a log outcome."
+    "K4939": "Ratio nonsynch(event)/nonsynch(average), where each nonsynch=1−R². Footnote28 p2214; typical window inherits the unresolved prose/caption conflict. Not a log outcome.",
+    "A4940": "AAT34438",
+    "B4940": "h11",
+    "C4940": "hy1",
+    "K4940": "Earnings-announcement price jump ratio CAR(T−1,T+2)/CAR(T−21,T+2), estimated on the full stock-quarter-event sample rather than the restricted denominator-cutoff sample. Ratio of abnormal log-return sums, not the log of the ratio; exact special handling of zero denominators is not established by the main-text robustness sentence."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

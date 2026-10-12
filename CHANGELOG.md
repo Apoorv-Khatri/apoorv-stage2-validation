@@ -139536,3 +139536,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:52:21.559761+00:00 — Review AAT34438 h11: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4940",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4940",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4940",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4940",
+    "before": null,
+    "after": "Earnings-announcement price jump ratio CAR(T−1,T+2)/CAR(T−21,T+2), estimated on the full stock-quarter-event sample rather than the restricted denominator-cutoff sample. Ratio of abnormal log-return sums, not the log of the ratio; exact special handling of zero denominators is not established by the main-text robustness sentence."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2098",
+    "before": null,
+    "after": "AAT34438"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2098",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2098",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2098",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2098",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2098",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2098",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2098",
+    "before": null,
+    "after": "Full-sample median regression robustness for continuous AT-proxy effects on the earnings-announcement price jump ratio. Section3.2 p2194 explicitly reports estimates on the full sample of stock-quarter events as virtually identical to the restricted-sample coefficients; detailed results are assigned to the Online Appendix. Do not apply the baseline denominator cutoff to this full-sample robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2098",
+    "before": null,
+    "after": "Nonlinear conditional-median effect estimator belongs in Other even though the treatment remains continuous. Exact regressor/instrument specification, detailed table location, and coefficients require the unavailable supplement. No numerical effect or linked outcome benchmark is reported in the available sentence. This minimum setting may require subdivision when the supplement is obtained. Source: Section3.2, p.2194; explicit main-text report of implemented full-sample robustness; separate Online Appendix unavailable. Certainty: scope-limited; exact supplementary implementation unavailable."
+  }
+]
+```
