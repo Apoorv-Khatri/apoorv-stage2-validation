@@ -328581,3 +328581,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:07:49.982911+00:00 — Review EYWPN7YT h9: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5927",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5927",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5927",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5927",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5927",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5927",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5927",
+    "before": null,
+    "after": "Analyst-behavior outcomes in the first-four-wave robustness family; exact IA.6 outcome grid not enumerated in accessible main text. Do not infer all baseline outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2338",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2338",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2338",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2338",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2338",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2338",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2338",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2338",
+    "before": null,
+    "after": "EDGAR online-access effects restricted to waves1–4 (single January17,1994 treatment date), robustness against anticipation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2338",
+    "before": null,
+    "after": "Internet Appendix not retrieved. Main-text sentence establishes an implemented substantive analysis, but exact appendix specification, coefficient grid and additional outcomes remain unverified; do not infer unseen cells. Main says results robust using only first four waves, without enumerating appendix outcomes. Single-cohort conventional DD; no inferred modern estimator from baseline stacking alone. Source: §2.3 PDF28, referenced IA.6."
+  }
+]
+```
