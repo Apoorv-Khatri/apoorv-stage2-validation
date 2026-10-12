@@ -167892,3 +167892,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:08:46.833756+00:00 — Review CN4YZYPH s14: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H871",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I871",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J871",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K871",
+    "before": null,
+    "after": "Spurious under narrowed Panel-A setting; distinct peer-leverage treatment/outcome represented at h2/hy1. Original model fields preserved. Appendix current-liabilities numerator differs from Table8 total-debt caption."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I323",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J323",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K323",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L323",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M323",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N323",
+    "before": null,
+    "after": "Table8 Panel A only: average bonus-peer CAPEX affecting reporting-firm CAPEX. All/dropped/non-SIC3/high-/low-ability peer definitions retained as same-location peer-construction variants. Panel B has a different treatment (peer leverage) and is split into a new setting. Actual regression contains firm and year FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O323",
+    "before": null,
+    "after": "Independent source adjudication retains OLS/regression adjustment under the project taxonomy. Table8 includes firm and year FE (two effective dimensions), but §7.1 motivates own/peer controls, dropped-peer tests and cross-industry peer restrictions—not FE—as the strategies separating learning from similarity/industry effects. The explicit time-constant-unobservables argument on p206 is scoped to §5.2 (Tables3–4), not a paper-wide identification claim. This is a taxonomy judgment, not denial of actual FE or proof of exogeneity; FE remains a defensible interpretive alternative but HDFE is ruled out. All/dropped/non-SIC3/high-/low-ability peer constructions grouped within each policy variable as same-location exposure-construction robustness; do not split each column mechanically. Footnotes25–26 non-SIC2 and high/low-ability × non-SIC3 variants included without invented coefficients. Source: §7.1/Table8 Panel A cols6–10 pp211–213."
+  }
+]
+```
