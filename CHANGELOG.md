@@ -172335,3 +172335,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:18:42.718044+00:00 — Review DFSQYG6H h3: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5063",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5063",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5063",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5063",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5063",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5063",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5063",
+    "before": null,
+    "after": "Change in cash ratio (CHE/AT) from end-2000 to end-2002, bias-corrected matched treated/control contrast; first difference (other)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2172",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2172",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2172",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2172",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2172",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2172",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2172",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2172",
+    "before": null,
+    "after": "Internet Appendix TableA3: decimalization matched DiD ATT in change in cash ratio, broader pre-event matching set including firm size and other controls; displayed estimate0.028 in December2020 appendix."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2172",
+    "before": null,
+    "after": "Implemented family established by final p913 footnote9; supplementary details from author accepted-version appendix, not verified final supplement. Bias-corrected matched DiD remains conventional DiD. Pretrend deterioration explicitly acknowledged in final footnote; no new diagnostic setting. Source: Final p913 fn9; author-forthcoming.txt lines2256–2278; IA p5/PDF66."
+  }
+]
+```

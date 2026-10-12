@@ -20482,7 +20482,16 @@
     "L2171": "0",
     "M2171": "n/a",
     "N2171": "Table12 PanelB: Tobit-derived average marginal effects of continuous ILLIQ_res and Log_resprd_res on conditional repurchase ratio and probability of positive repurchase, evaluated at observed covariates within low/high-MTB samples.",
-    "O2171": "Separate reported estimands from latent Tobit coefficients in s6. ILLIQ_res rows are ×100: printed conditional effects −0.007/−0.002 and probability effects −0.105/−0.049. Spread conditional effects −0.004/−0.004 and probability effects −0.072/−0.076 unscaled. Cross-subsample 3.5-times/two-times statements compare effect estimates, not outcome levels. Source: §4.2/Table12B pp920–921; main.txt lines1176–1249."
+    "O2171": "Separate reported estimands from latent Tobit coefficients in s6. ILLIQ_res rows are ×100: printed conditional effects −0.007/−0.002 and probability effects −0.105/−0.049. Spread conditional effects −0.004/−0.004 and probability effects −0.072/−0.076 unscaled. Cross-subsample 3.5-times/two-times statements compare effect estimates, not outcome levels. Source: §4.2/Table12B pp920–921; main.txt lines1176–1249.",
+    "A2172": "DFSQYG6H",
+    "B2172": "h3",
+    "I2172": "1",
+    "J2172": "DiD_conventional",
+    "K2172": "1",
+    "L2172": "0",
+    "M2172": "n/a",
+    "N2172": "Internet Appendix TableA3: decimalization matched DiD ATT in change in cash ratio, broader pre-event matching set including firm size and other controls; displayed estimate0.028 in December2020 appendix.",
+    "O2172": "Implemented family established by final p913 footnote9; supplementary details from author accepted-version appendix, not verified final supplement. Bias-corrected matched DiD remains conventional DiD. Pretrend deterioration explicitly acknowledged in final footnote; no new diagnostic setting. Source: Final p913 fn9; author-forthcoming.txt lines2256–2278; IA p5/PDF66."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56602,7 +56611,14 @@
     "A5062": "DFSQYG6H",
     "B5062": "h2",
     "C5062": "hy2",
-    "K5062": "Any-positive-repurchase indicator 1{Rep>0}. Panel12B reports the Tobit-implied average derivative of Pr(Rep>0 | X), the probability/mean of this binary event; the marginal effect is not an outcome or a separately fitted probit. Treatment remains continuous; detailed human outcome labels are optional."
+    "K5062": "Any-positive-repurchase indicator 1{Rep>0}. Panel12B reports the Tobit-implied average derivative of Pr(Rep>0 | X), the probability/mean of this binary event; the marginal effect is not an outcome or a separately fitted probit. Treatment remains continuous; detailed human outcome labels are optional.",
+    "A5063": "DFSQYG6H",
+    "B5063": "h3",
+    "C5063": "hy1",
+    "H5063": "0",
+    "I5063": "unknown",
+    "J5063": "other",
+    "K5063": "Change in cash ratio (CHE/AT) from end-2000 to end-2002, bias-corrected matched treated/control contrast; first difference (other)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
