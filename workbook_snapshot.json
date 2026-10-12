@@ -22235,7 +22235,16 @@
     "L2339": "0",
     "M2339": "n/a",
     "N2339": "Within-analyst comparison of forecasts for stocks joining EDGAR and same analyst future-treated stocks: analyst first treated when at least one covered stock joins. Optimism/inaccuracy improve more in joining stocks; substantial robustness to spillovers.",
-    "O2339": "Internet Appendix not retrieved. Main-text sentence establishes an implemented substantive analysis, but exact appendix specification, coefficient grid and additional outcomes remain unverified; do not infer unseen cells. Main explicitly describes DD redesign holding analyst fixed; no named heterogeneity-robust implementation established for analyst-first-exposure timing. Short-term optimism post estimate 0.706 versus baseline0.595 (x100 reductions) is effect-versus-effect, not an eligible outcome-level comparison. Source: §2.3 PDF28 fn32, referenced IA.7."
+    "O2339": "Internet Appendix not retrieved. Main-text sentence establishes an implemented substantive analysis, but exact appendix specification, coefficient grid and additional outcomes remain unverified; do not infer unseen cells. Main explicitly describes DD redesign holding analyst fixed; no named heterogeneity-robust implementation established for analyst-first-exposure timing. Short-term optimism post estimate 0.706 versus baseline0.595 (x100 reductions) is effect-versus-effect, not an eligible outcome-level comparison. Source: §2.3 PDF28 fn32, referenced IA.7.",
+    "A2340": "EYWPN7YT",
+    "B2340": "h11",
+    "I2340": "1",
+    "J2340": "unknown",
+    "K2340": "1",
+    "L2340": "0",
+    "M2340": "unknown",
+    "N2340": "EDGAR access effects on firms fundamentals and disclosure policies: null substantive alternative-mechanism test, not merely covariate balance.",
+    "O2340": "Internet Appendix not retrieved. Main-text sentence establishes an implemented substantive analysis, but exact appendix specification, coefficient grid and additional outcomes remain unverified; do not infer unseen cells. Accessible main states no change in fundamentals or transparency, but does not specify implemented estimator or individual dependent variables. AppendixB definitions alone are insufficient evidence every listed accounting measure is an IA.8 regression outcome. Source: PDF4; PDF30 fn33, referenced §IA.1/TableIA.8; conclusion PDF39."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -62690,7 +62699,21 @@
     "H5929": "0",
     "I5929": "unknown",
     "J5929": "other",
-    "K5929": "Analyst-stock inaccuracy, signed/absolute earnings error divided by lagged price as baseline; main establishes family (short-term optimism explicitly), not complete IA.7 horizon grid."
+    "K5929": "Analyst-stock inaccuracy, signed/absolute earnings error divided by lagged price as baseline; main establishes family (short-term optimism explicitly), not complete IA.7 horizon grid.",
+    "A5930": "EYWPN7YT",
+    "B5930": "h11",
+    "C5930": "hy1",
+    "H5930": "unknown",
+    "I5930": "unknown",
+    "J5930": "unknown",
+    "K5930": "Firm fundamentals affected by EDGAR: minimum main-text-supported outcome family; exact dependent-variable identity/scale unverified because TableIA.8 unavailable.",
+    "A5931": "EYWPN7YT",
+    "B5931": "h11",
+    "C5931": "hy2",
+    "H5931": "unknown",
+    "I5931": "unknown",
+    "J5931": "unknown",
+    "K5931": "Firm disclosure policies/transparency affected by EDGAR: minimum main-text-supported outcome family; exact dependent-variable identity/scale unverified because TableIA.8 unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
