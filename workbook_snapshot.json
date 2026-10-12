@@ -157,6 +157,7 @@
     "B36": "The effect of stock liquidity on cash holdings: The repurchase motive",
     "C36": "fin",
     "D36": 8,
+    "E36": "DONE — Available-source review: complete 23-page publication and 10-page December2020 author-version Internet Appendix reviewed and independently cross-checked; final publisher supplement unavailable. Separated pooled OLS from identifying firm FE and linked benchmarks to their actual estimator. Matched policy contrasts classified conventional DiD; Tobit marginal-effect outcome identities clarified. Retained only control-parameter settings with substantive own-result interpretation, not all A2 sign-list coefficients. Treatment-tercile, signs/significance, Post/year-FE and appendix coding conflicts preserved; not demonstrated publication-version changes. Matching benchmarks use the same treated pre-event baseline interpretation, not a verified future untreated mean. Actual implementation and final-supplement identity remain unresolved. Original model fields preserved.",
     "A37": "DPFRSKRY",
     "B37": "Do Fund Managers Misestimate Climatic Disaster Risk",
     "C37": "fin",
@@ -20680,7 +20681,16 @@
     "L2193": "0",
     "M2193": "n/a",
     "N2193": "Internet Appendix TableA1 cols5–10, same regressions as Table3: Non-blocks_res (size-orthogonalized institutional nonblock share fraction) effect on cash ratio. Industry and year dummy controls; displayed period/control/liquidity-proxy variants grouped.",
-    "O2193": "Own positive coefficient is explicitly linked to cash-as-ammunition and vulnerable stock prices from easy-to-sell small holdings. OLS with industry/year controls: no separately argued identifying role for those dummies. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
+    "O2193": "Own positive coefficient is explicitly linked to cash-as-ammunition and vulnerable stock prices from easy-to-sell small holdings. OLS with industry/year controls: no separately argued identifying role for those dummies. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65.",
+    "A2194": "DFSQYG6H",
+    "B2194": "h51",
+    "I2194": "1",
+    "J2194": "FE",
+    "K2194": "0",
+    "L2194": "0",
+    "M2194": "n/a",
+    "N2194": "Internet Appendix TableA1 cols11–12, same regressions as Table3: Non-blocks_res (size-orthogonalized institutional nonblock share fraction) effect on cash ratio. Identifying firm and year fixed effects,1998–2015.",
+    "O2194": "Own positive coefficient is explicitly linked to cash-as-ammunition and vulnerable stock prices from easy-to-sell small holdings. Identifying firm and year FE: final p909 explicitly targets time-invariant firm-specific omitted variables. Retain implemented sensitivity, without claiming its sign/significance matches OLS. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56897,7 +56907,11 @@
     "A5084": "DFSQYG6H",
     "B5084": "h50",
     "C5084": "hy1",
-    "K5084": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
+    "K5084": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged.",
+    "A5085": "DFSQYG6H",
+    "B5085": "h51",
+    "C5085": "hy1",
+    "K5085": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

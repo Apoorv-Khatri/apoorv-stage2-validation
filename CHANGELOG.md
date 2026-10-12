@@ -174303,3 +174303,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:24:11.306886+00:00 — Review DFSQYG6H h51: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5085",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5085",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5085",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5085",
+    "before": null,
+    "after": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E36",
+    "before": null,
+    "after": "DONE — Available-source review: complete 23-page publication and 10-page December2020 author-version Internet Appendix reviewed and independently cross-checked; final publisher supplement unavailable. Separated pooled OLS from identifying firm FE and linked benchmarks to their actual estimator. Matched policy contrasts classified conventional DiD; Tobit marginal-effect outcome identities clarified. Retained only control-parameter settings with substantive own-result interpretation, not all A2 sign-list coefficients. Treatment-tercile, signs/significance, Post/year-FE and appendix coding conflicts preserved; not demonstrated publication-version changes. Matching benchmarks use the same treated pre-event baseline interpretation, not a verified future untreated mean. Actual implementation and final-supplement identity remain unresolved. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2194",
+    "before": null,
+    "after": "DFSQYG6H"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2194",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2194",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2194",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2194",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2194",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2194",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2194",
+    "before": null,
+    "after": "Internet Appendix TableA1 cols11–12, same regressions as Table3: Non-blocks_res (size-orthogonalized institutional nonblock share fraction) effect on cash ratio. Identifying firm and year fixed effects,1998–2015."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2194",
+    "before": null,
+    "after": "Own positive coefficient is explicitly linked to cash-as-ammunition and vulnerable stock prices from easy-to-sell small holdings. Identifying firm and year FE: final p909 explicitly targets time-invariant firm-specific omitted variables. Retain implemented sensitivity, without claiming its sign/significance matches OLS. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
+  }
+]
+```
