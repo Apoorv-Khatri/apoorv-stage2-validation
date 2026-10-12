@@ -19290,7 +19290,16 @@
     "L2084": "0",
     "M2084": "n/a",
     "N2084": "OnlineA10: daughter ratio (all/senior partners) on VC career tenure in years, with Female VC interactions and children controls; linear level regressions.",
-    "O2084": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. Substantive authority/retention channel. Year/industry dummy controls do not separately establish FE identification. Col2 interaction is printed Female VC x Daughters, while main regressor says Daughter Ratio; preserve ambiguous label. Table reports ordinary regression in outcome years, not survival/hazard or log tenure. Source: Author forthcoming manuscript Table Online A10, printed/PDF p.54; final article §4.4 p.16."
+    "O2084": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. Substantive authority/retention channel. Year/industry dummy controls do not separately establish FE identification. Col2 interaction is printed Female VC x Daughters, while main regressor says Daughter Ratio; preserve ambiguous label. Table reports ordinary regression in outcome years, not survival/hazard or log tenure. Source: Author forthcoming manuscript Table Online A10, printed/PDF p.54; final article §4.4 p.16.",
+    "A2085": "9XGMQWX5",
+    "B2085": "h29",
+    "I2085": "1",
+    "J2085": "OLS",
+    "K2085": "0",
+    "L2085": "0",
+    "M2085": "n/a",
+    "N2085": "Prose-only reduced-form effect of average daughters (all/senior partners) on IPO-only deal outcome; not the Female Hired Ratio IV/OLS estimates in OnlineA6.",
+    "O2085": "Authors explicitly say they also present reduced-form IPO regressions and report moderately significant all-partner results with stronger senior-partner t statistics. No such reduced-form table was recovered: OnlineA6 contains actual-share OLS and IV, not daughters-on-IPO reduced form. Coefficients unavailable; implemented linear reduced-form method follows the stated same-regression design. Source: Final p.12 footnote7; §4.4 p.16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54259,7 +54268,11 @@
     "A4924": "9XGMQWX5",
     "B4924": "h28",
     "C4924": "hy1",
-    "K4924": "VC career tenure: years a partner has worked as a venture capitalist, in levels; US sample and VCs with at least two deals. Exact zero mass is not reported."
+    "K4924": "VC career tenure: years a partner has worked as a venture capitalist, in levels; US sample and VCs with at least two deals. Exact zero mass is not reported.",
+    "A4925": "9XGMQWX5",
+    "B4925": "h29",
+    "C4925": "hy1",
+    "K4925": "IPO indicator, equal to 1 if the deal went public, 0 otherwise; not the broader IPO-or-profitable-acquisition success measure."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

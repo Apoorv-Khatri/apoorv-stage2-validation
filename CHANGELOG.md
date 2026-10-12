@@ -136455,3 +136455,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:47:03.834324+00:00 — Review 9XGMQWX5 h29: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4925",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4925",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4925",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4925",
+    "before": null,
+    "after": "IPO indicator, equal to 1 if the deal went public, 0 otherwise; not the broader IPO-or-profitable-acquisition success measure."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2085",
+    "before": null,
+    "after": "9XGMQWX5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2085",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2085",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2085",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2085",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2085",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2085",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2085",
+    "before": null,
+    "after": "Prose-only reduced-form effect of average daughters (all/senior partners) on IPO-only deal outcome; not the Female Hired Ratio IV/OLS estimates in OnlineA6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2085",
+    "before": null,
+    "after": "Authors explicitly say they also present reduced-form IPO regressions and report moderately significant all-partner results with stronger senior-partner t statistics. No such reduced-form table was recovered: OnlineA6 contains actual-share OLS and IV, not daughters-on-IPO reduced form. Coefficients unavailable; implemented linear reduced-form method follows the stated same-regression design. Source: Final p.12 footnote7; §4.4 p.16."
+  }
+]
+```
