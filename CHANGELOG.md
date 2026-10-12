@@ -126201,3 +126201,204 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:31:32.703602+00:00 — Review 9SK5H9MK s8: source-audited coding and linked comparisons
+
+32 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H706",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H707",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H708",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H709",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H710",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I706",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I707",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I708",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I709",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I710",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J706",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J707",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J708",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J709",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J710",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K701",
+    "before": null,
+    "after": "Aggregate two-year net employment creation in the nontradable sector (NAICS 44-45, 72) in the CZ, scaled by total nontradable employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K702",
+    "before": null,
+    "after": "Two-year net employment creation by startups (firms aged 0-1 years) in the nontradable sector, scaled by total nontradable employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K703",
+    "before": null,
+    "after": "Two-year net employment creation by firms aged 2-3 years in the nontradable sector, scaled by total nontradable employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K704",
+    "before": null,
+    "after": "Two-year net employment creation by firms aged 4-5 years in the nontradable sector, scaled by total nontradable employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K705",
+    "before": null,
+    "after": "Two-year net employment creation by firms aged 6+ years in the nontradable sector, scaled by total nontradable employment in the CZ as of 2000."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K706",
+    "before": null,
+    "after": "spurious: Elasticity/growth-rate outcome not reported at this result location; copied from Table III."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K707",
+    "before": null,
+    "after": "spurious: Elasticity/growth-rate outcome not reported at this result location; copied from Table III."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K708",
+    "before": null,
+    "after": "spurious: Elasticity/growth-rate outcome not reported at this result location; copied from Table III."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K709",
+    "before": null,
+    "after": "spurious: Elasticity/growth-rate outcome not reported at this result location; copied from Table III."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K710",
+    "before": null,
+    "after": "spurious: Elasticity/growth-rate outcome not reported at this result location; copied from Table III."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I241",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J241",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K241",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L241",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M241",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N241",
+    "before": null,
+    "after": "Table XI: two-year income growth and income growth×high-local-bank-share jointly instrumented with Bartik and Bartik×high-local-bank-share; nontradable net job changes/2000 employment, aggregate/four ages. Moderator equals one above cross-CZ median of each CZ time-series-median share of deposits in banks with ≥75% of deposits in that CZ. Income dose remains continuous. CZ observations, nonoverlapping endpoints 2001/2003/2005/2007; two-year real growth in total wages and salaries; controls log labor force, high-school share and log total wages measured in 2000; year dummies; CZ-clustered SE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O241",
+    "before": null,
+    "after": "Eq.4 pp.1030 explicitly establishes two nonbinary excluded instruments. Included bank-share dummy is not an excluded binary instrument. Nonrandom bank structure is a financing proxy, not separately randomized access. No elasticity results in this table. Source: Table XI pp.1030-1031/PDF32-33; eq.4. Source link: https://doi.org/10.1111/jofi.12495."
+  }
+]
+```
