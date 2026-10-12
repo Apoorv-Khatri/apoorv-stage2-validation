@@ -166374,3 +166374,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:45:46.146500+00:00 — Review CETFVPE5 s10: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H847",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I847",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J847",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K847",
+    "before": null,
+    "after": "Spurious as an outcome of the rejected causal setting; the reported return variable itself is real."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I308",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O308",
+    "before": null,
+    "after": "Spurious as a causal setting. Calendar-relative decomposition of predictive return coefficients and t-values is not a separately estimated intervention or directional causal effect. Authors infer timing of a possible mispricing mechanism from symmetric covariances (fn16), rather than estimating that mechanism. Preserve printed ambiguity: caption says11 RHS averages while describing Same plus11 other months; do not invent a corrected model. Source: §4.3 pp154–155; Fig5; lines1120–1234."
+  }
+]
+```
