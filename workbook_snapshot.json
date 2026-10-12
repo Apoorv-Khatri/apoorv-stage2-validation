@@ -20563,7 +20563,16 @@
     "L2180": "0",
     "M2180": "n/a",
     "N2180": "Internet Appendix TableA1 cols11–12, same regressions as Table3: Industry sigma (industry mean of firm cash-flow standard deviations) effect on cash ratio. Identifying firm and year fixed effects,1998–2015.",
-    "O2180": "Final prose explicitly interprets increased cash ratio with Industry sigma, a cash-flow risk measure. Identifying firm-FE robustness is implemented although its coefficients are insignificant. Identifying firm and year FE: final p909 explicitly targets time-invariant firm-specific omitted variables. Retain implemented sensitivity, without claiming its sign/significance matches OLS. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
+    "O2180": "Final prose explicitly interprets increased cash ratio with Industry sigma, a cash-flow risk measure. Identifying firm-FE robustness is implemented although its coefficients are insignificant. Identifying firm and year FE: final p909 explicitly targets time-invariant firm-specific omitted variables. Retain implemented sensitivity, without claiming its sign/significance matches OLS. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65.",
+    "A2181": "DFSQYG6H",
+    "B2181": "h16",
+    "I2181": "1",
+    "J2181": "OLS",
+    "K2181": "0",
+    "L2181": "0",
+    "M2181": "n/a",
+    "N2181": "Internet Appendix TableA1 cols1–10, same regressions as Table3: R&D (R&D expenditure/assets; missing expense set tozero) effect on cash ratio. Industry and year dummy controls; displayed period/control/liquidity-proxy variants grouped.",
+    "O2181": "Final prose interprets its own R&D cash-ratio response. Keep implemented firm-FE sensitivity despite opposite sign; do not generalize the positive prose to FE coefficients. OLS with industry/year controls: no separately argued identifying role for those dummies. A1/A2 source is December2020 accepted-version Internet Appendix, not verified final supplement. Inclusion rests on final parameter-specific prose, not A2 effect title; main=0. Source: Final §§2.3,2.5 pp909–910; author-forthcoming.txt lines2135–2255; A1 IA pp2–3/PDF63–64, A2 IA p4/PDF65."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -56728,7 +56737,11 @@
     "A5071": "DFSQYG6H",
     "B5071": "h13",
     "C5071": "hy1",
-    "K5071": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
+    "K5071": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged.",
+    "A5072": "DFSQYG6H",
+    "B5072": "h16",
+    "C5072": "hy1",
+    "K5072": "Cash ratio: cash and short-term investments (Compustat CHE) divided by total book assets (AT), measured in ratio units, unlogged."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
