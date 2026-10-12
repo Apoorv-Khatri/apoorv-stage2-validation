@@ -126915,3 +126915,294 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:32:04.702261+00:00 — Review 9SK5H9MK s10: source-audited coding and linked comparisons
+
+47 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H712",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H713",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H714",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H715",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H716",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H717",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H718",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H719",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H720",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H721",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I712",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I713",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I714",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I715",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I716",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I717",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I718",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I719",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I720",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I721",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J712",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J713",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J714",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J715",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J716",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J717",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J718",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J719",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J720",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J721",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K712",
+    "before": null,
+    "after": "Aggregate two-year net employment creation in the nontradable sector (NAICS 44-45, 72) in the CZ, scaled by total nontradable employment in the CZ as of 2000. Zero mass not established by source; nonnegative startup construction does not prove absence or presence of zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K713",
+    "before": null,
+    "after": "Two-year net employment creation by startups (firms aged 0-1 years) in the nontradable sector, scaled by total nontradable employment in the CZ as of 2000. Zero mass not established by source; nonnegative startup construction does not prove absence or presence of zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K714",
+    "before": null,
+    "after": "Two-year net employment creation by firms aged 2-3 years in the nontradable sector, scaled by total nontradable employment in the CZ as of 2000. Zero mass not established by source; nonnegative startup construction does not prove absence or presence of zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K715",
+    "before": null,
+    "after": "Two-year net employment creation by firms aged 4-5 years in the nontradable sector, scaled by total nontradable employment in the CZ as of 2000. Zero mass not established by source; nonnegative startup construction does not prove absence or presence of zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K716",
+    "before": null,
+    "after": "Two-year net employment creation by firms aged 6+ years in the nontradable sector, scaled by total nontradable employment in the CZ as of 2000. Zero mass not established by source; nonnegative startup construction does not prove absence or presence of zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K717",
+    "before": null,
+    "after": "spurious: Elasticity/growth-rate outcome not reported at this result location; copied from Table III."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K718",
+    "before": null,
+    "after": "spurious: Elasticity/growth-rate outcome not reported at this result location; copied from Table III."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K719",
+    "before": null,
+    "after": "spurious: Elasticity/growth-rate outcome not reported at this result location; copied from Table III."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K720",
+    "before": null,
+    "after": "spurious: Elasticity/growth-rate outcome not reported at this result location; copied from Table III."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K721",
+    "before": null,
+    "after": "spurious: Elasticity/growth-rate outcome not reported at this result location; copied from Table III."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I243",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J243",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K243",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L243",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M243",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N243",
+    "before": null,
+    "after": "Table VII B: direct reduced-form linear regressions of nontradable net jobs/2000 employment on middle- and highest-tercile manufacturing Bartik dummies, lowest tercile omitted. Two implemented arm-versus-low contrasts, NOT 2SLS income receipt; aggregate/four ages; no elasticity row. CZ observations, nonoverlapping endpoints 2001/2003/2005/2007; two-year real growth in total wages and salaries; controls log labor force, high-school share and log total wages measured in 2000; year dummies; CZ-clustered SE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O243",
+    "before": null,
+    "after": "pp.1024 attributes higher net job creation to favorable manufacturing shocks and treats this as substantive good/bad-times evidence. Not diagnostic-only first stage; not matching or IV. Binary=1 refers to each reported dummy-versus-low contrast; underlying shock has continuous support. Year-only controls have no separately established identifying-FE role. Source: Table VII Panel B p.1023/PDF25; p.1024/PDF26. Source link: https://doi.org/10.1111/jofi.12495."
+  }
+]
+```
