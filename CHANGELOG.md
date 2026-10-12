@@ -325737,3 +325737,300 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:03:07.513273+00:00 — Review EYWPN7YT s6: source-audited coding and linked comparisons
+
+48 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4220",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4220",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4220",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K197",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L197",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4220",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M197",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4220",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N197",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O197",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P197",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4220",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q197",
+    "before": null,
+    "after": "§2.2.4 PDF20–21, Figure5A PDF22: stock-level SHORT-TERM optimism falls30% from pre-EDGAR mean in lowest-initial-optimism decile. Mean value not printed. Highest-decile71% is a distinct effect/population comparison added hc1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4220",
+    "before": null,
+    "after": "§2.2.4 PDF20–21: Figure5A short-term stock optimism falls71% from pre-EDGAR mean in highest-initial-optimism decile (p<.001); mean value unreported. Distinct from lowest-decile30% originalc1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R197",
+    "before": null,
+    "after": "Quantile-DD versus OLS caption conflict unresolved. Prose says initial-optimism deciles; no construction establishing that these pretreatment decile means match target quantile-effect population/weights or untreated time counterfactual. Alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4220",
+    "before": null,
+    "after": "Quantile-effect target weights and decile-mean construction not established; caption conflict noted. Alignment unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5906",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5907",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5906",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5907",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5906",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5907",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5906",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5907",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H968",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H969",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5906",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5907",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I968",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I969",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5906",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5907",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J968",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J969",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5906",
+    "before": null,
+    "after": "Figure5A long-term stock-level optimism: mean signed current-fiscal-year EPS forecast error / prior-quarter price, evaluated by quantile DD. Sign wording ambiguity as in AppendixB; no observed zero-mass evidence."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5907",
+    "before": null,
+    "after": "Figure5B long-term analyst-stock optimism: average within analyst-firm-quarter signed current-fiscal-year EPS error / prior-quarter price, quantile-DD dependent variable. Sign wording ambiguity as in AppendixB."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K968",
+    "before": null,
+    "after": "Figure5 panel A, short-term stock-level optimism only: signed next-quarter EPS forecast error / prior-quarter price. Original pools short and long horizons; long-term added as hy1/hy2. Quantile estimator is not an outcome transformation. AppendixB sign wording remains ambiguous; zero mass unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K969",
+    "before": null,
+    "after": "Figure5 panel B, short-term analyst-stock-level optimism only: signed next-quarter EPS forecast error / prior-quarter price. Original pools short and long horizons; long-term added as hy1/hy2. Quantile estimator is not an outcome transformation. AppendixB sign wording remains ambiguous; zero mass unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I371",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J371",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K371",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L371",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M371",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N371",
+    "before": null,
+    "after": "Binary EDGAR exposure: quantile-DD effects on short-/long-term optimism at stock and analyst-stock levels, Figure5 only. Figure6 inaccuracy is a separate omitted outcome-set/location setting h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O371",
+    "before": null,
+    "after": "§2.2.4 and Figure5 title explicitly call these quantile regressions; nonlinear quantile effect estimator => Other. Figure5 caption simultaneously says all specifications estimated using OLS (visually confirmed). Retain most explicit estimator identification, but flag unresolved caption conflict and unspecified quantile implementation. No inferred quantile algorithm or rank invariance. Figure6 is h1. Source: Figure5 PDF22; §2.2.4 PDF20–21."
+  }
+]
+```
