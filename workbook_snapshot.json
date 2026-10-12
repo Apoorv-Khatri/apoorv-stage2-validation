@@ -18578,7 +18578,16 @@
     "L2023": "0",
     "M2023": "n/a",
     "N2023": "TableA.4 PanelA: linear regression of log(1+daily visits) on binary extreme-cold day, with same weather controls, sample and two identifying FE sets as Table5.",
-    "O2023": "Two effective FE dimensions: year-quarter × establishment and establishment × day-of-week. p.24 explains absorption of variation over years and systematic weekly foot traffic. Components of interacted sets are not separately counted. No parallel-trends treated/post identification is implemented. Linear log1p outcome means identifying FE category rather than Other or OLS. Full-sample coefficient −0.0267. All columns include both FE; no no-FE OLS column exists. Source: TableA.4A p.37; p.24 supporting foot-traffic robustness.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+    "O2023": "Two effective FE dimensions: year-quarter × establishment and establishment × day-of-week. p.24 explains absorption of variation over years and systematic weekly foot traffic. Components of interacted sets are not separately counted. No parallel-trends treated/post identification is implemented. Linear log1p outcome means identifying FE category rather than Other or OLS. Full-sample coefficient −0.0267. All columns include both FE; no no-FE OLS column exists. Source: TableA.4A p.37; p.24 supporting foot-traffic robustness.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002.",
+    "A2024": "96H6UQNF",
+    "B2024": "h3",
+    "I2024": "1",
+    "J2024": "FE",
+    "K2024": "1",
+    "L2024": "0",
+    "M2024": "n/a",
+    "N2024": "TableA.4 PanelB: binary extreme-cold day and Friday–Sunday weekend interaction, dependent variable log(1+daily visits), two identifying FE dimensions.",
+    "O2024": "Two effective FE dimensions: year-quarter × establishment and establishment × day-of-week. p.24 explains absorption of variation over years and systematic weekly foot traffic. Components of interacted sets are not separately counted. No parallel-trends treated/post identification is implemented. Full-sample weekday coefficient −0.0187; weekend increment −0.0200. Duplicated printed Place × Day-of-week FE row is not a third dimension. Museum interaction is +0.0040 (t=6.47), visually verified; do not overwrite to fit generalized negative-weekend prose. Source: TableA.4B p.37.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52593,7 +52602,14 @@
     "H4766": "0",
     "I4766": "unknown",
     "J4766": "log1p",
-    "K4766": "Daily SafeGraph establishment visits, April–June2018–2021, full sample and reported NAICS subsamples; estimated log(1+daily count). No explicit evidence of an exact zero atom in regression sample; neither Poisson nor log1p proves observed zeros."
+    "K4766": "Daily SafeGraph establishment visits, April–June2018–2021, full sample and reported NAICS subsamples; estimated log(1+daily count). No explicit evidence of an exact zero atom in regression sample; neither Poisson nor log1p proves observed zeros.",
+    "A4767": "96H6UQNF",
+    "B4767": "h3",
+    "C4767": "hy1",
+    "H4767": "0",
+    "I4767": "unknown",
+    "J4767": "log1p",
+    "K4767": "Daily SafeGraph establishment visits, April–June2018–2021, full sample and reported NAICS subsamples; estimated log(1+daily count). No explicit evidence of an exact zero atom in regression sample; neither Poisson nor log1p proves observed zeros."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

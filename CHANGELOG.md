@@ -123207,3 +123207,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:26:32.435578+00:00 — Review 96H6UQNF h3: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4767",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4767",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4767",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4767",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4767",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4767",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4767",
+    "before": null,
+    "after": "Daily SafeGraph establishment visits, April–June2018–2021, full sample and reported NAICS subsamples; estimated log(1+daily count). No explicit evidence of an exact zero atom in regression sample; neither Poisson nor log1p proves observed zeros."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2024",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2024",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2024",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2024",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2024",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2024",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2024",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2024",
+    "before": null,
+    "after": "TableA.4 PanelB: binary extreme-cold day and Friday–Sunday weekend interaction, dependent variable log(1+daily visits), two identifying FE dimensions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2024",
+    "before": null,
+    "after": "Two effective FE dimensions: year-quarter × establishment and establishment × day-of-week. p.24 explains absorption of variation over years and systematic weekly foot traffic. Components of interacted sets are not separately counted. No parallel-trends treated/post identification is implemented. Full-sample weekday coefficient −0.0187; weekend increment −0.0200. Duplicated printed Place × Day-of-week FE row is not a third dimension. Museum interaction is +0.0040 (t=6.47), visually verified; do not overwrite to fit generalized negative-weekend prose. Source: TableA.4B p.37.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```
