@@ -288582,3 +288582,846 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T11:03:33.453009+00:00 — Review EWJTD63J h82: source-audited coding and linked comparisons
+
+139 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A3831",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3832",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3833",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3834",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3835",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3836",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3837",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3838",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3839",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A3840",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3831",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3832",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3833",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3834",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3835",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3836",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3837",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3838",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3839",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B3840",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3831",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3832",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3833",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3834",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3835",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3836",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3837",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3838",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3839",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C3840",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3831",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3832",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3833",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3834",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3835",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3836",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3837",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3838",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3839",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K3840",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3831",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3832",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3833",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3834",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3835",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3836",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3837",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3838",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3839",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L3840",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3831",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3832",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3833",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3834",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3835",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3836",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3837",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3838",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3839",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M3840",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3831",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3832",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3833",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3834",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3835",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3836",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3837",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3838",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3839",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N3840",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3831",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3832",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3833",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3834",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3835",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3836",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3837",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3838",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3839",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O3840",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3831",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3832",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3833",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3834",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3835",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3836",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3837",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3838",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3839",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P3840",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3831",
+    "before": null,
+    "after": "Table OA.39, PDF p68, SigInf, supplement.txt L2551, col1: SigInf standardized coefficient 0.254; 2-year real yield; SPF block; printed N=132. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of SigInf. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3832",
+    "before": null,
+    "after": "Table OA.39, PDF p68, SigInf, supplement.txt L2551, col2: SigInf standardized coefficient 0.233; 3-year real yield; SPF block; printed N=132. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of SigInf. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3833",
+    "before": null,
+    "after": "Table OA.39, PDF p68, SigInf, supplement.txt L2551, col3: SigInf standardized coefficient 0.217; 5-year real yield; SPF block; printed N=132. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of SigInf. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3834",
+    "before": null,
+    "after": "Table OA.39, PDF p68, SigInf, supplement.txt L2551, col4: SigInf standardized coefficient 0.205; 7-year real yield; SPF block; printed N=132. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of SigInf. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3835",
+    "before": null,
+    "after": "Table OA.39, PDF p68, SigInf, supplement.txt L2551, col5: SigInf standardized coefficient 0.189; 10-year real yield; SPF block; printed N=132. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of SigInf. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3836",
+    "before": null,
+    "after": "Table OA.39, PDF p68, SigInf, supplement.txt L2551, col6: SigInf standardized coefficient 0.402; 2-year real yield; MSC block; printed N=132. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of SigInf. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3837",
+    "before": null,
+    "after": "Table OA.39, PDF p68, SigInf, supplement.txt L2551, col7: SigInf standardized coefficient 0.384; 3-year real yield; MSC block; printed N=132. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of SigInf. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3838",
+    "before": null,
+    "after": "Table OA.39, PDF p68, SigInf, supplement.txt L2551, col8: SigInf standardized coefficient 0.368; 5-year real yield; MSC block; printed N=132. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of SigInf. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3839",
+    "before": null,
+    "after": "Table OA.39, PDF p68, SigInf, supplement.txt L2551, col9: SigInf standardized coefficient 0.356; 7-year real yield; MSC block; printed N=132. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of SigInf. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q3840",
+    "before": null,
+    "after": "Table OA.39, PDF p68, SigInf, supplement.txt L2551, col10: SigInf standardized coefficient 0.341; 10-year real yield; MSC block; printed N=132. Benchmark is SD of this maturity/outcome series used to standardize that regression, not SD of SigInf. Table explicitly standardizes regression coefficients. No numerical raw-outcome SD is invented. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3831",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. The causal statement cites other empirical evidence and is an omitted-variable motivation. The paper does not claim a new robust volatility effect. Broad author-intention rule favors retaining the implemented parameter including null estimates; this is more contestable than nominal expected inflation. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3832",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. The causal statement cites other empirical evidence and is an omitted-variable motivation. The paper does not claim a new robust volatility effect. Broad author-intention rule favors retaining the implemented parameter including null estimates; this is more contestable than nominal expected inflation. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3833",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. The causal statement cites other empirical evidence and is an omitted-variable motivation. The paper does not claim a new robust volatility effect. Broad author-intention rule favors retaining the implemented parameter including null estimates; this is more contestable than nominal expected inflation. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3834",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. The causal statement cites other empirical evidence and is an omitted-variable motivation. The paper does not claim a new robust volatility effect. Broad author-intention rule favors retaining the implemented parameter including null estimates; this is more contestable than nominal expected inflation. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3835",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. The causal statement cites other empirical evidence and is an omitted-variable motivation. The paper does not claim a new robust volatility effect. Broad author-intention rule favors retaining the implemented parameter including null estimates; this is more contestable than nominal expected inflation. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3836",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. The causal statement cites other empirical evidence and is an omitted-variable motivation. The paper does not claim a new robust volatility effect. Broad author-intention rule favors retaining the implemented parameter including null estimates; this is more contestable than nominal expected inflation. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3837",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. The causal statement cites other empirical evidence and is an omitted-variable motivation. The paper does not claim a new robust volatility effect. Broad author-intention rule favors retaining the implemented parameter including null estimates; this is more contestable than nominal expected inflation. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3838",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. The causal statement cites other empirical evidence and is an omitted-variable motivation. The paper does not claim a new robust volatility effect. Broad author-intention rule favors retaining the implemented parameter including null estimates; this is more contestable than nominal expected inflation. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3839",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. The causal statement cites other empirical evidence and is an omitted-variable motivation. The paper does not claim a new robust volatility effect. Broad author-intention rule favors retaining the implemented parameter including null estimates; this is more contestable than nominal expected inflation. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R3840",
+    "before": null,
+    "after": "Author-interpretation gate is a moderate judgment, not identification endorsement. The causal statement cites other empirical evidence and is an omitted-variable motivation. The paper does not claim a new robust volatility effect. Broad author-intention rule favors retaining the implemented parameter including null estimates; this is more contestable than nominal expected inflation. Continuous observational target/weights not separately established; same regression sample does not prove causal SD alignment, hence unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5715",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5716",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5717",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5718",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5719",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5715",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5716",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5717",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5718",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5719",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5715",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5716",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5717",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5718",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5719",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5715",
+    "before": null,
+    "after": "2-year real yield; standardized regression coefficient is in outcome-SD units per treatment SD. Nonbinary treatment: detailed outcome labels not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5716",
+    "before": null,
+    "after": "3-year real yield; standardized regression coefficient is in outcome-SD units per treatment SD. Nonbinary treatment: detailed outcome labels not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5717",
+    "before": null,
+    "after": "5-year real yield; standardized regression coefficient is in outcome-SD units per treatment SD. Nonbinary treatment: detailed outcome labels not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5718",
+    "before": null,
+    "after": "7-year real yield; standardized regression coefficient is in outcome-SD units per treatment SD. Nonbinary treatment: detailed outcome labels not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5719",
+    "before": null,
+    "after": "10-year real yield; standardized regression coefficient is in outcome-SD units per treatment SD. Nonbinary treatment: detailed outcome labels not required."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2287",
+    "before": null,
+    "after": "EWJTD63J"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2287",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2287",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2287",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2287",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2287",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2287",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2287",
+    "before": null,
+    "after": "Continuous inflation volatility over the corresponding yield maturity (SigInf, GARCH forecast with ARMA mean equation) effect on real/nominal yield levels as printed in included panels; separately interpreted supporting parameter, conditional time-series OLS. Table OA.39. Newey-West12-lag inference; all printed standardized coefficients, including null/negative estimates. Routine controls and survey/sample variants at this location grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2287",
+    "before": null,
+    "after": "Same paragraph explicitly says both expected inflation AND inflation volatility can affect real yields and separately discusses the latter insignificant coefficients. Do not include the former and exclude the latter solely because one is significant. Carry this real-yield-level parameter across its reported robustness locations. Competing evidence: The causal statement cites other empirical evidence and is an omitted-variable motivation. The paper does not claim a new robust volatility effect. Broad author-intention rule favors retaining the implemented parameter including null estimates; this is more contestable than nominal expected inflation. No exogenous identification claimed; no identifying FE or causal IV from generated forecasts. Source: Table OA.39; Main p472 L1044-1062; Table2 B/C real columns.."
+  }
+]
+```
