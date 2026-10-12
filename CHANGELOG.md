@@ -165087,3 +165087,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:24:35.034232+00:00 — Review BHYG5F75 h8: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5006",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5006",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5006",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5006",
+    "before": null,
+    "after": "Disclose: one if at least one eligible financial metric voluntarily disclosed in loan, zero otherwise; not a sample disclosure rate. Main sample rate5.75%, IPO sample9%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2137",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2137",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2137",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2137",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2137",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2137",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2137",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2137",
+    "before": null,
+    "after": "Table5 col6: AverageGrowth (industry-state-year average public-company sales growth) affects binary voluntary disclosure; coefficient 0.7851, linear regression with loan controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2137",
+    "before": null,
+    "after": "Distinct substantive determinant split from s4. Broad causal-intention inclusion, not a claim of credible exogenous assignment. No identifying FE established in Eq2/prose despite generic caption. GrowthDispersion is a treatment SD measure, not an outcome-SD benchmark. Footnote16 also refers broadly to year effects in all specifications; Table5 implementation is therefore unresolved rather than verified to contain no dummy controls. OLS is a qualified Eq2-based classification. Source: Table5 col6, pp3090–3092."
+  }
+]
+```
