@@ -19173,7 +19173,16 @@
     "L2071": "0",
     "M2071": "n/a",
     "N2071": "OnlineA5(4): all-partner Daughter-Heavy Partner Fraction (share daughter-heavy minus share son-heavy) on female-hire probability.",
-    "O2071": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. All measures are nonbinary aggregates. Col1 repeats Table7(2) and is not a new setting. Source: Author forthcoming manuscript Table Online A5, printed/PDF p.49; final article §4.4 p.16."
+    "O2071": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. All measures are nonbinary aggregates. Col1 repeats Table7(2) and is not a new setting. Source: Author forthcoming manuscript Table Online A5, printed/PDF p.49; final article §4.4 p.16.",
+    "A2072": "9XGMQWX5",
+    "B2072": "h16",
+    "I2072": "1",
+    "J2072": "OLS",
+    "K2072": "0",
+    "L2072": "0",
+    "M2072": "n/a",
+    "N2072": "OnlineA5(5): all-partner First Daughter Partner Fraction (share of partners with first child a daughter) on female-hire probability.",
+    "O2072": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. All measures are nonbinary aggregates. Col1 repeats Table7(2) and is not a new setting. Source: Author forthcoming manuscript Table Online A5, printed/PDF p.49; final article §4.4 p.16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54090,7 +54099,11 @@
     "A4911": "9XGMQWX5",
     "B4911": "h15",
     "C4911": "hy1",
-    "K4911": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level."
+    "K4911": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level.",
+    "A4912": "9XGMQWX5",
+    "B4912": "h16",
+    "C4912": "hy1",
+    "K4912": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
