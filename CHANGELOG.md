@@ -176553,3 +176553,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T10:11:00.655911+00:00 — Review ED5IDPT4 s5: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K174",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K175",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R174",
+    "before": null,
+    "after": "Reject independently of causal gate: Table10 col2 printed65% (8.161/12.555) divides the CPIE_OWR interaction slope by the magnitude of the current-return slope, not by a mean, SD or stated level of next-day return. CPIE SD is treatment-side, not outcome-side. Words and division are present, but eligibility fails and alignment is inapplicable. Under this audit the original pooled s5 is rejected and unwritten h1/hy1 withdrawn; no replacement comparison. Source p814, main.txt L1383–1389,1427–1443."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R175",
+    "before": null,
+    "after": "Reject independently of causal gate: Table10 col1 printed6% (0.414/7.147) divides the CPIE_GPIN interaction slope by the magnitude of the current-return slope, not by a mean, SD or stated level of next-day return. CPIE SD is treatment-side. Words and actual division are present but eligibility fails; alignment is inapplicable. Original outcome link s5/y1 is correct as an observed-variable link, although parent s5 is rejected by this audit. Source p814, main.txt L1383–1389,1427–1443."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H904",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I904",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J904",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K904",
+    "before": null,
+    "after": "spurious within causal-setting inventory: parent s5 is a predictive proxy-validation regression under the independent gate adjudication. Preserve the original actual outcome definition: next-day open-to-open risk-adjusted stock return, not a reversal slope or a CPIE. No GPIN-only narrowing or h1 outcome addition remains. Source p814 Eq6/Table10, main.txt L1370–1375,1395–1408. Exact display scaling remains unresolved."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E38",
+    "before": null,
+    "after": "DONE — Available-source review: complete 21-page publication and recovered December2018 author-version appended appendix reviewed and independently cross-checked. All five original settings excluded: mechanical-heuristic/model-validity diagnostics and Table10 predictive proxy validation, not separately interpreted empirical causal responses. Table10 exclusion is a moderate-confidence author-intention judgment; genuine causal-mechanism motivation and alternative broad reading documented. All four comparisons rejected; Table10 ratios compare slopes, not outcome levels. No additions. Final publisher supplement unavailable; author-version appendix is not certified final. FE indexing, SD implementation and printed source conflicts remain unresolved. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I350",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O350",
+    "before": null,
+    "after": "Reject as predictive proxy validation, not a causally interpreted response setting. Section4.3 asks which fitted CPIE better identifies private information; the working hypothesis assumes information causes persistent price changes and tests whether the proxies display the expected return dependence. Table10 calls these panel predictive regressions. The result is interpreted as CPIEs being associated with smaller reversals and better capturing information, not as an estimated directional response to changing information arrival. The explicit p814 effect-of-information-on-covariance sentence is genuine contrary evidence, but specifies the maintained working hypothesis rather than changing the interpretation of the estimated coefficients; fn32 calls these suggestive tests of relative model performance. This is an author-intention judgment, not exclusion for endogeneity, a predictive label alone, or use of a structural proxy. GPIN and OWR are both covered by rejected original s5; withdraw unwritten h1/hy1. If a broader gate is adopted, linear regression adjustment (OLS), continuous treatment and main=1 remain defensible; reported FE are controls with no explained identifying role, and additive firm/year versus interacted firm-year indexing is unresolved. Published interaction coefficients 0.414/0.140 and8.161/8.082 and slope-ratio wording remain unchanged; SD implementation is unknown. Sources: pp797,813–814; main.txt L162–182,1295–1299,1347–1363,1367–1446. Source: §4.3/Eq6/Table10 pp813–814, main.txt L1347–1446 and L1367–1408."
+  }
+]
+```
