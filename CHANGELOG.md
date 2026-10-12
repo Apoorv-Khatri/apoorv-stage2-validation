@@ -137025,3 +137025,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:48:33.157362+00:00 — Review 9Z93VMJ3 s4: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H750",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H751",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H752",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I750",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I751",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I752",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J750",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J751",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J752",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K750",
+    "before": null,
+    "after": "spurious as a causal-outcome row because parent s4 is excluded. These are nine moment functions used to estimate eight structural parameters, not nine treatment-effect outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K751",
+    "before": null,
+    "after": "spurious as a causal-outcome row because parent s4 is excluded. A specification-test statistic is a diagnostic, not an effect outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K752",
+    "before": null,
+    "after": "spurious as a causal-outcome row because parent s4 is excluded. Figure 15 is the fitted model anatomy after estimation, not a separately estimated response to a risk treatment."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E29",
+    "before": null,
+    "after": "DONE — Available-source review: complete supplied publication and included Appendices A–D reviewed, including all original rows and strongest counterexamples. All four original settings excluded: decomposition, forecasting, specification diagnostics and parameter distributions are not empirical causal treatment effects. Theoretical comparative statics and disaster-calibration examples assessed separately, not mislabeled empirical interventions. External Internet Appendix IA.A–IA.B unavailable; this is NOT whole-package completion or exhaustive supplementary verification. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I260",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O260",
+    "before": null,
+    "after": "Spurious causal setting: Sections 5.5.1–5.5.3 estimate and diagnose a structural asset-pricing model, rather than estimate a focal disaster-risk treatment effect. Table 5 summarizes parameter draws around a continuously updated GMM objective; the J test assesses overidentifying restrictions; Figure 15 compares fitted decomposition with observed decomposition. Nine factor-moment restrictions and VIX²-implied latent intensity are inputs to fitting eight model parameters. The word instruments in this GMM discussion does not establish a linear IV treatment estimator. Structural estimation can qualify as Other when it estimates an author-interpreted causal response, but it is not automatically causal: here no focal change-in-risk effect is reported. Rejection is based on diagnostic purpose/estimand, not the model failing a validity test. Source: Section 5.5 pp.340,343–346; Eqs.(53)–(55) and Table 5 p.343 (PDF19); Figure 15 p.346 (PDF22); Appendix D pp.349.. Certainty: high for the supplied published article; separate Internet Appendix unavailable."
+  }
+]
+```
