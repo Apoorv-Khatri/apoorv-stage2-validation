@@ -22289,7 +22289,16 @@
     "L2345": "0",
     "M2345": "unknown",
     "N2345": "EDGAR informativeness result under the same altered matching and preliminary-date rules as fn23: authors replicate increased informativeness reported by prior work.",
-    "O2345": "Implemented substantive alternative treatment-timing/matching result; exact informativeness proxy and regression implementation unreported, method unknown. No prior-paper coefficients imported. Source: PDF24 fn28 referring PDF15 fn23."
+    "O2345": "Implemented substantive alternative treatment-timing/matching result; exact informativeness proxy and regression implementation unreported, method unknown. No prior-paper coefficients imported. Source: PDF24 fn28 referring PDF15 fn23.",
+    "A2346": "EYWPN7YT",
+    "B2346": "h18",
+    "I2346": "1",
+    "J2346": "unknown",
+    "K2346": "unknown",
+    "L2346": "0",
+    "M2346": "unknown",
+    "N2346": "Price impact of 10-K/10-Q filings among EDGAR joiners in a three-day window around filing dates; authors replicate significant value relevance as supporting disclosure-channel evidence.",
+    "O2346": "Internet Appendix not retrieved. Main-text sentence establishes an implemented substantive analysis, but exact appendix specification, coefficient grid and additional outcomes remain unverified; do not infer unseen cells. Substantive causal-language price impact, not an EDGAR first stage. Event-study label and three-day window alone do not establish OLS/FE/DiD or implemented two-valued treatment contrast; no invented benchmark or signed/unsigned return construction. Source: PDF13 fn20, referenced FigureIA.1."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -62821,7 +62830,14 @@
     "H5940": "0",
     "I5940": "unknown",
     "J5940": "unknown",
-    "K5940": "Forecast informativeness under altered matching/timing (positive effect); exact proxy in this unreported regression is not identified in accessible source."
+    "K5940": "Forecast informativeness under altered matching/timing (positive effect); exact proxy in this unreported regression is not identified in accessible source.",
+    "A5941": "EYWPN7YT",
+    "B5941": "h18",
+    "C5941": "hy1",
+    "H5941": "unknown",
+    "I5941": "unknown",
+    "J5941": "unknown",
+    "K5941": "Three-day stock-price impact around 10-K/10-Q filing dates among EDGAR joiners; exact return adjustment/sign/contrast unverified in FigureIA.1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -329673,3 +329673,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:09:58.623979+00:00 — Review EYWPN7YT h18: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5941",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5941",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5941",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5941",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5941",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5941",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5941",
+    "before": null,
+    "after": "Three-day stock-price impact around 10-K/10-Q filing dates among EDGAR joiners; exact return adjustment/sign/contrast unverified in FigureIA.1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2346",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2346",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2346",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2346",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2346",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2346",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2346",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2346",
+    "before": null,
+    "after": "Price impact of 10-K/10-Q filings among EDGAR joiners in a three-day window around filing dates; authors replicate significant value relevance as supporting disclosure-channel evidence."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2346",
+    "before": null,
+    "after": "Internet Appendix not retrieved. Main-text sentence establishes an implemented substantive analysis, but exact appendix specification, coefficient grid and additional outcomes remain unverified; do not infer unseen cells. Substantive causal-language price impact, not an EDGAR first stage. Event-study label and three-day window alone do not establish OLS/FE/DiD or implemented two-valued treatment contrast; no invented benchmark or signed/unsigned return construction. Source: PDF13 fn20, referenced FigureIA.1."
+  }
+]
+```
