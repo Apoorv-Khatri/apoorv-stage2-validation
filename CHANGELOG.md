@@ -168336,3 +168336,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:09:52.071585+00:00 — Review CN4YZYPH s18: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J327",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K327",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L327",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M327",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N327",
+    "before": null,
+    "after": "Table12 A/B col1 only: continuous compensation-peer RPQ slope and its interaction with High_GPQ (top-quintile peer median ability), affecting adjusted return and change in adjusted ROA. Binary moderator does not turn continuous RPQ into binary treatment. Bonus treatment split separately."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O327",
+    "before": null,
+    "after": "Causal-intention gate passes: authors interpret this focal peer-quality/policy contrast as affecting the stated outcome. Year/industry dummy controls alone have no separately argued identifying role; retain OLS classification, not HDFE. Table12 displays no standalone High_GPQ row. Do not invent its coefficient or interpret interaction alone as unconditional binary GPQ effect. Broad prose says overall negative marginal effect; actual reported estimand is slope moderation. Source: §7.5/Table12 A/B col1 pp216–217; lines1638–1716."
+  }
+]
+```
