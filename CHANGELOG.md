@@ -166089,3 +166089,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:44:23.158444+00:00 — Review CETFVPE5 s5: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H840",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H841",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I840",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I841",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J840",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J841",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K840",
+    "before": null,
+    "after": "Spurious as an outcome of the rejected causal setting; the reported return variable itself is real."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K841",
+    "before": null,
+    "after": "Spurious as an outcome of the rejected causal setting; the reported return variable itself is real."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I303",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O303",
+    "before": null,
+    "after": "Spurious as a causal setting. Monthly country-index and commodity return prediction, not causal effects of historical returns. Preserve the source discrepancy: p150 prose says25 commodities, while Table4 caption says24; neither is silently corrected. Source: §3.3 pp150–151; Table4B; lines850–908."
+  }
+]
+```
