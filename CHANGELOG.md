@@ -175026,3 +175026,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:47:30.437847+00:00 — Review DPFRSKRY s9: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H897",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H898",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I897",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I898",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J897",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J898",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I344",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J344",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K344",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L344",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M344",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N344",
+    "before": null,
+    "after": "Table10 cols1–4: binary disaster-zone versus near-disaster-zone exposure × POST effects on ROA and year-on-year quarterly sales growth for firms held by local mutual funds; firm controls in every column, additional firm/time FE in cols2/4. Conventional DiD; near-disaster control counties selected by geographical nearest neighbors. The rest-of-US comparison and expanded held/nonheld samples belong to h2, not this estimand."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O344",
+    "before": null,
+    "after": "DiD in all four columns, with firm controls present even without FE; original phrase with and without controls is inaccurate. Main=1: introduction/conclusion use absence of differential profitability to distinguish salience from information. Null estimate is not proof of no economic effect. Caption says fund-clustered errors although observation is firm-quarter; implementation unresolved, preserve printed claim. Source: §3.3.2/Eq3/Table10 pp1173–1176; L1750–1933."
+  }
+]
+```
