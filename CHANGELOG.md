@@ -163521,3 +163521,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:22:15.337923+00:00 — Review BHYG5F75 s11: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H828",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H829",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I828",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I829",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J828",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J829",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K828",
+    "before": null,
+    "after": "Difference of natural logs (next minus current), interpreted on percentage/log-point scale in Tables4/9. Not log of the change. Scaling by100 is implicit in percentage prose, not explicitly stated in caption. Zero change is possible but observed point mass is not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K829",
+    "before": null,
+    "after": "Difference of natural logs (next minus current), interpreted on percentage/log-point scale in Tables4/9. Not log of the change. Scaling by100 is implicit in percentage prose, not explicitly stated in caption. Zero change is possible but observed point mass is not reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I296",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J296",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K296",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L296",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M296",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O296",
+    "before": null,
+    "after": "Single nonbinary excluded source: (t−T_i^0)/T_i^MAX, the fraction elapsed from first sample appearance to IPO, Eq4. Linear stages predict time to IPO, then disclosure, then outcome using the same included X and year FE. IV precedence applies to actual binary disclosure receipt. AppendixA uses a stylized centered remaining-time formula (T−Tbar)/Tmax instead, not an additional jointly used instrument. Introduction describes fraction remaining, while Eq4 uses elapsed; preserve this sign/centering discrepancy. Exclusion relies on the life-cycle variation affecting financing only through disclosure; Appendix orthogonality claim is not a proof of this exclusion. Bootstrapped SE; possible weak/noisy identification acknowledged p3096. Visual Eq4 caution: the printed second-stage disclosure equation omits a slope coefficient on predicted time to IPO, whereas stylized AppendixA2 prints β². This is a source-notation ambiguity. Author-explicit IV and the scalar excluded source support IV/single continuous coding, but common controls alone do not prove an exactly implemented conventional 2SLS projection; no replication code is available here. Source: Table9 cols3,6 p3098; Eq4 p3096; AppendixA p3101."
+  }
+]
+```
