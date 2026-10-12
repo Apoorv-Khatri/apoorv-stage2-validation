@@ -126402,3 +126402,516 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:31:49.102862+00:00 — Review 9SK5H9MK s9: source-audited coding and linked comparisons
+
+84 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4780",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4781",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4782",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4783",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4784",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4785",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4786",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4787",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4788",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4789",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4790",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4791",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4792",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4793",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4794",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4795",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4796",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4797",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4798",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4780",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4781",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4782",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4783",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4784",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4785",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4786",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4787",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4788",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4789",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4790",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4791",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4792",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4793",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4794",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4795",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4796",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4797",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4798",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4780",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4781",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4782",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4783",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4784",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4785",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4786",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4787",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4788",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4789",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4790",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4791",
+    "before": null,
+    "after": "hy12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4792",
+    "before": null,
+    "after": "hy13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4793",
+    "before": null,
+    "after": "hy14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4794",
+    "before": null,
+    "after": "hy15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4795",
+    "before": null,
+    "after": "hy16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4796",
+    "before": null,
+    "after": "hy17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4797",
+    "before": null,
+    "after": "hy18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4798",
+    "before": null,
+    "after": "hy19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4780",
+    "before": null,
+    "after": "Table XII C: aggregate size, 0-1 years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=0.408; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4781",
+    "before": null,
+    "after": "Table XII C: aggregate size, 2-3 years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=-0.004; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4782",
+    "before": null,
+    "after": "Table XII C: aggregate size, 4-5 years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=-0.005; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4783",
+    "before": null,
+    "after": "Table XII C: aggregate size, 6+ years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=0.848; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4784",
+    "before": null,
+    "after": "Table XII C: <20 size, aggregate age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=0.152; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4785",
+    "before": null,
+    "after": "Table XII C: <20 size, 0-1 years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=0.314; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4786",
+    "before": null,
+    "after": "Table XII C: <20 size, 2-3 years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=-0.059; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4787",
+    "before": null,
+    "after": "Table XII C: <20 size, 4-5 years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=-0.073; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4788",
+    "before": null,
+    "after": "Table XII C: <20 size, 6+ years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=-0.031; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4789",
+    "before": null,
+    "after": "Table XII C: 20-100 size, aggregate age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=0.181; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4790",
+    "before": null,
+    "after": "Table XII C: 20-100 size, 0-1 years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=0.079; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4791",
+    "before": null,
+    "after": "Table XII C: 20-100 size, 2-3 years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=0.034; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4792",
+    "before": null,
+    "after": "Table XII C: 20-100 size, 4-5 years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=0.016; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4793",
+    "before": null,
+    "after": "Table XII C: 20-100 size, 6+ years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=0.053; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4794",
+    "before": null,
+    "after": "Table XII C: >100 size, aggregate age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=0.914; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4795",
+    "before": null,
+    "after": "Table XII C: >100 size, 0-1 years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=0.015; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4796",
+    "before": null,
+    "after": "Table XII C: >100 size, 2-3 years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=0.021; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4797",
+    "before": null,
+    "after": "Table XII C: >100 size, 4-5 years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=0.01; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4798",
+    "before": null,
+    "after": "Table XII C: >100 size, 6+ years age, all-industry two-year net job creation/2000 total MSA employment. Final-main coefficient=0.868; not an outcome mean. For <20 age4-5/6+, author appendix IAXII reverses printed coefficients; unresolved source conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K711",
+    "before": null,
+    "after": "Aggregate all-industry two-year net job creation/2000 total MSA employment, Table XII C aggregate-size/aggregate-age cell; age-size components unpacked in added hy outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I242",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J242",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K242",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L242",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M242",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N242",
+    "before": null,
+    "after": "Table XII C: continuous two-year MSA income-growth effects on all-industry BDS net jobs/2000 total MSA employment, across aggregate/four age categories and aggregate/three size categories. Manufacturing Bartik 2SLS; 2001/03/05/07; year dummies, 2000 controls, MSA-clustered SE. IAXI C IV and IAXII IV are detailed versions, not additional estimates to double-count."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O242",
+    "before": null,
+    "after": "Endogenous receipt/dose is continuous income growth, not the instrument or a subgroup indicator. A single scalar shift-share sum uses lagged four-digit manufacturing employment shares times national industry employment growth excluding the focal region; do not count component industries as separate excluded instruments. Exclusion requires manufacturing shocks to affect nontradable employment only through income (pp.1011-1014, eqs.2-3). All-industry outcome includes manufacturing, weakening the sector-separation exclusion argument (pp.1032-1034); method remains IV. Main Table XII <20 coefficients age4-5=-.073 and age6+=-.031; author appendix IAXII A reverses these. Appendix caption also says nontradable denominator, unlike final main article total employment; preserve conflict. Source: Table XII Panel C p.1033/PDF35; §IV pp.1032-1034. Source link: https://doi.org/10.1111/jofi.12495."
+  }
+]
+```
