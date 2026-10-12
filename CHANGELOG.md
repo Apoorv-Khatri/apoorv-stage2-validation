@@ -324732,3 +324732,312 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:01:46.008584+00:00 — Review EYWPN7YT s1: source-audited coding and linked comparisons
+
+50 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K190",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K191",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K192",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L190",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L191",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L192",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M190",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M191",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M192",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N190",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N191",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N192",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O190",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O191",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O192",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P190",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P191",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P192",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q190",
+    "before": null,
+    "after": "“The point estimate shown in column 1 suggests that trading volume increases by an economically meaningful 5.6% from the sample mean in the pretreatment quarter.” [ … ] Table 2, col. (1): “Quarter of EDGAR inclusion 0.072**” [ … ] Table 1: “Abnormal volume” treated-firm pretreatment mean “1.277”. Benchmark population: Pretreatment mean abnormal volume for treated firms = 1.277 in Table 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q191",
+    "before": null,
+    "after": "“AIM, for example, drops by 4.9% from the pretreatment mean over the four quarters following EDGAR inclusion (p = .005).” [ … ] Table 2, col. (3): “Next four quarters −0.052***” [ … ] Table 1: “AIM” treated-firm pretreatment mean “1.067”. Benchmark population: Pretreatment mean AIM for treated firms = 1.067 in Table 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q192",
+    "before": null,
+    "after": "“Column 6 supports this prediction: over the four quarters post-EDGAR inclusion, volatility falls by 2.7% from its pretreatment mean (p = .037).” [ … ] Table 2 note: “The coefficients in columns 4, 5, and 6 are multiplied by 100 for ease of exposition.” [ … ] Table 2, col. (6): “Next four quarters −0.101**” [ … ] Table 1: “Idiosyncratic volatility” treated-firm pretreatment mean “0.038”. Benchmark population: Pretreatment mean idiosyncratic volatility for treated firms = 0.038 in Table 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R190",
+    "before": null,
+    "after": "An observed treated pre-exposure mean can be a relevant untreated historical baseline; a constructed post-treatment counterfactual level is not required merely because the effect is DiD. Table1 benchmarks are treated-stock t-1 means (abnormal volume n=2,013; AIM n=1,847; idiosyncratic volatility n=2,015). Table2 uses available observations over cohort windows; exact treated outcome-observation target and effective cohort weights are not reported. Later pooled rows additionally omit wave7 event quarter+4. Retain unknown for this unresolved target/weight match, not simply preperiod timing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R191",
+    "before": null,
+    "after": "An observed treated pre-exposure mean can be a relevant untreated historical baseline; a constructed post-treatment counterfactual level is not required merely because the effect is DiD. Table1 benchmarks are treated-stock t-1 means (abnormal volume n=2,013; AIM n=1,847; idiosyncratic volatility n=2,015). Table2 uses available observations over cohort windows; exact treated outcome-observation target and effective cohort weights are not reported. Later pooled rows additionally omit wave7 event quarter+4. Retain unknown for this unresolved target/weight match, not simply preperiod timing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R192",
+    "before": null,
+    "after": "An observed treated pre-exposure mean can be a relevant untreated historical baseline; a constructed post-treatment counterfactual level is not required merely because the effect is DiD. Table1 benchmarks are treated-stock t-1 means (abnormal volume n=2,013; AIM n=1,847; idiosyncratic volatility n=2,015). Table2 uses available observations over cohort windows; exact treated outcome-observation target and effective cohort weights are not reported. Later pooled rows additionally omit wave7 event quarter+4. Retain unknown for this unresolved target/weight match, not simply preperiod timing."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H950",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H951",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H952",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H953",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H954",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H955",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I950",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I951",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I952",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I953",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I954",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I955",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J950",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J951",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J952",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J953",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J954",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J955",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K952",
+    "before": null,
+    "after": "AIM is ln(1 + quarterly average of 1,000,000*absolute daily return/dollar volume), AppendixB PDF41. Zero mass not established by log1p."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K954",
+    "before": null,
+    "after": "Fraction of trading days with zero OR missing returns (AppendixB PDF42); this is a share, not a binary outcome. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J366",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L366",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M366",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O366",
+    "before": null,
+    "after": "Implemented Cengiz et al. (2019) stacked-regression estimator: cohort-specific datasets, clean future-treated controls, nine-quarter window, explicitly addressing time-varying effects and treatment-effect heterogeneity (§1.2–1.3, PDF9–10). This is not modern merely because adoption is staggered. Administrative randomized rollout is analyzed with DD, not a separately implemented experimental ITT. Matching is preprocessing; no IV or separate identifying-FE/OLS setting. Source: Table2 PDF14, §2.1 PDF13–15."
+  }
+]
+```
