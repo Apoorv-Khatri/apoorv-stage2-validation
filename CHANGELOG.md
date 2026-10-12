@@ -326322,3 +326322,336 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:04:00.527964+00:00 — Review EYWPN7YT s9: source-audited coding and linked comparisons
+
+54 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L199",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L200",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L201",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L202",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M199",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M200",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M201",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M202",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P199",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P200",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P201",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P202",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q199",
+    "before": null,
+    "after": "“The reductions are economically meaningful, averaging 11% for short-term dispersion and 15% for long-term dispersion.” [ … ] Table 5 note: “the coefficients are multiplied by 100 for ease of exposition.” [ … ] Table 5, col. (6): “Next four quarters −0.034**” [ … ] Table 1: “Dispersion (short-term)” treated-firm pretreatment mean “0.003”. Benchmark population: Pretreatment mean short-term dispersion for treated firms = 0.003 in Table 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q200",
+    "before": null,
+    "after": "“The reductions are economically meaningful, averaging 11% for short-term dispersion and 15% for long-term dispersion.” [ … ] Table 5, col. (7): “Next four quarters −0.139***” [ … ] Table 1: “Dispersion (long-term)” treated-firm pretreatment mean “0.009”. Benchmark population: Pretreatment mean long-term dispersion for treated firms = 0.009 in Table 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q201",
+    "before": null,
+    "after": "“Economically, boldness falls by 21% for short-term forecasts (p = .092) and by 17% for long-term forecasts (p = .014).” [ … ] Table 5, col. (8): “Next four quarters −0.083*” [ … ] Table 1: “Boldness (short-term)” treated-firm pretreatment mean “0.004”. Benchmark population: Pretreatment mean short-term boldness for treated firms = 0.004 in Table 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q202",
+    "before": null,
+    "after": "“Economically, boldness falls by 21% for short-term forecasts (p = .092) and by 17% for long-term forecasts (p = .014).” [ … ] Table 5, col. (9): “Next four quarters −0.136**” [ … ] Table 1: “Boldness (long-term)” treated-firm pretreatment mean “0.008”. Benchmark population: Pretreatment mean long-term boldness for treated firms = 0.008 in Table 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R199",
+    "before": null,
+    "after": "An observed treated pre-exposure mean can be a relevant untreated historical baseline; a constructed post-treatment counterfactual level is not required merely because the effect is DiD. Table1 dispersion means are treated-stock t-1 means (short n=504; long n=937). Table5 cols6–7 pool later event quarters with varying forecast availability and the truncated wave7 horizon. Their effective treated-observation/cohort weights are not established as those of the t-1 mean. Retain unknown; actual dispersion columns are6/7, not prose4/5."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R200",
+    "before": null,
+    "after": "An observed treated pre-exposure mean can be a relevant untreated historical baseline; a constructed post-treatment counterfactual level is not required merely because the effect is DiD. Table1 dispersion means are treated-stock t-1 means (short n=504; long n=937). Table5 cols6–7 pool later event quarters with varying forecast availability and the truncated wave7 horizon. Their effective treated-observation/cohort weights are not established as those of the t-1 mean. Retain unknown; actual dispersion columns are6/7, not prose4/5."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R201",
+    "before": null,
+    "after": "An observed treated pre-exposure mean can be a relevant untreated historical baseline; a constructed post-treatment counterfactual level is not required merely because the effect is DiD. Table5 cols8–9 estimate analyst-stock boldness effects, whereas Table1 labels its t-1 summary variables firm/fiscal-quarter (short n=181; long n=534). This conflicts with the analyst-stock construction in AppendixB; neither aggregation nor correspondence to regression weights is resolved. Retain unknown rather than assuming same units from a common variable name or asserting known mismatch. Actual boldness columns are8/9, not prose6/7."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R202",
+    "before": null,
+    "after": "An observed treated pre-exposure mean can be a relevant untreated historical baseline; a constructed post-treatment counterfactual level is not required merely because the effect is DiD. Table5 cols8–9 estimate analyst-stock boldness effects, whereas Table1 labels its t-1 summary variables firm/fiscal-quarter (short n=181; long n=534). This conflicts with the analyst-stock construction in AppendixB; neither aggregation nor correspondence to regression weights is resolved. Retain unknown rather than assuming same units from a common variable name or asserting known mismatch. Actual boldness columns are8/9, not prose6/7."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H977",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H978",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H979",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H980",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I977",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I978",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I979",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I980",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J977",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J978",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J979",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J980",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K977",
+    "before": null,
+    "after": "Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K978",
+    "before": null,
+    "after": "Reported outcome uses price scaling: signed forecast error (optimism), absolute forecast error (inaccuracy), or cross-analyst forecast SD (dispersion), as defined in AppendixB. SD across forecasts is not estimation in outcome-SD units. Coefficient x100 display is not a log transform. Zero mass is not documented."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K979",
+    "before": null,
+    "after": "Absolute difference of analyst most recent forecast in first two months of quarter and consensus of other analysts; AppendixB PDF44 does not specify price scaling for boldness. x100 is table display only. Zero mass unreported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K980",
+    "before": null,
+    "after": "Absolute difference of analyst most recent forecast in first two months of quarter and consensus of other analysts; AppendixB PDF44 does not specify price scaling for boldness. x100 is table display only. Zero mass unreported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I374",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J374",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K374",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L374",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M374",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O374",
+    "before": null,
+    "after": "Implemented Cengiz et al. (2019) stacked-regression estimator: cohort-specific datasets, clean future-treated controls, nine-quarter window, explicitly addressing time-varying effects and treatment-effect heterogeneity (§1.2–1.3, PDF9–10). This is not modern merely because adoption is staggered. Administrative randomized rollout is analyzed with DD, not a separately implemented experimental ITT. Matching is preprocessing; no IV or separate identifying-FE/OLS setting. Main=1: abstract explicitly emphasizes less-bold forecasts and introduction forecast dispersion. Prose PDF26 misnumbers dispersion cols4/5 and boldness cols6/7; actual Table5 mapping is 6/7 and 8/9. Its p<.01 blanket dispersion statement does not match short-term ** marking. Source: Table5 cols6–9 PDF25, §2.2.8 PDF26."
+  }
+]
+```
