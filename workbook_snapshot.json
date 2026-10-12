@@ -19236,7 +19236,16 @@
     "L2078": "0",
     "M2078": "single continuous",
     "N2078": "OnlineA7(3–4): Female Hired Ratio on US-only deal success, 2SLS with average daughters of all partners as sole excluded instrument.",
-    "O2078": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. Caption defines IPO but all dependent-variable column headers say Success; table title and main p.16 describe US-deal robustness. Propose Success with explicit uncertainty, not silently verified. Country indicators are constant in US-only sample: year, industry, round are the effective dummy sets. Their count does not establish identifying HDFE. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Author forthcoming manuscript Table Online A7, printed/PDF p.51; final article §4.4 p.16."
+    "O2078": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. Caption defines IPO but all dependent-variable column headers say Success; table title and main p.16 describe US-deal robustness. Propose Success with explicit uncertainty, not silently verified. Country indicators are constant in US-only sample: year, industry, round are the effective dummy sets. Their count does not establish identifying HDFE. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Author forthcoming manuscript Table Online A7, printed/PDF p.51; final article §4.4 p.16.",
+    "A2079": "9XGMQWX5",
+    "B2079": "h23",
+    "I2079": "1",
+    "J2079": "IV",
+    "K2079": "0",
+    "L2079": "0",
+    "M2079": "single continuous",
+    "N2079": "OnlineA7(5–6): Female Hired Ratio on US-only deal success, 2SLS with average daughters of senior partners as sole excluded instrument.",
+    "O2079": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. Caption defines IPO but all dependent-variable column headers say Success; table title and main p.16 describe US-deal robustness. Propose Success with explicit uncertainty, not silently verified. Country indicators are constant in US-only sample: year, industry, round are the effective dummy sets. Their count does not establish identifying HDFE. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Author forthcoming manuscript Table Online A7, printed/PDF p.51; final article §4.4 p.16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54181,7 +54190,11 @@
     "A4918": "9XGMQWX5",
     "B4918": "h22",
     "C4918": "hy1",
-    "K4918": "OnlineA7 reported dependent variable: column headers say Success; caption defines IPO only. Main p.16 describes US-only deal robustness. Both alternatives are binary, but exact success-versus-IPO definition cannot be certified from this author copy. Do not silently resolve it or create two outcomes from a source contradiction."
+    "K4918": "OnlineA7 reported dependent variable: column headers say Success; caption defines IPO only. Main p.16 describes US-only deal robustness. Both alternatives are binary, but exact success-versus-IPO definition cannot be certified from this author copy. Do not silently resolve it or create two outcomes from a source contradiction.",
+    "A4919": "9XGMQWX5",
+    "B4919": "h23",
+    "C4919": "hy1",
+    "K4919": "OnlineA7 reported dependent variable: column headers say Success; caption defines IPO only. Main p.16 describes US-only deal robustness. Both alternatives are binary, but exact success-versus-IPO definition cannot be certified from this author copy. Do not silently resolve it or create two outcomes from a source contradiction."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
