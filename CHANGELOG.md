@@ -299829,3 +299829,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T11:26:35.928413+00:00 — Review EYAZZ4D5 s5: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H935",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H936",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H937",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H938",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I935",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I936",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I937",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I938",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J935",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J936",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J937",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J938",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K935",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K936",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K937",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K938",
+    "before": null,
+    "after": "spurious as causal outcome: parent setting is prediction/diagnostic only; preserve original definition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I362",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O362",
+    "before": null,
+    "after": "Forecast-encompassing weights measure relative information content. This is not a causal response or a portfolio-rule intervention; no investment positions or wealth enter Eq(6). Source: §3.3.2 Eq(6), Table5 cols6–9 p55 (PDF10)."
+  }
+]
+```
