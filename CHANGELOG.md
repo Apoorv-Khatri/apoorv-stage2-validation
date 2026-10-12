@@ -165861,3 +165861,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:42:29.287131+00:00 — Review CETFVPE5 s1: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H834",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H835",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I834",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I835",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J834",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J835",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K834",
+    "before": null,
+    "after": "Spurious as an outcome of the rejected causal setting; the reported return variable itself is real."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K835",
+    "before": null,
+    "after": "Spurious as an outcome of the rejected causal setting; the reported return variable itself is real."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I299",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O299",
+    "before": null,
+    "after": "Spurious as a causal setting. These are explicitly predictive returns-on-past-returns regressions, not effects of changing past returns. Authors call both seasonalities and reversals associations (p139 lines111–118) and identify same/other returns as noisy signals of the same latent expected return (p146 lines553–554). The LLM incorrectly promotes a mispricing interpretation of a covariance pattern into causal treatment coefficients. No outcome-level benchmark: 1% predictor differences translated to0.055%/−0.19% predicted return differences are dose conversions. Source: §3.1.1 pp145–146; Table1; main.txt 486–588."
+  }
+]
+```
