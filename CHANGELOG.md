@@ -330489,3 +330489,264 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:37:14.483127+00:00 — Review F4QBG3CB s7: source-audited coding and linked comparisons
+
+42 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4222",
+    "before": null,
+    "after": "F4QBG3CB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4222",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4222",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K212",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K213",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K214",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K216",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K217",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4222",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L212",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L215",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4222",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M212",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M215",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4222",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N212",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4222",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O212",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4222",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P212",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P215",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4222",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q212",
+    "before": null,
+    "after": "§6/Table7 PDF21: 2x both encounter rates changes aggregate market present value by +1.19% of unrestricted-equilibrium aggregate PV*(All). Main prose supplies direction; printed table lacks minus signs."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q215",
+    "before": null,
+    "after": "§6/Table7 PDF21: 10x both encounter rates changes aggregate market present value by -5.14% of unrestricted-equilibrium aggregate PV*(All). Main prose supplies direction; printed table lacks minus signs."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4222",
+    "before": null,
+    "after": "Table7 PDF21, 5x encounter rates: printed total-PV change magnitude 2.74 percent of unrestricted aggregate PV*(All). Table visually lacks the expected negative sign; no explicit prose numeric 5x sign. Eligibility and normalization clear; signed value unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R212",
+    "before": null,
+    "after": "Same-outcome aggregate PV denominator qualifies. Not an outcome mean. Verbal prose repeats the table effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R213",
+    "before": null,
+    "after": "Ineligible cross-outcome benchmark: investor-only or entrepreneur-only PV change is divided by aggregate market PV*(All), not that group’s own outcome level. Keep effect in setting description but reject magnitude-comparison record."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R214",
+    "before": null,
+    "after": "Ineligible cross-outcome benchmark: investor-only or entrepreneur-only PV change is divided by aggregate market PV*(All), not that group’s own outcome level. Keep effect in setting description but reject magnitude-comparison record."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R215",
+    "before": null,
+    "after": "Same-outcome aggregate PV denominator qualifies. Not an outcome mean. Verbal prose repeats the table effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R216",
+    "before": null,
+    "after": "Ineligible cross-outcome benchmark: investor-only or entrepreneur-only PV change is divided by aggregate market PV*(All), not that group’s own outcome level. Keep effect in setting description but reject magnitude-comparison record."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R217",
+    "before": null,
+    "after": "Ineligible cross-outcome benchmark: investor-only or entrepreneur-only PV change is divided by aggregate market PV*(All), not that group’s own outcome level. Keep effect in setting description but reject magnitude-comparison record."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4222",
+    "before": null,
+    "after": "Do not silently replace printed 2.74 with -2.74; adding-up and narrative suggest a loss, but that inference is not a printed coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I386",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J386",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K386",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L386",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M386",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N386",
+    "before": null,
+    "after": "Structural equilibrium response to 2-, 5-, and 10-fold increases in both encounter frequencies, holding other estimated parameters fixed, Table7/§6. Nonbinary encounter-rate dose. Outcomes: aggregate present value and separate investor/entrepreneur present values. All reported percentages use aggregate unrestricted-market PV, not each group’s own PV."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O386",
+    "before": null,
+    "after": "Nonlinear structural dynamic search-and-matching equilibrium estimated by efficient-weight GMM; endogenous contract choice and latent agent qualities jointly modeled. Random encounters, functional forms and success-to-value mapping identify the response; this is not linear IV, empirical covariate matching, or identifying FE. Structural quality-distribution parameters and model-fit moments are not separate causal treatments. Table7 visually lacks minus signs; prose establishes +1.19% at 2x, -5.14% at 10x, and entrepreneur losses. 5x total printed magnitude 2.74 has unresolved printed sign; do not silently repair using adding-up. Extensive entry/exit and unchanged-arrival counterfactual are not estimated. Source: §6/Table7 PDF21 printed151."
+  }
+]
+```
