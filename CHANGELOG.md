@@ -139962,3 +139962,270 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:33:08.185244+00:00 — Review ACJ72JDD s5: source-audited coding and linked comparisons
+
+43 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H767",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H768",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H769",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H770",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H771",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H772",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H773",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H774",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H775",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I767",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I768",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I769",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I770",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I771",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I772",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I773",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I774",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I775",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J767",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J768",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J769",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J770",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J771",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J772",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J773",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J774",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J775",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K767",
+    "before": null,
+    "after": "Hourly average net Tether/Bitcoin flow between Bitfinex and Poloniex/Bittrex, measured in Bitcoin units. Table V local $50-below/above threshold sample; continuous signed net flow, not a binary transaction indicator. Exact zero mass in this local sample is not documented."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K768",
+    "before": null,
+    "after": "Hourly average net 1LSg-linked Tether/Bitcoin flow, measured in Bitcoin units. Table V local $50-below/above threshold sample; continuous signed net flow, not a binary transaction indicator. Exact zero mass in this local sample is not documented."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K769",
+    "before": null,
+    "after": "Hourly average net flow to other Bittrex accounts, measured in Bitcoin units. Table V local $50-below/above threshold sample; continuous signed net flow, not a binary transaction indicator. Exact zero mass in this local sample is not documented."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K770",
+    "before": null,
+    "after": "Hourly average net flow to other Poloniex accounts, measured in Bitcoin units. Table V local $50-below/above threshold sample; continuous signed net flow, not a binary transaction indicator. Exact zero mass in this local sample is not documented."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K771",
+    "before": null,
+    "after": "Hourly average net flow to Binance, measured in Bitcoin units. Table V local $50-below/above threshold sample; continuous signed net flow, not a binary transaction indicator. Exact zero mass in this local sample is not documented."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K772",
+    "before": null,
+    "after": "Hourly average net flow to HitBTC, measured in Bitcoin units. Table V local $50-below/above threshold sample; continuous signed net flow, not a binary transaction indicator. Exact zero mass in this local sample is not documented."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K773",
+    "before": null,
+    "after": "Hourly average net flow to Huobi, measured in Bitcoin units. Table V local $50-below/above threshold sample; continuous signed net flow, not a binary transaction indicator. Exact zero mass in this local sample is not documented."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K774",
+    "before": null,
+    "after": "Hourly average net flow to Kraken, measured in Bitcoin units. Table V local $50-below/above threshold sample; continuous signed net flow, not a binary transaction indicator. Exact zero mass in this local sample is not documented."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K775",
+    "before": null,
+    "after": "Hourly average net flow to OKEx, measured in Bitcoin units. Table V local $50-below/above threshold sample; continuous signed net flow, not a binary transaction indicator. Exact zero mass in this local sample is not documented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I269",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J269",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K269",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L269",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M269",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N269",
+    "before": null,
+    "after": "Direct local-mean discontinuity of hourly net flows at round Bitcoin price cutoffs: below versus above multiples of $500, within $50 on each side; Table V A–C/Figure8. Group aggregate and decomposed exchange-flow outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O269",
+    "before": null,
+    "after": "Method correction: implementation is OLS on the cutoff dummy, but direct local-mean RD takes precedence. Table V has substantive buying/price-floor outcome, not diagnostic-only first stage. Price at end of prior hour assigns current flow. Main=1 because abstract/conclusion emphasize clustering below round prices. Graph uses $10 bins and second-order fitted curves; regression uses $50 local bins. Local comparability/exclusion are maintained, not established by significance. Source: Figure8/Table V pp.1948–1950; lines1542–1707. Certainty: source-grounded."
+  }
+]
+```
