@@ -328686,3 +328686,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:08:06.100972+00:00 — Review EYWPN7YT h10: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5928",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5929",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5928",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5929",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5928",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5929",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5928",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5929",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5928",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5929",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5928",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5929",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5928",
+    "before": null,
+    "after": "Analyst-stock optimism, signed/absolute earnings error divided by lagged price as baseline; main establishes family (short-term optimism explicitly), not complete IA.7 horizon grid."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5929",
+    "before": null,
+    "after": "Analyst-stock inaccuracy, signed/absolute earnings error divided by lagged price as baseline; main establishes family (short-term optimism explicitly), not complete IA.7 horizon grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2339",
+    "before": null,
+    "after": "EYWPN7YT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2339",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2339",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2339",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2339",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2339",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2339",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2339",
+    "before": null,
+    "after": "Within-analyst comparison of forecasts for stocks joining EDGAR and same analyst future-treated stocks: analyst first treated when at least one covered stock joins. Optimism/inaccuracy improve more in joining stocks; substantial robustness to spillovers."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2339",
+    "before": null,
+    "after": "Internet Appendix not retrieved. Main-text sentence establishes an implemented substantive analysis, but exact appendix specification, coefficient grid and additional outcomes remain unverified; do not infer unseen cells. Main explicitly describes DD redesign holding analyst fixed; no named heterogeneity-robust implementation established for analyst-first-exposure timing. Short-term optimism post estimate 0.706 versus baseline0.595 (x100 reductions) is effect-versus-effect, not an eligible outcome-level comparison. Source: §2.3 PDF28 fn32, referenced IA.7."
+  }
+]
+```

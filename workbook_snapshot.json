@@ -22226,7 +22226,16 @@
     "L2338": "0",
     "M2338": "n/a",
     "N2338": "EDGAR online-access effects restricted to waves1–4 (single January17,1994 treatment date), robustness against anticipation.",
-    "O2338": "Internet Appendix not retrieved. Main-text sentence establishes an implemented substantive analysis, but exact appendix specification, coefficient grid and additional outcomes remain unverified; do not infer unseen cells. Main says results robust using only first four waves, without enumerating appendix outcomes. Single-cohort conventional DD; no inferred modern estimator from baseline stacking alone. Source: §2.3 PDF28, referenced IA.6."
+    "O2338": "Internet Appendix not retrieved. Main-text sentence establishes an implemented substantive analysis, but exact appendix specification, coefficient grid and additional outcomes remain unverified; do not infer unseen cells. Main says results robust using only first four waves, without enumerating appendix outcomes. Single-cohort conventional DD; no inferred modern estimator from baseline stacking alone. Source: §2.3 PDF28, referenced IA.6.",
+    "A2339": "EYWPN7YT",
+    "B2339": "h10",
+    "I2339": "1",
+    "J2339": "DiD_conventional",
+    "K2339": "1",
+    "L2339": "0",
+    "M2339": "n/a",
+    "N2339": "Within-analyst comparison of forecasts for stocks joining EDGAR and same analyst future-treated stocks: analyst first treated when at least one covered stock joins. Optimism/inaccuracy improve more in joining stocks; substantial robustness to spillovers.",
+    "O2339": "Internet Appendix not retrieved. Main-text sentence establishes an implemented substantive analysis, but exact appendix specification, coefficient grid and additional outcomes remain unverified; do not infer unseen cells. Main explicitly describes DD redesign holding analyst fixed; no named heterogeneity-robust implementation established for analyst-first-exposure timing. Short-term optimism post estimate 0.706 versus baseline0.595 (x100 reductions) is effect-versus-effect, not an eligible outcome-level comparison. Source: §2.3 PDF28 fn32, referenced IA.7."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -62667,7 +62676,21 @@
     "H5927": "unknown",
     "I5927": "unknown",
     "J5927": "unknown",
-    "K5927": "Analyst-behavior outcomes in the first-four-wave robustness family; exact IA.6 outcome grid not enumerated in accessible main text. Do not infer all baseline outcomes."
+    "K5927": "Analyst-behavior outcomes in the first-four-wave robustness family; exact IA.6 outcome grid not enumerated in accessible main text. Do not infer all baseline outcomes.",
+    "A5928": "EYWPN7YT",
+    "B5928": "h10",
+    "C5928": "hy1",
+    "H5928": "0",
+    "I5928": "unknown",
+    "J5928": "other",
+    "K5928": "Analyst-stock optimism, signed/absolute earnings error divided by lagged price as baseline; main establishes family (short-term optimism explicitly), not complete IA.7 horizon grid.",
+    "A5929": "EYWPN7YT",
+    "B5929": "h10",
+    "C5929": "hy2",
+    "H5929": "0",
+    "I5929": "unknown",
+    "J5929": "other",
+    "K5929": "Analyst-stock inaccuracy, signed/absolute earnings error divided by lagged price as baseline; main establishes family (short-term optimism explicitly), not complete IA.7 horizon grid."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
