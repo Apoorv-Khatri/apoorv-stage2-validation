@@ -137124,3 +137124,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:48:48.662214+00:00 — Review AAT34438 s1: source-audited coding and linked comparisons
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K150",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L150",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M150",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N150",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O150",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P150",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q150",
+    "before": null,
+    "after": "Original evidence is Table2 column1, not retained stock-FE columns3/6/9/12. The exact estimate–benchmark pair is retained under h1/hc1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R150",
+    "before": null,
+    "after": "Reject only for wrong-setting attachment after genuine OLS/FE split. Preserve original ID."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H753",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I753",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J753",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K753",
+    "before": null,
+    "after": "Price jump ratio CAR(T−1,T+2)/CAR(T−21,T+2), using Fama–French three-factor residualized log returns. This is a ratio, NOT log of the ratio; continuous, zero mass unknown. Denominator volatility filter excludes near-zero denominators, not zero numerators. Eq2 pp2192–2194."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I261",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J261",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K261",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L261",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M261",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N261",
+    "before": null,
+    "after": "Retain original row for Table2 identifying stock+month FE columns3,6,9,12 only: continuous logged odd-lot, trade/order, cancel/trade and average-size proxies affecting the earnings-announcement price jump ratio. Other Table2 columns move to h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O261",
+    "before": null,
+    "after": "Stock FE “absorbs potentially relevant fixed differences in disclosure policy and investor base not captured by the other controls.” Two effective dimensions. Not HDFE. No DiD design. Source: Table2 p2199; §5.1 p2200, footnote21; text1000–1079. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
+  }
+]
+```
