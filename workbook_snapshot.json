@@ -142,6 +142,7 @@
     "B33": "Information Sharing, Holdup, and External Finance: Evidence from Private Firms",
     "C33": "fin",
     "D33": 13,
+    "E33": "DONE — Available-source review: all 30 supplied publication pages including Appendix A/A.1 reviewed and independently cross-checked. Separated three-dimensional borrower/lender/year HDFE from lower-dimensional identifying FE; distinct disclosure determinants and IPO-timing contrasts added, alongside the substantive untabulated disclosure-by-switching interaction. Benchmarks linked to actual specifications; original model fields preserved. Instrument notation, timing categories, Table5 FE reporting, log/percentage scaling and benchmark-population discrepancies explicitly retained. No separately referenced supplement identified; external supplemental coverage not certified. Unknown untabulated implementation and unresolved source discrepancies remain.",
     "A34": "CETFVPE5",
     "B34": "Are return seasonalities due to risk or mispricing?",
     "C34": "fin",
@@ -20015,7 +20016,16 @@
     "L2141": "0",
     "M2141": "n/a",
     "N2141": "Table6 cols1–2: 1[3≤Time to IPO<6] binary event-time-category contrast on disclosure, conditioning on the other category indicator; reference is omitted more-distant pre-IPO category. Year FE with/without loan controls.",
-    "O2141": "Not DiD: no untreated/post comparison or parallel-trends design. Retain a substantive net-cost mechanism result rather than diagnostic-only first stage. Table row gives3≤Time to IPO<6, caption says3 and4 years, prose says next3 years; preserve mismatch and use printed row definition. Caption log-time definition versus year-based dummy labels also unresolved. Source: Table6 pp3093–3094 lines1204–1265; rendered page3094.png."
+    "O2141": "Not DiD: no untreated/post comparison or parallel-trends design. Retain a substantive net-cost mechanism result rather than diagnostic-only first stage. Table row gives3≤Time to IPO<6, caption says3 and4 years, prose says next3 years; preserve mismatch and use printed row definition. Caption log-time definition versus year-based dummy labels also unresolved. Source: Table6 pp3093–3094 lines1204–1265; rendered page3094.png.",
+    "A2142": "BHYG5F75",
+    "B2142": "h13",
+    "I2142": "1",
+    "J2142": "unknown",
+    "K2142": "1",
+    "L2142": "0",
+    "M2142": "unknown",
+    "N2142": "Untabulated §2.3 disclosure × new-lender indicator interactions for subsequent spread and loan-amount outcomes. Binary disclosure effect heterogeneity by realized switching; interaction coefficients statistically insignificant for both outcomes.",
+    "O2142": "Implemented substantive mechanism: improved outside option can benefit borrowers without switching. Exact FE/control configuration and numerical interaction estimates unreported; do not copy HDFE from preferred Table4 column or invent a grid. Unknown method rather than Other; no affirmative IV evidence. Switching is an outcome/moderator, not established predetermined assignment. Insignificant interaction estimates do not prove equal effects or establish the proposed mechanism. Source: §2.3 p3089 lines920–935."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55791,7 +55801,21 @@
     "H5010": "1",
     "I5010": "1",
     "J5010": "none",
-    "K5010": "Disclose: one if at least one eligible financial metric voluntarily disclosed in loan, zero otherwise; not a sample disclosure rate. Main sample rate5.75%, IPO sample9%."
+    "K5010": "Disclose: one if at least one eligible financial metric voluntarily disclosed in loan, zero otherwise; not a sample disclosure rate. Main sample rate5.75%, IPO sample9%.",
+    "A5011": "BHYG5F75",
+    "B5011": "h13",
+    "C5011": "hy1",
+    "H5011": "0",
+    "I5011": "unknown",
+    "J5011": "other",
+    "K5011": "All-in-drawn loan spread outcome in untabulated disclosure × new-lender interaction tests (§2.3). The surrounding Table4 analysis uses next-minus-current natural logs; this scale is inferred from continuation of those tests, not independently specified for the untabulated regression. Human_transform=other records that contextual log-difference reading. Exact specification and observed zero mass are unreported.",
+    "A5012": "BHYG5F75",
+    "B5012": "h13",
+    "C5012": "hy2",
+    "H5012": "0",
+    "I5012": "unknown",
+    "J5012": "other",
+    "K5012": "Loan amount outcome in untabulated disclosure × new-lender interaction tests (§2.3). The surrounding Table4 analysis uses next-minus-current natural logs; this scale is inferred from continuation of those tests, not independently specified for the untabulated regression. Human_transform=other records that contextual log-difference reading. Exact specification and observed zero mass are unreported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

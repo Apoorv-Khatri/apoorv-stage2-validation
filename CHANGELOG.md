@@ -165708,3 +165708,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:25:43.893123+00:00 — Review BHYG5F75 h13: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5011",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5012",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5011",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5012",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5011",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5012",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5011",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5012",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5011",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5012",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5011",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5012",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5011",
+    "before": null,
+    "after": "All-in-drawn loan spread outcome in untabulated disclosure × new-lender interaction tests (§2.3). The surrounding Table4 analysis uses next-minus-current natural logs; this scale is inferred from continuation of those tests, not independently specified for the untabulated regression. Human_transform=other records that contextual log-difference reading. Exact specification and observed zero mass are unreported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5012",
+    "before": null,
+    "after": "Loan amount outcome in untabulated disclosure × new-lender interaction tests (§2.3). The surrounding Table4 analysis uses next-minus-current natural logs; this scale is inferred from continuation of those tests, not independently specified for the untabulated regression. Human_transform=other records that contextual log-difference reading. Exact specification and observed zero mass are unreported."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E33",
+    "before": null,
+    "after": "DONE — Available-source review: all 30 supplied publication pages including Appendix A/A.1 reviewed and independently cross-checked. Separated three-dimensional borrower/lender/year HDFE from lower-dimensional identifying FE; distinct disclosure determinants and IPO-timing contrasts added, alongside the substantive untabulated disclosure-by-switching interaction. Benchmarks linked to actual specifications; original model fields preserved. Instrument notation, timing categories, Table5 FE reporting, log/percentage scaling and benchmark-population discrepancies explicitly retained. No separately referenced supplement identified; external supplemental coverage not certified. Unknown untabulated implementation and unresolved source discrepancies remain."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2142",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2142",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2142",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2142",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2142",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2142",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2142",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2142",
+    "before": null,
+    "after": "Untabulated §2.3 disclosure × new-lender indicator interactions for subsequent spread and loan-amount outcomes. Binary disclosure effect heterogeneity by realized switching; interaction coefficients statistically insignificant for both outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2142",
+    "before": null,
+    "after": "Implemented substantive mechanism: improved outside option can benefit borrowers without switching. Exact FE/control configuration and numerical interaction estimates unreported; do not copy HDFE from preferred Table4 column or invent a grid. Unknown method rather than Other; no affirmative IV evidence. Switching is an outcome/moderator, not established predetermined assignment. Insignificant interaction estimates do not prove equal effects or establish the proposed mechanism. Source: §2.3 p3089 lines920–935."
+  }
+]
+```
