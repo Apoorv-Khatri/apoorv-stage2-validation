@@ -19925,7 +19925,16 @@
     "L2131": "1",
     "M2131": "n/a",
     "N2131": "Table3 columns1–2: binary voluntary disclosure versus no disclosure on changes in syndicate size, retained share and nonbank participant count. Column1 year FE; column2 borrower plus year FE; no lender FE.",
-    "O2131": "Year FE explicitly remove time-varying economic conditions (§2 and Tables2–4 captions); borrower FE remove fixed unobserved quality; lender FE remove persistent lender differences. Count year, borrower, lender as three separate effective dimensions. No DiD design: changes in the dependent variable alone do not imply DiD. Standard FE (one/two sets), not HDFE. No no-FE OLS column exists here, so no artificial OLS setting is added. Source: Table3 cols1–2; pp3085–3088."
+    "O2131": "Year FE explicitly remove time-varying economic conditions (§2 and Tables2–4 captions); borrower FE remove fixed unobserved quality; lender FE remove persistent lender differences. Count year, borrower, lender as three separate effective dimensions. No DiD design: changes in the dependent variable alone do not imply DiD. Standard FE (one/two sets), not HDFE. No no-FE OLS column exists here, so no artificial OLS setting is added. Source: Table3 cols1–2; pp3085–3088.",
+    "A2132": "BHYG5F75",
+    "B2132": "h3",
+    "I2132": "1",
+    "J2132": "FE",
+    "K2132": "1",
+    "L2132": "1",
+    "M2132": "n/a",
+    "N2132": "Table4 columns1–2: binary voluntary disclosure versus no disclosure on changes in log spread and log loan amount. Column1 year FE; column2 borrower plus year FE; no lender FE.",
+    "O2132": "Year FE explicitly remove time-varying economic conditions (§2 and Tables2–4 captions); borrower FE remove fixed unobserved quality; lender FE remove persistent lender differences. Count year, borrower, lender as three separate effective dimensions. No DiD design: changes in the dependent variable alone do not imply DiD. Standard FE (one/two sets), not HDFE. No no-FE OLS column exists here, so no artificial OLS setting is added. Source: Table4 cols1–2; pp3085–3088."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -55642,7 +55651,21 @@
     "H4999": "0",
     "I4999": "unknown",
     "J4999": "none",
-    "K4999": "Outcome is next-minus-current number of nonbank institutions. Zero mass for these changes is not tabulated; level zeros in Table1 do not establish change zeros in each regression sample."
+    "K4999": "Outcome is next-minus-current number of nonbank institutions. Zero mass for these changes is not tabulated; level zeros in Table1 do not establish change zeros in each regression sample.",
+    "A5000": "BHYG5F75",
+    "B5000": "h3",
+    "C5000": "hy1",
+    "H5000": "0",
+    "I5000": "unknown",
+    "J5000": "other",
+    "K5000": "Next-minus-current natural-log all-in-drawn loan spread, Table4 panel A cols1–2. Difference of logs, not log of a change. Percentage interpretations imply a scale convention not expressly stated in the caption; preserve printed coefficients. Observed zero mass of the log change is unreported.",
+    "A5001": "BHYG5F75",
+    "B5001": "h3",
+    "C5001": "hy2",
+    "H5001": "0",
+    "I5001": "unknown",
+    "J5001": "other",
+    "K5001": "Next-minus-current natural-log loan amount, Table4 panel B cols1–2. Difference of logs, not log of a change. Percentage interpretations imply a scale convention not expressly stated in the caption; preserve printed coefficients. Observed zero mass of the log change is unreported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

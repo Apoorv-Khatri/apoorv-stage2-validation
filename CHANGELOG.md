@@ -164592,3 +164592,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:23:26.037094+00:00 — Review BHYG5F75 h3: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A5000",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A5001",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5000",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B5001",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5000",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C5001",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5000",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H5001",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5000",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I5001",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5000",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J5001",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5000",
+    "before": null,
+    "after": "Next-minus-current natural-log all-in-drawn loan spread, Table4 panel A cols1–2. Difference of logs, not log of a change. Percentage interpretations imply a scale convention not expressly stated in the caption; preserve printed coefficients. Observed zero mass of the log change is unreported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K5001",
+    "before": null,
+    "after": "Next-minus-current natural-log loan amount, Table4 panel B cols1–2. Difference of logs, not log of a change. Percentage interpretations imply a scale convention not expressly stated in the caption; preserve printed coefficients. Observed zero mass of the log change is unreported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2132",
+    "before": null,
+    "after": "BHYG5F75"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2132",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2132",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2132",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2132",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2132",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2132",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2132",
+    "before": null,
+    "after": "Table4 columns1–2: binary voluntary disclosure versus no disclosure on changes in log spread and log loan amount. Column1 year FE; column2 borrower plus year FE; no lender FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2132",
+    "before": null,
+    "after": "Year FE explicitly remove time-varying economic conditions (§2 and Tables2–4 captions); borrower FE remove fixed unobserved quality; lender FE remove persistent lender differences. Count year, borrower, lender as three separate effective dimensions. No DiD design: changes in the dependent variable alone do not imply DiD. Standard FE (one/two sets), not HDFE. No no-FE OLS column exists here, so no artificial OLS setting is added. Source: Table4 cols1–2; pp3085–3088."
+  }
+]
+```
