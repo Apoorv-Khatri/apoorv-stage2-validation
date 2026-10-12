@@ -137805,3 +137805,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:49:34.133690+00:00 — Review AAT34438 s3: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H755",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H756",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I755",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I756",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J755",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J756",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K755",
+    "before": null,
+    "after": "Cumulative price-response ratio CAR(T−21,T−k)/CAR(T−21,T+2), k=1,…,21; Eq6 and Figure2. Ratio of log-return sums, not log transformation of the outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K756",
+    "before": null,
+    "after": "Daily incremental response ratio [CAR(T−21,T−k)−CAR(T−21,T−k−1)]/CAR(T−21,T+2), with CAR(T−21,T−22)=0. Table5 bottom panel; ratio/difference construction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I263",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J263",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K263",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L263",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M263",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N263",
+    "before": null,
+    "after": "Dynamic IV system for cumulative and daily incremental price-response ratios at k=1,…,21; four continuous AT proxies and first principal-component factor. Each horizon uses its correspondingly shifted log-price instrument; joint two-step GMM delivers cross-equation Wald tests."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O263",
+    "before": null,
+    "after": "Single continuous excluded log-price instrument per equation/horizon, not a pooled unrestricted21-instrument first stage. System estimation does not change receipt to binary. Standardization in Figure2 is by predicted TREATMENT SD, not outcome SD. Table5 caption control/lag conflict documented separately. Source: §5.3 Eqs6–7, Figure2/Table5 pp2206–2209. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
+  }
+]
+```
