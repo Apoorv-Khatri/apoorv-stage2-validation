@@ -130335,3 +130335,186 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:36:30.014310+00:00 — Review 9SK5H9MK h29: source-audited coding and linked comparisons
+
+29 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4865",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4866",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4867",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4868",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4869",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4865",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4866",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4867",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4868",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4869",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4865",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4866",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4867",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4868",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4869",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4865",
+    "before": null,
+    "after": "aggregate: net job change/2000 nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4866",
+    "before": null,
+    "after": "0-1 years: net job change/2000 nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4867",
+    "before": null,
+    "after": "2-3 years: net job change/2000 nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4868",
+    "before": null,
+    "after": "4-5 years: net job change/2000 nontradable employment"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4869",
+    "before": null,
+    "after": "6+ years: net job change/2000 nontradable employment"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2051",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2051",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2051",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2051",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2051",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2051",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2051",
+    "before": null,
+    "after": "IAVII : alternative scalar Import Bartik instrument N2044; IV continuous two-year regional income-growth response; net job change/2000 nontradable employment. Aggregate/four age bins. Baseline controls/year dummies unless FE specification stated; region-clustered SE; nonoverlapping2001/03/05/07 unless stated otherwise."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2051",
+    "before": null,
+    "after": "Single scalar Import Bartik: preexisting manufacturing shares times changes in national industry net-import penetration (imports minus exports)/US shipments, four-digit NAICS. Replaces manufacturing-employment Bartik; do not pool the two instruments. Author appendix pp.1-2,12. Table F30.4 differs from prose approximately25. Endogenous receipt remains continuous income growth. Source: Author Appendix Table IAVII, printed p.12/appendix PDF13; cols3,5,7,9,11. Source link: https://songma.org/files/amr_jf_app_final.pdf."
+  }
+]
+```
