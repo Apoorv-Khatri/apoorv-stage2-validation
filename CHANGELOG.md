@@ -175113,3 +175113,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:47:45.323069+00:00 — Review DPFRSKRY s10: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H899",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I899",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J899",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K899",
+    "before": null,
+    "after": "DGTW characteristic-benchmark-adjusted stock return, equal-weighted within sorting tercile and averaged over events; reported percent. Annual horizons year−1,+1,+2 and quarterly event return are not all quarterly despite opening caption. Labels completed because human treatment is binary. No reported exact-zero mass; unknown rather than assumed absent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J345",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M345",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N345",
+    "before": null,
+    "after": "Table11 PanelsA–C: equal-weighted DGTW-adjusted return contrast between most-underweighted and most-overweighted stock terciles (1−3), sorted separately by close- and far-fund disaster-quarter weight changes; panelC compares those spreads. Binary extreme-tercile contrast used to interpret the performance cost of overselling, not an identified effect on equilibrium stock prices. Main substantive outcomes are year+1/year+2 abnormal returns; event-quarter and year−1 are context."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O345",
+    "before": null,
+    "after": "Retain under broad causal-intention gate: pp1178–1179 and conclusion explicitly attribute investor performance cost to overselling. Do NOT interpret as identified causal price-pressure effect: authors expressly disclaim that conclusion. Implemented equal-weighted top-bottom return contrast is linear OLS/regression-adjustment, not Other merely because no regression coefficient is printed; DGTW risk adjustment is not causal matching. Focal tercile1-versus-tercile3 contrast is binary although underlying weight-change sorting variable is continuous. PanelC contrasts close/far sorting spreads; it is not an implemented pre/post DiD. Baseline year−1/event returns provide context, post years+1/+2 carry substantive cost result. Several printed Table11 components do not reconcile with spreads; retain printed entries, not repaired values. Source: §3.3.3/Eq4/Table11 pp1176–1179; L1935–2118; conclusion L2281–2286."
+  }
+]
+```
