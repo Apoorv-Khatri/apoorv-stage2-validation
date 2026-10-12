@@ -18632,7 +18632,16 @@
     "L2029": "0",
     "M2029": "n/a",
     "N2029": "TableA.2: quarterly EPS response to equal-weighted establishment temperature exposure; Eq.(2), industry/season subsamples.",
-    "O2029": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Distinct reported robustness location; exposure weighting is not causal Matching. Example Construction & Engineering Q3 heat (−,33°C). Source: Footnote10 p.6; TableA.2 p.34.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+    "O2029": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Distinct reported robustness location; exposure weighting is not causal Matching. Example Construction & Engineering Q3 heat (−,33°C). Source: Footnote10 p.6; TableA.2 p.34.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002.",
+    "A2030": "96H6UQNF",
+    "B2030": "h9",
+    "I2030": "1",
+    "J2030": "FE",
+    "K2030": "0",
+    "L2030": "0",
+    "M2030": "n/a",
+    "N2030": "AppendixA1: temperature–earnings response allowing foreign-revenue-share moderation; add share in levels and interacted with temperature polynomial coefficients, then derive changes in tail-doubling effects.",
+    "O2030": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Substantive missing-international-exposure robustness, not a causal effect of foreign activity per se. Printed right/left impact changes 0.39/−2.18 bp and 4.80 bp in four highlighted cells. These have no explicit outcome-level benchmark. Wald tests summarize the substantive altered response, not independent outcomes. Publisher Internet Appendix Table IA1 caption (printed p.21/PDF22) specifies joint significance tests of moderator × Chebyshev interaction terms, with the moderator also included in levels. These are not Wald/local-Wald treatment-effect estimators, and the printed baseline coefficient block is not a table of each augmented specification’s full coefficients. Several reported Wald values are negative with p=1.000; retain the source inconsistency without treating those entries as valid conventional nonnegative Wald statistics or repairing them. Source: AppendixA1 pp.34,36,38; TableIA1 Wald(intl), printed pp.21–35.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52689,7 +52698,14 @@
     "H4772": "0",
     "I4772": "unknown",
     "J4772": "log1p",
-    "K4772": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established."
+    "K4772": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established.",
+    "A4773": "96H6UQNF",
+    "B4773": "h9",
+    "C4773": "hy1",
+    "H4773": "0",
+    "I4773": "unknown",
+    "J4773": "log1p",
+    "K4773": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

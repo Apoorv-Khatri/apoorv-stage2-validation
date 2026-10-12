@@ -123837,3 +123837,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:27:59.255760+00:00 — Review 96H6UQNF h9: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4773",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4773",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4773",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4773",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4773",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4773",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4773",
+    "before": null,
+    "after": "Quarterly split-adjusted EPS divided by beginning-quarter share price, estimated as log(1+scaled EPS) under Eq.(2). Tail-doubling earnings effects are derived from this response, not a different outcome. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2030",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2030",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2030",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2030",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2030",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2030",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2030",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2030",
+    "before": null,
+    "after": "AppendixA1: temperature–earnings response allowing foreign-revenue-share moderation; add share in levels and interacted with temperature polynomial coefficients, then derive changes in tail-doubling effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2030",
+    "before": null,
+    "after": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Substantive missing-international-exposure robustness, not a causal effect of foreign activity per se. Printed right/left impact changes 0.39/−2.18 bp and 4.80 bp in four highlighted cells. These have no explicit outcome-level benchmark. Wald tests summarize the substantive altered response, not independent outcomes. Publisher Internet Appendix Table IA1 caption (printed p.21/PDF22) specifies joint significance tests of moderator × Chebyshev interaction terms, with the moderator also included in levels. These are not Wald/local-Wald treatment-effect estimators, and the printed baseline coefficient block is not a table of each augmented specification’s full coefficients. Several reported Wald values are negative with p=1.000; retain the source inconsistency without treating those entries as valid conventional nonnegative Wald statistics or repairing them. Source: AppendixA1 pp.34,36,38; TableIA1 Wald(intl), printed pp.21–35.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```
