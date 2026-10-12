@@ -325041,3 +325041,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T12:02:02.463184+00:00 — Review EYWPN7YT s2: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K193",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K194",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L193",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M193",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N193",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O193",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P193",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q193",
+    "before": null,
+    "after": "§2.2.1 PDF15 and Table3 col1 PDF17: inclusion-quarter estimate -0.170 analysts, compared with Table1 treated pretreatment mean2.110; authors report8.1% decline. Original incorrectly attached8.1% to next-four-quarter estimate -0.232. Benchmark treated stocks before exposure."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R193",
+    "before": null,
+    "after": "An observed treated pre-exposure mean can be a relevant untreated historical baseline; a constructed post-treatment counterfactual level is not required merely because the effect is DiD. Table1 is the2,016 matched treated firms at t-1, and Table3 col1 uses the full4,032 matched firms, so the stock population and outcome scale match. However, effective pooled regression/cohort weights are not stated to equal the simple treated-stock mean; retain unknown for that specific unresolved weighting, not merely because the benchmark is preperiod.8.1% links to -0.170, not -0.232."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R194",
+    "before": null,
+    "after": "Only a probability-scale coefficient (3.1 and4 percentage points), with no separate probability/base-rate benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H956",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H957",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I956",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I957",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J956",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J957",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K957",
+    "before": null,
+    "after": "Coverage indicator takes 1 if analyst covers firm that quarter and 0 otherwise (Table3 note); zero category is explicitly implemented, contrary to model zero_mass=0."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J367",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M367",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N367",
+    "before": null,
+    "after": "Binary online-access EDGAR exposure: stock-level analyst count and analyst-stock coverage indicator, Table3 cols1,3. Static inclusion-quarter and next-four-quarter effects; dynamic Figure2 separately recorded in h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O367",
+    "before": null,
+    "after": "Implemented Cengiz et al. (2019) stacked-regression estimator: cohort-specific datasets, clean future-treated controls, nine-quarter window, explicitly addressing time-varying effects and treatment-effect heterogeneity (§1.2–1.3, PDF9–10). This is not modern merely because adoption is staggered. Administrative randomized rollout is analyzed with DD, not a separately implemented experimental ITT. Matching is preprocessing; no IV or separate identifying-FE/OLS setting. Source: Table3 cols1,3 PDF17; §2.2.1 PDF15–18."
+  }
+]
+```
