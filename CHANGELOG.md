@@ -168285,3 +168285,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T07:09:35.956358+00:00 — Review CN4YZYPH s17: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I326",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J326",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K326",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L326",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M326",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N326",
+    "before": null,
+    "after": "Table11 cols1–3 only: continuous compensation-peer RPQ effect on changes in Jones discretionary accruals, ROA-matched discretionary accruals and cash-flow-based earnings-management measure. Bonus-peer treatment split separately."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O326",
+    "before": null,
+    "after": "Causal-intention gate passes: authors interpret this focal peer-quality/policy contrast as affecting the stated outcome. Year/industry dummy controls alone have no separately argued identifying role; retain OLS classification, not HDFE. Source: §7.4/Table11 cols1–3 pp215–216; lines1512–1633."
+  }
+]
+```
