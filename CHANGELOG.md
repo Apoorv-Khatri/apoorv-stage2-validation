@@ -162825,3 +162825,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:20:21.147059+00:00 — Review BHYG5F75 s3: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H814",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H815",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I814",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I815",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J814",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J815",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K814",
+    "before": null,
+    "after": "Difference of natural logs (next minus current), interpreted on percentage/log-point scale in Tables4/9. Not log of the change. Scaling by100 is implicit in percentage prose, not explicitly stated in caption. Zero change is possible but observed point mass is not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K815",
+    "before": null,
+    "after": "Difference of natural logs (next minus current), interpreted on percentage/log-point scale in Tables4/9. Not log of the change. Scaling by100 is implicit in percentage prose, not explicitly stated in caption. Zero change is possible but observed point mass is not reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I288",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J288",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K288",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L288",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M288",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N288",
+    "before": null,
+    "after": "Voluntary disclosure (at least one of seven financial metrics, subject to financial-statement reference and covenant exclusion rules) versus no disclosure; Table4 panelsA–B cols3–4 p3088 lines849–907. Retain only columns3–4 with borrower, lender and year FE; columns1–2 are separate standard-FE setting h3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O288",
+    "before": null,
+    "after": "Year FE explicitly remove time-varying economic conditions (§2 and Tables2–4 captions); borrower FE remove fixed unobserved quality; lender FE remove persistent lender differences. Count year, borrower, lender as three separate effective dimensions. No DiD design: changes in the dependent variable alone do not imply DiD. Source: Table4 panelsA–B cols3–4 p3088 lines849–907."
+  }
+]
+```
