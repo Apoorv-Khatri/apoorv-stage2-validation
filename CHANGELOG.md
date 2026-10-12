@@ -176508,3 +176508,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T10:10:43.702416+00:00 — Review ED5IDPT4 s4: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H903",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I903",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J903",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K903",
+    "before": null,
+    "after": "spurious within causal-setting inventory: parent s4 is a diagnostic proxy-validity regression, not a retained causal setting. Original CPIE definition is preserved; probability support or rounded 0/1 values do not themselves establish empirical zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I349",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O349",
+    "before": null,
+    "after": "Reject as diagnostic-only OWR proxy-validity regression. Associations with mechanical turnover dummies and explanatory-power comparisons evaluate an inferred probability. They are not effects of manipulating information arrival, market prices or a measurement rule. Structural estimation used to construct CPIE does not turn this downstream diagnostic OLS into a causal setting. Source: §4.2/Table9 pp812–813, main.txt L1276–1343."
+  }
+]
+```
