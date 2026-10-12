@@ -163827,3 +163827,144 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T06:22:44.687438+00:00 — Review BHYG5F75 s13: source-audited coding and linked comparisons
+
+22 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K160",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L160",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M160",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N160",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O160",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P160",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q160",
+    "before": null,
+    "after": "Table10 col6 Underpricing coefficient −0.8619 percentage points. p3100: across specifications18–86bps, or2.5%–12.3% of average underpricing in IPO sample. Exact mean not printed; record only this focal column, not pooled OLS/IV range."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R160",
+    "before": null,
+    "after": "Benchmark is observed IPO-sample mean, not identified untreated counterfactual. Continuous-IV weighting/local target and corresponding untreated mean are not established; use unknown rather than invent a binary-instrument complier population."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H832",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H833",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I832",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I833",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J832",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J833",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K832",
+    "before": null,
+    "after": "Natural log of IPO dollar amount, as defined in Table10 caption. Printed coefficients are 0.3575, 0.3638 and 3.3019; p3100 describes the IV coefficient 3.3019 as a 3.3% increase. Caption and interpretation are inconsistent unless an unstated rescaling was used; the source does not establish whether rescaling or a prose error explains this. Preserve both, do not infer a verified multiplier or exponentiate 3.3019 as an author-reported effect. Observed zero mass on the reported log scale is unreported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K833",
+    "before": null,
+    "after": "IPO underpricing percentage per Table10 caption; −0.1838/−0.1876/−0.8619 interpreted as approximately18–86bps in text. No observed zero mass reported; do not convert these into18–86 percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I298",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J298",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K298",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L298",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M298",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O298",
+    "before": null,
+    "after": "Single nonbinary excluded source: (t−T_i^0)/T_i^MAX, the fraction elapsed from first sample appearance to IPO, Eq4. Linear stages predict time to IPO, then disclosure, then outcome using the same included X and year FE. IV precedence applies to actual binary disclosure receipt. AppendixA uses a stylized centered remaining-time formula (T−Tbar)/Tmax instead, not an additional jointly used instrument. Introduction describes fraction remaining, while Eq4 uses elapsed; preserve this sign/centering discrepancy. Exclusion relies on the life-cycle variation affecting financing only through disclosure; Appendix orthogonality claim is not a proof of this exclusion. Bootstrapped SE; possible weak/noisy identification acknowledged p3096. Public-offering extension is supporting. Table10 log IPO amount coefficients 0.3575,0.3638,3.3019 conflict with the p3100 interpretation of IV3.3019 as3.3% under the caption’s natural-log definition. An unstated multiplier or a prose error could explain this; neither is verified. Preserve both printed values and wording without silently resolving the conflict. Visual Eq4 caution: the printed second-stage disclosure equation omits a slope coefficient on predicted time to IPO, whereas stylized AppendixA2 prints β². This is a source-notation ambiguity. Author-explicit IV and the scalar excluded source support IV/single continuous coding, but common controls alone do not prove an exactly implemented conventional 2SLS projection; no replication code is available here. Source: Table10 cols3,6 p3099; Eq4 p3096; AppendixA p3101."
+  }
+]
+```
