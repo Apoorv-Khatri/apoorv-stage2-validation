@@ -141009,3 +141009,888 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T05:35:33.375204+00:00 — Review ACJ72JDD h7: source-audited coding and linked comparisons
+
+146 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A2166",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2167",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2168",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2169",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2170",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2171",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2172",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A2173",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2166",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2167",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2168",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2169",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2170",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2171",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2172",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B2173",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2166",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2167",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2168",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2169",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2170",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2171",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2172",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C2173",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2167",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2168",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2169",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2170",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2171",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2172",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K2173",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2166",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2167",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2168",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2169",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2170",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2171",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2172",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L2173",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2166",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2167",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2168",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2169",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2170",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2171",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2172",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M2173",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2167",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2168",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2169",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2170",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2171",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2172",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N2173",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2167",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2168",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2169",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2170",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2171",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2172",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O2173",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2166",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2167",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2168",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2169",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2170",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2171",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2172",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P2173",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2166",
+    "before": null,
+    "after": "§III.C p.1941: actual Bitcoin buy-and-hold481.8%, deleted95 high-flow-hour path198.5%; attributed58.8% of actual return. Same March1,2017–Mar31,2018 horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2167",
+    "before": null,
+    "after": "§III.C p.1941/Figure6B p.1943: Dash reduction53% of actual buy-and-hold return after deleting top1% selected hours; exact realized/deleted levels not labeled."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2168",
+    "before": null,
+    "after": "Figure6B p.1943 and §III.C p.1941 explicitly compare Ethereum Classic actual compounded buy-and-hold return against return excluding95 selected hours; exact levels/individual fraction not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2169",
+    "before": null,
+    "after": "§III.C p.1941 footnote30/Figure6B p.1943: Ethereum actual nearly2400%, excluding95 selected hours about900%; comparison to realized same-horizon compounded return."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2170",
+    "before": null,
+    "after": "Figure6B p.1943 and §III.C p.1941 explicitly compare Litecoin actual compounded buy-and-hold return against return excluding95 selected hours; exact levels/individual fraction not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2171",
+    "before": null,
+    "after": "Figure6B p.1943 and §III.C p.1941 explicitly compare Monero actual compounded buy-and-hold return against return excluding95 selected hours; exact levels/individual fraction not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2172",
+    "before": null,
+    "after": "§III.C p.1941/Figure6B p.1943: Zcash reduction79% of actual buy-and-hold return after deleting top1% selected hours; exact realized/deleted levels not labeled."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q2173",
+    "before": null,
+    "after": "Figure6A p.1943 and §III.C p.1941: distribution of Bitcoin compound returns when95 selected next-hour returns are replaced by random other-hour returns (10000 draws) versus actual481.8% fixed-horizon return. Bootstrap mean not printed for this aggregate-flow series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2166",
+    "before": null,
+    "after": "Actual realized compounded return over fixed horizon is a same-outcome level, not an outcome mean/SD. Figure6B legend conflicts with caption/prose; use text for semantic assignment and retain conflict. Six-coin average64.5% is not assigned to each individual coin."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2167",
+    "before": null,
+    "after": "Actual realized compounded return over fixed horizon is a same-outcome level, not an outcome mean/SD. Figure6B legend conflicts with caption/prose; use text for semantic assignment and retain conflict. Six-coin average64.5% is not assigned to each individual coin."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2168",
+    "before": null,
+    "after": "Actual realized compounded return over fixed horizon is a same-outcome level, not an outcome mean/SD. Figure6B legend conflicts with caption/prose; use text for semantic assignment and retain conflict. Six-coin average64.5% is not assigned to each individual coin."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2169",
+    "before": null,
+    "after": "Actual realized compounded return over fixed horizon is a same-outcome level, not an outcome mean/SD. Figure6B legend conflicts with caption/prose; use text for semantic assignment and retain conflict. Six-coin average64.5% is not assigned to each individual coin."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2170",
+    "before": null,
+    "after": "Actual realized compounded return over fixed horizon is a same-outcome level, not an outcome mean/SD. Figure6B legend conflicts with caption/prose; use text for semantic assignment and retain conflict. Six-coin average64.5% is not assigned to each individual coin."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2171",
+    "before": null,
+    "after": "Actual realized compounded return over fixed horizon is a same-outcome level, not an outcome mean/SD. Figure6B legend conflicts with caption/prose; use text for semantic assignment and retain conflict. Six-coin average64.5% is not assigned to each individual coin."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2172",
+    "before": null,
+    "after": "Actual realized compounded return over fixed horizon is a same-outcome level, not an outcome mean/SD. Figure6B legend conflicts with caption/prose; use text for semantic assignment and retain conflict. Six-coin average64.5% is not assigned to each individual coin."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R2173",
+    "before": null,
+    "after": "Distinct replacement estimand from deletion198.5%; plotted distribution is linked to actual same-outcome level, not a treatmentSD or estimated-effect benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4949",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4950",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4951",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4952",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4953",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4954",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4955",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4949",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4950",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4951",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4952",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4953",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4954",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4955",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4949",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4950",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4951",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4952",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4953",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4954",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4955",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4949",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4950",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4951",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4952",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4953",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4954",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4955",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4949",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4950",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4951",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4952",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4953",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4954",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4955",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4949",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4950",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4951",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4952",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4953",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4954",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4955",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4949",
+    "before": null,
+    "after": "Bitcoin compounded buy-and-hold return (percent) and corresponding price path, March1,2017–March31,2018, actual versus selected-hour deletion/replacement."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4950",
+    "before": null,
+    "after": "Dash compounded buy-and-hold return (percent) and corresponding price path, March1,2017–March31,2018, actual versus selected-hour deletion/replacement."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4951",
+    "before": null,
+    "after": "Ethereum Classic compounded buy-and-hold return (percent) and corresponding price path, March1,2017–March31,2018, actual versus selected-hour deletion/replacement."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4952",
+    "before": null,
+    "after": "Ethereum compounded buy-and-hold return (percent) and corresponding price path, March1,2017–March31,2018, actual versus selected-hour deletion/replacement."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4953",
+    "before": null,
+    "after": "Litecoin compounded buy-and-hold return (percent) and corresponding price path, March1,2017–March31,2018, actual versus selected-hour deletion/replacement."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4954",
+    "before": null,
+    "after": "Monero compounded buy-and-hold return (percent) and corresponding price path, March1,2017–March31,2018, actual versus selected-hour deletion/replacement."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4955",
+    "before": null,
+    "after": "Zcash compounded buy-and-hold return (percent) and corresponding price path, March1,2017–March31,2018, actual versus selected-hour deletion/replacement."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2105",
+    "before": null,
+    "after": "ACJ72JDD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2105",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2105",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2105",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2105",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2105",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2105",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2105",
+    "before": null,
+    "after": "§III.C/Figure6: counterfactual compounded-price/return path retaining all hours versus deleting (or bootstrapping replacements for) next-hour returns following top1% aggregate-flow hours. Bitcoin and six other cryptocurrencies."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2105",
+    "before": null,
+    "after": "Nonlinear compounding/deletion is Other, not causal OLS or an identified policy strategy. Binary path-construction contrast; lagged flows select hours, not future returns. No full equilibrium counterfactual: other returns fixed, spillovers outside selected hours and later selling omitted. Figure6 B LEGEND says red=excluding and blue=realized; caption/prose and ETH example say actual red, excluded blue. Preserve conflict and do not digitize uncertain exact bar values. The64.5% six-coin average reduction summarizes the coin-specific comparisons; no additional pseudo-outcome or common average-return denominator is created. Source: §III.C p.1941, Figure6 p.1943, caveats p.1945; lines1266–1380. Certainty: source-grounded."
+  }
+]
+```
