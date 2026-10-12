@@ -133446,3 +133446,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:38:39.548927+00:00 — Review 9XGMQWX5 s3: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K146",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L146",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M146",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N146",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O146",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P146",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q146",
+    "before": null,
+    "after": "Final p.12, Table9(4) p.11: one additional daughter on average among senior partners, conditional on children, coefficient 0.032 =3.2 percentage points deal success. Explicitly compared with overall 27.3% success rate. Table3A p.6 benchmark covers 10987 deals; regression N=10435."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R146",
+    "before": null,
+    "after": "Comparison eligible but continuous-dose target and counterfactual baseline weights unspecified. Do not infer alignment from same data source; no ratio is stated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K732",
+    "before": null,
+    "after": "Model zero-mass=0 is incorrect: the untransformed deal-success indicator includes unsuccessful deals coded0 (Table3A and Success definitions). Detailed Human outcome labels may remain blank because treatment is nonbinary."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I249",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J249",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K249",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L249",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M249",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N249",
+    "before": null,
+    "after": "Table9 reduced-form direct effect of average daughters among hiring-relevant all/senior partners, conditional on average children, on deal success. This is not IV receipt."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O249",
+    "before": null,
+    "after": "Conditional on total children, daughter composition is treated as exogenous under absence of sex selection and gender-dependent stopping. This is a natural-experiment regression, not researcher-randomized RCT assignment. Main Appendix A1 is a stopping-rule diagnostic. Source: Table9 pp.11–12; Eq.4 p.10."
+  }
+]
+```
