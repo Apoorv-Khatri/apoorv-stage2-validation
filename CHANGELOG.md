@@ -123312,3 +123312,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:26:46.955867+00:00 — Review 96H6UQNF h4: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4768",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4768",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4768",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H4768",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I4768",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J4768",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4768",
+    "before": null,
+    "after": "Daily SafeGraph establishment visits, April–June2018–2021, full sample and reported NAICS subsamples; raw count outcome in Poisson model. No explicit evidence of an exact zero atom in regression sample; neither Poisson nor log1p proves observed zeros."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2025",
+    "before": null,
+    "after": "96H6UQNF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2025",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2025",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2025",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2025",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2025",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2025",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2025",
+    "before": null,
+    "after": "TableA.5: Poisson daily-visits regression with binary cold shock and alternative Saturday–Sunday weekend interaction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2025",
+    "before": null,
+    "after": "Two effective FE dimensions: year-quarter × establishment and establishment × day-of-week. p.24 explains absorption of variation over years and systematic weekly foot traffic. Components of interacted sets are not separately counted. No parallel-trends treated/post identification is implemented. Separate reported robustness location; full-sample weekday coefficient −0.0428 and interaction −0.0303. Other because nonlinear Poisson, not FE despite two absorbed sets. Source: TableA.5 p.37; §3.2.1 p.25.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+  }
+]
+```
