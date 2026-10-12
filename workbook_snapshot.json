@@ -19191,7 +19191,16 @@
     "L2073": "0",
     "M2073": "n/a",
     "N2073": "OnlineA5(6): all-partner At Least One Daughter Fraction (share of partners with at least one daughter) on female-hire probability.",
-    "O2073": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. All measures are nonbinary aggregates. Col1 repeats Table7(2) and is not a new setting. Source: Author forthcoming manuscript Table Online A5, printed/PDF p.49; final article §4.4 p.16."
+    "O2073": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. All measures are nonbinary aggregates. Col1 repeats Table7(2) and is not a new setting. Source: Author forthcoming manuscript Table Online A5, printed/PDF p.49; final article §4.4 p.16.",
+    "A2074": "9XGMQWX5",
+    "B2074": "h18",
+    "I2074": "1",
+    "J2074": "OLS",
+    "K2074": "0",
+    "L2074": "0",
+    "M2074": "n/a",
+    "N2074": "OnlineA6(1–2): Female Hired Ratio on IPO-only deal outcome, OLS comparator.",
+    "O2074": "Source is the author-hosted July-2021-path forthcoming manuscript, Online Appendix, not an independently verified final publisher supplement. Final main article p.16 describes these robustness exercises. Keep its labels and estimates version-specific. Receipt is continuous; average children remains included. No same-outcome benchmark paired with these estimates. Receipt definition caution: final p.8 Eq.(2) text defines Female Hired Ratio as historically hired female partners still active divided by all historically hired partners still active, with active meaning at least one deal in the last three years; p.14 repeats historical hires for funds. Table captions instead abbreviate this as active female partners/all active partners. Preserve this scope discrepancy; do not assert all active partners equals the historical-hire risk set, or infer founders are included. Hiring-relevant daughters/children are averaged from existing partners at those active hires’ hiring dates, not current daughter counts at deal date. Source: Author forthcoming manuscript Table Online A6, printed/PDF p.50; final article §4.4 p.16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54116,7 +54125,11 @@
     "A4913": "9XGMQWX5",
     "B4913": "h17",
     "C4913": "hy1",
-    "K4913": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level."
+    "K4913": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level.",
+    "A4914": "9XGMQWX5",
+    "B4914": "h18",
+    "C4914": "hy1",
+    "K4914": "IPO indicator, equal to 1 if the deal went public, 0 otherwise; not the broader IPO-or-profitable-acquisition success measure."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
