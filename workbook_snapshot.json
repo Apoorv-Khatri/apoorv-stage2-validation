@@ -19382,7 +19382,16 @@
     "L2090": "0",
     "M2090": "n/a",
     "N2090": "Quarterly Table8 linear endpoint contrasts comparing high versus low lagged log-price quintiles. Perfect-foresight hedge portfolios are constructed within the endpoint groups; compare normalized cumulative portfolio returns at T and intraperiod timeliness (area under normalized cumulative-return curve) at T.",
-    "O2090": "Binary refers to the implemented quintile5-versus1 contrast, not the underlying continuous sorting variable. Observational linear group contrasts under author’s information-acquisition interpretation; equal portfolio weights are not matching on covariates. No first-stage/Wald division in the price sort. Annual plot and quarterly estimates have separately reported result locations and aggregation. Return normalization is outcome construction, not a separately stated effect-to-own-outcome benchmark. Source: Table8 panelsA/B p2216; §6.2 pp2214–2216. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
+    "O2090": "Binary refers to the implemented quintile5-versus1 contrast, not the underlying continuous sorting variable. Observational linear group contrasts under author’s information-acquisition interpretation; equal portfolio weights are not matching on covariates. No first-stage/Wald division in the price sort. Annual plot and quarterly estimates have separately reported result locations and aggregation. Return normalization is outcome construction, not a separately stated effect-to-own-outcome benchmark. Source: Table8 panelsA/B p2216; §6.2 pp2214–2216. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities.",
+    "A2091": "AAT34438",
+    "B2091": "h4",
+    "I2091": "1",
+    "J2091": "OLS",
+    "K2091": "1",
+    "L2091": "0",
+    "M2091": "n/a",
+    "N2091": "Annual Figure3 time paths comparing high versus low AT quintiles using four proxies and their first principal component. Perfect-foresight hedge portfolios are constructed within the endpoint groups; compare normalized cumulative portfolio returns through preannouncement dates.",
+    "O2091": "Binary refers to the implemented quintile5-versus1 contrast, not the underlying continuous sorting variable. Observational linear group contrasts under author’s information-acquisition interpretation; equal portfolio weights are not matching on covariates. No first-stage/Wald division in the price sort. Annual plot and quarterly estimates have separately reported result locations and aggregation. Return normalization is outcome construction, not a separately stated effect-to-own-outcome benchmark. Source: Figure3 p2215; §6.2 p2214. Source link: https://academic.oup.com/rfs/article/31/6/2184/4708266. Certainty: high except explicitly noted source ambiguities."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -54470,7 +54479,14 @@
     "H4932": "0",
     "I4932": "unknown",
     "J4932": "other",
-    "K4932": "Intraperiod timeliness as of T: area under the normalized cumulative abnormal portfolio return curve, percentage-point-days; Table8B. Continuous aggregate, not a binary outcome; zero mass unestablished."
+    "K4932": "Intraperiod timeliness as of T: area under the normalized cumulative abnormal portfolio return curve, percentage-point-days; Table8B. Continuous aggregate, not a binary outcome; zero mass unestablished.",
+    "A4933": "AAT34438",
+    "B4933": "h4",
+    "C4933": "hy1",
+    "H4933": "0",
+    "I4933": "unknown",
+    "J4933": "other",
+    "K4933": "Relative cumulative abnormal perfect-foresight portfolio return (% of that portfolio’s total abnormal return through T+2), by preannouncement date, with annual sorts. Figure3 plots low-AT minus high-AT."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
