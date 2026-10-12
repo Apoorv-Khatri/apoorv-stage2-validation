@@ -136815,3 +136815,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:48:01.851867+00:00 — Review 9Z93VMJ3 s2: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H743",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H744",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H745",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H746",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I743",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I744",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I745",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I746",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J743",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J744",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J745",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J746",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K743",
+    "before": null,
+    "after": "spurious as a causal-outcome row because parent s2 is excluded. Real observed return/factor series, but used for prediction or descriptive association rather than a causal response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K744",
+    "before": null,
+    "after": "spurious as a causal-outcome row because parent s2 is excluded. Real observed return/factor series, but used for prediction or descriptive association rather than a causal response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K745",
+    "before": null,
+    "after": "spurious as a causal-outcome row because parent s2 is excluded. Real observed return/factor series, but used for prediction or descriptive association rather than a causal response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K746",
+    "before": null,
+    "after": "spurious as a causal-outcome row because parent s2 is excluded. Real observed return/factor series, but used for prediction or descriptive association rather than a causal response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I258",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O258",
+    "before": null,
+    "after": "Spurious causal setting: Section 4.3 explicitly asks whether the decomposition improves predictability, and Table 2 evaluates out-of-sample forecasts using relative squared prediction errors. The original statement that the causal interpretation is that signals help predict returns confuses prediction with causation. Equation (40) is a recursive LJV predictive regression; decomposition, recovered moments and SVIX² forecasts are not all OLS. Neither their forecasting superiority nor their forward-looking information is interpreted as an effect of manipulating a predictor on market returns. No new OLS/Other settings should be split from this excluded forecasting exercise. Source: Section 4.3 pp.334–337; Table 2, Eqs.(39)–(40), p.336 (PDF12).. Certainty: high for the supplied published article; separate Internet Appendix unavailable."
+  }
+]
+```
