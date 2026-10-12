@@ -18596,7 +18596,16 @@
     "L2025": "0",
     "M2025": "n/a",
     "N2025": "TableA.5: Poisson daily-visits regression with binary cold shock and alternative Saturday–Sunday weekend interaction.",
-    "O2025": "Two effective FE dimensions: year-quarter × establishment and establishment × day-of-week. p.24 explains absorption of variation over years and systematic weekly foot traffic. Components of interacted sets are not separately counted. No parallel-trends treated/post identification is implemented. Separate reported robustness location; full-sample weekday coefficient −0.0428 and interaction −0.0303. Other because nonlinear Poisson, not FE despite two absorbed sets. Source: TableA.5 p.37; §3.2.1 p.25.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
+    "O2025": "Two effective FE dimensions: year-quarter × establishment and establishment × day-of-week. p.24 explains absorption of variation over years and systematic weekly foot traffic. Components of interacted sets are not separately counted. No parallel-trends treated/post identification is implemented. Separate reported robustness location; full-sample weekday coefficient −0.0428 and interaction −0.0303. Other because nonlinear Poisson, not FE despite two absorbed sets. Source: TableA.5 p.37; §3.2.1 p.25.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002.",
+    "A2026": "96H6UQNF",
+    "B2026": "h5",
+    "I2026": "1",
+    "J2026": "FE",
+    "K2026": "0",
+    "L2026": "0",
+    "M2026": "n/a",
+    "N2026": "TableA.9: continuous quarterly temperature exposure effects on EPS including extraordinary AND special items, Eq.(2) firm/time FE.",
+    "O2026": "Eq. (2), p.11: firm and time FE identify temperature effects using random/exogenous variation in the distribution of heat around each firm mean. Two effective dimensions, not HDFE; industry and season define separate estimation samples, not extra FE. Temperature polynomial is nonlinear in exposure but the regression is linear in the reported outcome and coefficients; baseline EPS is explicitly log1p. Exact reused-outcome scales are separately reviewed below. No IV, RCT, RD or DiD in baseline. Split from s9; supporting alternative-profitability robustness. Source: §3.2.6 p.26; TableA.9 p.41.. Source link: https://doi.org/10.1016/j.jfineco.2023.07.002."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -52625,7 +52634,14 @@
     "H4768": "0",
     "I4768": "unknown",
     "J4768": "none",
-    "K4768": "Daily SafeGraph establishment visits, April–June2018–2021, full sample and reported NAICS subsamples; raw count outcome in Poisson model. No explicit evidence of an exact zero atom in regression sample; neither Poisson nor log1p proves observed zeros."
+    "K4768": "Daily SafeGraph establishment visits, April–June2018–2021, full sample and reported NAICS subsamples; raw count outcome in Poisson model. No explicit evidence of an exact zero atom in regression sample; neither Poisson nor log1p proves observed zeros.",
+    "A4769": "96H6UQNF",
+    "B4769": "h5",
+    "C4769": "hy1",
+    "H4769": "0",
+    "I4769": "unknown",
+    "J4769": "log1p",
+    "K4769": "Quarterly EPS including extraordinary and special items, per-share/price-scaled analog of baseline under Eq.(2), log1p transformation inherited from stated specification. Zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
