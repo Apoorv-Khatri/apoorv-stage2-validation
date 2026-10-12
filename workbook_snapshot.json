@@ -19047,7 +19047,16 @@
     "L2057": "0",
     "M2057": "n/a",
     "N2057": "IAX cohort-by-cohort high-minus-low tercile income shocks: employment at startup entry, two and four years later; four cohorts2000-2003; unadjusted linear differences with reported t-statistics. Binary endpoint contrast, no IV.",
-    "O2057": "Same substantive job-resilience interpretation and limitations as s11/s12. Cohort variants grouped at same table; each horizon/year estimate-low-group-mean triple separately coded. Sorting is not a matching estimator. Source: Author Appendix Table IAX Panels A-D, pp.16-17/PDF17-18; main pp.1027-1028. Source link: https://songma.org/files/amr_jf_app_final.pdf. Certainty: moderate."
+    "O2057": "Same substantive job-resilience interpretation and limitations as s11/s12. Cohort variants grouped at same table; each horizon/year estimate-low-group-mean triple separately coded. Sorting is not a matching estimator. Source: Author Appendix Table IAX Panels A-D, pp.16-17/PDF17-18; main pp.1027-1028. Source link: https://songma.org/files/amr_jf_app_final.pdf. Certainty: moderate.",
+    "A2058": "9XGMQWX5",
+    "B2058": "h1",
+    "I2058": "1",
+    "J2058": "OLS",
+    "K2058": "0",
+    "L2058": "0",
+    "M2058": "n/a",
+    "N2058": "Table8(3): Average Daughter Ratio, mean of each senior active partner’s daughter/children ratio, on female-hire probability, conditional on average children and firm/year controls.",
+    "O2058": "Treatment is the firm-level scalar aggregate, not the underlying binary partner-level indicator. Source: Table8 p.11; §4.1 p.10."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -53904,7 +53913,11 @@
     "A4896": "9XGMQWX5",
     "B4896": "s7",
     "C4896": "hy1",
-    "K4896": "Indicator that the portfolio company has at least one female founder; alternative outcome in §4.3 pp.14–16, no coefficients/table provided in inspected sources."
+    "K4896": "Indicator that the portfolio company has at least one female founder; alternative outcome in §4.3 pp.14–16, no coefficients/table provided in inspected sources.",
+    "A4897": "9XGMQWX5",
+    "B4897": "h1",
+    "C4897": "hy1",
+    "K4897": "Indicator that the new hire is a woman (1) rather than a man (0); hire-event level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
