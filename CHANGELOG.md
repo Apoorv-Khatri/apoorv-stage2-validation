@@ -130518,3 +130518,186 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T04:36:44.316898+00:00 — Review 9SK5H9MK h31: source-audited coding and linked comparisons
+
+29 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A4870",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4871",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4872",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4873",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A4874",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4870",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4871",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4872",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4873",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B4874",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4870",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4871",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4872",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4873",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C4874",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4870",
+    "before": null,
+    "after": "aggregate: net job change/2000 nontradable employment Applies to both credit-control panels; Panel B caption timing conflict remains unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4871",
+    "before": null,
+    "after": "0-1 years: net job change/2000 nontradable employment Applies to both credit-control panels; Panel B caption timing conflict remains unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4872",
+    "before": null,
+    "after": "2-3 years: net job change/2000 nontradable employment Applies to both credit-control panels; Panel B caption timing conflict remains unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4873",
+    "before": null,
+    "after": "4-5 years: net job change/2000 nontradable employment Applies to both credit-control panels; Panel B caption timing conflict remains unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K4874",
+    "before": null,
+    "after": "6+ years: net job change/2000 nontradable employment Applies to both credit-control panels; Panel B caption timing conflict remains unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2052",
+    "before": null,
+    "after": "9SK5H9MK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2052",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2052",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2052",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2052",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2052",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2052",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2052",
+    "before": null,
+    "after": "Author Appendix Table IAVIII Panels A–B: 2SLS continuous two-year local-income-growth effects on nontradable net job creation/2000 CZ nontradable employment, aggregate and four firm-age bins. One scalar manufacturing Bartik excluded instrument. Panel A controls local-deposit growth; Panel B controls local-small-business-loan growth. Group these routine control variants in one setting. Both print N=2044; baseline controls/year indicators and CZ-clustered errors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2052",
+    "before": null,
+    "after": "Panel A IV coefficients (aggregate, age0–1,2–3,4–5,6+) = .296,.271,-.035,-.011,.070; Panel B = .310,.273,-.035,-.006,.077. Preserve source conflict: caption says nonoverlapping2001/03/05/07 but separately calls B overlapping2000–2007; exact B timing unresolved. Controls are included, not additional excluded instruments. Author-hosted appendix is not authenticated publisher supplement. Replaces unwritten h33; map h33/hy1–hy5 to h31/hy1–hy5; no comparisons were attached to h33. Source: Author Appendix Table IAVIII A–B, printed pp.13–14/PDF14–15; appendix-layout.txt lines358–417. Source link: https://songma.org/files/amr_jf_app_final.pdf."
+  }
+]
+```
