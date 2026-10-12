@@ -174513,3 +174513,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-12T09:45:40.084595+00:00 — Review DPFRSKRY s2: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H889",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I889",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J889",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K889",
+    "before": null,
+    "after": "No verified evidence establishes a probability mass at zero in the actual estimation sample. Holdings/trades can in principle be zero, but source does not state whether unheld pairs/exits/no-trade observations are retained; change model zero_mass=1 to unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I337",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J337",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K337",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L337",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M337",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O337",
+    "before": null,
+    "after": "Retain substantive post-event dynamics, not merely diagnostic pretrends. Conventional event-time DiD, not modern heterogeneity-robust DiD. No separate OLS setting for no-FE column1 because DiD identification remains. Main=1 follows abstract/conclusion temporal-decay claim. Source: §3.1.2, Eq2/Table4 pp1162–1164; L949–1020,1050–1098."
+  }
+]
+```
