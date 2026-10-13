@@ -348921,3 +348921,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T02:58:26.928814+00:00 — Review G24W3YTK s4: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K227",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K228",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K229",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R227",
+    "before": null,
+    "after": "Reject independently of parent gate: R2 is a model fit/variance-explained statistic, not a focal causal estimate normalized by the same outcome mean, SD, or stated level. Variance is not an outcome SD, and 100% total variation is not other_level. Percent units of coefficients do not create a benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R228",
+    "before": null,
+    "after": "Reject independently of parent gate: R2 is a model fit/variance-explained statistic, not a focal causal estimate normalized by the same outcome mean, SD, or stated level. Variance is not an outcome SD, and 100% total variation is not other_level. Percent units of coefficients do not create a benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R229",
+    "before": null,
+    "after": "Reject independently of parent gate: R2 is a model fit/variance-explained statistic, not a focal causal estimate normalized by the same outcome mean, SD, or stated level. Variance is not an outcome SD, and 100% total variation is not other_level. Percent units of coefficients do not create a benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1041",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1041",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1041",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1041",
+    "before": null,
+    "after": "spurious causal outcome: parent is a forecast/prediction exercise, not an author-interpreted treatment effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I398",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O398",
+    "before": null,
+    "after": "Spurious causal setting: alternative predictive models and forecast-accuracy evaluation only. Survey column fixes intercept=0 and coefficient=1; do not treat it as an estimated effect. MAE and R2 are predictive performance, not same-outcome effect benchmarks. Source: §4.2 Table 7, PDF23–24 / pp1311–1312."
+  }
+]
+```
