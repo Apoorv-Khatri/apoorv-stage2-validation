@@ -23360,7 +23360,16 @@
     "L2447": "0",
     "M2447": "n/a",
     "N2447": "AppendixA6 last column: high-versus-other lottery-search-day effect on market-minus-industry correlation and adjusted R².",
-    "O2447": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Separate differential estimand; not parallel-trends DiD. Correlation differential mean/median0.005/0.008, adjusted R²0.003/0.005. No new level benchmark from comparing estimated market/industry effects. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA6 PDF8."
+    "O2447": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Separate differential estimand; not parallel-trends DiD. Correlation differential mean/median0.005/0.008, adjusted R²0.003/0.005. No new level benchmark from comparing estimated market/industry effects. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA6 PDF8.",
+    "A2448": "GLSWBYDJ",
+    "B2448": "h17",
+    "I2448": "1",
+    "J2448": "Other",
+    "K2448": "1",
+    "L2448": "0",
+    "M2448": "n/a",
+    "N2448": "AppendixA7: large-jackpot effects on market-minus-industry co-movement stratified by industry size terciles, defined by number of firms (A) or industry market capitalization (B).",
+    "O2448": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Routine size-proxy/subsample variants grouped for the same jackpot differential estimand; not an identified effect of changing industry size. Tercile timing is not established; do not claim predetermined membership. Retain large-industry insignificant differential results alongside small-industry effects. Differences winsorized2.5/97.5%. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA7 PDF9; main§5 p382 OA7."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -66147,7 +66156,21 @@
     "H6243": "0",
     "I6243": "unknown",
     "J6243": "other",
-    "K6243": "Market-minus-industry difference in the high-search-minus-other-search change in adjusted R². Continuous nonlinear dependence-functional differential."
+    "K6243": "Market-minus-industry difference in the high-search-minus-other-search change in adjusted R². Continuous nonlinear dependence-functional differential.",
+    "A6244": "GLSWBYDJ",
+    "B6244": "h17",
+    "C6244": "hy1",
+    "H6244": "0",
+    "I6244": "unknown",
+    "J6244": "other",
+    "K6244": "Market-minus-industry difference in the large-minus-non-large jackpot change in firm-return correlation. Continuous nonlinear dependence-functional differential.",
+    "A6245": "GLSWBYDJ",
+    "B6245": "h17",
+    "C6245": "hy2",
+    "H6245": "0",
+    "I6245": "unknown",
+    "J6245": "other",
+    "K6245": "Market-minus-industry difference in the large-minus-non-large jackpot change in adjusted R². Continuous nonlinear dependence-functional differential."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
