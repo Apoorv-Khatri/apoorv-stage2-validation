@@ -23261,7 +23261,16 @@
     "L2436": "0",
     "M2436": "n/a",
     "N2436": "Table9 col(2)−(4): any lottery drawing day versus no lottery drawing day; firm-market correlation and adjusted R².",
-    "O2436": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Separate treatment from large-jackpot exposure: ordinary lottery occurrence. Correlation mean/median0.036/0.041; adjusted R²0.032/0.036. Source: Main §4.3/Table9B, PDF13 / p381."
+    "O2436": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Separate treatment from large-jackpot exposure: ordinary lottery occurrence. Correlation mean/median0.036/0.041; adjusted R²0.032/0.036. Source: Main §4.3/Table9B, PDF13 / p381.",
+    "A2437": "GLSWBYDJ",
+    "B2437": "h6",
+    "I2437": "1",
+    "J2437": "Other",
+    "K2437": "1",
+    "L2437": "0",
+    "M2437": "n/a",
+    "N2437": "Table9 col(3)−(4): small jackpot (<64m TWD) day versus no lottery day; firm-market correlation and adjusted R².",
+    "O2437": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Separate ordinary small-prize treatment; correlation mean/median0.026/0.029; adjusted R²0.025/0.022. Source: Main §4.3/Table9B, PDF13 / p381."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -65836,7 +65845,21 @@
     "H6211": "0",
     "I6211": "unknown",
     "J6211": "none",
-    "K6211": "Adjusted R² from firm excess return on market excess return, computed separately over each specified day category. Continuous generated goodness-of-fit outcome, not a probability."
+    "K6211": "Adjusted R² from firm excess return on market excess return, computed separately over each specified day category. Continuous generated goodness-of-fit outcome, not a probability.",
+    "A6212": "GLSWBYDJ",
+    "B6212": "h6",
+    "C6212": "hy1",
+    "H6212": "0",
+    "I6212": "unknown",
+    "J6212": "none",
+    "K6212": "Firm-market Pearson correlation, computed separately over each specified day category. Continuous correlation coefficient; means and medians of firm-specific contrasts reported.",
+    "A6213": "GLSWBYDJ",
+    "B6213": "h6",
+    "C6213": "hy2",
+    "H6213": "0",
+    "I6213": "unknown",
+    "J6213": "none",
+    "K6213": "Adjusted R² from firm excess return on market excess return, computed separately over each specified day category. Continuous generated goodness-of-fit outcome, not a probability."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
