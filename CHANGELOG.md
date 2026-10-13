@@ -353220,3 +353220,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:50:08.684477+00:00 — Review GLSWBYDJ s6: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I411",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J411",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K411",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L411",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M411",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O411",
+    "before": null,
+    "after": "Jackpots are naturally occurring rollovers, not randomized assignment of firms/days, not an instrument, and not an RD at an analyst-selected cutoff. No implemented modern DiD. Causal inclusion follows the authors’ explicit attention-shock interpretation, not proof of exogeneity. Same OLS rank-heterogeneity estimand after residualizing retail ratio on stock price, volatility and skewness. Main=1 because absence of a gambling-sentiment explanation is explicitly central in abstract and conclusion. Table6 correlation coefficients have ** but adjusted R² coefficients only *; prose claim that all are significant at5% is too broad. Do not silently repair. Source: Main §3.5/Table6, PDF9–10 / pp377–378."
+  }
+]
+```
