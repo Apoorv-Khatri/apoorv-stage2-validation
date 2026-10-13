@@ -348375,3 +348375,144 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T02:40:31.482520+00:00 — Review FNTCHE9R s6: source-audited coding and linked comparisons
+
+22 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1027",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1028",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1029",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1030",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1031",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1027",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1028",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1029",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1030",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1031",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1027",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1028",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1029",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1030",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1031",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1027",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s6 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1028",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s6 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1029",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s6 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1030",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s6 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1031",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s6 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I392",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O392",
+    "before": null,
+    "after": "Quarterly conditional consumption model and FF model estimate covariance-risk prices and test spanning restrictions. cay and consumption×cay are factors, not instruments or DiD treatments. Unbounded versus empty sets distinguish weak information from misspecification, not causal outcomes of changing a factor. Reject independently of whether the estimated risk prices are precise. Source: Main §II.B Table V PDF28–29; footnote16 PDF29; IA FigIA7–8 PDF16."
+  }
+]
+```
