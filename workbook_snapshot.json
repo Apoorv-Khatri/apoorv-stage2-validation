@@ -23501,7 +23501,16 @@
     "L2460": "1",
     "M2460": "n/a",
     "N2460": "Switch profitability scaling from current to1-year-lagged balance-sheet denominator in otherwise specified annual NYSE-VW portfolios: Gpa→Gla, Ope→Ole, Opa→Ola. Group three return outcomes under the same binary denominator-timing intervention. Profit definitions differ across outcomes but are unchanged within each pair. Authors explicitly attribute reductions to lagging and interpret gross profitability as confounded with investment under current assets. This is a measurement/portfolio-rule effect, not a firm-profitability causal effect and not causal identification of the investment premium.",
-    "O2460": "Broad author-intention inclusion, moderate confidence. The treatment is an implemented construction/measurement rule, not a stock characteristic causing market returns. Observed return paths are reused; weights and membership may change. Gross historical strategy outcomes ignore endogenous prices, market impact, transaction costs and trading constraints. OLS denotes linear return contrasts or linear slope returns without a higher-priority identifying design; no new regression of returns on a rule dummy is claimed, and portfolio weights define the strategy rather than propensity-score adjustment. Competing reading: replication diagnostics only. Do not infer a nonzero rule effect from one significant and one insignificant premium; no standard error of their difference is reported. Source: Main §3.2.4 PDF47 / p2065; Table3D; AppendixA.4.9–10,12–13,15–16 PDF76–78."
+    "O2460": "Broad author-intention inclusion, moderate confidence. The treatment is an implemented construction/measurement rule, not a stock characteristic causing market returns. Observed return paths are reused; weights and membership may change. Gross historical strategy outcomes ignore endogenous prices, market impact, transaction costs and trading constraints. OLS denotes linear return contrasts or linear slope returns without a higher-priority identifying design; no new regression of returns on a rule dummy is claimed, and portfolio weights define the strategy rather than propensity-score adjustment. Competing reading: replication diagnostics only. Do not infer a nonzero rule effect from one significant and one insignificant premium; no standard error of their difference is reported. Source: Main §3.2.4 PDF47 / p2065; Table3D; AppendixA.4.9–10,12–13,15–16 PDF76–78.",
+    "A2461": "H6AHELRK",
+    "B2461": "h10",
+    "I2461": "1",
+    "J2461": "OLS",
+    "K2461": "1",
+    "L2461": "0",
+    "M2461": "n/a",
+    "N2461": "Within the separately reported microcaps-only universe, switch from Micro-VW to Micro-EW for Pin high-minus-low decile return. The main text highlights this source-specific exception after the all-stock failures; AppendixA4 gives exact estimates0.68 and1.50 percent/month. Two weighting regimes, not a causal effect of becoming a microcap. Same result cited in main text is not counted again. No additional all-anomaly appendix grid.",
+    "O2461": "Broad author-intention inclusion, moderate confidence. The treatment is an implemented construction/measurement rule, not a stock characteristic causing market returns. Observed return paths are reused; weights and membership may change. Gross historical strategy outcomes ignore endogenous prices, market impact, transaction costs and trading constraints. OLS denotes linear return contrasts or linear slope returns without a higher-priority identifying design; no new regression of returns on a rule dummy is claimed, and portfolio weights define the strategy rather than propensity-score adjustment. Competing reading: replication diagnostics only. Do not infer a nonzero rule effect from one significant and one insignificant premium; no standard error of their difference is reported. Source is author-hosted October2018 appendix, not verified byte-identical to publisher supplement. Especially moderate gate: inclusion treats highlighted economic return levels as a substantive rule comparison, not just significance robustness. Source: Author October2018 Internet Appendix TableA4F PDF14 / printed13; main §3.2.6 PDF51 / p2069."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -66577,7 +66586,14 @@
     "H6281": "0",
     "I6281": "unknown",
     "J6281": "none",
-    "K6281": "Ola versus Opa NYSE-VW annual-sort high-minus-low decile monthly return, percent/month; lagged versus current denominator. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+    "K6281": "Ola versus Opa NYSE-VW annual-sort high-minus-low decile monthly return, percent/month; lagged versus current denominator. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass.",
+    "A6282": "H6AHELRK",
+    "B6282": "h10",
+    "C6282": "hy1",
+    "H6282": "0",
+    "I6282": "unknown",
+    "J6282": "none",
+    "K6282": "Microcaps-only Pin high-minus-low decile average monthly return, percent/month. Micro-VW0.68 (t2.60), Micro-EW1.50 (t6.04); high-minus-low, not regression slope. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -114938,7 +114954,18 @@
     "O4398": "0",
     "P4398": "n/a",
     "Q4398": "Ola versus Opa: lagged-denominator0.20%/month versus current-denominator0.41%/month. §3.2.4 explicitly attributes the lower measured premium to scaling. Both are this paper's estimates, not the historical Ball et al.0.29 benchmark.",
-    "R4398": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean."
+    "R4398": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean.",
+    "A4399": "H6AHELRK",
+    "B4399": "h10",
+    "C4399": "hc1",
+    "K4399": "1",
+    "L4399": "hy1",
+    "M4399": "other_level",
+    "N4399": "1",
+    "O4399": "0",
+    "P4399": "n/a",
+    "Q4399": "Pin in microcaps-only sample: Micro-EW1.50%/month versus Micro-VW0.68%/month. Main PDF51 explicitly reports the two weighting-specific return levels; author appendix TableA4F supplies identical cells. No ratio or inferred whole-universe contrast.",
+    "R4399": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

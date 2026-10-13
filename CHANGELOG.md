@@ -366453,3 +366453,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T04:31:40.355615+00:00 — Review H6AHELRK h10: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4399",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4399",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4399",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4399",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4399",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4399",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4399",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4399",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4399",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4399",
+    "before": null,
+    "after": "Pin in microcaps-only sample: Micro-EW1.50%/month versus Micro-VW0.68%/month. Main PDF51 explicitly reports the two weighting-specific return levels; author appendix TableA4F supplies identical cells. No ratio or inferred whole-universe contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4399",
+    "before": null,
+    "after": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6282",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6282",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6282",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6282",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6282",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6282",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6282",
+    "before": null,
+    "after": "Microcaps-only Pin high-minus-low decile average monthly return, percent/month. Micro-VW0.68 (t2.60), Micro-EW1.50 (t6.04); high-minus-low, not regression slope. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2461",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2461",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2461",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2461",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2461",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2461",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2461",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2461",
+    "before": null,
+    "after": "Within the separately reported microcaps-only universe, switch from Micro-VW to Micro-EW for Pin high-minus-low decile return. The main text highlights this source-specific exception after the all-stock failures; AppendixA4 gives exact estimates0.68 and1.50 percent/month. Two weighting regimes, not a causal effect of becoming a microcap. Same result cited in main text is not counted again. No additional all-anomaly appendix grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2461",
+    "before": null,
+    "after": "Broad author-intention inclusion, moderate confidence. The treatment is an implemented construction/measurement rule, not a stock characteristic causing market returns. Observed return paths are reused; weights and membership may change. Gross historical strategy outcomes ignore endogenous prices, market impact, transaction costs and trading constraints. OLS denotes linear return contrasts or linear slope returns without a higher-priority identifying design; no new regression of returns on a rule dummy is claimed, and portfolio weights define the strategy rather than propensity-score adjustment. Competing reading: replication diagnostics only. Do not infer a nonzero rule effect from one significant and one insignificant premium; no standard error of their difference is reported. Source is author-hosted October2018 appendix, not verified byte-identical to publisher supplement. Especially moderate gate: inclusion treats highlighted economic return levels as a substantive rule comparison, not just significance robustness. Source: Author October2018 Internet Appendix TableA4F PDF14 / printed13; main §3.2.6 PDF51 / p2069."
+  }
+]
+```
