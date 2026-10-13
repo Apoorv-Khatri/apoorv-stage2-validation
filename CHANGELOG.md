@@ -374763,3 +374763,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:13:55.398419+00:00 — Review I6VAFIIF h20: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6362",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6362",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6362",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6362",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6362",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6362",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6362",
+    "before": null,
+    "after": "Implementation shortfall (IS), bps, in Abel Noser replication described in §7.6. Main text establishes the IS outcome but not the exact Abel Noser arrival-price/timestamp construction; do not assume the Bank data starting-midquote implementation is directly available in this external source. Nonbinary cost outcome on native scale; zero mass unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2500",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2500",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2500",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2500",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2500",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2500",
+    "before": null,
+    "after": "Abel Noser institutional parent-order sample: glitch event exposure in Eq7, July24–Aug8; NYSE stocks, orders≥$100,000, about95,000 executions; controls include fraction of daily volume,log market cap,daily turnover,broker dummies. IS increases about3 bps day0 and5 bps next five business days, both significant at1%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2500",
+    "before": null,
+    "after": "Published implemented external-data replication; only IS is established, do not invent VWAP outcomes or exact grid. Eq7 explicitly cited, so conventional DiD can be coded despite no displayed table. Broker dummies do not change DiD classification to HDFE; no instrument. Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Source: §7.6 p947/PDF26."
+  }
+]
+```
