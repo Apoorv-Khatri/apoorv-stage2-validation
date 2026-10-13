@@ -378042,3 +378042,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:28:49.929810+00:00 — Review IWL75F9N h1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6369",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6369",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6369",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6369",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6369",
+    "before": null,
+    "after": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2505",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2505",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2505",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2505",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2505",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2505",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2505",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2505",
+    "before": null,
+    "after": "Binary takeover-law exposure effect on CEO turnover conditional on lagged performance, Table2 post×treat terms, full/civil/common/ASDI samples. Separate law-level estimand from continuous sensitivity interactions s1–s3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2505",
+    "before": null,
+    "after": "Eq1 p1598 explicitly identifies a law-level effect as well as the focal sensitivity effect, supporting retention. The binary post×treat coefficient shifts the probit index at performance zero; it is not an unconditional probability effect. The abstract, introduction and conclusion center the performance gradient, not this lower-order level term: supporting rather than main. Actual law probability contrasts depend on performance, the interaction and other covariates; no independent benchmark established. Source: Eq1 p1597–1598/PDF10–11, Table2 p1601/PDF14; lines635–648,813–854."
+  }
+]
+```

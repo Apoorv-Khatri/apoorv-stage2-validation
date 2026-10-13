@@ -24138,7 +24138,16 @@
     "L2504": "0",
     "M2504": "n/a",
     "N2504": "Table5 DMM exposure event-window coefficients conditional on KnightSameSide: substantive supply/capital-shock results in asymmetric specification, all event windows retained. Day0 VWAP4.96,IS32.62; nextweek−3.11,5.37 bps.",
-    "O2504": "Retain the separately printed Table5 event-exposure estimand under the explicit distinct-result-location rule. These coefficients condition on KnightSameSide and are not numerically repeated Table4 effects; no independent experiment is claimed. The baseline exposure coefficients remain conventional DiD despite s3 being a directional OLS/regression-adjusted parameter in the same equation. No new outcome benchmark is stated. Main0: supporting conditional re-estimates rather than the headline directional coefficient. Routine-control pooling is a defensible alternative, but would require consistent treatment of separately reported robustness locations; here preserve separate Table5 location. Source: §5.1.2, Table5 p938/PDF17."
+    "O2504": "Retain the separately printed Table5 event-exposure estimand under the explicit distinct-result-location rule. These coefficients condition on KnightSameSide and are not numerically repeated Table4 effects; no independent experiment is claimed. The baseline exposure coefficients remain conventional DiD despite s3 being a directional OLS/regression-adjusted parameter in the same equation. No new outcome benchmark is stated. Main0: supporting conditional re-estimates rather than the headline directional coefficient. Routine-control pooling is a defensible alternative, but would require consistent treatment of separately reported robustness locations; here preserve separate Table5 location. Source: §5.1.2, Table5 p938/PDF17.",
+    "A2505": "IWL75F9N",
+    "B2505": "h1",
+    "I2505": "1",
+    "J2505": "Other",
+    "K2505": "1",
+    "L2505": "0",
+    "M2505": "n/a",
+    "N2505": "Binary takeover-law exposure effect on CEO turnover conditional on lagged performance, Table2 post×treat terms, full/civil/common/ASDI samples. Separate law-level estimand from continuous sensitivity interactions s1–s3.",
+    "O2505": "Eq1 p1598 explicitly identifies a law-level effect as well as the focal sensitivity effect, supporting retention. The binary post×treat coefficient shifts the probit index at performance zero; it is not an unconditional probability effect. The abstract, introduction and conclusion center the performance gradient, not this lower-order level term: supporting rather than main. Actual law probability contrasts depend on performance, the interaction and other covariates; no independent benchmark established. Source: Eq1 p1597–1598/PDF10–11, Table2 p1601/PDF14; lines635–648,813–854."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68144,7 +68153,14 @@
     "H6368": "0",
     "I6368": "unknown",
     "J6368": "none",
-    "K6368": "Implementation shortfall: signed average execution price minus starting midquote divided by starting midquote, reported bps. Zero mass not established."
+    "K6368": "Implementation shortfall: signed average execution price minus starting midquote divided by starting midquote, reported bps. Zero mass not established.",
+    "A6369": "IWL75F9N",
+    "B6369": "h1",
+    "C6369": "hy1",
+    "H6369": "1",
+    "I6369": "1",
+    "J6369": "none",
+    "K6369": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
