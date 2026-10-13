@@ -23270,7 +23270,16 @@
     "L2437": "0",
     "M2437": "n/a",
     "N2437": "Table9 col(3)−(4): small jackpot (<64m TWD) day versus no lottery day; firm-market correlation and adjusted R².",
-    "O2437": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Separate ordinary small-prize treatment; correlation mean/median0.026/0.029; adjusted R²0.025/0.022. Source: Main §4.3/Table9B, PDF13 / p381."
+    "O2437": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Separate ordinary small-prize treatment; correlation mean/median0.026/0.029; adjusted R²0.025/0.022. Source: Main §4.3/Table9B, PDF13 / p381.",
+    "A2438": "GLSWBYDJ",
+    "B2438": "h7",
+    "I2438": "1",
+    "J2438": "Other",
+    "K2438": "1",
+    "L2438": "1",
+    "M2438": "n/a",
+    "N2438": "Table10 col3: large-jackpot effect on market-minus-industry co-movement, comparing each firm’s jackpot/non-jackpot change in market and industry metrics.",
+    "O2438": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Paper calls this difference-in-differences but does not implement a conventional linear parallel-trends DiD. Keep both correlation and adjusted-R² differential outcomes. Mean/median differential0.005/0.006 for correlation and0.005/0.005 for adjusted R². Marginal medians need not subtract; mean correlation0.018−0.012 versus printed0.005 potentially rounding. Do not repair. Source: Main §5/Table10 col3, PDF14 / p382."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -65859,7 +65868,21 @@
     "H6213": "0",
     "I6213": "unknown",
     "J6213": "none",
-    "K6213": "Adjusted R² from firm excess return on market excess return, computed separately over each specified day category. Continuous generated goodness-of-fit outcome, not a probability."
+    "K6213": "Adjusted R² from firm excess return on market excess return, computed separately over each specified day category. Continuous generated goodness-of-fit outcome, not a probability.",
+    "A6214": "GLSWBYDJ",
+    "B6214": "h7",
+    "C6214": "hy1",
+    "H6214": "0",
+    "I6214": "unknown",
+    "J6214": "other",
+    "K6214": "Market-minus-industry difference in the large-minus-non-large jackpot change in firm-return correlation. Continuous nonlinear dependence-functional differential.",
+    "A6215": "GLSWBYDJ",
+    "B6215": "h7",
+    "C6215": "hy2",
+    "H6215": "0",
+    "I6215": "unknown",
+    "J6215": "other",
+    "K6215": "Market-minus-industry difference in the large-minus-non-large jackpot change in adjusted R². Continuous nonlinear dependence-functional differential."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
