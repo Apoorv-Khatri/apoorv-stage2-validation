@@ -379452,3 +379452,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:50:28.873286+00:00 — Review IWL75F9N h13: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4418",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4418",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4418",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4418",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4418",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4418",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4418",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4418",
+    "before": null,
+    "after": "fn23 p1614/PDF27: full-sample mean board-replacement ratio 5.46%, paired verbally with significantly higher replacement in event years0–2."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4418",
+    "before": null,
+    "after": "Qualitative focal effects are explicitly paired with mean in same paragraph; eligible even without a numerical coefficient. Pooled observed mean across full firms is not untreated targeted-firm counterfactual."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6384",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6384",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6384",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6384",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6384",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6384",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6384",
+    "before": null,
+    "after": "Firm-year board-replacement ratio: number of replaced board members divided by board size; a share, not a binary director indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2517",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2517",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2517",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2517",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2517",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2517",
+    "before": null,
+    "after": "Untabulated firm-level takeover-event effects on board-replacement ratio, full sample; event-year increases T0–T2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2517",
+    "before": null,
+    "after": "Distinct unit/outcome from director-level probit. Regression estimator not named, so unknown rather than assuming linear OLS or fraction/probit model. The sample mean is explicitly linked to the effect discussion; no numerical effect coefficient reported. Source: fn23 p1614/PDF27, lines1720–1725."
+  }
+]
+```

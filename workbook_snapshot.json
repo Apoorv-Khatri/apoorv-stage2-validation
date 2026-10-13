@@ -24246,7 +24246,16 @@
     "L2516": "0",
     "M2516": "n/a",
     "N2516": "Untabulated alternative policy definition: first of takeover or antitrust law used in CEO-turnover performance-sensitivity models.",
-    "O2516": "Distinct joint/earliest law exposure definition. Published prose establishes implemented same-model reestimation and substantive effect. Precise variable construction beyond earlier law and coefficients unreported; no fabricated grid. Source: fn17 p1608/PDF21, lines1324–1327."
+    "O2516": "Distinct joint/earliest law exposure definition. Published prose establishes implemented same-model reestimation and substantive effect. Precise variable construction beyond earlier law and coefficients unreported; no fabricated grid. Source: fn17 p1608/PDF21, lines1324–1327.",
+    "A2517": "IWL75F9N",
+    "B2517": "h13",
+    "I2517": "1",
+    "J2517": "unknown",
+    "K2517": "1",
+    "L2517": "0",
+    "M2517": "unknown",
+    "N2517": "Untabulated firm-level takeover-event effects on board-replacement ratio, full sample; event-year increases T0–T2.",
+    "O2517": "Distinct unit/outcome from director-level probit. Regression estimator not named, so unknown rather than assuming linear OLS or fraction/probit model. The sample mean is explicitly linked to the effect discussion; no numerical effect coefficient reported. Source: fn23 p1614/PDF27, lines1720–1725."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68339,7 +68348,14 @@
     "A6383": "IWL75F9N",
     "B6383": "h12",
     "C6383": "hy1",
-    "K6383": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
+    "K6383": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise.",
+    "A6384": "IWL75F9N",
+    "B6384": "h13",
+    "C6384": "hy1",
+    "H6384": "0",
+    "I6384": "unknown",
+    "J6384": "none",
+    "K6384": "Firm-year board-replacement ratio: number of replaced board members divided by board size; a share, not a binary director indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -116953,7 +116969,18 @@
     "O4417": "0",
     "P4417": "0",
     "Q4417": "§1.3 p1596/PDF9 and Table1B: stated post-law versus never-law increase 1.73 percentage points; never-law group mean 15.52%, versus post-law 17.26%.",
-    "R4417": "Never-law comparison population is not established as untreated target population of adopter contrast. Rounded displayed means do not reproduce exactly the stated 1.73pp; preserve printed comparison."
+    "R4417": "Never-law comparison population is not established as untreated target population of adopter contrast. Rounded displayed means do not reproduce exactly the stated 1.73pp; preserve printed comparison.",
+    "A4418": "IWL75F9N",
+    "B4418": "h13",
+    "C4418": "hc1",
+    "K4418": "1",
+    "L4418": "hy1",
+    "M4418": "outcome_mean",
+    "N4418": "1",
+    "O4418": "0",
+    "P4418": "0",
+    "Q4418": "fn23 p1614/PDF27: full-sample mean board-replacement ratio 5.46%, paired verbally with significantly higher replacement in event years0–2.",
+    "R4418": "Qualitative focal effects are explicitly paired with mean in same paragraph; eligible even without a numerical coefficient. Pooled observed mean across full firms is not untreated targeted-firm counterfactual."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
