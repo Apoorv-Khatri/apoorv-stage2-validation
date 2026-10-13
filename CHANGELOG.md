@@ -367488,3 +367488,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T07:24:59.182992+00:00 — Review HHJUFPI4 h4: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6287",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6287",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6287",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6287",
+    "before": null,
+    "after": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. No transformation; outcome labels not required for continuous treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2466",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2466",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2466",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2466",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2466",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2466",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2466",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2466",
+    "before": null,
+    "after": "Alternative competition classifications: ln(Share)×PostCD&A effects on Revenue-Based Pay in TableA.2 panelsB–H: Flex., R&D, Quant., Pricing, Mines, Vote, Factor. Group classification/sample variants at this location. PanelA repeats s1 and is not a second setting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2466",
+    "before": null,
+    "after": "Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. Seven implementations, not seven method changes. Cournot coefficients B–H:0.047,0.041,0.026,0.035,0.191,0.057,0.047. The classification regressions/factor analysis themselves are preprocessing, not new causal outcomes. Source: §5.7.1 p638 and AppendixA/TableA.2 pp639–642/PDF19–23."
+  }
+]
+```

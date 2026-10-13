@@ -23596,7 +23596,16 @@
     "L2465": "0",
     "M2465": "n/a",
     "N2465": "Own-firm size ln(Sales)×PostCD&A conditional on market share, Eq4/Table4 cols1–2: substantively interpreted null alternative-size effect (Cournot−0.003, Bertrand−0.023). This differs from size conditional on industry size in h1.",
-    "O2465": "Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. Inclusion is parameter-specific: prose explicitly distinguishes effects of size versus market share and interprets the industry-size coefficient strategically. Do not count all other control coefficients as causal. Source: §5.4.1 Eq4/Table4 cols1–2, pp632–633/PDF13–14."
+    "O2465": "Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. Inclusion is parameter-specific: prose explicitly distinguishes effects of size versus market share and interprets the industry-size coefficient strategically. Do not count all other control coefficients as causal. Source: §5.4.1 Eq4/Table4 cols1–2, pp632–633/PDF13–14.",
+    "A2466": "HHJUFPI4",
+    "B2466": "h4",
+    "I2466": "1",
+    "J2466": "DiD_conventional",
+    "K2466": "0",
+    "L2466": "0",
+    "M2466": "n/a",
+    "N2466": "Alternative competition classifications: ln(Share)×PostCD&A effects on Revenue-Based Pay in TableA.2 panelsB–H: Flex., R&D, Quant., Pricing, Mines, Vote, Factor. Group classification/sample variants at this location. PanelA repeats s1 and is not a second setting.",
+    "O2466": "Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. Seven implementations, not seven method changes. Cournot coefficients B–H:0.047,0.041,0.026,0.035,0.191,0.057,0.047. The classification regressions/factor analysis themselves are preprocessing, not new causal outcomes. Source: §5.7.1 p638 and AppendixA/TableA.2 pp639–642/PDF19–23."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -66706,7 +66715,11 @@
     "A6286": "HHJUFPI4",
     "B6286": "h3",
     "C6286": "hy1",
-    "K6286": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. No transformation; outcome labels not required for continuous treatment."
+    "K6286": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. No transformation; outcome labels not required for continuous treatment.",
+    "A6287": "HHJUFPI4",
+    "B6287": "h4",
+    "C6287": "hy1",
+    "K6287": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. No transformation; outcome labels not required for continuous treatment."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
