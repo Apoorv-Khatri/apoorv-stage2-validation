@@ -364362,3 +364362,312 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T04:30:26.843471+00:00 — Review H6AHELRK h5: source-audited coding and linked comparisons
+
+50 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4382",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4383",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4384",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4382",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4383",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4384",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4382",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4383",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4384",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4383",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4384",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4382",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4383",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4384",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4382",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4383",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4384",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4383",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4384",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4382",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4383",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4384",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4382",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4383",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4384",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4382",
+    "before": null,
+    "after": "Hn All-EW−0.85%/month versus NYSE-VW−0.25%/month; §3.2.5 says the premium is mostly driven by microcaps. Both are authors' extended sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4383",
+    "before": null,
+    "after": "Hn All-EW−0.85%/month versus All-VW−0.19%/month; authors compare both value-weighted procedures with All-EW before attributing the premium mostly to microcaps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4384",
+    "before": null,
+    "after": "Dis1 All-EW−0.69%/month versus NYSE-VW−0.19%/month, authors' sample. The−0.79% historical low-minus-high quintile with a $5 price screen is not this benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4382",
+    "before": null,
+    "after": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4383",
+    "before": null,
+    "after": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4384",
+    "before": null,
+    "after": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6263",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6264",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6263",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6264",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6263",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6264",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6263",
+    "before": null,
+    "after": "Hn annual-sort high-minus-low decile average monthly return, percent/month: NYSE-VW−0.25, All-VW−0.19, All-EW−0.85. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6264",
+    "before": null,
+    "after": "Dis high-minus-low decile average monthly return, percent/month, at1-,6-,12-month holding horizons; NYSE-VW−0.19,−0.18,−0.08; All-EW1-month−0.69. Do not substitute the historically quoted negative low-minus-high quintile estimate. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2456",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2456",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2456",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2456",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2456",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2456",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2456",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2456",
+    "before": null,
+    "after": "Construction-rule effects on Hn and Dis decile return magnitudes. Hn reports NYSE-VW, All-VW, All-EW; Dis explicitly compares NYSE-VW with All-EW at1-month and reports weak NYSE-VW6/12-month returns. Authors attribute Hn and Dis premia mostly to microcaps. Three-regime family is nonbinary; do not fabricate a three-regime-by-horizon grid. December-fiscal-year screen and historical $5 screen are not separately implemented treatments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2456",
+    "before": null,
+    "after": "Broad author-intention inclusion, moderate confidence. The treatment is an implemented construction/measurement rule, not a stock characteristic causing market returns. Observed return paths are reused; weights and membership may change. Gross historical strategy outcomes ignore endogenous prices, market impact, transaction costs and trading constraints. OLS denotes linear return contrasts or linear slope returns without a higher-priority identifying design; no new regression of returns on a rule dummy is claimed, and portfolio weights define the strategy rather than propensity-score adjustment. Competing reading: replication diagnostics only. Do not infer a nonzero rule effect from one significant and one insignificant premium; no standard error of their difference is reported. Source: Main §3.2.5 PDF48–49 / pp2066–2067; Table3E; AppendixA.5.10,A.5.49."
+  }
+]
+```
