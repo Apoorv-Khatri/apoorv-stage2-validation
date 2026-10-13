@@ -366624,3 +366624,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T04:31:54.924109+00:00 — Review H6AHELRK h11: source-audited coding and linked comparisons
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4400",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4400",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4400",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4400",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4400",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4400",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4400",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4400",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4400",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4400",
+    "before": null,
+    "after": "Cm1 All-VW0.78%/month versus NYSE-VW0.78%/month, authors' sample beginning1979/7. Main PDF45 explicitly says using all-exchange breakpoints minimally affects the estimate; exact Table3A cells are both0.78 after rounding (absolute t3.92 versus3.85). This does not establish an exactly zero unrounded rule effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4400",
+    "before": null,
+    "after": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6283",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6283",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6283",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6283",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6283",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6283",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6283",
+    "before": null,
+    "after": "Cm1 high-minus-low customer-momentum quintile average monthly return, percent/month. NYSE-VW0.78 (t3.85) and All-VW0.78 (t3.92), Table3A. Main prose says minimally affected, not exactly zero. The historical1.58 under a$5 screen is not an implemented screen counterfactual. Quintiles reflect tied signal values. No point mass at zero established."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E47",
+    "before": null,
+    "after": "DONE — Complete115-page final publication and15-page author-hosted October2018 Internet Appendix reviewed and independently cross-checked.12 settings retained: capacity/allocation rules plus10 narrowly scoped, explicitly implemented and author-attributed return-rule effects; original characteristic-causes-returns/replication-diagnostic families remain excluded. Broad rule-effect gate explicitly moderate, not automatic backtest inclusion.41 comparisons retained using exact alternative-rule outcome levels; no invented ratios or historical-premium baselines. Table2C capacity transcription errors corrected, not treated as source conflicts:1201.65/1.19,900.09/1.19,1659.65/1.05,1560.16/3.51 billion. Unimplemented Tes lag and customer price-screen alternatives excluded; implemented null breakpoint contrast retained. Updating contrasts are bundled, not isolated frequency shocks. Genuine caption/appendix inconsistencies preserved; publisher-final supplement identity unverified. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2462",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2462",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2462",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2462",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2462",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2462",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2462",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2462",
+    "before": null,
+    "after": "Change customer-momentum quintile breakpoints from NYSE to all-exchange while retaining value-weighting (NYSE-VW versus All-VW). Authors explicitly state using the alternative breakpoints minimally affects the1-month return. This is an implemented null rule contrast, not the unimplemented$5 price-screen counterfactual or a causal customer-momentum characteristic effect. Separate from h2 because only breakpoints, not the weighting bundle, change."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2462",
+    "before": null,
+    "after": "Broad author-intention inclusion, moderate confidence. The treatment is an implemented construction/measurement rule, not a stock characteristic causing market returns. Observed return paths are reused; weights and membership may change. Gross historical strategy outcomes ignore endogenous prices, market impact, transaction costs and trading constraints. OLS denotes linear return contrasts or linear slope returns without a higher-priority identifying design; no new regression of returns on a rule dummy is claimed, and portfolio weights define the strategy rather than propensity-score adjustment. Competing reading: replication diagnostics only. Do not infer a nonzero rule effect from one significant and one insignificant premium; no standard error of their difference is reported. Source: Main §3.2.1 PDF45 / p2063; Table3A Cm rows; AppendixA.1.16."
+  }
+]
+```
