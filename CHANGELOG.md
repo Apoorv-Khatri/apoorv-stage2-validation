@@ -349512,3 +349512,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:16:08.485066+00:00 — Review GEIR97JN s3: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1045",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1045",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1045",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1045",
+    "before": null,
+    "after": "spurious causal outcome: parent setting is excluded; original definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I402",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O402",
+    "before": null,
+    "after": "Spurious causal setting: equation4 measures the comovement/cyclicality of forecast revisions, not the effect of an intervention in GDP forecasts on inflation forecasts. TableIV correlates generated betas. General mechanism language does not turn this measurement regression into an output-shock estimator. Source: Main §I.E.1 and E.4, eq4/TableIV, PDF16–18 / pp3112–3114.."
+  }
+]
+```
