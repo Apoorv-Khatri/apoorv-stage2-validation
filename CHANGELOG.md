@@ -363144,3 +363144,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T04:29:27.045906+00:00 — Review H6AHELRK h1: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6254",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6255",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6256",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6254",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6255",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6256",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6254",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6255",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6256",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6254",
+    "before": null,
+    "after": "Average microcap portfolio weight, percent; TableA1A. Printed positive weights after exclusions unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6255",
+    "before": null,
+    "after": "Average investment capacity as percent of contemporaneous aggregate market capitalization; TableA1B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6256",
+    "before": null,
+    "after": "Investment capacity in billions of dollars at end-December2016; TableA1C."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2452",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2452",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2452",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2452",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2452",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2452",
+    "before": null,
+    "after": "Supplementary capacity-rule recomputation for ABM-VW, ABM-EW, NYSE-VW-EM, FM-WLS-EM, Micro-VW and Micro-EW. Table A1A–C reports microcap allocation, average capacity share and December2016 dollar capacity for low/high portfolios across categories. Same nonlinear minimum-capacity accounting as s3, separately reported substantive robustness location."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2452",
+    "before": null,
+    "after": "Author-hosted October2018 Internet Appendix PDF2 / printed p1. Inclusion conditional on the same broad capacity-rule gate as s3; no causal interpretation of predictor slopes. Binary=0 for multiple implemented regimes; no inferred pairwise factorial grid. Caption/weights conflict: EM exclusions retain positive printed microcap weights and Micro rows are below100%; unknown timing or implementation, do not repair. No extra benchmark records from an unselected grid of adjacent table cells. Source: Author Internet Appendix Table A1A–C, PDF2 / printed p1."
+  }
+]
+```

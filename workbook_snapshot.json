@@ -23420,7 +23420,16 @@
     "L2451": "0",
     "M2451": "n/a",
     "N2451": "Table7: SUE-decile earnings-news response on non-large jackpot announcement days, the lower-order SUE coefficients in the interacted model, for all four CAR windows.",
-    "O2451": "Parameter-specific broad inclusion: §4.1 explicitly calls0.072 the non-large-day earnings reaction and says one-notch SUE increase results in0.197 return increase in days2–5. Not every control becomes a treatment. SUE is continuous/ordered news dose; OLS with standard industry/calendar controls, no separately argued identifying FE role. Remaining simultaneity concerns do not erase author interpretation. No outcome benchmark from comparing0.197 with the0.137 jackpot interaction. Moderate gate judgment; can omit if treated solely as baseline for s7 moderation. Source: Main §4.1/Table7 SUE row, PDF10–11 / pp378–379."
+    "O2451": "Parameter-specific broad inclusion: §4.1 explicitly calls0.072 the non-large-day earnings reaction and says one-notch SUE increase results in0.197 return increase in days2–5. Not every control becomes a treatment. SUE is continuous/ordered news dose; OLS with standard industry/calendar controls, no separately argued identifying FE role. Remaining simultaneity concerns do not erase author interpretation. No outcome benchmark from comparing0.197 with the0.137 jackpot interaction. Moderate gate judgment; can omit if treated solely as baseline for s7 moderation. Source: Main §4.1/Table7 SUE row, PDF10–11 / pp378–379.",
+    "A2452": "H6AHELRK",
+    "B2452": "h1",
+    "I2452": "1",
+    "J2452": "Other",
+    "K2452": "0",
+    "L2452": "0",
+    "M2452": "n/a",
+    "N2452": "Supplementary capacity-rule recomputation for ABM-VW, ABM-EW, NYSE-VW-EM, FM-WLS-EM, Micro-VW and Micro-EW. Table A1A–C reports microcap allocation, average capacity share and December2016 dollar capacity for low/high portfolios across categories. Same nonlinear minimum-capacity accounting as s3, separately reported substantive robustness location.",
+    "O2452": "Author-hosted October2018 Internet Appendix PDF2 / printed p1. Inclusion conditional on the same broad capacity-rule gate as s3; no causal interpretation of predictor slopes. Binary=0 for multiple implemented regimes; no inferred pairwise factorial grid. Caption/weights conflict: EM exclusions retain positive printed microcap weights and Micro rows are below100%; unknown timing or implementation, do not repair. No extra benchmark records from an unselected grid of adjacent table cells. Source: Author Internet Appendix Table A1A–C, PDF2 / printed p1."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -66336,7 +66345,19 @@
     "A6253": "GLSWBYDJ",
     "B6253": "h20",
     "C6253": "hy4",
-    "K6253": "Cumulative abnormal return over days 6 to 60 after the earnings announcement, CAR(6,60). Market-model-adjusted return; cumulative windows use compounded buy-and-hold firm excess returns minus beta times compounded market excess returns (eq11), not a log transform. Underlying observed zero mass not established."
+    "K6253": "Cumulative abnormal return over days 6 to 60 after the earnings announcement, CAR(6,60). Market-model-adjusted return; cumulative windows use compounded buy-and-hold firm excess returns minus beta times compounded market excess returns (eq11), not a log transform. Underlying observed zero mass not established.",
+    "A6254": "H6AHELRK",
+    "B6254": "h1",
+    "C6254": "hy1",
+    "K6254": "Average microcap portfolio weight, percent; TableA1A. Printed positive weights after exclusions unresolved.",
+    "A6255": "H6AHELRK",
+    "B6255": "h1",
+    "C6255": "hy2",
+    "K6255": "Average investment capacity as percent of contemporaneous aggregate market capitalization; TableA1B.",
+    "A6256": "H6AHELRK",
+    "B6256": "h1",
+    "C6256": "hy3",
+    "K6256": "Investment capacity in billions of dollars at end-December2016; TableA1C."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
