@@ -349647,3 +349647,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:16:57.255453+00:00 — Review GEIR97JN s6: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K233",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R233",
+    "before": null,
+    "after": "Reject on the strict same-outcome gate, independently of retained s6. The 8.96 slope is the price of US stock-market exposure inferred from LC bond risk premia; the 8.1% reference is a US equity premium from Campbell (2003), not a stated level or mean of the LC bond-premium outcome. Main p3118 and appendix p23 really make a verbal, undivided closeness comparison. Moderate-confidence exclusion: a broader common unit-beta expected-excess-return interpretation would permit other_level, but the paper tests equality across asset classes rather than providing the LC outcome baseline. No new duplicate comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1048",
+    "before": null,
+    "after": "Ex ante average LC bond risk premium in annualized percentage units: mean nominal LC yield minus expected domestic inflation minus the US real short rate, eq10. The US real short rate is US nominal short rate minus expected US inflation; thus US expected inflation enters with a plus sign after expansion. Retained nonbinary-treatment outcome; detailed binary-treatment labels are not applicable. Main I.G pp3116–3118; author appendix A.6.2/Table AVI."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I405",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J405",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K405",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L405",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M405",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N405",
+    "before": null,
+    "after": "Cross-country compensation slope: effect attributed to exposure of LC bond returns to US stock-market risk on the ex ante LC bond risk premium. Main I.G/Figure 3 and author appendix A.6.2, equation A10/Table AVI estimate RP_i = mu + kappa beta_i + u_i across 28 countries. Two-step OLS and stacked GMM have identical slope 8.96 percentage points per unit beta; GMM adjusts generated-regressor inference, not treatment identification. No exogenous risk-exposure instrument or identifying fixed effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O405",
+    "before": null,
+    "after": "Moderate-confidence inclusion under the author-intention rule, not an endorsement of identification. Main p3118 says lenders require a higher premium if returns are more procyclical; appendix p21 explicitly calls kappa the cost of exposure and coefficient of interest. This parameter-specific compensation interpretation is stronger than the comovement interpretation of the first-stage return beta. The noncausal disclaimer on p3111 concerns debt shares versus hedging, not this slope. Appendix CAPM-test framing is genuine contrary evidence but does not negate its economic compensation interpretation. OLS 8.96 (SE2.54), GMM-identical estimate (SE3.27), intercept2.81; do not interpret 8.96 as a fitted unit-beta premium including the intercept. Author-hosted appendix is relevant but not certified publisher-final. GMM versus OLS here is an inference variant of the same estimand, not a distinct treatment-IV setting. Source: Main §I.G eq10/Figure3, PDF20–22 / pp3116–3118; author appendix A.6.2/TableAVI PDF20–23.."
+  }
+]
+```
