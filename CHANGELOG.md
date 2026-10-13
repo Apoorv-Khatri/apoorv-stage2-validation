@@ -367023,3 +367023,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T07:22:15.606581+00:00 — Review HHJUFPI4 s5: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1099",
+    "before": null,
+    "after": "Outcome is the untransformed firm-year 0/1 indicator as defined in §4.2.1; model zero_mass=0 is not supported (full-sample Table1 means/medians show both values). Detailed labels left null because focal treatment is continuous; this is not a claim of no zeros in the outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1100",
+    "before": null,
+    "after": "Outcome is the untransformed firm-year 0/1 indicator as defined in §4.2.1; model zero_mass=0 is not supported (full-sample Table1 means/medians show both values). Detailed labels left null because focal treatment is continuous; this is not a claim of no zeros in the outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I429",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J429",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K429",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L429",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M429",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O429",
+    "before": null,
+    "after": "Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. Retain substantive null other-financial and positive non-financial policy responses: author evaluates an alternative economic channel, not balance or pretrend only. The Cournot–Bertrand differences are null. Source: §5.5.1, Eq8, Table7, pp634–635/PDF15–16."
+  }
+]
+```
