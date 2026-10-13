@@ -370533,3 +370533,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:04:51.714980+00:00 — Review I6VAFIIF s7: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1121",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1122",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1123",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1121",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1122",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1123",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1121",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1122",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1123",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1121",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported aggregated outcome; replace unsupported model zero_mass=0 with unknown. Spread formulas use log-price differences but the dependent spread itself is not log-transformed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1122",
+    "before": null,
+    "after": "Log turnover is the estimated scale; no evidence establishes a probability mass at zero in the reported log outcome. Raw turnover zeros are likewise not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1123",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported outcome; replace unsupported model zero_mass=0 with unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I439",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J439",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K439",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L439",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M439",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O439",
+    "before": null,
+    "after": "Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Source conflict: §2.1 reports Getco reassignment Aug6, while §5.1.1 says Aug3; §6.3 associates third business day with reassignment. No silent harmonization. Source: §6.3, Table7 DMM rows, pp941–943/PDF20–22."
+  }
+]
+```
