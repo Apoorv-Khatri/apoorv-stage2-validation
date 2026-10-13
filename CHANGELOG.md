@@ -366864,3 +366864,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T07:20:32.412853+00:00 — Saved Excel changes
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1096",
+    "before": null,
+    "after": "Outcome is the untransformed firm-year 0/1 indicator as defined in §4.2.1; model zero_mass=0 is not supported (full-sample Table1 means/medians show both values). Detailed labels left null because focal treatment is continuous; this is not a claim of no zeros in the outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I426",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J426",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K426",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L426",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M426",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N426",
+    "before": null,
+    "after": "Post-CD&A change in the ln(Share) gradient of Revenue-Based Pay, controlling for ln(Sales)×PostCD&A: Table4 cols1–2 / Eq4, with Cournot/Bertrand slope contrasts. Retain this original ID for the market-share estimand only; distinct size and industry-size estimands are h1–h3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O426",
+    "before": null,
+    "after": "Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. Table4 reports a null firm-size effect conditional on share, which is substantively interpreted rather than an incidental control; retain h3. The decomposition in cols3–4 has distinct focal treatments h1/h2. Visually confirmed printed ln(Sales) difference in cols1–2 is −0.023 (t−1.001), inconsistent with printed −0.003 and −0.023 coefficients; preserve, do not repair. Source: §5.4.1, Eq4, Table4 cols1–2, pp632–633/PDF13–14."
+  }
+]
+```
