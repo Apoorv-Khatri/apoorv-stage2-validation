@@ -351807,3 +351807,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:18:32.782056+00:00 — Review GEIR97JN h6: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6193",
+    "before": null,
+    "after": "GEIR97JN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6194",
+    "before": null,
+    "after": "GEIR97JN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6195",
+    "before": null,
+    "after": "GEIR97JN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6196",
+    "before": null,
+    "after": "GEIR97JN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6193",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6194",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6195",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6196",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6193",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6194",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6195",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6196",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6193",
+    "before": null,
+    "after": "Average inflation: unconditional model expectation of annualized inflation, in percent; model uses log inflation π. Table captions call this average level inflation; this is not an estimated log(Y) regression."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6194",
+    "before": null,
+    "after": "LC bond-stock beta: dimensionless model covariance loading, minus inflation-output beta divided by calibrated stock-output loading; not the probability of a binary outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6195",
+    "before": null,
+    "after": "Optimal LC debt share s in [0,1]: fraction of external financing raised in local-currency debt; a continuous share even when an optimum reaches one."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6196",
+    "before": null,
+    "after": "LC bond risk premium: annualized log expected real LC bond return minus log global risk-free rate, reported in percent; eq39 and appendix B91."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2430",
+    "before": null,
+    "after": "GEIR97JN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2430",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2430",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2430",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2430",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2430",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2430",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2430",
+    "before": null,
+    "after": "Vary DM inflation-cost parameter α across 2.14,4.28,8.56, holding other DM calibrated parameters constant. TableBIV gives inflation, beta, LC debt share and LC premium. Three-valued dose family, not an invented set of binary pairwise effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2430",
+    "before": null,
+    "after": "Calibrated nonlinear two-period equilibrium solved by global projection, cubic inflation policy functions and numerical quadrature; not OLS, identifying FE, or treatment IV. Model assumptions include CRRA agents, competitive risk-averse lenders, lump-sum taxes, rational expectations, exogenous correlated endowments and exchange rates, and no default. Structural author-intention inclusion, not evidence of empirical exogenous assignment. Low/baseline/high outcomes: inflation 0/0/0%; beta −0.09/−0.05/−0.03; share 0.92/0.91/0.90; premium 1.90/2.22/2.46%. Include the substantive inflation null and small policy responses; no new estimator for every column. Main fn30 confirms implemented α robustness. Source: Main PDF35 fn30 / p3131; author appendix B.7.4/TableBIV PDF40.."
+  }
+]
+```

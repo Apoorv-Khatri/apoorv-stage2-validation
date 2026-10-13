@@ -23131,7 +23131,16 @@
     "L2429": "0",
     "M2429": "n/a",
     "N2429": "EM no-commitment versus DM commitment contrast under separately calibrated exchange-rate processes: EM volatility 10.4% and global loading 1.33; DM volatility 11.4% and loading 1.56. TableBIII, other parameters held at TableV. Bundle includes regime, output volatility, and these process parameters.",
-    "O2429": "Calibrated nonlinear two-period equilibrium solved by global projection, cubic inflation policy functions and numerical quadrature; not OLS, identifying FE, or treatment IV. Model assumptions include CRRA agents, competitive risk-averse lenders, lump-sum taxes, rational expectations, exogenous correlated endowments and exchange rates, and no default. Structural author-intention inclusion, not evidence of empirical exogenous assignment. Model EM/DM/difference: inflation 2.07/0.00/2.06%; beta 0.15/−0.05/0.20; share 0.37/0.91/−0.54; premium 3.95/2.53/1.42%. Preserve printed inflation difference, no recomputation. Author-hosted appendix only. Source: Author appendix B.7.3/TableBIII PDF39–40.."
+    "O2429": "Calibrated nonlinear two-period equilibrium solved by global projection, cubic inflation policy functions and numerical quadrature; not OLS, identifying FE, or treatment IV. Model assumptions include CRRA agents, competitive risk-averse lenders, lump-sum taxes, rational expectations, exogenous correlated endowments and exchange rates, and no default. Structural author-intention inclusion, not evidence of empirical exogenous assignment. Model EM/DM/difference: inflation 2.07/0.00/2.06%; beta 0.15/−0.05/0.20; share 0.37/0.91/−0.54; premium 3.95/2.53/1.42%. Preserve printed inflation difference, no recomputation. Author-hosted appendix only. Source: Author appendix B.7.3/TableBIII PDF39–40..",
+    "A2430": "GEIR97JN",
+    "B2430": "h6",
+    "I2430": "1",
+    "J2430": "Other",
+    "K2430": "0",
+    "L2430": "0",
+    "M2430": "n/a",
+    "N2430": "Vary DM inflation-cost parameter α across 2.14,4.28,8.56, holding other DM calibrated parameters constant. TableBIV gives inflation, beta, LC debt share and LC premium. Three-valued dose family, not an invented set of binary pairwise effects.",
+    "O2430": "Calibrated nonlinear two-period equilibrium solved by global projection, cubic inflation policy functions and numerical quadrature; not OLS, identifying FE, or treatment IV. Model assumptions include CRRA agents, competitive risk-averse lenders, lump-sum taxes, rational expectations, exogenous correlated endowments and exchange rates, and no default. Structural author-intention inclusion, not evidence of empirical exogenous assignment. Low/baseline/high outcomes: inflation 0/0/0%; beta −0.09/−0.05/−0.03; share 0.92/0.91/0.90; premium 1.90/2.22/2.46%. Include the substantive inflation null and small policy responses; no new estimator for every column. Main fn30 confirms implemented α robustness. Source: Main PDF35 fn30 / p3131; author appendix B.7.4/TableBIV PDF40.."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -65514,7 +65523,23 @@
     "H6192": "0",
     "I6192": "unknown",
     "J6192": "other",
-    "K6192": "LC bond risk premium: annualized log expected real LC bond return minus log global risk-free rate, reported in percent; eq39 and appendix B91. Detailed labels refer to reported continuous model moments. A printed zero conditional mean is not proof of a probability mass at zero in the underlying outcome distribution."
+    "K6192": "LC bond risk premium: annualized log expected real LC bond return minus log global risk-free rate, reported in percent; eq39 and appendix B91. Detailed labels refer to reported continuous model moments. A printed zero conditional mean is not proof of a probability mass at zero in the underlying outcome distribution.",
+    "A6193": "GEIR97JN",
+    "B6193": "h6",
+    "C6193": "hy1",
+    "K6193": "Average inflation: unconditional model expectation of annualized inflation, in percent; model uses log inflation π. Table captions call this average level inflation; this is not an estimated log(Y) regression.",
+    "A6194": "GEIR97JN",
+    "B6194": "h6",
+    "C6194": "hy2",
+    "K6194": "LC bond-stock beta: dimensionless model covariance loading, minus inflation-output beta divided by calibrated stock-output loading; not the probability of a binary outcome.",
+    "A6195": "GEIR97JN",
+    "B6195": "h6",
+    "C6195": "hy3",
+    "K6195": "Optimal LC debt share s in [0,1]: fraction of external financing raised in local-currency debt; a continuous share even when an optimum reaches one.",
+    "A6196": "GEIR97JN",
+    "B6196": "h6",
+    "C6196": "hy4",
+    "K6196": "LC bond risk premium: annualized log expected real LC bond return minus log global risk-free rate, reported in percent; eq39 and appendix B91."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
