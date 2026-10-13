@@ -349002,3 +349002,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T02:58:42.992629+00:00 — Review G24W3YTK s5: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K230",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K231",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R230",
+    "before": null,
+    "after": "Reject independently of parent gate: R2 is a model fit/variance-explained statistic, not a focal causal estimate normalized by the same outcome mean, SD, or stated level. Variance is not an outcome SD, and 100% total variation is not other_level. Percent units of coefficients do not create a benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R231",
+    "before": null,
+    "after": "Reject independently of parent gate: R2 is a model fit/variance-explained statistic, not a focal causal estimate normalized by the same outcome mean, SD, or stated level. Variance is not an outcome SD, and 100% total variation is not other_level. Percent units of coefficients do not create a benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1042",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1042",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1042",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1042",
+    "before": null,
+    "after": "spurious causal outcome: parent is a forecast/prediction exercise, not an author-interpreted treatment effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I399",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O399",
+    "before": null,
+    "after": "Spurious causal setting: explicitly predicts next-month survey expectations; persistence and incremental explanatory power are not effects of changing the predictors. Source: §4.2 Table 8, PDF24 / p1312."
+  }
+]
+```
