@@ -374973,3 +374973,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:14:49.106444+00:00 — Review I6VAFIIF h22: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6364",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6364",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6364",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6364",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6364",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6364",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6364",
+    "before": null,
+    "after": "Dollar-spread liquidity measure(s), rather than percentage spreads; footnote18 does not establish the exact component, aggregation, horizon or multiplier. Generic outcome-family placeholder only, not a verified effective-spread-only coefficient. Nonbinary dollar scale; zero mass unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2502",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2502",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2502",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2502",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2502",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2502",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2502",
+    "before": null,
+    "after": "Dollar-spread robustness: footnote18 reports similar results using dollar rather than percentage spreads. Retain one minimum implemented robustness family. The footnote does not identify which glitch/DMM contrasts, figures, regressions or specific spread outcomes were rerun."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2502",
+    "before": null,
+    "after": "Unknown method and treatment coding reflect missing implementation, not Other. No two-exposure by three-outcome grid is established by this generic sentence. h23 and excess specific outcome additions are removed from the unwritten proposal; h22/hy1 records the generic dollar-spread family pending source clarification. The recovered author appendix supplies no dollar-spread regression grid. This is a substantive robustness mention under the broad gate, with only minimum scope; do not call it a verified separate table. Source: §3.3 fn18 p930/PDF9."
+  }
+]
+```
