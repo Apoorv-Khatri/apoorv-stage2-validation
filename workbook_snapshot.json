@@ -23050,7 +23050,16 @@
     "L2422": "0",
     "M2422": "n/a",
     "N2422": "Business-cycle proxy log dividend-price ratio ln(D12/P): separate univariate OLS regressions of one-year premium and three-year-minus-one-year premium slope; Table5 col(2) in each outcome block, monthly 2004–2021, NW12. Reported coefficients 25.33 (SE8.99) for level and −12.93 (SE6.46) for slope.",
-    "O2422": "Distinct treatment from industrial-production growth; supports robustness of author-interpreted countercyclical level/procyclical slope. No identifying FE or IV; not a claim that changing forecasts causally changes realized dividends. Exact proxy-coefficient causal attribution is weaker than the headline ip result and flagged in audit. Source: §3.3 Table5 PDF18–19 / pp1306–1307."
+    "O2422": "Distinct treatment from industrial-production growth; supports robustness of author-interpreted countercyclical level/procyclical slope. No identifying FE or IV; not a claim that changing forecasts causally changes realized dividends. Exact proxy-coefficient causal attribution is weaker than the headline ip result and flagged in audit. Source: §3.3 Table5 PDF18–19 / pp1306–1307.",
+    "A2423": "G24W3YTK",
+    "B2423": "h2",
+    "I2423": "1",
+    "J2423": "OLS",
+    "K2423": "0",
+    "L2423": "0",
+    "M2423": "n/a",
+    "N2423": "Business-cycle proxy survey-implied one-year expected dividend growth gP(t,1:12): separate univariate OLS regressions of one-year premium and three-year-minus-one-year premium slope; Table5 col(3) in each outcome block, monthly 2004–2021, NW12. Reported coefficients −0.28 (SE0.27) for level and 0.19 (SE0.17) for slope.",
+    "O2423": "Distinct treatment from industrial-production growth; supports robustness of author-interpreted countercyclical level/procyclical slope. No identifying FE or IV; not a claim that changing forecasts causally changes realized dividends. Exact proxy-coefficient causal attribution is weaker than the headline ip result and flagged in audit. Source: §3.3 Table5 PDF18–19 / pp1306–1307."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -65276,7 +65285,15 @@
     "A6170": "G24W3YTK",
     "B6170": "h1",
     "C6170": "hy2",
-    "K6170": "Slope of the ex ante dividend premium term structure: z(t,25:36) minus z(t,1:12), difference of annualized log-ratio premiums; reported in percent."
+    "K6170": "Slope of the ex ante dividend premium term structure: z(t,25:36) minus z(t,1:12), difference of annualized log-ratio premiums; reported in percent.",
+    "A6171": "G24W3YTK",
+    "B6171": "h2",
+    "C6171": "hy1",
+    "K6171": "One-year ex ante dividend risk premium z(t,1:12), annualized log ratio of physical to risk-neutral expected dividend amounts; reported in percent.",
+    "A6172": "G24W3YTK",
+    "B6172": "h2",
+    "C6172": "hy2",
+    "K6172": "Slope of the ex ante dividend premium term structure: z(t,25:36) minus z(t,1:12), difference of annualized log-ratio premiums; reported in percent."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
