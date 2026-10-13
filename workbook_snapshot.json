@@ -23949,7 +23949,16 @@
     "L2498": "0",
     "M2498": "n/a",
     "N2498": "§7.6 unreported robustness for glitch exposure: exclude all DMM-affected stocks; additionally use control parent-orders in propensity-score-matched stocks based on market capitalization and turnover on July31. Findings reported unaffected.",
-    "O2498": "Same section, method, exposure and outcome family; group routine sample/control variants. Propensity matching is preprocessing of baseline regression, not a new Matching estimator. Exact matching algorithm/caliper/weights and output grid are unreported; no invention. Scope-limited institutional outcomes; unseen spread implementations remain unresolved. Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Source: §7.6 p947/PDF26."
+    "O2498": "Same section, method, exposure and outcome family; group routine sample/control variants. Propensity matching is preprocessing of baseline regression, not a new Matching estimator. Exact matching algorithm/caliper/weights and output grid are unreported; no invention. Scope-limited institutional outcomes; unseen spread implementations remain unresolved. Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Source: §7.6 p947/PDF26.",
+    "A2499": "I6VAFIIF",
+    "B2499": "h19",
+    "I2499": "1",
+    "J2499": "DiD_conventional",
+    "K2499": "1",
+    "L2499": "0",
+    "M2499": "n/a",
+    "N2499": "§7.6 unreported robustness for DMM exposure: exclude all glitch-affected stocks; additionally use control parent-orders in propensity-score-matched stocks based on market capitalization and turnover on July31. Findings reported unaffected.",
+    "O2499": "Same section, method, exposure and outcome family; group routine sample/control variants. Propensity matching is preprocessing of baseline regression, not a new Matching estimator. Exact matching algorithm/caliper/weights and output grid are unreported; no invention. Scope-limited institutional outcomes; unseen spread implementations remain unresolved. Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Source: §7.6 p947/PDF26."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -67650,7 +67659,21 @@
     "H6359": "0",
     "I6359": "unknown",
     "J6359": "none",
-    "K6359": "Implementation shortfall: signed average execution price minus starting midquote divided by starting midquote, reported bps. Zero mass not established."
+    "K6359": "Implementation shortfall: signed average execution price minus starting midquote divided by starting midquote, reported bps. Zero mass not established.",
+    "A6360": "I6VAFIIF",
+    "B6360": "h19",
+    "C6360": "hy1",
+    "H6360": "0",
+    "I6360": "unknown",
+    "J6360": "none",
+    "K6360": "VWAP slippage: signed average execution price minus interval VWAP divided by interval VWAP, reported bps. Zero mass not established.",
+    "A6361": "I6VAFIIF",
+    "B6361": "h19",
+    "C6361": "hy2",
+    "H6361": "0",
+    "I6361": "unknown",
+    "J6361": "none",
+    "K6361": "Implementation shortfall: signed average execution price minus starting midquote divided by starting midquote, reported bps. Zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
