@@ -354501,3 +354501,390 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:51:30.169070+00:00 — Review GLSWBYDJ h1: source-audited coding and linked comparisons
+
+63 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4310",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4311",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4312",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4310",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4311",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4312",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4310",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4311",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4312",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4310",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4311",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4312",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4310",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4311",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4312",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4310",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4311",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4312",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4310",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4311",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4312",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4310",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4311",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4312",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4310",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4311",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4312",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4310",
+    "before": null,
+    "after": "Table2A/PDF6 mean row: turnover, difference−0.099; non-large-day mean0.786. Turnover units are percentage points; printed comparator count2190."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4311",
+    "before": null,
+    "after": "Table2A/PDF6 mean row: abnormal firm SVI, difference−0.043; non-large-day mean0.253. SVI is historical-median-normalized; table baseline is its non-large-day outcome level. Alignment uses the maintained exogenous-day argument in main §3.1/p373, with the same outcome construction and target aggregation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4312",
+    "before": null,
+    "after": "Table2A/PDF6 mean row: abnormal lottery SVI, difference1.419; non-large-day mean0.127. SVI is historical-median-normalized; table baseline is its non-large-day outcome level. Alignment uses the maintained exogenous-day argument in main §3.1/p373, with the same outcome construction and target aggregation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4310",
+    "before": null,
+    "after": "Table2A turnover prints 2190 comparator days, matching small/non-large lottery-draw days in Table1, whereas main p372 defines 3029 non-large days including 839 no-draw days. Cannot decide the actual reference population from the contradictory source; unknown is a source-population ambiguity, not a rejection of exogenous jackpot timing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4311",
+    "before": null,
+    "after": "Aligned under the paper’s maintained exogenous-jackpot-day design (main p373): the non-large-day outcome is the untreated regime for the same sampled units and the same aggregation used for the paired mean effect. This accepts the authors’ maintained target, not experimental random assignment or proof of exogeneity. No extra calendar reweighting is required merely because it is unreported. Unlike high-search and nested-window comparisons, this contrast uses the baseline large/non-large definition; the Table2 turnover count discrepancy is not imported into this record. For firm SVI, cross-firm means of firm-specific day-type averages; for lottery SVI, the Taiwan daily series over the reported Google-data period. The historical-median transformation is held fixed across regimes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4312",
+    "before": null,
+    "after": "Aligned under the paper’s maintained exogenous-jackpot-day design (main p373): the non-large-day outcome is the untreated regime for the same sampled units and the same aggregation used for the paired mean effect. This accepts the authors’ maintained target, not experimental random assignment or proof of exogeneity. No extra calendar reweighting is required merely because it is unreported. Unlike high-search and nested-window comparisons, this contrast uses the baseline large/non-large definition; the Table2 turnover count discrepancy is not imported into this record. For firm SVI, cross-firm means of firm-specific day-type averages; for lottery SVI, the Taiwan daily series over the reported Google-data period. The historical-median transformation is held fixed across regimes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6200",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6201",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6202",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6200",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6201",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6202",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6200",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6201",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6202",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6200",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6201",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6202",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6200",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6201",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6202",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6200",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6201",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6202",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6200",
+    "before": null,
+    "after": "Daily share turnover (daily volume/shares outstanding), percentage units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6201",
+    "before": null,
+    "after": "Abnormal firm SVI: deviation from own median over prior25th–5th weeks, divided by that median."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6202",
+    "before": null,
+    "after": "Abnormal lottery SVI: deviation from own median over prior25th–5th weeks, divided by that median."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2432",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2432",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2432",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2432",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2432",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2432",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2432",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2432",
+    "before": null,
+    "after": "Table2A: unadjusted mean attention effects of large versus non-large jackpot days on daily share turnover and abnormal firm/lottery SVI. Firm-level day-type means paired across firms; lottery SVI compares day means. Distinct from adjusted Table2B."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2432",
+    "before": null,
+    "after": "Causally interpreted linear mean contrasts under the same attention-shock argument; no implemented randomized assignment. Paired firm summaries are not an explicitly identifying FE regression. Raw contrasts−0.099pp,−0.043,1.419. Table2 prints turnover comparator2190 days despite the main definition3029; retain and flag population ambiguity. Median estimators separated as h2. Source: Main §3.1/Table2A, PDF5–6 / pp373–374."
+  }
+]
+```
