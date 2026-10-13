@@ -375225,3 +375225,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:15:33.022718+00:00 — Review I6VAFIIF h25: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6367",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6368",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6367",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6368",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6367",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6368",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6367",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6368",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6367",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6368",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6367",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6368",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6367",
+    "before": null,
+    "after": "VWAP slippage: signed average execution price minus interval VWAP divided by interval VWAP, reported bps. Zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6368",
+    "before": null,
+    "after": "Implementation shortfall: signed average execution price minus starting midquote divided by starting midquote, reported bps. Zero mass not established."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E49",
+    "before": null,
+    "after": "DONE — All 28 published pages including Appendix A and recovered 10-page author-linked Internet Appendix dated January 6, 2020 reviewed and independently audited; publisher-final supplement identity not certified. Retain 33 settings, 91 outcome records and six comparisons. KnightSameSide is OLS/regression adjustment with actual stock/day controls retained; identifying-FE interpretation documented as competing, not established by dummy count. Conventional DiD event parameters and nonlinear graphical summaries distinguished. Recovered appendix resolves return/spread implementations and adds Table IA.4 outcomes. Generic dollar-spread robustness collapsed to one unresolved minimum family, without an invented exposure/outcome grid. Volume comparisons retain explicit interpretation caveats and plot/prose allocation conflict; benchmarks are other_level. Printed date, execution-count, universe and depth-persistence discrepancies preserved. Original fields and IDs preserved; unresolved dollar-spread details and publisher-version differences remain open."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2504",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2504",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2504",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2504",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2504",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2504",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2504",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2504",
+    "before": null,
+    "after": "Table5 DMM exposure event-window coefficients conditional on KnightSameSide: substantive supply/capital-shock results in asymmetric specification, all event windows retained. Day0 VWAP4.96,IS32.62; nextweek−3.11,5.37 bps."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2504",
+    "before": null,
+    "after": "Retain the separately printed Table5 event-exposure estimand under the explicit distinct-result-location rule. These coefficients condition on KnightSameSide and are not numerically repeated Table4 effects; no independent experiment is claimed. The baseline exposure coefficients remain conventional DiD despite s3 being a directional OLS/regression-adjusted parameter in the same equation. No new outcome benchmark is stated. Main0: supporting conditional re-estimates rather than the headline directional coefficient. Routine-control pooling is a defensible alternative, but would require consistent treatment of separately reported robustness locations; here preserve separate Table5 location. Source: §5.1.2, Table5 p938/PDF17."
+  }
+]
+```

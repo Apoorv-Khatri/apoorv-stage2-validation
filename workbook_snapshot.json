@@ -222,6 +222,7 @@
     "B49": "Slow-moving capital and execution costs: Evidence from a major trading glitch",
     "C49": "fin",
     "D49": 9,
+    "E49": "DONE — All 28 published pages including Appendix A and recovered 10-page author-linked Internet Appendix dated January 6, 2020 reviewed and independently audited; publisher-final supplement identity not certified. Retain 33 settings, 91 outcome records and six comparisons. KnightSameSide is OLS/regression adjustment with actual stock/day controls retained; identifying-FE interpretation documented as competing, not established by dummy count. Conventional DiD event parameters and nonlinear graphical summaries distinguished. Recovered appendix resolves return/spread implementations and adds Table IA.4 outcomes. Generic dollar-spread robustness collapsed to one unresolved minimum family, without an invented exposure/outcome grid. Volume comparisons retain explicit interpretation caveats and plot/prose allocation conflict; benchmarks are other_level. Printed date, execution-count, universe and depth-persistence discrepancies preserved. Original fields and IDs preserved; unresolved dollar-spread details and publisher-version differences remain open.",
     "A50": "IRM23AIR",
     "B50": "Asset holders’ consumption risk and tests of conditional CCAPM",
     "C50": "fin",
@@ -23994,7 +23995,16 @@
     "L2503": "0",
     "M2503": "n/a",
     "N2503": "Table5 glitch exposure event-window coefficients conditional on KnightSameSide: substantive supply/capital-shock results in asymmetric specification, all event windows retained. Day0 VWAP4.38,IS11.24; nextweek5.34,12.64 bps.",
-    "O2503": "Retain the separately printed Table5 event-exposure estimand under the explicit distinct-result-location rule. These coefficients condition on KnightSameSide and are not numerically repeated Table4 effects; no independent experiment is claimed. The baseline exposure coefficients remain conventional DiD despite s3 being a directional OLS/regression-adjusted parameter in the same equation. No new outcome benchmark is stated. Main0: supporting conditional re-estimates rather than the headline directional coefficient. Routine-control pooling is a defensible alternative, but would require consistent treatment of separately reported robustness locations; here preserve separate Table5 location. Source: §5.1.2, Table5 p938/PDF17."
+    "O2503": "Retain the separately printed Table5 event-exposure estimand under the explicit distinct-result-location rule. These coefficients condition on KnightSameSide and are not numerically repeated Table4 effects; no independent experiment is claimed. The baseline exposure coefficients remain conventional DiD despite s3 being a directional OLS/regression-adjusted parameter in the same equation. No new outcome benchmark is stated. Main0: supporting conditional re-estimates rather than the headline directional coefficient. Routine-control pooling is a defensible alternative, but would require consistent treatment of separately reported robustness locations; here preserve separate Table5 location. Source: §5.1.2, Table5 p938/PDF17.",
+    "A2504": "I6VAFIIF",
+    "B2504": "h25",
+    "I2504": "1",
+    "J2504": "DiD_conventional",
+    "K2504": "1",
+    "L2504": "0",
+    "M2504": "n/a",
+    "N2504": "Table5 DMM exposure event-window coefficients conditional on KnightSameSide: substantive supply/capital-shock results in asymmetric specification, all event windows retained. Day0 VWAP4.96,IS32.62; nextweek−3.11,5.37 bps.",
+    "O2504": "Retain the separately printed Table5 event-exposure estimand under the explicit distinct-result-location rule. These coefficients condition on KnightSameSide and are not numerically repeated Table4 effects; no independent experiment is claimed. The baseline exposure coefficients remain conventional DiD despite s3 being a directional OLS/regression-adjusted parameter in the same equation. No new outcome benchmark is stated. Main0: supporting conditional re-estimates rather than the headline directional coefficient. Routine-control pooling is a defensible alternative, but would require consistent treatment of separately reported robustness locations; here preserve separate Table5 location. Source: §5.1.2, Table5 p938/PDF17."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -67744,7 +67754,21 @@
     "H6366": "0",
     "I6366": "unknown",
     "J6366": "none",
-    "K6366": "Implementation shortfall: signed average execution price minus starting midquote divided by starting midquote, reported bps. Zero mass not established."
+    "K6366": "Implementation shortfall: signed average execution price minus starting midquote divided by starting midquote, reported bps. Zero mass not established.",
+    "A6367": "I6VAFIIF",
+    "B6367": "h25",
+    "C6367": "hy1",
+    "H6367": "0",
+    "I6367": "unknown",
+    "J6367": "none",
+    "K6367": "VWAP slippage: signed average execution price minus interval VWAP divided by interval VWAP, reported bps. Zero mass not established.",
+    "A6368": "I6VAFIIF",
+    "B6368": "h25",
+    "C6368": "hy2",
+    "H6368": "0",
+    "I6368": "unknown",
+    "J6368": "none",
+    "K6368": "Implementation shortfall: signed average execution price minus starting midquote divided by starting midquote, reported bps. Zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
