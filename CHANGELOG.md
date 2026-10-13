@@ -373482,3 +373482,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:11:15.403583+00:00 — Review I6VAFIIF h13: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6342",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6342",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6342",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6342",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6342",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6342",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6342",
+    "before": null,
+    "after": "Mean cumulative idiosyncratic log return for bought/sold glitch-stock groups: no-intercept regression residuals of one-minute stock log returns on value-weighted nonglitch market log returns, cumulated over displayed Aug1–Aug8 event path. Author IA FigIA.1 p5. No plotted volume series despite generic caption wording; zero mass unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2493",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2493",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2493",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2493",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2493",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2493",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2493",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2493",
+    "before": null,
+    "after": "FigIA.1 in recovered author-linked January6,2020 appendix: average cumulative idiosyncratic log returns for bought/sold glitch-stock groups from Aug1 through Aug8. Residualize one-minute stock log returns on value-weighted nonglitch market log returns without intercept, then cumulate and average. Main fn15 interprets reversal as permanent with small-group/idiosyncratic-event caution."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2493",
+    "before": null,
+    "after": "Linear market-adjusted event-response estimator, not FE and not DiD merely because plotted over time. Binary glitch exposure within bought/sold subgroups; realized-return sign grouping is heterogeneity, not continuous inventory dosage. IA prose attributes bought-stock Aug3-close to Aug6-open jump largely to an idiosyncratic event. Caption mentions total share volume, but the actual figure shows only cumulative-return paths; no volume outcome is added. Author-linked Internet Appendix dated January6,2020 (10 pages), https://bogousslavsky.github.io/files/glitch_InternetAppendix.pdf; publisher attachment remains404; final-version byte identity unverified. Source: Main fn15 p928; author IA FigIA.1 p5 L115–130."
+  }
+]
+```

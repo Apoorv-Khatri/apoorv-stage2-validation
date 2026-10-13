@@ -23895,7 +23895,16 @@
     "L2492": "0",
     "M2492": "n/a",
     "N2492": "Table11: DMM exposure interacted with day0,nextweek,Aug9–31,post-Aug31, include Nasdaq S&P500 stocks as controls; Eq7 with stock/day FE and execution controls, all five cost outcomes grouped. Day0 VWAP4.70, IS31.07; next week−2.89,2.19 bps; other spread and later-window null results included.",
-    "O2492": "Separately reported robustness table warrants new setting; do not split columns into arbitrary main versus matched outcomes. DMM means KC-designated stocks excluding glitch-exposed stocks. No qualifying outcome benchmark is paired in this table. Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Source: §7.3–7.5, Table11, p946/PDF25."
+    "O2492": "Separately reported robustness table warrants new setting; do not split columns into arbitrary main versus matched outcomes. DMM means KC-designated stocks excluding glitch-exposed stocks. No qualifying outcome benchmark is paired in this table. Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Source: §7.3–7.5, Table11, p946/PDF25.",
+    "A2493": "I6VAFIIF",
+    "B2493": "h13",
+    "I2493": "1",
+    "J2493": "OLS",
+    "K2493": "1",
+    "L2493": "0",
+    "M2493": "n/a",
+    "N2493": "FigIA.1 in recovered author-linked January6,2020 appendix: average cumulative idiosyncratic log returns for bought/sold glitch-stock groups from Aug1 through Aug8. Residualize one-minute stock log returns on value-weighted nonglitch market log returns without intercept, then cumulate and average. Main fn15 interprets reversal as permanent with small-group/idiosyncratic-event caution.",
+    "O2493": "Linear market-adjusted event-response estimator, not FE and not DiD merely because plotted over time. Binary glitch exposure within bought/sold subgroups; realized-return sign grouping is heterogeneity, not continuous inventory dosage. IA prose attributes bought-stock Aug3-close to Aug6-open jump largely to an idiosyncratic event. Caption mentions total share volume, but the actual figure shows only cumulative-return paths; no volume outcome is added. Author-linked Internet Appendix dated January6,2020 (10 pages), https://bogousslavsky.github.io/files/glitch_InternetAppendix.pdf; publisher attachment remains404; final-version byte identity unverified. Source: Main fn15 p928; author IA FigIA.1 p5 L115–130."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -67470,7 +67479,14 @@
     "H6341": "0",
     "I6341": "unknown",
     "J6341": "none",
-    "K6341": "Price impact, dollar-weighted 2 signed log midpoint change over five minutes, bps. Zero mass not established."
+    "K6341": "Price impact, dollar-weighted 2 signed log midpoint change over five minutes, bps. Zero mass not established.",
+    "A6342": "I6VAFIIF",
+    "B6342": "h13",
+    "C6342": "hy1",
+    "H6342": "0",
+    "I6342": "unknown",
+    "J6342": "other",
+    "K6342": "Mean cumulative idiosyncratic log return for bought/sold glitch-stock groups: no-intercept regression residuals of one-minute stock log returns on value-weighted nonglitch market log returns, cumulated over displayed Aug1–Aug8 event path. Author IA FigIA.1 p5. No plotted volume series despite generic caption wording; zero mass unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
