@@ -376011,3 +376011,168 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:41:49.711475+00:00 — Review IRM23AIR s6: source-audited coding and linked comparisons
+
+26 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1154",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1155",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1156",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1157",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1158",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1159",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1154",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1155",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1156",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1157",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1158",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1159",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1154",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1155",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1156",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1157",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1158",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1159",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1154",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1155",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1156",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1157",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1158",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1159",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I447",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O447",
+    "before": null,
+    "after": "Spurious causal setting: Table5A describes conditional value-premium cyclicality; B and C describe cyclicality of covariances with NIPA and CEX consumption. §4.3 calls the return slope a negative association and explains the pricing puzzle by covariance and conditional premium moving in the same direction. These are not estimated effects of choosing value instead of growth stocks or of manipulating a state proxy. Structural equilibrium explanations can qualify when the reported parameter has a causal interpretation; that interpretation is not established for these beta summaries. Independently definite scale error: Table5 heading is beta-hat times 10^4. Displayed 19.23 in PanelA SV-SG/detrended-sc means raw beta0.001923; displayed1.60 in PanelC LV-LG covariance/detrended-sc means raw beta0.000160. Return and covariance units must remain distinct. Original model fields preserved. Source: §4.3, Table5 PanelsA–C, pp236–237/PDF17–18."
+  }
+]
+```
