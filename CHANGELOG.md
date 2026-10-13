@@ -367182,3 +367182,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T07:23:26.967030+00:00 — Review HHJUFPI4 s8: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I432",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J432",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K432",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L432",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M432",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O432",
+    "before": null,
+    "after": "Conventional continuous-exposure DDD: ln(HHI)×PostCD&A×Cournot, with ln(HHI)×PostCD&A included. Firm and fiscal-year-period×competition-mode FE are two effective dimensions. The triple coefficient is the difference in concentration gradients, not a direct treatment-on-receipt effect of revenue-based pay or an unconditional Cournot effect. The Cournot gradient is the sum of the two reported coefficients. COGS is expenditure, not physical quantity; margins mix prices and costs. No IV first stage; no implemented modern DiD. Source: §5.5.3, Eq11, Table10, pp636–637/PDF17–18."
+  }
+]
+```
