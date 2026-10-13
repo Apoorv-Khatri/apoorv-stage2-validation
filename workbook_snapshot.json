@@ -24210,7 +24210,16 @@
     "L2512": "0",
     "M2512": "unknown",
     "N2512": "Online Appendix Table3A: change in foreign institutional investor holdings surrounding passage of takeover laws.",
-    "O2512": "Substantive ownership-channel result, not a diagnostic first stage or IV. Method, FE, levels versus annual-change scale and coefficient grid unavailable; retain minimum known family with unknown fields. Source: p1599/PDF12, lines691–694; Online Table3A unavailable."
+    "O2512": "Substantive ownership-channel result, not a diagnostic first stage or IV. Method, FE, levels versus annual-change scale and coefficient grid unavailable; retain minimum known family with unknown fields. Source: p1599/PDF12, lines691–694; Online Table3A unavailable.",
+    "A2513": "IWL75F9N",
+    "B2513": "h9",
+    "I2513": "1",
+    "J2513": "Other",
+    "K2513": "0",
+    "L2513": "0",
+    "M2513": "n/a",
+    "N2513": "Online Appendix Table4A: law×performance effects on CEO turnover across alternative investor-protection measures (burden of proof, disclosure/enforcement).",
+    "O2513": "Published text says same results robust to alternative protection measures in the probit framework. No new binary investor-protection treatment inferred from sample stratification; subgroup columns/coefficients unavailable. No comparison established. Source: pp1599–1601/PDF12–14, lines733–751,859–863."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68287,7 +68296,11 @@
     "H6379": "0",
     "I6379": "unknown",
     "J6379": "unknown",
-    "K6379": "Foreign institutional investor holdings; source confirms increase around takeover laws but Online Table3A outcome scale is unresolved."
+    "K6379": "Foreign institutional investor holdings; source confirms increase around takeover laws but Online Table3A outcome scale is unresolved.",
+    "A6380": "IWL75F9N",
+    "B6380": "h9",
+    "C6380": "hy1",
+    "K6380": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
