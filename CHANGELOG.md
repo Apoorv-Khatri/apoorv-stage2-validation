@@ -348660,3 +348660,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T02:57:34.448690+00:00 — Review G24W3YTK s1: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K219",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K220",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R219",
+    "before": null,
+    "after": "Reject independently of parent gate: R2 is a model fit/variance-explained statistic, not a focal causal estimate normalized by the same outcome mean, SD, or stated level. Variance is not an outcome SD, and 100% total variation is not other_level. Percent units of coefficients do not create a benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R220",
+    "before": null,
+    "after": "Reject independently of parent gate: R2 is a model fit/variance-explained statistic, not a focal causal estimate normalized by the same outcome mean, SD, or stated level. Variance is not an outcome SD, and 100% total variation is not other_level. Percent units of coefficients do not create a benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1036",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1036",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1036",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1036",
+    "before": null,
+    "after": "spurious causal outcome: parent is a forecast/prediction exercise, not an author-interpreted treatment effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I395",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O395",
+    "before": null,
+    "after": "Spurious causal setting: expressly predictive forecast-unbiasedness regressions, not effects of changing expectations on subsequent dividends. Intercept/slope tests and predictive fit validate measurement inputs. Source: §3.1 Table 3, PDF14–15 / pp1302–1303."
+  }
+]
+```
