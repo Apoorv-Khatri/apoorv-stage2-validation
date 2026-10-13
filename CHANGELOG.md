@@ -369345,3 +369345,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T07:30:03.212195+00:00 — Review HHJUFPI4 h17: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4410",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4411",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4410",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4411",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4410",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4411",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4410",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4411",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4410",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4411",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4410",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4411",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4410",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4411",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4410",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4411",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4410",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4411",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4410",
+    "before": null,
+    "after": "§5.6 p638/PDF19: December-year-end Cournot first-compliance-year addition rate increases by 220% relative to preceding three years2003–2005. Historical mean rate value not reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4411",
+    "before": null,
+    "after": "§5.6 p638/PDF19: December-year-end Cournot first-compliance-year removal rate increases by 170% relative to preceding three years2003–2005. Historical mean rate value not reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4410",
+    "before": null,
+    "after": "Eligible explicit own-outcome historical-rate normalization: verbal1/divided1; rate value not supplied. Alignment unknown because at-risk populations, time aggregation and weights are unspecified, and no construction establishes the2003–2005 rate as the adoption-year untreated rate for the focal group. Apparent/disclosed transitions are the measured outcomes. Removal nearly triples repeats the170% comparison, not another record."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4411",
+    "before": null,
+    "after": "Eligible explicit own-outcome historical-rate normalization: verbal1/divided1; rate value not supplied. Alignment unknown because at-risk populations, time aggregation and weights are unspecified, and no construction establishes the2003–2005 rate as the adoption-year untreated rate for the focal group. Apparent/disclosed transitions are the measured outcomes. Removal nearly triples repeats the170% comparison, not another record."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6301",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6302",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6301",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6302",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6301",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6302",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6301",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6302",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6301",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6302",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6301",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6302",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6301",
+    "before": null,
+    "after": "Apparent addition rate of disclosed revenue-based pay among December-year-end Cournot firms, first CD&A year versus2003–2005. Aggregate rate, not a reported individual binary dependent variable; exact at-risk denominator unspecified. Authors interpret the pattern as evidence favoring actual contract adjustment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6302",
+    "before": null,
+    "after": "Apparent removal rate of disclosed revenue-based pay among December-year-end Cournot firms, first CD&A year versus2003–2005. Aggregate rate, not a reported individual binary dependent variable; exact at-risk denominator unspecified. Authors interpret the pattern as evidence favoring actual contract adjustment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2479",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2479",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2479",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2479",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2479",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2479",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2479",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2479",
+    "before": null,
+    "after": "CD&A adoption-year versus preceding2003–2005 apparent addition and removal rates of disclosed revenue-based compensation for December-year-end Cournot firms (§5.6). Addition rates increase220%, removal rates170%; more oligopolistic firms drive additions and less oligopolistic firms drive removals. Authors interpret these patterns as favoring actual contract adjustment, not as conclusive verification of every change."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2479",
+    "before": null,
+    "after": "Retain under broad parameter-specific author-intention gate despite diagnostic motivation: author explicitly tests whether the mandate causes firms to re-evaluate compensation and interprets observed adjustment rates strategically. OLS-family unadjusted linear before/after rate contrasts, not a reported controlled regression or a treated/control DiD. Preserve apparent/disclosed qualifiers; actual-contract interpretation remains qualified in source. Hypothetical nondisclosure accounting is excluded. At-risk denominators and weighting not supplied. Historical benchmark target alignment is unknown: paper establishes neither post-period untreated rate levels nor stable risk-set composition. Source: §5.6 p638/PDF19."
+  }
+]
+```
