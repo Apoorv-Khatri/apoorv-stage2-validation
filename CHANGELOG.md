@@ -365340,3 +365340,234 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T04:30:55.800252+00:00 — Review H6AHELRK h7: source-audited coding and linked comparisons
+
+37 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6271",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6272",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6273",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6274",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6271",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6272",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6273",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6274",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6271",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6272",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6273",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6274",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6271",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6272",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6273",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6274",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6271",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6272",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6273",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6274",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6271",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6272",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6273",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6274",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6271",
+    "before": null,
+    "after": "Ami monthly FM slope-portfolio return for a one-cross-sectional-SD standardized regressor at1-,6-,12-month horizons; WLS0.11,0.20,0.26 and OLS0.33,0.36,0.37. Return percent per one-regressor-SD exposure, not outcome-SD units and not±1-normalized decile return. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6272",
+    "before": null,
+    "after": "Acharya–Pedersen five liquidity-beta FM slope-portfolio returns at1-,6-,12-month horizons; no significant individual-stock evidence even under OLS, unlike the historical25-testing-portfolio design. Return percent per one-regressor-SD exposure, not outcome-SD units and not±1-normalized decile return. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6273",
+    "before": null,
+    "after": "Pastor–Stambaugh liquidity-beta FM slope-portfolio returns at1-,6-,12-month horizons; source reports insignificance robust to cross-sectional regressions. Return percent per one-regressor-SD exposure, not outcome-SD units and not±1-normalized decile return. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6274",
+    "before": null,
+    "after": "Pin FM slope-portfolio return, insignificant under both OLS and WLS. Return percent per one-regressor-SD exposure, not outcome-SD units and not±1-normalized decile return. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2458",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2458",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2458",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2458",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2458",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2458",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2458",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2458",
+    "before": null,
+    "after": "Switch the linear slope-portfolio construction from FM-OLS to market-equity-weighted FM-WLS for the explicitly discussed Ami, Acharya–Pedersen betas, Pastor–Stambaugh beta and Pin. The measured outcomes are linear slope-portfolio returns, not the causal effects of the firm signals on future prices. Footnote8 defines the corresponding zero-investment portfolios, while §2.2 links weighting to microcap influence and §3.2.6 reports both economic and null sensitivity. Two implemented weighting rules. This does not include every FM coefficient in Table3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2458",
+    "before": null,
+    "after": "Broad author-intention inclusion, moderate confidence. The treatment is an implemented construction/measurement rule, not a stock characteristic causing market returns. Observed return paths are reused; weights and membership may change. Gross historical strategy outcomes ignore endogenous prices, market impact, transaction costs and trading constraints. OLS denotes linear return contrasts or linear slope returns without a higher-priority identifying design; no new regression of returns on a rule dummy is claimed, and portfolio weights define the strategy rather than propensity-score adjustment. Competing reading: replication diagnostics only. Do not infer a nonzero rule effect from one significant and one insignificant premium; no standard error of their difference is reported. Especially contested: if the paper's slope-weight sensitivity is read as diagnostic-only rather than substantive return measurement, omit this setting and its outcomes; retaining capacity of slope portfolios alone does not settle this gate. No comparison to decile returns: slope legs are not normalized to±1 here. Source: Main §3.2.6 PDF50–51; Table3F FM-WLS/FM-OLS; §2.1 footnote8 PDF8 and §2.2 PDF9."
+  }
+]
+```
