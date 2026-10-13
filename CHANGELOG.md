@@ -352785,3 +352785,306 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:49:18.712608+00:00 — Review GLSWBYDJ s3: source-audited coding and linked comparisons
+
+49 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4296",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4297",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4296",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4297",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4296",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4297",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4296",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4297",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4296",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4297",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4296",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4297",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4296",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4297",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4296",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4297",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4296",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4297",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4296",
+    "before": null,
+    "after": "Table4/PDF8 last column: mean of (Cov_large−Cov_nonlarge)/Cov_nonlarge=0.078; benchmark each firm’s own non-large-day covariance.817 firms; ratio is explicitly defined in caption. Covariance levels not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4297",
+    "before": null,
+    "after": "Table4/PDF8 last column: median of (Cov_large−Cov_nonlarge)/Cov_nonlarge=0.097; benchmark each firm’s own non-large-day covariance.817 firms; ratio is explicitly defined in caption. Covariance levels not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4296",
+    "before": null,
+    "after": "Mean/median of winsorized unit-specific relative changes is not the ratio of aggregate effect to displayed aggregate mean/median. Benchmark is each unit’s own non-large-day dependence level (other_level), not an outcome mean across firms; alignment n/a under the field rules. The138%/124% decomposition ratios are excluded because their denominator is another effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4297",
+    "before": null,
+    "after": "Mean/median of winsorized unit-specific relative changes is not the ratio of aggregate effect to displayed aggregate mean/median. Benchmark is each unit’s own non-large-day dependence level (other_level), not an outcome mean across firms; alignment n/a under the field rules. The138%/124% decomposition ratios are excluded because their denominator is another effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6198",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6199",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6198",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6199",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6198",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6199",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1056",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1057",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6198",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6199",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1056",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1057",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6198",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6199",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1056",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1057",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6198",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6199",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1057",
+    "before": null,
+    "after": "Relative covariance change (Cov_large−Cov_nonlarge)/Cov_nonlarge, mean0.078 and median0.097; these are7.8% and9.7%, NOT absolute increases0.078/0.097 in covariance units. Underlying same-outcome level is each firm’s non-large-day covariance."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6198",
+    "before": null,
+    "after": "Component B: signed log-change in individual-firm return standard deviation divided by the log-change in correlation, equation4/Table4. Printed mean0%, median−3%; nonlinear decomposition contribution share, not a binary outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6199",
+    "before": null,
+    "after": "Component C: signed log-change in market return standard deviation divided by log-change in correlation, equation4/Table4. Printed mean−26%, median−22%; nonlinear decomposition contribution share."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I408",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J408",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K408",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L408",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M408",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O408",
+    "before": null,
+    "after": "Jackpots are naturally occurring rollovers, not randomized assignment of firms/days, not an instrument, and not an RD at an analyst-selected cutoff. No implemented modern DiD. Causal inclusion follows the authors’ explicit attention-shock interpretation, not proof of exogeneity. Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Preserve covariance percentage-change mean0.078/median0.097 (7.8%/9.7%), not absolute covariance changes. Decomposition A/B/C contribution shares are138%/0%/−26% (means) and124%/−3%/−22% (medians), independently winsorized; shares need not aggregate exactly after winsorization or median aggregation. These shares divide by another estimated change, not an outcome-level benchmark. Source: Main §3.3/eq3–4/Table4, PDF7–8 / pp375–376."
+  }
+]
+```
