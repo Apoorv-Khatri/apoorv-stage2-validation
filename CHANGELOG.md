@@ -352059,3 +352059,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:48:43.233805+00:00 — Review GLSWBYDJ s1: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1049",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1050",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1051",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1052",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1053",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1049",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1050",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1051",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1052",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1053",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1049",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1050",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1051",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1052",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1053",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1051",
+    "before": null,
+    "after": "Abnormal SVI=(adjusted daily SVI−own historical median)/own historical median, prior25th–5th weeks. This is outcome construction, not an effect benchmark. Zero probability mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1053",
+    "before": null,
+    "after": "Abnormal SVI=(adjusted daily SVI−own historical median)/own historical median, prior25th–5th weeks. This is outcome construction, not an effect benchmark. Zero probability mass not reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I406",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J406",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K406",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L406",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M406",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N406",
+    "before": null,
+    "after": "Large (>500 million TWD) jackpot day versus non-large day: Table2B linear attention regressions of share turnover, adjusted daily firm SVI, abnormal firm SVI, adjusted daily lottery SVI and abnormal lottery SVI. Firm and calendar FE for firm outcomes, calendar FE for lottery outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O406",
+    "before": null,
+    "after": "Jackpots are naturally occurring rollovers, not randomized assignment of firms/days, not an instrument, and not an RD at an analyst-selected cutoff. No implemented modern DiD. Causal inclusion follows the authors’ explicit attention-shock interpretation, not proof of exogeneity. OLS survey classification, while retaining all implemented fixed-effect controls. Firm outcomes use firm, calendar-year, month-of-year and weekday dummies (four sets); lottery-search series use the latter three. Main p373 explicitly motivates seasonal/time-trend removal for the abnormal-SVI construction, not for the regression FE battery. The adjacent regression discussion says results survive controls but supplies no additional substantive account of unobserved heterogeneity/endogeneity addressed by that battery. The causal identification argument is the lottery-rollover timing on p373. Read contextually rather than demanding particular wording: the evidence is insufficient to distinguish these FE from the standard industry/calendar controls in Table7. Apply the same OLS boundary to both families; standard FE is not a fallback. A broader contextual interpretation could support HDFE for both families. Moderate-confidence taxonomy adjudication, not denial that FE are present. Retain attention/search effects as substantive mechanism results, not diagnostic-only first stages; no IV estimation. Source: Main §2.3–3.1/Table2B, PDF5–6 / pp373–374."
+  }
+]
+```
