@@ -23931,7 +23931,16 @@
     "L2496": "0",
     "M2496": "n/a",
     "N2496": "Author IA FigIA.2: intraday glitch-stock liquidity event profiles under 1,3,5,10,15,20-minute future-midpoint windows for realized spread and price impact; effective spread also plotted as unchanged reference. Dollar-weight within stock/nonoverlapping one-minute interval, then plot cross-sectional medians.",
-    "O2496": "Nonlinear cross-sectional median estimator makes Other appropriate; do not infer linear Matching/DiD from event language. Main text describes extending the horizon; recovered author IA shows shorter as well as longer windows. Group routine horizon variants, do not add one setting per window. Larger horizons are not uniformly smaller-amplitude movements; retain main “smoothly” wording as author interpretation, not a verified monotonic reduction in spikes. Five-minute baseline repeats main Fig4; other windows are substantive measurement robustness. Author-linked Internet Appendix dated January6,2020 (10 pages), https://bogousslavsky.github.io/files/glitch_InternetAppendix.pdf; publisher attachment remains404; final-version byte identity unverified. Source: Main §6.1 p939; author IA FigIA.2 p6 L136–200."
+    "O2496": "Nonlinear cross-sectional median estimator makes Other appropriate; do not infer linear Matching/DiD from event language. Main text describes extending the horizon; recovered author IA shows shorter as well as longer windows. Group routine horizon variants, do not add one setting per window. Larger horizons are not uniformly smaller-amplitude movements; retain main “smoothly” wording as author interpretation, not a verified monotonic reduction in spikes. Five-minute baseline repeats main Fig4; other windows are substantive measurement robustness. Author-linked Internet Appendix dated January6,2020 (10 pages), https://bogousslavsky.github.io/files/glitch_InternetAppendix.pdf; publisher attachment remains404; final-version byte identity unverified. Source: Main §6.1 p939; author IA FigIA.2 p6 L136–200.",
+    "A2497": "I6VAFIIF",
+    "B2497": "h17",
+    "I2497": "1",
+    "J2497": "DiD_conventional",
+    "K2497": "1",
+    "L2497": "0",
+    "M2497": "n/a",
+    "N2497": "GS designated-market-maker exposure following absorption of KC inventory: add Goldman Sachs DMM event dummies to Eq7. IS rises about11 bps in following week with weak evidence; VWAP rise small and insignificant.",
+    "O2497": "Distinct exposure channel: GS received inventory but did not suffer KC capital loss. No numerical coefficient for VWAP or exact standard errors printed. No need to split baseline KC coefficients merely because GS controls are added. Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Source: §5.1.1 p937/PDF16 (unreported regression)."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -67604,7 +67613,21 @@
     "H6355": "0",
     "I6355": "unknown",
     "J6355": "none",
-    "K6355": "Effective spread in bps, dollar-weighted within stock/minute then cross-sectional median. Repeated unchanged reference in all horizon panels of author IA FigIA.2 p6; its formula does not depend on the future-midpoint horizon. Not an additional independent treatment effect."
+    "K6355": "Effective spread in bps, dollar-weighted within stock/minute then cross-sectional median. Repeated unchanged reference in all horizon panels of author IA FigIA.2 p6; its formula does not depend on the future-midpoint horizon. Not an additional independent treatment effect.",
+    "A6356": "I6VAFIIF",
+    "B6356": "h17",
+    "C6356": "hy1",
+    "H6356": "0",
+    "I6356": "unknown",
+    "J6356": "none",
+    "K6356": "VWAP slippage: signed average execution price minus interval VWAP divided by interval VWAP, reported bps. Zero mass not established.",
+    "A6357": "I6VAFIIF",
+    "B6357": "h17",
+    "C6357": "hy2",
+    "H6357": "0",
+    "I6357": "unknown",
+    "J6357": "none",
+    "K6357": "Implementation shortfall: signed average execution price minus starting midquote divided by starting midquote, reported bps. Zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
