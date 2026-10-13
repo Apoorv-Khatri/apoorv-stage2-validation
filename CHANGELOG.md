@@ -349467,3 +349467,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:15:52.246929+00:00 — Review GEIR97JN s2: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1044",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1044",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1044",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1044",
+    "before": null,
+    "after": "spurious causal outcome: parent setting is excluded; original definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I401",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O401",
+    "before": null,
+    "after": "Spurious causal setting: three robustness measurements of the expressly noncausal debt-share/bond-beta relationship. Do not split rejected associations into new causal settings. Source: Main §I.D, Figure1B/TableIII, PDF12–15 / pp3108–3111.."
+  }
+]
+```
