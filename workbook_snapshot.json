@@ -23704,7 +23704,16 @@
     "L2477": "1",
     "M2477": "n/a",
     "N2477": "Last-pre versus first-post CD&A Cournot revenue-based-pay utilization contrasts in six pre-market-share bins (0–1,1–5,5–10,10–25,25–65,65–100 percent), Table2. Includes author’s pooled10–65% statement, with unresolved printed inconsistency.",
-    "O2477": "Broad gate: interpreted as strategic response to disclosure, although table explicitly descriptive. Unadjusted linear pre/post contrasts, not a formal treated/control DiD; binary mandate exposure within each sample bin. Retain zeros/null contrasts as well as positive changes. Bertrand changes explicitly may be secular trends, so not promoted to separate causal responses. Same-firm counts in each pre/post bin are printed. Source’s pooled claim is not repaired from table arithmetic. Source: §5.1/Table2 pp629–630/PDF10–11; introduction pp621–622/PDF2–3."
+    "O2477": "Broad gate: interpreted as strategic response to disclosure, although table explicitly descriptive. Unadjusted linear pre/post contrasts, not a formal treated/control DiD; binary mandate exposure within each sample bin. Retain zeros/null contrasts as well as positive changes. Bertrand changes explicitly may be secular trends, so not promoted to separate causal responses. Same-firm counts in each pre/post bin are printed. Source’s pooled claim is not repaired from table arithmetic. Source: §5.1/Table2 pp629–630/PDF10–11; introduction pp621–622/PDF2–3.",
+    "A2478": "HHJUFPI4",
+    "B2478": "h16",
+    "I2478": "1",
+    "J2478": "DiD_conventional",
+    "K2478": "0",
+    "L2478": "1",
+    "M2478": "n/a",
+    "N2478": "Dynamic post-CD&A changes in the ln(Share) gradient of Revenue-Based Pay, relative to2002: Fig3A reports competition-mode-specific normalized slopes and Fig3B their Cournot-minus-Bertrand difference, from Eq2 annual cross-sectional regressions. Retain the substantive post-shock divergence and persistence, not diagnostic-only pretrends.",
+    "O2478": "Conventional continuous-exposure DiD/DDD-equivalent slope contrasts. Fig3A shows beta_t minus beta_2002 within each mode, not unnormalized annual slope levels; Fig3B subtracts these normalized series. The author interprets divergence at CD&A and persistence afterward. Keep these linked graph panels together, with no additional OLS-method family for the first-step Eq2 regressions: absence of firm FE does not defeat DiD precedence. No implemented modern heterogeneous DiD estimator. Gate confidence moderate because graphical identification diagnostics are also an explicit purpose. Source: §5.2/Fig3/Eq2 pp630–631/PDF11–12."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -66884,7 +66893,11 @@
     "H6299": "0",
     "I6299": "unknown",
     "J6299": "none",
-    "K6299": "Proportion of firms using Revenue-Based Pay by Cournot market-share bin; Table2 PanelC estimates the change in the same proportion between PanelsA/B. Group probability, not individual binary indicator."
+    "K6299": "Proportion of firms using Revenue-Based Pay by Cournot market-share bin; Table2 PanelC estimates the change in the same proportion between PanelsA/B. Group probability, not individual binary indicator.",
+    "A6300": "HHJUFPI4",
+    "B6300": "h16",
+    "C6300": "hy1",
+    "K6300": "Firm-year Revenue-Based Pay indicator, linear-probability slopes on pre-CD&A ln(Share); plotted estimates are Cournot-minus-Bertrand slope changes normalized to2002. Outcome is not the confidence interval or slope as a new dependent variable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -369258,3 +369258,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T07:29:40.545054+00:00 — Review HHJUFPI4 h16: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6300",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6300",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6300",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6300",
+    "before": null,
+    "after": "Firm-year Revenue-Based Pay indicator, linear-probability slopes on pre-CD&A ln(Share); plotted estimates are Cournot-minus-Bertrand slope changes normalized to2002. Outcome is not the confidence interval or slope as a new dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2478",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2478",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2478",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2478",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2478",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2478",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2478",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2478",
+    "before": null,
+    "after": "Dynamic post-CD&A changes in the ln(Share) gradient of Revenue-Based Pay, relative to2002: Fig3A reports competition-mode-specific normalized slopes and Fig3B their Cournot-minus-Bertrand difference, from Eq2 annual cross-sectional regressions. Retain the substantive post-shock divergence and persistence, not diagnostic-only pretrends."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2478",
+    "before": null,
+    "after": "Conventional continuous-exposure DiD/DDD-equivalent slope contrasts. Fig3A shows beta_t minus beta_2002 within each mode, not unnormalized annual slope levels; Fig3B subtracts these normalized series. The author interprets divergence at CD&A and persistence afterward. Keep these linked graph panels together, with no additional OLS-method family for the first-step Eq2 regressions: absence of firm FE does not defeat DiD precedence. No implemented modern heterogeneous DiD estimator. Gate confidence moderate because graphical identification diagnostics are also an explicit purpose. Source: §5.2/Fig3/Eq2 pp630–631/PDF11–12."
+  }
+]
+```
