@@ -362910,3 +362910,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T04:28:54.856525+00:00 — Review H6AHELRK s8: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K260",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K261",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K262",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R260",
+    "before": null,
+    "after": "Rejected causal parent; published replication/predictive estimate is not a causal focal effect. Comparisons of anomaly premia to previous estimated premia also are not automatically same-outcome baseline benchmarks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R261",
+    "before": null,
+    "after": "Rejected causal parent; published replication/predictive estimate is not a causal focal effect. Comparisons of anomaly premia to previous estimated premia also are not automatically same-outcome baseline benchmarks. Raw return0.02% is not the same estimand as Carhart alpha−0.71%; original-sample reproduction has its own alpha−0.59% and raw return−0.73%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R262",
+    "before": null,
+    "after": "Rejected causal parent; published replication/predictive estimate is not a causal focal effect. Comparisons of anomaly premia to previous estimated premia also are not automatically same-outcome baseline benchmarks. Preserve printed low-minus-high label with negative−0.79% despite high-minus-low focal direction; do not silently reverse."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1091",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1092",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1091",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1092",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1091",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1092",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1091",
+    "before": null,
+    "after": "spurious under rejected causal parent. Original predictive result is preserved, not disputed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1092",
+    "before": null,
+    "after": "spurious under rejected causal parent. FM slopes use standardized regressors, not outcome-SD units. Original predictive result is preserved, not disputed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I423",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O423",
+    "before": null,
+    "after": "Spurious as a causal characteristic-on-return setting: the estimands test predictive power/replication of expected-return associations, not the directional effect of changing the characteristic. This is an author-intention judgment, not exclusion for finance, OLS, or imperfect identification. Procedural sensitivity of a replication statistic alone does not create a separate causal effect. See coverage audit for the distinct substantive capacity-rule exception. This rejects the original characteristic-on-return causal estimand, not explicit rule-induced changes in measured returns. See separately defined rule settings h5. Fixed portfolio positions are not an inclusion requirement: rules may change membership and weights; the maintained counterfactual holds the observed price/return path fixed. Source: Main §3.2.5, Table3E, PDF33–38,48–49."
+  }
+]
+```
