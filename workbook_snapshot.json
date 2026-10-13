@@ -23787,7 +23787,16 @@
     "L2480": "0",
     "M2480": "n/a",
     "N2480": "First-CD&A-year expansion of the number of executive performance metrics (§5.5.1), summarized by firm-level proportional count changes: average about100%, median about50%, with roughly two-thirds increasing their metric set. Retain the author-attributed expansion as an unadjusted policy-response setting; mean growth is the linear focal summary, median growth and fraction expanding are accompanying descriptive summaries, not separate causal quantile or binary regressions.",
-    "O2480": "Broad gate retained because author explicitly interprets expansion as support for CD&A improving metric binding, although evidence is uncontrolled and supporting. OLS-family classification refers to the unadjusted linear mean-change summary; no hidden regression or DiD is asserted. Growth in metric counts is the reported scale; no separate effect-to-outcome-mean/SD/level benchmark is established by the100%/50% summaries alone. Do not treat the sample median growth as a quantile treatment effect. Source excludes zero raw metric counts, but this does not rule out zero growth. h18/hc1 and hc2 are deleted from the unwritten proposal, not original workbook rows. Source: §5.5.1 p634/PDF15."
+    "O2480": "Broad gate retained because author explicitly interprets expansion as support for CD&A improving metric binding, although evidence is uncontrolled and supporting. OLS-family classification refers to the unadjusted linear mean-change summary; no hidden regression or DiD is asserted. Growth in metric counts is the reported scale; no separate effect-to-outcome-mean/SD/level benchmark is established by the100%/50% summaries alone. Do not treat the sample median growth as a quantile treatment effect. Source excludes zero raw metric counts, but this does not rule out zero growth. h18/hc1 and hc2 are deleted from the unwritten proposal, not original workbook rows. Source: §5.5.1 p634/PDF15.",
+    "A2481": "I6VAFIIF",
+    "B2481": "h1",
+    "I2481": "1",
+    "J2481": "OLS",
+    "K2481": "1",
+    "L2481": "1",
+    "M2481": "n/a",
+    "N2481": "Fig1(a): glitch-driven price response and intraday reversal for bought and sold stock subgroups, relative to pre-opening levels after market-return adjustment. Stocks classified bought/sold by first-half-hour returns above +1% / below −1%; ±2.5% variant reported. Average cumulative residual one-minute log returns from no-intercept stock-on-market regressions, market excludes glitch stocks. About ±4% initial displacement, half reversed by 10:30, full by close; overshoot near 15:00.",
+    "O2481": "Causally interpreted linear event-response/market-adjusted outcome, not randomized experiment or automatically DiD; asset-pricing market adjustment is not FE. Binary event exposure within each sign subgroup; sign is heterogeneity, not continuous inventory dose. Subgroups selected on realized returns and market beta estimated on event date: causal credibility limited but authors explicitly interpret price pressure. Ex-post 15:00 overshoot testing is qualified in fn13; no fabricated exact plotted coordinates. Source: §2.2, Fig1(a), pp923–928/PDF2–7."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -67096,7 +67105,14 @@
     "H6303": "0",
     "I6303": "unknown",
     "J6303": "other",
-    "K6303": "Firm-level proportional change in the number of executive performance-evaluation metrics around first CD&A compliance; mean about100% and median about50% reported, not raw-count regression coefficients. Nonbinary growth scale (other). Exact formula/timing/weights are not printed; do not claim a ratio of sample mean counts. No-zero-raw-count sample rule does not establish absence of zero growth; zero mass unknown. Median and roughly two-thirds increasing are descriptive summaries, not separately estimated causal outcomes."
+    "K6303": "Firm-level proportional change in the number of executive performance-evaluation metrics around first CD&A compliance; mean about100% and median about50% reported, not raw-count regression coefficients. Nonbinary growth scale (other). Exact formula/timing/weights are not printed; do not claim a ratio of sample mean counts. No-zero-raw-count sample rule does not establish absence of zero growth; zero mass unknown. Median and roughly two-thirds increasing are descriptive summaries, not separately estimated causal outcomes.",
+    "A6304": "I6VAFIIF",
+    "B6304": "h1",
+    "C6304": "hy1",
+    "H6304": "0",
+    "I6304": "unknown",
+    "J6304": "other",
+    "K6304": "Cumulative idiosyncratic log return, averaged within bought/sold groups; residual of one-minute stock log return on value-weighted market log return, cumulated from opening. Zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -370932,3 +370932,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:06:25.144917+00:00 — Review I6VAFIIF h1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6304",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6304",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6304",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6304",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6304",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6304",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6304",
+    "before": null,
+    "after": "Cumulative idiosyncratic log return, averaged within bought/sold groups; residual of one-minute stock log return on value-weighted market log return, cumulated from opening. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2481",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2481",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2481",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2481",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2481",
+    "before": null,
+    "after": "Fig1(a): glitch-driven price response and intraday reversal for bought and sold stock subgroups, relative to pre-opening levels after market-return adjustment. Stocks classified bought/sold by first-half-hour returns above +1% / below −1%; ±2.5% variant reported. Average cumulative residual one-minute log returns from no-intercept stock-on-market regressions, market excludes glitch stocks. About ±4% initial displacement, half reversed by 10:30, full by close; overshoot near 15:00."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2481",
+    "before": null,
+    "after": "Causally interpreted linear event-response/market-adjusted outcome, not randomized experiment or automatically DiD; asset-pricing market adjustment is not FE. Binary event exposure within each sign subgroup; sign is heterogeneity, not continuous inventory dose. Subgroups selected on realized returns and market beta estimated on event date: causal credibility limited but authors explicitly interpret price pressure. Ex-post 15:00 overshoot testing is qualified in fn13; no fabricated exact plotted coordinates. Source: §2.2, Fig1(a), pp923–928/PDF2–7."
+  }
+]
+```
