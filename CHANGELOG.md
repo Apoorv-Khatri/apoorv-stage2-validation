@@ -376176,3 +376176,168 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:42:12.807146+00:00 — Review IRM23AIR s7: source-audited coding and linked comparisons
+
+26 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1160",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1161",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1162",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1163",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1164",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1165",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1160",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1161",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1162",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1163",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1164",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1165",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1160",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1161",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1162",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1163",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1164",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1165",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1160",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1161",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1162",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1163",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1164",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1165",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I448",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O448",
+    "before": null,
+    "after": "Spurious causal setting: changing the consumption data source is a model robustness exercise, not a treatment effect of CEX versus NIPA or of asset ownership on consumption. Table7A and OA Fig5 assess the dynamics/plausibility of inferred risk prices. No binary treatment contrast follows from comparing measurement sources. Source: §4.5.1, Table7A, pp239–240/PDF20–21; OA Fig5 p14."
+  }
+]
+```
