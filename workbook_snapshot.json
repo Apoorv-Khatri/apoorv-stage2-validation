@@ -24255,7 +24255,16 @@
     "L2517": "0",
     "M2517": "unknown",
     "N2517": "Untabulated firm-level takeover-event effects on board-replacement ratio, full sample; event-year increases T0–T2.",
-    "O2517": "Distinct unit/outcome from director-level probit. Regression estimator not named, so unknown rather than assuming linear OLS or fraction/probit model. The sample mean is explicitly linked to the effect discussion; no numerical effect coefficient reported. Source: fn23 p1614/PDF27, lines1720–1725."
+    "O2517": "Distinct unit/outcome from director-level probit. Regression estimator not named, so unknown rather than assuming linear OLS or fraction/probit model. The sample mean is explicitly linked to the effect discussion; no numerical effect coefficient reported. Source: fn23 p1614/PDF27, lines1720–1725.",
+    "A2518": "IWL75F9N",
+    "B2518": "h14",
+    "I2518": "1",
+    "J2518": "unknown",
+    "K2518": "1",
+    "L2518": "0",
+    "M2518": "unknown",
+    "N2518": "Untabulated firm-level takeover-event effects on board-replacement ratio, matched sample; event-year increases T1–T3.",
+    "O2518": "Distinct unit/outcome from director-level probit. Regression estimator not named, so unknown rather than assuming linear OLS or fraction/probit model. The sample mean is explicitly linked to the effect discussion; no numerical effect coefficient reported. Source: fn23 p1614/PDF27, lines1720–1725."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68355,7 +68364,14 @@
     "H6384": "0",
     "I6384": "unknown",
     "J6384": "none",
-    "K6384": "Firm-year board-replacement ratio: number of replaced board members divided by board size; a share, not a binary director indicator."
+    "K6384": "Firm-year board-replacement ratio: number of replaced board members divided by board size; a share, not a binary director indicator.",
+    "A6385": "IWL75F9N",
+    "B6385": "h14",
+    "C6385": "hy1",
+    "H6385": "0",
+    "I6385": "unknown",
+    "J6385": "none",
+    "K6385": "Firm-year board-replacement ratio: number of replaced board members divided by board size; a share, not a binary director indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -116980,7 +116996,18 @@
     "O4418": "0",
     "P4418": "0",
     "Q4418": "fn23 p1614/PDF27: full-sample mean board-replacement ratio 5.46%, paired verbally with significantly higher replacement in event years0–2.",
-    "R4418": "Qualitative focal effects are explicitly paired with mean in same paragraph; eligible even without a numerical coefficient. Pooled observed mean across full firms is not untreated targeted-firm counterfactual."
+    "R4418": "Qualitative focal effects are explicitly paired with mean in same paragraph; eligible even without a numerical coefficient. Pooled observed mean across full firms is not untreated targeted-firm counterfactual.",
+    "A4419": "IWL75F9N",
+    "B4419": "h14",
+    "C4419": "hc1",
+    "K4419": "1",
+    "L4419": "hy1",
+    "M4419": "outcome_mean",
+    "N4419": "1",
+    "O4419": "0",
+    "P4419": "0",
+    "Q4419": "fn23 p1614/PDF27: matched-sample mean board-replacement ratio 6.39%, paired verbally with significantly higher replacement in event years1–3.",
+    "R4419": "Pooled treated/control matched sample mean is not matched untreated counterfactual. Separate from full-sample effect and benchmark; no division."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

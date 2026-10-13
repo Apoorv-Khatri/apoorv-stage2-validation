@@ -379623,3 +379623,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:51:01.353809+00:00 — Review IWL75F9N h14: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4419",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4419",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4419",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4419",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4419",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4419",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4419",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4419",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4419",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4419",
+    "before": null,
+    "after": "fn23 p1614/PDF27: matched-sample mean board-replacement ratio 6.39%, paired verbally with significantly higher replacement in event years1–3."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4419",
+    "before": null,
+    "after": "Pooled treated/control matched sample mean is not matched untreated counterfactual. Separate from full-sample effect and benchmark; no division."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6385",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6385",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6385",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6385",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6385",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6385",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6385",
+    "before": null,
+    "after": "Firm-year board-replacement ratio: number of replaced board members divided by board size; a share, not a binary director indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2518",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2518",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2518",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2518",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2518",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2518",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2518",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2518",
+    "before": null,
+    "after": "Untabulated firm-level takeover-event effects on board-replacement ratio, matched sample; event-year increases T1–T3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2518",
+    "before": null,
+    "after": "Distinct unit/outcome from director-level probit. Regression estimator not named, so unknown rather than assuming linear OLS or fraction/probit model. The sample mean is explicitly linked to the effect discussion; no numerical effect coefficient reported. Source: fn23 p1614/PDF27, lines1720–1725."
+  }
+]
+```
