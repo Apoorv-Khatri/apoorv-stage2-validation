@@ -23369,7 +23369,16 @@
     "L2448": "0",
     "M2448": "n/a",
     "N2448": "AppendixA7: large-jackpot effects on market-minus-industry co-movement stratified by industry size terciles, defined by number of firms (A) or industry market capitalization (B).",
-    "O2448": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Routine size-proxy/subsample variants grouped for the same jackpot differential estimand; not an identified effect of changing industry size. Tercile timing is not established; do not claim predetermined membership. Retain large-industry insignificant differential results alongside small-industry effects. Differences winsorized2.5/97.5%. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA7 PDF9; main§5 p382 OA7."
+    "O2448": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Routine size-proxy/subsample variants grouped for the same jackpot differential estimand; not an identified effect of changing industry size. Tercile timing is not established; do not claim predetermined membership. Retain large-industry insignificant differential results alongside small-industry effects. Differences winsorized2.5/97.5%. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA7 PDF9; main§5 p382 OA7.",
+    "A2449": "GLSWBYDJ",
+    "B2449": "h18",
+    "I2449": "1",
+    "J2449": "unknown",
+    "K2449": "1",
+    "L2449": "0",
+    "M2449": "unknown",
+    "N2449": "Untabulated gambling-mechanism robustness: large jackpots change firm-return co-movement similarly with non-lottery-type and lottery-type stocks.",
+    "O2449": "Main fn19 confirms implemented qualitative result, but no estimator, exact metric, sorting construction, coefficient or grid is supplied. Include minimum family under broad author-intention gate; unknown rather than invent a correlation/FE implementation. No duplicate auxiliary control-variable settings. Source: Main §3.5 fn19, PDF9 / p377."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -66170,7 +66179,14 @@
     "H6245": "0",
     "I6245": "unknown",
     "J6245": "other",
-    "K6245": "Market-minus-industry difference in the large-minus-non-large jackpot change in adjusted R². Continuous nonlinear dependence-functional differential."
+    "K6245": "Market-minus-industry difference in the large-minus-non-large jackpot change in adjusted R². Continuous nonlinear dependence-functional differential.",
+    "A6246": "GLSWBYDJ",
+    "B6246": "h18",
+    "C6246": "hy1",
+    "H6246": "0",
+    "I6246": "unknown",
+    "J6246": "unknown",
+    "K6246": "Firm-return co-movement with lottery-type versus non-lottery-type stocks; exact dependence statistic and reporting scale not supplied in fn19."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

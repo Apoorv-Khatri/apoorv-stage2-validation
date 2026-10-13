@@ -360996,3 +360996,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:55:43.344273+00:00 — Review GLSWBYDJ h18: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6246",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6246",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6246",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6246",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6246",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6246",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6246",
+    "before": null,
+    "after": "Firm-return co-movement with lottery-type versus non-lottery-type stocks; exact dependence statistic and reporting scale not supplied in fn19."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2449",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2449",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2449",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2449",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2449",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2449",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2449",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2449",
+    "before": null,
+    "after": "Untabulated gambling-mechanism robustness: large jackpots change firm-return co-movement similarly with non-lottery-type and lottery-type stocks."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2449",
+    "before": null,
+    "after": "Main fn19 confirms implemented qualitative result, but no estimator, exact metric, sorting construction, coefficient or grid is supplied. Include minimum family under broad author-intention gate; unknown rather than invent a correlation/FE implementation. No duplicate auxiliary control-variable settings. Source: Main §3.5 fn19, PDF9 / p377."
+  }
+]
+```
