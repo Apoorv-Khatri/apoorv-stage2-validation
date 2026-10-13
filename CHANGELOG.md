@@ -353088,3 +353088,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:49:35.814565+00:00 — Review GLSWBYDJ s4: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1058",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1059",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1058",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1059",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1058",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1059",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I409",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J409",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K409",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L409",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M409",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N409",
+    "before": null,
+    "after": "Table5A: large jackpot versus other days in linear seemingly unrelated regressions of retail and institutional turnover, with firm/year/month/day-of-week FE. Retail−0.014 and institutional−0.001 percentage points; latter is insignificant."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O409",
+    "before": null,
+    "after": "Jackpots are naturally occurring rollovers, not randomized assignment of firms/days, not an instrument, and not an RD at an analyst-selected cutoff. No implemented modern DiD. Causal inclusion follows the authors’ explicit attention-shock interpretation, not proof of exogeneity. OLS survey classification, while retaining all implemented fixed-effect controls. Firm outcomes use firm, calendar-year, month-of-year and weekday dummies (four sets); lottery-search series use the latter three. Main p373 explicitly motivates seasonal/time-trend removal for the abnormal-SVI construction, not for the regression FE battery. The adjacent regression discussion says results survive controls but supplies no additional substantive account of unobserved heterogeneity/endogeneity addressed by that battery. The causal identification argument is the lottery-rollover timing on p373. Read contextually rather than demanding particular wording: the evidence is insufficient to distinguish these FE from the standard industry/calendar controls in Table7. Apply the same OLS boundary to both families; standard FE is not a fallback. A broader contextual interpretation could support HDFE for both families. Moderate-confidence taxonomy adjudication, not denial that FE are present. Table5A caption explicitly says seemingly unrelated regressions; the SUR label does not establish an identifying-FE design; retain the linear regression-adjustment category. Retail turnover−0.014 percentage points; institutional−0.001, insignificant. Preserve substantive null. Original description omits SUR and overstates evidence for a differential effect without a reported cross-equation test. Source: Main §3.4/Table5A, PDF8–9 / pp376–377."
+  }
+]
+```
