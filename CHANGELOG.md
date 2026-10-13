@@ -368691,3 +368691,570 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T07:29:17.529881+00:00 — Review HHJUFPI4 h15: source-audited coding and linked comparisons
+
+93 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4403",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4404",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4405",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4406",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4407",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4408",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4409",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4403",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4404",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4405",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4406",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4407",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4408",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4409",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4403",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4404",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4405",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4406",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4407",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4408",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4409",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4403",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4404",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4405",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4406",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4407",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4408",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4409",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4403",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4404",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4405",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4406",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4407",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4408",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4409",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4403",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4404",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4405",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4406",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4407",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4408",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4409",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4403",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4404",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4405",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4406",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4407",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4408",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4409",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4403",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4404",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4405",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4406",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4407",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4408",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4409",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4403",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4404",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4405",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4406",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4407",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4408",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4409",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4403",
+    "before": null,
+    "after": "Table2 p630/PDF11, Cournot 0–1% bin: printed PanelC change −0.043 on the probability scale paired with PanelA final-pre mean 0.243. PanelsA/B/C deliberately align the share group and printed count. These are the unadjusted adoption-year contrast and historical reference mean, not a Table3 adjusted share-gradient effect. Probability-scale decimals are not percent changes; the printed0.238 is retained, not replaced by subtraction of rounded levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4404",
+    "before": null,
+    "after": "Table2 p630/PDF11, Cournot 1–5% bin: printed PanelC change −0.024 on the probability scale paired with PanelA final-pre mean 0.167. PanelsA/B/C deliberately align the share group and printed count. These are the unadjusted adoption-year contrast and historical reference mean, not a Table3 adjusted share-gradient effect. Probability-scale decimals are not percent changes; the printed0.238 is retained, not replaced by subtraction of rounded levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4405",
+    "before": null,
+    "after": "Table2 p630/PDF11, Cournot 5–10% bin: printed PanelC change 0.028 on the probability scale paired with PanelA final-pre mean 0.139. PanelsA/B/C deliberately align the share group and printed count. These are the unadjusted adoption-year contrast and historical reference mean, not a Table3 adjusted share-gradient effect. Probability-scale decimals are not percent changes; the printed0.238 is retained, not replaced by subtraction of rounded levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4406",
+    "before": null,
+    "after": "Table2 p630/PDF11, Cournot 10–25% bin: printed PanelC change 0.080 on the probability scale paired with PanelA final-pre mean 0.200. PanelsA/B/C deliberately align the share group and printed count. These are the unadjusted adoption-year contrast and historical reference mean, not a Table3 adjusted share-gradient effect. Probability-scale decimals are not percent changes; the printed0.238 is retained, not replaced by subtraction of rounded levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4407",
+    "before": null,
+    "after": "Table2 p630/PDF11, Cournot 25–65% bin: printed PanelC change 0.238 on the probability scale paired with PanelA final-pre mean 0.190. PanelsA/B/C deliberately align the share group and printed count. These are the unadjusted adoption-year contrast and historical reference mean, not a Table3 adjusted share-gradient effect. Probability-scale decimals are not percent changes; the printed0.238 is retained, not replaced by subtraction of rounded levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4408",
+    "before": null,
+    "after": "Table2 p630/PDF11, Cournot 65–100% bin: printed PanelC change 0.000 on the probability scale paired with PanelA final-pre mean 0.182. PanelsA/B/C deliberately align the share group and printed count. These are the unadjusted adoption-year contrast and historical reference mean, not a Table3 adjusted share-gradient effect. Probability-scale decimals are not percent changes; the printed0.238 is retained, not replaced by subtraction of rounded levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4409",
+    "before": null,
+    "after": "Introduction pp621–622/PDF2–3: “Of Cournot firms with market shares between10% and65%, reliance on revenue-based pay more than doubles (increasing by roughly20 percentage points) in the first year of the post-CD&A period.” Benchmark is own subgroup pre-CD&A usage rate, numerical value not stated in this sentence."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4403",
+    "before": null,
+    "after": "Alignment unknown. Same group and identical printed pre/post counts support historical population comparability, but do not establish that its final-pre mean equals its untreated post-period mean. The maintained DDD design permits level trends and only restricts cross-mode changes in share gradients; no raw-bin no-trend construction is supplied. Do not turn this into a0 without evidence of mismatch. Retain eligibility1/verbal0/divided0 because PanelC changes are deliberately paired to PanelA own-outcome means; no computed division is attributed to the author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4404",
+    "before": null,
+    "after": "Alignment unknown. Same group and identical printed pre/post counts support historical population comparability, but do not establish that its final-pre mean equals its untreated post-period mean. The maintained DDD design permits level trends and only restricts cross-mode changes in share gradients; no raw-bin no-trend construction is supplied. Do not turn this into a0 without evidence of mismatch. Retain eligibility1/verbal0/divided0 because PanelC changes are deliberately paired to PanelA own-outcome means; no computed division is attributed to the author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4405",
+    "before": null,
+    "after": "Alignment unknown. Same group and identical printed pre/post counts support historical population comparability, but do not establish that its final-pre mean equals its untreated post-period mean. The maintained DDD design permits level trends and only restricts cross-mode changes in share gradients; no raw-bin no-trend construction is supplied. Do not turn this into a0 without evidence of mismatch. Retain eligibility1/verbal0/divided0 because PanelC changes are deliberately paired to PanelA own-outcome means; no computed division is attributed to the author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4406",
+    "before": null,
+    "after": "Alignment unknown. Same group and identical printed pre/post counts support historical population comparability, but do not establish that its final-pre mean equals its untreated post-period mean. The maintained DDD design permits level trends and only restricts cross-mode changes in share gradients; no raw-bin no-trend construction is supplied. Do not turn this into a0 without evidence of mismatch. Retain eligibility1/verbal0/divided0 because PanelC changes are deliberately paired to PanelA own-outcome means; no computed division is attributed to the author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4407",
+    "before": null,
+    "after": "Alignment unknown. Same group and identical printed pre/post counts support historical population comparability, but do not establish that its final-pre mean equals its untreated post-period mean. The maintained DDD design permits level trends and only restricts cross-mode changes in share gradients; no raw-bin no-trend construction is supplied. Do not turn this into a0 without evidence of mismatch. Retain eligibility1/verbal0/divided0 because PanelC changes are deliberately paired to PanelA own-outcome means; no computed division is attributed to the author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4408",
+    "before": null,
+    "after": "Alignment unknown. Same group and identical printed pre/post counts support historical population comparability, but do not establish that its final-pre mean equals its untreated post-period mean. The maintained DDD design permits level trends and only restricts cross-mode changes in share gradients; no raw-bin no-trend construction is supplied. Do not turn this into a0 without evidence of mismatch. Retain eligibility1/verbal0/divided0 because PanelC changes are deliberately paired to PanelA own-outcome means; no computed division is attributed to the author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4409",
+    "before": null,
+    "after": "Printed pooled claim conflicts with Table2:50 firms at0.200→0.280 and42 at0.190→0.429 do not imply doubling. Preserve claim as a distinct pooled subgroup comparison, not Table3 evidence; exact population/weighting or source of mismatch unknown. Analyst arithmetic is audit-only, not author evidence."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6299",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6299",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6299",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6299",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6299",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6299",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6299",
+    "before": null,
+    "after": "Proportion of firms using Revenue-Based Pay by Cournot market-share bin; Table2 PanelC estimates the change in the same proportion between PanelsA/B. Group probability, not individual binary indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2477",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2477",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2477",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2477",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2477",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2477",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2477",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2477",
+    "before": null,
+    "after": "Last-pre versus first-post CD&A Cournot revenue-based-pay utilization contrasts in six pre-market-share bins (0–1,1–5,5–10,10–25,25–65,65–100 percent), Table2. Includes author’s pooled10–65% statement, with unresolved printed inconsistency."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2477",
+    "before": null,
+    "after": "Broad gate: interpreted as strategic response to disclosure, although table explicitly descriptive. Unadjusted linear pre/post contrasts, not a formal treated/control DiD; binary mandate exposure within each sample bin. Retain zeros/null contrasts as well as positive changes. Bertrand changes explicitly may be secular trends, so not promoted to separate causal responses. Same-firm counts in each pre/post bin are printed. Source’s pooled claim is not repaired from table arithmetic. Source: §5.1/Table2 pp629–630/PDF10–11; introduction pp621–622/PDF2–3."
+  }
+]
+```
