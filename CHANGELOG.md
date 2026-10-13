@@ -378573,3 +378573,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:30:32.418055+00:00 — Review IWL75F9N h4: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6374",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6374",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6374",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6374",
+    "before": null,
+    "after": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2508",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2508",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2508",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2508",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2508",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2508",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2508",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2508",
+    "before": null,
+    "after": "Table3: annual change in the normalized financial-reform index and CEO turnover; separately interpreted lower-order reform coefficient, with performance interaction included as conditioning, across full/legal-origin/ASDI samples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2508",
+    "before": null,
+    "after": "p1603 expressly says financial reforms increase CEO turnover; sufficient author-intention gate despite endogeneity and the control-variable label. The reported positive coefficients concern the lower-order reform term, not an independently interpreted causal effect of its insignificant performance interaction. In this probit with interactions, the lower-order coefficient is an index derivative at performance zero; the probability effect varies with performance/covariates. Continuous annual index change; Other; supporting; no benchmark. Source: p1602–1604/PDF15–17, Table3; lines916–918,965–968,991–995."
+  }
+]
+```

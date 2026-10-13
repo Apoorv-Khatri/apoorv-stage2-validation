@@ -24165,7 +24165,16 @@
     "L2507": "0",
     "M2507": "n/a",
     "N2507": "Table1B and §1.3: unadjusted two-valued law-exposure group contrasts in CEO turnover; treated-country pre/post increase 1.79pp and post-law versus never-adopting comparison described as 1.73pp.",
-    "O2507": "Authors explicitly infer that laws increased CEO replacement, so the descriptive section heading does not defeat inclusion. Retain unadjusted level/group contrasts, not a verified two-period DiD. Separate substantive performance-quartile sensitivity contrasts are captured in h21 rather than left only in a note. The −5.27/−2.60 comparison is between turnover-rate differences, not a probability-level benchmark. Preserve prose 1.73pp and displayed 17.26% versus 15.52% (difference 1.74pp); no correction to source values. Source: p1593–1596/PDF6–9 Table1B, lines341–349,504–541."
+    "O2507": "Authors explicitly infer that laws increased CEO replacement, so the descriptive section heading does not defeat inclusion. Retain unadjusted level/group contrasts, not a verified two-period DiD. Separate substantive performance-quartile sensitivity contrasts are captured in h21 rather than left only in a note. The −5.27/−2.60 comparison is between turnover-rate differences, not a probability-level benchmark. Preserve prose 1.73pp and displayed 17.26% versus 15.52% (difference 1.74pp); no correction to source values. Source: p1593–1596/PDF6–9 Table1B, lines341–349,504–541.",
+    "A2508": "IWL75F9N",
+    "B2508": "h4",
+    "I2508": "1",
+    "J2508": "Other",
+    "K2508": "0",
+    "L2508": "0",
+    "M2508": "n/a",
+    "N2508": "Table3: annual change in the normalized financial-reform index and CEO turnover; separately interpreted lower-order reform coefficient, with performance interaction included as conditioning, across full/legal-origin/ASDI samples.",
+    "O2508": "p1603 expressly says financial reforms increase CEO turnover; sufficient author-intention gate despite endogeneity and the control-variable label. The reported positive coefficients concern the lower-order reform term, not an independently interpreted causal effect of its insignificant performance interaction. In this probit with interactions, the lower-order coefficient is an index derivative at performance zero; the probability effect varies with performance/covariates. Continuous annual index change; Other; supporting; no benchmark. Source: p1602–1604/PDF15–17, Table3; lines916–918,965–968,991–995."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68206,7 +68215,11 @@
     "H6373": "1",
     "I6373": "1",
     "J6373": "none",
-    "K6373": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
+    "K6373": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise.",
+    "A6374": "IWL75F9N",
+    "B6374": "h4",
+    "C6374": "hy1",
+    "K6374": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
