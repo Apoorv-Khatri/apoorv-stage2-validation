@@ -23324,7 +23324,16 @@
     "L2443": "0",
     "M2443": "n/a",
     "N2443": "AppendixA3: spillover-day versus other non-large non-spillover-day coefficient conditional on large-jackpot indicator. Same five attention outcomes, two/four/six-day definitions.",
-    "O2443": "OLS survey classification, while retaining all implemented fixed-effect controls. Firm outcomes use firm, calendar-year, month-of-year and weekday dummies (four sets); lottery-search series use the latter three. Main p373 explicitly motivates seasonal/time-trend removal for the abnormal-SVI construction, not for the regression FE battery. The adjacent regression discussion says results survive controls but supplies no additional substantive account of unobserved heterogeneity/endogeneity addressed by that battery. The causal identification argument is the lottery-rollover timing on p373. Read contextually rather than demanding particular wording: the evidence is insufficient to distinguish these FE from the standard industry/calendar controls in Table7. Apply the same OLS boundary to both families; standard FE is not a fallback. A broader contextual interpretation could support HDFE for both families. Moderate-confidence taxonomy adjudication, not denial that FE are present. Substantive attention dynamics, not pretrend diagnostic. Six-day abnormal firm SVI−0.004 (t−1.49) is insignificant despite main prose’s blanket significance claim. No numerical correction. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA3A–C PDF4–5; main§4.2 p379 OA3."
+    "O2443": "OLS survey classification, while retaining all implemented fixed-effect controls. Firm outcomes use firm, calendar-year, month-of-year and weekday dummies (four sets); lottery-search series use the latter three. Main p373 explicitly motivates seasonal/time-trend removal for the abnormal-SVI construction, not for the regression FE battery. The adjacent regression discussion says results survive controls but supplies no additional substantive account of unobserved heterogeneity/endogeneity addressed by that battery. The causal identification argument is the lottery-rollover timing on p373. Read contextually rather than demanding particular wording: the evidence is insufficient to distinguish these FE from the standard industry/calendar controls in Table7. Apply the same OLS boundary to both families; standard FE is not a fallback. A broader contextual interpretation could support HDFE for both families. Moderate-confidence taxonomy adjudication, not denial that FE are present. Substantive attention dynamics, not pretrend diagnostic. Six-day abnormal firm SVI−0.004 (t−1.49) is insignificant despite main prose’s blanket significance claim. No numerical correction. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA3A–C PDF4–5; main§4.2 p379 OA3.",
+    "A2444": "GLSWBYDJ",
+    "B2444": "h13",
+    "I2444": "1",
+    "J2444": "Other",
+    "K2444": "1",
+    "L2444": "0",
+    "M2444": "n/a",
+    "N2444": "AppendixA4: large versus non-large jackpot dependence effects under cutoffs400–600m TWD in20m increments; correlation and adjusted R²; includes main-text qualitative10m-increment robustness without inventing unreported cells.",
+    "O2444": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Threshold sensitivity grouped as routine variants, not11/21 distinct treatments. Appendix differences winsorized2.5/97.5%; at500m mean correlation0.019 versus main Table3’s0.018. Difference in winsorization/version may explain; neither silently harmonized nor claimed identical. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA4 PDF6; main§4.4 p381 OA4."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -66020,7 +66029,21 @@
     "H6230": "0",
     "I6230": "unknown",
     "J6230": "other",
-    "K6230": "Abnormal lottery SVI: deviation from own median over prior25th–5th weeks, divided by that median."
+    "K6230": "Abnormal lottery SVI: deviation from own median over prior25th–5th weeks, divided by that median.",
+    "A6231": "GLSWBYDJ",
+    "B6231": "h13",
+    "C6231": "hy1",
+    "H6231": "0",
+    "I6231": "unknown",
+    "J6231": "none",
+    "K6231": "Firm-market Pearson correlation, computed separately over each specified day category. Continuous correlation coefficient; means and medians of firm-specific contrasts reported.",
+    "A6232": "GLSWBYDJ",
+    "B6232": "h13",
+    "C6232": "hy2",
+    "H6232": "0",
+    "I6232": "unknown",
+    "J6232": "none",
+    "K6232": "Adjusted R² from firm excess return on market excess return, computed separately over each specified day category. Continuous generated goodness-of-fit outcome, not a probability."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -359523,3 +359523,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:54:29.567844+00:00 — Review GLSWBYDJ h13: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6231",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6232",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6231",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6232",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6231",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6232",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6231",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6232",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6231",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6232",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6231",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6232",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6231",
+    "before": null,
+    "after": "Firm-market Pearson correlation, computed separately over each specified day category. Continuous correlation coefficient; means and medians of firm-specific contrasts reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6232",
+    "before": null,
+    "after": "Adjusted R² from firm excess return on market excess return, computed separately over each specified day category. Continuous generated goodness-of-fit outcome, not a probability."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2444",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2444",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2444",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2444",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2444",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2444",
+    "before": null,
+    "after": "AppendixA4: large versus non-large jackpot dependence effects under cutoffs400–600m TWD in20m increments; correlation and adjusted R²; includes main-text qualitative10m-increment robustness without inventing unreported cells."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2444",
+    "before": null,
+    "after": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Threshold sensitivity grouped as routine variants, not11/21 distinct treatments. Appendix differences winsorized2.5/97.5%; at500m mean correlation0.019 versus main Table3’s0.018. Difference in winsorization/version may explain; neither silently harmonized nor claimed identical. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA4 PDF6; main§4.4 p381 OA4."
+  }
+]
+```
