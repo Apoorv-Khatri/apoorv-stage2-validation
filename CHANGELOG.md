@@ -375378,3 +375378,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:39:40.636706+00:00 — Review IRM23AIR s1: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1132",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1133",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1132",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1133",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1132",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1133",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1132",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s1 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1133",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s1 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I442",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O442",
+    "before": null,
+    "after": "Spurious causal setting: the extracted beta describes cyclicality of an inferred risk price, not a directionally interpreted state-to-risk-price response. Introduction p221 explicitly says correlating it with the state variables; Eqs13–14 and §3.1.4 assess dynamics/association. Separately, Eq9 recovers compensation per unit of conditional return–consumption covariance under a pricing restriction; its gamma is not automatically the response of market returns to consuming more. Structural causal parameters can qualify and neither an explicit intervention nor credible exogeneity is required; exclusion here rests on interpretation of these particular reported parameters, not the asset-pricing topic or observational OLS. Source: §3.1.2–3.1.4, Eqs9–14, pp224–225; §4.1.1, Fig4/Table2 CRSP rows, pp228–233/PDF9–14."
+  }
+]
+```
