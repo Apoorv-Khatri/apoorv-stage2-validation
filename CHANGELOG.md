@@ -376857,3 +376857,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:44:14.652584+00:00 — Review IRM23AIR s12: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1184",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1185",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1184",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1185",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1184",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1185",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1184",
+    "before": null,
+    "after": "spurious as a causal outcome on the contextual OA.3 gate: quarterly UMVE currency-portfolio return, observed at monthly frequency, is the dependent variable for NIPA and CEX-holder consumption-growth slopes. Do not conflate this return with the inferred risk price in y2. If OA.3 is retained under the competing leads-to interpretation, preserve y1 for NIPA cols1,3 and add hy1 under h1 for the CEX cols2,3 treatment. No outcome-SD normalization is reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1185",
+    "before": null,
+    "after": "spurious as a causal outcome independently of the OA.3 gate: estimated price of currency risk implied by the UMVE factor, regressed on standardized state proxies in OA.4 PanelA; not the quarterly UMVE return in OA.3. Main p243 explicitly says its scale is not directly comparable to consumption risk prices. OA.4 PanelsB–C repeat NIPA/CEX currency risk-price results in Table2; those are not missing OA.3 response outcomes."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E50",
+    "before": null,
+    "after": "DONE — All 25 published article pages and 24-page publisher Online Appendix reviewed and independently audited; publisher supplement independently re-fetched with matching bytes. All 12 original settings excluded and 54 outcomes marked spurious as causal records; original model fields preserved. No qualifying additions or magnitude comparisons. Exclusions concern parameter-specific pricing/cyclicality/correlation interpretation, not a blanket exclusion of structural models or observational OLS. OA.3 consumption-return slopes remain a contested contextual gate judgment: leads-to wording occurs within explicit correlation/association interpretation; alternative NIPA/CEX split documented in audit. Table 4/5 scaling errors corrected in human notes independently of eligibility. Printed appendix inconsistencies preserved. No source-access blocker remains; OA.3 and s5 interpretation uncertainty is explicit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I453",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O453",
+    "before": null,
+    "after": "Spurious causal setting on preferred contextual reading; genuine contested author-intention judgment. OA.3 estimates contemporaneous quarterly UMVE-return slopes on NIPA and/or CEX-holder consumption growth. Main p241 says a one-SD increase leads to a0.9(0.3)percentage-point increase: positive evidence for inclusion under the broad gate, even with observational OLS and no explicit intervention. Crucially the sentence follows a colon after positively correlated and is followed by associated/relation; p243 concludes more closely related to the priced component. Read as a whole, the numerical sentence explains the correlation/loading rather than asserting a directional consumption response. Exclusion does not require a credible design, explicit shock or intervention. OA.3 col1 NIPA0.009(t2.765), col2 CEX0.003(t1.258), col3 NIPA0.008(t2.721) and CEX0.003(t1.149), N418. Null CEX slopes are not excluded for insignificance. Independently OA.4/s12-y2 is risk-price cyclicality, not the OA.3 response; its NIPA/CEX rows repeat Table2 currency rows. If leads-to wording is adjudicated sufficient, retain s12/y1 narrowly for NIPA cols1,3 and add h1/hy1 for CEX cols2,3, OLS/binary0/main0/IV_type n/a; keep s12/y2 rejected. No qualifying benchmark: treatment-SD increments, return percentage points, fitted constants and slope comparisons are not same-outcome mean/SD or level comparisons. Source: §4.6 pp241,243/PDF22,24; publisher Online Appendix TableOA.3 p20 and TableOA.4 p21."
+  }
+]
+```
