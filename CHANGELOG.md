@@ -361455,3 +361455,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T04:27:04.193784+00:00 — Review H6AHELRK s1: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K237",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K238",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R237",
+    "before": null,
+    "after": "Replication success is a diagnostic rate, not a causal effect. In addition, the explicit 80% comparison concerns All-EW58.6% and FM-OLS58.2%, not the NYSE-VW35% estimate in c1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R238",
+    "before": null,
+    "after": "Replication success is a diagnostic rate, not a causal effect. In addition, the explicit 80% comparison concerns All-EW58.6% and FM-OLS58.2%, not the NYSE-VW35% estimate in c1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1075",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1076",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1077",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1075",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1076",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1077",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1075",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1076",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1077",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1075",
+    "before": null,
+    "after": "spurious under rejected causal parent. Replication percentage is a group rate, not a binary dependent variable. Original predictive result is preserved, not disputed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1076",
+    "before": null,
+    "after": "spurious under rejected causal parent. Original predictive result is preserved, not disputed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1077",
+    "before": null,
+    "after": "spurious under rejected causal parent. FM slopes use standardized regressors, not outcome-SD units. Original predictive result is preserved, not disputed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I416",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O416",
+    "before": null,
+    "after": "Spurious as a causal characteristic-on-return setting: the estimands test predictive power/replication of expected-return associations, not the directional effect of changing the characteristic. This is an author-intention judgment, not exclusion for finance, OLS, or imperfect identification. Procedural sensitivity of a replication statistic alone does not create a separate causal effect. See coverage audit for the distinct substantive capacity-rule exception. Source: Main §2.1, §3.1.1, Figure 2, PDF7–9,15–16."
+  }
+]
+```
