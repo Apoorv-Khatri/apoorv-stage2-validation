@@ -377229,3 +377229,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:24:18.575333+00:00 — Review IWL75F9N s6: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1191",
+    "before": null,
+    "after": "Outcome is a 0/1 indicator with zero observations (turnover/acquisition is not universal), untransformed. Human type labels are not required because the corrected focal interaction treatment is nonbinary."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I459",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J459",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K459",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L459",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M459",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N459",
+    "before": null,
+    "after": "Focal continuous performance×policy interaction (change in turnover/acquisition sensitivity), not simply the binary post×treat indicator. Exposure to takeover-law enactment in the firm’s country (Post × Treat), with the key causal parameter being the interaction of law exposure with continuous 1-year-lagged excess stock returns rather than accounting performance."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O459",
+    "before": null,
+    "after": "Nonlinear probit, with Ai–Norton corrected interaction effects: Other, not linear DiD or HDFE. Country, two-digit industry and year dummies are three sets but nonlinear-estimator precedence applies. Staggered law timing is not modern DiD; laws are not excluded instruments in a receipt first stage. The focal performance×law parameter varies continuously with lagged performance, distinct from a binary law-level effect. Parallel changes in sensitivity and no contemporaneous confounding are maintained assumptions, not proven identification. Source: Section 4.2, Table 4 Panel A cols. (3)–(4), PDF pp. 18–20.."
+  }
+]
+```
