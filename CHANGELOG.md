@@ -370083,3 +370083,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:03:02.159928+00:00 — Review I6VAFIIF s3: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1110",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1111",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1110",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1111",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1110",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1111",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1110",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported outcome; replace unsupported model zero_mass=0 with unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1111",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported outcome; replace unsupported model zero_mass=0 with unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J435",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M435",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N435",
+    "before": null,
+    "after": "KnightSameSide: binary extra cost of executions on Aug1–8 competing with inferred KC liquidation (stock glitch-period return at least +2.5% and institutional sell, or at most −2.5% and institutional buy). Table5 estimates 8.68 bps VWAP slippage and 30.52 bps IS, with stock/day FE and Eq7 exposure controls. Threshold ±1% is a reported routine robustness variant (42 rather than 21 executions)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O435",
+    "before": null,
+    "after": "Parameter-specific classification: causally interpreted conditional KnightSameSide coefficient, estimated with actual stock and calendar-day dummies plus Glitch/DMM event controls. The source motivates identification through the exogenous glitch and inferred inventory direction; it does not argue that these FE identify the directional parameter by absorbing its omitted heterogeneity. Eq7 is explicitly DiD for the Glitch/DMM terms, but no pre-event same-side main effect or directional parallel-trends contrast is specified for KnightSameSide. Code OLS/regression adjustment, not FE by dummy count and not automatic DiD by sharing Eq7. Two dummy sets are present; they are not three HDFE dimensions. No no-FE implementation or OLS/FE split is invented. Selection on realized glitch returns and inferred inventory limits causal credibility, not the author-intention gate. FE remains a competing contextual interpretation, but the proposal supplied a stronger FE-identification rationale than the text. Source: §5.1.2, Table5, pp937–938/PDF16–17."
+  }
+]
+```
