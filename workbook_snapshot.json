@@ -23940,7 +23940,16 @@
     "L2497": "0",
     "M2497": "n/a",
     "N2497": "GS designated-market-maker exposure following absorption of KC inventory: add Goldman Sachs DMM event dummies to Eq7. IS rises about11 bps in following week with weak evidence; VWAP rise small and insignificant.",
-    "O2497": "Distinct exposure channel: GS received inventory but did not suffer KC capital loss. No numerical coefficient for VWAP or exact standard errors printed. No need to split baseline KC coefficients merely because GS controls are added. Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Source: §5.1.1 p937/PDF16 (unreported regression)."
+    "O2497": "Distinct exposure channel: GS received inventory but did not suffer KC capital loss. No numerical coefficient for VWAP or exact standard errors printed. No need to split baseline KC coefficients merely because GS controls are added. Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Source: §5.1.1 p937/PDF16 (unreported regression).",
+    "A2498": "I6VAFIIF",
+    "B2498": "h18",
+    "I2498": "1",
+    "J2498": "DiD_conventional",
+    "K2498": "1",
+    "L2498": "0",
+    "M2498": "n/a",
+    "N2498": "§7.6 unreported robustness for glitch exposure: exclude all DMM-affected stocks; additionally use control parent-orders in propensity-score-matched stocks based on market capitalization and turnover on July31. Findings reported unaffected.",
+    "O2498": "Same section, method, exposure and outcome family; group routine sample/control variants. Propensity matching is preprocessing of baseline regression, not a new Matching estimator. Exact matching algorithm/caliper/weights and output grid are unreported; no invention. Scope-limited institutional outcomes; unseen spread implementations remain unresolved. Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Source: §7.6 p947/PDF26."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -67627,7 +67636,21 @@
     "H6357": "0",
     "I6357": "unknown",
     "J6357": "none",
-    "K6357": "Implementation shortfall: signed average execution price minus starting midquote divided by starting midquote, reported bps. Zero mass not established."
+    "K6357": "Implementation shortfall: signed average execution price minus starting midquote divided by starting midquote, reported bps. Zero mass not established.",
+    "A6358": "I6VAFIIF",
+    "B6358": "h18",
+    "C6358": "hy1",
+    "H6358": "0",
+    "I6358": "unknown",
+    "J6358": "none",
+    "K6358": "VWAP slippage: signed average execution price minus interval VWAP divided by interval VWAP, reported bps. Zero mass not established.",
+    "A6359": "I6VAFIIF",
+    "B6359": "h18",
+    "C6359": "hy2",
+    "H6359": "0",
+    "I6359": "unknown",
+    "J6359": "none",
+    "K6359": "Implementation shortfall: signed average execution price minus starting midquote divided by starting midquote, reported bps. Zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
