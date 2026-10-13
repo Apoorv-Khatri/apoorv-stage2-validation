@@ -376719,3 +376719,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:43:25.184588+00:00 — Review IRM23AIR s10: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1180",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1181",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1180",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1181",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1180",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1181",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1180",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s10 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1181",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s10 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O451",
+    "before": null,
+    "after": "Spurious causal setting: implemented omission of the conditioning PCs in residualization probes sensitivity of ex-post covariance construction. The resulting Table9 coefficients are still risk-price associations, not effects of information removal on economic behavior. The three principal components are numeric conditioning variables, not three absorbed FE dimensions. Source: §4.5.4, Table9, pp240–242/PDF21–23."
+  }
+]
+```
