@@ -353265,3 +353265,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:50:25.038675+00:00 — Review GLSWBYDJ s7: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K236",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R236",
+    "before": null,
+    "after": "Reject:0.047/0.072=paper-reported65% attenuation compares two earnings-response coefficients (interaction versus baseline SUE slope), not the effect with a mean/SD/level of CAR(0,0). Verbal division really occurs, but eligibility fails independently. Do not turn the baseline slope into other_level. Same exclusion applies to0.137 versus0.197 post-announcement coefficients."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1064",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1065",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1066",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1067",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1064",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1065",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1066",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1067",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1064",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1065",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1066",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1067",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1064",
+    "before": null,
+    "after": "Announcement-day abnormal return CAR(0,0), computed as firm excess return minus estimated beta times market excess return. Market-model-adjusted return; cumulative windows use compounded buy-and-hold firm excess returns minus beta times compounded market excess returns (eq11), not a log transform. Underlying observed zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1065",
+    "before": null,
+    "after": "Cumulative abnormal return over days 0 to 1 after the earnings announcement, CAR(0,1). Market-model-adjusted return; cumulative windows use compounded buy-and-hold firm excess returns minus beta times compounded market excess returns (eq11), not a log transform. Underlying observed zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1066",
+    "before": null,
+    "after": "Cumulative abnormal return over days 2 to 5 after the earnings announcement, CAR(2,5). Market-model-adjusted return; cumulative windows use compounded buy-and-hold firm excess returns minus beta times compounded market excess returns (eq11), not a log transform. Underlying observed zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1067",
+    "before": null,
+    "after": "Cumulative abnormal return over days 6 to 60 after the earnings announcement, CAR(6,60). Market-model-adjusted return; cumulative windows use compounded buy-and-hold firm excess returns minus beta times compounded market excess returns (eq11), not a log transform. Underlying observed zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I412",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J412",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K412",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L412",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M412",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N412",
+    "before": null,
+    "after": "Binary large-jackpot exposure on an earnings-announcement day, interacted with the continuous SUE decile moderator. Table7/eq12 estimates changes in the CAR response per SUE rank for CAR(0,0), CAR(0,1), CAR(2,5), CAR(6,60). OLS with industry, year, month and weekday dummies plus listed controls; date/firm clustered inference. Post-window jackpot share and its SUE interaction are additional controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O412",
+    "before": null,
+    "after": "Jackpots are naturally occurring rollovers, not randomized assignment of firms/days, not an instrument, and not an RD at an analyst-selected cutoff. No implemented modern DiD. Causal inclusion follows the authors’ explicit attention-shock interpretation, not proof of exogeneity. Binary=1 refers to jackpot exposure, not the numeric support of the interacted column; conditional effect is alpha1+alpha3*SUE rank. Interaction−0.047,−0.089,+0.137,−0.093; later reversal and long-window null are substantive, not diagnostic pretrends. OLS survey code: industry/year/month/weekday dummies are listed as standard controls, but no distinct argument assigning identification to this FE battery; do not automatically infer HDFE from four dummies. Exogenous jackpot timing supplies the causal argument. There is no treated/post comparison or parallel-trends estimator. FE-role classification is flagged for adjudication. The65% statement is a coefficient/effect ratio, not a CAR outcome baseline. Source: Main §4.1/eq9–12/Table7, PDF10–11 / pp378–379."
+  }
+]
+```
