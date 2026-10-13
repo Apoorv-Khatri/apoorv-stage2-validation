@@ -375942,3 +375942,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:41:26.186167+00:00 — Review IRM23AIR s5: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1152",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1153",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1152",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1153",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1152",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1153",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1152",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s5 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1153",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s5 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I446",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O446",
+    "before": null,
+    "after": "Spurious causal setting, contested mechanism interpretation: Table4 beta relates a cycle proxy to estimated return–consumption covariance. §4.2 explicitly invokes the composition effect: when stock wealth is high relative to consumption, consumption is more sensitive to stock returns, leading to higher covariance. This is substantive mechanism evidence, not dismissed merely because coefficients are insignificant. Nevertheless the paper interprets the estimated beta as cyclicality/association consistent with that mechanism, while the possible quantity-of-risk contribution to the price-of-risk puzzle is a different relationship that Table4 does not estimate. The statement that evidence is insufficient for full attribution is not itself an exclusion rule: partial causal effects would qualify. No explicit intervention is required. Independently definite scale error: Table4 heading is beta-hat times 10^5; displayed 0.21 and 15.85 mean raw beta 0.0000021 and 0.0001585 respectively, not those displayed numbers multiplied upward by 10^5. Original fields preserved. Source: §4.2, Eq14 and Table4, p236/PDF17."
+  }
+]
+```
