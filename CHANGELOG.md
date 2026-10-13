@@ -352212,3 +352212,576 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:49:01.529752+00:00 — Review GLSWBYDJ s2: source-audited coding and linked comparisons
+
+94 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4290",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4291",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4292",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4293",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4294",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4295",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4290",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4291",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4292",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4293",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4294",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4295",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4290",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4291",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4292",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4293",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4294",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4295",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K234",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K235",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4290",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4291",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4292",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4293",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4294",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4295",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L234",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L235",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4290",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4291",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4292",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4293",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4294",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4295",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M234",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M235",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4290",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4291",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4292",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4293",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4294",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4295",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N234",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N235",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4290",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4291",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4292",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4293",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4294",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4295",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O234",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O235",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4290",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4291",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4292",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4293",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4294",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4295",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P234",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P235",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4290",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4291",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4292",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4293",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4294",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4295",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q234",
+    "before": null,
+    "after": "Table3/PDF7 and §3.2/PDF6: mean of firm-specific relative correlation changes=0.039, dividing each firm’s large-minus-non-large change by its own non-large-day correlation; winsorized1/99%. Original row pooled mean and median; retain mean normalized estimand here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q235",
+    "before": null,
+    "after": "Table3/PDF7 and §3.2/PDF6: mean of firm-specific relative adjusted R² changes=0.095, dividing each firm’s large-minus-non-large change by its own non-large-day adjusted R²; winsorized1/99%. Original row pooled mean and median; retain mean normalized estimand here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4290",
+    "before": null,
+    "after": "Table3/PDF7: median of firm-specific relative correlation changes=0.049, benchmark each firm’s non-large-day correlation; §1/PDF2 discusses approximately5%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4291",
+    "before": null,
+    "after": "Table3/PDF7, correlation mean row: mean paired difference0.018; non-large-day cross-firm mean level0.445,817 firms. This is deliberate table pairing, distinct from summary of firm-specific percentage changes. Alignment uses the maintained exogenous-day argument in main §3.1/p373, with the same outcome construction and target aggregation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4292",
+    "before": null,
+    "after": "Table3/PDF7, correlation median row: median paired difference0.023; non-large-day cross-firm median level0.459."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4293",
+    "before": null,
+    "after": "Table3/PDF7: median of firm-specific relative adjusted R² changes=0.089, benchmark each firm’s non-large-day adjusted R²; §1/PDF2 discusses approximately10%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4294",
+    "before": null,
+    "after": "Table3/PDF7, adjusted R² mean row: mean paired difference0.021; non-large-day cross-firm mean level0.211,817 firms. This is deliberate table pairing, distinct from summary of firm-specific percentage changes. Alignment uses the maintained exogenous-day argument in main §3.1/p373, with the same outcome construction and target aggregation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4295",
+    "before": null,
+    "after": "Table3/PDF7, adjusted R² median row: median paired difference0.018; non-large-day cross-firm median level0.210."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R234",
+    "before": null,
+    "after": "Mean/median of winsorized unit-specific relative changes is not the ratio of aggregate effect to displayed aggregate mean/median. Benchmark is each unit’s own non-large-day dependence level (other_level), not an outcome mean across firms; alignment n/a under the field rules."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R235",
+    "before": null,
+    "after": "Mean/median of winsorized unit-specific relative changes is not the ratio of aggregate effect to displayed aggregate mean/median. Benchmark is each unit’s own non-large-day dependence level (other_level), not an outcome mean across firms; alignment n/a under the field rules."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4290",
+    "before": null,
+    "after": "Mean/median of winsorized unit-specific relative changes is not the ratio of aggregate effect to displayed aggregate mean/median. Benchmark is each unit’s own non-large-day dependence level (other_level), not an outcome mean across firms; alignment n/a under the field rules."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4291",
+    "before": null,
+    "after": "Aligned under the paper’s maintained exogenous-jackpot-day design (main p373): the non-large-day outcome is the untreated regime for the same sampled units and the same aggregation used for the paired mean effect. This accepts the authors’ maintained target, not experimental random assignment or proof of exogeneity. No extra calendar reweighting is required merely because it is unreported. Unlike high-search and nested-window comparisons, this contrast uses the baseline large/non-large definition; the Table2 turnover count discrepancy is not imported into this record. 817 firms; equal cross-firm averaging of the same firm-specific dependence statistics."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4292",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4293",
+    "before": null,
+    "after": "Mean/median of winsorized unit-specific relative changes is not the ratio of aggregate effect to displayed aggregate mean/median. Benchmark is each unit’s own non-large-day dependence level (other_level), not an outcome mean across firms; alignment n/a under the field rules."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4294",
+    "before": null,
+    "after": "Aligned under the paper’s maintained exogenous-jackpot-day design (main p373): the non-large-day outcome is the untreated regime for the same sampled units and the same aggregation used for the paired mean effect. This accepts the authors’ maintained target, not experimental random assignment or proof of exogeneity. No extra calendar reweighting is required merely because it is unreported. Unlike high-search and nested-window comparisons, this contrast uses the baseline large/non-large definition; the Table2 turnover count discrepancy is not imported into this record. 817 firms; equal cross-firm averaging of the same firm-specific dependence statistics."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4295",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1054",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1055",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1054",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1055",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1054",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1055",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I407",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J407",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K407",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L407",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M407",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O407",
+    "before": null,
+    "after": "Jackpots are naturally occurring rollovers, not randomized assignment of firms/days, not an instrument, and not an RD at an analyst-selected cutoff. No implemented modern DiD. Causal inclusion follows the authors’ explicit attention-shock interpretation, not proof of exogeneity. Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Correlation differences mean0.018/median0.023; adjusted R² differences0.021/0.018. Percentage changes0.039/0.049 and0.095/0.089 are summaries of firm-specific ratios, not ratios of displayed means/medians. Heavy-retail untabulated 0.1 correlation effect (fn16) stays a routine subgroup result here. Source: Main §3.2/Table3, PDF6–7 / pp374–375."
+  }
+]
+```
