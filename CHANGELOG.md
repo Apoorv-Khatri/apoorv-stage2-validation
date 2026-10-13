@@ -348516,3 +348516,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T02:40:47.506153+00:00 — Review FNTCHE9R s7: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1032",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1033",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1034",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1032",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1033",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1034",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1032",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1033",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1034",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1032",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s7 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1033",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s7 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1034",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s7 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I393",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O393",
+    "before": null,
+    "after": "Gamma is inferred preference curvature in the CRRA Euler moment, with delta fixed at 0.95. The reported outcome is gamma itself and its confidence set, not an estimated effect of gamma on returns or consumption. Although a genuinely causally interpreted structural response could qualify, this is preference-parameter inference/model evaluation. The risk-free-rate formula in fn21 summarizes prior studies, not a new implemented response estimate in this paper. Nonlinear GMM moment restrictions are not linear IV treatment instruments. Source: Main §III.A Table VI PDF35–36; fn20–23; IA §IV.A–C PDF17–24, FigIA11–12."
+  }
+]
+```
