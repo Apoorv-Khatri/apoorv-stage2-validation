@@ -348234,3 +348234,144 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T02:40:15.254500+00:00 — Review FNTCHE9R s5: source-audited coding and linked comparisons
+
+22 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1022",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1023",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1024",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1025",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1026",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1022",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1023",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1024",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1025",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1026",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1022",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1023",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1024",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1025",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1026",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1022",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s5 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1023",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s5 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1024",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s5 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1025",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s5 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1026",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s5 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I391",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O391",
+    "before": null,
+    "after": "Yearly two-factor market/consumption and three-factor market/SMB/HML specifications estimate and test risk prices, rank and explanatory fit. No directional consumption, size, value or market intervention is asserted. Two model families are distinct statistical specifications but do not warrant added causal settings after the gate fails. Source: Main §II.A Table IV PDF27–28; IA FigIA5–6 PDF15."
+  }
+]
+```
