@@ -373587,3 +373587,276 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:11:38.624035+00:00 — Review I6VAFIIF h14: source-audited coding and linked comparisons
+
+44 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6343",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6344",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6345",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6346",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6347",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6343",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6344",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6345",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6346",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6347",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6343",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6344",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6345",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6346",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6347",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6343",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6344",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6345",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6346",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6347",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6343",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6344",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6345",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6346",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6347",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6343",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6344",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6345",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6346",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6347",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6343",
+    "before": null,
+    "after": "VWAP slippage: signed average execution price minus interval VWAP divided by interval VWAP, reported bps. Zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6344",
+    "before": null,
+    "after": "Implementation shortfall: signed average execution price minus starting midquote divided by starting midquote, reported bps. Zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6345",
+    "before": null,
+    "after": "Effective spread, bps, dollar-weighted over the institutional parent-order execution interval; five-minute midpoint horizon for realized spread/price impact. Author-linked January6,2020 IA TableIA.4 p10; final publisher attachment identity unverified. Zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6346",
+    "before": null,
+    "after": "Realized spread, bps, dollar-weighted over the institutional parent-order execution interval; five-minute midpoint horizon for realized spread/price impact. Author-linked January6,2020 IA TableIA.4 p10; final publisher attachment identity unverified. Zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6347",
+    "before": null,
+    "after": "Price impact, bps, dollar-weighted over the institutional parent-order execution interval; five-minute midpoint horizon for realized spread/price impact. Author-linked January6,2020 IA TableIA.4 p10; final publisher attachment identity unverified. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2494",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2494",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2494",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2494",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2494",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2494",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2494",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2494",
+    "before": null,
+    "after": "Author IA TableIA.4: NYSE official potentially-affected list (49 S&P500 stocks) baseline replication for glitch exposure. Eq7 conventional DiD with stock/day FE and execution controls; all four event windows, two institutional costs and three matched spread outcomes. Day0 VWAP3.61,IS12.33,ES0.68,RS−0.02,PI0.69 bps; nextweek5.69,16.71,0.26,−0.86,1.12."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2494",
+    "before": null,
+    "after": "Recovered author appendix explicitly supplies the full five-outcome table; extend the previously minimum institutional-only outcome set. These are author-appendix numbers, not verified publisher-final supplement numbers. DMM excludes glitch stocks under main Eq7 construction. No separate method split for actual stock/day controls; DiD precedence. No linked outcome mean/SD benchmark or new qualifying comparison. Author-linked Internet Appendix dated January6,2020 (10 pages), https://bogousslavsky.github.io/files/glitch_InternetAppendix.pdf; publisher attachment remains404; final-version byte identity unverified. Source: Main §7.4 p947; author IA §2 pp3–4 and TableIA.4 p10 L294–350."
+  }
+]
+```
