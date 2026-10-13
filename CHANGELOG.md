@@ -376788,3 +376788,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:43:49.054873+00:00 — Review IRM23AIR s11: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1182",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1183",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1182",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1183",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1182",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1183",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1182",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s11 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1183",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s11 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O452",
+    "before": null,
+    "after": "Spurious causal setting: Table10 imposes a nonnegative conditional expected-return restriction, then re-estimates risk-price dynamics. This is an empirical specification restriction, not an intervention on investor returns. It excludes CRSP market because that estimator does not pre-estimate expected returns. No causal setting or binary contrast is created by truncating fitted values at zero. Source: §4.5.5, Table10, pp241–242/PDF22–23."
+  }
+]
+```
