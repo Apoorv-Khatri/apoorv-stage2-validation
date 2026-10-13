@@ -374133,3 +374133,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:12:25.136577+00:00 — Review I6VAFIIF h16: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6353",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6354",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6355",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6353",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6354",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6355",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6353",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6354",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6355",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6353",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6354",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6355",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6353",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6354",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6355",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6353",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6354",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6355",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6353",
+    "before": null,
+    "after": "Realized spread in bps with future-midpoint horizons1,3,5,10,15,20 minutes. Dollar-weighted within stock over one-minute bins, then cross-sectional median across glitch stocks. Author IA FigIA.2 p6. Native spread scale, not log-transformed outcome; zero mass unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6354",
+    "before": null,
+    "after": "Price impact in bps with future-midpoint horizons1,3,5,10,15,20 minutes. Dollar-weighted within stock over one-minute bins, then cross-sectional median across glitch stocks. Author IA FigIA.2 p6. Native spread scale, not log-transformed outcome; zero mass unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6355",
+    "before": null,
+    "after": "Effective spread in bps, dollar-weighted within stock/minute then cross-sectional median. Repeated unchanged reference in all horizon panels of author IA FigIA.2 p6; its formula does not depend on the future-midpoint horizon. Not an additional independent treatment effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2496",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2496",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2496",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2496",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2496",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2496",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2496",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2496",
+    "before": null,
+    "after": "Author IA FigIA.2: intraday glitch-stock liquidity event profiles under 1,3,5,10,15,20-minute future-midpoint windows for realized spread and price impact; effective spread also plotted as unchanged reference. Dollar-weight within stock/nonoverlapping one-minute interval, then plot cross-sectional medians."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2496",
+    "before": null,
+    "after": "Nonlinear cross-sectional median estimator makes Other appropriate; do not infer linear Matching/DiD from event language. Main text describes extending the horizon; recovered author IA shows shorter as well as longer windows. Group routine horizon variants, do not add one setting per window. Larger horizons are not uniformly smaller-amplitude movements; retain main “smoothly” wording as author interpretation, not a verified monotonic reduction in spikes. Five-minute baseline repeats main Fig4; other windows are substantive measurement robustness. Author-linked Internet Appendix dated January6,2020 (10 pages), https://bogousslavsky.github.io/files/glitch_InternetAppendix.pdf; publisher attachment remains404; final-version byte identity unverified. Source: Main §6.1 p939; author IA FigIA.2 p6 L136–200."
+  }
+]
+```
