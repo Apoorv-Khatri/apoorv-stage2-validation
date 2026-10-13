@@ -353175,3 +353175,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:49:52.414665+00:00 — Review GLSWBYDJ s5: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I410",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J410",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K410",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L410",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M410",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O410",
+    "before": null,
+    "after": "Jackpots are naturally occurring rollovers, not randomized assignment of firms/days, not an instrument, and not an RD at an analyst-selected cutoff. No implemented modern DiD. Causal inclusion follows the authors’ explicit attention-shock interpretation, not proof of exogeneity. Explicit causal interpretation of rank slope: one-notch increase “drives up” incremental co-movement (§3.4). Cross-sectional OLS across25 portfolios, continuous rank1–25; no FE, no separate DiD estimator. Market-model slope is measurement only. Equal/value weighting are routine portfolio variants, not treatment-effect matching. Source: Main §3.4/eq7–8/Table5B, PDF8–9 / pp376–377."
+  }
+]
+```
