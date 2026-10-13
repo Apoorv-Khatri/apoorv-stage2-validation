@@ -378336,3 +378336,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:30:09.679114+00:00 — Review IWL75F9N h3: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4416",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4417",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4416",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4417",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4416",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4417",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4416",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4416",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4417",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4416",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4417",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4416",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4416",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4417",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4416",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4417",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4416",
+    "before": null,
+    "after": "§1.3 p1596/PDF9: CEO turnover rises from 15.47% before law to 17.26% after in the 12 adopters; stated increase 1.79 percentage points. Baseline is pre-law treated-country annual turnover."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4417",
+    "before": null,
+    "after": "§1.3 p1596/PDF9 and Table1B: stated post-law versus never-law increase 1.73 percentage points; never-law group mean 15.52%, versus post-law 17.26%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4416",
+    "before": null,
+    "after": "Before-period level for treated countries; source does not establish that this equals post-period untreated counterfactual or same compositional weights. No division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4417",
+    "before": null,
+    "after": "Never-law comparison population is not established as untreated target population of adopter contrast. Rounded displayed means do not reproduce exactly the stated 1.73pp; preserve printed comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6373",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6373",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6373",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6373",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6373",
+    "before": null,
+    "after": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2507",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2507",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2507",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2507",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2507",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2507",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2507",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2507",
+    "before": null,
+    "after": "Table1B and §1.3: unadjusted two-valued law-exposure group contrasts in CEO turnover; treated-country pre/post increase 1.79pp and post-law versus never-adopting comparison described as 1.73pp."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2507",
+    "before": null,
+    "after": "Authors explicitly infer that laws increased CEO replacement, so the descriptive section heading does not defeat inclusion. Retain unadjusted level/group contrasts, not a verified two-period DiD. Separate substantive performance-quartile sensitivity contrasts are captured in h21 rather than left only in a note. The −5.27/−2.60 comparison is between turnover-rate differences, not a probability-level benchmark. Preserve prose 1.73pp and displayed 17.26% versus 15.52% (difference 1.74pp); no correction to source values. Source: p1593–1596/PDF6–9 Table1B, lines341–349,504–541."
+  }
+]
+```
