@@ -371445,3 +371445,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:07:33.416303+00:00 — Review I6VAFIIF h4: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6307",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6307",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6307",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6307",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6307",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6307",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6307",
+    "before": null,
+    "after": "Period median of daily affected-minus-unaffected mean VWAP slippage differences, bps; not a difference of individual execution medians. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2484",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2484",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2484",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2484",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2484",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2484",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2484",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2484",
+    "before": null,
+    "after": "Fig3 median series: medians across days of the affected-minus-unaffected DAILY MEAN slippage differences in July, Aug1–8, Aug9–31, September; nonlinear period aggregation supporting effect persistence."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2484",
+    "before": null,
+    "after": "The medians are taken over daily mean affected-minus-unaffected slippage differences, not over individual executions and not a quantile regression. Retain Other as a distinct nonlinear period-summary estimand because §5.1 explicitly interprets both mean and median spikes and subsequent declines. No FE are fitted in this plot. Supporting main0 is reasonable because this median summary corroborates the central mean result. A narrower extraction could group it as descriptive support to h3; retain separately under the distinct-estimand rule. Source: §5.1, Fig3, p935/PDF14."
+  }
+]
+```

@@ -23814,7 +23814,16 @@
     "L2483": "1",
     "M2483": "n/a",
     "N2483": "Fig3 mean series: unadjusted affected-minus-unaffected daily mean VWAP slippage, averaged over July, Aug1–8, Aug9–31, September; author interprets post-glitch widening then reversal as higher institutional costs.",
-    "O2483": "Unadjusted group-mean-before/after contrast: daily affected-minus-unaffected mean VWAP slippage, summarized by period means in July, Aug1–8, Aug9–31 and September. Conventional DiD-equivalent graphical evidence, with no fitted stock/day FE or covariate regression claimed for Fig3 itself. The source interprets the widening and reversal causally and says Table4 confirms this visual evidence. No exact plotted coefficient or formal modern DiD estimator is invented. Pre-period levels are part of the dynamic comparison, not a separate diagnostic setting. Source: §5.1, Fig3, p935/PDF14."
+    "O2483": "Unadjusted group-mean-before/after contrast: daily affected-minus-unaffected mean VWAP slippage, summarized by period means in July, Aug1–8, Aug9–31 and September. Conventional DiD-equivalent graphical evidence, with no fitted stock/day FE or covariate regression claimed for Fig3 itself. The source interprets the widening and reversal causally and says Table4 confirms this visual evidence. No exact plotted coefficient or formal modern DiD estimator is invented. Pre-period levels are part of the dynamic comparison, not a separate diagnostic setting. Source: §5.1, Fig3, p935/PDF14.",
+    "A2484": "I6VAFIIF",
+    "B2484": "h4",
+    "I2484": "1",
+    "J2484": "Other",
+    "K2484": "1",
+    "L2484": "0",
+    "M2484": "n/a",
+    "N2484": "Fig3 median series: medians across days of the affected-minus-unaffected DAILY MEAN slippage differences in July, Aug1–8, Aug9–31, September; nonlinear period aggregation supporting effect persistence.",
+    "O2484": "The medians are taken over daily mean affected-minus-unaffected slippage differences, not over individual executions and not a quantile regression. Retain Other as a distinct nonlinear period-summary estimand because §5.1 explicitly interprets both mean and median spikes and subsequent declines. No FE are fitted in this plot. Supporting main0 is reasonable because this median summary corroborates the central mean result. A narrower extraction could group it as descriptive support to h3; retain separately under the distinct-estimand rule. Source: §5.1, Fig3, p935/PDF14."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -67144,7 +67153,14 @@
     "H6306": "0",
     "I6306": "unknown",
     "J6306": "none",
-    "K6306": "Daily affected-minus-unaffected mean VWAP slippage difference, summarized by period means, bps. Zero mass not established."
+    "K6306": "Daily affected-minus-unaffected mean VWAP slippage difference, summarized by period means, bps. Zero mass not established.",
+    "A6307": "I6VAFIIF",
+    "B6307": "h4",
+    "C6307": "hy1",
+    "H6307": "0",
+    "I6307": "unknown",
+    "J6307": "none",
+    "K6307": "Period median of daily affected-minus-unaffected mean VWAP slippage differences, bps; not a difference of individual execution medians. Zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
