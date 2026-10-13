@@ -24309,7 +24309,16 @@
     "L2523": "0",
     "M2523": "unknown",
     "N2523": "Online Appendix Table7A: takeover-event effects on other seats for boards that recently removed CEOs; full sample.",
-    "O2523": "fn25 p1615 establishes implemented takeover-event tests for boards with recent CEO removal and distinguishes entire versus matched samples. It does not name the final estimator or expressly say that these tests reestimate Table6; the separate Table6 repetition sentence concerns exclusion of majority acquisitions. Inheriting probit/OLS/Matching is plausible but unverified, so use unknown consistently with h15/h16. Keep binary event exposure and supporting status, and retain the matched-seat null. Exact subgroup timing, interactions, coefficients, FE and appendix columns are unverified; no invented grid or benchmark. Source: fn25 p1615/PDF28, lines1780–1786."
+    "O2523": "fn25 p1615 establishes implemented takeover-event tests for boards with recent CEO removal and distinguishes entire versus matched samples. It does not name the final estimator or expressly say that these tests reestimate Table6; the separate Table6 repetition sentence concerns exclusion of majority acquisitions. Inheriting probit/OLS/Matching is plausible but unverified, so use unknown consistently with h15/h16. Keep binary event exposure and supporting status, and retain the matched-seat null. Exact subgroup timing, interactions, coefficients, FE and appendix columns are unverified; no invented grid or benchmark. Source: fn25 p1615/PDF28, lines1780–1786.",
+    "A2524": "IWL75F9N",
+    "B2524": "h20",
+    "I2524": "1",
+    "J2524": "unknown",
+    "K2524": "1",
+    "L2524": "0",
+    "M2524": "unknown",
+    "N2524": "Online Appendix Table7A: takeover-event effects on other seats for boards that recently removed CEOs; matched sample.",
+    "O2524": "fn25 p1615 establishes implemented takeover-event tests for boards with recent CEO removal and distinguishes entire versus matched samples. It does not name the final estimator or expressly say that these tests reestimate Table6; the separate Table6 repetition sentence concerns exclusion of majority acquisitions. Inheriting probit/OLS/Matching is plausible but unverified, so use unknown consistently with h15/h16. Keep binary event exposure and supporting status, and retain the matched-seat null. Exact subgroup timing, interactions, coefficients, FE and appendix columns are unverified; no invented grid or benchmark. Source: fn25 p1615/PDF28, lines1780–1786."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68445,7 +68454,14 @@
     "H6390": "0",
     "I6390": "unknown",
     "J6390": "none",
-    "K6390": "Annual number of other publicly traded board seats per director, excluding target seat lost following acquisition."
+    "K6390": "Annual number of other publicly traded board seats per director, excluding target seat lost following acquisition.",
+    "A6391": "IWL75F9N",
+    "B6391": "h20",
+    "C6391": "hy1",
+    "H6391": "0",
+    "I6391": "unknown",
+    "J6391": "none",
+    "K6391": "Annual number of other publicly traded board seats per director, excluding target seat lost following acquisition."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
