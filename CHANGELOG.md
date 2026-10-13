@@ -370791,3 +370791,144 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:05:58.564252+00:00 — Review I6VAFIIF s9: source-audited coding and linked comparisons
+
+22 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1128",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1129",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1130",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1131",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1128",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1129",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1130",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1131",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1128",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1129",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1130",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1131",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1128",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported aggregated outcome; replace unsupported model zero_mass=0 with unknown. Spread formulas use log-price differences but the dependent spread itself is not log-transformed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1129",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported aggregated outcome; replace unsupported model zero_mass=0 with unknown. Spread formulas use log-price differences but the dependent spread itself is not log-transformed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1130",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported aggregated outcome; replace unsupported model zero_mass=0 with unknown. Spread formulas use log-price differences but the dependent spread itself is not log-transformed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1131",
+    "before": null,
+    "after": "Log turnover is the estimated scale; no evidence establishes a probability mass at zero in the reported log outcome. Raw turnover zeros are likewise not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I441",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J441",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K441",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M441",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O441",
+    "before": null,
+    "after": "Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Table8 sample-date conflict: caption July1–Sept30; §7.1 prose June1–Sept28. Printed day0 spread decomposition 8.33,28.01,−19.10 need not add exactly because variables separately winsorized (fn34). Source: §7.1, Table8 glitch rows, pp943–945/PDF22–24."
+  }
+]
+```
