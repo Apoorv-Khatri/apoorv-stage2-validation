@@ -377856,3 +377856,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:27:50.642143+00:00 — Review IWL75F9N s15: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K274",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L274",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M274",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N274",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O274",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P274",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q274",
+    "before": null,
+    "after": "§5.2.2 pp1614–1615/PDF27–28, Table6B col1: printed summed loss .528 seats is described as approximately a 20% decrease for an average director. This is an average-outcome normalization (outcome_mean, not other_level). Nearby 2.56 is the average number of associated publicly traded firms; the exact denominator for 20% is not explicitly identified."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R274",
+    "before": null,
+    "after": "Outside-seat outcome excludes target seat, whereas nearby 2.56 counts associated firms; the source does not explicitly equate this to the percentage denominator. Unknown benchmark construction/untreated population; do not silently assert 2.56 is the appropriate untreated outside-seat mean. Printed sum −.528 differs from component sum −.526, visually confirmed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1200",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1200",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1200",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1200",
+    "before": null,
+    "after": "Annual director-year count of board seats at other publicly traded firms, excluding the target seat lost through takeover. Not a cumulative three-year dependent variable: the authors sum T0–T3 coefficients to report an effect over the event window. Source does not establish an observed point mass at zero for this outcome/sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I468",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J468",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K468",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L468",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M468",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O468",
+    "before": null,
+    "after": "Linear OLS director-year event regressions, country and year dummies (two sets), director characteristics and average employing-firm characteristics. No director/unit FE, parallel-trends argument for these event coefficients, or distinct identifying rationale for this dummy battery is established in §5.2; do not promote to DiD/FE merely from event timing/controls. The earlier country-FE identification discussion concerns Eq1 law regressions. Printed T0–T3 col1 coefficients sum to −.526, whereas the table/prose report −.528; retain printed −.528, flag discrepancy. Outcome is annual seats, not cumulative three-year seats; paper sums annual coefficients. Source: Section 5.2.2, Table 6 Panel B cols. (1)–(3), PDF pp. 26–28.."
+  }
+]
+```
