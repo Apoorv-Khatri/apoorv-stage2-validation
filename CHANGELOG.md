@@ -355275,3 +355275,1734 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:52:00.408325+00:00 — Review GLSWBYDJ h3: source-audited coding and linked comparisons
+
+287 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4316",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4317",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4318",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4319",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4320",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4321",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4322",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4323",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4324",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4325",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4326",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4327",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4328",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4329",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4330",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4331",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4332",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4333",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4334",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4335",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4336",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4337",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4338",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4339",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4316",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4317",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4318",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4319",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4320",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4321",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4322",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4323",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4324",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4325",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4326",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4327",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4328",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4329",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4330",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4331",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4332",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4333",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4334",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4335",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4336",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4337",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4338",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4339",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4316",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4317",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4318",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4319",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4320",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4321",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4322",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4323",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4324",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4325",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4326",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4327",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4328",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4329",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4330",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4331",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4332",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4333",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4334",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4335",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4336",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4337",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4338",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4339",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4316",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4317",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4318",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4319",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4320",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4321",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4322",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4323",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4324",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4326",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4328",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4329",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4331",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4332",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4333",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4334",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4335",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4336",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4337",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4338",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4339",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4316",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4317",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4318",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4319",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4320",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4321",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4322",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4323",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4324",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4325",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4326",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4327",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4328",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4329",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4330",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4331",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4332",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4333",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4334",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4335",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4336",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4337",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4338",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4339",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4316",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4317",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4318",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4319",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4320",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4321",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4322",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4323",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4324",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4325",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4326",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4327",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4328",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4329",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4330",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4331",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4332",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4333",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4334",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4335",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4336",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4337",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4338",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4339",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4316",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4317",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4318",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4319",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4320",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4321",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4322",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4323",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4324",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4325",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4326",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4327",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4328",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4329",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4330",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4331",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4332",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4333",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4334",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4335",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4336",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4337",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4338",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4339",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4316",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4317",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4318",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4319",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4320",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4321",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4322",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4323",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4324",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4325",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4326",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4327",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4328",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4329",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4330",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4331",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4332",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4333",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4334",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4335",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4336",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4337",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4338",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4339",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4316",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4317",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4318",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4319",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4320",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4321",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4322",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4323",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4324",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4325",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4326",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4327",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4328",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4329",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4330",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4331",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4332",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4333",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4334",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4335",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4336",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4337",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4338",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4339",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4316",
+    "before": null,
+    "after": "Table8A/PDF12, two-day window: mean correlation, large minus spillover=0.005; explicitly paired reference mean=0.458 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4317",
+    "before": null,
+    "after": "Table8A/PDF12, two-day window: mean correlation, large minus other non-large=0.020; explicitly paired reference mean=0.443 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4318",
+    "before": null,
+    "after": "Table8A/PDF12, two-day window: median correlation, large minus spillover=0.009; explicitly paired reference median=0.476 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4319",
+    "before": null,
+    "after": "Table8A/PDF12, two-day window: median correlation, large minus other non-large=0.028; explicitly paired reference median=0.456 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4320",
+    "before": null,
+    "after": "Table8A/PDF12, two-day window: mean adjusted R², large minus spillover=0.008; explicitly paired reference mean=0.225 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4321",
+    "before": null,
+    "after": "Table8A/PDF12, two-day window: mean adjusted R², large minus other non-large=0.024; explicitly paired reference mean=0.208 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4322",
+    "before": null,
+    "after": "Table8A/PDF12, two-day window: median adjusted R², large minus spillover=0.007; explicitly paired reference median=0.225 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4323",
+    "before": null,
+    "after": "Table8A/PDF12, two-day window: median adjusted R², large minus other non-large=0.021; explicitly paired reference median=0.208 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4324",
+    "before": null,
+    "after": "Table8B/PDF12, four-day window: mean correlation, large minus spillover=0.008; explicitly paired reference mean=0.454 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4325",
+    "before": null,
+    "after": "Table8B/PDF12, four-day window: mean correlation, large minus other non-large=0.020; explicitly paired reference mean=0.443 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4326",
+    "before": null,
+    "after": "Table8B/PDF12, four-day window: median correlation, large minus spillover=0.016; explicitly paired reference median=0.468 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4327",
+    "before": null,
+    "after": "Table8B/PDF12, four-day window: median correlation, large minus other non-large=0.029; explicitly paired reference median=0.455 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4328",
+    "before": null,
+    "after": "Table8B/PDF12, four-day window: mean adjusted R², large minus spillover=0.011; explicitly paired reference mean=0.221 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4329",
+    "before": null,
+    "after": "Table8B/PDF12, four-day window: mean adjusted R², large minus other non-large=0.024; explicitly paired reference mean=0.208 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4330",
+    "before": null,
+    "after": "Table8B/PDF12, four-day window: median adjusted R², large minus spillover=0.012; explicitly paired reference median=0.218 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4331",
+    "before": null,
+    "after": "Table8B/PDF12, four-day window: median adjusted R², large minus other non-large=0.024; explicitly paired reference median=0.206 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4332",
+    "before": null,
+    "after": "Table8C/PDF12, six-day window: mean correlation, large minus spillover=0.011; explicitly paired reference mean=0.451 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4333",
+    "before": null,
+    "after": "Table8C/PDF12, six-day window: mean correlation, large minus other non-large=0.019; explicitly paired reference mean=0.443 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4334",
+    "before": null,
+    "after": "Table8C/PDF12, six-day window: median correlation, large minus spillover=0.016; explicitly paired reference median=0.463 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4335",
+    "before": null,
+    "after": "Table8C/PDF12, six-day window: median correlation, large minus other non-large=0.028; explicitly paired reference median=0.454 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4336",
+    "before": null,
+    "after": "Table8C/PDF12, six-day window: mean adjusted R², large minus spillover=0.014; explicitly paired reference mean=0.218 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4337",
+    "before": null,
+    "after": "Table8C/PDF12, six-day window: mean adjusted R², large minus other non-large=0.024; explicitly paired reference mean=0.208 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4338",
+    "before": null,
+    "after": "Table8C/PDF12, six-day window: median adjusted R², large minus spillover=0.012; explicitly paired reference median=0.214 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4339",
+    "before": null,
+    "after": "Table8C/PDF12, six-day window: median adjusted R², large minus other non-large=0.023; explicitly paired reference median=0.206 across817 firms. The comparator excludes large days and is defined by this window."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4316",
+    "before": null,
+    "after": "Same firms and equal cross-firm weights are established, but the focal regimes now condition on proximity to a jackpot. Main §4.2 explicitly attributes attention effects to nearby non-large days, so these are exposure-intensity/dynamic regimes, not automatically the baseline binary large/non-large target. Lottery-rollover exogeneity alone does not specify the counterfactual dependence distribution and time mixture for the window-conditioned incremental effect. Retain unknown for this target-specific ambiguity; lack of an explicit reweighting algorithm alone is not the objection."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4317",
+    "before": null,
+    "after": "Same firms and equal cross-firm weights are established, but the focal regimes now condition on proximity to a jackpot. Main §4.2 explicitly attributes attention effects to nearby non-large days, so these are exposure-intensity/dynamic regimes, not automatically the baseline binary large/non-large target. Lottery-rollover exogeneity alone does not specify the counterfactual dependence distribution and time mixture for the window-conditioned incremental effect. Retain unknown for this target-specific ambiguity; lack of an explicit reweighting algorithm alone is not the objection."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4318",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4319",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4320",
+    "before": null,
+    "after": "Same firms and equal cross-firm weights are established, but the focal regimes now condition on proximity to a jackpot. Main §4.2 explicitly attributes attention effects to nearby non-large days, so these are exposure-intensity/dynamic regimes, not automatically the baseline binary large/non-large target. Lottery-rollover exogeneity alone does not specify the counterfactual dependence distribution and time mixture for the window-conditioned incremental effect. Retain unknown for this target-specific ambiguity; lack of an explicit reweighting algorithm alone is not the objection."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4321",
+    "before": null,
+    "after": "Same firms and equal cross-firm weights are established, but the focal regimes now condition on proximity to a jackpot. Main §4.2 explicitly attributes attention effects to nearby non-large days, so these are exposure-intensity/dynamic regimes, not automatically the baseline binary large/non-large target. Lottery-rollover exogeneity alone does not specify the counterfactual dependence distribution and time mixture for the window-conditioned incremental effect. Retain unknown for this target-specific ambiguity; lack of an explicit reweighting algorithm alone is not the objection."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4322",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4323",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4324",
+    "before": null,
+    "after": "Same firms and equal cross-firm weights are established, but the focal regimes now condition on proximity to a jackpot. Main §4.2 explicitly attributes attention effects to nearby non-large days, so these are exposure-intensity/dynamic regimes, not automatically the baseline binary large/non-large target. Lottery-rollover exogeneity alone does not specify the counterfactual dependence distribution and time mixture for the window-conditioned incremental effect. Retain unknown for this target-specific ambiguity; lack of an explicit reweighting algorithm alone is not the objection."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4325",
+    "before": null,
+    "after": "Same firms and equal cross-firm weights are established, but the focal regimes now condition on proximity to a jackpot. Main §4.2 explicitly attributes attention effects to nearby non-large days, so these are exposure-intensity/dynamic regimes, not automatically the baseline binary large/non-large target. Lottery-rollover exogeneity alone does not specify the counterfactual dependence distribution and time mixture for the window-conditioned incremental effect. Retain unknown for this target-specific ambiguity; lack of an explicit reweighting algorithm alone is not the objection."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4326",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4327",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4328",
+    "before": null,
+    "after": "Same firms and equal cross-firm weights are established, but the focal regimes now condition on proximity to a jackpot. Main §4.2 explicitly attributes attention effects to nearby non-large days, so these are exposure-intensity/dynamic regimes, not automatically the baseline binary large/non-large target. Lottery-rollover exogeneity alone does not specify the counterfactual dependence distribution and time mixture for the window-conditioned incremental effect. Retain unknown for this target-specific ambiguity; lack of an explicit reweighting algorithm alone is not the objection."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4329",
+    "before": null,
+    "after": "Same firms and equal cross-firm weights are established, but the focal regimes now condition on proximity to a jackpot. Main §4.2 explicitly attributes attention effects to nearby non-large days, so these are exposure-intensity/dynamic regimes, not automatically the baseline binary large/non-large target. Lottery-rollover exogeneity alone does not specify the counterfactual dependence distribution and time mixture for the window-conditioned incremental effect. Retain unknown for this target-specific ambiguity; lack of an explicit reweighting algorithm alone is not the objection."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4330",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4331",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4332",
+    "before": null,
+    "after": "Same firms and equal cross-firm weights are established, but the focal regimes now condition on proximity to a jackpot. Main §4.2 explicitly attributes attention effects to nearby non-large days, so these are exposure-intensity/dynamic regimes, not automatically the baseline binary large/non-large target. Lottery-rollover exogeneity alone does not specify the counterfactual dependence distribution and time mixture for the window-conditioned incremental effect. Retain unknown for this target-specific ambiguity; lack of an explicit reweighting algorithm alone is not the objection."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4333",
+    "before": null,
+    "after": "Same firms and equal cross-firm weights are established, but the focal regimes now condition on proximity to a jackpot. Main §4.2 explicitly attributes attention effects to nearby non-large days, so these are exposure-intensity/dynamic regimes, not automatically the baseline binary large/non-large target. Lottery-rollover exogeneity alone does not specify the counterfactual dependence distribution and time mixture for the window-conditioned incremental effect. Retain unknown for this target-specific ambiguity; lack of an explicit reweighting algorithm alone is not the objection."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4334",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4335",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4336",
+    "before": null,
+    "after": "Same firms and equal cross-firm weights are established, but the focal regimes now condition on proximity to a jackpot. Main §4.2 explicitly attributes attention effects to nearby non-large days, so these are exposure-intensity/dynamic regimes, not automatically the baseline binary large/non-large target. Lottery-rollover exogeneity alone does not specify the counterfactual dependence distribution and time mixture for the window-conditioned incremental effect. Retain unknown for this target-specific ambiguity; lack of an explicit reweighting algorithm alone is not the objection."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4337",
+    "before": null,
+    "after": "Same firms and equal cross-firm weights are established, but the focal regimes now condition on proximity to a jackpot. Main §4.2 explicitly attributes attention effects to nearby non-large days, so these are exposure-intensity/dynamic regimes, not automatically the baseline binary large/non-large target. Lottery-rollover exogeneity alone does not specify the counterfactual dependence distribution and time mixture for the window-conditioned incremental effect. Retain unknown for this target-specific ambiguity; lack of an explicit reweighting algorithm alone is not the objection."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4338",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4339",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6206",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6207",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6206",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6207",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6206",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6207",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6206",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6207",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6206",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6207",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6206",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6207",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6206",
+    "before": null,
+    "after": "Firm-market Pearson correlation, computed separately over each specified day category. Continuous correlation coefficient; means and medians of firm-specific contrasts reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6207",
+    "before": null,
+    "after": "Adjusted R² from firm excess return on market excess return, computed separately over each specified day category. Continuous generated goodness-of-fit outcome, not a probability."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2434",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2434",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2434",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2434",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2434",
+    "before": null,
+    "after": "Table8A–C: large jackpot versus spillover and versus other non-large days. Two/four/six-day widths are routine reference variants; outcomes correlation and adjusted R²."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2434",
+    "before": null,
+    "after": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Both comparator choices are kept; baseline levels deliberately paired with each contrast. Source: Main §4.2/Table8A–C, PDF11–13 / pp379–381."
+  }
+]
+```
