@@ -347991,3 +347991,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T02:39:27.269183+00:00 — Review FNTCHE9R s2: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1015",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1016",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1017",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1015",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1016",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1017",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1015",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1016",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1017",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1015",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s2 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1016",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s2 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1017",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s2 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I388",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O388",
+    "before": null,
+    "after": "FM two-pass coefficients are prices of covariance risk in a cross-sectional pricing restriction, or projection coefficients under misspecification (eq9). The authors assess inference on lambda, not an estimated causal response to changing consumption or an asset beta. Reject at author-intention gate, not because weak identification invalidates an otherwise causal claim. Actual FM implementation is least squares in both passes; no basis for automatic structural Other or linear-IV treatment coding. Source: Main §I.A–B PDF6–10; §I.C.2 Table II PDF17–19."
+  }
+]
+```
