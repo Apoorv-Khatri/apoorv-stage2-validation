@@ -348609,3 +348609,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T02:41:03.478466+00:00 — Review FNTCHE9R s8: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1035",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1035",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1035",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1035",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s8 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E43",
+    "before": null,
+    "after": "DONE — Complete44-page publication and28-page publication-associated institutional Internet Appendix reviewed and independently cross-checked. All8 original settings excluded,22 linked outcomes marked spurious with original fields preserved, sole comparison s4/c1 rejected; no additions. Risk-price and preference-parameter exclusions are moderate-confidence author-interpretation judgments: inference on covariance pricing/preference parameters and model tests is not an implemented causal response here; competing structural interpretation documented. Diagnostic simulations, confidence sets and pricing identities do not supply causal outcomes. Market-mean comparison concerns inference/identity consistency, not causal effect normalization. Appendix provenance verified through institutional publication record; publisher byte identity not claimed. Source interval/sample/asset-count qualifications preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I394",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O394",
+    "before": null,
+    "after": "Joint inference on preference gamma and discount delta from two Euler restrictions gives a confidence region. Candidate parameter pairs are hypotheses, not interventions, and confidence-region membership is not a substantive economic outcome. Adding the risk-free moment is a model/inference extension, not an estimated causal effect of discounting or risk aversion. Source: Main §III.B Fig9 PDF36–37; eqs28–29; IA §IV.A PDF17–18."
+  }
+]
+```
