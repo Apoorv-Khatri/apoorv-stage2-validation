@@ -359943,3 +359943,762 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:54:59.406840+00:00 — Review GLSWBYDJ h15: source-audited coding and linked comparisons
+
+125 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4356",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4357",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4358",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4359",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4360",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4361",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4362",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4363",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4356",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4357",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4358",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4359",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4360",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4361",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4362",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4363",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4356",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4357",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4358",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4359",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4360",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4361",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4362",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4363",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4356",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4357",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4358",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4359",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4360",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4361",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4362",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4363",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4356",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4357",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4358",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4359",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4360",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4361",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4362",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4363",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4356",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4357",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4358",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4359",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4360",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4361",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4362",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4363",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4356",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4357",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4358",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4359",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4360",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4361",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4362",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4363",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4356",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4357",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4358",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4359",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4360",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4361",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4362",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4363",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4356",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4357",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4358",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4359",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4360",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4361",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4362",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4363",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4356",
+    "before": null,
+    "after": "AppendixA6/PDF8: mean market correlation high-search-day minus non-high-search-day change0.026, reference non-high-search-day mean0.448. Taiwan Jan2004–Jun2015; threshold12.47. No relative effect printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4357",
+    "before": null,
+    "after": "AppendixA6/PDF8: median market correlation high-search-day minus non-high-search-day change0.030, reference non-high-search-day median0.462. Taiwan Jan2004–Jun2015; threshold12.47. No relative effect printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4358",
+    "before": null,
+    "after": "AppendixA6/PDF8: mean market adjusted R² high-search-day minus non-high-search-day change0.023, reference non-high-search-day mean0.215. Taiwan Jan2004–Jun2015; threshold12.47. No relative effect printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4359",
+    "before": null,
+    "after": "AppendixA6/PDF8: median market adjusted R² high-search-day minus non-high-search-day change0.025, reference non-high-search-day median0.214. Taiwan Jan2004–Jun2015; threshold12.47. No relative effect printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4360",
+    "before": null,
+    "after": "AppendixA6/PDF8: mean industry correlation high-search-day minus non-high-search-day change0.020, reference non-high-search-day mean0.495. Taiwan Jan2004–Jun2015; threshold12.47. No relative effect printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4361",
+    "before": null,
+    "after": "AppendixA6/PDF8: median industry correlation high-search-day minus non-high-search-day change0.020, reference non-high-search-day median0.493. Taiwan Jan2004–Jun2015; threshold12.47. No relative effect printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4362",
+    "before": null,
+    "after": "AppendixA6/PDF8: mean industry adjusted R² high-search-day minus non-high-search-day change0.020, reference non-high-search-day mean0.272. Taiwan Jan2004–Jun2015; threshold12.47. No relative effect printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4363",
+    "before": null,
+    "after": "AppendixA6/PDF8: median industry adjusted R² high-search-day minus non-high-search-day change0.018, reference non-high-search-day median0.243. Taiwan Jan2004–Jun2015; threshold12.47. No relative effect printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4356",
+    "before": null,
+    "after": "The >12.47 lottery-search rule selects on realized search, not on exogenous jackpot rollover. The source uses this as attention-proxy robustness but does not establish the untreated high-search target distribution represented by non-high-search days. Same firm sample and scale are insufficient to settle that target match. Retain unknown without treating nonrandomization itself as a sufficient reason for misalignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4357",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4358",
+    "before": null,
+    "after": "The >12.47 lottery-search rule selects on realized search, not on exogenous jackpot rollover. The source uses this as attention-proxy robustness but does not establish the untreated high-search target distribution represented by non-high-search days. Same firm sample and scale are insufficient to settle that target match. Retain unknown without treating nonrandomization itself as a sufficient reason for misalignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4359",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4360",
+    "before": null,
+    "after": "The >12.47 lottery-search rule selects on realized search, not on exogenous jackpot rollover. The source uses this as attention-proxy robustness but does not establish the untreated high-search target distribution represented by non-high-search days. Same firm sample and scale are insufficient to settle that target match. Retain unknown without treating nonrandomization itself as a sufficient reason for misalignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4361",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4362",
+    "before": null,
+    "after": "The >12.47 lottery-search rule selects on realized search, not on exogenous jackpot rollover. The source uses this as attention-proxy robustness but does not establish the untreated high-search target distribution represented by non-high-search days. Same firm sample and scale are insufficient to settle that target match. Retain unknown without treating nonrandomization itself as a sufficient reason for misalignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4363",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6238",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6239",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6240",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6241",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6238",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6239",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6240",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6241",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6238",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6239",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6240",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6241",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6238",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6239",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6240",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6241",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6238",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6239",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6240",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6241",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6238",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6239",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6240",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6241",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6238",
+    "before": null,
+    "after": "Firm market correlation measured separately on high/non-high lottery-SVI days, TableA6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6239",
+    "before": null,
+    "after": "Firm market-model adjusted R² measured separately on high/non-high lottery-SVI days, TableA6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6240",
+    "before": null,
+    "after": "Firm industry correlation measured separately on high/non-high lottery-SVI days, TableA6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6241",
+    "before": null,
+    "after": "Firm industry-model adjusted R² measured separately on high/non-high lottery-SVI days, TableA6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2446",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2446",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2446",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2446",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2446",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2446",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2446",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2446",
+    "before": null,
+    "after": "AppendixA6: high lottery Google search volume (>12.47, approximately90th percentile) versus other search-volume days; firm-market and firm-industry correlation and adjusted R²."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2446",
+    "before": null,
+    "after": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. January4,2004–June30,2015. Search is an alternative attention proxy, not randomized/exogenous by lottery mechanics itself. Market mean differences0.026/0.023, industry0.020/0.020 (correlation/R²). Actual AppendixA6 additionally reports industry results, beyond main’s market-only summary. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA6 PDF8 (rotated; visually checked); main§4.4 p381 OA6."
+  }
+]
+```
