@@ -378765,3 +378765,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:47:44.272225+00:00 — Review IWL75F9N h6: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6376",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6376",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6376",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6376",
+    "before": null,
+    "after": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2510",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2510",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2510",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2510",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2510",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2510",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2510",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2510",
+    "before": null,
+    "after": "Table4A cols1–2: annual change in foreign-institutional ownership interacted with firm performance, effect on CEO-turnover discipline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2510",
+    "before": null,
+    "after": "p1605 interprets the −.052 FII-change×performance coefficient (z −1.679) as governance improvement in weak-protection countries, meeting the broad author-intention gate in context despite the word associated. This is a continuous ownership/performance-gradient estimand, not a binary policy shock and not the .011 lower-order ownership coefficient. Other for probit; no IV; supporting; no same-outcome benchmark. Retain common-law null alongside the weak-protection result. Source: §4.1 p1605/PDF18 and Table4A p1606/PDF19; lines1093–1100,1171–1175."
+  }
+]
+```
