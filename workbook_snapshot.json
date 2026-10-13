@@ -23297,7 +23297,16 @@
     "L2440": "0",
     "M2440": "n/a",
     "N2440": "AppendixA2A: rank of prior22-day average market capitalization across25 portfolios predicts jackpot-induced changes in correlation and adjusted R² (equal/value-weighted).",
-    "O2440": "Retain as author-interpreted retail-preference heterogeneity, not pure prediction. Implemented OLS rank slopes approximately−0.001. No identifying FE. Portfolio formation weights are not causal matching. Preserve value-weighted correlation−0.001*** with t−2.48 as printed. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA2A PDF3; main fn18 p376 calls it OA2."
+    "O2440": "Retain as author-interpreted retail-preference heterogeneity, not pure prediction. Implemented OLS rank slopes approximately−0.001. No identifying FE. Portfolio formation weights are not causal matching. Preserve value-weighted correlation−0.001*** with t−2.48 as printed. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA2A PDF3; main fn18 p376 calls it OA2.",
+    "A2441": "GLSWBYDJ",
+    "B2441": "h10",
+    "I2441": "1",
+    "J2441": "OLS",
+    "K2441": "0",
+    "L2441": "0",
+    "M2441": "n/a",
+    "N2441": "AppendixA2B: rank of prior180-day idiosyncratic volatility across25 portfolios predicts jackpot-induced changes in correlation and adjusted R² (equal/value-weighted).",
+    "O2441": "Author-interpreted retail-preference heterogeneity; OLS slopes0.001/0.001 for correlations and0.001/0.002 for adjusted R². Appendix uses180days; do not replace with150days used for gambling residualization or22days in earnings controls. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA2B PDF3; main fn18 p376."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -65915,7 +65924,15 @@
     "A6218": "GLSWBYDJ",
     "B6218": "h9",
     "C6218": "hy2",
-    "K6218": "Large-minus-non-large-jackpot change in portfolio market-model adjusted R² for equal/value-weighted25 portfolios."
+    "K6218": "Large-minus-non-large-jackpot change in portfolio market-model adjusted R² for equal/value-weighted25 portfolios.",
+    "A6219": "GLSWBYDJ",
+    "B6219": "h10",
+    "C6219": "hy1",
+    "K6219": "Large-minus-non-large-jackpot change in portfolio-market Pearson correlation for equal/value-weighted25 portfolios, the dependent variable in the rank regression.",
+    "A6220": "GLSWBYDJ",
+    "B6220": "h10",
+    "C6220": "hy2",
+    "K6220": "Large-minus-non-large-jackpot change in portfolio market-model adjusted R² for equal/value-weighted25 portfolios."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

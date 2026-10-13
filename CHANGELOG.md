@@ -358866,3 +358866,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:53:43.783312+00:00 — Review GLSWBYDJ h10: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6219",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6220",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6219",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6220",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6219",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6220",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6219",
+    "before": null,
+    "after": "Large-minus-non-large-jackpot change in portfolio-market Pearson correlation for equal/value-weighted25 portfolios, the dependent variable in the rank regression."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6220",
+    "before": null,
+    "after": "Large-minus-non-large-jackpot change in portfolio market-model adjusted R² for equal/value-weighted25 portfolios."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2441",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2441",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2441",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2441",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2441",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2441",
+    "before": null,
+    "after": "AppendixA2B: rank of prior180-day idiosyncratic volatility across25 portfolios predicts jackpot-induced changes in correlation and adjusted R² (equal/value-weighted)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2441",
+    "before": null,
+    "after": "Author-interpreted retail-preference heterogeneity; OLS slopes0.001/0.001 for correlations and0.001/0.002 for adjusted R². Appendix uses180days; do not replace with150days used for gambling residualization or22days in earnings controls. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA2B PDF3; main fn18 p376."
+  }
+]
+```
