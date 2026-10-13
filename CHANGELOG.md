@@ -377787,3 +377787,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:27:26.894451+00:00 — Review IWL75F9N s14: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1199",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I467",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J467",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K467",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L467",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M467",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N467",
+    "before": null,
+    "after": "Table6A cols4–6: probit director-replacement effects of completed takeover events T0–T3 on nearest-neighbor Mahalanobis matched target/control firms; matching on pre-acquisition performance and size, country and one-digit industry is preprocessing for a nonlinear estimator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O467",
+    "before": null,
+    "after": "Correct Matching to Other: the final effect estimator remains probit. Matching uses pre-event firm covariates, not contemporaneous director-turnover outcomes. Country/industry/year controls; no director FE established. Binary takeover exposure; full, civil-law and common-law results grouped. Table6A summed marginal effects .085/.096/.032 are effect estimates, not outcome benchmarks. Source: Section 5.2.1, Table 6 Panel A cols. (4)–(6), PDF pp. 24–27.."
+  }
+]
+```
