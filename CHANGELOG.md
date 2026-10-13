@@ -368412,3 +368412,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T07:28:53.924613+00:00 — Review HHJUFPI4 h14: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4401",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4402",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4401",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4402",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4401",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4402",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4401",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4402",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4401",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4402",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4401",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4402",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4401",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4402",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4401",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4402",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4401",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4402",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4401",
+    "before": null,
+    "after": "§5.1 p629/PDF10: Cournot medium-share5–25% group: first CD&A-year uptake “from ~15% to ~25%”; Fig1 plotted raw usage mean; not Table3 adjusted effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4402",
+    "before": null,
+    "after": "§5.1 p629/PDF10: Cournot large-share>25% group: first CD&A-year uptake “from ~15% to ~35%”; Fig1 plotted raw usage mean; not Table3 adjusted effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4401",
+    "before": null,
+    "after": "Benchmark is the prior raw utilization mean in the Cournot medium-share5–25% group. Retain verbal1/divided0: source compares from/to levels without computing an effect-to-baseline ratio. Alignment unknown both because event-year composition/weights are not established and because a historical mean is not shown to represent this group’s untreated post-CD&A level. The paper’s maintained parallel-trends restriction is on cross-mode share slopes, not constant group outcome levels. Do not code0 merely because the mean is historical."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4402",
+    "before": null,
+    "after": "Benchmark is the prior raw utilization mean in the Cournot large-share>25% group. Retain verbal1/divided0: source compares from/to levels without computing an effect-to-baseline ratio. Alignment unknown both because event-year composition/weights are not established and because a historical mean is not shown to represent this group’s untreated post-CD&A level. The paper’s maintained parallel-trends restriction is on cross-mode share slopes, not constant group outcome levels. Do not code0 merely because the mean is historical."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6297",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6298",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6297",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6298",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6297",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6298",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6297",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6298",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6297",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6298",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6297",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6298",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6297",
+    "before": null,
+    "after": "Proportion of CEOs with absolute revenue-based pay, Fig1 by competition mode, pre-share group and event year. Cournot adoption-year responses and Bertrand absence of a sudden response are interpreted; Bertrand secular level growth is not attributed to the mandate. Aggregate group proportion is nonbinary, not the individual indicator in s1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6298",
+    "before": null,
+    "after": "Year-over-year change in the proportion of CEOs with revenue-based pay, Fig2 by competition mode, pre-share group and event year, on the probability-point scale. Cournot spikes and null timing responses in Cournot small-share and Bertrand groups are retained. A change in an aggregate rate is nonbinary; this is a first-difference transformation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2476",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2476",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2476",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2476",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2476",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2476",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2476",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2476",
+    "before": null,
+    "after": "Event-aligned raw CD&A timing responses in Revenue-Based Pay, by small(<5%), medium(5–25%) and large(>25%) pre-CD&A share groups: Fig1 levels and Fig2 year-over-year changes. Cournot medium/large groups jump while the small group does not; Bertrand groups show no obvious sudden CD&A reaction. Include these substantively interpreted null timing responses without treating Bertrand secular growth as a policy effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2476",
+    "before": null,
+    "after": "Broad author-intention gate: source says Cournot medium/large firms appear to react to the mandate and describes no obvious reaction in Bertrand firms. OLS-family unadjusted before/after mean or rate-change contrasts; no controlled regression, numerical zero coefficient, or formal cross-group DiD is invented. Binary exposure is mandate adoption within each group; share bins are subgroup heterogeneity. Bertrand overall pre/post growth is explicitly cautioned to be secular and is not coded as a mandate effect. The null event-timing response is retained alongside Cournot small-share nulls; absence of FE is not the reason for OLS classification. Identification of raw policy effects is not established by the controlled slope-DiD assumptions. Source: §5.1 Figs1–2, pp628–629/PDF9–10."
+  }
+]
+```
