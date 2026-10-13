@@ -366066,3 +366066,390 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T04:31:25.772724+00:00 — Review H6AHELRK h9: source-audited coding and linked comparisons
+
+63 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4396",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4397",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4398",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4396",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4397",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4398",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4396",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4397",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4398",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4396",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4397",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4398",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4396",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4397",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4398",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4396",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4397",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4398",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4396",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4397",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4398",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4396",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4397",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4398",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4396",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4397",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4398",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4396",
+    "before": null,
+    "after": "Gla versus Gpa: lagged-denominator0.16%/month versus current-denominator0.38%/month. §3.2.4 explicitly attributes the lower measured premium to scaling. Both are this paper's estimates, not the historical Ball et al.0.29 benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4397",
+    "before": null,
+    "after": "Ole versus Ope: lagged-denominator0.11%/month versus current-denominator0.27%/month. §3.2.4 explicitly attributes the lower measured premium to scaling. Both are this paper's estimates, not the historical Ball et al.0.29 benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4398",
+    "before": null,
+    "after": "Ola versus Opa: lagged-denominator0.20%/month versus current-denominator0.41%/month. §3.2.4 explicitly attributes the lower measured premium to scaling. Both are this paper's estimates, not the historical Ball et al.0.29 benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4396",
+    "before": null,
+    "after": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4397",
+    "before": null,
+    "after": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4398",
+    "before": null,
+    "after": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6279",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6280",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6281",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6279",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6280",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6281",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6279",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6280",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6281",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6279",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6280",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6281",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6279",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6280",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6281",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6279",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6280",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6281",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6279",
+    "before": null,
+    "after": "Gla versus Gpa NYSE-VW annual-sort high-minus-low decile monthly return, percent/month; lagged versus current denominator. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6280",
+    "before": null,
+    "after": "Ole versus Ope NYSE-VW annual-sort high-minus-low decile monthly return, percent/month; lagged versus current denominator. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6281",
+    "before": null,
+    "after": "Ola versus Opa NYSE-VW annual-sort high-minus-low decile monthly return, percent/month; lagged versus current denominator. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2460",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2460",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2460",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2460",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2460",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2460",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2460",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2460",
+    "before": null,
+    "after": "Switch profitability scaling from current to1-year-lagged balance-sheet denominator in otherwise specified annual NYSE-VW portfolios: Gpa→Gla, Ope→Ole, Opa→Ola. Group three return outcomes under the same binary denominator-timing intervention. Profit definitions differ across outcomes but are unchanged within each pair. Authors explicitly attribute reductions to lagging and interpret gross profitability as confounded with investment under current assets. This is a measurement/portfolio-rule effect, not a firm-profitability causal effect and not causal identification of the investment premium."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2460",
+    "before": null,
+    "after": "Broad author-intention inclusion, moderate confidence. The treatment is an implemented construction/measurement rule, not a stock characteristic causing market returns. Observed return paths are reused; weights and membership may change. Gross historical strategy outcomes ignore endogenous prices, market impact, transaction costs and trading constraints. OLS denotes linear return contrasts or linear slope returns without a higher-priority identifying design; no new regression of returns on a rule dummy is claimed, and portfolio weights define the strategy rather than propensity-score adjustment. Competing reading: replication diagnostics only. Do not infer a nonzero rule effect from one significant and one insignificant premium; no standard error of their difference is reported. Source: Main §3.2.4 PDF47 / p2065; Table3D; AppendixA.4.9–10,12–13,15–16 PDF76–78."
+  }
+]
+```
