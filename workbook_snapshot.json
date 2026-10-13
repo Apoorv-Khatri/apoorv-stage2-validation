@@ -24201,7 +24201,16 @@
     "L2511": "1",
     "M2511": "unknown",
     "N2511": "Online Appendix Table1A: regression evidence on takeover-law effects on aggregate M&A activity, including all acquisitions and cross-border acquisitions; minimum family established by main-text §§1.2 and5.1.",
-    "O2511": "p1595 establishes implemented aggregate-activity regressions with controls; p1609 says the earlier aggregate analysis was run separately for any acquisitions and cross-border acquisitions. Add the established cross-border outcome but do not invent its coefficient or separate method/panel grid. Domestic country decompositions on p1595 belong to h2; a domestic-only regression is not established. Final estimator, FE, exact outcome scale and any linked benchmarks remain unavailable: method unknown. Source: §1.2 p1595/PDF8, lines476–487; referenced Online Table1A unavailable."
+    "O2511": "p1595 establishes implemented aggregate-activity regressions with controls; p1609 says the earlier aggregate analysis was run separately for any acquisitions and cross-border acquisitions. Add the established cross-border outcome but do not invent its coefficient or separate method/panel grid. Domestic country decompositions on p1595 belong to h2; a domestic-only regression is not established. Final estimator, FE, exact outcome scale and any linked benchmarks remain unavailable: method unknown. Source: §1.2 p1595/PDF8, lines476–487; referenced Online Table1A unavailable.",
+    "A2512": "IWL75F9N",
+    "B2512": "h8",
+    "I2512": "1",
+    "J2512": "unknown",
+    "K2512": "1",
+    "L2512": "0",
+    "M2512": "unknown",
+    "N2512": "Online Appendix Table3A: change in foreign institutional investor holdings surrounding passage of takeover laws.",
+    "O2512": "Substantive ownership-channel result, not a diagnostic first stage or IV. Method, FE, levels versus annual-change scale and coefficient grid unavailable; retain minimum known family with unknown fields. Source: p1599/PDF12, lines691–694; Online Table3A unavailable."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68271,7 +68280,14 @@
     "H6378": "0",
     "I6378": "unknown",
     "J6378": "unknown",
-    "K6378": "Aggregate cross-border M&A activity in earlier aggregate regression analysis, explicitly recalled in §5.1. Online1A scale/denominator, zero mass and column mapping unavailable."
+    "K6378": "Aggregate cross-border M&A activity in earlier aggregate regression analysis, explicitly recalled in §5.1. Online1A scale/denominator, zero mass and column mapping unavailable.",
+    "A6379": "IWL75F9N",
+    "B6379": "h8",
+    "C6379": "hy1",
+    "H6379": "0",
+    "I6379": "unknown",
+    "J6379": "unknown",
+    "K6379": "Foreign institutional investor holdings; source confirms increase around takeover laws but Online Table3A outcome scale is unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

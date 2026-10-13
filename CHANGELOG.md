@@ -378999,3 +378999,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:48:33.256974+00:00 — Review IWL75F9N h8: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6379",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6379",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6379",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6379",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6379",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6379",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6379",
+    "before": null,
+    "after": "Foreign institutional investor holdings; source confirms increase around takeover laws but Online Table3A outcome scale is unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2512",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2512",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2512",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2512",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2512",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2512",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2512",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2512",
+    "before": null,
+    "after": "Online Appendix Table3A: change in foreign institutional investor holdings surrounding passage of takeover laws."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2512",
+    "before": null,
+    "after": "Substantive ownership-channel result, not a diagnostic first stage or IV. Method, FE, levels versus annual-change scale and coefficient grid unavailable; retain minimum known family with unknown fields. Source: p1599/PDF12, lines691–694; Online Table3A unavailable."
+  }
+]
+```
