@@ -368046,3 +368046,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T07:27:21.574617+00:00 — Review HHJUFPI4 h10: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6293",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6293",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6293",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6293",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6293",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6293",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6293",
+    "before": null,
+    "after": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. Binary outcome contains zeros in the source full sample; exact restricted-sample zero frequencies not supplied."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2472",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2472",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2472",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2472",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2472",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2472",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2472",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2472",
+    "before": null,
+    "after": "Binary product-market-influence exposure Top3: one of the three highest shares × PostCD&A, replicating Table3, with Cournot/Bertrand policy-response contrasts."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2472",
+    "before": null,
+    "after": "Internet Appendix unavailable after bounded retrieval. Published §5.7 establishes implementation and qualitative result; no exact unseen coefficients, FE changes, or extra table panels inferred.  Each indicator is a separate binary treatment, not a continuous-dose robustness pooled with h5–h7. Source establishes definition but does not explicitly state ranking-date construction beyond the section’s pre-CD&A market-influence context; do not strengthen timing. Same linear Table3 replication design. Leader cross-mode difference is insignificant until >90% share outliers excluded; Top2/Top3 differences significant. Source: §5.7.2 p639/PDF20; referenced TableIA1."
+  }
+]
+```
