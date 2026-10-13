@@ -376989,3 +376989,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:22:43.882803+00:00 — Review IWL75F9N s2: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K271",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R271",
+    "before": null,
+    "after": "3.36 percentage-point law-induced performance contrast compared with Huson et al.’s 2 percentage-point performance effect. Another estimated effect is not a same-outcome mean/SD/level; reject rather than use other_level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1187",
+    "before": null,
+    "after": "Outcome is a 0/1 indicator with zero observations (turnover/acquisition is not universal), untransformed. Human type labels are not required because the corrected focal interaction treatment is nonbinary."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I455",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J455",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K455",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L455",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M455",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N455",
+    "before": null,
+    "after": "Focal continuous performance×policy interaction (change in turnover/acquisition sensitivity), not simply the binary post×treat indicator. Exposure to takeover-law enactment in a treated country (Post × Treat), with the substantive effect captured by the interaction of this law exposure with continuous lagged firm performance. Estimation is done separately for civil-law and common-law country subsamples as proxies for weak versus strong investor protection."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O455",
+    "before": null,
+    "after": "Nonlinear probit, with Ai–Norton corrected interaction effects: Other, not linear DiD or HDFE. Country, two-digit industry and year dummies are three sets but nonlinear-estimator precedence applies. Staggered law timing is not modern DiD; laws are not excluded instruments in a receipt first stage. The focal performance×law parameter varies continuously with lagged performance, distinct from a binary law-level effect. Parallel changes in sensitivity and no contemporaneous confounding are maintained assumptions, not proven identification. Source: Section 3.1, Table 2 cols. (2)–(3), PDF pp. 13–14.."
+  }
+]
+```
