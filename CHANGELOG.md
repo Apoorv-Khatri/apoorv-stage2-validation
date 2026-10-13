@@ -379365,3 +379365,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:50:06.652864+00:00 — Review IWL75F9N h12: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6383",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6383",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6383",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6383",
+    "before": null,
+    "after": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2516",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2516",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2516",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2516",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2516",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2516",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2516",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2516",
+    "before": null,
+    "after": "Untabulated alternative policy definition: first of takeover or antitrust law used in CEO-turnover performance-sensitivity models."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2516",
+    "before": null,
+    "after": "Distinct joint/earliest law exposure definition. Published prose establishes implemented same-model reestimation and substantive effect. Precise variable construction beyond earlier law and coefficients unreported; no fabricated grid. Source: fn17 p1608/PDF21, lines1324–1327."
+  }
+]
+```
