@@ -348804,3 +348804,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T02:58:10.406443+00:00 — Review G24W3YTK s3: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K223",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K224",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K225",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K226",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R223",
+    "before": null,
+    "after": "Reject: Table4 reports a conditional state mean rather than a focal causal state effect or effect/base normalization; parent state-family gate is also rejected. Numbers are correctly transcribed. Even if admitted under a broader gate, the full-sample mean mixes 154 expansion and 60 contraction months and is not an untreated-state baseline; that alignment issue is separate from eligibility. No contraction-minus-expansion effect or ratio is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R224",
+    "before": null,
+    "after": "Reject: Table4 reports a conditional state mean rather than a focal causal state effect or effect/base normalization; parent state-family gate is also rejected. Numbers are correctly transcribed. Even if admitted under a broader gate, the full-sample mean mixes 154 expansion and 60 contraction months and is not an untreated-state baseline; that alignment issue is separate from eligibility. No contraction-minus-expansion effect or ratio is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R225",
+    "before": null,
+    "after": "Reject: Table4 reports a conditional state mean rather than a focal causal state effect or effect/base normalization; parent state-family gate is also rejected. Numbers are correctly transcribed. Even if admitted under a broader gate, the full-sample mean mixes 154 expansion and 60 contraction months and is not an untreated-state baseline; that alignment issue is separate from eligibility. No contraction-minus-expansion effect or ratio is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R226",
+    "before": null,
+    "after": "Reject: Table4 reports a conditional state mean rather than a focal causal state effect or effect/base normalization; parent state-family gate is also rejected. Numbers are correctly transcribed. Even if admitted under a broader gate, the full-sample mean mixes 154 expansion and 60 contraction months and is not an untreated-state baseline; that alignment issue is separate from eligibility. No contraction-minus-expansion effect or ratio is inferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1039",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1040",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1039",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1040",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1039",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1040",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1039",
+    "before": null,
+    "after": "spurious causal outcome: Table4 conditional state means are descriptive under the adjudicated author-intention gate; the outcome definition and printed values are not erroneous."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1040",
+    "before": null,
+    "after": "spurious causal outcome: Table4 conditional state means are descriptive under the adjudicated author-intention gate; the outcome definition and printed values are not erroneous."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I397",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O397",
+    "before": null,
+    "after": "Exclude as descriptive conditional state means: Table4 pp1305–1306 tests state levels against the mixed-state full mean and slopes against zero, without author attribution of a binary-state treatment effect. Contested: section heading uses impact and Table5 has directional ip language, but that coefficient interpretation does not establish a causal interpretation for these distinct conditional means. Alternative classifiers (fn6–7) are implemented qualitative sensitivity, not independent causal settings. No implied state difference or threshold is invented. Source: §3.3 Table 4, PDF17–18 / pp1305–1306; introduction PDF3–4."
+  }
+]
+```
