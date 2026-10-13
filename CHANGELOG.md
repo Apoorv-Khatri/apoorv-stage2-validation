@@ -371037,3 +371037,306 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:06:47.647099+00:00 — Review I6VAFIIF h2: source-audited coding and linked comparisons
+
+49 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4413",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4414",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4415",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4413",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4414",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4415",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4413",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4414",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4415",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4413",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4414",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4415",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4413",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4414",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4415",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4413",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4414",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4415",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4413",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4414",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4415",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4413",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4414",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4415",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4413",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4414",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4415",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4413",
+    "before": null,
+    "after": "§2.2 p927 says sold glitch-stock volume about ten times higher than nonglitch stocks during glitch. Fig1(b) normalizes summed volumes by preceding-month averages before dividing by nonglitch normalized volume (reference level1)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4414",
+    "before": null,
+    "after": "§2.2 p927 says bought glitch-stock volume about seven times higher than nonglitch stocks during glitch. Fig1(b) uses past-month-normalized volume ratio to nonglitch stocks (reference level1)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4415",
+    "before": null,
+    "after": "§2.2 p927: bought stocks volume remains about8% higher than normal at end of day. Fig1(b) plots the ratio of group volume normalized by its prior-month average to nonglitch volume similarly normalized. Code the stated normal relative-volume reference level (unit reference), not an asserted raw-volume mean. Exact raw reference volume is not reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4413",
+    "before": null,
+    "after": "Eligibility retained because §2.2 explicitly compares the glitch-response volume level to nonglitch volume in words (sold/ten), not because the dependent series is normalized. The comparable objects are group and nonglitch summed volumes each scaled by their own historical averages; the final plotted ratio is their quotient. other_level denotes the contemporaneous nonglitch normalized-volume reference, not a median and not an estimated mean benchmark for raw share volume. verbal1/divided1 reflect the literal reported multiple; aligned n/a. Prose group allocation conflicts with plot labels, so exact group-magnitude attribution remains unresolved. Do not silently swap labels or calculate ten-times-higher as eleven."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4414",
+    "before": null,
+    "after": "Eligibility retained because §2.2 explicitly compares the glitch-response volume level to nonglitch volume in words (bought/seven), not because the dependent series is normalized. The comparable objects are group and nonglitch summed volumes each scaled by their own historical averages; the final plotted ratio is their quotient. other_level denotes the contemporaneous nonglitch normalized-volume reference, not a median and not an estimated mean benchmark for raw share volume. verbal1/divided1 reflect the literal reported multiple; aligned n/a. Prose group allocation conflicts with plot labels, so exact group-magnitude attribution remains unresolved. Do not silently swap labels or calculate ten-times-higher as eleven."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4415",
+    "before": null,
+    "after": "Retain verbal1/divided1 for explicit above-normal comparison, not merely because hy1 is a ratio. The displayed reference combines a historical-average normalization and a contemporaneous nonglitch denominator; it is not established as a single own-outcome mean on the plotted scale. other_level/n/a is preferred to the proposed outcome_mean/unknown. Narrow alternative: exclude as restatement of the transformed outcome. The source explicitly says higher than normal, so retain with this interpretation caution. Do not infer an aligned untreated target mean or numeric raw mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6305",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6305",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6305",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6305",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6305",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6305",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6305",
+    "before": null,
+    "after": "Relative normalized share volume: ratio of subgroup summed minute share volume normalized by its past-month mean to nonglitch-stock normalized share volume, smoothed over 15 minutes. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2482",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2482",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2482",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2482",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2482",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2482",
+    "before": null,
+    "after": "Fig1(b): glitch effect on intraday relative share volume for bought and sold subgroups. Fifteen-minute rolling averages of summed share volumes normalized by preceding-month averages and divided by similarly normalized nonglitch-stock volume."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2482",
+    "before": null,
+    "after": "Nonlinear aggregate ratio response, not a fitted OLS coefficient or outcome-independent weighting estimator. Author interprets excess volume as supply-shock response; subgroup selection uses event returns. Printed prose says sold about ten times and bought seven times, but rendered plots label bought left (peak near ten) and sold right (peak near seven); preserve conflict. End-day bought volume described 8% above normal; no precise plotted value invented. Source: Fig1(b) caption p924/PDF3; §2.2 p927/PDF6."
+  }
+]
+```
