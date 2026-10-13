@@ -360702,3 +360702,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:55:14.358696+00:00 — Review GLSWBYDJ h16: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6242",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6243",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6242",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6243",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6242",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6243",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6242",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6243",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6242",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6243",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6242",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6243",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6242",
+    "before": null,
+    "after": "Market-minus-industry difference in the high-search-minus-other-search change in firm-return correlation. Continuous nonlinear dependence-functional differential."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6243",
+    "before": null,
+    "after": "Market-minus-industry difference in the high-search-minus-other-search change in adjusted R². Continuous nonlinear dependence-functional differential."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2447",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2447",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2447",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2447",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2447",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2447",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2447",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2447",
+    "before": null,
+    "after": "AppendixA6 last column: high-versus-other lottery-search-day effect on market-minus-industry correlation and adjusted R²."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2447",
+    "before": null,
+    "after": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Separate differential estimand; not parallel-trends DiD. Correlation differential mean/median0.005/0.008, adjusted R²0.003/0.005. No new level benchmark from comparing estimated market/industry effects. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA6 PDF8."
+  }
+]
+```

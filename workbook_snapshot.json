@@ -23351,7 +23351,16 @@
     "L2446": "0",
     "M2446": "n/a",
     "N2446": "AppendixA6: high lottery Google search volume (>12.47, approximately90th percentile) versus other search-volume days; firm-market and firm-industry correlation and adjusted R².",
-    "O2446": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. January4,2004–June30,2015. Search is an alternative attention proxy, not randomized/exogenous by lottery mechanics itself. Market mean differences0.026/0.023, industry0.020/0.020 (correlation/R²). Actual AppendixA6 additionally reports industry results, beyond main’s market-only summary. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA6 PDF8 (rotated; visually checked); main§4.4 p381 OA6."
+    "O2446": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. January4,2004–June30,2015. Search is an alternative attention proxy, not randomized/exogenous by lottery mechanics itself. Market mean differences0.026/0.023, industry0.020/0.020 (correlation/R²). Actual AppendixA6 additionally reports industry results, beyond main’s market-only summary. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA6 PDF8 (rotated; visually checked); main§4.4 p381 OA6.",
+    "A2447": "GLSWBYDJ",
+    "B2447": "h16",
+    "I2447": "1",
+    "J2447": "Other",
+    "K2447": "1",
+    "L2447": "0",
+    "M2447": "n/a",
+    "N2447": "AppendixA6 last column: high-versus-other lottery-search-day effect on market-minus-industry correlation and adjusted R².",
+    "O2447": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. Separate differential estimand; not parallel-trends DiD. Correlation differential mean/median0.005/0.008, adjusted R²0.003/0.005. No new level benchmark from comparing estimated market/industry effects. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA6 PDF8."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -66124,7 +66133,21 @@
     "H6241": "0",
     "I6241": "unknown",
     "J6241": "none",
-    "K6241": "Firm industry-model adjusted R² measured separately on high/non-high lottery-SVI days, TableA6."
+    "K6241": "Firm industry-model adjusted R² measured separately on high/non-high lottery-SVI days, TableA6.",
+    "A6242": "GLSWBYDJ",
+    "B6242": "h16",
+    "C6242": "hy1",
+    "H6242": "0",
+    "I6242": "unknown",
+    "J6242": "other",
+    "K6242": "Market-minus-industry difference in the high-search-minus-other-search change in firm-return correlation. Continuous nonlinear dependence-functional differential.",
+    "A6243": "GLSWBYDJ",
+    "B6243": "h16",
+    "C6243": "hy2",
+    "H6243": "0",
+    "I6243": "unknown",
+    "J6243": "other",
+    "K6243": "Market-minus-industry difference in the high-search-minus-other-search change in adjusted R². Continuous nonlinear dependence-functional differential."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
