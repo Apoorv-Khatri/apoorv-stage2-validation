@@ -24273,7 +24273,16 @@
     "L2519": "0",
     "M2519": "unknown",
     "N2519": "Untabulated pretakeover firm-performance effect on director replacement within targeted firms during T0–T3.",
-    "O2519": "Explicit effect interpretation supports inclusion despite acknowledged observational design. Continuous performance, not binary event exposure. A t0×pretakeover-performance estimate −1.378 (p=.019) is given without unambiguous outcome attribution: do not attach it to both. Method of this particular untabulated extension is not stated; previous Table6 uses probit for turnover and OLS for seats, but that is not verified here. Source: p1615/PDF28, lines1756–1764."
+    "O2519": "Explicit effect interpretation supports inclusion despite acknowledged observational design. Continuous performance, not binary event exposure. A t0×pretakeover-performance estimate −1.378 (p=.019) is given without unambiguous outcome attribution: do not attach it to both. Method of this particular untabulated extension is not stated; previous Table6 uses probit for turnover and OLS for seats, but that is not verified here. Source: p1615/PDF28, lines1756–1764.",
+    "A2520": "IWL75F9N",
+    "B2520": "h16",
+    "I2520": "1",
+    "J2520": "unknown",
+    "K2520": "0",
+    "L2520": "0",
+    "M2520": "unknown",
+    "N2520": "Untabulated pretakeover firm-performance effect on other board seats within targeted firms during T0–T3.",
+    "O2520": "Explicit effect interpretation supports inclusion despite acknowledged observational design. Continuous performance, not binary event exposure. A t0×pretakeover-performance estimate −1.378 (p=.019) is given without unambiguous outcome attribution: do not attach it to both. Method of this particular untabulated extension is not stated; previous Table6 uses probit for turnover and OLS for seats, but that is not verified here. Source: p1615/PDF28, lines1756–1764."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68384,7 +68393,11 @@
     "A6386": "IWL75F9N",
     "B6386": "h15",
     "C6386": "hy1",
-    "K6386": "Director replacement indicator at director-firm-year level."
+    "K6386": "Director replacement indicator at director-firm-year level.",
+    "A6387": "IWL75F9N",
+    "B6387": "h16",
+    "C6387": "hy1",
+    "K6387": "Annual number of other publicly traded board seats per director, excluding target seat lost following acquisition."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

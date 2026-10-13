@@ -379881,3 +379881,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:51:46.912451+00:00 — Review IWL75F9N h16: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6387",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6387",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6387",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6387",
+    "before": null,
+    "after": "Annual number of other publicly traded board seats per director, excluding target seat lost following acquisition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2520",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2520",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2520",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2520",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2520",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2520",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2520",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2520",
+    "before": null,
+    "after": "Untabulated pretakeover firm-performance effect on other board seats within targeted firms during T0–T3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2520",
+    "before": null,
+    "after": "Explicit effect interpretation supports inclusion despite acknowledged observational design. Continuous performance, not binary event exposure. A t0×pretakeover-performance estimate −1.378 (p=.019) is given without unambiguous outcome attribution: do not attach it to both. Method of this particular untabulated extension is not stated; previous Table6 uses probit for turnover and OLS for seats, but that is not verified here. Source: p1615/PDF28, lines1756–1764."
+  }
+]
+```
