@@ -354888,3 +354888,390 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:51:44.719393+00:00 — Review GLSWBYDJ h2: source-audited coding and linked comparisons
+
+63 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4313",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4314",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4315",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4313",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4314",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4315",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4313",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4314",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4315",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4313",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4314",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4315",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4313",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4314",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4315",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4313",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4314",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4315",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4313",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4314",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4315",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4313",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4314",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4315",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4313",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4314",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4315",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4313",
+    "before": null,
+    "after": "Table2A/PDF6 median row: turnover, difference−0.077; non-large-day median0.702. Turnover units are percentage points; printed comparator count2190."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4314",
+    "before": null,
+    "after": "Table2A/PDF6 median row: abnormal firm SVI, difference−0.020; non-large-day median0.192. SVI is historical-median-normalized; table baseline is its non-large-day outcome level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4315",
+    "before": null,
+    "after": "Table2A/PDF6 median row: abnormal lottery SVI, difference0.480; non-large-day median−0.009. SVI is historical-median-normalized; table baseline is its non-large-day outcome level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4313",
+    "before": null,
+    "after": "Printed turnover comparator count2190 conflicts with main non-large3029 definition. Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4314",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4315",
+    "before": null,
+    "after": "Median of paired differences need not equal difference of marginal medians. Table deliberately places the reported contrast next to its same-outcome reference median; no division is asserted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6203",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6204",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6205",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6203",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6204",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6205",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6203",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6204",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6205",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6203",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6204",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6205",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6203",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6204",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6205",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6203",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6204",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6205",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6203",
+    "before": null,
+    "after": "Daily share turnover (daily volume/shares outstanding), percentage units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6204",
+    "before": null,
+    "after": "Abnormal firm SVI: deviation from own median over prior25th–5th weeks, divided by that median."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6205",
+    "before": null,
+    "after": "Abnormal lottery SVI: deviation from own median over prior25th–5th weeks, divided by that median."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2433",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2433",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2433",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2433",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2433",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2433",
+    "before": null,
+    "after": "Table2A: median attention contrasts for large versus non-large jackpot days, turnover and abnormal firm/lottery SVI."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2433",
+    "before": null,
+    "after": "Nonlinear median estimands with Wilcoxon tests, not OLS. Firm outcomes report median of paired firm differences, not difference of marginal medians. Printed differences−0.077pp,−0.020,0.480. Same2190 turnover-control-days inconsistency as h1. Source: Main §3.1/Table2A, PDF5–6 / pp373–374."
+  }
+]
+```
