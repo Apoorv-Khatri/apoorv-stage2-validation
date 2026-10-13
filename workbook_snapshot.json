@@ -24219,7 +24219,16 @@
     "L2513": "0",
     "M2513": "n/a",
     "N2513": "Online Appendix Table4A: law×performance effects on CEO turnover across alternative investor-protection measures (burden of proof, disclosure/enforcement).",
-    "O2513": "Published text says same results robust to alternative protection measures in the probit framework. No new binary investor-protection treatment inferred from sample stratification; subgroup columns/coefficients unavailable. No comparison established. Source: pp1599–1601/PDF12–14, lines733–751,859–863."
+    "O2513": "Published text says same results robust to alternative protection measures in the probit framework. No new binary investor-protection treatment inferred from sample stratification; subgroup columns/coefficients unavailable. No comparison established. Source: pp1599–1601/PDF12–14, lines733–751,859–863.",
+    "A2514": "IWL75F9N",
+    "B2514": "h10",
+    "I2514": "1",
+    "J2514": "Other",
+    "K2514": "0",
+    "L2514": "0",
+    "M2514": "n/a",
+    "N2514": "Online Appendix Table5A: takeover-law×continuous-performance CEO-turnover replication with FII controls in the 12 adopting countries (fn16). Excludes simple adopter-only results already captured by s10.",
+    "O2514": "fn16 p1605 specifically establishes the 12-country FII-control test, distinct from Table4B s10 without FII controls. Retain this minimum scope only. The generic p1608 statement that Online5A replicates main analyses does not justify counting repetitions of s10 again; those are not additional records. Unknown further panels/columns and appendix benchmark rows remain pending. Inherited probit framework is explicit through the same tests wording; Other, nonbinary gradient, supporting. Source: fn16 p1605/PDF18, §4.5 p1608/PDF21; lines1124–1128,1293–1299."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68300,7 +68309,11 @@
     "A6380": "IWL75F9N",
     "B6380": "h9",
     "C6380": "hy1",
-    "K6380": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
+    "K6380": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise.",
+    "A6381": "IWL75F9N",
+    "B6381": "h10",
+    "C6381": "hy1",
+    "K6381": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

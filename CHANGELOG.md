@@ -379191,3 +379191,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:49:19.336210+00:00 — Review IWL75F9N h10: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6381",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6381",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6381",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6381",
+    "before": null,
+    "after": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2514",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2514",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2514",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2514",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2514",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2514",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2514",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2514",
+    "before": null,
+    "after": "Online Appendix Table5A: takeover-law×continuous-performance CEO-turnover replication with FII controls in the 12 adopting countries (fn16). Excludes simple adopter-only results already captured by s10."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2514",
+    "before": null,
+    "after": "fn16 p1605 specifically establishes the 12-country FII-control test, distinct from Table4B s10 without FII controls. Retain this minimum scope only. The generic p1608 statement that Online5A replicates main analyses does not justify counting repetitions of s10 again; those are not additional records. Unknown further panels/columns and appendix benchmark rows remain pending. Inherited probit framework is explicit through the same tests wording; Other, nonbinary gradient, supporting. Source: fn16 p1605/PDF18, §4.5 p1608/PDF21; lines1124–1128,1293–1299."
+  }
+]
+```
