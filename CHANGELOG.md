@@ -378852,3 +378852,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:48:09.084134+00:00 — Review IWL75F9N h7: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6377",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6378",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6377",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6378",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6377",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6378",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6377",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6378",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6377",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6378",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6377",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6378",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6377",
+    "before": null,
+    "after": "Aggregate merger intensity/activity; §1.2 defines number of M&As divided by total listed firms at country-year level. Exact Online Table1A regression scale not inspected."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6378",
+    "before": null,
+    "after": "Aggregate cross-border M&A activity in earlier aggregate regression analysis, explicitly recalled in §5.1. Online1A scale/denominator, zero mass and column mapping unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2511",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2511",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2511",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2511",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2511",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2511",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2511",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2511",
+    "before": null,
+    "after": "Online Appendix Table1A: regression evidence on takeover-law effects on aggregate M&A activity, including all acquisitions and cross-border acquisitions; minimum family established by main-text §§1.2 and5.1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2511",
+    "before": null,
+    "after": "p1595 establishes implemented aggregate-activity regressions with controls; p1609 says the earlier aggregate analysis was run separately for any acquisitions and cross-border acquisitions. Add the established cross-border outcome but do not invent its coefficient or separate method/panel grid. Domestic country decompositions on p1595 belong to h2; a domestic-only regression is not established. Final estimator, FE, exact outcome scale and any linked benchmarks remain unavailable: method unknown. Source: §1.2 p1595/PDF8, lines476–487; referenced Online Table1A unavailable."
+  }
+]
+```

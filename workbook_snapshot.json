@@ -24192,7 +24192,16 @@
     "L2510": "0",
     "M2510": "n/a",
     "N2510": "Table4A cols1–2: annual change in foreign-institutional ownership interacted with firm performance, effect on CEO-turnover discipline.",
-    "O2510": "p1605 interprets the −.052 FII-change×performance coefficient (z −1.679) as governance improvement in weak-protection countries, meeting the broad author-intention gate in context despite the word associated. This is a continuous ownership/performance-gradient estimand, not a binary policy shock and not the .011 lower-order ownership coefficient. Other for probit; no IV; supporting; no same-outcome benchmark. Retain common-law null alongside the weak-protection result. Source: §4.1 p1605/PDF18 and Table4A p1606/PDF19; lines1093–1100,1171–1175."
+    "O2510": "p1605 interprets the −.052 FII-change×performance coefficient (z −1.679) as governance improvement in weak-protection countries, meeting the broad author-intention gate in context despite the word associated. This is a continuous ownership/performance-gradient estimand, not a binary policy shock and not the .011 lower-order ownership coefficient. Other for probit; no IV; supporting; no same-outcome benchmark. Retain common-law null alongside the weak-protection result. Source: §4.1 p1605/PDF18 and Table4A p1606/PDF19; lines1093–1100,1171–1175.",
+    "A2511": "IWL75F9N",
+    "B2511": "h7",
+    "I2511": "1",
+    "J2511": "unknown",
+    "K2511": "1",
+    "L2511": "1",
+    "M2511": "unknown",
+    "N2511": "Online Appendix Table1A: regression evidence on takeover-law effects on aggregate M&A activity, including all acquisitions and cross-border acquisitions; minimum family established by main-text §§1.2 and5.1.",
+    "O2511": "p1595 establishes implemented aggregate-activity regressions with controls; p1609 says the earlier aggregate analysis was run separately for any acquisitions and cross-border acquisitions. Add the established cross-border outcome but do not invent its coefficient or separate method/panel grid. Domestic country decompositions on p1595 belong to h2; a domestic-only regression is not established. Final estimator, FE, exact outcome scale and any linked benchmarks remain unavailable: method unknown. Source: §1.2 p1595/PDF8, lines476–487; referenced Online Table1A unavailable."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68248,7 +68257,21 @@
     "A6376": "IWL75F9N",
     "B6376": "h6",
     "C6376": "hy1",
-    "K6376": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
+    "K6376": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise.",
+    "A6377": "IWL75F9N",
+    "B6377": "h7",
+    "C6377": "hy1",
+    "H6377": "0",
+    "I6377": "unknown",
+    "J6377": "unknown",
+    "K6377": "Aggregate merger intensity/activity; §1.2 defines number of M&As divided by total listed firms at country-year level. Exact Online Table1A regression scale not inspected.",
+    "A6378": "IWL75F9N",
+    "B6378": "h7",
+    "C6378": "hy2",
+    "H6378": "0",
+    "I6378": "unknown",
+    "J6378": "unknown",
+    "K6378": "Aggregate cross-border M&A activity in earlier aggregate regression analysis, explicitly recalled in §5.1. Online1A scale/denominator, zero mass and column mapping unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
