@@ -379278,3 +379278,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:49:44.325950+00:00 — Review IWL75F9N h11: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6382",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6382",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6382",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6382",
+    "before": null,
+    "after": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2515",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2515",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2515",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2515",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2515",
+    "before": null,
+    "after": "Online Appendix Table6A: leave-one-adopting-country-out CEO-turnover law×performance robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2515",
+    "before": null,
+    "after": "Implemented replication of main probit law-sensitivity design. Group all country omissions as routine sample variants at this location; unavailable appendix cannot establish further splitting or benchmark. Source: fn18 p1608/PDF21, lines1328–1329."
+  }
+]
+```
