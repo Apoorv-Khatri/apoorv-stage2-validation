@@ -369735,3 +369735,258 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:02:04.765366+00:00 — Review I6VAFIIF s1: source-audited coding and linked comparisons
+
+41 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4412",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4412",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4412",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K269",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K270",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4412",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L269",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L270",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4412",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M269",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M270",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4412",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N269",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N270",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4412",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O269",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O270",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4412",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P269",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P270",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4412",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q269",
+    "before": null,
+    "after": "GlitchDay0 coefficient on VWAP slippage = 6.35 bps in Table 4, for parent-order executions on glitch-affected stocks on Aug. 1, 2012. §5.1 p935/PDF14 compares rounded 6.4/18.2 bps effects with full institutional-sample median VWAP 1 bp / IS 3.1 bps. Table1 rounds IS median to 0.03%; preserve prose 3.1 bps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q270",
+    "before": null,
+    "after": "GlitchDay0 coefficient on implementation shortfall = 18.15 bps in Table 4, for parent-order executions on glitch-affected stocks on Aug. 1, 2012. §5.1 p935/PDF14 compares rounded 6.4/18.2 bps effects with full institutional-sample median VWAP 1 bp / IS 3.1 bps. Table1 rounds IS median to 0.03%; preserve prose 3.1 bps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4412",
+    "before": null,
+    "after": "Table4 GlitchAug9ToAug31 VWAP coefficient1.11 bps (rounded1.1). §5.1 pp936–937: remains a substantial cost over three weeks because median VWAP slippage is merely1 bp. Benchmark full institutional parent-order sample median."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R269",
+    "before": null,
+    "after": "Median is other_level, not outcome_mean; no ratio calculated by authors in this passage. Alignment question is not applicable."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R270",
+    "before": null,
+    "after": "Median is other_level, not outcome_mean; no ratio calculated by authors in this passage. Alignment question is not applicable."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4412",
+    "before": null,
+    "after": "Distinct later-window estimate, not duplicate day0 c1. Nearby 17% compares two effects and is not itself a qualifying benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1106",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1107",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1106",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1107",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1106",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1107",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1106",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported outcome; replace unsupported model zero_mass=0 with unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1107",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported outcome; replace unsupported model zero_mass=0 with unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J433",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M433",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O433",
+    "before": null,
+    "after": "Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Additional sample-description conflict: Table1 caption p931 gives 534 Aug1 executions, while adjacent prose gives 662; exact sample distinction is not established. AppendixA.2 selects the traded S&P500 universe as of May2013; Table3 caption refers to Aug1 2012. Preserve these source descriptions without silently harmonizing them. Source: §4.4–5.1, Eq7, Table4 cols1–2, pp934–937/PDF13–16."
+  }
+]
+```
