@@ -373209,3 +373209,276 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:10:50.616601+00:00 — Review I6VAFIIF h12: source-audited coding and linked comparisons
+
+44 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6337",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6338",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6339",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6340",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6341",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6337",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6338",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6339",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6340",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6341",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6337",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6338",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6339",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6340",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6341",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6337",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6338",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6339",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6340",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6341",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6337",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6338",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6339",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6340",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6341",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6337",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6338",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6339",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6340",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6341",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6337",
+    "before": null,
+    "after": "VWAP slippage: signed average execution price minus interval VWAP divided by interval VWAP, reported bps. Zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6338",
+    "before": null,
+    "after": "Implementation shortfall: signed average execution price minus starting midquote divided by starting midquote, reported bps. Zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6339",
+    "before": null,
+    "after": "Effective spread, dollar-weighted 2 absolute log transaction-price/midpoint difference, bps. Zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6340",
+    "before": null,
+    "after": "Realized spread, dollar-weighted 2 signed log transaction-price minus midpoint five minutes later, bps. Zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6341",
+    "before": null,
+    "after": "Price impact, dollar-weighted 2 signed log midpoint change over five minutes, bps. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2492",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2492",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2492",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2492",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2492",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2492",
+    "before": null,
+    "after": "Table11: DMM exposure interacted with day0,nextweek,Aug9–31,post-Aug31, include Nasdaq S&P500 stocks as controls; Eq7 with stock/day FE and execution controls, all five cost outcomes grouped. Day0 VWAP4.70, IS31.07; next week−2.89,2.19 bps; other spread and later-window null results included."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2492",
+    "before": null,
+    "after": "Separately reported robustness table warrants new setting; do not split columns into arbitrary main versus matched outcomes. DMM means KC-designated stocks excluding glitch-exposed stocks. No qualifying outcome benchmark is paired in this table. Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Source: §7.3–7.5, Table11, p946/PDF25."
+  }
+]
+```
