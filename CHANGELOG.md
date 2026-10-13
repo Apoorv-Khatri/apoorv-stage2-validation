@@ -380388,3 +380388,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:53:43.842822+00:00 — Review IWL75F9N h21: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6392",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6392",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6392",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6392",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6392",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6392",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6392",
+    "before": null,
+    "after": "CEO replacement indicator at firm-year level, compared across top and bottom performance quartiles; Table1B reports group rate differences in percentage points."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E51",
+    "before": null,
+    "after": "DONE — All 35 published pages including Appendix A1 independently reviewed. Retain 37 settings and 40 outcome records; seven comparisons retained and original effect-versus-effect comparison rejected. Continuous performance-policy gradients separated from binary law-level and implemented quartile contrasts. Nonlinear probit including matched probit coded Other; full-sample director-seat regression OLS and matched linear estimator Matching, with competing identifying-FE interpretation documented. Added aggregate acquisition outcomes and minimum published-prose supplemental families; unknown methods retained where implementation is not established. Online5A FII replication narrowed to avoid duplicating adopter-only results. Seat-loss 20% comparison uses outcome_mean with unknown denominator alignment; annual-rate/event-sum mismatches flagged. Printed arithmetic/FE-label discrepancies preserved. Online Tables1A–7A unavailable despite bounded recovery; unseen grids and further appendix omissions unresolved. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2525",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2525",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2525",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2525",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2525",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2525",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2525",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2525",
+    "before": null,
+    "after": "Table1B last column/§1.3: implemented top-versus-bottom performance-quartile CEO-turnover contrasts by law-exposure group; authors interpret the enlarged post-law contrast as increased managerial discipline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2525",
+    "before": null,
+    "after": "Two-valued extreme-quartile contrast is implemented in Table1B; distinct from continuous-performance probit s1–s12 and law-level h3. Pre-law −2.60pp and post-law −5.27pp are unadjusted top-minus-bottom turnover differences, also reported for never-law and pooled groups. OLS denotes a linear group contrast, not an asserted fitted regression. No verified temporal control subtraction is reported, so do not infer DiD. The prose claim more than 100% more likely compares two differences, not an outcome probability level; no qualifying magnitude comparison. This supporting substantive claim is not merely a pretrend diagnostic. Source: Table1B p1593/PDF6; §1.3 p1596/PDF9, lines525–541."
+  }
+]
+```

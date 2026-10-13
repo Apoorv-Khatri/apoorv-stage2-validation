@@ -232,6 +232,7 @@
     "B51": "Does Takeover Activity Cause Managerial Discipline? Evidence from International M&A Laws",
     "C51": "fin",
     "D51": 16,
+    "E51": "DONE — All 35 published pages including Appendix A1 independently reviewed. Retain 37 settings and 40 outcome records; seven comparisons retained and original effect-versus-effect comparison rejected. Continuous performance-policy gradients separated from binary law-level and implemented quartile contrasts. Nonlinear probit including matched probit coded Other; full-sample director-seat regression OLS and matched linear estimator Matching, with competing identifying-FE interpretation documented. Added aggregate acquisition outcomes and minimum published-prose supplemental families; unknown methods retained where implementation is not established. Online5A FII replication narrowed to avoid duplicating adopter-only results. Seat-loss 20% comparison uses outcome_mean with unknown denominator alignment; annual-rate/event-sum mismatches flagged. Printed arithmetic/FE-label discrepancies preserved. Online Tables1A–7A unavailable despite bounded recovery; unseen grids and further appendix omissions unresolved. Original model fields preserved.",
     "A52": "IYMGE8KX",
     "B52": "Mutual Fund Holdings of Credit Default Swaps: Liquidity, Yield, and Risk",
     "C52": "fin",
@@ -24318,7 +24319,16 @@
     "L2524": "0",
     "M2524": "unknown",
     "N2524": "Online Appendix Table7A: takeover-event effects on other seats for boards that recently removed CEOs; matched sample.",
-    "O2524": "fn25 p1615 establishes implemented takeover-event tests for boards with recent CEO removal and distinguishes entire versus matched samples. It does not name the final estimator or expressly say that these tests reestimate Table6; the separate Table6 repetition sentence concerns exclusion of majority acquisitions. Inheriting probit/OLS/Matching is plausible but unverified, so use unknown consistently with h15/h16. Keep binary event exposure and supporting status, and retain the matched-seat null. Exact subgroup timing, interactions, coefficients, FE and appendix columns are unverified; no invented grid or benchmark. Source: fn25 p1615/PDF28, lines1780–1786."
+    "O2524": "fn25 p1615 establishes implemented takeover-event tests for boards with recent CEO removal and distinguishes entire versus matched samples. It does not name the final estimator or expressly say that these tests reestimate Table6; the separate Table6 repetition sentence concerns exclusion of majority acquisitions. Inheriting probit/OLS/Matching is plausible but unverified, so use unknown consistently with h15/h16. Keep binary event exposure and supporting status, and retain the matched-seat null. Exact subgroup timing, interactions, coefficients, FE and appendix columns are unverified; no invented grid or benchmark. Source: fn25 p1615/PDF28, lines1780–1786.",
+    "A2525": "IWL75F9N",
+    "B2525": "h21",
+    "I2525": "1",
+    "J2525": "OLS",
+    "K2525": "1",
+    "L2525": "0",
+    "M2525": "n/a",
+    "N2525": "Table1B last column/§1.3: implemented top-versus-bottom performance-quartile CEO-turnover contrasts by law-exposure group; authors interpret the enlarged post-law contrast as increased managerial discipline.",
+    "O2525": "Two-valued extreme-quartile contrast is implemented in Table1B; distinct from continuous-performance probit s1–s12 and law-level h3. Pre-law −2.60pp and post-law −5.27pp are unadjusted top-minus-bottom turnover differences, also reported for never-law and pooled groups. OLS denotes a linear group contrast, not an asserted fitted regression. No verified temporal control subtraction is reported, so do not infer DiD. The prose claim more than 100% more likely compares two differences, not an outcome probability level; no qualifying magnitude comparison. This supporting substantive claim is not merely a pretrend diagnostic. Source: Table1B p1593/PDF6; §1.3 p1596/PDF9, lines525–541."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68461,7 +68471,14 @@
     "H6391": "0",
     "I6391": "unknown",
     "J6391": "none",
-    "K6391": "Annual number of other publicly traded board seats per director, excluding target seat lost following acquisition."
+    "K6391": "Annual number of other publicly traded board seats per director, excluding target seat lost following acquisition.",
+    "A6392": "IWL75F9N",
+    "B6392": "h21",
+    "C6392": "hy1",
+    "H6392": "1",
+    "I6392": "1",
+    "J6392": "none",
+    "K6392": "CEO replacement indicator at firm-year level, compared across top and bottom performance quartiles; Table1B reports group rate differences in percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
