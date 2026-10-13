@@ -367080,3 +367080,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T07:22:39.525736+00:00 — Review HHJUFPI4 s6: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1101",
+    "before": null,
+    "after": "Outcome is the untransformed firm-year 0/1 indicator as defined in §4.2.1; model zero_mass=0 is not supported (full-sample Table1 means/medians show both values). Detailed labels left null because focal treatment is continuous; this is not a claim of no zeros in the outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I430",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J430",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K430",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L430",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M430",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O430",
+    "before": null,
+    "after": "Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. Do not add separate causal settings for contemporaneous other-metric controls: “help explain” is not a directional effect claim for those coefficients. Source: §5.5.1, Eqs9–10, Table8, pp635–636/PDF16–17."
+  }
+]
+```
