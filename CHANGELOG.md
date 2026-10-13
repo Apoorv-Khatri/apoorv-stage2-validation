@@ -370416,3 +370416,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:04:24.304640+00:00 — Review I6VAFIIF s6: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1118",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1119",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1118",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1119",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1120",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1118",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1119",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1120",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1118",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported aggregated outcome; replace unsupported model zero_mass=0 with unknown. Spread formulas use log-price differences but the dependent spread itself is not log-transformed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1119",
+    "before": null,
+    "after": "Log turnover is the estimated scale; no evidence establishes a probability mass at zero in the reported log outcome. Raw turnover zeros are likewise not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1120",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported outcome; replace unsupported model zero_mass=0 with unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I438",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J438",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K438",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L438",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M438",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O438",
+    "before": null,
+    "after": "Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Table7 depth Glitch2 is +25.13 ($K), not negative. Introduction p925 claims a significant next-week depth decrease, whereas the abstract does not make that depth-significance claim; conclusion p948 states lower depth without a significance qualifier. Table evidence is weaker: next-week −41.54 is not significant; day0 about −172 is significant. Eq8 prose calls a later indicator GlitchPost whereas equation/table use Aug9–31; preserve table implementation. Turnover log-percent interpretations are not outcome-benchmark comparisons. Source: §6.3, Eq8, Table7 glitch rows, pp940–943/PDF19–22."
+  }
+]
+```
