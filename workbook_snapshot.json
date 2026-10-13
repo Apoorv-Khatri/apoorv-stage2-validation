@@ -23659,7 +23659,16 @@
     "L2472": "0",
     "M2472": "n/a",
     "N2472": "Binary product-market-influence exposure Top3: one of the three highest shares × PostCD&A, replicating Table3, with Cournot/Bertrand policy-response contrasts.",
-    "O2472": "Internet Appendix unavailable after bounded retrieval. Published §5.7 establishes implementation and qualitative result; no exact unseen coefficients, FE changes, or extra table panels inferred.  Each indicator is a separate binary treatment, not a continuous-dose robustness pooled with h5–h7. Source establishes definition but does not explicitly state ranking-date construction beyond the section’s pre-CD&A market-influence context; do not strengthen timing. Same linear Table3 replication design. Leader cross-mode difference is insignificant until >90% share outliers excluded; Top2/Top3 differences significant. Source: §5.7.2 p639/PDF20; referenced TableIA1."
+    "O2472": "Internet Appendix unavailable after bounded retrieval. Published §5.7 establishes implementation and qualitative result; no exact unseen coefficients, FE changes, or extra table panels inferred.  Each indicator is a separate binary treatment, not a continuous-dose robustness pooled with h5–h7. Source establishes definition but does not explicitly state ranking-date construction beyond the section’s pre-CD&A market-influence context; do not strengthen timing. Same linear Table3 replication design. Leader cross-mode difference is insignificant until >90% share outliers excluded; Top2/Top3 differences significant. Source: §5.7.2 p639/PDF20; referenced TableIA1.",
+    "A2473": "HHJUFPI4",
+    "B2473": "h11",
+    "I2473": "1",
+    "J2473": "DiD_conventional",
+    "K2473": "0",
+    "L2473": "0",
+    "M2473": "n/a",
+    "N2473": "Balanced-panel 2005–2007 replication of primary ln(Share)×PostCD&A analysis of Revenue-Based Pay; separately reported TableIA2. Minimum published-prose-supported family only.",
+    "O2473": "Internet Appendix unavailable after bounded retrieval. Published §5.7 establishes implementation and qualitative result; no exact unseen coefficients, FE changes, or extra table panels inferred. Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. Wording “my analyses” could include further treatments/outcomes, but not sufficient to fabricate an unseen grid. Source: §5.7.3 p639/PDF20; referenced TableIA2."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -66806,7 +66815,11 @@
     "H6293": "1",
     "I6293": "1",
     "J6293": "none",
-    "K6293": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. Binary outcome contains zeros in the source full sample; exact restricted-sample zero frequencies not supplied."
+    "K6293": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. Binary outcome contains zeros in the source full sample; exact restricted-sample zero frequencies not supplied.",
+    "A6294": "HHJUFPI4",
+    "B6294": "h11",
+    "C6294": "hy1",
+    "K6294": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. No transformation; outcome labels not required for continuous treatment."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
