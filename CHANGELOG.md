@@ -378660,3 +378660,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:32:16.314086+00:00 — Review IWL75F9N h5: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6375",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6375",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6375",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6375",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6375",
+    "before": null,
+    "after": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2509",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2509",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2509",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2509",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2509",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2509",
+    "before": null,
+    "after": "Table3: enforcement of insider-trading laws (0/1) effect on CEO turnover, conditional on performance and law controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2509",
+    "before": null,
+    "after": "p1603 expressly interprets enforcement of insider-trading laws as increasing CEO turnover. Retain the binary enforcement-level estimand, not a separate continuous interaction claim just because its interaction is printed. Conditional probit index shift at performance zero; general probability contrast depends on performance and covariates. Country/industry/year controls do not override nonlinear Other. High-ASDI cells are dashes, not zero estimates. Supporting result; no benchmark. Source: Table3 p1603/PDF16 and §3.2; lines914–915,977–980,991–995."
+  }
+]
+```

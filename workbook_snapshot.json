@@ -24174,7 +24174,16 @@
     "L2508": "0",
     "M2508": "n/a",
     "N2508": "Table3: annual change in the normalized financial-reform index and CEO turnover; separately interpreted lower-order reform coefficient, with performance interaction included as conditioning, across full/legal-origin/ASDI samples.",
-    "O2508": "p1603 expressly says financial reforms increase CEO turnover; sufficient author-intention gate despite endogeneity and the control-variable label. The reported positive coefficients concern the lower-order reform term, not an independently interpreted causal effect of its insignificant performance interaction. In this probit with interactions, the lower-order coefficient is an index derivative at performance zero; the probability effect varies with performance/covariates. Continuous annual index change; Other; supporting; no benchmark. Source: p1602–1604/PDF15–17, Table3; lines916–918,965–968,991–995."
+    "O2508": "p1603 expressly says financial reforms increase CEO turnover; sufficient author-intention gate despite endogeneity and the control-variable label. The reported positive coefficients concern the lower-order reform term, not an independently interpreted causal effect of its insignificant performance interaction. In this probit with interactions, the lower-order coefficient is an index derivative at performance zero; the probability effect varies with performance/covariates. Continuous annual index change; Other; supporting; no benchmark. Source: p1602–1604/PDF15–17, Table3; lines916–918,965–968,991–995.",
+    "A2509": "IWL75F9N",
+    "B2509": "h5",
+    "I2509": "1",
+    "J2509": "Other",
+    "K2509": "1",
+    "L2509": "0",
+    "M2509": "n/a",
+    "N2509": "Table3: enforcement of insider-trading laws (0/1) effect on CEO turnover, conditional on performance and law controls.",
+    "O2509": "p1603 expressly interprets enforcement of insider-trading laws as increasing CEO turnover. Retain the binary enforcement-level estimand, not a separate continuous interaction claim just because its interaction is printed. Conditional probit index shift at performance zero; general probability contrast depends on performance and covariates. Country/industry/year controls do not override nonlinear Other. High-ASDI cells are dashes, not zero estimates. Supporting result; no benchmark. Source: Table3 p1603/PDF16 and §3.2; lines914–915,977–980,991–995."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68219,7 +68228,14 @@
     "A6374": "IWL75F9N",
     "B6374": "h4",
     "C6374": "hy1",
-    "K6374": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
+    "K6374": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise.",
+    "A6375": "IWL75F9N",
+    "B6375": "h5",
+    "C6375": "hy1",
+    "H6375": "1",
+    "I6375": "1",
+    "J6375": "none",
+    "K6375": "CEO replacement indicator, one if top manager changes in firm-year, zero otherwise."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
