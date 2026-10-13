@@ -349410,3 +349410,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:15:36.061105+00:00 — Review GEIR97JN s1: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K232",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R232",
+    "before": null,
+    "after": "The 28-percentage-point EM/DM difference is in the treatment (LC debt share), not in the outcome (bond-stock beta). Scaling −0.29 by a treatment increment is not an outcome benchmark; reject independently of the noncausal parent gate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1043",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1043",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1043",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1043",
+    "before": null,
+    "after": "spurious causal outcome: parent setting is excluded; original definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I400",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O400",
+    "before": null,
+    "after": "Spurious causal setting: the authors explicitly state that they do not interpret the debt-share/hedging relationship as causal. Both are endogenous outcomes of credibility. Main TableII controls are not separate author-interpreted causal treatments; no identifying FE or IV. Source: Main §I.D, Figure1A/TableII, PDF12–15 / pp3108–3111; explicit noncausal disclaimer PDF15.."
+  }
+]
+```
