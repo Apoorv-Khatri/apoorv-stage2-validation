@@ -349293,3 +349293,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T02:59:28.408051+00:00 — Review G24W3YTK h3: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6173",
+    "before": null,
+    "after": "G24W3YTK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6174",
+    "before": null,
+    "after": "G24W3YTK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6173",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6174",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6173",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6174",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6173",
+    "before": null,
+    "after": "Recomputed One-year ex ante dividend risk premium z(t,1:12), annualized log ratio of physical to risk-neutral expected dividend amounts; reported in percent. Only qualitative cyclical pattern reported under each alternative rate source."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6174",
+    "before": null,
+    "after": "Recomputed Slope of the ex ante dividend premium term structure: z(t,25:36) minus z(t,1:12), difference of annualized log-ratio premiums; reported in percent. Only qualitative cyclical pattern reported under each alternative rate source."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E44",
+    "before": null,
+    "after": "DONE — Complete30-page publication including in-paper appendix reviewed and independently cross-checked. Retain s2/h1/h2 author-interpreted industrial-production and alternative-proxy OLS responses, plus h3 minimum qualitative rate-input measurement counterfactual (Other), not an economic rate shock. These gates are contested and competing descriptive/sensitivity interpretations documented. Reject prediction-only s1/s4/s5 and descriptive conditional-state means s3; withdraw unwritten classifier families and state-component additions. All13 original comparisons rejected:9 R-squared diagnostics and4 descriptive-state means; no eligible magnitude benchmarks retained. No invented state differences, grids, thresholds or ratios. Printed source/sample/notation conflicts preserved. No external supplement identified; absence not certified. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2424",
+    "before": null,
+    "after": "G24W3YTK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2424",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2424",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2424",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2424",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2424",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2424",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2424",
+    "before": null,
+    "after": "Implemented measurement-input counterfactual: recompute the ex ante dividend premium term structure using OIS and LIBOR rather than options-implied risk-free rates. Finite multi-valued rate-source choice, not continuous interest-rate shock. Nonlinear put-call-parity/interpolation/log-ratio recomputation, eqs11–16; §4.3 reports level remains countercyclical and slope procyclical under both alternatives."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2424",
+    "before": null,
+    "after": "Minimum single implemented family, not invented unseen regression grids. Authors explicitly attribute potential premium distortions to the chosen rate and report rerunning with both alternatives. This is an effect on the constructed measure, not an economic causal effect of market interest rates. No numerical change, exact rate-tenor implementation, coefficients or table supplied; underlying aggregation details not independently verified. Treat three-source comparison as nonbinary; no proof of separate pairwise estimated contrasts. Source: §1.2 PDF10 / p1298; §4.3 PDF24–25 / pp1312–1313; introduction footnote3 PDF2."
+  }
+]
+```

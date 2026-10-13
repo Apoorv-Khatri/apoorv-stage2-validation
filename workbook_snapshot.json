@@ -197,6 +197,7 @@
     "B44": "A Model-Free Term Structure of U.S. Dividend Premiums",
     "C44": "fin",
     "D44": 5,
+    "E44": "DONE — Complete30-page publication including in-paper appendix reviewed and independently cross-checked. Retain s2/h1/h2 author-interpreted industrial-production and alternative-proxy OLS responses, plus h3 minimum qualitative rate-input measurement counterfactual (Other), not an economic rate shock. These gates are contested and competing descriptive/sensitivity interpretations documented. Reject prediction-only s1/s4/s5 and descriptive conditional-state means s3; withdraw unwritten classifier families and state-component additions. All13 original comparisons rejected:9 R-squared diagnostics and4 descriptive-state means; no eligible magnitude benchmarks retained. No invented state differences, grids, thresholds or ratios. Printed source/sample/notation conflicts preserved. No external supplement identified; absence not certified. Original model fields preserved.",
     "A45": "GEIR97JN",
     "B45": "Sovereign Debt Portfolios, Bond Risks, and the Credibility of Monetary Policy",
     "C45": "fin",
@@ -23059,7 +23060,16 @@
     "L2423": "0",
     "M2423": "n/a",
     "N2423": "Business-cycle proxy survey-implied one-year expected dividend growth gP(t,1:12): separate univariate OLS regressions of one-year premium and three-year-minus-one-year premium slope; Table5 col(3) in each outcome block, monthly 2004–2021, NW12. Reported coefficients −0.28 (SE0.27) for level and 0.19 (SE0.17) for slope.",
-    "O2423": "Distinct treatment from industrial-production growth; supports robustness of author-interpreted countercyclical level/procyclical slope. No identifying FE or IV; not a claim that changing forecasts causally changes realized dividends. Exact proxy-coefficient causal attribution is weaker than the headline ip result and flagged in audit. Source: §3.3 Table5 PDF18–19 / pp1306–1307."
+    "O2423": "Distinct treatment from industrial-production growth; supports robustness of author-interpreted countercyclical level/procyclical slope. No identifying FE or IV; not a claim that changing forecasts causally changes realized dividends. Exact proxy-coefficient causal attribution is weaker than the headline ip result and flagged in audit. Source: §3.3 Table5 PDF18–19 / pp1306–1307.",
+    "A2424": "G24W3YTK",
+    "B2424": "h3",
+    "I2424": "1",
+    "J2424": "Other",
+    "K2424": "0",
+    "L2424": "0",
+    "M2424": "n/a",
+    "N2424": "Implemented measurement-input counterfactual: recompute the ex ante dividend premium term structure using OIS and LIBOR rather than options-implied risk-free rates. Finite multi-valued rate-source choice, not continuous interest-rate shock. Nonlinear put-call-parity/interpolation/log-ratio recomputation, eqs11–16; §4.3 reports level remains countercyclical and slope procyclical under both alternatives.",
+    "O2424": "Minimum single implemented family, not invented unseen regression grids. Authors explicitly attribute potential premium distortions to the chosen rate and report rerunning with both alternatives. This is an effect on the constructed measure, not an economic causal effect of market interest rates. No numerical change, exact rate-tenor implementation, coefficients or table supplied; underlying aggregation details not independently verified. Treat three-source comparison as nonbinary; no proof of separate pairwise estimated contrasts. Source: §1.2 PDF10 / p1298; §4.3 PDF24–25 / pp1312–1313; introduction footnote3 PDF2."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -65293,7 +65303,15 @@
     "A6172": "G24W3YTK",
     "B6172": "h2",
     "C6172": "hy2",
-    "K6172": "Slope of the ex ante dividend premium term structure: z(t,25:36) minus z(t,1:12), difference of annualized log-ratio premiums; reported in percent."
+    "K6172": "Slope of the ex ante dividend premium term structure: z(t,25:36) minus z(t,1:12), difference of annualized log-ratio premiums; reported in percent.",
+    "A6173": "G24W3YTK",
+    "B6173": "h3",
+    "C6173": "hy1",
+    "K6173": "Recomputed One-year ex ante dividend risk premium z(t,1:12), annualized log ratio of physical to risk-neutral expected dividend amounts; reported in percent. Only qualitative cyclical pattern reported under each alternative rate source.",
+    "A6174": "G24W3YTK",
+    "B6174": "h3",
+    "C6174": "hy2",
+    "K6174": "Recomputed Slope of the ex ante dividend premium term structure: z(t,25:36) minus z(t,1:12), difference of annualized log-ratio premiums; reported in percent. Only qualitative cyclical pattern reported under each alternative rate source."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
