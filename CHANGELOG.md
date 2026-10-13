@@ -370299,3 +370299,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:03:58.344346+00:00 — Review I6VAFIIF s5: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1115",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1116",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1117",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1115",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1116",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1117",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1115",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1116",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1117",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1115",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported aggregated outcome; replace unsupported model zero_mass=0 with unknown. Spread formulas use log-price differences but the dependent spread itself is not log-transformed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1116",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported aggregated outcome; replace unsupported model zero_mass=0 with unknown. Spread formulas use log-price differences but the dependent spread itself is not log-transformed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1117",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported aggregated outcome; replace unsupported model zero_mass=0 with unknown. Spread formulas use log-price differences but the dependent spread itself is not log-transformed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I437",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J437",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K437",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L437",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M437",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O437",
+    "before": null,
+    "after": "Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Source: §5.2, Table4 DMM rows cols3–5, pp936,939/PDF15,18."
+  }
+]
+```
