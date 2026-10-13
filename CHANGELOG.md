@@ -370650,3 +370650,144 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:05:17.477574+00:00 — Review I6VAFIIF s8: source-audited coding and linked comparisons
+
+22 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1124",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1125",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1126",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1127",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1124",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1125",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1126",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1127",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1124",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1125",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1126",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1127",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1124",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported aggregated outcome; replace unsupported model zero_mass=0 with unknown. Spread formulas use log-price differences but the dependent spread itself is not log-transformed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1125",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported aggregated outcome; replace unsupported model zero_mass=0 with unknown. Spread formulas use log-price differences but the dependent spread itself is not log-transformed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1126",
+    "before": null,
+    "after": "No evidence establishes absence or presence of a zero atom in this reported aggregated outcome; replace unsupported model zero_mass=0 with unknown. Spread formulas use log-price differences but the dependent spread itself is not log-transformed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1127",
+    "before": null,
+    "after": "Log turnover is the estimated scale; no evidence establishes a probability mass at zero in the reported log outcome. Raw turnover zeros are likewise not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I440",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J440",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K440",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L440",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M440",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O440",
+    "before": null,
+    "after": "Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Central conclusion explicitly emphasizes non-S&P500 DMM liquidity deterioration, so main=1 despite section headed robustness. Table8 caption sample July1–Sept30 contrasts with §7.1 prose June1–Sept28 (84 days). Exact intended sample is unresolved; do not repair dates. Source: §7.1, Table8 DMM rows, pp943–945/PDF22–24."
+  }
+]
+```
