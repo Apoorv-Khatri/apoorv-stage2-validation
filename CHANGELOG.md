@@ -348129,3 +348129,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T02:39:59.220129+00:00 — Review FNTCHE9R s4: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K218",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R218",
+    "before": null,
+    "after": "Spurious causal magnitude comparison. Table III FM market lambda=7.55 is a risk-price estimate; §I.E.2 compares its FM interval (3.44,11.66) and GRS-FAR interval (4.7,8.0) to market-mean interval (1.31,10.23), with mean 5.77. This is agreement of inference under the traded-factor pricing identity, not a focal causal effect relative to its outcome mean. Words compare intervals and no benchmark division is performed; neither verbal language nor matching return units establishes eligibility. Alignment is inapplicable after rejection, not coded unaligned."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1019",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1020",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1021",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1019",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1020",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1021",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1019",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1020",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1021",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1019",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s4 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1020",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s4 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1021",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s4 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I390",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O390",
+    "before": null,
+    "after": "Removing the zero-beta intercept changes maintained pricing restrictions and identification of lambda; it is not a binary policy or portfolio-rule treatment. FM estimates and GRS-FAR sets concern a risk-price parameter, not an author-interpreted causal response. The market factor equality of premium and mean is a traded-factor pricing restriction. No causal setting survives to support c1. Source: Main §I.E.2 PDF25 printed531; Table III PDF19 printed525; IA §I.F PDF8–9."
+  }
+]
+```
