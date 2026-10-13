@@ -361572,3 +361572,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T04:27:20.082535+00:00 — Review H6AHELRK s2: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1078",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1079",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1078",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1079",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1078",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1079",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1078",
+    "before": null,
+    "after": "spurious under rejected causal parent. Replication percentage is a group rate, not a binary dependent variable. Original predictive result is preserved, not disputed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1079",
+    "before": null,
+    "after": "spurious under rejected causal parent. FM slopes use standardized regressors, not outcome-SD units. Original predictive result is preserved, not disputed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I417",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O417",
+    "before": null,
+    "after": "Spurious as a causal characteristic-on-return setting: the estimands test predictive power/replication of expected-return associations, not the directional effect of changing the characteristic. This is an author-intention judgment, not exclusion for finance, OLS, or imperfect identification. Procedural sensitivity of a replication statistic alone does not create a separate causal effect. See coverage audit for the distinct substantive capacity-rule exception. Source: Main §3.1.2, Figure 3, PDF17–18."
+  }
+]
+```
