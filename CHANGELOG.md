@@ -371340,3 +371340,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:07:09.040113+00:00 — Review I6VAFIIF h3: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6306",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6306",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6306",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6306",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6306",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6306",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6306",
+    "before": null,
+    "after": "Daily affected-minus-unaffected mean VWAP slippage difference, summarized by period means, bps. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2483",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2483",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2483",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2483",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2483",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2483",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2483",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2483",
+    "before": null,
+    "after": "Fig3 mean series: unadjusted affected-minus-unaffected daily mean VWAP slippage, averaged over July, Aug1–8, Aug9–31, September; author interprets post-glitch widening then reversal as higher institutional costs."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2483",
+    "before": null,
+    "after": "Unadjusted group-mean-before/after contrast: daily affected-minus-unaffected mean VWAP slippage, summarized by period means in July, Aug1–8, Aug9–31 and September. Conventional DiD-equivalent graphical evidence, with no fitted stock/day FE or covariate regression claimed for Fig3 itself. The source interprets the widening and reversal causally and says Table4 confirms this visual evidence. No exact plotted coefficient or formal modern DiD estimator is invented. Pre-period levels are part of the dynamic comparison, not a separate diagnostic setting. Source: §5.1, Fig3, p935/PDF14."
+  }
+]
+```

@@ -23805,7 +23805,16 @@
     "L2482": "0",
     "M2482": "n/a",
     "N2482": "Fig1(b): glitch effect on intraday relative share volume for bought and sold subgroups. Fifteen-minute rolling averages of summed share volumes normalized by preceding-month averages and divided by similarly normalized nonglitch-stock volume.",
-    "O2482": "Nonlinear aggregate ratio response, not a fitted OLS coefficient or outcome-independent weighting estimator. Author interprets excess volume as supply-shock response; subgroup selection uses event returns. Printed prose says sold about ten times and bought seven times, but rendered plots label bought left (peak near ten) and sold right (peak near seven); preserve conflict. End-day bought volume described 8% above normal; no precise plotted value invented. Source: Fig1(b) caption p924/PDF3; §2.2 p927/PDF6."
+    "O2482": "Nonlinear aggregate ratio response, not a fitted OLS coefficient or outcome-independent weighting estimator. Author interprets excess volume as supply-shock response; subgroup selection uses event returns. Printed prose says sold about ten times and bought seven times, but rendered plots label bought left (peak near ten) and sold right (peak near seven); preserve conflict. End-day bought volume described 8% above normal; no precise plotted value invented. Source: Fig1(b) caption p924/PDF3; §2.2 p927/PDF6.",
+    "A2483": "I6VAFIIF",
+    "B2483": "h3",
+    "I2483": "1",
+    "J2483": "DiD_conventional",
+    "K2483": "1",
+    "L2483": "1",
+    "M2483": "n/a",
+    "N2483": "Fig3 mean series: unadjusted affected-minus-unaffected daily mean VWAP slippage, averaged over July, Aug1–8, Aug9–31, September; author interprets post-glitch widening then reversal as higher institutional costs.",
+    "O2483": "Unadjusted group-mean-before/after contrast: daily affected-minus-unaffected mean VWAP slippage, summarized by period means in July, Aug1–8, Aug9–31 and September. Conventional DiD-equivalent graphical evidence, with no fitted stock/day FE or covariate regression claimed for Fig3 itself. The source interprets the widening and reversal causally and says Table4 confirms this visual evidence. No exact plotted coefficient or formal modern DiD estimator is invented. Pre-period levels are part of the dynamic comparison, not a separate diagnostic setting. Source: §5.1, Fig3, p935/PDF14."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -67128,7 +67137,14 @@
     "H6305": "0",
     "I6305": "unknown",
     "J6305": "other",
-    "K6305": "Relative normalized share volume: ratio of subgroup summed minute share volume normalized by its past-month mean to nonglitch-stock normalized share volume, smoothed over 15 minutes. Zero mass not established."
+    "K6305": "Relative normalized share volume: ratio of subgroup summed minute share volume normalized by its past-month mean to nonglitch-stock normalized share volume, smoothed over 15 minutes. Zero mass not established.",
+    "A6306": "I6VAFIIF",
+    "B6306": "h3",
+    "C6306": "hy1",
+    "H6306": "0",
+    "I6306": "unknown",
+    "J6306": "none",
+    "K6306": "Daily affected-minus-unaffected mean VWAP slippage difference, summarized by period means, bps. Zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
