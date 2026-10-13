@@ -347946,3 +347946,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T02:39:11.449345+00:00 — Review FNTCHE9R s1: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1014",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1014",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1014",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1014",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s1 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I387",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O387",
+    "before": null,
+    "after": "Rank/identification diagnostic only: B is a centered covariance-defined beta vector, and testing B=0 assesses whether the premium is identifiable. Neither the rank p-value nor pseudo-R2 is an economic outcome under a treatment intervention. First-pass betas are explicitly covariance/regression exposures, not author-interpreted directional consumption shocks. Source: Main §I.C, Table I PDF15–17 (printed521–523); eqs3,19 PDF6,13."
+  }
+]
+```
