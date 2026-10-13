@@ -349602,3 +349602,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:16:41.057882+00:00 — Review GEIR97JN s5: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1047",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1047",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1047",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1047",
+    "before": null,
+    "after": "spurious causal outcome: parent setting is excluded; original definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I404",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O404",
+    "before": null,
+    "after": "Spurious causal setting: factor beta measures global return exposure/comovement, not a directional causal response of bond returns to changing US stock returns. Source: Main §I.G eq9, PDF20–22 / pp3116–3118; author appendix A.5 PDF18–19.."
+  }
+]
+```
