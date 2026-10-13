@@ -23967,7 +23967,16 @@
     "L2500": "0",
     "M2500": "n/a",
     "N2500": "Abel Noser institutional parent-order sample: glitch event exposure in Eq7, July24–Aug8; NYSE stocks, orders≥$100,000, about95,000 executions; controls include fraction of daily volume,log market cap,daily turnover,broker dummies. IS increases about3 bps day0 and5 bps next five business days, both significant at1%.",
-    "O2500": "Published implemented external-data replication; only IS is established, do not invent VWAP outcomes or exact grid. Eq7 explicitly cited, so conventional DiD can be coded despite no displayed table. Broker dummies do not change DiD classification to HDFE; no instrument. Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Source: §7.6 p947/PDF26."
+    "O2500": "Published implemented external-data replication; only IS is established, do not invent VWAP outcomes or exact grid. Eq7 explicitly cited, so conventional DiD can be coded despite no displayed table. Broker dummies do not change DiD classification to HDFE; no instrument. Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Source: §7.6 p947/PDF26.",
+    "A2501": "I6VAFIIF",
+    "B2501": "h21",
+    "I2501": "1",
+    "J2501": "DiD_conventional",
+    "K2501": "1",
+    "L2501": "0",
+    "M2501": "n/a",
+    "N2501": "Abel Noser institutional parent-order sample: DMM event exposure in Eq7, July24–Aug8; NYSE stocks, orders≥$100,000, about95,000 executions; controls include fraction of daily volume,log market cap,daily turnover,broker dummies. No significant post-glitch execution-cost change for DMM stocks.",
+    "O2501": "Published implemented external-data replication; only IS is established, do not invent VWAP outcomes or exact grid. Eq7 explicitly cited, so conventional DiD can be coded despite no displayed table. Broker dummies do not change DiD classification to HDFE; no instrument. Stock and calendar-day FE are two effective sets. For event-exposure parameters, conventional DiD takes precedence over identifying FE: Eq7 explicitly states equivalence. No IV, random assignment, cutoff RD, or heterogeneity-robust modern DiD is implemented. Stock exposure, not just calendar post, is binary. Retain null and post-event dynamics; no separate rows for each routine time window. Source: §7.6 p947/PDF26."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -67689,7 +67698,14 @@
     "H6362": "0",
     "I6362": "unknown",
     "J6362": "none",
-    "K6362": "Implementation shortfall (IS), bps, in Abel Noser replication described in §7.6. Main text establishes the IS outcome but not the exact Abel Noser arrival-price/timestamp construction; do not assume the Bank data starting-midquote implementation is directly available in this external source. Nonbinary cost outcome on native scale; zero mass unknown."
+    "K6362": "Implementation shortfall (IS), bps, in Abel Noser replication described in §7.6. Main text establishes the IS outcome but not the exact Abel Noser arrival-price/timestamp construction; do not assume the Bank data starting-midquote implementation is directly available in this external source. Nonbinary cost outcome on native scale; zero mass unknown.",
+    "A6363": "I6VAFIIF",
+    "B6363": "h21",
+    "C6363": "hy1",
+    "H6363": "0",
+    "I6363": "unknown",
+    "J6363": "none",
+    "K6363": "Implementation shortfall (IS), bps, in Abel Noser replication described in §7.6. Main text establishes the IS outcome but not the exact Abel Noser arrival-price/timestamp construction; do not assume the Bank data starting-midquote implementation is directly available in this external source. Nonbinary cost outcome on native scale; zero mass unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
