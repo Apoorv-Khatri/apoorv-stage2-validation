@@ -23569,7 +23569,16 @@
     "L2462": "0",
     "M2462": "n/a",
     "N2462": "Change customer-momentum quintile breakpoints from NYSE to all-exchange while retaining value-weighting (NYSE-VW versus All-VW). Authors explicitly state using the alternative breakpoints minimally affects the1-month return. This is an implemented null rule contrast, not the unimplemented$5 price-screen counterfactual or a causal customer-momentum characteristic effect. Separate from h2 because only breakpoints, not the weighting bundle, change.",
-    "O2462": "Broad author-intention inclusion, moderate confidence. The treatment is an implemented construction/measurement rule, not a stock characteristic causing market returns. Observed return paths are reused; weights and membership may change. Gross historical strategy outcomes ignore endogenous prices, market impact, transaction costs and trading constraints. OLS denotes linear return contrasts or linear slope returns without a higher-priority identifying design; no new regression of returns on a rule dummy is claimed, and portfolio weights define the strategy rather than propensity-score adjustment. Competing reading: replication diagnostics only. Do not infer a nonzero rule effect from one significant and one insignificant premium; no standard error of their difference is reported. Source: Main §3.2.1 PDF45 / p2063; Table3A Cm rows; AppendixA.1.16."
+    "O2462": "Broad author-intention inclusion, moderate confidence. The treatment is an implemented construction/measurement rule, not a stock characteristic causing market returns. Observed return paths are reused; weights and membership may change. Gross historical strategy outcomes ignore endogenous prices, market impact, transaction costs and trading constraints. OLS denotes linear return contrasts or linear slope returns without a higher-priority identifying design; no new regression of returns on a rule dummy is claimed, and portfolio weights define the strategy rather than propensity-score adjustment. Competing reading: replication diagnostics only. Do not infer a nonzero rule effect from one significant and one insignificant premium; no standard error of their difference is reported. Source: Main §3.2.1 PDF45 / p2063; Table3A Cm rows; AppendixA.1.16.",
+    "A2463": "HHJUFPI4",
+    "B2463": "h1",
+    "I2463": "1",
+    "J2463": "DiD_conventional",
+    "K2463": "0",
+    "L2463": "0",
+    "M2463": "n/a",
+    "N2463": "Own-firm size ln(Sales)×PostCD&A conditional on industry size ln(SIC Sales)×PostCD&A, Eq6/Table4 cols3–4. Cournot0.032, Bertrand−0.028, difference0.060; effect on Revenue-Based Pay.",
+    "O2463": "Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. Inclusion is parameter-specific: prose explicitly distinguishes effects of size versus market share and interprets the industry-size coefficient strategically. Do not count all other control coefficients as causal. Source: §5.4.1 Eq6/Table4 cols3–4, pp632–633/PDF13–14."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -66667,7 +66676,11 @@
     "H6283": "0",
     "I6283": "unknown",
     "J6283": "none",
-    "K6283": "Cm1 high-minus-low customer-momentum quintile average monthly return, percent/month. NYSE-VW0.78 (t3.85) and All-VW0.78 (t3.92), Table3A. Main prose says minimally affected, not exactly zero. The historical1.58 under a$5 screen is not an implemented screen counterfactual. Quintiles reflect tied signal values. No point mass at zero established."
+    "K6283": "Cm1 high-minus-low customer-momentum quintile average monthly return, percent/month. NYSE-VW0.78 (t3.85) and All-VW0.78 (t3.92), Table3A. Main prose says minimally affected, not exactly zero. The historical1.58 under a$5 screen is not an implemented screen counterfactual. Quintiles reflect tied signal values. No point mass at zero established.",
+    "A6284": "HHJUFPI4",
+    "B6284": "h1",
+    "C6284": "hy1",
+    "K6284": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. No transformation; outcome labels not required for continuous treatment."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
