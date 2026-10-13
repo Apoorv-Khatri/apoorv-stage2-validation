@@ -23447,7 +23447,16 @@
     "L2454": "1",
     "M2454": "n/a",
     "N2454": "NYSE-VW versus All-EW construction of Sr and Cp return spreads, plus the Ltg null counterexample under the same two rules. Authors say overweighting microcaps explains Sr/Cp magnitudes; Ltg fails regardless of weighting/frequency/breakpoints. Retain the two-rule subset actually discussed, not every value/growth signal or a fabricated factorial grid. Extended/original Ltg samples remain routine variants; historical IBES revisions are a proposed explanation, not an implemented data-revision treatment.",
-    "O2454": "Broad author-intention inclusion, moderate confidence. The treatment is an implemented construction/measurement rule, not a stock characteristic causing market returns. Observed return paths are reused; weights and membership may change. Gross historical strategy outcomes ignore endogenous prices, market impact, transaction costs and trading constraints. OLS denotes linear return contrasts or linear slope returns without a higher-priority identifying design; no new regression of returns on a rule dummy is claimed, and portfolio weights define the strategy rather than propensity-score adjustment. Competing reading: replication diagnostics only. Do not infer a nonzero rule effect from one significant and one insignificant premium; no standard error of their difference is reported. Source: Main §3.2.2 PDF45–46 / pp2063–2064; Table3B; AppendixA.2."
+    "O2454": "Broad author-intention inclusion, moderate confidence. The treatment is an implemented construction/measurement rule, not a stock characteristic causing market returns. Observed return paths are reused; weights and membership may change. Gross historical strategy outcomes ignore endogenous prices, market impact, transaction costs and trading constraints. OLS denotes linear return contrasts or linear slope returns without a higher-priority identifying design; no new regression of returns on a rule dummy is claimed, and portfolio weights define the strategy rather than propensity-score adjustment. Competing reading: replication diagnostics only. Do not infer a nonzero rule effect from one significant and one insignificant premium; no standard error of their difference is reported. Source: Main §3.2.2 PDF45–46 / pp2063–2064; Table3B; AppendixA.2.",
+    "A2455": "H6AHELRK",
+    "B2455": "h4",
+    "I2455": "1",
+    "J2455": "OLS",
+    "K2455": "0",
+    "L2455": "1",
+    "M2455": "n/a",
+    "N2455": "Compare three implemented I/A portfolio regimes NYSE-VW, All-VW and All-EW. Authors state that overweighting microcaps via equal-weighting greatly exaggerates the investment premium. The treatment is the construction regime, not investment-to-assets causing stock returns. Three reported regime levels are retained, so nonbinary. Ta/Oa historical size-adjusted versus raw-premium comparisons are not added as a clean weighting intervention.",
+    "O2455": "Broad author-intention inclusion, moderate confidence. The treatment is an implemented construction/measurement rule, not a stock characteristic causing market returns. Observed return paths are reused; weights and membership may change. Gross historical strategy outcomes ignore endogenous prices, market impact, transaction costs and trading constraints. OLS denotes linear return contrasts or linear slope returns without a higher-priority identifying design; no new regression of returns on a rule dummy is claimed, and portfolio weights define the strategy rather than propensity-score adjustment. Competing reading: replication diagnostics only. Do not infer a nonzero rule effect from one significant and one insignificant premium; no standard error of their difference is reported. Source: Main §3.2.3 PDF46 / p2064; Table3C; AppendixA.3.2."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -66410,7 +66419,11 @@
     "H6261": "0",
     "I6261": "unknown",
     "J6261": "none",
-    "K6261": "Ltg high-minus-low decile monthly return under NYSE-VW and All-EW: extended sample0.13 versus−0.38 percent/month, both insignificant; All-EW original1982–1991 sample−0.47. Null robustness is retained, not coded as an exactly zero causal difference. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+    "K6261": "Ltg high-minus-low decile monthly return under NYSE-VW and All-EW: extended sample0.13 versus−0.38 percent/month, both insignificant; All-EW original1982–1991 sample−0.47. Null robustness is retained, not coded as an exactly zero causal difference. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass.",
+    "A6262": "H6AHELRK",
+    "B6262": "h4",
+    "C6262": "hy1",
+    "K6262": "I/A annually sorted high-minus-low decile average monthly return, percent/month: NYSE-VW−0.44, All-VW−0.56, All-EW−1.27. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -114562,7 +114575,29 @@
     "O4379": "0",
     "P4379": "n/a",
     "Q4379": "Cp: All-EW0.97%/month versus NYSE-VW0.43%/month in authors' extended sample. Do not use the historical annual premium or the original-sample estimate as this rule benchmark.",
-    "R4379": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean."
+    "R4379": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean.",
+    "A4380": "H6AHELRK",
+    "B4380": "h4",
+    "C4380": "hc1",
+    "K4380": "1",
+    "L4380": "hy1",
+    "M4380": "other_level",
+    "N4380": "1",
+    "O4380": "0",
+    "P4380": "n/a",
+    "Q4380": "I/A All-EW−1.27%/month versus NYSE-VW−0.44%/month, same extended sample; authors explicitly attribute exaggerated investment premium to equal-weighting/microcaps.",
+    "R4380": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean.",
+    "A4381": "H6AHELRK",
+    "B4381": "h4",
+    "C4381": "hc2",
+    "K4381": "1",
+    "L4381": "hy1",
+    "M4381": "other_level",
+    "N4381": "1",
+    "O4381": "0",
+    "P4381": "n/a",
+    "Q4381": "I/A All-EW−1.27%/month versus All-VW−0.56%/month, same all-exchange breakpoints and extended sample; §3.2.3 presents both and attributes exaggerated premium to equal-weighting. NYSE-VW−0.44 is another regime, not the historical Cooper et al. estimate.",
+    "R4381": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

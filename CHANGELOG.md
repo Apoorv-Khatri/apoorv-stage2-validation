@@ -364143,3 +364143,222 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T04:30:12.620493+00:00 — Review H6AHELRK h4: source-audited coding and linked comparisons
+
+35 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4380",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4381",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4380",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4381",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4380",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4381",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4380",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4380",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4381",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4380",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4381",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4380",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4380",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4381",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4380",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4381",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4380",
+    "before": null,
+    "after": "I/A All-EW−1.27%/month versus NYSE-VW−0.44%/month, same extended sample; authors explicitly attribute exaggerated investment premium to equal-weighting/microcaps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4381",
+    "before": null,
+    "after": "I/A All-EW−1.27%/month versus All-VW−0.56%/month, same all-exchange breakpoints and extended sample; §3.2.3 presents both and attributes exaggerated premium to equal-weighting. NYSE-VW−0.44 is another regime, not the historical Cooper et al. estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4380",
+    "before": null,
+    "after": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4381",
+    "before": null,
+    "after": "Explicit own-sample rule-specific return-level comparison. Not a comparison of a causal characteristic coefficient to a historical estimated premium. No ratio calculated by the authors; benchmark is the same reported strategy-return outcome under the alternative rule, not an untreated-stock mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6262",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6262",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6262",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6262",
+    "before": null,
+    "after": "I/A annually sorted high-minus-low decile average monthly return, percent/month: NYSE-VW−0.44, All-VW−0.56, All-EW−1.27. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2455",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2455",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2455",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2455",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2455",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2455",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2455",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2455",
+    "before": null,
+    "after": "Compare three implemented I/A portfolio regimes NYSE-VW, All-VW and All-EW. Authors state that overweighting microcaps via equal-weighting greatly exaggerates the investment premium. The treatment is the construction regime, not investment-to-assets causing stock returns. Three reported regime levels are retained, so nonbinary. Ta/Oa historical size-adjusted versus raw-premium comparisons are not added as a clean weighting intervention."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2455",
+    "before": null,
+    "after": "Broad author-intention inclusion, moderate confidence. The treatment is an implemented construction/measurement rule, not a stock characteristic causing market returns. Observed return paths are reused; weights and membership may change. Gross historical strategy outcomes ignore endogenous prices, market impact, transaction costs and trading constraints. OLS denotes linear return contrasts or linear slope returns without a higher-priority identifying design; no new regression of returns on a rule dummy is claimed, and portfolio weights define the strategy rather than propensity-score adjustment. Competing reading: replication diagnostics only. Do not infer a nonzero rule effect from one significant and one insignificant premium; no standard error of their difference is reported. Source: Main §3.2.3 PDF46 / p2064; Table3C; AppendixA.3.2."
+  }
+]
+```
