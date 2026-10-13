@@ -23095,7 +23095,16 @@
     "L2425": "1",
     "M2425": "n/a",
     "N2425": "Baseline calibrated EM (no monetary commitment) versus DM (commitment) regime contrast. TableVI reports endogenous average inflation, bond-stock beta, optimal LC debt share and LC bond risk premium. The two regimes also use different calibrated domestic output volatility (2.7% versus 2.2%); do not call this a pure commitment-only effect.",
-    "O2425": "Calibrated nonlinear two-period equilibrium solved by global projection, cubic inflation policy functions and numerical quadrature; not OLS, identifying FE, or treatment IV. Model assumptions include CRRA agents, competitive risk-averse lenders, lump-sum taxes, rational expectations, exogenous correlated endowments and exchange rates, and no default. Structural author-intention inclusion, not evidence of empirical exogenous assignment. TableVI model EM/DM/difference: inflation 2.20/0.00/2.20%; beta 0.16/−0.05/0.21; share 0.39/0.91/−0.52; premium 4.18/2.22/1.96%. Binary labels describe two implemented model regimes, not observed EM membership as an experiment. Source: Main §III/TableV–VI PDF34–37 / pp3130–3133; author appendix B.6 PDF34–37.."
+    "O2425": "Calibrated nonlinear two-period equilibrium solved by global projection, cubic inflation policy functions and numerical quadrature; not OLS, identifying FE, or treatment IV. Model assumptions include CRRA agents, competitive risk-averse lenders, lump-sum taxes, rational expectations, exogenous correlated endowments and exchange rates, and no default. Structural author-intention inclusion, not evidence of empirical exogenous assignment. TableVI model EM/DM/difference: inflation 2.20/0.00/2.20%; beta 0.16/−0.05/0.21; share 0.39/0.91/−0.52; premium 4.18/2.22/1.96%. Binary labels describe two implemented model regimes, not observed EM membership as an experiment. Source: Main §III/TableV–VI PDF34–37 / pp3130–3133; author appendix B.6 PDF34–37..",
+    "A2426": "GEIR97JN",
+    "B2426": "h2",
+    "I2426": "1",
+    "J2426": "Other",
+    "K2426": "0",
+    "L2426": "1",
+    "M2426": "n/a",
+    "N2426": "International lender risk aversion γ* varied continuously, holding other parameters at TableV values; separately solve EM and DM policies. Figure5A/B traces bond-stock beta and optimal LC debt share. Includes γ*=0 and the unlevered-lender point γ*=29.74; domestic γ remains 29.74.",
+    "O2426": "Calibrated nonlinear two-period equilibrium solved by global projection, cubic inflation policy functions and numerical quadrature; not OLS, identifying FE, or treatment IV. Model assumptions include CRRA agents, competitive risk-averse lenders, lump-sum taxes, rational expectations, exogenous correlated endowments and exchange rates, and no default. Structural author-intention inclusion, not evidence of empirical exogenous assignment. The LC debt share for EM equals one at γ*=0; any positive lender risk aversion creates a wedge in risk-sharing incentives. This is distinct from the joint γ*=0,γ=2 alternative calibration; do not transfer its 0.43 EM share here. Graph-only curve values are not digitized or invented. Source: Main §III.B/Figure5 PDF38–39 / pp3134–3135.."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -65386,7 +65395,15 @@
     "H6178": "0",
     "I6178": "unknown",
     "J6178": "other",
-    "K6178": "LC bond risk premium: annualized log expected real LC bond return minus log global risk-free rate, reported in percent; eq39 and appendix B91. Detailed labels refer to reported continuous model moments. A printed zero conditional mean is not proof of a probability mass at zero in the underlying outcome distribution."
+    "K6178": "LC bond risk premium: annualized log expected real LC bond return minus log global risk-free rate, reported in percent; eq39 and appendix B91. Detailed labels refer to reported continuous model moments. A printed zero conditional mean is not proof of a probability mass at zero in the underlying outcome distribution.",
+    "A6179": "GEIR97JN",
+    "B6179": "h2",
+    "C6179": "hy1",
+    "K6179": "LC bond-stock beta: dimensionless model covariance loading, minus inflation-output beta divided by calibrated stock-output loading; not the probability of a binary outcome.",
+    "A6180": "GEIR97JN",
+    "B6180": "h2",
+    "C6180": "hy2",
+    "K6180": "Optimal LC debt share s in [0,1]: fraction of external financing raised in local-currency debt; a continuous share even when an optimum reaches one."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
