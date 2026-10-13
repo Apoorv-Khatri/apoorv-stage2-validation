@@ -349557,3 +349557,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:16:24.498085+00:00 — Review GEIR97JN s4: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1046",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1046",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1046",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1046",
+    "before": null,
+    "after": "spurious causal outcome: parent setting is excluded; original definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I403",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O403",
+    "before": null,
+    "after": "Spurious causal setting: realized-inflation cyclicality measurement and cross-country correlation, not an identified or author-interpreted directional industrial-production treatment effect. This is not excluded merely because it is OLS. Source: Main §I.E.2/E.4, eq5/TableIV, PDF16–18 / pp3112–3114.."
+  }
+]
+```
