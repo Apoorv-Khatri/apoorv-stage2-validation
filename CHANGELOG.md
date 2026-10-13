@@ -376341,3 +376341,312 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:42:37.063489+00:00 — Review IRM23AIR s8: source-audited coding and linked comparisons
+
+50 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1166",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1167",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1168",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1169",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1170",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1171",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1172",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1173",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1174",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1175",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1176",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1177",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1166",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1167",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1168",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1169",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1170",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1171",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1172",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1173",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1174",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1175",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1176",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1177",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1166",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1167",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1168",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1169",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1170",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1171",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1172",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1173",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1174",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1175",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1176",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1177",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1166",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s8 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1167",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s8 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1168",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s8 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1169",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s8 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1170",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s8 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1171",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s8 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1172",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s8 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1173",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s8 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1174",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s8 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1175",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s8 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1176",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s8 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1177",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s8 is a risk-pricing/cyclicality or contemporaneous association exercise, not a retained causal setting. Original outcome definition and model labels preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I449",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O449",
+    "before": null,
+    "after": "Spurious causal setting: alternative NielsenIQ consumption data reproduce pricing associations; residence in a top-dividend county selects a proxy sample, not an implemented treatment effect. The main text defines selection using prior-year dividend income/adjusted gross income; OA Fig3 calls its map denominator aggregate taxable income. Preserve this source discrepancy. OA.2.2 notes that some demographic patterns do not match CEX/SCF. No household ownership effect or identifying geographic FE is estimated. Source: §3.2.2 pp226–227/PDF7–8; §4.5.2, Table7B–C pp239–240/PDF20–21; OA.2.2 pp5–8."
+  }
+]
+```
