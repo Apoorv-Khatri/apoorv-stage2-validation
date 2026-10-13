@@ -377676,3 +377676,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:27:03.679768+00:00 — Review IWL75F9N s13: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K273",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L273",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M273",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N273",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O273",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P273",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q273",
+    "before": null,
+    "after": "§5.2.1 p1611–1612/PDF24–25 and Table6A col1: reported sum of marginal effects T0–T3 .071 (7.1 percentage points), compared verbally with entire-sample annual director turnover 7.2%; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R273",
+    "before": null,
+    "after": "The full pooled observed annual director-turnover mean is not a target untreated counterfactual; additionally a sum of four event-year marginal effects is compared with one annual rate. Preserve author comparison, but alignment fails."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1198",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1198",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1198",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I466",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J466",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K466",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L466",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M466",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O466",
+    "before": null,
+    "after": "Director-firm-year probit on takeover-event indicators T0–T3. Other despite country/industry/year dummy controls. Printed Panel A FE label repeats industry; not evidence of an extra absorbed dimension or director FE. Director characteristics are controls, not director fixed effects. Event-year effects are substantively interpreted, including delayed dismissal; no linear DiD/IV is implemented. Source: Section 5.2.1, Table 6 Panel A cols. (1)–(3), PDF pp. 24–26.."
+  }
+]
+```
