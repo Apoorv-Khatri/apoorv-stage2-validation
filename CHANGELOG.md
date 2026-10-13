@@ -365571,3 +365571,498 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T04:31:10.569081+00:00 — Review H6AHELRK h8: source-audited coding and linked comparisons
+
+81 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4392",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4393",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4394",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4395",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4392",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4393",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4394",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4395",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4392",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4393",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4394",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4395",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4392",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4393",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4394",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4395",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4392",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4393",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4394",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4395",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4392",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4393",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4394",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4395",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4392",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4393",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4394",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4395",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4392",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4393",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4394",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4395",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4392",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4393",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4394",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4395",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4392",
+    "before": null,
+    "after": "Epq1 versus Ep: monthly-updated0.93%/month versus annually sorted0.44%/month, explicit §3.2.2 paired comparison. Source-specific available samples and information screens apply; no computed difference or ratio is reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4393",
+    "before": null,
+    "after": "Cpq1 versus Cp: monthly-updated0.62%/month versus annually sorted0.43%/month, explicit §3.2.2 paired comparison. Source-specific available samples and information screens apply; no computed difference or ratio is reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4394",
+    "before": null,
+    "after": "Emq1 versus Em: monthly-updated-0.71%/month versus annually sorted-0.54%/month, explicit §3.2.2 paired comparison. Source-specific available samples and information screens apply; no computed difference or ratio is reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4395",
+    "before": null,
+    "after": "Spq1 versus Sp: monthly-updated0.59%/month versus annually sorted0.50%/month, explicit §3.2.2 paired comparison. Source-specific available samples and information screens apply; no computed difference or ratio is reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4392",
+    "before": null,
+    "after": "Same stated economic return outcome under alternative construction bundles; not a claim of identical measurement inputs or a clean same-sample frequency effect. Particularly Emq starts1976. other_level alignment is n/a, not a verified population match. Treatment changes numerator frequency and market-equity timing as well as rebalancing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4393",
+    "before": null,
+    "after": "Same stated economic return outcome under alternative construction bundles; not a claim of identical measurement inputs or a clean same-sample frequency effect. Particularly Emq starts1976. other_level alignment is n/a, not a verified population match. Treatment changes numerator frequency and market-equity timing as well as rebalancing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4394",
+    "before": null,
+    "after": "Same stated economic return outcome under alternative construction bundles; not a claim of identical measurement inputs or a clean same-sample frequency effect. Particularly Emq starts1976. other_level alignment is n/a, not a verified population match. Treatment changes numerator frequency and market-equity timing as well as rebalancing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4395",
+    "before": null,
+    "after": "Same stated economic return outcome under alternative construction bundles; not a claim of identical measurement inputs or a clean same-sample frequency effect. Particularly Emq starts1976. other_level alignment is n/a, not a verified population match. Treatment changes numerator frequency and market-equity timing as well as rebalancing."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6275",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6276",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6277",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6278",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6275",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6276",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6277",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6278",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6275",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6276",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6277",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6278",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6275",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6276",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6277",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6278",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6275",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6276",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6277",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6278",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6275",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6276",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6277",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6278",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6275",
+    "before": null,
+    "after": "Epq1 versus Ep NYSE-VW high-minus-low decile average monthly return, percent/month, monthly-updated1-month strategy versus annual construction. Retain longer-holding monthly strategy variants in the same outcome family: Epq6=0.59, Epq12=0.43 percent/month (Table3B). These are not cumulative returns; no unseen annual-counterpart contrast is inferred. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6276",
+    "before": null,
+    "after": "Cpq1 versus Cp NYSE-VW high-minus-low decile average monthly return, percent/month, monthly-updated1-month strategy versus annual construction. Retain longer-holding monthly strategy variants in the same outcome family: Cpq6=0.48, Cpq12=0.40 percent/month (Table3B). These are not cumulative returns; no unseen annual-counterpart contrast is inferred. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6277",
+    "before": null,
+    "after": "Emq1 versus Em NYSE-VW high-minus-low decile average monthly return, percent/month, monthly-updated1-month strategy versus annual construction. Retain longer-holding monthly strategy variants in the same outcome family: Emq6=−0.43, Emq12=−0.43 percent/month (Table3B). These are not cumulative returns; no unseen annual-counterpart contrast is inferred. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6278",
+    "before": null,
+    "after": "Spq1 versus Sp NYSE-VW high-minus-low decile average monthly return, percent/month, monthly-updated1-month strategy versus annual construction. Retain longer-holding monthly strategy variants in the same outcome family: Spq6=0.56, Spq12=0.53 percent/month (Table3B). These are not cumulative returns; no unseen annual-counterpart contrast is inferred. No point mass at zero is established; rounded zero cells or insignificant means are not evidence of zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2459",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2459",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2459",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2459",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2459",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2459",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2459",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2459",
+    "before": null,
+    "after": "Switch the bundled annually sorted/annual-accounting/stale-market-equity construction to monthly sorted/quarterly-accounting/latest-market-equity construction, under NYSE-VW, for earnings-to-price, cash-flow-to-price, enterprise multiple and sales-to-price portfolios. Authors explicitly say monthly sorting with updated inputs strengthens magnitudes. Two implemented bundles, not a pure rebalancing-frequency or isolated denominator experiment. Outcomes include the1-month spreads emphasized in prose and the6/12-month monthly-strategy holding variants in Table3B; no additional annual-versus-monthly benchmark grid is inferred. Quarterly enterprise-multiple sample starts1976, whereas annual Em starts earlier; paper does not report a common-sample isolated switch effect. Attribution is the authors' intended rule effect, not a claim that sample composition has been held fixed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2459",
+    "before": null,
+    "after": "Broad author-intention inclusion, moderate confidence. The treatment is an implemented construction/measurement rule, not a stock characteristic causing market returns. Observed return paths are reused; weights and membership may change. Gross historical strategy outcomes ignore endogenous prices, market impact, transaction costs and trading constraints. OLS denotes linear return contrasts or linear slope returns without a higher-priority identifying design; no new regression of returns on a rule dummy is claimed, and portfolio weights define the strategy rather than propensity-score adjustment. Competing reading: replication diagnostics only. Do not infer a nonzero rule effect from one significant and one insignificant premium; no standard error of their difference is reported. Source: Main §3.2.2 PDF46 / p2064; Table3B; AppendixA.2.9–13,20–23 PDF62–65."
+  }
+]
+```
