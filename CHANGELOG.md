@@ -348084,3 +348084,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T02:39:43.151460+00:00 — Review FNTCHE9R s3: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1018",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1018",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1018",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1018",
+    "before": null,
+    "after": "spurious as a causal-setting outcome: parent s3 is parameter inference or a pricing/identification diagnostic, not an author-interpreted causal effect. Original definition and model labels preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I389",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O389",
+    "before": null,
+    "after": "Inverted zero-alpha/specification tests on candidate lambda values produce confidence sets. A hypothesized premium is not an implemented treatment, and a p-value/confidence set is not its causal outcome. GRS-FAR analogy to Anderson–Rubin does not implement a linear IV treatment effect. Source: Main §I.D–E.1 PDF20–25; Table II PDF17; Fig5 PDF24; IA §I.C–D PDF3–6."
+  }
+]
+```
