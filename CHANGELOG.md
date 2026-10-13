@@ -367131,3 +367131,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T07:23:03.278924+00:00 — Review HHJUFPI4 s7: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1102",
+    "before": null,
+    "after": "Outcome is the untransformed firm-year 0/1 indicator as defined in §4.2.1; model zero_mass=0 is not supported (full-sample Table1 means/medians show both values). Detailed labels left null because focal treatment is continuous; this is not a claim of no zeros in the outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I431",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J431",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K431",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L431",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M431",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O431",
+    "before": null,
+    "after": "Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. Main=1: predicted non-monotonicity is explicitly a central introduction result and Prediction2, not merely a robustness afterthought. Thresholds split samples, not the implemented raw-share dose. Table9A prints −0.290 with one star and t−1.992; preserve printed star rather than recomputing inference. Source: §5.5.2, Table9A–B, pp636–637/PDF17–18."
+  }
+]
+```
