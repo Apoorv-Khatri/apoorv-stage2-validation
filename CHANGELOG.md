@@ -359670,3 +359670,276 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:54:44.375579+00:00 — Review GLSWBYDJ h14: source-audited coding and linked comparisons
+
+44 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6233",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6234",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6235",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6236",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6237",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6233",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6234",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6235",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6236",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6237",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6233",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6234",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6235",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6236",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6237",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6233",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6234",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6235",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6236",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6237",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6233",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6234",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6235",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6236",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6237",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6233",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6234",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6235",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6236",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6237",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6233",
+    "before": null,
+    "after": "Daily share turnover (daily volume/shares outstanding), percentage units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6234",
+    "before": null,
+    "after": "Adjusted daily Google SVI for stock-name abbreviations, Taiwan; weekly-comparable SVI times daily/weekly within-quarter ratio."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6235",
+    "before": null,
+    "after": "Abnormal firm SVI: deviation from own median over prior25th–5th weeks, divided by that median."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6236",
+    "before": null,
+    "after": "Adjusted daily Google SVI for the traditional-Chinese lottery search word, Taiwan."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6237",
+    "before": null,
+    "after": "Abnormal lottery SVI: deviation from own median over prior25th–5th weeks, divided by that median."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2445",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2445",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2445",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2445",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2445",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2445",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2445",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2445",
+    "before": null,
+    "after": "AppendixA5: large jackpot (>500m) versus small jackpot (<64m) attention effects; same five attention outcomes as Table2B in restricted sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2445",
+    "before": null,
+    "after": "OLS survey classification, while retaining all implemented fixed-effect controls. Firm outcomes use firm, calendar-year, month-of-year and weekday dummies (four sets); lottery-search series use the latter three. Main p373 explicitly motivates seasonal/time-trend removal for the abnormal-SVI construction, not for the regression FE battery. The adjacent regression discussion says results survive controls but supplies no additional substantive account of unobserved heterogeneity/endogeneity addressed by that battery. The causal identification argument is the lottery-rollover timing on p373. Read contextually rather than demanding particular wording: the evidence is insufficient to distinguish these FE from the standard industry/calendar controls in Table7. Apply the same OLS boundary to both families; standard FE is not a fallback. A broader contextual interpretation could support HDFE for both families. Moderate-confidence taxonomy adjudication, not denial that FE are present. Turnover−0.012pp, firmSVI−0.082, abnormal firmSVI−0.010, lotterySVI4.672, abnormal lotterySVI0.731. Restriction explicitly separately reported to distinguish salient prizes from generic lottery news. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA5 PDF7; main§4.3 pp379–381 OA5."
+  }
+]
+```
