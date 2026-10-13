@@ -378147,3 +378147,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:29:12.397759+00:00 — Review IWL75F9N h2: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6370",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6371",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6372",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6370",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6371",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6372",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6370",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6371",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6372",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6370",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6371",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6372",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6370",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6371",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6372",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6370",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6371",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6372",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6370",
+    "before": null,
+    "after": "Country-year number of M&As divided by listed firms, averaged across countries by relative year."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6371",
+    "before": null,
+    "after": "Country-level cross-border M&A activity in qualitative pre/post law comparisons: increases in all 12 adopters. Exact normalization of this companion decomposition is not stated; do not assume a regression column or exact intensity denominator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6372",
+    "before": null,
+    "after": "Country-level domestic M&A activity in qualitative pre/post law comparisons: increases in 11 of 12 adopters, Malaysia excepted. Exact normalization of this companion decomposition is not stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2506",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2506",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2506",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2506",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2506",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2506",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2506",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2506",
+    "before": null,
+    "after": "§1.2/Figure1: unadjusted country-level before/after takeover-law contrasts in aggregate merger intensity, with no-law trajectories plotted; reported aggregate rise 2.6 percentage points. Companion country decompositions report increased cross-border activity in all 12 adopters and domestic activity in 11 (Malaysia excepted)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2506",
+    "before": null,
+    "after": "Substantive takeover-threat mechanism, not diagnostic-only first stage. OLS denotes simple linear mean/group contrasts, not an asserted fitted OLS regression or a verified treated-minus-control DiD. Figure1 defines aggregate intensity; companion cross-border/domestic qualitative pre/post results belong to this descriptive causal family rather than an invented appendix regression grid. Their exact activity scales and values are unreported. No separately linked outcome-level benchmark. Source: §1.2 Figure1 p1595/PDF8; lines464–487."
+  }
+]
+```
