@@ -23832,7 +23832,16 @@
     "L2485": "1",
     "M2485": "n/a",
     "N2485": "Fig4 left: intraday response of effective/realized spreads and price impact in glitch-affected stocks, showing spike and fast reversal. Transaction-level measures dollar-weighted within stock/minute, then cross-sectional medians plotted.",
-    "O2485": "Nonlinear cross-sectional median event profile, not linear mean DiD. Caption describes one-minute nonoverlapping intervals. Five-minute decomposition horizon produces volatile temporary movements; preserve interpretation caution. Source: §6.1, Fig4 left, pp939–940/PDF18–19."
+    "O2485": "Nonlinear cross-sectional median event profile, not linear mean DiD. Caption describes one-minute nonoverlapping intervals. Five-minute decomposition horizon produces volatile temporary movements; preserve interpretation caution. Source: §6.1, Fig4 left, pp939–940/PDF18–19.",
+    "A2486": "I6VAFIIF",
+    "B2486": "h6",
+    "I2486": "1",
+    "J2486": "Other",
+    "K2486": "1",
+    "L2486": "1",
+    "M2486": "n/a",
+    "N2486": "Fig4 right: cross-sectional median effective spreads of glitch-affected versus unaffected controls matched on market capitalization and price at beginning of June, over Aug1 intraday event time; difference largely vanishes after 10:10.",
+    "O2486": "Matching uses pre-event covariates, not focal outcomes. However final effect display is a nonlinear median contrast, so Other precedes linear Matching. No propensity-score method claimed for this figure. No exact numerical effect or benchmark ratio reported. Source: §6.1, Fig4 right, pp939–940/PDF18–19."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -67190,7 +67199,14 @@
     "H6310": "0",
     "I6310": "unknown",
     "J6310": "none",
-    "K6310": "Price impact, dollar-weighted 2 signed log midpoint change over five minutes, bps. Zero mass not established. Fig4 reports cross-sectional medians of these within-stock, dollar-weighted one-minute measures; the displayed median functional is nonlinear. Control stocks in the right panel are matched on beginning-of-June market capitalization and price."
+    "K6310": "Price impact, dollar-weighted 2 signed log midpoint change over five minutes, bps. Zero mass not established. Fig4 reports cross-sectional medians of these within-stock, dollar-weighted one-minute measures; the displayed median functional is nonlinear. Control stocks in the right panel are matched on beginning-of-June market capitalization and price.",
+    "A6311": "I6VAFIIF",
+    "B6311": "h6",
+    "C6311": "hy1",
+    "H6311": "0",
+    "I6311": "unknown",
+    "J6311": "none",
+    "K6311": "Effective spread, dollar-weighted 2 absolute log transaction-price/midpoint difference, bps. Zero mass not established. Fig4 reports cross-sectional medians of these within-stock, dollar-weighted one-minute measures; the displayed median functional is nonlinear. Control stocks in the right panel are matched on beginning-of-June market capitalization and price."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

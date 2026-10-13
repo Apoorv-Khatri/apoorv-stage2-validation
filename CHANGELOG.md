@@ -371739,3 +371739,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:08:18.371214+00:00 — Review I6VAFIIF h6: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6311",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6311",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6311",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6311",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6311",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6311",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6311",
+    "before": null,
+    "after": "Effective spread, dollar-weighted 2 absolute log transaction-price/midpoint difference, bps. Zero mass not established. Fig4 reports cross-sectional medians of these within-stock, dollar-weighted one-minute measures; the displayed median functional is nonlinear. Control stocks in the right panel are matched on beginning-of-June market capitalization and price."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2486",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2486",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2486",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2486",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2486",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2486",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2486",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2486",
+    "before": null,
+    "after": "Fig4 right: cross-sectional median effective spreads of glitch-affected versus unaffected controls matched on market capitalization and price at beginning of June, over Aug1 intraday event time; difference largely vanishes after 10:10."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2486",
+    "before": null,
+    "after": "Matching uses pre-event covariates, not focal outcomes. However final effect display is a nonlinear median contrast, so Other precedes linear Matching. No propensity-score method claimed for this figure. No exact numerical effect or benchmark ratio reported. Source: §6.1, Fig4 right, pp939–940/PDF18–19."
+  }
+]
+```
