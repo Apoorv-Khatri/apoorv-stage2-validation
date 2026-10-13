@@ -367401,3 +367401,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T07:24:35.901829+00:00 — Review HHJUFPI4 h3: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6286",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6286",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6286",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6286",
+    "before": null,
+    "after": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. No transformation; outcome labels not required for continuous treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2465",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2465",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2465",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2465",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2465",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2465",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2465",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2465",
+    "before": null,
+    "after": "Own-firm size ln(Sales)×PostCD&A conditional on market share, Eq4/Table4 cols1–2: substantively interpreted null alternative-size effect (Cournot−0.003, Bertrand−0.023). This differs from size conditional on industry size in h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2465",
+    "before": null,
+    "after": "Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. Inclusion is parameter-specific: prose explicitly distinguishes effects of size versus market share and interprets the industry-size coefficient strategically. Do not count all other control coefficients as causal. Source: §5.4.1 Eq4/Table4 cols1–2, pp632–633/PDF13–14."
+  }
+]
+```

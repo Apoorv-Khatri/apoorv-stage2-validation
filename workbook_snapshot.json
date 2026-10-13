@@ -23587,7 +23587,16 @@
     "L2464": "0",
     "M2464": "n/a",
     "N2464": "Industry size ln(SIC Sales)×PostCD&A conditional on own-firm size, Eq6/Table4 cols3–4. Cournot−0.035, Bertrand0.005, difference−0.040. Distinct focal product-market treatment.",
-    "O2464": "Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. Inclusion is parameter-specific: prose explicitly distinguishes effects of size versus market share and interprets the industry-size coefficient strategically. Do not count all other control coefficients as causal. Source: §5.4.1 Eq6/Table4 cols3–4, pp632–633/PDF13–14."
+    "O2464": "Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. Inclusion is parameter-specific: prose explicitly distinguishes effects of size versus market share and interprets the industry-size coefficient strategically. Do not count all other control coefficients as causal. Source: §5.4.1 Eq6/Table4 cols3–4, pp632–633/PDF13–14.",
+    "A2465": "HHJUFPI4",
+    "B2465": "h3",
+    "I2465": "1",
+    "J2465": "DiD_conventional",
+    "K2465": "0",
+    "L2465": "0",
+    "M2465": "n/a",
+    "N2465": "Own-firm size ln(Sales)×PostCD&A conditional on market share, Eq4/Table4 cols1–2: substantively interpreted null alternative-size effect (Cournot−0.003, Bertrand−0.023). This differs from size conditional on industry size in h1.",
+    "O2465": "Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. Inclusion is parameter-specific: prose explicitly distinguishes effects of size versus market share and interprets the industry-size coefficient strategically. Do not count all other control coefficients as causal. Source: §5.4.1 Eq4/Table4 cols1–2, pp632–633/PDF13–14."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -66693,7 +66702,11 @@
     "A6285": "HHJUFPI4",
     "B6285": "h2",
     "C6285": "hy1",
-    "K6285": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. No transformation; outcome labels not required for continuous treatment."
+    "K6285": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. No transformation; outcome labels not required for continuous treatment.",
+    "A6286": "HHJUFPI4",
+    "B6286": "h3",
+    "C6286": "hy1",
+    "K6286": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. No transformation; outcome labels not required for continuous treatment."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
