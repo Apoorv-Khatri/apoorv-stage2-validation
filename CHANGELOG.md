@@ -361641,3 +361641,792 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T04:27:36.053068+00:00 — Review H6AHELRK s3: source-audited coding and linked comparisons
+
+130 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4364",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4365",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4366",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4367",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4368",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4369",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4370",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4371",
+    "before": null,
+    "after": "H6AHELRK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4364",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4365",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4366",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4367",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4368",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4369",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4370",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4371",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4364",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4365",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4366",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4367",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4368",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4369",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4370",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4371",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K239",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K240",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K241",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K242",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4364",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4371",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L239",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L240",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L241",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L242",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4364",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4365",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4366",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4367",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4368",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4369",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4370",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4371",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M239",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M240",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M241",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M242",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4364",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4365",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4366",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4367",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4368",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4369",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4370",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4371",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N239",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N240",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N241",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N242",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4364",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4371",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O239",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O240",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O241",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O242",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4364",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4365",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4366",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4367",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4368",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4369",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4370",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4371",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P239",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P240",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P241",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P242",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4364",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4365",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4366",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4367",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4368",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4369",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4370",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4371",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q239",
+    "before": null,
+    "after": "Main §2.3.2 PDF14 / p2032; Table2 PDF13. Momentum low decile: NYSE-VW capacity 5.95% versus All-EW 0.02% of market capitalization, monthly average over1967–2016."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q240",
+    "before": null,
+    "after": "Main §2.3.2 PDF14 / p2032; Table2C PDF13 / p2031. Momentum low decile: NYSE-VW about $1.2 trillion versus All-EW $1.19 billion at end-December2016. Exact table cells: 1201.65 versus 1.19 billion. The 1.33 cell is NYSE-EW, not All-EW."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q241",
+    "before": null,
+    "after": "Main §2.3.2 PDF14 / p2032; Table2 PDF13. Value/growth high decile: NYSE-VW 5.64% versus All-EW0.02% of market capitalization, monthly average."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q242",
+    "before": null,
+    "after": "Main §2.3.2 PDF14 / p2032; Table2 PDF13. Investment short slope portfolio: FM-WLS9.03% versus FM-OLS0.02% of market capitalization, monthly average."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4364",
+    "before": null,
+    "after": "Momentum low portfolio microcap weight: NYSE-VW8% versus All-EW63.9%. Benchmark is corresponding same-outcome level under the alternative rule, not an outcome mean/SD reference population."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4365",
+    "before": null,
+    "after": "Value/growth high portfolio microcap weight: NYSE-VW7.4% versus All-EW64.2%. Benchmark is corresponding same-outcome level under the alternative rule, not an outcome mean/SD reference population."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4366",
+    "before": null,
+    "after": "Investment short slope portfolio microcap weight: FM-WLS3.6% versus FM-OLS62.1%. Benchmark is corresponding same-outcome level under the alternative rule, not an outcome mean/SD reference population."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4367",
+    "before": null,
+    "after": "Profitability long slope portfolio microcap weight: FM-WLS3.5% versus FM-OLS53.5%. Benchmark is corresponding same-outcome level under the alternative rule, not an outcome mean/SD reference population."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4368",
+    "before": null,
+    "after": "Main §2.3.2 PDF14 / p2032; Table2C PDF13 / p2031. Value/growth high portfolio capacity at end2016: NYSE-VW $900.1 billion versus All-EW $1.19 billion; exact table cells 900.09 versus 1.19 billion. Prose agrees after rounding. Benchmark is same-outcome capacity under All-EW, not aggregate capitalization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4369",
+    "before": null,
+    "after": "Main §2.3.2 PDF14 / p2032; Table2C PDF13 / p2031. Investment short slope portfolio capacity at end2016: prose FM-WLS $1.66 trillion versus FM-OLS $1.05 billion; exact table1659.65 versus1.05 billion. Alternative-rule same-outcome benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4370",
+    "before": null,
+    "after": "Profitability long slope portfolio capacity: FM-WLS7.19% versus FM-OLS0.03% of aggregate capitalization, monthly average. Benchmark is corresponding same-outcome level under the alternative rule, not an outcome mean/SD reference population."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4371",
+    "before": null,
+    "after": "Main §2.3.2 PDF14 / p2032; Table2C PDF13 / p2031. Profitability long slope portfolio capacity at end2016: prose FM-WLS $1.56 trillion versus FM-OLS $3.51 billion; exact table1560.16 versus3.51 billion. Alternative-rule same-outcome benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R239",
+    "before": null,
+    "after": "Correct benchmark is the alternative-rule same-capacity outcome level 0.02%, not aggregate market capitalization. Outcome normalization does not imply effect divided by benchmark. Retain as explicit comparison of rule-specific outcome levels, not an estimated-effect/estimated-effect ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R240",
+    "before": null,
+    "after": "No prose/table benchmark conflict: both report All-EW1.19. Retain alternative-rule capacity as other_level, verbal1, divided0; no computed ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R241",
+    "before": null,
+    "after": "Correct benchmark is alternative-rule capacity0.02%, not market capitalization; no division of focal capacity by comparison capacity. Retain as explicit comparison of rule-specific outcome levels, not an estimated-effect/estimated-effect ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R242",
+    "before": null,
+    "after": "Benchmark is FM-OLS capacity0.02%, not market capitalization. Capacity counterfactual, not slope causal effect. Retain as explicit comparison of rule-specific outcome levels, not an estimated-effect/estimated-effect ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4364",
+    "before": null,
+    "after": "Explicit rule-specific level comparison; no computed ratio attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4365",
+    "before": null,
+    "after": "Explicit rule-specific level comparison; no computed ratio attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4366",
+    "before": null,
+    "after": "Explicit rule-specific level comparison; no computed ratio attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4367",
+    "before": null,
+    "after": "Explicit rule-specific level comparison; no computed ratio attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4368",
+    "before": null,
+    "after": "Correct proposal transcription errors900.03/1.26 and remove false conflict. Verbal level comparison, not calculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4369",
+    "before": null,
+    "after": "Correct proposal1665.66 to table1659.65; prose rounds consistently. No division of the two capacities is reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4370",
+    "before": null,
+    "after": "Explicit rule-specific level comparison; no computed ratio attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4371",
+    "before": null,
+    "after": "Correct proposal1560.11 to table1560.16; prose rounds consistently. No computed ratio."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1080",
+    "before": null,
+    "after": "Portfolio-level microcap allocation percentage, averaged over months then anomalies within category; long/short slope portfolios normalized separately. This is not a binary stock-level microcap indicator. Table2A."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1081",
+    "before": null,
+    "after": "Portfolio investment capacity min_i(Me_i/|w_i|) divided by contemporaneous aggregate market capitalization, in percent; averaged over months then anomalies within category. Table2B. Denominator normalization defines this outcome and is not itself an effect benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1082",
+    "before": null,
+    "after": "Same capacity measure in billions of dollars at end-December2016, averaged across anomalies within category; not the monthly-average capacity share converted at a common market cap. Table2C."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J418",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K418",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M418",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N418",
+    "before": null,
+    "after": "Effect of changing portfolio-construction regime (NYSE-VW, NYSE-EW, All-VW, All-EW, FM-WLS, FM-OLS) on microcap allocation and maximal investable wealth. Recompute weights and min_i(Me_i/|w_i|) on the observed stock universe, normalizing long/short slope portfolios to +1/-1. Table2A–C: category-averaged microcap weight, monthly capacity share of aggregate capitalization, and end-2016 dollar capacity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O418",
+    "before": null,
+    "after": "Retain narrowly as an implemented substantive portfolio-rule counterfactual: authors explicitly attribute constrained investment capacity and overweighting to procedure choice (§2.3.2). Not a causal effect of an anomaly characteristic on returns. Other refers to nonlinear minimum-capacity accounting, not to the FM regressions used to construct weights; no IV, randomization, RD, DiD or identifying FE. Multi-valued regime comparison, binary=0; do not confuse high/low portfolio legs with treatment arms. Assumes observed market equities fixed, availability of all shares and short sales; ignores endogenous prices, market impact and transaction costs. These are theoretical upper capacities, not realized feasible investments. Main because the economic-importance argument justifies preferred procedures. Moderate-confidence gate; diagnostic-only alternative documented in audit. Table caption omits absolute value in capacity denominator whereas prose includes it; preserve both. Apply the same author-attributed rule-effect gate to h2–h10; no held-position prerequisite. Main Table2C capacity prose agrees after rounding; the proposal's alleged numerical prose/table discrepancies were transcription errors, separately corrected. Source: Main §2.3.2, Table 2A–C, PDF12–14 / pp2030–2032."
+  }
+]
+```
