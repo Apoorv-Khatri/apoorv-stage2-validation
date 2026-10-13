@@ -23623,7 +23623,16 @@
     "L2468": "0",
     "M2468": "n/a",
     "N2468": "Alternative continuous product-market influence dose sqrt(Share) interacted with PostCD&A, replicating Table3. Revenue-Based Pay, Cournot/Bertrand samples and their slope difference.",
-    "O2468": "Internet Appendix unavailable after bounded retrieval. Published §5.7 establishes implementation and qualitative result; no exact unseen coefficients, FE changes, or extra table panels inferred. Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. For raw Share the cross-mode difference is not significant in full sample; becomes significant after excluding >90% share outliers (untabulated routine variant). Source: §5.7.2 p639/PDF20; referenced TableIA1."
+    "O2468": "Internet Appendix unavailable after bounded retrieval. Published §5.7 establishes implementation and qualitative result; no exact unseen coefficients, FE changes, or extra table panels inferred. Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. For raw Share the cross-mode difference is not significant in full sample; becomes significant after excluding >90% share outliers (untabulated routine variant). Source: §5.7.2 p639/PDF20; referenced TableIA1.",
+    "A2469": "HHJUFPI4",
+    "B2469": "h7",
+    "I2469": "1",
+    "J2469": "DiD_conventional",
+    "K2469": "0",
+    "L2469": "0",
+    "M2469": "n/a",
+    "N2469": "Alternative continuous product-market influence dose raw Share interacted with PostCD&A, replicating Table3. Revenue-Based Pay, Cournot/Bertrand samples and their slope difference.",
+    "O2469": "Internet Appendix unavailable after bounded retrieval. Published §5.7 establishes implementation and qualitative result; no exact unseen coefficients, FE changes, or extra table panels inferred. Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. For raw Share the cross-mode difference is not significant in full sample; becomes significant after excluding >90% share outliers (untabulated routine variant). Source: §5.7.2 p639/PDF20; referenced TableIA1."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -66745,7 +66754,11 @@
     "A6289": "HHJUFPI4",
     "B6289": "h6",
     "C6289": "hy1",
-    "K6289": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. No transformation; outcome labels not required for continuous treatment."
+    "K6289": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. No transformation; outcome labels not required for continuous treatment.",
+    "A6290": "HHJUFPI4",
+    "B6290": "h7",
+    "C6290": "hy1",
+    "K6290": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. No transformation; outcome labels not required for continuous treatment."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
