@@ -369624,3 +369624,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T07:30:27.276403+00:00 — Review HHJUFPI4 h18: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6303",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6303",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6303",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6303",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6303",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6303",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6303",
+    "before": null,
+    "after": "Firm-level proportional change in the number of executive performance-evaluation metrics around first CD&A compliance; mean about100% and median about50% reported, not raw-count regression coefficients. Nonbinary growth scale (other). Exact formula/timing/weights are not printed; do not claim a ratio of sample mean counts. No-zero-raw-count sample rule does not establish absence of zero growth; zero mass unknown. Median and roughly two-thirds increasing are descriptive summaries, not separately estimated causal outcomes."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E48",
+    "before": null,
+    "after": "DONE — All 24 published pages, including Appendix A, reviewed and independently audited. Retain 26 settings, including distinct Table 4 treatments, implemented robustness families and substantive policy-response dynamics/nulls. Conventional DiD takes precedence over FE/matching; nonlinear logit is Other. Eleven qualifying comparisons retained; original treatment-SD/subgroup conflation rejected. Historical means remain eligible but alignment unknown: same historical groups do not establish untreated post-policy levels. Two proposed metric-growth comparisons withdrawn as growth summaries, not distinct benchmarks; underlying metric-expansion response retained. Apparent/disclosed contract-adjustment caveats and printed Table 2/4/9 anomalies preserved. Internet Appendix unavailable despite bounded retrieval; main-text-established minimum robustness families coded, unseen tables and further omissions unresolved. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2480",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2480",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2480",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2480",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2480",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2480",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2480",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2480",
+    "before": null,
+    "after": "First-CD&A-year expansion of the number of executive performance metrics (§5.5.1), summarized by firm-level proportional count changes: average about100%, median about50%, with roughly two-thirds increasing their metric set. Retain the author-attributed expansion as an unadjusted policy-response setting; mean growth is the linear focal summary, median growth and fraction expanding are accompanying descriptive summaries, not separate causal quantile or binary regressions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2480",
+    "before": null,
+    "after": "Broad gate retained because author explicitly interprets expansion as support for CD&A improving metric binding, although evidence is uncontrolled and supporting. OLS-family classification refers to the unadjusted linear mean-change summary; no hidden regression or DiD is asserted. Growth in metric counts is the reported scale; no separate effect-to-outcome-mean/SD/level benchmark is established by the100%/50% summaries alone. Do not treat the sample median growth as a quantile treatment effect. Source excludes zero raw metric counts, but this does not rule out zero growth. h18/hc1 and hc2 are deleted from the unwritten proposal, not original workbook rows. Source: §5.5.1 p634/PDF15."
+  }
+]
+```
