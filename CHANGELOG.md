@@ -368238,3 +368238,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T07:28:08.123250+00:00 — Review HHJUFPI4 h12: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6295",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6295",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6295",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6295",
+    "before": null,
+    "after": "Revenue-Based Pay: firm-year indicator that CEO compensation includes an absolute Sales/revenue performance objective (§4.2.1), not the intensive weight on revenue. No transformation; outcome labels not required for continuous treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2474",
+    "before": null,
+    "after": "HHJUFPI4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2474",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2474",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2474",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2474",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2474",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2474",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2474",
+    "before": null,
+    "after": "Logit robustness for primary Revenue-Based Pay analysis, continuous ln(Share) interacted with CD&A and competition-type contrasts. Nonlinear estimator, not conventional DiD method code even though underlying design is DiD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2474",
+    "before": null,
+    "after": "Internet Appendix unavailable after bounded retrieval. Published §5.7 establishes implementation and qualitative result; no exact unseen coefficients, FE changes, or extra table panels inferred.  Published text explicitly says logit analyses leave inferences unaffected. Coefficient versus marginal-effect presentation and precise nonlinear FE implementation unknown. Retain Other because logit is known, not because details are missing. No inferred extra binary treatments or margins. Source: §5.7.4 p639/PDF20; referenced TableIA3."
+  }
+]
+```
