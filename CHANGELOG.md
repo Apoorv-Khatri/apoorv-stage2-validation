@@ -358755,3 +358755,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:53:28.539847+00:00 — Review GLSWBYDJ h9: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6217",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6218",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6217",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6218",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6217",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6218",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6217",
+    "before": null,
+    "after": "Large-minus-non-large-jackpot change in portfolio-market Pearson correlation for equal/value-weighted25 portfolios, the dependent variable in the rank regression."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6218",
+    "before": null,
+    "after": "Large-minus-non-large-jackpot change in portfolio market-model adjusted R² for equal/value-weighted25 portfolios."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2440",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2440",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2440",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2440",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2440",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2440",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2440",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2440",
+    "before": null,
+    "after": "AppendixA2A: rank of prior22-day average market capitalization across25 portfolios predicts jackpot-induced changes in correlation and adjusted R² (equal/value-weighted)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2440",
+    "before": null,
+    "after": "Retain as author-interpreted retail-preference heterogeneity, not pure prediction. Implemented OLS rank slopes approximately−0.001. No identifying FE. Portfolio formation weights are not causal matching. Preserve value-weighted correlation−0.001*** with t−2.48 as printed. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA2A PDF3; main fn18 p376 calls it OA2."
+  }
+]
+```

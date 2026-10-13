@@ -23288,7 +23288,16 @@
     "L2439": "0",
     "M2439": "n/a",
     "N2439": "Large versus non-large jackpot effects on pair-wise correlation between distinct firms; AppendixA1.",
-    "O2439": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. All distinct firm pairs; ratios winsorized1/99%. Mean/median changes0.012/0.018; relative changes0.044/0.073. Main§4.4 explicitly interprets this robustness causally. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA1 PDF2; main§4.4 p381 calls it OA1."
+    "O2439": "Other: recompute nonlinear dependence functionals from different subsets of underlying returns, then summarize firm-level differences by means/medians and paired tests. This is not a regression of daily Y on randomized assignment; the market-model OLS only constructs adjusted R². No matching weights selected independently of outcomes and no treated/post parallel-trends design. See contested-method discussion for the alternative linear-final-contrast taxonomy. All distinct firm pairs; ratios winsorized1/99%. Mean/median changes0.012/0.018; relative changes0.044/0.073. Main§4.4 explicitly interprets this robustness causally. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA1 PDF2; main§4.4 p381 calls it OA1.",
+    "A2440": "GLSWBYDJ",
+    "B2440": "h9",
+    "I2440": "1",
+    "J2440": "OLS",
+    "K2440": "0",
+    "L2440": "0",
+    "M2440": "n/a",
+    "N2440": "AppendixA2A: rank of prior22-day average market capitalization across25 portfolios predicts jackpot-induced changes in correlation and adjusted R² (equal/value-weighted).",
+    "O2440": "Retain as author-interpreted retail-preference heterogeneity, not pure prediction. Implemented OLS rank slopes approximately−0.001. No identifying FE. Portfolio formation weights are not causal matching. Preserve value-weighted correlation−0.001*** with t−2.48 as printed. Source: Author Internet Appendix A (title and linked provenance verified; not certified publisher-final), TableA2A PDF3; main fn18 p376 calls it OA2."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -65898,7 +65907,15 @@
     "H6216": "0",
     "I6216": "unknown",
     "J6216": "none",
-    "K6216": "Pair-wise Pearson correlation between returns of distinct firms i≠j, computed separately on large/non-large jackpot days; average/median changes and winsorized relative changes across pairs."
+    "K6216": "Pair-wise Pearson correlation between returns of distinct firms i≠j, computed separately on large/non-large jackpot days; average/median changes and winsorized relative changes across pairs.",
+    "A6217": "GLSWBYDJ",
+    "B6217": "h9",
+    "C6217": "hy1",
+    "K6217": "Large-minus-non-large-jackpot change in portfolio-market Pearson correlation for equal/value-weighted25 portfolios, the dependent variable in the rank regression.",
+    "A6218": "GLSWBYDJ",
+    "B6218": "h9",
+    "C6218": "hy2",
+    "K6218": "Large-minus-non-large-jackpot change in portfolio market-model adjusted R² for equal/value-weighted25 portfolios."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
