@@ -350817,3 +350817,498 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:18:02.107927+00:00 — Review GEIR97JN h4: source-audited coding and linked comparisons
+
+81 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4282",
+    "before": null,
+    "after": "GEIR97JN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4283",
+    "before": null,
+    "after": "GEIR97JN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4284",
+    "before": null,
+    "after": "GEIR97JN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4285",
+    "before": null,
+    "after": "GEIR97JN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4282",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4283",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4284",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4285",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4282",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4283",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4284",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4285",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4282",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4283",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4284",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4285",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4282",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4283",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4284",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4285",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4282",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4283",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4284",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4285",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4282",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4283",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4284",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4285",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4282",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4283",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4284",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4285",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4282",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4283",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4284",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4285",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4282",
+    "before": null,
+    "after": "Author appendix B.7.2/TableBII PDF39. Model EM-minus-DM contrast 2.11 percentage points (printed); explicitly displayed DM-model reference 0.00% in the same outcome row. Reference is the calibrated commitment economy, not the empirical DM data column. No ratio is printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4283",
+    "before": null,
+    "after": "Author appendix B.7.2/TableBII PDF39. Model EM-minus-DM contrast 0.21; explicitly displayed DM-model reference −0.06 in the same outcome row. Reference is the calibrated commitment economy, not the empirical DM data column. No ratio is printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4284",
+    "before": null,
+    "after": "Author appendix B.7.2/TableBII PDF39. Model EM-minus-DM contrast −0.58 share units; explicitly displayed DM-model reference 0.96 in the same outcome row. Reference is the calibrated commitment economy, not the empirical DM data column. No ratio is printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4285",
+    "before": null,
+    "after": "Author appendix B.7.2/TableBII PDF39. Model EM-minus-DM contrast 2.24 percentage points; explicitly displayed DM-model reference 2.03% in the same outcome row. Reference is the calibrated commitment economy, not the empirical DM data column. No ratio is printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4282",
+    "before": null,
+    "after": "Contested deliberate table pairing: includes a printed regime contrast alongside its model reference outcome. If calibration-fit tables are judged not to deliberately benchmark an effect, reject this row rather than substitute empirical data moments. DM unconditional inflation mean, but EM and DM also have different output distributions (and in robustness tables other parameters); the paper does not define a common-population untreated mean/weighting, so alignment unknown. Zero denominator is allowed for undivided pairing and is never used to form a ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4283",
+    "before": null,
+    "after": "Contested deliberate table pairing: includes a printed regime contrast alongside its model reference outcome. If calibration-fit tables are judged not to deliberately benchmark an effect, reject this row rather than substitute empirical data moments. Reference is a deterministic model policy/pricing/covariance outcome level, not a mean or SD of this derived outcome; hence other_level, not an empirical population mean. No ratio of estimated effects or data-versus-model fit is counted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4284",
+    "before": null,
+    "after": "Contested deliberate table pairing: includes a printed regime contrast alongside its model reference outcome. If calibration-fit tables are judged not to deliberately benchmark an effect, reject this row rather than substitute empirical data moments. Reference is a deterministic model policy/pricing/covariance outcome level, not a mean or SD of this derived outcome; hence other_level, not an empirical population mean. No ratio of estimated effects or data-versus-model fit is counted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4285",
+    "before": null,
+    "after": "Contested deliberate table pairing: includes a printed regime contrast alongside its model reference outcome. If calibration-fit tables are judged not to deliberately benchmark an effect, reject this row rather than substitute empirical data moments. Reference is a deterministic model policy/pricing/covariance outcome level, not a mean or SD of this derived outcome; hence other_level, not an empirical population mean. No ratio of estimated effects or data-versus-model fit is counted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6185",
+    "before": null,
+    "after": "GEIR97JN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6186",
+    "before": null,
+    "after": "GEIR97JN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6187",
+    "before": null,
+    "after": "GEIR97JN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6188",
+    "before": null,
+    "after": "GEIR97JN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6185",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6186",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6187",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6188",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6185",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6186",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6187",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6188",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6185",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6186",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6187",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6188",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6185",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6186",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6187",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6188",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6185",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6186",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6187",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6188",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6185",
+    "before": null,
+    "after": "Average inflation: unconditional model expectation of annualized inflation, in percent; model uses log inflation π. Table captions call this average level inflation; this is not an estimated log(Y) regression. Detailed labels refer to reported continuous model moments. A printed zero conditional mean is not proof of a probability mass at zero in the underlying outcome distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6186",
+    "before": null,
+    "after": "LC bond-stock beta: dimensionless model covariance loading, minus inflation-output beta divided by calibrated stock-output loading; not the probability of a binary outcome. Detailed labels refer to reported continuous model moments. A printed zero conditional mean is not proof of a probability mass at zero in the underlying outcome distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6187",
+    "before": null,
+    "after": "Optimal LC debt share s in [0,1]: fraction of external financing raised in local-currency debt; a continuous share even when an optimum reaches one. Detailed labels refer to reported continuous model moments. A printed zero conditional mean is not proof of a probability mass at zero in the underlying outcome distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6188",
+    "before": null,
+    "after": "LC bond risk premium: annualized log expected real LC bond return minus log global risk-free rate, reported in percent; eq39 and appendix B91. Detailed labels refer to reported continuous model moments. A printed zero conditional mean is not proof of a probability mass at zero in the underlying outcome distribution."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2428",
+    "before": null,
+    "after": "GEIR97JN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2428",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2428",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2428",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2428",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2428",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2428",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2428",
+    "before": null,
+    "after": "EM no-commitment versus DM commitment contrast under separate domestic-global endowment loadings λ=0.87 for EM and 0.97 for DM, replacing pooled 0.91. TableBII reports the four model outcomes. This is a separately reported robustness calibration, not a standalone regression effect of λ."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2428",
+    "before": null,
+    "after": "Calibrated nonlinear two-period equilibrium solved by global projection, cubic inflation policy functions and numerical quadrature; not OLS, identifying FE, or treatment IV. Model assumptions include CRRA agents, competitive risk-averse lenders, lump-sum taxes, rational expectations, exogenous correlated endowments and exchange rates, and no default. Structural author-intention inclusion, not evidence of empirical exogenous assignment. Model EM/DM/difference: inflation 2.12/0.00/2.11%; beta 0.15/−0.06/0.21; share 0.38/0.96/−0.58; premium 4.27/2.03/2.24%. Preserve printed inflation difference. Author-hosted appendix only; final publisher labels not verified. Source: Author appendix B.7.2/TableBII PDF39.."
+  }
+]
+```
