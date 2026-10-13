@@ -202,6 +202,7 @@
     "B45": "Sovereign Debt Portfolios, Bond Risks, and the Credibility of Monetary Policy",
     "C45": "fin",
     "D45": 6,
+    "E45": "DONE — Complete42-page publication and40-page author-hosted appendix reviewed and independently cross-checked. Retain s6 compensation slope as OLS under moderate author-intention judgment; GMM corrects generated-regressor inference, not treatment IV. Reject s1–s5 descriptive/measurement families; retain7 calibrated policy settings Other, including central risk-neutral counterexample. Bundled regime contrasts are not pure commitment effects.16 model-contrast/reference-level pairings retained with explicit moderate table-pairing judgment; both original comparisons rejected independently on benchmark identity. Analytical domestic-debt null reviewed but no additional numerical estimator inferred. Printed anomalies and appendix-version differences preserved; final publisher appendix identity not certified. Original model fields preserved.",
     "A46": "GLSWBYDJ",
     "B46": "Attention allocation and return co-movement: Evidence from repeated natural experiments",
     "C46": "fin",
@@ -23140,7 +23141,16 @@
     "L2430": "0",
     "M2430": "n/a",
     "N2430": "Vary DM inflation-cost parameter α across 2.14,4.28,8.56, holding other DM calibrated parameters constant. TableBIV gives inflation, beta, LC debt share and LC premium. Three-valued dose family, not an invented set of binary pairwise effects.",
-    "O2430": "Calibrated nonlinear two-period equilibrium solved by global projection, cubic inflation policy functions and numerical quadrature; not OLS, identifying FE, or treatment IV. Model assumptions include CRRA agents, competitive risk-averse lenders, lump-sum taxes, rational expectations, exogenous correlated endowments and exchange rates, and no default. Structural author-intention inclusion, not evidence of empirical exogenous assignment. Low/baseline/high outcomes: inflation 0/0/0%; beta −0.09/−0.05/−0.03; share 0.92/0.91/0.90; premium 1.90/2.22/2.46%. Include the substantive inflation null and small policy responses; no new estimator for every column. Main fn30 confirms implemented α robustness. Source: Main PDF35 fn30 / p3131; author appendix B.7.4/TableBIV PDF40.."
+    "O2430": "Calibrated nonlinear two-period equilibrium solved by global projection, cubic inflation policy functions and numerical quadrature; not OLS, identifying FE, or treatment IV. Model assumptions include CRRA agents, competitive risk-averse lenders, lump-sum taxes, rational expectations, exogenous correlated endowments and exchange rates, and no default. Structural author-intention inclusion, not evidence of empirical exogenous assignment. Low/baseline/high outcomes: inflation 0/0/0%; beta −0.09/−0.05/−0.03; share 0.92/0.91/0.90; premium 1.90/2.22/2.46%. Include the substantive inflation null and small policy responses; no new estimator for every column. Main fn30 confirms implemented α robustness. Source: Main PDF35 fn30 / p3131; author appendix B.7.4/TableBIV PDF40..",
+    "A2431": "GEIR97JN",
+    "B2431": "h7",
+    "I2431": "1",
+    "J2431": "Other",
+    "K2431": "0",
+    "L2431": "0",
+    "M2431": "n/a",
+    "N2431": "Domestic log-output state x2 response of calibrated optimal log inflation π2 in EM and DM regimes, FigureB1. Output varies on a continuous state grid; under commitment inflation falls in the worst states, whereas without commitment it rises.",
+    "O2431": "Calibrated nonlinear two-period equilibrium solved by global projection, cubic inflation policy functions and numerical quadrature; not OLS, identifying FE, or treatment IV. Model assumptions include CRRA agents, competitive risk-averse lenders, lump-sum taxes, rational expectations, exogenous correlated endowments and exchange rates, and no default. Structural author-intention inclusion, not evidence of empirical exogenous assignment. Distinct policy-function estimand and result location from the unconditional moment contrast. Figure axes are annualized log output and log inflation in percent; no numeric derivative inferred. Analytical Proposition1 motivates but is not counted again as a separate estimated effect. Source: Author appendix B.6.6/FigureB1 PDF37–38; main Proposition1 PDF31–32.."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -65539,7 +65549,11 @@
     "A6196": "GEIR97JN",
     "B6196": "h6",
     "C6196": "hy4",
-    "K6196": "LC bond risk premium: annualized log expected real LC bond return minus log global risk-free rate, reported in percent; eq39 and appendix B91."
+    "K6196": "LC bond risk premium: annualized log expected real LC bond return minus log global risk-free rate, reported in percent; eq39 and appendix B91.",
+    "A6197": "GEIR97JN",
+    "B6197": "h7",
+    "C6197": "hy1",
+    "K6197": "Optimal log inflation π2(x2), annualized percent, as function of log-output state in each calibrated regime."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -351966,3 +351966,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:18:47.431880+00:00 — Review GEIR97JN h7: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6197",
+    "before": null,
+    "after": "GEIR97JN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6197",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6197",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6197",
+    "before": null,
+    "after": "Optimal log inflation π2(x2), annualized percent, as function of log-output state in each calibrated regime."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E45",
+    "before": null,
+    "after": "DONE — Complete42-page publication and40-page author-hosted appendix reviewed and independently cross-checked. Retain s6 compensation slope as OLS under moderate author-intention judgment; GMM corrects generated-regressor inference, not treatment IV. Reject s1–s5 descriptive/measurement families; retain7 calibrated policy settings Other, including central risk-neutral counterexample. Bundled regime contrasts are not pure commitment effects.16 model-contrast/reference-level pairings retained with explicit moderate table-pairing judgment; both original comparisons rejected independently on benchmark identity. Analytical domestic-debt null reviewed but no additional numerical estimator inferred. Printed anomalies and appendix-version differences preserved; final publisher appendix identity not certified. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2431",
+    "before": null,
+    "after": "GEIR97JN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2431",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2431",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2431",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2431",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2431",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2431",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2431",
+    "before": null,
+    "after": "Domestic log-output state x2 response of calibrated optimal log inflation π2 in EM and DM regimes, FigureB1. Output varies on a continuous state grid; under commitment inflation falls in the worst states, whereas without commitment it rises."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2431",
+    "before": null,
+    "after": "Calibrated nonlinear two-period equilibrium solved by global projection, cubic inflation policy functions and numerical quadrature; not OLS, identifying FE, or treatment IV. Model assumptions include CRRA agents, competitive risk-averse lenders, lump-sum taxes, rational expectations, exogenous correlated endowments and exchange rates, and no default. Structural author-intention inclusion, not evidence of empirical exogenous assignment. Distinct policy-function estimand and result location from the unconditional moment contrast. Figure axes are annualized log output and log inflation in percent; no numeric derivative inferred. Analytical Proposition1 motivates but is not counted again as a separate estimated effect. Source: Author appendix B.6.6/FigureB1 PDF37–38; main Proposition1 PDF31–32.."
+  }
+]
+```
