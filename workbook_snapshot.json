@@ -23041,7 +23041,16 @@
     "L2421": "0",
     "M2421": "n/a",
     "N2421": "Off-equilibrium controlled VC-quality response with entrepreneur quality and the lowest-acceptable-VC contract fixed. Fig4 third bar versus first bar, separately for 50th, 75th and 99th entrepreneur quality percentiles. Unlike h11, the contract does not renegotiate when VC quality changes. At the 99th percentile, startup and entrepreneur values each increase by 141.4% when VC quality moves from 4.13 to 10.",
-    "O2421": "Nonlinear structural dynamic search-and-matching equilibrium estimated by efficient-weight GMM; endogenous contract choice and latent agent qualities jointly modeled. Random encounters, functional forms and success-to-value mapping identify the response; this is not linear IV, empirical covariate matching, or identifying FE. Structural quality-distribution parameters and model-fit moments are not separate causal treatments. Distinct fixed-contract estimand from the equilibrium-contract quality response in h11; not a routine control variant. The hypothetical counterfactual is supporting rather than itself the central equilibrium conclusion. Source: §5.2.6 PDF18; Fig4 PDF19."
+    "O2421": "Nonlinear structural dynamic search-and-matching equilibrium estimated by efficient-weight GMM; endogenous contract choice and latent agent qualities jointly modeled. Random encounters, functional forms and success-to-value mapping identify the response; this is not linear IV, empirical covariate matching, or identifying FE. Structural quality-distribution parameters and model-fit moments are not separate causal treatments. Distinct fixed-contract estimand from the equilibrium-contract quality response in h11; not a routine control variant. The hypothetical counterfactual is supporting rather than itself the central equilibrium conclusion. Source: §5.2.6 PDF18; Fig4 PDF19.",
+    "A2422": "G24W3YTK",
+    "B2422": "h1",
+    "I2422": "1",
+    "J2422": "OLS",
+    "K2422": "0",
+    "L2422": "0",
+    "M2422": "n/a",
+    "N2422": "Business-cycle proxy log dividend-price ratio ln(D12/P): separate univariate OLS regressions of one-year premium and three-year-minus-one-year premium slope; Table5 col(2) in each outcome block, monthly 2004–2021, NW12. Reported coefficients 25.33 (SE8.99) for level and −12.93 (SE6.46) for slope.",
+    "O2422": "Distinct treatment from industrial-production growth; supports robustness of author-interpreted countercyclical level/procyclical slope. No identifying FE or IV; not a claim that changing forecasts causally changes realized dividends. Exact proxy-coefficient causal attribution is weaker than the headline ip result and flagged in audit. Source: §3.3 Table5 PDF18–19 / pp1306–1307."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -65259,7 +65268,15 @@
     "A6168": "F4QBG3CB",
     "B6168": "h74",
     "C6168": "hy3",
-    "K6168": "VC expected payoff pi_i, distinct from payoff share. Fixed lowest-VC contract, with entrepreneur quality held fixed."
+    "K6168": "VC expected payoff pi_i, distinct from payoff share. Fixed lowest-VC contract, with entrepreneur quality held fixed.",
+    "A6169": "G24W3YTK",
+    "B6169": "h1",
+    "C6169": "hy1",
+    "K6169": "One-year ex ante dividend risk premium z(t,1:12), annualized log ratio of physical to risk-neutral expected dividend amounts; reported in percent.",
+    "A6170": "G24W3YTK",
+    "B6170": "h1",
+    "C6170": "hy2",
+    "K6170": "Slope of the ex ante dividend premium term structure: z(t,25:36) minus z(t,1:12), difference of annualized log-ratio premiums; reported in percent."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

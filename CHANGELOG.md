@@ -349071,3 +349071,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T02:58:58.842580+00:00 — Review G24W3YTK h1: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6169",
+    "before": null,
+    "after": "G24W3YTK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6170",
+    "before": null,
+    "after": "G24W3YTK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6169",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6170",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6169",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6170",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6169",
+    "before": null,
+    "after": "One-year ex ante dividend risk premium z(t,1:12), annualized log ratio of physical to risk-neutral expected dividend amounts; reported in percent."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6170",
+    "before": null,
+    "after": "Slope of the ex ante dividend premium term structure: z(t,25:36) minus z(t,1:12), difference of annualized log-ratio premiums; reported in percent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2422",
+    "before": null,
+    "after": "G24W3YTK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2422",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2422",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2422",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2422",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2422",
+    "before": null,
+    "after": "Business-cycle proxy log dividend-price ratio ln(D12/P): separate univariate OLS regressions of one-year premium and three-year-minus-one-year premium slope; Table5 col(2) in each outcome block, monthly 2004–2021, NW12. Reported coefficients 25.33 (SE8.99) for level and −12.93 (SE6.46) for slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2422",
+    "before": null,
+    "after": "Distinct treatment from industrial-production growth; supports robustness of author-interpreted countercyclical level/procyclical slope. No identifying FE or IV; not a claim that changing forecasts causally changes realized dividends. Exact proxy-coefficient causal attribution is weaker than the headline ip result and flagged in audit. Source: §3.3 Table5 PDF18–19 / pp1306–1307."
+  }
+]
+```
