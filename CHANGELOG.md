@@ -377973,3 +377973,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:28:26.164850+00:00 — Review IWL75F9N s16: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1201",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1201",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1201",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1201",
+    "before": null,
+    "after": "Annual director-year count of board seats at other publicly traded firms, excluding the target seat lost through takeover. Not a cumulative three-year dependent variable: the authors sum T0–T3 coefficients to report an effect over the event window. Source does not establish an observed point mass at zero for this outcome/sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I469",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J469",
+    "before": null,
+    "after": "Matching"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K469",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L469",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M469",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O469",
+    "before": null,
+    "after": "Linear regression-adjusted matched design: pre-acquisition performance/size, country and industry nearest-neighbor Mahalanobis matching explicitly addresses target/control differences. Matching precedes OLS when no higher-priority identifying FE/DiD is established. Country/year controls do not by themselves establish FE identification. Different from nonlinear matched probit s14. Additional matching with directors’ board-seat counts (fn22) has unresolved timing; do not extrapolate outcome-independent matching to that variant. Source: Section 5.2.2, Table 6 Panel B cols. (4)–(6), PDF pp. 26–28.."
+  }
+]
+```
