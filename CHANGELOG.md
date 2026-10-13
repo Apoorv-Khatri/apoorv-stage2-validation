@@ -366921,3 +366921,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T07:21:26.295788+00:00 — Review HHJUFPI4 s3: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1097",
+    "before": null,
+    "after": "Outcome is the untransformed firm-year 0/1 indicator as defined in §4.2.1; model zero_mass=0 is not supported (full-sample Table1 means/medians show both values). Detailed labels left null because focal treatment is continuous; this is not a claim of no zeros in the outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I427",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J427",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K427",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L427",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M427",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O427",
+    "before": null,
+    "after": "Conventional continuous-exposure DiD/DDD, not modern DiD: no named heterogeneity-robust estimator is implemented. The dose is pre-CD&A market influence, not merely the two-valued calendar post dummy. Firm FE and fiscal-year×fiscal-closing-month FE are two effective sets; the latter represents unique 12-month periods, not two separately absorbed dimensions. DiD takes precedence over FE/OLS. No excluded instruments or receipt first stage: regulatory language does not establish IV. Early-adopter membership is binary but the reported focal parameters are changes in the continuous share gradient. Post2007 is cumulative, so its triple coefficient is the change in the early/late wedge in 2007, not the entire 2007 wedge. Fiscal-year ends are not random; author acknowledges differential omitted shocks. Source: §5.4.2, Eq7, Table5, pp632–634/PDF13–15."
+  }
+]
+```
