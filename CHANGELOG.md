@@ -379968,3 +379968,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:52:09.583411+00:00 — Review IWL75F9N h17: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6388",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6388",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6388",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6388",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6388",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6388",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6388",
+    "before": null,
+    "after": "Director replacement indicator at director-firm-year level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2521",
+    "before": null,
+    "after": "IWL75F9N"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2521",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2521",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2521",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2521",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2521",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2521",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2521",
+    "before": null,
+    "after": "Online Appendix Table7A: takeover-event effects on director turnover for boards that recently removed CEOs; full sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2521",
+    "before": null,
+    "after": "fn25 p1615 establishes implemented takeover-event tests for boards with recent CEO removal and distinguishes entire versus matched samples. It does not name the final estimator or expressly say that these tests reestimate Table6; the separate Table6 repetition sentence concerns exclusion of majority acquisitions. Inheriting probit/OLS/Matching is plausible but unverified, so use unknown consistently with h15/h16. Keep binary event exposure and supporting status, and retain the matched-seat null. Exact subgroup timing, interactions, coefficients, FE and appendix columns are unverified; no invented grid or benchmark. Source: fn25 p1615/PDF28, lines1780–1786."
+  }
+]
+```
