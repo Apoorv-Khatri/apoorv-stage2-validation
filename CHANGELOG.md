@@ -376932,3 +376932,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T09:22:18.816995+00:00 — Review IWL75F9N s1: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1186",
+    "before": null,
+    "after": "Outcome is a 0/1 indicator with zero observations (turnover/acquisition is not universal), untransformed. Human type labels are not required because the corrected focal interaction treatment is nonbinary."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I454",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J454",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K454",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L454",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M454",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N454",
+    "before": null,
+    "after": "Focal continuous performance×policy interaction (change in turnover/acquisition sensitivity), not simply the binary post×treat indicator. Exposure to takeover-law enactment in the firm’s country, implemented as Post × Treat where Treat identifies firms in countries that ever adopt a takeover law during the sample and Post indicates years after that country’s law passage. The substantive causal effect of interest is the increase in takeover threat induced by the law; the reported key parameter is its interaction with continuous lagged firm performance."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O454",
+    "before": null,
+    "after": "Nonlinear probit, with Ai–Norton corrected interaction effects: Other, not linear DiD or HDFE. Country, two-digit industry and year dummies are three sets but nonlinear-estimator precedence applies. Staggered law timing is not modern DiD; laws are not excluded instruments in a receipt first stage. The focal performance×law parameter varies continuously with lagged performance, distinct from a binary law-level effect. Parallel changes in sensitivity and no contemporaneous confounding are maintained assumptions, not proven identification. Source: Section 3.1, Table 2 col. (1), PDF pp. 13–14.."
+  }
+]
+```
