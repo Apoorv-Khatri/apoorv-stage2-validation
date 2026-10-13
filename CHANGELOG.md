@@ -348729,3 +348729,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T02:57:52.038285+00:00 — Review G24W3YTK s2: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K221",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K222",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R221",
+    "before": null,
+    "after": "Reject independently of parent gate: R2 is a model fit/variance-explained statistic, not a focal causal estimate normalized by the same outcome mean, SD, or stated level. Variance is not an outcome SD, and 100% total variation is not other_level. Percent units of coefficients do not create a benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R222",
+    "before": null,
+    "after": "Reject independently of parent gate: R2 is a model fit/variance-explained statistic, not a focal causal estimate normalized by the same outcome mean, SD, or stated level. Variance is not an outcome SD, and 100% total variation is not other_level. Percent units of coefficients do not create a benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I396",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J396",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K396",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L396",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M396",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N396",
+    "before": null,
+    "after": "Industrial-production business-cycle sensitivity: separate univariate monthly OLS regressions of 1-year dividend risk premium and 3-year-minus-1-year premium slope on log 1-year industrial-production growth; Table 5 col(1) in each block; 214 months January 2004–October 2021, Newey–West 12 lags. Alternative proxy treatments are h1 and h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O396",
+    "before": null,
+    "after": "Broad author-intention gate: §3.3 says a 1.00% increase in ip lowers the level by 1.11%, and a drop decreases the slope by 0.64%; conclusion repeats directional language. Descriptive co-movement language elsewhere makes inclusion contestable, not a claim of exogenous identification. No FE/IV. Printed percent wording retained; coefficient changes concern annualized premium percentage points, not effect/mean ratios. Introduction reports slope significance at 1%, §3.3 at 5%; do not harmonize. Source: §3.3 Table 5 col(1) in both outcome blocks, eqs22–23, PDF18–19 / pp1306–1307; conclusion PDF26."
+  }
+]
+```
