@@ -361290,3 +361290,168 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T03:56:12.027263+00:00 — Review GLSWBYDJ h20: source-audited coding and linked comparisons
+
+26 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6250",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6251",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6252",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6253",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6250",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6251",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6252",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6253",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6250",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6251",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6252",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6253",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6250",
+    "before": null,
+    "after": "Announcement-day abnormal return CAR(0,0), computed as firm excess return minus estimated beta times market excess return. Market-model-adjusted return; cumulative windows use compounded buy-and-hold firm excess returns minus beta times compounded market excess returns (eq11), not a log transform. Underlying observed zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6251",
+    "before": null,
+    "after": "Cumulative abnormal return over days 0 to 1 after the earnings announcement, CAR(0,1). Market-model-adjusted return; cumulative windows use compounded buy-and-hold firm excess returns minus beta times compounded market excess returns (eq11), not a log transform. Underlying observed zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6252",
+    "before": null,
+    "after": "Cumulative abnormal return over days 2 to 5 after the earnings announcement, CAR(2,5). Market-model-adjusted return; cumulative windows use compounded buy-and-hold firm excess returns minus beta times compounded market excess returns (eq11), not a log transform. Underlying observed zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6253",
+    "before": null,
+    "after": "Cumulative abnormal return over days 6 to 60 after the earnings announcement, CAR(6,60). Market-model-adjusted return; cumulative windows use compounded buy-and-hold firm excess returns minus beta times compounded market excess returns (eq11), not a log transform. Underlying observed zero mass not established."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E46",
+    "before": null,
+    "after": "DONE — Complete15-page final article,9-page author Appendix A and21-page analytical Appendix B reviewed and independently cross-checked.30 settings retained:12 OLS,16 Other nonlinear effects,2 unknown minimum footnote families. Attention fixed-effect batteries preserved in descriptions but classified OLS consistently with earnings controls; identifying-role judgment explicitly moderate.76 comparisons retained,65% coefficient-ratio original rejected. Raw/normalized mean/median estimands distinguished;5 baseline mean benchmarks aligned under maintained exogenous-day design,29 target-specific unknowns retained. Binary jackpot moderation and separately interpreted SUE response retained. Pooled original outcome preserved as moved/spurious under narrowed parent. Printed comparator-count, significance, source-version and nonlinear-aggregation conflicts preserved. Author appendices relevant but publisher-final byte identity unverified. Original model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2451",
+    "before": null,
+    "after": "GLSWBYDJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2451",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2451",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2451",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2451",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2451",
+    "before": null,
+    "after": "Table7: SUE-decile earnings-news response on non-large jackpot announcement days, the lower-order SUE coefficients in the interacted model, for all four CAR windows."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2451",
+    "before": null,
+    "after": "Parameter-specific broad inclusion: §4.1 explicitly calls0.072 the non-large-day earnings reaction and says one-notch SUE increase results in0.197 return increase in days2–5. Not every control becomes a treatment. SUE is continuous/ordered news dose; OLS with standard industry/calendar controls, no separately argued identifying FE role. Remaining simultaneity concerns do not erase author interpretation. No outcome benchmark from comparing0.197 with the0.137 jackpot interaction. Moderate gate judgment; can omit if treated solely as baseline for s7 moderation. Source: Main §4.1/Table7 SUE row, PDF10–11 / pp378–379."
+  }
+]
+```
