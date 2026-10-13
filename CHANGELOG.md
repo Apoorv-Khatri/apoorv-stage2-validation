@@ -371550,3 +371550,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-13T08:07:56.706623+00:00 — Review I6VAFIIF h5: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6308",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6309",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6310",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6308",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6309",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6310",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6308",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6309",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6310",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6308",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6309",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6310",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6308",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6309",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6310",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6308",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6309",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6310",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6308",
+    "before": null,
+    "after": "Effective spread, dollar-weighted 2 absolute log transaction-price/midpoint difference, bps. Zero mass not established. Fig4 reports cross-sectional medians of these within-stock, dollar-weighted one-minute measures; the displayed median functional is nonlinear. Control stocks in the right panel are matched on beginning-of-June market capitalization and price."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6309",
+    "before": null,
+    "after": "Realized spread, dollar-weighted 2 signed log transaction-price minus midpoint five minutes later, bps. Zero mass not established. Fig4 reports cross-sectional medians of these within-stock, dollar-weighted one-minute measures; the displayed median functional is nonlinear. Control stocks in the right panel are matched on beginning-of-June market capitalization and price."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6310",
+    "before": null,
+    "after": "Price impact, dollar-weighted 2 signed log midpoint change over five minutes, bps. Zero mass not established. Fig4 reports cross-sectional medians of these within-stock, dollar-weighted one-minute measures; the displayed median functional is nonlinear. Control stocks in the right panel are matched on beginning-of-June market capitalization and price."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2485",
+    "before": null,
+    "after": "I6VAFIIF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2485",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2485",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2485",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2485",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2485",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2485",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2485",
+    "before": null,
+    "after": "Fig4 left: intraday response of effective/realized spreads and price impact in glitch-affected stocks, showing spike and fast reversal. Transaction-level measures dollar-weighted within stock/minute, then cross-sectional medians plotted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2485",
+    "before": null,
+    "after": "Nonlinear cross-sectional median event profile, not linear mean DiD. Caption describes one-minute nonoverlapping intervals. Five-minute decomposition horizon produces volatile temporary movements; preserve interpretation caution. Source: §6.1, Fig4 left, pp939–940/PDF18–19."
+  }
+]
+```
