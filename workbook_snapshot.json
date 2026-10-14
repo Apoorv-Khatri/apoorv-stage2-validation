@@ -24970,7 +24970,16 @@
     "L2583": "1",
     "M2583": "n/a",
     "N2583": "Lagged Market leverage → FDA recall severity, baseline ordered probit Table8 col2",
-    "O2583": "2-digit SIC/year dummies; ordered probit index coefficients, not direct probabilities. Source: Table8 pp1819–1820."
+    "O2583": "2-digit SIC/year dummies; ordered probit index coefficients, not direct probabilities. Source: Table8 pp1819–1820.",
+    "A2584": "IYY27QU8",
+    "B2584": "h7",
+    "I2584": "1",
+    "J2584": "Other",
+    "K2584": "0",
+    "L2584": "1",
+    "M2584": "n/a",
+    "N2584": "2005 Market leverage → total 2006–2010 recall count; Poisson Table9 col2",
+    "O2584": "One observation per firm, 2-digit SIC dummies; central frequency/persistence result. Source: Table9 p1823; §4.2 pp1821–1822."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69747,7 +69756,11 @@
     "A6513": "IYY27QU8",
     "B6513": "h6",
     "C6513": "hy1",
-    "K6513": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome."
+    "K6513": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome.",
+    "A6514": "IYY27QU8",
+    "B6514": "h7",
+    "C6514": "hy1",
+    "K6514": "Total number of recall events 2006–2010; zero for never-recalling controls."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

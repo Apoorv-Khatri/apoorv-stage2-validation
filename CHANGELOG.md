@@ -393858,3 +393858,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:08:04.028880+00:00 — Review IYY27QU8 h7: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6514",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6514",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6514",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6514",
+    "before": null,
+    "after": "Total number of recall events 2006–2010; zero for never-recalling controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2584",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2584",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2584",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2584",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2584",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2584",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2584",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2584",
+    "before": null,
+    "after": "2005 Market leverage → total 2006–2010 recall count; Poisson Table9 col2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2584",
+    "before": null,
+    "after": "One observation per firm, 2-digit SIC dummies; central frequency/persistence result. Source: Table9 p1823; §4.2 pp1821–1822."
+  }
+]
+```
