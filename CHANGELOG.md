@@ -397980,3 +397980,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:27:51.010647+00:00 — Review IYY27QU8 h53: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6560",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6560",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6560",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6560",
+    "before": null,
+    "after": "Frequency of recalls; count rather than incidence. Exact time aggregation and column-specific definitions unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2630",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2630",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2630",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2630",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2630",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2630",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2630",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2630",
+    "before": null,
+    "after": "Lagged Book leverage → recall frequency; substantive longer-lag robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2630",
+    "before": null,
+    "after": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Main says inferences unchanged when frequency replaces incidence, but does not establish full estimator/lag grid. Do not fabricate Poisson columns from Table11 or Table9. Source: §4.2 p1822; Internet Appendix Table12."
+  }
+]
+```

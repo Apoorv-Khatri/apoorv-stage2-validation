@@ -25384,7 +25384,16 @@
     "L2629": "0",
     "M2629": "n/a",
     "N2629": "Book leverage: individual t−3 lag → recall incidence; probit lag-structure analysis.",
-    "O2629": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Source establishes these implemented column scopes explicitly. Longer-lag nulls retained as substantive dynamic results. Joint lags grouped as one dynamic estimand set; repeated col1 equals Table3 and is not duplicated. Source: §4.2 p1821; Internet Appendix Table11 panel A col5."
+    "O2629": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Source establishes these implemented column scopes explicitly. Longer-lag nulls retained as substantive dynamic results. Joint lags grouped as one dynamic estimand set; repeated col1 equals Table3 and is not duplicated. Source: §4.2 p1821; Internet Appendix Table11 panel A col5.",
+    "A2630": "IYY27QU8",
+    "B2630": "h53",
+    "I2630": "1",
+    "J2630": "unknown",
+    "K2630": "0",
+    "L2630": "0",
+    "M2630": "unknown",
+    "N2630": "Lagged Book leverage → recall frequency; substantive longer-lag robustness.",
+    "O2630": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Main says inferences unchanged when frequency replaces incidence, but does not establish full estimator/lag grid. Do not fabricate Poisson columns from Table11 or Table9. Source: §4.2 p1822; Internet Appendix Table12."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70354,7 +70363,11 @@
     "A6559": "IYY27QU8",
     "B6559": "h52",
     "C6559": "hy1",
-    "K6559": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+    "K6559": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero.",
+    "A6560": "IYY27QU8",
+    "B6560": "h53",
+    "C6560": "hy1",
+    "K6560": "Frequency of recalls; count rather than incidence. Exact time aggregation and column-specific definitions unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
