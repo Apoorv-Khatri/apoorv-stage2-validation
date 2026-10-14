@@ -24916,7 +24916,16 @@
     "L2577": "0",
     "M2577": "unknown",
     "N2577": "Reference-obligation-specific CDS–bond basis → CDS investment responses; alternative bond yield construction in Table IA.III, described p561. Distinct treatment from bond trading liquidity in h46.",
-    "O2577": "Final-main establishes implemented sensitivity using both alternative measures. Continuous basis is established, but estimator/FE and detailed outcome columns are not. This is a minimum-scope setting, not an inferred appendix coefficient grid. Final DOCX remains unavailable. Source: §II.B p561/PDF25; Table IA.III reference; layout.txt lines1172–1185."
+    "O2577": "Final-main establishes implemented sensitivity using both alternative measures. Continuous basis is established, but estimator/FE and detailed outcome columns are not. This is a minimum-scope setting, not an inferred appendix coefficient grid. Final DOCX remains unavailable. Source: §II.B p561/PDF25; Table IA.III reference; layout.txt lines1172–1185.",
+    "A2578": "IYY27QU8",
+    "B2578": "h1",
+    "I2578": "1",
+    "J2578": "Other",
+    "K2578": "0",
+    "L2578": "1",
+    "M2578": "n/a",
+    "N2578": "Lagged Market leverage ((DLTT+DLC)/(DLTT+DLC+CSHO×PRCC_F)) → recall incidence; probit Table3 cols2/5/8",
+    "O2578": "Lagged financial condition, observational recall-event/control sample, firm-clustered SE. Industry/year indicators partly address omitted managerial/industry conditions (p1805); nonlinear probit remains Other regardless of dummy count. Remaining omitted-variable risk acknowledged, but broad author-intention gate satisfied by theoretical financial-constraint interpretation and conclusion. Table3 col2 Market leverage p=.028 (5%), although p1803 says both leverage measures are significant at 1% in all regressions. Preserve the table/prose conflict; it does not remove this causal setting. Source: Table3 p1802; §3.1 pp1801–1805."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69669,7 +69678,11 @@
     "A6507": "IYMGE8KX",
     "B6507": "h52",
     "C6507": "hy1",
-    "K6507": "CDS investment response(s) under reference-obligation-specific basis construction; exact buying/selling, propensity/intensity and further decomposition await final Table IA.III."
+    "K6507": "CDS investment response(s) under reference-obligation-specific basis construction; exact buying/selling, propensity/intensity and further decomposition await final Table IA.III.",
+    "A6508": "IYY27QU8",
+    "B6508": "h1",
+    "C6508": "hy1",
+    "K6508": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -119139,7 +119152,18 @@
     "O4489": "0",
     "P4489": "n/a",
     "Q4489": "§III.B p569/PDF33: Median portfolio yield +13bp with CDS; benchmark: median no-CDS counterfactual portfolio yield; numeric level not reported.",
-    "R4489": "Reject additional magnitude comparison: p569 reports the mean/median with-minus-without-CDS effect itself (+14/+13bp). It does not separately compare that effect with a stated baseline mean/median, nor report a ratio or baseline value. The unnamed no-CDS level defines the contrast rather than a second magnitude benchmark. Preserve h43 as the explicit portfolio recomputation. This is an interpretive eligibility disagreement; a policy counting all verbal counterfactual level contrasts would retain it."
+    "R4489": "Reject additional magnitude comparison: p569 reports the mean/median with-minus-without-CDS effect itself (+14/+13bp). It does not separately compare that effect with a stated baseline mean/median, nor report a ratio or baseline value. The unnamed no-CDS level defines the contrast rather than a second magnitude benchmark. Preserve h43 as the explicit portfolio recomputation. This is an interpretive eligibility disagreement; a policy counting all verbal counterfactual level contrasts would retain it.",
+    "A4490": "IYY27QU8",
+    "B4490": "h1",
+    "C4490": "hc1",
+    "K4490": "1",
+    "L4490": "hy1",
+    "M4490": "outcome_mean",
+    "N4490": "1",
+    "O4490": "1",
+    "P4490": "unknown",
+    "Q4490": "§3.1 p1803, Table3 col8: Market leverage 25th→75th percentile at mean other covariates changes implied recall probability by +3.05 percentage points; authors report 13.81% relative change, in same paragraph anchored by unconditional22.09% (3296/14918, explicitly col7).",
+    "R4490": "The observations are recall events and never-recalling controls from the same three-digit SIC, not a balanced firm-year population: nonrecall years of recalling firms are not included as controls (p1814/fn14). The at-mean-covariate interquartile continuous-treatment contrast is not an established untreated-target mean contrast. The source does not establish a reference dose/target-weight construction, so alignment remains unknown under section7 rather than automatically 1 or 0. Col8 and col7 both report N=14,918. The paragraph links +3.05pp to 13.81% by its preceding unconditional-rate discussion; no Altman-specific denominator caution belongs on this Market-leverage row."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

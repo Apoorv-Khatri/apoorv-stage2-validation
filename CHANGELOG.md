@@ -393270,3 +393270,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:05:35.065822+00:00 — Review IYY27QU8 h1: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4490",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4490",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4490",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4490",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4490",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4490",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4490",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4490",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4490",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4490",
+    "before": null,
+    "after": "§3.1 p1803, Table3 col8: Market leverage 25th→75th percentile at mean other covariates changes implied recall probability by +3.05 percentage points; authors report 13.81% relative change, in same paragraph anchored by unconditional22.09% (3296/14918, explicitly col7)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4490",
+    "before": null,
+    "after": "The observations are recall events and never-recalling controls from the same three-digit SIC, not a balanced firm-year population: nonrecall years of recalling firms are not included as controls (p1814/fn14). The at-mean-covariate interquartile continuous-treatment contrast is not an established untreated-target mean contrast. The source does not establish a reference dose/target-weight construction, so alignment remains unknown under section7 rather than automatically 1 or 0. Col8 and col7 both report N=14,918. The paragraph links +3.05pp to 13.81% by its preceding unconditional-rate discussion; no Altman-specific denominator caution belongs on this Market-leverage row."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6508",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6508",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6508",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6508",
+    "before": null,
+    "after": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2578",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2578",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2578",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2578",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2578",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2578",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2578",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2578",
+    "before": null,
+    "after": "Lagged Market leverage ((DLTT+DLC)/(DLTT+DLC+CSHO×PRCC_F)) → recall incidence; probit Table3 cols2/5/8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2578",
+    "before": null,
+    "after": "Lagged financial condition, observational recall-event/control sample, firm-clustered SE. Industry/year indicators partly address omitted managerial/industry conditions (p1805); nonlinear probit remains Other regardless of dummy count. Remaining omitted-variable risk acknowledged, but broad author-intention gate satisfied by theoretical financial-constraint interpretation and conclusion. Table3 col2 Market leverage p=.028 (5%), although p1803 says both leverage measures are significant at 1% in all regressions. Preserve the table/prose conflict; it does not remove this causal setting. Source: Table3 p1802; §3.1 pp1801–1805."
+  }
+]
+```
