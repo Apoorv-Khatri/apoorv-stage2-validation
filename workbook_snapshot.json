@@ -25731,7 +25731,16 @@
     "L2664": "0",
     "M2664": "n/a",
     "N2664": "Employment-exposure linear fits for each of five firm-size categories.",
-    "O2664": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Described as corresponding plots to Fig3, so minimum grouped linear fit; exact supplemental weights and coefficients unverified. Separately reported location, not duplicate Fig3 broad-bin fit. Source: Appendix Fig A.4; p925."
+    "O2664": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Described as corresponding plots to Fig3, so minimum grouped linear fit; exact supplemental weights and coefficients unverified. Separately reported location, not duplicate Fig3 broad-bin fit. Source: Appendix Fig A.4; p925.",
+    "A2665": "JFUQHXRF",
+    "B2665": "h13",
+    "I2665": "1",
+    "J2665": "DiD_conventional",
+    "K2665": "0",
+    "L2665": "0",
+    "M2665": "n/a",
+    "N2665": "Quarter-specific employment-exposure effects separately for each of five size categories.",
+    "O2665": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Described as corresponding dynamic plots to Fig4. Same page also calls Figure A.5 the loan-term coefficient display: unresolved printed cross-reference conflict, not two verified A.5 grids. Source: Appendix Fig A.5 as first cited p927."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70952,7 +70961,11 @@
     "A6603": "JFUQHXRF",
     "B6603": "h12",
     "C6603": "hy1",
-    "K6603": "Industry mean utilization change2019Q4–2020Q1, percentage points."
+    "K6603": "Industry mean utilization change2019Q4–2020Q1, percentage points.",
+    "A6604": "JFUQHXRF",
+    "B6604": "h13",
+    "C6604": "hy1",
+    "K6604": "Utilized/committed credit-line amount, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
