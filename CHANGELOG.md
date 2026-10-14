@@ -401727,3 +401727,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T12:42:42.990049+00:00 — Review JFUQHXRF h6: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6597",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6597",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6597",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6597",
+    "before": null,
+    "after": "Credit utilization sensitivity to reported collateral value; exact regression scale unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2658",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2658",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2658",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2658",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2658",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2658",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2658",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2658",
+    "before": null,
+    "after": "Reported collateral market value → utilization sensitivity, with size, collateral-type and constraint-proximity heterogeneity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2658",
+    "before": null,
+    "after": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Multivariate regression reported for roughly 6% of loan-quarters with collateral value. Main text explicitly concludes collateral constraints cause variation in liquidity. Exact estimator/FE/functional scales unresolved; do not label nonlinear Other or presume identifying FE. Twice-as-large sensitivity is effect/effect, not outcome benchmark. Source: Appendix Fig A.1; p920 §4."
+  }
+]
+```

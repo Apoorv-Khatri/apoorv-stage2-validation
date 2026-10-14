@@ -25668,7 +25668,16 @@
     "L2657": "1",
     "M2657": "n/a",
     "N2657": "Alternative abnormal retail-sales-decline exposure × COVID, including size heterogeneity, on utilization.",
-    "O2657": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Same DiD/DDD analysis explicitly repeated for 13 Census retail-sales industries; largest-firm differential loses significance. Standardized continuous dose; do not pool employment and sales treatments. Pooled/heterogeneous exact supplemental column split unresolved. Source: Appendix Table A.11 as described pp925,927–928."
+    "O2657": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Same DiD/DDD analysis explicitly repeated for 13 Census retail-sales industries; largest-firm differential loses significance. Standardized continuous dose; do not pool employment and sales treatments. Pooled/heterogeneous exact supplemental column split unresolved. Source: Appendix Table A.11 as described pp925,927–928.",
+    "A2658": "JFUQHXRF",
+    "B2658": "h6",
+    "I2658": "1",
+    "J2658": "unknown",
+    "K2658": "0",
+    "L2658": "0",
+    "M2658": "unknown",
+    "N2658": "Reported collateral market value → utilization sensitivity, with size, collateral-type and constraint-proximity heterogeneity.",
+    "O2658": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Multivariate regression reported for roughly 6% of loan-quarters with collateral value. Main text explicitly concludes collateral constraints cause variation in liquidity. Exact estimator/FE/functional scales unresolved; do not label nonlinear Other or presume identifying FE. Twice-as-large sensitivity is effect/effect, not outcome benchmark. Source: Appendix Fig A.1; p920 §4."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70846,7 +70855,11 @@
     "A6596": "JFUQHXRF",
     "B6596": "h5",
     "C6596": "hy1",
-    "K6596": "Utilized/committed credit-line amount, percentage points."
+    "K6596": "Utilized/committed credit-line amount, percentage points.",
+    "A6597": "JFUQHXRF",
+    "B6597": "h6",
+    "C6597": "hy1",
+    "K6597": "Credit utilization sensitivity to reported collateral value; exact regression scale unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
