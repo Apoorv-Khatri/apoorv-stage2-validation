@@ -26238,7 +26238,16 @@
     "L2710": "0",
     "M2710": "n/a",
     "N2710": "Linear execution Progress (index of X-th 15-minute period) and HFT profit per share, without/with fees; TableA1 cols1/3.",
-    "O2710": "OLS explicitly stated; stock dummies and contemporaneous/lagged stock trade volume included. No author argument gives stock FE a separate identifying role, so survey OLS, with actual dummies documented. N=1,446,256, stock-date clustered SE. Supporting profitability mechanism, not main-article headline. Observational learning/adverse-selection interpretation passes broad gate. Author-linked Internet Appendix, July 18, 2018, PDF2–4 / printed pp1–3, Table A1. Title/authors and main fn10 match; publisher-byte identity unverified. Progress coefficients .104 and .149 per additional 15-minute period; columns also contain binary 1T. Break-even 8.9 or 6.7 intervals is a treatment-time threshold, not an outcome-level benchmark. Index assignment outside trades is not explicitly stated. Source: Author-linked Internet Appendix, July 18, 2018, PDF2–4 / printed pp1–3, Table A1. Title/authors and main fn10 match; publisher-byte identity unverified.."
+    "O2710": "OLS explicitly stated; stock dummies and contemporaneous/lagged stock trade volume included. No author argument gives stock FE a separate identifying role, so survey OLS, with actual dummies documented. N=1,446,256, stock-date clustered SE. Supporting profitability mechanism, not main-article headline. Observational learning/adverse-selection interpretation passes broad gate. Author-linked Internet Appendix, July 18, 2018, PDF2–4 / printed pp1–3, Table A1. Title/authors and main fn10 match; publisher-byte identity unverified. Progress coefficients .104 and .149 per additional 15-minute period; columns also contain binary 1T. Break-even 8.9 or 6.7 intervals is a treatment-time threshold, not an outcome-level benchmark. Index assignment outside trades is not explicitly stated. Source: Author-linked Internet Appendix, July 18, 2018, PDF2–4 / printed pp1–3, Table A1. Title/authors and main fn10 match; publisher-byte identity unverified..",
+    "A2711": "KJGA8A2C",
+    "B2711": "h21",
+    "I2711": "1",
+    "J2711": "OLS",
+    "K2711": "1",
+    "L2711": "0",
+    "M2711": "n/a",
+    "N2711": "MidStage indicator (institutional trade underway for 2–10 fifteen-minute periods), conditional on 1T and LateStage; HFT profit per share without/with fees, TableA1 cols2/4.",
+    "O2711": "OLS explicitly stated; stock dummies and contemporaneous/lagged stock trade volume included. No author argument gives stock FE a separate identifying role, so survey OLS, with actual dummies documented. N=1,446,256, stock-date clustered SE. Supporting profitability mechanism, not main-article headline. Observational learning/adverse-selection interpretation passes broad gate. Author-linked Internet Appendix, July 18, 2018, PDF2–4 / printed pp1–3, Table A1. Title/authors and main fn10 match; publisher-byte identity unverified. Printed MidStage coefficients −1.44 and .70 (second nonsignificant). Under literal nested coding these are mid-versus-early increments; not total mid-stage profits. Stage coding caution: text defines 1T for any institutional trade and MidStage/LateStage as nested indicators. Under that literal additive coding, unadjusted late-stage increment is −2.05+1.39=−.66, whereas prose says late-stage profits are positive. Do not relabel 1T as early-only or treat stage coefficients as verified total profit levels; constants/FE baseline and implementation are not supplied. Preserve this source interpretation conflict. Source: Author-linked Internet Appendix, July 18, 2018, PDF2–4 / printed pp1–3, Table A1. Title/authors and main fn10 match; publisher-byte identity unverified.."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71824,7 +71833,21 @@
     "A6669": "KJGA8A2C",
     "B6669": "h20",
     "C6669": "hy2",
-    "K6669": "HFT profit per share in stock/15-minute period: dollars sold minus dollars bought plus signed marked-to-market end-period position, divided by max(shares bought, shares sold); source reports basis points. Includes liquidity rebate $0.0031/share and taker fee $0.0035/share. The per-share ratio defines the outcome; no log/SD transformation reported. Further conversion from dollars/share to basis points is not specified. Do not infer zero mass from possible inactivity."
+    "K6669": "HFT profit per share in stock/15-minute period: dollars sold minus dollars bought plus signed marked-to-market end-period position, divided by max(shares bought, shares sold); source reports basis points. Includes liquidity rebate $0.0031/share and taker fee $0.0035/share. The per-share ratio defines the outcome; no log/SD transformation reported. Further conversion from dollars/share to basis points is not specified. Do not infer zero mass from possible inactivity.",
+    "A6670": "KJGA8A2C",
+    "B6670": "h21",
+    "C6670": "hy1",
+    "H6670": "0",
+    "I6670": "unknown",
+    "J6670": "none",
+    "K6670": "HFT profit per share in stock/15-minute period: dollars sold minus dollars bought plus signed marked-to-market end-period position, divided by max(shares bought, shares sold); source reports basis points. Excludes liquidity fees/rebates. The per-share ratio defines the outcome; no log/SD transformation reported. Further conversion from dollars/share to basis points is not specified. Do not infer zero mass from possible inactivity.",
+    "A6671": "KJGA8A2C",
+    "B6671": "h21",
+    "C6671": "hy2",
+    "H6671": "0",
+    "I6671": "unknown",
+    "J6671": "none",
+    "K6671": "HFT profit per share in stock/15-minute period: dollars sold minus dollars bought plus signed marked-to-market end-period position, divided by max(shares bought, shares sold); source reports basis points. Includes liquidity rebate $0.0031/share and taker fee $0.0035/share. The per-share ratio defines the outcome; no log/SD transformation reported. Further conversion from dollars/share to basis points is not specified. Do not infer zero mass from possible inactivity."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
