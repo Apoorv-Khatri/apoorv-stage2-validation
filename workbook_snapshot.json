@@ -25393,7 +25393,16 @@
     "L2630": "0",
     "M2630": "unknown",
     "N2630": "Lagged Book leverage → recall frequency; substantive longer-lag robustness.",
-    "O2630": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Main says inferences unchanged when frequency replaces incidence, but does not establish full estimator/lag grid. Do not fabricate Poisson columns from Table11 or Table9. Source: §4.2 p1822; Internet Appendix Table12."
+    "O2630": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Main says inferences unchanged when frequency replaces incidence, but does not establish full estimator/lag grid. Do not fabricate Poisson columns from Table11 or Table9. Source: §4.2 p1822; Internet Appendix Table12.",
+    "A2631": "IYY27QU8",
+    "B2631": "h54",
+    "I2631": "1",
+    "J2631": "Other",
+    "K2631": "0",
+    "L2631": "0",
+    "M2631": "n/a",
+    "N2631": "Lagged Book leverage → recall incidence controlling for lead (t+1) financial condition; probit robustness.",
+    "O2631": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Keep substantive lagged effect re-estimation; exclude future-treatment coefficient as diagnostic-only falsification. Book marginal effects .0989/.0772/.0790 are explicitly reported for year-only/2digit/3digit variants; other coefficients unseen. Source: §4.3.1 pp1822–1823; Internet Appendix Table13."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70367,7 +70376,11 @@
     "A6560": "IYY27QU8",
     "B6560": "h53",
     "C6560": "hy1",
-    "K6560": "Frequency of recalls; count rather than incidence. Exact time aggregation and column-specific definitions unavailable."
+    "K6560": "Frequency of recalls; count rather than incidence. Exact time aggregation and column-specific definitions unavailable.",
+    "A6561": "IYY27QU8",
+    "B6561": "h54",
+    "C6561": "hy1",
+    "K6561": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
