@@ -391392,3 +391392,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:32:33.263247+00:00 — Review IYMGE8KX h42: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6492",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6492",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6492",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6492",
+    "before": null,
+    "after": "Annual bottom-decile return-performance indicator within investment-style category, binary 0/1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2567",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2567",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2567",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2567",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2567",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2567",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2567",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2567",
+    "before": null,
+    "after": "Annual average CDS selling notional / TNA (single-name plus indices) → bottom-return-decile indicator within investment style; linear probability fund-year regressions, full sample and three subperiods; category dummy controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2567",
+    "before": null,
+    "after": "Retain OLS/regression adjustment, with category controls actually included. Unlike the alpha outcome family in h37/h39/h40, p583 does not attribute identification of downside-risk effects to removing between-style performance premia; the outcome itself is rank-defined within style. The explicit identification contrast here is cross-section versus within-fund (s8), not a separately argued category design. This is a contestable outcome-specific boundary: an expansive transfer of the p582 style-confounding rationale would also make h42 FE, never HDFE. Fund-year linear probability model; .0031/.0045 are 31/45 probability basis points, no separately linked 10% benchmark. Source: Table VI D p576 cols1/3/5/7; §IV.C p583."
+  }
+]
+```

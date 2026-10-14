@@ -24753,7 +24753,16 @@
     "L2566": "1",
     "M2566": "n/a",
     "N2566": "Total CDS intensity (% TNA) → fund-month two-/ten-factor alpha, separate precrisis/crisis/postcrisis linear panels; fund FE with fund size.",
-    "O2566": "Monthly frequency is established by panel heading and p582; general Table VI caption says fund-quarter, a printed conflict. Fund FE absorb persistent fund ability/style, yielding within-fund intensity response; one effective set, no HDFE. Separate periods are routine sample variants, not DiD. Null full-sample performance claim is not an unreported coefficient grid. Source: Table VI C pp575–576 cols2/4/6; §IV.C p582."
+    "O2566": "Monthly frequency is established by panel heading and p582; general Table VI caption says fund-quarter, a printed conflict. Fund FE absorb persistent fund ability/style, yielding within-fund intensity response; one effective set, no HDFE. Separate periods are routine sample variants, not DiD. Null full-sample performance claim is not an unreported coefficient grid. Source: Table VI C pp575–576 cols2/4/6; §IV.C p582.",
+    "A2567": "IYMGE8KX",
+    "B2567": "h42",
+    "I2567": "1",
+    "J2567": "OLS",
+    "K2567": "0",
+    "L2567": "1",
+    "M2567": "n/a",
+    "N2567": "Annual average CDS selling notional / TNA (single-name plus indices) → bottom-return-decile indicator within investment style; linear probability fund-year regressions, full sample and three subperiods; category dummy controls.",
+    "O2567": "Retain OLS/regression adjustment, with category controls actually included. Unlike the alpha outcome family in h37/h39/h40, p583 does not attribute identification of downside-risk effects to removing between-style performance premia; the outcome itself is rank-defined within style. The explicit identification contrast here is cross-section versus within-fund (s8), not a separately argued category design. This is a contestable outcome-specific boundary: an expansive transfer of the p582 style-confounding rationale would also make h42 FE, never HDFE. Fund-year linear probability model; .0031/.0045 are 31/45 probability basis points, no separately linked 10% benchmark. Source: Table VI D p576 cols1/3/5/7; §IV.C p583."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69420,7 +69429,11 @@
     "A6491": "IYMGE8KX",
     "B6491": "h41",
     "C6491": "hy2",
-    "K6491": "Ten-factor monthly alpha, returns in excess of factor-adjusted benchmark, percentage points."
+    "K6491": "Ten-factor monthly alpha, returns in excess of factor-adjusted benchmark, percentage points.",
+    "A6492": "IYMGE8KX",
+    "B6492": "h42",
+    "C6492": "hy1",
+    "K6492": "Annual bottom-decile return-performance indicator within investment-style category, binary 0/1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
