@@ -24807,7 +24807,16 @@
     "L2572": "1",
     "M2572": "unknown",
     "N2572": "CDS selling intensity → average spread of CDS selling positions, controlling broad fund security category and duration.",
-    "O2572": "Implemented direct relation: more aggressive CDS selling also targets higher spreads. Final-main does not specify full estimator/FE grid; unknown, not an invented Table V copy. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Source: Footnote19 p569: Table IA.IV."
+    "O2572": "Implemented direct relation: more aggressive CDS selling also targets higher spreads. Final-main does not specify full estimator/FE grid; unknown, not an invented Table V copy. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Source: Footnote19 p569: Table IA.IV.",
+    "A2573": "IYMGE8KX",
+    "B2573": "h48",
+    "I2573": "1",
+    "J2573": "unknown",
+    "K2573": "1",
+    "L2573": "0",
+    "M2573": "unknown",
+    "N2573": "Top financial institution indicator → basis-buy and speculative-buy CDS activity; buy-interest decomposition.",
+    "O2573": "Main reports both basis and speculative findings. Exact intensity versus propensity outcome scale and estimator not established in accessible source; do not inherit a tobit by assumption. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Source: §IV.A p573: Table IA.VI."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69513,7 +69522,21 @@
     "A6500": "IYMGE8KX",
     "B6500": "h47",
     "C6500": "hy1",
-    "K6500": "Average spread on CDS sell positions; exact weighting/units and regression transformation await final table."
+    "K6500": "Average spread on CDS sell positions; exact weighting/units and regression transformation await final table.",
+    "A6501": "IYMGE8KX",
+    "B6501": "h48",
+    "C6501": "hy1",
+    "H6501": "unknown",
+    "I6501": "unknown",
+    "J6501": "unknown",
+    "K6501": "Basis buying activity; exact reported dependent-variable scale unresolved.",
+    "A6502": "IYMGE8KX",
+    "B6502": "h48",
+    "C6502": "hy2",
+    "H6502": "unknown",
+    "I6502": "unknown",
+    "J6502": "unknown",
+    "K6502": "Speculative buying activity; exact reported dependent-variable scale unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

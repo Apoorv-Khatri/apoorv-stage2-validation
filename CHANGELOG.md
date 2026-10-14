@@ -392136,3 +392136,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:34:10.290277+00:00 — Review IYMGE8KX h48: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6501",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6502",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6501",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6502",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6501",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6502",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6501",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6502",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6501",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6502",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6501",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6502",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6501",
+    "before": null,
+    "after": "Basis buying activity; exact reported dependent-variable scale unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6502",
+    "before": null,
+    "after": "Speculative buying activity; exact reported dependent-variable scale unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2573",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2573",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2573",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2573",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2573",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2573",
+    "before": null,
+    "after": "Top financial institution indicator → basis-buy and speculative-buy CDS activity; buy-interest decomposition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2573",
+    "before": null,
+    "after": "Main reports both basis and speculative findings. Exact intensity versus propensity outcome scale and estimator not established in accessible source; do not inherit a tobit by assumption. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Source: §IV.A p573: Table IA.VI."
+  }
+]
+```
