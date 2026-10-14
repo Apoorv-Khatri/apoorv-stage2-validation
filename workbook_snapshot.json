@@ -25096,7 +25096,16 @@
     "L2597": "1",
     "M2597": "n/a",
     "N2597": "Altman Z → FDA recall severity with slope moderated by Negative input price shock; ordered probit Table8 col9.",
-    "O2597": "Negative input price shock: weighted real PPI of five chief supplier industries, geometric three-year growth ≥5%; lagged at fiscal year-end. 2-digit SIC/year indicators. Keep null Market leverage interaction. Nonlinear probit is Other, notwithstanding quasi-DiD interpretation. Direct shock coefficient conditional on zero financial-condition index is not an unconditional shock effect. Ordered probit, not binary probit. Interaction index coefficient does not equal an average shock effect. Source: Table8 pp1819–1820; §4.1 p1818."
+    "O2597": "Negative input price shock: weighted real PPI of five chief supplier industries, geometric three-year growth ≥5%; lagged at fiscal year-end. 2-digit SIC/year indicators. Keep null Market leverage interaction. Nonlinear probit is Other, notwithstanding quasi-DiD interpretation. Direct shock coefficient conditional on zero financial-condition index is not an unconditional shock effect. Ordered probit, not binary probit. Interaction index coefficient does not equal an average shock effect. Source: Table8 pp1819–1820; §4.1 p1818.",
+    "A2598": "IYY27QU8",
+    "B2598": "h21",
+    "I2598": "1",
+    "J2598": "Other",
+    "K2598": "0",
+    "L2598": "1",
+    "M2598": "n/a",
+    "N2598": "Lagged Free cash-flow shock → recall incidence; Table3 probit cols1–9.",
+    "O2598": "Cash-flow/market-assets ratio at t−1 minus its average over t−4…t−2; appendix denominator is market assets, versus generic total-assets wording p1799. Positive shock eases financing constraints. Lagged financial condition, observational recall-event/control sample, firm-clustered SE. Industry/year indicators partly address omitted managerial/industry conditions (p1805); nonlinear probit remains Other regardless of dummy count. Remaining omitted-variable risk acknowledged, but broad author-intention gate satisfied by theoretical financial-constraint interpretation and conclusion. Source: Table3 p1802; §3.1 pp1804–1805, fn7; Appendix A1 pp1826–1827."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69929,7 +69938,11 @@
     "A6527": "IYY27QU8",
     "B6527": "h20",
     "C6527": "hy1",
-    "K6527": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome."
+    "K6527": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome.",
+    "A6528": "IYY27QU8",
+    "B6528": "h21",
+    "C6528": "hy1",
+    "K6528": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

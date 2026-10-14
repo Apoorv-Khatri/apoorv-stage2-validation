@@ -395142,3 +395142,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:14:02.871034+00:00 — Review IYY27QU8 h21: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6528",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6528",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6528",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6528",
+    "before": null,
+    "after": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2598",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2598",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2598",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2598",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2598",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2598",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2598",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2598",
+    "before": null,
+    "after": "Lagged Free cash-flow shock → recall incidence; Table3 probit cols1–9."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2598",
+    "before": null,
+    "after": "Cash-flow/market-assets ratio at t−1 minus its average over t−4…t−2; appendix denominator is market assets, versus generic total-assets wording p1799. Positive shock eases financing constraints. Lagged financial condition, observational recall-event/control sample, firm-clustered SE. Industry/year indicators partly address omitted managerial/industry conditions (p1805); nonlinear probit remains Other regardless of dummy count. Remaining omitted-variable risk acknowledged, but broad author-intention gate satisfied by theoretical financial-constraint interpretation and conclusion. Source: Table3 p1802; §3.1 pp1804–1805, fn7; Appendix A1 pp1826–1827."
+  }
+]
+```
