@@ -400029,3 +400029,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:37:06.583028+00:00 — Review IYY27QU8 h74: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6585",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6585",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6585",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6585",
+    "before": null,
+    "after": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2651",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2651",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2651",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2651",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2651",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2651",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2651",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2651",
+    "before": null,
+    "after": "Altman Z → recall reporting, slope moderated by Capital raising dummy; probit interaction test."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2651",
+    "before": null,
+    "after": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Different financial-condition dose/interaction from direct binary issuance contrast. All interaction effects reported insignificant; no numerical grid or unknown treatment timing repaired. Source: §4.3.2 pp1824–1825; Internet Appendix Table16."
+  }
+]
+```
