@@ -25078,7 +25078,16 @@
     "L2595": "1",
     "M2595": "n/a",
     "N2595": "Book leverage → FDA recall severity with slope moderated by Negative input price shock; ordered probit Table8 col7.",
-    "O2595": "Negative input price shock: weighted real PPI of five chief supplier industries, geometric three-year growth ≥5%; lagged at fiscal year-end. 2-digit SIC/year indicators. Keep null Market leverage interaction. Nonlinear probit is Other, notwithstanding quasi-DiD interpretation. Direct shock coefficient conditional on zero financial-condition index is not an unconditional shock effect. Ordered probit, not binary probit. Interaction index coefficient does not equal an average shock effect. Source: Table8 pp1819–1820; §4.1 p1818."
+    "O2595": "Negative input price shock: weighted real PPI of five chief supplier industries, geometric three-year growth ≥5%; lagged at fiscal year-end. 2-digit SIC/year indicators. Keep null Market leverage interaction. Nonlinear probit is Other, notwithstanding quasi-DiD interpretation. Direct shock coefficient conditional on zero financial-condition index is not an unconditional shock effect. Ordered probit, not binary probit. Interaction index coefficient does not equal an average shock effect. Source: Table8 pp1819–1820; §4.1 p1818.",
+    "A2596": "IYY27QU8",
+    "B2596": "h19",
+    "I2596": "1",
+    "J2596": "Other",
+    "K2596": "0",
+    "L2596": "1",
+    "M2596": "n/a",
+    "N2596": "Market leverage → FDA recall severity with slope moderated by Negative input price shock; ordered probit Table8 col8.",
+    "O2596": "Negative input price shock: weighted real PPI of five chief supplier industries, geometric three-year growth ≥5%; lagged at fiscal year-end. 2-digit SIC/year indicators. Keep null Market leverage interaction. Nonlinear probit is Other, notwithstanding quasi-DiD interpretation. Direct shock coefficient conditional on zero financial-condition index is not an unconditional shock effect. Ordered probit, not binary probit. Interaction index coefficient does not equal an average shock effect. Source: Table8 pp1819–1820; §4.1 p1818."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69903,7 +69912,11 @@
     "A6525": "IYY27QU8",
     "B6525": "h18",
     "C6525": "hy1",
-    "K6525": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome."
+    "K6525": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome.",
+    "A6526": "IYY27QU8",
+    "B6526": "h19",
+    "C6526": "hy1",
+    "K6526": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
