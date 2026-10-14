@@ -410721,3 +410721,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:11:41.254517+00:00 — Review KJGA8A2C h8: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6647",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6647",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6647",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6647",
+    "before": null,
+    "after": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2698",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2698",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2698",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2698",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2698",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2698",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2698",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2698",
+    "before": null,
+    "after": "Predicted signed aggressive institutional trade L affects HFT inventory change, Table9 col5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2698",
+    "before": null,
+    "after": "Redefines first-stage receipt to aggressive orders; separate from all-order s6. Reported .338 versus .161 is effect-to-effect comparison, not same-outcome level benchmark. First-stage estimator unresolved as in s6, final OLS known. Prose calls aggression cutoff above median about 57%; Table2 reports median 61.1% and mean 57.0%. Preserve discrepancy; do not choose corrected threshold. No established excluded-instrument set. Source: §4.3 p1065; Table9 col5."
+  }
+]
+```
