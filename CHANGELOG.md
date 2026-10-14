@@ -383391,3 +383391,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:23:17.021119+00:00 — Review IYMGE8KX h7: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6408",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6409",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6408",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6409",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6408",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6409",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6408",
+    "before": null,
+    "after": "Total gross CDS sell notional divided by fund TNA, percentage points; observed zero for funds without positions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6409",
+    "before": null,
+    "after": "Total gross CDS buy notional divided by fund TNA, percentage points; observed zero for funds without positions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2532",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2532",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2532",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2532",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2532",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2532",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2532",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2532",
+    "before": null,
+    "after": "Portfolio turnover → gross CDS sell/buy intensity (% fund TNA), fund-quarter Tobit; Table III B cols1–4. Zero censoring, lagged controls, quarterly/style dummies; cash added in cols2/4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2532",
+    "before": null,
+    "after": "Retain: p558 explicitly attributes CDS intensity to internal active portfolio turnover as well as external flows; this is parameter-specific author interpretation. Annual lesser of purchases/sales divided by fund assets; active-management and internal liquidity-need mechanism, not a matching weight. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Reported coefficients are Tobit parameters, not documented unconditional marginal effects. Printed coefficients for cols1/2/3/4: [2.185, 2.109, 2.786, 2.754]. Source: Table III B pp555–556; §II.A pp558–559."
+  }
+]
+```

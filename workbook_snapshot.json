@@ -24438,7 +24438,16 @@
     "L2531": "0",
     "M2531": "n/a",
     "N2531": "Portfolio turnover → joint four-category CDS state: no-buy/no-sell base, buy-only, both, sell-only; multinomial logit, Table III A cols3–5. Same quarterly/style dummies and fund controls.",
-    "O2531": "Retain multinomial turnover response under the same discretionary-trading/liquidity mechanism, pp557–558; estimator remains nonlinear Other. Annual lesser of purchases/sales divided by fund assets; active-management and internal liquidity-need mechanism, not a matching weight. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Distinct estimator from the binary logits. Outcomes below name category equations of a single four-valued response, not separately estimated binary logits. Source: Table III A cols3–5 pp554–555; §II.A p553."
+    "O2531": "Retain multinomial turnover response under the same discretionary-trading/liquidity mechanism, pp557–558; estimator remains nonlinear Other. Annual lesser of purchases/sales divided by fund assets; active-management and internal liquidity-need mechanism, not a matching weight. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Distinct estimator from the binary logits. Outcomes below name category equations of a single four-valued response, not separately estimated binary logits. Source: Table III A cols3–5 pp554–555; §II.A p553.",
+    "A2532": "IYMGE8KX",
+    "B2532": "h7",
+    "I2532": "1",
+    "J2532": "Other",
+    "K2532": "0",
+    "L2532": "0",
+    "M2532": "n/a",
+    "N2532": "Portfolio turnover → gross CDS sell/buy intensity (% fund TNA), fund-quarter Tobit; Table III B cols1–4. Zero censoring, lagged controls, quarterly/style dummies; cash added in cols2/4.",
+    "O2532": "Retain: p558 explicitly attributes CDS intensity to internal active portfolio turnover as well as external flows; this is parameter-specific author interpretation. Annual lesser of purchases/sales divided by fund assets; active-management and internal liquidity-need mechanism, not a matching weight. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Reported coefficients are Tobit parameters, not documented unconditional marginal effects. Printed coefficients for cols1/2/3/4: [2.185, 2.109, 2.786, 2.754]. Source: Table III B pp555–556; §II.A pp558–559."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68700,7 +68709,15 @@
     "A6407": "IYMGE8KX",
     "B6407": "h6",
     "C6407": "hy3",
-    "K6407": "Four-category CDS-use response, sell only equation versus no-buy/no-sell; base state is present. Reported outcome is categorical, not a two-valued dependent variable."
+    "K6407": "Four-category CDS-use response, sell only equation versus no-buy/no-sell; base state is present. Reported outcome is categorical, not a two-valued dependent variable.",
+    "A6408": "IYMGE8KX",
+    "B6408": "h7",
+    "C6408": "hy1",
+    "K6408": "Total gross CDS sell notional divided by fund TNA, percentage points; observed zero for funds without positions.",
+    "A6409": "IYMGE8KX",
+    "B6409": "h7",
+    "C6409": "hy2",
+    "K6409": "Total gross CDS buy notional divided by fund TNA, percentage points; observed zero for funds without positions."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
