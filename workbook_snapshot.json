@@ -25276,7 +25276,16 @@
     "L2617": "0",
     "M2617": "n/a",
     "N2617": "Market leverage → recall incidence, interacted with five-year rather than three-year input-price shock construction.",
-    "O2617": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Footnote12 establishes a similar input-price shock using a five-year window; it does not independently restate the threshold or reveal the appendix implementation. Do not present an unseen threshold as directly verified; nonlinear probit implementation follows stated Eq2 shock exercise. Source: Footnote12 p1810; Internet Appendix Table4."
+    "O2617": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Footnote12 establishes a similar input-price shock using a five-year window; it does not independently restate the threshold or reveal the appendix implementation. Do not present an unseen threshold as directly verified; nonlinear probit implementation follows stated Eq2 shock exercise. Source: Footnote12 p1810; Internet Appendix Table4.",
+    "A2618": "IYY27QU8",
+    "B2618": "h41",
+    "I2618": "1",
+    "J2618": "IV",
+    "K2618": "0",
+    "L2618": "0",
+    "M2618": "single continuous",
+    "N2618": "Endogenous Market leverage → recall incidence; 2SLS with alternate local-leverage instrument based on closest top-50 metropolitan area.",
+    "O2618": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. One scalar average market leverage excluding focal firm/industry rivals, computed in same/closest top-fifty metropolitan area. Not jointly used with 250-km instrument; distinct instrument definition merits separate setting. Receipt remains continuous. Source: Footnote15 p1815; Internet Appendix Table6."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70198,7 +70207,11 @@
     "A6547": "IYY27QU8",
     "B6547": "h40",
     "C6547": "hy1",
-    "K6547": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+    "K6547": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero.",
+    "A6548": "IYY27QU8",
+    "B6548": "h41",
+    "C6548": "hy1",
+    "K6548": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
