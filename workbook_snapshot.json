@@ -25722,7 +25722,16 @@
     "L2663": "0",
     "M2663": "unknown",
     "N2663": "Maturity-category drawdown contrasts separately for unsecured/blanket-lien and specifically secured facilities.",
-    "O2663": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Prose reports SME loans due after2022 versus due2020: roughly10pp versus5pp by collateral subgroup. Authors interpret complementary discretion mechanism. No benchmark comparison: these are two effects. Minimum grouped linear contrasts, not claimed DiD without appendix. Source: Appendix Fig A.3; p924."
+    "O2663": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Prose reports SME loans due after2022 versus due2020: roughly10pp versus5pp by collateral subgroup. Authors interpret complementary discretion mechanism. No benchmark comparison: these are two effects. Minimum grouped linear contrasts, not claimed DiD without appendix. Source: Appendix Fig A.3; p924.",
+    "A2664": "JFUQHXRF",
+    "B2664": "h12",
+    "I2664": "1",
+    "J2664": "OLS",
+    "K2664": "0",
+    "L2664": "0",
+    "M2664": "n/a",
+    "N2664": "Employment-exposure linear fits for each of five firm-size categories.",
+    "O2664": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Described as corresponding plots to Fig3, so minimum grouped linear fit; exact supplemental weights and coefficients unverified. Separately reported location, not duplicate Fig3 broad-bin fit. Source: Appendix Fig A.4; p925."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70939,7 +70948,11 @@
     "H6602": "0",
     "I6602": "unknown",
     "J6602": "none",
-    "K6602": "Utilized/committed credit-line amount, percentage points."
+    "K6602": "Utilized/committed credit-line amount, percentage points.",
+    "A6603": "JFUQHXRF",
+    "B6603": "h12",
+    "C6603": "hy1",
+    "K6603": "Industry mean utilization change2019Q4–2020Q1, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
