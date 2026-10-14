@@ -392973,3 +392973,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:03:20.540002+00:00 — Review IYY27QU8 s5: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1230",
+    "before": null,
+    "after": "Number of recall events February 2008–December 2008; control firms have zero, explicitly p1814."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1231",
+    "before": null,
+    "after": "Number of recall events February 2008–December 2009; control firms have zero, explicitly p1814."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1232",
+    "before": null,
+    "after": "Number of recall events February 2008–December 2010; control firms have zero, explicitly p1814."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J482",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K482",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M482",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N482",
+    "before": null,
+    "after": "Debt due at onset of crisis → recall counts over three cumulative crisis horizons; Poisson Table6 cols4–6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O482",
+    "before": null,
+    "after": "DD1/(DD1+DLTT), fiscal-year-end 2007 months Sep/Oct/Nov/Dec/Jan. Predetermined maturity exposure to unexpected crisis; continuous receipt/exposure, not a crisis dummy. 2-digit SIC dummies, no year FE in this cross-section; nonlinear Other. Table6 reports coefficients, not expressly marginal effects. A log conditional-mean link is not a log-transformed observed count. Table6 col4 p=.036 (5%) contradicts the p1814 claim that count effects in all three columns are significant at 1%. Preserve the printed coefficient .2533 and its p-value; no significance repair. Source: Table6 p1813; §3.2.1.3 pp1812–1814."
+  }
+]
+```
