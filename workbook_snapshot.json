@@ -25794,7 +25794,16 @@
     "L2671": "0",
     "M2671": "unknown",
     "N2671": "Absence versus presence of audited financial statements → propensity for a demand loan within firm-size classes.",
-    "O2671": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Mechanism-specific interpretation: lack of audited statements makes collateral less certain and full demand-loan discretion more valuable. Exact table/estimator mapping unresolved; may be linear probability or nonlinear, so unknown not Other. This is not the reverse descriptive size→audit gradient in Table2. Source: Appendix Tables A.14–A.19 collectively; p922."
+    "O2671": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Mechanism-specific interpretation: lack of audited statements makes collateral less certain and full demand-loan discretion more valuable. Exact table/estimator mapping unresolved; may be linear probability or nonlinear, so unknown not Other. This is not the reverse descriptive size→audit gradient in Table2. Source: Appendix Tables A.14–A.19 collectively; p922.",
+    "A2672": "JFUQHXRF",
+    "B2672": "h21",
+    "I2672": "1",
+    "J2672": "unknown",
+    "K2672": "0",
+    "L2672": "0",
+    "M2672": "unknown",
+    "N2672": "Firm volatility → collateral posting within firm-size class.",
+    "O2672": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Authors give mechanism of imperfect monitoring and residual-risk protection. Which volatility measure(s) and which table/estimator/scale are unresolved. Do not substitute descriptive TableA.3 volatility outcomes for this treatment. Source: Appendix Tables A.14–A.19 collectively; p922."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71052,7 +71061,11 @@
     "H6610": "unknown",
     "I6610": "unknown",
     "J6610": "unknown",
-    "K6610": "Demand-loan indicator/probability; exact estimated scale unresolved."
+    "K6610": "Demand-loan indicator/probability; exact estimated scale unresolved.",
+    "A6611": "JFUQHXRF",
+    "B6611": "h21",
+    "C6611": "hy1",
+    "K6611": "Collateral posting; indicator or rate and exact scale unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
