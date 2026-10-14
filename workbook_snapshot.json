@@ -24411,7 +24411,16 @@
     "L2528": "0",
     "M2528": "n/a",
     "N2528": "Return volatility → joint four-category CDS state: no-buy/no-sell base, buy-only, both, sell-only; multinomial logit, Table III A cols3–5. Same quarterly/style dummies and fund controls.",
-    "O2528": "Retain multinomial implementation of the p558 risk-tolerance interpretation; it is the same substantively interpreted parameter, not a separate causal claim inferred from significance. Prior-24-month monthly-return SD; interpreted as risk tolerance separately from flow volatility; retain the buying null. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Distinct estimator from the binary logits. Outcomes below name category equations of a single four-valued response, not separately estimated binary logits. Source: Table III A cols3–5 pp554–555; §II.A p553."
+    "O2528": "Retain multinomial implementation of the p558 risk-tolerance interpretation; it is the same substantively interpreted parameter, not a separate causal claim inferred from significance. Prior-24-month monthly-return SD; interpreted as risk tolerance separately from flow volatility; retain the buying null. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Distinct estimator from the binary logits. Outcomes below name category equations of a single four-valued response, not separately estimated binary logits. Source: Table III A cols3–5 pp554–555; §II.A p553.",
+    "A2529": "IYMGE8KX",
+    "B2529": "h4",
+    "I2529": "1",
+    "J2529": "Other",
+    "K2529": "0",
+    "L2529": "0",
+    "M2529": "n/a",
+    "N2529": "Return volatility → gross CDS sell/buy intensity (% fund TNA), fund-quarter Tobit; Table III B cols1–4. Zero censoring, lagged controls, quarterly/style dummies; cash added in cols2/4.",
+    "O2529": "Retain intensity implementation: p558 says Panel B results are consistent with Panel A, where risk tolerance motivates the return-volatility response. Tobit coefficients are not unconditional marginal effects. Prior-24-month monthly-return SD; interpreted as risk tolerance separately from flow volatility; retain the buying null. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Reported coefficients are Tobit parameters, not documented unconditional marginal effects. Printed coefficients for cols1/2/3/4: [118.3, 118.1, 43.2, 42.53]. Source: Table III B pp555–556; §II.A pp558–559."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68645,7 +68654,15 @@
     "A6400": "IYMGE8KX",
     "B6400": "h3",
     "C6400": "hy3",
-    "K6400": "Four-category CDS-use response, sell only equation versus no-buy/no-sell; base state is present. Reported outcome is categorical, not a two-valued dependent variable."
+    "K6400": "Four-category CDS-use response, sell only equation versus no-buy/no-sell; base state is present. Reported outcome is categorical, not a two-valued dependent variable.",
+    "A6401": "IYMGE8KX",
+    "B6401": "h4",
+    "C6401": "hy1",
+    "K6401": "Total gross CDS sell notional divided by fund TNA, percentage points; observed zero for funds without positions.",
+    "A6402": "IYMGE8KX",
+    "B6402": "h4",
+    "C6402": "hy2",
+    "K6402": "Total gross CDS buy notional divided by fund TNA, percentage points; observed zero for funds without positions."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
