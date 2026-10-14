@@ -392661,3 +392661,132 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:01:19.216453+00:00 — Review IYY27QU8 s1: source-audited coding and linked comparisons
+
+20 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K286",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K287",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K288",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L286",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M286",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N286",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O286",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P286",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q286",
+    "before": null,
+    "after": "Table3 col7 and p1803: Book leverage 25th→75th percentile with other covariates at means, +1.68 percentage points; unconditional recall-sample rate 22.09% (3,296 recall observations / 14,918 observations); authors state about 7.58%, explicitly 1.68/22.09. This is an observed event/control-sample rate, not an established no-treatment population risk."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R286",
+    "before": null,
+    "after": "The observations are recall events and never-recalling controls from the same three-digit SIC, not a balanced firm-year population: nonrecall years of recalling firms are not included as controls (p1814/fn14). The at-mean-covariate interquartile continuous-treatment contrast is not an established untreated-target mean contrast. The source does not establish a reference dose/target-weight construction, so alignment remains unknown under section7 rather than automatically 1 or 0. Printed 1.68/22.09 does not exactly reproduce 7.58%; preserve the authors' rounded effect, rate and relative-change report separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R287",
+    "before": null,
+    "after": "Wrong setting after separating financial treatments; preserve original ID and model evidence, add eligible comparison under h1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R288",
+    "before": null,
+    "after": "Wrong setting after separating financial treatments; preserve original ID and model evidence, add eligible comparison under h8."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1224",
+    "before": null,
+    "after": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I478",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J478",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K478",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L478",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M478",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N478",
+    "before": null,
+    "after": "Lagged Book leverage (DLTT+DLC)/AT → recall incidence; Table3 probit cols1/4/7, year-only versus 2-/3-digit SIC dummy variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O478",
+    "before": null,
+    "after": "Lagged financial condition, observational recall-event/control sample, firm-clustered SE. Industry/year indicators partly address omitted managerial/industry conditions (p1805); nonlinear probit remains Other regardless of dummy count. Remaining omitted-variable risk acknowledged, but broad author-intention gate satisfied by theoretical financial-constraint interpretation and conclusion. Source: Table3 p1802; §3.1 pp1801–1805."
+  }
+]
+```
