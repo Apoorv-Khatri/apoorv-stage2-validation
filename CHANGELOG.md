@@ -392394,3 +392394,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:34:41.882357+00:00 — Review IYMGE8KX h50: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6505",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6505",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6505",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6505",
+    "before": null,
+    "after": "CDS investment response(s) established by main-text robustness statement; exact outcome decomposition and coefficients await final supplement."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2575",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2575",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2575",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2575",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2575",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2575",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2575",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2575",
+    "before": null,
+    "after": "Alternative bond-turnover liquidity measure → CDS investment responses, qualitatively similar robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2575",
+    "before": null,
+    "after": "Explicit implemented alternative measure. Monthly trading dollars/issuance amount; exact setting coverage not printed. No hidden appendix grid inferred. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Source: Footnote14 p560."
+  }
+]
+```

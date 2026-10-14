@@ -24825,7 +24825,16 @@
     "L2574": "0",
     "M2574": "n/a",
     "N2574": "Precrisis Treasury-holdings tercile (2007Q4 Treasury/TNA) → subsequent total and top-finance CDS selling intensity paths, 2006Q1–2012Q4.",
-    "O2574": "Substantive portfolio-risk substitution test with contrary result: low-Treasury funds sell more, also on systemically important entities. Unadjusted grouped mean paths, linear contrasts, not modern DiD or causal matching. Three-valued ordered grouping, not an invented top/bottom binary coefficient; no numeric grid accessible. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Source: §IV.A p577: Figure IA.3."
+    "O2574": "Substantive portfolio-risk substitution test with contrary result: low-Treasury funds sell more, also on systemically important entities. Unadjusted grouped mean paths, linear contrasts, not modern DiD or causal matching. Three-valued ordered grouping, not an invented top/bottom binary coefficient; no numeric grid accessible. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Source: §IV.A p577: Figure IA.3.",
+    "A2575": "IYMGE8KX",
+    "B2575": "h50",
+    "I2575": "1",
+    "J2575": "unknown",
+    "K2575": "0",
+    "L2575": "0",
+    "M2575": "unknown",
+    "N2575": "Alternative bond-turnover liquidity measure → CDS investment responses, qualitatively similar robustness.",
+    "O2575": "Explicit implemented alternative measure. Monthly trading dollars/issuance amount; exact setting coverage not printed. No hidden appendix grid inferred. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Source: Footnote14 p560."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69553,7 +69562,11 @@
     "A6504": "IYMGE8KX",
     "B6504": "h49",
     "C6504": "hy2",
-    "K6504": "CDS selling on top-20% financial reference entities intensity, notional / fund TNA; plotted group path."
+    "K6504": "CDS selling on top-20% financial reference entities intensity, notional / fund TNA; plotted group path.",
+    "A6505": "IYMGE8KX",
+    "B6505": "h50",
+    "C6505": "hy1",
+    "K6505": "CDS investment response(s) established by main-text robustness statement; exact outcome decomposition and coefficients await final supplement."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
