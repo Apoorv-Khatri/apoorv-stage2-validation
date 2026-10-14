@@ -385815,3 +385815,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:25:56.555841+00:00 — Review IYMGE8KX h17: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4452",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4453",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4452",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4453",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4452",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4453",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4453",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4452",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4453",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4452",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4453",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4453",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4453",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4453",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4452",
+    "before": null,
+    "after": "Table III A cols1–2, pp554–555; §II.A pp553,557–558: Past performance rank logit coefficient -0.0633, column 1; benchmark: column-specific observed outcome rate 5.36%, potential-CDS-user fund-quarter sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4453",
+    "before": null,
+    "after": "Table III A cols1–2, pp554–555; §II.A pp553,557–558: Past performance rank logit coefficient 0.0743, column 2; benchmark: column-specific observed outcome rate 4.63%, potential-CDS-user fund-quarter sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4452",
+    "before": null,
+    "after": "Same-column coefficient/rate linkage exists, but the parent prior-performance setting fails the causal-interpretation gate. This rejection is not due to the null result or to scale alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4453",
+    "before": null,
+    "after": "Same-column coefficient/rate linkage exists, but the parent prior-performance setting fails the causal-interpretation gate. This rejection is not due to the null result or to scale alignment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6431",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6432",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6431",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6432",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6431",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6432",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6431",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6432",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6431",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6432",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6431",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6432",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6431",
+    "before": null,
+    "after": "Spurious under rejected causal setting: Any CDS selling during current quarter, binary 0/1; not ever-use over the full period. Prior-performance predictor lacks a parameter-specific causal interpretation in p558."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6432",
+    "before": null,
+    "after": "Spurious under rejected causal setting: Any CDS buying during current quarter, binary 0/1. Prior-performance predictor lacks a parameter-specific causal interpretation in p558."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2542",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2542",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2542",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2542",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2542",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2542",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2542",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2542",
+    "before": null,
+    "after": "Past performance rank → fund-quarter any CDS sell/buy (single-name plus index); separate binary logit regressions, quarter and investment-style dummies; lagged fund controls, fund-clustered SE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2542",
+    "before": null,
+    "after": "Reject author-intention gate, not statistical null: p558 only defines prior Performance rank and reports no consistent relation. It gives no parameter-specific incentive/causal interpretation; the proposal supplied an incentive story absent here. Contrast the explicit risk-tolerance and internal-liquidity mechanisms in adjacent paragraphs. A broader substantive-predictor convention could retain it, but would need to explain why age is excluded. Source: Table III A cols1–2, pp554–555; §II.A pp553,557–558."
+  }
+]
+```
