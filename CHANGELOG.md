@@ -400707,3 +400707,588 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T12:40:08.928332+00:00 — Review JFUQHXRF s5: source-audited coding and linked comparisons
+
+96 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4492",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4493",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4494",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4495",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4496",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4497",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4498",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4492",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4493",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4494",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4495",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4496",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4497",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4498",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4492",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4493",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4494",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4495",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4496",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4497",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4498",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K290",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K291",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4493",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4494",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4495",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4496",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4497",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4498",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4492",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4493",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4494",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4495",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4496",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4497",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4498",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4492",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4493",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4494",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4495",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4496",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4497",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4498",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4492",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4493",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4494",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4495",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4496",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4497",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4498",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4492",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4493",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4494",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4495",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4496",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4497",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4498",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4492",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4493",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4494",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4495",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4496",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4497",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4498",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4492",
+    "before": null,
+    "after": "Table15 p929, row Not classified: matched PPP recipients, non-PPP credit outstanding ($billions), 2020Q1 11.5, 2020Q2 10.8. Focal author-interpreted before/after contrast is the Q1→Q2 borrowing change, deliberately paired with its Q1 own-outcome level 11.5. Arithmetic difference of rounded displayed levels is -0.7 billion (reviewer calculation only; no separately printed coefficient or effect/baseline ratio asserted)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4493",
+    "before": null,
+    "after": "Table15 p929, row 0–50: matched PPP recipients, non-PPP credit outstanding ($billions), 2020Q1 103.0, 2020Q2 79.5. Focal author-interpreted before/after contrast is the Q1→Q2 borrowing change, deliberately paired with its Q1 own-outcome level 103.0. Arithmetic difference of rounded displayed levels is -23.5 billion (reviewer calculation only; no separately printed coefficient or effect/baseline ratio asserted)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4494",
+    "before": null,
+    "after": "Table15 p929, row 50–250: matched PPP recipients, non-PPP credit outstanding ($billions), 2020Q1 69.7, 2020Q2 57.1. Focal author-interpreted before/after contrast is the Q1→Q2 borrowing change, deliberately paired with its Q1 own-outcome level 69.7. Arithmetic difference of rounded displayed levels is -12.6 billion (reviewer calculation only; no separately printed coefficient or effect/baseline ratio asserted)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4495",
+    "before": null,
+    "after": "Table15 p929, row 250–1000: matched PPP recipients, non-PPP credit outstanding ($billions), 2020Q1 23.7, 2020Q2 20.4. Focal author-interpreted before/after contrast is the Q1→Q2 borrowing change, deliberately paired with its Q1 own-outcome level 23.7. Arithmetic difference of rounded displayed levels is -3.3 billion (reviewer calculation only; no separately printed coefficient or effect/baseline ratio asserted)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4496",
+    "before": null,
+    "after": "Table15 p929, row 1000–5000: matched PPP recipients, non-PPP credit outstanding ($billions), 2020Q1 16.6, 2020Q2 12.3. Focal author-interpreted before/after contrast is the Q1→Q2 borrowing change, deliberately paired with its Q1 own-outcome level 16.6. Arithmetic difference of rounded displayed levels is -4.3 billion (reviewer calculation only; no separately printed coefficient or effect/baseline ratio asserted)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4497",
+    "before": null,
+    "after": "Table15 p929, row 5000–: matched PPP recipients, non-PPP credit outstanding ($billions), 2020Q1 12.5, 2020Q2 9.6. Focal author-interpreted before/after contrast is the Q1→Q2 borrowing change, deliberately paired with its Q1 own-outcome level 12.5. Arithmetic difference of rounded displayed levels is -2.9 billion (reviewer calculation only; no separately printed coefficient or effect/baseline ratio asserted)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4498",
+    "before": null,
+    "after": "Table15 p929, row Sum: matched PPP recipients, non-PPP credit outstanding ($billions), 2020Q1 237.0, 2020Q2 189.7. Focal author-interpreted before/after contrast is the Q1→Q2 borrowing change, deliberately paired with its Q1 own-outcome level 237.0. Arithmetic difference of rounded displayed levels is -47.3 billion (reviewer calculation only; no separately printed coefficient or effect/baseline ratio asserted)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R290",
+    "before": null,
+    "after": "PPP disbursement is a different variable from non-PPP credit outstanding, not another level of the same outcome. Printed repayment ratio genuinely divides, but that does not make it eligible. Reject independently of verbal status/alignment; no automatic other_level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R291",
+    "before": null,
+    "after": "PPP disbursement is a different variable from non-PPP credit outstanding, not another level of the same outcome. Printed repayment ratio genuinely divides, but that does not make it eligible. Reject independently of verbal status/alignment; no automatic other_level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4492",
+    "before": null,
+    "after": "Eligible same-outcome aggregate baseline-level pairing conditional on retaining s5 under the broad author-intention gate. Totals are other_level, not outcome_mean; alignment n/a does not certify a causal counterfactual. No division by this baseline is reported; verbal=0 records table pairing rather than inventing verbal baseline normalization. PPP funds and printed repayment/PPP ratios remain ineligible different-outcome benchmarks; original c1/c2 stay rejected. Q4 is contextual, not a second benchmark for the focal Q1→Q2 change. Rounding may prevent reconstructing printed PPP ratios exactly."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4493",
+    "before": null,
+    "after": "Eligible same-outcome aggregate baseline-level pairing conditional on retaining s5 under the broad author-intention gate. Totals are other_level, not outcome_mean; alignment n/a does not certify a causal counterfactual. No division by this baseline is reported; verbal=0 records table pairing rather than inventing verbal baseline normalization. PPP funds and printed repayment/PPP ratios remain ineligible different-outcome benchmarks; original c1/c2 stay rejected. Q4 is contextual, not a second benchmark for the focal Q1→Q2 change. Rounding may prevent reconstructing printed PPP ratios exactly."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4494",
+    "before": null,
+    "after": "Eligible same-outcome aggregate baseline-level pairing conditional on retaining s5 under the broad author-intention gate. Totals are other_level, not outcome_mean; alignment n/a does not certify a causal counterfactual. No division by this baseline is reported; verbal=0 records table pairing rather than inventing verbal baseline normalization. PPP funds and printed repayment/PPP ratios remain ineligible different-outcome benchmarks; original c1/c2 stay rejected. Q4 is contextual, not a second benchmark for the focal Q1→Q2 change. Rounding may prevent reconstructing printed PPP ratios exactly."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4495",
+    "before": null,
+    "after": "Eligible same-outcome aggregate baseline-level pairing conditional on retaining s5 under the broad author-intention gate. Totals are other_level, not outcome_mean; alignment n/a does not certify a causal counterfactual. No division by this baseline is reported; verbal=0 records table pairing rather than inventing verbal baseline normalization. PPP funds and printed repayment/PPP ratios remain ineligible different-outcome benchmarks; original c1/c2 stay rejected. Q4 is contextual, not a second benchmark for the focal Q1→Q2 change. Rounding may prevent reconstructing printed PPP ratios exactly."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4496",
+    "before": null,
+    "after": "Eligible same-outcome aggregate baseline-level pairing conditional on retaining s5 under the broad author-intention gate. Totals are other_level, not outcome_mean; alignment n/a does not certify a causal counterfactual. No division by this baseline is reported; verbal=0 records table pairing rather than inventing verbal baseline normalization. PPP funds and printed repayment/PPP ratios remain ineligible different-outcome benchmarks; original c1/c2 stay rejected. Q4 is contextual, not a second benchmark for the focal Q1→Q2 change. Rounding may prevent reconstructing printed PPP ratios exactly."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4497",
+    "before": null,
+    "after": "Eligible same-outcome aggregate baseline-level pairing conditional on retaining s5 under the broad author-intention gate. Totals are other_level, not outcome_mean; alignment n/a does not certify a causal counterfactual. No division by this baseline is reported; verbal=0 records table pairing rather than inventing verbal baseline normalization. PPP funds and printed repayment/PPP ratios remain ineligible different-outcome benchmarks; original c1/c2 stay rejected. Q4 is contextual, not a second benchmark for the focal Q1→Q2 change. Rounding may prevent reconstructing printed PPP ratios exactly."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4498",
+    "before": null,
+    "after": "Eligible same-outcome aggregate baseline-level pairing conditional on retaining s5 under the broad author-intention gate. Totals are other_level, not outcome_mean; alignment n/a does not certify a causal counterfactual. No division by this baseline is reported; verbal=0 records table pairing rather than inventing verbal baseline normalization. PPP funds and printed repayment/PPP ratios remain ineligible different-outcome benchmarks; original c1/c2 stay rejected. Q4 is contextual, not a second benchmark for the focal Q1→Q2 change. Rounding may prevent reconstructing printed PPP ratios exactly."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1242",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1243",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1242",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1243",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1242",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1243",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1242",
+    "before": null,
+    "after": "Aggregate non-PPP credit balances ($billions) and their before/after linear contrast for matched PPP recipients; every reported aggregate balance is positive, not a statement about borrower-level zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1243",
+    "before": null,
+    "after": "spurious as a separate causal outcome: repayment/PPP funds is a descriptive normalization of the same borrowing change, not a separately estimated outcome response. Preserve printed repayment ratios; do not use PPP funds as same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I491",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J491",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K491",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L491",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M491",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N491",
+    "before": null,
+    "after": "PPP receipt before/after aggregate non-PPP bank borrowing among matched recipients, by size and overall."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O491",
+    "before": null,
+    "after": "Retained broad author-intention gate: government funds counteracted credit constraints. Actual linear aggregate before/after contrast, not DiD, matching estimator, IV or nonlinear kernel effect estimator. Matching names/addresses links datasets only. No untreated counterfactual established; easing precautionary demand explicitly acknowledged. PPP amount is not a separately estimated continuous-dose effect. Fig5 distributions corroborate but are not a second causal estimator. Table15 Q1 own-outcome aggregate baseline pairings are retained separately as s5/hc1–hc7, other_level, verbal=0, divided=0, aligned=n/a. Rejection of the PPP-funds denominators does not imply rejection of all same-outcome level comparisons. Source: Table15 p929 and §5.4 pp929–930; Fig5 descriptive corroboration."
+  }
+]
+```
