@@ -25785,7 +25785,16 @@
     "L2670": "0",
     "M2670": "n/a",
     "N2670": "Large (>1bn) versus SME (<250m) mean utilization trajectories around default/non-accrual, interpreted as differential access after bad news.",
-    "O2670": "Broad author-intention gate retained, but explicitly contestable: p920 attributes the divergent pre-distress utilization paths to discretionary loan terms restricting credit after bad news. Figure2 estimates group/time means, not a treatment-effect regression; OLS is the minimum linear mean-comparison classification, not evidence of random size assignment or an identified event shock. Size proxies contractual regimes. No reported numerical large-minus-small causal effect is invented. Eight-quarter pre-event balanced panel; post-event points are illustrative only. Default panel has different group axes. Dashed unconditional size-group means are not linked to a specified numerical focal effect/contrast, so no benchmark triple is added from mere presence of reference lines. If adjudicating a stricter descriptive gate, reject both panels together rather than relabel them DiD. Source: Fig2 panel(b) pp920–921."
+    "O2670": "Broad author-intention gate retained, but explicitly contestable: p920 attributes the divergent pre-distress utilization paths to discretionary loan terms restricting credit after bad news. Figure2 estimates group/time means, not a treatment-effect regression; OLS is the minimum linear mean-comparison classification, not evidence of random size assignment or an identified event shock. Size proxies contractual regimes. No reported numerical large-minus-small causal effect is invented. Eight-quarter pre-event balanced panel; post-event points are illustrative only. Default panel has different group axes. Dashed unconditional size-group means are not linked to a specified numerical focal effect/contrast, so no benchmark triple is added from mere presence of reference lines. If adjudicating a stricter descriptive gate, reject both panels together rather than relabel them DiD. Source: Fig2 panel(b) pp920–921.",
+    "A2671": "JFUQHXRF",
+    "B2671": "h20",
+    "I2671": "1",
+    "J2671": "unknown",
+    "K2671": "1",
+    "L2671": "0",
+    "M2671": "unknown",
+    "N2671": "Absence versus presence of audited financial statements → propensity for a demand loan within firm-size classes.",
+    "O2671": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Mechanism-specific interpretation: lack of audited statements makes collateral less certain and full demand-loan discretion more valuable. Exact table/estimator mapping unresolved; may be linear probability or nonlinear, so unknown not Other. This is not the reverse descriptive size→audit gradient in Table2. Source: Appendix Tables A.14–A.19 collectively; p922."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71036,7 +71045,14 @@
     "H6609": "0",
     "I6609": "unknown",
     "J6609": "none",
-    "K6609": "Utilized/committed credit-line amount, percentage points."
+    "K6609": "Utilized/committed credit-line amount, percentage points.",
+    "A6610": "JFUQHXRF",
+    "B6610": "h20",
+    "C6610": "hy1",
+    "H6610": "unknown",
+    "I6610": "unknown",
+    "J6610": "unknown",
+    "K6610": "Demand-loan indicator/probability; exact estimated scale unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
