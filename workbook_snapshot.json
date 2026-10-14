@@ -25758,7 +25758,16 @@
     "L2667": "0",
     "M2667": "unknown",
     "N2667": "Bank liquid assets differences → loan drawdowns in COVID; alternative bank-capacity explanation, including size gradient.",
-    "O2667": "Published p928 explicitly reports substantive bank-capacity nulls: differences in capital, liquid assets, or deposits across banks do not explain the size gradient in 2020Q1 drawdowns (Table A.12). Visual inspection confirms liq- / uid is one hyphenated word; there is no fourth liquidity variable in this sentence. Retain this minimum treatment-specific scope. Exact bank-variable definitions, normalization, interactions, estimator and any further splits are unknown without the appendix; do not infer HDFE or coefficient grids. Source: Appendix Table A.12; §5.3 p928."
+    "O2667": "Published p928 explicitly reports substantive bank-capacity nulls: differences in capital, liquid assets, or deposits across banks do not explain the size gradient in 2020Q1 drawdowns (Table A.12). Visual inspection confirms liq- / uid is one hyphenated word; there is no fourth liquidity variable in this sentence. Retain this minimum treatment-specific scope. Exact bank-variable definitions, normalization, interactions, estimator and any further splits are unknown without the appendix; do not infer HDFE or coefficient grids. Source: Appendix Table A.12; §5.3 p928.",
+    "A2668": "JFUQHXRF",
+    "B2668": "h17",
+    "I2668": "1",
+    "J2668": "unknown",
+    "K2668": "0",
+    "L2668": "0",
+    "M2668": "unknown",
+    "N2668": "Bank deposits differences → loan drawdowns in COVID; alternative bank-capacity explanation, including size gradient.",
+    "O2668": "Published p928 explicitly reports substantive bank-capacity nulls: differences in capital, liquid assets, or deposits across banks do not explain the size gradient in 2020Q1 drawdowns (Table A.12). Visual inspection confirms liq- / uid is one hyphenated word; there is no fourth liquidity variable in this sentence. Retain this minimum treatment-specific scope. Exact bank-variable definitions, normalization, interactions, estimator and any further splits are unknown without the appendix; do not infer HDFE or coefficient grids. Source: Appendix Table A.12; §5.3 p928."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70991,7 +71000,11 @@
     "A6606": "JFUQHXRF",
     "B6606": "h16",
     "C6606": "hy1",
-    "K6606": "Utilized/committed credit-line amount, percentage points."
+    "K6606": "Utilized/committed credit-line amount, percentage points.",
+    "A6607": "JFUQHXRF",
+    "B6607": "h17",
+    "C6607": "hy1",
+    "K6607": "Utilized/committed credit-line amount, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
