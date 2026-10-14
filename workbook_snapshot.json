@@ -24988,7 +24988,16 @@
     "L2585": "1",
     "M2585": "n/a",
     "N2585": "Lagged Altman Z (3.3 EBIT/AT + REVT/AT +1.4 RE/AT +1.2(ACT−LCT)/AT +0.6(CSHO×PRCC_F)/LT; higher means less distress) → recall incidence; probit Table3 cols3/6/9",
-    "O2585": "Lagged financial condition, observational recall-event/control sample, firm-clustered SE. Industry/year indicators partly address omitted managerial/industry conditions (p1805); nonlinear probit remains Other regardless of dummy count. Remaining omitted-variable risk acknowledged, but broad author-intention gate satisfied by theoretical financial-constraint interpretation and conclusion. Source: Table3 p1802; §3.1 pp1801–1805."
+    "O2585": "Lagged financial condition, observational recall-event/control sample, firm-clustered SE. Industry/year indicators partly address omitted managerial/industry conditions (p1805); nonlinear probit remains Other regardless of dummy count. Remaining omitted-variable risk acknowledged, but broad author-intention gate satisfied by theoretical financial-constraint interpretation and conclusion. Source: Table3 p1802; §3.1 pp1801–1805.",
+    "A2586": "IYY27QU8",
+    "B2586": "h9",
+    "I2586": "1",
+    "J2586": "Other",
+    "K2586": "0",
+    "L2586": "1",
+    "M2586": "n/a",
+    "N2586": "Lagged Altman Z → recall incidence, slope interacted with Tariff cut; probit Table4 col3",
+    "O2586": "Tariff cut: industry annual percentage tariff drop at least twice industry median, using absolute median when positive; exclude next-year reversals. Alternative 2.5/3 thresholds are routine variants. Lagged shock, manufacturing sample; 2-digit SIC and year controls. Competition is a possible separate channel. Probit interaction is not a conventional linear DiD; reported product-term marginal effect is not automatically a discrete total shock effect. Source: Table4 p1809."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69773,7 +69782,11 @@
     "A6515": "IYY27QU8",
     "B6515": "h8",
     "C6515": "hy1",
-    "K6515": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+    "K6515": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero.",
+    "A6516": "IYY27QU8",
+    "B6516": "h9",
+    "C6516": "hy1",
+    "K6516": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
