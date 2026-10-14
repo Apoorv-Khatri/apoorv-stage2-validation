@@ -25024,7 +25024,16 @@
     "L2589": "0",
     "M2589": "n/a",
     "N2589": "Altman Z → recall incidence; linear probability model Table7 col3",
-    "O2589": "Linear probability regression. §3.2 p1805 expressly includes industry and time dummies to partly address weak industry conditions/latent confounding. Two separate effective dimensions (2-digit SIC, year), no firm FE, no HDFE. Code FE under that contextual identifying rationale, though table calls estimation OLS. A narrow dummy-controls reading would yield OLS; contested priority, not an extraction error proved by dummy count. No no-FE linear column is reported to split. Table7 physically places the printed Altman Z coefficient -.0049*** beneath col2 but its p=.000 beneath col3; p1815 explicitly maps Altman Z to col3. Preserve the typesetting anomaly rather than moving the source number or assigning both Market leverage and Z to one treatment model. Source: Table7 p1816; pp1805,1815."
+    "O2589": "Linear probability regression. §3.2 p1805 expressly includes industry and time dummies to partly address weak industry conditions/latent confounding. Two separate effective dimensions (2-digit SIC, year), no firm FE, no HDFE. Code FE under that contextual identifying rationale, though table calls estimation OLS. A narrow dummy-controls reading would yield OLS; contested priority, not an extraction error proved by dummy count. No no-FE linear column is reported to split. Table7 physically places the printed Altman Z coefficient -.0049*** beneath col2 but its p=.000 beneath col3; p1815 explicitly maps Altman Z to col3. Preserve the typesetting anomaly rather than moving the source number or assigning both Market leverage and Z to one treatment model. Source: Table7 p1816; pp1805,1815.",
+    "A2590": "IYY27QU8",
+    "B2590": "h13",
+    "I2590": "1",
+    "J2590": "Other",
+    "K2590": "0",
+    "L2590": "1",
+    "M2590": "n/a",
+    "N2590": "Lagged Altman Z → FDA recall severity, baseline ordered probit Table8 col3",
+    "O2590": "2-digit SIC/year dummies; ordered probit index coefficients, not direct probabilities. Source: Table8 pp1819–1820."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69825,7 +69834,11 @@
     "A6519": "IYY27QU8",
     "B6519": "h12",
     "C6519": "hy1",
-    "K6519": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+    "K6519": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero.",
+    "A6520": "IYY27QU8",
+    "B6520": "h13",
+    "C6520": "hy1",
+    "K6520": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
