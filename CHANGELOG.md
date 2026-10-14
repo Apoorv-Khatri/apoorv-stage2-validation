@@ -406443,3 +406443,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:08:05.321655+00:00 — Review KJGA8A2C s6: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K306",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R306",
+    "before": null,
+    "after": "Reject: .338 versus .161 compares estimated slopes across aggressive/all-order signal specifications, not an inventory-change outcome level. Literal “twice” would imply divided=1 if eligible; eligibility fails first."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1263",
+    "before": null,
+    "after": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I505",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J505",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K505",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L505",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M505",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N505",
+    "before": null,
+    "after": "Predicted signed institutional order L (all trades) and HFT inventory change, Table9 col4 only. Final regression is explicitly OLS; first-stage estimator for signed L is unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O505",
+    "before": null,
+    "after": "Do not label Other merely because adjacent cols1–2 are probits. The prose says a first-stage regression of signed L (−1,0,1), whereas caption says L predicted using public variables in col1; it does not establish whether a compatible linear first stage or nonlinear fitted probabilities were used. If compatible linear projections including controls are verified, IV-equivalence requires review; otherwise this is OLS on a generated signal. No verified excluded-instrument set. Causal gate retained because authors interpret information use as competitive response, explicitly addressing momentum as alternative; predictive-only exclusion remains contested. Aggressive order prediction is h8. No qualifying coefficient-ratio benchmark. Source: §4.3 pp1063–1065; Table9 col4."
+  }
+]
+```
