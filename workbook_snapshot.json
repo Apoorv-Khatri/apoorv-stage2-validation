@@ -25483,7 +25483,16 @@
     "L2640": "0",
     "M2640": "n/a",
     "N2640": "Altman Z: mean over t−1,t−2,t−3 → recall incidence; probit lag-structure analysis.",
-    "O2640": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Source establishes these implemented column scopes explicitly. Longer-lag nulls retained as substantive dynamic results. Joint lags grouped as one dynamic estimand set; repeated col1 equals Table3 and is not duplicated. Source: §4.2 p1821; Internet Appendix Table11 panel C col2."
+    "O2640": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Source establishes these implemented column scopes explicitly. Longer-lag nulls retained as substantive dynamic results. Joint lags grouped as one dynamic estimand set; repeated col1 equals Table3 and is not duplicated. Source: §4.2 p1821; Internet Appendix Table11 panel C col2.",
+    "A2641": "IYY27QU8",
+    "B2641": "h64",
+    "I2641": "1",
+    "J2641": "Other",
+    "K2641": "0",
+    "L2641": "0",
+    "M2641": "n/a",
+    "N2641": "Altman Z: joint distributed lags t−1,t−2,t−3 → recall incidence; probit lag-structure analysis.",
+    "O2641": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Source establishes these implemented column scopes explicitly. Longer-lag nulls retained as substantive dynamic results. Joint lags grouped as one dynamic estimand set; repeated col1 equals Table3 and is not duplicated. Source: §4.2 p1821; Internet Appendix Table11 panel C col3."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70497,7 +70506,11 @@
     "A6570": "IYY27QU8",
     "B6570": "h63",
     "C6570": "hy1",
-    "K6570": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+    "K6570": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero.",
+    "A6571": "IYY27QU8",
+    "B6571": "h64",
+    "C6571": "hy1",
+    "K6571": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
