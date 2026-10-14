@@ -399561,3 +399561,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:35:15.486815+00:00 — Review IYY27QU8 h70: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6579",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6580",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6581",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6579",
+    "before": null,
+    "after": "h70"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6580",
+    "before": null,
+    "after": "h70"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6581",
+    "before": null,
+    "after": "h70"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6579",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6580",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6581",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6579",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6580",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6581",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6579",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6580",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6581",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6579",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6580",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6581",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6579",
+    "before": null,
+    "after": "Change in Book leverage subsequent to recall relative to nonrecall matched firms; precise start/end years not supplied by fn17."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6580",
+    "before": null,
+    "after": "Change in Market leverage subsequent to recall relative to nonrecall matched firms; precise start/end years not supplied by fn17."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6581",
+    "before": null,
+    "after": "Change in Altman Z subsequent to recall relative to nonrecall matched firms; precise start/end years not supplied by fn17."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2647",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2647",
+    "before": null,
+    "after": "h70"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2647",
+    "before": null,
+    "after": "Matching"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2647",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2647",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2647",
+    "before": null,
+    "after": "Recall occurrence versus matched nonrecall → subsequent change in Book leverage, Market leverage and Altman Z; propensity-score matching."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2647",
+    "before": null,
+    "after": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Best-one and best-four matches using all Table3 attributes other than financial-condition variables; full/clean-event samples grouped. No outcome-selected weights are stated. Changes are compared, but main does not establish a parallel-trends DiD regression; code Matching on documented design. ATT-like target; outcome-change horizon unspecified. Source: Footnote17 p1824; Internet Appendix Table15."
+  }
+]
+```
