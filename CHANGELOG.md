@@ -412296,3 +412296,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:15:36.614544+00:00 — Review KJGA8A2C h17: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6661",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6661",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6661",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6661",
+    "before": null,
+    "after": "Opposite-direction HFT order cancellations. Unit/count versus volume/standardized scale and actual support unreported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2707",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2707",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2707",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2707",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2707",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2707",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2707",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2707",
+    "before": null,
+    "after": "Institutional trades increase opposite-direction HFT order cancellations, unreported results in footnote11."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2707",
+    "before": null,
+    "after": "Implemented substantive phantom-liquidity mechanism explicitly reported, not just announced. Estimator, signed versus separate-arm exposure, scale, FE and coefficient are not supplied. Unknowns intentional; no unseen appendix grid invented. Source: p1061 fn11."
+  }
+]
+```
