@@ -25132,7 +25132,16 @@
     "L2601": "0",
     "M2601": "n/a",
     "N2601": "Lagged Vertical integration dummy → recall incidence; Table3 probit cols1–9.",
-    "O2601": "1 if any segment industry sources ≥5% of inputs from another industry represented within firm, else0; internal coordination channel. Lagged financial condition, observational recall-event/control sample, firm-clustered SE. Industry/year indicators partly address omitted managerial/industry conditions (p1805); nonlinear probit remains Other regardless of dummy count. Remaining omitted-variable risk acknowledged, but broad author-intention gate satisfied by theoretical financial-constraint interpretation and conclusion. Source: Table3 p1802; §3.1 pp1804–1805, fn7; Appendix A1 pp1826–1827."
+    "O2601": "1 if any segment industry sources ≥5% of inputs from another industry represented within firm, else0; internal coordination channel. Lagged financial condition, observational recall-event/control sample, firm-clustered SE. Industry/year indicators partly address omitted managerial/industry conditions (p1805); nonlinear probit remains Other regardless of dummy count. Remaining omitted-variable risk acknowledged, but broad author-intention gate satisfied by theoretical financial-constraint interpretation and conclusion. Source: Table3 p1802; §3.1 pp1804–1805, fn7; Appendix A1 pp1826–1827.",
+    "A2602": "IYY27QU8",
+    "B2602": "h25",
+    "I2602": "1",
+    "J2602": "Other",
+    "K2602": "0",
+    "L2602": "0",
+    "M2602": "n/a",
+    "N2602": "Lagged R&D intensity → recall incidence; Table3 probit cols1–9.",
+    "O2602": "XRD/AT; long-run quality/innovation investment channel. Lagged financial condition, observational recall-event/control sample, firm-clustered SE. Industry/year indicators partly address omitted managerial/industry conditions (p1805); nonlinear probit remains Other regardless of dummy count. Remaining omitted-variable risk acknowledged, but broad author-intention gate satisfied by theoretical financial-constraint interpretation and conclusion. Source: Table3 p1802; §3.1 pp1804–1805, fn7; Appendix A1 pp1826–1827."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69984,7 +69993,11 @@
     "H6531": "1",
     "I6531": "1",
     "J6531": "none",
-    "K6531": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+    "K6531": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero.",
+    "A6532": "IYY27QU8",
+    "B6532": "h25",
+    "C6532": "hy1",
+    "K6532": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
