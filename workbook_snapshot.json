@@ -25069,7 +25069,16 @@
     "L2594": "1",
     "M2594": "n/a",
     "N2594": "Altman Z → FDA recall severity with slope moderated by Tariff cut; ordered probit Table8 col6.",
-    "O2594": "Tariff cut: industry annual percentage tariff drop at least twice industry median, using absolute median when positive; exclude next-year reversals. Alternative 2.5/3 thresholds are routine variants. Lagged shock, manufacturing sample; 2-digit SIC and year controls. Competition is a possible separate channel. Probit interaction is not a conventional linear DiD; reported product-term marginal effect is not automatically a discrete total shock effect. Ordered probit, not binary probit. Interaction index coefficient does not equal an average shock effect. Source: Table8 pp1819–1820; §4.1 p1818."
+    "O2594": "Tariff cut: industry annual percentage tariff drop at least twice industry median, using absolute median when positive; exclude next-year reversals. Alternative 2.5/3 thresholds are routine variants. Lagged shock, manufacturing sample; 2-digit SIC and year controls. Competition is a possible separate channel. Probit interaction is not a conventional linear DiD; reported product-term marginal effect is not automatically a discrete total shock effect. Ordered probit, not binary probit. Interaction index coefficient does not equal an average shock effect. Source: Table8 pp1819–1820; §4.1 p1818.",
+    "A2595": "IYY27QU8",
+    "B2595": "h18",
+    "I2595": "1",
+    "J2595": "Other",
+    "K2595": "0",
+    "L2595": "1",
+    "M2595": "n/a",
+    "N2595": "Book leverage → FDA recall severity with slope moderated by Negative input price shock; ordered probit Table8 col7.",
+    "O2595": "Negative input price shock: weighted real PPI of five chief supplier industries, geometric three-year growth ≥5%; lagged at fiscal year-end. 2-digit SIC/year indicators. Keep null Market leverage interaction. Nonlinear probit is Other, notwithstanding quasi-DiD interpretation. Direct shock coefficient conditional on zero financial-condition index is not an unconditional shock effect. Ordered probit, not binary probit. Interaction index coefficient does not equal an average shock effect. Source: Table8 pp1819–1820; §4.1 p1818."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69890,7 +69899,11 @@
     "A6524": "IYY27QU8",
     "B6524": "h17",
     "C6524": "hy1",
-    "K6524": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome."
+    "K6524": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome.",
+    "A6525": "IYY27QU8",
+    "B6525": "h18",
+    "C6525": "hy1",
+    "K6525": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
