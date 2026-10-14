@@ -26256,7 +26256,16 @@
     "L2712": "0",
     "M2712": "n/a",
     "N2712": "LateStage indicator (institutional trade underway for more than 10 fifteen-minute periods), conditional on 1T and MidStage; HFT profit per share without/with fees, TableA1 cols2/4.",
-    "O2712": "OLS explicitly stated; stock dummies and contemporaneous/lagged stock trade volume included. No author argument gives stock FE a separate identifying role, so survey OLS, with actual dummies documented. N=1,446,256, stock-date clustered SE. Supporting profitability mechanism, not main-article headline. Observational learning/adverse-selection interpretation passes broad gate. Author-linked Internet Appendix, July 18, 2018, PDF2–4 / printed pp1–3, Table A1. Title/authors and main fn10 match; publisher-byte identity unverified. Printed LateStage coefficients 1.39 and 3.48. Under literal nested coding these are late-versus-early increments; not automatically total late-stage profits. Stage coding caution: text defines 1T for any institutional trade and MidStage/LateStage as nested indicators. Under that literal additive coding, unadjusted late-stage increment is −2.05+1.39=−.66, whereas prose says late-stage profits are positive. Do not relabel 1T as early-only or treat stage coefficients as verified total profit levels; constants/FE baseline and implementation are not supplied. Preserve this source interpretation conflict. Source: Author-linked Internet Appendix, July 18, 2018, PDF2–4 / printed pp1–3, Table A1. Title/authors and main fn10 match; publisher-byte identity unverified.."
+    "O2712": "OLS explicitly stated; stock dummies and contemporaneous/lagged stock trade volume included. No author argument gives stock FE a separate identifying role, so survey OLS, with actual dummies documented. N=1,446,256, stock-date clustered SE. Supporting profitability mechanism, not main-article headline. Observational learning/adverse-selection interpretation passes broad gate. Author-linked Internet Appendix, July 18, 2018, PDF2–4 / printed pp1–3, Table A1. Title/authors and main fn10 match; publisher-byte identity unverified. Printed LateStage coefficients 1.39 and 3.48. Under literal nested coding these are late-versus-early increments; not automatically total late-stage profits. Stage coding caution: text defines 1T for any institutional trade and MidStage/LateStage as nested indicators. Under that literal additive coding, unadjusted late-stage increment is −2.05+1.39=−.66, whereas prose says late-stage profits are positive. Do not relabel 1T as early-only or treat stage coefficients as verified total profit levels; constants/FE baseline and implementation are not supplied. Preserve this source interpretation conflict. Source: Author-linked Internet Appendix, July 18, 2018, PDF2–4 / printed pp1–3, Table A1. Title/authors and main fn10 match; publisher-byte identity unverified..",
+    "A2713": "KJGA8A2C",
+    "B2713": "h23",
+    "I2713": "1",
+    "J2713": "OLS",
+    "K2713": "0",
+    "L2713": "0",
+    "M2713": "n/a",
+    "N2713": "Lagged public normalized trade imbalance y (four 15-minute lags) and HFT inventory change, Table9 col3; jointly controls other signals and inventory.",
+    "O2713": "Split distinct treatment from former h9 signal vector. Authors interpret higher-lag negative imbalance response as HFT information advantage and competitive demand, not merely prediction fit; broad gate retained, predictive-only exclusion contested. Explicit OLS, no established identifying FE. Four lag coefficients .012,−.001,−.004,−.004. Source definition conflict: p1063 calls y total number of buy orders minus sell orders; Table9 caption calls it net shares purchased. Both say normalized using prior-month data. Exact raw order-count versus share-volume implementation unresolved. Outcome denominator remains inventory-level SD, not change SD; no benchmark comparison. Source: pp1063–1064; Table9 col3."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71870,7 +71879,11 @@
     "H6673": "0",
     "I6673": "unknown",
     "J6673": "none",
-    "K6673": "HFT profit per share in stock/15-minute period: dollars sold minus dollars bought plus signed marked-to-market end-period position, divided by max(shares bought, shares sold); source reports basis points. Includes liquidity rebate $0.0031/share and taker fee $0.0035/share. The per-share ratio defines the outcome; no log/SD transformation reported. Further conversion from dollars/share to basis points is not specified. Do not infer zero mass from possible inactivity."
+    "K6673": "HFT profit per share in stock/15-minute period: dollars sold minus dollars bought plus signed marked-to-market end-period position, divided by max(shares bought, shares sold); source reports basis points. Includes liquidity rebate $0.0031/share and taker fee $0.0035/share. The per-share ratio defines the outcome; no log/SD transformation reported. Further conversion from dollars/share to basis points is not specified. Do not infer zero mass from possible inactivity.",
+    "A6674": "KJGA8A2C",
+    "B6674": "h23",
+    "C6674": "hy1",
+    "K6674": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

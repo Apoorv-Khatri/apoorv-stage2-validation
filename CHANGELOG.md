@@ -413430,3 +413430,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:18:33.165379+00:00 — Review KJGA8A2C h23: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6674",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6674",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6674",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6674",
+    "before": null,
+    "after": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2713",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2713",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2713",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2713",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2713",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2713",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2713",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2713",
+    "before": null,
+    "after": "Lagged public normalized trade imbalance y (four 15-minute lags) and HFT inventory change, Table9 col3; jointly controls other signals and inventory."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2713",
+    "before": null,
+    "after": "Split distinct treatment from former h9 signal vector. Authors interpret higher-lag negative imbalance response as HFT information advantage and competitive demand, not merely prediction fit; broad gate retained, predictive-only exclusion contested. Explicit OLS, no established identifying FE. Four lag coefficients .012,−.001,−.004,−.004. Source definition conflict: p1063 calls y total number of buy orders minus sell orders; Table9 caption calls it net shares purchased. Both say normalized using prior-month data. Exact raw order-count versus share-volume implementation unresolved. Outcome denominator remains inventory-level SD, not change SD; no benchmark comparison. Source: pp1063–1064; Table9 col3."
+  }
+]
+```
