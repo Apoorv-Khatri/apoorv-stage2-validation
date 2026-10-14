@@ -392904,3 +392904,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:02:53.968846+00:00 — Review IYY27QU8 s4: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1227",
+    "before": null,
+    "after": "Indicator for any recall February 2008–December 2008; zero otherwise."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1228",
+    "before": null,
+    "after": "Indicator for any recall February 2008–December 2009; zero otherwise."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1229",
+    "before": null,
+    "after": "Indicator for any recall February 2008–December 2010; zero otherwise."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J481",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K481",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M481",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N481",
+    "before": null,
+    "after": "Debt due at onset of crisis → any recall over three cumulative crisis horizons; probit Table6 cols1–3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O481",
+    "before": null,
+    "after": "DD1/(DD1+DLTT), fiscal-year-end 2007 months Sep/Oct/Nov/Dec/Jan. Predetermined maturity exposure to unexpected crisis; continuous receipt/exposure, not a crisis dummy. 2-digit SIC dummies, no year FE in this cross-section; nonlinear Other. Table6 reports coefficients, not expressly marginal effects. Source: Table6 p1813; §3.2.1.3 pp1812–1814."
+  }
+]
+```
