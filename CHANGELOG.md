@@ -390714,3 +390714,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:30:58.651257+00:00 — Review IYMGE8KX h36: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6481",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6481",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6481",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6481",
+    "before": null,
+    "after": "Portfolio yield minus five-year Treasury rate, percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2561",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2561",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2561",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2561",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2561",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2561",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2561",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2561",
+    "before": null,
+    "after": "all CDS selling intensity (single-name plus indices) (% TNA) → fund portfolio spread over five-year Treasury (% points), fund-quarter linear regressions; time/style dummy controls and fund size, with/without duration/security-class controls; cross-fund response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2561",
+    "before": null,
+    "after": "Quarter/style controls are present, not a no-dummy regression. The paper distinguishes the identifying within-fund effect from this cross-fund yield-targeting relation; code OLS/regression adjustment, not automatically identifying FE. No DiD or IV. Printed focal coefficients [0.1663, 0.1553]. Neither 93bp composition difference nor 14/13bp recomputation belongs to these regression coefficients. Source: Table V p570, cols4/5; §III.B p569."
+  }
+]
+```
