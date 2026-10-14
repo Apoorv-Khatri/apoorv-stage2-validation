@@ -392481,3 +392481,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:34:57.826395+00:00 — Review IYMGE8KX h51: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6506",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6506",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6506",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6506",
+    "before": null,
+    "after": "CDS investment response(s) established by main-text robustness statement; exact outcome decomposition and coefficients await final supplement."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2576",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2576",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2576",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2576",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2576",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2576",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2576",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2576",
+    "before": null,
+    "after": "Number of quoting dealers → CDS investment responses, alternative CDS liquidity proxy."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2576",
+    "before": null,
+    "after": "Retain minimum implementation scope, weak but positive evidence: fn13 p560 says contract count yields sharper results than dealer count, naturally implying a comparative empirical exercise. It does not merely list a possible proxy. This does not establish the exact estimator, dependent-variable grid, result location beyond fn13, or coefficients; method remains unknown. Alternative reading as measurement commentary would exclude it, so do not present this as settled supplemental coverage. Source: Footnote13 p560."
+  }
+]
+```

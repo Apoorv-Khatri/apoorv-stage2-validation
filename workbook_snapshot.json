@@ -24834,7 +24834,16 @@
     "L2575": "0",
     "M2575": "unknown",
     "N2575": "Alternative bond-turnover liquidity measure → CDS investment responses, qualitatively similar robustness.",
-    "O2575": "Explicit implemented alternative measure. Monthly trading dollars/issuance amount; exact setting coverage not printed. No hidden appendix grid inferred. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Source: Footnote14 p560."
+    "O2575": "Explicit implemented alternative measure. Monthly trading dollars/issuance amount; exact setting coverage not printed. No hidden appendix grid inferred. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Source: Footnote14 p560.",
+    "A2576": "IYMGE8KX",
+    "B2576": "h51",
+    "I2576": "1",
+    "J2576": "unknown",
+    "K2576": "0",
+    "L2576": "0",
+    "M2576": "unknown",
+    "N2576": "Number of quoting dealers → CDS investment responses, alternative CDS liquidity proxy.",
+    "O2576": "Retain minimum implementation scope, weak but positive evidence: fn13 p560 says contract count yields sharper results than dealer count, naturally implying a comparative empirical exercise. It does not merely list a possible proxy. This does not establish the exact estimator, dependent-variable grid, result location beyond fn13, or coefficients; method remains unknown. Alternative reading as measurement commentary would exclude it, so do not present this as settled supplemental coverage. Source: Footnote13 p560."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69566,7 +69575,11 @@
     "A6505": "IYMGE8KX",
     "B6505": "h50",
     "C6505": "hy1",
-    "K6505": "CDS investment response(s) established by main-text robustness statement; exact outcome decomposition and coefficients await final supplement."
+    "K6505": "CDS investment response(s) established by main-text robustness statement; exact outcome decomposition and coefficients await final supplement.",
+    "A6506": "IYMGE8KX",
+    "B6506": "h51",
+    "C6506": "hy1",
+    "K6506": "CDS investment response(s) established by main-text robustness statement; exact outcome decomposition and coefficients await final supplement."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
