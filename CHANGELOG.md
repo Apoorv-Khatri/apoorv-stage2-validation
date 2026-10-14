@@ -387231,3 +387231,378 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:27:31.380936+00:00 — Review IYMGE8KX h23: source-audited coding and linked comparisons
+
+61 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4460",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4461",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4462",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4463",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4460",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4461",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4462",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4463",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4460",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4461",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4462",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4463",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4460",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4461",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4462",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4463",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4460",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4461",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4462",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4463",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4460",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4461",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4462",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4463",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4460",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4461",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4462",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4463",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4460",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4461",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4462",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4463",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4460",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4461",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4462",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4463",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4460",
+    "before": null,
+    "after": "Table IV A pp563–564; §II.B pp560–567: Bond trading-day fraction logit coefficient 0.735, column 1; benchmark: observed column outcome rate 0.078%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4461",
+    "before": null,
+    "after": "Table IV A pp563–564; §II.B pp560–567: Bond trading-day fraction logit coefficient -0.0466, column 2; benchmark: observed column outcome rate 0.117%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4462",
+    "before": null,
+    "after": "Table IV A pp563–564; §II.B pp560–567: Bond trading-day fraction logit coefficient 0.741, column 3; benchmark: observed column outcome rate 0.078%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4463",
+    "before": null,
+    "after": "Table IV A pp563–564; §II.B pp560–567: Bond trading-day fraction logit coefficient -0.0483, column 4; benchmark: observed column outcome rate 0.117%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4460",
+    "before": null,
+    "after": "Exact table pairing. Log-odds coefficient and overall observed probability have incompatible effect/baseline interpretation. p566 reports odds ratios 2.48/1.27 for CDS liquidity and 1.20 for bond liquidity; precise liquidity-column assignment is not uniquely established, so these prose ratios are not silently attributed to this exact coefficient or counted twice. They are not author division by the printed outcome rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4461",
+    "before": null,
+    "after": "Exact table pairing. Log-odds coefficient and overall observed probability have incompatible effect/baseline interpretation. p566 reports odds ratios 2.48/1.27 for CDS liquidity and 1.20 for bond liquidity; precise liquidity-column assignment is not uniquely established, so these prose ratios are not silently attributed to this exact coefficient or counted twice. They are not author division by the printed outcome rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4462",
+    "before": null,
+    "after": "Exact table pairing. Log-odds coefficient and overall observed probability have incompatible effect/baseline interpretation. p566 reports odds ratios 2.48/1.27 for CDS liquidity and 1.20 for bond liquidity; precise liquidity-column assignment is not uniquely established, so these prose ratios are not silently attributed to this exact coefficient or counted twice. They are not author division by the printed outcome rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4463",
+    "before": null,
+    "after": "Exact table pairing. Log-odds coefficient and overall observed probability have incompatible effect/baseline interpretation. p566 reports odds ratios 2.48/1.27 for CDS liquidity and 1.20 for bond liquidity; precise liquidity-column assignment is not uniquely established, so these prose ratios are not silently attributed to this exact coefficient or counted twice. They are not author division by the printed outcome rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6447",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6448",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6447",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6448",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6447",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6448",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6447",
+    "before": null,
+    "after": "Any CDS sell position on given issuer in given quarter, 0/1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6448",
+    "before": null,
+    "after": "Any CDS buy position on given issuer in given quarter, 0/1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2548",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2548",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2548",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2548",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2548",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2548",
+    "before": null,
+    "after": "Bond trading-day fraction → any CDS sell/buy at fund–issuer–quarter level; binary logit, Table IV A cols1–4, without/with lagged fund controls. Quarter and investment-style dummies throughout."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2548",
+    "before": null,
+    "after": "Value-weighted fraction of days with trades across issuer bonds, lagged; not CDS liquidity. Buying null and positive selling response are substantive. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table IV A pp563–564; §II.B pp560–567."
+  }
+]
+```
