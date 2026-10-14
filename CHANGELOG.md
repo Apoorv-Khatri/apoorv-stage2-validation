@@ -393945,3 +393945,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:08:28.376532+00:00 — Review IYY27QU8 h8: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4491",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4491",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4491",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4491",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4491",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4491",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4491",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4491",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4491",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4491",
+    "before": null,
+    "after": "p1803, Table3 col9: Altman Z 25th→75th percentile, other covariates at means, lowers implied recall probability by 1.42 percentage points; authors call this a decrease of about 6.45%. The preceding Book-leverage discussion supplies 22.09% (3,296/14,918, explicitly col7); col9 has 14,865 observations and its own rate is not explicitly supplied. Qualifying verbal normalization to the unconditional recall rate is clear; exact col9 denominator is unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4491",
+    "before": null,
+    "after": "The observations are recall events and never-recalling controls from the same three-digit SIC, not a balanced firm-year population: nonrecall years of recalling firms are not included as controls (p1814/fn14). The at-mean-covariate interquartile continuous-treatment contrast is not an established untreated-target mean contrast. The source does not establish a reference dose/target-weight construction, so alignment remains unknown under section7 rather than automatically 1 or 0. Col9 N=14,865 differs from col7 N=14,918. Its own recall numerator/base rate is not explicitly printed in the magnitude paragraph. Retain -1.42pp and the reported 6.45% reduction, with the preceding 22.09% only as paragraph context, not a verified col9 denominator. Do not reconstruct a rate by division."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6515",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6515",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6515",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6515",
+    "before": null,
+    "after": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2585",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2585",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2585",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2585",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2585",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2585",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2585",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2585",
+    "before": null,
+    "after": "Lagged Altman Z (3.3 EBIT/AT + REVT/AT +1.4 RE/AT +1.2(ACT−LCT)/AT +0.6(CSHO×PRCC_F)/LT; higher means less distress) → recall incidence; probit Table3 cols3/6/9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2585",
+    "before": null,
+    "after": "Lagged financial condition, observational recall-event/control sample, firm-clustered SE. Industry/year indicators partly address omitted managerial/industry conditions (p1805); nonlinear probit remains Other regardless of dummy count. Remaining omitted-variable risk acknowledged, but broad author-intention gate satisfied by theoretical financial-constraint interpretation and conclusion. Source: Table3 p1802; §3.1 pp1801–1805."
+  }
+]
+```

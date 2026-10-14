@@ -24979,7 +24979,16 @@
     "L2584": "1",
     "M2584": "n/a",
     "N2584": "2005 Market leverage → total 2006–2010 recall count; Poisson Table9 col2",
-    "O2584": "One observation per firm, 2-digit SIC dummies; central frequency/persistence result. Source: Table9 p1823; §4.2 pp1821–1822."
+    "O2584": "One observation per firm, 2-digit SIC dummies; central frequency/persistence result. Source: Table9 p1823; §4.2 pp1821–1822.",
+    "A2585": "IYY27QU8",
+    "B2585": "h8",
+    "I2585": "1",
+    "J2585": "Other",
+    "K2585": "0",
+    "L2585": "1",
+    "M2585": "n/a",
+    "N2585": "Lagged Altman Z (3.3 EBIT/AT + REVT/AT +1.4 RE/AT +1.2(ACT−LCT)/AT +0.6(CSHO×PRCC_F)/LT; higher means less distress) → recall incidence; probit Table3 cols3/6/9",
+    "O2585": "Lagged financial condition, observational recall-event/control sample, firm-clustered SE. Industry/year indicators partly address omitted managerial/industry conditions (p1805); nonlinear probit remains Other regardless of dummy count. Remaining omitted-variable risk acknowledged, but broad author-intention gate satisfied by theoretical financial-constraint interpretation and conclusion. Source: Table3 p1802; §3.1 pp1801–1805."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69760,7 +69769,11 @@
     "A6514": "IYY27QU8",
     "B6514": "h7",
     "C6514": "hy1",
-    "K6514": "Total number of recall events 2006–2010; zero for never-recalling controls."
+    "K6514": "Total number of recall events 2006–2010; zero for never-recalling controls.",
+    "A6515": "IYY27QU8",
+    "B6515": "h8",
+    "C6515": "hy1",
+    "K6515": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -119241,7 +119254,18 @@
     "O4490": "1",
     "P4490": "unknown",
     "Q4490": "§3.1 p1803, Table3 col8: Market leverage 25th→75th percentile at mean other covariates changes implied recall probability by +3.05 percentage points; authors report 13.81% relative change, in same paragraph anchored by unconditional22.09% (3296/14918, explicitly col7).",
-    "R4490": "The observations are recall events and never-recalling controls from the same three-digit SIC, not a balanced firm-year population: nonrecall years of recalling firms are not included as controls (p1814/fn14). The at-mean-covariate interquartile continuous-treatment contrast is not an established untreated-target mean contrast. The source does not establish a reference dose/target-weight construction, so alignment remains unknown under section7 rather than automatically 1 or 0. Col8 and col7 both report N=14,918. The paragraph links +3.05pp to 13.81% by its preceding unconditional-rate discussion; no Altman-specific denominator caution belongs on this Market-leverage row."
+    "R4490": "The observations are recall events and never-recalling controls from the same three-digit SIC, not a balanced firm-year population: nonrecall years of recalling firms are not included as controls (p1814/fn14). The at-mean-covariate interquartile continuous-treatment contrast is not an established untreated-target mean contrast. The source does not establish a reference dose/target-weight construction, so alignment remains unknown under section7 rather than automatically 1 or 0. Col8 and col7 both report N=14,918. The paragraph links +3.05pp to 13.81% by its preceding unconditional-rate discussion; no Altman-specific denominator caution belongs on this Market-leverage row.",
+    "A4491": "IYY27QU8",
+    "B4491": "h8",
+    "C4491": "hc1",
+    "K4491": "1",
+    "L4491": "hy1",
+    "M4491": "outcome_mean",
+    "N4491": "1",
+    "O4491": "1",
+    "P4491": "unknown",
+    "Q4491": "p1803, Table3 col9: Altman Z 25th→75th percentile, other covariates at means, lowers implied recall probability by 1.42 percentage points; authors call this a decrease of about 6.45%. The preceding Book-leverage discussion supplies 22.09% (3,296/14,918, explicitly col7); col9 has 14,865 observations and its own rate is not explicitly supplied. Qualifying verbal normalization to the unconditional recall rate is clear; exact col9 denominator is unresolved.",
+    "R4491": "The observations are recall events and never-recalling controls from the same three-digit SIC, not a balanced firm-year population: nonrecall years of recalling firms are not included as controls (p1814/fn14). The at-mean-covariate interquartile continuous-treatment contrast is not an established untreated-target mean contrast. The source does not establish a reference dose/target-weight construction, so alignment remains unknown under section7 rather than automatically 1 or 0. Col9 N=14,865 differs from col7 N=14,918. Its own recall numerator/base rate is not explicitly printed in the magnitude paragraph. Retain -1.42pp and the reported 6.45% reduction, with the preceding 22.09% only as paragraph context, not a verified col9 denominator. Do not reconstruct a rate by division."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
