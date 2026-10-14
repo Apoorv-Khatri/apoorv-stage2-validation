@@ -25033,7 +25033,16 @@
     "L2590": "1",
     "M2590": "n/a",
     "N2590": "Lagged Altman Z → FDA recall severity, baseline ordered probit Table8 col3",
-    "O2590": "2-digit SIC/year dummies; ordered probit index coefficients, not direct probabilities. Source: Table8 pp1819–1820."
+    "O2590": "2-digit SIC/year dummies; ordered probit index coefficients, not direct probabilities. Source: Table8 pp1819–1820.",
+    "A2591": "IYY27QU8",
+    "B2591": "h14",
+    "I2591": "1",
+    "J2591": "Other",
+    "K2591": "0",
+    "L2591": "1",
+    "M2591": "n/a",
+    "N2591": "2005 Altman Z → total 2006–2010 recall count; Poisson Table9 col3",
+    "O2591": "One observation per firm, 2-digit SIC dummies; central frequency/persistence result. Source: Table9 p1823; §4.2 pp1821–1822."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69838,7 +69847,11 @@
     "A6520": "IYY27QU8",
     "B6520": "h13",
     "C6520": "hy1",
-    "K6520": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome."
+    "K6520": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome.",
+    "A6521": "IYY27QU8",
+    "B6521": "h14",
+    "C6521": "hy1",
+    "K6521": "Total number of recall events 2006–2010; zero for never-recalling controls."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -394533,3 +394533,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:11:07.166027+00:00 — Review IYY27QU8 h14: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6521",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6521",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6521",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6521",
+    "before": null,
+    "after": "Total number of recall events 2006–2010; zero for never-recalling controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2591",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2591",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2591",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2591",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2591",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2591",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2591",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2591",
+    "before": null,
+    "after": "2005 Altman Z → total 2006–2010 recall count; Poisson Table9 col3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2591",
+    "before": null,
+    "after": "One observation per firm, 2-digit SIC dummies; central frequency/persistence result. Source: Table9 p1823; §4.2 pp1821–1822."
+  }
+]
+```
