@@ -404820,3 +404820,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T14:13:58.278312+00:00 — Review JGNACSDE h13: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6628",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6628",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6628",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6628",
+    "before": null,
+    "after": "Dealer d’s price markup on bond j in auction t relative to the closest ask, measured in cents per $100 par value at the auction-CUSIP-dealer level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2685",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2685",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2685",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2685",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2685",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2685",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2685",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2685",
+    "before": null,
+    "after": "Pre-auction volatility: SD of daily returns over preceding five trading days, percentage points. Focal VOL response in §7, Eq15, Table12 cols5–8 pp118–120 (PDF16–18). Outcome set as in s6. Include full-sample slope, top-five interaction and subgroup slopes; continuous treatment with ex-post profit-group heterogeneity, not a binary top-five intervention."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2685",
+    "before": null,
+    "after": "Winner’s-curse uncertainty channel explicitly predicts higher costs (§3 p108, §4.3 p112); quantity/supply-liquidity interpretation pp115,120. Retain insignificant coefficients rather than dropping null evidence. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Independent gate: retain this null because the winner’s-curse hypothesis explicitly predicts uncertainty raises cost (pp108,112), and dealer markup is the same cost paid by the Fed (p117). This directed cost hypothesis differs from unspecified scarcity effects on quantity. Table12 VOL slope heterogeneity is not itself claimed to be a significant group difference. Source: §7, Eq15, Table12 cols5–8 pp118–120 (PDF16–18); §4.3 pp112–113; §§5–7 pp115–120."
+  }
+]
+```

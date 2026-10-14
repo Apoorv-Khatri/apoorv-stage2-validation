@@ -25961,7 +25961,16 @@
     "L2684": "1",
     "M2684": "n/a",
     "N2684": "8:40am ask minus bid divided by midpoint, basis points. Focal Bid-Ask response in §7, Eq14, Table12 cols1–4 pp118–120 (PDF16–18). Outcome set as in s5. Include full-sample slope, top-five interaction and subgroup slopes; continuous treatment with ex-post profit-group heterogeneity, not a binary top-five intervention.",
-    "O2684": "Liquidity/dealer sourcing channel for quantity pp115,120; cost direction pp117,120. Prose p113 prints Bid−Ask notation despite defining ask−bid; preserve textual discrepancy, use economic definition of positive spread. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Main=1: p120 explicitly explains the central top-five profit advantage by ability to source less volatile/lower-spread bonds, alongside cheapness. The heterogeneous quantity slopes materially support that central mechanism, rather than being merely incidental controls. Source: §7, Eq14, Table12 cols1–4 pp118–120 (PDF16–18); §4.3 pp112–113; §§5–7 pp115–120."
+    "O2684": "Liquidity/dealer sourcing channel for quantity pp115,120; cost direction pp117,120. Prose p113 prints Bid−Ask notation despite defining ask−bid; preserve textual discrepancy, use economic definition of positive spread. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Main=1: p120 explicitly explains the central top-five profit advantage by ability to source less volatile/lower-spread bonds, alongside cheapness. The heterogeneous quantity slopes materially support that central mechanism, rather than being merely incidental controls. Source: §7, Eq14, Table12 cols1–4 pp118–120 (PDF16–18); §4.3 pp112–113; §§5–7 pp115–120.",
+    "A2685": "JGNACSDE",
+    "B2685": "h13",
+    "I2685": "1",
+    "J2685": "OLS",
+    "K2685": "0",
+    "L2685": "0",
+    "M2685": "n/a",
+    "N2685": "Pre-auction volatility: SD of daily returns over preceding five trading days, percentage points. Focal VOL response in §7, Eq15, Table12 cols5–8 pp118–120 (PDF16–18). Outcome set as in s6. Include full-sample slope, top-five interaction and subgroup slopes; continuous treatment with ex-post profit-group heterogeneity, not a binary top-five intervention.",
+    "O2685": "Winner’s-curse uncertainty channel explicitly predicts higher costs (§3 p108, §4.3 p112); quantity/supply-liquidity interpretation pp115,120. Retain insignificant coefficients rather than dropping null evidence. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Independent gate: retain this null because the winner’s-curse hypothesis explicitly predicts uncertainty raises cost (pp108,112), and dealer markup is the same cost paid by the Fed (p117). This directed cost hypothesis differs from unspecified scarcity effects on quantity. Table12 VOL slope heterogeneity is not itself claimed to be a significant group difference. Source: §7, Eq15, Table12 cols5–8 pp118–120 (PDF16–18); §4.3 pp112–113; §§5–7 pp115–120."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71289,7 +71298,11 @@
     "A6627": "JGNACSDE",
     "B6627": "h12",
     "C6627": "hy1",
-    "K6627": "Dealer d’s sales quantity of bond j in auction t, measured in billions of dollars of par value at the auction-CUSIP-dealer level."
+    "K6627": "Dealer d’s sales quantity of bond j in auction t, measured in billions of dollars of par value at the auction-CUSIP-dealer level.",
+    "A6628": "JGNACSDE",
+    "B6628": "h13",
+    "C6628": "hy1",
+    "K6628": "Dealer d’s price markup on bond j in auction t relative to the closest ask, measured in cents per $100 par value at the auction-CUSIP-dealer level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
