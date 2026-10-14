@@ -381639,3 +381639,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:20:52.285378+00:00 — Review IYMGE8KX s7: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1221",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1222",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1221",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1222",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1221",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1222",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1221",
+    "before": null,
+    "after": "Two-factor alpha from full-period fund performance, in monthly percentage points; factor-adjusted return, not log/SD normalization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1222",
+    "before": null,
+    "after": "Ten-factor alpha from full-period fund performance, in monthly percentage points; factor-adjusted return, not log/SD normalization."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I476",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J476",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K476",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L476",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M476",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N476",
+    "before": null,
+    "after": "CDS-user indicator over sample period → full-period fund-level two-/ten-factor monthly alpha; linear cross-section, fund size controls, no style FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O476",
+    "before": null,
+    "after": "OLS cross-fund comparison; selection/sophistication confounding acknowledged. Factor-model loadings are not FE. Main=1 because abstract and conclusion explicitly discuss performance consequences. Binary user is not CDS volume. Alpha is a residual-return measure, not outcome-SD units. Source: Table VI B p575 cols[1, 5]; §IV.C p582."
+  }
+]
+```
