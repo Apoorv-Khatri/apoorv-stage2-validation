@@ -393156,3 +393156,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:04:40.537178+00:00 — Review IYY27QU8 s8: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1235",
+    "before": null,
+    "after": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I485",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J485",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K485",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L485",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M485",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N485",
+    "before": null,
+    "after": "Lagged Book leverage → FDA recall severity; ordered probit Table8 col1 baseline, not pooled with distinct shock interactions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O485",
+    "before": null,
+    "after": "2-digit SIC/year dummies; nonlinear ordered response. Coefficient .2115 is latent-index coefficient, not .2115 probability points. Source: Table8 pp1819–1820; §4.1 p1818."
+  }
+]
+```
