@@ -25285,7 +25285,16 @@
     "L2618": "0",
     "M2618": "single continuous",
     "N2618": "Endogenous Market leverage → recall incidence; 2SLS with alternate local-leverage instrument based on closest top-50 metropolitan area.",
-    "O2618": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. One scalar average market leverage excluding focal firm/industry rivals, computed in same/closest top-fifty metropolitan area. Not jointly used with 250-km instrument; distinct instrument definition merits separate setting. Receipt remains continuous. Source: Footnote15 p1815; Internet Appendix Table6."
+    "O2618": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. One scalar average market leverage excluding focal firm/industry rivals, computed in same/closest top-fifty metropolitan area. Not jointly used with 250-km instrument; distinct instrument definition merits separate setting. Receipt remains continuous. Source: Footnote15 p1815; Internet Appendix Table6.",
+    "A2619": "IYY27QU8",
+    "B2619": "h42",
+    "I2619": "1",
+    "J2619": "Other",
+    "K2619": "0",
+    "L2619": "0",
+    "M2619": "n/a",
+    "N2619": "Altman Z → recall incidence, interacted with five-year rather than three-year input-price shock construction.",
+    "O2619": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Footnote12 establishes a similar input-price shock using a five-year window; it does not independently restate the threshold or reveal the appendix implementation. Do not present an unseen threshold as directly verified; nonlinear probit implementation follows stated Eq2 shock exercise. Source: Footnote12 p1810; Internet Appendix Table4."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70211,7 +70220,11 @@
     "A6548": "IYY27QU8",
     "B6548": "h41",
     "C6548": "hy1",
-    "K6548": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+    "K6548": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero.",
+    "A6549": "IYY27QU8",
+    "B6549": "h42",
+    "C6549": "hy1",
+    "K6549": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
