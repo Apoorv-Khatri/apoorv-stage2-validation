@@ -412035,3 +412035,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:14:12.520310+00:00 — Review KJGA8A2C h14: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6658",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6658",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6658",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6658",
+    "before": null,
+    "after": "Implementation shortfall in basis points, Eq2: signed execution-price deviation from initiation midpoint; no log transformation. Not separate dependent variables called spread and price impact: these are coefficient interpretations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2704",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2704",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2704",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2704",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2704",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2704",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2704",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2704",
+    "before": null,
+    "after": "Institutional trade aggressiveness (percentage marketable volume) affects IS in Table4 cols2–5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2704",
+    "before": null,
+    "after": "Causally interpreted control: higher IS reflects cost of taking liquidity. Slopes .185,.166,.134,.098; no benchmark. Stock dummies retained, identifying-FE rationale not established. Post-policy mediator caveat fn8, not exclusion from broad gate. Source: §3.1 pp1049–1050; Table4."
+  }
+]
+```
