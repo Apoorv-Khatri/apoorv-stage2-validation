@@ -405558,3 +405558,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:06:18.450148+00:00 — Review KJGA8A2C s3: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K301",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K302",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K303",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K304",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K305",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R301",
+    "before": null,
+    "after": "Reject: derived half-life or mean-reversion slope comparisons are not levels/means/SDs of dependent variable ΔI. c1/c2 additionally concern inventory-dose h2, not binary-presence s3. Arithmetic/rounding discrepancies preserved in source evidence; no automatic effect-ratio eligibility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R302",
+    "before": null,
+    "after": "Reject: derived half-life or mean-reversion slope comparisons are not levels/means/SDs of dependent variable ΔI. c1/c2 additionally concern inventory-dose h2, not binary-presence s3. Arithmetic/rounding discrepancies preserved in source evidence; no automatic effect-ratio eligibility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R303",
+    "before": null,
+    "after": "Reject: derived half-life or mean-reversion slope comparisons are not levels/means/SDs of dependent variable ΔI. c1/c2 additionally concern inventory-dose h2, not binary-presence s3. Arithmetic/rounding discrepancies preserved in source evidence; no automatic effect-ratio eligibility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R304",
+    "before": null,
+    "after": "Reject: derived half-life or mean-reversion slope comparisons are not levels/means/SDs of dependent variable ΔI. c1/c2 additionally concern inventory-dose h2, not binary-presence s3. Arithmetic/rounding discrepancies preserved in source evidence; no automatic effect-ratio eligibility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R305",
+    "before": null,
+    "after": "Reject: derived half-life or mean-reversion slope comparisons are not levels/means/SDs of dependent variable ΔI. c1/c2 additionally concern inventory-dose h2, not binary-presence s3. Arithmetic/rounding discrepancies preserved in source evidence; no automatic effect-ratio eligibility."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1257",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1257",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1257",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1257",
+    "before": null,
+    "after": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J502",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M502",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N502",
+    "before": null,
+    "after": "Institutional trade underway |L|=1 versus none: incremental inventory mean-reversion interactions with lagged inventory bins, Table6 col4; separate-buy/sell interaction robustness described p1058."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O502",
+    "before": null,
+    "after": "No FE in Eq5/Table6. Double-clustered SE are not FE. Four conditional interaction slopes −.109,−.112,−.106,−.069. Binary presence is distinct from continuous inventory (h2) and signed L (h3). Observational but authors attribute incremental reversal to information inferred from institutional orders; broad author-intention gate passes. Table says −.109; prose later says 10.8pp and 32.4%, not silently reconciled. Table D1 t statistic is printed positive 86.9 despite negative coefficient. Source: §4.1 pp1054–1058; Table6 col4."
+  }
+]
+```
