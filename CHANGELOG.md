@@ -387606,3 +387606,336 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:27:46.864144+00:00 — Review IYMGE8KX h24: source-audited coding and linked comparisons
+
+54 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4464",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4465",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4466",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4464",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4465",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4466",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4464",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4465",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4466",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4464",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4465",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4466",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4464",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4465",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4466",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4464",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4465",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4466",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4464",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4465",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4466",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4464",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4465",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4466",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4464",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4465",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4466",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4464",
+    "before": null,
+    "after": "Table IV A pp563–564; §II.B pp562,566–567: Bond trading-day fraction log-relative-odds coefficient -0.053, column 5; benchmark: printed category incidence 0.111% in column sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4465",
+    "before": null,
+    "after": "Table IV A pp563–564; §II.B pp562,566–567: Bond trading-day fraction log-relative-odds coefficient 0.574, column 6; benchmark: printed category incidence 0.010% in column sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4466",
+    "before": null,
+    "after": "Table IV A pp563–564; §II.B pp562,566–567: Bond trading-day fraction log-relative-odds coefficient 0.746, column 7; benchmark: printed category incidence 0.071% in column sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4464",
+    "before": null,
+    "after": "Deliberate pairing, but nonlinear log-relative-odds and marginal observed category share are not a matched effect/baseline scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4465",
+    "before": null,
+    "after": "Deliberate pairing, but nonlinear log-relative-odds and marginal observed category share are not a matched effect/baseline scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4466",
+    "before": null,
+    "after": "Deliberate pairing, but nonlinear log-relative-odds and marginal observed category share are not a matched effect/baseline scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6449",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6450",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6451",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6449",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6450",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6451",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6449",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6450",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6451",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6449",
+    "before": null,
+    "after": "Four-category CDS state, buy-only relative to no position; not a binary response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6450",
+    "before": null,
+    "after": "Four-category CDS state, both relative to no position; not a binary response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6451",
+    "before": null,
+    "after": "Four-category CDS state, sell-only relative to no position; not a binary response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2549",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2549",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2549",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2549",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2549",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2549",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2549",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2549",
+    "before": null,
+    "after": "Bond trading-day fraction → four-category CDS position state (buy-only, both, sell-only versus no position), fund–issuer–quarter multinomial logit, Table IV A cols5–7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2549",
+    "before": null,
+    "after": "Value-weighted fraction of days with trades across issuer bonds, lagged; not CDS liquidity. Buying null and positive selling response are substantive. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table IV A pp563–564; §II.B pp562,566–567."
+  }
+]
+```
