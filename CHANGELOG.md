@@ -403926,3 +403926,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T14:09:43.396165+00:00 — Review JGNACSDE s7: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I498",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J498",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K498",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L498",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M498",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N498",
+    "before": null,
+    "after": "Continuous cheapness, winsorized at bottom/top 0.5% or 1%, → purchase quantity (all included) and closest-ask cost (purchased); Table A3. Linear regression with CUSIP and auction controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O498",
+    "before": null,
+    "after": "Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Winsorization replaces tail values; it is not trimming observations. Caption: bottom/top .5% (cols1/2), bottom/top 1% (cols3/4); headers 1%/2% refer total tails. Visually confirmed quantity columns exactly repeat printed coefficients/t statistics and R². No repair. All two dummy sets. Source: Appendix TableA3 p122 (PDF20), discussion p123."
+  }
+]
+```
