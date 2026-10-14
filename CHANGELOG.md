@@ -386628,3 +386628,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:26:43.996869+00:00 — Review IYMGE8KX h20: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6438",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6439",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6438",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6439",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6438",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6439",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6438",
+    "before": null,
+    "after": "Gross CDS sell notional / fund TNA (%), including observed zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6439",
+    "before": null,
+    "after": "Gross CDS buy notional / fund TNA (%), including observed zeros."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2545",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2545",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2545",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2545",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2545",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2545",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2545",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2545",
+    "before": null,
+    "after": "Cash holdings (% TNA) → gross CDS selling/buying intensity (% TNA), fund-quarter Tobit columns2/4; coefficients −0.0668 and −0.0615."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2545",
+    "before": null,
+    "after": "No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Cash and CDS are explicitly jointly determined. A 1pp cash decrease and 6–7bp CDS increase is not an outcome benchmark; cash mean 3.8% is a different outcome. Source: Table III B pp555–556; §II.A p559."
+  }
+]
+```

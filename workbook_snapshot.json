@@ -24555,7 +24555,16 @@
     "L2544": "0",
     "M2544": "n/a",
     "N2544": "Past performance rank → gross CDS sell/buy intensity (% fund TNA), fund-quarter Tobit; Table III B cols1–4. Zero censoring, lagged controls, quarterly/style dummies; cash added in cols2/4.",
-    "O2544": "Reject author-intention gate, not statistical null: p558 only defines prior Performance rank and reports no consistent relation. It gives no parameter-specific incentive/causal interpretation; the proposal supplied an incentive story absent here. Contrast the explicit risk-tolerance and internal-liquidity mechanisms in adjacent paragraphs. A broader substantive-predictor convention could retain it, but would need to explain why age is excluded. Source: Table III B pp555–556; §II.A pp558–559."
+    "O2544": "Reject author-intention gate, not statistical null: p558 only defines prior Performance rank and reports no consistent relation. It gives no parameter-specific incentive/causal interpretation; the proposal supplied an incentive story absent here. Contrast the explicit risk-tolerance and internal-liquidity mechanisms in adjacent paragraphs. A broader substantive-predictor convention could retain it, but would need to explain why age is excluded. Source: Table III B pp555–556; §II.A pp558–559.",
+    "A2545": "IYMGE8KX",
+    "B2545": "h20",
+    "I2545": "1",
+    "J2545": "Other",
+    "K2545": "0",
+    "L2545": "1",
+    "M2545": "n/a",
+    "N2545": "Cash holdings (% TNA) → gross CDS selling/buying intensity (% TNA), fund-quarter Tobit columns2/4; coefficients −0.0668 and −0.0615.",
+    "O2545": "No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Cash and CDS are explicitly jointly determined. A 1pp cash decrease and 6–7bp CDS increase is not an outcome benchmark; cash mean 3.8% is a different outcome. Source: Table III B pp555–556; §II.A p559."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69000,7 +69009,15 @@
     "H6437": "n/a",
     "I6437": "n/a",
     "J6437": "n/a",
-    "K6437": "Spurious under rejected causal setting: Total gross CDS buy notional divided by fund TNA, percentage points; observed zero for funds without positions. Prior-performance predictor lacks a parameter-specific causal interpretation in p558."
+    "K6437": "Spurious under rejected causal setting: Total gross CDS buy notional divided by fund TNA, percentage points; observed zero for funds without positions. Prior-performance predictor lacks a parameter-specific causal interpretation in p558.",
+    "A6438": "IYMGE8KX",
+    "B6438": "h20",
+    "C6438": "hy1",
+    "K6438": "Gross CDS sell notional / fund TNA (%), including observed zeros.",
+    "A6439": "IYMGE8KX",
+    "B6439": "h20",
+    "C6439": "hy2",
+    "K6439": "Gross CDS buy notional / fund TNA (%), including observed zeros."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
