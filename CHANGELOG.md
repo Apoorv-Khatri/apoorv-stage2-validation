@@ -409506,3 +409506,1218 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:11:15.156336+00:00 — Review KJGA8A2C h7: source-audited coding and linked comparisons
+
+201 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4542",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4543",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4544",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4545",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4546",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4547",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4548",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4549",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4550",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4551",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4552",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4553",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4554",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4555",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4556",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4557",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4542",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4543",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4544",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4545",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4546",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4547",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4548",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4549",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4550",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4551",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4552",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4553",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4554",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4555",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4556",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4557",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4542",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4543",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4544",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4545",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4546",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4547",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4548",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4549",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4550",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4551",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4552",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4553",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4554",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4555",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4556",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4557",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4542",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4543",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4544",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4545",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4546",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4547",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4549",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4550",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4551",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4552",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4553",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4554",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4556",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4557",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4542",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4543",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4544",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4545",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4546",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4547",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4548",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4549",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4550",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4551",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4552",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4553",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4554",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4555",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4556",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4557",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4542",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4543",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4544",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4545",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4546",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4547",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4548",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4549",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4550",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4551",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4552",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4553",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4554",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4555",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4556",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4557",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4542",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4543",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4544",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4545",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4546",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4547",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4548",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4549",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4550",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4551",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4552",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4553",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4554",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4555",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4557",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4542",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4543",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4544",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4545",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4546",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4547",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4549",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4550",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4551",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4552",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4553",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4554",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4556",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4557",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4542",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4543",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4544",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4545",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4546",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4547",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4548",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4549",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4550",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4551",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4552",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4553",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4554",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4555",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4556",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4557",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4542",
+    "before": null,
+    "after": "Table8 col1 p1062; normalization p1061: D1 inventory slope −.064, own-outcome SD per inventory-level SD. Benchmark: past-month SD of HFT buy trade share volume for the stock/period series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4543",
+    "before": null,
+    "after": "Table8 col2 p1062; normalization p1061: D1 inventory slope .074, own-outcome SD per inventory-level SD. Benchmark: past-month SD of HFT sell trade share volume for the stock/period series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4544",
+    "before": null,
+    "after": "Table8 col3 p1062; normalization p1061: D1 inventory slope −.035, own-outcome SD per inventory-level SD. Benchmark: past-month SD of HFT buy limit-order share volume for the stock/period series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4545",
+    "before": null,
+    "after": "Table8 col4 p1062; normalization p1061: D1 inventory slope .059, own-outcome SD per inventory-level SD. Benchmark: past-month SD of HFT sell limit-order share volume for the stock/period series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4546",
+    "before": null,
+    "after": "Table8 col1 p1062; normalization p1061: D2 inventory slope −.060, own-outcome SD per inventory-level SD. Benchmark: past-month SD of HFT buy trade share volume for the stock/period series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4547",
+    "before": null,
+    "after": "Table8 col2 p1062; normalization p1061: D2 inventory slope .081, own-outcome SD per inventory-level SD. Benchmark: past-month SD of HFT sell trade share volume for the stock/period series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4548",
+    "before": null,
+    "after": "Table8 col3 p1062; normalization p1061: D2 inventory slope −.035, own-outcome SD per inventory-level SD. Benchmark: past-month SD of HFT buy limit-order share volume for the stock/period series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4549",
+    "before": null,
+    "after": "Table8 col4 p1062; normalization p1061: D2 inventory slope .065, own-outcome SD per inventory-level SD. Benchmark: past-month SD of HFT sell limit-order share volume for the stock/period series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4550",
+    "before": null,
+    "after": "Table8 col1 p1062; normalization p1061: D3 inventory slope −.064, own-outcome SD per inventory-level SD. Benchmark: past-month SD of HFT buy trade share volume for the stock/period series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4551",
+    "before": null,
+    "after": "Table8 col2 p1062; normalization p1061: D3 inventory slope .092, own-outcome SD per inventory-level SD. Benchmark: past-month SD of HFT sell trade share volume for the stock/period series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4552",
+    "before": null,
+    "after": "Table8 col3 p1062; normalization p1061: D3 inventory slope −.041, own-outcome SD per inventory-level SD. Benchmark: past-month SD of HFT buy limit-order share volume for the stock/period series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4553",
+    "before": null,
+    "after": "Table8 col4 p1062; normalization p1061: D3 inventory slope .069, own-outcome SD per inventory-level SD. Benchmark: past-month SD of HFT sell limit-order share volume for the stock/period series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4554",
+    "before": null,
+    "after": "Table8 col1 p1062; normalization p1061: D4 inventory slope −.071, own-outcome SD per inventory-level SD. Benchmark: past-month SD of HFT buy trade share volume for the stock/period series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4555",
+    "before": null,
+    "after": "Table8 col2 p1062; normalization p1061: D4 inventory slope .115, own-outcome SD per inventory-level SD. Benchmark: past-month SD of HFT sell trade share volume for the stock/period series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4556",
+    "before": null,
+    "after": "Table8 col3 p1062; normalization p1061: D4 inventory slope −.052, own-outcome SD per inventory-level SD. Benchmark: past-month SD of HFT buy limit-order share volume for the stock/period series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4557",
+    "before": null,
+    "after": "Table8 col4 p1062; normalization p1061: D4 inventory slope .070, own-outcome SD per inventory-level SD. Benchmark: past-month SD of HFT sell limit-order share volume for the stock/period series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4542",
+    "before": null,
+    "after": "The focal continuous-inventory response is bin-conditional; the outcome-specific past-month SD is not shown to use the same inventory-bin target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4543",
+    "before": null,
+    "after": "The focal continuous-inventory response is bin-conditional; the outcome-specific past-month SD is not shown to use the same inventory-bin target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4544",
+    "before": null,
+    "after": "The focal continuous-inventory response is bin-conditional; the outcome-specific past-month SD is not shown to use the same inventory-bin target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4545",
+    "before": null,
+    "after": "The focal continuous-inventory response is bin-conditional; the outcome-specific past-month SD is not shown to use the same inventory-bin target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4546",
+    "before": null,
+    "after": "The focal continuous-inventory response is bin-conditional; the outcome-specific past-month SD is not shown to use the same inventory-bin target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4547",
+    "before": null,
+    "after": "The focal continuous-inventory response is bin-conditional; the outcome-specific past-month SD is not shown to use the same inventory-bin target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4548",
+    "before": null,
+    "after": "The focal continuous-inventory response is bin-conditional; the outcome-specific past-month SD is not shown to use the same inventory-bin target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4549",
+    "before": null,
+    "after": "The focal continuous-inventory response is bin-conditional; the outcome-specific past-month SD is not shown to use the same inventory-bin target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4550",
+    "before": null,
+    "after": "The focal continuous-inventory response is bin-conditional; the outcome-specific past-month SD is not shown to use the same inventory-bin target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4551",
+    "before": null,
+    "after": "The focal continuous-inventory response is bin-conditional; the outcome-specific past-month SD is not shown to use the same inventory-bin target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4552",
+    "before": null,
+    "after": "The focal continuous-inventory response is bin-conditional; the outcome-specific past-month SD is not shown to use the same inventory-bin target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4553",
+    "before": null,
+    "after": "The focal continuous-inventory response is bin-conditional; the outcome-specific past-month SD is not shown to use the same inventory-bin target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4554",
+    "before": null,
+    "after": "The focal continuous-inventory response is bin-conditional; the outcome-specific past-month SD is not shown to use the same inventory-bin target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4555",
+    "before": null,
+    "after": "The focal continuous-inventory response is bin-conditional; the outcome-specific past-month SD is not shown to use the same inventory-bin target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4556",
+    "before": null,
+    "after": "The focal continuous-inventory response is bin-conditional; the outcome-specific past-month SD is not shown to use the same inventory-bin target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4557",
+    "before": null,
+    "after": "The focal continuous-inventory response is bin-conditional; the outcome-specific past-month SD is not shown to use the same inventory-bin target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6643",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6644",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6645",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6646",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6643",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6644",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6645",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6646",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6643",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6644",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6645",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6646",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6643",
+    "before": null,
+    "after": "Abnormal HFT buy trade share volume for stock/15-minute period, demeaned by past-month mean of that series and divided by its own past-month SD. Raw nonnegative volume; transformed zero is equality to trailing mean, not raw zero. No source evidence establishes a point mass at transformed zero."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6644",
+    "before": null,
+    "after": "Abnormal HFT sell trade share volume for stock/15-minute period, demeaned by past-month mean of that series and divided by its own past-month SD. Raw nonnegative volume; transformed zero is equality to trailing mean, not raw zero. No source evidence establishes a point mass at transformed zero."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6645",
+    "before": null,
+    "after": "Abnormal HFT buy limit-order share volume for stock/15-minute period, demeaned by past-month mean of that series and divided by its own past-month SD. Raw nonnegative volume; transformed zero is equality to trailing mean, not raw zero. No source evidence establishes a point mass at transformed zero."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6646",
+    "before": null,
+    "after": "Abnormal HFT sell limit-order share volume for stock/15-minute period, demeaned by past-month mean of that series and divided by its own past-month SD. Raw nonnegative volume; transformed zero is equality to trailing mean, not raw zero. No source evidence establishes a point mass at transformed zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2697",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2697",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2697",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2697",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2697",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2697",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2697",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2697",
+    "before": null,
+    "after": "Continuous lagged inventory interacted with four inventory bins affects abnormal buy/sell trade and order volumes, Table8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2697",
+    "before": null,
+    "after": "Explicitly interpreted inventory effect; piecewise linear OLS, no FE. Outcomes each demeaned and divided by their own past-month SD. Retain all four jointly reported outcomes. Source: §4.2 pp1061–1062; Table8 inventory rows."
+  }
+]
+```
