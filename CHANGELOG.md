@@ -410808,3 +410808,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:12:05.688129+00:00 — Review KJGA8A2C h9: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6648",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6648",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6648",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6648",
+    "before": null,
+    "after": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2699",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2699",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2699",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2699",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2699",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2699",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2699",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2699",
+    "before": null,
+    "after": "Lagged public stock returns r (four 15-minute lags) and HFT inventory changes, Table9 col3; jointly controls trade/order imbalances and inventory."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2699",
+    "before": null,
+    "after": "Retain broad author-intention gate: p1064 says HFTs use past returns to predict institutional flow and compete with it. Pure probit forecasts in cols1–2 remain excluded. OLS is explicitly implemented, identifying stock FE not established for col3. Return slopes .018,.006,.003,.002. Distinct trade-imbalance and limit-order-imbalance treatments are h23/h24, not one undifferentiated vector. Predictive-only exclusion remains a genuine gate alternative. No eligible own-change SD benchmark. Source: §4.3 pp1063–1064; Table9 col3."
+  }
+]
+```

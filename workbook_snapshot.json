@@ -26130,7 +26130,16 @@
     "L2698": "0",
     "M2698": "unknown",
     "N2698": "Predicted signed aggressive institutional trade L affects HFT inventory change, Table9 col5.",
-    "O2698": "Redefines first-stage receipt to aggressive orders; separate from all-order s6. Reported .338 versus .161 is effect-to-effect comparison, not same-outcome level benchmark. First-stage estimator unresolved as in s6, final OLS known. Prose calls aggression cutoff above median about 57%; Table2 reports median 61.1% and mean 57.0%. Preserve discrepancy; do not choose corrected threshold. No established excluded-instrument set. Source: §4.3 p1065; Table9 col5."
+    "O2698": "Redefines first-stage receipt to aggressive orders; separate from all-order s6. Reported .338 versus .161 is effect-to-effect comparison, not same-outcome level benchmark. First-stage estimator unresolved as in s6, final OLS known. Prose calls aggression cutoff above median about 57%; Table2 reports median 61.1% and mean 57.0%. Preserve discrepancy; do not choose corrected threshold. No established excluded-instrument set. Source: §4.3 p1065; Table9 col5.",
+    "A2699": "KJGA8A2C",
+    "B2699": "h9",
+    "I2699": "1",
+    "J2699": "OLS",
+    "K2699": "0",
+    "L2699": "0",
+    "M2699": "n/a",
+    "N2699": "Lagged public stock returns r (four 15-minute lags) and HFT inventory changes, Table9 col3; jointly controls trade/order imbalances and inventory.",
+    "O2699": "Retain broad author-intention gate: p1064 says HFTs use past returns to predict institutional flow and compete with it. Pure probit forecasts in cols1–2 remain excluded. OLS is explicitly implemented, identifying stock FE not established for col3. Return slopes .018,.006,.003,.002. Distinct trade-imbalance and limit-order-imbalance treatments are h23/h24, not one undifferentiated vector. Predictive-only exclusion remains a genuine gate alternative. No eligible own-change SD benchmark. Source: §4.3 pp1063–1064; Table9 col3."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71586,7 +71595,11 @@
     "A6647": "KJGA8A2C",
     "B6647": "h8",
     "C6647": "hy1",
-    "K6647": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
+    "K6647": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE.",
+    "A6648": "KJGA8A2C",
+    "B6648": "h9",
+    "C6648": "hy1",
+    "K6648": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
