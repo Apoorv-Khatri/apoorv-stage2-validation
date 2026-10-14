@@ -25934,7 +25934,16 @@
     "L2681": "0",
     "M2681": "n/a",
     "N2681": "Outstanding unstripped par balance before auction, units $10 billion. Focal OB response in §6, Eq11, Table10 p117 (PDF15). Outcome set as in s2.",
-    "O2681": "Bond scarcity determinant §4.3 p112; cost direction discussed p117, subgroup response p120. Quantity nulls are supporting evidence, not a standalone headline. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Source: §6, Eq11, Table10 p117 (PDF15); §4.3 pp112–113; §§5–7 pp115–120."
+    "O2681": "Bond scarcity determinant §4.3 p112; cost direction discussed p117, subgroup response p120. Quantity nulls are supporting evidence, not a standalone headline. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Source: §6, Eq11, Table10 p117 (PDF15); §4.3 pp112–113; §§5–7 pp115–120.",
+    "A2682": "JGNACSDE",
+    "B2682": "h8",
+    "I2682": "1",
+    "J2682": "OLS",
+    "K2682": "0",
+    "L2682": "0",
+    "M2682": "n/a",
+    "N2682": "8:40am ask minus bid divided by midpoint, basis points. Focal Bid-Ask response in §6, Eq11, Table10 p117 (PDF15). Outcome set as in s2.",
+    "O2682": "Liquidity/dealer sourcing channel for quantity pp115,120; cost direction pp117,120. Prose p113 prints Bid−Ask notation despite defining ask−bid; preserve textual discrepancy, use economic definition of positive spread. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Source: §6, Eq11, Table10 p117 (PDF15); §4.3 pp112–113; §§5–7 pp115–120."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71246,7 +71255,15 @@
     "A6623": "JGNACSDE",
     "B6623": "h7",
     "C6623": "hy2",
-    "K6623": "Auction price markup relative to the 3:30 p.m. secondary-market ask, measured in cents per $100 par value for bond j in auction t, quantity-weighted across accepted offers."
+    "K6623": "Auction price markup relative to the 3:30 p.m. secondary-market ask, measured in cents per $100 par value for bond j in auction t, quantity-weighted across accepted offers.",
+    "A6624": "JGNACSDE",
+    "B6624": "h8",
+    "C6624": "hy1",
+    "K6624": "Auction price markup relative to the closest secondary-market ask, measured in cents per $100 par value for bond j in auction t, quantity-weighted across accepted offers.",
+    "A6625": "JGNACSDE",
+    "B6625": "h8",
+    "C6625": "hy2",
+    "K6625": "Auction price markup relative to the 3:30 p.m. secondary-market ask, measured in cents per $100 par value for bond j in auction t, quantity-weighted across accepted offers."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
