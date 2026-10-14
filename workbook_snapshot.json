@@ -25339,7 +25339,16 @@
     "L2624": "0",
     "M2624": "unknown",
     "N2624": "Market debt due in three years (DLC+DD1+DD2+DD3)/(DLTT+DLC+market equity) → recall incidence; alternative financing measure.",
-    "O2624": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Implemented relation significant at1%; accessible passage does not name estimator for this table. Do not silently deduplicate DLC and DD1 in source-defined numerator. Source: §3.3 p1817; Internet Appendix Table8; Appendix A1 p1826."
+    "O2624": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Implemented relation significant at1%; accessible passage does not name estimator for this table. Do not silently deduplicate DLC and DD1 in source-defined numerator. Source: §3.3 p1817; Internet Appendix Table8; Appendix A1 p1826.",
+    "A2625": "IYY27QU8",
+    "B2625": "h48",
+    "I2625": "1",
+    "J2625": "Other",
+    "K2625": "0",
+    "L2625": "0",
+    "M2625": "n/a",
+    "N2625": "Excess Book leverage → recall incidence; probit using residual financial condition.",
+    "O2625": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Residual from OLS financial-condition model with ROA, collateral, log assets, R&D, SG&A, Tobin Q, HHI, industry cash-flow volatility, nondebt tax shield. Table9 residual construction is preprocessing, not an extra causal setting; Table10 probit is Other. Source: §3.3 p1817; Internet Appendix Tables9–10."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70289,7 +70298,11 @@
     "A6554": "IYY27QU8",
     "B6554": "h47",
     "C6554": "hy1",
-    "K6554": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+    "K6554": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero.",
+    "A6555": "IYY27QU8",
+    "B6555": "h48",
+    "C6555": "hy1",
+    "K6555": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

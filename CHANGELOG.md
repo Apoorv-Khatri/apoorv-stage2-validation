@@ -397545,3 +397545,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:25:30.042513+00:00 — Review IYY27QU8 h48: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6555",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6555",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6555",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6555",
+    "before": null,
+    "after": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2625",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2625",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2625",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2625",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2625",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2625",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2625",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2625",
+    "before": null,
+    "after": "Excess Book leverage → recall incidence; probit using residual financial condition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2625",
+    "before": null,
+    "after": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Residual from OLS financial-condition model with ROA, collateral, log assets, R&D, SG&A, Tobin Q, HHI, industry cash-flow volatility, nondebt tax shield. Table9 residual construction is preprocessing, not an extra causal setting; Table10 probit is Other. Source: §3.3 p1817; Internet Appendix Tables9–10."
+  }
+]
+```
