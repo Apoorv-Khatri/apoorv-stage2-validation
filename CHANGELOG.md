@@ -403977,3 +403977,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T14:10:10.657723+00:00 — Review JGNACSDE s8: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1253",
+    "before": null,
+    "after": "Quantity in $ billions. Printed TableA4 caption says purchased bonds; quantity Ns instead sum to 3432, matching all-included sample. Retain sample uncertainty and printed maturity labels; do not infer that caption resolves zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I499",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J499",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K499",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L499",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M499",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O499",
+    "before": null,
+    "after": "Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Visually confirmed caption says each purchased bond, but quantity N sums to 3432 (all-included Table8), while cost N sums to 1934. Headers label >10-year blocks with N2972/1632 (remaining) and 2575/1387 (original), surprisingly large given stated maturity distribution. Retain printed labels; likely header/sample conflict remains unresolved. Printed OB cost coefficients 28.991 and −211.159 retained. Shorter remaining-maturity quantity .002 is not significant; do not reproduce prose as universal significance. All two dummy sets. Source: Appendix TableA4 p122 (PDF20), discussion p123."
+  }
+]
+```
