@@ -394272,3 +394272,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:09:42.450755+00:00 — Review IYY27QU8 h11: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6518",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6518",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6518",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6518",
+    "before": null,
+    "after": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2588",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2588",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2588",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2588",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2588",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2588",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2588",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2588",
+    "before": null,
+    "after": "Endogenous Altman Z → recall incidence; linear 2SLS Table7 col6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2588",
+    "before": null,
+    "after": "Exactly one excluded instrument: average Market leverage of firms headquartered within 250 km, excluding focal firm and industry rivals. Nonbinary scalar average → single continuous. Receipt is continuous financial condition, not instrument. Actual linear 2SLS/LPM; 2-digit SIC/year dummies incidental to IV priority. Local culture/social financing spillovers motivate relevance; exclusion requires no direct local effect on quality. First stages and relevance tests not separate causal outcomes. Diagnostic transcription, Table7 col6: instrument coefficient -4.6492*** (p=.001), F=5.99**. The p1815 prose assigns 1% significance to the instrument coefficients, which agrees with their printed stars; it calls the F statistics highly significant without assigning all of them a 1% level. Do not report an all-1% F/prose contradiction. Modest F values in cols5–6 warrant caution, not a changed IV code or an invented extra instrument. Source: Table7 p1816; pp1814–1815."
+  }
+]
+```
