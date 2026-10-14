@@ -382815,3 +382815,246 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:22:45.953552+00:00 — Review IYMGE8KX h5: source-audited coding and linked comparisons
+
+39 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4432",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4433",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4432",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4433",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4432",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4433",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4432",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4432",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4433",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4432",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4433",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4432",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4433",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4432",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4433",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4432",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4433",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4432",
+    "before": null,
+    "after": "Table III A cols1–2, pp554–555; §II.A pp553,557–558: Portfolio turnover logit coefficient 0.379, column 1; benchmark: column-specific observed outcome rate 5.36%, potential-CDS-user fund-quarter sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4433",
+    "before": null,
+    "after": "Table III A cols1–2, pp554–555; §II.A pp553,557–558: Portfolio turnover logit coefficient 0.359, column 2; benchmark: column-specific observed outcome rate 4.63%, potential-CDS-user fund-quarter sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4432",
+    "before": null,
+    "after": "Deliberate coefficient–dependent-variable-rate pairing qualifies. Reported coefficient is log odds, not a probability effect; unconditional observed rate is not its matched untreated baseline. A treatment-SD odds change alone is not division by this rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4433",
+    "before": null,
+    "after": "Deliberate coefficient–dependent-variable-rate pairing qualifies. Reported coefficient is log odds, not a probability effect; unconditional observed rate is not its matched untreated baseline. A treatment-SD odds change alone is not division by this rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6403",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6404",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6403",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6404",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6403",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6404",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6403",
+    "before": null,
+    "after": "Any CDS selling during current quarter, binary 0/1; not ever-use over the full period."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6404",
+    "before": null,
+    "after": "Any CDS buying during current quarter, binary 0/1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2530",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2530",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2530",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2530",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2530",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2530",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2530",
+    "before": null,
+    "after": "Portfolio turnover → fund-quarter any CDS sell/buy (single-name plus index); separate binary logit regressions, quarter and investment-style dummies; lagged fund controls, fund-clustered SE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2530",
+    "before": null,
+    "after": "Retain turnover because p558 identifies discretionary trading and liquidity needs as channels; p557 association wording alone would be weaker evidence. No claim of exogenous turnover. Annual lesser of purchases/sales divided by fund assets; active-management and internal liquidity-need mechanism, not a matching weight. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table III A cols1–2, pp554–555; §II.A pp553,557–558."
+  }
+]
+```
