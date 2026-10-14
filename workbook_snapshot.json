@@ -25632,7 +25632,16 @@
     "L2653": "1",
     "M2653": "n/a",
     "N2653": "Pooled continuous employment exposure × COVID effect on utilization, no size interaction.",
-    "O2653": "Distinct pooled estimand: 3.1 (SE2.3), not statistically significant. Loan/time FE. Q1 prose versus Q1/Q2 table-note conflict retained. Treatment standardized, not outcome. Source: Table13 col1 p927; p925."
+    "O2653": "Distinct pooled estimand: 3.1 (SE2.3), not statistically significant. Loan/time FE. Q1 prose versus Q1/Q2 table-note conflict retained. Treatment standardized, not outcome. Source: Table13 col1 p927; p925.",
+    "A2654": "JFUQHXRF",
+    "B2654": "h2",
+    "I2654": "1",
+    "J2654": "OLS",
+    "K2654": "0",
+    "L2654": "1",
+    "M2654": "n/a",
+    "N2654": "Industry employment-decline exposure → industry mean loan utilization change, separately SMEs (<250m) and large firms (>1bn); firm-count-weighted linear fits.",
+    "O2654": "WLS of industry means, industries with at least ten firms in category. No FE or post-panel estimator. Authors say cash-flow shocks translated into drawdowns for large but not small firms. Distinct aggregate estimator from Table13 and Table14. Source: Fig3 p926; §5.2 p925."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70794,7 +70803,11 @@
     "A6592": "JFUQHXRF",
     "B6592": "h1",
     "C6592": "hy1",
-    "K6592": "Utilized/committed credit-line amount, percentage points."
+    "K6592": "Utilized/committed credit-line amount, percentage points.",
+    "A6593": "JFUQHXRF",
+    "B6593": "h2",
+    "C6593": "hy1",
+    "K6593": "Industry average change in drawdown rate 2019Q4–2020Q1, percentage points; not log or outcome-SD units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

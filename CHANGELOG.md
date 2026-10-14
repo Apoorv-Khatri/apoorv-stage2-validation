@@ -401379,3 +401379,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T12:40:59.154833+00:00 — Review JFUQHXRF h2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6593",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6593",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6593",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6593",
+    "before": null,
+    "after": "Industry average change in drawdown rate 2019Q4–2020Q1, percentage points; not log or outcome-SD units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2654",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2654",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2654",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2654",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2654",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2654",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2654",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2654",
+    "before": null,
+    "after": "Industry employment-decline exposure → industry mean loan utilization change, separately SMEs (<250m) and large firms (>1bn); firm-count-weighted linear fits."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2654",
+    "before": null,
+    "after": "WLS of industry means, industries with at least ten firms in category. No FE or post-panel estimator. Authors say cash-flow shocks translated into drawdowns for large but not small firms. Distinct aggregate estimator from Table13 and Table14. Source: Fig3 p926; §5.2 p925."
+  }
+]
+```
