@@ -400632,3 +400632,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T12:39:36.355891+00:00 — Review JFUQHXRF s4: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1240",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1241",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1240",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1241",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1240",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1241",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1240",
+    "before": null,
+    "after": "spurious as a causal outcome: Table12 is diagnostic exposure-proxy validation; preserve the original mean/median revenue-growth definition, but exclude its parent s4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1241",
+    "before": null,
+    "after": "spurious as a causal outcome: Table12 is diagnostic exposure-proxy validation; preserve the original mean/median revenue-growth definition, but exclude its parent s4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I490",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N490",
+    "before": null,
+    "after": "Excluded: Table12 validates industry employment exposure against Compustat revenue growth; not a separate substantive causal revenue response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O490",
+    "before": null,
+    "after": "Adjudicated diagnostic-only. Section5.2 p925 explicitly says first establish that abnormal employment growth correlates with actual cash-flow shocks; Table12 and intercept/slope tests validate comparability of the exposure proxy across sizes for the subsequent drawdown design. The phrase implies a roughly 15 percentage points decline and the word effect do not override that expressly diagnostic purpose. Abstract/introduction frame this as correlation validation, not an independent revenue intervention. Mean/median cell regressions are linear, not quantile regressions, but method classification is inapplicable after exclusion. Source: Table12 p926; p925 §5.2."
+  }
+]
+```
