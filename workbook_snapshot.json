@@ -237,6 +237,7 @@
     "B52": "Mutual Fund Holdings of Credit Default Swaps: Liquidity, Yield, and Risk",
     "C52": "fin",
     "D52": 8,
+    "E52": "DONE — All 50 final-main-article pages independently reviewed. 60 setting records, 57 retained and three prior-performance settings rejected; 137 outcome records; 66 comparisons retained and 15 rejected. Nonlinear logit/multinomial/Tobit estimators corrected to Other. Distinct binary duration, CDS-user/intensity, within-fund and category-FE estimands preserved with contested identifying-role judgments explicit. Nonlinear coefficient/rate pairings independently verified; eligibility separated from scale-mismatch alignment. Tobit/likelihood comparison candidates rejected as attached; portfolio counterfactual retained without invented baseline comparisons. Alternative bond-liquidity and basis robustness separated; copied cash-system outcome removed from proposal. Printed basis/sign, benchmark-aggregation and frequency conflicts preserved. Exact final Appendix S1 DOCX unavailable despite bounded retrieval; only main-established supplemental families coded, unseen grids and further omissions unresolved. Original model fields and IDs preserved.",
     "A53": "IYY27QU8",
     "B53": "Impact of Financial Leverage on the Incidence and Severity of Product Failures: Evidence from Product Recalls",
     "C53": "fin",
@@ -24843,7 +24844,16 @@
     "L2576": "0",
     "M2576": "unknown",
     "N2576": "Number of quoting dealers → CDS investment responses, alternative CDS liquidity proxy.",
-    "O2576": "Retain minimum implementation scope, weak but positive evidence: fn13 p560 says contract count yields sharper results than dealer count, naturally implying a comparative empirical exercise. It does not merely list a possible proxy. This does not establish the exact estimator, dependent-variable grid, result location beyond fn13, or coefficients; method remains unknown. Alternative reading as measurement commentary would exclude it, so do not present this as settled supplemental coverage. Source: Footnote13 p560."
+    "O2576": "Retain minimum implementation scope, weak but positive evidence: fn13 p560 says contract count yields sharper results than dealer count, naturally implying a comparative empirical exercise. It does not merely list a possible proxy. This does not establish the exact estimator, dependent-variable grid, result location beyond fn13, or coefficients; method remains unknown. Alternative reading as measurement commentary would exclude it, so do not present this as settled supplemental coverage. Source: Footnote13 p560.",
+    "A2577": "IYMGE8KX",
+    "B2577": "h52",
+    "I2577": "1",
+    "J2577": "unknown",
+    "K2577": "0",
+    "L2577": "0",
+    "M2577": "unknown",
+    "N2577": "Reference-obligation-specific CDS–bond basis → CDS investment responses; alternative bond yield construction in Table IA.III, described p561. Distinct treatment from bond trading liquidity in h46.",
+    "O2577": "Final-main establishes implemented sensitivity using both alternative measures. Continuous basis is established, but estimator/FE and detailed outcome columns are not. This is a minimum-scope setting, not an inferred appendix coefficient grid. Final DOCX remains unavailable. Source: §II.B p561/PDF25; Table IA.III reference; layout.txt lines1172–1185."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69579,7 +69589,11 @@
     "A6506": "IYMGE8KX",
     "B6506": "h51",
     "C6506": "hy1",
-    "K6506": "CDS investment response(s) established by main-text robustness statement; exact outcome decomposition and coefficients await final supplement."
+    "K6506": "CDS investment response(s) established by main-text robustness statement; exact outcome decomposition and coefficients await final supplement.",
+    "A6507": "IYMGE8KX",
+    "B6507": "h52",
+    "C6507": "hy1",
+    "K6507": "CDS investment response(s) under reference-obligation-specific basis construction; exact buying/selling, propensity/intensity and further decomposition await final Table IA.III."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

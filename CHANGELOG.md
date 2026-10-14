@@ -392568,3 +392568,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:35:13.660305+00:00 — Review IYMGE8KX h52: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6507",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6507",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6507",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6507",
+    "before": null,
+    "after": "CDS investment response(s) under reference-obligation-specific basis construction; exact buying/selling, propensity/intensity and further decomposition await final Table IA.III."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E52",
+    "before": null,
+    "after": "DONE — All 50 final-main-article pages independently reviewed. 60 setting records, 57 retained and three prior-performance settings rejected; 137 outcome records; 66 comparisons retained and 15 rejected. Nonlinear logit/multinomial/Tobit estimators corrected to Other. Distinct binary duration, CDS-user/intensity, within-fund and category-FE estimands preserved with contested identifying-role judgments explicit. Nonlinear coefficient/rate pairings independently verified; eligibility separated from scale-mismatch alignment. Tobit/likelihood comparison candidates rejected as attached; portfolio counterfactual retained without invented baseline comparisons. Alternative bond-liquidity and basis robustness separated; copied cash-system outcome removed from proposal. Printed basis/sign, benchmark-aggregation and frequency conflicts preserved. Exact final Appendix S1 DOCX unavailable despite bounded retrieval; only main-established supplemental families coded, unseen grids and further omissions unresolved. Original model fields and IDs preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2577",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2577",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2577",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2577",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2577",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2577",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2577",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2577",
+    "before": null,
+    "after": "Reference-obligation-specific CDS–bond basis → CDS investment responses; alternative bond yield construction in Table IA.III, described p561. Distinct treatment from bond trading liquidity in h46."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2577",
+    "before": null,
+    "after": "Final-main establishes implemented sensitivity using both alternative measures. Continuous basis is established, but estimator/FE and detailed outcome columns are not. This is a minimum-scope setting, not an inferred appendix coefficient grid. Final DOCX remains unavailable. Source: §II.B p561/PDF25; Table IA.III reference; layout.txt lines1172–1185."
+  }
+]
+```
