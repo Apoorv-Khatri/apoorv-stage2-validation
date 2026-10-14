@@ -24735,7 +24735,16 @@
     "L2564": "1",
     "M2564": "n/a",
     "N2564": "Within-fund sample-average total CDS notional / TNA → full-period fund-level two-/ten-factor monthly alpha; linear cross-section, fund size controls, investment-style FE.",
-    "O2564": "Identifying style FE: p582 attributes the disappearing performance premium to accounting for investment-style category, a substantive between-style confound. One FE set. Factor-model loadings are not FE. Main=1 because abstract and conclusion explicitly discuss performance consequences. Binary user is not CDS volume. Alpha is a residual-return measure, not outcome-SD units. Source: Table VI B p575 cols[4, 8]; §IV.C p582."
+    "O2564": "Identifying style FE: p582 attributes the disappearing performance premium to accounting for investment-style category, a substantive between-style confound. One FE set. Factor-model loadings are not FE. Main=1 because abstract and conclusion explicitly discuss performance consequences. Binary user is not CDS volume. Alpha is a residual-return measure, not outcome-SD units. Source: Table VI B p575 cols[4, 8]; §IV.C p582.",
+    "A2565": "IYMGE8KX",
+    "B2565": "h40",
+    "I2565": "1",
+    "J2565": "FE",
+    "K2565": "0",
+    "L2565": "1",
+    "M2565": "n/a",
+    "N2565": "Total CDS intensity (% TNA) → fund-month two-/ten-factor alpha, separate precrisis/crisis/postcrisis linear panels; investment-category identifying FE and fund size. Table VI C cols1/3/5.",
+    "O2565": "p582 establishes investment-style composition as a material performance confound in Panel B, then immediately extends the same alpha/usage relation to Panel C with either category or fund FE. Apply that substantive rationale consistently to the intensity/alpha relation in h39 and h40; do not require an independent identification slogan for each adjacent column. One category set, not HDFE. Competing narrow reading would code category specifications OLS; actual dummy inclusion is certain. Panel heading and p582 say fund-month while general caption says fund-quarter; preserve the conflict. Periods are sample variants, not DiD. Source: Table VI C pp575–576 cols1/3/5; §IV.C p582."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69386,7 +69395,15 @@
     "A6487": "IYMGE8KX",
     "B6487": "h39",
     "C6487": "hy2",
-    "K6487": "Ten-factor alpha from full-period fund performance, in monthly percentage points; factor-adjusted return, not log/SD normalization."
+    "K6487": "Ten-factor alpha from full-period fund performance, in monthly percentage points; factor-adjusted return, not log/SD normalization.",
+    "A6488": "IYMGE8KX",
+    "B6488": "h40",
+    "C6488": "hy1",
+    "K6488": "Two-factor monthly alpha, returns in excess of factor-adjusted benchmark, percentage points.",
+    "A6489": "IYMGE8KX",
+    "B6489": "h40",
+    "C6489": "hy2",
+    "K6489": "Ten-factor monthly alpha, returns in excess of factor-adjusted benchmark, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

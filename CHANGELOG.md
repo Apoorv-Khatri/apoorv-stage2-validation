@@ -391170,3 +391170,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:32:01.023783+00:00 — Review IYMGE8KX h40: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6488",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6489",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6488",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6489",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6488",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6489",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6488",
+    "before": null,
+    "after": "Two-factor monthly alpha, returns in excess of factor-adjusted benchmark, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6489",
+    "before": null,
+    "after": "Ten-factor monthly alpha, returns in excess of factor-adjusted benchmark, percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2565",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2565",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2565",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2565",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2565",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2565",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2565",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2565",
+    "before": null,
+    "after": "Total CDS intensity (% TNA) → fund-month two-/ten-factor alpha, separate precrisis/crisis/postcrisis linear panels; investment-category identifying FE and fund size. Table VI C cols1/3/5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2565",
+    "before": null,
+    "after": "p582 establishes investment-style composition as a material performance confound in Panel B, then immediately extends the same alpha/usage relation to Panel C with either category or fund FE. Apply that substantive rationale consistently to the intensity/alpha relation in h39 and h40; do not require an independent identification slogan for each adjacent column. One category set, not HDFE. Competing narrow reading would code category specifications OLS; actual dummy inclusion is certain. Panel heading and p582 say fund-month while general caption says fund-quarter; preserve the conflict. Periods are sample variants, not DiD. Source: Table VI C pp575–576 cols1/3/5; §IV.C p582."
+  }
+]
+```
