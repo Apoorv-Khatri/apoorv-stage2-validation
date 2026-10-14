@@ -26220,7 +26220,16 @@
     "L2708": "1",
     "M2708": "n/a",
     "N2708": "Institutional buy versus institutional sell contrast in abnormal HFT activity, Table8 1B−1S row, four outcomes.",
-    "O2708": "Explicit two-arm linear contrast conditional on inventory/controls: .039,−.030,.032,−.009. Last null retained (p=.270). These are within-outcome treatment-arm contrasts, not cross-outcome differences. Printed .032 differs from subtraction of rounded .048 and .017; could reflect unrounded values, do not repair. Source: §4.2 pp1061–1062; Table8 contrast row."
+    "O2708": "Explicit two-arm linear contrast conditional on inventory/controls: .039,−.030,.032,−.009. Last null retained (p=.270). These are within-outcome treatment-arm contrasts, not cross-outcome differences. Printed .032 differs from subtraction of rounded .048 and .017; could reflect unrounded values, do not repair. Source: §4.2 pp1061–1062; Table8 contrast row.",
+    "A2709": "KJGA8A2C",
+    "B2709": "h19",
+    "I2709": "1",
+    "J2709": "OLS",
+    "K2709": "1",
+    "L2709": "0",
+    "M2709": "n/a",
+    "N2709": "Institutional trade underway 1T versus no trade, conditional on progression/stage controls; HFT profit per share, without and with liquidity fees/rebates, TableA1 cols1–4.",
+    "O2709": "OLS explicitly stated; stock dummies and contemporaneous/lagged stock trade volume included. No author argument gives stock FE a separate identifying role, so survey OLS, with actual dummies documented. N=1,446,256, stock-date clustered SE. Supporting profitability mechanism, not main-article headline. Observational learning/adverse-selection interpretation passes broad gate. Author-linked Internet Appendix, July 18, 2018, PDF2–4 / printed pp1–3, Table A1. Title/authors and main fn10 match; publisher-byte identity unverified. 1T coefficients −.923,−2.05,−.991,−.727. With Progress, the 1T coefficient is at Progress=0, not the first observed trading interval; first-period effect includes Progress×1. With stage dummies, the literal baseline is early execution. Includes nonsignificant col4 coefficient. Stage coding caution: text defines 1T for any institutional trade and MidStage/LateStage as nested indicators. Under that literal additive coding, unadjusted late-stage increment is −2.05+1.39=−.66, whereas prose says late-stage profits are positive. Do not relabel 1T as early-only or treat stage coefficients as verified total profit levels; constants/FE baseline and implementation are not supplied. Preserve this source interpretation conflict. Source: Author-linked Internet Appendix, July 18, 2018, PDF2–4 / printed pp1–3, Table A1. Title/authors and main fn10 match; publisher-byte identity unverified.."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71784,7 +71793,21 @@
     "H6665": "0",
     "I6665": "unknown",
     "J6665": "sd_units",
-    "K6665": "Abnormal HFT sell limit-order share volume for stock/15-minute period, demeaned by past-month mean of that series and divided by its own past-month SD. Raw nonnegative volume; transformed zero is equality to trailing mean, not raw zero. No source evidence establishes a point mass at transformed zero."
+    "K6665": "Abnormal HFT sell limit-order share volume for stock/15-minute period, demeaned by past-month mean of that series and divided by its own past-month SD. Raw nonnegative volume; transformed zero is equality to trailing mean, not raw zero. No source evidence establishes a point mass at transformed zero.",
+    "A6666": "KJGA8A2C",
+    "B6666": "h19",
+    "C6666": "hy1",
+    "H6666": "0",
+    "I6666": "unknown",
+    "J6666": "none",
+    "K6666": "HFT profit per share in stock/15-minute period: dollars sold minus dollars bought plus signed marked-to-market end-period position, divided by max(shares bought, shares sold); source reports basis points. Excludes liquidity fees/rebates. The per-share ratio defines the outcome; no log/SD transformation reported. Further conversion from dollars/share to basis points is not specified. Do not infer zero mass from possible inactivity.",
+    "A6667": "KJGA8A2C",
+    "B6667": "h19",
+    "C6667": "hy2",
+    "H6667": "0",
+    "I6667": "unknown",
+    "J6667": "none",
+    "K6667": "HFT profit per share in stock/15-minute period: dollars sold minus dollars bought plus signed marked-to-market end-period position, divided by max(shares bought, shares sold); source reports basis points. Includes liquidity rebate $0.0031/share and taker fee $0.0035/share. The per-share ratio defines the outcome; no log/SD transformation reported. Further conversion from dollars/share to basis points is not specified. Do not infer zero mass from possible inactivity."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

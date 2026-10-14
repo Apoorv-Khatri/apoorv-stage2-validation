@@ -412878,3 +412878,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:16:47.095691+00:00 — Review KJGA8A2C h19: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6666",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6667",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6666",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6667",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6666",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6667",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6666",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6667",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6666",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6667",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6666",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6667",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6666",
+    "before": null,
+    "after": "HFT profit per share in stock/15-minute period: dollars sold minus dollars bought plus signed marked-to-market end-period position, divided by max(shares bought, shares sold); source reports basis points. Excludes liquidity fees/rebates. The per-share ratio defines the outcome; no log/SD transformation reported. Further conversion from dollars/share to basis points is not specified. Do not infer zero mass from possible inactivity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6667",
+    "before": null,
+    "after": "HFT profit per share in stock/15-minute period: dollars sold minus dollars bought plus signed marked-to-market end-period position, divided by max(shares bought, shares sold); source reports basis points. Includes liquidity rebate $0.0031/share and taker fee $0.0035/share. The per-share ratio defines the outcome; no log/SD transformation reported. Further conversion from dollars/share to basis points is not specified. Do not infer zero mass from possible inactivity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2709",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2709",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2709",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2709",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2709",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2709",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2709",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2709",
+    "before": null,
+    "after": "Institutional trade underway 1T versus no trade, conditional on progression/stage controls; HFT profit per share, without and with liquidity fees/rebates, TableA1 cols1–4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2709",
+    "before": null,
+    "after": "OLS explicitly stated; stock dummies and contemporaneous/lagged stock trade volume included. No author argument gives stock FE a separate identifying role, so survey OLS, with actual dummies documented. N=1,446,256, stock-date clustered SE. Supporting profitability mechanism, not main-article headline. Observational learning/adverse-selection interpretation passes broad gate. Author-linked Internet Appendix, July 18, 2018, PDF2–4 / printed pp1–3, Table A1. Title/authors and main fn10 match; publisher-byte identity unverified. 1T coefficients −.923,−2.05,−.991,−.727. With Progress, the 1T coefficient is at Progress=0, not the first observed trading interval; first-period effect includes Progress×1. With stage dummies, the literal baseline is early execution. Includes nonsignificant col4 coefficient. Stage coding caution: text defines 1T for any institutional trade and MidStage/LateStage as nested indicators. Under that literal additive coding, unadjusted late-stage increment is −2.05+1.39=−.66, whereas prose says late-stage profits are positive. Do not relabel 1T as early-only or treat stage coefficients as verified total profit levels; constants/FE baseline and implementation are not supplied. Preserve this source interpretation conflict. Source: Author-linked Internet Appendix, July 18, 2018, PDF2–4 / printed pp1–3, Table A1. Title/authors and main fn10 match; publisher-byte identity unverified.."
+  }
+]
+```
