@@ -411369,3 +411369,372 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:13:20.534324+00:00 — Review KJGA8A2C h12: source-audited coding and linked comparisons
+
+60 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4561",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4562",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4563",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4564",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4561",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4562",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4563",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4564",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4561",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4562",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4563",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4564",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4561",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4562",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4563",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4561",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4562",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4563",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4564",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4561",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4562",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4563",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4564",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4561",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4562",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4563",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4561",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4562",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4563",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4564",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4561",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4562",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4563",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4564",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4561",
+    "before": null,
+    "after": "Figure2 panelA p1053; prose p1052: all-group daily-mean IS before/after difference 1.4bp (SE .8); graphed means explicitly linked. Benchmark: pre-fee average IS horizontal line for all group; value not numerically labeled."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4562",
+    "before": null,
+    "after": "Figure2 panelB p1053; prose p1052: low-group daily-mean IS before/after difference 2.1bp (SE .7); graphed means explicitly linked. Benchmark: pre-fee average IS horizontal line for low group; value not numerically labeled."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4563",
+    "before": null,
+    "after": "Figure2 panelC p1053; prose p1052: medium-group daily-mean IS before/after difference 2.4bp (SE .6); graphed means explicitly linked. Benchmark: pre-fee average IS horizontal line for medium group; value not numerically labeled."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4564",
+    "before": null,
+    "after": "Figure2 panelD p1053; prose p1052: high-group daily-mean IS before/after difference −3.2bp (SE .9); graphed means explicitly linked. Benchmark: pre-fee average IS horizontal line for high group; value not numerically labeled."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4561",
+    "before": null,
+    "after": "Unadjusted pre-period means paired with daily-mean effect. Source does not establish stable untreated target composition and counterfactual across periods; unknown alignment. Do not read exact baseline levels from graph ticks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4562",
+    "before": null,
+    "after": "Unadjusted pre-period means paired with daily-mean effect. Source does not establish stable untreated target composition and counterfactual across periods; unknown alignment. Do not read exact baseline levels from graph ticks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4563",
+    "before": null,
+    "after": "Unadjusted pre-period means paired with daily-mean effect. Source does not establish stable untreated target composition and counterfactual across periods; unknown alignment. Do not read exact baseline levels from graph ticks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4564",
+    "before": null,
+    "after": "Unadjusted pre-period means paired with daily-mean effect. Source does not establish stable untreated target composition and counterfactual across periods; unknown alignment. Do not read exact baseline levels from graph ticks."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6653",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6653",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6653",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6653",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6653",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6653",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6653",
+    "before": null,
+    "after": "Implementation shortfall in basis points, Eq2: signed execution-price deviation from initiation midpoint; no log transformation. Not separate dependent variables called spread and price impact: these are coefficient interpretations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2702",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2702",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2702",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2702",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2702",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2702",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2702",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2702",
+    "before": null,
+    "after": "Unadjusted pre/post fee changes in mean IS for all, low-, medium- and high-informed institutions, Figure2 panels A–D."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2702",
+    "before": null,
+    "after": "Substantive graphical level effects, not merely pretrend diagnostics and not the conditional Table5 estimand. Daily average IS supplies difference and SE; weekly averages plotted. No regression FE. Visually read differences 1.4,2.1,2.4,−3.2 bp, SE .8,.7,.6,.9. Pre-fee means are horizontal lines, not numerically labeled; no invented precise baseline values. Source: §3.2 pp1052–1053; Figure2."
+  }
+]
+```
