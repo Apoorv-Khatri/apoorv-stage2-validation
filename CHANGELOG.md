@@ -402024,3 +402024,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T12:44:04.897219+00:00 — Review JFUQHXRF h9: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6600",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6600",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6600",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6600",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6600",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6600",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6600",
+    "before": null,
+    "after": "Utilized/committed credit-line amount, percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2661",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2661",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2661",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2661",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2661",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2661",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2661",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2661",
+    "before": null,
+    "after": "Bond-market-access × COVID contrast → utilization, conditional on size."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2661",
+    "before": null,
+    "after": "Explicit economic interpretation: bond-market disruption as alternative explanation. Col2 coefficient1.8 (SE1.0), not main size effect. Binary has-issued-bonds variable; table notes say any point2010–2020Q2, broader data construction also references outstanding2017Q4. Do not presume pre-treatment classification. Loan/time or richer FE, still DiD. Source: Table11 cols2–9 pp923–925."
+  }
+]
+```
