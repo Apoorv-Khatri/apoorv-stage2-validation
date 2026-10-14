@@ -406512,3 +406512,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:08:36.693028+00:00 — Review KJGA8A2C h1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6634",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6634",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6634",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6634",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6634",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6634",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6634",
+    "before": null,
+    "after": "Implementation shortfall in basis points, Eq2: signed execution-price deviation from initiation midpoint; no log transformation. Not separate dependent variables called spread and price impact: these are coefficient interpretations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2691",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2691",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2691",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2691",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2691",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2691",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2691",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2691",
+    "before": null,
+    "after": "Differential fee-regime effects for medium versus high and low versus high informed institutions, Table5 col4 pooled interactions (including log-size slope heterogeneity). IS in bp."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2691",
+    "before": null,
+    "after": "The explicit argument is that common market-condition changes should not differentially affect informed groups. Group×post contrasts give conventional DiD/DDD-type heterogeneity, not modern DiD. Stock-Group FE reported (one interacted set, or at most two sets if hyphen denotes separate effects; never HDFE). All groups receive policy, so these are relative exposure responses, not untreated-group effects of fee on all trades. Differential Fee coefficients 2.138,4.202; differential slope coefficients 1.203,1.333. High reference slope −2.342, medium total −1.139, low total −1.009. Treatment is group arm relative to high under policy; binary contrasts, not continuous log-size treatment. Source: §3.2 pp1050,1052,1054; Table5 col4."
+  }
+]
+```

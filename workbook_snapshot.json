@@ -26058,7 +26058,16 @@
     "L2690": "0",
     "M2690": "n/a",
     "N2690": "Auction sequence number as proxy for dealer learning over successive auctions → auction cost; unreported regression, p117 footnote23.",
-    "O2690": "Explicitly included auction number to control learning about values/internal benchmark prices; no time trend found. Linear regression extension described, no alternative nonlinear estimator indicated. Auction number is collinear with full auction dummies, so do not claim those dummies retained; exact implementation unknown. This is a supporting mechanism null, not an event-study/pretrend diagnostic. Linear extension is established by footnote23’s reference to this regression, but auction-number coefficient cannot coexist as an identified parameter with a saturated auction dummy set. Do not reconstruct which dummy set was removed, how time was coded beyond auction number, or which cost horizons were estimated. Source: p117 footnote23 (PDF15)."
+    "O2690": "Explicitly included auction number to control learning about values/internal benchmark prices; no time trend found. Linear regression extension described, no alternative nonlinear estimator indicated. Auction number is collinear with full auction dummies, so do not claim those dummies retained; exact implementation unknown. This is a supporting mechanism null, not an event-study/pretrend diagnostic. Linear extension is established by footnote23’s reference to this regression, but auction-number coefficient cannot coexist as an identified parameter with a saturated auction dummy set. Do not reconstruct which dummy set was removed, how time was coded beyond auction number, or which cost horizons were estimated. Source: p117 footnote23 (PDF15).",
+    "A2691": "KJGA8A2C",
+    "B2691": "h1",
+    "I2691": "1",
+    "J2691": "DiD_conventional",
+    "K2691": "1",
+    "L2691": "1",
+    "M2691": "n/a",
+    "N2691": "Differential fee-regime effects for medium versus high and low versus high informed institutions, Table5 col4 pooled interactions (including log-size slope heterogeneity). IS in bp.",
+    "O2691": "The explicit argument is that common market-condition changes should not differentially affect informed groups. Group×post contrasts give conventional DiD/DDD-type heterogeneity, not modern DiD. Stock-Group FE reported (one interacted set, or at most two sets if hyphen denotes separate effects; never HDFE). All groups receive policy, so these are relative exposure responses, not untreated-group effects of fee on all trades. Differential Fee coefficients 2.138,4.202; differential slope coefficients 1.203,1.333. High reference slope −2.342, medium total −1.139, low total −1.009. Treatment is group arm relative to high under policy; binary contrasts, not continuous log-size treatment. Source: §3.2 pp1050,1052,1054; Table5 col4."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71443,7 +71452,14 @@
     "A6633": "JGNACSDE",
     "B6633": "h34",
     "C6633": "hy1",
-    "K6633": "Auction price markup; precise closest-ask versus 3:30pm outcome implementation not specified in footnote23."
+    "K6633": "Auction price markup; precise closest-ask versus 3:30pm outcome implementation not specified in footnote23.",
+    "A6634": "KJGA8A2C",
+    "B6634": "h1",
+    "C6634": "hy1",
+    "H6634": "0",
+    "I6634": "unknown",
+    "J6634": "none",
+    "K6634": "Implementation shortfall in basis points, Eq2: signed execution-price deviation from initiation midpoint; no log transformation. Not separate dependent variables called spread and price impact: these are coefficient interpretations."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
