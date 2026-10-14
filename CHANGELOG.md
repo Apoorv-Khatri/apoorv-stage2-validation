@@ -388473,3 +388473,336 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:28:33.676517+00:00 — Review IYMGE8KX h27: source-audited coding and linked comparisons
+
+54 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4471",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4472",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4473",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4471",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4472",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4473",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4471",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4472",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4473",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4471",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4472",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4473",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4471",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4472",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4473",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4471",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4472",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4473",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4471",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4472",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4473",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4471",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4472",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4473",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4471",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4472",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4473",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4471",
+    "before": null,
+    "after": "Table IV A pp563–564; §II.B pp562,566–567: Log reference-entity assets log-relative-odds coefficient 0.117, column 5; benchmark: printed category incidence 0.111% in column sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4472",
+    "before": null,
+    "after": "Table IV A pp563–564; §II.B pp562,566–567: Log reference-entity assets log-relative-odds coefficient 0.782, column 6; benchmark: printed category incidence 0.010% in column sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4473",
+    "before": null,
+    "after": "Table IV A pp563–564; §II.B pp562,566–567: Log reference-entity assets log-relative-odds coefficient 0.663, column 7; benchmark: printed category incidence 0.071% in column sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4471",
+    "before": null,
+    "after": "Deliberate pairing, but nonlinear log-relative-odds and marginal observed category share are not a matched effect/baseline scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4472",
+    "before": null,
+    "after": "Deliberate pairing, but nonlinear log-relative-odds and marginal observed category share are not a matched effect/baseline scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4473",
+    "before": null,
+    "after": "Deliberate pairing, but nonlinear log-relative-odds and marginal observed category share are not a matched effect/baseline scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6458",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6459",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6460",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6458",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6459",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6460",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6458",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6459",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6460",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6458",
+    "before": null,
+    "after": "Four-category CDS state, buy-only relative to no position; not a binary response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6459",
+    "before": null,
+    "after": "Four-category CDS state, both relative to no position; not a binary response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6460",
+    "before": null,
+    "after": "Four-category CDS state, sell-only relative to no position; not a binary response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2552",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2552",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2552",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2552",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2552",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2552",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2552",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2552",
+    "before": null,
+    "after": "Log reference-entity assets → four-category CDS position state (buy-only, both, sell-only versus no position), fund–issuer–quarter multinomial logit, Table IV A cols5–7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2552",
+    "before": null,
+    "after": "Retain the multinomial implementation of issuer-size preference, pp566–567. Null or weaker category effects do not remove the parameter-specific choice mechanism. Issuer size preference/capacity; discussed asymmetry selling versus buying; gate weaker than central liquidity parameters. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table IV A pp563–564; §II.B pp562,566–567."
+  }
+]
+```
