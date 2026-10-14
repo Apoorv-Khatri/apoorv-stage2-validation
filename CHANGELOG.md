@@ -403830,3 +403830,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T14:08:39.543241+00:00 — Review JGNACSDE s5: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1249",
+    "before": null,
+    "after": "Dealer sales quantity in $ billions; Table12 caption restricts to each bond purchased by each dealer. Model zero_mass=1 is not established for this accepted-sales sample; no observed zero mass is reported. Detailed human labels inapplicable to continuous treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I496",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J496",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K496",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L496",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M496",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O496",
+    "before": null,
+    "after": "Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Main flag corrected to 1: introduction p105 and conclusion p120 foreground dealer comparative advantage. Top-five status is an ex-post aggregate-profit subgroup (Table11), not an assigned binary treatment. Col1 cheapness slope .0002 and interaction .0023 imply top-five .0025 as stated in prose; pooled col2 .0012, subgroup cols3/4 .0026/.0003. Col1 group×CUSIP and group×auction spaces contain the base dummy spaces: TWO effective dimensions, not four; no dealer FE. Other columns have two base sets. Four printed FE rows do not establish HDFE. Ratios of response slopes are not outcome levels. Source: §7, Eq14, Table12 cols1–4 pp118–120 (PDF16–18)."
+  }
+]
+```
