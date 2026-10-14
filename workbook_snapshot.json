@@ -25749,7 +25749,16 @@
     "L2666": "0",
     "M2666": "unknown",
     "N2666": "Bank capital differences → loan drawdowns in COVID; alternative bank-capacity explanation, including size gradient.",
-    "O2666": "Published p928 explicitly reports substantive bank-capacity nulls: differences in capital, liquid assets, or deposits across banks do not explain the size gradient in 2020Q1 drawdowns (Table A.12). Visual inspection confirms liq- / uid is one hyphenated word; there is no fourth liquidity variable in this sentence. Retain this minimum treatment-specific scope. Exact bank-variable definitions, normalization, interactions, estimator and any further splits are unknown without the appendix; do not infer HDFE or coefficient grids. Source: Appendix Table A.12; §5.3 p928."
+    "O2666": "Published p928 explicitly reports substantive bank-capacity nulls: differences in capital, liquid assets, or deposits across banks do not explain the size gradient in 2020Q1 drawdowns (Table A.12). Visual inspection confirms liq- / uid is one hyphenated word; there is no fourth liquidity variable in this sentence. Retain this minimum treatment-specific scope. Exact bank-variable definitions, normalization, interactions, estimator and any further splits are unknown without the appendix; do not infer HDFE or coefficient grids. Source: Appendix Table A.12; §5.3 p928.",
+    "A2667": "JFUQHXRF",
+    "B2667": "h16",
+    "I2667": "1",
+    "J2667": "unknown",
+    "K2667": "0",
+    "L2667": "0",
+    "M2667": "unknown",
+    "N2667": "Bank liquid assets differences → loan drawdowns in COVID; alternative bank-capacity explanation, including size gradient.",
+    "O2667": "Published p928 explicitly reports substantive bank-capacity nulls: differences in capital, liquid assets, or deposits across banks do not explain the size gradient in 2020Q1 drawdowns (Table A.12). Visual inspection confirms liq- / uid is one hyphenated word; there is no fourth liquidity variable in this sentence. Retain this minimum treatment-specific scope. Exact bank-variable definitions, normalization, interactions, estimator and any further splits are unknown without the appendix; do not infer HDFE or coefficient grids. Source: Appendix Table A.12; §5.3 p928."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70978,7 +70987,11 @@
     "A6605": "JFUQHXRF",
     "B6605": "h14",
     "C6605": "hy1",
-    "K6605": "Utilized/committed credit-line amount, percentage points."
+    "K6605": "Utilized/committed credit-line amount, percentage points.",
+    "A6606": "JFUQHXRF",
+    "B6606": "h16",
+    "C6606": "hy1",
+    "K6606": "Utilized/committed credit-line amount, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

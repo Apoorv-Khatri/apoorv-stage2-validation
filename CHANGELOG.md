@@ -402600,3 +402600,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T12:46:40.573268+00:00 — Review JFUQHXRF h16: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6606",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6606",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6606",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6606",
+    "before": null,
+    "after": "Utilized/committed credit-line amount, percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2667",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2667",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2667",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2667",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2667",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2667",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2667",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2667",
+    "before": null,
+    "after": "Bank liquid assets differences → loan drawdowns in COVID; alternative bank-capacity explanation, including size gradient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2667",
+    "before": null,
+    "after": "Published p928 explicitly reports substantive bank-capacity nulls: differences in capital, liquid assets, or deposits across banks do not explain the size gradient in 2020Q1 drawdowns (Table A.12). Visual inspection confirms liq- / uid is one hyphenated word; there is no fourth liquidity variable in this sentence. Retain this minimum treatment-specific scope. Exact bank-variable definitions, normalization, interactions, estimator and any further splits are unknown without the appendix; do not infer HDFE or coefficient grids. Source: Appendix Table A.12; §5.3 p928."
+  }
+]
+```
