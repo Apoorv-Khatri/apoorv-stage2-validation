@@ -381180,3 +381180,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:19:35.721659+00:00 — Review IYMGE8KX s4: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K281",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K282",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K283",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L283",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M283",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N283",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O283",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P283",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q283",
+    "before": null,
+    "after": "§III.A p568/PDF32, Table IV B col6 p565: Printed p568 one-SD INCREASE in CDS–bond spread associated with +39 bps of fund TNA; Table IV B col6 instead has coefficient −18.93; benchmark: printed unconditional average basis-trade/TNA ratio 14 bps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R281",
+    "before": null,
+    "after": "Reject: model stitches Table II descriptive mean to separate treatment-SD effect prose. No deliberate focal effect–mean linkage in Table III B / Table IV B for this coefficient. Percentage-point effect and treatment SD are not benchmarks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R282",
+    "before": null,
+    "after": "Reject: model stitches Table II descriptive mean to separate treatment-SD effect prose. No deliberate focal effect–mean linkage in Table III B / Table IV B for this coefficient. Percentage-point effect and treatment SD are not benchmarks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R283",
+    "before": null,
+    "after": "Visually verified source conflict: prose says increase despite negative coefficient and negative-basis mechanism. Preserve +39 and 14 bps literally. Table II B reports issuer-level mean 0.001%, a different value/possible aggregation. Population, weighting and untreated continuous-treatment target are not established. No invented correction or ratio; introduction says almost triples odds but main estimator is Tobit intensity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1214",
+    "before": null,
+    "after": "Gross sell notional on issuer / fund TNA (%); observed zero positions retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1215",
+    "before": null,
+    "after": "Gross buy notional on issuer / fund TNA (%); observed zero positions retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1216",
+    "before": null,
+    "after": "Speculative (unmatched/naked) buy notional on issuer / fund TNA (%); observed zero positions retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1217",
+    "before": null,
+    "after": "Basis buy matched to issuer bond holdings notional on issuer / fund TNA (%); observed zero positions retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I473",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J473",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K473",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L473",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M473",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N473",
+    "before": null,
+    "after": "CDS–bond basis → issuer-level gross sell, gross buy, speculative buy and basis buy intensity (% fund TNA), Tobit Table IV B; same time/style dummies and lagged fund/issuer controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O473",
+    "before": null,
+    "after": "CDS spread plus swap rate minus synthetic five-year bond yield; negative-basis/yield motive, not an IV instrument. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Basis is present only in cols3–6; other predictors have cols1–6. Outcomes are censored observed intensities, not probabilities. Printed coefficients by cols1–6 (None means not included): [None, None, 22.06, -16.19, -11.17, -18.93]. Source: Table IV B pp564–565; §II.B–III.A pp567–568."
+  }
+]
+```
