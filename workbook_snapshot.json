@@ -25641,7 +25641,16 @@
     "L2654": "1",
     "M2654": "n/a",
     "N2654": "Industry employment-decline exposure → industry mean loan utilization change, separately SMEs (<250m) and large firms (>1bn); firm-count-weighted linear fits.",
-    "O2654": "WLS of industry means, industries with at least ten firms in category. No FE or post-panel estimator. Authors say cash-flow shocks translated into drawdowns for large but not small firms. Distinct aggregate estimator from Table13 and Table14. Source: Fig3 p926; §5.2 p925."
+    "O2654": "WLS of industry means, industries with at least ten firms in category. No FE or post-panel estimator. Authors say cash-flow shocks translated into drawdowns for large but not small firms. Distinct aggregate estimator from Table13 and Table14. Source: Fig3 p926; §5.2 p925.",
+    "A2655": "JFUQHXRF",
+    "B2655": "h3",
+    "I2655": "1",
+    "J2655": "DiD_conventional",
+    "K2655": "0",
+    "L2655": "1",
+    "M2655": "n/a",
+    "N2655": "Quarter-specific employment-exposure effects on utilization for SMEs and large firms, normalized to 2019Q4.",
+    "O2655": "Substantive 2020Q1 jump and 2020Q2 easing at large firms; not diagnostic-only pretrends. Loan/time FE; conventional interacted event-time model, no modern estimator. No exact unseen graph coefficients claimed. Source: Fig4 p926 and pp925–927."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70807,7 +70816,11 @@
     "A6593": "JFUQHXRF",
     "B6593": "h2",
     "C6593": "hy1",
-    "K6593": "Industry average change in drawdown rate 2019Q4–2020Q1, percentage points; not log or outcome-SD units."
+    "K6593": "Industry average change in drawdown rate 2019Q4–2020Q1, percentage points; not log or outcome-SD units.",
+    "A6594": "JFUQHXRF",
+    "B6594": "h3",
+    "C6594": "hy1",
+    "K6594": "Utilized/committed credit-line amount, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
