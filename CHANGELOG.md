@@ -403881,3 +403881,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T14:09:13.824906+00:00 — Review JGNACSDE s6: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I497",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J497",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K497",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L497",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M497",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O497",
+    "before": null,
+    "after": "Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Main flag corrected to 1 for same introduction/conclusion evidence. Col5 cheapness .0705 and interaction −.0303; authors state approximately .04 for top five versus .07 others. Interaction t=−1.0020: preserve null; separate cols7/8 .0412/.0673. Same two effective group-specific dimensions in col5, two base sets otherwise; no dealer FE. Do not interpret top-five dummy at zero covariates as unconditional treatment effect. Source: §7, Eq15, Table12 cols5–8 pp118–120 (PDF16–18)."
+  }
+]
+```
