@@ -387939,3 +387939,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:28:02.785046+00:00 — Review IYMGE8KX h25: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6452",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6453",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6454",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6455",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6452",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6453",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6454",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6455",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6452",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6453",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6454",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6455",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6452",
+    "before": null,
+    "after": "Gross sell notional on issuer / fund TNA (%); observed zero positions retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6453",
+    "before": null,
+    "after": "Gross buy notional on issuer / fund TNA (%); observed zero positions retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6454",
+    "before": null,
+    "after": "Speculative (unmatched/naked) buy notional on issuer / fund TNA (%); observed zero positions retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6455",
+    "before": null,
+    "after": "Basis buy matched to issuer bond holdings notional on issuer / fund TNA (%); observed zero positions retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2550",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2550",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2550",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2550",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2550",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2550",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2550",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2550",
+    "before": null,
+    "after": "Bond trading-day fraction → issuer-level gross sell, gross buy, speculative buy and basis buy intensity (% fund TNA), Tobit Table IV B; same time/style dummies and lagged fund/issuer controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2550",
+    "before": null,
+    "after": "Value-weighted fraction of days with trades across issuer bonds, lagged; not CDS liquidity. Buying null and positive selling response are substantive. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Basis is present only in cols3–6; other predictors have cols1–6. Outcomes are censored observed intensities, not probabilities. Printed coefficients by cols1–6 (None means not included): [3.211, -0.109, 2.629, -0.0669, 0.322, -0.273]. Source: Table IV B pp564–565; §II.B–III.A pp567–568."
+  }
+]
+```

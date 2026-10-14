@@ -24600,7 +24600,16 @@
     "L2549": "1",
     "M2549": "n/a",
     "N2549": "Bond trading-day fraction → four-category CDS position state (buy-only, both, sell-only versus no position), fund–issuer–quarter multinomial logit, Table IV A cols5–7.",
-    "O2549": "Value-weighted fraction of days with trades across issuer bonds, lagged; not CDS liquidity. Buying null and positive selling response are substantive. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table IV A pp563–564; §II.B pp562,566–567."
+    "O2549": "Value-weighted fraction of days with trades across issuer bonds, lagged; not CDS liquidity. Buying null and positive selling response are substantive. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table IV A pp563–564; §II.B pp562,566–567.",
+    "A2550": "IYMGE8KX",
+    "B2550": "h25",
+    "I2550": "1",
+    "J2550": "Other",
+    "K2550": "0",
+    "L2550": "1",
+    "M2550": "n/a",
+    "N2550": "Bond trading-day fraction → issuer-level gross sell, gross buy, speculative buy and basis buy intensity (% fund TNA), Tobit Table IV B; same time/style dummies and lagged fund/issuer controls.",
+    "O2550": "Value-weighted fraction of days with trades across issuer bonds, lagged; not CDS liquidity. Buying null and positive selling response are substantive. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Basis is present only in cols3–6; other predictors have cols1–6. Outcomes are censored observed intensities, not probabilities. Printed coefficients by cols1–6 (None means not included): [3.211, -0.109, 2.629, -0.0669, 0.322, -0.273]. Source: Table IV B pp564–565; §II.B–III.A pp567–568."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69101,7 +69110,23 @@
     "A6451": "IYMGE8KX",
     "B6451": "h24",
     "C6451": "hy3",
-    "K6451": "Four-category CDS state, sell-only relative to no position; not a binary response."
+    "K6451": "Four-category CDS state, sell-only relative to no position; not a binary response.",
+    "A6452": "IYMGE8KX",
+    "B6452": "h25",
+    "C6452": "hy1",
+    "K6452": "Gross sell notional on issuer / fund TNA (%); observed zero positions retained.",
+    "A6453": "IYMGE8KX",
+    "B6453": "h25",
+    "C6453": "hy2",
+    "K6453": "Gross buy notional on issuer / fund TNA (%); observed zero positions retained.",
+    "A6454": "IYMGE8KX",
+    "B6454": "h25",
+    "C6454": "hy3",
+    "K6454": "Speculative (unmatched/naked) buy notional on issuer / fund TNA (%); observed zero positions retained.",
+    "A6455": "IYMGE8KX",
+    "B6455": "h25",
+    "C6455": "hy4",
+    "K6455": "Basis buy matched to issuer bond holdings notional on issuer / fund TNA (%); observed zero positions retained."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
