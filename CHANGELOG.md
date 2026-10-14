@@ -390540,3 +390540,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:30:26.773643+00:00 — Review IYMGE8KX h34: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6479",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6479",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6479",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6479",
+    "before": null,
+    "after": "Portfolio yield minus five-year Treasury rate, percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2559",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2559",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2559",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2559",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2559",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2559",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2559",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2559",
+    "before": null,
+    "after": "single-name CDS selling intensity (% TNA) → fund portfolio spread over five-year Treasury (% points), fund-quarter linear regressions; time/style dummy controls and fund size, with/without duration/security-class controls; cross-fund response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2559",
+    "before": null,
+    "after": "Quarter/style controls are present, not a no-dummy regression. The paper distinguishes the identifying within-fund effect from this cross-fund yield-targeting relation; code OLS/regression adjustment, not automatically identifying FE. No DiD or IV. Printed focal coefficients [0.2992, 0.2771]. Neither 93bp composition difference nor 14/13bp recomputation belongs to these regression coefficients. Source: Table V p570, cols1/2; §III.B p569."
+  }
+]
+```

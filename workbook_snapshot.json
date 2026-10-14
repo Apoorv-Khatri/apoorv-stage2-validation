@@ -24681,7 +24681,16 @@
     "L2558": "1",
     "M2558": "n/a",
     "N2558": "CDS–bond basis → four-category CDS position state (buy-only, both, sell-only versus no position), fund–issuer–quarter multinomial logit, Table IV A cols5–7.",
-    "O2558": "CDS spread plus swap rate minus synthetic five-year bond yield; negative-basis/yield motive, not an IV instrument. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table IV A pp563–564; §II.B pp562,566–567."
+    "O2558": "CDS spread plus swap rate minus synthetic five-year bond yield; negative-basis/yield motive, not an IV instrument. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table IV A pp563–564; §II.B pp562,566–567.",
+    "A2559": "IYMGE8KX",
+    "B2559": "h34",
+    "I2559": "1",
+    "J2559": "OLS",
+    "K2559": "0",
+    "L2559": "1",
+    "M2559": "n/a",
+    "N2559": "single-name CDS selling intensity (% TNA) → fund portfolio spread over five-year Treasury (% points), fund-quarter linear regressions; time/style dummy controls and fund size, with/without duration/security-class controls; cross-fund response.",
+    "O2559": "Quarter/style controls are present, not a no-dummy regression. The paper distinguishes the identifying within-fund effect from this cross-fund yield-targeting relation; code OLS/regression adjustment, not automatically identifying FE. No DiD or IV. Printed focal coefficients [0.2992, 0.2771]. Neither 93bp composition difference nor 14/13bp recomputation belongs to these regression coefficients. Source: Table V p570, cols1/2; §III.B p569."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69290,7 +69299,11 @@
     "A6478": "IYMGE8KX",
     "B6478": "h33",
     "C6478": "hy3",
-    "K6478": "Four-category CDS state, sell-only relative to no position; not a binary response."
+    "K6478": "Four-category CDS state, sell-only relative to no position; not a binary response.",
+    "A6479": "IYMGE8KX",
+    "B6479": "h34",
+    "C6479": "hy1",
+    "K6479": "Portfolio yield minus five-year Treasury rate, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
