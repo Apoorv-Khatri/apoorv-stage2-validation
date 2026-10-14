@@ -404733,3 +404733,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T14:13:33.521511+00:00 — Review JGNACSDE h12: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6627",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6627",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6627",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6627",
+    "before": null,
+    "after": "Dealer d’s sales quantity of bond j in auction t, measured in billions of dollars of par value at the auction-CUSIP-dealer level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2684",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2684",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2684",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2684",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2684",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2684",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2684",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2684",
+    "before": null,
+    "after": "8:40am ask minus bid divided by midpoint, basis points. Focal Bid-Ask response in §7, Eq14, Table12 cols1–4 pp118–120 (PDF16–18). Outcome set as in s5. Include full-sample slope, top-five interaction and subgroup slopes; continuous treatment with ex-post profit-group heterogeneity, not a binary top-five intervention."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2684",
+    "before": null,
+    "after": "Liquidity/dealer sourcing channel for quantity pp115,120; cost direction pp117,120. Prose p113 prints Bid−Ask notation despite defining ask−bid; preserve textual discrepancy, use economic definition of positive spread. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Main=1: p120 explicitly explains the central top-five profit advantage by ability to source less volatile/lower-spread bonds, alongside cheapness. The heterogeneous quantity slopes materially support that central mechanism, rather than being merely incidental controls. Source: §7, Eq14, Table12 cols1–4 pp118–120 (PDF16–18); §4.3 pp112–113; §§5–7 pp115–120."
+  }
+]
+```
