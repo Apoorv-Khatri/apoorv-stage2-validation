@@ -404313,3 +404313,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T14:11:52.802829+00:00 — Review JGNACSDE h6: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6620",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6621",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6620",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6621",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6620",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6621",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6620",
+    "before": null,
+    "after": "Auction price markup relative to the closest secondary-market ask, measured in cents per $100 par value for bond j in auction t, quantity-weighted across accepted offers."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6621",
+    "before": null,
+    "after": "Auction price markup relative to the 3:30 p.m. secondary-market ask, measured in cents per $100 par value for bond j in auction t, quantity-weighted across accepted offers."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2680",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2680",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2680",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2680",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2680",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2680",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2680",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2680",
+    "before": null,
+    "after": "GC minus specific-collateral repo rate measured before 10am, percentage points. Focal Specialness response in §6, Eq11, Table10 p117 (PDF15). Outcome set as in s2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2680",
+    "before": null,
+    "after": "Scarcity/supply determinant defined §4.3 p112; cost direction discussed p117 and heterogeneous response p120. Quantity nulls remain supporting tests under the broad determinants interpretation. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Source: §6, Eq11, Table10 p117 (PDF15); §4.3 pp112–113; §§5–7 pp115–120."
+  }
+]
+```
