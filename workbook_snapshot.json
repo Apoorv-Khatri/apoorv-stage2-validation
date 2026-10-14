@@ -24925,7 +24925,16 @@
     "L2578": "1",
     "M2578": "n/a",
     "N2578": "Lagged Market leverage ((DLTT+DLC)/(DLTT+DLC+CSHO×PRCC_F)) → recall incidence; probit Table3 cols2/5/8",
-    "O2578": "Lagged financial condition, observational recall-event/control sample, firm-clustered SE. Industry/year indicators partly address omitted managerial/industry conditions (p1805); nonlinear probit remains Other regardless of dummy count. Remaining omitted-variable risk acknowledged, but broad author-intention gate satisfied by theoretical financial-constraint interpretation and conclusion. Table3 col2 Market leverage p=.028 (5%), although p1803 says both leverage measures are significant at 1% in all regressions. Preserve the table/prose conflict; it does not remove this causal setting. Source: Table3 p1802; §3.1 pp1801–1805."
+    "O2578": "Lagged financial condition, observational recall-event/control sample, firm-clustered SE. Industry/year indicators partly address omitted managerial/industry conditions (p1805); nonlinear probit remains Other regardless of dummy count. Remaining omitted-variable risk acknowledged, but broad author-intention gate satisfied by theoretical financial-constraint interpretation and conclusion. Table3 col2 Market leverage p=.028 (5%), although p1803 says both leverage measures are significant at 1% in all regressions. Preserve the table/prose conflict; it does not remove this causal setting. Source: Table3 p1802; §3.1 pp1801–1805.",
+    "A2579": "IYY27QU8",
+    "B2579": "h2",
+    "I2579": "1",
+    "J2579": "Other",
+    "K2579": "0",
+    "L2579": "1",
+    "M2579": "n/a",
+    "N2579": "Lagged Market leverage → recall incidence, slope interacted with Tariff cut; probit Table4 col2",
+    "O2579": "Tariff cut: industry annual percentage tariff drop at least twice industry median, using absolute median when positive; exclude next-year reversals. Alternative 2.5/3 thresholds are routine variants. Lagged shock, manufacturing sample; 2-digit SIC and year controls. Competition is a possible separate channel. Probit interaction is not a conventional linear DiD; reported product-term marginal effect is not automatically a discrete total shock effect. Source: Table4 p1809."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69682,7 +69691,11 @@
     "A6508": "IYY27QU8",
     "B6508": "h1",
     "C6508": "hy1",
-    "K6508": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+    "K6508": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero.",
+    "A6509": "IYY27QU8",
+    "B6509": "h2",
+    "C6509": "hy1",
+    "K6509": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
