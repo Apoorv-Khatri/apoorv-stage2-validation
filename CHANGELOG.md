@@ -410982,3 +410982,390 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:12:55.080120+00:00 — Review KJGA8A2C h11: source-audited coding and linked comparisons
+
+63 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4558",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4559",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4560",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4558",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4559",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4560",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4558",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4559",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4560",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4559",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4560",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4558",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4559",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4560",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4558",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4559",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4560",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4559",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4560",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4559",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4560",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4558",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4559",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4560",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4558",
+    "before": null,
+    "after": "Table3 panel A and p1047 prose: post-regime mean 4,451 versus pre-regime 5,220; reported change −14.7%. Benchmark: pre-fee cross-stock mean of stock daily-mean counts, 5,220; three months before April1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4559",
+    "before": null,
+    "after": "Table3 panel B and p1047 prose: post-regime mean 91,778 versus pre-regime 116,783; reported change −21.4%. Benchmark: pre-fee cross-stock mean of stock daily-mean counts, 116,783; three months before April1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4560",
+    "before": null,
+    "after": "Table3 panel C and p1047 prose: post-regime mean 88,250 versus pre-regime 112,611; reported change −21.6%. Benchmark: pre-fee cross-stock mean of stock daily-mean counts, 112,611; three months before April1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4558",
+    "before": null,
+    "after": "Same stock universe and pre-period levels, but the paper does not establish pre-period mean as the post-policy target untreated counterfactual under its before/after design; alignment unknown. Caption ambiguously describes cross-sectional percentage statistics; preserve rather than assume regression weights."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4559",
+    "before": null,
+    "after": "Same stock universe and pre-period levels, but the paper does not establish pre-period mean as the post-policy target untreated counterfactual under its before/after design; alignment unknown. Caption ambiguously describes cross-sectional percentage statistics; preserve rather than assume regression weights."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4560",
+    "before": null,
+    "after": "Same stock universe and pre-period levels, but the paper does not establish pre-period mean as the post-policy target untreated counterfactual under its before/after design; alignment unknown. Caption ambiguously describes cross-sectional percentage statistics; preserve rather than assume regression weights."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6650",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6651",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6652",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6650",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6651",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6652",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6650",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6651",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6652",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6650",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6651",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6652",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6650",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6651",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6652",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6650",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6651",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6652",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6650",
+    "before": null,
+    "after": "Mean daily number of HFT trades per stock in three-month pre/post periods; not normalized in level columns."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6651",
+    "before": null,
+    "after": "Mean daily number of HFT orders per stock in three-month pre/post periods; not normalized in level columns."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6652",
+    "before": null,
+    "after": "Mean daily number of HFT cancellations per stock in three-month pre/post periods; not normalized in level columns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2701",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2701",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2701",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2701",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2701",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2701",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2701",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2701",
+    "before": null,
+    "after": "Integrated fee regime before/after effect on mean daily HFT trade, order and cancellation counts per stock; Table3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2701",
+    "before": null,
+    "after": "Substantive reduction of HFT activity central to abstract/introduction, not diagnostic-only first stage: no IV effect estimated. Linear before/after mean contrasts, not DiD. Three months either side; statistics across stock-specific daily means. Distributional quartiles are descriptive and not extra causal estimators. Percentage column may be interpreted as change of aggregate cross-sectional means, consistent with printed values; do not assume mean of stock-specific percent changes. No FE. Source: §3 pp1046–1047; Table3."
+  }
+]
+```
