@@ -25812,7 +25812,16 @@
     "L2673": "0",
     "M2673": "unknown",
     "N2673": "Lower internal rating → collateral posting within firm-size class.",
-    "O2673": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Rating is ordered nonbinary, not automatically binary. Mechanism concerns residual-risk protection. Exact contrast/estimator and mappings unresolved. Source: Appendix Tables A.14–A.19 collectively; p922."
+    "O2673": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Rating is ordered nonbinary, not automatically binary. Mechanism concerns residual-risk protection. Exact contrast/estimator and mappings unresolved. Source: Appendix Tables A.14–A.19 collectively; p922.",
+    "A2674": "JFUQHXRF",
+    "B2674": "h23",
+    "I2674": "1",
+    "J2674": "DiD_conventional",
+    "K2674": "0",
+    "L2674": "1",
+    "M2674": "n/a",
+    "N2674": "Employment exposure × maturity category × COVID → drawdown sensitivity.",
+    "O2674": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Focal dose is continuous exposure; maturity is moderator. Prose explicitly interprets larger sensitivity with maturity as loan terms affecting access. Not the same estimand as size-moderated exposure or unconditional maturity×COVID. No exact maturity coefficients claimed. Source: Table13 col6; p927 loan-term discussion; conflicting Fig A.5 reference."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71078,7 +71087,11 @@
     "A6612": "JFUQHXRF",
     "B6612": "h22",
     "C6612": "hy1",
-    "K6612": "Collateral posting; indicator or rate and exact scale unresolved."
+    "K6612": "Collateral posting; indicator or rate and exact scale unresolved.",
+    "A6613": "JFUQHXRF",
+    "B6613": "h23",
+    "C6613": "hy1",
+    "K6613": "Utilized/committed credit-line amount, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
