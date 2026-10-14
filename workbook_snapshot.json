@@ -25776,7 +25776,16 @@
     "L2669": "0",
     "M2669": "n/a",
     "N2669": "Large (>1bn) versus SME (<250m) mean utilization trajectories around downgrade, interpreted as differential access after bad news.",
-    "O2669": "Broad author-intention gate retained, but explicitly contestable: p920 attributes the divergent pre-distress utilization paths to discretionary loan terms restricting credit after bad news. Figure2 estimates group/time means, not a treatment-effect regression; OLS is the minimum linear mean-comparison classification, not evidence of random size assignment or an identified event shock. Size proxies contractual regimes. No reported numerical large-minus-small causal effect is invented. Eight-quarter pre-event balanced panel; post-event points are illustrative only. Default panel has different group axes. Dashed unconditional size-group means are not linked to a specified numerical focal effect/contrast, so no benchmark triple is added from mere presence of reference lines. If adjudicating a stricter descriptive gate, reject both panels together rather than relabel them DiD. Source: Fig2 panel(a) pp920–921."
+    "O2669": "Broad author-intention gate retained, but explicitly contestable: p920 attributes the divergent pre-distress utilization paths to discretionary loan terms restricting credit after bad news. Figure2 estimates group/time means, not a treatment-effect regression; OLS is the minimum linear mean-comparison classification, not evidence of random size assignment or an identified event shock. Size proxies contractual regimes. No reported numerical large-minus-small causal effect is invented. Eight-quarter pre-event balanced panel; post-event points are illustrative only. Default panel has different group axes. Dashed unconditional size-group means are not linked to a specified numerical focal effect/contrast, so no benchmark triple is added from mere presence of reference lines. If adjudicating a stricter descriptive gate, reject both panels together rather than relabel them DiD. Source: Fig2 panel(a) pp920–921.",
+    "A2670": "JFUQHXRF",
+    "B2670": "h19",
+    "I2670": "1",
+    "J2670": "OLS",
+    "K2670": "1",
+    "L2670": "0",
+    "M2670": "n/a",
+    "N2670": "Large (>1bn) versus SME (<250m) mean utilization trajectories around default/non-accrual, interpreted as differential access after bad news.",
+    "O2670": "Broad author-intention gate retained, but explicitly contestable: p920 attributes the divergent pre-distress utilization paths to discretionary loan terms restricting credit after bad news. Figure2 estimates group/time means, not a treatment-effect regression; OLS is the minimum linear mean-comparison classification, not evidence of random size assignment or an identified event shock. Size proxies contractual regimes. No reported numerical large-minus-small causal effect is invented. Eight-quarter pre-event balanced panel; post-event points are illustrative only. Default panel has different group axes. Dashed unconditional size-group means are not linked to a specified numerical focal effect/contrast, so no benchmark triple is added from mere presence of reference lines. If adjudicating a stricter descriptive gate, reject both panels together rather than relabel them DiD. Source: Fig2 panel(b) pp920–921."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71020,7 +71029,14 @@
     "H6608": "0",
     "I6608": "unknown",
     "J6608": "none",
-    "K6608": "Utilized/committed credit-line amount, percentage points."
+    "K6608": "Utilized/committed credit-line amount, percentage points.",
+    "A6609": "JFUQHXRF",
+    "B6609": "h19",
+    "C6609": "hy1",
+    "H6609": "0",
+    "I6609": "unknown",
+    "J6609": "none",
+    "K6609": "Utilized/committed credit-line amount, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
