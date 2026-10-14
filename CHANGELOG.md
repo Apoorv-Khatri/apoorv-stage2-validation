@@ -404202,3 +404202,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T14:11:27.480023+00:00 — Review JGNACSDE h5: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6618",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6619",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6618",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6619",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6618",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6619",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6618",
+    "before": null,
+    "after": "Auction price markup relative to the closest secondary-market ask, measured in cents per $100 par value for bond j in auction t, quantity-weighted across accepted offers."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6619",
+    "before": null,
+    "after": "Auction price markup relative to the 3:30 p.m. secondary-market ask, measured in cents per $100 par value for bond j in auction t, quantity-weighted across accepted offers."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2679",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2679",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2679",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2679",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2679",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2679",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2679",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2679",
+    "before": null,
+    "after": "Pre-auction volatility: SD of daily returns over preceding five trading days, percentage points. Focal VOL response in §6, Eq11, Table10 p117 (PDF15). Outcome set as in s2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2679",
+    "before": null,
+    "after": "Winner’s-curse uncertainty channel explicitly predicts higher costs (§3 p108, §4.3 p112); quantity/supply-liquidity interpretation pp115,120. Retain insignificant coefficients rather than dropping null evidence. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Independent gate: retain this null because the winner’s-curse hypothesis explicitly predicts uncertainty raises cost (pp108,112), and dealer markup is the same cost paid by the Fed (p117). This directed cost hypothesis differs from unspecified scarcity effects on quantity. Table12 VOL slope heterogeneity is not itself claimed to be a significant group difference. Source: §6, Eq11, Table10 p117 (PDF15); §4.3 pp112–113; §§5–7 pp115–120."
+  }
+]
+```
