@@ -24627,7 +24627,16 @@
     "L2552": "0",
     "M2552": "n/a",
     "N2552": "Log reference-entity assets → four-category CDS position state (buy-only, both, sell-only versus no position), fund–issuer–quarter multinomial logit, Table IV A cols5–7.",
-    "O2552": "Retain the multinomial implementation of issuer-size preference, pp566–567. Null or weaker category effects do not remove the parameter-specific choice mechanism. Issuer size preference/capacity; discussed asymmetry selling versus buying; gate weaker than central liquidity parameters. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table IV A pp563–564; §II.B pp562,566–567."
+    "O2552": "Retain the multinomial implementation of issuer-size preference, pp566–567. Null or weaker category effects do not remove the parameter-specific choice mechanism. Issuer size preference/capacity; discussed asymmetry selling versus buying; gate weaker than central liquidity parameters. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table IV A pp563–564; §II.B pp562,566–567.",
+    "A2553": "IYMGE8KX",
+    "B2553": "h28",
+    "I2553": "1",
+    "J2553": "Other",
+    "K2553": "0",
+    "L2553": "0",
+    "M2553": "n/a",
+    "N2553": "Log reference-entity assets → issuer-level gross sell, gross buy, speculative buy and basis buy intensity (% fund TNA), Tobit Table IV B; same time/style dummies and lagged fund/issuer controls.",
+    "O2553": "Retain: p567 explicitly extends the intensity-effect argument to size of reference entities. No unconditional Tobit marginal effect is manufactured. Issuer size preference/capacity; discussed asymmetry selling versus buying; gate weaker than central liquidity parameters. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Basis is present only in cols3–6; other predictors have cols1–6. Outcomes are censored observed intensities, not probabilities. Printed coefficients by cols1–6 (None means not included): [2.67, 0.435, 2.941, 0.49, -0.158, 0.622]. Source: Table IV B pp564–565; §II.B–III.A pp567–568."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69164,7 +69173,23 @@
     "A6460": "IYMGE8KX",
     "B6460": "h27",
     "C6460": "hy3",
-    "K6460": "Four-category CDS state, sell-only relative to no position; not a binary response."
+    "K6460": "Four-category CDS state, sell-only relative to no position; not a binary response.",
+    "A6461": "IYMGE8KX",
+    "B6461": "h28",
+    "C6461": "hy1",
+    "K6461": "Gross sell notional on issuer / fund TNA (%); observed zero positions retained.",
+    "A6462": "IYMGE8KX",
+    "B6462": "h28",
+    "C6462": "hy2",
+    "K6462": "Gross buy notional on issuer / fund TNA (%); observed zero positions retained.",
+    "A6463": "IYMGE8KX",
+    "B6463": "h28",
+    "C6463": "hy3",
+    "K6463": "Speculative (unmatched/naked) buy notional on issuer / fund TNA (%); observed zero positions retained.",
+    "A6464": "IYMGE8KX",
+    "B6464": "h28",
+    "C6464": "hy4",
+    "K6464": "Basis buy matched to issuer bond holdings notional on issuer / fund TNA (%); observed zero positions retained."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

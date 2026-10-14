@@ -388806,3 +388806,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:28:51.736164+00:00 — Review IYMGE8KX h28: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6461",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6462",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6463",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6464",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6461",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6462",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6463",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6464",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6461",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6462",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6463",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6464",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6461",
+    "before": null,
+    "after": "Gross sell notional on issuer / fund TNA (%); observed zero positions retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6462",
+    "before": null,
+    "after": "Gross buy notional on issuer / fund TNA (%); observed zero positions retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6463",
+    "before": null,
+    "after": "Speculative (unmatched/naked) buy notional on issuer / fund TNA (%); observed zero positions retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6464",
+    "before": null,
+    "after": "Basis buy matched to issuer bond holdings notional on issuer / fund TNA (%); observed zero positions retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2553",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2553",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2553",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2553",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2553",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2553",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2553",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2553",
+    "before": null,
+    "after": "Log reference-entity assets → issuer-level gross sell, gross buy, speculative buy and basis buy intensity (% fund TNA), Tobit Table IV B; same time/style dummies and lagged fund/issuer controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2553",
+    "before": null,
+    "after": "Retain: p567 explicitly extends the intensity-effect argument to size of reference entities. No unconditional Tobit marginal effect is manufactured. Issuer size preference/capacity; discussed asymmetry selling versus buying; gate weaker than central liquidity parameters. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Basis is present only in cols3–6; other predictors have cols1–6. Outcomes are censored observed intensities, not probabilities. Printed coefficients by cols1–6 (None means not included): [2.67, 0.435, 2.941, 0.49, -0.158, 0.622]. Source: Table IV B pp564–565; §II.B–III.A pp567–568."
+  }
+]
+```
