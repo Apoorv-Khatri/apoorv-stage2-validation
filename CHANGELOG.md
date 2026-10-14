@@ -383058,3 +383058,336 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:23:01.248747+00:00 — Review IYMGE8KX h6: source-audited coding and linked comparisons
+
+54 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4434",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4435",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4436",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4434",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4435",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4436",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4434",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4435",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4436",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4436",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4434",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4435",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4436",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4434",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4435",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4436",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4434",
+    "before": null,
+    "after": "Table III A cols3–5 pp554–555; §II.A p553: Portfolio turnover coefficient 0.254, column 3; benchmark: printed category rate 1.94% in this column sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4435",
+    "before": null,
+    "after": "Table III A cols3–5 pp554–555; §II.A p553: Portfolio turnover coefficient 0.375, column 4; benchmark: printed category rate 3.30% in this column sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4436",
+    "before": null,
+    "after": "Table III A cols3–5 pp554–555; §II.A p553: Portfolio turnover coefficient 0.272, column 5; benchmark: printed category rate 2.59% in this column sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4434",
+    "before": null,
+    "after": "Table labels and text call this multinomial logit; unequal column sample sizes are preserved, not repaired. Category log-relative-odds coefficients and observed marginal category shares are not aligned untreated probability effects."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4435",
+    "before": null,
+    "after": "Table labels and text call this multinomial logit; unequal column sample sizes are preserved, not repaired. Category log-relative-odds coefficients and observed marginal category shares are not aligned untreated probability effects."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4436",
+    "before": null,
+    "after": "Table labels and text call this multinomial logit; unequal column sample sizes are preserved, not repaired. Category log-relative-odds coefficients and observed marginal category shares are not aligned untreated probability effects."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6405",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6406",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6407",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6405",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6406",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6407",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6405",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6406",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6407",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6405",
+    "before": null,
+    "after": "Four-category CDS-use response, buy only equation versus no-buy/no-sell; base state is present. Reported outcome is categorical, not a two-valued dependent variable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6406",
+    "before": null,
+    "after": "Four-category CDS-use response, both buy and sell equation versus no-buy/no-sell; base state is present. Reported outcome is categorical, not a two-valued dependent variable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6407",
+    "before": null,
+    "after": "Four-category CDS-use response, sell only equation versus no-buy/no-sell; base state is present. Reported outcome is categorical, not a two-valued dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2531",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2531",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2531",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2531",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2531",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2531",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2531",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2531",
+    "before": null,
+    "after": "Portfolio turnover → joint four-category CDS state: no-buy/no-sell base, buy-only, both, sell-only; multinomial logit, Table III A cols3–5. Same quarterly/style dummies and fund controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2531",
+    "before": null,
+    "after": "Retain multinomial turnover response under the same discretionary-trading/liquidity mechanism, pp557–558; estimator remains nonlinear Other. Annual lesser of purchases/sales divided by fund assets; active-management and internal liquidity-need mechanism, not a matching weight. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Distinct estimator from the binary logits. Outcomes below name category equations of a single four-valued response, not separately estimated binary logits. Source: Table III A cols3–5 pp554–555; §II.A p553."
+  }
+]
+```
