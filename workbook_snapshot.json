@@ -257,6 +257,7 @@
     "B56": "High-Frequency Market Making to Large Institutional Trades",
     "C56": "fin",
     "D56": 6,
+    "E56": "DONE — Reviewed all 34 published article pages and all four pages of the author-linked July 18, 2018 Internet Appendix; publisher-byte identity unverified. Retain 30 settings and 51 outcomes; 71 qualifying comparisons added and all 11 original comparison records rejected as attached. Distinguish before/after OLS with documented stock dummies from pooled relative-group conventional DiD. Table9 predicted signed-L implementation and IV status remain unknown. Separate public-signal treatment families and appendix presence/progression/stage profitability responses. Own-outcome SD comparisons in Tables7/8 retained; inventory-level SD in Tables6/9 is not change-outcome SD. Benchmark alignment remains unknown where target/reference weights are unestablished. Printed numerical and appendix nested-stage interpretation conflicts preserved; no invented exclusive stage coding or total-profit levels. Original model fields and IDs preserved.",
     "A57": "KKKD4ZV5",
     "B57": "Liquidity in the global currency market",
     "C57": "fin",
@@ -26265,7 +26266,16 @@
     "L2713": "0",
     "M2713": "n/a",
     "N2713": "Lagged public normalized trade imbalance y (four 15-minute lags) and HFT inventory change, Table9 col3; jointly controls other signals and inventory.",
-    "O2713": "Split distinct treatment from former h9 signal vector. Authors interpret higher-lag negative imbalance response as HFT information advantage and competitive demand, not merely prediction fit; broad gate retained, predictive-only exclusion contested. Explicit OLS, no established identifying FE. Four lag coefficients .012,−.001,−.004,−.004. Source definition conflict: p1063 calls y total number of buy orders minus sell orders; Table9 caption calls it net shares purchased. Both say normalized using prior-month data. Exact raw order-count versus share-volume implementation unresolved. Outcome denominator remains inventory-level SD, not change SD; no benchmark comparison. Source: pp1063–1064; Table9 col3."
+    "O2713": "Split distinct treatment from former h9 signal vector. Authors interpret higher-lag negative imbalance response as HFT information advantage and competitive demand, not merely prediction fit; broad gate retained, predictive-only exclusion contested. Explicit OLS, no established identifying FE. Four lag coefficients .012,−.001,−.004,−.004. Source definition conflict: p1063 calls y total number of buy orders minus sell orders; Table9 caption calls it net shares purchased. Both say normalized using prior-month data. Exact raw order-count versus share-volume implementation unresolved. Outcome denominator remains inventory-level SD, not change SD; no benchmark comparison. Source: pp1063–1064; Table9 col3.",
+    "A2714": "KJGA8A2C",
+    "B2714": "h24",
+    "I2714": "1",
+    "J2714": "OLS",
+    "K2714": "0",
+    "L2714": "0",
+    "M2714": "n/a",
+    "N2714": "Lagged public normalized limit-order imbalance LOIB (four 15-minute lags) and HFT inventory change, Table9 col3; jointly controls other signals and inventory.",
+    "O2714": "Split distinct treatment from former h9 signal vector. Authors interpret higher-lag negative imbalance response as HFT information advantage and competitive demand, not merely prediction fit; broad gate retained, predictive-only exclusion contested. Explicit OLS, no established identifying FE. Four lag coefficients −.000,−.003,−.002,−.003. LOIB uses net share size of buy versus sell limit orders, demeaned/divided by past-month SD. Preserve signed printed −.000 and nonsignificant first lag; do not significance-filter. Outcome denominator remains inventory-level SD, not change SD; no benchmark comparison. Source: pp1063–1064; Table9 col3."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71883,7 +71893,11 @@
     "A6674": "KJGA8A2C",
     "B6674": "h23",
     "C6674": "hy1",
-    "K6674": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
+    "K6674": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE.",
+    "A6675": "KJGA8A2C",
+    "B6675": "h24",
+    "C6675": "hy1",
+    "K6675": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

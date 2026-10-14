@@ -413517,3 +413517,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:18:59.227429+00:00 — Review KJGA8A2C h24: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6675",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6675",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6675",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6675",
+    "before": null,
+    "after": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E56",
+    "before": null,
+    "after": "DONE — Reviewed all 34 published article pages and all four pages of the author-linked July 18, 2018 Internet Appendix; publisher-byte identity unverified. Retain 30 settings and 51 outcomes; 71 qualifying comparisons added and all 11 original comparison records rejected as attached. Distinguish before/after OLS with documented stock dummies from pooled relative-group conventional DiD. Table9 predicted signed-L implementation and IV status remain unknown. Separate public-signal treatment families and appendix presence/progression/stage profitability responses. Own-outcome SD comparisons in Tables7/8 retained; inventory-level SD in Tables6/9 is not change-outcome SD. Benchmark alignment remains unknown where target/reference weights are unestablished. Printed numerical and appendix nested-stage interpretation conflicts preserved; no invented exclusive stage coding or total-profit levels. Original model fields and IDs preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2714",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2714",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2714",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2714",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2714",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2714",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2714",
+    "before": null,
+    "after": "Lagged public normalized limit-order imbalance LOIB (four 15-minute lags) and HFT inventory change, Table9 col3; jointly controls other signals and inventory."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2714",
+    "before": null,
+    "after": "Split distinct treatment from former h9 signal vector. Authors interpret higher-lag negative imbalance response as HFT information advantage and competitive demand, not merely prediction fit; broad gate retained, predictive-only exclusion contested. Explicit OLS, no established identifying FE. Four lag coefficients −.000,−.003,−.002,−.003. LOIB uses net share size of buy versus sell limit orders, demeaned/divided by past-month SD. Preserve signed printed −.000 and nonsignificant first lag; do not significance-filter. Outcome denominator remains inventory-level SD, not change SD; no benchmark comparison. Source: pp1063–1064; Table9 col3."
+  }
+]
+```
