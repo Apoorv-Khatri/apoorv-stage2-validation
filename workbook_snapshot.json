@@ -25686,7 +25686,16 @@
     "L2659": "1",
     "M2659": "n/a",
     "N2659": "Maturity-category × COVID contrasts → utilization, conditional on size and other controls.",
-    "O2659": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Retain causal interpretation despite acknowledged endogenous joint determination/no instruments (footnote23). Six maturity categories; arm-versus-omitted-category binary contrasts, omitted category unresolved without appendix. DiD priority; same identifying FE as Table11. Distinct treatment from size. Source: Table11 col8/9; Appendix Table A.9; p924."
+    "O2659": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Retain causal interpretation despite acknowledged endogenous joint determination/no instruments (footnote23). Six maturity categories; arm-versus-omitted-category binary contrasts, omitted category unresolved without appendix. DiD priority; same identifying FE as Table11. Distinct treatment from size. Source: Table11 col8/9; Appendix Table A.9; p924.",
+    "A2660": "JFUQHXRF",
+    "B2660": "h8",
+    "I2660": "1",
+    "J2660": "DiD_conventional",
+    "K2660": "1",
+    "L2660": "1",
+    "M2660": "n/a",
+    "N2660": "Collateral-category × COVID contrasts → utilization, conditional on size and maturity.",
+    "O2660": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Six collateral classes; AR&I draws less than unsecured/blanket lien. Implemented categorical arm contrasts, not the continuous collateral-value treatment. No valid instrument asserted. Reference coding and full coefficient grid unresolved. Source: Table11 col8/9; Appendix Table A.9; p924."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70875,7 +70884,14 @@
     "H6598": "0",
     "I6598": "1",
     "J6598": "none",
-    "K6598": "Utilized/committed credit-line amount, percentage points."
+    "K6598": "Utilized/committed credit-line amount, percentage points.",
+    "A6599": "JFUQHXRF",
+    "B6599": "h8",
+    "C6599": "hy1",
+    "H6599": "0",
+    "I6599": "1",
+    "J6599": "none",
+    "K6599": "Utilized/committed credit-line amount, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
