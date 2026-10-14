@@ -391716,3 +391716,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:33:04.666368+00:00 — Review IYMGE8KX h44: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6494",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6494",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6494",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6494",
+    "before": null,
+    "after": "CDS investment response(s) established by main-text robustness statement; exact outcome decomposition and coefficients await final supplement."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2569",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2569",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2569",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2569",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2569",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2569",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2569",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2569",
+    "before": null,
+    "after": "Single-name-only CDS robustness: funding-liquidity predictors → CDS-use outcomes, reported qualitatively similar to Table III."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2569",
+    "before": null,
+    "after": "Main establishes an implemented sensitivity check but not full panel/column estimator coverage. Do not invent a logit/multinomial/Tobit grid before accessing final supplement. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Focal covariate family is not enumerated in the accessible robustness statement; it may mix continuous flow measures and binary duration contrasts. Binary=unknown at this unresolved family level, not a claim all treatments are continuous. Split only once implemented treatments/columns are established. Source: Footnote9 p553: Table IA.I."
+  }
+]
+```
