@@ -390627,3 +390627,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:30:42.560394+00:00 — Review IYMGE8KX h35: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6480",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6480",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6480",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6480",
+    "before": null,
+    "after": "Portfolio yield minus five-year Treasury rate, percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2560",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2560",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2560",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2560",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2560",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2560",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2560",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2560",
+    "before": null,
+    "after": "all CDS selling intensity (single-name plus indices) (% TNA) → fund portfolio spread over five-year Treasury (% points), fund-quarter linear regressions; fund and time FE; within-fund response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2560",
+    "before": null,
+    "after": "Fund FE are explicitly interpreted as changes relative to the same fund’s own average on p569, absorbing persistent fund heterogeneity. Time plus fund are two effective sets; stable style is nested, not HDFE. No DiD or IV. Printed focal coefficients [0.0363]. Neither 93bp composition difference nor 14/13bp recomputation belongs to these regression coefficients. Source: Table V p570, cols6; §III.B p569."
+  }
+]
+```

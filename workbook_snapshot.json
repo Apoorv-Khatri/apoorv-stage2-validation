@@ -24690,7 +24690,16 @@
     "L2559": "1",
     "M2559": "n/a",
     "N2559": "single-name CDS selling intensity (% TNA) → fund portfolio spread over five-year Treasury (% points), fund-quarter linear regressions; time/style dummy controls and fund size, with/without duration/security-class controls; cross-fund response.",
-    "O2559": "Quarter/style controls are present, not a no-dummy regression. The paper distinguishes the identifying within-fund effect from this cross-fund yield-targeting relation; code OLS/regression adjustment, not automatically identifying FE. No DiD or IV. Printed focal coefficients [0.2992, 0.2771]. Neither 93bp composition difference nor 14/13bp recomputation belongs to these regression coefficients. Source: Table V p570, cols1/2; §III.B p569."
+    "O2559": "Quarter/style controls are present, not a no-dummy regression. The paper distinguishes the identifying within-fund effect from this cross-fund yield-targeting relation; code OLS/regression adjustment, not automatically identifying FE. No DiD or IV. Printed focal coefficients [0.2992, 0.2771]. Neither 93bp composition difference nor 14/13bp recomputation belongs to these regression coefficients. Source: Table V p570, cols1/2; §III.B p569.",
+    "A2560": "IYMGE8KX",
+    "B2560": "h35",
+    "I2560": "1",
+    "J2560": "FE",
+    "K2560": "0",
+    "L2560": "1",
+    "M2560": "n/a",
+    "N2560": "all CDS selling intensity (single-name plus indices) (% TNA) → fund portfolio spread over five-year Treasury (% points), fund-quarter linear regressions; fund and time FE; within-fund response.",
+    "O2560": "Fund FE are explicitly interpreted as changes relative to the same fund’s own average on p569, absorbing persistent fund heterogeneity. Time plus fund are two effective sets; stable style is nested, not HDFE. No DiD or IV. Printed focal coefficients [0.0363]. Neither 93bp composition difference nor 14/13bp recomputation belongs to these regression coefficients. Source: Table V p570, cols6; §III.B p569."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69303,7 +69312,11 @@
     "A6479": "IYMGE8KX",
     "B6479": "h34",
     "C6479": "hy1",
-    "K6479": "Portfolio yield minus five-year Treasury rate, percentage points."
+    "K6479": "Portfolio yield minus five-year Treasury rate, percentage points.",
+    "A6480": "IYMGE8KX",
+    "B6480": "h35",
+    "C6480": "hy1",
+    "K6480": "Portfolio yield minus five-year Treasury rate, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
