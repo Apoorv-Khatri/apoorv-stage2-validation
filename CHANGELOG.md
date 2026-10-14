@@ -403530,3 +403530,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T14:06:24.872183+00:00 — Review JGNACSDE s1: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K292",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L292",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M292",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N292",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O292",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P292",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q292",
+    "before": null,
+    "after": "p105: 23bp cheapness increase → $276 million more purchases, compared verbally to average $410 million. Table8 col3 (also col1) slope .012 billion/bp uses 3432 included auction-CUSIP pairs. Table3 PanelA p110 defines .41 billion as mean auction-level purchase amount per ACCEPTED bond, not all included bonds. Treatment SD is not itself outcome-SD comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R292",
+    "before": null,
+    "after": "Unaligned=0: purchased/accepted-only average with auction-level averaging is not the all-included regression target or its untreated/zero-dose baseline; source identifies selection/weighting mismatch. No authors’ effect/mean division."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J492",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K492",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M492",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O492",
+    "before": null,
+    "after": "Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Table8 cols1–3/6–7 have CUSIP and auction dummies; col4 auction only, col5 CUSIP only. No no-FE column here. Main 0.012 billion per bp; purchased-only slope .013. 23bp treatment increment uses purchased-sample SD although primary col3 uses all included pairs. Controls are pre-auction; no causal claim that purchasing causes earlier cheapness. Source: §5, Eq9, Table8 p115 (PDF13)."
+  }
+]
+```
