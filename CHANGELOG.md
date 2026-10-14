@@ -406791,3 +406791,288 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:09:53.734648+00:00 — Review KJGA8A2C h4: source-audited coding and linked comparisons
+
+46 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4507",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4508",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4509",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4507",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4508",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4509",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4507",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4508",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4509",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4507",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4508",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4507",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4508",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4509",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4507",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4508",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4509",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4507",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4508",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4509",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4507",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4508",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4507",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4508",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4509",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4507",
+    "before": null,
+    "after": "Table7 col2 p1060: L coefficient .040, Table7 col2, Q-SD units per signed-L unit. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4508",
+    "before": null,
+    "after": "Table7 col3 p1060: L coefficient .020, Table7 col3, Q-SD units per signed-L unit. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4509",
+    "before": null,
+    "after": "Table7 col4 p1060: L coefficient .019, Table7 col4, Q-SD units per signed-L unit. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4507",
+    "before": null,
+    "after": "The focal response is per signed-L unit across sell/none/buy states; trailing HFT-stock Q variation does not establish the distribution/weights of this signed-dose target. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4508",
+    "before": null,
+    "after": "The focal response is per signed-L unit across sell/none/buy states; trailing HFT-stock Q variation does not establish the distribution/weights of this signed-dose target. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4509",
+    "before": null,
+    "after": "The focal response is per signed-L unit across sell/none/buy states; trailing HFT-stock Q variation does not establish the distribution/weights of this signed-dose target. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6637",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6637",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6637",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6637",
+    "before": null,
+    "after": "Net HFT buy-minus-sell limit-order share volume in a 15-minute stock-period, demeaned by trailing mean and divided by its own trailing SD (Q)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2694",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2694",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2694",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2694",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2694",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2694",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2694",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2694",
+    "before": null,
+    "after": "Signed institutional trade direction L∈{−1,0,1} affects net HFT order submission Q, Table7 cols2–4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2694",
+    "before": null,
+    "after": "Nonbinary signed exposure; slopes .040,.020,.019 across control/interacted variants. No FE; observational competition mechanism. Q uses own trailing mean/SD. Source: §4.1 pp1059–1060; Table7."
+  }
+]
+```
