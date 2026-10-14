@@ -24943,7 +24943,16 @@
     "L2580": "1",
     "M2580": "n/a",
     "N2580": "Lagged Market leverage → recall incidence, slope interacted with Negative input price shock; probit Table5 col2",
-    "O2580": "Negative input price shock: weighted real PPI of five chief supplier industries, geometric three-year growth ≥5%; lagged at fiscal year-end. 2-digit SIC/year indicators. Keep null Market leverage interaction. Nonlinear probit is Other, notwithstanding quasi-DiD interpretation. Direct shock coefficient conditional on zero financial-condition index is not an unconditional shock effect. Source: Table5 p1812."
+    "O2580": "Negative input price shock: weighted real PPI of five chief supplier industries, geometric three-year growth ≥5%; lagged at fiscal year-end. 2-digit SIC/year indicators. Keep null Market leverage interaction. Nonlinear probit is Other, notwithstanding quasi-DiD interpretation. Direct shock coefficient conditional on zero financial-condition index is not an unconditional shock effect. Source: Table5 p1812.",
+    "A2581": "IYY27QU8",
+    "B2581": "h4",
+    "I2581": "1",
+    "J2581": "IV",
+    "K2581": "0",
+    "L2581": "1",
+    "M2581": "single continuous",
+    "N2581": "Endogenous Market leverage → recall incidence; linear 2SLS Table7 col5",
+    "O2581": "Exactly one excluded instrument: average Market leverage of firms headquartered within 250 km, excluding focal firm and industry rivals. Nonbinary scalar average → single continuous. Receipt is continuous financial condition, not instrument. Actual linear 2SLS/LPM; 2-digit SIC/year dummies incidental to IV priority. Local culture/social financing spillovers motivate relevance; exclusion requires no direct local effect on quality. First stages and relevance tests not separate causal outcomes. Diagnostic transcription, Table7 col5: instrument coefficient .1399*** (p=.000), F=6.097**. The p1815 prose assigns 1% significance to the instrument coefficients, which agrees with their printed stars; it calls the F statistics highly significant without assigning all of them a 1% level. Do not report an all-1% F/prose contradiction. Modest F values in cols5–6 warrant caution, not a changed IV code or an invented extra instrument. Source: Table7 p1816; pp1814–1815."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69708,7 +69717,11 @@
     "A6510": "IYY27QU8",
     "B6510": "h3",
     "C6510": "hy1",
-    "K6510": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+    "K6510": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero.",
+    "A6511": "IYY27QU8",
+    "B6511": "h4",
+    "C6511": "hy1",
+    "K6511": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
