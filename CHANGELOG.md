@@ -406617,3 +406617,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:09:02.563887+00:00 — Review KJGA8A2C h2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6635",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6635",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6635",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6635",
+    "before": null,
+    "after": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2692",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2692",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2692",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2692",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2692",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2692",
+    "before": null,
+    "after": "Lagged standardized inventory, interacted with four absolute-inventory bins, affects 15-minute inventory change; Table6 cols1–4, Eq5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2692",
+    "before": null,
+    "after": "Piecewise linear outcome regression, not nonlinear effect estimator. Continuous inventory remains dose treatment despite bin dummies. HNV inventory-risk mechanism explicitly motivates response. Col1 −.276/−.281/−.312/−.377; buy/sell subsets and col4 adjusted slopes retained as routine variants. Derived half-lives are summaries, not additional outcome-effect estimators. Inventory scaled using previous-month level SD, not SD of change. Source: §4.1 pp1054–1058; Table6."
+  }
+]
+```

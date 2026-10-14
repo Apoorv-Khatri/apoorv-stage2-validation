@@ -26067,7 +26067,16 @@
     "L2691": "1",
     "M2691": "n/a",
     "N2691": "Differential fee-regime effects for medium versus high and low versus high informed institutions, Table5 col4 pooled interactions (including log-size slope heterogeneity). IS in bp.",
-    "O2691": "The explicit argument is that common market-condition changes should not differentially affect informed groups. Group×post contrasts give conventional DiD/DDD-type heterogeneity, not modern DiD. Stock-Group FE reported (one interacted set, or at most two sets if hyphen denotes separate effects; never HDFE). All groups receive policy, so these are relative exposure responses, not untreated-group effects of fee on all trades. Differential Fee coefficients 2.138,4.202; differential slope coefficients 1.203,1.333. High reference slope −2.342, medium total −1.139, low total −1.009. Treatment is group arm relative to high under policy; binary contrasts, not continuous log-size treatment. Source: §3.2 pp1050,1052,1054; Table5 col4."
+    "O2691": "The explicit argument is that common market-condition changes should not differentially affect informed groups. Group×post contrasts give conventional DiD/DDD-type heterogeneity, not modern DiD. Stock-Group FE reported (one interacted set, or at most two sets if hyphen denotes separate effects; never HDFE). All groups receive policy, so these are relative exposure responses, not untreated-group effects of fee on all trades. Differential Fee coefficients 2.138,4.202; differential slope coefficients 1.203,1.333. High reference slope −2.342, medium total −1.139, low total −1.009. Treatment is group arm relative to high under policy; binary contrasts, not continuous log-size treatment. Source: §3.2 pp1050,1052,1054; Table5 col4.",
+    "A2692": "KJGA8A2C",
+    "B2692": "h2",
+    "I2692": "1",
+    "J2692": "OLS",
+    "K2692": "0",
+    "L2692": "1",
+    "M2692": "n/a",
+    "N2692": "Lagged standardized inventory, interacted with four absolute-inventory bins, affects 15-minute inventory change; Table6 cols1–4, Eq5.",
+    "O2692": "Piecewise linear outcome regression, not nonlinear effect estimator. Continuous inventory remains dose treatment despite bin dummies. HNV inventory-risk mechanism explicitly motivates response. Col1 −.276/−.281/−.312/−.377; buy/sell subsets and col4 adjusted slopes retained as routine variants. Derived half-lives are summaries, not additional outcome-effect estimators. Inventory scaled using previous-month level SD, not SD of change. Source: §4.1 pp1054–1058; Table6."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71459,7 +71468,11 @@
     "H6634": "0",
     "I6634": "unknown",
     "J6634": "none",
-    "K6634": "Implementation shortfall in basis points, Eq2: signed execution-price deviation from initiation midpoint; no log transformation. Not separate dependent variables called spread and price impact: these are coefficient interpretations."
+    "K6634": "Implementation shortfall in basis points, Eq2: signed execution-price deviation from initiation midpoint; no log transformation. Not separate dependent variables called spread and price impact: these are coefficient interpretations.",
+    "A6635": "KJGA8A2C",
+    "B6635": "h2",
+    "C6635": "hy1",
+    "K6635": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
