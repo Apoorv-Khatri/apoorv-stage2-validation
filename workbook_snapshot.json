@@ -25204,7 +25204,16 @@
     "L2609": "0",
     "M2609": "unknown",
     "N2609": "Market leverage → recall incidence in four recall-intensive industries and complementary industries; separately reported subsample robustness.",
-    "O2609": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Main text does not explicitly identify estimator for this separate table. Routine industry subsamples grouped. Source: §2.1 pp1797–1798; Internet Appendix Table1."
+    "O2609": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Main text does not explicitly identify estimator for this separate table. Routine industry subsamples grouped. Source: §2.1 pp1797–1798; Internet Appendix Table1.",
+    "A2610": "IYY27QU8",
+    "B2610": "h33",
+    "I2610": "1",
+    "J2610": "Other",
+    "K2610": "0",
+    "L2610": "0",
+    "M2610": "n/a",
+    "N2610": "Market leverage → recall incidence; conditional logit on size- and industry-matched recall/nonrecall pairs.",
+    "O2610": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Conditional logit nonlinear Other, not Matching merely because sample was matched. Positive leverage/distress relation. Source: Footnote5 p1803; Internet Appendix Table2."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70088,7 +70097,11 @@
     "A6539": "IYY27QU8",
     "B6539": "h32",
     "C6539": "hy1",
-    "K6539": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+    "K6539": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero.",
+    "A6540": "IYY27QU8",
+    "B6540": "h33",
+    "C6540": "hy1",
+    "K6540": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
