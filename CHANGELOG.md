@@ -389673,3 +389673,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:29:40.457478+00:00 — Review IYMGE8KX h31: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6470",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6471",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6472",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6473",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6470",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6471",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6472",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6473",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6470",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6471",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6472",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6473",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6470",
+    "before": null,
+    "after": "Gross sell notional on issuer / fund TNA (%); observed zero positions retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6471",
+    "before": null,
+    "after": "Gross buy notional on issuer / fund TNA (%); observed zero positions retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6472",
+    "before": null,
+    "after": "Speculative (unmatched/naked) buy notional on issuer / fund TNA (%); observed zero positions retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6473",
+    "before": null,
+    "after": "Basis buy matched to issuer bond holdings notional on issuer / fund TNA (%); observed zero positions retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2556",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2556",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2556",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2556",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2556",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2556",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2556",
+    "before": null,
+    "after": "CDS spread → issuer-level gross sell, gross buy, speculative buy and basis buy intensity (% fund TNA), Tobit Table IV B; same time/style dummies and lagged fund/issuer controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2556",
+    "before": null,
+    "after": "Five-year standardized contract quote. Table II expresses bps but regression coefficient scaling not expressly reconciled; do not manufacture a per-bp marginal effect. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Basis is present only in cols3–6; other predictors have cols1–6. Outcomes are censored observed intensities, not probabilities. Printed coefficients by cols1–6 (None means not included): [45.96, -18.97, 45.59, -15.57, -42.15, -13.11]. Source: Table IV B pp564–565; §II.B–III.A pp567–568."
+  }
+]
+```

@@ -24654,7 +24654,16 @@
     "L2555": "1",
     "M2555": "n/a",
     "N2555": "CDS spread → four-category CDS position state (buy-only, both, sell-only versus no position), fund–issuer–quarter multinomial logit, Table IV A cols5–7.",
-    "O2555": "Five-year standardized contract quote. Table II expresses bps but regression coefficient scaling not expressly reconciled; do not manufacture a per-bp marginal effect. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table IV A pp563–564; §II.B pp562,566–567."
+    "O2555": "Five-year standardized contract quote. Table II expresses bps but regression coefficient scaling not expressly reconciled; do not manufacture a per-bp marginal effect. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table IV A pp563–564; §II.B pp562,566–567.",
+    "A2556": "IYMGE8KX",
+    "B2556": "h31",
+    "I2556": "1",
+    "J2556": "Other",
+    "K2556": "0",
+    "L2556": "1",
+    "M2556": "n/a",
+    "N2556": "CDS spread → issuer-level gross sell, gross buy, speculative buy and basis buy intensity (% fund TNA), Tobit Table IV B; same time/style dummies and lagged fund/issuer controls.",
+    "O2556": "Five-year standardized contract quote. Table II expresses bps but regression coefficient scaling not expressly reconciled; do not manufacture a per-bp marginal effect. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Basis is present only in cols3–6; other predictors have cols1–6. Outcomes are censored observed intensities, not probabilities. Printed coefficients by cols1–6 (None means not included): [45.96, -18.97, 45.59, -15.57, -42.15, -13.11]. Source: Table IV B pp564–565; §II.B–III.A pp567–568."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69227,7 +69236,23 @@
     "A6469": "IYMGE8KX",
     "B6469": "h30",
     "C6469": "hy3",
-    "K6469": "Four-category CDS state, sell-only relative to no position; not a binary response."
+    "K6469": "Four-category CDS state, sell-only relative to no position; not a binary response.",
+    "A6470": "IYMGE8KX",
+    "B6470": "h31",
+    "C6470": "hy1",
+    "K6470": "Gross sell notional on issuer / fund TNA (%); observed zero positions retained.",
+    "A6471": "IYMGE8KX",
+    "B6471": "h31",
+    "C6471": "hy2",
+    "K6471": "Gross buy notional on issuer / fund TNA (%); observed zero positions retained.",
+    "A6472": "IYMGE8KX",
+    "B6472": "h31",
+    "C6472": "hy3",
+    "K6472": "Speculative (unmatched/naked) buy notional on issuer / fund TNA (%); observed zero positions retained.",
+    "A6473": "IYMGE8KX",
+    "B6473": "h31",
+    "C6473": "hy4",
+    "K6473": "Basis buy matched to issuer bond holdings notional on issuer / fund TNA (%); observed zero positions retained."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
