@@ -25303,7 +25303,16 @@
     "L2620": "0",
     "M2620": "single continuous",
     "N2620": "Endogenous Altman Z → recall incidence; 2SLS with alternate local-leverage instrument based on closest top-50 metropolitan area.",
-    "O2620": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. One scalar average market leverage excluding focal firm/industry rivals, computed in same/closest top-fifty metropolitan area. Not jointly used with 250-km instrument; distinct instrument definition merits separate setting. Receipt remains continuous. Source: Footnote15 p1815; Internet Appendix Table6."
+    "O2620": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. One scalar average market leverage excluding focal firm/industry rivals, computed in same/closest top-fifty metropolitan area. Not jointly used with 250-km instrument; distinct instrument definition merits separate setting. Receipt remains continuous. Source: Footnote15 p1815; Internet Appendix Table6.",
+    "A2621": "IYY27QU8",
+    "B2621": "h44",
+    "I2621": "1",
+    "J2621": "unknown",
+    "K2621": "0",
+    "L2621": "0",
+    "M2621": "unknown",
+    "N2621": "Book net debt (DLTT+DLC−CHE)/AT → recall incidence; alternative financing measure.",
+    "O2621": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Implemented relation significant at1%; accessible passage does not name estimator for this table. Do not silently deduplicate DLC and DD1 in source-defined numerator. Source: §3.3 p1817; Internet Appendix Table7; Appendix A1 p1826."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70237,7 +70246,11 @@
     "A6550": "IYY27QU8",
     "B6550": "h43",
     "C6550": "hy1",
-    "K6550": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+    "K6550": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero.",
+    "A6551": "IYY27QU8",
+    "B6551": "h44",
+    "C6551": "hy1",
+    "K6551": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
