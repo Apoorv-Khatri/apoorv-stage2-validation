@@ -25240,7 +25240,16 @@
     "L2613": "0",
     "M2613": "n/a",
     "N2613": "Tariff cut exposure versus no exposure → industry recall count; Poisson direct-shock model.",
-    "O2613": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Explicit substantive direct effect, separate from continuous leverage-slope interactions. Industry-level count, not firm-level incidence. Exact horizon, controls, zero prevalence unresolved. Source: Footnote8 pp1806–1807; Internet Appendix Table3."
+    "O2613": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Explicit substantive direct effect, separate from continuous leverage-slope interactions. Industry-level count, not firm-level incidence. Exact horizon, controls, zero prevalence unresolved. Source: Footnote8 pp1806–1807; Internet Appendix Table3.",
+    "A2614": "IYY27QU8",
+    "B2614": "h37",
+    "I2614": "1",
+    "J2614": "Other",
+    "K2614": "1",
+    "L2614": "0",
+    "M2614": "n/a",
+    "N2614": "Negative input price shock exposure versus no exposure → industry recall count; Poisson direct-shock model.",
+    "O2614": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Explicit substantive direct effect, separate from continuous leverage-slope interactions. Industry-level count, not firm-level incidence. Exact horizon, controls, zero prevalence unresolved. Source: Footnote8 pp1806–1807; Internet Appendix Table3."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70143,7 +70152,14 @@
     "H6543": "0",
     "I6543": "unknown",
     "J6543": "none",
-    "K6543": "Number of recall events in an industry; aggregation horizon not fully stated in accessible footnote."
+    "K6543": "Number of recall events in an industry; aggregation horizon not fully stated in accessible footnote.",
+    "A6544": "IYY27QU8",
+    "B6544": "h37",
+    "C6544": "hy1",
+    "H6544": "0",
+    "I6544": "unknown",
+    "J6544": "none",
+    "K6544": "Number of recall events in an industry; aggregation horizon not fully stated in accessible footnote."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
