@@ -400512,3 +400512,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T12:38:18.615354+00:00 — Review JFUQHXRF s2: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K289",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R289",
+    "before": null,
+    "after": "Treatment-SD increment, not outcome-SD benchmark. Nine percentage points alone is not a comparison. No division/alignment coding needed on rejected row."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I488",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J488",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K488",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L488",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M488",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N488",
+    "before": null,
+    "after": "Continuous abnormal industry employment decline × COVID × size-category differences in utilization sensitivities. Restrict original to Table13 DDD; pooled col1, Fig3 and Fig4 moved to distinct settings."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O488",
+    "before": null,
+    "after": "Exposure is reversed-sign detrended Q2-to-Q2 employment growth, standardized to unit variance. Total slope for a size group adds Exposure×COVID and the size interaction; 9.5 is not the largest-firm total slope when base is −0.4. Table notes include Q1 and Q2 while p925 prose says Q1; preserve horizon conflict. Table notes omit the sign reversal stated in prose. No modern DiD. Loan+time or loan+bank×time with state×time/rating×time controls; DiD priority. Source: Table13 cols2–6; Eq2 pp925–927."
+  }
+]
+```
