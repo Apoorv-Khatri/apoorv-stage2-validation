@@ -393042,3 +393042,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:03:48.014020+00:00 — Review IYY27QU8 s6: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1233",
+    "before": null,
+    "after": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I483",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J483",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K483",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L483",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M483",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N483",
+    "before": null,
+    "after": "Endogenous Book leverage → recall incidence; linear 2SLS Table7 col4, local nonrival leverage instrument."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O483",
+    "before": null,
+    "after": "Exactly one excluded instrument: average Market leverage of firms headquartered within 250 km, excluding focal firm and industry rivals. Nonbinary scalar average → single continuous. Receipt is continuous financial condition, not instrument. Actual linear 2SLS/LPM; 2-digit SIC/year dummies incidental to IV priority. Local culture/social financing spillovers motivate relevance; exclusion requires no direct local effect on quality. First stages and relevance tests not separate causal outcomes. Diagnostic transcription, Table7 col4: instrument coefficient .1041*** (p=.000), F=58.16***. The p1815 prose assigns 1% significance to the instrument coefficients, which agrees with their printed stars; it calls the F statistics highly significant without assigning all of them a 1% level. Do not report an all-1% F/prose contradiction. Modest F values in cols5–6 warrant caution, not a changed IV code or an invented extra instrument. Source: Table7 p1816; §3.2.2 pp1814–1815."
+  }
+]
+```
