@@ -24961,7 +24961,16 @@
     "L2582": "0",
     "M2582": "n/a",
     "N2582": "Market leverage → recall incidence; linear probability model Table7 col2",
-    "O2582": "Linear probability regression. §3.2 p1805 expressly includes industry and time dummies to partly address weak industry conditions/latent confounding. Two separate effective dimensions (2-digit SIC, year), no firm FE, no HDFE. Code FE under that contextual identifying rationale, though table calls estimation OLS. A narrow dummy-controls reading would yield OLS; contested priority, not an extraction error proved by dummy count. No no-FE linear column is reported to split. Source: Table7 p1816; pp1805,1815."
+    "O2582": "Linear probability regression. §3.2 p1805 expressly includes industry and time dummies to partly address weak industry conditions/latent confounding. Two separate effective dimensions (2-digit SIC, year), no firm FE, no HDFE. Code FE under that contextual identifying rationale, though table calls estimation OLS. A narrow dummy-controls reading would yield OLS; contested priority, not an extraction error proved by dummy count. No no-FE linear column is reported to split. Source: Table7 p1816; pp1805,1815.",
+    "A2583": "IYY27QU8",
+    "B2583": "h6",
+    "I2583": "1",
+    "J2583": "Other",
+    "K2583": "0",
+    "L2583": "1",
+    "M2583": "n/a",
+    "N2583": "Lagged Market leverage → FDA recall severity, baseline ordered probit Table8 col2",
+    "O2583": "2-digit SIC/year dummies; ordered probit index coefficients, not direct probabilities. Source: Table8 pp1819–1820."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69734,7 +69743,11 @@
     "A6512": "IYY27QU8",
     "B6512": "h5",
     "C6512": "hy1",
-    "K6512": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+    "K6512": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero.",
+    "A6513": "IYY27QU8",
+    "B6513": "h6",
+    "C6513": "hy1",
+    "K6513": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

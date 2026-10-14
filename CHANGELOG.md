@@ -393771,3 +393771,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:07:38.345465+00:00 — Review IYY27QU8 h6: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6513",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6513",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6513",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6513",
+    "before": null,
+    "after": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2583",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2583",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2583",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2583",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2583",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2583",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2583",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2583",
+    "before": null,
+    "after": "Lagged Market leverage → FDA recall severity, baseline ordered probit Table8 col2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2583",
+    "before": null,
+    "after": "2-digit SIC/year dummies; ordered probit index coefficients, not direct probabilities. Source: Table8 pp1819–1820."
+  }
+]
+```
