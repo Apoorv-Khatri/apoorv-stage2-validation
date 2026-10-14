@@ -395316,3 +395316,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:14:53.472400+00:00 — Review IYY27QU8 h23: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6530",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6530",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6530",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6530",
+    "before": null,
+    "after": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2600",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2600",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2600",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2600",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2600",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2600",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2600",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2600",
+    "before": null,
+    "after": "Lagged Number of suppliers → recall incidence; Table3 probit cols1–9."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2600",
+    "before": null,
+    "after": "Count of identified key suppliers via Compustat customer disclosures; not total true supplier population. Coordination/monitoring channel. Lagged financial condition, observational recall-event/control sample, firm-clustered SE. Industry/year indicators partly address omitted managerial/industry conditions (p1805); nonlinear probit remains Other regardless of dummy count. Remaining omitted-variable risk acknowledged, but broad author-intention gate satisfied by theoretical financial-constraint interpretation and conclusion. Source: Table3 p1802; §3.1 pp1804–1805, fn7; Appendix A1 pp1826–1827."
+  }
+]
+```
