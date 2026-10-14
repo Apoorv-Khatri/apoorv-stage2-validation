@@ -380817,3 +380817,366 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:19:09.687397+00:00 — Review IYMGE8KX s3: source-audited coding and linked comparisons
+
+59 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4420",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4421",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4420",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4421",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4420",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4421",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K279",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K280",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4420",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4421",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L279",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L280",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4420",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4421",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M279",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M280",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4420",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4421",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N279",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N280",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4420",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O279",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O280",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4420",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P279",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P280",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4420",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q279",
+    "before": null,
+    "after": "Table IV A pp563–564; §II.B pp560–567: CDS contract count logit coefficient 0.703, column 3; benchmark: observed column outcome rate 0.078%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q280",
+    "before": null,
+    "after": "Table IV A pp563–564; §II.B pp560–567: CDS contract count logit coefficient 0.19, column 4; benchmark: observed column outcome rate 0.117%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4420",
+    "before": null,
+    "after": "Table IV A pp563–564; §II.B pp560–567: CDS contract count logit coefficient 0.688, column 1; benchmark: observed column outcome rate 0.078%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4421",
+    "before": null,
+    "after": "Table IV A pp563–564; §II.B pp560–567: CDS contract count logit coefficient 0.185, column 2; benchmark: observed column outcome rate 0.117%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R279",
+    "before": null,
+    "after": "Exact table pairing. Log-odds coefficient and overall observed probability have incompatible effect/baseline interpretation. p566 reports odds ratios 2.48/1.27 for CDS liquidity and 1.20 for bond liquidity; precise liquidity-column assignment is not uniquely established, so these prose ratios are not silently attributed to this exact coefficient or counted twice. They are not author division by the printed outcome rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R280",
+    "before": null,
+    "after": "Exact table pairing. Log-odds coefficient and overall observed probability have incompatible effect/baseline interpretation. p566 reports odds ratios 2.48/1.27 for CDS liquidity and 1.20 for bond liquidity; precise liquidity-column assignment is not uniquely established, so these prose ratios are not silently attributed to this exact coefficient or counted twice. They are not author division by the printed outcome rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4420",
+    "before": null,
+    "after": "Exact table pairing. Log-odds coefficient and overall observed probability have incompatible effect/baseline interpretation. p566 reports odds ratios 2.48/1.27 for CDS liquidity and 1.20 for bond liquidity; precise liquidity-column assignment is not uniquely established, so these prose ratios are not silently attributed to this exact coefficient or counted twice. They are not author division by the printed outcome rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4421",
+    "before": null,
+    "after": "Exact table pairing. Log-odds coefficient and overall observed probability have incompatible effect/baseline interpretation. p566 reports odds ratios 2.48/1.27 for CDS liquidity and 1.20 for bond liquidity; precise liquidity-column assignment is not uniquely established, so these prose ratios are not silently attributed to this exact coefficient or counted twice. They are not author division by the printed outcome rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1211",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1212",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1213",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1211",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1212",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1213",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1211",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1212",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1213",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1209",
+    "before": null,
+    "after": "Any CDS sell position on given issuer in given quarter, 0/1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1210",
+    "before": null,
+    "after": "Any CDS buy position on given issuer in given quarter, 0/1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1211",
+    "before": null,
+    "after": "Spurious under retained binary-logit scope; multinomial category equation is proposed under its distinct added multinomial setting, preserving this original ID."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1212",
+    "before": null,
+    "after": "Spurious under retained binary-logit scope; multinomial category equation is proposed under its distinct added multinomial setting, preserving this original ID."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1213",
+    "before": null,
+    "after": "Spurious under retained binary-logit scope; multinomial category equation is proposed under its distinct added multinomial setting, preserving this original ID."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I472",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J472",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K472",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L472",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M472",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N472",
+    "before": null,
+    "after": "CDS contract count → any CDS sell/buy at fund–issuer–quarter level; binary logit, Table IV A cols1–4, without/with lagged fund controls. Quarter and investment-style dummies throughout."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O472",
+    "before": null,
+    "after": "Quoted contract count measures maturity/contingency trading capacity; nonbinary count. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table IV A pp563–564; §II.B pp560–567."
+  }
+]
+```
