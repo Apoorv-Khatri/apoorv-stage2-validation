@@ -25650,7 +25650,16 @@
     "L2655": "1",
     "M2655": "n/a",
     "N2655": "Quarter-specific employment-exposure effects on utilization for SMEs and large firms, normalized to 2019Q4.",
-    "O2655": "Substantive 2020Q1 jump and 2020Q2 easing at large firms; not diagnostic-only pretrends. Loan/time FE; conventional interacted event-time model, no modern estimator. No exact unseen graph coefficients claimed. Source: Fig4 p926 and pp925–927."
+    "O2655": "Substantive 2020Q1 jump and 2020Q2 easing at large firms; not diagnostic-only pretrends. Loan/time FE; conventional interacted event-time model, no modern estimator. No exact unseen graph coefficients claimed. Source: Fig4 p926 and pp925–927.",
+    "A2656": "JFUQHXRF",
+    "B2656": "h4",
+    "I2656": "1",
+    "J2656": "OLS",
+    "K2656": "0",
+    "L2656": "1",
+    "M2656": "n/a",
+    "N2656": "Cross-sectional continuous employment exposure → loan utilization change, pooled size classes.",
+    "O2656": "OLS coefficient 3.9 (SE1.4), compared with IV2.6 in prose. Author intention carries the same shock-response interpretation as IV; not explicitly disavowed as raw descriptive correlation. No FE shown. Comparing OLS and IV effects is not an outcome-level benchmark. Source: Table14 col1 p928."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70820,7 +70829,11 @@
     "A6594": "JFUQHXRF",
     "B6594": "h3",
     "C6594": "hy1",
-    "K6594": "Utilized/committed credit-line amount, percentage points."
+    "K6594": "Utilized/committed credit-line amount, percentage points.",
+    "A6595": "JFUQHXRF",
+    "B6595": "h4",
+    "C6595": "hy1",
+    "K6595": "Loan drawdown-rate change 2019Q4–2020Q1, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

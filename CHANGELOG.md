@@ -401553,3 +401553,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T12:41:54.157833+00:00 — Review JFUQHXRF h4: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6595",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6595",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6595",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6595",
+    "before": null,
+    "after": "Loan drawdown-rate change 2019Q4–2020Q1, percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2656",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2656",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2656",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2656",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2656",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2656",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2656",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2656",
+    "before": null,
+    "after": "Cross-sectional continuous employment exposure → loan utilization change, pooled size classes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2656",
+    "before": null,
+    "after": "OLS coefficient 3.9 (SE1.4), compared with IV2.6 in prose. Author intention carries the same shock-response interpretation as IV; not explicitly disavowed as raw descriptive correlation. No FE shown. Comparing OLS and IV effects is not an outcome-level benchmark. Source: Table14 col1 p928."
+  }
+]
+```
