@@ -402234,3 +402234,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T12:44:54.403033+00:00 — Review JFUQHXRF h11: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6602",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6602",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6602",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6602",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6602",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6602",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6602",
+    "before": null,
+    "after": "Utilized/committed credit-line amount, percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2663",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2663",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2663",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2663",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2663",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2663",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2663",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2663",
+    "before": null,
+    "after": "Maturity-category drawdown contrasts separately for unsecured/blanket-lien and specifically secured facilities."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2663",
+    "before": null,
+    "after": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Prose reports SME loans due after2022 versus due2020: roughly10pp versus5pp by collateral subgroup. Authors interpret complementary discretion mechanism. No benchmark comparison: these are two effects. Minimum grouped linear contrasts, not claimed DiD without appendix. Source: Appendix Fig A.3; p924."
+  }
+]
+```

@@ -25713,7 +25713,16 @@
     "L2662": "0",
     "M2662": "unknown",
     "N2662": "Longer- versus shorter-maturity loan categories → COVID drawdown activity, by broad firm size.",
-    "O2662": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Figure described as drawdowns concentrated in longer maturities. Minimum linear grouped contrast; exact graph implementation pending. Not an independent exogenous maturity shock. Binary category contrasts, not a continuous maturity slope. Source: Appendix Fig A.2; p924."
+    "O2662": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Figure described as drawdowns concentrated in longer maturities. Minimum linear grouped contrast; exact graph implementation pending. Not an independent exogenous maturity shock. Binary category contrasts, not a continuous maturity slope. Source: Appendix Fig A.2; p924.",
+    "A2663": "JFUQHXRF",
+    "B2663": "h11",
+    "I2663": "1",
+    "J2663": "unknown",
+    "K2663": "1",
+    "L2663": "0",
+    "M2663": "unknown",
+    "N2663": "Maturity-category drawdown contrasts separately for unsecured/blanket-lien and specifically secured facilities.",
+    "O2663": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Prose reports SME loans due after2022 versus due2020: roughly10pp versus5pp by collateral subgroup. Authors interpret complementary discretion mechanism. No benchmark comparison: these are two effects. Minimum grouped linear contrasts, not claimed DiD without appendix. Source: Appendix Fig A.3; p924."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70923,7 +70932,14 @@
     "H6601": "0",
     "I6601": "unknown",
     "J6601": "none",
-    "K6601": "Utilized/committed credit-line amount, percentage points."
+    "K6601": "Utilized/committed credit-line amount, percentage points.",
+    "A6602": "JFUQHXRF",
+    "B6602": "h11",
+    "C6602": "hy1",
+    "H6602": "0",
+    "I6602": "unknown",
+    "J6602": "none",
+    "K6602": "Utilized/committed credit-line amount, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
