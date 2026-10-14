@@ -405255,3 +405255,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T14:16:06.215347+00:00 — Review JGNACSDE h34: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6633",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6633",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6633",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6633",
+    "before": null,
+    "after": "Auction price markup; precise closest-ask versus 3:30pm outcome implementation not specified in footnote23."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E55",
+    "before": null,
+    "after": "DONE — All 22 published pages including complete printed Appendix A1–A4 independently reviewed. Retain 22 settings and 29 outcome records; two original comparisons retained and two rejected. Narrowed proposed additions to parameter-specific substantive responses and learning/uncertainty nulls; withdrew quantity-scarcity and appendix nuisance-control expansions. OLS survey coding retains actual categorical controls; their identifying role is not established, with contextual FE interpretation documented. Table12 has two effective group-specific FE dimensions, not four; no dealer FE. Both retained mean comparisons are unaligned on documented selection/aggregation or trimmed-sample mismatch; unspecified regression weights not asserted. Genuine day-end 3.3-cent effect preserved while benchmark linkage rejected as borderline. Printed appendix/sample conflicts and unreported implementation details remain explicit. Original model fields and IDs preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2690",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2690",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2690",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2690",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2690",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2690",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2690",
+    "before": null,
+    "after": "Auction sequence number as proxy for dealer learning over successive auctions → auction cost; unreported regression, p117 footnote23."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2690",
+    "before": null,
+    "after": "Explicitly included auction number to control learning about values/internal benchmark prices; no time trend found. Linear regression extension described, no alternative nonlinear estimator indicated. Auction number is collinear with full auction dummies, so do not claim those dummies retained; exact implementation unknown. This is a supporting mechanism null, not an event-study/pretrend diagnostic. Linear extension is established by footnote23’s reference to this regression, but auction-number coefficient cannot coexist as an identified parameter with a saturated auction dummy set. Do not reconstruct which dummy set was removed, how time was coded beyond auction number, or which cost horizons were estimated. Source: p117 footnote23 (PDF15)."
+  }
+]
+```

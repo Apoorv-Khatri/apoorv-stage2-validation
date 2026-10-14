@@ -252,6 +252,7 @@
     "B55": "Quantitative easing auctions of Treasury bonds",
     "C55": "fin",
     "D55": 8,
+    "E55": "DONE — All 22 published pages including complete printed Appendix A1–A4 independently reviewed. Retain 22 settings and 29 outcome records; two original comparisons retained and two rejected. Narrowed proposed additions to parameter-specific substantive responses and learning/uncertainty nulls; withdrew quantity-scarcity and appendix nuisance-control expansions. OLS survey coding retains actual categorical controls; their identifying role is not established, with contextual FE interpretation documented. Table12 has two effective group-specific FE dimensions, not four; no dealer FE. Both retained mean comparisons are unaligned on documented selection/aggregation or trimmed-sample mismatch; unspecified regression weights not asserted. Genuine day-end 3.3-cent effect preserved while benchmark linkage rejected as borderline. Printed appendix/sample conflicts and unreported implementation details remain explicit. Original model fields and IDs preserved.",
     "A56": "KJGA8A2C",
     "B56": "High-Frequency Market Making to Large Institutional Trades",
     "C56": "fin",
@@ -26006,7 +26007,16 @@
     "L2689": "0",
     "M2689": "unknown",
     "N2689": "Pre-auction repo specialness → inclusion of an eligible bond in the auction; unreported regression, p109 footnote16. Continuous specialness, not a binary purchase treatment.",
-    "O2689": "Implemented result expressly states higher specialness makes inclusion less likely; policy avoids supply shortages. Estimator/link, FE, covariate set and numerical coefficient unreported: do not assume linear probability versus logit/probit. No referenced hidden table. Source: p109 footnote16 (PDF7)."
+    "O2689": "Implemented result expressly states higher specialness makes inclusion less likely; policy avoids supply shortages. Estimator/link, FE, covariate set and numerical coefficient unreported: do not assume linear probability versus logit/probit. No referenced hidden table. Source: p109 footnote16 (PDF7).",
+    "A2690": "JGNACSDE",
+    "B2690": "h34",
+    "I2690": "1",
+    "J2690": "OLS",
+    "K2690": "0",
+    "L2690": "0",
+    "M2690": "n/a",
+    "N2690": "Auction sequence number as proxy for dealer learning over successive auctions → auction cost; unreported regression, p117 footnote23.",
+    "O2690": "Explicitly included auction number to control learning about values/internal benchmark prices; no time trend found. Linear regression extension described, no alternative nonlinear estimator indicated. Auction number is collinear with full auction dummies, so do not claim those dummies retained; exact implementation unknown. This is a supporting mechanism null, not an event-study/pretrend diagnostic. Linear extension is established by footnote23’s reference to this regression, but auction-number coefficient cannot coexist as an identified parameter with a saturated auction dummy set. Do not reconstruct which dummy set was removed, how time was coded beyond auction number, or which cost horizons were estimated. Source: p117 footnote23 (PDF15)."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71354,7 +71364,11 @@
     "A6632": "JGNACSDE",
     "B6632": "h33",
     "C6632": "hy1",
-    "K6632": "Indicator that an eligible bond is included rather than excluded from the auction."
+    "K6632": "Indicator that an eligible bond is included rather than excluded from the auction.",
+    "A6633": "JGNACSDE",
+    "B6633": "h34",
+    "C6633": "hy1",
+    "K6633": "Auction price markup; precise closest-ask versus 3:30pm outcome implementation not specified in footnote23."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
