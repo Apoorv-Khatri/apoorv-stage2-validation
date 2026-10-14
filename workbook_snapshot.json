@@ -26193,7 +26193,16 @@
     "L2705": "0",
     "M2705": "n/a",
     "N2705": "Institutional execution duration in hours affects IS in Table4 cols2–5.",
-    "O2705": "Authors interpret faster trades as having insufficient time to hide order flow; slopes −.942,−1.080,−1.135,−1.086. Observational; post-policy mediator. Stock dummy adjustment, no independently argued identifying FE. Source: §3.1 pp1049–1050; Table4."
+    "O2705": "Authors interpret faster trades as having insufficient time to hide order flow; slopes −.942,−1.080,−1.135,−1.086. Observational; post-policy mediator. Stock dummy adjustment, no independently argued identifying FE. Source: §3.1 pp1049–1050; Table4.",
+    "A2706": "KJGA8A2C",
+    "B2706": "h16",
+    "I2706": "1",
+    "J2706": "OLS",
+    "K2706": "0",
+    "L2706": "0",
+    "M2706": "n/a",
+    "N2706": "Log stock-day dollar volume (millions of dollars) affects IS in Table4 cols2–5.",
+    "O2706": "Authors interpret liquidity/noise allowing informed traders to hide. Slopes −4.059,−4.405,−5.483,−4.262; do not promote this treatment-log scaling to outcome benchmark. Stock dummy adjustment. Printed final-column t statistic positive 4.65 despite negative slope; preserve. Source: §3.1 pp1049–1050; Table4."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71721,7 +71730,11 @@
     "A6659": "KJGA8A2C",
     "B6659": "h15",
     "C6659": "hy1",
-    "K6659": "Implementation shortfall in basis points, Eq2: signed execution-price deviation from initiation midpoint; no log transformation. Not separate dependent variables called spread and price impact: these are coefficient interpretations."
+    "K6659": "Implementation shortfall in basis points, Eq2: signed execution-price deviation from initiation midpoint; no log transformation. Not separate dependent variables called spread and price impact: these are coefficient interpretations.",
+    "A6660": "KJGA8A2C",
+    "B6660": "h16",
+    "C6660": "hy1",
+    "K6660": "Implementation shortfall in basis points, Eq2: signed execution-price deviation from initiation midpoint; no log transformation. Not separate dependent variables called spread and price impact: these are coefficient interpretations."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
