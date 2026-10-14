@@ -399372,3 +399372,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:34:50.115575+00:00 — Review IYY27QU8 h69: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6576",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6577",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6578",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6576",
+    "before": null,
+    "after": "h69"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6577",
+    "before": null,
+    "after": "h69"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6578",
+    "before": null,
+    "after": "h69"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6576",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6577",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6578",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6576",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6577",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6578",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6576",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6577",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6578",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6576",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6577",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6578",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6576",
+    "before": null,
+    "after": "Book leverage at t+1, as defined in Appendix A1 ((DLTT+DLC)/AT). No transformation stated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6577",
+    "before": null,
+    "after": "Market leverage at t+1, as defined in Appendix A1 ((DLTT+DLC)/(DLTT+DLC+CSHO×PRCC_F)). No transformation stated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6578",
+    "before": null,
+    "after": "Altman Z at t+1, as defined in Appendix A1 (3.3 EBIT/AT + REVT/AT +1.4 RE/AT +1.2(ACT−LCT)/AT +0.6(CSHO×PRCC_F)/LT; higher means less distress). No transformation stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2646",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2646",
+    "before": null,
+    "after": "h69"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2646",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2646",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2646",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2646",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2646",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2646",
+    "before": null,
+    "after": "Recall occurrence versus nonrecall → next-year Book leverage, Market leverage and Altman Z; reverse-direction regressions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2646",
+    "before": null,
+    "after": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Main describes regressions and marginal effects but does not name exact estimator. Includes financial-condition lags t−1,t−2,t−3 and Kale–Shahrur determinants at t. Explicit no-effect causal claim warrants inclusion despite reverse-causality motivation. Zero mass of leverage ratios and Z not established for this sample. Source: §4.3.1 pp1823–1824; Internet Appendix Table14."
+  }
+]
+```
