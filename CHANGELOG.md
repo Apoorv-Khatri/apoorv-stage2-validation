@@ -391803,3 +391803,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:33:20.483611+00:00 — Review IYMGE8KX h45: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6495",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6496",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6497",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6495",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6496",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6497",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6495",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6496",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6497",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6495",
+    "before": null,
+    "after": "CDS selling system outcome; exact intensity/latent-propensity scale unverified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6496",
+    "before": null,
+    "after": "CDS buying system outcome; exact intensity/latent-propensity scale unverified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6497",
+    "before": null,
+    "after": "Cash holdings system outcome; exact intensity/latent-propensity scale unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2570",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2570",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2570",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2570",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2570",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2570",
+    "before": null,
+    "after": "Fund liquidity covariates → jointly modeled CDS selling, CDS buying and cash outcomes in a seemingly unrelated regressions system."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2570",
+    "before": null,
+    "after": "SUR specification is explicit. Whether all equations are linear observed outcomes or censored latent propensities is not established by accessible source. Residual correlations are not directional effects of cash on CDS; keep them outside comparisons. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Focal covariate family is not enumerated in the accessible robustness statement; it may mix continuous flow measures and binary duration contrasts. Binary=unknown at this unresolved family level, not a claim all treatments are continuous. Split only once implemented treatments/columns are established. Source: §II.A p559: Table IA.II."
+  }
+]
+```
