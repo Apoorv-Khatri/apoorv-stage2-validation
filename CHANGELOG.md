@@ -403623,3 +403623,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T14:07:02.206713+00:00 — Review JGNACSDE s2: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K293",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K294",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K295",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L293",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M293",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N293",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O293",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P293",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q293",
+    "before": null,
+    "after": "p105 and p117: Table10 col3 .115 cents/$100 per bp; 23bp → about 2.6 cents/$100, described as large given low average cost. Table9 p116 quantity-weighted mean .71 cents/$100 across 1953 purchased auction-CUSIP pairs. Regression uses cost-tail-trimmed N1934; no quantity weighting of regression stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R293",
+    "before": null,
+    "after": "Unaligned=0 on the documented sample construction: Table9 .71 is an across-pair quantity-weighted observed mean over N1953, whereas the focal Table10 col3 slope uses cost-tail-trimmed N1934 (p117). No construction makes the all-purchased mean the trimmed target baseline. This is a specific population mismatch under the maintained regression estimand, not an endogeneity objection. Regression weighting itself is not reported explicitly; do not assert unweighted estimation as a verified fact. Within-pair offer weighting defines the outcome, not regression weights. Continuous-dose baseline alone would warrant unknown, but does not erase the explicit untrimmed/trimmed mismatch. Verbal=1 and divided=0 remain independent of this alignment judgment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R294",
+    "before": null,
+    "after": "Reject: Table9 SD11.22 and introductory SD discussion describe dispersion of measured costs, not a deliberate link to the cheapness coefficient. Nearby separate paragraphs cannot manufacture estimate×benchmark comparison; 23bp is treatment SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R295",
+    "before": null,
+    "after": "Reject as extracted: Table9 descriptive average 2.73 is not a linked regression-column benchmark. p117 gives a real 3.3-cent effect from Table10 col7 .142×23, but subsequent “Not only is the average auction cost larger ... dependence ... stronger” compares the two horizons’ means and slopes in parallel, not explicitly focal effect to outcome mean. Borderline inclusion alternative documented; do not invent a numerical effect/mean comparison or classify verbal=0 table pairing."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I493",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J493",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K493",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L493",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M493",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O493",
+    "before": null,
+    "after": "Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Table10 cols1–3/6–7 have two dummy sets; col4 auction only, col5 CUSIP only. Closest-ask slope .115 in col3, end-of-day .142 in col7. Outcome is quantity-weighted within auction-CUSIP; that does not imply regression observations are quantity-weighted. Tail trimming of cost differs from cheapness winsorization. Footnote23 learning test added separately. Source: §6, Eq11, Table10 p117 (PDF15)."
+  }
+]
+```
