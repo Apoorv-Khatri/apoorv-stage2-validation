@@ -24465,7 +24465,16 @@
     "L2534": "0",
     "M2534": "n/a",
     "N2534": "Log fund size → joint four-category CDS state: no-buy/no-sell base, buy-only, both, sell-only; multinomial logit, Table III A cols3–5. Same quarterly/style dummies and fund controls.",
-    "O2534": "Retain under the p557 size/sophistication interpretation carried across Table III A implementations. This is a contested author-intention judgment, not an automatic inclusion of every control. Log total net assets; substantive sophistication/capacity explanation is weaker than liquidity mechanism; author-intention gate contested. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Distinct estimator from the binary logits. Outcomes below name category equations of a single four-valued response, not separately estimated binary logits. Source: Table III A cols3–5 pp554–555; §II.A p553."
+    "O2534": "Retain under the p557 size/sophistication interpretation carried across Table III A implementations. This is a contested author-intention judgment, not an automatic inclusion of every control. Log total net assets; substantive sophistication/capacity explanation is weaker than liquidity mechanism; author-intention gate contested. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Distinct estimator from the binary logits. Outcomes below name category equations of a single four-valued response, not separately estimated binary logits. Source: Table III A cols3–5 pp554–555; §II.A p553.",
+    "A2535": "IYMGE8KX",
+    "B2535": "h10",
+    "I2535": "1",
+    "J2535": "Other",
+    "K2535": "0",
+    "L2535": "0",
+    "M2535": "n/a",
+    "N2535": "Log fund size → gross CDS sell/buy intensity (% fund TNA), fund-quarter Tobit; Table III B cols1–4. Zero censoring, lagged controls, quarterly/style dummies; cash added in cols2/4.",
+    "O2535": "Retain, weaker gate: p558 carries Panel A relations to the intensity implementation. Fund size as sophistication/capacity is less explicit than the liquidity hypotheses; no additional causal mechanism is invented. Log total net assets; substantive sophistication/capacity explanation is weaker than liquidity mechanism; author-intention gate contested. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Reported coefficients are Tobit parameters, not documented unconditional marginal effects. Printed coefficients for cols1/2/3/4: [2.861, 2.798, 2.339, 2.28]. Source: Table III B pp555–556; §II.A pp558–559."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68755,7 +68764,15 @@
     "A6414": "IYMGE8KX",
     "B6414": "h9",
     "C6414": "hy3",
-    "K6414": "Four-category CDS-use response, sell only equation versus no-buy/no-sell; base state is present. Reported outcome is categorical, not a two-valued dependent variable."
+    "K6414": "Four-category CDS-use response, sell only equation versus no-buy/no-sell; base state is present. Reported outcome is categorical, not a two-valued dependent variable.",
+    "A6415": "IYMGE8KX",
+    "B6415": "h10",
+    "C6415": "hy1",
+    "K6415": "Total gross CDS sell notional divided by fund TNA, percentage points; observed zero for funds without positions.",
+    "A6416": "IYMGE8KX",
+    "B6416": "h10",
+    "C6416": "hy2",
+    "K6416": "Total gross CDS buy notional divided by fund TNA, percentage points; observed zero for funds without positions."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
