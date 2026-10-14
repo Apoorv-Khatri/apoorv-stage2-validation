@@ -381738,3 +381738,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:21:11.739876+00:00 — Review IYMGE8KX s8: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1223",
+    "before": null,
+    "after": "Annual bottom-decile return-performance indicator within investment-style category, binary 0/1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I477",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J477",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K477",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L477",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M477",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N477",
+    "before": null,
+    "after": "Annual average CDS selling notional / TNA (single-name plus indices) → bottom-return-decile indicator within investment style; linear probability fund-year regressions, full sample and three subperiods; fund FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O477",
+    "before": null,
+    "after": "Explicit p583 within-fund versus cross-section interpretation warrants separate estimands; fund FE absorb persistent fund propensity for downside risk. No nonlinear model is reported for Panel D. Category controls in cross-section do not alone establish an identifying FE argument for intensity. Main=1: hidden tail risk is a central risk conclusion in introduction p540. Printed prose 31/45 bps agrees with table probability coefficients 0.0031/0.0045 (verified by multiplying by 10,000); do not confuse probability units with percentage points. The nominal bottom decile does not deliberately benchmark these coefficients to a reported control mean. Source: Table VI D p576 cols2/4/6/8; §IV.C p583."
+  }
+]
+```
