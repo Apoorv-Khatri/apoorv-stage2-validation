@@ -400575,3 +400575,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T12:39:00.061622+00:00 — Review JFUQHXRF s3: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1239",
+    "before": null,
+    "after": "Change in the loan’s drawdown rate, 2019Q4–2020Q1, percentage points. Main prose establishes loan unit; Table14 caption has an incomplete firm-level phrase. First difference, not a level or log outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I489",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J489",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K489",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L489",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M489",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N489",
+    "before": null,
+    "after": "Continuous industry employment-decline exposure → loan drawdown-rate change 2019Q4–2020Q1, 2SLS pooled and size-specific samples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O489",
+    "before": null,
+    "after": "Single excluded nonbinary industry physical-proximity index: O*NET occupational responses averaged with 2018 employment shares. No separate binary instrument or size-dummy instruments; subgroup regressions use the same scalar index. Main text calls unit loan; caption incompletely says difference in firm i’s; N exceeds firms. Keep printed IV coefficients 2.6, −0.8, 0.9, 4.2, 7.3, 12.8. Industry-clustered SE; exclusion rules out direct proximity channels, not established by first-stage F. Source: Table14 cols2–7 p928."
+  }
+]
+```
