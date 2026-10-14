@@ -393213,3 +393213,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:05:07.327740+00:00 — Review IYY27QU8 s9: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1236",
+    "before": null,
+    "after": "Total number of recalls 2006–2010, each firm once; zero for control firms."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I486",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J486",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K486",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L486",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M486",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N486",
+    "before": null,
+    "after": "2005 Book leverage → total 2006–2010 recall count; Poisson Table9 col1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O486",
+    "before": null,
+    "after": "One observation per firm; 2-digit SIC dummies. Timing/persistence exercise materially supports central recall-frequency conclusion in abstract/introduction/conclusion. .9441 is Poisson coefficient, not number of additional recalls. Source: Table9 p1823; §4.2 pp1821–1822."
+  }
+]
+```
