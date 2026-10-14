@@ -25803,7 +25803,16 @@
     "L2672": "0",
     "M2672": "unknown",
     "N2672": "Firm volatility → collateral posting within firm-size class.",
-    "O2672": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Authors give mechanism of imperfect monitoring and residual-risk protection. Which volatility measure(s) and which table/estimator/scale are unresolved. Do not substitute descriptive TableA.3 volatility outcomes for this treatment. Source: Appendix Tables A.14–A.19 collectively; p922."
+    "O2672": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Authors give mechanism of imperfect monitoring and residual-risk protection. Which volatility measure(s) and which table/estimator/scale are unresolved. Do not substitute descriptive TableA.3 volatility outcomes for this treatment. Source: Appendix Tables A.14–A.19 collectively; p922.",
+    "A2673": "JFUQHXRF",
+    "B2673": "h22",
+    "I2673": "1",
+    "J2673": "unknown",
+    "K2673": "0",
+    "L2673": "0",
+    "M2673": "unknown",
+    "N2673": "Lower internal rating → collateral posting within firm-size class.",
+    "O2673": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Rating is ordered nonbinary, not automatically binary. Mechanism concerns residual-risk protection. Exact contrast/estimator and mappings unresolved. Source: Appendix Tables A.14–A.19 collectively; p922."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71065,7 +71074,11 @@
     "A6611": "JFUQHXRF",
     "B6611": "h21",
     "C6611": "hy1",
-    "K6611": "Collateral posting; indicator or rate and exact scale unresolved."
+    "K6611": "Collateral posting; indicator or rate and exact scale unresolved.",
+    "A6612": "JFUQHXRF",
+    "B6612": "h22",
+    "C6612": "hy1",
+    "K6612": "Collateral posting; indicator or rate and exact scale unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

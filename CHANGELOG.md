@@ -403176,3 +403176,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T12:49:19.269200+00:00 — Review JFUQHXRF h22: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6612",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6612",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6612",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6612",
+    "before": null,
+    "after": "Collateral posting; indicator or rate and exact scale unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2673",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2673",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2673",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2673",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2673",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2673",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2673",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2673",
+    "before": null,
+    "after": "Lower internal rating → collateral posting within firm-size class."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2673",
+    "before": null,
+    "after": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Rating is ordered nonbinary, not automatically binary. Mechanism concerns residual-risk protection. Exact contrast/estimator and mappings unresolved. Source: Appendix Tables A.14–A.19 collectively; p922."
+  }
+]
+```
