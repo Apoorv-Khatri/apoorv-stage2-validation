@@ -25312,7 +25312,16 @@
     "L2621": "0",
     "M2621": "unknown",
     "N2621": "Book net debt (DLTT+DLC−CHE)/AT → recall incidence; alternative financing measure.",
-    "O2621": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Implemented relation significant at1%; accessible passage does not name estimator for this table. Do not silently deduplicate DLC and DD1 in source-defined numerator. Source: §3.3 p1817; Internet Appendix Table7; Appendix A1 p1826."
+    "O2621": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Implemented relation significant at1%; accessible passage does not name estimator for this table. Do not silently deduplicate DLC and DD1 in source-defined numerator. Source: §3.3 p1817; Internet Appendix Table7; Appendix A1 p1826.",
+    "A2622": "IYY27QU8",
+    "B2622": "h45",
+    "I2622": "1",
+    "J2622": "unknown",
+    "K2622": "0",
+    "L2622": "0",
+    "M2622": "unknown",
+    "N2622": "Market net debt (DLTT+DLC−CHE)/(DLTT+DLC+market equity) → recall incidence; alternative financing measure.",
+    "O2622": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Implemented relation significant at1%; accessible passage does not name estimator for this table. Do not silently deduplicate DLC and DD1 in source-defined numerator. Source: §3.3 p1817; Internet Appendix Table7; Appendix A1 p1826."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70250,7 +70259,11 @@
     "A6551": "IYY27QU8",
     "B6551": "h44",
     "C6551": "hy1",
-    "K6551": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+    "K6551": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero.",
+    "A6552": "IYY27QU8",
+    "B6552": "h45",
+    "C6552": "hy1",
+    "K6552": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
