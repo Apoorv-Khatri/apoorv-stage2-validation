@@ -391281,3 +391281,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:32:17.509995+00:00 — Review IYMGE8KX h41: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6490",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6491",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6490",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6491",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6490",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6491",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6490",
+    "before": null,
+    "after": "Two-factor monthly alpha, returns in excess of factor-adjusted benchmark, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6491",
+    "before": null,
+    "after": "Ten-factor monthly alpha, returns in excess of factor-adjusted benchmark, percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2566",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2566",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2566",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2566",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2566",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2566",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2566",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2566",
+    "before": null,
+    "after": "Total CDS intensity (% TNA) → fund-month two-/ten-factor alpha, separate precrisis/crisis/postcrisis linear panels; fund FE with fund size."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2566",
+    "before": null,
+    "after": "Monthly frequency is established by panel heading and p582; general Table VI caption says fund-quarter, a printed conflict. Fund FE absorb persistent fund ability/style, yielding within-fund intensity response; one effective set, no HDFE. Separate periods are routine sample variants, not DiD. Null full-sample performance claim is not an unreported coefficient grid. Source: Table VI C pp575–576 cols2/4/6; §IV.C p582."
+  }
+]
+```

@@ -24744,7 +24744,16 @@
     "L2565": "1",
     "M2565": "n/a",
     "N2565": "Total CDS intensity (% TNA) → fund-month two-/ten-factor alpha, separate precrisis/crisis/postcrisis linear panels; investment-category identifying FE and fund size. Table VI C cols1/3/5.",
-    "O2565": "p582 establishes investment-style composition as a material performance confound in Panel B, then immediately extends the same alpha/usage relation to Panel C with either category or fund FE. Apply that substantive rationale consistently to the intensity/alpha relation in h39 and h40; do not require an independent identification slogan for each adjacent column. One category set, not HDFE. Competing narrow reading would code category specifications OLS; actual dummy inclusion is certain. Panel heading and p582 say fund-month while general caption says fund-quarter; preserve the conflict. Periods are sample variants, not DiD. Source: Table VI C pp575–576 cols1/3/5; §IV.C p582."
+    "O2565": "p582 establishes investment-style composition as a material performance confound in Panel B, then immediately extends the same alpha/usage relation to Panel C with either category or fund FE. Apply that substantive rationale consistently to the intensity/alpha relation in h39 and h40; do not require an independent identification slogan for each adjacent column. One category set, not HDFE. Competing narrow reading would code category specifications OLS; actual dummy inclusion is certain. Panel heading and p582 say fund-month while general caption says fund-quarter; preserve the conflict. Periods are sample variants, not DiD. Source: Table VI C pp575–576 cols1/3/5; §IV.C p582.",
+    "A2566": "IYMGE8KX",
+    "B2566": "h41",
+    "I2566": "1",
+    "J2566": "FE",
+    "K2566": "0",
+    "L2566": "1",
+    "M2566": "n/a",
+    "N2566": "Total CDS intensity (% TNA) → fund-month two-/ten-factor alpha, separate precrisis/crisis/postcrisis linear panels; fund FE with fund size.",
+    "O2566": "Monthly frequency is established by panel heading and p582; general Table VI caption says fund-quarter, a printed conflict. Fund FE absorb persistent fund ability/style, yielding within-fund intensity response; one effective set, no HDFE. Separate periods are routine sample variants, not DiD. Null full-sample performance claim is not an unreported coefficient grid. Source: Table VI C pp575–576 cols2/4/6; §IV.C p582."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69403,7 +69412,15 @@
     "A6489": "IYMGE8KX",
     "B6489": "h40",
     "C6489": "hy2",
-    "K6489": "Ten-factor monthly alpha, returns in excess of factor-adjusted benchmark, percentage points."
+    "K6489": "Ten-factor monthly alpha, returns in excess of factor-adjusted benchmark, percentage points.",
+    "A6490": "IYMGE8KX",
+    "B6490": "h41",
+    "C6490": "hy1",
+    "K6490": "Two-factor monthly alpha, returns in excess of factor-adjusted benchmark, percentage points.",
+    "A6491": "IYMGE8KX",
+    "B6491": "h41",
+    "C6491": "hy2",
+    "K6491": "Ten-factor monthly alpha, returns in excess of factor-adjusted benchmark, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
