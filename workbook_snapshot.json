@@ -25546,7 +25546,16 @@
     "L2647": "0",
     "M2647": "n/a",
     "N2647": "Recall occurrence versus matched nonrecall → subsequent change in Book leverage, Market leverage and Altman Z; propensity-score matching.",
-    "O2647": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Best-one and best-four matches using all Table3 attributes other than financial-condition variables; full/clean-event samples grouped. No outcome-selected weights are stated. Changes are compared, but main does not establish a parallel-trends DiD regression; code Matching on documented design. ATT-like target; outcome-change horizon unspecified. Source: Footnote17 p1824; Internet Appendix Table15."
+    "O2647": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Best-one and best-four matches using all Table3 attributes other than financial-condition variables; full/clean-event samples grouped. No outcome-selected weights are stated. Changes are compared, but main does not establish a parallel-trends DiD regression; code Matching on documented design. ATT-like target; outcome-change horizon unspecified. Source: Footnote17 p1824; Internet Appendix Table15.",
+    "A2648": "IYY27QU8",
+    "B2648": "h71",
+    "I2648": "1",
+    "J2648": "Other",
+    "K2648": "1",
+    "L2648": "0",
+    "M2648": "n/a",
+    "N2648": "Capital raising within six months after recall/fiscal-year-end → recall reporting; probit with capital-raising dummy in isolation.",
+    "O2648": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Binary planned-issuance/due-diligence mechanism has substantive null; not excluded as a placebo. Future issuance is proxy for prior issuance process, not proof of exogenous treatment. Equity/debt offerings from SDC; recall date for recalling observations, fiscal-year-end for controls. Source: §4.3.2 pp1824–1825; Internet Appendix Table16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70622,7 +70631,14 @@
     "H6581": "0",
     "I6581": "unknown",
     "J6581": "other",
-    "K6581": "Change in Altman Z subsequent to recall relative to nonrecall matched firms; precise start/end years not supplied by fn17."
+    "K6581": "Change in Altman Z subsequent to recall relative to nonrecall matched firms; precise start/end years not supplied by fn17.",
+    "A6582": "IYY27QU8",
+    "B6582": "h71",
+    "C6582": "hy1",
+    "H6582": "1",
+    "I6582": "1",
+    "J6582": "none",
+    "K6582": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
