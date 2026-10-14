@@ -24726,7 +24726,16 @@
     "L2563": "1",
     "M2563": "n/a",
     "N2563": "Within-fund sample-average total CDS notional / TNA → full-period fund-level two-/ten-factor monthly alpha; linear cross-section, fund size controls, no style FE.",
-    "O2563": "OLS cross-fund comparison; selection/sophistication confounding acknowledged. Factor-model loadings are not FE. Main=1 because abstract and conclusion explicitly discuss performance consequences. Binary user is not CDS volume. Alpha is a residual-return measure, not outcome-SD units. Source: Table VI B p575 cols[3, 7]; §IV.C p582."
+    "O2563": "OLS cross-fund comparison; selection/sophistication confounding acknowledged. Factor-model loadings are not FE. Main=1 because abstract and conclusion explicitly discuss performance consequences. Binary user is not CDS volume. Alpha is a residual-return measure, not outcome-SD units. Source: Table VI B p575 cols[3, 7]; §IV.C p582.",
+    "A2564": "IYMGE8KX",
+    "B2564": "h39",
+    "I2564": "1",
+    "J2564": "FE",
+    "K2564": "0",
+    "L2564": "1",
+    "M2564": "n/a",
+    "N2564": "Within-fund sample-average total CDS notional / TNA → full-period fund-level two-/ten-factor monthly alpha; linear cross-section, fund size controls, investment-style FE.",
+    "O2564": "Identifying style FE: p582 attributes the disappearing performance premium to accounting for investment-style category, a substantive between-style confound. One FE set. Factor-model loadings are not FE. Main=1 because abstract and conclusion explicitly discuss performance consequences. Binary user is not CDS volume. Alpha is a residual-return measure, not outcome-SD units. Source: Table VI B p575 cols[4, 8]; §IV.C p582."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69369,7 +69378,15 @@
     "A6485": "IYMGE8KX",
     "B6485": "h38",
     "C6485": "hy2",
-    "K6485": "Ten-factor alpha from full-period fund performance, in monthly percentage points; factor-adjusted return, not log/SD normalization."
+    "K6485": "Ten-factor alpha from full-period fund performance, in monthly percentage points; factor-adjusted return, not log/SD normalization.",
+    "A6486": "IYMGE8KX",
+    "B6486": "h39",
+    "C6486": "hy1",
+    "K6486": "Two-factor alpha from full-period fund performance, in monthly percentage points; factor-adjusted return, not log/SD normalization.",
+    "A6487": "IYMGE8KX",
+    "B6487": "h39",
+    "C6487": "hy2",
+    "K6487": "Ten-factor alpha from full-period fund performance, in monthly percentage points; factor-adjusted return, not log/SD normalization."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
