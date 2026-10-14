@@ -24816,7 +24816,16 @@
     "L2573": "0",
     "M2573": "unknown",
     "N2573": "Top financial institution indicator → basis-buy and speculative-buy CDS activity; buy-interest decomposition.",
-    "O2573": "Main reports both basis and speculative findings. Exact intensity versus propensity outcome scale and estimator not established in accessible source; do not inherit a tobit by assumption. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Source: §IV.A p573: Table IA.VI."
+    "O2573": "Main reports both basis and speculative findings. Exact intensity versus propensity outcome scale and estimator not established in accessible source; do not inherit a tobit by assumption. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Source: §IV.A p573: Table IA.VI.",
+    "A2574": "IYMGE8KX",
+    "B2574": "h49",
+    "I2574": "1",
+    "J2574": "OLS",
+    "K2574": "0",
+    "L2574": "0",
+    "M2574": "n/a",
+    "N2574": "Precrisis Treasury-holdings tercile (2007Q4 Treasury/TNA) → subsequent total and top-finance CDS selling intensity paths, 2006Q1–2012Q4.",
+    "O2574": "Substantive portfolio-risk substitution test with contrary result: low-Treasury funds sell more, also on systemically important entities. Unadjusted grouped mean paths, linear contrasts, not modern DiD or causal matching. Three-valued ordered grouping, not an invented top/bottom binary coefficient; no numeric grid accessible. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Source: §IV.A p577: Figure IA.3."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69536,7 +69545,15 @@
     "H6502": "unknown",
     "I6502": "unknown",
     "J6502": "unknown",
-    "K6502": "Speculative buying activity; exact reported dependent-variable scale unresolved."
+    "K6502": "Speculative buying activity; exact reported dependent-variable scale unresolved.",
+    "A6503": "IYMGE8KX",
+    "B6503": "h49",
+    "C6503": "hy1",
+    "K6503": "All CDS selling intensity, notional / fund TNA; plotted group path.",
+    "A6504": "IYMGE8KX",
+    "B6504": "h49",
+    "C6504": "hy2",
+    "K6504": "CDS selling on top-20% financial reference entities intensity, notional / fund TNA; plotted group path."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

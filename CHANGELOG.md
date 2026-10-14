@@ -392283,3 +392283,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:34:26.057721+00:00 — Review IYMGE8KX h49: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6503",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6504",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6503",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6504",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6503",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6504",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6503",
+    "before": null,
+    "after": "All CDS selling intensity, notional / fund TNA; plotted group path."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6504",
+    "before": null,
+    "after": "CDS selling on top-20% financial reference entities intensity, notional / fund TNA; plotted group path."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2574",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2574",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2574",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2574",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2574",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2574",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2574",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2574",
+    "before": null,
+    "after": "Precrisis Treasury-holdings tercile (2007Q4 Treasury/TNA) → subsequent total and top-finance CDS selling intensity paths, 2006Q1–2012Q4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2574",
+    "before": null,
+    "after": "Substantive portfolio-risk substitution test with contrary result: low-Treasury funds sell more, also on systemically important entities. Unadjusted grouped mean paths, linear contrasts, not modern DiD or causal matching. Three-valued ordered grouping, not an invented top/bottom binary coefficient; no numeric grid accessible. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Source: §IV.A p577: Figure IA.3."
+  }
+]
+```
