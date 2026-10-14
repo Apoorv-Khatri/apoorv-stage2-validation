@@ -24573,7 +24573,16 @@
     "L2546": "1",
     "M2546": "n/a",
     "N2546": "CDS contract count → four-category CDS position state (buy-only, both, sell-only versus no position), fund–issuer–quarter multinomial logit, Table IV A cols5–7.",
-    "O2546": "Quoted contract count measures maturity/contingency trading capacity; nonbinary count. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table IV A pp563–564; §II.B pp562,566–567."
+    "O2546": "Quoted contract count measures maturity/contingency trading capacity; nonbinary count. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table IV A pp563–564; §II.B pp562,566–567.",
+    "A2547": "IYMGE8KX",
+    "B2547": "h22",
+    "I2547": "1",
+    "J2547": "Other",
+    "K2547": "0",
+    "L2547": "1",
+    "M2547": "n/a",
+    "N2547": "CDS contract count → issuer-level gross sell, gross buy, speculative buy and basis buy intensity (% fund TNA), Tobit Table IV B; same time/style dummies and lagged fund/issuer controls.",
+    "O2547": "Quoted contract count measures maturity/contingency trading capacity; nonbinary count. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Basis is present only in cols3–6; other predictors have cols1–6. Outcomes are censored observed intensities, not probabilities. Printed coefficients by cols1–6 (None means not included): [1.982, 0.593, 2.864, 0.534, 0.48, 0.498]. Source: Table IV B pp564–565; §II.B–III.A pp567–568."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69038,7 +69047,23 @@
     "A6442": "IYMGE8KX",
     "B6442": "h21",
     "C6442": "hy3",
-    "K6442": "Four-category CDS state, sell-only relative to no position; not a binary response."
+    "K6442": "Four-category CDS state, sell-only relative to no position; not a binary response.",
+    "A6443": "IYMGE8KX",
+    "B6443": "h22",
+    "C6443": "hy1",
+    "K6443": "Gross sell notional on issuer / fund TNA (%); observed zero positions retained.",
+    "A6444": "IYMGE8KX",
+    "B6444": "h22",
+    "C6444": "hy2",
+    "K6444": "Gross buy notional on issuer / fund TNA (%); observed zero positions retained.",
+    "A6445": "IYMGE8KX",
+    "B6445": "h22",
+    "C6445": "hy3",
+    "K6445": "Speculative (unmatched/naked) buy notional on issuer / fund TNA (%); observed zero positions retained.",
+    "A6446": "IYMGE8KX",
+    "B6446": "h22",
+    "C6446": "hy4",
+    "K6446": "Basis buy matched to issuer bond holdings notional on issuer / fund TNA (%); observed zero positions retained."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
