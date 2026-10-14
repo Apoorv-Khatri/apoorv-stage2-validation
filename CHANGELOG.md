@@ -406704,3 +406704,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:09:28.768719+00:00 — Review KJGA8A2C h3: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6636",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6636",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6636",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6636",
+    "before": null,
+    "after": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2693",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2693",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2693",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2693",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2693",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2693",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2693",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2693",
+    "before": null,
+    "after": "Signed institutional trade direction L∈{−1,0,1} affects HFT inventory change, Table6 col4 L coefficient .020."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2693",
+    "before": null,
+    "after": "Three-valued signed exposure is nonbinary. Author explicitly interprets positive response as same-direction buying/selling independent of inventory, order anticipation. Same OLS equation as s3 but a different treatment parameter. No FE. Source: §4.1 p1058; Table6 col4."
+  }
+]
+```

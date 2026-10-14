@@ -26076,7 +26076,16 @@
     "L2692": "1",
     "M2692": "n/a",
     "N2692": "Lagged standardized inventory, interacted with four absolute-inventory bins, affects 15-minute inventory change; Table6 cols1–4, Eq5.",
-    "O2692": "Piecewise linear outcome regression, not nonlinear effect estimator. Continuous inventory remains dose treatment despite bin dummies. HNV inventory-risk mechanism explicitly motivates response. Col1 −.276/−.281/−.312/−.377; buy/sell subsets and col4 adjusted slopes retained as routine variants. Derived half-lives are summaries, not additional outcome-effect estimators. Inventory scaled using previous-month level SD, not SD of change. Source: §4.1 pp1054–1058; Table6."
+    "O2692": "Piecewise linear outcome regression, not nonlinear effect estimator. Continuous inventory remains dose treatment despite bin dummies. HNV inventory-risk mechanism explicitly motivates response. Col1 −.276/−.281/−.312/−.377; buy/sell subsets and col4 adjusted slopes retained as routine variants. Derived half-lives are summaries, not additional outcome-effect estimators. Inventory scaled using previous-month level SD, not SD of change. Source: §4.1 pp1054–1058; Table6.",
+    "A2693": "KJGA8A2C",
+    "B2693": "h3",
+    "I2693": "1",
+    "J2693": "OLS",
+    "K2693": "0",
+    "L2693": "1",
+    "M2693": "n/a",
+    "N2693": "Signed institutional trade direction L∈{−1,0,1} affects HFT inventory change, Table6 col4 L coefficient .020.",
+    "O2693": "Three-valued signed exposure is nonbinary. Author explicitly interprets positive response as same-direction buying/selling independent of inventory, order anticipation. Same OLS equation as s3 but a different treatment parameter. No FE. Source: §4.1 p1058; Table6 col4."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71472,7 +71481,11 @@
     "A6635": "KJGA8A2C",
     "B6635": "h2",
     "C6635": "hy1",
-    "K6635": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
+    "K6635": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE.",
+    "A6636": "KJGA8A2C",
+    "B6636": "h3",
+    "C6636": "hy1",
+    "K6636": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
