@@ -404994,3 +404994,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T14:14:50.691206+00:00 — Review JGNACSDE h15: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6630",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6630",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6630",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6630",
+    "before": null,
+    "after": "Dealer d’s price markup on bond j in auction t relative to the closest ask, measured in cents per $100 par value at the auction-CUSIP-dealer level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2687",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2687",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2687",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2687",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2687",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2687",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2687",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2687",
+    "before": null,
+    "after": "Outstanding unstripped par balance before auction, units $10 billion. Focal OB response in §7, Eq15, Table12 cols5–8 pp118–120 (PDF16–18). Outcome set as in s6. Include full-sample slope, top-five interaction and subgroup slopes; continuous treatment with ex-post profit-group heterogeneity, not a binary top-five intervention."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2687",
+    "before": null,
+    "after": "Bond scarcity determinant §4.3 p112; cost direction discussed p117, subgroup response p120. Quantity nulls are supporting evidence, not a standalone headline. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Source: §7, Eq15, Table12 cols5–8 pp118–120 (PDF16–18); §4.3 pp112–113; §§5–7 pp115–120."
+  }
+]
+```

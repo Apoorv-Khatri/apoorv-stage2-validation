@@ -25979,7 +25979,16 @@
     "L2686": "0",
     "M2686": "n/a",
     "N2686": "GC minus specific-collateral repo rate measured before 10am, percentage points. Focal Specialness response in §7, Eq15, Table12 cols5–8 pp118–120 (PDF16–18). Outcome set as in s6. Include full-sample slope, top-five interaction and subgroup slopes; continuous treatment with ex-post profit-group heterogeneity, not a binary top-five intervention.",
-    "O2686": "Scarcity/supply determinant defined §4.3 p112; cost direction discussed p117 and heterogeneous response p120. Quantity nulls remain supporting tests under the broad determinants interpretation. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Source: §7, Eq15, Table12 cols5–8 pp118–120 (PDF16–18); §4.3 pp112–113; §§5–7 pp115–120."
+    "O2686": "Scarcity/supply determinant defined §4.3 p112; cost direction discussed p117 and heterogeneous response p120. Quantity nulls remain supporting tests under the broad determinants interpretation. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Source: §7, Eq15, Table12 cols5–8 pp118–120 (PDF16–18); §4.3 pp112–113; §§5–7 pp115–120.",
+    "A2687": "JGNACSDE",
+    "B2687": "h15",
+    "I2687": "1",
+    "J2687": "OLS",
+    "K2687": "0",
+    "L2687": "0",
+    "M2687": "n/a",
+    "N2687": "Outstanding unstripped par balance before auction, units $10 billion. Focal OB response in §7, Eq15, Table12 cols5–8 pp118–120 (PDF16–18). Outcome set as in s6. Include full-sample slope, top-five interaction and subgroup slopes; continuous treatment with ex-post profit-group heterogeneity, not a binary top-five intervention.",
+    "O2687": "Bond scarcity determinant §4.3 p112; cost direction discussed p117, subgroup response p120. Quantity nulls are supporting evidence, not a standalone headline. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Source: §7, Eq15, Table12 cols5–8 pp118–120 (PDF16–18); §4.3 pp112–113; §§5–7 pp115–120."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71315,7 +71324,11 @@
     "A6629": "JGNACSDE",
     "B6629": "h14",
     "C6629": "hy1",
-    "K6629": "Dealer d’s price markup on bond j in auction t relative to the closest ask, measured in cents per $100 par value at the auction-CUSIP-dealer level."
+    "K6629": "Dealer d’s price markup on bond j in auction t relative to the closest ask, measured in cents per $100 par value at the auction-CUSIP-dealer level.",
+    "A6630": "JGNACSDE",
+    "B6630": "h15",
+    "C6630": "hy1",
+    "K6630": "Dealer d’s price markup on bond j in auction t relative to the closest ask, measured in cents per $100 par value at the auction-CUSIP-dealer level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
