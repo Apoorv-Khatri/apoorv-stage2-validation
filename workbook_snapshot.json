@@ -25677,7 +25677,16 @@
     "L2658": "0",
     "M2658": "unknown",
     "N2658": "Reported collateral market value → utilization sensitivity, with size, collateral-type and constraint-proximity heterogeneity.",
-    "O2658": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Multivariate regression reported for roughly 6% of loan-quarters with collateral value. Main text explicitly concludes collateral constraints cause variation in liquidity. Exact estimator/FE/functional scales unresolved; do not label nonlinear Other or presume identifying FE. Twice-as-large sensitivity is effect/effect, not outcome benchmark. Source: Appendix Fig A.1; p920 §4."
+    "O2658": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Multivariate regression reported for roughly 6% of loan-quarters with collateral value. Main text explicitly concludes collateral constraints cause variation in liquidity. Exact estimator/FE/functional scales unresolved; do not label nonlinear Other or presume identifying FE. Twice-as-large sensitivity is effect/effect, not outcome benchmark. Source: Appendix Fig A.1; p920 §4.",
+    "A2659": "JFUQHXRF",
+    "B2659": "h7",
+    "I2659": "1",
+    "J2659": "DiD_conventional",
+    "K2659": "1",
+    "L2659": "1",
+    "M2659": "n/a",
+    "N2659": "Maturity-category × COVID contrasts → utilization, conditional on size and other controls.",
+    "O2659": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Retain causal interpretation despite acknowledged endogenous joint determination/no instruments (footnote23). Six maturity categories; arm-versus-omitted-category binary contrasts, omitted category unresolved without appendix. DiD priority; same identifying FE as Table11. Distinct treatment from size. Source: Table11 col8/9; Appendix Table A.9; p924."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70859,7 +70868,14 @@
     "A6597": "JFUQHXRF",
     "B6597": "h6",
     "C6597": "hy1",
-    "K6597": "Credit utilization sensitivity to reported collateral value; exact regression scale unresolved."
+    "K6597": "Credit utilization sensitivity to reported collateral value; exact regression scale unresolved.",
+    "A6598": "JFUQHXRF",
+    "B6598": "h7",
+    "C6598": "hy1",
+    "H6598": "0",
+    "I6598": "1",
+    "J6598": "none",
+    "K6598": "Utilized/committed credit-line amount, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
