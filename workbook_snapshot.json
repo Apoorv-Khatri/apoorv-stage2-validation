@@ -25623,7 +25623,16 @@
     "L2652": "0",
     "M2652": "n/a",
     "N2652": "Recall announcement versus market-model expected no-event return → announcement-window abnormal returns and abnormal dollar market-cap changes.",
-    "O2652": "Broad-gate adjudication, not an explicit causal identification claim: §2.2 calls recalls significant adverse events after reporting market-model CARs and abnormal dollar decreases. Retain a linear expected-return imputation/OLS setting on that event-attribution reading; a narrower descriptive-return reading could reject it. The market-model no-event counterfactual is an interpretation, not a randomized untreated comparison. CRSP value-weighted market index; no estimation window, parameter-fitting details, or contemporaneous-news exclusion is stated. Mean CARs -.31%, -.63%, -1.11%; corresponding abnormal dollar decreases $46.94m, $126.58m, $256.45m. No stated market-capitalization benchmark is supplied, so dollar conversion alone adds no comparison. FDA severity-split CARs in fn16 remain classification validation, not a new severity intervention. Source: §2.2 pp1798–1799."
+    "O2652": "Broad-gate adjudication, not an explicit causal identification claim: §2.2 calls recalls significant adverse events after reporting market-model CARs and abnormal dollar decreases. Retain a linear expected-return imputation/OLS setting on that event-attribution reading; a narrower descriptive-return reading could reject it. The market-model no-event counterfactual is an interpretation, not a randomized untreated comparison. CRSP value-weighted market index; no estimation window, parameter-fitting details, or contemporaneous-news exclusion is stated. Mean CARs -.31%, -.63%, -1.11%; corresponding abnormal dollar decreases $46.94m, $126.58m, $256.45m. No stated market-capitalization benchmark is supplied, so dollar conversion alone adds no comparison. FDA severity-split CARs in fn16 remain classification validation, not a new severity intervention. Source: §2.2 pp1798–1799.",
+    "A2653": "JFUQHXRF",
+    "B2653": "h1",
+    "I2653": "1",
+    "J2653": "DiD_conventional",
+    "K2653": "0",
+    "L2653": "1",
+    "M2653": "n/a",
+    "N2653": "Pooled continuous employment exposure × COVID effect on utilization, no size interaction.",
+    "O2653": "Distinct pooled estimand: 3.1 (SE2.3), not statistically significant. Loan/time FE. Q1 prose versus Q1/Q2 table-note conflict retained. Treatment standardized, not outcome. Source: Table13 col1 p927; p925."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70781,7 +70790,11 @@
     "H6591": "0",
     "I6591": "unknown",
     "J6591": "none",
-    "K6591": "Abnormal dollar change in market capitalization over event days (−10,+10), millions of dollars."
+    "K6591": "Abnormal dollar change in market capitalization over event days (−10,+10), millions of dollars.",
+    "A6592": "JFUQHXRF",
+    "B6592": "h1",
+    "C6592": "hy1",
+    "K6592": "Utilized/committed credit-line amount, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -401292,3 +401292,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T12:40:34.369622+00:00 — Review JFUQHXRF h1: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6592",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6592",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6592",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6592",
+    "before": null,
+    "after": "Utilized/committed credit-line amount, percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2653",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2653",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2653",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2653",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2653",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2653",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2653",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2653",
+    "before": null,
+    "after": "Pooled continuous employment exposure × COVID effect on utilization, no size interaction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2653",
+    "before": null,
+    "after": "Distinct pooled estimand: 3.1 (SE2.3), not statistically significant. Loan/time FE. Q1 prose versus Q1/Q2 table-note conflict retained. Treatment standardized, not outcome. Source: Table13 col1 p927; p925."
+  }
+]
+```
