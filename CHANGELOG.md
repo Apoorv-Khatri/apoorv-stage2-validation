@@ -384189,3 +384189,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:24:19.638555+00:00 — Review IYMGE8KX h11: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4442",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4443",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4442",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4443",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4442",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4443",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4442",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4443",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4442",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4443",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4442",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4443",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4442",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4442",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4442",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4442",
+    "before": null,
+    "after": "Table III A cols1–2, pp554–555; §II.A pp553,557–558: Long-term investment style versus short-term logit coefficient 1.679, column 1; benchmark: column-specific observed outcome rate 5.36%, potential-CDS-user fund-quarter sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4443",
+    "before": null,
+    "after": "Table III A cols1–2, pp554–555; §II.A pp553,557–558: Long-term investment style versus short-term logit coefficient 1.362, column 2; benchmark: column-specific observed outcome rate 4.63%, potential-CDS-user fund-quarter sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4442",
+    "before": null,
+    "after": "Deliberate coefficient–dependent-variable-rate pairing qualifies. Reported coefficient is log odds, not a probability effect; unconditional observed rate is not its matched untreated baseline. A treatment-SD odds change alone is not division by this rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4443",
+    "before": null,
+    "after": "Deliberate coefficient–dependent-variable-rate pairing qualifies. Reported coefficient is log odds, not a probability effect; unconditional observed rate is not its matched untreated baseline. A treatment-SD odds change alone is not division by this rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6417",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6418",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6417",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6418",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6417",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6418",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6417",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6418",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6417",
+    "before": null,
+    "after": "Any CDS selling during current quarter, binary 0/1; not ever-use over the full period."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6418",
+    "before": null,
+    "after": "Any CDS buying during current quarter, binary 0/1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2536",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2536",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2536",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2536",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2536",
+    "before": null,
+    "after": "Long-term investment style versus short-term → fund-quarter any CDS sell/buy (single-name plus index); separate binary logit regressions, quarter and investment-style dummies; lagged fund controls, fund-clustered SE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2536",
+    "before": null,
+    "after": "Long-term dummy; short duration is omitted, intermediate duration is separately controlled. Not a continuous duration dose. Names or >10-year holdings classify long duration. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table III A cols1–2, pp554–555; §II.A pp553,557–558."
+  }
+]
+```
