@@ -391479,3 +391479,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:32:48.741284+00:00 — Review IYMGE8KX h43: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4488",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4489",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4488",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4489",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4488",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4489",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4488",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4489",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4488",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4489",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4488",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4489",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4488",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4489",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4488",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4489",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4488",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4489",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4488",
+    "before": null,
+    "after": "§III.B p569/PDF33: Mean portfolio yield +14bp with CDS; benchmark: mean yield of same heavy-user funds’ interpolated no-CDS portfolios, numeric level not reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4489",
+    "before": null,
+    "after": "§III.B p569/PDF33: Median portfolio yield +13bp with CDS; benchmark: median no-CDS counterfactual portfolio yield; numeric level not reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4488",
+    "before": null,
+    "after": "Reject additional magnitude comparison: p569 reports the mean/median with-minus-without-CDS effect itself (+14/+13bp). It does not separately compare that effect with a stated baseline mean/median, nor report a ratio or baseline value. The unnamed no-CDS level defines the contrast rather than a second magnitude benchmark. Preserve h43 as the explicit portfolio recomputation. This is an interpretive eligibility disagreement; a policy counting all verbal counterfactual level contrasts would retain it."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4489",
+    "before": null,
+    "after": "Reject additional magnitude comparison: p569 reports the mean/median with-minus-without-CDS effect itself (+14/+13bp). It does not separately compare that effect with a stated baseline mean/median, nor report a ratio or baseline value. The unnamed no-CDS level defines the contrast rather than a second magnitude benchmark. Preserve h43 as the explicit portfolio recomputation. This is an interpretive eligibility disagreement; a policy counting all verbal counterfactual level contrasts would retain it."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6493",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6493",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6493",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6493",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6493",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6493",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6493",
+    "before": null,
+    "after": "Fund portfolio yield in basis points under observed versus interpolated no-CDS portfolio; mean and median reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2568",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2568",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2568",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2568",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2568",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2568",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2568",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2568",
+    "before": null,
+    "after": "Include observed CDS positions versus remove them holding the remaining portfolio fixed: interpolated portfolio yield counterfactual for heavy CDS users. Mean +14bp and median +13bp with CDS."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2568",
+    "before": null,
+    "after": "Accounting/portfolio-composition counterfactual, not OLS, matching or a DiD. Author explicitly attributes yield difference to with/without CDS and interpolates from portfolio/CDS spreads. Does not identify equilibrium replacement trades or costs. Heavy-user threshold and weighting are not supplied in this paragraph. Source: §III.B p569/PDF33."
+  }
+]
+```
