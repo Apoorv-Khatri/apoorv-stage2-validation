@@ -405348,3 +405348,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:04:15.210665+00:00 — Review KJGA8A2C s1: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K296",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K297",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R296",
+    "before": null,
+    "after": "Reject: ratio of price-impact coefficients (IS/log-size slopes), not focal IS effect compared with an IS mean, SD or level. other_level is not a catch-all for another estimated effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R297",
+    "before": null,
+    "after": "Reject: break-even trade size is a treatment-size threshold, not a level of the outcome IS."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1255",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1255",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1255",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1255",
+    "before": null,
+    "after": "Implementation shortfall in basis points, Eq2: signed execution-price deviation from initiation midpoint; no log transformation. Not separate dependent variables called spread and price impact: these are coefficient interpretations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J500",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M500",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N500",
+    "before": null,
+    "after": "Fee regime after April 1, 2012 versus before; implementation shortfall (IS), bp, including level and log-size-dependent policy effects. Table4 cols1–5, Eq3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O500",
+    "before": null,
+    "after": "Linear OLS with stock dummies (one categorical dimension), not an untreated-group DiD. Stock FE are listed but no separate author argument establishes their identifying role; proposed survey method OLS, with FE as an adjudication alternative. No no-FE specification is reported; do not manufacture an OLS/FE split. Regulatory before/after variation supplies the causal argument, subject to concurrent shocks. Fee is a binary policy exposure, not an IV for HFT activity. Policy effect is Fee coefficient plus Fee×ln(TSize) times log size; Fee alone is the effect at the size normalization minimum, not an unconditional average. Baseline +3.002 and −.981; size is divided by $100,000, or the larger subsample threshold in cols4–5. Routine controls/windows/size samples remain together. Source: §3.1 pp1047–1050; Table4 PDF16."
+  }
+]
+```
