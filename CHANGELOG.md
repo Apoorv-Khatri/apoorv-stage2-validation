@@ -412122,3 +412122,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:14:40.489046+00:00 — Review KJGA8A2C h15: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6659",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6659",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6659",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6659",
+    "before": null,
+    "after": "Implementation shortfall in basis points, Eq2: signed execution-price deviation from initiation midpoint; no log transformation. Not separate dependent variables called spread and price impact: these are coefficient interpretations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2705",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2705",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2705",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2705",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2705",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2705",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2705",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2705",
+    "before": null,
+    "after": "Institutional execution duration in hours affects IS in Table4 cols2–5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2705",
+    "before": null,
+    "after": "Authors interpret faster trades as having insufficient time to hide order flow; slopes −.942,−1.080,−1.135,−1.086. Observational; post-policy mediator. Stock dummy adjustment, no independently argued identifying FE. Source: §3.1 pp1049–1050; Table4."
+  }
+]
+```

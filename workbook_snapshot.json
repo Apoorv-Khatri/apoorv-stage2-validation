@@ -26184,7 +26184,16 @@
     "L2704": "0",
     "M2704": "n/a",
     "N2704": "Institutional trade aggressiveness (percentage marketable volume) affects IS in Table4 cols2–5.",
-    "O2704": "Causally interpreted control: higher IS reflects cost of taking liquidity. Slopes .185,.166,.134,.098; no benchmark. Stock dummies retained, identifying-FE rationale not established. Post-policy mediator caveat fn8, not exclusion from broad gate. Source: §3.1 pp1049–1050; Table4."
+    "O2704": "Causally interpreted control: higher IS reflects cost of taking liquidity. Slopes .185,.166,.134,.098; no benchmark. Stock dummies retained, identifying-FE rationale not established. Post-policy mediator caveat fn8, not exclusion from broad gate. Source: §3.1 pp1049–1050; Table4.",
+    "A2705": "KJGA8A2C",
+    "B2705": "h15",
+    "I2705": "1",
+    "J2705": "OLS",
+    "K2705": "0",
+    "L2705": "0",
+    "M2705": "n/a",
+    "N2705": "Institutional execution duration in hours affects IS in Table4 cols2–5.",
+    "O2705": "Authors interpret faster trades as having insufficient time to hide order flow; slopes −.942,−1.080,−1.135,−1.086. Observational; post-policy mediator. Stock dummy adjustment, no independently argued identifying FE. Source: §3.1 pp1049–1050; Table4."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71708,7 +71717,11 @@
     "A6658": "KJGA8A2C",
     "B6658": "h14",
     "C6658": "hy1",
-    "K6658": "Implementation shortfall in basis points, Eq2: signed execution-price deviation from initiation midpoint; no log transformation. Not separate dependent variables called spread and price impact: these are coefficient interpretations."
+    "K6658": "Implementation shortfall in basis points, Eq2: signed execution-price deviation from initiation midpoint; no log transformation. Not separate dependent variables called spread and price impact: these are coefficient interpretations.",
+    "A6659": "KJGA8A2C",
+    "B6659": "h15",
+    "C6659": "hy1",
+    "K6659": "Implementation shortfall in basis points, Eq2: signed execution-price deviation from initiation midpoint; no log transformation. Not separate dependent variables called spread and price impact: these are coefficient interpretations."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
