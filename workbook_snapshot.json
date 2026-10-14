@@ -24798,7 +24798,16 @@
     "L2571": "0",
     "M2571": "unknown",
     "N2571": "Contract-specific underlying-bond trading liquidity → CDS-use responses in the sensitivity analysis using the designated reference obligation, rather than issuer composite bonds; Table IA.III, described p561.",
-    "O2571": "Implemented alternative bond-liquidity construction is established by final-main p561. Distinct alternative CDS–bond basis treatment is h52; do not pool the two known treatments or fabricate their unseen logit/multinomial/Tobit grid. Method, outcome scales and full decomposition remain unresolved. No cash equation or SUR system is established for IA.III; that belongs to IA.II/h45. Source: §II.B p561: Table IA.III."
+    "O2571": "Implemented alternative bond-liquidity construction is established by final-main p561. Distinct alternative CDS–bond basis treatment is h52; do not pool the two known treatments or fabricate their unseen logit/multinomial/Tobit grid. Method, outcome scales and full decomposition remain unresolved. No cash equation or SUR system is established for IA.III; that belongs to IA.II/h45. Source: §II.B p561: Table IA.III.",
+    "A2572": "IYMGE8KX",
+    "B2572": "h47",
+    "I2572": "1",
+    "J2572": "unknown",
+    "K2572": "0",
+    "L2572": "1",
+    "M2572": "unknown",
+    "N2572": "CDS selling intensity → average spread of CDS selling positions, controlling broad fund security category and duration.",
+    "O2572": "Implemented direct relation: more aggressive CDS selling also targets higher spreads. Final-main does not specify full estimator/FE grid; unknown, not an invented Table V copy. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Source: Footnote19 p569: Table IA.IV."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69500,7 +69509,11 @@
     "A6499": "IYMGE8KX",
     "B6499": "h46",
     "C6499": "hy2",
-    "K6499": "CDS buying response in the reference-obligation-specific bond-liquidity sensitivity analysis. Exact propensity/intensity scale and decomposition await final Table IA.III; not a SUR system outcome."
+    "K6499": "CDS buying response in the reference-obligation-specific bond-liquidity sensitivity analysis. Exact propensity/intensity scale and decomposition await final Table IA.III; not a SUR system outcome.",
+    "A6500": "IYMGE8KX",
+    "B6500": "h47",
+    "C6500": "hy1",
+    "K6500": "Average spread on CDS sell positions; exact weighting/units and regression transformation await final table."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

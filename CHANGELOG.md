@@ -392049,3 +392049,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:33:54.067915+00:00 — Review IYMGE8KX h47: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6500",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6500",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6500",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6500",
+    "before": null,
+    "after": "Average spread on CDS sell positions; exact weighting/units and regression transformation await final table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2572",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2572",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2572",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2572",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2572",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2572",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2572",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2572",
+    "before": null,
+    "after": "CDS selling intensity → average spread of CDS selling positions, controlling broad fund security category and duration."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2572",
+    "before": null,
+    "after": "Implemented direct relation: more aggressive CDS selling also targets higher spreads. Final-main does not specify full estimator/FE grid; unknown, not an invented Table V copy. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Source: Footnote19 p569: Table IA.IV."
+  }
+]
+```
