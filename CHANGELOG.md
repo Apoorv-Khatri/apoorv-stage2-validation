@@ -381408,3 +381408,234 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:20:28.083262+00:00 — Review IYMGE8KX s6: source-audited coding and linked comparisons
+
+37 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4422",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4423",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4422",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4423",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4422",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4423",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4423",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4422",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4423",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4422",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4423",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4422",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4423",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4422",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4423",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4423",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4422",
+    "before": null,
+    "after": "§IV.A p573; Table VI A col3: 2008–2009 prose: top financial entity CDS selling likelihood 5.1 times others; benchmark: likelihood among entities outside top-finance set."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4423",
+    "before": null,
+    "after": "§IV.A p573; Table VI A col4: 2008–2009 prose: top financial entity CDS buying likelihood 2.8 times others; benchmark: likelihood among entities outside top-finance set."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4422",
+    "before": null,
+    "after": "Reject as attached: p573 likelihood multiple is a probability comparison, but Table VI A and its Table IV B specification are Tobit gross-intensity outcomes. The implemented probability estimator/outcome is not established. The numerical resemblance to exponentiated coefficients does not validate a likelihood interpretation. Preserve the printed 5.1/2.8 statements in evidence; reconsider only if final supplement documents an actual probability result. No invented outcome row."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4423",
+    "before": null,
+    "after": "Reject as attached: p573 likelihood multiple is a probability comparison, but Table VI A and its Table IV B specification are Tobit gross-intensity outcomes. The implemented probability estimator/outcome is not established. The numerical resemblance to exponentiated coefficients does not validate a likelihood interpretation. Preserve the printed 5.1/2.8 statements in evidence; reconsider only if final supplement documents an actual probability result. No invented outcome row."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1219",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1220",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1219",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1219",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1220",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1219",
+    "before": null,
+    "after": "Gross CDS sell intensity on issuer divided by fund TNA (%); Tobit outcome, NOT a likelihood. Zero mass established by full potential-position construction/Table II B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1220",
+    "before": null,
+    "after": "Gross CDS buy intensity on issuer divided by fund TNA (%); Tobit outcome, NOT a likelihood. Zero mass established by full potential-position construction/Table II B."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I475",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J475",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K475",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L475",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M475",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N475",
+    "before": null,
+    "after": "Top-quintile-by-2006-assets financial reference entity indicator versus all other entities → gross CDS sell/buy intensity, separate precrisis/crisis/postcrisis Tobit regressions with Table IV B controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O475",
+    "before": null,
+    "after": "No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Not a crisis DiD: separate observational period regressions. Printed crisis coefficients 1.630/1.035 concern intensity. Prose calls exponentiated values 5.1/2.8 likelihood multiples; this conflicts with the Tobit estimator/outcomes and is not silently repaired into a logit. Source: Table VI A p574/PDF38; §IV.A pp573,577; full coefficients referred to IA.V."
+  }
+]
+```
