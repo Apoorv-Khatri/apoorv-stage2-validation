@@ -381327,3 +381327,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:20:00.049194+00:00 — Review IYMGE8KX s5: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K284",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K285",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R284",
+    "before": null,
+    "after": "Reject wrong-estimand/descriptive composition contrast: 93bp compares CDS-position spread with remaining portfolio spread; it is not Table V CDS-intensity effect on fund portfolio yield. No directional causal intervention estimated by this simple composition statistic."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R285",
+    "before": null,
+    "after": "Reject under this FE setting: +14bp mean/+13bp median are with/without-CDS portfolio recomputation, retained separately as h43 Other. Independent audit rejects h43 comparison candidates because these are effect summaries without an additional stated level benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1218",
+    "before": null,
+    "after": "Portfolio yield minus five-year Treasury rate, percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I474",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J474",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K474",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L474",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M474",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N474",
+    "before": null,
+    "after": "single-name CDS selling intensity (% TNA) → fund portfolio spread over five-year Treasury (% points), fund-quarter linear regressions; fund and time FE; within-fund response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O474",
+    "before": null,
+    "after": "Fund FE are explicitly interpreted as changes relative to the same fund’s own average on p569, absorbing persistent fund heterogeneity. Time plus fund are two effective sets; stable style is nested, not HDFE. No DiD or IV. Printed focal coefficients [0.1074]. Neither 93bp composition difference nor 14/13bp recomputation belongs to these regression coefficients. Source: Table V p570, cols3; §III.B p569."
+  }
+]
+```
