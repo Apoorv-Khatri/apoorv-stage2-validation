@@ -407076,3 +407076,1938 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:10:22.076292+00:00 — Review KJGA8A2C h5: source-audited coding and linked comparisons
+
+321 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4510",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4511",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4512",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4513",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4514",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4515",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4516",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4517",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4518",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4519",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4520",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4521",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4522",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4523",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4524",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4525",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4526",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4527",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4528",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4529",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4530",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4531",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4532",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4533",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4534",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4535",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4536",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4537",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4510",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4511",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4512",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4513",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4514",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4515",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4516",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4517",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4518",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4519",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4520",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4521",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4522",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4523",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4524",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4525",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4526",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4527",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4528",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4529",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4530",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4531",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4532",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4533",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4534",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4535",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4536",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4537",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4510",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4511",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4512",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4513",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4514",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4515",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4516",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4517",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4518",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4519",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4520",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4521",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4522",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4523",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4524",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4525",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4526",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4527",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4528",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4529",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4530",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4531",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4532",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4533",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4534",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4535",
+    "before": null,
+    "after": "hc26"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4536",
+    "before": null,
+    "after": "hc27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4537",
+    "before": null,
+    "after": "hc28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4510",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4511",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4512",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4513",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4514",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4516",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4518",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4519",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4520",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4521",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4522",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4523",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4524",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4525",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4526",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4527",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4528",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4529",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4531",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4532",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4533",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4534",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4535",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4510",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4511",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4512",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4513",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4514",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4515",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4516",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4517",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4518",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4519",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4520",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4521",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4522",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4523",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4524",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4525",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4526",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4527",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4528",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4529",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4530",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4531",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4532",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4533",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4534",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4535",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4536",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4537",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4510",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4511",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4512",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4513",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4514",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4515",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4516",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4517",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4518",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4519",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4520",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4521",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4522",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4523",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4524",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4525",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4526",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4527",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4528",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4529",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4530",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4531",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4532",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4533",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4534",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4535",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4536",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4537",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4510",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4511",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4512",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4513",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4514",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4516",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4517",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4518",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4519",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4520",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4521",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4522",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4523",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4524",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4525",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4526",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4528",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4529",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4530",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4531",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4532",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4533",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4534",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4535",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4536",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4537",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4510",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4511",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4512",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4513",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4514",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4516",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4518",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4519",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4520",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4521",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4522",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4523",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4524",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4525",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4526",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4527",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4528",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4529",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4531",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4532",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4533",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4534",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4535",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4510",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4511",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4512",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4513",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4514",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4515",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4516",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4517",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4518",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4519",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4520",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4521",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4522",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4523",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4524",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4525",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4526",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4527",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4528",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4529",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4530",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4531",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4532",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4533",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4534",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4535",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4536",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4537",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4510",
+    "before": null,
+    "after": "Table7 col1 p1060: Inventory slope D1: −.096, Q-SD per inventory-level-SD, Table7 col1; col4 baseline is |L|=0. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4511",
+    "before": null,
+    "after": "Table7 col1 p1060: Inventory slope D2: −.102, Q-SD per inventory-level-SD, Table7 col1; col4 baseline is |L|=0. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4512",
+    "before": null,
+    "after": "Table7 col1 p1060: Inventory slope D3: −.112, Q-SD per inventory-level-SD, Table7 col1; col4 baseline is |L|=0. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4513",
+    "before": null,
+    "after": "Table7 col1 p1060: Inventory slope D4: −.124, Q-SD per inventory-level-SD, Table7 col1; col4 baseline is |L|=0. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4514",
+    "before": null,
+    "after": "Table7 col1 contrast panel p1060: Printed D2−D1 inventory-slope contrast −.006; conditional inventory-bin slope contrast. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4515",
+    "before": null,
+    "after": "Table7 col1 contrast panel p1060: Printed D3−D1 inventory-slope contrast −.015; conditional inventory-bin slope contrast. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4516",
+    "before": null,
+    "after": "Table7 col1 contrast panel p1060: Printed D4−D1 inventory-slope contrast −.027; conditional inventory-bin slope contrast. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4517",
+    "before": null,
+    "after": "Table7 col2 p1060: Inventory slope D1: −.094, Q-SD per inventory-level-SD, Table7 col2; col4 baseline is |L|=0. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4518",
+    "before": null,
+    "after": "Table7 col2 p1060: Inventory slope D2: −.100, Q-SD per inventory-level-SD, Table7 col2; col4 baseline is |L|=0. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4519",
+    "before": null,
+    "after": "Table7 col2 p1060: Inventory slope D3: −.110, Q-SD per inventory-level-SD, Table7 col2; col4 baseline is |L|=0. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4520",
+    "before": null,
+    "after": "Table7 col2 p1060: Inventory slope D4: −.123, Q-SD per inventory-level-SD, Table7 col2; col4 baseline is |L|=0. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4521",
+    "before": null,
+    "after": "Table7 col2 contrast panel p1060: Printed D2−D1 inventory-slope contrast −.006; conditional inventory-bin slope contrast. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4522",
+    "before": null,
+    "after": "Table7 col2 contrast panel p1060: Printed D3−D1 inventory-slope contrast −.016; conditional inventory-bin slope contrast. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4523",
+    "before": null,
+    "after": "Table7 col2 contrast panel p1060: Printed D4−D1 inventory-slope contrast −.028; conditional inventory-bin slope contrast. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4524",
+    "before": null,
+    "after": "Table7 col3 p1060: Inventory slope D1: −.094, Q-SD per inventory-level-SD, Table7 col3; col4 baseline is |L|=0. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4525",
+    "before": null,
+    "after": "Table7 col3 p1060: Inventory slope D2: −.100, Q-SD per inventory-level-SD, Table7 col3; col4 baseline is |L|=0. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4526",
+    "before": null,
+    "after": "Table7 col3 p1060: Inventory slope D3: −.109, Q-SD per inventory-level-SD, Table7 col3; col4 baseline is |L|=0. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4527",
+    "before": null,
+    "after": "Table7 col3 p1060: Inventory slope D4: −.122, Q-SD per inventory-level-SD, Table7 col3; col4 baseline is |L|=0. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4528",
+    "before": null,
+    "after": "Table7 col3 contrast panel p1060: Printed D2−D1 inventory-slope contrast −.006; conditional inventory-bin slope contrast. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4529",
+    "before": null,
+    "after": "Table7 col3 contrast panel p1060: Printed D3−D1 inventory-slope contrast −.016; conditional inventory-bin slope contrast. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4530",
+    "before": null,
+    "after": "Table7 col3 contrast panel p1060: Printed D4−D1 inventory-slope contrast −.029; conditional inventory-bin slope contrast. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4531",
+    "before": null,
+    "after": "Table7 col4 p1060: Inventory slope D1: −.078, Q-SD per inventory-level-SD, Table7 col4; col4 baseline is |L|=0. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4532",
+    "before": null,
+    "after": "Table7 col4 p1060: Inventory slope D2: −.082, Q-SD per inventory-level-SD, Table7 col4; col4 baseline is |L|=0. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4533",
+    "before": null,
+    "after": "Table7 col4 p1060: Inventory slope D3: −.085, Q-SD per inventory-level-SD, Table7 col4; col4 baseline is |L|=0. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4534",
+    "before": null,
+    "after": "Table7 col4 p1060: Inventory slope D4: −.093, Q-SD per inventory-level-SD, Table7 col4; col4 baseline is |L|=0. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4535",
+    "before": null,
+    "after": "Table7 col4 contrast panel p1060: Printed D2−D1 inventory-slope contrast −.007; col4 includes presence interactions. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4536",
+    "before": null,
+    "after": "Table7 col4 contrast panel p1060: Printed D3−D1 inventory-slope contrast −.023; col4 includes presence interactions. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4537",
+    "before": null,
+    "after": "Table7 col4 contrast panel p1060: Printed D4−D1 inventory-slope contrast −.052; col4 includes presence interactions. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4510",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4511",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4512",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4513",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4514",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4515",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution. Table7 col1 printed D3−D1 is −.015; subtraction of rounded −.112 and −.096 gives −.016. Visually verified; unrounded inputs may explain one-unit last-decimal differences. Retain the printed contrast; no recalculated replacement."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4516",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution. Table7 col1 printed D4−D1 is −.027; subtraction of rounded −.124 and −.096 gives −.028. Visually verified; unrounded inputs may explain one-unit last-decimal differences. Retain the printed contrast; no recalculated replacement."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4517",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4518",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4519",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4520",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4521",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4522",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4523",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution. Table7 col2 printed D4−D1 is −.028; subtraction of rounded −.123 and −.094 gives −.029. Visually verified; unrounded inputs may explain one-unit last-decimal differences. Retain the printed contrast; no recalculated replacement."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4524",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4525",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4526",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4527",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4528",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4529",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution. Table7 col3 printed D3−D1 is −.016; subtraction of rounded −.109 and −.094 gives −.015. Visually verified; unrounded inputs may explain one-unit last-decimal differences. Retain the printed contrast; no recalculated replacement."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4530",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution. Table7 col3 printed D4−D1 is −.029; subtraction of rounded −.122 and −.094 gives −.028. Visually verified; unrounded inputs may explain one-unit last-decimal differences. Retain the printed contrast; no recalculated replacement."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4531",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4532",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4533",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4534",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4535",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4536",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4537",
+    "before": null,
+    "after": "The focal inventory slope or bin-slope contrast is conditional on an inventory bin and, in col4, institutional presence; trailing HFT-stock Q history is not shown to carry those target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution. Table7 col4 printed D4−D1 includes presence interactions and is −.052; subtraction of displayed totals (−.093−.066)−(−.078−.028) gives −.053. Visually verified; unrounded inputs may explain one-unit last-decimal differences. Retain the printed contrast; no recalculated replacement."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6638",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6638",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6638",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6638",
+    "before": null,
+    "after": "Net HFT buy-minus-sell limit-order share volume in a 15-minute stock-period, demeaned by trailing mean and divided by its own trailing SD (Q)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2695",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2695",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2695",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2695",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2695",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2695",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2695",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2695",
+    "before": null,
+    "after": "Continuous lagged inventory interacted with inventory bins affects standardized net order submission Q, Table7 cols1–4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2695",
+    "before": null,
+    "after": "Authors explicitly state inventory affects quoting; piecewise linear regression is OLS, not Other. Baseline slopes −.096,−.102,−.112,−.124 and further columns/differences recorded in SD comparisons. No FE. Source: §4.1 pp1059–1060; Table7."
+  }
+]
+```
