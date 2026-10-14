@@ -394359,3 +394359,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:10:09.671693+00:00 — Review IYY27QU8 h12: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6519",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6519",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6519",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6519",
+    "before": null,
+    "after": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2589",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2589",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2589",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2589",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2589",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2589",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2589",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2589",
+    "before": null,
+    "after": "Altman Z → recall incidence; linear probability model Table7 col3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2589",
+    "before": null,
+    "after": "Linear probability regression. §3.2 p1805 expressly includes industry and time dummies to partly address weak industry conditions/latent confounding. Two separate effective dimensions (2-digit SIC, year), no firm FE, no HDFE. Code FE under that contextual identifying rationale, though table calls estimation OLS. A narrow dummy-controls reading would yield OLS; contested priority, not an extraction error proved by dummy count. No no-FE linear column is reported to split. Table7 physically places the printed Altman Z coefficient -.0049*** beneath col2 but its p=.000 beneath col3; p1815 explicitly maps Altman Z to col3. Preserve the typesetting anomaly rather than moving the source number or assigning both Market leverage and Z to one treatment model. Source: Table7 p1816; pp1805,1815."
+  }
+]
+```
