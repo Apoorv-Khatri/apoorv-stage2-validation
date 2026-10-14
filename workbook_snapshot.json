@@ -24708,7 +24708,16 @@
     "L2561": "1",
     "M2561": "n/a",
     "N2561": "all CDS selling intensity (single-name plus indices) (% TNA) → fund portfolio spread over five-year Treasury (% points), fund-quarter linear regressions; time/style dummy controls and fund size, with/without duration/security-class controls; cross-fund response.",
-    "O2561": "Quarter/style controls are present, not a no-dummy regression. The paper distinguishes the identifying within-fund effect from this cross-fund yield-targeting relation; code OLS/regression adjustment, not automatically identifying FE. No DiD or IV. Printed focal coefficients [0.1663, 0.1553]. Neither 93bp composition difference nor 14/13bp recomputation belongs to these regression coefficients. Source: Table V p570, cols4/5; §III.B p569."
+    "O2561": "Quarter/style controls are present, not a no-dummy regression. The paper distinguishes the identifying within-fund effect from this cross-fund yield-targeting relation; code OLS/regression adjustment, not automatically identifying FE. No DiD or IV. Printed focal coefficients [0.1663, 0.1553]. Neither 93bp composition difference nor 14/13bp recomputation belongs to these regression coefficients. Source: Table V p570, cols4/5; §III.B p569.",
+    "A2562": "IYMGE8KX",
+    "B2562": "h37",
+    "I2562": "1",
+    "J2562": "FE",
+    "K2562": "1",
+    "L2562": "1",
+    "M2562": "n/a",
+    "N2562": "CDS-user indicator over sample period → full-period fund-level two-/ten-factor monthly alpha; linear cross-section, fund size controls, investment-style FE.",
+    "O2562": "Identifying style FE: p582 attributes the disappearing performance premium to accounting for investment-style category, a substantive between-style confound. One FE set. Factor-model loadings are not FE. Main=1 because abstract and conclusion explicitly discuss performance consequences. Binary user is not CDS volume. Alpha is a residual-return measure, not outcome-SD units. Source: Table VI B p575 cols[2, 6]; §IV.C p582."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69329,7 +69338,21 @@
     "A6481": "IYMGE8KX",
     "B6481": "h36",
     "C6481": "hy1",
-    "K6481": "Portfolio yield minus five-year Treasury rate, percentage points."
+    "K6481": "Portfolio yield minus five-year Treasury rate, percentage points.",
+    "A6482": "IYMGE8KX",
+    "B6482": "h37",
+    "C6482": "hy1",
+    "H6482": "0",
+    "I6482": "unknown",
+    "J6482": "none",
+    "K6482": "Two-factor alpha from full-period fund performance, in monthly percentage points; factor-adjusted return, not log/SD normalization.",
+    "A6483": "IYMGE8KX",
+    "B6483": "h37",
+    "C6483": "hy2",
+    "H6483": "0",
+    "I6483": "unknown",
+    "J6483": "none",
+    "K6483": "Ten-factor alpha from full-period fund performance, in monthly percentage points; factor-adjusted return, not log/SD normalization."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
