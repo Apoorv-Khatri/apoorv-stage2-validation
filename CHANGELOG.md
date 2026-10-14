@@ -403785,3 +403785,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T14:08:10.432314+00:00 — Review JGNACSDE s4: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I495",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J495",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K495",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L495",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M495",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O495",
+    "before": null,
+    "after": "Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. All two dummy sets. Slopes .115,.147,.799,.114,.119,.114,.057. Printed p122 prose says price-based range .057–.119, omitting .147 Cubic18; preserve conflict, do not repair table. No qualifying outcome benchmark in the cross-model coefficient comparisons. Source: Appendix TableA2 p121 (PDF19)."
+  }
+]
+```
