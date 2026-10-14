@@ -405693,3 +405693,342 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:06:46.270079+00:00 — Review KJGA8A2C s4: source-audited coding and linked comparisons
+
+55 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4499",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4500",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4501",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4502",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4499",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4500",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4501",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4502",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4499",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4500",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4501",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4502",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4499",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4501",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4499",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4500",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4501",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4502",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4499",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4500",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4501",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4502",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4499",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4500",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4501",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4502",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4499",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4501",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4499",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4500",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4501",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4502",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4499",
+    "before": null,
+    "after": "p1060 Table7 col4; p1059 construction: Table7 col4 D1×I×|L| coefficient −.028, Q-SD units per inventory unit conditional on binary presence. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4500",
+    "before": null,
+    "after": "p1060 Table7 col4; p1059 construction: Table7 col4 D2×I×|L| coefficient −.031, Q-SD units per inventory unit conditional on binary presence. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4501",
+    "before": null,
+    "after": "p1060 Table7 col4; p1059 construction: Table7 col4 D3×I×|L| coefficient −.044, Q-SD units per inventory unit conditional on binary presence. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4502",
+    "before": null,
+    "after": "p1060 Table7 col4; p1059 construction: Table7 col4 D4×I×|L| coefficient −.066, Q-SD units per inventory unit conditional on binary presence. Benchmark: own Q trailing net-order-volume SD for the HFT-stock; demeaning and division p1059."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4499",
+    "before": null,
+    "after": "The focal binary-presence interaction changes the conditional inventory slope within D bins; the benchmark pools trailing net-order outcomes rather than establishing the same presence-by-inventory target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4500",
+    "before": null,
+    "after": "The focal binary-presence interaction changes the conditional inventory slope within D bins; the benchmark pools trailing net-order outcomes rather than establishing the same presence-by-inventory target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4501",
+    "before": null,
+    "after": "The focal binary-presence interaction changes the conditional inventory slope within D bins; the benchmark pools trailing net-order outcomes rather than establishing the same presence-by-inventory target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4502",
+    "before": null,
+    "after": "The focal binary-presence interaction changes the conditional inventory slope within D bins; the benchmark pools trailing net-order outcomes rather than establishing the same presence-by-inventory target weights. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1258",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1258",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1258",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1258",
+    "before": null,
+    "after": "Net HFT buy-minus-sell limit-order share volume in a 15-minute stock-period, demeaned by trailing mean and divided by its own trailing SD (Q)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I503",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J503",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K503",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L503",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M503",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N503",
+    "before": null,
+    "after": "Institutional trade underway |L|=1 versus none: incremental inventory-conditioned net HFT limit-order submission response, Table7 col4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O503",
+    "before": null,
+    "after": "No FE reported. Outcome Q is standardized by its own trailing SD. Binary interaction slopes −.028,−.031,−.044,−.066. Signed L in cols2–4 is h4; continuous inventory slopes are h5. Main because same-direction orders and inventory response are central abstract mechanisms. Source: §4.1 pp1059–1060; Table7 col4."
+  }
+]
+```
