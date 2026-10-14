@@ -413025,3 +413025,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:17:14.649114+00:00 — Review KJGA8A2C h20: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6668",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6669",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6668",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6669",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6668",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6669",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6668",
+    "before": null,
+    "after": "HFT profit per share in stock/15-minute period: dollars sold minus dollars bought plus signed marked-to-market end-period position, divided by max(shares bought, shares sold); source reports basis points. Excludes liquidity fees/rebates. The per-share ratio defines the outcome; no log/SD transformation reported. Further conversion from dollars/share to basis points is not specified. Do not infer zero mass from possible inactivity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6669",
+    "before": null,
+    "after": "HFT profit per share in stock/15-minute period: dollars sold minus dollars bought plus signed marked-to-market end-period position, divided by max(shares bought, shares sold); source reports basis points. Includes liquidity rebate $0.0031/share and taker fee $0.0035/share. The per-share ratio defines the outcome; no log/SD transformation reported. Further conversion from dollars/share to basis points is not specified. Do not infer zero mass from possible inactivity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2710",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2710",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2710",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2710",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2710",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2710",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2710",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2710",
+    "before": null,
+    "after": "Linear execution Progress (index of X-th 15-minute period) and HFT profit per share, without/with fees; TableA1 cols1/3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2710",
+    "before": null,
+    "after": "OLS explicitly stated; stock dummies and contemporaneous/lagged stock trade volume included. No author argument gives stock FE a separate identifying role, so survey OLS, with actual dummies documented. N=1,446,256, stock-date clustered SE. Supporting profitability mechanism, not main-article headline. Observational learning/adverse-selection interpretation passes broad gate. Author-linked Internet Appendix, July 18, 2018, PDF2–4 / printed pp1–3, Table A1. Title/authors and main fn10 match; publisher-byte identity unverified. Progress coefficients .104 and .149 per additional 15-minute period; columns also contain binary 1T. Break-even 8.9 or 6.7 intervals is a treatment-time threshold, not an outcome-level benchmark. Index assignment outside trades is not explicitly stated. Source: Author-linked Internet Appendix, July 18, 2018, PDF2–4 / printed pp1–3, Table A1. Title/authors and main fn10 match; publisher-byte identity unverified.."
+  }
+]
+```
