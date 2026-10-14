@@ -24789,7 +24789,16 @@
     "L2570": "1",
     "M2570": "unknown",
     "N2570": "Fund liquidity covariates → jointly modeled CDS selling, CDS buying and cash outcomes in a seemingly unrelated regressions system.",
-    "O2570": "SUR specification is explicit. Whether all equations are linear observed outcomes or censored latent propensities is not established by accessible source. Residual correlations are not directional effects of cash on CDS; keep them outside comparisons. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Focal covariate family is not enumerated in the accessible robustness statement; it may mix continuous flow measures and binary duration contrasts. Binary=unknown at this unresolved family level, not a claim all treatments are continuous. Split only once implemented treatments/columns are established. Source: §II.A p559: Table IA.II."
+    "O2570": "SUR specification is explicit. Whether all equations are linear observed outcomes or censored latent propensities is not established by accessible source. Residual correlations are not directional effects of cash on CDS; keep them outside comparisons. Final supplement was not recovered; bounded scope, not completion of unseen table audit. Focal covariate family is not enumerated in the accessible robustness statement; it may mix continuous flow measures and binary duration contrasts. Binary=unknown at this unresolved family level, not a claim all treatments are continuous. Split only once implemented treatments/columns are established. Source: §II.A p559: Table IA.II.",
+    "A2571": "IYMGE8KX",
+    "B2571": "h46",
+    "I2571": "1",
+    "J2571": "unknown",
+    "K2571": "0",
+    "L2571": "0",
+    "M2571": "unknown",
+    "N2571": "Contract-specific underlying-bond trading liquidity → CDS-use responses in the sensitivity analysis using the designated reference obligation, rather than issuer composite bonds; Table IA.III, described p561.",
+    "O2571": "Implemented alternative bond-liquidity construction is established by final-main p561. Distinct alternative CDS–bond basis treatment is h52; do not pool the two known treatments or fabricate their unseen logit/multinomial/Tobit grid. Method, outcome scales and full decomposition remain unresolved. No cash equation or SUR system is established for IA.III; that belongs to IA.II/h45. Source: §II.B p561: Table IA.III."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69483,7 +69492,15 @@
     "A6497": "IYMGE8KX",
     "B6497": "h45",
     "C6497": "hy3",
-    "K6497": "Cash holdings system outcome; exact intensity/latent-propensity scale unverified."
+    "K6497": "Cash holdings system outcome; exact intensity/latent-propensity scale unverified.",
+    "A6498": "IYMGE8KX",
+    "B6498": "h46",
+    "C6498": "hy1",
+    "K6498": "CDS selling response in the reference-obligation-specific bond-liquidity sensitivity analysis. Exact propensity/intensity scale and decomposition await final Table IA.III; not a SUR system outcome.",
+    "A6499": "IYMGE8KX",
+    "B6499": "h46",
+    "C6499": "hy2",
+    "K6499": "CDS buying response in the reference-obligation-specific bond-liquidity sensitivity analysis. Exact propensity/intensity scale and decomposition await final Table IA.III; not a SUR system outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

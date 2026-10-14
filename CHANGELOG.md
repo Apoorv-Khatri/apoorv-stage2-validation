@@ -391938,3 +391938,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:33:36.252916+00:00 — Review IYMGE8KX h46: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6498",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6499",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6498",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6499",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6498",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6499",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6498",
+    "before": null,
+    "after": "CDS selling response in the reference-obligation-specific bond-liquidity sensitivity analysis. Exact propensity/intensity scale and decomposition await final Table IA.III; not a SUR system outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6499",
+    "before": null,
+    "after": "CDS buying response in the reference-obligation-specific bond-liquidity sensitivity analysis. Exact propensity/intensity scale and decomposition await final Table IA.III; not a SUR system outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2571",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2571",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2571",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2571",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2571",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2571",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2571",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2571",
+    "before": null,
+    "after": "Contract-specific underlying-bond trading liquidity → CDS-use responses in the sensitivity analysis using the designated reference obligation, rather than issuer composite bonds; Table IA.III, described p561."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2571",
+    "before": null,
+    "after": "Implemented alternative bond-liquidity construction is established by final-main p561. Distinct alternative CDS–bond basis treatment is h52; do not pool the two known treatments or fabricate their unseen logit/multinomial/Tobit grid. Method, outcome scales and full decomposition remain unresolved. No cash equation or SUR system is established for IA.III; that belongs to IA.II/h45. Source: §II.B p561: Table IA.III."
+  }
+]
+```
