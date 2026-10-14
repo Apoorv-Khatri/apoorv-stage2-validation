@@ -409011,3 +409011,498 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:10:48.632015+00:00 — Review KJGA8A2C h6: source-audited coding and linked comparisons
+
+81 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4538",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4539",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4540",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4541",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4538",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4539",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4540",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4541",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4538",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4539",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4540",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4541",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4538",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4539",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4540",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4541",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4538",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4539",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4540",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4541",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4538",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4539",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4540",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4541",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4538",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4539",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4540",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4541",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4538",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4539",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4540",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4541",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4538",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4539",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4540",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4541",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4538",
+    "before": null,
+    "after": "p1061 normalization; Table8 col1 p1062: 1S coefficient/contrast .022 in column 1, own-outcome SD units. Benchmark: past-month SD of HFT buy trade share volume for that stock/15-minute series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4539",
+    "before": null,
+    "after": "p1061 normalization; Table8 col2 p1062: 1S coefficient/contrast .056 in column 2, own-outcome SD units. Benchmark: past-month SD of HFT sell trade share volume for that stock/15-minute series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4540",
+    "before": null,
+    "after": "p1061 normalization; Table8 col3 p1062: 1S coefficient/contrast .017 in column 3, own-outcome SD units. Benchmark: past-month SD of HFT buy limit-order share volume for that stock/15-minute series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4541",
+    "before": null,
+    "after": "p1061 normalization; Table8 col4 p1062: 1S coefficient/contrast .036 in column 4, own-outcome SD units. Benchmark: past-month SD of HFT sell limit-order share volume for that stock/15-minute series."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4538",
+    "before": null,
+    "after": "The focal contrast is institutional sell versus no institutional order, conditional on inventory and controls; trailing stock-HFT outcome history is not explicitly matched to this arm-contrast target. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4539",
+    "before": null,
+    "after": "The focal contrast is institutional sell versus no institutional order, conditional on inventory and controls; trailing stock-HFT outcome history is not explicitly matched to this arm-contrast target. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4540",
+    "before": null,
+    "after": "The focal contrast is institutional sell versus no institutional order, conditional on inventory and controls; trailing stock-HFT outcome history is not explicitly matched to this arm-contrast target. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4541",
+    "before": null,
+    "after": "The focal contrast is institutional sell versus no institutional order, conditional on inventory and controls; trailing stock-HFT outcome history is not explicitly matched to this arm-contrast target. Alignment remains unknown: the source establishes neither equality nor a definitive incompatible target distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6639",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6640",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6641",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6642",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6639",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6640",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6641",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6642",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6639",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6640",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6641",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6642",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6639",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6640",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6641",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6642",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6639",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6640",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6641",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6642",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6639",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6640",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6641",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6642",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6639",
+    "before": null,
+    "after": "Abnormal HFT buy trade share volume for stock/15-minute period, demeaned by past-month mean of that series and divided by its own past-month SD. Raw nonnegative volume; transformed zero is equality to trailing mean, not raw zero. No source evidence establishes a point mass at transformed zero."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6640",
+    "before": null,
+    "after": "Abnormal HFT sell trade share volume for stock/15-minute period, demeaned by past-month mean of that series and divided by its own past-month SD. Raw nonnegative volume; transformed zero is equality to trailing mean, not raw zero. No source evidence establishes a point mass at transformed zero."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6641",
+    "before": null,
+    "after": "Abnormal HFT buy limit-order share volume for stock/15-minute period, demeaned by past-month mean of that series and divided by its own past-month SD. Raw nonnegative volume; transformed zero is equality to trailing mean, not raw zero. No source evidence establishes a point mass at transformed zero."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6642",
+    "before": null,
+    "after": "Abnormal HFT sell limit-order share volume for stock/15-minute period, demeaned by past-month mean of that series and divided by its own past-month SD. Raw nonnegative volume; transformed zero is equality to trailing mean, not raw zero. No source evidence establishes a point mass at transformed zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2696",
+    "before": null,
+    "after": "KJGA8A2C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2696",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2696",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2696",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2696",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2696",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2696",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2696",
+    "before": null,
+    "after": "Institutional sell underway 1S versus no institutional trade: four abnormal HFT trade/order volume outcomes, Table8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2696",
+    "before": null,
+    "after": "Sell-arm slopes .022,.056,.017,.036 conditional on buy indicator, inventory and controls. Includes insignificant .017 buy-order response; no FE. Separate distinct treatment arm from s5. Source: §4.2 pp1061–1062; Table8 1S row."
+  }
+]
+```
