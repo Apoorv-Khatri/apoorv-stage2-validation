@@ -403437,3 +403437,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T12:50:33.727443+00:00 — Review JFUQHXRF h25: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6615",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6615",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6615",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6615",
+    "before": null,
+    "after": "Utilized/committed credit-line amount, percentage points."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E54",
+    "before": null,
+    "after": "DONE — Available-source review: all 25 published pages independently audited; full online-appendix review remains blocked. 29 setting records, 28 retained and Table12 diagnostic exposure-validation setting rejected; 31 outcome records; seven retained Table15 own-outcome aggregate-baseline comparisons and three original comparisons rejected. Pooled/heterogeneous and dynamic conventional DiD, weighted linear fits and separate Table14 OLS/IV preserved. Liquid-assets line-break transcription corrected; no fabricated fourth bank-capacity treatment. Table15 aggregate levels are other_level with nonverbal, undivided comparisons; PPP funds remain a different-outcome denominator. Figure2 broad causal interpretation and source sign/horizon/caption conflicts explicitly qualified. Supplement entries are minimum main-text-supported scopes only; unknown estimators and further appendix omissions remain unresolved. Original model fields and IDs preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2676",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2676",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2676",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2676",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2676",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2676",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2676",
+    "before": null,
+    "after": "Interest-rate spread × COVID → utilization response conditional on size and loan terms."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2676",
+    "before": null,
+    "after": "Prose explicitly says spread control absorbs drawdown differences resulting from pricing and has positive coefficient. Continuous spread, not a binary interest-reporting dummy. Loan FE + bank×time + state×time + industry×time + rating×time; method remains DiD. Conditional price interpretation/endogeneity caution; coefficient not printed in Table11. Source: Table11 col9; pp924–925."
+  }
+]
+```
