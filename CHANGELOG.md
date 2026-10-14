@@ -380730,3 +380730,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:18:40.309523+00:00 — Review IYMGE8KX s2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K277",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K278",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R277",
+    "before": null,
+    "after": "Reject: model stitches Table II descriptive mean to separate treatment-SD effect prose. No deliberate focal effect–mean linkage in Table III B / Table IV B for this coefficient. Percentage-point effect and treatment SD are not benchmarks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R278",
+    "before": null,
+    "after": "Reject: model stitches Table II descriptive mean to separate treatment-SD effect prose. No deliberate focal effect–mean linkage in Table III B / Table IV B for this coefficient. Percentage-point effect and treatment SD are not benchmarks."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1207",
+    "before": null,
+    "after": "Total gross CDS sell notional divided by fund TNA, percentage points; observed zero for funds without positions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1208",
+    "before": null,
+    "after": "Total gross CDS buy notional divided by fund TNA, percentage points; observed zero for funds without positions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I471",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J471",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K471",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L471",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M471",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N471",
+    "before": null,
+    "after": "Flow volatility → gross CDS sell/buy intensity (% fund TNA), fund-quarter Tobit; Table III B cols1–4. Zero censoring, lagged controls, quarterly/style dummies; cash added in cols2/4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O471",
+    "before": null,
+    "after": "Standard deviation of monthly return-adjusted fund flows over prior 24 months. Liquidity-need mechanism, not outcome SD. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Reported coefficients are Tobit parameters, not documented unconditional marginal effects. Printed coefficients for cols1/2/3/4: [43.1, 46.17, 44.44, 46.62]. Source: Table III B pp555–556; §II.A pp558–559."
+  }
+]
+```
