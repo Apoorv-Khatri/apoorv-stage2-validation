@@ -404115,3 +404115,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T14:11:02.927435+00:00 — Review JGNACSDE h4: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6617",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6617",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6617",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6617",
+    "before": null,
+    "after": "Fed purchase quantity of bond j in auction t, measured in billions of dollars of par value at the auction-CUSIP level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2678",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2678",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2678",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2678",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2678",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2678",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2678",
+    "before": null,
+    "after": "8:40am ask minus bid divided by midpoint, basis points. Focal Bid-Ask response in §5, Eq9, Table8 p115 (PDF13). Outcome set as in s1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2678",
+    "before": null,
+    "after": "Liquidity/dealer sourcing channel for quantity pp115,120; cost direction pp117,120. Prose p113 prints Bid−Ask notation despite defining ask−bid; preserve textual discrepancy, use economic definition of positive spread. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Source: §5, Eq9, Table8 p115 (PDF13); §4.3 pp112–113; §§5–7 pp115–120."
+  }
+]
+```

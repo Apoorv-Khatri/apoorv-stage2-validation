@@ -25898,7 +25898,16 @@
     "L2677": "0",
     "M2677": "n/a",
     "N2677": "Pre-auction volatility: SD of daily returns over preceding five trading days, percentage points. Focal VOL response in §5, Eq9, Table8 p115 (PDF13). Outcome set as in s1.",
-    "O2677": "Winner’s-curse uncertainty channel explicitly predicts higher costs (§3 p108, §4.3 p112); quantity/supply-liquidity interpretation pp115,120. Retain insignificant coefficients rather than dropping null evidence. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Source: §5, Eq9, Table8 p115 (PDF13); §4.3 pp112–113; §§5–7 pp115–120."
+    "O2677": "Winner’s-curse uncertainty channel explicitly predicts higher costs (§3 p108, §4.3 p112); quantity/supply-liquidity interpretation pp115,120. Retain insignificant coefficients rather than dropping null evidence. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Source: §5, Eq9, Table8 p115 (PDF13); §4.3 pp112–113; §§5–7 pp115–120.",
+    "A2678": "JGNACSDE",
+    "B2678": "h4",
+    "I2678": "1",
+    "J2678": "OLS",
+    "K2678": "0",
+    "L2678": "0",
+    "M2678": "n/a",
+    "N2678": "8:40am ask minus bid divided by midpoint, basis points. Focal Bid-Ask response in §5, Eq9, Table8 p115 (PDF13). Outcome set as in s1.",
+    "O2678": "Liquidity/dealer sourcing channel for quantity pp115,120; cost direction pp117,120. Prose p113 prints Bid−Ask notation despite defining ask−bid; preserve textual discrepancy, use economic definition of positive spread. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Source: §5, Eq9, Table8 p115 (PDF13); §4.3 pp112–113; §§5–7 pp115–120."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71182,7 +71191,11 @@
     "A6616": "JGNACSDE",
     "B6616": "h1",
     "C6616": "hy1",
-    "K6616": "Fed purchase quantity of bond j in auction t, measured in billions of dollars of par value at the auction-CUSIP level."
+    "K6616": "Fed purchase quantity of bond j in auction t, measured in billions of dollars of par value at the auction-CUSIP level.",
+    "A6617": "JGNACSDE",
+    "B6617": "h4",
+    "C6617": "hy1",
+    "K6617": "Fed purchase quantity of bond j in auction t, measured in billions of dollars of par value at the auction-CUSIP level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
