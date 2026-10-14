@@ -25042,7 +25042,16 @@
     "L2591": "1",
     "M2591": "n/a",
     "N2591": "2005 Altman Z → total 2006–2010 recall count; Poisson Table9 col3",
-    "O2591": "One observation per firm, 2-digit SIC dummies; central frequency/persistence result. Source: Table9 p1823; §4.2 pp1821–1822."
+    "O2591": "One observation per firm, 2-digit SIC dummies; central frequency/persistence result. Source: Table9 p1823; §4.2 pp1821–1822.",
+    "A2592": "IYY27QU8",
+    "B2592": "h15",
+    "I2592": "1",
+    "J2592": "Other",
+    "K2592": "0",
+    "L2592": "1",
+    "M2592": "n/a",
+    "N2592": "Book leverage → FDA recall severity with slope moderated by Tariff cut; ordered probit Table8 col4.",
+    "O2592": "Tariff cut: industry annual percentage tariff drop at least twice industry median, using absolute median when positive; exclude next-year reversals. Alternative 2.5/3 thresholds are routine variants. Lagged shock, manufacturing sample; 2-digit SIC and year controls. Competition is a possible separate channel. Probit interaction is not a conventional linear DiD; reported product-term marginal effect is not automatically a discrete total shock effect. Ordered probit, not binary probit. Interaction index coefficient does not equal an average shock effect. Source: Table8 pp1819–1820; §4.1 p1818."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -69851,7 +69860,11 @@
     "A6521": "IYY27QU8",
     "B6521": "h14",
     "C6521": "hy1",
-    "K6521": "Total number of recall events 2006–2010; zero for never-recalling controls."
+    "K6521": "Total number of recall events 2006–2010; zero for never-recalling controls.",
+    "A6522": "IYY27QU8",
+    "B6522": "h15",
+    "C6522": "hy1",
+    "K6522": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
