@@ -25704,7 +25704,16 @@
     "L2661": "0",
     "M2661": "n/a",
     "N2661": "Bond-market-access × COVID contrast → utilization, conditional on size.",
-    "O2661": "Explicit economic interpretation: bond-market disruption as alternative explanation. Col2 coefficient1.8 (SE1.0), not main size effect. Binary has-issued-bonds variable; table notes say any point2010–2020Q2, broader data construction also references outstanding2017Q4. Do not presume pre-treatment classification. Loan/time or richer FE, still DiD. Source: Table11 cols2–9 pp923–925."
+    "O2661": "Explicit economic interpretation: bond-market disruption as alternative explanation. Col2 coefficient1.8 (SE1.0), not main size effect. Binary has-issued-bonds variable; table notes say any point2010–2020Q2, broader data construction also references outstanding2017Q4. Do not presume pre-treatment classification. Loan/time or richer FE, still DiD. Source: Table11 cols2–9 pp923–925.",
+    "A2662": "JFUQHXRF",
+    "B2662": "h10",
+    "I2662": "1",
+    "J2662": "unknown",
+    "K2662": "1",
+    "L2662": "0",
+    "M2662": "unknown",
+    "N2662": "Longer- versus shorter-maturity loan categories → COVID drawdown activity, by broad firm size.",
+    "O2662": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Figure described as drawdowns concentrated in longer maturities. Minimum linear grouped contrast; exact graph implementation pending. Not an independent exogenous maturity shock. Binary category contrasts, not a continuous maturity slope. Source: Appendix Fig A.2; p924."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70907,7 +70916,14 @@
     "H6600": "0",
     "I6600": "1",
     "J6600": "none",
-    "K6600": "Utilized/committed credit-line amount, percentage points."
+    "K6600": "Utilized/committed credit-line amount, percentage points.",
+    "A6601": "JFUQHXRF",
+    "B6601": "h10",
+    "C6601": "hy1",
+    "H6601": "0",
+    "I6601": "unknown",
+    "J6601": "none",
+    "K6601": "Utilized/committed credit-line amount, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
