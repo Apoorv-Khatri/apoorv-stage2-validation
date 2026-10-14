@@ -383745,3 +383745,336 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:23:48.671269+00:00 — Review IYMGE8KX h9: source-audited coding and linked comparisons
+
+54 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4439",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4440",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4441",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4439",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4440",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4441",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4439",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4440",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4441",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4439",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4440",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4441",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4439",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4440",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4441",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4439",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4440",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4441",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4439",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4440",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4439",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4440",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4439",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4440",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4439",
+    "before": null,
+    "after": "Table III A cols3–5 pp554–555; §II.A p553: Log fund size coefficient 0.238, column 3; benchmark: printed category rate 1.94% in this column sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4440",
+    "before": null,
+    "after": "Table III A cols3–5 pp554–555; §II.A p553: Log fund size coefficient 0.523, column 4; benchmark: printed category rate 3.30% in this column sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4441",
+    "before": null,
+    "after": "Table III A cols3–5 pp554–555; §II.A p553: Log fund size coefficient 0.551, column 5; benchmark: printed category rate 2.59% in this column sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4439",
+    "before": null,
+    "after": "Table labels and text call this multinomial logit; unequal column sample sizes are preserved, not repaired. Category log-relative-odds coefficients and observed marginal category shares are not aligned untreated probability effects."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4440",
+    "before": null,
+    "after": "Table labels and text call this multinomial logit; unequal column sample sizes are preserved, not repaired. Category log-relative-odds coefficients and observed marginal category shares are not aligned untreated probability effects."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4441",
+    "before": null,
+    "after": "Table labels and text call this multinomial logit; unequal column sample sizes are preserved, not repaired. Category log-relative-odds coefficients and observed marginal category shares are not aligned untreated probability effects."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6412",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6413",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6414",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6412",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6413",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6414",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6412",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6413",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6414",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6412",
+    "before": null,
+    "after": "Four-category CDS-use response, buy only equation versus no-buy/no-sell; base state is present. Reported outcome is categorical, not a two-valued dependent variable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6413",
+    "before": null,
+    "after": "Four-category CDS-use response, both buy and sell equation versus no-buy/no-sell; base state is present. Reported outcome is categorical, not a two-valued dependent variable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6414",
+    "before": null,
+    "after": "Four-category CDS-use response, sell only equation versus no-buy/no-sell; base state is present. Reported outcome is categorical, not a two-valued dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2534",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2534",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2534",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2534",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2534",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2534",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2534",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2534",
+    "before": null,
+    "after": "Log fund size → joint four-category CDS state: no-buy/no-sell base, buy-only, both, sell-only; multinomial logit, Table III A cols3–5. Same quarterly/style dummies and fund controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2534",
+    "before": null,
+    "after": "Retain under the p557 size/sophistication interpretation carried across Table III A implementations. This is a contested author-intention judgment, not an automatic inclusion of every control. Log total net assets; substantive sophistication/capacity explanation is weaker than liquidity mechanism; author-intention gate contested. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Distinct estimator from the binary logits. Outcomes below name category equations of a single four-valued response, not separately estimated binary logits. Source: Table III A cols3–5 pp554–555; §II.A p553."
+  }
+]
+```
