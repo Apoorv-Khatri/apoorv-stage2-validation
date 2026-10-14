@@ -25249,7 +25249,16 @@
     "L2614": "0",
     "M2614": "n/a",
     "N2614": "Negative input price shock exposure versus no exposure → industry recall count; Poisson direct-shock model.",
-    "O2614": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Explicit substantive direct effect, separate from continuous leverage-slope interactions. Industry-level count, not firm-level incidence. Exact horizon, controls, zero prevalence unresolved. Source: Footnote8 pp1806–1807; Internet Appendix Table3."
+    "O2614": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Explicit substantive direct effect, separate from continuous leverage-slope interactions. Industry-level count, not firm-level incidence. Exact horizon, controls, zero prevalence unresolved. Source: Footnote8 pp1806–1807; Internet Appendix Table3.",
+    "A2615": "IYY27QU8",
+    "B2615": "h38",
+    "I2615": "1",
+    "J2615": "Other",
+    "K2615": "0",
+    "L2615": "0",
+    "M2615": "n/a",
+    "N2615": "Book leverage → recall incidence, interacted with five-year rather than three-year input-price shock construction.",
+    "O2615": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Footnote12 establishes a similar input-price shock using a five-year window; it does not independently restate the threshold or reveal the appendix implementation. Do not present an unseen threshold as directly verified; nonlinear probit implementation follows stated Eq2 shock exercise. Source: Footnote12 p1810; Internet Appendix Table4."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70159,7 +70168,11 @@
     "H6544": "0",
     "I6544": "unknown",
     "J6544": "none",
-    "K6544": "Number of recall events in an industry; aggregation horizon not fully stated in accessible footnote."
+    "K6544": "Number of recall events in an industry; aggregation horizon not fully stated in accessible footnote.",
+    "A6545": "IYY27QU8",
+    "B6545": "h38",
+    "C6545": "hy1",
+    "K6545": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
