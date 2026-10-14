@@ -24546,7 +24546,16 @@
     "L2543": "0",
     "M2543": "n/a",
     "N2543": "Past performance rank → joint four-category CDS state: no-buy/no-sell base, buy-only, both, sell-only; multinomial logit, Table III A cols3–5. Same quarterly/style dummies and fund controls.",
-    "O2543": "Reject author-intention gate, not statistical null: p558 only defines prior Performance rank and reports no consistent relation. It gives no parameter-specific incentive/causal interpretation; the proposal supplied an incentive story absent here. Contrast the explicit risk-tolerance and internal-liquidity mechanisms in adjacent paragraphs. A broader substantive-predictor convention could retain it, but would need to explain why age is excluded. Source: Table III A cols3–5 pp554–555; §II.A p553."
+    "O2543": "Reject author-intention gate, not statistical null: p558 only defines prior Performance rank and reports no consistent relation. It gives no parameter-specific incentive/causal interpretation; the proposal supplied an incentive story absent here. Contrast the explicit risk-tolerance and internal-liquidity mechanisms in adjacent paragraphs. A broader substantive-predictor convention could retain it, but would need to explain why age is excluded. Source: Table III A cols3–5 pp554–555; §II.A p553.",
+    "A2544": "IYMGE8KX",
+    "B2544": "h19",
+    "I2544": "0",
+    "J2544": "Other",
+    "K2544": "0",
+    "L2544": "0",
+    "M2544": "n/a",
+    "N2544": "Past performance rank → gross CDS sell/buy intensity (% fund TNA), fund-quarter Tobit; Table III B cols1–4. Zero censoring, lagged controls, quarterly/style dummies; cash added in cols2/4.",
+    "O2544": "Reject author-intention gate, not statistical null: p558 only defines prior Performance rank and reports no consistent relation. It gives no parameter-specific incentive/causal interpretation; the proposal supplied an incentive story absent here. Contrast the explicit risk-tolerance and internal-liquidity mechanisms in adjacent paragraphs. A broader substantive-predictor convention could retain it, but would need to explain why age is excluded. Source: Table III B pp555–556; §II.A pp558–559."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68977,7 +68986,21 @@
     "H6435": "n/a",
     "I6435": "n/a",
     "J6435": "n/a",
-    "K6435": "Spurious under rejected causal setting: Four-category CDS-use response, sell only equation versus no-buy/no-sell; base state is present. Reported outcome is categorical, not a two-valued dependent variable. Prior-performance predictor lacks a parameter-specific causal interpretation in p558."
+    "K6435": "Spurious under rejected causal setting: Four-category CDS-use response, sell only equation versus no-buy/no-sell; base state is present. Reported outcome is categorical, not a two-valued dependent variable. Prior-performance predictor lacks a parameter-specific causal interpretation in p558.",
+    "A6436": "IYMGE8KX",
+    "B6436": "h19",
+    "C6436": "hy1",
+    "H6436": "n/a",
+    "I6436": "n/a",
+    "J6436": "n/a",
+    "K6436": "Spurious under rejected causal setting: Total gross CDS sell notional divided by fund TNA, percentage points; observed zero for funds without positions. Prior-performance predictor lacks a parameter-specific causal interpretation in p558.",
+    "A6437": "IYMGE8KX",
+    "B6437": "h19",
+    "C6437": "hy2",
+    "H6437": "n/a",
+    "I6437": "n/a",
+    "J6437": "n/a",
+    "K6437": "Spurious under rejected causal setting: Total gross CDS buy notional divided by fund TNA, percentage points; observed zero for funds without positions. Prior-performance predictor lacks a parameter-specific causal interpretation in p558."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

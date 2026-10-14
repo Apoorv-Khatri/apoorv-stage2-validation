@@ -386481,3 +386481,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:26:28.225023+00:00 — Review IYMGE8KX h19: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6436",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6437",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6436",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6437",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6436",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6437",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6436",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6437",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6436",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6437",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6436",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6437",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6436",
+    "before": null,
+    "after": "Spurious under rejected causal setting: Total gross CDS sell notional divided by fund TNA, percentage points; observed zero for funds without positions. Prior-performance predictor lacks a parameter-specific causal interpretation in p558."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6437",
+    "before": null,
+    "after": "Spurious under rejected causal setting: Total gross CDS buy notional divided by fund TNA, percentage points; observed zero for funds without positions. Prior-performance predictor lacks a parameter-specific causal interpretation in p558."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2544",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2544",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2544",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2544",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2544",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2544",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2544",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2544",
+    "before": null,
+    "after": "Past performance rank → gross CDS sell/buy intensity (% fund TNA), fund-quarter Tobit; Table III B cols1–4. Zero censoring, lagged controls, quarterly/style dummies; cash added in cols2/4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2544",
+    "before": null,
+    "after": "Reject author-intention gate, not statistical null: p558 only defines prior Performance rank and reports no consistent relation. It gives no parameter-specific incentive/causal interpretation; the proposal supplied an incentive story absent here. Contrast the explicit risk-tolerance and internal-liquidity mechanisms in adjacent paragraphs. A broader substantive-predictor convention could retain it, but would need to explain why age is excluded. Source: Table III B pp555–556; §II.A pp558–559."
+  }
+]
+```
