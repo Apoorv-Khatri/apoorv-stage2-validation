@@ -405168,3 +405168,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T14:15:40.291925+00:00 — Review JGNACSDE h33: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6632",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6632",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6632",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6632",
+    "before": null,
+    "after": "Indicator that an eligible bond is included rather than excluded from the auction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2689",
+    "before": null,
+    "after": "JGNACSDE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2689",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2689",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2689",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2689",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2689",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2689",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2689",
+    "before": null,
+    "after": "Pre-auction repo specialness → inclusion of an eligible bond in the auction; unreported regression, p109 footnote16. Continuous specialness, not a binary purchase treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2689",
+    "before": null,
+    "after": "Implemented result expressly states higher specialness makes inclusion less likely; policy avoids supply shortages. Estimator/link, FE, covariate set and numerical coefficient unreported: do not assume linear probability versus logit/probit. No referenced hidden table. Source: p109 footnote16 (PDF7)."
+  }
+]
+```

@@ -25997,7 +25997,16 @@
     "L2688": "0",
     "M2688": "n/a",
     "N2688": "8:40am ask minus bid divided by midpoint, basis points. Focal Bid-Ask response in §7, Eq15, Table12 cols5–8 pp118–120 (PDF16–18). Outcome set as in s6. Include full-sample slope, top-five interaction and subgroup slopes; continuous treatment with ex-post profit-group heterogeneity, not a binary top-five intervention.",
-    "O2688": "Liquidity/dealer sourcing channel for quantity pp115,120; cost direction pp117,120. Prose p113 prints Bid−Ask notation despite defining ask−bid; preserve textual discrepancy, use economic definition of positive spread. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Source: §7, Eq15, Table12 cols5–8 pp118–120 (PDF16–18); §4.3 pp112–113; §§5–7 pp115–120."
+    "O2688": "Liquidity/dealer sourcing channel for quantity pp115,120; cost direction pp117,120. Prose p113 prints Bid−Ask notation despite defining ask−bid; preserve textual discrepancy, use economic definition of positive spread. Survey-method proposal OLS (linear regression adjustment with categorical controls): the paper lists CUSIP/auction effects and contrasts their explanatory power, but does not establish an identifying role addressing unobserved heterogeneity/endogeneity. Do not promote model-supplied identification prose to author evidence. FE is a substantive adjudication alternative if conditional within-auction/within-bond comparisons are accepted as an implicit identifying rationale; never HDFE. No IV/RCT/RD/DiD/matching. Spline/Svensson estimation constructs a regressor, not the outcome-effect estimator. Not an omitted dependent variable under cheapness: distinct focal treatment. Source: §7, Eq15, Table12 cols5–8 pp118–120 (PDF16–18); §4.3 pp112–113; §§5–7 pp115–120.",
+    "A2689": "JGNACSDE",
+    "B2689": "h33",
+    "I2689": "1",
+    "J2689": "unknown",
+    "K2689": "0",
+    "L2689": "0",
+    "M2689": "unknown",
+    "N2689": "Pre-auction repo specialness → inclusion of an eligible bond in the auction; unreported regression, p109 footnote16. Continuous specialness, not a binary purchase treatment.",
+    "O2689": "Implemented result expressly states higher specialness makes inclusion less likely; policy avoids supply shortages. Estimator/link, FE, covariate set and numerical coefficient unreported: do not assume linear probability versus logit/probit. No referenced hidden table. Source: p109 footnote16 (PDF7)."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71341,7 +71350,11 @@
     "A6631": "JGNACSDE",
     "B6631": "h16",
     "C6631": "hy1",
-    "K6631": "Dealer d’s price markup on bond j in auction t relative to the closest ask, measured in cents per $100 par value at the auction-CUSIP-dealer level."
+    "K6631": "Dealer d’s price markup on bond j in auction t relative to the closest ask, measured in cents per $100 par value at the auction-CUSIP-dealer level.",
+    "A6632": "JGNACSDE",
+    "B6632": "h33",
+    "C6632": "hy1",
+    "K6632": "Indicator that an eligible bond is included rather than excluded from the auction."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
