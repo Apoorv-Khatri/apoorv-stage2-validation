@@ -382128,3 +382128,246 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T08:21:57.759591+00:00 — Review IYMGE8KX h2: source-audited coding and linked comparisons
+
+39 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4427",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4428",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4427",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4428",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4427",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4428",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4427",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4428",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4427",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4428",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4427",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4428",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4427",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4428",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4427",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4428",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4427",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4428",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4427",
+    "before": null,
+    "after": "Table III A cols1–2, pp554–555; §II.A pp553,557–558: Return volatility logit coefficient 18.64, column 1; benchmark: column-specific observed outcome rate 5.36%, potential-CDS-user fund-quarter sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4428",
+    "before": null,
+    "after": "Table III A cols1–2, pp554–555; §II.A pp553,557–558: Return volatility logit coefficient 7.234, column 2; benchmark: column-specific observed outcome rate 4.63%, potential-CDS-user fund-quarter sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4427",
+    "before": null,
+    "after": "Deliberate coefficient–dependent-variable-rate pairing qualifies. Reported coefficient is log odds, not a probability effect; unconditional observed rate is not its matched untreated baseline. A treatment-SD odds change alone is not division by this rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4428",
+    "before": null,
+    "after": "Deliberate coefficient–dependent-variable-rate pairing qualifies. Reported coefficient is log odds, not a probability effect; unconditional observed rate is not its matched untreated baseline. A treatment-SD odds change alone is not division by this rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6396",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6397",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6396",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6397",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6396",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6397",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6396",
+    "before": null,
+    "after": "Any CDS selling during current quarter, binary 0/1; not ever-use over the full period."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6397",
+    "before": null,
+    "after": "Any CDS buying during current quarter, binary 0/1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2527",
+    "before": null,
+    "after": "IYMGE8KX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2527",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2527",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2527",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2527",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2527",
+    "before": null,
+    "after": "Return volatility → fund-quarter any CDS sell/buy (single-name plus index); separate binary logit regressions, quarter and investment-style dummies; lagged fund controls, fund-clustered SE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2527",
+    "before": null,
+    "after": "Retain risk-tolerance response: p558 explicitly interprets conditional Return volatility as more risk-tolerant managers betting on CDS selling. Buying null remains in the joint outcome set. Not retained merely because a coefficient is significant. Prior-24-month monthly-return SD; interpreted as risk tolerance separately from flow volatility; retain the buying null. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Source: Table III A cols1–2, pp554–555; §II.A pp553,557–558."
+  }
+]
+```
