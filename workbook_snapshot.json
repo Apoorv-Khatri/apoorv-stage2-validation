@@ -24519,7 +24519,16 @@
     "L2540": "1",
     "M2540": "n/a",
     "N2540": "Intermediate-term investment style versus short-term → joint four-category CDS state: no-buy/no-sell base, buy-only, both, sell-only; multinomial logit, Table III A cols3–5. Same quarterly/style dummies and fund controls.",
-    "O2540": "Intermediate-duration dummy, 3–10 years when not identified from fund name; short-duration omitted, long duration separately controlled. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Distinct estimator from the binary logits. Outcomes below name category equations of a single four-valued response, not separately estimated binary logits. Source: Table III A cols3–5 pp554–555; §II.A p553."
+    "O2540": "Intermediate-duration dummy, 3–10 years when not identified from fund name; short-duration omitted, long duration separately controlled. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Distinct estimator from the binary logits. Outcomes below name category equations of a single four-valued response, not separately estimated binary logits. Source: Table III A cols3–5 pp554–555; §II.A p553.",
+    "A2541": "IYMGE8KX",
+    "B2541": "h16",
+    "I2541": "1",
+    "J2541": "Other",
+    "K2541": "1",
+    "L2541": "1",
+    "M2541": "n/a",
+    "N2541": "Intermediate-term investment style versus short-term → gross CDS sell/buy intensity (% fund TNA), fund-quarter Tobit; Table III B cols1–4. Zero censoring, lagged controls, quarterly/style dummies; cash added in cols2/4.",
+    "O2541": "Intermediate-duration dummy, 3–10 years when not identified from fund name; short-duration omitted, long duration separately controlled. No IV, assignment, cutoff or DiD design. Time and investment-style dummies in nonlinear models do not change Other; no identifying HDFE battery. The broad author-intention gate includes theoretically motivated liquidity/yield responses despite conditional-association language and unresolved endogeneity. Reported coefficients are Tobit parameters, not documented unconditional marginal effects. Printed coefficients for cols1/2/3/4: [5.742, 5.747, 6.16, 5.782]. Source: Table III B pp555–556; §II.A pp558–559."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -68901,7 +68910,21 @@
     "H6428": "0",
     "I6428": "1",
     "J6428": "none",
-    "K6428": "Four-category CDS-use response, sell only equation versus no-buy/no-sell; base state is present. Reported outcome is categorical, not a two-valued dependent variable."
+    "K6428": "Four-category CDS-use response, sell only equation versus no-buy/no-sell; base state is present. Reported outcome is categorical, not a two-valued dependent variable.",
+    "A6429": "IYMGE8KX",
+    "B6429": "h16",
+    "C6429": "hy1",
+    "H6429": "0",
+    "I6429": "1",
+    "J6429": "none",
+    "K6429": "Total gross CDS sell notional divided by fund TNA, percentage points; observed zero for funds without positions.",
+    "A6430": "IYMGE8KX",
+    "B6430": "h16",
+    "C6430": "hy2",
+    "H6430": "0",
+    "I6430": "1",
+    "J6430": "none",
+    "K6430": "Total gross CDS buy notional divided by fund TNA, percentage points; observed zero for funds without positions."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
