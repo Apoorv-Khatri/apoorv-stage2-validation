@@ -25821,7 +25821,16 @@
     "L2674": "1",
     "M2674": "n/a",
     "N2674": "Employment exposure × maturity category × COVID → drawdown sensitivity.",
-    "O2674": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Focal dose is continuous exposure; maturity is moderator. Prose explicitly interprets larger sensitivity with maturity as loan terms affecting access. Not the same estimand as size-moderated exposure or unconditional maturity×COVID. No exact maturity coefficients claimed. Source: Table13 col6; p927 loan-term discussion; conflicting Fig A.5 reference."
+    "O2674": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Focal dose is continuous exposure; maturity is moderator. Prose explicitly interprets larger sensitivity with maturity as loan terms affecting access. Not the same estimand as size-moderated exposure or unconditional maturity×COVID. No exact maturity coefficients claimed. Source: Table13 col6; p927 loan-term discussion; conflicting Fig A.5 reference.",
+    "A2675": "JFUQHXRF",
+    "B2675": "h24",
+    "I2675": "1",
+    "J2675": "DiD_conventional",
+    "K2675": "0",
+    "L2675": "1",
+    "M2675": "n/a",
+    "N2675": "Employment exposure × collateral category × COVID → drawdown sensitivity.",
+    "O2675": "Appendix not recovered: this minimum entry is supported by explicit implemented-result prose in the published article. Do not infer unseen coefficients, additional controls or exact panel mappings. Focal continuous exposure, collateral moderator. Prose states marginal impact decreases with collateral. Table13 note only says loan terms in levels and interacted with COVID, while prose says interaction with Exposure and COVID: implementation conflict preserved for adjudication. Source: Table13 col6; p927 loan-term discussion; conflicting Fig A.5 reference."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71091,7 +71100,11 @@
     "A6613": "JFUQHXRF",
     "B6613": "h23",
     "C6613": "hy1",
-    "K6613": "Utilized/committed credit-line amount, percentage points."
+    "K6613": "Utilized/committed credit-line amount, percentage points.",
+    "A6614": "JFUQHXRF",
+    "B6614": "h24",
+    "C6614": "hy1",
+    "K6614": "Utilized/committed credit-line amount, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
