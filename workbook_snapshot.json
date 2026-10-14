@@ -25177,7 +25177,16 @@
     "L2606": "1",
     "M2606": "n/a",
     "N2606": "Free cash-flow shock → FDA recall severity; ordered probit Table8 cols1–9.",
-    "O2606": "Introduction explicitly attributes increased severity to adverse cash-flow shocks; not included merely because this control is significant. Definition/market-assets denominator as Appendix A1. Source: Introduction p1793; Table8 pp1819–1820."
+    "O2606": "Introduction explicitly attributes increased severity to adverse cash-flow shocks; not included merely because this control is significant. Definition/market-assets denominator as Appendix A1. Source: Introduction p1793; Table8 pp1819–1820.",
+    "A2607": "IYY27QU8",
+    "B2607": "h30",
+    "I2607": "1",
+    "J2607": "unknown",
+    "K2607": "0",
+    "L2607": "0",
+    "M2607": "unknown",
+    "N2607": "Book leverage → recall incidence in four recall-intensive industries and complementary industries; separately reported subsample robustness.",
+    "O2607": "Final Internet Appendix inaccessible; inclusion/qualitative direction established in published main text. Do not claim unseen coefficients, FE grid, additional comparisons, or table verification. Main text does not explicitly identify estimator for this separate table. Routine industry subsamples grouped. Source: §2.1 pp1797–1798; Internet Appendix Table1."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -70049,7 +70058,11 @@
     "A6536": "IYY27QU8",
     "B6536": "h29",
     "C6536": "hy1",
-    "K6536": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome."
+    "K6536": "FDA recall severity: 3=class I (most severe), 2=class II, 1=class III, 0=control firm with no recall in 2006–2010. Ordered categorical level, not a binary severe-recall indicator or log outcome.",
+    "A6537": "IYY27QU8",
+    "B6537": "h30",
+    "C6537": "hy1",
+    "K6537": "RecallDum: 1 for a recall-sample observation and 0 for a control firm with no recall during 2006–2010; controls share three-digit SIC. Not a balanced firm-year panel: repeated recall events and fixed recall/control status; pp1801,1802,1814. Equation uses firm/year notation but do not infer non-recall years of recalling firms are coded zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
