@@ -400437,3 +400437,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T12:37:32.858483+00:00 — Review JFUQHXRF s1: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1237",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1237",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1237",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1237",
+    "before": null,
+    "after": "Utilized/committed loan credit, in percentage points. Zero drawdowns explicitly documented in p925 footnote24 and p924 Table11 notes. Not a binary outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I487",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J487",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K487",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L487",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M487",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N487",
+    "before": null,
+    "after": "COVID-period size-category versus <50m contrasts in utilization; four implemented categorical arms, not a continuous asset dose."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O487",
+    "before": null,
+    "after": "Each category is a binary arm-versus-reference contrast within the multiple-category design. Size is assigned from median assets across the full sample (p912), not necessarily pre-COVID. Loan and time FE; bank×time replaces time; state×time, industry×time and rating×time address supply/demand heterogeneity. DiD takes precedence over any FE count. Controls/sample variants remain together. Main causal claim concerns contractual regimes proxied by size, not exogenous firm-size assignment. Source: Table 11 cols1–9; Eq1 pp923–925."
+  }
+]
+```
