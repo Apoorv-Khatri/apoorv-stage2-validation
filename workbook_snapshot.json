@@ -25767,7 +25767,16 @@
     "L2668": "0",
     "M2668": "unknown",
     "N2668": "Bank deposits differences → loan drawdowns in COVID; alternative bank-capacity explanation, including size gradient.",
-    "O2668": "Published p928 explicitly reports substantive bank-capacity nulls: differences in capital, liquid assets, or deposits across banks do not explain the size gradient in 2020Q1 drawdowns (Table A.12). Visual inspection confirms liq- / uid is one hyphenated word; there is no fourth liquidity variable in this sentence. Retain this minimum treatment-specific scope. Exact bank-variable definitions, normalization, interactions, estimator and any further splits are unknown without the appendix; do not infer HDFE or coefficient grids. Source: Appendix Table A.12; §5.3 p928."
+    "O2668": "Published p928 explicitly reports substantive bank-capacity nulls: differences in capital, liquid assets, or deposits across banks do not explain the size gradient in 2020Q1 drawdowns (Table A.12). Visual inspection confirms liq- / uid is one hyphenated word; there is no fourth liquidity variable in this sentence. Retain this minimum treatment-specific scope. Exact bank-variable definitions, normalization, interactions, estimator and any further splits are unknown without the appendix; do not infer HDFE or coefficient grids. Source: Appendix Table A.12; §5.3 p928.",
+    "A2669": "JFUQHXRF",
+    "B2669": "h18",
+    "I2669": "1",
+    "J2669": "OLS",
+    "K2669": "1",
+    "L2669": "0",
+    "M2669": "n/a",
+    "N2669": "Large (>1bn) versus SME (<250m) mean utilization trajectories around downgrade, interpreted as differential access after bad news.",
+    "O2669": "Broad author-intention gate retained, but explicitly contestable: p920 attributes the divergent pre-distress utilization paths to discretionary loan terms restricting credit after bad news. Figure2 estimates group/time means, not a treatment-effect regression; OLS is the minimum linear mean-comparison classification, not evidence of random size assignment or an identified event shock. Size proxies contractual regimes. No reported numerical large-minus-small causal effect is invented. Eight-quarter pre-event balanced panel; post-event points are illustrative only. Default panel has different group axes. Dashed unconditional size-group means are not linked to a specified numerical focal effect/contrast, so no benchmark triple is added from mere presence of reference lines. If adjudicating a stricter descriptive gate, reject both panels together rather than relabel them DiD. Source: Fig2 panel(a) pp920–921."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71004,7 +71013,14 @@
     "A6607": "JFUQHXRF",
     "B6607": "h17",
     "C6607": "hy1",
-    "K6607": "Utilized/committed credit-line amount, percentage points."
+    "K6607": "Utilized/committed credit-line amount, percentage points.",
+    "A6608": "JFUQHXRF",
+    "B6608": "h18",
+    "C6608": "hy1",
+    "H6608": "0",
+    "I6608": "unknown",
+    "J6608": "none",
+    "K6608": "Utilized/committed credit-line amount, percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

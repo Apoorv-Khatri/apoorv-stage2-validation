@@ -402774,3 +402774,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T12:47:30.440418+00:00 — Review JFUQHXRF h18: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6608",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6608",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6608",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6608",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6608",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6608",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6608",
+    "before": null,
+    "after": "Utilized/committed credit-line amount, percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2669",
+    "before": null,
+    "after": "JFUQHXRF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2669",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2669",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2669",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2669",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2669",
+    "before": null,
+    "after": "Large (>1bn) versus SME (<250m) mean utilization trajectories around downgrade, interpreted as differential access after bad news."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2669",
+    "before": null,
+    "after": "Broad author-intention gate retained, but explicitly contestable: p920 attributes the divergent pre-distress utilization paths to discretionary loan terms restricting credit after bad news. Figure2 estimates group/time means, not a treatment-effect regression; OLS is the minimum linear mean-comparison classification, not evidence of random size assignment or an identified event shock. Size proxies contractual regimes. No reported numerical large-minus-small causal effect is invented. Eight-quarter pre-event balanced panel; post-event points are illustrative only. Default panel has different group axes. Dashed unconditional size-group means are not linked to a specified numerical focal effect/contrast, so no benchmark triple is added from mere presence of reference lines. If adjudicating a stricter descriptive gate, reject both panels together rather than relabel them DiD. Source: Fig2 panel(a) pp920–921."
+  }
+]
+```
