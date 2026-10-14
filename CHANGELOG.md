@@ -405447,3 +405447,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T15:05:14.742920+00:00 — Review KJGA8A2C s2: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K298",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K299",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K300",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R298",
+    "before": null,
+    "after": "Reject: ratio of price-impact coefficients (IS/log-size slopes), not focal IS effect compared with an IS mean, SD or level. other_level is not a catch-all for another estimated effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R299",
+    "before": null,
+    "after": "Reject: ratio of price-impact coefficients (IS/log-size slopes), not focal IS effect compared with an IS mean, SD or level. other_level is not a catch-all for another estimated effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R300",
+    "before": null,
+    "after": "Reject attachment: Figure2 is unadjusted daily-mean before/after estimation, not Table5 conditional regression. Replaced by four separate effect×population×pre-mean records under h12; benchmark type outcome_mean, not other_level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1256",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1256",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1256",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1256",
+    "before": null,
+    "after": "Implementation shortfall in basis points, Eq2: signed execution-price deviation from initiation midpoint; no log transformation. Not separate dependent variables called spread and price impact: these are coefficient interpretations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I501",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J501",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K501",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L501",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M501",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N501",
+    "before": null,
+    "after": "Fee regime effect on IS by historically informed group; Table5 cols1–3 only, Eq4. High, medium and low group-specific before/after estimates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O501",
+    "before": null,
+    "after": "Linear OLS with stock dummies (one categorical dimension), not an untreated-group DiD. Stock FE are listed but no separate author argument establishes their identifying role; proposed survey method OLS, with FE as an adjudication alternative. No no-FE specification is reported; do not manufacture an OLS/FE split. Regulatory before/after variation supplies the causal argument, subject to concurrent shocks. Groups use historical profitability through previous month, not future contemporaneous classifications. High/medium/low Fee slopes .424/2.129/4.579 and interaction slopes −2.693/−.889/−1.069. Pooled differential-group design is h1; Figure2 is h12. Slope ratios are not IS-level benchmarks. Source: §3.2 pp1050–1054; Table5 cols1–3."
+  }
+]
+```
