@@ -400116,3 +400116,324 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-14T11:37:30.988252+00:00 — Review IYY27QU8 h75: source-audited coding and linked comparisons
+
+52 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6586",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6587",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6588",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6589",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6590",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6591",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6586",
+    "before": null,
+    "after": "h75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6587",
+    "before": null,
+    "after": "h75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6588",
+    "before": null,
+    "after": "h75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6589",
+    "before": null,
+    "after": "h75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6590",
+    "before": null,
+    "after": "h75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6591",
+    "before": null,
+    "after": "h75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6586",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6587",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6588",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6589",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6590",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6591",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6586",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6587",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6588",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6589",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6590",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6591",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6586",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6587",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6588",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6589",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6590",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6591",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6586",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6587",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6588",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6589",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6590",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6591",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6586",
+    "before": null,
+    "after": "Market-model cumulative abnormal stock return over event days (−2,+2), return percentage units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6587",
+    "before": null,
+    "after": "Abnormal dollar change in market capitalization over event days (−2,+2), millions of dollars."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6588",
+    "before": null,
+    "after": "Market-model cumulative abnormal stock return over event days (−5,+5), return percentage units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6589",
+    "before": null,
+    "after": "Abnormal dollar change in market capitalization over event days (−5,+5), millions of dollars."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6590",
+    "before": null,
+    "after": "Market-model cumulative abnormal stock return over event days (−10,+10), return percentage units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6591",
+    "before": null,
+    "after": "Abnormal dollar change in market capitalization over event days (−10,+10), millions of dollars."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E53",
+    "before": null,
+    "after": "DONE — All 40 published pages including Appendix A1 independently reviewed. 84 settings and 97 outcome records retained; three eligible comparisons in five records, preserving two wrong-parent originals as rejected with correctly linked additions. Distinct financial-condition treatments, nonlinear models, linear identifying FE and single-continuous-instrument IV separated. Table7 FE rationale follows explicit industry/time confounding discussion, not dummy count. Event/control sampling and unresolved continuous-treatment benchmark targets documented; all three alignments unknown. Substantive secondary effects, dynamics and reverse-direction nulls retained; diagnostic-only analyses excluded. Corrected first-pass misreading: Table7 1% prose concerns instrument coefficients, not all F statistics. Genuine printed coefficient/significance discrepancies preserved. Final Internet Appendix unavailable; sixteen referenced tables covered only to main-text-established scope, without invented grids or exhaustive unseen-comparison claims. Original model fields and IDs preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2652",
+    "before": null,
+    "after": "IYY27QU8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2652",
+    "before": null,
+    "after": "h75"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2652",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2652",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2652",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2652",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2652",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2652",
+    "before": null,
+    "after": "Recall announcement versus market-model expected no-event return → announcement-window abnormal returns and abnormal dollar market-cap changes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2652",
+    "before": null,
+    "after": "Broad-gate adjudication, not an explicit causal identification claim: §2.2 calls recalls significant adverse events after reporting market-model CARs and abnormal dollar decreases. Retain a linear expected-return imputation/OLS setting on that event-attribution reading; a narrower descriptive-return reading could reject it. The market-model no-event counterfactual is an interpretation, not a randomized untreated comparison. CRSP value-weighted market index; no estimation window, parameter-fitting details, or contemporaneous-news exclusion is stated. Mean CARs -.31%, -.63%, -1.11%; corresponding abnormal dollar decreases $46.94m, $126.58m, $256.45m. No stated market-capitalization benchmark is supplied, so dollar conversion alone adds no comparison. FDA severity-split CARs in fn16 remain classification validation, not a new severity intervention. Source: §2.2 pp1798–1799."
+  }
+]
+```
