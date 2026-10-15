@@ -28185,7 +28185,16 @@
     "L2880": "0",
     "M2880": "n/a",
     "N2880": "Table8 cols1-4: GDP growth effects on high-growth versus low-growth startup choice with two-step Heckman selection correction, conditional on financial conditions and including GDP-by-finance terms where reported.",
-    "O2880": "Final pp2540-41 explicitly says business cycle affects choice and second stage estimates effects of GDP growth and finance. Distinct estimator from h4/h5 probits. Exact second-stage link unknown, no linear treatment IV. GDP row -0.363,-0.810,0.041,2.778; lower-order coefficients are not unconditional total effects in interacted columns. No qualifying benchmark found. Source: Final Table8 pp2540-41 L2088-2158."
+    "O2880": "Final pp2540-41 explicitly says business cycle affects choice and second stage estimates effects of GDP growth and finance. Distinct estimator from h4/h5 probits. Exact second-stage link unknown, no linear treatment IV. GDP row -0.363,-0.810,0.041,2.778; lower-order coefficients are not unconditional total effects in interacted columns. No qualifying benchmark found. Source: Final Table8 pp2540-41 L2088-2158.",
+    "A2881": "NGGU7KDV",
+    "B2881": "h1",
+    "I2881": "1",
+    "J2881": "HDFE",
+    "K2881": "0",
+    "L2881": "0",
+    "M2881": "n/a",
+    "N2881": "Table2B: continuous lagged ownership share of NON-UN-PRI signatories on four log E&S outcomes; includes null environmental and positive social estimates.",
+    "O2881": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Source: pp699–700 Table2B; L463–475,L505–544."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76075,7 +76084,23 @@
     "A7037": "ME6H5V5K",
     "B7037": "h44",
     "C7037": "hy1",
-    "K7037": "High-growth rather than low-growth startup choice among entrants; second-stage selection-corrected outcome in Table8. Exact estimator link unresolved."
+    "K7037": "High-growth rather than low-growth startup choice among entrants; second-stage selection-corrected outcome in Table8. Exact estimator link unresolved.",
+    "A7038": "NGGU7KDV",
+    "B7038": "h1",
+    "C7038": "hy1",
+    "K7038": "Natural log of overall environmental score (equal category weights; 0–100 before log).",
+    "A7039": "NGGU7KDV",
+    "B7039": "h1",
+    "C7039": "hy2",
+    "K7039": "Natural log of proprietary ASSET4 environmental rank-based score (0–100 before log), NOT an outcome-SD unit.",
+    "A7040": "NGGU7KDV",
+    "B7040": "h1",
+    "C7040": "hy3",
+    "K7040": "Natural log of overall social score (equal category weights; 0–100 before log).",
+    "A7041": "NGGU7KDV",
+    "B7041": "h1",
+    "C7041": "hy4",
+    "K7041": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

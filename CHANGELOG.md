@@ -473430,3 +473430,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T12:03:02.369797+00:00 — Review NGGU7KDV h1: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7038",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7039",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7040",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7041",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7038",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7039",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7040",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7041",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7038",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7039",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7040",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7041",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7038",
+    "before": null,
+    "after": "Natural log of overall environmental score (equal category weights; 0–100 before log)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7039",
+    "before": null,
+    "after": "Natural log of proprietary ASSET4 environmental rank-based score (0–100 before log), NOT an outcome-SD unit."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7040",
+    "before": null,
+    "after": "Natural log of overall social score (equal category weights; 0–100 before log)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7041",
+    "before": null,
+    "after": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2881",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2881",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2881",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2881",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2881",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2881",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2881",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2881",
+    "before": null,
+    "after": "Table2B: continuous lagged ownership share of NON-UN-PRI signatories on four log E&S outcomes; includes null environmental and positive social estimates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2881",
+    "before": null,
+    "after": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Source: pp699–700 Table2B; L463–475,L505–544."
+  }
+]
+```
