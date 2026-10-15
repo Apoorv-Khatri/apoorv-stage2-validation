@@ -28030,7 +28030,16 @@
     "L2874": "0",
     "M2874": "n/a",
     "N2874": "Appendix TableG7: financial-crisis indicator with GDP moderation, all/low/high startup entry, include year FE.",
-    "O2874": "Final Section5.4 confirms substantive replication of the baseline probit framework; pp2510,2525 additionally establish all main results in Spain. Minimum-scope entry results only; no draft coefficients, exact column mapping, observation count or clustering imported. Do not transfer Spain-only country-FE caveat to this multicountry replication. Final says financial-crisis dummy becomes insignificant; retain null result. Source: Final pp2510,2525,2541-42; article.txt L158-160,L1071-1074,L2160-2193."
+    "O2874": "Final Section5.4 confirms substantive replication of the baseline probit framework; pp2510,2525 additionally establish all main results in Spain. Minimum-scope entry results only; no draft coefficients, exact column mapping, observation count or clustering imported. Do not transfer Spain-only country-FE caveat to this multicountry replication. Final says financial-crisis dummy becomes insignificant; retain null result. Source: Final pp2510,2525,2541-42; article.txt L158-160,L1071-1074,L2160-2193.",
+    "A2875": "ME6H5V5K",
+    "B2875": "h39",
+    "I2875": "1",
+    "J2875": "Other",
+    "K2875": "0",
+    "L2875": "0",
+    "M2875": "n/a",
+    "N2875": "Appendix TableG7: GZ spread with GDP moderation, all/low/high startup entry, include year FE.",
+    "O2875": "Final Section5.4 confirms substantive replication of the baseline probit framework; pp2510,2525 additionally establish all main results in Spain. Minimum-scope entry results only; no draft coefficients, exact column mapping, observation count or clustering imported. Do not transfer Spain-only country-FE caveat to this multicountry replication. Source: Final pp2510,2525,2541-42; article.txt L158-160,L1071-1074,L2160-2193."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -75811,7 +75820,19 @@
     "H7023": "1",
     "I7023": "1",
     "J7023": "none",
-    "K7023": "Indicator of starting a high-growth business (zero for all other respondents)."
+    "K7023": "Indicator of starting a high-growth business (zero for all other respondents).",
+    "A7024": "ME6H5V5K",
+    "B7024": "h39",
+    "C7024": "hy1",
+    "K7024": "Indicator of starting any business.",
+    "A7025": "ME6H5V5K",
+    "B7025": "h39",
+    "C7025": "hy2",
+    "K7025": "Indicator of starting a low-growth business (zero for all other respondents).",
+    "A7026": "ME6H5V5K",
+    "B7026": "h39",
+    "C7026": "hy3",
+    "K7026": "Indicator of starting a high-growth business (zero for all other respondents)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
