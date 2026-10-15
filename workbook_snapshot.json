@@ -27075,7 +27075,16 @@
     "L2784": "1",
     "M2784": "n/a",
     "N2784": "Expected outflow-induced demand on stock-quarter institutional demand shocks; TableVII cols2,3; treatment=negative manager flows allocated to sale of existing holdings.",
-    "O2784": "Author-intention gate, not an endorsement of causal identification. Observational explanatory regression; no IV/RCT/RD/DiD. pp1013–1014 says outflow effect greater than inflow effect; sign is derivative with respect to signed negative flow demand. Quarter standardization includes demeaning equivalent to quarter dummies (fn33), but its stated purpose is time variation/secular ownership growth, not a separate identifying-FE strategy absorbing unobserved confounders. Code OLS while preserving actual preprocessing. One calendar dimension, never HDFE. No no-FE counterpart requiring a split. Other explanatory variables retained as joint controls; separately listed here only because each has explicit substantive mechanism interpretation. Source: Main TableVII pp1013–1016."
+    "O2784": "Author-intention gate, not an endorsement of causal identification. Observational explanatory regression; no IV/RCT/RD/DiD. pp1013–1014 says outflow effect greater than inflow effect; sign is derivative with respect to signed negative flow demand. Quarter standardization includes demeaning equivalent to quarter dummies (fn33), but its stated purpose is time variation/secular ownership growth, not a separate identifying-FE strategy absorbing unobserved confounders. Code OLS while preserving actual preprocessing. One calendar dimension, never HDFE. No no-FE counterpart requiring a split. Other explanatory variables retained as joint controls; separately listed here only because each has explicit substantive mechanism interpretation. Source: Main TableVII pp1013–1016.",
+    "A2785": "LVRD3VXI",
+    "B2785": "h3",
+    "I2785": "1",
+    "J2785": "OLS",
+    "K2785": "0",
+    "L2785": "1",
+    "M2785": "n/a",
+    "N2785": "Lag institutional demand shock on stock-quarter institutional demand shocks; TableVII cols3; treatment=previous-quarter change in institutional shares held/outstanding.",
+    "O2785": "Author-intention gate, not an endorsement of causal identification. Observational explanatory regression; no IV/RCT/RD/DiD. pp1015–1016 interprets as institutional herding. Quarter standardization includes demeaning equivalent to quarter dummies (fn33), but its stated purpose is time variation/secular ownership growth, not a separate identifying-FE strategy absorbing unobserved confounders. Code OLS while preserving actual preprocessing. One calendar dimension, never HDFE. No no-FE counterpart requiring a split. Other explanatory variables retained as joint controls; separately listed here only because each has explicit substantive mechanism interpretation. Source: Main TableVII pp1013–1016."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73797,7 +73806,11 @@
     "A6832": "LVRD3VXI",
     "B6832": "h2",
     "C6832": "hy1",
-    "K6832": "Fraction of outstanding stock shares moving from individual to institutional investors in quarter t; rescaled each quarter to zero mean and unit variance, TableVII. Standardized demand, not binary receipt."
+    "K6832": "Fraction of outstanding stock shares moving from individual to institutional investors in quarter t; rescaled each quarter to zero mean and unit variance, TableVII. Standardized demand, not binary receipt.",
+    "A6833": "LVRD3VXI",
+    "B6833": "h3",
+    "C6833": "hy1",
+    "K6833": "Fraction of outstanding stock shares moving from individual to institutional investors in quarter t; rescaled each quarter to zero mean and unit variance, TableVII. Standardized demand, not binary receipt."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -128945,7 +128958,18 @@
     "O4997": "1",
     "P4997": "unknown",
     "Q4997": "Main TableVII p1014 / fn33 p1013. Focal estimate: Expected outflow-induced demand coefficient 0.124 outcome-SD units, column(3); regressors also quarter-standardized. Benchmark: cross-sectional SD of institutional demand shocks in each quarter; TableVII caption and fn33.",
-    "R4997": "Quarter-specific outcome SD is explicit; a single continuous-regression target and corresponding cross-quarter weighting/SD population match are not established."
+    "R4997": "Quarter-specific outcome SD is explicit; a single continuous-regression target and corresponding cross-quarter weighting/SD population match are not established.",
+    "A4998": "LVRD3VXI",
+    "B4998": "h3",
+    "C4998": "hc1",
+    "K4998": "1",
+    "L4998": "hy1",
+    "M4998": "outcome_sd",
+    "N4998": "0",
+    "O4998": "1",
+    "P4998": "unknown",
+    "Q4998": "Main TableVII p1014 / fn33 p1013. Focal estimate: Lag institutional demand shock coefficient 0.081 outcome-SD units, column(3); regressors also quarter-standardized. Benchmark: cross-sectional SD of institutional demand shocks in each quarter; TableVII caption and fn33.",
+    "R4998": "Quarter-specific outcome SD is explicit; a single continuous-regression target and corresponding cross-quarter weighting/SD population match are not established."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
