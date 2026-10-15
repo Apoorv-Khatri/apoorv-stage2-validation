@@ -28383,7 +28383,16 @@
     "L2902": "1",
     "M2902": "n/a",
     "N2902": "Table8: continuous foreign IO share of hedge funds from low-norm countries, World Value E&S Index median grouping. Four log E&S outcomes; positive and null coefficients retained according to investor-type hypothesis.",
-    "O2902": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Source: pp708,710–711 Table8A/B; L1100–1144,L1212–1327."
+    "O2902": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Source: pp708,710–711 Table8A/B; L1100–1144,L1212–1327.",
+    "A2903": "NGGU7KDV",
+    "B2903": "h23",
+    "I2903": "1",
+    "J2903": "DiD_conventional",
+    "K2903": "0",
+    "L2903": "0",
+    "M2903": "n/a",
+    "N2903": "OB2 A within-extractive-industry: Deepwater Horizon × continuous pre-event institutional ownership on SOCIAL performance; no shock impact reported. Identical structure to Table3, not merely a pretrend diagnostic.",
+    "O2903": "Final article explicitly states identical Table3 structure and substantive null social response; exact estimates unavailable. Source: p701 Section3.2 OB2; L639–645."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76569,7 +76578,15 @@
     "A7111": "NGGU7KDV",
     "B7111": "h22",
     "C7111": "hy4",
-    "K7111": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
+    "K7111": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit.",
+    "A7112": "NGGU7KDV",
+    "B7112": "h23",
+    "C7112": "hy1",
+    "K7112": "Natural log of overall social score (equal category weights; 0–100 before log).",
+    "A7113": "NGGU7KDV",
+    "B7113": "h23",
+    "C7113": "hy2",
+    "K7113": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
