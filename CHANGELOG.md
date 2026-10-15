@@ -473307,3 +473307,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T12:02:41.121539+00:00 — Review NGGU7KDV s15: source-audited coding and linked comparisons
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K343",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K344",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R343",
+    "before": null,
+    "after": "Effect-to-effect ratio (US versus non-US estimated impact), not an outcome mean/SD/level benchmark. other_level is not a catch-all for another estimate. Printed two-thirds/one-half prose retained; footnote arithmetic conflicts with literal Table6/Table9 values (see evidence)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R344",
+    "before": null,
+    "after": "Effect-to-effect ratio (US versus non-US estimated impact), not an outcome mean/SD/level benchmark. other_level is not a catch-all for another estimate. Printed two-thirds/one-half prose retained; footnote arithmetic conflicts with literal Table6/Table9 values (see evidence). Treatment split places the substantive social estimate at h55; this original comparison remains rejected and is not copied or reactivated. Original parent and model link preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1419",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1420",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1419",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1420",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1419",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1420",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1419",
+    "before": null,
+    "after": "duplicate of h55/hy1 after treatment split; outside retained EPI-only setting. Original model row and IDs preserved; active social outcome is under the Employment Laws Index treatment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1420",
+    "before": null,
+    "after": "duplicate of h55/hy2 after treatment split; outside retained EPI-only setting. Original model row and IDs preserved; active social outcome is under the Employment Laws Index treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I569",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J569",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K569",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L569",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M569",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N569",
+    "before": null,
+    "after": "Table9 Panel B, columns 1 and 3: US firms; continuous lagged foreign ownership share of all institutional investors domiciled in HIGH-norm countries (EPI median split). Outcomes: natural logs of overall and proprietary environmental scores. Employment-Laws-defined social treatment is separate at h55; WVS definitions remain separate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O569",
+    "before": null,
+    "after": "Table9 marks country FE Yes but all firms US domiciled: country dimension is constant. Effective industry/year sets=2. Same identifying rationale as baseline. Visual table verification retained printed country row. Domestic social coefficients significant despite broad introductory null rhetoric. Literal treatment split: EPI and Employment Laws Index define different origin-country ownership regressors, not sample variants. Same-index overall/proprietary outcomes remain grouped. Source: p712 Table9B/C columns 1,3; article.txt L1331–1417."
+  }
+]
+```
