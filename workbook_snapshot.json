@@ -27632,7 +27632,16 @@
     "L2838": "0",
     "M2838": "n/a",
     "N2838": "Section5.3 unreported Table7 replications: Congressional Connection x BAN effect, residual-bootstrap and unweighted linear regression versions; qualitatively robust. No coefficients reported.",
-    "O2838": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Source: p88 Section5.3 L1422-1453."
+    "O2838": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Source: p88 Section5.3 L1422-1453.",
+    "A2839": "MBWIN7NL",
+    "B2839": "h44",
+    "I2839": "1",
+    "J2839": "DiD_conventional",
+    "K2839": "0",
+    "L2839": "0",
+    "M2839": "n/a",
+    "N2839": "Section5.3 unreported Table7 replications: Politically Affiliated Trustees x BAN effect, residual-bootstrap and unweighted linear regression versions; qualitatively robust. No coefficients reported.",
+    "O2839": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Board share of active/former legislators, Congress members, ex officio, governor-appointed or state-representative-elected trustees (TableB1). Source: p88 Section5.3 L1422-1453."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74861,7 +74870,19 @@
     "H6929": "0",
     "I6929": "unknown",
     "J6929": "none",
-    "K6929": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+    "K6929": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one.",
+    "A6930": "MBWIN7NL",
+    "B6930": "h44",
+    "C6930": "hy1",
+    "K6930": "Local Bias: local-firm portfolio weight / market weight minus one.",
+    "A6931": "MBWIN7NL",
+    "B6931": "h44",
+    "C6931": "hy2",
+    "K6931": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one.",
+    "A6932": "MBWIN7NL",
+    "B6932": "h44",
+    "C6932": "hy3",
+    "K6932": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
