@@ -457530,3 +457530,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:55:26.808051+00:00 — Review MBWIN7NL s10: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I543",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J543",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K543",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L543",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M543",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N543",
+    "before": null,
+    "after": "Table11 bootstrap performance robustness: lagged Local Contribution Bias, columns2,5(WLS) and8,11(unweighted); medians -0.0053,-0.0060,-0.0035,-0.0057. Time FE all columns and state FE5,11."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O543",
+    "before": null,
+    "after": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Residual-resampling1000 replications; paper says without replacement. WLS/unweighted routine weighting variants grouped here, distinct treatment split. Source: pp86,88 Table11; L1288-1335,L1422-1491."
+  }
+]
+```
