@@ -454173,3 +454173,222 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:07:13.257994+00:00 — Review LVRD3VXI h2: source-audited coding and linked comparisons
+
+35 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4996",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4997",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4996",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4997",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4996",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4997",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4996",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4997",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4996",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4997",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4996",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4997",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4996",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4997",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4996",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4997",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4996",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4997",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4996",
+    "before": null,
+    "after": "Main TableVII p1014 / fn33 p1013. Focal estimate: Expected outflow-induced demand coefficient 0.121 outcome-SD units, column(2); regressors also quarter-standardized. Benchmark: cross-sectional SD of institutional demand shocks in each quarter; TableVII caption and fn33."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4997",
+    "before": null,
+    "after": "Main TableVII p1014 / fn33 p1013. Focal estimate: Expected outflow-induced demand coefficient 0.124 outcome-SD units, column(3); regressors also quarter-standardized. Benchmark: cross-sectional SD of institutional demand shocks in each quarter; TableVII caption and fn33."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4996",
+    "before": null,
+    "after": "Quarter-specific outcome SD is explicit; a single continuous-regression target and corresponding cross-quarter weighting/SD population match are not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4997",
+    "before": null,
+    "after": "Quarter-specific outcome SD is explicit; a single continuous-regression target and corresponding cross-quarter weighting/SD population match are not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6832",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6832",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6832",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6832",
+    "before": null,
+    "after": "Fraction of outstanding stock shares moving from individual to institutional investors in quarter t; rescaled each quarter to zero mean and unit variance, TableVII. Standardized demand, not binary receipt."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2784",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2784",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2784",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2784",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2784",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2784",
+    "before": null,
+    "after": "Expected outflow-induced demand on stock-quarter institutional demand shocks; TableVII cols2,3; treatment=negative manager flows allocated to sale of existing holdings."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2784",
+    "before": null,
+    "after": "Author-intention gate, not an endorsement of causal identification. Observational explanatory regression; no IV/RCT/RD/DiD. pp1013–1014 says outflow effect greater than inflow effect; sign is derivative with respect to signed negative flow demand. Quarter standardization includes demeaning equivalent to quarter dummies (fn33), but its stated purpose is time variation/secular ownership growth, not a separate identifying-FE strategy absorbing unobserved confounders. Code OLS while preserving actual preprocessing. One calendar dimension, never HDFE. No no-FE counterpart requiring a split. Other explanatory variables retained as joint controls; separately listed here only because each has explicit substantive mechanism interpretation. Source: Main TableVII pp1013–1016."
+  }
+]
+```
