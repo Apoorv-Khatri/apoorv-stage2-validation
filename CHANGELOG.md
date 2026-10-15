@@ -413796,3 +413796,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T04:12:31.601098+00:00 — Review KKKD4ZV5 s3: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K308",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R308",
+    "before": null,
+    "after": "Reject: NOK versus JPY sensitivities compare two estimated slopes, not a focal RPVE effect against an RPVE level/mean/SD. other_level cannot be an effect-ratio catch-all."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1270",
+    "before": null,
+    "after": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I508",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J508",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K508",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L508",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M508",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N508",
+    "before": null,
+    "after": "Average illiquidity of indirect EURUSD triangle legs affects RPVE pricing errors, Table5 Base and continuous-dose coefficients in holiday/SNB interacted variants; β estimates across seven triplets."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O508",
+    "before": null,
+    "after": "Retain continuous-dose β, including routine interacted variants; distinct binary holiday/SNB exposure effects are h2–h4. No FE or DiD: this is conditional level/slope regression, not a treated/control parallel-trends design. Base β: CHF .097, GBP .073, NOK .304, SEK .186, AUD .074, CAD .055, JPY .071. Main because liquidity constraining arbitrage is central. Figure6 monthly scatter is not an extra fitted estimator. Source: §5.1 pp871–873 Eq4 Table5; §5.2 p874."
+  }
+]
+```
