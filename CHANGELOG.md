@@ -466251,3 +466251,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T10:56:10.678342+00:00 — Review ME6H5V5K s11: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1372",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I554",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J554",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K554",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L554",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M554",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N554",
+    "before": null,
+    "after": "Table8 cols1-2: financial-crisis binary exposure on high-growth rather than low-growth startup choice with two-step Heckman selection correction; GDP interaction in col2, absent col1. Excluded demographics in selection equation are not linear-IV treatment instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O554",
+    "before": null,
+    "after": "Table8 and pp2540-41 explicitly establish two-step Heckman selection correction, but do not specify the second-stage link or enough implementation detail to choose linear FE/OLS versus nonlinear Other. Method unknown; known selection correction is not linear treatment IV (IV type n/a). Demographic exclusions concern selection, not an instrumented financial treatment. Caption omits macro first-stage regressors that prose includes. Sector value-added title versus gross-output construction also preserved. Source: pp2540-41 Table8; L2088-2158."
+  }
+]
+```
