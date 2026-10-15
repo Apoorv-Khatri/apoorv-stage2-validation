@@ -472845,3 +472845,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T12:00:10.904790+00:00 — Review NGGU7KDV s9: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1395",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1396",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1395",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1396",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1395",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1396",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1395",
+    "before": null,
+    "after": "ASSET4 environmental performance score(s) in OB8B. Final text does not resolve exact aggregation/estimated scale; do not infer zeros from bounded raw score or copy log from baseline without appendix."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1396",
+    "before": null,
+    "after": "ASSET4 social performance score(s) in OB8B. Final text does not resolve exact aggregation/estimated scale; do not infer zeros from bounded raw score or copy log from baseline without appendix."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I563",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J563",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K563",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L563",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M563",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N563",
+    "before": null,
+    "after": "OB8B Canadian firms: binary proposal exposure for two years after submission on environmental and social ASSET4 performance; minimum main-text scope, positive significant E, insignificant S; exact measures/scale and remaining FE unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O563",
+    "before": null,
+    "after": "p703 L750–762 confirms a regression similar to baseline with a binary proposal indicator, not an explicit FE list. If baseline industry/year FE are retained, Canadian sample has two effective dimensions and FE is appropriate; absent OB8, method is unknown rather than asserting that conditional implementation. Non-IV regression is sufficiently clear for IV_type=n/a. Not DiD merely because exposure follows submission. Outcome transformations and zero mass remain unknown. Source: p703 Section4.2 OB8B; L731–768."
+  }
+]
+```
