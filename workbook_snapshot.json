@@ -27452,7 +27452,16 @@
     "L2818": "0",
     "M2818": "n/a",
     "N2818": "Table8: Fin_Expertise Trustees effect on annual Risk Shift. More finance expertise interpreted as less risky investment.",
-    "O2818": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Percentage of board trustees with finance-industry/sector experience (TableB1). Source: pp83-85,87 Table8; L1053-1098,L1272-1282,L1339-1349."
+    "O2818": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Percentage of board trustees with finance-industry/sector experience (TableB1). Source: pp83-85,87 Table8; L1053-1098,L1272-1282,L1339-1349.",
+    "A2819": "MBWIN7NL",
+    "B2819": "h24",
+    "I2819": "1",
+    "J2819": "FE",
+    "K2819": "0",
+    "L2819": "0",
+    "M2819": "n/a",
+    "N2819": "Table8: New Public Integrity Index effect on annual Risk Shift. Higher integrity interpreted as less risky investment; -5.341/-5.460.",
+    "O2819": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Inverse integrity rank multiplied by bills passed measure. Prose p82 uses NUMBER of introduced bills that became law sponsored by state politicians; AppendixB uses PERCENTAGE of bills passed in state. Preserve construction conflict. Source: pp83-85,87 Table8; L1053-1098,L1272-1282,L1339-1349."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74504,7 +74513,11 @@
     "A6896": "MBWIN7NL",
     "B6896": "h23",
     "C6896": "hy1",
-    "K6896": "Risk Shift: annual change in share allocated to equities, real estate, private equity, hedge funds and other alternatives; not risky-asset stock level."
+    "K6896": "Risk Shift: annual change in share allocated to equities, real estate, private equity, hedge funds and other alternatives; not risky-asset stock level.",
+    "A6897": "MBWIN7NL",
+    "B6897": "h24",
+    "C6897": "hy1",
+    "K6897": "Risk Shift: annual change in share allocated to equities, real estate, private equity, hedge funds and other alternatives; not risky-asset stock level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
