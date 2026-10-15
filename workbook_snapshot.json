@@ -26434,7 +26434,16 @@
     "L2727": "1",
     "M2727": "n/a",
     "N2727": "FX implied volatility VXY (uncertainty/global fear) and Daily trading volume for each currency pair from CLS, Daily realized power variation (RPV), i.e., daily realized volatility based on intraday absolute returns., Daily realized Amihud illiquidity, defined as daily RPV divided by daily trading volume, Table2.",
-    "O2727": "The p867 correlation-rather-than-causation disclaimer is genuine counterevidence. Nevertheless p868 gives parameter-specific interpretations (discourage, disincentivize, negative impact, and reaction to strains), and abstract/conclusion elevate liquidity determinants. Under the broad author-intention rule retain these interpreted parameters, not every control. This is a contested gate judgment, not a claim that endogeneity has been solved. Pooled linear regression with lagged outcome and weekday dummies; no identifying FE argument. Table2 says levels, not logs; do not import Table4 log scale. Exact numerical rescaling behind prose percentage interpretation is undocumented. p868 says disincentivizes trading and increases volatility; main liquidity response also interpreted. Source: §4.1 pp867–869, Eq2 Table2; abstract p859 and conclusion p879."
+    "O2727": "The p867 correlation-rather-than-causation disclaimer is genuine counterevidence. Nevertheless p868 gives parameter-specific interpretations (discourage, disincentivize, negative impact, and reaction to strains), and abstract/conclusion elevate liquidity determinants. Under the broad author-intention rule retain these interpreted parameters, not every control. This is a contested gate judgment, not a claim that endogeneity has been solved. Pooled linear regression with lagged outcome and weekday dummies; no identifying FE argument. Table2 says levels, not logs; do not import Table4 log scale. Exact numerical rescaling behind prose percentage interpretation is undocumented. p868 says disincentivizes trading and increases volatility; main liquidity response also interpreted. Source: §4.1 pp867–869, Eq2 Table2; abstract p859 and conclusion p879.",
+    "A2728": "KKKD4ZV5",
+    "B2728": "h14",
+    "I2728": "1",
+    "J2728": "OLS",
+    "K2728": "0",
+    "L2728": "1",
+    "M2728": "n/a",
+    "N2728": "Uncertainty component UNC of FX VIX and Daily trading volume for each currency pair from CLS, Daily realized power variation (RPV), i.e., daily realized volatility based on intraday absolute returns., Daily realized Amihud illiquidity, defined as daily RPV divided by daily trading volume, Daily relative bid-ask spread (BAS), the daily average of one-minute spreads relative to the midquote, Table2.",
+    "O2728": "The p867 correlation-rather-than-causation disclaimer is genuine counterevidence. Nevertheless p868 gives parameter-specific interpretations (discourage, disincentivize, negative impact, and reaction to strains), and abstract/conclusion elevate liquidity determinants. Under the broad author-intention rule retain these interpreted parameters, not every control. This is a contested gate judgment, not a claim that endogeneity has been solved. Pooled linear regression with lagged outcome and weekday dummies; no identifying FE argument. Table2 says levels, not logs; do not import Table4 log scale. Exact numerical rescaling behind prose percentage interpretation is undocumented. p868 negative impact on trading volume and stronger trading-impact than transaction-cost response; include nulls. Source: §4.1 pp867–869, Eq2 Table2; abstract p859 and conclusion p879."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -72186,7 +72195,23 @@
     "A6695": "KKKD4ZV5",
     "B6695": "h13",
     "C6695": "hy3",
-    "K6695": "Daily realized Amihud illiquidity, defined as daily RPV divided by daily trading volume; price impact of trading volume. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated."
+    "K6695": "Daily realized Amihud illiquidity, defined as daily RPV divided by daily trading volume; price impact of trading volume. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated.",
+    "A6696": "KKKD4ZV5",
+    "B6696": "h14",
+    "C6696": "hy1",
+    "K6696": "Daily trading volume for each currency pair from CLS; one-sided FX trading volume. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated.",
+    "A6697": "KKKD4ZV5",
+    "B6697": "h14",
+    "C6697": "hy2",
+    "K6697": "Daily realized power variation (RPV), i.e., daily realized volatility based on intraday absolute returns. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated.",
+    "A6698": "KKKD4ZV5",
+    "B6698": "h14",
+    "C6698": "hy3",
+    "K6698": "Daily realized Amihud illiquidity, defined as daily RPV divided by daily trading volume; price impact of trading volume. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated.",
+    "A6699": "KKKD4ZV5",
+    "B6699": "h14",
+    "C6699": "hy4",
+    "K6699": "Daily relative bid-ask spread (BAS), the daily average of one-minute spreads relative to the midquote; transaction-cost measure. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

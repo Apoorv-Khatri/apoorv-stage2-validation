@@ -415803,3 +415803,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T06:32:25.975896+00:00 — Review KKKD4ZV5 h14: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6696",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6697",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6698",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6699",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6696",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6697",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6698",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6699",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6696",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6697",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6698",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6699",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6696",
+    "before": null,
+    "after": "Daily trading volume for each currency pair from CLS; one-sided FX trading volume. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6697",
+    "before": null,
+    "after": "Daily realized power variation (RPV), i.e., daily realized volatility based on intraday absolute returns. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6698",
+    "before": null,
+    "after": "Daily realized Amihud illiquidity, defined as daily RPV divided by daily trading volume; price impact of trading volume. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6699",
+    "before": null,
+    "after": "Daily relative bid-ask spread (BAS), the daily average of one-minute spreads relative to the midquote; transaction-cost measure. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2728",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2728",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2728",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2728",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2728",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2728",
+    "before": null,
+    "after": "Uncertainty component UNC of FX VIX and Daily trading volume for each currency pair from CLS, Daily realized power variation (RPV), i.e., daily realized volatility based on intraday absolute returns., Daily realized Amihud illiquidity, defined as daily RPV divided by daily trading volume, Daily relative bid-ask spread (BAS), the daily average of one-minute spreads relative to the midquote, Table2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2728",
+    "before": null,
+    "after": "The p867 correlation-rather-than-causation disclaimer is genuine counterevidence. Nevertheless p868 gives parameter-specific interpretations (discourage, disincentivize, negative impact, and reaction to strains), and abstract/conclusion elevate liquidity determinants. Under the broad author-intention rule retain these interpreted parameters, not every control. This is a contested gate judgment, not a claim that endogeneity has been solved. Pooled linear regression with lagged outcome and weekday dummies; no identifying FE argument. Table2 says levels, not logs; do not import Table4 log scale. Exact numerical rescaling behind prose percentage interpretation is undocumented. p868 negative impact on trading volume and stronger trading-impact than transaction-cost response; include nulls. Source: §4.1 pp867–869, Eq2 Table2; abstract p859 and conclusion p879."
+  }
+]
+```
