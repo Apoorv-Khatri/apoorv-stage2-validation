@@ -414042,3 +414042,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T06:27:35.039288+00:00 — Review KKKD4ZV5 h1: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6676",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6676",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6676",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6676",
+    "before": null,
+    "after": "Current daily log relative bid-ask spread (BAS); reverse cross-lag outcome, coefficient −.007 on lagged log Amihud."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2715",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2715",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2715",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2715",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2715",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2715",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2715",
+    "before": null,
+    "after": "Lagged log realized Amihud affects current log relative bid-ask spread; Table4 reverse VAR-X cross-lag −.007, not significant."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2715",
+    "before": null,
+    "after": "Substantive reverse-direction null explicitly described as not vice versa. Include null, not diagnostic-only autoregression. Separate continuous treatment from s2; no FE, IV or structural innovation restriction reported. Source: §4.2 p871 Table4."
+  }
+]
+```

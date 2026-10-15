@@ -26317,7 +26317,16 @@
     "L2714": "0",
     "M2714": "n/a",
     "N2714": "Lagged public normalized limit-order imbalance LOIB (four 15-minute lags) and HFT inventory change, Table9 col3; jointly controls other signals and inventory.",
-    "O2714": "Split distinct treatment from former h9 signal vector. Authors interpret higher-lag negative imbalance response as HFT information advantage and competitive demand, not merely prediction fit; broad gate retained, predictive-only exclusion contested. Explicit OLS, no established identifying FE. Four lag coefficients −.000,−.003,−.002,−.003. LOIB uses net share size of buy versus sell limit orders, demeaned/divided by past-month SD. Preserve signed printed −.000 and nonsignificant first lag; do not significance-filter. Outcome denominator remains inventory-level SD, not change SD; no benchmark comparison. Source: pp1063–1064; Table9 col3."
+    "O2714": "Split distinct treatment from former h9 signal vector. Authors interpret higher-lag negative imbalance response as HFT information advantage and competitive demand, not merely prediction fit; broad gate retained, predictive-only exclusion contested. Explicit OLS, no established identifying FE. Four lag coefficients −.000,−.003,−.002,−.003. LOIB uses net share size of buy versus sell limit orders, demeaned/divided by past-month SD. Preserve signed printed −.000 and nonsignificant first lag; do not significance-filter. Outcome denominator remains inventory-level SD, not change SD; no benchmark comparison. Source: pp1063–1064; Table9 col3.",
+    "A2715": "KKKD4ZV5",
+    "B2715": "h1",
+    "I2715": "1",
+    "J2715": "OLS",
+    "K2715": "0",
+    "L2715": "0",
+    "M2715": "n/a",
+    "N2715": "Lagged log realized Amihud affects current log relative bid-ask spread; Table4 reverse VAR-X cross-lag −.007, not significant.",
+    "O2715": "Substantive reverse-direction null explicitly described as not vice versa. Include null, not diagnostic-only autoregression. Separate continuous treatment from s2; no FE, IV or structural innovation restriction reported. Source: §4.2 p871 Table4."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71956,7 +71965,11 @@
     "A6675": "KJGA8A2C",
     "B6675": "h24",
     "C6675": "hy1",
-    "K6675": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE."
+    "K6675": "15-minute change ΔI in inventory standardized using previous-month mean and SD of INVENTORY LEVEL I. ΔI is not normalized by its own change SD; code other, not automatic outcome_sd comparison. Demeaning removes unobserved initial inventory; normalization adjusts risk-aversion comparability, not absorbed FE.",
+    "A6676": "KKKD4ZV5",
+    "B6676": "h1",
+    "C6676": "hy1",
+    "K6676": "Current daily log relative bid-ask spread (BAS); reverse cross-lag outcome, coefficient −.007 on lagged log Amihud."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
