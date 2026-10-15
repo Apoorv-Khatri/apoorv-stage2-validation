@@ -485325,3 +485325,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:45:56.767194+00:00 — Review NSKXG8S6 s7: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1429",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1430",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1429",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1430",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1429",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1430",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1429",
+    "before": null,
+    "after": "Scope restricted to independently estimated Table8 cols1–2; corresponding joint-ML outcome added under h2. Firm-year count of explorative patents (truncation-adjusted), defined as patents with no self-citations."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1430",
+    "before": null,
+    "after": "Scope restricted to independently estimated Table8 cols1–2; corresponding joint-ML outcome added under h2. Firm-year count of exploitative patents (truncation-adjusted), defined as patents with at least one self-citation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I576",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J576",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K576",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L576",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M576",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N576",
+    "before": null,
+    "after": "Table8 cols1–2: independently estimated linear conventional DiD for log(1+explorative patent count) and log(1+exploitative patent count), coefficients -0.160 and -0.078; same binary Treat, firm and year FE. Joint maximum-likelihood cols3–4 separated into h2 because implemented estimator is insufficiently specified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O576",
+    "before": null,
+    "after": "Do not classify ML automatically Other or assume Gaussian SUR. h2 retains known binary treatment and outcomes with unknown method pending likelihood details. Source: Final pp1990–1991 Table8; L1573–1664."
+  }
+]
+```
