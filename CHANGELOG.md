@@ -436302,3 +436302,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:18:59.828576+00:00 — Review L5V28EJD s8: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I526",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J526",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K526",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L526",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M526",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N526",
+    "before": null,
+    "after": "Lagged leveraged-loan index returns on quarterly mutual-fund and distressed-hedge-fund flows; Table12 Panels A/B finite-lag linear regressions. Long-run VAR responses split h14/h15."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O526",
+    "before": null,
+    "after": "No fixed effects appear in Eq11 or Table12: original FE label unsupported. Linear dynamic OLS response interpretation includes statistically insignificant return coefficients. Lagged own flow controls not automatically separate causal treatments; the explicitly interpreted VAR flow shock is h15. Source: Main pp1141–1143 Eq11 Table12."
+  }
+]
+```
