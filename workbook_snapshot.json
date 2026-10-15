@@ -27272,7 +27272,16 @@
     "L2798": "1",
     "M2798": "n/a",
     "N2798": "Table2 PanelB monthly post-buy factor-adjusted portfolio-return contrast. Local held versus local not-held stocks, within political-activity strata; nonpolitical difference 0.0146 (0.0166 versus 0.0020); other strata null. Tests informational selection advantage.",
-    "O2798": "Matching is benchmark preprocessing before calendar-time factor regressions. Alphas are regression-adjusted intercepts, not raw outcome means. Source: p74 Table2B; L379-451."
+    "O2798": "Matching is benchmark preprocessing before calendar-time factor regressions. Alphas are regression-adjusted intercepts, not raw outcome means. Source: p74 Table2B; L379-451.",
+    "A2799": "MBWIN7NL",
+    "B2799": "h4",
+    "I2799": "1",
+    "J2799": "OLS",
+    "K2799": "1",
+    "L2799": "1",
+    "M2799": "n/a",
+    "N2799": "Table2 PanelB monthly post-buy factor-adjusted portfolio-return contrast. Local versus nonlocal held stocks, within political-activity strata; all local-minus-nonlocal differences insignificant (0.0031,-0.0056,-0.0040,-0.0046). Tests locality information advantage.",
+    "O2799": "Matching is benchmark preprocessing before calendar-time factor regressions. Alphas are regression-adjusted intercepts, not raw outcome means. Source: p74 Table2B; L379-451."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74112,7 +74121,14 @@
     "H6849": "0",
     "I6849": "unknown",
     "J6849": "none",
-    "K6849": "Monthly portfolio return adjusted for FF3 plus momentum; alpha differences in monthly return units."
+    "K6849": "Monthly portfolio return adjusted for FF3 plus momentum; alpha differences in monthly return units.",
+    "A6850": "MBWIN7NL",
+    "B6850": "h4",
+    "C6850": "hy1",
+    "H6850": "0",
+    "I6850": "unknown",
+    "J6850": "none",
+    "K6850": "Monthly portfolio return adjusted for FF3 plus momentum; alpha differences in monthly return units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

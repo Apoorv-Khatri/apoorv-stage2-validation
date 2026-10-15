@@ -457896,3 +457896,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:56:51.153293+00:00 — Review MBWIN7NL h4: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6850",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6850",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6850",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6850",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6850",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6850",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6850",
+    "before": null,
+    "after": "Monthly portfolio return adjusted for FF3 plus momentum; alpha differences in monthly return units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2799",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2799",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2799",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2799",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2799",
+    "before": null,
+    "after": "Table2 PanelB monthly post-buy factor-adjusted portfolio-return contrast. Local versus nonlocal held stocks, within political-activity strata; all local-minus-nonlocal differences insignificant (0.0031,-0.0056,-0.0040,-0.0046). Tests locality information advantage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2799",
+    "before": null,
+    "after": "Matching is benchmark preprocessing before calendar-time factor regressions. Alphas are regression-adjusted intercepts, not raw outcome means. Source: p74 Table2B; L379-451."
+  }
+]
+```
