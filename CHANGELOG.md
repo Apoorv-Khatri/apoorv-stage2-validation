@@ -451290,3 +451290,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:04:04.124964+00:00 — Review LVRD3VXI s2: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1305",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1306",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1307",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1308",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1305",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1306",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1307",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1308",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1305",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1306",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1307",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1308",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1305",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1306",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1307",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1308",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I528",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O528",
+    "before": null,
+    "after": "Alternative risk timing and changes test robustness of the descriptive demand-capture inference. No independently interpreted causal parameter in TableIII. Measurement-error simulations referenced in appendix are diagnostics, not causal effects on investor outcomes. Source: Main pp995–999 TableIII; L578–808."
+  }
+]
+```
