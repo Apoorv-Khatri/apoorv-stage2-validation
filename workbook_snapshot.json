@@ -28437,7 +28437,16 @@
     "L2908": "0",
     "M2908": "n/a",
     "N2908": "Untabulated Table2A robustness adding country×year OR industry×year FE to absorb time trends; same total IO and four outcomes. Routine FE interaction variants pooled.",
-    "O2908": "Country×year absorbs country and year, with industry remaining; industry×year absorbs industry/year, with country remaining: two effective sets, not HDFE despite cumulatively described battery. Identifying trend rationale explicit. Source: p700 fn8 untabulated; L558–570."
+    "O2908": "Country×year absorbs country and year, with industry remaining; industry×year absorbs industry/year, with country remaining: two effective sets, not HDFE despite cumulatively described battery. Identifying trend rationale explicit. Source: p700 fn8 untabulated; L558–570.",
+    "A2909": "NGGU7KDV",
+    "B2909": "h29",
+    "I2909": "1",
+    "J2909": "HDFE",
+    "K2909": "0",
+    "L2909": "0",
+    "M2909": "n/a",
+    "N2909": "OB5 baseline ownership effect using Sustainalytics E&S data; positive significant implemented results.",
+    "O2909": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Final confirms reestimation of baseline model; provider-specific measures and estimates unverified. Source: p702 Section3.3 OB5; L658–670."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76719,7 +76728,15 @@
     "A7135": "NGGU7KDV",
     "B7135": "h28",
     "C7135": "hy4",
-    "K7135": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
+    "K7135": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit.",
+    "A7136": "NGGU7KDV",
+    "B7136": "h29",
+    "C7136": "hy1",
+    "K7136": "Sustainalytics environmental performance; exact score/scale unknown.",
+    "A7137": "NGGU7KDV",
+    "B7137": "h29",
+    "C7137": "hy2",
+    "K7137": "Sustainalytics social performance; exact score/scale unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
