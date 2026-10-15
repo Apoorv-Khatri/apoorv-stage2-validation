@@ -27596,7 +27596,16 @@
     "L2834": "1",
     "M2834": "n/a",
     "N2834": "Section4.1 fn21: Elected Trustees (share elected by state employees) replaces politically affiliated share in Table6 analysis. Positive Local Bias and negative local political-bias relations reported.",
-    "O2834": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Distinct trustee definition even though correlation with political share is close to-1; no numeric coefficients available. Main=1: conclusion p88 explicitly states political bias is stronger (weaker) with politically affiliated (elected) trustees. Although the numeric test is unreported in fn21, this treatment materially supports that central conclusion. Source: p81 fn21 L965-973."
+    "O2834": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Distinct trustee definition even though correlation with political share is close to-1; no numeric coefficients available. Main=1: conclusion p88 explicitly states political bias is stronger (weaker) with politically affiliated (elected) trustees. Although the numeric test is unreported in fn21, this treatment materially supports that central conclusion. Source: p81 fn21 L965-973.",
+    "A2835": "MBWIN7NL",
+    "B2835": "h40",
+    "I2835": "1",
+    "J2835": "FE",
+    "K2835": "0",
+    "L2835": "0",
+    "M2835": "n/a",
+    "N2835": "Section5.3 unreported Table6 replications: Politically Affiliated Trustees effect, residual-bootstrap and unweighted linear regression versions; qualitatively robust. No coefficients reported.",
+    "O2835": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Board share of active/former legislators, Congress members, ex officio, governor-appointed or state-representative-elected trustees (TableB1). Source: p88 Section5.3 L1422-1453."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74759,7 +74768,19 @@
     "A6917": "MBWIN7NL",
     "B6917": "h39",
     "C6917": "hy3",
-    "K6917": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+    "K6917": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one.",
+    "A6918": "MBWIN7NL",
+    "B6918": "h40",
+    "C6918": "hy1",
+    "K6918": "Local Bias: local-firm portfolio weight / market weight minus one.",
+    "A6919": "MBWIN7NL",
+    "B6919": "h40",
+    "C6919": "hy2",
+    "K6919": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one.",
+    "A6920": "MBWIN7NL",
+    "B6920": "h40",
+    "C6920": "hy3",
+    "K6920": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

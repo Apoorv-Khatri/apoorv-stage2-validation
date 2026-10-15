@@ -463410,3 +463410,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T10:08:42.035236+00:00 — Review MBWIN7NL h40: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6918",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6919",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6920",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6918",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6919",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6920",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6918",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6919",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6920",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6918",
+    "before": null,
+    "after": "Local Bias: local-firm portfolio weight / market weight minus one."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6919",
+    "before": null,
+    "after": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6920",
+    "before": null,
+    "after": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2835",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2835",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2835",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2835",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2835",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2835",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2835",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2835",
+    "before": null,
+    "after": "Section5.3 unreported Table6 replications: Politically Affiliated Trustees effect, residual-bootstrap and unweighted linear regression versions; qualitatively robust. No coefficients reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2835",
+    "before": null,
+    "after": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Board share of active/former legislators, Congress members, ex officio, governor-appointed or state-representative-elected trustees (TableB1). Source: p88 Section5.3 L1422-1453."
+  }
+]
+```
