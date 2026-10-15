@@ -432819,3 +432819,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T07:19:06.630092+00:00 — Review KRNZM9QV h7: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6720",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6720",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6720",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6720",
+    "before": null,
+    "after": "Daily percentage change in number of quote updates, summed per firm-day then averaged within size quintile."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2741",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2741",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2741",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2741",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2741",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2741",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2741",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2741",
+    "before": null,
+    "after": "Lagged percentage changes in effective half-spreads affect daily percentage changes in updates, Table6B Eq11."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2741",
+    "before": null,
+    "after": "Distinct reverse treatment from VR deterioration; authors interpret worse prior liquidity as drawing in high-frequency liquidity providers. Four lags, five size-quintile systems; large-size firstlag .070 (Z2.27) on continued Table6 p287. No FE or identified structural shock. No benchmark pairing. Source: §4.1 p285 Table6B pp286–287."
+  }
+]
+```
