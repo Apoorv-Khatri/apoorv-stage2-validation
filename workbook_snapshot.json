@@ -29070,7 +29070,16 @@
     "L2972": "0",
     "M2972": "n/a",
     "N2972": "Table7: binary Low age treat, above-median ownership by affected funds managed by younger managers, interacted with Post; coefficient -0.187 on log(1+Citations). Simultaneously controls older-manager ownership treatment retained in s6.",
-    "O2972": "Distinct investor-set treatment. Young/old fund-manager group fixed using age in year before regulation; no new outcome-level magnitude comparison. Source: Final p1989 Table7; L1504–1560."
+    "O2972": "Distinct investor-set treatment. Young/old fund-manager group fixed using age in year before regulation; no new outcome-level magnitude comparison. Source: Final p1989 Table7; L1504–1560.",
+    "A2973": "NSKXG8S6",
+    "B2973": "h2",
+    "I2973": "1",
+    "J2973": "unknown",
+    "K2973": "1",
+    "L2973": "0",
+    "M2973": "n/a",
+    "N2973": "Table8 cols3–4: joint maximum-likelihood estimation of two innovation equations under binary Treat×Post, with firm/year FE and controls; log1p explorative and exploitative patent counts, coefficients -0.138 and -0.074; printed difference -0.064.",
+    "O2973": "Actual likelihood/distribution and linear-in-outcome equivalence not specified. Could be linear-system DiD if verified, but ML name alone does not establish that or nonlinear Other. Known non-IV. Visually checked final PDF p26. Separate estimator candidate is a contested judgment requiring parent review. Source: Final pp1990–1991 Table8; L1603–1664."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -77932,7 +77941,21 @@
     "H7267": "0",
     "I7267": "1",
     "J7267": "log1p",
-    "K7267": "Log(1+truncation-adjusted citation-weighted patent count), firm-year; zero assigned for no patent filing."
+    "K7267": "Log(1+truncation-adjusted citation-weighted patent count), firm-year; zero assigned for no patent filing.",
+    "A7268": "NSKXG8S6",
+    "B7268": "h2",
+    "C7268": "hy1",
+    "H7268": "0",
+    "I7268": "1",
+    "J7268": "log1p",
+    "K7268": "Log(1+truncation-adjusted explorative patent count), no self-citations.",
+    "A7269": "NSKXG8S6",
+    "B7269": "h2",
+    "C7269": "hy2",
+    "H7269": "0",
+    "I7269": "1",
+    "J7269": "log1p",
+    "K7269": "Log(1+truncation-adjusted exploitative patent count), at least one self-citation."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

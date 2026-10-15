@@ -485709,3 +485709,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:49:50.825549+00:00 — Review NSKXG8S6 h2: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7268",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7269",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7268",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7269",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7268",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7269",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7268",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7269",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7268",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7269",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7268",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7269",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7268",
+    "before": null,
+    "after": "Log(1+truncation-adjusted explorative patent count), no self-citations."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7269",
+    "before": null,
+    "after": "Log(1+truncation-adjusted exploitative patent count), at least one self-citation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2973",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2973",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2973",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2973",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2973",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2973",
+    "before": null,
+    "after": "Table8 cols3–4: joint maximum-likelihood estimation of two innovation equations under binary Treat×Post, with firm/year FE and controls; log1p explorative and exploitative patent counts, coefficients -0.138 and -0.074; printed difference -0.064."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2973",
+    "before": null,
+    "after": "Actual likelihood/distribution and linear-in-outcome equivalence not specified. Could be linear-system DiD if verified, but ML name alone does not establish that or nonlinear Other. Known non-IV. Visually checked final PDF p26. Separate estimator candidate is a contested judgment requiring parent review. Source: Final pp1990–1991 Table8; L1603–1664."
+  }
+]
+```
