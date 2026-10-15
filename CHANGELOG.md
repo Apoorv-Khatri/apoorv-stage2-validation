@@ -464373,3 +464373,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T10:51:44.388619+00:00 — Review ME6H5V5K s1: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5038",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5038",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5038",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K323",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5038",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5038",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5038",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5038",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5038",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5038",
+    "before": null,
+    "after": "Fig4 p2528 and p2527 L1235-1241,L1266-1269; high-share66% versus low-share18% predicted employment at age1 (first displayed age), initially smaller for high-share firms. Exact ordinate not transcribed from plot; figure does not display age0."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R323",
+    "before": null,
+    "after": "8%/22% benchmark is another estimated channel effect (extensive-margin job loss), not a same-outcome baseline level. s1 additionally wrong parent: scenario calculation is not the Table1 share coefficient. Keep genuine outcome-level normalization separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5038",
+    "before": null,
+    "after": "Defined graphical two-dose conditional-level comparison may qualify, but captioned log outcome versus employment axis conflict prevents a confident same-scale benchmark. No invented numerical ordinate; continuous treatment remains nonbinary."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1343",
+    "before": null,
+    "after": "Table1 cols4-6 explicitly caption log(employment level), and p2526 also calls it log employment. Fig4 axis instead says Employment; Section4.5 percentage calculations look level-based. Preserve captioned scale; actual implementation unresolved, no silent conversion to worker levels."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I544",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J544",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K544",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L544",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M544",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N544",
+    "before": null,
+    "after": "Table1 cols1-6 and Fig4: cohort-sector share of high-growth startups at entry interacted with age, effect on annual employment growth and log employment as captioned. Firm observations898797 (level) and671652(growth), not226954 firm-years. Main prose explicitly interprets ex ante decisions as affecting ex post job creation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O544",
+    "before": null,
+    "after": "Linear OLS implementation with identifying calendar-year plus sector FE (two sets), or sector-by-year FE (one set), absorbing common market conditions; age indicators describe the focal life-cycle profile, not an additional separately absorbed identification battery. No no-FE column exists; FE, not HDFE. Source explicitly motivates common sector/year shocks at pp2525-28. Caption says log employment, yet draft full-table age10 level6.510 and Section4.5 2.4% translation suggest level arithmetic; preserve unresolved source scale conflict, do not silently relabel. Source: pp2510,2525-28; article.txt L150-172,L1063-1299."
+  }
+]
+```
