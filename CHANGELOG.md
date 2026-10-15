@@ -432993,3 +432993,342 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T07:19:43.657601+00:00 — Review KRNZM9QV h9: source-audited coding and linked comparisons
+
+55 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4797",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4797",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4797",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4797",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4797",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4797",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4797",
+    "before": null,
+    "after": "p288 §4.2.2. Focal estimate: Average stock-level percentage increase in quote updates18%, t10.75. Benchmark: Each security pre-arrowhead3-month average daily quote updates used in its percentage increase; no numeric count denominator printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4797",
+    "before": null,
+    "after": "p288: each stock uses three-month before/after update means, but p275 describes changing monthly top300 membership and p289 expressly notes information-environment changes over time. Source supplies normalization, not a construction establishing post-target untreated update levels. Do not infer mismatch, or alignment, from these facts alone."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6722",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6723",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6724",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6725",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6726",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6722",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6723",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6724",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6725",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6726",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6722",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6723",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6724",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6725",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6726",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6722",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6723",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6724",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6725",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6726",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6722",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6723",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6724",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6725",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6726",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6722",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6723",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6724",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6725",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6726",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6722",
+    "before": null,
+    "after": "Daily number of quote updates, stock-level average in3-month pre/post windows; reported estimand mean percentage change relative to own pre-period mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6723",
+    "before": null,
+    "after": "Daily number of new order submissions, averaged across monthly top300 TSE stocks; Fig6 levels, no exact scalar effect printed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6724",
+    "before": null,
+    "after": "Daily number of order cancellations, averaged across monthly top300 TSE stocks; Fig6 levels, no exact scalar effect printed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6725",
+    "before": null,
+    "after": "Daily number of order modifications losing time priority, averaged across monthly top300 TSE stocks; Fig6 levels, no exact scalar effect printed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6726",
+    "before": null,
+    "after": "Daily number of order modifications keeping time priority, averaged across monthly top300 TSE stocks; Fig6 levels, no exact scalar effect printed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2743",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2743",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2743",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2743",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2743",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2743",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2743",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2743",
+    "before": null,
+    "after": "Arrowhead exposure effect on average daily quote-update activity: per-stock three-month prepost relative change averaged across securities,18% (paired t10.75), Fig6 and §4.2.2. Also graphical beforeafter increases in new submissions, cancellations and modifications (keeping/losing time priority separately), Fig6; introduction explicitly reports increases in all three component classes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2743",
+    "before": null,
+    "after": "Substantive measured change in speed of liquidity supply, not an IV first stage. No untreated group or DiD. Overall18% comparison is stock-specific three-month normalization; component graphical claims use Fig6 longer July2009–March2011 daily paths and monthly top300 membership, without scalar effect estimates. Introduction p274 explicitly attributes component increases to arrowhead. Trades are displayed but not separately claimed as an arrowhead effect; excluded. No IV instrument: word instrument p288 means proxy. Source: §4.2.2 p288 Fig6."
+  }
+]
+```
