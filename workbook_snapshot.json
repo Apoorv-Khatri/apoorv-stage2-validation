@@ -26915,7 +26915,16 @@
     "L2769": "0",
     "M2769": "n/a",
     "N2769": "Middle versus top OC-slack tercile on any downgraded-loan sale in months0–2, cohort-specific logit TableF4.",
-    "O2769": "Separately reported cohort robustness location; CLO1.0 closing≤2008, CLO2.0 2009–2013, CLO3.0>2013. Nonlinear logit with year-quarter effects. Bottom marginal effects1.41/9.16/3.13; middle1.39/5.48/2.95. Comparisons to main3.53 are effect-to-effect, not benchmarks. Source: Main p1130 fn18; IA TableF4 p21."
+    "O2769": "Separately reported cohort robustness location; CLO1.0 closing≤2008, CLO2.0 2009–2013, CLO3.0>2013. Nonlinear logit with year-quarter effects. Bottom marginal effects1.41/9.16/3.13; middle1.39/5.48/2.95. Comparisons to main3.53 are effect-to-effect, not benchmarks. Source: Main p1130 fn18; IA TableF4 p21.",
+    "A2770": "L5V28EJD",
+    "B2770": "h26",
+    "I2770": "1",
+    "J2770": "Other",
+    "K2770": "1",
+    "L2770": "0",
+    "M2770": "n/a",
+    "N2770": "Top versus bottom tercile exposure to newly downgraded loans on sale of other CCC loans not recently downgraded; TableF8 A and B constrained-CLO interactions.",
+    "O2770": "Logit, no time FE as explicitly reported. Constraint indicator CCC ratio>5% and OC ratio below median modifies exposure effect, not DiD. All three event windows included; before-window interaction results substantive strategic-sale evidence. Do not equate logit interaction marginal effect with total constrained-group response. Source: Main p1141 fn28; IA TableF8 p27."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73249,7 +73258,14 @@
     "H6782": "1",
     "I6782": "1",
     "J6782": "none",
-    "K6782": "At least one sale of downgraded loan by CLO in months0–2, binary sale dummy."
+    "K6782": "At least one sale of downgraded loan by CLO in months0–2, binary sale dummy.",
+    "A6783": "L5V28EJD",
+    "B6783": "h26",
+    "C6783": "hy1",
+    "H6783": "1",
+    "I6783": "1",
+    "J6783": "none",
+    "K6783": "Dummy for selling CCC loan not recently downgraded in event windows [−3,−1], [0,2], [3,5]."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

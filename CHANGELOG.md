@@ -449034,3 +449034,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:28:42.309414+00:00 — Review L5V28EJD h26: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6783",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6783",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6783",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6783",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6783",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6783",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6783",
+    "before": null,
+    "after": "Dummy for selling CCC loan not recently downgraded in event windows [−3,−1], [0,2], [3,5]."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2770",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2770",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2770",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2770",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2770",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2770",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2770",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2770",
+    "before": null,
+    "after": "Top versus bottom tercile exposure to newly downgraded loans on sale of other CCC loans not recently downgraded; TableF8 A and B constrained-CLO interactions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2770",
+    "before": null,
+    "after": "Logit, no time FE as explicitly reported. Constraint indicator CCC ratio>5% and OC ratio below median modifies exposure effect, not DiD. All three event windows included; before-window interaction results substantive strategic-sale evidence. Do not equate logit interaction marginal effect with total constrained-group response. Source: Main p1141 fn28; IA TableF8 p27."
+  }
+]
+```
