@@ -479241,3 +479241,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T13:21:45.139186+00:00 — Review NGGU7KDV h43: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7167",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7168",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7167",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7168",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7167",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7168",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7167",
+    "before": null,
+    "after": "Environmental performance; exact measure/scale unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7168",
+    "before": null,
+    "after": "Social performance; exact measure/scale unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2922",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2922",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2922",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2922",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2922",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2922",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2922",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2922",
+    "before": null,
+    "after": "Low-social-norm-country investor pressure after financial crisis: summary reports increased E&S pressure, indicating greater financial motivations. Minimum implemented heterogeneous-crisis result."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2922",
+    "before": null,
+    "after": "Final result sentence establishes qualitative effect but no table, exact exposure or estimator. Not automatically Table4 homogeneous Total IO interaction; no invented appendix table. No extra EPI/Employment-Laws/WVS split is asserted: exact implemented norm-index definition is not enumerated in this untabulated result sentence. Retained as minimum supported scope, not a pooled inventory of verified distinct regressors. Source: p713 Section5.7 untabulated; L1418–1428."
+  }
+]
+```

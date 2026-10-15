@@ -28554,7 +28554,16 @@
     "L2921": "0",
     "M2921": "unknown",
     "N2921": "Untabulated governance performance effects of foreign ownership from LOW-E&S-norm countries; positive significant.",
-    "O2921": "Substantive cross-domain mechanism result; exact estimator, norm index and outcome scale unresolved. No extra EPI/Employment-Laws/WVS split is asserted: exact implemented norm-index definition is not enumerated in this untabulated result sentence. Retained as minimum supported scope, not a pooled inventory of verified distinct regressors. Source: pp710,713 fn22 untabulated; L1240–1244,L1469–1474."
+    "O2921": "Substantive cross-domain mechanism result; exact estimator, norm index and outcome scale unresolved. No extra EPI/Employment-Laws/WVS split is asserted: exact implemented norm-index definition is not enumerated in this untabulated result sentence. Retained as minimum supported scope, not a pooled inventory of verified distinct regressors. Source: pp710,713 fn22 untabulated; L1240–1244,L1469–1474.",
+    "A2922": "NGGU7KDV",
+    "B2922": "h43",
+    "I2922": "1",
+    "J2922": "unknown",
+    "K2922": "unknown",
+    "L2922": "0",
+    "M2922": "unknown",
+    "N2922": "Low-social-norm-country investor pressure after financial crisis: summary reports increased E&S pressure, indicating greater financial motivations. Minimum implemented heterogeneous-crisis result.",
+    "O2922": "Final result sentence establishes qualitative effect but no table, exact exposure or estimator. Not automatically Table4 homogeneous Total IO interaction; no invented appendix table. No extra EPI/Employment-Laws/WVS split is asserted: exact implemented norm-index definition is not enumerated in this untabulated result sentence. Retained as minimum supported scope, not a pooled inventory of verified distinct regressors. Source: p713 Section5.7 untabulated; L1418–1428."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76960,7 +76969,15 @@
     "A7166": "NGGU7KDV",
     "B7166": "h41",
     "C7166": "hy1",
-    "K7166": "ASSET4 governance score constructed similarly to E&S measures; estimated scale unknown."
+    "K7166": "ASSET4 governance score constructed similarly to E&S measures; estimated scale unknown.",
+    "A7167": "NGGU7KDV",
+    "B7167": "h43",
+    "C7167": "hy1",
+    "K7167": "Environmental performance; exact measure/scale unknown.",
+    "A7168": "NGGU7KDV",
+    "B7168": "h43",
+    "C7168": "hy2",
+    "K7168": "Social performance; exact measure/scale unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
