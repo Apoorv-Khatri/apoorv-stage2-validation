@@ -456423,3 +456423,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:10:34.172682+00:00 — Review LVRD3VXI h12: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6843",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6843",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6843",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6843",
+    "before": null,
+    "after": "Institution-type-specific lag-performance sensitivity used to assess reputational concerns. Main text reports the qualitative result but not the precise dependent variable, transformation, lag window or estimator; do not substitute the Table VIII trading-shift outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2794",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2794",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2794",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2794",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2794",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2794",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2794",
+    "before": null,
+    "after": "Institution-type reputation mechanism tests: sensitivity to lag performance, with mutual funds and independent investment advisers identified as particularly reputation concerned. Final p988 and p1016 explicitly report appendix tests; precise regressor/response implementation unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2794",
+    "before": null,
+    "after": "Final main-text evidence only; Appendix S1 not obtained. Implemented tests and qualitative findings are explicitly reported, not merely planned. Unknown estimator and treatment coding; do not invent table numbers, coefficients, FE, instrument sets, binary pooled groups, or detailed outcome scale. Additional splits require the appendix. Broad author-intention mechanism inclusion, not a claim of exogenous institutional type. Source: Main p988; p1016 Section IV.E, article.txt L172–181,L1997–2008."
+  }
+]
+```

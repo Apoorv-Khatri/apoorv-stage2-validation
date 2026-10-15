@@ -27156,7 +27156,16 @@
     "L2793": "0",
     "M2793": "unknown",
     "N2793": "Institution-type risk-preference/preferred-habitat mechanism: institutional categories and their holdings of risky stocks and willingness to adjust risky-stock exposure. Final p988 and Section IV.E p1016 report implemented appendix results.",
-    "O2793": "Final main-text evidence only; Appendix S1 not obtained. Implemented tests and qualitative findings are explicitly reported, not merely planned. Unknown estimator and treatment coding; do not invent table numbers, coefficients, FE, instrument sets, binary pooled groups, or detailed outcome scale. Additional splits require the appendix. Broad author-intention mechanism inclusion, not a claim of exogenous institutional type. Source: Main p988; p1016 Section IV.E, article.txt L172–181,L1987–1996."
+    "O2793": "Final main-text evidence only; Appendix S1 not obtained. Implemented tests and qualitative findings are explicitly reported, not merely planned. Unknown estimator and treatment coding; do not invent table numbers, coefficients, FE, instrument sets, binary pooled groups, or detailed outcome scale. Additional splits require the appendix. Broad author-intention mechanism inclusion, not a claim of exogenous institutional type. Source: Main p988; p1016 Section IV.E, article.txt L172–181,L1987–1996.",
+    "A2794": "LVRD3VXI",
+    "B2794": "h12",
+    "I2794": "1",
+    "J2794": "unknown",
+    "K2794": "unknown",
+    "L2794": "0",
+    "M2794": "unknown",
+    "N2794": "Institution-type reputation mechanism tests: sensitivity to lag performance, with mutual funds and independent investment advisers identified as particularly reputation concerned. Final p988 and p1016 explicitly report appendix tests; precise regressor/response implementation unresolved.",
+    "O2794": "Final main-text evidence only; Appendix S1 not obtained. Implemented tests and qualitative findings are explicitly reported, not merely planned. Unknown estimator and treatment coding; do not invent table numbers, coefficients, FE, instrument sets, binary pooled groups, or detailed outcome scale. Additional splits require the appendix. Broad author-intention mechanism inclusion, not a claim of exogenous institutional type. Source: Main p988; p1016 Section IV.E, article.txt L172–181,L1997–2008."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73924,7 +73933,11 @@
     "A6842": "LVRD3VXI",
     "B6842": "h11",
     "C6842": "hy2",
-    "K6842": "Adjustment of exposure to risky stocks by institution type; the same categories are less willing to adjust. Exact appendix response measure and scale unavailable."
+    "K6842": "Adjustment of exposure to risky stocks by institution type; the same categories are less willing to adjust. Exact appendix response measure and scale unavailable.",
+    "A6843": "LVRD3VXI",
+    "B6843": "h12",
+    "C6843": "hy1",
+    "K6843": "Institution-type-specific lag-performance sensitivity used to assess reputational concerns. Main text reports the qualitative result but not the precise dependent variable, transformation, lag window or estimator; do not substitute the Table VIII trading-shift outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
