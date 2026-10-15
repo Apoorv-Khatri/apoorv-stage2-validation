@@ -272,6 +272,7 @@
     "B59": "Fire-sale risk in the leveraged loan market",
     "C59": "fin",
     "D59": 8,
+    "E59": "DONE — All 28 final article pages and 33 publisher-supplement pages reviewed with independent audit; publisher supplement re-fetch byte-identical, all 126 main A1/supplement F5 cells matched and not double-counted. Retain 46 settings, 98 outcomes and 177 comparisons; one original comparison rejected. Full Table6/Table7/A1 comparison grids checked. Undefined whole-curve comparison records removed; explicit December2019 top-ten/no-shock comparison retained separately from historical2009 benchmark. F2 classified OLS with actual time controls documented and identifying-FE alternative explicit; genuine F12 OLS/identifying-FE split retained with benchmarks attached to actual no-FE coefficients. VAR future-only nonlinear plug-in response classified Other, not contemporaneous identity or identified structural shock. Table9 explained-change ratios excluded; stress rates nonbinary. Source conflicts and unresolved implementation details preserved; original model fields and IDs unchanged.",
     "A60": "LVRD3VXI",
     "B60": "Sentiment Metrics and Investor Demand",
     "C60": "fin",
@@ -27023,7 +27024,16 @@
     "L2781": "0",
     "M2781": "n/a",
     "N2781": "99% VaR shock versus no shock, sensitivity to rho=.1,.2,.3,.4,.5 in separately reported TableF7; rho=.24 repeats main scenario, not new estimate.",
-    "O2781": "Same binary stress scenario contrast; rho is a nuisance/calibration sensitivity, not new treatment. Postshock slack and failure fractions both outcomes. TableF7 contains no no-shock benchmark and comparisons between alternative shocks are effect-to-effect. Nonmonotonic entries visually verified and preserved; prose monotonic claim not universally true in table. Source: IA AppendixD p7/TableF7 p26."
+    "O2781": "Same binary stress scenario contrast; rho is a nuisance/calibration sensitivity, not new treatment. Postshock slack and failure fractions both outcomes. TableF7 contains no no-shock benchmark and comparisons between alternative shocks are effect-to-effect. Nonmonotonic entries visually verified and preserved; prose monotonic claim not universally true in table. Source: IA AppendixD p7/TableF7 p26.",
+    "A2782": "L5V28EJD",
+    "B2782": "h38",
+    "I2782": "1",
+    "J2782": "OLS",
+    "K2782": "1",
+    "L2782": "0",
+    "M2782": "n/a",
+    "N2782": "Downgrade from above-CCC to CCC-or-below versus before downgrade on share of CLO transactions that are buys; Table3 PanelB.",
+    "O2782": "Broad supporting-mechanism inclusion: authors say consistent with the OC constraint CLOs become net sellers after downgrade, citing buy-share decline52% to28%. Simple observational before/after linear rate contrast, no untreated control or DiD. Table3 other descriptive characteristics are not automatically causal outcomes. Parent priority: distinguish this explicitly interpreted buy-share change from purely descriptive rows. Source: Main p1126 §3.2/Table3 p1128."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73529,7 +73539,14 @@
     "H6813": "0",
     "I6813": "unknown",
     "J6813": "other",
-    "K6813": "insolvency dollar slack divided by initial CLO assets, percent; distribution/mean/quantiles after imposed shock or allocation rule. AppendixA1 A.1–A.5, TableA1/F7."
+    "K6813": "insolvency dollar slack divided by initial CLO assets, percent; distribution/mean/quantiles after imposed shock or allocation rule. AppendixA1 A.1–A.5, TableA1/F7.",
+    "A6814": "L5V28EJD",
+    "B6814": "h38",
+    "C6814": "hy1",
+    "H6814": "0",
+    "I6814": "unknown",
+    "J6814": "none",
+    "K6814": "Percentage of observed CLO transactions that are buys, downgraded-loan sample before/after downgrade, Table3 PanelB; aggregate transaction share, not binary individual purchase."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -128398,7 +128415,18 @@
     "O4972": "0",
     "P4972": "unknown",
     "Q4972": "IA p10/TableF12 p31. Focal: .32pp next-year growth per1pp OC-slack increase, no-FE first specification; prose discusses five-point stress decline. Benchmark: Unconditional corresponding growth-rate mean 3.4%.",
-    "R4972": "Benchmark prose follows first OLS estimates, before discussion of identifying-FE columns; do not transfer to h33. Mean target and counterfactual untreated slack not established. Five-point stress discussion motivates magnitude but paper does not divide by growth mean."
+    "R4972": "Benchmark prose follows first OLS estimates, before discussion of identifying-FE columns; do not transfer to h33. Mean target and counterfactual untreated slack not established. Five-point stress discussion motivates magnitude but paper does not divide by growth mean.",
+    "A4973": "L5V28EJD",
+    "B4973": "h38",
+    "C4973": "hc1",
+    "K4973": "1",
+    "L4973": "hy1",
+    "M4973": "outcome_mean",
+    "N4973": "1",
+    "O4973": "0",
+    "P4973": "unknown",
+    "Q4973": "Main p1126 §3.2/Table3 PanelB p1128. Focal: Post-downgrade buy-transaction share28.27% versus before; prose52% to28%, no numerical difference printed. Benchmark: Pre-downgrade buy-transaction share51.73% among transactions for downgraded loans.",
+    "R4973": "Same loan cohort but changing transaction selection and periods; preperiod observed rate is not automatically untreated post-downgrade target. Not division."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

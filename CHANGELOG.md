@@ -451020,3 +451020,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:32:49.043087+00:00 — Review L5V28EJD h38: source-audited coding and linked comparisons
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4973",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4973",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4973",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4973",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4973",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4973",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4973",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4973",
+    "before": null,
+    "after": "Main p1126 §3.2/Table3 PanelB p1128. Focal: Post-downgrade buy-transaction share28.27% versus before; prose52% to28%, no numerical difference printed. Benchmark: Pre-downgrade buy-transaction share51.73% among transactions for downgraded loans."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4973",
+    "before": null,
+    "after": "Same loan cohort but changing transaction selection and periods; preperiod observed rate is not automatically untreated post-downgrade target. Not division."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6814",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6814",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6814",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6814",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6814",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6814",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6814",
+    "before": null,
+    "after": "Percentage of observed CLO transactions that are buys, downgraded-loan sample before/after downgrade, Table3 PanelB; aggregate transaction share, not binary individual purchase."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E59",
+    "before": null,
+    "after": "DONE — All 28 final article pages and 33 publisher-supplement pages reviewed with independent audit; publisher supplement re-fetch byte-identical, all 126 main A1/supplement F5 cells matched and not double-counted. Retain 46 settings, 98 outcomes and 177 comparisons; one original comparison rejected. Full Table6/Table7/A1 comparison grids checked. Undefined whole-curve comparison records removed; explicit December2019 top-ten/no-shock comparison retained separately from historical2009 benchmark. F2 classified OLS with actual time controls documented and identifying-FE alternative explicit; genuine F12 OLS/identifying-FE split retained with benchmarks attached to actual no-FE coefficients. VAR future-only nonlinear plug-in response classified Other, not contemporaneous identity or identified structural shock. Table9 explained-change ratios excluded; stress rates nonbinary. Source conflicts and unresolved implementation details preserved; original model fields and IDs unchanged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2782",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2782",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2782",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2782",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2782",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2782",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2782",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2782",
+    "before": null,
+    "after": "Downgrade from above-CCC to CCC-or-below versus before downgrade on share of CLO transactions that are buys; Table3 PanelB."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2782",
+    "before": null,
+    "after": "Broad supporting-mechanism inclusion: authors say consistent with the OC constraint CLOs become net sellers after downgrade, citing buy-share decline52% to28%. Simple observational before/after linear rate contrast, no untreated control or DiD. Table3 other descriptive characteristics are not automatically causal outcomes. Parent priority: distinguish this explicitly interpreted buy-share change from purely descriptive rows. Source: Main p1126 §3.2/Table3 p1128."
+  }
+]
+```
