@@ -465081,3 +465081,504 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T10:53:32.875886+00:00 — Review ME6H5V5K s5: source-audited coding and linked comparisons
+
+82 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5041",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5042",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5043",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5044",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5041",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5042",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5043",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5044",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5041",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5042",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5043",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5044",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K328",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K329",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K331",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5041",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5042",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5043",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5044",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L328",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L329",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L330",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L331",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5041",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5042",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5043",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5044",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M328",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M329",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M330",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M331",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5041",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5042",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5043",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5044",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N328",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N329",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N331",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5042",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5044",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O328",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O329",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O331",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5042",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5044",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P328",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P329",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P330",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P331",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5041",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5042",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5043",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5044",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q328",
+    "before": null,
+    "after": "\"When GDP growth is zero, the marginal effect of an increase in the GZ spread is -9.3% for high-growth startups.\" (Section 4.3, PDF p. 25 / article p. 2532) Semielasticity of fitted startup probability, covariates evaluated at means (fn18 p2531); denominator probability not numerically printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q329",
+    "before": null,
+    "after": "\"With a fall in GDP growth by one percentage point, this marginal effect is reinforced by an additional -10.8%.\" (Section 4.3, PDF p. 25 / article p. 2532) Semielasticity of fitted startup probability, covariates evaluated at means (fn18 p2531); denominator probability not numerically printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q330",
+    "before": null,
+    "after": "\"Conversely, in the case of low-growth startups, the marginal effect is only −3.3% when GDP growth is zero\" (Section 4.3, PDF p. 25 / article p. 2532) Semielasticity of fitted startup probability, covariates evaluated at means (fn18 p2531); denominator probability not numerically printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q331",
+    "before": null,
+    "after": "\"and decreases by an additional −3.8% when GDP growth falls by one percentage point.\" (Section 4.3, PDF p. 25 / article p. 2532) Semielasticity of fitted startup probability, covariates evaluated at means (fn18 p2531); denominator probability not numerically printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5041",
+    "before": null,
+    "after": "Fig5 pp2533-34 L1596-1616; low growth, GDP growth-1%: empirical predicted probability schedule normalized to1 at median GZ spread; no single scalar shock selected."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5042",
+    "before": null,
+    "after": "Fig5 pp2533-34 L1596-1616; low growth, GDP growth+1%: empirical predicted probability schedule normalized to1 at median GZ spread; no single scalar shock selected."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5043",
+    "before": null,
+    "after": "Fig5 pp2533-34 L1596-1616; high growth, GDP growth-1%: empirical predicted probability schedule normalized to1 at median GZ spread; no single scalar shock selected."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5044",
+    "before": null,
+    "after": "Fig5 pp2533-34 L1596-1616; high growth, GDP growth+1%: empirical predicted probability schedule normalized to1 at median GZ spread; no single scalar shock selected."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R328",
+    "before": null,
+    "after": "Probability is a conditional mean, not other_level. Unknown alignment: exact reference value of finance exposure/conditioning for normalization and untreated target not sufficiently reported; mean-controls evaluation is not population averaging."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R329",
+    "before": null,
+    "after": "Probability is a conditional mean, not other_level. Unknown alignment: exact reference value of finance exposure/conditioning for normalization and untreated target not sufficiently reported; mean-controls evaluation is not population averaging."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R330",
+    "before": null,
+    "after": "Probability is a conditional mean, not other_level. Unknown alignment: exact reference value of finance exposure/conditioning for normalization and untreated target not sufficiently reported; mean-controls evaluation is not population averaging."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R331",
+    "before": null,
+    "after": "Probability is a conditional mean, not other_level. Unknown alignment: exact reference value of finance exposure/conditioning for normalization and untreated target not sufficiently reported; mean-controls evaluation is not population averaging."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5041",
+    "before": null,
+    "after": "Deliberate same-outcome normalization is established, but distinct focal-estimate×benchmark unit is a schedule. Parent must adjudicate a scalar anchored contrast before retaining; do not invent wholecurve estimand or arbitrary endpoint. Reference finance level and conditional controls insufficient for untreated-target alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5042",
+    "before": null,
+    "after": "Deliberate same-outcome normalization is established, but distinct focal-estimate×benchmark unit is a schedule. Parent must adjudicate a scalar anchored contrast before retaining; do not invent wholecurve estimand or arbitrary endpoint. Reference finance level and conditional controls insufficient for untreated-target alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5043",
+    "before": null,
+    "after": "Deliberate same-outcome normalization is established, but distinct focal-estimate×benchmark unit is a schedule. Parent must adjudicate a scalar anchored contrast before retaining; do not invent wholecurve estimand or arbitrary endpoint. Reference finance level and conditional controls insufficient for untreated-target alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5044",
+    "before": null,
+    "after": "Deliberate same-outcome normalization is established, but distinct focal-estimate×benchmark unit is a schedule. Parent must adjudicate a scalar anchored contrast before retaining; do not invent wholecurve estimand or arbitrary endpoint. Reference finance level and conditional controls insufficient for untreated-target alignment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J548",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K548",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M548",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O548",
+    "before": null,
+    "after": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Source: Table3 cols4-6 pp2532-34; Fig5; L1518-1640."
+  }
+]
+```
