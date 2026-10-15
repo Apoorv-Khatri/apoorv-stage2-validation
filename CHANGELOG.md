@@ -456702,3 +456702,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:52:09.818574+00:00 — Review MBWIN7NL s2: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K319",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K320",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R319",
+    "before": null,
+    "after": "Ineligible: source gives a treatment-SD increment and translates returns using $21bn equity ASSETS, not an outcome-return mean. The1.08% return mean is in separate Table1 and is not linked to this focal effect. Neither treatment SD nor assets is a same-outcome benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R320",
+    "before": null,
+    "after": "Ineligible: source gives a treatment-SD increment and translates returns using $21bn equity ASSETS, not an outcome-return mean. The1.08% return mean is in separate Table1 and is not linked to this focal effect. Neither treatment SD nor assets is a same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I535",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J535",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K535",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L535",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M535",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N535",
+    "before": null,
+    "after": "Table3: lagged Local Contribution Bias effect on quarterly Portfolio Return, columns3-4 and7-8 (horse-race with Local Bias). Coefficients -0.0054,-0.0061,-0.0096,-0.0119."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O535",
+    "before": null,
+    "after": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Source locator conflict: p76 horse-race prose refers to Models4/5, but Table3 shows joint Local Bias plus contribution in cols7/8 and plus lobbying in cols9/10. Use verified table-column mapping; do not overwrite the printed prose or silently relabel its references. Source: pp75-76 Table3; L455-584."
+  }
+]
+```
