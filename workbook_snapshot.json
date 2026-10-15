@@ -27470,7 +27470,16 @@
     "L2820": "0",
     "M2820": "n/a",
     "N2820": "Table8: Funded Ratio effect on annual Risk Shift. Risk-shifting hypothesis: lower funding increases risk; -0.020,-0.037,-0.041,-0.043.",
-    "O2820": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Plan total actuarial assets / total actuarial liabilities. Authors discuss allocation LEVELS, but actual Table8 dependent variable is annual allocation CHANGE. Source: pp83-85,87 Table8; L1053-1098,L1272-1282,L1339-1349."
+    "O2820": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Plan total actuarial assets / total actuarial liabilities. Authors discuss allocation LEVELS, but actual Table8 dependent variable is annual allocation CHANGE. Source: pp83-85,87 Table8; L1053-1098,L1272-1282,L1339-1349.",
+    "A2821": "MBWIN7NL",
+    "B2821": "h26",
+    "I2821": "1",
+    "J2821": "FE",
+    "K2821": "0",
+    "L2821": "0",
+    "M2821": "n/a",
+    "N2821": "Table8: Conviction Rate effect on annual Risk Shift. Higher convictions interpreted as less risky allocation.",
+    "O2821": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. State politician convictions divided by state population in millions; corruption/enforcement proxy. Source: pp83-85,87 Table8; L1053-1098,L1272-1282,L1339-1349."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74530,7 +74539,11 @@
     "A6898": "MBWIN7NL",
     "B6898": "h25",
     "C6898": "hy1",
-    "K6898": "Risk Shift: annual change in share allocated to equities, real estate, private equity, hedge funds and other alternatives; not risky-asset stock level."
+    "K6898": "Risk Shift: annual change in share allocated to equities, real estate, private equity, hedge funds and other alternatives; not risky-asset stock level.",
+    "A6899": "MBWIN7NL",
+    "B6899": "h26",
+    "C6899": "hy1",
+    "K6899": "Risk Shift: annual change in share allocated to equities, real estate, private equity, hedge funds and other alternatives; not risky-asset stock level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
