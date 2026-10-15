@@ -456510,3 +456510,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:10:53.622296+00:00 — Review LVRD3VXI h13: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6844",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6845",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6844",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6845",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6844",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6845",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6844",
+    "before": null,
+    "after": "Contribution by institution type to aggregate institutional sentiment trading; the three named types account for 89% of trading and half of ownership. Exact appendix estimator/normalization unavailable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6845",
+    "before": null,
+    "after": "Size-adjusted propensity for institutional sentiment trading by type; hedge funds rank greatest. Main-text qualitative result only; exact scale and weighting unavailable."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E60",
+    "before": null,
+    "after": "DONE — Available-source review of all 40 final article pages with independent audit of all 44 comparison records. Appendix S1 remains unavailable after bounded publisher/author/SSRN/archive attempts; no unseen or older appendix results substituted. Retain 15 settings; reject five original descriptive/validation/accounting settings. Preserve 54 outcome records including original spurious/duplicate rows; 42 comparisons retained and two original coefficient-attenuation comparisons rejected. TableV contribution benchmarks coded other_level, not established means; clientele mechanism main. TablesVII/VIII outcome-SD comparisons retained; two expressly discussed transient totals are nonverbal benchmark comparisons. Three institution-type mechanisms included only to the minimum scope explicitly reported in the main text, with unknown implementation. Quarter demeaning/median adjustment not automatically identifying FE. Contested causal gates, date/sign conflicts, original model fields and IDs preserved. Completion does not certify unavailable S1 coverage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2795",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2795",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2795",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2795",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2795",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2795",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2795",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2795",
+    "before": null,
+    "after": "Institution-type investment-style mechanism and contribution to aggregate institutional sentiment trading, including size-adjusted propensity: mutual funds, independent advisers and hedge funds contribute disproportionately; hedge funds have greatest propensity after size adjustment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2795",
+    "before": null,
+    "after": "Final main-text evidence only; Appendix S1 not obtained. Implemented tests and qualitative findings are explicitly reported, not merely planned. Unknown estimator and treatment coding; do not invent table numbers, coefficients, FE, instrument sets, binary pooled groups, or detailed outcome scale. Additional splits require the appendix. Broad author-intention mechanism inclusion, not a claim of exogenous institutional type. Source: Main p988; p1017 Section IV.E and fn38, article.txt L183–193,L2037–2044,L2058–2068."
+  }
+]
+```

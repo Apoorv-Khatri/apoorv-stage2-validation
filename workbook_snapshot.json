@@ -277,6 +277,7 @@
     "B60": "Sentiment Metrics and Investor Demand",
     "C60": "fin",
     "D60": 7,
+    "E60": "DONE — Available-source review of all 40 final article pages with independent audit of all 44 comparison records. Appendix S1 remains unavailable after bounded publisher/author/SSRN/archive attempts; no unseen or older appendix results substituted. Retain 15 settings; reject five original descriptive/validation/accounting settings. Preserve 54 outcome records including original spurious/duplicate rows; 42 comparisons retained and two original coefficient-attenuation comparisons rejected. TableV contribution benchmarks coded other_level, not established means; clientele mechanism main. TablesVII/VIII outcome-SD comparisons retained; two expressly discussed transient totals are nonverbal benchmark comparisons. Three institution-type mechanisms included only to the minimum scope explicitly reported in the main text, with unknown implementation. Quarter demeaning/median adjustment not automatically identifying FE. Contested causal gates, date/sign conflicts, original model fields and IDs preserved. Completion does not certify unavailable S1 coverage.",
     "A61": "MBWIN7NL",
     "B61": "The influence of political bias in state pension funds",
     "C61": "fin",
@@ -27165,7 +27166,16 @@
     "L2794": "0",
     "M2794": "unknown",
     "N2794": "Institution-type reputation mechanism tests: sensitivity to lag performance, with mutual funds and independent investment advisers identified as particularly reputation concerned. Final p988 and p1016 explicitly report appendix tests; precise regressor/response implementation unresolved.",
-    "O2794": "Final main-text evidence only; Appendix S1 not obtained. Implemented tests and qualitative findings are explicitly reported, not merely planned. Unknown estimator and treatment coding; do not invent table numbers, coefficients, FE, instrument sets, binary pooled groups, or detailed outcome scale. Additional splits require the appendix. Broad author-intention mechanism inclusion, not a claim of exogenous institutional type. Source: Main p988; p1016 Section IV.E, article.txt L172–181,L1997–2008."
+    "O2794": "Final main-text evidence only; Appendix S1 not obtained. Implemented tests and qualitative findings are explicitly reported, not merely planned. Unknown estimator and treatment coding; do not invent table numbers, coefficients, FE, instrument sets, binary pooled groups, or detailed outcome scale. Additional splits require the appendix. Broad author-intention mechanism inclusion, not a claim of exogenous institutional type. Source: Main p988; p1016 Section IV.E, article.txt L172–181,L1997–2008.",
+    "A2795": "LVRD3VXI",
+    "B2795": "h13",
+    "I2795": "1",
+    "J2795": "unknown",
+    "K2795": "unknown",
+    "L2795": "1",
+    "M2795": "unknown",
+    "N2795": "Institution-type investment-style mechanism and contribution to aggregate institutional sentiment trading, including size-adjusted propensity: mutual funds, independent advisers and hedge funds contribute disproportionately; hedge funds have greatest propensity after size adjustment.",
+    "O2795": "Final main-text evidence only; Appendix S1 not obtained. Implemented tests and qualitative findings are explicitly reported, not merely planned. Unknown estimator and treatment coding; do not invent table numbers, coefficients, FE, instrument sets, binary pooled groups, or detailed outcome scale. Additional splits require the appendix. Broad author-intention mechanism inclusion, not a claim of exogenous institutional type. Source: Main p988; p1017 Section IV.E and fn38, article.txt L183–193,L2037–2044,L2058–2068."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73937,7 +73947,15 @@
     "A6843": "LVRD3VXI",
     "B6843": "h12",
     "C6843": "hy1",
-    "K6843": "Institution-type-specific lag-performance sensitivity used to assess reputational concerns. Main text reports the qualitative result but not the precise dependent variable, transformation, lag window or estimator; do not substitute the Table VIII trading-shift outcome."
+    "K6843": "Institution-type-specific lag-performance sensitivity used to assess reputational concerns. Main text reports the qualitative result but not the precise dependent variable, transformation, lag window or estimator; do not substitute the Table VIII trading-shift outcome.",
+    "A6844": "LVRD3VXI",
+    "B6844": "h13",
+    "C6844": "hy1",
+    "K6844": "Contribution by institution type to aggregate institutional sentiment trading; the three named types account for 89% of trading and half of ownership. Exact appendix estimator/normalization unavailable.",
+    "A6845": "LVRD3VXI",
+    "B6845": "h13",
+    "C6845": "hy2",
+    "K6845": "Size-adjusted propensity for institutional sentiment trading by type; hedge funds rank greatest. Main-text qualitative result only; exact scale and weighting unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
