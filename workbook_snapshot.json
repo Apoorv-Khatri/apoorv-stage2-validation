@@ -29097,7 +29097,16 @@
     "L2975": "0",
     "M2975": "n/a",
     "N2975": "Untabulated §4.1 robustness: presence of at least one affected mutual-fund blockholder with at least 2% ownership; binary exposure×Post, innovation DiD.",
-    "O2975": "Minimum final-confirmed setting. Older August2017 IA2 has 2% and 1% variants and three outcomes, but do not silently transfer that grid to final. Final prose confirms 2% only. Source: Final pp1980–1981; L941–969."
+    "O2975": "Minimum final-confirmed setting. Older August2017 IA2 has 2% and 1% variants and three outcomes, but do not silently transfer that grid to final. Final prose confirms 2% only. Source: Final pp1980–1981; L941–969.",
+    "A2976": "NSKXG8S6",
+    "B2976": "h6",
+    "I2976": "1",
+    "J2976": "Other",
+    "K2976": "1",
+    "L2976": "0",
+    "M2976": "n/a",
+    "N2976": "Untabulated §4.1 quantile-regression robustness for innovation at 75th, 80th, 90th and 95th percentiles, using baseline binary exposure to 2004 disclosure regulation.",
+    "O2976": "Implemented quantile estimators nonlinear in reported outcome; DiD economic design does not change method code. Inferences hold; no coefficients available. Exact dependent-variable scale is not restated for quantile robustness; annual innovation zeros established, scale remains unknown. Source: Final p1981; L959–969."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -77987,7 +77996,14 @@
     "H7271": "0",
     "I7271": "1",
     "J7271": "log1p",
-    "K7271": "Log(1+truncation-adjusted citation-weighted patent count), firm-year; zero assigned for no patent filing."
+    "K7271": "Log(1+truncation-adjusted citation-weighted patent count), firm-year; zero assigned for no patent filing.",
+    "A7272": "NSKXG8S6",
+    "B7272": "h6",
+    "C7272": "hy1",
+    "H7272": "0",
+    "I7272": "1",
+    "J7272": "unknown",
+    "K7272": "Innovation output (citation-weighted patents) in quantile robustness; exact raw versus log1p scale not restated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

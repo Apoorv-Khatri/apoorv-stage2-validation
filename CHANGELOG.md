@@ -486066,3 +486066,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:52:07.069898+00:00 — Review NSKXG8S6 h6: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7272",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7272",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7272",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7272",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7272",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7272",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7272",
+    "before": null,
+    "after": "Innovation output (citation-weighted patents) in quantile robustness; exact raw versus log1p scale not restated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2976",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2976",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2976",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2976",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2976",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2976",
+    "before": null,
+    "after": "Untabulated §4.1 quantile-regression robustness for innovation at 75th, 80th, 90th and 95th percentiles, using baseline binary exposure to 2004 disclosure regulation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2976",
+    "before": null,
+    "after": "Implemented quantile estimators nonlinear in reported outcome; DiD economic design does not change method code. Inferences hold; no coefficients available. Exact dependent-variable scale is not restated for quantile robustness; annual innovation zeros established, scale remains unknown. Source: Final p1981; L959–969."
+  }
+]
+```
