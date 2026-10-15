@@ -414444,3 +414444,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T06:29:05.905941+00:00 — Review KKKD4ZV5 h5: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6680",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6680",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6680",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6680",
+    "before": null,
+    "after": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2719",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2719",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2719",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2719",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2719",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2719",
+    "before": null,
+    "after": "EUR-leg illiquidity dose affects RPVE conditional on USD-leg illiquidity, Table6 Lags; direct-pair Amihud and BAS controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2719",
+    "before": null,
+    "after": "Excluded set includes ΩEUR, ΩUSD and lags of both endogenous indirect-leg illiquidity measures, to address errors in variables. Multiple nonbinary instruments => other; number/order of lags not supplied in main article, retain unknown detail rather than infer from Table7. Distinct instrument set warrants separate setting. Same included direct A/BAS controls. Parameter-specific scope: βEUR only; βUSD is h19. Joint estimation does not collapse distinct substantive treatments. Source: §5.3.1 p876; Table6 p878 Lags."
+  }
+]
+```
