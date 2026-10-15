@@ -27506,7 +27506,16 @@
     "L2824": "0",
     "M2824": "n/a",
     "N2824": "Table8: Corporation Net Income Taxes effect on annual Risk Shift. More corporate tax revenue interpreted as more risky allocation.",
-    "O2824": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. State corporate net income taxes divided by total state tax revenues; prose p75 uses previous-quarter total tax revenues. Source: pp83-85,87 Table8; L1053-1098,L1272-1282,L1339-1349."
+    "O2824": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. State corporate net income taxes divided by total state tax revenues; prose p75 uses previous-quarter total tax revenues. Source: pp83-85,87 Table8; L1053-1098,L1272-1282,L1339-1349.",
+    "A2825": "MBWIN7NL",
+    "B2825": "h30",
+    "I2825": "1",
+    "J2825": "IV",
+    "K2825": "0",
+    "L2825": "1",
+    "M2825": "single continuous",
+    "N2825": "Table9 column4: weighted2SLS effect of lagged Local Lobbying Bias on Portfolio Return, coefficient -0.039. First-stage column3; excluded Politically Affiliated Trustees share only, with state+quarter FE and controls.",
+    "O2825": "Distinct endogenous treatment; do not pool with contribution-bias2SLS. First-stage diagnostic coefficient is not a new outcome setting. Board share of active/former legislators, Congress members, ex officio, governor-appointed or state-representative-elected trustees (TableB1). Source: pp84,87 Table9; L1133-1185,L1371-1414."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74582,7 +74591,11 @@
     "A6902": "MBWIN7NL",
     "B6902": "h29",
     "C6902": "hy1",
-    "K6902": "Risk Shift: annual change in share allocated to equities, real estate, private equity, hedge funds and other alternatives; not risky-asset stock level."
+    "K6902": "Risk Shift: annual change in share allocated to equities, real estate, private equity, hedge funds and other alternatives; not risky-asset stock level.",
+    "A6903": "MBWIN7NL",
+    "B6903": "h30",
+    "C6903": "hy1",
+    "K6903": "Quarterly value-weighted domestic equity portfolio return, fraction units; Appendix B p89."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

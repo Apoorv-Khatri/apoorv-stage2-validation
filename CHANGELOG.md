@@ -461202,3 +461202,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T10:05:27.923860+00:00 — Review MBWIN7NL h30: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6903",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6903",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6903",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6903",
+    "before": null,
+    "after": "Quarterly value-weighted domestic equity portfolio return, fraction units; Appendix B p89."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2825",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2825",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2825",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2825",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2825",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2825",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2825",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2825",
+    "before": null,
+    "after": "Table9 column4: weighted2SLS effect of lagged Local Lobbying Bias on Portfolio Return, coefficient -0.039. First-stage column3; excluded Politically Affiliated Trustees share only, with state+quarter FE and controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2825",
+    "before": null,
+    "after": "Distinct endogenous treatment; do not pool with contribution-bias2SLS. First-stage diagnostic coefficient is not a new outcome setting. Board share of active/former legislators, Congress members, ex officio, governor-appointed or state-representative-elected trustees (TableB1). Source: pp84,87 Table9; L1133-1185,L1371-1414."
+  }
+]
+```
