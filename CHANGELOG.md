@@ -415146,3 +415146,414 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T06:31:28.299439+00:00 — Review KKKD4ZV5 h11: source-audited coding and linked comparisons
+
+67 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4570",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4571",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4572",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4573",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4570",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4571",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4572",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4573",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4570",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4571",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4572",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4573",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4571",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4572",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4570",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4571",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4572",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4573",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4570",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4571",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4572",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4573",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4570",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4571",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4572",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4573",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4570",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4571",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4572",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4573",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4570",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4571",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4572",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4573",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4570",
+    "before": null,
+    "after": "Figure7(a), p872, GBP triangle: graphical U.S.-holiday shift in average indirect-leg realized Amihud (x-axis ×10^-12), holiday blue circles deliberately paired with normal-day red crosses defined as the average of five days before each holiday. No pooled effect or baseline number printed; values not digitized or invented. This record represents the displayed panel-specific contrast family, not a fabricated pooled coefficient. Caption: Normal days are computed as the average values of the five days before a given holiday in the United States."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4571",
+    "before": null,
+    "after": "Figure7(a), p872, GBP triangle: graphical U.S.-holiday shift in RPVE mispricing (y-axis levels), holiday blue circles deliberately paired with normal-day red crosses defined as the average of five days before each holiday. No pooled effect or baseline number printed; values not digitized or invented. This record represents the displayed panel-specific contrast family, not a fabricated pooled coefficient. Caption: Normal days are computed as the average values of the five days before a given holiday in the United States."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4572",
+    "before": null,
+    "after": "Figure7(b), p872, JPY triangle: graphical U.S.-holiday shift in average indirect-leg realized Amihud (x-axis ×10^-13), holiday blue circles deliberately paired with normal-day red crosses defined as the average of five days before each holiday. No pooled effect or baseline number printed; values not digitized or invented. This record represents the displayed panel-specific contrast family, not a fabricated pooled coefficient. Caption: Normal days are computed as the average values of the five days before a given holiday in the United States."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4573",
+    "before": null,
+    "after": "Figure7(b), p872, JPY triangle: graphical U.S.-holiday shift in RPVE mispricing (y-axis levels), holiday blue circles deliberately paired with normal-day red crosses defined as the average of five days before each holiday. No pooled effect or baseline number printed; values not digitized or invented. This record represents the displayed panel-specific contrast family, not a fabricated pooled coefficient. Caption: Normal days are computed as the average values of the five days before a given holiday in the United States."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4570",
+    "before": null,
+    "after": "Same-outcome mean pairing qualifies without division or a printed scalar estimate. No words compare an effect magnitude with its baseline, so verbal=0. Five preceding days are stated; whether those averages identify the holiday dates untreated outcome and corresponding weights is unestablished, hence alignment unknown. Holiday dates/individual point matches are not labeled: do not manufacture event-level comparison IDs. Plot header USDEUR versus prose EURUSD orientation conflict retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4571",
+    "before": null,
+    "after": "Same-outcome mean pairing qualifies without division or a printed scalar estimate. No words compare an effect magnitude with its baseline, so verbal=0. Five preceding days are stated; whether those averages identify the holiday dates untreated outcome and corresponding weights is unestablished, hence alignment unknown. Holiday dates/individual point matches are not labeled: do not manufacture event-level comparison IDs. Plot header USDEUR versus prose EURUSD orientation conflict retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4572",
+    "before": null,
+    "after": "Same-outcome mean pairing qualifies without division or a printed scalar estimate. No words compare an effect magnitude with its baseline, so verbal=0. Five preceding days are stated; whether those averages identify the holiday dates untreated outcome and corresponding weights is unestablished, hence alignment unknown. Holiday dates/individual point matches are not labeled: do not manufacture event-level comparison IDs. Plot header USDEUR versus prose EURUSD orientation conflict retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4573",
+    "before": null,
+    "after": "Same-outcome mean pairing qualifies without division or a printed scalar estimate. No words compare an effect magnitude with its baseline, so verbal=0. Five preceding days are stated; whether those averages identify the holiday dates untreated outcome and corresponding weights is unestablished, hence alignment unknown. Holiday dates/individual point matches are not labeled: do not manufacture event-level comparison IDs. Plot header USDEUR versus prose EURUSD orientation conflict retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6689",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6690",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6689",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6690",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6689",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6690",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6689",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6690",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6689",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6690",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6689",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6690",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6689",
+    "before": null,
+    "after": "Average realized Amihud of the two indirect EURUSD triangle legs, plotted in levels. Positive underlying Amihud explicitly established p866. Not a binary liquidity indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6690",
+    "before": null,
+    "after": "RPVE triangular pricing-error magnitude, plotted in levels; no zero-mass evidence for focal sample. Not actual arbitrage profit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2725",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2725",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2725",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2725",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2725",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2725",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2725",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2725",
+    "before": null,
+    "after": "U.S. bank holiday versus preceding five normal days: graphical paired level contrasts in average indirect-leg illiquidity and RPVE, GBP and JPY triangles, Figure7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2725",
+    "before": null,
+    "after": "Figure7 explicitly compares holiday days with preceding-five-day averages and attributes rightward shift to exogenous holiday thinning. Linear descriptive contrasts given causal interpretation; not covariate matching or DiD. No pooled treatment-effect number printed. Distinct unadjusted graphical estimand from Table5. Parent priority: whether plotted paired observations meet extraction threshold; not pure Table5 duplicate. Retain graphical estimator: explicit exposure contrast and causal attribution suffice; printed scalar estimate is not a universal requirement. Figure7 panel header says Ref: USDEUR whereas prose/Eq4 says EURUSD. Preserve orientation discrepancy; do not convert/reinvert plotted values. Four panel×outcome mean-benchmark comparisons added, without fabricated numbers. Source: §5.1 pp871–872 Figure7."
+  }
+]
+```
