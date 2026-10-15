@@ -413865,3 +413865,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T04:18:15.206106+00:00 — Review KKKD4ZV5 s4: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1271",
+    "before": null,
+    "after": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J509",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K509",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M509",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N509",
+    "before": null,
+    "after": "EUR-leg illiquidity dose affects RPVE conditional on USD-leg illiquidity, Table6 OLS; direct-pair Amihud and BAS controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O509",
+    "before": null,
+    "after": "Author hypotheses explicitly concern liquidity leading to pricing errors; endogeneity acknowledged and motivates TSLS rather than canceling OLS intention. Distinct EUR and USD treatment coordinates are split, although jointly estimated. Controls have no separately interpreted substantive effect. No absorbed FE. No-control robustness p876 fn42 grouped, not a new method. Parameter-specific scope: βEUR only; βUSD is h17. Joint estimation does not collapse distinct substantive treatments. Source: §5.3 pp875–878 Eq5 Table6 OLS."
+  }
+]
+```
