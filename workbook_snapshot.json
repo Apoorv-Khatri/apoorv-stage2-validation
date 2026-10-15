@@ -28446,7 +28446,16 @@
     "L2909": "0",
     "M2909": "n/a",
     "N2909": "OB5 baseline ownership effect using Sustainalytics E&S data; positive significant implemented results.",
-    "O2909": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Final confirms reestimation of baseline model; provider-specific measures and estimates unverified. Source: p702 Section3.3 OB5; L658–670."
+    "O2909": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Final confirms reestimation of baseline model; provider-specific measures and estimates unverified. Source: p702 Section3.3 OB5; L658–670.",
+    "A2910": "NGGU7KDV",
+    "B2910": "h30",
+    "I2910": "1",
+    "J2910": "HDFE",
+    "K2910": "0",
+    "L2910": "0",
+    "M2910": "n/a",
+    "N2910": "OB5 baseline ownership effect using Bloomberg E&S data; positive significant implemented results.",
+    "O2910": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Final confirms reestimation of baseline model; provider-specific measures and estimates unverified. Source: p702 Section3.3 OB5; L658–670."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76736,7 +76745,15 @@
     "A7137": "NGGU7KDV",
     "B7137": "h29",
     "C7137": "hy2",
-    "K7137": "Sustainalytics social performance; exact score/scale unknown."
+    "K7137": "Sustainalytics social performance; exact score/scale unknown.",
+    "A7138": "NGGU7KDV",
+    "B7138": "h30",
+    "C7138": "hy1",
+    "K7138": "Bloomberg environmental performance; exact score/scale unknown.",
+    "A7139": "NGGU7KDV",
+    "B7139": "h30",
+    "C7139": "hy2",
+    "K7139": "Bloomberg social performance; exact score/scale unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
