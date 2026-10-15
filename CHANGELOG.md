@@ -414999,3 +414999,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T06:31:09.384027+00:00 — Review KKKD4ZV5 h10: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6687",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6688",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6687",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6688",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6687",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6688",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6687",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6688",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6687",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6688",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6687",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6688",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6687",
+    "before": null,
+    "after": "Average realized Amihud of indirect legs reproducing EURCHF via GBP (EURGBP/GBPCHF) or USD (EURUSD/USDCHF), Figure9. Daily plotted levels, fifty observations on each side, not a fifty-day mean. Axes use ×10^-10 (GBP) and ×10^-13 (USD). Positive Amihud established p866."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6688",
+    "before": null,
+    "after": "Daily RPVE triangular pricing-error magnitude for direct EURCHF against synthetic EURCHF via GBP or USD, Figure9; levels, not logs or profit. Zero mass unestablished."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2724",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2724",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2724",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2724",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2724",
+    "before": null,
+    "after": "SNB cap-removal graphical before/after contrasts in average indirect-leg illiquidity and triangular mispricing for direct EURCHF via GBP or USD, Figure9; 50 days on each side."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2724",
+    "before": null,
+    "after": "Figure9 panel headers explicitly say EURCHF via GBP/USD. Each cloud contains daily observations; average on x-axis refers to indirect-leg illiquidity, not a single 50-day sample mean. Authors p874 interpret rightward/upward shifts as regime effects. Keep OLS-class linear level contrast modest: no pooled numeric estimate, no formal DiD. Distinct direct pair and short-window estimand from Table5 and Figure8. Introduction p861 establishes main role. Figure9 has no displayed preperiod mean benchmark, unlike Figure7 five-day averages. Source: §5.2 pp874–875 Figure9."
+  }
+]
+```

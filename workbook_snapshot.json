@@ -26398,7 +26398,16 @@
     "L2723": "1",
     "M2723": "n/a",
     "N2723": "SNB cap-removal before/after mean-level contrasts for EURCHF RPV, CLS trading volume and realized Amihud, Figure8(b–d) and fn35.",
-    "O2723": "pp873–874 explicitly attribute low volatility/high volume/liquidity to the cap and opposite patterns after removal; fn35 confirms mean-difference tests. OLS-class linear before/after, not RD/DiD. Figure8(a) spot rate supplies policy context; all cases in fn35 does not unambiguously establish a separate interpreted price-outcome mean test. Exclude spot outcome from this setting rather than infer it. Main=1 because introduction p861 explicitly identifies persistent liquidity impairment as an additional central result. No numeric differences or linked mean baselines printed. Source: §5.2 pp873–874 Figure8 fn35."
+    "O2723": "pp873–874 explicitly attribute low volatility/high volume/liquidity to the cap and opposite patterns after removal; fn35 confirms mean-difference tests. OLS-class linear before/after, not RD/DiD. Figure8(a) spot rate supplies policy context; all cases in fn35 does not unambiguously establish a separate interpreted price-outcome mean test. Exclude spot outcome from this setting rather than infer it. Main=1 because introduction p861 explicitly identifies persistent liquidity impairment as an additional central result. No numeric differences or linked mean baselines printed. Source: §5.2 pp873–874 Figure8 fn35.",
+    "A2724": "KKKD4ZV5",
+    "B2724": "h10",
+    "I2724": "1",
+    "J2724": "OLS",
+    "K2724": "1",
+    "L2724": "1",
+    "M2724": "n/a",
+    "N2724": "SNB cap-removal graphical before/after contrasts in average indirect-leg illiquidity and triangular mispricing for direct EURCHF via GBP or USD, Figure9; 50 days on each side.",
+    "O2724": "Figure9 panel headers explicitly say EURCHF via GBP/USD. Each cloud contains daily observations; average on x-axis refers to indirect-leg illiquidity, not a single 50-day sample mean. Authors p874 interpret rightward/upward shifts as regime effects. Keep OLS-class linear level contrast modest: no pooled numeric estimate, no formal DiD. Distinct direct pair and short-window estimand from Table5 and Figure8. Introduction p861 establishes main role. Figure9 has no displayed preperiod mean benchmark, unlike Figure7 five-day averages. Source: §5.2 pp874–875 Figure9."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -72102,7 +72111,21 @@
     "H6686": "0",
     "I6686": "0",
     "J6686": "none",
-    "K6686": "Daily EURCHF realized Amihud (RPV divided by trading volume), Figure8(d)."
+    "K6686": "Daily EURCHF realized Amihud (RPV divided by trading volume), Figure8(d).",
+    "A6687": "KKKD4ZV5",
+    "B6687": "h10",
+    "C6687": "hy1",
+    "H6687": "0",
+    "I6687": "0",
+    "J6687": "none",
+    "K6687": "Average realized Amihud of indirect legs reproducing EURCHF via GBP (EURGBP/GBPCHF) or USD (EURUSD/USDCHF), Figure9. Daily plotted levels, fifty observations on each side, not a fifty-day mean. Axes use ×10^-10 (GBP) and ×10^-13 (USD). Positive Amihud established p866.",
+    "A6688": "KKKD4ZV5",
+    "B6688": "h10",
+    "C6688": "hy2",
+    "H6688": "0",
+    "I6688": "unknown",
+    "J6688": "none",
+    "K6688": "Daily RPVE triangular pricing-error magnitude for direct EURCHF against synthetic EURCHF via GBP or USD, Figure9; levels, not logs or profit. Zero mass unestablished."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
