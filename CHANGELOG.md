@@ -476052,3 +476052,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T13:09:55.774118+00:00 — Review NGGU7KDV h19: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7100",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7101",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7100",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7101",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7100",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7101",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7100",
+    "before": null,
+    "after": "Natural log of overall environmental score (equal category weights; 0–100 before log)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7101",
+    "before": null,
+    "after": "Natural log of proprietary ASSET4 environmental rank-based score (0–100 before log), NOT an outcome-SD unit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2899",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2899",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2899",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2899",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2899",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2899",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2899",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2899",
+    "before": null,
+    "after": "Table8 Panel A, columns 1 and 3: non-US firms; continuous lagged foreign ownership share of hedge funds domiciled in HIGH-norm countries (EPI median split). Outcomes: natural logs of overall and proprietary environmental scores. Employment-Laws-defined social treatment is separate at h53; WVS definitions remain separate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2899",
+    "before": null,
+    "after": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Literal treatment split: EPI and Employment Laws Index define different origin-country ownership regressors, not sample variants. Same-index overall/proprietary outcomes remain grouped. Source: p711 Table8A/B columns 1,3; article.txt L1247–1327."
+  }
+]
+```

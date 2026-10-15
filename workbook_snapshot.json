@@ -28347,7 +28347,16 @@
     "L2898": "1",
     "M2898": "n/a",
     "N2898": "Table8: continuous foreign IO share of pension funds from low-norm countries, World Value E&S Index median grouping. Four log E&S outcomes; positive and null coefficients retained according to investor-type hypothesis.",
-    "O2898": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Source: pp708,710–711 Table8A/B; L1100–1144,L1212–1327."
+    "O2898": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Source: pp708,710–711 Table8A/B; L1100–1144,L1212–1327.",
+    "A2899": "NGGU7KDV",
+    "B2899": "h19",
+    "I2899": "1",
+    "J2899": "HDFE",
+    "K2899": "0",
+    "L2899": "1",
+    "M2899": "n/a",
+    "N2899": "Table8 Panel A, columns 1 and 3: non-US firms; continuous lagged foreign ownership share of hedge funds domiciled in HIGH-norm countries (EPI median split). Outcomes: natural logs of overall and proprietary environmental scores. Employment-Laws-defined social treatment is separate at h53; WVS definitions remain separate.",
+    "O2899": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Literal treatment split: EPI and Employment Laws Index define different origin-country ownership regressors, not sample variants. Same-index overall/proprietary outcomes remain grouped. Source: p711 Table8A/B columns 1,3; article.txt L1247–1327."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76485,7 +76494,15 @@
     "A7099": "NGGU7KDV",
     "B7099": "h18",
     "C7099": "hy4",
-    "K7099": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
+    "K7099": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit.",
+    "A7100": "NGGU7KDV",
+    "B7100": "h19",
+    "C7100": "hy1",
+    "K7100": "Natural log of overall environmental score (equal category weights; 0–100 before log).",
+    "A7101": "NGGU7KDV",
+    "B7101": "h19",
+    "C7101": "hy2",
+    "K7101": "Natural log of proprietary ASSET4 environmental rank-based score (0–100 before log), NOT an outcome-SD unit."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
