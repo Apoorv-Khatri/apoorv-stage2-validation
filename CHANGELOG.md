@@ -436257,3 +436257,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:18:37.113892+00:00 — Review L5V28EJD s7: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I525",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J525",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K525",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L525",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M525",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O525",
+    "before": null,
+    "after": "Calibrated response of price to forced-sale intensity, common lambda=2.34 across ratings. Nonlinear/data-dependent calibration, not IV. Inputs from other settings are not new estimates of those settings; input treatment probabilities and holdings shares are not price-outcome benchmarks. Source: Main pp1141–1142 Eq10 Table11."
+  }
+]
+```
