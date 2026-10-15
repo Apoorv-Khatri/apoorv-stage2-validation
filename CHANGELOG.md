@@ -456027,3 +456027,288 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:09:54.529705+00:00 — Review LVRD3VXI h10: source-audited coding and linked comparisons
+
+46 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5013",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5014",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5015",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5013",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5014",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5015",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5013",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5014",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5015",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5013",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5014",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5015",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5013",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5014",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5015",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5013",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5014",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5015",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5013",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5014",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5015",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5013",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5014",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5015",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5013",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5014",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5015",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5013",
+    "before": null,
+    "after": "Main TableVIII p1019 and definitions p1018. Focal estimate: Log beginning-quarter manager equity portfolio value: baseline slope/group coefficient in non-extreme quarters 0.005 outcome-SD units. Benchmark: SD each quarter of same-type-median-adjusted manager trading-induced risk shift across included managers; continuous covariates standardized separately, transient/nontransient dummies not standardized."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5014",
+    "before": null,
+    "after": "Main TableVIII p1019 and definitions p1018. Focal estimate: Log beginning-quarter manager equity portfolio value: up-sentiment interaction increment (NOT total) 0.004 outcome-SD units. Benchmark: SD each quarter of same-type-median-adjusted manager trading-induced risk shift across included managers; continuous covariates standardized separately, transient/nontransient dummies not standardized."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5015",
+    "before": null,
+    "after": "Main TableVIII p1019 and definitions p1018. Focal estimate: Log beginning-quarter manager equity portfolio value: down-sentiment interaction increment (NOT total) 0.001 outcome-SD units. Benchmark: SD each quarter of same-type-median-adjusted manager trading-induced risk shift across included managers; continuous covariates standardized separately, transient/nontransient dummies not standardized."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5013",
+    "before": null,
+    "after": "Outcome-SD normalization explicit; baseline corresponds to non-extreme quarters and interactions modify it. Source does not establish that full-quarter adjusted-outcome dispersion corresponds to each subgroup/conditional slope target. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5014",
+    "before": null,
+    "after": "Outcome-SD normalization explicit; baseline corresponds to non-extreme quarters and interactions modify it. Source does not establish that full-quarter adjusted-outcome dispersion corresponds to each subgroup/conditional slope target. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5015",
+    "before": null,
+    "after": "Outcome-SD normalization explicit; baseline corresponds to non-extreme quarters and interactions modify it. Source does not establish that full-quarter adjusted-outcome dispersion corresponds to each subgroup/conditional slope target. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6840",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6840",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6840",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6840",
+    "before": null,
+    "after": "Manager-quarter shift toward risky stocks: sum over securities of beginning-quarter log(1+monthly return SD) times change in manager portfolio weights due to trading; subtract same-type median then standardize to unit variance and zero mean each quarter. Outcome SD is of this adjusted measure, not of return volatility."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2792",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2792",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2792",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2792",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2792",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2792",
+    "before": null,
+    "after": "Log beginning-quarter manager equity portfolio value on manager-quarter trading-induced shift toward risky stocks; TableVIII baseline and up/down-quarter interactions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2792",
+    "before": null,
+    "after": "Author-intention gate, not an endorsement of causal identification. Observational explanatory regression; no IV/RCT/RD/DiD. Continuous proxy for reputational concerns; explicit null conclusion for sentiment interactions retained, not treated as nuisance controls. Same-type median adjustment and quarter standardization, no identifying manager FE strategy; OLS. Interaction is modification of group/slope effect, not total effect. Aggregate sentiment quarter selection is outcome-dependent, a limitation rather than causal assignment. Source: Main pp1018–1020 TableVIII."
+  }
+]
+```
