@@ -458175,3 +458175,270 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:57:51.003666+00:00 — Review MBWIN7NL h7: source-audited coding and linked comparisons
+
+43 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5018",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5019",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5018",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5019",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5018",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5019",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5018",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5019",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5018",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5019",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5019",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5018",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5019",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5018",
+    "before": null,
+    "after": "p77 Table4 col2 and prose; local lobbying log-hazard -0.500; hazard ratio0.607 relative to local nonlobbying hazard. Text says interpreted similarly to0.759 contribution ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5019",
+    "before": null,
+    "after": "p77 Table4 col4; nonlocal lobbying log-hazard -0.386; hazard ratio0.680 relative to nonlocal nonlobbying hazard."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6853",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6854",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6853",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6854",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6853",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6854",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6853",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6854",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6853",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6854",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6853",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6854",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6853",
+    "before": null,
+    "after": "Conditional liquidation hazard from censored holding duration in quarters; log-hazard/ratio reporting."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6854",
+    "before": null,
+    "after": "Fig1B p78: model-implied survival probability of a local lobbying versus nonlobbying holding over elapsed quarters. Derived from Table4 col2; not an observed binary outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2802",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2802",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2802",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2802",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2802",
+    "before": null,
+    "after": "Table4 columns2,4: LOBBYING indicator effect on liquidation hazard, local/nonlocal samples; hazard ratios0.607,0.680. Same proportional-hazard implementation as contribution model."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2802",
+    "before": null,
+    "after": "Industry FE inside nonlinear hazard model; Fig1B depicts implied survival curves, not an additional identified causal estimator. Source: pp77-78 Table4; L597-738."
+  }
+]
+```
