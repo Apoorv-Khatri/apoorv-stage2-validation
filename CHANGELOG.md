@@ -472656,3 +472656,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:58:26.295100+00:00 — Review NGGU7KDV s6: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1389",
+    "before": null,
+    "after": "Minimum final-main-confirmed environmental performance outcome family; exact overall/proprietary measures and transformations unverified without OB3. Do not force four precise rows from baseline alone."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1390",
+    "before": null,
+    "after": "Minimum final-main-confirmed social performance outcome family; exact overall/proprietary measures and transformations unverified without OB3. Do not force four precise rows from baseline alone."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I560",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J560",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K560",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L560",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M560",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N560",
+    "before": null,
+    "after": "Implemented IV of institutional ownership on environmental/social performance, index additions excluded instrument(s); final Section3.3/OB3 minimum scope only. No verified numerical estimates or exact outcome transformations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O560",
+    "before": null,
+    "after": "Final main explicitly confirms implemented IV using additions to MSCI All Country World Index for institutional ownership. Excluded-instrument coding/multiplicity and numerical second stages unverified; do not infer single binary solely from additions wording. Source: pp694,701 Section3.3 OB3; L89–96,L633–645."
+  }
+]
+```
