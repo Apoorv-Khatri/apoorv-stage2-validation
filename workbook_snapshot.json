@@ -27533,7 +27533,16 @@
     "L2827": "0",
     "M2827": "n/a",
     "N2827": "Table11 bootstrap performance robustness: lagged Local Bias, columns1,4,7,10; WLS/unweighted variants grouped,1000 residual resamples.",
-    "O2827": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Source: pp86,88 Table11; L1288-1335,L1422-1491."
+    "O2827": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Source: pp86,88 Table11; L1288-1335,L1422-1491.",
+    "A2828": "MBWIN7NL",
+    "B2828": "h33",
+    "I2828": "1",
+    "J2828": "FE",
+    "K2828": "0",
+    "L2828": "0",
+    "M2828": "n/a",
+    "N2828": "Table11 bootstrap performance robustness: lagged Local Lobbying Bias, columns3,6,9,12; WLS/unweighted variants grouped,1000 residual resamples.",
+    "O2828": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Source: pp86,88 Table11; L1288-1335,L1422-1491."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74645,7 +74654,11 @@
     "A6908": "MBWIN7NL",
     "B6908": "h32",
     "C6908": "hy1",
-    "K6908": "Quarterly value-weighted domestic equity portfolio return, fraction units; Appendix B p89."
+    "K6908": "Quarterly value-weighted domestic equity portfolio return, fraction units; Appendix B p89.",
+    "A6909": "MBWIN7NL",
+    "B6909": "h33",
+    "C6909": "hy1",
+    "K6909": "Quarterly value-weighted domestic equity portfolio return, fraction units; Appendix B p89."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
