@@ -485124,3 +485124,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:43:04.728034+00:00 — Review NSKXG8S6 s4: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1426",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1426",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1426",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1426",
+    "before": null,
+    "after": "Post-period mean log(1+Citations) minus pre-period mean log(1+Citations), Eq2/Table5. Zero mass of this differenced outcome is not established by zeros in annual patent counts."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J573",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M573",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O573",
+    "before": null,
+    "after": "One excluded instrument: S&P500 membership indicator in year before regulation (not an inclusion-event instrument). Binary endogenous Treat. First stage and weak-IV statistic diagnostic only. LATE for instrument-responsive firms is expressly distinguished from average DiD effect; no eligible magnitude benchmark. Source: Final pp1985–1987 Eq2 Table5; L1256–1370."
+  }
+]
+```
