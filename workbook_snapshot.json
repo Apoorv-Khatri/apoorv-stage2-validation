@@ -27344,7 +27344,16 @@
     "L2806": "0",
     "M2806": "n/a",
     "N2806": "Table6: lagged State GDP Growth Rate effect on three local/political bias outcomes. Poor local economy interpreted as inducing support of politically connected firms; negative political-bias coefficients.",
-    "O2806": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Prose p75 defines annual state real-GDP growth; AppendixB instead says annual change in seasonally adjusted CPI. Preserve unresolved source-definition conflict. Source: pp80-81 Table6 and interpretation; L867-973."
+    "O2806": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Prose p75 defines annual state real-GDP growth; AppendixB instead says annual change in seasonally adjusted CPI. Preserve unresolved source-definition conflict. Source: pp80-81 Table6 and interpretation; L867-973.",
+    "A2807": "MBWIN7NL",
+    "B2807": "h12",
+    "I2807": "1",
+    "J2807": "FE",
+    "K2807": "0",
+    "L2807": "0",
+    "M2807": "n/a",
+    "N2807": "Table6: lagged Corporation Net Income Taxes effect on three local/political bias outcomes. More local tax receipts expected to encourage local investment; positive local-bias result, political-bias nulls.",
+    "O2807": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. State corporate net income taxes divided by total state tax revenues; prose p75 uses previous-quarter total tax revenues. Source: pp80-81 Table6 and interpretation; L867-973."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74251,7 +74260,19 @@
     "A6862": "MBWIN7NL",
     "B6862": "h11",
     "C6862": "hy3",
-    "K6862": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+    "K6862": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one.",
+    "A6863": "MBWIN7NL",
+    "B6863": "h12",
+    "C6863": "hy1",
+    "K6863": "Local Bias: local-firm portfolio weight / market weight minus one.",
+    "A6864": "MBWIN7NL",
+    "B6864": "h12",
+    "C6864": "hy2",
+    "K6864": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one.",
+    "A6865": "MBWIN7NL",
+    "B6865": "h12",
+    "C6865": "hy3",
+    "K6865": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
