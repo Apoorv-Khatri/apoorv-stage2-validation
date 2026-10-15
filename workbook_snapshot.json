@@ -262,6 +262,7 @@
     "B57": "Liquidity in the global currency market",
     "C57": "fin",
     "D57": 6,
+    "E57": "DONE — Available-source review of all 25 final article pages including Appendix A, with independent audit. Final Internet Appendix remains unavailable; older 2021 draft not substituted and holiday-IV instrument multiplicity unresolved. Retain 26 settings, 43 outcome rows and four Figure7 graphical mean-pairing comparison families; both original comparisons rejected. Table2 parameter-specific causal interpretations retained under broad author-intention gate while explicit correlation disclaimer remains documented. Split substantive EUR/USD liquidity treatments and component doses; preserve joint IV instrument sets and augmented-lag distinction. VAR-X classified OLS; FVECM narrowly retained as joint-ML adjustment. Figure9 corrected to EURCHF via GBP/USD; Figure8 spot-price outcome not inferred. Graphical comparisons have no invented numeric estimates or event-level identities; alignment unknown. Source conflicts, original model fields and IDs preserved.",
     "A58": "KRNZM9QV",
     "B58": "High-frequency quoting, trading, and the efficiency of prices",
     "C58": "fin",
@@ -26488,7 +26489,16 @@
     "L2733": "1",
     "M2733": "other",
     "N2733": "USD-leg illiquidity dose affects RPVE conditional on EUR-leg illiquidity, Table6 Lags; direct-pair Amihud/BAS controls.",
-    "O2733": "Excluded set includes ΩEUR, ΩUSD and lags of both endogenous indirect-leg illiquidity measures, to address errors in variables. Multiple nonbinary instruments => other; number/order of lags not supplied in main article, retain unknown detail rather than infer from Table7. Distinct instrument set warrants separate setting. Same included direct A/BAS controls. βUSD only. Include positive, negative and null estimates; vehicle-currency mechanism explicitly discussed pp875–877. For IV the joint excluded set remains both EUR/USD GIVs plus endogenous-leg lags. Source: §5.3.1 p876; Table6 p878 Lags."
+    "O2733": "Excluded set includes ΩEUR, ΩUSD and lags of both endogenous indirect-leg illiquidity measures, to address errors in variables. Multiple nonbinary instruments => other; number/order of lags not supplied in main article, retain unknown detail rather than infer from Table7. Distinct instrument set warrants separate setting. Same included direct A/BAS controls. βUSD only. Include positive, negative and null estimates; vehicle-currency mechanism explicitly discussed pp875–877. For IV the joint excluded set remains both EUR/USD GIVs plus endogenous-leg lags. Source: §5.3.1 p876; Table6 p878 Lags.",
+    "A2734": "KKKD4ZV5",
+    "B2734": "h20",
+    "I2734": "1",
+    "J2734": "OLS",
+    "K2734": "0",
+    "L2734": "0",
+    "M2734": "n/a",
+    "N2734": "Average reciprocal trading volume (1/ν) of the two indirect legs affects RPVE, conditional on average RPV and their covariance; component-decomposition regression.",
+    "O2734": "Distinct reciprocal-volume treatment, not raw volume. Both components reported significant with expected signs for almost all triplets; no coefficients printed. OLS regression context. Covariance control is not a third substantive treatment. Source: pp872–873 component paragraph and fn31."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -72287,7 +72297,11 @@
     "A6706": "KKKD4ZV5",
     "B6706": "h19",
     "C6706": "hy1",
-    "K6706": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
+    "K6706": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units.",
+    "A6707": "KKKD4ZV5",
+    "B6707": "h20",
+    "C6707": "hy1",
+    "K6707": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

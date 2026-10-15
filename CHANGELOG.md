@@ -416463,3 +416463,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T06:34:23.884544+00:00 — Review KKKD4ZV5 h20: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6707",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6707",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6707",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6707",
+    "before": null,
+    "after": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E57",
+    "before": null,
+    "after": "DONE — Available-source review of all 25 final article pages including Appendix A, with independent audit. Final Internet Appendix remains unavailable; older 2021 draft not substituted and holiday-IV instrument multiplicity unresolved. Retain 26 settings, 43 outcome rows and four Figure7 graphical mean-pairing comparison families; both original comparisons rejected. Table2 parameter-specific causal interpretations retained under broad author-intention gate while explicit correlation disclaimer remains documented. Split substantive EUR/USD liquidity treatments and component doses; preserve joint IV instrument sets and augmented-lag distinction. VAR-X classified OLS; FVECM narrowly retained as joint-ML adjustment. Figure9 corrected to EURCHF via GBP/USD; Figure8 spot-price outcome not inferred. Graphical comparisons have no invented numeric estimates or event-level identities; alignment unknown. Source conflicts, original model fields and IDs preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2734",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2734",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2734",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2734",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2734",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2734",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2734",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2734",
+    "before": null,
+    "after": "Average reciprocal trading volume (1/ν) of the two indirect legs affects RPVE, conditional on average RPV and their covariance; component-decomposition regression."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2734",
+    "before": null,
+    "after": "Distinct reciprocal-volume treatment, not raw volume. Both components reported significant with expected signs for almost all triplets; no coefficients printed. OLS regression context. Covariance control is not a third substantive treatment. Source: pp872–873 component paragraph and fn31."
+  }
+]
+```
