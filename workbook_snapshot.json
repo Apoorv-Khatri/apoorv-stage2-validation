@@ -28455,7 +28455,16 @@
     "L2910": "0",
     "M2910": "n/a",
     "N2910": "OB5 baseline ownership effect using Bloomberg E&S data; positive significant implemented results.",
-    "O2910": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Final confirms reestimation of baseline model; provider-specific measures and estimates unverified. Source: p702 Section3.3 OB5; L658–670."
+    "O2910": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Final confirms reestimation of baseline model; provider-specific measures and estimates unverified. Source: p702 Section3.3 OB5; L658–670.",
+    "A2911": "NGGU7KDV",
+    "B2911": "h31",
+    "I2911": "1",
+    "J2911": "HDFE",
+    "K2911": "0",
+    "L2911": "0",
+    "M2911": "n/a",
+    "N2911": "OB6 baseline Total IO effects on E&S with explicit transparency and insider-control governance adjustment; results hold. Cash holdings/insider ownership robustness also referenced.",
+    "O2911": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Separate reported robustness location; nuisance transparency/insider controls not automatically causal treatments. Source: p698 fn7,p702 Section3.3 OB6; L411–418,L665–670."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76753,7 +76762,23 @@
     "A7139": "NGGU7KDV",
     "B7139": "h30",
     "C7139": "hy2",
-    "K7139": "Bloomberg social performance; exact score/scale unknown."
+    "K7139": "Bloomberg social performance; exact score/scale unknown.",
+    "A7140": "NGGU7KDV",
+    "B7140": "h31",
+    "C7140": "hy1",
+    "K7140": "Natural log of overall environmental score (equal category weights; 0–100 before log).",
+    "A7141": "NGGU7KDV",
+    "B7141": "h31",
+    "C7141": "hy2",
+    "K7141": "Natural log of proprietary ASSET4 environmental rank-based score (0–100 before log), NOT an outcome-SD unit.",
+    "A7142": "NGGU7KDV",
+    "B7142": "h31",
+    "C7142": "hy3",
+    "K7142": "Natural log of overall social score (equal category weights; 0–100 before log).",
+    "A7143": "NGGU7KDV",
+    "B7143": "h31",
+    "C7143": "hy4",
+    "K7143": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
