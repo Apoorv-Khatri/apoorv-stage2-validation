@@ -27560,7 +27560,16 @@
     "L2830": "0",
     "M2830": "n/a",
     "N2830": "Section3.3 fn17 robustness: politically active defined by consecutive contribution in past two years, rather than current-year indicator; proportional-hazard holding-duration analysis, similar results.",
-    "O2830": "Distinct exposure timing definition. No numeric estimates available. Source: p77 fn17 L671-677."
+    "O2830": "Distinct exposure timing definition. No numeric estimates available. Source: p77 fn17 L671-677.",
+    "A2831": "MBWIN7NL",
+    "B2831": "h36",
+    "I2831": "1",
+    "J2831": "unknown",
+    "K2831": "1",
+    "L2831": "0",
+    "M2831": "n/a",
+    "N2831": "Section3.3 unreported discrete-time hazard robustness: LOBBYING effect on liquidation/holding survival, with inverse Mills ratio to address selection; results qualitatively similar to Table4.",
+    "O2831": "Discrete hazard link, estimation and first-stage selection specification not reported. Could be logit/probit versus linear hazard; method unknown, not invented Other. No instrument inferred from Mills correction. Source: pp77-78 L664-677,L730-731."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74690,7 +74699,14 @@
     "H6911": "0",
     "I6911": "0",
     "J6911": "other",
-    "K6911": "Conditional liquidation hazard from censored holding spells."
+    "K6911": "Conditional liquidation hazard from censored holding spells.",
+    "A6912": "MBWIN7NL",
+    "B6912": "h36",
+    "C6912": "hy1",
+    "H6912": "unknown",
+    "I6912": "unknown",
+    "J6912": "unknown",
+    "K6912": "Discrete-time liquidation event/hazard; actual estimated dependent-variable scale not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
