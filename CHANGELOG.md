@@ -453441,3 +453441,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:05:26.714511+00:00 — Review LVRD3VXI s5: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1316",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1317",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1318",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1319",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1320",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1321",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1322",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1316",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1317",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1318",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1319",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1320",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1321",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1322",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1316",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1317",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1318",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1319",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1320",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1321",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1322",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1316",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1317",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1318",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1319",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1320",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1321",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1322",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I531",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O531",
+    "before": null,
+    "after": "Covariance/accounting decomposition of a descriptive correlation, plus entry/exit correlations. The reported37.27%=.86%+36.15%+.26% partitions an association; it is not an OLS treatment-response estimator. Manager97% and mutual-fund-flow43% are shares of a correlation, not an outcome mean/SD comparison. Contested gate: causal language about flows/managers is substantive, but implemented decomposition does not independently estimate an intervention response. Actual flows-impact regression parameters are included in h1/h2. Source: Main pp1010–1012 TableVI; L1620–1750."
+  }
+]
+```
