@@ -457014,3 +457014,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:52:58.297288+00:00 — Review MBWIN7NL s4: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5017",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5017",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5017",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5017",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5017",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5017",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5017",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5017",
+    "before": null,
+    "after": "p79 Table5 cols1,3; local contribution DISP mean0.037 versus covariate-matched local nonpolitical mean-0.010; authors compare disposition presence across categories; no numerical cross-category difference printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5017",
+    "before": null,
+    "after": "Group-mean comparison defines the contrast even without scalar difference. Matching on size/book-to-market/industry alone does not document that the mean uses treated-target weights; nonlocal comparison also lacks untreated-target construction. Printed single-group zero tests are not tests of the contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1328",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1328",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1328",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J537",
+    "before": null,
+    "after": "Matching"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M537",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N537",
+    "before": null,
+    "after": "Table5 columns1,3: contribution-linked local holdings versus matched nonpolitical local holdings; mean DISP0.037 versus -0.010. Matching on size, book-to-market and four-digit industry, retaining same5x5 bins. Group contrast is authors' evidence of politically induced disposition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O537",
+    "before": null,
+    "after": "Match variables do not use realized outcome. No cross-category contrast t-statistic reported; t-values test each DISP against zero. PGR/PLR are components, not separate substantively interpreted outcomes (fn18). Raw constructed DISP uses no further transformation. Source: pp78-79 Table5; L741-822."
+  }
+]
+```
