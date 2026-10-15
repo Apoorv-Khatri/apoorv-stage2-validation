@@ -28464,7 +28464,16 @@
     "L2911": "0",
     "M2911": "n/a",
     "N2911": "OB6 baseline Total IO effects on E&S with explicit transparency and insider-control governance adjustment; results hold. Cash holdings/insider ownership robustness also referenced.",
-    "O2911": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Separate reported robustness location; nuisance transparency/insider controls not automatically causal treatments. Source: p698 fn7,p702 Section3.3 OB6; L411–418,L665–670."
+    "O2911": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Separate reported robustness location; nuisance transparency/insider controls not automatically causal treatments. Source: p698 fn7,p702 Section3.3 OB6; L411–418,L665–670.",
+    "A2912": "NGGU7KDV",
+    "B2912": "h32",
+    "I2912": "1",
+    "J2912": "FE",
+    "K2912": "0",
+    "L2912": "0",
+    "M2912": "n/a",
+    "N2912": "OB7 reverse Granger equation: lagged environmental performance effect on Total IO, controlling lagged IO and covariates, firm FE; null effect used as substantive screening/exit mechanism finding.",
+    "O2912": "Substantive null screening/exit finding highlighted in introduction, not excluded wholesale as a reverse-causality diagnostic; implementation may have multiple score variants unresolved. Source: p702 Section4.1 OB7; L652–683."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76778,7 +76787,11 @@
     "A7143": "NGGU7KDV",
     "B7143": "h31",
     "C7143": "hy4",
-    "K7143": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
+    "K7143": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit.",
+    "A7144": "NGGU7KDV",
+    "B7144": "h32",
+    "C7144": "hy1",
+    "K7144": "Total institutional ownership share, exact scale unverified."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

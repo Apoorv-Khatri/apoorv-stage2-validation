@@ -478059,3 +478059,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T13:17:03.630070+00:00 — Review NGGU7KDV h32: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7144",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7144",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7144",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7144",
+    "before": null,
+    "after": "Total institutional ownership share, exact scale unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2912",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2912",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2912",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2912",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2912",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2912",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2912",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2912",
+    "before": null,
+    "after": "OB7 reverse Granger equation: lagged environmental performance effect on Total IO, controlling lagged IO and covariates, firm FE; null effect used as substantive screening/exit mechanism finding."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2912",
+    "before": null,
+    "after": "Substantive null screening/exit finding highlighted in introduction, not excluded wholesale as a reverse-causality diagnostic; implementation may have multiple score variants unresolved. Source: p702 Section4.1 OB7; L652–683."
+  }
+]
+```
