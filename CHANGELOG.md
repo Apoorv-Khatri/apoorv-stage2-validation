@@ -463869,3 +463869,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T10:09:42.050024+00:00 — Review MBWIN7NL h43: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6927",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6928",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6929",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6927",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6928",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6929",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6927",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6928",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6929",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6927",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6928",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6929",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6927",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6928",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6929",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6927",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6928",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6929",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6927",
+    "before": null,
+    "after": "Local Bias: local-firm portfolio weight / market weight minus one."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6928",
+    "before": null,
+    "after": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6929",
+    "before": null,
+    "after": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2838",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2838",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2838",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2838",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2838",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2838",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2838",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2838",
+    "before": null,
+    "after": "Section5.3 unreported Table7 replications: Congressional Connection x BAN effect, residual-bootstrap and unweighted linear regression versions; qualitatively robust. No coefficients reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2838",
+    "before": null,
+    "after": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Source: p88 Section5.3 L1422-1453."
+  }
+]
+```
