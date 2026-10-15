@@ -469299,3 +469299,336 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:03:14.424026+00:00 — Review ME6H5V5K h20: source-audited coding and linked comparisons
+
+54 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5048",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5049",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5050",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5048",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5049",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5050",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5048",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5049",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5050",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5049",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5050",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5048",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5049",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5050",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5048",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5049",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5050",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5049",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5048",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5049",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5049",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5050",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5048",
+    "before": null,
+    "after": "p2537 L1863-1882; entry probability0.74% to0.51%; focal counterfactual versus recession GDP-3%, average spread, controls at their means in Table5 cols5-6 prediction."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5049",
+    "before": null,
+    "after": "p2537 L1863-1882; high-growth share21.7% to14.2%; focal counterfactual versus recession GDP-3%, average spread, controls at their means in Table5 cols5-6 prediction."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5050",
+    "before": null,
+    "after": "pp2511,2537; reported 1.9% lower average employment after10years in the stated scenario. Final Table1 p2527 captions log(employment level); no verified final level-conversion formula. Draft E.4 absolute employment figures are version-separated evidence only, not the final denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5048",
+    "before": null,
+    "after": "Within the maintained conditional scenario target, the paired no-additional-shock prediction is its own counterfactual mean. Not an observed population or complier mean. Share conditional on entry changes composition by construction."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5049",
+    "before": null,
+    "after": "Within the maintained conditional scenario target, the paired no-additional-shock prediction is its own counterfactual mean. Not an observed population or complier mean. Share conditional on entry changes composition by construction."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5050",
+    "before": null,
+    "after": "Eligibility unknown: explicit lower average employment wording may mean a same-outcome conditional-mean normalization, but could instead be a log-percentage interpretation, which alone does not qualify. Verbal1/divided1 record the authors percentage wording conditionally, not proof of eligible benchmark; alignment unknown. Never use draft matching coefficients to certify final arithmetic."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6989",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6990",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6991",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6989",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6990",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6991",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6989",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6990",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6991",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6989",
+    "before": null,
+    "after": "Predicted probability of creating any startup."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6990",
+    "before": null,
+    "after": "Predicted share of startups that are high growth."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6991",
+    "before": null,
+    "after": "Reported average employment per firm ten years after creation under the stated composition-of-entry counterfactual. Final reports a percentage change but Table1 input is captioned log employment; implemented level/log conversion unresolved. Not an absolute aggregate job count."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2861",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2861",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2861",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2861",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2861",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2861",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2861",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2861",
+    "before": null,
+    "after": "Section4.5 incremental GZ-spread increase1pp at recession GDP=-3%: entry0.74% to0.51%, high-growth share21.7% to14.2%, additional age10 mean employment-1.9%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2861",
+    "before": null,
+    "after": "Same nonlinear composition procedure; separate exposure from GDP-only scenario; employment scale conflict unresolved. Source: p2537 L1874-1897."
+  }
+]
+```
