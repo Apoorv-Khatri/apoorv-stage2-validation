@@ -27057,7 +27057,16 @@
     "L2782": "0",
     "M2782": "n/a",
     "N2782": "Downgrade from above-CCC to CCC-or-below versus before downgrade on share of CLO transactions that are buys; Table3 PanelB.",
-    "O2782": "Broad supporting-mechanism inclusion: authors say consistent with the OC constraint CLOs become net sellers after downgrade, citing buy-share decline52% to28%. Simple observational before/after linear rate contrast, no untreated control or DiD. Table3 other descriptive characteristics are not automatically causal outcomes. Parent priority: distinguish this explicitly interpreted buy-share change from purely descriptive rows. Source: Main p1126 §3.2/Table3 p1128."
+    "O2782": "Broad supporting-mechanism inclusion: authors say consistent with the OC constraint CLOs become net sellers after downgrade, citing buy-share decline52% to28%. Simple observational before/after linear rate contrast, no untreated control or DiD. Table3 other descriptive characteristics are not automatically causal outcomes. Parent priority: distinguish this explicitly interpreted buy-share change from purely descriptive rows. Source: Main p1126 §3.2/Table3 p1128.",
+    "A2783": "LVRD3VXI",
+    "B2783": "h1",
+    "I2783": "1",
+    "J2783": "OLS",
+    "K2783": "0",
+    "L2783": "1",
+    "M2783": "n/a",
+    "N2783": "Expected inflow-induced demand on stock-quarter institutional demand shocks; TableVII cols2,3; treatment=positive manager flows invested proportional to existing security weights.",
+    "O2783": "Author-intention gate, not an endorsement of causal identification. Observational explanatory regression; no IV/RCT/RD/DiD. pp1013–1014 explicitly says flows impact institutional demand shocks. Quarter standardization includes demeaning equivalent to quarter dummies (fn33), but its stated purpose is time variation/secular ownership growth, not a separate identifying-FE strategy absorbing unobserved confounders. Code OLS while preserving actual preprocessing. One calendar dimension, never HDFE. No no-FE counterpart requiring a split. Other explanatory variables retained as joint controls; separately listed here only because each has explicit substantive mechanism interpretation. Source: Main TableVII pp1013–1016."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73771,7 +73780,11 @@
     "H6830": "0",
     "I6830": "unknown",
     "J6830": "other",
-    "K6830": "Abnormal contribution to aggregate P&I sentiment trading defined using Economic stress times−1: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+    "K6830": "Abnormal contribution to aggregate P&I sentiment trading defined using Economic stress times−1: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group.",
+    "A6831": "LVRD3VXI",
+    "B6831": "h1",
+    "C6831": "hy1",
+    "K6831": "Fraction of outstanding stock shares moving from individual to institutional investors in quarter t; rescaled each quarter to zero mean and unit variance, TableVII. Standardized demand, not binary receipt."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -128875,7 +128888,29 @@
     "O4993": "1",
     "P4993": "unknown",
     "Q4993": "Main TableVIII p1019 and definitions p1018. Focal estimate: Manager high-volatility tilt: down-sentiment interaction increment (NOT total) −0.009 outcome-SD units. Benchmark: SD each quarter of same-type-median-adjusted manager trading-induced risk shift across included managers; continuous covariates standardized separately, transient/nontransient dummies not standardized.",
-    "R4993": "Outcome-SD normalization explicit; baseline corresponds to non-extreme quarters and interactions modify it. Source does not establish that full-quarter adjusted-outcome dispersion corresponds to each subgroup/conditional slope target. "
+    "R4993": "Outcome-SD normalization explicit; baseline corresponds to non-extreme quarters and interactions modify it. Source does not establish that full-quarter adjusted-outcome dispersion corresponds to each subgroup/conditional slope target. ",
+    "A4994": "LVRD3VXI",
+    "B4994": "h1",
+    "C4994": "hc1",
+    "K4994": "1",
+    "L4994": "hy1",
+    "M4994": "outcome_sd",
+    "N4994": "0",
+    "O4994": "1",
+    "P4994": "unknown",
+    "Q4994": "Main TableVII p1014 / fn33 p1013. Focal estimate: Expected inflow-induced demand coefficient 0.054 outcome-SD units, column(2); regressors also quarter-standardized. Benchmark: cross-sectional SD of institutional demand shocks in each quarter; TableVII caption and fn33.",
+    "R4994": "Quarter-specific outcome SD is explicit; a single continuous-regression target and corresponding cross-quarter weighting/SD population match are not established.",
+    "A4995": "LVRD3VXI",
+    "B4995": "h1",
+    "C4995": "hc2",
+    "K4995": "1",
+    "L4995": "hy1",
+    "M4995": "outcome_sd",
+    "N4995": "0",
+    "O4995": "1",
+    "P4995": "unknown",
+    "Q4995": "Main TableVII p1014 / fn33 p1013. Focal estimate: Expected inflow-induced demand coefficient 0.044 outcome-SD units, column(3); regressors also quarter-standardized. Benchmark: cross-sectional SD of institutional demand shocks in each quarter; TableVII caption and fn33.",
+    "R4995": "Quarter-specific outcome SD is explicit; a single continuous-regression target and corresponding cross-quarter weighting/SD population match are not established."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
