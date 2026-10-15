@@ -413979,3 +413979,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T06:27:05.885355+00:00 — Review KKKD4ZV5 s6: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1273",
+    "before": null,
+    "after": "Fractionally differenced RPVE in Eq8, with underlying level indexed to first observation (Table7). ML estimates d and equilibrium relationship jointly; not simply an untransformed level regression."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1274",
+    "before": null,
+    "after": "Fractionally differenced average indirect-leg realized Amihud in Eq8, underlying series indexed to its first observation; estimated equilibrium-error adjustment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I511",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J511",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K511",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L511",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M511",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N511",
+    "before": null,
+    "after": "Fractional VECM equilibrium-error response of mispricing and illiquidity, Eq8 Table7; jointly maximum-likelihood-estimated cointegration, fractional integration and adjustment coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O511",
+    "before": null,
+    "after": "Causal-intention gate narrowly passes for response to shocks/deviations and which variable restores equilibrium, not because rank tests or correlation are causal. Estimated d,b,β enter outcome-adaptive fractional transformations/equilibrium regressor; joint nonlinear ML fit, not a simple fixed-regressor OLS equation. αAmihud positive and significant; αRPVE unstarred. No separately identified structural innovation or impulse-response series reported; do not claim exogenous shocks or causal β2 elasticity. Alternative exclusion as equilibrium description is a parent priority. Source: §5.4 pp878–879 Eq8 Table7."
+  }
+]
+```
