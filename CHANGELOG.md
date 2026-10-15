@@ -463680,3 +463680,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T10:09:20.443692+00:00 — Review MBWIN7NL h42: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6924",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6925",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6926",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6924",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6925",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6926",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6924",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6925",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6926",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6924",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6925",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6926",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6924",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6925",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6926",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6924",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6925",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6926",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6924",
+    "before": null,
+    "after": "Local Bias: local-firm portfolio weight / market weight minus one."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6925",
+    "before": null,
+    "after": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6926",
+    "before": null,
+    "after": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2837",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2837",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2837",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2837",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2837",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2837",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2837",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2837",
+    "before": null,
+    "after": "Section5.3 unreported Table7 replications: Congressional Connection baseline effect, residual-bootstrap and unweighted linear regression versions; qualitatively robust. No coefficients reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2837",
+    "before": null,
+    "after": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Source: p88 Section5.3 L1422-1453."
+  }
+]
+```
