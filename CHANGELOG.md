@@ -457200,3 +457200,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:53:52.948382+00:00 — Review MBWIN7NL s6: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1332",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1333",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1334",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1332",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1333",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1334",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1332",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1333",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1334",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I539",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J539",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K539",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L539",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M539",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N539",
+    "before": null,
+    "after": "Table7 columns2-3,5-6,8-9: BCRA post2002 exposure interacted with high Congressional Connection indicator; high-versus-low connected states pre/post contrast. Correct negative coefficients: Local Bias -0.463/-0.375; Contribution Bias -0.710/-0.638; Lobbying Bias -0.797/-0.633. Election-cycle FE throughout, state FE in3,6,9."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O539",
+    "before": null,
+    "after": "Original extracted positive interaction signs are wrong, not a source contradiction: visually verified negative. BAN main coefficient is not the DiD. Conventional design; parallel trends and shock exogeneity maintained, no modern estimator. Source: pp82-84 Table7; L977-1044,L1103-1129,L1190-1198."
+  }
+]
+```
