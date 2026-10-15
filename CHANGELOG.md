@@ -458784,3 +458784,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:58:52.749117+00:00 — Review MBWIN7NL h10: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6857",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6858",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6859",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6857",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6858",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6859",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6857",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6858",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6859",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6857",
+    "before": null,
+    "after": "Local Bias: local-firm portfolio weight / market weight minus one."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6858",
+    "before": null,
+    "after": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6859",
+    "before": null,
+    "after": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2805",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2805",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2805",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2805",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2805",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2805",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2805",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2805",
+    "before": null,
+    "after": "Table6: lagged Fin_Expertise Trustees effect on three local/political bias outcomes. Expertise is argued to reduce political investment but raises overall locality bias."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2805",
+    "before": null,
+    "after": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Percentage of board trustees with finance-industry/sector experience (TableB1). Source: pp80-81 Table6 and interpretation; L867-973."
+  }
+]
+```

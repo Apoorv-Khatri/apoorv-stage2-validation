@@ -27326,7 +27326,16 @@
     "L2804": "1",
     "M2804": "n/a",
     "N2804": "Table5 columns1,6: same contribution-firm class held locally versus by nonlocal funds in states to whose politicians the firms do not contribute. Mean DISP0.037 versus0.015. Unadjusted linear group comparison; political locality contrast.",
-    "O2804": "No covariate matching rule specifically asserted for column6; do not apply column3/4 matching automatically. Source: p79 Table5 and explicit prose comparing columns1,6; L803-815."
+    "O2804": "No covariate matching rule specifically asserted for column6; do not apply column3/4 matching automatically. Source: p79 Table5 and explicit prose comparing columns1,6; L803-815.",
+    "A2805": "MBWIN7NL",
+    "B2805": "h10",
+    "I2805": "1",
+    "J2805": "FE",
+    "K2805": "0",
+    "L2805": "1",
+    "M2805": "n/a",
+    "N2805": "Table6: lagged Fin_Expertise Trustees effect on three local/political bias outcomes. Expertise is argued to reduce political investment but raises overall locality bias.",
+    "O2805": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Percentage of board trustees with finance-industry/sector experience (TableB1). Source: pp80-81 Table6 and interpretation; L867-973."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74209,7 +74218,19 @@
     "H6856": "0",
     "I6856": "unknown",
     "J6856": "none",
-    "K6856": "DISP=PGR-PLR; average constructed disposition spread."
+    "K6856": "DISP=PGR-PLR; average constructed disposition spread.",
+    "A6857": "MBWIN7NL",
+    "B6857": "h10",
+    "C6857": "hy1",
+    "K6857": "Local Bias: local-firm portfolio weight / market weight minus one.",
+    "A6858": "MBWIN7NL",
+    "B6858": "h10",
+    "C6858": "hy2",
+    "K6858": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one.",
+    "A6859": "MBWIN7NL",
+    "B6859": "h10",
+    "C6859": "hy3",
+    "K6859": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
