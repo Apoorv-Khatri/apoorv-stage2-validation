@@ -479154,3 +479154,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T13:21:18.084330+00:00 — Review NGGU7KDV h41: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7166",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7166",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7166",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7166",
+    "before": null,
+    "after": "ASSET4 governance score constructed similarly to E&S measures; estimated scale unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2921",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2921",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2921",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2921",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2921",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2921",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2921",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2921",
+    "before": null,
+    "after": "Untabulated governance performance effects of foreign ownership from LOW-E&S-norm countries; positive significant."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2921",
+    "before": null,
+    "after": "Substantive cross-domain mechanism result; exact estimator, norm index and outcome scale unresolved. No extra EPI/Employment-Laws/WVS split is asserted: exact implemented norm-index definition is not enumerated in this untabulated result sentence. Retained as minimum supported scope, not a pooled inventory of verified distinct regressors. Source: pp710,713 fn22 untabulated; L1240–1244,L1469–1474."
+  }
+]
+```

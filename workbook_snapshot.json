@@ -28545,7 +28545,16 @@
     "L2920": "0",
     "M2920": "unknown",
     "N2920": "Untabulated governance performance effects of non-UN-PRI-signatory institutional ownership; positive significant despite low ex ante E&S commitment.",
-    "O2920": "Final confirms implemented substantive governance effect but does not state exact estimator/location or FE battery; unknown rather than inventing baseline implementation. Source: pp710,713 fn22 untabulated; L1240–1244,L1469–1474."
+    "O2920": "Final confirms implemented substantive governance effect but does not state exact estimator/location or FE battery; unknown rather than inventing baseline implementation. Source: pp710,713 fn22 untabulated; L1240–1244,L1469–1474.",
+    "A2921": "NGGU7KDV",
+    "B2921": "h41",
+    "I2921": "1",
+    "J2921": "unknown",
+    "K2921": "0",
+    "L2921": "0",
+    "M2921": "unknown",
+    "N2921": "Untabulated governance performance effects of foreign ownership from LOW-E&S-norm countries; positive significant.",
+    "O2921": "Substantive cross-domain mechanism result; exact estimator, norm index and outcome scale unresolved. No extra EPI/Employment-Laws/WVS split is asserted: exact implemented norm-index definition is not enumerated in this untabulated result sentence. Retained as minimum supported scope, not a pooled inventory of verified distinct regressors. Source: pp710,713 fn22 untabulated; L1240–1244,L1469–1474."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76947,7 +76956,11 @@
     "A7165": "NGGU7KDV",
     "B7165": "h40",
     "C7165": "hy1",
-    "K7165": "ASSET4 governance score constructed similarly to E&S measures; estimated scale unknown."
+    "K7165": "ASSET4 governance score constructed similarly to E&S measures; estimated scale unknown.",
+    "A7166": "NGGU7KDV",
+    "B7166": "h41",
+    "C7166": "hy1",
+    "K7166": "ASSET4 governance score constructed similarly to E&S measures; estimated scale unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
