@@ -413922,3 +413922,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T06:26:43.165787+00:00 — Review KKKD4ZV5 s5: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1272",
+    "before": null,
+    "after": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I510",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J510",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K510",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L510",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M510",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N510",
+    "before": null,
+    "after": "EUR-leg illiquidity dose affects RPVE conditional on USD-leg illiquidity, Table6 GIV; direct-pair Amihud and BAS controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O510",
+    "before": null,
+    "after": "Excluded set: ΩEUR and ΩUSD, each volume-weighted minus equal-weighted illiquidity across pairs sharing that currency (N=9 EUR,14 USD). Two nonbinary excluded instruments => other, not single continuous. Included direct-rate A and BAS are controls, not instruments. Assumes common factor cancels and idiosyncratic shocks orthogonal to pricing-error disturbances. Lags augmented set split h5. AUD weak first-stage F=2.328 does not alter IV method. No-control robustness grouped. PCA alternative in fn39 is conditional could, not separately established implementation. Parameter-specific scope: βEUR only; βUSD is h18. Joint estimation does not collapse distinct substantive treatments. Source: §5.3.1 pp876–878 Eqs6–7 Table6 GIV."
+  }
+]
+```
