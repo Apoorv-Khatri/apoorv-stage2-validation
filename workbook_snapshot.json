@@ -26479,7 +26479,16 @@
     "L2732": "1",
     "M2732": "other",
     "N2732": "USD-leg illiquidity dose affects RPVE conditional on EUR-leg illiquidity, Table6 GIV; direct-pair Amihud/BAS controls.",
-    "O2732": "Excluded set: ΩEUR and ΩUSD, each volume-weighted minus equal-weighted illiquidity across pairs sharing that currency (N=9 EUR,14 USD). Two nonbinary excluded instruments => other, not single continuous. Included direct-rate A and BAS are controls, not instruments. Assumes common factor cancels and idiosyncratic shocks orthogonal to pricing-error disturbances. Lags augmented set split h5. AUD weak first-stage F=2.328 does not alter IV method. No-control robustness grouped. PCA alternative in fn39 is conditional could, not separately established implementation. βUSD only. Include positive, negative and null estimates; vehicle-currency mechanism explicitly discussed pp875–877. For IV the joint excluded set remains both EUR/USD GIVs. Source: §5.3.1 pp876–878 Eqs6–7 Table6 GIV."
+    "O2732": "Excluded set: ΩEUR and ΩUSD, each volume-weighted minus equal-weighted illiquidity across pairs sharing that currency (N=9 EUR,14 USD). Two nonbinary excluded instruments => other, not single continuous. Included direct-rate A and BAS are controls, not instruments. Assumes common factor cancels and idiosyncratic shocks orthogonal to pricing-error disturbances. Lags augmented set split h5. AUD weak first-stage F=2.328 does not alter IV method. No-control robustness grouped. PCA alternative in fn39 is conditional could, not separately established implementation. βUSD only. Include positive, negative and null estimates; vehicle-currency mechanism explicitly discussed pp875–877. For IV the joint excluded set remains both EUR/USD GIVs. Source: §5.3.1 pp876–878 Eqs6–7 Table6 GIV.",
+    "A2733": "KKKD4ZV5",
+    "B2733": "h19",
+    "I2733": "1",
+    "J2733": "IV",
+    "K2733": "0",
+    "L2733": "1",
+    "M2733": "other",
+    "N2733": "USD-leg illiquidity dose affects RPVE conditional on EUR-leg illiquidity, Table6 Lags; direct-pair Amihud/BAS controls.",
+    "O2733": "Excluded set includes ΩEUR, ΩUSD and lags of both endogenous indirect-leg illiquidity measures, to address errors in variables. Multiple nonbinary instruments => other; number/order of lags not supplied in main article, retain unknown detail rather than infer from Table7. Distinct instrument set warrants separate setting. Same included direct A/BAS controls. βUSD only. Include positive, negative and null estimates; vehicle-currency mechanism explicitly discussed pp875–877. For IV the joint excluded set remains both EUR/USD GIVs plus endogenous-leg lags. Source: §5.3.1 p876; Table6 p878 Lags."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -72274,7 +72283,11 @@
     "A6705": "KKKD4ZV5",
     "B6705": "h18",
     "C6705": "hy1",
-    "K6705": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
+    "K6705": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units.",
+    "A6706": "KKKD4ZV5",
+    "B6706": "h19",
+    "C6706": "hy1",
+    "K6706": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
