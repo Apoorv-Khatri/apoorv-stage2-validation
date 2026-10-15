@@ -414531,3 +414531,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T06:29:40.431891+00:00 — Review KKKD4ZV5 h6: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6681",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6681",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6681",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6681",
+    "before": null,
+    "after": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2720",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2720",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2720",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2720",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2720",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2720",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2720",
+    "before": null,
+    "after": "Holiday-instrument TSLS for separate-leg illiquidity effects on EURUSD triangular mispricing; implemented weak-IV alternative referenced in Internet Appendix Table3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2720",
+    "before": null,
+    "after": "Main text says holiday instrument weak and refers to actual Appendix Table3, so retain minimum implemented estimator despite inaccessible grid. Binary nature of holiday instrument known; exact jurisdiction and whether one or several excluded holiday indicators used jointly are unresolved. Human_IV_type unknown, not guessed single/multiple binary. Continuous receipt illiquidity is treatment, not binary holiday instrument. No coefficients reconstructed. Fresh publisher/author attempts still fail to recover final Appendix Table3; old November2021 repository manuscript is not the final supplement. Retain one minimum scope record, with EUR/USD treatment split pending actual appendix implementation, rather than assert an unseen two-endogenous-variable grid. Source: §5.3 p875 fn37."
+  }
+]
+```

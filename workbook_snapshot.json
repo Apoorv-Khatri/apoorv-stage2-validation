@@ -26362,7 +26362,16 @@
     "L2719": "1",
     "M2719": "other",
     "N2719": "EUR-leg illiquidity dose affects RPVE conditional on USD-leg illiquidity, Table6 Lags; direct-pair Amihud and BAS controls.",
-    "O2719": "Excluded set includes ΩEUR, ΩUSD and lags of both endogenous indirect-leg illiquidity measures, to address errors in variables. Multiple nonbinary instruments => other; number/order of lags not supplied in main article, retain unknown detail rather than infer from Table7. Distinct instrument set warrants separate setting. Same included direct A/BAS controls. Parameter-specific scope: βEUR only; βUSD is h19. Joint estimation does not collapse distinct substantive treatments. Source: §5.3.1 p876; Table6 p878 Lags."
+    "O2719": "Excluded set includes ΩEUR, ΩUSD and lags of both endogenous indirect-leg illiquidity measures, to address errors in variables. Multiple nonbinary instruments => other; number/order of lags not supplied in main article, retain unknown detail rather than infer from Table7. Distinct instrument set warrants separate setting. Same included direct A/BAS controls. Parameter-specific scope: βEUR only; βUSD is h19. Joint estimation does not collapse distinct substantive treatments. Source: §5.3.1 p876; Table6 p878 Lags.",
+    "A2720": "KKKD4ZV5",
+    "B2720": "h6",
+    "I2720": "1",
+    "J2720": "IV",
+    "K2720": "0",
+    "L2720": "0",
+    "M2720": "unknown",
+    "N2720": "Holiday-instrument TSLS for separate-leg illiquidity effects on EURUSD triangular mispricing; implemented weak-IV alternative referenced in Internet Appendix Table3.",
+    "O2720": "Main text says holiday instrument weak and refers to actual Appendix Table3, so retain minimum implemented estimator despite inaccessible grid. Binary nature of holiday instrument known; exact jurisdiction and whether one or several excluded holiday indicators used jointly are unresolved. Human_IV_type unknown, not guessed single/multiple binary. Continuous receipt illiquidity is treatment, not binary holiday instrument. No coefficients reconstructed. Fresh publisher/author attempts still fail to recover final Appendix Table3; old November2021 repository manuscript is not the final supplement. Retain one minimum scope record, with EUR/USD treatment split pending actual appendix implementation, rather than assert an unseen two-endogenous-variable grid. Source: §5.3 p875 fn37."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -72030,7 +72039,11 @@
     "A6680": "KKKD4ZV5",
     "B6680": "h5",
     "C6680": "hy1",
-    "K6680": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
+    "K6680": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units.",
+    "A6681": "KKKD4ZV5",
+    "B6681": "h6",
+    "C6681": "hy1",
+    "K6681": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
