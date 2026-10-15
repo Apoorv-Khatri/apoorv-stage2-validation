@@ -432732,3 +432732,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T07:18:48.560253+00:00 — Review KRNZM9QV h6: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6719",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6719",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6719",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6719",
+    "before": null,
+    "after": "Daily percentage change in number of quote updates, summed per firm-day then averaged within size quintile."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2740",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2740",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2740",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2740",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2740",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2740",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2740",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2740",
+    "before": null,
+    "after": "Lagged percentage changes in |VR−1| affect daily percentage changes in quote updates, Table6A Eq11, four lags and five size-quintile systems."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2740",
+    "before": null,
+    "after": "Substantive reverse-causality result: worsening efficiency attracts high-frequency liquidity provision rather than good-market habitat selection. Large-size first lag .289 (Z2.82), with remaining lags and null small-size results retained. Reduced-form OLS VAR; no FE, no structural causal innovation. No benchmark pairing. Source: §4.1 p285 Table6A pp286–287."
+  }
+]
+```

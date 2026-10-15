@@ -26590,7 +26590,16 @@
     "L2739": "0",
     "M2739": "n/a",
     "N2739": "High versus low prior-half-hour quote-update groups within size/trade cells among large liquidity sweeps: intra-sweep total effective spread cost contrast, 7–37bp higher in low-update groups.",
-    "O2739": "Broad author-intention inclusion despite p273 explicit warning that cross-sectional tests do not imply causation. Countervailing parameter-specific language: p278 dependent sort allows us to see the effect holding size/trading roughly constant; p273 magnitude of the effect; p281 competition compresses realized spreads. This is intended-effect evidence, not a claim of credible identification. Parent priority: adjudicate disclaimer consistently across these US observational settings. No FE, matching weights, or IV; sorting controls are not fixed effects. Distinct update-intensity treatment from occurrence of sweep in s3. Minimum directly reported high-low estimand is intra-sweep cost; small negative prepost quality changes are already s3 conditional-sample variants, not proven high-low differential coefficients. No qualifying baseline for the7–37bp contrast. Source: §3.5 p284 article.txt881–895."
+    "O2739": "Broad author-intention inclusion despite p273 explicit warning that cross-sectional tests do not imply causation. Countervailing parameter-specific language: p278 dependent sort allows us to see the effect holding size/trading roughly constant; p273 magnitude of the effect; p281 competition compresses realized spreads. This is intended-effect evidence, not a claim of credible identification. Parent priority: adjudicate disclaimer consistently across these US observational settings. No FE, matching weights, or IV; sorting controls are not fixed effects. Distinct update-intensity treatment from occurrence of sweep in s3. Minimum directly reported high-low estimand is intra-sweep cost; small negative prepost quality changes are already s3 conditional-sample variants, not proven high-low differential coefficients. No qualifying baseline for the7–37bp contrast. Source: §3.5 p284 article.txt881–895.",
+    "A2740": "KRNZM9QV",
+    "B2740": "h6",
+    "I2740": "1",
+    "J2740": "OLS",
+    "K2740": "0",
+    "L2740": "0",
+    "M2740": "n/a",
+    "N2740": "Lagged percentage changes in |VR−1| affect daily percentage changes in quote updates, Table6A Eq11, four lags and five size-quintile systems.",
+    "O2740": "Substantive reverse-causality result: worsening efficiency attracts high-frequency liquidity provision rather than good-market habitat selection. Large-size first lag .289 (Z2.82), with remaining lags and null small-size results retained. Reduced-form OLS VAR; no FE, no structural causal innovation. No benchmark pairing. Source: §4.1 p285 Table6A pp286–287."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -72510,7 +72519,11 @@
     "H6718": "0",
     "I6718": "unknown",
     "J6718": "none",
-    "K6718": "Total intra-sweep effective spread: sum of effective half-spreads across all trades in collapsed sweep, bp; not share-weighted average outside sweep."
+    "K6718": "Total intra-sweep effective spread: sum of effective half-spreads across all trades in collapsed sweep, bp; not share-weighted average outside sweep.",
+    "A6719": "KRNZM9QV",
+    "B6719": "h6",
+    "C6719": "hy1",
+    "K6719": "Daily percentage change in number of quote updates, summed per firm-day then averaged within size quintile."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
