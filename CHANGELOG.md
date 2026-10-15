@@ -472944,3 +472944,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T12:00:36.076811+00:00 — Review NGGU7KDV s10: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J564",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K564",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M564",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O564",
+    "before": null,
+    "after": "Continuous pre-shock ownership exposure interacted with post; differential dose response, not binary ownership. Conventional shock design takes precedence over FE. No modern estimator. Lower-order coefficients are not unconditional shock effects. Source: pp704–705 Table4; L821–888."
+  }
+]
+```
