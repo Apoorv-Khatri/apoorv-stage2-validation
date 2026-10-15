@@ -26978,7 +26978,16 @@
     "L2776": "0",
     "M2776": "n/a",
     "N2776": "Loan-volume-weighted lending CLO-manager junior OC slack on next-year borrower asset/sales growth; first/no-FE specification, TableF12.",
-    "O2776": "Explicit causal mechanism of lender health constraining loans and borrower growth. Appendix p9 says year and industry FE remove unobservable macro/industry shocks: two effective dimensions; size/age dummy controls are not independent identifying FE batteries. Split true no-FE OLS in h32 from FE h33. F13 reference columns repeat F12, not extra settings. Manager-level slack aggregated first then loan-volume weights across managers; not a single CLO exposure. Caption says nonfinancial private firms while text merges Compustat/nonfinancial borrowers; retain sample-label conflict. Source: IA pp9–11 EqF1 TableF12 p31."
+    "O2776": "Explicit causal mechanism of lender health constraining loans and borrower growth. Appendix p9 says year and industry FE remove unobservable macro/industry shocks: two effective dimensions; size/age dummy controls are not independent identifying FE batteries. Split true no-FE OLS in h32 from FE h33. F13 reference columns repeat F12, not extra settings. Manager-level slack aggregated first then loan-volume weights across managers; not a single CLO exposure. Caption says nonfinancial private firms while text merges Compustat/nonfinancial borrowers; retain sample-label conflict. Source: IA pp9–11 EqF1 TableF12 p31.",
+    "A2777": "L5V28EJD",
+    "B2777": "h33",
+    "I2777": "1",
+    "J2777": "FE",
+    "K2777": "0",
+    "L2777": "0",
+    "M2777": "n/a",
+    "N2777": "Loan-volume-weighted lending CLO-manager junior OC slack on next-year borrower asset/sales growth; second/third specifications with year and industry FE, TableF12.",
+    "O2777": "Explicit causal mechanism of lender health constraining loans and borrower growth. Appendix p9 says year and industry FE remove unobservable macro/industry shocks: two effective dimensions; size/age dummy controls are not independent identifying FE batteries. Split true no-FE OLS in h32 from FE h33. F13 reference columns repeat F12, not extra settings. Manager-level slack aggregated first then loan-volume weights across managers; not a single CLO exposure. Caption says nonfinancial private firms while text merges Compustat/nonfinancial borrowers; retain sample-label conflict. Source: IA pp9–11 EqF1 TableF12 p31."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73376,7 +73385,15 @@
     "A6795": "L5V28EJD",
     "B6795": "h32",
     "C6795": "hy2",
-    "K6795": "Next-year sales growth rate (percentage-point effect interpretation); non-December fiscal years use growth year y+1 to y+2."
+    "K6795": "Next-year sales growth rate (percentage-point effect interpretation); non-December fiscal years use growth year y+1 to y+2.",
+    "A6796": "L5V28EJD",
+    "B6796": "h33",
+    "C6796": "hy1",
+    "K6796": "Next-year asset growth rate (percentage-point effect interpretation); exact ratio versus log-growth formula not specified in source.",
+    "A6797": "L5V28EJD",
+    "B6797": "h33",
+    "C6797": "hy2",
+    "K6797": "Next-year sales growth rate (percentage-point effect interpretation); non-December fiscal years use growth year y+1 to y+2."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
