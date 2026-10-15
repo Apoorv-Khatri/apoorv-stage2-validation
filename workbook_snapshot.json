@@ -27859,7 +27859,16 @@
     "L2855": "0",
     "M2855": "n/a",
     "N2855": "Table5: good future business-opportunity expectations indicator effect on all/low/high growth entry, both financial-indicator specifications.",
-    "O2855": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Section4.4 gives financing-capacity, expertise, expectations and serial-entrepreneur hypotheses; include null exit-share evidence. Middle/high dummies are separate implemented arm-versus-low contrasts, not one unknown categorical exposure. Source: pp2535-36 L1740-1810."
+    "O2855": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Section4.4 gives financing-capacity, expertise, expectations and serial-entrepreneur hypotheses; include null exit-share evidence. Middle/high dummies are separate implemented arm-versus-low contrasts, not one unknown categorical exposure. Source: pp2535-36 L1740-1810.",
+    "A2856": "ME6H5V5K",
+    "B2856": "h15",
+    "I2856": "1",
+    "J2856": "Other",
+    "K2856": "0",
+    "L2856": "0",
+    "M2856": "n/a",
+    "N2856": "Table5: sector-country-year share of exits effect on all/low/high growth entry, both financial-indicator specifications.",
+    "O2856": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Section4.4 gives financing-capacity, expertise, expectations and serial-entrepreneur hypotheses; include null exit-share evidence. Middle/high dummies are separate implemented arm-versus-low contrasts, not one unknown categorical exposure. Source: pp2535-36 L1740-1810."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -75405,7 +75414,19 @@
     "H6977": "1",
     "I6977": "1",
     "J6977": "none",
-    "K6977": "Indicator of starting a high-growth business (zero for all other respondents)."
+    "K6977": "Indicator of starting a high-growth business (zero for all other respondents).",
+    "A6978": "ME6H5V5K",
+    "B6978": "h15",
+    "C6978": "hy1",
+    "K6978": "Indicator of starting any business.",
+    "A6979": "ME6H5V5K",
+    "B6979": "h15",
+    "C6979": "hy2",
+    "K6979": "Indicator of starting a low-growth business (zero for all other respondents).",
+    "A6980": "ME6H5V5K",
+    "B6980": "h15",
+    "C6980": "hy3",
+    "K6980": "Indicator of starting a high-growth business (zero for all other respondents)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
