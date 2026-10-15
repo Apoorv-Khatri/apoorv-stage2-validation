@@ -444198,3 +444198,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:25:01.264764+00:00 — Review L5V28EJD h16: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6768",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6768",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6768",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6768",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6768",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6768",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6768",
+    "before": null,
+    "after": "Average across downgraded loans of total CLO net purchases (buys minus sells), thousands of dollars by relative month (visually verified y-axis), Fig1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2760",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2760",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2760",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2760",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2760",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2760",
+    "before": null,
+    "after": "Downgrade event versus before event: average CLO net loan purchases (buys minus sells) around first downgrade to CCC or below, Fig1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2760",
+    "before": null,
+    "after": "Broad inclusion based on explicit statement downgrade significantly increases sales. Simple observational event-time mean contrast, not a DiD without a control group. Figure is dollar volume, not a sale dummy. Rating caption says BB or above, body B or above; preserve discrepancy. No standalone focal effect-versus-baseline benchmark is stated; do not invent a trajectory estimand from event curve. Source: Main pp1126–1127 §3.2 Fig1."
+  }
+]
+```

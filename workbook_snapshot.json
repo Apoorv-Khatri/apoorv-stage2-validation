@@ -26825,7 +26825,16 @@
     "L2759": "0",
     "M2759": "n/a",
     "N2759": "Quarterly own-flow shock on long-run cumulative fund flow, VAR bottom Table12: .01 mutual funds and .39 hedge funds per1pp shock.",
-    "O2759": "Explicit text attributes long-run increase to flow shock; distinct from return shock. Same nonlinear VAR mapping and identification limitations as h14. Not the nuisance lag coefficients themselves. Exact implemented response is first row of B1(I−B1)^−1, the future cumulative response (lags one onward), not (I−B1)^−1 including the impact identity. An own-flow shock therefore gives reported .01/.39, not 1.01/1.39. This is a reduced-form innovation/state shock; no structural orthogonalization, external instrument or exogenous shock identification is reported. Other follows the nonlinear fitted-parameter map, not a claim that the underlying VAR equations are nonlinear. Source: Main p1142 Table12 bottom."
+    "O2759": "Explicit text attributes long-run increase to flow shock; distinct from return shock. Same nonlinear VAR mapping and identification limitations as h14. Not the nuisance lag coefficients themselves. Exact implemented response is first row of B1(I−B1)^−1, the future cumulative response (lags one onward), not (I−B1)^−1 including the impact identity. An own-flow shock therefore gives reported .01/.39, not 1.01/1.39. This is a reduced-form innovation/state shock; no structural orthogonalization, external instrument or exogenous shock identification is reported. Other follows the nonlinear fitted-parameter map, not a claim that the underlying VAR equations are nonlinear. Source: Main p1142 Table12 bottom.",
+    "A2760": "L5V28EJD",
+    "B2760": "h16",
+    "I2760": "1",
+    "J2760": "OLS",
+    "K2760": "1",
+    "L2760": "0",
+    "M2760": "n/a",
+    "N2760": "Downgrade event versus before event: average CLO net loan purchases (buys minus sells) around first downgrade to CCC or below, Fig1.",
+    "O2760": "Broad inclusion based on explicit statement downgrade significantly increases sales. Simple observational event-time mean contrast, not a DiD without a control group. Figure is dollar volume, not a sale dummy. Rating caption says BB or above, body B or above; preserve discrepancy. No standalone focal effect-versus-baseline benchmark is stated; do not invent a trajectory estimand from event curve. Source: Main pp1126–1127 §3.2 Fig1."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73063,7 +73072,14 @@
     "A6767": "L5V28EJD",
     "B6767": "h15",
     "C6767": "hy2",
-    "K6767": "Long-run cumulative distressed/restructuring hedge-fund flow response, percentage points of assets; VAR-implied."
+    "K6767": "Long-run cumulative distressed/restructuring hedge-fund flow response, percentage points of assets; VAR-implied.",
+    "A6768": "L5V28EJD",
+    "B6768": "h16",
+    "C6768": "hy1",
+    "H6768": "0",
+    "I6768": "unknown",
+    "J6768": "none",
+    "K6768": "Average across downgraded loans of total CLO net purchases (buys minus sells), thousands of dollars by relative month (visually verified y-axis), Fig1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
