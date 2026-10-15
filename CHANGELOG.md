@@ -453630,3 +453630,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:05:50.490425+00:00 — Review LVRD3VXI s6: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K317",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K318",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R317",
+    "before": null,
+    "after": "TableVII pp1014–1016 compares one regression coefficient with another (25%/41% coefficient attenuation), not a level/mean/SD of institutional demand. Ineligible even if the original setting is retained. Outcome-standardization comparisons must be separately linked to actual included focal parameters."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R318",
+    "before": null,
+    "after": "TableVII pp1014–1016 compares one regression coefficient with another (25%/41% coefficient attenuation), not a level/mean/SD of institutional demand. Ineligible even if the original setting is retained. Outcome-standardization comparisons must be separately linked to actual included focal parameters."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1323",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1323",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1323",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1323",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I532",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O532",
+    "before": null,
+    "after": "Original focal treatment is volatility interacted with endogenously selected extreme sentiment-trading quarters. These rows restate the descriptive sentiment-demand relation; quarter groups explicitly use the outcome-demand contribution itself. Do not treat them as exogenous binary sentiment assignments/DiD. The substantively interpreted flow, herding, momentum and risk-management parameters in the SAME regression are included separately h1–h6. Parent priority: if broad gate retains volatility slope/interactions, add their9 outcome-SD comparisons, not the rejected effect-to-effect c1/c2. Source: Main pp1013–1016 TableVII; L1790–1809,L1977–1986."
+  }
+]
+```
