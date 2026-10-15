@@ -451500,3 +451500,1944 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:04:59.540565+00:00 — Review LVRD3VXI s4: source-audited coding and linked comparisons
+
+322 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4974",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4975",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4976",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4977",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4978",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4979",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4980",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4981",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4982",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4983",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4984",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4985",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4986",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4987",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4988",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4989",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4990",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4974",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4975",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4976",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4977",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4978",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4979",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4980",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4981",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4982",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4983",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4984",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4985",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4986",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4987",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4988",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4989",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4990",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4974",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4975",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4976",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4977",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4978",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4979",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4980",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4981",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4982",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4983",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4984",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4985",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4986",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4987",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4988",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4989",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4990",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4974",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4977",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4978",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4979",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4980",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4981",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4982",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4983",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4984",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4985",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4986",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4987",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4988",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4989",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4990",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4974",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4975",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4976",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4977",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4978",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4979",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4980",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4981",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4982",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4983",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4984",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4985",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4986",
+    "before": null,
+    "after": "hy12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4987",
+    "before": null,
+    "after": "hy13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4988",
+    "before": null,
+    "after": "hy14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4989",
+    "before": null,
+    "after": "hy15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4990",
+    "before": null,
+    "after": "hy16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4974",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4975",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4976",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4977",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4978",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4979",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4980",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4981",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4982",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4983",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4984",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4985",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4986",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4987",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4988",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4989",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4990",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4976",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4977",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4978",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4979",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4980",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4982",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4983",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4984",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4985",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4986",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4987",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4988",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4989",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4990",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4976",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4977",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4978",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4979",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4980",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4982",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4983",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4984",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4985",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4986",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4987",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4988",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4989",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4990",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4974",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4975",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4976",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4977",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4978",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4979",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4980",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4981",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4982",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4983",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4984",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4985",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4986",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4987",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4988",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4989",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4990",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4974",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference 0.101; corresponding group values 0.034 versus −0.067. Benchmark: retail-client-focused abnormal contribution −0.067, reported aggregate group contribution level; BW orthogonalized sentiment definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4975",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference 0.029; corresponding group values 0.018 versus −0.011. Benchmark: retail-client-focused abnormal contribution −0.011, reported aggregate group contribution level; CEF discount times−1 definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4976",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference −0.048; corresponding group values 0.025 versus −0.023. Benchmark: retail-client-focused abnormal contribution −0.023, reported aggregate group contribution level; Turnover definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4977",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference 0.122; corresponding group values 0.023 versus −0.099. Benchmark: retail-client-focused abnormal contribution −0.099, reported aggregate group contribution level; Number IPOs definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4978",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference 0.117; corresponding group values 0.040 versus −0.076. Benchmark: retail-client-focused abnormal contribution −0.076, reported aggregate group contribution level; IPO return definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4979",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference 0.087; corresponding group values 0.037 versus −0.050. Benchmark: retail-client-focused abnormal contribution −0.050, reported aggregate group contribution level; Equity share definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4980",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference 0.088; corresponding group values 0.029 versus −0.059. Benchmark: retail-client-focused abnormal contribution −0.059, reported aggregate group contribution level; Dividend premium times−1 definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4981",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference 0.042; corresponding group values 0.010 versus −0.032. Benchmark: retail-client-focused abnormal contribution −0.032, reported aggregate group contribution level; MF general demand definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4982",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference −0.040; corresponding group values −0.033 versus 0.007. Benchmark: retail-client-focused abnormal contribution 0.007, reported aggregate group contribution level; MF speculative demand definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4983",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference 0.053; corresponding group values 0.027 versus −0.027. Benchmark: retail-client-focused abnormal contribution −0.027, reported aggregate group contribution level; MF net exchange to equity definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4984",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference 0.068; corresponding group values 0.026 versus −0.042. Benchmark: retail-client-focused abnormal contribution −0.042, reported aggregate group contribution level; Michigan confidence definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4985",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference 0.096; corresponding group values 0.054 versus −0.042. Benchmark: retail-client-focused abnormal contribution −0.042, reported aggregate group contribution level; Conference Board confidence definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4986",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference 0.007; corresponding group values 0.008 versus 0.002. Benchmark: retail-client-focused abnormal contribution 0.002, reported aggregate group contribution level; AAII sentiment definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4987",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference 0.132; corresponding group values 0.092 versus −0.040. Benchmark: retail-client-focused abnormal contribution −0.040, reported aggregate group contribution level; Venture capital definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4988",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference 0.099; corresponding group values 0.088 versus −0.011. Benchmark: retail-client-focused abnormal contribution −0.011, reported aggregate group contribution level; Number venture deals definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4989",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference 0.137; corresponding group values 0.042 versus −0.095. Benchmark: retail-client-focused abnormal contribution −0.095, reported aggregate group contribution level; National activity definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4990",
+    "before": null,
+    "after": "Main TableV B pp1007–1008. Focal estimate: institutional-client-focused minus retail-client-focused abnormal contribution, printed difference 0.173; corresponding group values 0.092 versus −0.081. Benchmark: retail-client-focused abnormal contribution −0.081, reported aggregate group contribution level; Economic stress times−1 definition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4974",
+    "before": null,
+    "after": "Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4975",
+    "before": null,
+    "after": "Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4976",
+    "before": null,
+    "after": "Printed turnover difference−.048 and t−.91 conflict with printed group values .025 and−.023; visually verified; no silent sign correction. Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4977",
+    "before": null,
+    "after": "Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4978",
+    "before": null,
+    "after": "Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4979",
+    "before": null,
+    "after": "Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4980",
+    "before": null,
+    "after": "Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4981",
+    "before": null,
+    "after": "Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4982",
+    "before": null,
+    "after": "Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4983",
+    "before": null,
+    "after": "Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4984",
+    "before": null,
+    "after": "Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4985",
+    "before": null,
+    "after": "Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4986",
+    "before": null,
+    "after": "Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4987",
+    "before": null,
+    "after": "Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4988",
+    "before": null,
+    "after": "Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4989",
+    "before": null,
+    "after": "Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4990",
+    "before": null,
+    "after": "Paired group levels and explicit difference qualify without author division. Client groups observational and portfolio-weight adjusted; group contribution levels are reported, but a mean of the focal quarterly outcome is not established. Negative means are residualized abnormal contributions, not negative probabilities. Table V Panel A explicitly labels time-series means, whereas Panel B and p1009 report a partition of the aggregate correlation. Code the stated same-outcome level as other_level, not an inferred mean; alignment n/a."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6815",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6816",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6817",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6818",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6819",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6820",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6821",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6822",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6823",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6824",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6825",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6826",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6827",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6828",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6829",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6830",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6815",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6816",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6817",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6818",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6819",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6820",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6821",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6822",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6823",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6824",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6825",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6826",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6827",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6828",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6829",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6830",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6815",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6816",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6817",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6818",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6819",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6820",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6821",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6822",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6823",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6824",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6825",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6826",
+    "before": null,
+    "after": "hy12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6827",
+    "before": null,
+    "after": "hy13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6828",
+    "before": null,
+    "after": "hy14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6829",
+    "before": null,
+    "after": "hy15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6830",
+    "before": null,
+    "after": "hy16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1312",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1313",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1314",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1315",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6815",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6816",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6817",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6818",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6819",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6820",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6821",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6822",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6823",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6824",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6825",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6826",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6827",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6828",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6829",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6830",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1312",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1313",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1314",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1315",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6815",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6816",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6817",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6818",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6819",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6820",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6821",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6822",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6823",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6824",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6825",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6826",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6827",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6828",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6829",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6830",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1312",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1313",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1314",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1315",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6815",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6816",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6817",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6818",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6819",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6820",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6821",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6822",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6823",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6824",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6825",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6826",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6827",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6828",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6829",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6830",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1312",
+    "before": null,
+    "after": "Spurious: first-column metric-demand correlation excluded, not the outcome of client-type contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1313",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using BW orthogonalized sentiment: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1314",
+    "before": null,
+    "after": "Duplicate of y2: retail group value is the benchmark for the same BW abnormal-contribution outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1315",
+    "before": null,
+    "after": "Duplicate of y2: between-group difference is the estimate, not a separate outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6815",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using CEF discount times−1: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6816",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using Turnover: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6817",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using Number IPOs: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6818",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using IPO return: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6819",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using Equity share: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6820",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using Dividend premium times−1: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6821",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using MF general demand: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6822",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using MF speculative demand: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6823",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using MF net exchange to equity: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6824",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using Michigan confidence: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6825",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using Conference Board confidence: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6826",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using AAII sentiment: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6827",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using Venture capital: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6828",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using Number venture deals: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6829",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using National activity: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6830",
+    "before": null,
+    "after": "Abnormal contribution to aggregate P&I sentiment trading defined using Economic stress times−1: actual contribution less beginning-quarter portfolio-weight times aggregate quarter contribution. TableV B; same outcome across institutional-client-focused and retail-client-focused manager groups, not separate outcomes for each group."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J530",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M530",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N530",
+    "before": null,
+    "after": "Institutional-client-focused versus retail-client-focused managers: difference in abnormal contribution to P&I sentiment trading for each17 metric definitions, TableV PanelB last3 columns. Raw sentiment-correlation first column excluded. Client composition is the binary group contrast; sentiment metrics index outcomes, not17 treatments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O530",
+    "before": null,
+    "after": "Author-intention gate, not an endorsement of causal identification. Observational explanatory regression; no IV/RCT/RD/DiD. Mechanism test of whether underlying retail clients drive sentiment trading; explicit institutional-versus-retail contrast retained under broad author-intention rule. Abnormal contribution removes beginning-quarter portfolio-weight-proportional expected contribution. Linear group contrast, not causal matching, FE or IV. Categories use closest-in-calendar-time reported clientele, so not necessarily predetermined; no exogenous client assignment. Borderline relative to descriptive accounting interpretation; parent adjudication priority. Main=1: the clientele mechanism is expressly summarized in introduction p988 and conclusion p1020 as evidence against the traditional retail-driven explanation, not merely incidental subgroup description. Source: Main pp1005–1009 TableV B."
+  }
+]
+```
