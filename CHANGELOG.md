@@ -464703,3 +464703,276 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T10:52:38.713544+00:00 — Review ME6H5V5K s3: source-audited coding and linked comparisons
+
+44 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5039",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5040",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5039",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5040",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5039",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5040",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K326",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5039",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L326",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L327",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5039",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5040",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M326",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M327",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5039",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5040",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N326",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5039",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O326",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5039",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P326",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P327",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5039",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5040",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q326",
+    "before": null,
+    "after": "\"An increase in the GZ spread by one point decreases high-growth startups by 11% (vs. 4.5% in the complementary group).\" (Section 4.3, PDF p. 24 / article p. 2531) Semielasticity of fitted startup probability, covariates evaluated at means (fn18 p2531); denominator probability not numerically printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q327",
+    "before": null,
+    "after": "\"An increase in the GZ spread by one point decreases high-growth startups by 11% (vs. 4.5% in the complementary group).\" (Section 4.3, PDF p. 24 / article p. 2531) Semielasticity of fitted startup probability, covariates evaluated at means (fn18 p2531); denominator probability not numerically printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5039",
+    "before": null,
+    "after": "p2531 fn18 L1497-1503; Table2 col6 GZ spread semielasticity at GDP growth-0.03, high-growth entry-11.03%; fitted probability denominator evaluated at mean controls, not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5040",
+    "before": null,
+    "after": "p2531 fn18 L1497-1503; Table2 col6 GZ spread semielasticity at GDP growth+0.03, high-growth entry-11.6%; fitted probability denominator evaluated at mean controls, not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R326",
+    "before": null,
+    "after": "Probability is a conditional mean, not other_level. Unknown alignment: exact reference value of finance exposure/conditioning for normalization and untreated target not sufficiently reported; mean-controls evaluation is not population averaging."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R327",
+    "before": null,
+    "after": "Probability is a conditional mean, not other_level. Unknown alignment: exact reference value of finance exposure/conditioning for normalization and untreated target not sufficiently reported; mean-controls evaluation is not population averaging."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5039",
+    "before": null,
+    "after": "Distinct conditioning values/estimates, not repetition of11% at mean GDP. Untreated/reference finance value unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5040",
+    "before": null,
+    "after": "Distinct conditioning values/estimates, not repetition of11% at mean GDP. Untreated/reference finance value unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I546",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J546",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K546",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L546",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M546",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O546",
+    "before": null,
+    "after": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Source: Table2 cols4-6 pp2530-31; L1314-1503."
+  }
+]
+```
