@@ -26879,7 +26879,16 @@
     "L2765": "0",
     "M2765": "n/a",
     "N2765": "Past four-quarter change in junior OC slack on next-quarter any-tranche downgrade dummy, logit EqA2/TableF2 right3 cols.",
-    "O2765": "Continuous change, not level or binary failure. Year-quarter FE; nonlinear estimator Other. Printed −1.58/−1.66/−2.00 are logit slopes multiplied100, not reported marginal effects. Institutional performance consequences establish substantive intent despite prediction terminology. Source: IA pp1–3 TableF2 p19."
+    "O2765": "Continuous change, not level or binary failure. Year-quarter FE; nonlinear estimator Other. Printed −1.58/−1.66/−2.00 are logit slopes multiplied100, not reported marginal effects. Institutional performance consequences establish substantive intent despite prediction terminology. Source: IA pp1–3 TableF2 p19.",
+    "A2766": "L5V28EJD",
+    "B2766": "h22",
+    "I2766": "1",
+    "J2766": "Other",
+    "K2766": "1",
+    "L2766": "0",
+    "M2766": "n/a",
+    "N2766": "At least one managed CLO tranche downgrade in quarter q versus none on manager launching any new CLO in q+1; logit TableF3 downgrade-only and joint columns.",
+    "O2766": "Reputation/performance channel explicitly interpreted as changing future launches. Time FE incidental to logit. Preserve reported slope −.39/−.42 and marginal effects −4.38/−4.64 pp; caption times100 for b is inconsistent with usual logit scaling, visually verified, not repaired. Source: IA pp3–5 EqA3 TableF3 p20."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73188,7 +73197,14 @@
     "A6778": "L5V28EJD",
     "B6778": "h21",
     "C6778": "hy1",
-    "K6778": "One if either rating agency downgrades at least one tranche next quarter, zero otherwise; combined S&P/Moody’s dummy."
+    "K6778": "One if either rating agency downgrades at least one tranche next quarter, zero otherwise; combined S&P/Moody’s dummy.",
+    "A6779": "L5V28EJD",
+    "B6779": "h22",
+    "C6779": "hy1",
+    "H6779": "1",
+    "I6779": "1",
+    "J6779": "none",
+    "K6779": "Indicator manager launches at least one CLO in next quarter (0/1); unconditional launch rate23% establishes zeros."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -128013,7 +128029,18 @@
     "O4968": "0",
     "P4968": "unknown",
     "Q4968": "Main p1133 Table7 B. Focal: Above-versus-below owner-group net contrast in week bin[16:20]; above-group level-0.37 percent of issue amount; difference not printed. Benchmark: Below-owner-group mean-0.26 percent of issue amount, same bin.",
-    "R4968": "Deliberately paired group means in substantive mechanism comparison; do not invent numeric difference. No demonstrated untreated-target equivalence. Net numerical values follow buy−sell, despite printed (2)−(1) header."
+    "R4968": "Deliberately paired group means in substantive mechanism comparison; do not invent numeric difference. No demonstrated untreated-target equivalence. Net numerical values follow buy−sell, despite printed (2)−(1) header.",
+    "A4969": "L5V28EJD",
+    "B4969": "h22",
+    "C4969": "hc1",
+    "K4969": "1",
+    "L4969": "hy1",
+    "M4969": "outcome_mean",
+    "N4969": "1",
+    "O4969": "0",
+    "P4969": "unknown",
+    "Q4969": "IA p4/TableF3 p20. Focal: Downgrade marginal effect −4.38pp (prose −4.4pp), first model. Benchmark: Unconditional manager-quarter launch probability23%.",
+    "R4969": "Pooled unconditional probability is not shown to be untreated no-downgrade target mean; effect averaging population/weights unresolved."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

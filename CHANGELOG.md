@@ -448566,3 +448566,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:27:18.008187+00:00 — Review L5V28EJD h22: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4969",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4969",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4969",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4969",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4969",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4969",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4969",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4969",
+    "before": null,
+    "after": "IA p4/TableF3 p20. Focal: Downgrade marginal effect −4.38pp (prose −4.4pp), first model. Benchmark: Unconditional manager-quarter launch probability23%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4969",
+    "before": null,
+    "after": "Pooled unconditional probability is not shown to be untreated no-downgrade target mean; effect averaging population/weights unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6779",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6779",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6779",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6779",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6779",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6779",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6779",
+    "before": null,
+    "after": "Indicator manager launches at least one CLO in next quarter (0/1); unconditional launch rate23% establishes zeros."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2766",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2766",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2766",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2766",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2766",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2766",
+    "before": null,
+    "after": "At least one managed CLO tranche downgrade in quarter q versus none on manager launching any new CLO in q+1; logit TableF3 downgrade-only and joint columns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2766",
+    "before": null,
+    "after": "Reputation/performance channel explicitly interpreted as changing future launches. Time FE incidental to logit. Preserve reported slope −.39/−.42 and marginal effects −4.38/−4.64 pp; caption times100 for b is inconsistent with usual logit scaling, visually verified, not repaired. Source: IA pp3–5 EqA3 TableF3 p20."
+  }
+]
+```
