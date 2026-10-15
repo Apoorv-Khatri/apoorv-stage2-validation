@@ -27102,7 +27102,16 @@
     "L2787": "1",
     "M2787": "n/a",
     "N2787": "Beginning-quarter aggregate institutional active weight on stock-quarter institutional demand shocks; TableVII cols3; treatment=stock weight in aggregate institutional portfolio minus market weight.",
-    "O2787": "Author-intention gate, not an endorsement of causal identification. Observational explanatory regression; no IV/RCT/RD/DiD. pp1015–1016 risk management/reputational concern induces benchmark rebalancing. Quarter standardization includes demeaning equivalent to quarter dummies (fn33), but its stated purpose is time variation/secular ownership growth, not a separate identifying-FE strategy absorbing unobserved confounders. Code OLS while preserving actual preprocessing. One calendar dimension, never HDFE. No no-FE counterpart requiring a split. Other explanatory variables retained as joint controls; separately listed here only because each has explicit substantive mechanism interpretation. Source: Main TableVII pp1013–1016."
+    "O2787": "Author-intention gate, not an endorsement of causal identification. Observational explanatory regression; no IV/RCT/RD/DiD. pp1015–1016 risk management/reputational concern induces benchmark rebalancing. Quarter standardization includes demeaning equivalent to quarter dummies (fn33), but its stated purpose is time variation/secular ownership growth, not a separate identifying-FE strategy absorbing unobserved confounders. Code OLS while preserving actual preprocessing. One calendar dimension, never HDFE. No no-FE counterpart requiring a split. Other explanatory variables retained as joint controls; separately listed here only because each has explicit substantive mechanism interpretation. Source: Main TableVII pp1013–1016.",
+    "A2788": "LVRD3VXI",
+    "B2788": "h6",
+    "I2788": "1",
+    "J2788": "OLS",
+    "K2788": "0",
+    "L2788": "1",
+    "M2788": "n/a",
+    "N2788": "Expected change in aggregate institutional active weight absent trading on stock-quarter institutional demand shocks; TableVII cols3; treatment=mechanical within-quarter price-induced active-weight drift if institutions do not trade.",
+    "O2788": "Author-intention gate, not an endorsement of causal identification. Observational explanatory regression; no IV/RCT/RD/DiD. pp1015–1016 explicit no-trading counterfactual predictor and risk-management mechanism. Quarter standardization includes demeaning equivalent to quarter dummies (fn33), but its stated purpose is time variation/secular ownership growth, not a separate identifying-FE strategy absorbing unobserved confounders. Code OLS while preserving actual preprocessing. One calendar dimension, never HDFE. No no-FE counterpart requiring a split. Other explanatory variables retained as joint controls; separately listed here only because each has explicit substantive mechanism interpretation. Source: Main TableVII pp1013–1016."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73836,7 +73845,11 @@
     "A6835": "LVRD3VXI",
     "B6835": "h5",
     "C6835": "hy1",
-    "K6835": "Fraction of outstanding stock shares moving from individual to institutional investors in quarter t; rescaled each quarter to zero mean and unit variance, TableVII. Standardized demand, not binary receipt."
+    "K6835": "Fraction of outstanding stock shares moving from individual to institutional investors in quarter t; rescaled each quarter to zero mean and unit variance, TableVII. Standardized demand, not binary receipt.",
+    "A6836": "LVRD3VXI",
+    "B6836": "h6",
+    "C6836": "hy1",
+    "K6836": "Fraction of outstanding stock shares moving from individual to institutional investors in quarter t; rescaled each quarter to zero mean and unit variance, TableVII. Standardized demand, not binary receipt."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -129017,7 +129030,18 @@
     "O5000": "1",
     "P5000": "unknown",
     "Q5000": "Main TableVII p1014 / fn33 p1013. Focal estimate: Beginning-quarter aggregate institutional active weight coefficient −0.021 outcome-SD units, column(3); regressors also quarter-standardized. Benchmark: cross-sectional SD of institutional demand shocks in each quarter; TableVII caption and fn33.",
-    "R5000": "Quarter-specific outcome SD is explicit; a single continuous-regression target and corresponding cross-quarter weighting/SD population match are not established."
+    "R5000": "Quarter-specific outcome SD is explicit; a single continuous-regression target and corresponding cross-quarter weighting/SD population match are not established.",
+    "A5001": "LVRD3VXI",
+    "B5001": "h6",
+    "C5001": "hc1",
+    "K5001": "1",
+    "L5001": "hy1",
+    "M5001": "outcome_sd",
+    "N5001": "0",
+    "O5001": "1",
+    "P5001": "unknown",
+    "Q5001": "Main TableVII p1014 / fn33 p1013. Focal estimate: Expected change in aggregate institutional active weight absent trading coefficient −0.067 outcome-SD units, column(3); regressors also quarter-standardized. Benchmark: cross-sectional SD of institutional demand shocks in each quarter; TableVII caption and fn33.",
+    "R5001": "Quarter-specific outcome SD is explicit; a single continuous-regression target and corresponding cross-quarter weighting/SD population match are not established."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

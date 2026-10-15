@@ -454851,3 +454851,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:08:32.587404+00:00 — Review LVRD3VXI h6: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5001",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5001",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5001",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5001",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5001",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5001",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5001",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5001",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5001",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5001",
+    "before": null,
+    "after": "Main TableVII p1014 / fn33 p1013. Focal estimate: Expected change in aggregate institutional active weight absent trading coefficient −0.067 outcome-SD units, column(3); regressors also quarter-standardized. Benchmark: cross-sectional SD of institutional demand shocks in each quarter; TableVII caption and fn33."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5001",
+    "before": null,
+    "after": "Quarter-specific outcome SD is explicit; a single continuous-regression target and corresponding cross-quarter weighting/SD population match are not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6836",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6836",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6836",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6836",
+    "before": null,
+    "after": "Fraction of outstanding stock shares moving from individual to institutional investors in quarter t; rescaled each quarter to zero mean and unit variance, TableVII. Standardized demand, not binary receipt."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2788",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2788",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2788",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2788",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2788",
+    "before": null,
+    "after": "Expected change in aggregate institutional active weight absent trading on stock-quarter institutional demand shocks; TableVII cols3; treatment=mechanical within-quarter price-induced active-weight drift if institutions do not trade."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2788",
+    "before": null,
+    "after": "Author-intention gate, not an endorsement of causal identification. Observational explanatory regression; no IV/RCT/RD/DiD. pp1015–1016 explicit no-trading counterfactual predictor and risk-management mechanism. Quarter standardization includes demeaning equivalent to quarter dummies (fn33), but its stated purpose is time variation/secular ownership growth, not a separate identifying-FE strategy absorbing unobserved confounders. Code OLS while preserving actual preprocessing. One calendar dimension, never HDFE. No no-FE counterpart requiring a split. Other explanatory variables retained as joint controls; separately listed here only because each has explicit substantive mechanism interpretation. Source: Main TableVII pp1013–1016."
+  }
+]
+```
