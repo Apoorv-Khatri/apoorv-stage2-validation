@@ -474288,3 +474288,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T12:05:06.467476+00:00 — Review NGGU7KDV h7: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7058",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7059",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7060",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7061",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7058",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7059",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7060",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7061",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7058",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7059",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7060",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7061",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7058",
+    "before": null,
+    "after": "Natural log of overall environmental score (equal category weights; 0–100 before log)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7059",
+    "before": null,
+    "after": "Natural log of proprietary ASSET4 environmental rank-based score (0–100 before log), NOT an outcome-SD unit."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7060",
+    "before": null,
+    "after": "Natural log of overall social score (equal category weights; 0–100 before log)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7061",
+    "before": null,
+    "after": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2887",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2887",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2887",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2887",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2887",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2887",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2887",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2887",
+    "before": null,
+    "after": "Table9B/C: US firms; foreign institutional ownership share from low-norm countries defined by World Value E&S Index median split, effect on four log E&S scores. Shares remain continuous."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2887",
+    "before": null,
+    "after": "Table9 marks country FE Yes but all firms US domiciled: country dimension is constant. Effective industry/year sets=2. Same identifying rationale as baseline. Visual table verification retained printed country row. Domestic social coefficients significant despite broad introductory null rhetoric. Source: pp712–713 Table9B/C; L1363–1489."
+  }
+]
+```

@@ -28239,7 +28239,16 @@
     "L2886": "1",
     "M2886": "n/a",
     "N2886": "Table9B/C: US firms; foreign institutional ownership share from high-norm countries defined by World Value E&S Index median split, effect on four log E&S scores. Shares remain continuous.",
-    "O2886": "Table9 marks country FE Yes but all firms US domiciled: country dimension is constant. Effective industry/year sets=2. Same identifying rationale as baseline. Visual table verification retained printed country row. Domestic social coefficients significant despite broad introductory null rhetoric. Source: pp712–713 Table9B/C; L1363–1489."
+    "O2886": "Table9 marks country FE Yes but all firms US domiciled: country dimension is constant. Effective industry/year sets=2. Same identifying rationale as baseline. Visual table verification retained printed country row. Domestic social coefficients significant despite broad introductory null rhetoric. Source: pp712–713 Table9B/C; L1363–1489.",
+    "A2887": "NGGU7KDV",
+    "B2887": "h7",
+    "I2887": "1",
+    "J2887": "FE",
+    "K2887": "0",
+    "L2887": "1",
+    "M2887": "n/a",
+    "N2887": "Table9B/C: US firms; foreign institutional ownership share from low-norm countries defined by World Value E&S Index median split, effect on four log E&S scores. Shares remain continuous.",
+    "O2887": "Table9 marks country FE Yes but all firms US domiciled: country dimension is constant. Effective industry/year sets=2. Same identifying rationale as baseline. Visual table verification retained printed country row. Domestic social coefficients significant despite broad introductory null rhetoric. Source: pp712–713 Table9B/C; L1363–1489."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76209,7 +76218,23 @@
     "A7057": "NGGU7KDV",
     "B7057": "h6",
     "C7057": "hy4",
-    "K7057": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
+    "K7057": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit.",
+    "A7058": "NGGU7KDV",
+    "B7058": "h7",
+    "C7058": "hy1",
+    "K7058": "Natural log of overall environmental score (equal category weights; 0–100 before log).",
+    "A7059": "NGGU7KDV",
+    "B7059": "h7",
+    "C7059": "hy2",
+    "K7059": "Natural log of proprietary ASSET4 environmental rank-based score (0–100 before log), NOT an outcome-SD unit.",
+    "A7060": "NGGU7KDV",
+    "B7060": "h7",
+    "C7060": "hy3",
+    "K7060": "Natural log of overall social score (equal category weights; 0–100 before log).",
+    "A7061": "NGGU7KDV",
+    "B7061": "h7",
+    "C7061": "hy4",
+    "K7061": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
