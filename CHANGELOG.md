@@ -416289,3 +416289,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T06:33:45.405317+00:00 — Review KKKD4ZV5 h18: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6705",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6705",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6705",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6705",
+    "before": null,
+    "after": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2732",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2732",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2732",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2732",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2732",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2732",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2732",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2732",
+    "before": null,
+    "after": "USD-leg illiquidity dose affects RPVE conditional on EUR-leg illiquidity, Table6 GIV; direct-pair Amihud/BAS controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2732",
+    "before": null,
+    "after": "Excluded set: ΩEUR and ΩUSD, each volume-weighted minus equal-weighted illiquidity across pairs sharing that currency (N=9 EUR,14 USD). Two nonbinary excluded instruments => other, not single continuous. Included direct-rate A and BAS are controls, not instruments. Assumes common factor cancels and idiosyncratic shocks orthogonal to pricing-error disturbances. Lags augmented set split h5. AUD weak first-stage F=2.328 does not alter IV method. No-control robustness grouped. PCA alternative in fn39 is conditional could, not separately established implementation. βUSD only. Include positive, negative and null estimates; vehicle-currency mechanism explicitly discussed pp875–877. For IV the joint excluded set remains both EUR/USD GIVs. Source: §5.3.1 pp876–878 Eqs6–7 Table6 GIV."
+  }
+]
+```
