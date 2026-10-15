@@ -27308,7 +27308,16 @@
     "L2802": "1",
     "M2802": "n/a",
     "N2802": "Table4 columns2,4: LOBBYING indicator effect on liquidation hazard, local/nonlocal samples; hazard ratios0.607,0.680. Same proportional-hazard implementation as contribution model.",
-    "O2802": "Industry FE inside nonlinear hazard model; Fig1B depicts implied survival curves, not an additional identified causal estimator. Source: pp77-78 Table4; L597-738."
+    "O2802": "Industry FE inside nonlinear hazard model; Fig1B depicts implied survival curves, not an additional identified causal estimator. Source: pp77-78 Table4; L597-738.",
+    "A2803": "MBWIN7NL",
+    "B2803": "h8",
+    "I2803": "1",
+    "J2803": "Matching",
+    "K2803": "1",
+    "L2803": "1",
+    "M2803": "n/a",
+    "N2803": "Table5 columns2,4: local lobbying holdings versus matched nonpolitical non-lobbying holdings; mean DISP0.028 versus -0.040. Same covariate matching as columns1,3.",
+    "O2803": "Preserve printed0.028 although displayed0.196-0.167 rounds to0.029; no silent replacement. Source: p79 Table5; L755-822."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74177,7 +74186,14 @@
     "H6854": "0",
     "I6854": "0",
     "J6854": "none",
-    "K6854": "Fig1B p78: model-implied survival probability of a local lobbying versus nonlobbying holding over elapsed quarters. Derived from Table4 col2; not an observed binary outcome."
+    "K6854": "Fig1B p78: model-implied survival probability of a local lobbying versus nonlobbying holding over elapsed quarters. Derived from Table4 col2; not an observed binary outcome.",
+    "A6855": "MBWIN7NL",
+    "B6855": "h8",
+    "C6855": "hy1",
+    "H6855": "0",
+    "I6855": "unknown",
+    "J6855": "none",
+    "K6855": "DISP=PGR-PLR; untransformed constructed disposition spread, averaged across funds."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -129578,7 +129594,18 @@
     "N5019": "0",
     "O5019": "1",
     "P5019": "n/a",
-    "Q5019": "p77 Table4 col4; nonlocal lobbying log-hazard -0.386; hazard ratio0.680 relative to nonlocal nonlobbying hazard."
+    "Q5019": "p77 Table4 col4; nonlocal lobbying log-hazard -0.386; hazard ratio0.680 relative to nonlocal nonlobbying hazard.",
+    "A5020": "MBWIN7NL",
+    "B5020": "h8",
+    "C5020": "hc1",
+    "K5020": "1",
+    "L5020": "hy1",
+    "M5020": "outcome_mean",
+    "N5020": "1",
+    "O5020": "0",
+    "P5020": "unknown",
+    "Q5020": "p79 Table5 cols2,4; local lobbying DISP mean0.028 versus matched local nonpolitical mean-0.040; authors compare disposition presence; no cross-category difference printed.",
+    "R5020": "Group-mean comparison defines the contrast even without scalar difference. Matching on size/book-to-market/industry alone does not document that the mean uses treated-target weights; nonlocal comparison also lacks untreated-target construction. Printed single-group zero tests are not tests of the contrast."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

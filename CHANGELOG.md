@@ -458442,3 +458442,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:58:11.277979+00:00 — Review MBWIN7NL h8: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5020",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5020",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5020",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5020",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5020",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5020",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5020",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5020",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5020",
+    "before": null,
+    "after": "p79 Table5 cols2,4; local lobbying DISP mean0.028 versus matched local nonpolitical mean-0.040; authors compare disposition presence; no cross-category difference printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5020",
+    "before": null,
+    "after": "Group-mean comparison defines the contrast even without scalar difference. Matching on size/book-to-market/industry alone does not document that the mean uses treated-target weights; nonlocal comparison also lacks untreated-target construction. Printed single-group zero tests are not tests of the contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6855",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6855",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6855",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6855",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6855",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6855",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6855",
+    "before": null,
+    "after": "DISP=PGR-PLR; untransformed constructed disposition spread, averaged across funds."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2803",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2803",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2803",
+    "before": null,
+    "after": "Matching"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2803",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2803",
+    "before": null,
+    "after": "Table5 columns2,4: local lobbying holdings versus matched nonpolitical non-lobbying holdings; mean DISP0.028 versus -0.040. Same covariate matching as columns1,3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2803",
+    "before": null,
+    "after": "Preserve printed0.028 although displayed0.196-0.167 rounds to0.029; no silent replacement. Source: p79 Table5; L755-822."
+  }
+]
+```
