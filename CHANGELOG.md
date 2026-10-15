@@ -432516,3 +432516,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T07:18:10.933642+00:00 — Review KRNZM9QV h4: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6716",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6717",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6716",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6717",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6716",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6717",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6716",
+    "before": null,
+    "after": "Variance ratio outcome in Fama–MacBeth regression; raw ratio versus absolute deviation not restated clearly."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6717",
+    "before": null,
+    "after": "Effective half-spread in Fama–MacBeth regression; precise scaling not separately restated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2738",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2738",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2738",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2738",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2738",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2738",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2738",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2738",
+    "before": null,
+    "after": "Continuous quote-update activity in half-hour Fama–MacBeth regressions of variance ratios and effective spreads, controlling market capitalization, price and trading activity; unreported slope plots show same directional conclusions as Table3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2738",
+    "before": null,
+    "after": "Broad author-intention inclusion despite p273 explicit warning that cross-sectional tests do not imply causation. Countervailing parameter-specific language: p278 dependent sort allows us to see the effect holding size/trading roughly constant; p273 magnitude of the effect; p281 competition compresses realized spreads. This is intended-effect evidence, not a claim of credible identification. Parent priority: adjudicate disclaimer consistently across these US observational settings. No FE, matching weights, or IV; sorting controls are not fixed effects. Distinct continuous-dose linear estimator, not binary median contrast; no actual identifying FE. Exact quote-activity regressor scale not specified. Prose says variance ratios without resolving rawVR versus |VR−1|, so preserve outcome-scale uncertainty. Do not turn market cap/price nuisance coefficients into extra treatments. Source: §3.4 p280 article.txt640–648."
+  }
+]
+```
