@@ -457356,3 +457356,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:54:41.262706+00:00 — Review MBWIN7NL s8: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I541",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J541",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K541",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L541",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M541",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N541",
+    "before": null,
+    "after": "Table9 column2: weighted2SLS effect of lagged Local Contribution Bias on Portfolio Return, coefficient -0.036. Excluded instrument is Politically Affiliated Trustees share only. First-stage column1; controls and state+quarter FE both stages."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O541",
+    "before": null,
+    "after": "Excluded instrument support continuous share, not binary; financial expertise and other controls are included, not excluded instruments. Instrument relevance does not establish exclusion; authors acknowledge concern and add natural experiment. Board share of active/former legislators, Congress members, ex officio, governor-appointed or state-representative-elected trustees (TableB1). Source: pp84,87 Table9; L1133-1185,L1371-1414."
+  }
+]
+```
