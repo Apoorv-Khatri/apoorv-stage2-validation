@@ -28563,7 +28563,16 @@
     "L2922": "0",
     "M2922": "unknown",
     "N2922": "Low-social-norm-country investor pressure after financial crisis: summary reports increased E&S pressure, indicating greater financial motivations. Minimum implemented heterogeneous-crisis result.",
-    "O2922": "Final result sentence establishes qualitative effect but no table, exact exposure or estimator. Not automatically Table4 homogeneous Total IO interaction; no invented appendix table. No extra EPI/Employment-Laws/WVS split is asserted: exact implemented norm-index definition is not enumerated in this untabulated result sentence. Retained as minimum supported scope, not a pooled inventory of verified distinct regressors. Source: p713 Section5.7 untabulated; L1418–1428."
+    "O2922": "Final result sentence establishes qualitative effect but no table, exact exposure or estimator. Not automatically Table4 homogeneous Total IO interaction; no invented appendix table. No extra EPI/Employment-Laws/WVS split is asserted: exact implemented norm-index definition is not enumerated in this untabulated result sentence. Retained as minimum supported scope, not a pooled inventory of verified distinct regressors. Source: p713 Section5.7 untabulated; L1418–1428.",
+    "A2923": "NGGU7KDV",
+    "B2923": "h44",
+    "I2923": "1",
+    "J2923": "HDFE",
+    "K2923": "0",
+    "L2923": "0",
+    "M2923": "n/a",
+    "N2923": "Untabulated social-norm robustness: foreign IO from high-norm countries defined using Collective Relations Laws Index instead of Employment Laws Index; similar magnitude/significance.",
+    "O2923": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Final implemented alternative norm measure; minimum Table6 social-norm scope, exact columns/coefficient unreported. Source: p705 fn15 untabulated; L907–921."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76977,7 +76986,15 @@
     "A7168": "NGGU7KDV",
     "B7168": "h43",
     "C7168": "hy2",
-    "K7168": "Social performance; exact measure/scale unknown."
+    "K7168": "Social performance; exact measure/scale unknown.",
+    "A7169": "NGGU7KDV",
+    "B7169": "h44",
+    "C7169": "hy1",
+    "K7169": "Natural log of overall social score (equal category weights; 0–100 before log).",
+    "A7170": "NGGU7KDV",
+    "B7170": "h44",
+    "C7170": "hy2",
+    "K7170": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
