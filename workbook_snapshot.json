@@ -27263,7 +27263,16 @@
     "L2797": "1",
     "M2797": "n/a",
     "N2797": "Table2 PanelB monthly post-buy factor-adjusted portfolio-return contrast. Local nonpolitical versus Table2 row4 local holdings: 0.0166 versus 0.0026, difference 0.0140. Caption/text describe contributing OR lobbying; row shows Yes/Yes. Preserve ambiguous membership, do not silently impose AND. Same political-category contrast is also tabulated for local nonheld and nonlocal held strata in Table2B; retain these sample variants, including null results, within this treatment setting.",
-    "O2797": "Matching is benchmark preprocessing before calendar-time factor regressions. Alphas are regression-adjusted intercepts, not raw outcome means. Source: p74 Table2B; L379-451."
+    "O2797": "Matching is benchmark preprocessing before calendar-time factor regressions. Alphas are regression-adjusted intercepts, not raw outcome means. Source: p74 Table2B; L379-451.",
+    "A2798": "MBWIN7NL",
+    "B2798": "h3",
+    "I2798": "1",
+    "J2798": "OLS",
+    "K2798": "1",
+    "L2798": "1",
+    "M2798": "n/a",
+    "N2798": "Table2 PanelB monthly post-buy factor-adjusted portfolio-return contrast. Local held versus local not-held stocks, within political-activity strata; nonpolitical difference 0.0146 (0.0166 versus 0.0020); other strata null. Tests informational selection advantage.",
+    "O2798": "Matching is benchmark preprocessing before calendar-time factor regressions. Alphas are regression-adjusted intercepts, not raw outcome means. Source: p74 Table2B; L379-451."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74096,7 +74105,14 @@
     "H6848": "0",
     "I6848": "unknown",
     "J6848": "none",
-    "K6848": "Monthly portfolio return adjusted for FF3 plus momentum; alpha differences in monthly return units."
+    "K6848": "Monthly portfolio return adjusted for FF3 plus momentum; alpha differences in monthly return units.",
+    "A6849": "MBWIN7NL",
+    "B6849": "h3",
+    "C6849": "hy1",
+    "H6849": "0",
+    "I6849": "unknown",
+    "J6849": "none",
+    "K6849": "Monthly portfolio return adjusted for FF3 plus momentum; alpha differences in monthly return units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
