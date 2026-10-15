@@ -472143,3 +472143,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:09:32.870274+00:00 — Review ME6H5V5K h43: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7035",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7036",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7035",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7036",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7035",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7036",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7035",
+    "before": null,
+    "after": "Indicator starting a business below the stricter expected-employment threshold."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7036",
+    "before": null,
+    "after": "Indicator starting a business with expected employment greater than twice the average size of established firms in its country-sector."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2879",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2879",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2879",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2879",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2879",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2879",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2879",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2879",
+    "before": null,
+    "after": "Unreported robustness, p2522 fn11: GZ spread effect on entry by growth type using expected employment greater than TWICE established-firm average; high-growth share about18%, qualitatively robust. Minimum scope only; exact columns/interactions unreported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2879",
+    "before": null,
+    "after": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Distinct outcome classification, not new exposure cutoff. Main text establishes implementation, not coefficients; do not import unrelated draft estimates. Source: p2522 fn11 L924-926; baseline design pp2529-32."
+  }
+]
+```

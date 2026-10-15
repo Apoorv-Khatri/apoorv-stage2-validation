@@ -28066,7 +28066,16 @@
     "L2878": "0",
     "M2878": "n/a",
     "N2878": "Unreported robustness, p2522 fn11: financial-crisis indicator effect on entry by growth type using expected employment greater than TWICE established-firm average; high-growth share about18%, qualitatively robust. Minimum scope only; exact columns/interactions unreported.",
-    "O2878": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Distinct outcome classification, not new exposure cutoff. Main text establishes implementation, not coefficients; do not import unrelated draft estimates. Source: p2522 fn11 L924-926; baseline design pp2529-32."
+    "O2878": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Distinct outcome classification, not new exposure cutoff. Main text establishes implementation, not coefficients; do not import unrelated draft estimates. Source: p2522 fn11 L924-926; baseline design pp2529-32.",
+    "A2879": "ME6H5V5K",
+    "B2879": "h43",
+    "I2879": "1",
+    "J2879": "Other",
+    "K2879": "0",
+    "L2879": "0",
+    "M2879": "n/a",
+    "N2879": "Unreported robustness, p2522 fn11: GZ spread effect on entry by growth type using expected employment greater than TWICE established-firm average; high-growth share about18%, qualitatively robust. Minimum scope only; exact columns/interactions unreported.",
+    "O2879": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Distinct outcome classification, not new exposure cutoff. Main text establishes implementation, not coefficients; do not import unrelated draft estimates. Source: p2522 fn11 L924-926; baseline design pp2529-32."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -75906,7 +75915,15 @@
     "H7034": "1",
     "I7034": "1",
     "J7034": "none",
-    "K7034": "Indicator starting a business with expected employment greater than twice the average size of established firms in its country-sector."
+    "K7034": "Indicator starting a business with expected employment greater than twice the average size of established firms in its country-sector.",
+    "A7035": "ME6H5V5K",
+    "B7035": "h43",
+    "C7035": "hy1",
+    "K7035": "Indicator starting a business below the stricter expected-employment threshold.",
+    "A7036": "ME6H5V5K",
+    "B7036": "h43",
+    "C7036": "hy2",
+    "K7036": "Indicator starting a business with expected employment greater than twice the average size of established firms in its country-sector."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
