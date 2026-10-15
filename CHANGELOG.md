@@ -485856,3 +485856,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:50:40.420795+00:00 — Review NSKXG8S6 h4: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7270",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7270",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7270",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7270",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7270",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7270",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7270",
+    "before": null,
+    "after": "Log(1+truncation-adjusted citation-weighted patent count), firm-year; zero assigned for no patent filing."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2974",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2974",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2974",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2974",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2974",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2974",
+    "before": null,
+    "after": "Untabulated §4.1 robustness: continuous percentage ownership by affected funds replaces binary high-ownership classification in innovation DiD around 2004."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2974",
+    "before": null,
+    "after": "Separate continuous-dose treatment. Result explicitly implemented and robust; precise coefficients and measurement timing not supplied, so do not copy binary coefficients. Source: Final pp1980–1981; L941–960."
+  }
+]
+```

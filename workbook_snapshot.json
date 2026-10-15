@@ -29079,7 +29079,16 @@
     "L2973": "0",
     "M2973": "n/a",
     "N2973": "Table8 cols3–4: joint maximum-likelihood estimation of two innovation equations under binary Treat×Post, with firm/year FE and controls; log1p explorative and exploitative patent counts, coefficients -0.138 and -0.074; printed difference -0.064.",
-    "O2973": "Actual likelihood/distribution and linear-in-outcome equivalence not specified. Could be linear-system DiD if verified, but ML name alone does not establish that or nonlinear Other. Known non-IV. Visually checked final PDF p26. Separate estimator candidate is a contested judgment requiring parent review. Source: Final pp1990–1991 Table8; L1603–1664."
+    "O2973": "Actual likelihood/distribution and linear-in-outcome equivalence not specified. Could be linear-system DiD if verified, but ML name alone does not establish that or nonlinear Other. Known non-IV. Visually checked final PDF p26. Separate estimator candidate is a contested judgment requiring parent review. Source: Final pp1990–1991 Table8; L1603–1664.",
+    "A2974": "NSKXG8S6",
+    "B2974": "h4",
+    "I2974": "1",
+    "J2974": "DiD_conventional",
+    "K2974": "0",
+    "L2974": "0",
+    "M2974": "n/a",
+    "N2974": "Untabulated §4.1 robustness: continuous percentage ownership by affected funds replaces binary high-ownership classification in innovation DiD around 2004.",
+    "O2974": "Separate continuous-dose treatment. Result explicitly implemented and robust; precise coefficients and measurement timing not supplied, so do not copy binary coefficients. Source: Final pp1980–1981; L941–960."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -77955,7 +77964,14 @@
     "H7269": "0",
     "I7269": "1",
     "J7269": "log1p",
-    "K7269": "Log(1+truncation-adjusted exploitative patent count), at least one self-citation."
+    "K7269": "Log(1+truncation-adjusted exploitative patent count), at least one self-citation.",
+    "A7270": "NSKXG8S6",
+    "B7270": "h4",
+    "C7270": "hy1",
+    "H7270": "0",
+    "I7270": "1",
+    "J7270": "log1p",
+    "K7270": "Log(1+truncation-adjusted citation-weighted patent count), firm-year; zero assigned for no patent filing."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
