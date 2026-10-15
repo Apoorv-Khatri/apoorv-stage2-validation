@@ -486276,3 +486276,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:53:37.792695+00:00 — Review NSKXG8S6 h8: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7274",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7274",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7274",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7274",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7274",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7274",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7274",
+    "before": null,
+    "after": "Log(1+truncation-adjusted citation-weighted patent count), firm-year; zero assigned for no patent filing."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2978",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2978",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2978",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2978",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2978",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2978",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2978",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2978",
+    "before": null,
+    "after": "Internet Appendix matched-sample innovation DiD: baseline binary affected-ownership exposure, estimated on matched treatment/control firms."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2978",
+    "before": null,
+    "after": "Final footnote explicitly establishes implemented DiD results, so missing final supplement does not erase setting. DiD outranks matching. Older appendix describes entropy balance on covariates and pre-outcomes; final exact scheme/coefficient/table label not certified. Baseline annual log1p citation outcome is minimum scope. Source: Final p1983 fn16 L1140–1143; older appendix IA9 only as corroborating provenance."
+  }
+]
+```

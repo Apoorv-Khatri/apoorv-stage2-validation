@@ -29115,7 +29115,16 @@
     "L2977": "0",
     "M2977": "n/a",
     "N2977": "Untabulated §4.1 zero-inflated Poisson regression robustness for innovation counts under baseline binary regulation exposure.",
-    "O2977": "Implemented zero-inflated count model is nonlinear; not linear DiD. Paper reports robust inference without parameterization/count-equation and inflation-equation grid. Count outcome is strongly implied by Poisson but actual transform not explicitly restated; unknown retained. Source: Final p1981; L959–969."
+    "O2977": "Implemented zero-inflated count model is nonlinear; not linear DiD. Paper reports robust inference without parameterization/count-equation and inflation-equation grid. Count outcome is strongly implied by Poisson but actual transform not explicitly restated; unknown retained. Source: Final p1981; L959–969.",
+    "A2978": "NSKXG8S6",
+    "B2978": "h8",
+    "I2978": "1",
+    "J2978": "DiD_conventional",
+    "K2978": "1",
+    "L2978": "0",
+    "M2978": "n/a",
+    "N2978": "Internet Appendix matched-sample innovation DiD: baseline binary affected-ownership exposure, estimated on matched treatment/control firms.",
+    "O2978": "Final footnote explicitly establishes implemented DiD results, so missing final supplement does not erase setting. DiD outranks matching. Older appendix describes entropy balance on covariates and pre-outcomes; final exact scheme/coefficient/table label not certified. Baseline annual log1p citation outcome is minimum scope. Source: Final p1983 fn16 L1140–1143; older appendix IA9 only as corroborating provenance."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78019,7 +78028,14 @@
     "H7273": "0",
     "I7273": "1",
     "J7273": "unknown",
-    "K7273": "Innovation patent-count outcome in zero-inflated Poisson robustness; precise count definition/scale not restated."
+    "K7273": "Innovation patent-count outcome in zero-inflated Poisson robustness; precise count definition/scale not restated.",
+    "A7274": "NSKXG8S6",
+    "B7274": "h8",
+    "C7274": "hy1",
+    "H7274": "0",
+    "I7274": "1",
+    "J7274": "log1p",
+    "K7274": "Log(1+truncation-adjusted citation-weighted patent count), firm-year; zero assigned for no patent filing."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
