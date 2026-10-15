@@ -449814,3 +449814,246 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:30:45.803138+00:00 — Review L5V28EJD h32: source-audited coding and linked comparisons
+
+39 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4971",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4972",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4971",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4972",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4971",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4972",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4971",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4972",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4971",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4972",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4971",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4972",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4971",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4972",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4971",
+    "before": null,
+    "after": "IA p10/TableF12 p31. Focal: .30pp next-year growth per1pp OC-slack increase, no-FE first specification; prose discusses five-point stress decline. Benchmark: Unconditional corresponding growth-rate mean 2.9%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4972",
+    "before": null,
+    "after": "IA p10/TableF12 p31. Focal: .32pp next-year growth per1pp OC-slack increase, no-FE first specification; prose discusses five-point stress decline. Benchmark: Unconditional corresponding growth-rate mean 3.4%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4971",
+    "before": null,
+    "after": "Benchmark prose follows first OLS estimates, before discussion of identifying-FE columns; do not transfer to h33. Mean target and counterfactual untreated slack not established. Five-point stress discussion motivates magnitude but paper does not divide by growth mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4972",
+    "before": null,
+    "after": "Benchmark prose follows first OLS estimates, before discussion of identifying-FE columns; do not transfer to h33. Mean target and counterfactual untreated slack not established. Five-point stress discussion motivates magnitude but paper does not divide by growth mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6794",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6795",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6794",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6795",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6794",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6795",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6794",
+    "before": null,
+    "after": "Next-year asset growth rate (percentage-point effect interpretation); exact ratio versus log-growth formula not specified in source."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6795",
+    "before": null,
+    "after": "Next-year sales growth rate (percentage-point effect interpretation); non-December fiscal years use growth year y+1 to y+2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2776",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2776",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2776",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2776",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2776",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2776",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2776",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2776",
+    "before": null,
+    "after": "Loan-volume-weighted lending CLO-manager junior OC slack on next-year borrower asset/sales growth; first/no-FE specification, TableF12."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2776",
+    "before": null,
+    "after": "Explicit causal mechanism of lender health constraining loans and borrower growth. Appendix p9 says year and industry FE remove unobservable macro/industry shocks: two effective dimensions; size/age dummy controls are not independent identifying FE batteries. Split true no-FE OLS in h32 from FE h33. F13 reference columns repeat F12, not extra settings. Manager-level slack aggregated first then loan-volume weights across managers; not a single CLO exposure. Caption says nonfinancial private firms while text merges Compustat/nonfinancial borrowers; retain sample-label conflict. Source: IA pp9–11 EqF1 TableF12 p31."
+  }
+]
+```
