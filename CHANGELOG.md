@@ -433737,3 +433737,672 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:16:54.943088+00:00 — Review L5V28EJD s3: source-audited coding and linked comparisons
+
+110 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4800",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4801",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4802",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4803",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4804",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4805",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4806",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4807",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4808",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4800",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4801",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4802",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4803",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4804",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4805",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4806",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4807",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4808",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4800",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4801",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4802",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4803",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4804",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4805",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4806",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4807",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4808",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4800",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4801",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4805",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4806",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4807",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4808",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4800",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4801",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4802",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4803",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4804",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4805",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4806",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4807",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4808",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4800",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4801",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4802",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4803",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4804",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4805",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4806",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4807",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4808",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4800",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4801",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4802",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4803",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4805",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4806",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4807",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4808",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4800",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4801",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4802",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4803",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4804",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4805",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4806",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4807",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4808",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4800",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4801",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4802",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4803",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4804",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4805",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4806",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4807",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4808",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4800",
+    "before": null,
+    "after": "Main pp1131–1132 Table6. Focal: Printed above-minus-below MCAR difference-0.32% in Table6 week bin[−20:−16]; above-group MCAR-0.45% . Benchmark: Below-median constrained-owner group mean CAR-0.13% in same printed bin;838-loan overall sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4801",
+    "before": null,
+    "after": "Main pp1131–1132 Table6. Focal: Printed above-minus-below MCAR difference0.27% in Table6 week bin[−15:−11]; above-group MCAR-0.5% . Benchmark: Below-median constrained-owner group mean CAR-0.78% in same printed bin;838-loan overall sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4802",
+    "before": null,
+    "after": "Main pp1131–1132 Table6. Focal: Printed above-minus-below MCAR difference-0.56% in Table6 week bin[−10:−6]; above-group MCAR-1.82% . Benchmark: Below-median constrained-owner group mean CAR-1.26% in same printed bin;838-loan overall sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4803",
+    "before": null,
+    "after": "Main pp1131–1132 Table6. Focal: Printed above-minus-below MCAR difference-2.47% in Table6 week bin[−5:−1]; above-group MCAR-5.31% . Benchmark: Below-median constrained-owner group mean CAR-2.84% in same printed bin;838-loan overall sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4804",
+    "before": null,
+    "after": "Main pp1131–1132 Table6. Focal: Printed above-minus-below MCAR difference-3.35% in Table6 week bin[0:0]; above-group MCAR-8.49% . Benchmark: Below-median constrained-owner group mean CAR-5.13% in same printed bin;838-loan overall sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4805",
+    "before": null,
+    "after": "Main pp1131–1132 Table6. Focal: Printed above-minus-below MCAR difference-2.84% in Table6 week bin[1:5]; above-group MCAR-8.1% . Benchmark: Below-median constrained-owner group mean CAR-5.26% in same printed bin;838-loan overall sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4806",
+    "before": null,
+    "after": "Main pp1131–1132 Table6. Focal: Printed above-minus-below MCAR difference-1.62% in Table6 week bin[6:10]; above-group MCAR-7.29% . Benchmark: Below-median constrained-owner group mean CAR-5.68% in same printed bin;838-loan overall sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4807",
+    "before": null,
+    "after": "Main pp1131–1132 Table6. Focal: Printed above-minus-below MCAR difference-0.33% in Table6 week bin[11:15]; above-group MCAR-6.4% . Benchmark: Below-median constrained-owner group mean CAR-6.07% in same printed bin;838-loan overall sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4808",
+    "before": null,
+    "after": "Main pp1131–1132 Table6. Focal: Printed above-minus-below MCAR difference0.76% in Table6 week bin[16:20]; above-group MCAR-4.98% . Benchmark: Below-median constrained-owner group mean CAR-5.74% in same printed bin;838-loan overall sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4800",
+    "before": null,
+    "after": "Observational group target/weights and untreated equality unresolved. Preserve printed rounding and bin labels; prose calls some bin values endpoint weeks. Figure3 is same analysis, not another independently estimated curve effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4801",
+    "before": null,
+    "after": "Observational group target/weights and untreated equality unresolved. Preserve printed rounding and bin labels; prose calls some bin values endpoint weeks. Figure3 is same analysis, not another independently estimated curve effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4802",
+    "before": null,
+    "after": "Observational group target/weights and untreated equality unresolved. Preserve printed rounding and bin labels; prose calls some bin values endpoint weeks. Figure3 is same analysis, not another independently estimated curve effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4803",
+    "before": null,
+    "after": "Observational group target/weights and untreated equality unresolved. Preserve printed rounding and bin labels; prose calls some bin values endpoint weeks. Figure3 is same analysis, not another independently estimated curve effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4804",
+    "before": null,
+    "after": "Observational group target/weights and untreated equality unresolved. Preserve printed rounding and bin labels; prose calls some bin values endpoint weeks. Figure3 is same analysis, not another independently estimated curve effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4805",
+    "before": null,
+    "after": "Observational group target/weights and untreated equality unresolved. Preserve printed rounding and bin labels; prose calls some bin values endpoint weeks. Figure3 is same analysis, not another independently estimated curve effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4806",
+    "before": null,
+    "after": "Observational group target/weights and untreated equality unresolved. Preserve printed rounding and bin labels; prose calls some bin values endpoint weeks. Figure3 is same analysis, not another independently estimated curve effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4807",
+    "before": null,
+    "after": "Observational group target/weights and untreated equality unresolved. Preserve printed rounding and bin labels; prose calls some bin values endpoint weeks. Figure3 is same analysis, not another independently estimated curve effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4808",
+    "before": null,
+    "after": "Observational group target/weights and untreated equality unresolved. Preserve printed rounding and bin labels; prose calls some bin values endpoint weeks. Figure3 is same analysis, not another independently estimated curve effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1293",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1293",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1293",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1293",
+    "before": null,
+    "after": "Loan-level cumulative abnormal log-return residuals, averaged to MCAR percent. Not log of CAR: transformation other. Zero mass not established by mean curves/rounded null contrasts."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I521",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J521",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K521",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L521",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M521",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N521",
+    "before": null,
+    "after": "Above- versus below-median number of constrained CLO owners: linear contrasts in cumulative abnormal log returns; Table6 and Fig3. Constrained means below-median junior slack at month t−2. Table7 volume outcomes are separate h19."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O521",
+    "before": null,
+    "after": "Author-intention inclusion, not endorsement of exogeneity. No IV or randomized assignment. Factor residualization is not FE or IV. Random-walk fundamentals plus subsequent CAR convergence supports the temporary-liquidity interpretation, not a conventional treated/post DiD estimator. Preserve Table6 printed week bins; prose labels them endpoint weeks, but figure endpoints differ. Do not silently turn binned summaries into exact endpoint effects. Source: Main pp1130–1133 Table6/Fig3."
+  }
+]
+```
