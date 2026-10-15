@@ -463065,3 +463065,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T10:07:45.126036+00:00 — Review MBWIN7NL h37: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6913",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6913",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6913",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6913",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6913",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6913",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6913",
+    "before": null,
+    "after": "Conditional liquidation hazard from censored holding spells."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2832",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2832",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2832",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2832",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2832",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2832",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2832",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2832",
+    "before": null,
+    "after": "Section3.3 fn17 robustness: politically active defined by consecutive lobbying in past two years, rather than current-year indicator; proportional-hazard holding-duration analysis, similar results."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2832",
+    "before": null,
+    "after": "Distinct exposure timing definition. No numeric estimates available. Source: p77 fn17 L671-677."
+  }
+]
+```
