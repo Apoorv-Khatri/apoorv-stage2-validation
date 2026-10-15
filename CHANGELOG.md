@@ -432906,3 +432906,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T07:19:25.083054+00:00 — Review KRNZM9QV h8: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6721",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6721",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6721",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6721",
+    "before": null,
+    "after": "Daily percentage change in number of quote updates, summed per firm-day then averaged within size quintile."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2742",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2742",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2742",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2742",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2742",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2742",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2742",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2742",
+    "before": null,
+    "after": "Lagged percentage changes in VIX affect daily percentage changes in quote updates, Eq11/Table6A/B, four lags."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2742",
+    "before": null,
+    "after": "Risk environment drives liquidity-supplier quotation frequency, explicit economic interpretation p285. MQ-control variants A/B grouped, same treatment/outcome; firstlag VIX coefficients .428–.603(A), .448–.559(B), mostly later-lag attenuation. No IV: VIX included regression variable not excluded instrument. Reverse update→VIX null in s4. Autoregressive persistence is nuisance. Source: §4.1 p285 Table6."
+  }
+]
+```

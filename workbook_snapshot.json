@@ -26608,7 +26608,16 @@
     "L2741": "0",
     "M2741": "n/a",
     "N2741": "Lagged percentage changes in effective half-spreads affect daily percentage changes in updates, Table6B Eq11.",
-    "O2741": "Distinct reverse treatment from VR deterioration; authors interpret worse prior liquidity as drawing in high-frequency liquidity providers. Four lags, five size-quintile systems; large-size firstlag .070 (Z2.27) on continued Table6 p287. No FE or identified structural shock. No benchmark pairing. Source: §4.1 p285 Table6B pp286–287."
+    "O2741": "Distinct reverse treatment from VR deterioration; authors interpret worse prior liquidity as drawing in high-frequency liquidity providers. Four lags, five size-quintile systems; large-size firstlag .070 (Z2.27) on continued Table6 p287. No FE or identified structural shock. No benchmark pairing. Source: §4.1 p285 Table6B pp286–287.",
+    "A2742": "KRNZM9QV",
+    "B2742": "h8",
+    "I2742": "1",
+    "J2742": "OLS",
+    "K2742": "0",
+    "L2742": "0",
+    "M2742": "n/a",
+    "N2742": "Lagged percentage changes in VIX affect daily percentage changes in quote updates, Eq11/Table6A/B, four lags.",
+    "O2742": "Risk environment drives liquidity-supplier quotation frequency, explicit economic interpretation p285. MQ-control variants A/B grouped, same treatment/outcome; firstlag VIX coefficients .428–.603(A), .448–.559(B), mostly later-lag attenuation. No IV: VIX included regression variable not excluded instrument. Reverse update→VIX null in s4. Autoregressive persistence is nuisance. Source: §4.1 p285 Table6."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -72536,7 +72545,11 @@
     "A6720": "KRNZM9QV",
     "B6720": "h7",
     "C6720": "hy1",
-    "K6720": "Daily percentage change in number of quote updates, summed per firm-day then averaged within size quintile."
+    "K6720": "Daily percentage change in number of quote updates, summed per firm-day then averaged within size quintile.",
+    "A6721": "KRNZM9QV",
+    "B6721": "h8",
+    "C6721": "hy1",
+    "K6721": "Daily percentage change in number of quote updates, summed per firm-day then averaged within size quintile."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
