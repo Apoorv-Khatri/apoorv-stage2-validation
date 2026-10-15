@@ -27443,7 +27443,16 @@
     "L2817": "0",
     "M2817": "n/a",
     "N2817": "Table7: Conviction Rate effect on local and political bias. Authors interpret negative coefficients (suppressed controls) as more effective enforcement lowering bias.",
-    "O2817": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. For interacted trustee term retain baseline columns; noninteracted exposures can be read conditional on included reform interactions. State politician convictions divided by state population in millions; corruption/enforcement proxy. Source: pp81-84 Table7; L925-1044,L1103-1129."
+    "O2817": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. For interacted trustee term retain baseline columns; noninteracted exposures can be read conditional on included reform interactions. State politician convictions divided by state population in millions; corruption/enforcement proxy. Source: pp81-84 Table7; L925-1044,L1103-1129.",
+    "A2818": "MBWIN7NL",
+    "B2818": "h23",
+    "I2818": "1",
+    "J2818": "FE",
+    "K2818": "0",
+    "L2818": "0",
+    "M2818": "n/a",
+    "N2818": "Table8: Fin_Expertise Trustees effect on annual Risk Shift. More finance expertise interpreted as less risky investment.",
+    "O2818": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Percentage of board trustees with finance-industry/sector experience (TableB1). Source: pp83-85,87 Table8; L1053-1098,L1272-1282,L1339-1349."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74491,7 +74500,11 @@
     "A6895": "MBWIN7NL",
     "B6895": "h22",
     "C6895": "hy3",
-    "K6895": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+    "K6895": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one.",
+    "A6896": "MBWIN7NL",
+    "B6896": "h23",
+    "C6896": "hy1",
+    "K6896": "Risk Shift: annual change in share allocated to equities, real estate, private equity, hedge funds and other alternatives; not risky-asset stock level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
