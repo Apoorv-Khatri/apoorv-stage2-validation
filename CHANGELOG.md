@@ -484797,3 +484797,204 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:39:09.093467+00:00 — Review NSKXG8S6 s1: source-audited coding and linked comparisons
+
+32 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K346",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L345",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L346",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M345",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M346",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N346",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O345",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O346",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P345",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P346",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q345",
+    "before": null,
+    "after": "Final p1980 Table2 col2 and prose: -0.215 on log(1+Citations), “the average firm files about 1.1 fewer citation-weighted patents per year”; Table1 p1977 full-sample Citations mean 5.206, N=47,326."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q346",
+    "before": null,
+    "after": "Final p1981 §4.2 Table2 col3: -0.123 on log(1+NumPat), “12.3% fewer patents (nearly 0.5 fewer patents for an average firm)”; Table1 p1977 full-sample NumPat mean 4.618, N=47,326."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R345",
+    "before": null,
+    "after": "Retain as implicit average-firm mean-based translation into patent units, not merely a log percentage; source does not print the multiplication or name the numeric denominator in that sentence. Full-sample realized mean mixes high/low exposure and pre/post periods, not a constructed untreated counterfactual for high-exposure DiD target: aligned=0. Divided=0: translating a log/proportional effect to units is multiplication, not normalization by mean. Parent priority: eligibility relies on interpreting average-firm language as deliberate mean linkage; do not claim exact arithmetic or exact log1p retransformation. Parent adjudication: alignment unknown because the numerical benchmark is implicitly attributed, not explicitly identified. If Table1 pooled observed mean is the intended benchmark, it is not the untreated high-exposure baseline; that conditional mismatch alone does not establish the actual benchmark identity. Retention rests on explicit average-firm count translation, not a bare percentage or reconstructed arithmetic."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R346",
+    "before": null,
+    "after": "Retain as implicit average-firm mean-based translation into patent units, not merely a log percentage; source does not print the multiplication or name the numeric denominator in that sentence. Full-sample realized mean mixes high/low exposure and pre/post periods, not a constructed untreated counterfactual for high-exposure DiD target: aligned=0. Divided=0: translating a log/proportional effect to units is multiplication, not normalization by mean. Parent priority: eligibility relies on interpreting average-firm language as deliberate mean linkage; do not claim exact arithmetic or exact log1p retransformation. Parent adjudication: alignment unknown because the numerical benchmark is implicitly attributed, not explicitly identified. If Table1 pooled observed mean is the intended benchmark, it is not the untreated high-exposure baseline; that conditional mismatch alone does not establish the actual benchmark identity. Retention rests on explicit average-firm count translation, not a bare percentage or reconstructed arithmetic."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1423",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1421",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1422",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1423",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1421",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1422",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1423",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1423",
+    "before": null,
+    "after": "Table2 col4 estimates log(1+truncation-adjusted citations per patent), with no-patent firm-years retained at zero. NoPatent and NoPatent×Post are included; authors state the Treat×Post coefficient is informed only by observations with a patent available (final p1981 §4.2, article.txt L973–985). This qualification concerns the effect estimand, not removal of zeros from the reported dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J570",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M570",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O570",
+    "before": null,
+    "after": "Conventional high-versus-low exposure DiD takes precedence over firm/year FE and OLS implementation. Not separate OLS/FE settings. Patent log labels mean log(1+Y). Average-firm level translations are approximate, not exact log1p retransformation. Group the untabulated single-pre-year ownership measurement check (final pp1980–1981, article.txt L941–960) here as a routine robustness variant of the same high-ownership contrast; do not add proposed h3. Continuous ownership and the individual-blockholder presence treatment remain distinct h4/h5. Source: Final pp1976–1981, Eq1, Table2; article.txt L645–687,774–811,880–985; single-year measurement robustness L941–960."
+  }
+]
+```
