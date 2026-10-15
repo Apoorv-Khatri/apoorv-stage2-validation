@@ -27733,7 +27733,16 @@
     "L2841": "0",
     "M2841": "n/a",
     "N2841": "Section5.3 unreported Table8 replications: Fin_Expertise Trustees effect, residual-bootstrap and unweighted linear regression versions; qualitatively robust. No coefficients reported.",
-    "O2841": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Percentage of board trustees with finance-industry/sector experience (TableB1). Source: p88 Section5.3 L1422-1453."
+    "O2841": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Percentage of board trustees with finance-industry/sector experience (TableB1). Source: p88 Section5.3 L1422-1453.",
+    "A2842": "ME6H5V5K",
+    "B2842": "h1",
+    "I2842": "1",
+    "J2842": "Other",
+    "K2842": "0",
+    "L2842": "0",
+    "M2842": "n/a",
+    "N2842": "Table4: GZ spread with GDP moderation, cols4-6 all/low/high growth startup entry.",
+    "O2842": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Source: pp2534-35 L1642-1749."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -75035,7 +75044,19 @@
     "A6934": "MBWIN7NL",
     "B6934": "h46",
     "C6934": "hy1",
-    "K6934": "Annual Risk Shift: change in risky-asset allocation share."
+    "K6934": "Annual Risk Shift: change in risky-asset allocation share.",
+    "A6935": "ME6H5V5K",
+    "B6935": "h1",
+    "C6935": "hy1",
+    "K6935": "Indicator of starting any business.",
+    "A6936": "ME6H5V5K",
+    "B6936": "h1",
+    "C6936": "hy2",
+    "K6936": "Indicator of starting a low-growth business (zero for all other respondents).",
+    "A6937": "ME6H5V5K",
+    "B6937": "h1",
+    "C6937": "hy3",
+    "K6937": "Indicator of starting a high-growth business (zero for all other respondents)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
