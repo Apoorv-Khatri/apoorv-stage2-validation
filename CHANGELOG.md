@@ -486171,3 +486171,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:52:51.022388+00:00 — Review NSKXG8S6 h7: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7273",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7273",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7273",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7273",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7273",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7273",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7273",
+    "before": null,
+    "after": "Innovation patent-count outcome in zero-inflated Poisson robustness; precise count definition/scale not restated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2977",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2977",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2977",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2977",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2977",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2977",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2977",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2977",
+    "before": null,
+    "after": "Untabulated §4.1 zero-inflated Poisson regression robustness for innovation counts under baseline binary regulation exposure."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2977",
+    "before": null,
+    "after": "Implemented zero-inflated count model is nonlinear; not linear DiD. Paper reports robust inference without parameterization/count-equation and inflation-equation grid. Count outcome is strongly implied by Poisson but actual transform not explicitly restated; unknown retained. Source: Final p1981; L959–969."
+  }
+]
+```

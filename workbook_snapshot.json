@@ -29106,7 +29106,16 @@
     "L2976": "0",
     "M2976": "n/a",
     "N2976": "Untabulated §4.1 quantile-regression robustness for innovation at 75th, 80th, 90th and 95th percentiles, using baseline binary exposure to 2004 disclosure regulation.",
-    "O2976": "Implemented quantile estimators nonlinear in reported outcome; DiD economic design does not change method code. Inferences hold; no coefficients available. Exact dependent-variable scale is not restated for quantile robustness; annual innovation zeros established, scale remains unknown. Source: Final p1981; L959–969."
+    "O2976": "Implemented quantile estimators nonlinear in reported outcome; DiD economic design does not change method code. Inferences hold; no coefficients available. Exact dependent-variable scale is not restated for quantile robustness; annual innovation zeros established, scale remains unknown. Source: Final p1981; L959–969.",
+    "A2977": "NSKXG8S6",
+    "B2977": "h7",
+    "I2977": "1",
+    "J2977": "Other",
+    "K2977": "1",
+    "L2977": "0",
+    "M2977": "n/a",
+    "N2977": "Untabulated §4.1 zero-inflated Poisson regression robustness for innovation counts under baseline binary regulation exposure.",
+    "O2977": "Implemented zero-inflated count model is nonlinear; not linear DiD. Paper reports robust inference without parameterization/count-equation and inflation-equation grid. Count outcome is strongly implied by Poisson but actual transform not explicitly restated; unknown retained. Source: Final p1981; L959–969."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78003,7 +78012,14 @@
     "H7272": "0",
     "I7272": "1",
     "J7272": "unknown",
-    "K7272": "Innovation output (citation-weighted patents) in quantile robustness; exact raw versus log1p scale not restated."
+    "K7272": "Innovation output (citation-weighted patents) in quantile robustness; exact raw versus log1p scale not restated.",
+    "A7273": "NSKXG8S6",
+    "B7273": "h7",
+    "C7273": "hy1",
+    "H7273": "0",
+    "I7273": "1",
+    "J7273": "unknown",
+    "K7273": "Innovation patent-count outcome in zero-inflated Poisson robustness; precise count definition/scale not restated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
