@@ -449655,3 +449655,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:30:23.328951+00:00 — Review L5V28EJD h31: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6790",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6791",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6792",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6793",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6790",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6791",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6792",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6793",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6790",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6791",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6792",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6793",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6790",
+    "before": null,
+    "after": "Quarterly distressed fund flow normalized by lagged fund assets; TableF11."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6791",
+    "before": null,
+    "after": "Quarterly multi-strategy fund flow normalized by lagged fund assets; TableF11."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6792",
+    "before": null,
+    "after": "Quarterly activist/merger fund flow normalized by lagged fund assets; TableF11."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6793",
+    "before": null,
+    "after": "Quarterly special situation fund flow normalized by lagged fund assets; TableF11."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2775",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2775",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2775",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2775",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2775",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2775",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2775",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2775",
+    "before": null,
+    "after": "Own past fund returns on quarterly hedge-fund flows, cross-sectional regressions each quarter averaged over time, TableF11 PanelsA/B one/four lags."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2775",
+    "before": null,
+    "after": "Substantive support for flow-return spillover mechanism, not mere forecasting task. Fama–MacBeth-type average of cross-sectional OLS slopes, not fixed effects. Do not confuse own-fund returns with mainTable12 loan-index returns. Lagged flow variables remain controls. Source: Main p1142; IA TableF11 p30."
+  }
+]
+```

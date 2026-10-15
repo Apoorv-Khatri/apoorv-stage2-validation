@@ -26960,7 +26960,16 @@
     "L2774": "0",
     "M2774": "n/a",
     "N2774": "Own past fund returns on quarterly mutual-fund flows, cross-sectional regressions each quarter averaged over time, TableF10 PanelsA/B one/four lags.",
-    "O2774": "Substantive support for flow-return spillover mechanism, not mere forecasting task. Fama–MacBeth-type average of cross-sectional OLS slopes, not fixed effects. Do not confuse own-fund returns with mainTable12 loan-index returns. Lagged flow variables remain controls. Source: Main p1142; IA TableF10 p29."
+    "O2774": "Substantive support for flow-return spillover mechanism, not mere forecasting task. Fama–MacBeth-type average of cross-sectional OLS slopes, not fixed effects. Do not confuse own-fund returns with mainTable12 loan-index returns. Lagged flow variables remain controls. Source: Main p1142; IA TableF10 p29.",
+    "A2775": "L5V28EJD",
+    "B2775": "h31",
+    "I2775": "1",
+    "J2775": "OLS",
+    "K2775": "0",
+    "L2775": "0",
+    "M2775": "n/a",
+    "N2775": "Own past fund returns on quarterly hedge-fund flows, cross-sectional regressions each quarter averaged over time, TableF11 PanelsA/B one/four lags.",
+    "O2775": "Substantive support for flow-return spillover mechanism, not mere forecasting task. Fama–MacBeth-type average of cross-sectional OLS slopes, not fixed effects. Do not confuse own-fund returns with mainTable12 loan-index returns. Lagged flow variables remain controls. Source: Main p1142; IA TableF11 p30."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73334,7 +73343,23 @@
     "A6789": "L5V28EJD",
     "B6789": "h30",
     "C6789": "hy3",
-    "K6789": "Quarterly high current yield fund flow normalized by lagged fund assets; TableF10."
+    "K6789": "Quarterly high current yield fund flow normalized by lagged fund assets; TableF10.",
+    "A6790": "L5V28EJD",
+    "B6790": "h31",
+    "C6790": "hy1",
+    "K6790": "Quarterly distressed fund flow normalized by lagged fund assets; TableF11.",
+    "A6791": "L5V28EJD",
+    "B6791": "h31",
+    "C6791": "hy2",
+    "K6791": "Quarterly multi-strategy fund flow normalized by lagged fund assets; TableF11.",
+    "A6792": "L5V28EJD",
+    "B6792": "h31",
+    "C6792": "hy3",
+    "K6792": "Quarterly activist/merger fund flow normalized by lagged fund assets; TableF11.",
+    "A6793": "L5V28EJD",
+    "B6793": "h31",
+    "C6793": "hy4",
+    "K6793": "Quarterly special situation fund flow normalized by lagged fund assets; TableF11."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
