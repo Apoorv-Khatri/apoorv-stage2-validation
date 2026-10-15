@@ -468477,3 +468477,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:01:04.004229+00:00 — Review ME6H5V5K h14: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6975",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6976",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6977",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6975",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6976",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6977",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6975",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6976",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6977",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6977",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6977",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6975",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6976",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6977",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6975",
+    "before": null,
+    "after": "Indicator of starting any business."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6976",
+    "before": null,
+    "after": "Indicator of starting a low-growth business (zero for all other respondents)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6977",
+    "before": null,
+    "after": "Indicator of starting a high-growth business (zero for all other respondents)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2855",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2855",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2855",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2855",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2855",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2855",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2855",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2855",
+    "before": null,
+    "after": "Table5: good future business-opportunity expectations indicator effect on all/low/high growth entry, both financial-indicator specifications."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2855",
+    "before": null,
+    "after": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Section4.4 gives financing-capacity, expertise, expectations and serial-entrepreneur hypotheses; include null exit-share evidence. Middle/high dummies are separate implemented arm-versus-low contrasts, not one unknown categorical exposure. Source: pp2535-36 L1740-1810."
+  }
+]
+```
