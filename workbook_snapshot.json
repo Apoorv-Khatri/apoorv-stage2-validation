@@ -27751,7 +27751,16 @@
     "L2843": "0",
     "M2843": "n/a",
     "N2843": "Table5: GZ spread with GDP moderation, cols4-6 all/low/high growth startup entry.",
-    "O2843": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Source: pp2535-36 L1740-1832."
+    "O2843": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Source: pp2535-36 L1740-1832.",
+    "A2844": "ME6H5V5K",
+    "B2844": "h3",
+    "I2844": "1",
+    "J2844": "Other",
+    "K2844": "0",
+    "L2844": "1",
+    "M2844": "n/a",
+    "N2844": "Table6: GZ spread with GDP moderation, cols3-4,7-8 entry into low/high intangibility and low/high EFD sectors.",
+    "O2844": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Source: pp2538-39 L1924-2022."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -75077,7 +75086,23 @@
     "A6940": "ME6H5V5K",
     "B6940": "h2",
     "C6940": "hy3",
-    "K6940": "Indicator of starting a high-growth business (zero for all other respondents)."
+    "K6940": "Indicator of starting a high-growth business (zero for all other respondents).",
+    "A6941": "ME6H5V5K",
+    "B6941": "h3",
+    "C6941": "hy1",
+    "K6941": "Indicator starting in low-intangibility sector.",
+    "A6942": "ME6H5V5K",
+    "B6942": "h3",
+    "C6942": "hy2",
+    "K6942": "Indicator starting in high-intangibility sector.",
+    "A6943": "ME6H5V5K",
+    "B6943": "h3",
+    "C6943": "hy3",
+    "K6943": "Indicator starting in low-EFD manufacturing sector.",
+    "A6944": "ME6H5V5K",
+    "B6944": "h3",
+    "C6944": "hy4",
+    "K6944": "Indicator starting in high-EFD manufacturing sector."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
