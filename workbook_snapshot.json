@@ -282,6 +282,7 @@
     "B61": "The influence of political bias in state pension funds",
     "C61": "fin",
     "D61": 10,
+    "E61": "DONE — All 23 final article pages including Appendices A–C independently reviewed; all 56 settings, 106 outcomes and 26 comparison records audited. Retain 23 comparisons, reject three original comparison records. No separate supplement or unreported numerical grids verified. Distinct political treatments and instrument sets preserved; baseline congressional FE separated from BCRA DiD and unadjusted Table10A separated from adjusted PanelB. Table5 intended matching/group contrasts and Table10A deliberate paired means retained with eligibility separate from alignment. Correct negative Table2/Table7 signs; h38 categorical hazard binary support unknown and elected-trustee result main. Hazard ratios interpreted as conditional rates, not event probabilities. Explicit unreported robustness kept minimum-scope with unknown details; source terminology, column, definition and significance conflicts preserved. Original model fields and IDs unchanged.",
     "A62": "ME6H5V5K",
     "B62": "Cyclical Fluctuations, Financial Shocks, and the Entry of Fast-Growing Entrepreneurial Startups",
     "C62": "fin",
@@ -27650,7 +27651,16 @@
     "L2840": "0",
     "M2840": "n/a",
     "N2840": "Section5.3 unreported Table8 replications: Politically Affiliated Trustees effect, residual-bootstrap and unweighted linear regression versions; qualitatively robust. No coefficients reported.",
-    "O2840": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Board share of active/former legislators, Congress members, ex officio, governor-appointed or state-representative-elected trustees (TableB1). Source: p88 Section5.3 L1422-1453."
+    "O2840": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Board share of active/former legislators, Congress members, ex officio, governor-appointed or state-representative-elected trustees (TableB1). Source: p88 Section5.3 L1422-1453.",
+    "A2841": "MBWIN7NL",
+    "B2841": "h46",
+    "I2841": "1",
+    "J2841": "FE",
+    "K2841": "0",
+    "L2841": "0",
+    "M2841": "n/a",
+    "N2841": "Section5.3 unreported Table8 replications: Fin_Expertise Trustees effect, residual-bootstrap and unweighted linear regression versions; qualitatively robust. No coefficients reported.",
+    "O2841": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Percentage of board trustees with finance-industry/sector experience (TableB1). Source: p88 Section5.3 L1422-1453."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74895,7 +74905,11 @@
     "A6933": "MBWIN7NL",
     "B6933": "h45",
     "C6933": "hy1",
-    "K6933": "Annual Risk Shift: change in risky-asset allocation share."
+    "K6933": "Annual Risk Shift: change in risky-asset allocation share.",
+    "A6934": "MBWIN7NL",
+    "B6934": "h46",
+    "C6934": "hy1",
+    "K6934": "Annual Risk Shift: change in risky-asset allocation share."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

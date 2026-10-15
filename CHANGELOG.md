@@ -464280,3 +464280,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T10:10:51.278250+00:00 — Review MBWIN7NL h46: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6934",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6934",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6934",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6934",
+    "before": null,
+    "after": "Annual Risk Shift: change in risky-asset allocation share."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E61",
+    "before": null,
+    "after": "DONE — All 23 final article pages including Appendices A–C independently reviewed; all 56 settings, 106 outcomes and 26 comparison records audited. Retain 23 comparisons, reject three original comparison records. No separate supplement or unreported numerical grids verified. Distinct political treatments and instrument sets preserved; baseline congressional FE separated from BCRA DiD and unadjusted Table10A separated from adjusted PanelB. Table5 intended matching/group contrasts and Table10A deliberate paired means retained with eligibility separate from alignment. Correct negative Table2/Table7 signs; h38 categorical hazard binary support unknown and elected-trustee result main. Hazard ratios interpreted as conditional rates, not event probabilities. Explicit unreported robustness kept minimum-scope with unknown details; source terminology, column, definition and significance conflicts preserved. Original model fields and IDs unchanged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2841",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2841",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2841",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2841",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2841",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2841",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2841",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2841",
+    "before": null,
+    "after": "Section5.3 unreported Table8 replications: Fin_Expertise Trustees effect, residual-bootstrap and unweighted linear regression versions; qualitatively robust. No coefficients reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2841",
+    "before": null,
+    "after": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Percentage of board trustees with finance-industry/sector experience (TableB1). Source: p88 Section5.3 L1422-1453."
+  }
+]
+```
