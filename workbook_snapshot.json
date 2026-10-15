@@ -292,6 +292,7 @@
     "B63": "Do institutional investors drive corporate social responsibility? International evidence",
     "C63": "fin",
     "D63": 15,
+    "E63": "DONE — Available-source review of all 22 final article pages with independent audit and treatment-granularity refinement. Final Online Appendices A/B unavailable; completion does not certify their coverage. Retain 106 settings, 277 outcome records (271 active; six original duplicate/out-of-scope rows preserved), and two minimum-family outcome-SD comparisons; ten original comparisons rejected. Distinct EPI/Employment-Laws treatments and 38 verified origin-country regressors separated, with no digitized or invented coefficients. International identifying HDFE, domestic FE, continuous-exposure conventional DiD and minimum-scope IV distinguished; Canadian proposal method unknown without OB8. Unsupported component-regression additions withdrawn; substantive attributions preserved. Appendix and untabulated norm-index variants remain minimum-scope with exact grids unresolved. Original model fields, IDs and links preserved.",
     "A64": "NSKXG8S6",
     "B64": "Mutual Fund Transparency and Corporate Myopia",
     "C64": "fin",
@@ -28995,7 +28996,16 @@
     "L2970": "1",
     "M2970": "n/a",
     "N2970": "Figure2 A/B: continuous standardized foreign institutional ownership originating in India (IND), effect on log overall environmental and social scores. Origin-specific regressor; non-US investee-firm sample. Domestic ownership and baseline controls/FE retained. No numerical coefficient digitized.",
-    "O2970": "p708 states regressions identical to Tables6/7 except ownership disaggregated by investor origin; country, industry and year FE retain the baseline identifying rationale. Figure2 standardizes foreign ownership, not outcomes. WVS norm is the vertical plotting coordinate, not a median-based treatment definition in this regression. The same country regressor across E/S outcomes remains grouped. Country code visually verified in both panels; no outcome benchmark comparison. Source: Final p709 Figure2 panels A/B (visually read country labels); p708 article.txt L1082–1098 and caption L1165–1168."
+    "O2970": "p708 states regressions identical to Tables6/7 except ownership disaggregated by investor origin; country, industry and year FE retain the baseline identifying rationale. Figure2 standardizes foreign ownership, not outcomes. WVS norm is the vertical plotting coordinate, not a median-based treatment definition in this regression. The same country regressor across E/S outcomes remains grouped. Country code visually verified in both panels; no outcome benchmark comparison. Source: Final p709 Figure2 panels A/B (visually read country labels); p708 article.txt L1082–1098 and caption L1165–1168.",
+    "A2971": "NGGU7KDV",
+    "B2971": "h93",
+    "I2971": "1",
+    "J2971": "HDFE",
+    "K2971": "0",
+    "L2971": "1",
+    "M2971": "n/a",
+    "N2971": "Figure2 A/B: continuous standardized foreign institutional ownership originating in Singapore (SGP), effect on log overall environmental and social scores. Origin-specific regressor; non-US investee-firm sample. Domestic ownership and baseline controls/FE retained. No numerical coefficient digitized.",
+    "O2971": "p708 states regressions identical to Tables6/7 except ownership disaggregated by investor origin; country, industry and year FE retain the baseline identifying rationale. Figure2 standardizes foreign ownership, not outcomes. WVS norm is the vertical plotting coordinate, not a median-based treatment definition in this regression. The same country regressor across E/S outcomes remains grouped. Country code visually verified in both panels; no outcome benchmark comparison. Source: Final p709 Figure2 panels A/B (visually read country labels); p708 article.txt L1082–1098 and caption L1165–1168."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -77793,7 +77803,15 @@
     "A7264": "NGGU7KDV",
     "B7264": "h92",
     "C7264": "hy2",
-    "K7264": "Natural log of overall social score (equal category weights; 0–100 before log)."
+    "K7264": "Natural log of overall social score (equal category weights; 0–100 before log).",
+    "A7265": "NGGU7KDV",
+    "B7265": "h93",
+    "C7265": "hy1",
+    "K7265": "Natural log of overall environmental score (equal category weights; 0–100 before log).",
+    "A7266": "NGGU7KDV",
+    "B7266": "h93",
+    "C7266": "hy2",
+    "K7266": "Natural log of overall social score (equal category weights; 0–100 before log)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

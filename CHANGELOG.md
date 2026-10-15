@@ -484680,3 +484680,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T13:48:07.081414+00:00 — Review NGGU7KDV h93: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7265",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7266",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7265",
+    "before": null,
+    "after": "h93"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7266",
+    "before": null,
+    "after": "h93"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7265",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7266",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7265",
+    "before": null,
+    "after": "Natural log of overall environmental score (equal category weights; 0–100 before log)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7266",
+    "before": null,
+    "after": "Natural log of overall social score (equal category weights; 0–100 before log)."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E63",
+    "before": null,
+    "after": "DONE — Available-source review of all 22 final article pages with independent audit and treatment-granularity refinement. Final Online Appendices A/B unavailable; completion does not certify their coverage. Retain 106 settings, 277 outcome records (271 active; six original duplicate/out-of-scope rows preserved), and two minimum-family outcome-SD comparisons; ten original comparisons rejected. Distinct EPI/Employment-Laws treatments and 38 verified origin-country regressors separated, with no digitized or invented coefficients. International identifying HDFE, domestic FE, continuous-exposure conventional DiD and minimum-scope IV distinguished; Canadian proposal method unknown without OB8. Unsupported component-regression additions withdrawn; substantive attributions preserved. Appendix and untabulated norm-index variants remain minimum-scope with exact grids unresolved. Original model fields, IDs and links preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2971",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2971",
+    "before": null,
+    "after": "h93"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2971",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2971",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2971",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2971",
+    "before": null,
+    "after": "Figure2 A/B: continuous standardized foreign institutional ownership originating in Singapore (SGP), effect on log overall environmental and social scores. Origin-specific regressor; non-US investee-firm sample. Domestic ownership and baseline controls/FE retained. No numerical coefficient digitized."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2971",
+    "before": null,
+    "after": "p708 states regressions identical to Tables6/7 except ownership disaggregated by investor origin; country, industry and year FE retain the baseline identifying rationale. Figure2 standardizes foreign ownership, not outcomes. WVS norm is the vertical plotting coordinate, not a median-based treatment definition in this regression. The same country regressor across E/S outcomes remains grouped. Country code visually verified in both panels; no outcome benchmark comparison. Source: Final p709 Figure2 panels A/B (visually read country labels); p708 article.txt L1082–1098 and caption L1165–1168."
+  }
+]
+```
