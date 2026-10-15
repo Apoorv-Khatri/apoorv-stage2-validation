@@ -28527,7 +28527,16 @@
     "L2918": "1",
     "M2918": "n/a",
     "N2918": "Figure2 A/B: continuous standardized foreign institutional ownership originating in Netherlands (NLD), effect on log overall environmental and social scores. Origin-specific regressor; non-US investee-firm sample. Domestic ownership and baseline controls/FE retained. No numerical coefficient digitized.",
-    "O2918": "p708 states regressions identical to Tables6/7 except ownership disaggregated by investor origin; country, industry and year FE retain the baseline identifying rationale. Figure2 standardizes foreign ownership, not outcomes. WVS norm is the vertical plotting coordinate, not a median-based treatment definition in this regression. The same country regressor across E/S outcomes remains grouped. Country code visually verified in both panels; no outcome benchmark comparison. Source: Final p709 Figure2 panels A/B (visually read country labels); p708 article.txt L1082–1098 and caption L1165–1168."
+    "O2918": "p708 states regressions identical to Tables6/7 except ownership disaggregated by investor origin; country, industry and year FE retain the baseline identifying rationale. Figure2 standardizes foreign ownership, not outcomes. WVS norm is the vertical plotting coordinate, not a median-based treatment definition in this regression. The same country regressor across E/S outcomes remains grouped. Country code visually verified in both panels; no outcome benchmark comparison. Source: Final p709 Figure2 panels A/B (visually read country labels); p708 article.txt L1082–1098 and caption L1165–1168.",
+    "A2919": "NGGU7KDV",
+    "B2919": "h39",
+    "I2919": "1",
+    "J2919": "HDFE",
+    "K2919": "0",
+    "L2919": "0",
+    "M2919": "n/a",
+    "N2919": "Untabulated low-norm foreign ownership effects on social performance after excluding training-and-development category; become insignificant.",
+    "O2919": "Final confirms implemented category exclusion result. Baseline Table6 relationship context supports same FE method; exact coefficient and norm-index variants unresolved. The same footnote attributes the aggregate effect to training and development; the explicitly implemented exclusion test supports this statement. A separate component-outcome regression is not established, so proposed h46 is withdrawn. No extra EPI/Employment-Laws/WVS split is asserted: exact implemented norm-index definition is not enumerated in this untabulated result sentence. Retained as minimum supported scope, not a pooled inventory of verified distinct regressors. Source: p708 fn18 untabulated; L1135–1144."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76921,7 +76930,11 @@
     "A7163": "NGGU7KDV",
     "B7163": "h38",
     "C7163": "hy2",
-    "K7163": "Natural log of overall social score (equal category weights; 0–100 before log)."
+    "K7163": "Natural log of overall social score (equal category weights; 0–100 before log).",
+    "A7164": "NGGU7KDV",
+    "B7164": "h39",
+    "C7164": "hy1",
+    "K7164": "Social performance score excluding training and development; exact weights/scale unreported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

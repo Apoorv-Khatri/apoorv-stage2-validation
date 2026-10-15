@@ -478980,3 +478980,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T13:20:23.719606+00:00 — Review NGGU7KDV h39: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7164",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7164",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7164",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7164",
+    "before": null,
+    "after": "Social performance score excluding training and development; exact weights/scale unreported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2919",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2919",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2919",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2919",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2919",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2919",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2919",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2919",
+    "before": null,
+    "after": "Untabulated low-norm foreign ownership effects on social performance after excluding training-and-development category; become insignificant."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2919",
+    "before": null,
+    "after": "Final confirms implemented category exclusion result. Baseline Table6 relationship context supports same FE method; exact coefficient and norm-index variants unresolved. The same footnote attributes the aggregate effect to training and development; the explicitly implemented exclusion test supports this statement. A separate component-outcome regression is not established, so proposed h46 is withdrawn. No extra EPI/Employment-Laws/WVS split is asserted: exact implemented norm-index definition is not enumerated in this untabulated result sentence. Retained as minimum supported scope, not a pooled inventory of verified distinct regressors. Source: p708 fn18 untabulated; L1135–1144."
+  }
+]
+```
