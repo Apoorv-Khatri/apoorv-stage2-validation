@@ -485424,3 +485424,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:47:16.996613+00:00 — Review NSKXG8S6 s8: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1431",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1431",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1431",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I577",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J577",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K577",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L577",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M577",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O577",
+    "before": null,
+    "after": "Main=1: introduction explicitly highlights changed fund-investor behavior as central mechanism. Binary policy exposure TreatFund; continuous %Losers/%Winners are slope modifiers, not separate treatment assignments. Triple coefficients are changes in sensitivity, not unconditional fund-flow effects. Baseline loser/winner slopes are contextual sensitivities rather than separately claimed policy causal settings. Source: Final pp1991–1994 Eq3 Table9; L1667–1912."
+  }
+]
+```
