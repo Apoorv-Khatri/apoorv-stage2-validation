@@ -414618,3 +414618,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T06:30:03.157280+00:00 — Review KKKD4ZV5 h7: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6682",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6682",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6682",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6682",
+    "before": null,
+    "after": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2721",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2721",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2721",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2721",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2721",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2721",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2721",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2721",
+    "before": null,
+    "after": "Average RPV of the two indirect legs affects RPVE conditional on average reciprocal volume and covariance, component regression pp872–873."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2721",
+    "before": null,
+    "after": "Explicit implemented component regression and expected-sign results. RPV and reciprocal-volume parameters are different treatments: reciprocal volume is h20. OLS regression context; no numerical grid or exact rescaling printed. Keep covariance as nuisance control; no independent causal interpretation. Source: §5.1 pp872–873; article.txt 2007–2010,2188–2194."
+  }
+]
+```

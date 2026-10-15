@@ -26371,7 +26371,16 @@
     "L2720": "0",
     "M2720": "unknown",
     "N2720": "Holiday-instrument TSLS for separate-leg illiquidity effects on EURUSD triangular mispricing; implemented weak-IV alternative referenced in Internet Appendix Table3.",
-    "O2720": "Main text says holiday instrument weak and refers to actual Appendix Table3, so retain minimum implemented estimator despite inaccessible grid. Binary nature of holiday instrument known; exact jurisdiction and whether one or several excluded holiday indicators used jointly are unresolved. Human_IV_type unknown, not guessed single/multiple binary. Continuous receipt illiquidity is treatment, not binary holiday instrument. No coefficients reconstructed. Fresh publisher/author attempts still fail to recover final Appendix Table3; old November2021 repository manuscript is not the final supplement. Retain one minimum scope record, with EUR/USD treatment split pending actual appendix implementation, rather than assert an unseen two-endogenous-variable grid. Source: §5.3 p875 fn37."
+    "O2720": "Main text says holiday instrument weak and refers to actual Appendix Table3, so retain minimum implemented estimator despite inaccessible grid. Binary nature of holiday instrument known; exact jurisdiction and whether one or several excluded holiday indicators used jointly are unresolved. Human_IV_type unknown, not guessed single/multiple binary. Continuous receipt illiquidity is treatment, not binary holiday instrument. No coefficients reconstructed. Fresh publisher/author attempts still fail to recover final Appendix Table3; old November2021 repository manuscript is not the final supplement. Retain one minimum scope record, with EUR/USD treatment split pending actual appendix implementation, rather than assert an unseen two-endogenous-variable grid. Source: §5.3 p875 fn37.",
+    "A2721": "KKKD4ZV5",
+    "B2721": "h7",
+    "I2721": "1",
+    "J2721": "OLS",
+    "K2721": "0",
+    "L2721": "0",
+    "M2721": "n/a",
+    "N2721": "Average RPV of the two indirect legs affects RPVE conditional on average reciprocal volume and covariance, component regression pp872–873.",
+    "O2721": "Explicit implemented component regression and expected-sign results. RPV and reciprocal-volume parameters are different treatments: reciprocal volume is h20. OLS regression context; no numerical grid or exact rescaling printed. Keep covariance as nuisance control; no independent causal interpretation. Source: §5.1 pp872–873; article.txt 2007–2010,2188–2194."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -72043,7 +72052,11 @@
     "A6681": "KKKD4ZV5",
     "B6681": "h6",
     "C6681": "hy1",
-    "K6681": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
+    "K6681": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units.",
+    "A6682": "KKKD4ZV5",
+    "B6682": "h7",
+    "C6682": "hy1",
+    "K6682": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
