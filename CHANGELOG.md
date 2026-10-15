@@ -485061,3 +485061,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:41:58.353873+00:00 — Review NSKXG8S6 s3: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1425",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1425",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1425",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I572",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J572",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K572",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L572",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M572",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O572",
+    "before": null,
+    "after": "Retain substantive affected-fund effects and reported differences against unaffected investor-group slopes. The unaffected-group coefficients are confounding/placebo comparators, not separate causal effects of disclosure on unexposed groups. PS matching is preprocessing; DiD has priority. Effect/effect multiples are not outcome-level benchmarks. Source: Final pp1983–1985 Table4; L1124–1253."
+  }
+]
+```
