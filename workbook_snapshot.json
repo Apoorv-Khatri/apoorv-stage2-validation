@@ -27524,7 +27524,16 @@
     "L2826": "1",
     "M2826": "n/a",
     "N2826": "Table10 PanelA: unadjusted matched-group governance-transition DiD, two years before versus after; effects0.10,0.38,0.38 and-0.90 percentage points. Separate panel/estimator from adjusted PanelB.",
-    "O2826": "No FE in equivalent group-mean DiD does not make OLS. No scalar adjusted-panel baseline transferred from PanelA. Printed0.38 contribution DiD has one star despite t2.45; retain print. Source: pp85,87 Table10A; L1208-1236,L1370-1393."
+    "O2826": "No FE in equivalent group-mean DiD does not make OLS. No scalar adjusted-panel baseline transferred from PanelA. Printed0.38 contribution DiD has one star despite t2.45; retain print. Source: pp85,87 Table10A; L1208-1236,L1370-1393.",
+    "A2827": "MBWIN7NL",
+    "B2827": "h32",
+    "I2827": "1",
+    "J2827": "FE",
+    "K2827": "0",
+    "L2827": "0",
+    "M2827": "n/a",
+    "N2827": "Table11 bootstrap performance robustness: lagged Local Bias, columns1,4,7,10; WLS/unweighted variants grouped,1000 residual resamples.",
+    "O2827": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Source: pp86,88 Table11; L1288-1335,L1422-1491."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74632,7 +74641,11 @@
     "H6907": "0",
     "I6907": "unknown",
     "J6907": "none",
-    "K6907": "Quarterly value-weighted domestic equity portfolio return, fraction units; Appendix B p89."
+    "K6907": "Quarterly value-weighted domestic equity portfolio return, fraction units; Appendix B p89.",
+    "A6908": "MBWIN7NL",
+    "B6908": "h32",
+    "C6908": "hy1",
+    "K6908": "Quarterly value-weighted domestic equity portfolio return, fraction units; Appendix B p89."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

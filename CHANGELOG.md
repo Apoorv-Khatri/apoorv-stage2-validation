@@ -462576,3 +462576,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T10:06:07.866759+00:00 — Review MBWIN7NL h32: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6908",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6908",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6908",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6908",
+    "before": null,
+    "after": "Quarterly value-weighted domestic equity portfolio return, fraction units; Appendix B p89."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2827",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2827",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2827",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2827",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2827",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2827",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2827",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2827",
+    "before": null,
+    "after": "Table11 bootstrap performance robustness: lagged Local Bias, columns1,4,7,10; WLS/unweighted variants grouped,1000 residual resamples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2827",
+    "before": null,
+    "after": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Source: pp86,88 Table11; L1288-1335,L1422-1491."
+  }
+]
+```
