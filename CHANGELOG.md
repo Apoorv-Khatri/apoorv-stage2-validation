@@ -433692,3 +433692,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:16:33.497775+00:00 — Review L5V28EJD s2: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I520",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J520",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K520",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L520",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M520",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O520",
+    "before": null,
+    "after": "Author-intention inclusion, not endorsement of exogeneity. No IV or randomized assignment. Calendar dummies present, but the relevant main-article discussion does not establish a distinct identifying-FE argument beyond routine temporal controls; OLS survey classification retained. No HDFE: only one calendar set. Senior redemption is negative change in senior principal divided by initial senior principal, expressed in percent, not a level of principal. Source: Main p1130 Table5."
+  }
+]
+```
