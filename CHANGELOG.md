@@ -416097,3 +416097,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T06:33:06.128862+00:00 — Review KKKD4ZV5 h16: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6703",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6703",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6703",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6703",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6703",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6703",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6703",
+    "before": null,
+    "after": "Daily realized Amihud illiquidity, defined as daily RPV divided by daily trading volume; price impact of trading volume. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2730",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2730",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2730",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2730",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2730",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2730",
+    "before": null,
+    "after": "U.S.-dollar-appreciation indicator and Daily realized Amihud illiquidity, defined as daily RPV divided by daily trading volume, Table2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2730",
+    "before": null,
+    "after": "The p867 correlation-rather-than-causation disclaimer is genuine counterevidence. Nevertheless p868 gives parameter-specific interpretations (discourage, disincentivize, negative impact, and reaction to strains), and abstract/conclusion elevate liquidity determinants. Under the broad author-intention rule retain these interpreted parameters, not every control. This is a contested gate judgment, not a claim that endogeneity has been solved. Pooled linear regression with lagged outcome and weekday dummies; no identifying FE argument. Table2 says levels, not logs; do not import Table4 log scale. Exact numerical rescaling behind prose percentage interpretation is undocumented. p868 explicitly interprets absence of larger trading impact on appreciation days; substantive null. Other USD coefficient outcomes not independently interpreted. Source: §4.1 pp867–869, Eq2 Table2; abstract p859 and conclusion p879."
+  }
+]
+```
