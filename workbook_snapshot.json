@@ -27886,7 +27886,16 @@
     "L2858": "0",
     "M2858": "n/a",
     "N2858": "Table7 cols4-6: GZ spread plus GDP-growth interaction with term-premium adjustment, all/low/high entry.",
-    "O2858": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Source: pp2539-40 L2024-2110."
+    "O2858": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Source: pp2539-40 L2024-2110.",
+    "A2859": "ME6H5V5K",
+    "B2859": "h18",
+    "I2859": "1",
+    "J2859": "unknown",
+    "K2859": "0",
+    "L2859": "0",
+    "M2859": "n/a",
+    "N2859": "Table8 cols3-4: GZ spread effect on high-growth rather than low-growth choice, Heckman selection correction; interaction in col4.",
+    "O2859": "Table8 and pp2540-41 explicitly establish two-step Heckman selection correction, but do not specify the second-stage link or enough implementation detail to choose linear FE/OLS versus nonlinear Other. Method unknown; known selection correction is not linear treatment IV (IV type n/a). Demographic exclusions concern selection, not an instrumented financial treatment. Caption omits macro first-stage regressors that prose includes. Sector value-added title versus gross-output construction also preserved. Source: pp2540-41 L2088-2158."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -75477,7 +75486,11 @@
     "A6986": "ME6H5V5K",
     "B6986": "h17",
     "C6986": "hy3",
-    "K6986": "Indicator of starting a high-growth business (zero for all other respondents)."
+    "K6986": "Indicator of starting a high-growth business (zero for all other respondents).",
+    "A6987": "ME6H5V5K",
+    "B6987": "h18",
+    "C6987": "hy1",
+    "K6987": "Indicator of high-growth rather than low-growth among entrants, selection corrected."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

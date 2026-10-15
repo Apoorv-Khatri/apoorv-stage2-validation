@@ -469125,3 +469125,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:02:34.062524+00:00 — Review ME6H5V5K h18: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6987",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6987",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6987",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6987",
+    "before": null,
+    "after": "Indicator of high-growth rather than low-growth among entrants, selection corrected."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2859",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2859",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2859",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2859",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2859",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2859",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2859",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2859",
+    "before": null,
+    "after": "Table8 cols3-4: GZ spread effect on high-growth rather than low-growth choice, Heckman selection correction; interaction in col4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2859",
+    "before": null,
+    "after": "Table8 and pp2540-41 explicitly establish two-step Heckman selection correction, but do not specify the second-stage link or enough implementation detail to choose linear FE/OLS versus nonlinear Other. Method unknown; known selection correction is not linear treatment IV (IV type n/a). Demographic exclusions concern selection, not an instrumented financial treatment. Caption omits macro first-stage regressors that prose includes. Sector value-added title versus gross-output construction also preserved. Source: pp2540-41 L2088-2158."
+  }
+]
+```
