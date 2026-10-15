@@ -433509,3 +433509,186 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:15:59.438749+00:00 — Review L5V28EJD s1: source-audited coding and linked comparisons
+
+29 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4799",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4799",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4799",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K314",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K315",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L314",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4799",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M314",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4799",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N314",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O314",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4799",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P314",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4799",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q314",
+    "before": null,
+    "after": "Main p1128 §3.4/Table4. Focal: 1.56pp sale-probability increase for one-slack-SD decrease (3.26pp); underlying marginal effect−.48pp. Benchmark: Unconditional probability of sale over months0–2,13.27%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4799",
+    "before": null,
+    "after": "Main p1128 §3.4/Table4. Focal: 1.12pp sale-probability increase for slack75th→25th percentile (2.34pp). Benchmark: Unconditional probability of sale over months0–2,13.27%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R314",
+    "before": null,
+    "after": "Source does not establish untreated target/weight equality for this observational regression contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R315",
+    "before": null,
+    "after": "Wrong continuous-setting attachment and ineligible source juxtaposition: 13.27% sentence refers to preceding continuous-slack SD/IQR effects. Binary3.53pp appears in subsequent paragraph and is not explicitly compared with that mean. Do not create replacement comparison under h1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4799",
+    "before": null,
+    "after": "Source does not establish untreated target/weight equality for this observational regression contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1291",
+    "before": null,
+    "after": "Sale dummy explicitly includes zero for no sale; original zero-mass label0 is unsupported/incorrect. Retained continuous-slack windows only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I519",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J519",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K519",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L519",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M519",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N519",
+    "before": null,
+    "after": "Continuous junior OC slack on sale dummy over months [−3,−1], [0,2], [3,5]; nonlinear logit Eq6/Table4 continuous columns only. Binary tercile contrasts and raw Fig2 are split out."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O519",
+    "before": null,
+    "after": "Author-intention inclusion, not endorsement of exogeneity. No IV or randomized assignment. Logit MLE; year-quarter effects do not make nonlinear estimator FE. The before-window null is substantively interpreted as no front-running, not discarded solely as a pretrend. Sales outcome is explicitly 0/1, with nonsales; original zero_mass=0 is wrong even though detailed labels are optional here. Source: Main pp1127–1130 Eq6 Table4."
+  }
+]
+```
