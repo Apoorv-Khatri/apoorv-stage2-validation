@@ -26699,7 +26699,16 @@
     "L2745": "1",
     "M2745": "n/a",
     "N2745": "Bottom versus top OC-slack tercile contrast in nonlinear logit of at-least-one downgraded-loan sale in months0–2, Table4 cols3–4; marginal effect 3.53 pp.",
-    "O2745": "Separate implemented dummy contrast in three-category model; top omitted. Year-quarter FE and loan/CLO controls. Do not import continuous-slack 13.27% prose comparison into these binary coefficients. Source: Main pp1128–1129 Table4."
+    "O2745": "Separate implemented dummy contrast in three-category model; top omitted. Year-quarter FE and loan/CLO controls. Do not import continuous-slack 13.27% prose comparison into these binary coefficients. Source: Main pp1128–1129 Table4.",
+    "A2746": "L5V28EJD",
+    "B2746": "h2",
+    "I2746": "1",
+    "J2746": "Other",
+    "K2746": "1",
+    "L2746": "1",
+    "M2746": "n/a",
+    "N2746": "Middle versus top OC-slack tercile contrast in nonlinear logit of at-least-one downgraded-loan sale in months0–2, Table4 cols3–4; marginal effect 2.65 pp.",
+    "O2746": "Separate implemented dummy contrast in three-category model; top omitted. Year-quarter FE and loan/CLO controls. Do not import continuous-slack 13.27% prose comparison into these binary coefficients. Source: Main pp1128–1129 Table4."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -72718,7 +72727,14 @@
     "H6731": "1",
     "I6731": "1",
     "J6731": "none",
-    "K6731": "At least one sale by CLO i of downgraded loan j during months0–2 (0/1); Eq6 and Table4."
+    "K6731": "At least one sale by CLO i of downgraded loan j during months0–2 (0/1); Eq6 and Table4.",
+    "A6732": "L5V28EJD",
+    "B6732": "h2",
+    "C6732": "hy1",
+    "H6732": "1",
+    "I6732": "1",
+    "J6732": "none",
+    "K6732": "At least one sale by CLO i of downgraded loan j during months0–2 (0/1); Eq6 and Table4."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

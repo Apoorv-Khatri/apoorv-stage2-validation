@@ -436458,3 +436458,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:19:45.744907+00:00 — Review L5V28EJD h2: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6732",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6732",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6732",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6732",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6732",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6732",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6732",
+    "before": null,
+    "after": "At least one sale by CLO i of downgraded loan j during months0–2 (0/1); Eq6 and Table4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2746",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2746",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2746",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2746",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2746",
+    "before": null,
+    "after": "Middle versus top OC-slack tercile contrast in nonlinear logit of at-least-one downgraded-loan sale in months0–2, Table4 cols3–4; marginal effect 2.65 pp."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2746",
+    "before": null,
+    "after": "Separate implemented dummy contrast in three-category model; top omitted. Year-quarter FE and loan/CLO controls. Do not import continuous-slack 13.27% prose comparison into these binary coefficients. Source: Main pp1128–1129 Table4."
+  }
+]
+```
