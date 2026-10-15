@@ -477276,3 +477276,246 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T13:14:37.320660+00:00 — Review NGGU7KDV h27: source-audited coding and linked comparisons
+
+39 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5052",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5053",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5052",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5053",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5052",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5053",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5052",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5053",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5052",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5053",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5052",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5053",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5052",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5053",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5052",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5053",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5052",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5053",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5052",
+    "before": null,
+    "after": "p700 fn8 (article.txt L558–570): implemented robustness standardizing E&S measures and institutional ownership by year to zero mean and SD one, with similar results. Focal Total IO effect on the environmental performance family is expressed in within-year outcome-SD units; coefficient is not printed. Annual reference population is not detailed beyond the study context. Exact score variant and pre-standardization scale unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5053",
+    "before": null,
+    "after": "p700 fn8 (article.txt L558–570): implemented robustness standardizing E&S measures and institutional ownership by year to zero mean and SD one, with similar results. Focal Total IO effect on the social performance family is expressed in within-year outcome-SD units; coefficient is not printed. Annual reference population is not detailed beyond the study context. Exact score variant and pre-standardization scale unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5052",
+    "before": null,
+    "after": "Eligibility=1 for implemented outcome standardization; verbal=0 because no words compare the focal magnitude to the benchmark (standardization description alone); divided=1 for outcome-SD units; aligned=unknown because conditional continuous-dose target/weights and precise annual standardization sample are unresolved. This is a minimum outcome-family record, not a verified four-column result."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5053",
+    "before": null,
+    "after": "Eligibility=1 for implemented outcome standardization; verbal=0 because no words compare the focal magnitude to the benchmark (standardization description alone); divided=1 for outcome-SD units; aligned=unknown because conditional continuous-dose target/weights and precise annual standardization sample are unresolved. This is a minimum outcome-family record, not a verified four-column result."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7130",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7131",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7130",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7131",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7130",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7131",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7130",
+    "before": null,
+    "after": "Within-year standardized environmental performance outcome family; mean zero and SD one within year. Overall versus proprietary ASSET4 score variants, and raw versus logged input before standardization, are not established by footnote8."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7131",
+    "before": null,
+    "after": "Within-year standardized social performance outcome family; mean zero and SD one within year. Overall versus proprietary ASSET4 score variants, and raw versus logged input before standardization, are not established by footnote8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2907",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2907",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2907",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2907",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2907",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2907",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2907",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2907",
+    "before": null,
+    "after": "p700 footnote8: implemented robustness standardizing E&S measures AND institutional ownership within year to mean zero and SD one; similar results. Minimum two outcome families (environmental and social), with precise score variants and pre-standardization scale unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2907",
+    "before": null,
+    "after": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Footnote8 confirms both outcome and treatment standardization; raw-versus-log input and overall-versus-proprietary score variants are not enumerated. Retain two family-level outcome-SD comparisons, not four asserted exact triples. Source: p700 fn8 untabulated; L558–570."
+  }
+]
+```
