@@ -472560,3 +472560,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:57:40.978364+00:00 — Review NGGU7KDV s4: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J558",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K558",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M558",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N558",
+    "before": null,
+    "after": "Table3A: within-extractive-industry continuous pre-event Total IO × Post event differential slope, two environmental log scores; SIC13/FF17/Mining variants. Preperiod2009–2010, post2011–2012; source dates spill May24,2010 (retained as printed)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O558",
+    "before": null,
+    "after": "Continuous pre-shock ownership exposure interacted with post; differential dose response, not binary ownership. Conventional shock design takes precedence over FE. No modern estimator. Lower-order coefficients are not unconditional shock effects. Source: pp700–701 Table3A Eq2; L501–645."
+  }
+]
+```
