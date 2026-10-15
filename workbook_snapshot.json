@@ -26690,7 +26690,16 @@
     "L2744": "0",
     "M2744": "n/a",
     "N2744": "Arrowhead effect on frequency of special-price-quote dissemination: stock-level three-month beforeafter comparison, average50% decrease, t12.72.",
-    "O2744": "Supporting mechanism: changed price-continuity rules reduce smoothing and thereby increase measured impact. Separate from s7 effect of larger versus smaller realized declines on price impact. No IV/DiD. Frequency denominator beyond stock-level three-month frequency not fully specified. Mean percentage decrease normalization is explicit, not a log-percentage interpretation. Source: §4.2.2 p289."
+    "O2744": "Supporting mechanism: changed price-continuity rules reduce smoothing and thereby increase measured impact. Separate from s7 effect of larger versus smaller realized declines on price impact. No IV/DiD. Frequency denominator beyond stock-level three-month frequency not fully specified. Mean percentage decrease normalization is explicit, not a log-percentage interpretation. Source: §4.2.2 p289.",
+    "A2745": "L5V28EJD",
+    "B2745": "h1",
+    "I2745": "1",
+    "J2745": "Other",
+    "K2745": "1",
+    "L2745": "1",
+    "M2745": "n/a",
+    "N2745": "Bottom versus top OC-slack tercile contrast in nonlinear logit of at-least-one downgraded-loan sale in months0–2, Table4 cols3–4; marginal effect 3.53 pp.",
+    "O2745": "Separate implemented dummy contrast in three-category model; top omitted. Year-quarter FE and loan/CLO controls. Do not import continuous-slack 13.27% prose comparison into these binary coefficients. Source: Main pp1128–1129 Table4."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -72702,7 +72711,14 @@
     "H6730": "0",
     "I6730": "unknown",
     "J6730": "other",
-    "K6730": "insolvency dollar slack divided by initial CLO assets, percent; distribution/mean/quantiles after imposed shock or allocation rule. AppendixA1 A.1–A.5, TableA1/F7."
+    "K6730": "insolvency dollar slack divided by initial CLO assets, percent; distribution/mean/quantiles after imposed shock or allocation rule. AppendixA1 A.1–A.5, TableA1/F7.",
+    "A6731": "L5V28EJD",
+    "B6731": "h1",
+    "C6731": "hy1",
+    "H6731": "1",
+    "I6731": "1",
+    "J6731": "none",
+    "K6731": "At least one sale by CLO i of downgraded loan j during months0–2 (0/1); Eq6 and Table4."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
