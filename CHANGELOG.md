@@ -469872,3 +469872,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:04:16.087405+00:00 — Review ME6H5V5K h24: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6994",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6995",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6994",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6995",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6994",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6995",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6994",
+    "before": null,
+    "after": "Annual employment growth in the restricted-sector replication of Table1. Exact final appendix winsorization/sample/column details unavailable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6995",
+    "before": null,
+    "after": "Log employment as captioned; source scale tension retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2864",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2864",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2864",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2864",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2864",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2864",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2864",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2864",
+    "before": null,
+    "after": "Internet Appendix E.3: high-growth share and employment-growth/size regressions after excluding sectors with markedly different age profiles; final p2528 fn14 confirms the earlier results. One minimum-scope restricted-sector robustness setting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2864",
+    "before": null,
+    "after": "Inherits Table1 linear identifying-FE design; final says these regressions are repeated after exclusions. Exact excluded sectors, separate table count and columns unavailable. Draft A.3/A.4 show two sector lists and repeats of baseline columns, but do not certify final splits. Preserve Table1 log-caption versus employment-level interpretation conflict. Source: Final p2528 fn14, article.txt L1293-1299."
+  }
+]
+```

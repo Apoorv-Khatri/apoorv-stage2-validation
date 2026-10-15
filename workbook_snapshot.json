@@ -27931,7 +27931,16 @@
     "L2863": "0",
     "M2863": "unknown",
     "N2863": "Internet Appendix E.1, final pp2527-28: likelihood of being a high-growth startup and exit risk across firm ages. Slight increase in first year and lower risk at ages2-8; minimum scope only.",
-    "O2863": "Final article confirms the implemented substantive exit-risk result, not its link, exact coefficient grid or FE specification. Draft A.1 uses linear age-interacted high-growth share and year/sector or year-sector FE, but those details are not certified final. Keep implemented method unknown pending final supplement. No invented IV. Source: Final pp2527-28, article.txt L1242-1286."
+    "O2863": "Final article confirms the implemented substantive exit-risk result, not its link, exact coefficient grid or FE specification. Draft A.1 uses linear age-interacted high-growth share and year/sector or year-sector FE, but those details are not certified final. Keep implemented method unknown pending final supplement. No invented IV. Source: Final pp2527-28, article.txt L1242-1286.",
+    "A2864": "ME6H5V5K",
+    "B2864": "h24",
+    "I2864": "1",
+    "J2864": "FE",
+    "K2864": "0",
+    "L2864": "0",
+    "M2864": "n/a",
+    "N2864": "Internet Appendix E.3: high-growth share and employment-growth/size regressions after excluding sectors with markedly different age profiles; final p2528 fn14 confirms the earlier results. One minimum-scope restricted-sector robustness setting.",
+    "O2864": "Inherits Table1 linear identifying-FE design; final says these regressions are repeated after exclusions. Exact excluded sectors, separate table count and columns unavailable. Draft A.3/A.4 show two sector lists and repeats of baseline columns, but do not certify final splits. Preserve Table1 log-caption versus employment-level interpretation conflict. Source: Final p2528 fn14, article.txt L1293-1299."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -75550,7 +75559,15 @@
     "A6993": "ME6H5V5K",
     "B6993": "h22",
     "C6993": "hy1",
-    "K6993": "Firm exits in year t indicator."
+    "K6993": "Firm exits in year t indicator.",
+    "A6994": "ME6H5V5K",
+    "B6994": "h24",
+    "C6994": "hy1",
+    "K6994": "Annual employment growth in the restricted-sector replication of Table1. Exact final appendix winsorization/sample/column details unavailable.",
+    "A6995": "ME6H5V5K",
+    "B6995": "h24",
+    "C6995": "hy2",
+    "K6995": "Log employment as captioned; source scale tension retained."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
