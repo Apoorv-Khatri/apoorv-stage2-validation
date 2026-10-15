@@ -27362,7 +27362,16 @@
     "L2808": "0",
     "M2808": "n/a",
     "N2808": "Table6: lagged Conviction Rate effect on three local/political bias outcomes. Corruption versus enforcement hypotheses explicitly posed; retain null results, not just significant effects.",
-    "O2808": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. State politician convictions divided by state population in millions; corruption/enforcement proxy. Source: pp80-81 Table6 and interpretation; L867-973."
+    "O2808": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. State politician convictions divided by state population in millions; corruption/enforcement proxy. Source: pp80-81 Table6 and interpretation; L867-973.",
+    "A2809": "MBWIN7NL",
+    "B2809": "h14",
+    "I2809": "1",
+    "J2809": "FE",
+    "K2809": "0",
+    "L2809": "0",
+    "M2809": "n/a",
+    "N2809": "Table6: lagged State Dependence on Government Spending effect on three local/political bias outcomes. Political activities winning government contracts/support is explicit substantive hypothesis; retain nulls.",
+    "O2809": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Sales of firms in government-spending-dependent industries divided by total sales of all industries in state. Source: pp80-81 Table6 and interpretation; L867-973."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74293,7 +74302,19 @@
     "A6868": "MBWIN7NL",
     "B6868": "h13",
     "C6868": "hy3",
-    "K6868": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+    "K6868": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one.",
+    "A6869": "MBWIN7NL",
+    "B6869": "h14",
+    "C6869": "hy1",
+    "K6869": "Local Bias: local-firm portfolio weight / market weight minus one.",
+    "A6870": "MBWIN7NL",
+    "B6870": "h14",
+    "C6870": "hy2",
+    "K6870": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one.",
+    "A6871": "MBWIN7NL",
+    "B6871": "h14",
+    "C6871": "hy3",
+    "K6871": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
