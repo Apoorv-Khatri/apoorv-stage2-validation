@@ -472440,3 +472440,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:56:43.861583+00:00 — Review NGGU7KDV s2: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K339",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K340",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R339",
+    "before": null,
+    "after": "No qualifying outcome benchmark: treatment SD/share multiplied by log-outcome coefficient (or high-minus-low coefficient) is a log-percent interpretation. Table1 descriptive outcome mean is not linked by the authors; do not invent comparison/alignment from it."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R340",
+    "before": null,
+    "after": "No qualifying outcome benchmark: treatment SD/share multiplied by log-outcome coefficient (or high-minus-low coefficient) is a log-percent interpretation. Table1 descriptive outcome mean is not linked by the authors; do not invent comparison/alignment from it."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I556",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J556",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M556",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N556",
+    "before": null,
+    "after": "Table2B: continuous lagged ownership share of UN PRI signatories on four log E&S scores. Non-signatory-share coefficients separated into h setting; not a binary signatory treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O556",
+    "before": null,
+    "after": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Source: pp699–700 Table2B; L463–475,L505–544."
+  }
+]
+```
