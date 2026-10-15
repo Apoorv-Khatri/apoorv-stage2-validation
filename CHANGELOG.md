@@ -430761,3 +430761,1758 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T07:17:49.859327+00:00 — Review KRNZM9QV h3: source-audited coding and linked comparisons
+
+291 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4772",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4773",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4774",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4775",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4776",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4777",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4778",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4779",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4780",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4781",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4782",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4783",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4784",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4785",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4786",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4787",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4788",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4789",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4790",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4791",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4792",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4793",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4794",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4795",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4796",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4772",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4773",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4774",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4775",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4776",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4777",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4778",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4779",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4780",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4781",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4782",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4783",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4784",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4785",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4786",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4787",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4788",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4789",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4790",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4791",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4792",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4793",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4794",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4795",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4796",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4772",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4773",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4774",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4775",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4776",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4777",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4778",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4779",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4780",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4781",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4782",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4783",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4784",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4785",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4786",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4787",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4788",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4789",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4790",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4791",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4792",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4793",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4794",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4795",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4796",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4772",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4773",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4775",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4776",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4777",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4778",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4779",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4780",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4781",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4782",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4783",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4786",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4787",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4789",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4790",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4791",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4792",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4795",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4796",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4772",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4773",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4774",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4775",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4776",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4777",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4778",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4779",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4780",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4781",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4782",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4783",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4784",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4785",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4786",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4787",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4788",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4789",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4790",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4791",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4792",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4793",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4794",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4795",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4796",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4772",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4773",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4774",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4775",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4776",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4777",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4778",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4779",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4780",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4781",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4782",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4783",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4784",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4785",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4786",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4787",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4788",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4789",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4790",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4791",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4792",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4793",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4794",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4795",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4796",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4772",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4773",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4774",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4775",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4776",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4777",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4778",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4779",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4780",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4781",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4782",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4784",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4785",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4786",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4787",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4789",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4790",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4791",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4793",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4794",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4795",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4796",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4772",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4773",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4774",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4775",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4776",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4777",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4778",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4779",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4780",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4781",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4782",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4784",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4785",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4786",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4787",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4789",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4790",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4791",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4793",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4794",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4795",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4796",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4772",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4773",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4774",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4775",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4776",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4777",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4778",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4779",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4780",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4781",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4782",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4783",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4784",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4785",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4786",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4787",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4788",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4789",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4790",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4791",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4792",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4793",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4794",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4795",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4796",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4772",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size1/trade1; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size1/trade1; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4773",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size1/trade2; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size1/trade2; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4774",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size1/trade3; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size1/trade3; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4775",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size1/trade4; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size1/trade4; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4776",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size1/trade5; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size1/trade5; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4777",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size2/trade1; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size2/trade1; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4778",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size2/trade2; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size2/trade2; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4779",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size2/trade3; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size2/trade3; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4780",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size2/trade4; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size2/trade4; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4781",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size2/trade5; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size2/trade5; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4782",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size3/trade1; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size3/trade1; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4783",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size3/trade2; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size3/trade2; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4784",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size3/trade3; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size3/trade3; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4785",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size3/trade4; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size3/trade4; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4786",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size3/trade5; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size3/trade5; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4787",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size4/trade1; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size4/trade1; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4788",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size4/trade2; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size4/trade2; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4789",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size4/trade3; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size4/trade3; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4790",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size4/trade4; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size4/trade4; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4791",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size4/trade5; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size4/trade5; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4792",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size5/trade1; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size5/trade1; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4793",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size5/trade2; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size5/trade2; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4794",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size5/trade3; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size5/trade3; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4795",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size5/trade4; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size5/trade4; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4796",
+    "before": null,
+    "after": "p279 Fig2. Focal estimate: Fig2 high-minus-low average cross-sectional SD of VR, size5/trade5; paired bars, no scalar difference printed. Benchmark: Fig2 low-update time-mean cross-sectional SD in size5/trade5; graphical level, no scalar label. This is the mean level of the dispersion outcome, not SD of its treatment-effect coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4772",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4773",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4774",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4775",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4776",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4777",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4778",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4779",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4780",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4781",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4782",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4783",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4784",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4785",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4786",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4787",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4788",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4789",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4790",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4791",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4792",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4793",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4794",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4795",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4796",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6715",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6715",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6715",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6715",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6715",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6715",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6715",
+    "before": null,
+    "after": "Cross-sectional SD of raw variance ratios, time averaged by size×trade×update group."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2737",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2737",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2737",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2737",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2737",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2737",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2737",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2737",
+    "before": null,
+    "after": "High versus low prior-half-hour updates within size×trade quintiles: Fig2 contrast in time-average cross-sectional SD of raw VR, all25 groups."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2737",
+    "before": null,
+    "after": "Broad author-intention inclusion despite p273 explicit warning that cross-sectional tests do not imply causation. Countervailing parameter-specific language: p278 dependent sort allows us to see the effect holding size/trading roughly constant; p273 magnitude of the effect; p281 competition compresses realized spreads. This is intended-effect evidence, not a claim of credible identification. Parent priority: adjudicate disclaimer consistently across these US observational settings. No FE, matching weights, or IV; sorting controls are not fixed effects. Dispersion reduction explicitly interpreted substantively p273 and278. SD itself is the group-level reported outcome, not normalization of a mean-effect coefficient. Linear high-low contrast in time-averaged group dispersion; parent may prefer Other if estimator linearity assessed at underlying stock-VR level. Source: §3.3 pp278–279 Fig2."
+  }
+]
+```
