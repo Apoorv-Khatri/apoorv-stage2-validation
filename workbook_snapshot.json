@@ -26416,7 +26416,16 @@
     "L2725": "1",
     "M2725": "n/a",
     "N2725": "U.S. bank holiday versus preceding five normal days: graphical paired level contrasts in average indirect-leg illiquidity and RPVE, GBP and JPY triangles, Figure7.",
-    "O2725": "Figure7 explicitly compares holiday days with preceding-five-day averages and attributes rightward shift to exogenous holiday thinning. Linear descriptive contrasts given causal interpretation; not covariate matching or DiD. No pooled treatment-effect number printed. Distinct unadjusted graphical estimand from Table5. Parent priority: whether plotted paired observations meet extraction threshold; not pure Table5 duplicate. Retain graphical estimator: explicit exposure contrast and causal attribution suffice; printed scalar estimate is not a universal requirement. Figure7 panel header says Ref: USDEUR whereas prose/Eq4 says EURUSD. Preserve orientation discrepancy; do not convert/reinvert plotted values. Four panel×outcome mean-benchmark comparisons added, without fabricated numbers. Source: §5.1 pp871–872 Figure7."
+    "O2725": "Figure7 explicitly compares holiday days with preceding-five-day averages and attributes rightward shift to exogenous holiday thinning. Linear descriptive contrasts given causal interpretation; not covariate matching or DiD. No pooled treatment-effect number printed. Distinct unadjusted graphical estimand from Table5. Parent priority: whether plotted paired observations meet extraction threshold; not pure Table5 duplicate. Retain graphical estimator: explicit exposure contrast and causal attribution suffice; printed scalar estimate is not a universal requirement. Figure7 panel header says Ref: USDEUR whereas prose/Eq4 says EURUSD. Preserve orientation discrepancy; do not convert/reinvert plotted values. Four panel×outcome mean-benchmark comparisons added, without fabricated numbers. Source: §5.1 pp871–872 Figure7.",
+    "A2726": "KKKD4ZV5",
+    "B2726": "h12",
+    "I2726": "1",
+    "J2726": "OLS",
+    "K2726": "0",
+    "L2726": "1",
+    "M2726": "n/a",
+    "N2726": "TED funding-strain spread and Daily realized Amihud illiquidity, defined as daily RPV divided by daily trading volume, Daily relative bid-ask spread (BAS), the daily average of one-minute spreads relative to the midquote, Table2.",
+    "O2726": "The p867 correlation-rather-than-causation disclaimer is genuine counterevidence. Nevertheless p868 gives parameter-specific interpretations (discourage, disincentivize, negative impact, and reaction to strains), and abstract/conclusion elevate liquidity determinants. Under the broad author-intention rule retain these interpreted parameters, not every control. This is a contested gate judgment, not a claim that endogeneity has been solved. Pooled linear regression with lagged outcome and weekday dummies; no identifying FE argument. Table2 says levels, not logs; do not import Table4 log scale. Exact numerical rescaling behind prose percentage interpretation is undocumented. p868 explicitly compares funding-strain responses of trading impact and transaction costs; do not add volume/RPV merely because coefficients exist. Source: §4.1 pp867–869, Eq2 Table2; abstract p859 and conclusion p879."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -72148,7 +72157,15 @@
     "H6690": "0",
     "I6690": "unknown",
     "J6690": "none",
-    "K6690": "RPVE triangular pricing-error magnitude, plotted in levels; no zero-mass evidence for focal sample. Not actual arbitrage profit."
+    "K6690": "RPVE triangular pricing-error magnitude, plotted in levels; no zero-mass evidence for focal sample. Not actual arbitrage profit.",
+    "A6691": "KKKD4ZV5",
+    "B6691": "h12",
+    "C6691": "hy1",
+    "K6691": "Daily realized Amihud illiquidity, defined as daily RPV divided by daily trading volume; price impact of trading volume. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated.",
+    "A6692": "KKKD4ZV5",
+    "B6692": "h12",
+    "C6692": "hy2",
+    "K6692": "Daily relative bid-ask spread (BAS), the daily average of one-minute spreads relative to the midquote; transaction-cost measure. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

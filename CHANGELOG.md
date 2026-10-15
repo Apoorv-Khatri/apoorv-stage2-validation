@@ -415557,3 +415557,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T06:31:47.337874+00:00 — Review KKKD4ZV5 h12: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6691",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6692",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6691",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6692",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6691",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6692",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6691",
+    "before": null,
+    "after": "Daily realized Amihud illiquidity, defined as daily RPV divided by daily trading volume; price impact of trading volume. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6692",
+    "before": null,
+    "after": "Daily relative bid-ask spread (BAS), the daily average of one-minute spreads relative to the midquote; transaction-cost measure. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2726",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2726",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2726",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2726",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2726",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2726",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2726",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2726",
+    "before": null,
+    "after": "TED funding-strain spread and Daily realized Amihud illiquidity, defined as daily RPV divided by daily trading volume, Daily relative bid-ask spread (BAS), the daily average of one-minute spreads relative to the midquote, Table2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2726",
+    "before": null,
+    "after": "The p867 correlation-rather-than-causation disclaimer is genuine counterevidence. Nevertheless p868 gives parameter-specific interpretations (discourage, disincentivize, negative impact, and reaction to strains), and abstract/conclusion elevate liquidity determinants. Under the broad author-intention rule retain these interpreted parameters, not every control. This is a contested gate judgment, not a claim that endogeneity has been solved. Pooled linear regression with lagged outcome and weekday dummies; no identifying FE argument. Table2 says levels, not logs; do not import Table4 log scale. Exact numerical rescaling behind prose percentage interpretation is undocumented. p868 explicitly compares funding-strain responses of trading impact and transaction costs; do not add volume/RPV merely because coefficients exist. Source: §4.1 pp867–869, Eq2 Table2; abstract p859 and conclusion p879."
+  }
+]
+```
