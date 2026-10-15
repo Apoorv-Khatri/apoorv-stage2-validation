@@ -472719,3 +472719,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:58:52.618172+00:00 — Review NGGU7KDV s7: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1391",
+    "before": null,
+    "after": "Minimum final-main-confirmed environmental performance outcome family; exact overall/proprietary measures and transformations unverified without OB4. Do not force four precise rows from baseline alone."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1392",
+    "before": null,
+    "after": "Minimum final-main-confirmed social performance outcome family; exact overall/proprietary measures and transformations unverified without OB4. Do not force four precise rows from baseline alone."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I561",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J561",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K561",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L561",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M561",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N561",
+    "before": null,
+    "after": "Implemented firm-FE institutional-ownership effect on environmental/social performance, OB4; minimum final-main scope, additional FE and exact outcome transformations unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O561",
+    "before": null,
+    "after": "Final text explicitly confirms firm fixed effects for unobserved firm heterogeneity. Additional dimensions unresolved without appendix; do not infer HDFE. Granger temporal precedence not proof of causal identification. Source: p702 Section3.3 OB4; L649–657."
+  }
+]
+```
