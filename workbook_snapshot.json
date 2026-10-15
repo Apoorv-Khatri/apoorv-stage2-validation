@@ -26762,7 +26762,16 @@
     "L2752": "0",
     "M2752": "n/a",
     "N2752": "NewCLO: newly issued CLO assets / lagged outstanding CLO assets, percent on loan price impact (negative week0 CAR); Table9 A/B coefficients −.722 / .293, univariate/joint controls.",
-    "O2752": "Author-intention inclusion, not endorsement of exogeneity. No IV or randomized assignment. Substantive policy-channel proxy with acknowledged endogeneity; null/sign-reversed joint estimates retained. No FE. Explained changes divided by observed changes are decomposition diagnostics, not untreated outcome levels; flagged for parent judgment. Source: Main pp1135–1138 Table9/Eq9."
+    "O2752": "Author-intention inclusion, not endorsement of exogeneity. No IV or randomized assignment. Substantive policy-channel proxy with acknowledged endogeneity; null/sign-reversed joint estimates retained. No FE. Explained changes divided by observed changes are decomposition diagnostics, not untreated outcome levels; flagged for parent judgment. Source: Main pp1135–1138 Table9/Eq9.",
+    "A2753": "L5V28EJD",
+    "B2753": "h9",
+    "I2753": "1",
+    "J2753": "OLS",
+    "K2753": "0",
+    "L2753": "0",
+    "M2753": "n/a",
+    "N2753": "NegDefault: negative defaulted loan dollars / outstanding dollars on loan price impact (negative week0 CAR); Table9 A/B coefficients −8.036 / 2.087, univariate/joint controls.",
+    "O2753": "Author-intention inclusion, not endorsement of exogeneity. No IV or randomized assignment. Substantive policy-channel proxy with acknowledged endogeneity; null/sign-reversed joint estimates retained. No FE. Explained changes divided by observed changes are decomposition diagnostics, not untreated outcome levels; flagged for parent judgment. Source: Main pp1135–1138 Table9/Eq9."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -72812,7 +72821,11 @@
     "A6738": "L5V28EJD",
     "B6738": "h8",
     "C6738": "hy1",
-    "K6738": "Negative of loan downgrade-week CAR, percent; Eq9."
+    "K6738": "Negative of loan downgrade-week CAR, percent; Eq9.",
+    "A6739": "L5V28EJD",
+    "B6739": "h9",
+    "C6739": "hy1",
+    "K6739": "Negative of loan downgrade-week CAR, percent; Eq9."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
