@@ -413610,3 +413610,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T04:06:24.545136+00:00 — Review KKKD4ZV5 s1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K307",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R307",
+    "before": null,
+    "after": "Reject regardless of s1 gate: 1% change is a treatment increment (BAS), not a same-outcome mean/SD/level benchmark. The .20% illiquidity interpretation alone does not qualify."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1267",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1267",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1267",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1264",
+    "before": null,
+    "after": "Daily trading volume for each currency pair from CLS; one-sided FX trading volume. Table2 is reported in levels; exact rescaling not established. Do not infer logs from prose elasticity-like interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1265",
+    "before": null,
+    "after": "Daily realized power variation (RPV), i.e., daily realized volatility based on intraday absolute returns. Table2 is reported in levels; exact rescaling not established. Do not infer logs from prose elasticity-like interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1266",
+    "before": null,
+    "after": "Daily realized Amihud illiquidity, defined as daily RPV divided by daily trading volume; price impact of trading volume. Table2 is reported in levels; exact rescaling not established. Do not infer logs from prose elasticity-like interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1267",
+    "before": null,
+    "after": "Spurious under narrowed BAS treatment: relative BAS is itself the treatment, not its own focal outcome. Relative BAS remains an outcome for funding-strain/uncertainty settings h12/h14."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I506",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J506",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K506",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L506",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M506",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N506",
+    "before": null,
+    "after": "Relative bid-ask spread (transaction-cost dose) affects daily trading volume, RPV and realized Amihud, Table2 cols1–3; jointly controls market conditions, lagged outcome and weekdays."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O506",
+    "before": null,
+    "after": "The p867 correlation-rather-than-causation disclaimer is genuine counterevidence. Nevertheless p868 gives parameter-specific interpretations (discourage, disincentivize, negative impact, and reaction to strains), and abstract/conclusion elevate liquidity determinants. Under the broad author-intention rule retain these interpreted parameters, not every control. This is a contested gate judgment, not a claim that endogeneity has been solved. Pooled linear regression with lagged outcome and weekday dummies; no identifying FE argument. Table2 says levels, not logs; do not import Table4 log scale. Exact numerical rescaling behind prose percentage interpretation is undocumented. Printed BAS coefficients are −.0585/−.0587 for volume, .3457/.3462 for RPV, and .0020/.0020 for Amihud. The prose 1% to .20% is not an outcome-benchmark comparison. Source: §4.1 pp867–869, Eq2 Table2; abstract p859 and conclusion p879."
+  }
+]
+```
