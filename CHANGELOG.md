@@ -484569,3 +484569,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T13:47:33.974288+00:00 — Review NGGU7KDV h92: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7263",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7264",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7263",
+    "before": null,
+    "after": "h92"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7264",
+    "before": null,
+    "after": "h92"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7263",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7264",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7263",
+    "before": null,
+    "after": "Natural log of overall environmental score (equal category weights; 0–100 before log)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7264",
+    "before": null,
+    "after": "Natural log of overall social score (equal category weights; 0–100 before log)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2970",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2970",
+    "before": null,
+    "after": "h92"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2970",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2970",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2970",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2970",
+    "before": null,
+    "after": "Figure2 A/B: continuous standardized foreign institutional ownership originating in India (IND), effect on log overall environmental and social scores. Origin-specific regressor; non-US investee-firm sample. Domestic ownership and baseline controls/FE retained. No numerical coefficient digitized."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2970",
+    "before": null,
+    "after": "p708 states regressions identical to Tables6/7 except ownership disaggregated by investor origin; country, industry and year FE retain the baseline identifying rationale. Figure2 standardizes foreign ownership, not outcomes. WVS norm is the vertical plotting coordinate, not a median-based treatment definition in this regression. The same country regressor across E/S outcomes remains grouped. Country code visually verified in both panels; no outcome benchmark comparison. Source: Final p709 Figure2 panels A/B (visually read country labels); p708 article.txt L1082–1098 and caption L1165–1168."
+  }
+]
+```
