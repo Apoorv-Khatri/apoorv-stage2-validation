@@ -464508,3 +464508,198 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T10:52:06.781456+00:00 — Review ME6H5V5K s2: source-audited coding and linked comparisons
+
+31 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K324",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L324",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L325",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M324",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M325",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N324",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O324",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P324",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P325",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q324",
+    "before": null,
+    "after": "\"In terms of the marginal effects at the mean, during the financial crisis, low-growth startups are reduced by an (insignificant) 16% and high-growth startups by 31%.\" (Section 4.3, PDF p. 24 / article p. 2531) Semielasticity of fitted startup probability, covariates evaluated at means (fn18 p2531); denominator probability not numerically printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q325",
+    "before": null,
+    "after": "\"In terms of the marginal effects at the mean, during the financial crisis, low-growth startups are reduced by an (insignificant) 16% and high-growth startups by 31%.\" (Section 4.3, PDF p. 24 / article p. 2531) Semielasticity of fitted startup probability, covariates evaluated at means (fn18 p2531); denominator probability not numerically printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R324",
+    "before": null,
+    "after": "Probability is a conditional mean, not other_level. Unknown alignment: exact reference value of finance exposure/conditioning for normalization and untreated target not sufficiently reported; mean-controls evaluation is not population averaging."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R325",
+    "before": null,
+    "after": "Probability is a conditional mean, not other_level. Unknown alignment: exact reference value of finance exposure/conditioning for normalization and untreated target not sufficiently reported; mean-controls evaluation is not population averaging."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1344",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1346",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1344",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1346",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1344",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1345",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1346",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I545",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J545",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K545",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L545",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M545",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O545",
+    "before": null,
+    "after": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Source: Table2 cols1-3 pp2530-31; L1314-1503."
+  }
+]
+```
