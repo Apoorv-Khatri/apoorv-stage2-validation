@@ -416202,3 +416202,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T06:33:25.888551+00:00 — Review KKKD4ZV5 h17: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6704",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6704",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6704",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6704",
+    "before": null,
+    "after": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2731",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2731",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2731",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2731",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2731",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2731",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2731",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2731",
+    "before": null,
+    "after": "USD-leg illiquidity dose affects RPVE conditional on EUR-leg illiquidity, Table6 OLS; direct-pair Amihud/BAS controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2731",
+    "before": null,
+    "after": "Author hypotheses explicitly concern liquidity leading to pricing errors; endogeneity acknowledged and motivates TSLS rather than canceling OLS intention. Distinct EUR and USD treatment coordinates are split, although jointly estimated. Controls have no separately interpreted substantive effect. No absorbed FE. No-control robustness p876 fn42 grouped, not a new method. βUSD only. Include positive, negative and null estimates; vehicle-currency mechanism explicitly discussed pp875–877. For IV the joint excluded set remains both EUR/USD GIVs. Source: §5.3 pp875–878 Eq5 Table6 OLS."
+  }
+]
+```
