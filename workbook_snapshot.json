@@ -26870,7 +26870,16 @@
     "L2764": "0",
     "M2764": "n/a",
     "N2764": "Junior OC-slack level on next-quarter annualized CLO equity yield; linear regression with year-quarter controls, supplement TableF2 first three specifications (full, normal and stress periods).",
-    "O2764": "IA printed pp1–3 EqA1 and TableF2 printed p19: year-quarter dummies are implemented, and p2 says they compare CLOs at a given time. That describes calendar conditioning; unlike AppendixF p9, no argument identifies an unobserved-shock/endogeneity problem solved by this FE set. Classify causally interpreted regression adjustment as OLS; retain the actual time controls. Contested method interpretation: within-time comparability could be read more broadly as identifying FE, but the source does not explicitly supply that rationale. The effect gate passes via performance/cash-diversion mechanism. No no-FE column or extra method-only setting invented. Source: IA pp1–3 EqA1 TableF2 p19."
+    "O2764": "IA printed pp1–3 EqA1 and TableF2 printed p19: year-quarter dummies are implemented, and p2 says they compare CLOs at a given time. That describes calendar conditioning; unlike AppendixF p9, no argument identifies an unobserved-shock/endogeneity problem solved by this FE set. Classify causally interpreted regression adjustment as OLS; retain the actual time controls. Contested method interpretation: within-time comparability could be read more broadly as identifying FE, but the source does not explicitly supply that rationale. The effect gate passes via performance/cash-diversion mechanism. No no-FE column or extra method-only setting invented. Source: IA pp1–3 EqA1 TableF2 p19.",
+    "A2765": "L5V28EJD",
+    "B2765": "h21",
+    "I2765": "1",
+    "J2765": "Other",
+    "K2765": "0",
+    "L2765": "0",
+    "M2765": "n/a",
+    "N2765": "Past four-quarter change in junior OC slack on next-quarter any-tranche downgrade dummy, logit EqA2/TableF2 right3 cols.",
+    "O2765": "Continuous change, not level or binary failure. Year-quarter FE; nonlinear estimator Other. Printed −1.58/−1.66/−2.00 are logit slopes multiplied100, not reported marginal effects. Institutional performance consequences establish substantive intent despite prediction terminology. Source: IA pp1–3 TableF2 p19."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73175,7 +73184,11 @@
     "A6777": "L5V28EJD",
     "B6777": "h20",
     "C6777": "hy1",
-    "K6777": "Annualized quarterly distribution to CLO equity divided by equity tranche outstanding, percent; TableF2 left panel."
+    "K6777": "Annualized quarterly distribution to CLO equity divided by equity tranche outstanding, percent; TableF2 left panel.",
+    "A6778": "L5V28EJD",
+    "B6778": "h21",
+    "C6778": "hy1",
+    "K6778": "One if either rating agency downgrades at least one tranche next quarter, zero otherwise; combined S&P/Moody’s dummy."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

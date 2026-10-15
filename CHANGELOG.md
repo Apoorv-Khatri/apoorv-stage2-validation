@@ -448479,3 +448479,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:26:58.055474+00:00 — Review L5V28EJD h21: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6778",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6778",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6778",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6778",
+    "before": null,
+    "after": "One if either rating agency downgrades at least one tranche next quarter, zero otherwise; combined S&P/Moody’s dummy."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2765",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2765",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2765",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2765",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2765",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2765",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2765",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2765",
+    "before": null,
+    "after": "Past four-quarter change in junior OC slack on next-quarter any-tranche downgrade dummy, logit EqA2/TableF2 right3 cols."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2765",
+    "before": null,
+    "after": "Continuous change, not level or binary failure. Year-quarter FE; nonlinear estimator Other. Printed −1.58/−1.66/−2.00 are logit slopes multiplied100, not reported marginal effects. Institutional performance consequences establish substantive intent despite prediction terminology. Source: IA pp1–3 TableF2 p19."
+  }
+]
+```
