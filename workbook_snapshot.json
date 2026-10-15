@@ -28617,7 +28617,16 @@
     "L2928": "1",
     "M2928": "n/a",
     "N2928": "Table8 Panel B, columns 1 and 3: non-US firms; continuous lagged foreign ownership share of independent institutional investors domiciled in LOW-norm countries (Employment Laws Index median split). Outcomes: natural logs of overall and proprietary social scores. Distinct from EPI-defined ownership at h12; not a binary treatment.",
-    "O2928": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Literal treatment split: EPI and Employment Laws Index define different origin-country ownership regressors, not sample variants. Same-index overall/proprietary outcomes remain grouped. Source: p711 Table8A/B columns 1,3; article.txt L1247–1327."
+    "O2928": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Literal treatment split: EPI and Employment Laws Index define different origin-country ownership regressors, not sample variants. Same-index overall/proprietary outcomes remain grouped. Source: p711 Table8A/B columns 1,3; article.txt L1247–1327.",
+    "A2929": "NGGU7KDV",
+    "B2929": "h51",
+    "I2929": "1",
+    "J2929": "HDFE",
+    "K2929": "0",
+    "L2929": "1",
+    "M2929": "n/a",
+    "N2929": "Table8 Panel B, columns 1 and 3: non-US firms; continuous lagged foreign ownership share of pension funds domiciled in HIGH-norm countries (Employment Laws Index median split). Outcomes: natural logs of overall and proprietary social scores. Distinct from EPI-defined ownership at h15; not a binary treatment.",
+    "O2929": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Literal treatment split: EPI and Employment Laws Index define different origin-country ownership regressors, not sample variants. Same-index overall/proprietary outcomes remain grouped. Source: p711 Table8A/B columns 1,3; article.txt L1247–1327."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -77079,7 +77088,15 @@
     "A7180": "NGGU7KDV",
     "B7180": "h50",
     "C7180": "hy2",
-    "K7180": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
+    "K7180": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit.",
+    "A7181": "NGGU7KDV",
+    "B7181": "h51",
+    "C7181": "hy1",
+    "K7181": "Natural log of overall social score (equal category weights; 0–100 before log).",
+    "A7182": "NGGU7KDV",
+    "B7182": "h51",
+    "C7182": "hy2",
+    "K7182": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
