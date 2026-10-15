@@ -27605,7 +27605,16 @@
     "L2835": "0",
     "M2835": "n/a",
     "N2835": "Section5.3 unreported Table6 replications: Politically Affiliated Trustees effect, residual-bootstrap and unweighted linear regression versions; qualitatively robust. No coefficients reported.",
-    "O2835": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Board share of active/former legislators, Congress members, ex officio, governor-appointed or state-representative-elected trustees (TableB1). Source: p88 Section5.3 L1422-1453."
+    "O2835": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Board share of active/former legislators, Congress members, ex officio, governor-appointed or state-representative-elected trustees (TableB1). Source: p88 Section5.3 L1422-1453.",
+    "A2836": "MBWIN7NL",
+    "B2836": "h41",
+    "I2836": "1",
+    "J2836": "FE",
+    "K2836": "0",
+    "L2836": "0",
+    "M2836": "n/a",
+    "N2836": "Section5.3 unreported Table6 replications: Fin_Expertise Trustees effect, residual-bootstrap and unweighted linear regression versions; qualitatively robust. No coefficients reported.",
+    "O2836": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Percentage of board trustees with finance-industry/sector experience (TableB1). Source: p88 Section5.3 L1422-1453."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74780,7 +74789,19 @@
     "A6920": "MBWIN7NL",
     "B6920": "h40",
     "C6920": "hy3",
-    "K6920": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+    "K6920": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one.",
+    "A6921": "MBWIN7NL",
+    "B6921": "h41",
+    "C6921": "hy1",
+    "K6921": "Local Bias: local-firm portfolio weight / market weight minus one.",
+    "A6922": "MBWIN7NL",
+    "B6922": "h41",
+    "C6922": "hy2",
+    "K6922": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one.",
+    "A6923": "MBWIN7NL",
+    "B6923": "h41",
+    "C6923": "hy3",
+    "K6923": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
