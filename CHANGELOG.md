@@ -450168,3 +450168,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:31:26.824606+00:00 — Review L5V28EJD h34: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6798",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6799",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6798",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6799",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6798",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6799",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6798",
+    "before": null,
+    "after": "Next-year asset growth rate (percentage-point effect interpretation); exact ratio versus log-growth formula not specified in source."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6799",
+    "before": null,
+    "after": "Next-year sales growth rate (percentage-point effect interpretation); non-December fiscal years use growth year y+1 to y+2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2778",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2778",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2778",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2778",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2778",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2778",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2778",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2778",
+    "before": null,
+    "after": "Loan-volume-weighted lending CLO-manager junior OC slack on next-year borrower asset/sales growth; non-bond-issuer subsample with full controls, TableF13."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2778",
+    "before": null,
+    "after": "Explicit causal mechanism of lender health constraining loans and borrower growth. Appendix p9 says year and industry FE remove unobservable macro/industry shocks: two effective dimensions; size/age dummy controls are not independent identifying FE batteries. Split true no-FE OLS in h32 from FE h33. F13 reference columns repeat F12, not extra settings. Manager-level slack aggregated first then loan-volume weights across managers; not a single CLO exposure. Caption says nonfinancial private firms while text merges Compustat/nonfinancial borrowers; retain sample-label conflict. Source: IA pp9–11 EqF1 TableF13 p32."
+  }
+]
+```
