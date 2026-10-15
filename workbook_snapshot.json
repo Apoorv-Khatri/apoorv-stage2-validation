@@ -27587,7 +27587,16 @@
     "L2833": "0",
     "M2833": "n/a",
     "N2833": "Section3.3 fn17 alternative holding-duration tests: four indicators for politically active local, nonpolitically active local, politically active nonlocal, and nonpolitically active nonlocal firms; similar results. Retain one minimum-scope categorical political-activity/locality specification. The reference category, contribution/lobbying aggregation and separately implemented two-valued contrasts are not reported.",
-    "O2833": "p77 fn17 establishes that the four-category alternative was implemented, but not which binary pairwise contrasts were estimated or reported. Human_binary=unknown rather than inventing a binary contrast or four independent settings. Other inherits the surrounding proportional-hazard implementation; exact parameterization unavailable. No numerical coefficients or additional comparisons inferred. Source: p77 fn17 L671-677."
+    "O2833": "p77 fn17 establishes that the four-category alternative was implemented, but not which binary pairwise contrasts were estimated or reported. Human_binary=unknown rather than inventing a binary contrast or four independent settings. Other inherits the surrounding proportional-hazard implementation; exact parameterization unavailable. No numerical coefficients or additional comparisons inferred. Source: p77 fn17 L671-677.",
+    "A2834": "MBWIN7NL",
+    "B2834": "h39",
+    "I2834": "1",
+    "J2834": "FE",
+    "K2834": "0",
+    "L2834": "1",
+    "M2834": "n/a",
+    "N2834": "Section4.1 fn21: Elected Trustees (share elected by state employees) replaces politically affiliated share in Table6 analysis. Positive Local Bias and negative local political-bias relations reported.",
+    "O2834": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Distinct trustee definition even though correlation with political share is close to-1; no numeric coefficients available. Main=1: conclusion p88 explicitly states political bias is stronger (weaker) with politically affiliated (elected) trustees. Although the numeric test is unreported in fn21, this treatment materially supports that central conclusion. Source: p81 fn21 L965-973."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74738,7 +74747,19 @@
     "H6914": "0",
     "I6914": "0",
     "J6914": "other",
-    "K6914": "Conditional liquidation hazard from censored holding spells."
+    "K6914": "Conditional liquidation hazard from censored holding spells.",
+    "A6915": "MBWIN7NL",
+    "B6915": "h39",
+    "C6915": "hy1",
+    "K6915": "Local Bias: local-firm portfolio weight / market weight minus one.",
+    "A6916": "MBWIN7NL",
+    "B6916": "h39",
+    "C6916": "hy2",
+    "K6916": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one.",
+    "A6917": "MBWIN7NL",
+    "B6917": "h39",
+    "C6917": "hy3",
+    "K6917": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
