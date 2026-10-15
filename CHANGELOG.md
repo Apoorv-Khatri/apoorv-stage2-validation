@@ -434457,3 +434457,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:17:49.972559+00:00 — Review L5V28EJD s5: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I523",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J523",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K523",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L523",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M523",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N523",
+    "before": null,
+    "after": "Buyers’ capital (mutual+distressed hedge fund assets / loan market outstanding) on negative downgrade-week CAR; Table9 A univariate and B joint controls. Other four policy proxies split h6–h9."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O523",
+    "before": null,
+    "after": "Author-intention inclusion, not endorsement of exogeneity. No IV or randomized assignment. Explicit causal language: increases reduce price impacts by alleviating liquidity shortage, despite endogenous capital/indirect policy proxies. No FE in implemented Eq9. Univariate/joint controls grouped; decompositions are not mean/SD benchmarks. Prose says before 2019, caption in or before 2019; preserve unresolved sample wording. Source: Main pp1135–1138 Table9/Eq9."
+  }
+]
+```
