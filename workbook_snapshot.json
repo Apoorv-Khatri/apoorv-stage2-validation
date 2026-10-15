@@ -26933,7 +26933,16 @@
     "L2771": "0",
     "M2771": "n/a",
     "N2771": "Middle versus bottom tercile exposure to newly downgraded loans on sale of other CCC loans not recently downgraded; TableF8 A and B constrained-CLO interactions.",
-    "O2771": "Logit, no time FE as explicitly reported. Constraint indicator CCC ratio>5% and OC ratio below median modifies exposure effect, not DiD. All three event windows included; before-window interaction results substantive strategic-sale evidence. Do not equate logit interaction marginal effect with total constrained-group response. Source: Main p1141 fn28; IA TableF8 p27."
+    "O2771": "Logit, no time FE as explicitly reported. Constraint indicator CCC ratio>5% and OC ratio below median modifies exposure effect, not DiD. All three event windows included; before-window interaction results substantive strategic-sale evidence. Do not equate logit interaction marginal effect with total constrained-group response. Source: Main p1141 fn28; IA TableF8 p27.",
+    "A2772": "L5V28EJD",
+    "B2772": "h28",
+    "I2772": "1",
+    "J2772": "Other",
+    "K2772": "1",
+    "L2772": "0",
+    "M2772": "n/a",
+    "N2772": "Bottom versus top book-price tercile within CLO portfolio on sale of above-CCC loans; TableF9 rating subsamples and interactions with above-median12-month OC-slack change.",
+    "O2772": "Causal-intent gains-trading mechanism with explicit weak identification warning. Logit, time FE. Low-book marginal effects .36/.82/1.09/.13pp; joint model .40 and interaction−.15. Middle .10/.23/.41/−.02; joint .11 and interaction−.05. Treatment is ranking of historical cost, not realized profit or random price. Caption month t versus prose t−1 preserved. Source: IA pp7–9 AppendixE/TableF9 p28."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73281,7 +73290,14 @@
     "H6784": "1",
     "I6784": "1",
     "J6784": "none",
-    "K6784": "Dummy for selling CCC loan not recently downgraded in event windows [−3,−1], [0,2], [3,5]."
+    "K6784": "Dummy for selling CCC loan not recently downgraded in event windows [−3,−1], [0,2], [3,5].",
+    "A6785": "L5V28EJD",
+    "B6785": "h28",
+    "C6785": "hy1",
+    "H6785": "1",
+    "I6785": "1",
+    "J6785": "none",
+    "K6785": "Monthly dummy for sale of above-CCC loan, zero otherwise; full/rating subsamples."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -128117,7 +128133,18 @@
     "O4969": "0",
     "P4969": "unknown",
     "Q4969": "IA p4/TableF3 p20. Focal: Downgrade marginal effect −4.38pp (prose −4.4pp), first model. Benchmark: Unconditional manager-quarter launch probability23%.",
-    "R4969": "Pooled unconditional probability is not shown to be untreated no-downgrade target mean; effect averaging population/weights unresolved."
+    "R4969": "Pooled unconditional probability is not shown to be untreated no-downgrade target mean; effect averaging population/weights unresolved.",
+    "A4970": "L5V28EJD",
+    "B4970": "h28",
+    "C4970": "hc1",
+    "K4970": "1",
+    "L4970": "hy1",
+    "M4970": "outcome_mean",
+    "N4970": "1",
+    "O4970": "0",
+    "P4970": "unknown",
+    "Q4970": "IA p8 TableF9 p28. Focal: Lowest versus highest book-price tercile marginal effect .36pp, all above-CCC loans, first model. Benchmark: Unconditional monthly sale probability3.31%.",
+    "R4970": "Unconditional pooled sales rate not shown to equal highest-book-price untreated target mean."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

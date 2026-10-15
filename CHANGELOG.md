@@ -449244,3 +449244,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:29:22.944107+00:00 — Review L5V28EJD h28: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4970",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4970",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4970",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4970",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4970",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4970",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4970",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4970",
+    "before": null,
+    "after": "IA p8 TableF9 p28. Focal: Lowest versus highest book-price tercile marginal effect .36pp, all above-CCC loans, first model. Benchmark: Unconditional monthly sale probability3.31%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4970",
+    "before": null,
+    "after": "Unconditional pooled sales rate not shown to equal highest-book-price untreated target mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6785",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6785",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6785",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6785",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6785",
+    "before": null,
+    "after": "Monthly dummy for sale of above-CCC loan, zero otherwise; full/rating subsamples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2772",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2772",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2772",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2772",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2772",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2772",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2772",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2772",
+    "before": null,
+    "after": "Bottom versus top book-price tercile within CLO portfolio on sale of above-CCC loans; TableF9 rating subsamples and interactions with above-median12-month OC-slack change."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2772",
+    "before": null,
+    "after": "Causal-intent gains-trading mechanism with explicit weak identification warning. Logit, time FE. Low-book marginal effects .36/.82/1.09/.13pp; joint model .40 and interaction−.15. Middle .10/.23/.41/−.02; joint .11 and interaction−.05. Treatment is ranking of historical cost, not realized profit or random price. Caption month t versus prose t−1 preserved. Source: IA pp7–9 AppendixE/TableF9 p28."
+  }
+]
+```
