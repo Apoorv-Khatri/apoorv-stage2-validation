@@ -420141,3 +420141,732 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T07:16:08.113889+00:00 — Review KRNZM9QV s6: source-audited coding and linked comparisons
+
+120 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4619",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4620",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4621",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4622",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4623",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4624",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4625",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4626",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4619",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4620",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4621",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4622",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4623",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4624",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4625",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4626",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4619",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4620",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4621",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4622",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4623",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4624",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4625",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4626",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K312",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K313",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4619",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4620",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4621",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4622",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4623",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4624",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4625",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4626",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L312",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4619",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4620",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4621",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4622",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4623",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4624",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4625",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4626",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M312",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4619",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4620",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4621",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4622",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4623",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4624",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4625",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4626",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N312",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4619",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4620",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4621",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4622",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4623",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4624",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4625",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4626",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O312",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4619",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4620",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4621",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4622",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4623",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4624",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4625",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4626",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P312",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4619",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4620",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4621",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4622",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4623",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4624",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4625",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4626",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q312",
+    "before": null,
+    "after": "p289 Table7/§4.2.2. Focal estimate: Arrowhead paired postminuspre effective half-spread -1.16bp at09:00–09:30. Benchmark: Pre-arrowhead effective spreads approximately10bp, prose p289; no separate half-hour benchmark value supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4619",
+    "before": null,
+    "after": "p289 Table7/§4.2.2. Focal estimate: Arrowhead paired postminuspre effective half-spread -1.00bp at09:30–10:00. Benchmark: Pre-arrowhead effective spreads approximately10bp, prose p289; no separate half-hour benchmark value supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4620",
+    "before": null,
+    "after": "p289 Table7/§4.2.2. Focal estimate: Arrowhead paired postminuspre effective half-spread -1.01bp at10:00–10:30. Benchmark: Pre-arrowhead effective spreads approximately10bp, prose p289; no separate half-hour benchmark value supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4621",
+    "before": null,
+    "after": "p289 Table7/§4.2.2. Focal estimate: Arrowhead paired postminuspre effective half-spread -0.90bp at10:30–11:00. Benchmark: Pre-arrowhead effective spreads approximately10bp, prose p289; no separate half-hour benchmark value supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4622",
+    "before": null,
+    "after": "p289 Table7/§4.2.2. Focal estimate: Arrowhead paired postminuspre effective half-spread -2.69bp at12:30–13:00. Benchmark: Pre-arrowhead effective spreads approximately10bp, prose p289; no separate half-hour benchmark value supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4623",
+    "before": null,
+    "after": "p289 Table7/§4.2.2. Focal estimate: Arrowhead paired postminuspre effective half-spread -0.90bp at13:00–13:30. Benchmark: Pre-arrowhead effective spreads approximately10bp, prose p289; no separate half-hour benchmark value supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4624",
+    "before": null,
+    "after": "p289 Table7/§4.2.2. Focal estimate: Arrowhead paired postminuspre effective half-spread -0.89bp at13:30–14:00. Benchmark: Pre-arrowhead effective spreads approximately10bp, prose p289; no separate half-hour benchmark value supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4625",
+    "before": null,
+    "after": "p289 Table7/§4.2.2. Focal estimate: Arrowhead paired postminuspre effective half-spread -0.88bp at14:00–14:30. Benchmark: Pre-arrowhead effective spreads approximately10bp, prose p289; no separate half-hour benchmark value supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4626",
+    "before": null,
+    "after": "p289 Table7/§4.2.2. Focal estimate: Arrowhead paired postminuspre effective half-spread -1.00bp at14:30–15:00. Benchmark: Pre-arrowhead effective spreads approximately10bp, prose p289; no separate half-hour benchmark value supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R312",
+    "before": null,
+    "after": "Same stocks but benchmark half-hour weighting is not specified; approximate aggregate10bp cannot establish each half-hour target baseline. Unknown, not automatically aligned merely because same dataset. Original c1 retained and narrowed to first half-hour; other eight half-hours remain hc2–hc9. Introductory roughly10% is a rounded headline for these results, not demonstrated to be a separate aggregate estimator; do not impute division to this individual half-hour."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R313",
+    "before": null,
+    "after": "Duplicate introductory summary: p274 roughly10% decline is not accompanied by a distinct aggregate estimator, weights or target. Section4.2.2 links the decline to Table7 half-hour estimates. Preserve exact original wording; do not assert a new aggregate effect merely because no single half-hour is named. Nine Table7 triples are retained, with no invented half-hour percentage divisions."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4619",
+    "before": null,
+    "after": "Same stocks but benchmark half-hour weighting is not specified; approximate aggregate10bp cannot establish each half-hour target baseline. Unknown, not automatically aligned merely because same dataset."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4620",
+    "before": null,
+    "after": "Same stocks but benchmark half-hour weighting is not specified; approximate aggregate10bp cannot establish each half-hour target baseline. Unknown, not automatically aligned merely because same dataset."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4621",
+    "before": null,
+    "after": "Same stocks but benchmark half-hour weighting is not specified; approximate aggregate10bp cannot establish each half-hour target baseline. Unknown, not automatically aligned merely because same dataset."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4622",
+    "before": null,
+    "after": "Same stocks but benchmark half-hour weighting is not specified; approximate aggregate10bp cannot establish each half-hour target baseline. Unknown, not automatically aligned merely because same dataset."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4623",
+    "before": null,
+    "after": "Same stocks but benchmark half-hour weighting is not specified; approximate aggregate10bp cannot establish each half-hour target baseline. Unknown, not automatically aligned merely because same dataset."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4624",
+    "before": null,
+    "after": "Same stocks but benchmark half-hour weighting is not specified; approximate aggregate10bp cannot establish each half-hour target baseline. Unknown, not automatically aligned merely because same dataset."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4625",
+    "before": null,
+    "after": "Same stocks but benchmark half-hour weighting is not specified; approximate aggregate10bp cannot establish each half-hour target baseline. Unknown, not automatically aligned merely because same dataset."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4626",
+    "before": null,
+    "after": "Same stocks but benchmark half-hour weighting is not specified; approximate aggregate10bp cannot establish each half-hour target baseline. Unknown, not automatically aligned merely because same dataset."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1286",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1287",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1288",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1289",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1286",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1287",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1288",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1289",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1286",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1287",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1288",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1289",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1287",
+    "before": null,
+    "after": "Share-weighted effective HALF-spread(bp), Eq8; per-stock half-hour means Table7 or daily means Fig7."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1288",
+    "before": null,
+    "after": "Share-weighted realized HALF-spread(bp) using10sec future midpoint; other computed horizons unspecified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1289",
+    "before": null,
+    "after": "Price-impact component(bp) of effective half-spread using10sec future midpoint; other computed horizons unspecified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J517",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M517",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N517",
+    "before": null,
+    "after": "Arrowhead introduction January4,2010: same-stock paired after-minus-before means over three months each side; 229 TSE stocks with no tick-size change. Outcomes |VR−1| and effective/realized half-spreads and price impact; Table7 nine half-hours and Fig7 daily mean paths."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O517",
+    "before": null,
+    "after": "Correct conventional DiD to OLS: no untreated group or parallel-trends contrast; paired prepost means are not DiD merely because same stocks appear both periods. No estimated identifying FE dimension. Quasi-exogenous exchange technology change bundled with co-location and price-continuity rules; excludes ex-post tick-size changers but not all concurrent shocks. The source narrows to three-month windows because the information environment changes and selects 229 same-stock no-tick-change pairs. These design details do not establish the approximate pooled10bp mean for each half-hour untreated target; alignment remains unknown. Fig7 supports timing, not a separately defined trajectory estimand. Footnote-like prose reports other realized/impact horizons without specifying which; retain scope as unreported horizon variants, no invented values. Source: §4.2 pp287–290 Table7/Fig7."
+  }
+]
+```
