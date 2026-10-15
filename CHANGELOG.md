@@ -414810,3 +414810,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T06:30:50.660864+00:00 — Review KKKD4ZV5 h9: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6684",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6685",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6686",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6684",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6685",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6686",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6684",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6685",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6686",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6684",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6685",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6686",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6684",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6685",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6686",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6684",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6685",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6686",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6684",
+    "before": null,
+    "after": "Daily EURCHF realized power variation (sum of absolute returns), Figure8(b)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6685",
+    "before": null,
+    "after": "Daily CLS EURCHF trading volume, Figure8(c)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6686",
+    "before": null,
+    "after": "Daily EURCHF realized Amihud (RPV divided by trading volume), Figure8(d)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2723",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2723",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2723",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2723",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2723",
+    "before": null,
+    "after": "SNB cap-removal before/after mean-level contrasts for EURCHF RPV, CLS trading volume and realized Amihud, Figure8(b–d) and fn35."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2723",
+    "before": null,
+    "after": "pp873–874 explicitly attribute low volatility/high volume/liquidity to the cap and opposite patterns after removal; fn35 confirms mean-difference tests. OLS-class linear before/after, not RD/DiD. Figure8(a) spot rate supplies policy context; all cases in fn35 does not unambiguously establish a separate interpreted price-outcome mean test. Exclude spot outcome from this setting rather than infer it. Main=1 because introduction p861 explicitly identifies persistent liquidity impairment as an additional central result. No numeric differences or linked mean baselines printed. Source: §5.2 pp873–874 Figure8 fn35."
+  }
+]
+```
