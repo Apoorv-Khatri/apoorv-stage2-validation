@@ -27578,7 +27578,16 @@
     "L2832": "0",
     "M2832": "n/a",
     "N2832": "Section3.3 fn17 robustness: politically active defined by consecutive lobbying in past two years, rather than current-year indicator; proportional-hazard holding-duration analysis, similar results.",
-    "O2832": "Distinct exposure timing definition. No numeric estimates available. Source: p77 fn17 L671-677."
+    "O2832": "Distinct exposure timing definition. No numeric estimates available. Source: p77 fn17 L671-677.",
+    "A2833": "MBWIN7NL",
+    "B2833": "h38",
+    "I2833": "1",
+    "J2833": "Other",
+    "K2833": "unknown",
+    "L2833": "0",
+    "M2833": "n/a",
+    "N2833": "Section3.3 fn17 alternative holding-duration tests: four indicators for politically active local, nonpolitically active local, politically active nonlocal, and nonpolitically active nonlocal firms; similar results. Retain one minimum-scope categorical political-activity/locality specification. The reference category, contribution/lobbying aggregation and separately implemented two-valued contrasts are not reported.",
+    "O2833": "p77 fn17 establishes that the four-category alternative was implemented, but not which binary pairwise contrasts were estimated or reported. Human_binary=unknown rather than inventing a binary contrast or four independent settings. Other inherits the surrounding proportional-hazard implementation; exact parameterization unavailable. No numerical coefficients or additional comparisons inferred. Source: p77 fn17 L671-677."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74722,7 +74731,14 @@
     "H6913": "0",
     "I6913": "0",
     "J6913": "other",
-    "K6913": "Conditional liquidation hazard from censored holding spells."
+    "K6913": "Conditional liquidation hazard from censored holding spells.",
+    "A6914": "MBWIN7NL",
+    "B6914": "h38",
+    "C6914": "hy1",
+    "H6914": "0",
+    "I6914": "0",
+    "J6914": "other",
+    "K6914": "Conditional liquidation hazard from censored holding spells."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

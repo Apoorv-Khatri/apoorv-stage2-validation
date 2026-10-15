@@ -463170,3 +463170,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T10:08:04.568301+00:00 — Review MBWIN7NL h38: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6914",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6914",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6914",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6914",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6914",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6914",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6914",
+    "before": null,
+    "after": "Conditional liquidation hazard from censored holding spells."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2833",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2833",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2833",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2833",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2833",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2833",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2833",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2833",
+    "before": null,
+    "after": "Section3.3 fn17 alternative holding-duration tests: four indicators for politically active local, nonpolitically active local, politically active nonlocal, and nonpolitically active nonlocal firms; similar results. Retain one minimum-scope categorical political-activity/locality specification. The reference category, contribution/lobbying aggregation and separately implemented two-valued contrasts are not reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2833",
+    "before": null,
+    "after": "p77 fn17 establishes that the four-category alternative was implemented, but not which binary pairwise contrasts were estimated or reported. Human_binary=unknown rather than inventing a binary contrast or four independent settings. Other inherits the surrounding proportional-hazard implementation; exact parameterization unavailable. No numerical coefficients or additional comparisons inferred. Source: p77 fn17 L671-677."
+  }
+]
+```
