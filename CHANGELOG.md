@@ -469632,3 +469632,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:03:35.709937+00:00 — Review ME6H5V5K h21: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5051",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5051",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5051",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5051",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5051",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5051",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5051",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5051",
+    "before": null,
+    "after": "pp2511,2537; reported 4.3% lower average employment after10years in the stated scenario. Final Table1 p2527 captions log(employment level); no verified final level-conversion formula. Draft E.4 absolute employment figures are version-separated evidence only, not the final denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5051",
+    "before": null,
+    "after": "Eligibility unknown: explicit lower average employment wording may mean a same-outcome conditional-mean normalization, but could instead be a log-percentage interpretation, which alone does not qualify. Verbal1/divided1 record the authors percentage wording conditionally, not proof of eligible benchmark; alignment unknown. Never use draft matching coefficients to certify final arithmetic."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6992",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6992",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6992",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6992",
+    "before": null,
+    "after": "Reported average employment per firm ten years after creation under the stated composition-of-entry counterfactual. Final reports a percentage change but Table1 input is captioned log employment; implemented level/log conversion unresolved. Not an absolute aggregate job count."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2862",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2862",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2862",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2862",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2862",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2862",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2862",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2862",
+    "before": null,
+    "after": "Introduction joint recession and1pp GZ-spread counterfactual relative to normal-GDP/average-spread scenario; reported average age10 employment-4.3%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2862",
+    "before": null,
+    "after": "Joint exposure is distinct from marginal recession or marginal financial shock; not a separate regression. Printed4.3% preserved; no invented exact compounding. Source: p2511 L223-231; pp2536-37."
+  }
+]
+```
