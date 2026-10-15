@@ -457686,3 +457686,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:56:11.569020+00:00 — Review MBWIN7NL h2: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6848",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6848",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6848",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6848",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6848",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6848",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6848",
+    "before": null,
+    "after": "Monthly portfolio return adjusted for FF3 plus momentum; alpha differences in monthly return units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2797",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2797",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2797",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2797",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2797",
+    "before": null,
+    "after": "Table2 PanelB monthly post-buy factor-adjusted portfolio-return contrast. Local nonpolitical versus Table2 row4 local holdings: 0.0166 versus 0.0026, difference 0.0140. Caption/text describe contributing OR lobbying; row shows Yes/Yes. Preserve ambiguous membership, do not silently impose AND. Same political-category contrast is also tabulated for local nonheld and nonlocal held strata in Table2B; retain these sample variants, including null results, within this treatment setting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2797",
+    "before": null,
+    "after": "Matching is benchmark preprocessing before calendar-time factor regressions. Alphas are regression-adjusted intercepts, not raw outcome means. Source: p74 Table2B; L379-451."
+  }
+]
+```

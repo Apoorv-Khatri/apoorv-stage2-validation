@@ -27254,7 +27254,16 @@
     "L2796": "1",
     "M2796": "n/a",
     "N2796": "Table2 PanelB monthly post-buy factor-adjusted portfolio-return contrast. Local nonpolitical versus lobbying-only local holdings: 0.0166 versus 0.0023, difference 0.0143. Same political-category contrast is also tabulated for local nonheld and nonlocal held strata in Table2B; retain these sample variants, including null results, within this treatment setting.",
-    "O2796": "Matching is benchmark preprocessing before calendar-time factor regressions. Alphas are regression-adjusted intercepts, not raw outcome means. Source: p74 Table2B; L379-451."
+    "O2796": "Matching is benchmark preprocessing before calendar-time factor regressions. Alphas are regression-adjusted intercepts, not raw outcome means. Source: p74 Table2B; L379-451.",
+    "A2797": "MBWIN7NL",
+    "B2797": "h2",
+    "I2797": "1",
+    "J2797": "OLS",
+    "K2797": "1",
+    "L2797": "1",
+    "M2797": "n/a",
+    "N2797": "Table2 PanelB monthly post-buy factor-adjusted portfolio-return contrast. Local nonpolitical versus Table2 row4 local holdings: 0.0166 versus 0.0026, difference 0.0140. Caption/text describe contributing OR lobbying; row shows Yes/Yes. Preserve ambiguous membership, do not silently impose AND. Same political-category contrast is also tabulated for local nonheld and nonlocal held strata in Table2B; retain these sample variants, including null results, within this treatment setting.",
+    "O2797": "Matching is benchmark preprocessing before calendar-time factor regressions. Alphas are regression-adjusted intercepts, not raw outcome means. Source: p74 Table2B; L379-451."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74080,7 +74089,14 @@
     "H6847": "0",
     "I6847": "unknown",
     "J6847": "none",
-    "K6847": "Monthly portfolio return adjusted for FF3 plus momentum; alpha differences in monthly return units."
+    "K6847": "Monthly portfolio return adjusted for FF3 plus momentum; alpha differences in monthly return units.",
+    "A6848": "MBWIN7NL",
+    "B6848": "h2",
+    "C6848": "hy1",
+    "H6848": "0",
+    "I6848": "unknown",
+    "J6848": "none",
+    "K6848": "Monthly portfolio return adjusted for FF3 plus momentum; alpha differences in monthly return units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
