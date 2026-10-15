@@ -27760,7 +27760,16 @@
     "L2844": "1",
     "M2844": "n/a",
     "N2844": "Table6: GZ spread with GDP moderation, cols3-4,7-8 entry into low/high intangibility and low/high EFD sectors.",
-    "O2844": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Source: pp2538-39 L1924-2022."
+    "O2844": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Source: pp2538-39 L1924-2022.",
+    "A2845": "ME6H5V5K",
+    "B2845": "h4",
+    "I2845": "1",
+    "J2845": "Other",
+    "K2845": "0",
+    "L2845": "1",
+    "M2845": "n/a",
+    "N2845": "Table2: real GDP growth effect on all/low/high growth startup entry; both financial-indicator specifications.",
+    "O2845": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Explicit procyclicality / financial-accelerator interpretation, not merely nuisance control. Source: pp2530-31 L1381-1503."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -75102,7 +75111,19 @@
     "A6944": "ME6H5V5K",
     "B6944": "h3",
     "C6944": "hy4",
-    "K6944": "Indicator starting in high-EFD manufacturing sector."
+    "K6944": "Indicator starting in high-EFD manufacturing sector.",
+    "A6945": "ME6H5V5K",
+    "B6945": "h4",
+    "C6945": "hy1",
+    "K6945": "Indicator of starting any business.",
+    "A6946": "ME6H5V5K",
+    "B6946": "h4",
+    "C6946": "hy2",
+    "K6946": "Indicator of starting a low-growth business (zero for all other respondents).",
+    "A6947": "ME6H5V5K",
+    "B6947": "h4",
+    "C6947": "hy3",
+    "K6947": "Indicator of starting a high-growth business (zero for all other respondents)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
