@@ -486696,3 +486696,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:56:15.617343+00:00 — Review NSKXG8S6 h12: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7278",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7278",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7278",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7278",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7278",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7278",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7278",
+    "before": null,
+    "after": "Subsequent affected mutual fund stock ownership; final paragraph does not restate scale. Older IA13 uses ownership share in levels."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2982",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2982",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2982",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2982",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2982",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2982",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2982",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2982",
+    "before": null,
+    "after": "Internet Appendix §6.3: regulation-associated change in sensitivity of affected mutual fund ownership to investee firms’ short-run stock returns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2982",
+    "before": null,
+    "after": "Final article establishes implemented result, not full estimator. Older IE1 is MFOwn(i,t+1)=firmFE+timeFE+beta1*Performance(i,t)+beta2*Performance(i,t)*Post(t)+error: no affected-versus-unaffected fund treatment interaction. Do NOT invent DDD or label mere Post binary exposure. Final method and treatment coding unresolved; IV not suggested. If using older implementation, adjudicate continuous-slope regression and identifying-FE role separately. Main=1: final introduction p1970 explicitly enumerates increased holdings-performance sensitivity and reduced innovative-firm allocation alongside shorter horizons as direct evidence of fund-manager short-termism (article.txt L275–290); abstract pp1966 and conclusion p1997 make trading behavior central corroboration. Missing final estimator details do not reduce substantive main status. Source: Final p1995 §6.3 L1961–1975; older appendix IE1/IA13 for nonfinal implementation; final p1970 L275–290, p1966 L18–26."
+  }
+]
+```

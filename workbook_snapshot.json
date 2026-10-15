@@ -29151,7 +29151,16 @@
     "L2981": "0",
     "M2981": "n/a",
     "N2981": "Internet Appendix fund-flow sensitivity robustness: affected versus unaffected funds around regulation, flows over 3 months after maximum allowable 60-day disclosure delay, with loser/winner portfolio-share slope interactions.",
-    "O2981": "Different reported outcome horizon from s8, distinct substantive robustness location. Final text establishes implementation, direction and robustness; older IA11 confirms equation family only, no older coefficients imported. Binary policy exposure; slope modifiers not new treatment arms. Source: Final p1993 L1772–1802."
+    "O2981": "Different reported outcome horizon from s8, distinct substantive robustness location. Final text establishes implementation, direction and robustness; older IA11 confirms equation family only, no older coefficients imported. Binary policy exposure; slope modifiers not new treatment arms. Source: Final p1993 L1772–1802.",
+    "A2982": "NSKXG8S6",
+    "B2982": "h12",
+    "I2982": "1",
+    "J2982": "unknown",
+    "K2982": "unknown",
+    "L2982": "1",
+    "M2982": "n/a",
+    "N2982": "Internet Appendix §6.3: regulation-associated change in sensitivity of affected mutual fund ownership to investee firms’ short-run stock returns.",
+    "O2982": "Final article establishes implemented result, not full estimator. Older IE1 is MFOwn(i,t+1)=firmFE+timeFE+beta1*Performance(i,t)+beta2*Performance(i,t)*Post(t)+error: no affected-versus-unaffected fund treatment interaction. Do NOT invent DDD or label mere Post binary exposure. Final method and treatment coding unresolved; IV not suggested. If using older implementation, adjudicate continuous-slope regression and identifying-FE role separately. Main=1: final introduction p1970 explicitly enumerates increased holdings-performance sensitivity and reduced innovative-firm allocation alongside shorter horizons as direct evidence of fund-manager short-termism (article.txt L275–290); abstract pp1966 and conclusion p1997 make trading behavior central corroboration. Missing final estimator details do not reduce substantive main status. Source: Final p1995 §6.3 L1961–1975; older appendix IE1/IA13 for nonfinal implementation; final p1970 L275–290, p1966 L18–26."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78083,7 +78092,14 @@
     "H7277": "0",
     "I7277": "unknown",
     "J7277": "none",
-    "K7277": "Return-adjusted mutual fund flows over 3-month period after maximum allowable 60-day holdings disclosure delay."
+    "K7277": "Return-adjusted mutual fund flows over 3-month period after maximum allowable 60-day holdings disclosure delay.",
+    "A7278": "NSKXG8S6",
+    "B7278": "h12",
+    "C7278": "hy1",
+    "H7278": "0",
+    "I7278": "unknown",
+    "J7278": "unknown",
+    "K7278": "Subsequent affected mutual fund stock ownership; final paragraph does not restate scale. Older IA13 uses ownership share in levels."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
