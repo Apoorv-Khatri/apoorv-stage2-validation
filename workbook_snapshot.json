@@ -29160,7 +29160,16 @@
     "L2982": "1",
     "M2982": "n/a",
     "N2982": "Internet Appendix §6.3: regulation-associated change in sensitivity of affected mutual fund ownership to investee firms’ short-run stock returns.",
-    "O2982": "Final article establishes implemented result, not full estimator. Older IE1 is MFOwn(i,t+1)=firmFE+timeFE+beta1*Performance(i,t)+beta2*Performance(i,t)*Post(t)+error: no affected-versus-unaffected fund treatment interaction. Do NOT invent DDD or label mere Post binary exposure. Final method and treatment coding unresolved; IV not suggested. If using older implementation, adjudicate continuous-slope regression and identifying-FE role separately. Main=1: final introduction p1970 explicitly enumerates increased holdings-performance sensitivity and reduced innovative-firm allocation alongside shorter horizons as direct evidence of fund-manager short-termism (article.txt L275–290); abstract pp1966 and conclusion p1997 make trading behavior central corroboration. Missing final estimator details do not reduce substantive main status. Source: Final p1995 §6.3 L1961–1975; older appendix IE1/IA13 for nonfinal implementation; final p1970 L275–290, p1966 L18–26."
+    "O2982": "Final article establishes implemented result, not full estimator. Older IE1 is MFOwn(i,t+1)=firmFE+timeFE+beta1*Performance(i,t)+beta2*Performance(i,t)*Post(t)+error: no affected-versus-unaffected fund treatment interaction. Do NOT invent DDD or label mere Post binary exposure. Final method and treatment coding unresolved; IV not suggested. If using older implementation, adjudicate continuous-slope regression and identifying-FE role separately. Main=1: final introduction p1970 explicitly enumerates increased holdings-performance sensitivity and reduced innovative-firm allocation alongside shorter horizons as direct evidence of fund-manager short-termism (article.txt L275–290); abstract pp1966 and conclusion p1997 make trading behavior central corroboration. Missing final estimator details do not reduce substantive main status. Source: Final p1995 §6.3 L1961–1975; older appendix IE1/IA13 for nonfinal implementation; final p1970 L275–290, p1966 L18–26.",
+    "A2983": "NSKXG8S6",
+    "B2983": "h13",
+    "I2983": "1",
+    "J2983": "unknown",
+    "K2983": "unknown",
+    "L2983": "1",
+    "M2983": "n/a",
+    "N2983": "Internet Appendix §6.3: regulation-associated change in sensitivity of affected mutual fund ownership to investee firms’ return on assets.",
+    "O2983": "Distinct performance exposure from stock returns in h12. Final estimator unavailable; older before/after slope regression has firm/time dummies but no unaffected-fund comparison. Do not automatically promote to DiD or identifying FE. Final scale and coefficients not certified. Main=1: final introduction p1970 explicitly enumerates increased holdings-performance sensitivity and reduced innovative-firm allocation alongside shorter horizons as direct evidence of fund-manager short-termism (article.txt L275–290); abstract pp1966 and conclusion p1997 make trading behavior central corroboration. Missing final estimator details do not reduce substantive main status. Source: Final p1995 §6.3 L1961–1975; older appendix IE1/IA13; final p1970 L275–290, p1966 L18–26."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78099,7 +78108,14 @@
     "H7278": "0",
     "I7278": "unknown",
     "J7278": "unknown",
-    "K7278": "Subsequent affected mutual fund stock ownership; final paragraph does not restate scale. Older IA13 uses ownership share in levels."
+    "K7278": "Subsequent affected mutual fund stock ownership; final paragraph does not restate scale. Older IA13 uses ownership share in levels.",
+    "A7279": "NSKXG8S6",
+    "B7279": "h13",
+    "C7279": "hy1",
+    "H7279": "0",
+    "I7279": "unknown",
+    "J7279": "unknown",
+    "K7279": "Subsequent affected mutual fund stock ownership; final paragraph does not restate scale. Older IA13 uses ownership share in levels."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
