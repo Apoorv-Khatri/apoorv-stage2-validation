@@ -458613,3 +458613,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:58:31.511916+00:00 — Review MBWIN7NL h9: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5021",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5021",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5021",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5021",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5021",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5021",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5021",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5021",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5021",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5021",
+    "before": null,
+    "after": "p79 Table5 cols1,6 and explicit prose; local contribution holdings DISP0.037 versus same contribution class in nonlocal funds0.015; no cross-category effect scalar printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5021",
+    "before": null,
+    "after": "Group-mean comparison defines the contrast even without scalar difference. Matching on size/book-to-market/industry alone does not document that the mean uses treated-target weights; nonlocal comparison also lacks untreated-target construction. Printed single-group zero tests are not tests of the contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6856",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6856",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6856",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6856",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6856",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6856",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6856",
+    "before": null,
+    "after": "DISP=PGR-PLR; average constructed disposition spread."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2804",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2804",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2804",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2804",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2804",
+    "before": null,
+    "after": "Table5 columns1,6: same contribution-firm class held locally versus by nonlocal funds in states to whose politicians the firms do not contribute. Mean DISP0.037 versus0.015. Unadjusted linear group comparison; political locality contrast."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2804",
+    "before": null,
+    "after": "No covariate matching rule specifically asserted for column6; do not apply column3/4 matching automatically. Source: p79 Table5 and explicit prose comparing columns1,6; L803-815."
+  }
+]
+```

@@ -27317,7 +27317,16 @@
     "L2803": "1",
     "M2803": "n/a",
     "N2803": "Table5 columns2,4: local lobbying holdings versus matched nonpolitical non-lobbying holdings; mean DISP0.028 versus -0.040. Same covariate matching as columns1,3.",
-    "O2803": "Preserve printed0.028 although displayed0.196-0.167 rounds to0.029; no silent replacement. Source: p79 Table5; L755-822."
+    "O2803": "Preserve printed0.028 although displayed0.196-0.167 rounds to0.029; no silent replacement. Source: p79 Table5; L755-822.",
+    "A2804": "MBWIN7NL",
+    "B2804": "h9",
+    "I2804": "1",
+    "J2804": "OLS",
+    "K2804": "1",
+    "L2804": "1",
+    "M2804": "n/a",
+    "N2804": "Table5 columns1,6: same contribution-firm class held locally versus by nonlocal funds in states to whose politicians the firms do not contribute. Mean DISP0.037 versus0.015. Unadjusted linear group comparison; political locality contrast.",
+    "O2804": "No covariate matching rule specifically asserted for column6; do not apply column3/4 matching automatically. Source: p79 Table5 and explicit prose comparing columns1,6; L803-815."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74193,7 +74202,14 @@
     "H6855": "0",
     "I6855": "unknown",
     "J6855": "none",
-    "K6855": "DISP=PGR-PLR; untransformed constructed disposition spread, averaged across funds."
+    "K6855": "DISP=PGR-PLR; untransformed constructed disposition spread, averaged across funds.",
+    "A6856": "MBWIN7NL",
+    "B6856": "h9",
+    "C6856": "hy1",
+    "H6856": "0",
+    "I6856": "unknown",
+    "J6856": "none",
+    "K6856": "DISP=PGR-PLR; average constructed disposition spread."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -129605,7 +129621,18 @@
     "O5020": "0",
     "P5020": "unknown",
     "Q5020": "p79 Table5 cols2,4; local lobbying DISP mean0.028 versus matched local nonpolitical mean-0.040; authors compare disposition presence; no cross-category difference printed.",
-    "R5020": "Group-mean comparison defines the contrast even without scalar difference. Matching on size/book-to-market/industry alone does not document that the mean uses treated-target weights; nonlocal comparison also lacks untreated-target construction. Printed single-group zero tests are not tests of the contrast."
+    "R5020": "Group-mean comparison defines the contrast even without scalar difference. Matching on size/book-to-market/industry alone does not document that the mean uses treated-target weights; nonlocal comparison also lacks untreated-target construction. Printed single-group zero tests are not tests of the contrast.",
+    "A5021": "MBWIN7NL",
+    "B5021": "h9",
+    "C5021": "hc1",
+    "K5021": "1",
+    "L5021": "hy1",
+    "M5021": "outcome_mean",
+    "N5021": "1",
+    "O5021": "0",
+    "P5021": "unknown",
+    "Q5021": "p79 Table5 cols1,6 and explicit prose; local contribution holdings DISP0.037 versus same contribution class in nonlocal funds0.015; no cross-category effect scalar printed.",
+    "R5021": "Group-mean comparison defines the contrast even without scalar difference. Matching on size/book-to-market/industry alone does not document that the mean uses treated-target weights; nonlocal comparison also lacks untreated-target construction. Printed single-group zero tests are not tests of the contrast."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
