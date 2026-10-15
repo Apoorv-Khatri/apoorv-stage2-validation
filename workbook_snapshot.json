@@ -26897,7 +26897,16 @@
     "L2767": "0",
     "M2767": "n/a",
     "N2767": "Log average CLO equity yield for manager on next-quarter launch dummy; TableF3 yield-only/joint models, logit marginal effects2.66/2.55.",
-    "O2767": "Separate continuous performance treatment; one-yield-SD movement from17.2 to38.3% predicts2.1pp launch increase. Yield mean and SD are treatment quantities, not outcome benchmark. Do not import23% comparison from preceding downgrade coefficient paragraph. Source: IA pp4–5 TableF3."
+    "O2767": "Separate continuous performance treatment; one-yield-SD movement from17.2 to38.3% predicts2.1pp launch increase. Yield mean and SD are treatment quantities, not outcome benchmark. Do not import23% comparison from preceding downgrade coefficient paragraph. Source: IA pp4–5 TableF3.",
+    "A2768": "L5V28EJD",
+    "B2768": "h24",
+    "I2768": "1",
+    "J2768": "Other",
+    "K2768": "1",
+    "L2768": "0",
+    "M2768": "n/a",
+    "N2768": "Bottom versus top OC-slack tercile on any downgraded-loan sale in months0–2, cohort-specific logit TableF4.",
+    "O2768": "Separately reported cohort robustness location; CLO1.0 closing≤2008, CLO2.0 2009–2013, CLO3.0>2013. Nonlinear logit with year-quarter effects. Bottom marginal effects1.41/9.16/3.13; middle1.39/5.48/2.95. Comparisons to main3.53 are effect-to-effect, not benchmarks. Source: Main p1130 fn18; IA TableF4 p21."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73217,7 +73226,14 @@
     "A6780": "L5V28EJD",
     "B6780": "h23",
     "C6780": "hy1",
-    "K6780": "Indicator manager launches any new CLO next quarter, zero otherwise."
+    "K6780": "Indicator manager launches any new CLO next quarter, zero otherwise.",
+    "A6781": "L5V28EJD",
+    "B6781": "h24",
+    "C6781": "hy1",
+    "H6781": "1",
+    "I6781": "1",
+    "J6781": "none",
+    "K6781": "At least one sale of downgraded loan by CLO in months0–2, binary sale dummy."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

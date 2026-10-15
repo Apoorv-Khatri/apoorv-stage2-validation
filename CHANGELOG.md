@@ -448824,3 +448824,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:27:58.320743+00:00 — Review L5V28EJD h24: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6781",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6781",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6781",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6781",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6781",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6781",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6781",
+    "before": null,
+    "after": "At least one sale of downgraded loan by CLO in months0–2, binary sale dummy."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2768",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2768",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2768",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2768",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2768",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2768",
+    "before": null,
+    "after": "Bottom versus top OC-slack tercile on any downgraded-loan sale in months0–2, cohort-specific logit TableF4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2768",
+    "before": null,
+    "after": "Separately reported cohort robustness location; CLO1.0 closing≤2008, CLO2.0 2009–2013, CLO3.0>2013. Nonlinear logit with year-quarter effects. Bottom marginal effects1.41/9.16/3.13; middle1.39/5.48/2.95. Comparisons to main3.53 are effect-to-effect, not benchmarks. Source: Main p1130 fn18; IA TableF4 p21."
+  }
+]
+```
