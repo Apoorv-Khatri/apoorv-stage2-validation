@@ -485961,3 +485961,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:51:15.674404+00:00 — Review NSKXG8S6 h5: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7271",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7271",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7271",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7271",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7271",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7271",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7271",
+    "before": null,
+    "after": "Log(1+truncation-adjusted citation-weighted patent count), firm-year; zero assigned for no patent filing."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2975",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2975",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2975",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2975",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2975",
+    "before": null,
+    "after": "Untabulated §4.1 robustness: presence of at least one affected mutual-fund blockholder with at least 2% ownership; binary exposure×Post, innovation DiD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2975",
+    "before": null,
+    "after": "Minimum final-confirmed setting. Older August2017 IA2 has 2% and 1% variants and three outcomes, but do not silently transfer that grid to final. Final prose confirms 2% only. Source: Final pp1980–1981; L941–969."
+  }
+]
+```

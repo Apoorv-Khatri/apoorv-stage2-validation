@@ -29088,7 +29088,16 @@
     "L2974": "0",
     "M2974": "n/a",
     "N2974": "Untabulated §4.1 robustness: continuous percentage ownership by affected funds replaces binary high-ownership classification in innovation DiD around 2004.",
-    "O2974": "Separate continuous-dose treatment. Result explicitly implemented and robust; precise coefficients and measurement timing not supplied, so do not copy binary coefficients. Source: Final pp1980–1981; L941–960."
+    "O2974": "Separate continuous-dose treatment. Result explicitly implemented and robust; precise coefficients and measurement timing not supplied, so do not copy binary coefficients. Source: Final pp1980–1981; L941–960.",
+    "A2975": "NSKXG8S6",
+    "B2975": "h5",
+    "I2975": "1",
+    "J2975": "DiD_conventional",
+    "K2975": "1",
+    "L2975": "0",
+    "M2975": "n/a",
+    "N2975": "Untabulated §4.1 robustness: presence of at least one affected mutual-fund blockholder with at least 2% ownership; binary exposure×Post, innovation DiD.",
+    "O2975": "Minimum final-confirmed setting. Older August2017 IA2 has 2% and 1% variants and three outcomes, but do not silently transfer that grid to final. Final prose confirms 2% only. Source: Final pp1980–1981; L941–969."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -77971,7 +77980,14 @@
     "H7270": "0",
     "I7270": "1",
     "J7270": "log1p",
-    "K7270": "Log(1+truncation-adjusted citation-weighted patent count), firm-year; zero assigned for no patent filing."
+    "K7270": "Log(1+truncation-adjusted citation-weighted patent count), firm-year; zero assigned for no patent filing.",
+    "A7271": "NSKXG8S6",
+    "B7271": "h5",
+    "C7271": "hy1",
+    "H7271": "0",
+    "I7271": "1",
+    "J7271": "log1p",
+    "K7271": "Log(1+truncation-adjusted citation-weighted patent count), firm-year; zero assigned for no patent filing."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
