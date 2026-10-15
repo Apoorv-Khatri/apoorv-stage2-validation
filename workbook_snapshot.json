@@ -28221,7 +28221,16 @@
     "L2884": "1",
     "M2884": "n/a",
     "N2884": "Table6: non-US firms; foreign institutional ownership share from low-norm countries defined by World Value E&S Index median split, effect on four log E&S scores. Shares remain continuous.",
-    "O2884": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Source: pp706–708 Table6A/B; L980–1109."
+    "O2884": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Source: pp706–708 Table6A/B; L980–1109.",
+    "A2885": "NGGU7KDV",
+    "B2885": "h5",
+    "I2885": "1",
+    "J2885": "FE",
+    "K2885": "0",
+    "L2885": "1",
+    "M2885": "n/a",
+    "N2885": "Table9 Panel B, columns 1 and 3: US firms; continuous lagged foreign ownership share of all institutional investors domiciled in LOW-norm countries (EPI median split). Outcomes: natural logs of overall and proprietary environmental scores. Employment-Laws-defined social treatment is separate at h56; WVS definitions remain separate.",
+    "O2885": "Table9 marks country FE Yes but all firms US domiciled: country dimension is constant. Effective industry/year sets=2. Same identifying rationale as baseline. Visual table verification retained printed country row. Domestic social coefficients significant despite broad introductory null rhetoric. Literal treatment split: EPI and Employment Laws Index define different origin-country ownership regressors, not sample variants. Same-index overall/proprietary outcomes remain grouped. Source: p712 Table9B/C columns 1,3; article.txt L1331–1417."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76167,7 +76176,15 @@
     "A7051": "NGGU7KDV",
     "B7051": "h4",
     "C7051": "hy4",
-    "K7051": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
+    "K7051": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit.",
+    "A7052": "NGGU7KDV",
+    "B7052": "h5",
+    "C7052": "hy1",
+    "K7052": "Natural log of overall environmental score (equal category weights; 0–100 before log).",
+    "A7053": "NGGU7KDV",
+    "B7053": "h5",
+    "C7053": "hy2",
+    "K7053": "Natural log of proprietary ASSET4 environmental rank-based score (0–100 before log), NOT an outcome-SD unit."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
