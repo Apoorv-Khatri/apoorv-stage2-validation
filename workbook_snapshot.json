@@ -29142,7 +29142,16 @@
     "L2980": "0",
     "M2980": "n/a",
     "N2980": "Internet Appendix: change in retail ownership for high versus low pre-regulation affected-fund-ownership firms after SEC rule; slight relative retail-ownership decline, ruling out retail ownership as alternative short-term-pressure channel.",
-    "O2980": "Substantive alternative-channel outcome, not balance/first-stage diagnostic. Final footnote supports high/low before/after contrast; exact coefficients/FE not reported there. Older IA10 shows linear DiD and RetailOwn=1-total institutional ownership, but numbers not transferred. Source: Final p1987 fn20 L1412–1415."
+    "O2980": "Substantive alternative-channel outcome, not balance/first-stage diagnostic. Final footnote supports high/low before/after contrast; exact coefficients/FE not reported there. Older IA10 shows linear DiD and RetailOwn=1-total institutional ownership, but numbers not transferred. Source: Final p1987 fn20 L1412–1415.",
+    "A2981": "NSKXG8S6",
+    "B2981": "h11",
+    "I2981": "1",
+    "J2981": "DiD_conventional",
+    "K2981": "1",
+    "L2981": "0",
+    "M2981": "n/a",
+    "N2981": "Internet Appendix fund-flow sensitivity robustness: affected versus unaffected funds around regulation, flows over 3 months after maximum allowable 60-day disclosure delay, with loser/winner portfolio-share slope interactions.",
+    "O2981": "Different reported outcome horizon from s8, distinct substantive robustness location. Final text establishes implementation, direction and robustness; older IA11 confirms equation family only, no older coefficients imported. Binary policy exposure; slope modifiers not new treatment arms. Source: Final p1993 L1772–1802."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78067,7 +78076,14 @@
     "H7276": "0",
     "I7276": "unknown",
     "J7276": "none",
-    "K7276": "Retail investor ownership share; older appendix defines 1 minus institutional ownership. Final footnote confirms outcome and relative decline, but not detailed construction."
+    "K7276": "Retail investor ownership share; older appendix defines 1 minus institutional ownership. Final footnote confirms outcome and relative decline, but not detailed construction.",
+    "A7277": "NSKXG8S6",
+    "B7277": "h11",
+    "C7277": "hy1",
+    "H7277": "0",
+    "I7277": "unknown",
+    "J7277": "none",
+    "K7277": "Return-adjusted mutual fund flows over 3-month period after maximum allowable 60-day holdings disclosure delay."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

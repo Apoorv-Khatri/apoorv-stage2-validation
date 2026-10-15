@@ -486591,3 +486591,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:55:33.616899+00:00 — Review NSKXG8S6 h11: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7277",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7277",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7277",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7277",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7277",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7277",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7277",
+    "before": null,
+    "after": "Return-adjusted mutual fund flows over 3-month period after maximum allowable 60-day holdings disclosure delay."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2981",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2981",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2981",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2981",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2981",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2981",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2981",
+    "before": null,
+    "after": "Internet Appendix fund-flow sensitivity robustness: affected versus unaffected funds around regulation, flows over 3 months after maximum allowable 60-day disclosure delay, with loser/winner portfolio-share slope interactions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2981",
+    "before": null,
+    "after": "Different reported outcome horizon from s8, distinct substantive robustness location. Final text establishes implementation, direction and robustness; older IA11 confirms equation family only, no older coefficients imported. Binary policy exposure; slope modifiers not new treatment arms. Source: Final p1993 L1772–1802."
+  }
+]
+```
