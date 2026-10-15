@@ -413715,3 +413715,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T04:06:49.445835+00:00 — Review KKKD4ZV5 s2: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1269",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1269",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1269",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1268",
+    "before": null,
+    "after": "Current daily log realized Amihud, Table4. Cross-lag coefficient .044 on previous-day log relative BAS; not an untransformed level outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1269",
+    "before": null,
+    "after": "Spurious under corrected s2 treatment: reverse-direction outcome belongs to lagged-Amihud setting h1/hy1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I507",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J507",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K507",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L507",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M507",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N507",
+    "before": null,
+    "after": "Lagged log bid-ask spread affects current log realized Amihud, Table4 VAR-X, coefficient .044; conditional on lagged own illiquidity and USD/TED/VXY/weekday controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O507",
+    "before": null,
+    "after": "Explicit subsequent quote-setting mechanism passes causal-intention gate independently of Table2 disclaimer. Linear VAR equation, no identifying FE; weekday dummies are calendar controls, not FE identification. Reverse null cross-lag is h1, not a second outcome under the spread treatment. Autoregression and exogenous controls are not independently interpreted focal treatments here. Source: §4.2 p871 Table4; article.txt 1807–1854."
+  }
+]
+```
