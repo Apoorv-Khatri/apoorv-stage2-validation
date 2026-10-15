@@ -437172,3 +437172,1704 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:22:26.408220+00:00 — Review L5V28EJD h10: source-audited coding and linked comparisons
+
+282 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4831",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4832",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4833",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4834",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4835",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4836",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4837",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4838",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4839",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4840",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4841",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4842",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4843",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4844",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4845",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4846",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4847",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4848",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4849",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4850",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4851",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4831",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4832",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4833",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4834",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4835",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4836",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4837",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4838",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4839",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4840",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4841",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4842",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4843",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4844",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4845",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4846",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4847",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4848",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4849",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4850",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4851",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4831",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4832",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4833",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4834",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4835",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4836",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4837",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4838",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4839",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4840",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4841",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4842",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4843",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4844",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4845",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4846",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4847",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4848",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4849",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4850",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4851",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4831",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4832",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4833",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4834",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4835",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4836",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4837",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4838",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4839",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4840",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4841",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4842",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4843",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4844",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4845",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4846",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4847",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4848",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4849",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4850",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4851",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4831",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4832",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4833",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4834",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4835",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4836",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4837",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4838",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4839",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4840",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4841",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4842",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4843",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4844",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4845",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4846",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4847",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4848",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4849",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4850",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4851",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4831",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4832",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4833",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4834",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4835",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4836",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4837",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4838",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4839",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4840",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4841",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4842",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4843",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4844",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4845",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4846",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4847",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4848",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4849",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4850",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4851",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4831",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4832",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4833",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4834",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4835",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4836",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4837",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4838",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4839",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4840",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4841",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4842",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4843",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4844",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4845",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4846",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4847",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4848",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4849",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4850",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4851",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4831",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4832",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4833",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4834",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4835",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4836",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4837",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4838",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4839",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4840",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4841",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4842",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4843",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4844",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4845",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4846",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4847",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4848",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4849",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4850",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4851",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4831",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4832",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4833",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4834",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4835",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4836",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4837",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4838",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4839",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4840",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4841",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4842",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4843",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4844",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4845",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4846",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4847",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4848",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4849",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4850",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4851",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4831",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention aggregate failure fraction80%, versus reference. Benchmark: no-shock historical distribution failure rate4.4%; pooled CLO-months."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4832",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention mean slack-1.8% of assets. Benchmark: no-shock historical distribution mean slack3.2% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4833",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention 5th percentile slack-6.1% of assets. Benchmark: no-shock historical distribution 5th percentile slack0.1% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4834",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention 25th percentile slack-3.2% of assets. Benchmark: no-shock historical distribution 25th percentile slack2.2% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4835",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention median slack-1.8% of assets. Benchmark: no-shock historical distribution median slack3.2% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4836",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention 75th percentile slack-0.4% of assets. Benchmark: no-shock historical distribution 75th percentile slack3.9% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4837",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention 95th percentile slack2.9% of assets. Benchmark: no-shock historical distribution 95th percentile slack7.3% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4838",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention aggregate failure fraction24.4%, versus reference. Benchmark: no-shock historical distribution failure rate0.0%; pooled CLO-months."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4839",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention mean slack3.2% of assets. Benchmark: no-shock historical distribution mean slack8.6% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4840",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention 5th percentile slack-2.7% of assets. Benchmark: no-shock historical distribution 5th percentile slack3.5% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4841",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention 25th percentile slack0% of assets. Benchmark: no-shock historical distribution 25th percentile slack5.6% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4842",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention median slack1.6% of assets. Benchmark: no-shock historical distribution median slack6.4% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4843",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention 75th percentile slack3.8% of assets. Benchmark: no-shock historical distribution 75th percentile slack8.3% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4844",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention 95th percentile slack17% of assets. Benchmark: no-shock historical distribution 95th percentile slack23.9% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4845",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention aggregate failure fraction0%, versus reference. Benchmark: no-shock historical distribution failure rate0.0%; pooled CLO-months."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4846",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention mean slack15.5% of assets. Benchmark: no-shock historical distribution mean slack20.8% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4847",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention 5th percentile slack8.7% of assets. Benchmark: no-shock historical distribution 5th percentile slack13.8% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4848",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention 25th percentile slack12.8% of assets. Benchmark: no-shock historical distribution 25th percentile slack18.1% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4849",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention median slack14.9% of assets. Benchmark: no-shock historical distribution median slack20.1% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4850",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention 75th percentile slack17% of assets. Benchmark: no-shock historical distribution 75th percentile slack21.7% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4851",
+    "before": null,
+    "after": "Main pp1145–1146 TableA1; IA F5 duplicate. Focal: Post-intervention 95th percentile slack25.6% of assets. Benchmark: no-shock historical distribution 95th percentile slack31.7% of assets;53,960 CLO-months reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4831",
+    "before": null,
+    "after": "Same-unit model counterfactual under imposed shock/allocation, not observed-control parallel trends. VaR requires≥50 loans; equality with no-shock pooled sample unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4832",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4833",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4834",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4835",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4836",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4837",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4838",
+    "before": null,
+    "after": "Same-unit model counterfactual under imposed shock/allocation, not observed-control parallel trends. VaR requires≥50 loans; equality with no-shock pooled sample unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4839",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4840",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4841",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4842",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4843",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4844",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4845",
+    "before": null,
+    "after": "Same-unit model counterfactual under imposed shock/allocation, not observed-control parallel trends. VaR requires≥50 loans; equality with no-shock pooled sample unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4846",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4847",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4848",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4849",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4850",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4851",
+    "before": null,
+    "after": "Explicitly paired stress/no-shock or alternative-allocation distributions. Quantile comparisons are same-outcome levels, not outcome-SD scaling; no effect difference calculated. Parent priority: retain full deliberately paired distribution scope versus restricting to means/rates."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6740",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6741",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6742",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6743",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6744",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6745",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6740",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6741",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6742",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6743",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6744",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6745",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6740",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6741",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6742",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6743",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6744",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6745",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6740",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6741",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6742",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6743",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6744",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6745",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6740",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6741",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6742",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6743",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6744",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6745",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6740",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6741",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6742",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6743",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6744",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6745",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6740",
+    "before": null,
+    "after": "Percentage of CLOs with junior OC-test failure; aggregate rate, not individual binary indicator. Fig5/TableA1 or F7."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6741",
+    "before": null,
+    "after": "Percentage of CLOs with senior OC-test failure; aggregate rate, not individual binary indicator. Fig5/TableA1 or F7."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6742",
+    "before": null,
+    "after": "Percentage of CLOs with insolvency; aggregate rate, not individual binary indicator. Fig5/TableA1 or F7."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6743",
+    "before": null,
+    "after": "junior OC dollar slack divided by initial CLO assets, percent; distribution/mean/quantiles after imposed shock or allocation rule. AppendixA1 A.1–A.5, TableA1/F7."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6744",
+    "before": null,
+    "after": "senior OC dollar slack divided by initial CLO assets, percent; distribution/mean/quantiles after imposed shock or allocation rule. AppendixA1 A.1–A.5, TableA1/F7."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6745",
+    "before": null,
+    "after": "insolvency dollar slack divided by initial CLO assets, percent; distribution/mean/quantiles after imposed shock or allocation rule. AppendixA1 A.1–A.5, TableA1/F7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2754",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2754",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2754",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2754",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2754",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2754",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2754",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2754",
+    "before": null,
+    "after": "95% one-year portfolio VaR shock versus no imposed shock, actual CLO holdings, Fig5 and TableA1 (F5 repeats). Gaussian single-factor default/migration simulation with rho=.24, LGDdefault=.5, LGDCCC=.1125."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2754",
+    "before": null,
+    "after": "Distinct loss-scenario estimand. No external treatment instrument. Binary is fixed scenario versus no shock. VaR is not an outcome-SD normalization. Only CLOs with at least50 loans enter VaR; no-shock table sample match is not expressly confirmed, so alignment unknown for pooled comparisons. Scenario assumptions retained, not likelihood statements about realized systemic failure. Source: Main pp1139–1146 AppendixA Fig5 TableA1 C."
+  }
+]
+```
