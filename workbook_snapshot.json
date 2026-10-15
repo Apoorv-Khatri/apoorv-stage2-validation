@@ -27425,7 +27425,16 @@
     "L2815": "0",
     "M2815": "n/a",
     "N2815": "Table7: New Public Integrity Index effect on local and political bias. Authors interpret effective governance as reducing political overweighting despite insignificant estimates.",
-    "O2815": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. For interacted trustee term retain baseline columns; noninteracted exposures can be read conditional on included reform interactions. Inverse integrity rank multiplied by bills passed measure. Prose p82 uses NUMBER of introduced bills that became law sponsored by state politicians; AppendixB uses PERCENTAGE of bills passed in state. Preserve construction conflict. Source: pp81-84 Table7; L925-1044,L1103-1129."
+    "O2815": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. For interacted trustee term retain baseline columns; noninteracted exposures can be read conditional on included reform interactions. Inverse integrity rank multiplied by bills passed measure. Prose p82 uses NUMBER of introduced bills that became law sponsored by state politicians; AppendixB uses PERCENTAGE of bills passed in state. Preserve construction conflict. Source: pp81-84 Table7; L925-1044,L1103-1129.",
+    "A2816": "MBWIN7NL",
+    "B2816": "h21",
+    "I2816": "1",
+    "J2816": "FE",
+    "K2816": "0",
+    "L2816": "0",
+    "M2816": "n/a",
+    "N2816": "Table7: Democratic Vote effect on local and political bias. Authors interpret political orientation/blue states as higher political bias.",
+    "O2816": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. For interacted trustee term retain baseline columns; noninteracted exposures can be read conditional on included reform interactions. Prose p82 says Democratic votes divided by Republican votes; AppendixB says percentage of votes cast for Democrats. Preserve denominator conflict. Source: pp81-84 Table7; L925-1044,L1103-1129."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74449,7 +74458,19 @@
     "A6889": "MBWIN7NL",
     "B6889": "h20",
     "C6889": "hy3",
-    "K6889": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+    "K6889": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one.",
+    "A6890": "MBWIN7NL",
+    "B6890": "h21",
+    "C6890": "hy1",
+    "K6890": "Local Bias: local-firm portfolio weight / market weight minus one.",
+    "A6891": "MBWIN7NL",
+    "B6891": "h21",
+    "C6891": "hy2",
+    "K6891": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one.",
+    "A6892": "MBWIN7NL",
+    "B6892": "h21",
+    "C6892": "hy3",
+    "K6892": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
