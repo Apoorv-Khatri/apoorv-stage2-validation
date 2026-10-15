@@ -448737,3 +448737,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:27:38.314310+00:00 — Review L5V28EJD h23: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6780",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6780",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6780",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6780",
+    "before": null,
+    "after": "Indicator manager launches any new CLO next quarter, zero otherwise."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2767",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2767",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2767",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2767",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2767",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2767",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2767",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2767",
+    "before": null,
+    "after": "Log average CLO equity yield for manager on next-quarter launch dummy; TableF3 yield-only/joint models, logit marginal effects2.66/2.55."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2767",
+    "before": null,
+    "after": "Separate continuous performance treatment; one-yield-SD movement from17.2 to38.3% predicts2.1pp launch increase. Yield mean and SD are treatment quantities, not outcome benchmark. Do not import23% comparison from preceding downgrade coefficient paragraph. Source: IA pp4–5 TableF3."
+  }
+]
+```

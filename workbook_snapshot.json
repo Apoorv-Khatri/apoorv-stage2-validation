@@ -26888,7 +26888,16 @@
     "L2766": "0",
     "M2766": "n/a",
     "N2766": "At least one managed CLO tranche downgrade in quarter q versus none on manager launching any new CLO in q+1; logit TableF3 downgrade-only and joint columns.",
-    "O2766": "Reputation/performance channel explicitly interpreted as changing future launches. Time FE incidental to logit. Preserve reported slope −.39/−.42 and marginal effects −4.38/−4.64 pp; caption times100 for b is inconsistent with usual logit scaling, visually verified, not repaired. Source: IA pp3–5 EqA3 TableF3 p20."
+    "O2766": "Reputation/performance channel explicitly interpreted as changing future launches. Time FE incidental to logit. Preserve reported slope −.39/−.42 and marginal effects −4.38/−4.64 pp; caption times100 for b is inconsistent with usual logit scaling, visually verified, not repaired. Source: IA pp3–5 EqA3 TableF3 p20.",
+    "A2767": "L5V28EJD",
+    "B2767": "h23",
+    "I2767": "1",
+    "J2767": "Other",
+    "K2767": "0",
+    "L2767": "0",
+    "M2767": "n/a",
+    "N2767": "Log average CLO equity yield for manager on next-quarter launch dummy; TableF3 yield-only/joint models, logit marginal effects2.66/2.55.",
+    "O2767": "Separate continuous performance treatment; one-yield-SD movement from17.2 to38.3% predicts2.1pp launch increase. Yield mean and SD are treatment quantities, not outcome benchmark. Do not import23% comparison from preceding downgrade coefficient paragraph. Source: IA pp4–5 TableF3."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73204,7 +73213,11 @@
     "H6779": "1",
     "I6779": "1",
     "J6779": "none",
-    "K6779": "Indicator manager launches at least one CLO in next quarter (0/1); unconditional launch rate23% establishes zeros."
+    "K6779": "Indicator manager launches at least one CLO in next quarter (0/1); unconditional launch rate23% establishes zeros.",
+    "A6780": "L5V28EJD",
+    "B6780": "h23",
+    "C6780": "hy1",
+    "K6780": "Indicator manager launches any new CLO next quarter, zero otherwise."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
