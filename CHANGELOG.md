@@ -418335,3 +418335,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T07:14:15.612999+00:00 — Review KRNZM9QV s2: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1278",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1279",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1280",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1278",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1279",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1280",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1278",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1279",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1280",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I513",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J513",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K513",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L513",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M513",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O513",
+    "before": null,
+    "after": "Broad author-intention inclusion despite p273 explicit warning that cross-sectional tests do not imply causation. Countervailing parameter-specific language: p278 dependent sort allows us to see the effect holding size/trading roughly constant; p273 magnitude of the effect; p281 competition compresses realized spreads. This is intended-effect evidence, not a claim of credible identification. Parent priority: adjudicate disclaimer consistently across these US observational settings. No FE, matching weights, or IV; sorting controls are not fixed effects. Reported horizons1,5,10,20sec; full term structure calculated1–20sec. Differences and decomposition identities do not create same-outcome mean benchmarks. Rounded zero differences do not establish mass at zero in stock-level spread outcomes. Source: §3.4.1 Table4 pp280–282."
+  }
+]
+```
