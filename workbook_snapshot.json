@@ -26326,7 +26326,16 @@
     "L2715": "0",
     "M2715": "n/a",
     "N2715": "Lagged log realized Amihud affects current log relative bid-ask spread; Table4 reverse VAR-X cross-lag −.007, not significant.",
-    "O2715": "Substantive reverse-direction null explicitly described as not vice versa. Include null, not diagnostic-only autoregression. Separate continuous treatment from s2; no FE, IV or structural innovation restriction reported. Source: §4.2 p871 Table4."
+    "O2715": "Substantive reverse-direction null explicitly described as not vice versa. Include null, not diagnostic-only autoregression. Separate continuous treatment from s2; no FE, IV or structural innovation restriction reported. Source: §4.2 p871 Table4.",
+    "A2716": "KKKD4ZV5",
+    "B2716": "h2",
+    "I2716": "1",
+    "J2716": "OLS",
+    "K2716": "1",
+    "L2716": "1",
+    "M2716": "n/a",
+    "N2716": "U.S. bank holiday versus ordinary day effect on RPVE conditional on average indirect-leg illiquidity; Table5 US, Eq4 intercept and slope shifts.",
+    "O2716": "Binary exogenous holiday exposure, not continuous interaction coding. Effect at illiquidity A is δα+δβ A, not δα alone. No untreated group/time interaction or parallel-trends argument; OLS not DiD. All seven δβ negative, including CHF −.121, GBP −.108, NOK −.392, SEK −.278, AUD −.177, CAD −.131, JPY −.123. Printed US δα positive for every triplet despite negative-intercept prediction; preserve conflict. Central holiday-based evidence supports liquidity–efficiency mechanism. Source: §5.1 pp871–873 Eq4 Table5 US."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -71969,7 +71978,14 @@
     "A6676": "KKKD4ZV5",
     "B6676": "h1",
     "C6676": "hy1",
-    "K6676": "Current daily log relative bid-ask spread (BAS); reverse cross-lag outcome, coefficient −.007 on lagged log Amihud."
+    "K6676": "Current daily log relative bid-ask spread (BAS); reverse cross-lag outcome, coefficient −.007 on lagged log Amihud.",
+    "A6677": "KKKD4ZV5",
+    "B6677": "h2",
+    "C6677": "hy1",
+    "H6677": "0",
+    "I6677": "unknown",
+    "J6677": "none",
+    "K6677": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
