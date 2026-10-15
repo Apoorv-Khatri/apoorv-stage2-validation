@@ -436998,3 +436998,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:21:45.584329+00:00 — Review L5V28EJD h8: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6738",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6738",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6738",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6738",
+    "before": null,
+    "after": "Negative of loan downgrade-week CAR, percent; Eq9."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2752",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2752",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2752",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2752",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2752",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2752",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2752",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2752",
+    "before": null,
+    "after": "NewCLO: newly issued CLO assets / lagged outstanding CLO assets, percent on loan price impact (negative week0 CAR); Table9 A/B coefficients −.722 / .293, univariate/joint controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2752",
+    "before": null,
+    "after": "Author-intention inclusion, not endorsement of exogeneity. No IV or randomized assignment. Substantive policy-channel proxy with acknowledged endogeneity; null/sign-reversed joint estimates retained. No FE. Explained changes divided by observed changes are decomposition diagnostics, not untreated outcome levels; flagged for parent judgment. Source: Main pp1135–1138 Table9/Eq9."
+  }
+]
+```
