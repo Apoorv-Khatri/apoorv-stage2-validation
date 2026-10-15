@@ -28851,7 +28851,16 @@
     "L2954": "1",
     "M2954": "n/a",
     "N2954": "Figure2 A/B: continuous standardized foreign institutional ownership originating in Estonia (EST), effect on log overall environmental and social scores. Origin-specific regressor; non-US investee-firm sample. Domestic ownership and baseline controls/FE retained. No numerical coefficient digitized.",
-    "O2954": "p708 states regressions identical to Tables6/7 except ownership disaggregated by investor origin; country, industry and year FE retain the baseline identifying rationale. Figure2 standardizes foreign ownership, not outcomes. WVS norm is the vertical plotting coordinate, not a median-based treatment definition in this regression. The same country regressor across E/S outcomes remains grouped. Country code visually verified in both panels; no outcome benchmark comparison. Source: Final p709 Figure2 panels A/B (visually read country labels); p708 article.txt L1082–1098 and caption L1165–1168."
+    "O2954": "p708 states regressions identical to Tables6/7 except ownership disaggregated by investor origin; country, industry and year FE retain the baseline identifying rationale. Figure2 standardizes foreign ownership, not outcomes. WVS norm is the vertical plotting coordinate, not a median-based treatment definition in this regression. The same country regressor across E/S outcomes remains grouped. Country code visually verified in both panels; no outcome benchmark comparison. Source: Final p709 Figure2 panels A/B (visually read country labels); p708 article.txt L1082–1098 and caption L1165–1168.",
+    "A2955": "NGGU7KDV",
+    "B2955": "h77",
+    "I2955": "1",
+    "J2955": "HDFE",
+    "K2955": "0",
+    "L2955": "1",
+    "M2955": "n/a",
+    "N2955": "Figure2 A/B: continuous standardized foreign institutional ownership originating in United States (USA), effect on log overall environmental and social scores. Origin-specific regressor; non-US investee-firm sample. Domestic ownership and baseline controls/FE retained. No numerical coefficient digitized.",
+    "O2955": "p708 states regressions identical to Tables6/7 except ownership disaggregated by investor origin; country, industry and year FE retain the baseline identifying rationale. Figure2 standardizes foreign ownership, not outcomes. WVS norm is the vertical plotting coordinate, not a median-based treatment definition in this regression. The same country regressor across E/S outcomes remains grouped. Country code visually verified in both panels; no outcome benchmark comparison. Source: Final p709 Figure2 panels A/B (visually read country labels); p708 article.txt L1082–1098 and caption L1165–1168."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -77521,7 +77530,15 @@
     "A7232": "NGGU7KDV",
     "B7232": "h76",
     "C7232": "hy2",
-    "K7232": "Natural log of overall social score (equal category weights; 0–100 before log)."
+    "K7232": "Natural log of overall social score (equal category weights; 0–100 before log).",
+    "A7233": "NGGU7KDV",
+    "B7233": "h77",
+    "C7233": "hy1",
+    "K7233": "Natural log of overall environmental score (equal category weights; 0–100 before log).",
+    "A7234": "NGGU7KDV",
+    "B7234": "h77",
+    "C7234": "hy2",
+    "K7234": "Natural log of overall social score (equal category weights; 0–100 before log)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
