@@ -26344,7 +26344,16 @@
     "L2717": "0",
     "M2717": "n/a",
     "N2717": "Euro-area bank holiday versus ordinary day effect on RPVE, conditional intercept and illiquidity-slope changes, Table5 EUR.",
-    "O2717": "Distinct holiday jurisdiction treatment. Effect δα+δβ A; no DiD or IV receipt. NOK/SEK slope shifts −.405/−.261; include insignificant and opposite-sign coefficients for other triplets. Source p872 calls δα an impact on illiquidity although Eq4 dependent variable is mispricing: do not relabel dependent variable. Source: §5.1 pp872–873 Table5 EUR."
+    "O2717": "Distinct holiday jurisdiction treatment. Effect δα+δβ A; no DiD or IV receipt. NOK/SEK slope shifts −.405/−.261; include insignificant and opposite-sign coefficients for other triplets. Source p872 calls δα an impact on illiquidity although Eq4 dependent variable is mispricing: do not relabel dependent variable. Source: §5.1 pp872–873 Table5 EUR.",
+    "A2718": "KKKD4ZV5",
+    "B2718": "h4",
+    "I2718": "1",
+    "J2718": "OLS",
+    "K2718": "1",
+    "L2718": "1",
+    "M2718": "n/a",
+    "N2718": "SNB cap-removal regime indicator during two months after January15 2015 affects RPVE conditional on illiquidity, Table5 SNB; Eq4 replaces holiday indicator.",
+    "O2718": "Binary policy exposure; conditional effect δα+δβ A. Before/after regime/slope shift is not DiD absent untreated group or parallel trends. Prose emphasizes European positive interaction, but AUD δβ −.192 and CHF/GBP/JPY positive; retain all nulls and contrary signs. Table caption says from January15; prose specifies two-month post window. Do not invent sample restriction beyond stated indicator window. Source: §5.2 pp873–874; Table5 SNB."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -72001,7 +72010,14 @@
     "H6678": "0",
     "I6678": "unknown",
     "J6678": "none",
-    "K6678": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
+    "K6678": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units.",
+    "A6679": "KKKD4ZV5",
+    "B6679": "h4",
+    "C6679": "hy1",
+    "H6679": "0",
+    "I6679": "unknown",
+    "J6679": "none",
+    "K6679": "RPVE: sum of absolute one-minute triangular-return pricing errors for direct EURUSD versus synthetic EURUSD via third currency (CHF,GBP,NOK,SEK,AUD,CAD,JPY); Eq3. Not realized arbitrage profit or a binary violation indicator. Dependent variable is in levels, not logs. Exact daily-versus-other aggregation for Table5/6 is not explicitly restated in captions; do not infer standardized outcome units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
