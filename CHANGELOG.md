@@ -486381,3 +486381,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:54:11.732118+00:00 — Review NSKXG8S6 h9: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7275",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7275",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7275",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7275",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7275",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7275",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7275",
+    "before": null,
+    "after": "Innovation output/citation-weighted patents in truncation-bias robustness. Exact final alternative outcome definitions and transformations are unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2979",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2979",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2979",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2979",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2979",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2979",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2979",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2979",
+    "before": null,
+    "after": "Internet Appendix truncation-bias robustness: alternative adjustments to innovation measurements following Lerner–Seru and Dass–Nanda–Xiao under baseline binary innovation DiD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2979",
+    "before": null,
+    "after": "Minimum scope from explicit final claim of robustness tests. Older IA1 includes sample ending2007, first-three-year citations, bias-matched sample, bias controls; final grid not certified. Do not enter older coefficients as final. Source: Final p1976 §3.1 L664–687; older appendix IA1 only as corroborating provenance."
+  }
+]
+```
