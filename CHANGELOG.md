@@ -469785,3 +469785,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:03:55.543640+00:00 — Review ME6H5V5K h22: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6993",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6993",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6993",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6993",
+    "before": null,
+    "after": "Firm exits in year t indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2863",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2863",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2863",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2863",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2863",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2863",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2863",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2863",
+    "before": null,
+    "after": "Internet Appendix E.1, final pp2527-28: likelihood of being a high-growth startup and exit risk across firm ages. Slight increase in first year and lower risk at ages2-8; minimum scope only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2863",
+    "before": null,
+    "after": "Final article confirms the implemented substantive exit-risk result, not its link, exact coefficient grid or FE specification. Draft A.1 uses linear age-interacted high-growth share and year/sector or year-sector FE, but those details are not certified final. Keep implemented method unknown pending final supplement. No invented IV. Source: Final pp2527-28, article.txt L1242-1286."
+  }
+]
+```

@@ -27922,7 +27922,16 @@
     "L2862": "1",
     "M2862": "n/a",
     "N2862": "Introduction joint recession and1pp GZ-spread counterfactual relative to normal-GDP/average-spread scenario; reported average age10 employment-4.3%.",
-    "O2862": "Joint exposure is distinct from marginal recession or marginal financial shock; not a separate regression. Printed4.3% preserved; no invented exact compounding. Source: p2511 L223-231; pp2536-37."
+    "O2862": "Joint exposure is distinct from marginal recession or marginal financial shock; not a separate regression. Printed4.3% preserved; no invented exact compounding. Source: p2511 L223-231; pp2536-37.",
+    "A2863": "ME6H5V5K",
+    "B2863": "h22",
+    "I2863": "1",
+    "J2863": "unknown",
+    "K2863": "0",
+    "L2863": "0",
+    "M2863": "unknown",
+    "N2863": "Internet Appendix E.1, final pp2527-28: likelihood of being a high-growth startup and exit risk across firm ages. Slight increase in first year and lower risk at ages2-8; minimum scope only.",
+    "O2863": "Final article confirms the implemented substantive exit-risk result, not its link, exact coefficient grid or FE specification. Draft A.1 uses linear age-interacted high-growth share and year/sector or year-sector FE, but those details are not certified final. Keep implemented method unknown pending final supplement. No invented IV. Source: Final pp2527-28, article.txt L1242-1286."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -75537,7 +75546,11 @@
     "A6992": "ME6H5V5K",
     "B6992": "h21",
     "C6992": "hy1",
-    "K6992": "Reported average employment per firm ten years after creation under the stated composition-of-entry counterfactual. Final reports a percentage change but Table1 input is captioned log employment; implemented level/log conversion unresolved. Not an absolute aggregate job count."
+    "K6992": "Reported average employment per firm ten years after creation under the stated composition-of-entry counterfactual. Final reports a percentage change but Table1 input is captioned log employment; implemented level/log conversion unresolved. Not an absolute aggregate job count.",
+    "A6993": "ME6H5V5K",
+    "B6993": "h22",
+    "C6993": "hy1",
+    "K6993": "Firm exits in year t indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
