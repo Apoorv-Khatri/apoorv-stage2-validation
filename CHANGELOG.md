@@ -456627,3 +456627,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:51:43.393201+00:00 — Review MBWIN7NL s1: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1325",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1325",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1325",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1325",
+    "before": null,
+    "after": "Table2B p74: the estimated dependent variable is monthly value-weighted portfolio return; alpha is its FF3-plus-momentum regression intercept. Reported post-buy alpha contrasts are in monthly return units over a one-year post-purchase portfolio window, not a one-year cumulative return or outcome-SD transformation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I534",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J534",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K534",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L534",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M534",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N534",
+    "before": null,
+    "after": "Table2 PanelB: post-buy monthly FF3+momentum alpha contrast, local nonpolitical holdings versus contribution-only local holdings. Alpha 0.0166 versus -0.0010; printed difference 0.0176. Portfolio-value weights; size/book-to-market benchmark selection, not a randomized intervention. Same political-category contrast is also tabulated for local nonheld and nonlocal held strata in Table2B; retain these sample variants, including null results, within this treatment setting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O534",
+    "before": null,
+    "after": "Model sign +0.0010 is incorrect. Factor adjustment is not FE. Causal intention: information versus political-motive investment hypotheses; not simply pre-buy momentum description. Source: pp74-75 Table2B; article.txt L379-451."
+  }
+]
+```
