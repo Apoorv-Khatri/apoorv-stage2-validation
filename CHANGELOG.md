@@ -485193,3 +485193,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:43:54.746621+00:00 — Review NSKXG8S6 s5: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1427",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1427",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1427",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I574",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J574",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K574",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L574",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M574",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O574",
+    "before": null,
+    "after": "Same exposure treatment across CEO-delta, turnover-sensitivity and tenure subgroups; group-specific total effects, not bare triple coefficients. Pre-regulation timing is explicit. Effect/effect ratios do not qualify as outcome benchmarks. Source: Final pp1987–1989 Table6; L1382–1485,1536–1542."
+  }
+]
+```
