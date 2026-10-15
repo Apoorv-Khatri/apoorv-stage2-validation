@@ -432627,3 +432627,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T07:18:29.953598+00:00 — Review KRNZM9QV h5: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6718",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6718",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6718",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6718",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6718",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6718",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6718",
+    "before": null,
+    "after": "Total intra-sweep effective spread: sum of effective half-spreads across all trades in collapsed sweep, bp; not share-weighted average outside sweep."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2739",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2739",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2739",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2739",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2739",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2739",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2739",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2739",
+    "before": null,
+    "after": "High versus low prior-half-hour quote-update groups within size/trade cells among large liquidity sweeps: intra-sweep total effective spread cost contrast, 7–37bp higher in low-update groups."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2739",
+    "before": null,
+    "after": "Broad author-intention inclusion despite p273 explicit warning that cross-sectional tests do not imply causation. Countervailing parameter-specific language: p278 dependent sort allows us to see the effect holding size/trading roughly constant; p273 magnitude of the effect; p281 competition compresses realized spreads. This is intended-effect evidence, not a claim of credible identification. Parent priority: adjudicate disclaimer consistently across these US observational settings. No FE, matching weights, or IV; sorting controls are not fixed effects. Distinct update-intensity treatment from occurrence of sweep in s3. Minimum directly reported high-low estimand is intra-sweep cost; small negative prepost quality changes are already s3 conditional-sample variants, not proven high-low differential coefficients. No qualifying baseline for the7–37bp contrast. Source: §3.5 p284 article.txt881–895."
+  }
+]
+```

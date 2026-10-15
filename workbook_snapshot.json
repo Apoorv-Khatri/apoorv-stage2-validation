@@ -26581,7 +26581,16 @@
     "L2738": "0",
     "M2738": "n/a",
     "N2738": "Continuous quote-update activity in half-hour Fama–MacBeth regressions of variance ratios and effective spreads, controlling market capitalization, price and trading activity; unreported slope plots show same directional conclusions as Table3.",
-    "O2738": "Broad author-intention inclusion despite p273 explicit warning that cross-sectional tests do not imply causation. Countervailing parameter-specific language: p278 dependent sort allows us to see the effect holding size/trading roughly constant; p273 magnitude of the effect; p281 competition compresses realized spreads. This is intended-effect evidence, not a claim of credible identification. Parent priority: adjudicate disclaimer consistently across these US observational settings. No FE, matching weights, or IV; sorting controls are not fixed effects. Distinct continuous-dose linear estimator, not binary median contrast; no actual identifying FE. Exact quote-activity regressor scale not specified. Prose says variance ratios without resolving rawVR versus |VR−1|, so preserve outcome-scale uncertainty. Do not turn market cap/price nuisance coefficients into extra treatments. Source: §3.4 p280 article.txt640–648."
+    "O2738": "Broad author-intention inclusion despite p273 explicit warning that cross-sectional tests do not imply causation. Countervailing parameter-specific language: p278 dependent sort allows us to see the effect holding size/trading roughly constant; p273 magnitude of the effect; p281 competition compresses realized spreads. This is intended-effect evidence, not a claim of credible identification. Parent priority: adjudicate disclaimer consistently across these US observational settings. No FE, matching weights, or IV; sorting controls are not fixed effects. Distinct continuous-dose linear estimator, not binary median contrast; no actual identifying FE. Exact quote-activity regressor scale not specified. Prose says variance ratios without resolving rawVR versus |VR−1|, so preserve outcome-scale uncertainty. Do not turn market cap/price nuisance coefficients into extra treatments. Source: §3.4 p280 article.txt640–648.",
+    "A2739": "KRNZM9QV",
+    "B2739": "h5",
+    "I2739": "1",
+    "J2739": "OLS",
+    "K2739": "1",
+    "L2739": "0",
+    "M2739": "n/a",
+    "N2739": "High versus low prior-half-hour quote-update groups within size/trade cells among large liquidity sweeps: intra-sweep total effective spread cost contrast, 7–37bp higher in low-update groups.",
+    "O2739": "Broad author-intention inclusion despite p273 explicit warning that cross-sectional tests do not imply causation. Countervailing parameter-specific language: p278 dependent sort allows us to see the effect holding size/trading roughly constant; p273 magnitude of the effect; p281 competition compresses realized spreads. This is intended-effect evidence, not a claim of credible identification. Parent priority: adjudicate disclaimer consistently across these US observational settings. No FE, matching weights, or IV; sorting controls are not fixed effects. Distinct update-intensity treatment from occurrence of sweep in s3. Minimum directly reported high-low estimand is intra-sweep cost; small negative prepost quality changes are already s3 conditional-sample variants, not proven high-low differential coefficients. No qualifying baseline for the7–37bp contrast. Source: §3.5 p284 article.txt881–895."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -72494,7 +72503,14 @@
     "A6717": "KRNZM9QV",
     "B6717": "h4",
     "C6717": "hy2",
-    "K6717": "Effective half-spread in Fama–MacBeth regression; precise scaling not separately restated."
+    "K6717": "Effective half-spread in Fama–MacBeth regression; precise scaling not separately restated.",
+    "A6718": "KRNZM9QV",
+    "B6718": "h5",
+    "C6718": "hy1",
+    "H6718": "0",
+    "I6718": "unknown",
+    "J6718": "none",
+    "K6718": "Total intra-sweep effective spread: sum of effective half-spreads across all trades in collapsed sweep, bp; not share-weighted average outside sweep."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
