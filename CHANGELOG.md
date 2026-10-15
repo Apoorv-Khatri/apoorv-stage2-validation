@@ -470265,3 +470265,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:05:17.102309+00:00 — Review ME6H5V5K h30: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7001",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7002",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7001",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7002",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7001",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7002",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7001",
+    "before": null,
+    "after": "Indicator of starting an noninnovative business under the alternative classification in final p2523. Final novelty and/or new-technology wording retained; exact cutoff unresolved, not draft AND rule."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7002",
+    "before": null,
+    "after": "Indicator of starting an innovative business under the alternative classification in final p2523. Final novelty and/or new-technology wording retained; exact cutoff unresolved, not draft AND rule."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2867",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2867",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2867",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2867",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2867",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2867",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2867",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2867",
+    "before": null,
+    "after": "Internet Appendix G.2: baseline GZ spread analysis replicated using innovative versus complementary noninnovative startup-entry categories; final p2523 confirms qualitative main results."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2867",
+    "before": null,
+    "after": "Baseline probit framework inherited from Section4.2. Final defines innovative by novelty to potential customers and/or new technology, without an exact response threshold. Draft A.8/fn33 uses all customers AND technology less than one year; do not import that stronger conjunction or its exact columns as final. Main crisis and GZ specifications provide minimum scope; additional RR cross-product remains draft-only. Source: Final p2523 L965-971; baseline Sections4.2-4.3."
+  }
+]
+```
