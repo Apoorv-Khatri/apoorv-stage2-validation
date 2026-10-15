@@ -26942,7 +26942,16 @@
     "L2772": "0",
     "M2772": "n/a",
     "N2772": "Bottom versus top book-price tercile within CLO portfolio on sale of above-CCC loans; TableF9 rating subsamples and interactions with above-median12-month OC-slack change.",
-    "O2772": "Causal-intent gains-trading mechanism with explicit weak identification warning. Logit, time FE. Low-book marginal effects .36/.82/1.09/.13pp; joint model .40 and interaction−.15. Middle .10/.23/.41/−.02; joint .11 and interaction−.05. Treatment is ranking of historical cost, not realized profit or random price. Caption month t versus prose t−1 preserved. Source: IA pp7–9 AppendixE/TableF9 p28."
+    "O2772": "Causal-intent gains-trading mechanism with explicit weak identification warning. Logit, time FE. Low-book marginal effects .36/.82/1.09/.13pp; joint model .40 and interaction−.15. Middle .10/.23/.41/−.02; joint .11 and interaction−.05. Treatment is ranking of historical cost, not realized profit or random price. Caption month t versus prose t−1 preserved. Source: IA pp7–9 AppendixE/TableF9 p28.",
+    "A2773": "L5V28EJD",
+    "B2773": "h29",
+    "I2773": "1",
+    "J2773": "Other",
+    "K2773": "1",
+    "L2773": "0",
+    "M2773": "n/a",
+    "N2773": "Middle versus top book-price tercile within CLO portfolio on sale of above-CCC loans; TableF9 rating subsamples and interactions with above-median12-month OC-slack change.",
+    "O2773": "Causal-intent gains-trading mechanism with explicit weak identification warning. Logit, time FE. Low-book marginal effects .36/.82/1.09/.13pp; joint model .40 and interaction−.15. Middle .10/.23/.41/−.02; joint .11 and interaction−.05. Treatment is ranking of historical cost, not realized profit or random price. Caption month t versus prose t−1 preserved. Source: IA pp7–9 AppendixE/TableF9 p28."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73297,7 +73306,14 @@
     "H6785": "1",
     "I6785": "1",
     "J6785": "none",
-    "K6785": "Monthly dummy for sale of above-CCC loan, zero otherwise; full/rating subsamples."
+    "K6785": "Monthly dummy for sale of above-CCC loan, zero otherwise; full/rating subsamples.",
+    "A6786": "L5V28EJD",
+    "B6786": "h29",
+    "C6786": "hy1",
+    "H6786": "1",
+    "I6786": "1",
+    "J6786": "none",
+    "K6786": "Monthly dummy for sale of above-CCC loan, zero otherwise; full/rating subsamples."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
