@@ -457149,3 +457149,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:53:30.802220+00:00 — Review MBWIN7NL s5: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I538",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J538",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K538",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L538",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M538",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N538",
+    "before": null,
+    "after": "Table6: lagged Politically Affiliated Trustees share effect on Local Bias, Local Contribution Bias and Local Lobbying Bias. Political-bias coefficients0.180/0.534 and0.183/0.505; Local Bias negative. Financial expertise is split as a distinct treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O538",
+    "before": null,
+    "after": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Board share of active/former legislators, Congress members, ex officio, governor-appointed or state-representative-elected trustees (TableB1). Source: pp80-81 Table6; L826-973."
+  }
+]
+```
