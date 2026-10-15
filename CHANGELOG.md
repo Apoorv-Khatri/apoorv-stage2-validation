@@ -472782,3 +472782,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:59:30.244783+00:00 — Review NGGU7KDV s8: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1393",
+    "before": null,
+    "after": "Minimum final-main-confirmed environmental performance outcome family; exact overall/proprietary measures and transformations unverified without OB7. Do not force four precise rows from baseline alone."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1394",
+    "before": null,
+    "after": "Minimum final-main-confirmed social performance outcome family; exact overall/proprietary measures and transformations unverified without OB7. Do not force four precise rows from baseline alone."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I562",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J562",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K562",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L562",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M562",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N562",
+    "before": null,
+    "after": "OB7 forward panel Granger regression: subsequent E&S scores regressed on lagged Total IO, lagged E&S scores and lagged covariates, with firm FE. Reverse E&S-to-IO screening equations are separately recorded."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O562",
+    "before": null,
+    "after": "Final text explicitly confirms firm fixed effects for unobserved firm heterogeneity. Additional dimensions unresolved without appendix; do not infer HDFE. Granger temporal precedence not proof of causal identification. Source: p702 Section4.1 OB7; L652–683."
+  }
+]
+```
