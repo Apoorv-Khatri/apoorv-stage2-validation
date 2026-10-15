@@ -434406,3 +434406,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:17:25.373492+00:00 — Review L5V28EJD s4: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I522",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J522",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K522",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L522",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M522",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N522",
+    "before": null,
+    "after": "Log number of constrained CLO owners on CAR at reported horizons; Table8 Panel A only. Other ownership definitions split into h3–h5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O522",
+    "before": null,
+    "after": "Author-intention inclusion, not endorsement of exogeneity. No IV or randomized assignment. Calendar dummies present, but the relevant main-article discussion does not establish a distinct identifying-FE argument beyond routine temporal controls; OLS survey classification retained. No HDFE: only one calendar set. Count specification materially supports the central constrained-ownership conclusion and stress extrapolation in §5.3. Post-event convergence included substantively. Source: Main pp1134–1136 Table8 A/Eq8."
+  }
+]
+```
