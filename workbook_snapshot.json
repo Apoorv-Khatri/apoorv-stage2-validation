@@ -27461,7 +27461,16 @@
     "L2819": "0",
     "M2819": "n/a",
     "N2819": "Table8: New Public Integrity Index effect on annual Risk Shift. Higher integrity interpreted as less risky investment; -5.341/-5.460.",
-    "O2819": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Inverse integrity rank multiplied by bills passed measure. Prose p82 uses NUMBER of introduced bills that became law sponsored by state politicians; AppendixB uses PERCENTAGE of bills passed in state. Preserve construction conflict. Source: pp83-85,87 Table8; L1053-1098,L1272-1282,L1339-1349."
+    "O2819": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Inverse integrity rank multiplied by bills passed measure. Prose p82 uses NUMBER of introduced bills that became law sponsored by state politicians; AppendixB uses PERCENTAGE of bills passed in state. Preserve construction conflict. Source: pp83-85,87 Table8; L1053-1098,L1272-1282,L1339-1349.",
+    "A2820": "MBWIN7NL",
+    "B2820": "h25",
+    "I2820": "1",
+    "J2820": "FE",
+    "K2820": "0",
+    "L2820": "0",
+    "M2820": "n/a",
+    "N2820": "Table8: Funded Ratio effect on annual Risk Shift. Risk-shifting hypothesis: lower funding increases risk; -0.020,-0.037,-0.041,-0.043.",
+    "O2820": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Plan total actuarial assets / total actuarial liabilities. Authors discuss allocation LEVELS, but actual Table8 dependent variable is annual allocation CHANGE. Source: pp83-85,87 Table8; L1053-1098,L1272-1282,L1339-1349."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74517,7 +74526,11 @@
     "A6897": "MBWIN7NL",
     "B6897": "h24",
     "C6897": "hy1",
-    "K6897": "Risk Shift: annual change in share allocated to equities, real estate, private equity, hedge funds and other alternatives; not risky-asset stock level."
+    "K6897": "Risk Shift: annual change in share allocated to equities, real estate, private equity, hedge funds and other alternatives; not risky-asset stock level.",
+    "A6898": "MBWIN7NL",
+    "B6898": "h25",
+    "C6898": "hy1",
+    "K6898": "Risk Shift: annual change in share allocated to equities, real estate, private equity, hedge funds and other alternatives; not risky-asset stock level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
