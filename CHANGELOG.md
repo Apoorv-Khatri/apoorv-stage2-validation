@@ -486906,3 +486906,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:57:31.664599+00:00 — Review NSKXG8S6 h14: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7280",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7280",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7280",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7280",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7280",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7280",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7280",
+    "before": null,
+    "after": "Fund portfolio allocation toward innovative/high-citation investee firms; exact final aggregation and transformation not reported in main article. Older appendix uses portfolio-weighted fixed pre-regulation citation/patent measures."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E64",
+    "before": null,
+    "after": "DONE — Available-source review of all 38 final article pages and separately inventoried 27-page August2017 appendix, with independent audit. Final supplement remains unavailable; older grids held out rather than substituted. Retain 22 settings,29 outcomes and two average-firm count-translation comparisons. Their implicit mean linkage/log1p interpretation is caveated; alignment unknown because the benchmark identity is not explicit. Single-pre-year measurement robustness merged into baseline; distinct continuous/blockholder treatments retained. Independent linear DiD separated from unresolved joint-ML implementation; no invented DDD for ownership-performance slopes. Fund behavior and allocation central-result flags supported by introduction. Patent-quality estimand qualification retained without erasing observed zeros. Original model fields, IDs and links preserved; completion does not certify missing final appendix coverage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2984",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2984",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2984",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2984",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2984",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2984",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2984",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2984",
+    "before": null,
+    "after": "Internet Appendix §6.3: change in affected funds’ portfolio allocation toward highly innovative firms following disclosure regulation; reduced weight toward firms generating higher-citation patents."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2984",
+    "before": null,
+    "after": "Final text establishes allocation result but not estimator/formula. Older IA14 is binary TreatFund DiD for value-weighted pre-rule innovation holdings with three outcomes; final counterpart not verified. Minimum final-confirmed outcome retained; no imported grid or numerical estimates.  Main=1: final introduction p1970 explicitly enumerates increased holdings-performance sensitivity and reduced innovative-firm allocation alongside shorter horizons as direct evidence of fund-manager short-termism (article.txt L275–290); abstract pp1966 and conclusion p1997 make trading behavior central corroboration. Missing final estimator details do not reduce substantive main status. Source: Final pp1995–1997 L1961–1975,2034–2037; older appendix IA14; final p1970 L275–290, p1966 L18–26."
+  }
+]
+```

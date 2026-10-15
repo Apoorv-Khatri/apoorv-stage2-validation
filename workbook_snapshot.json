@@ -297,6 +297,7 @@
     "B64": "Mutual Fund Transparency and Corporate Myopia",
     "C64": "fin",
     "D64": 9,
+    "E64": "DONE — Available-source review of all 38 final article pages and separately inventoried 27-page August2017 appendix, with independent audit. Final supplement remains unavailable; older grids held out rather than substituted. Retain 22 settings,29 outcomes and two average-firm count-translation comparisons. Their implicit mean linkage/log1p interpretation is caveated; alignment unknown because the benchmark identity is not explicit. Single-pre-year measurement robustness merged into baseline; distinct continuous/blockholder treatments retained. Independent linear DiD separated from unresolved joint-ML implementation; no invented DDD for ownership-performance slopes. Fund behavior and allocation central-result flags supported by introduction. Patent-quality estimand qualification retained without erasing observed zeros. Original model fields, IDs and links preserved; completion does not certify missing final appendix coverage.",
     "A65": "P7K2R8KE",
     "B65": "Spending Less after (Seemingly) Bad News",
     "C65": "fin",
@@ -29169,7 +29170,16 @@
     "L2983": "1",
     "M2983": "n/a",
     "N2983": "Internet Appendix §6.3: regulation-associated change in sensitivity of affected mutual fund ownership to investee firms’ return on assets.",
-    "O2983": "Distinct performance exposure from stock returns in h12. Final estimator unavailable; older before/after slope regression has firm/time dummies but no unaffected-fund comparison. Do not automatically promote to DiD or identifying FE. Final scale and coefficients not certified. Main=1: final introduction p1970 explicitly enumerates increased holdings-performance sensitivity and reduced innovative-firm allocation alongside shorter horizons as direct evidence of fund-manager short-termism (article.txt L275–290); abstract pp1966 and conclusion p1997 make trading behavior central corroboration. Missing final estimator details do not reduce substantive main status. Source: Final p1995 §6.3 L1961–1975; older appendix IE1/IA13; final p1970 L275–290, p1966 L18–26."
+    "O2983": "Distinct performance exposure from stock returns in h12. Final estimator unavailable; older before/after slope regression has firm/time dummies but no unaffected-fund comparison. Do not automatically promote to DiD or identifying FE. Final scale and coefficients not certified. Main=1: final introduction p1970 explicitly enumerates increased holdings-performance sensitivity and reduced innovative-firm allocation alongside shorter horizons as direct evidence of fund-manager short-termism (article.txt L275–290); abstract pp1966 and conclusion p1997 make trading behavior central corroboration. Missing final estimator details do not reduce substantive main status. Source: Final p1995 §6.3 L1961–1975; older appendix IE1/IA13; final p1970 L275–290, p1966 L18–26.",
+    "A2984": "NSKXG8S6",
+    "B2984": "h14",
+    "I2984": "1",
+    "J2984": "unknown",
+    "K2984": "1",
+    "L2984": "1",
+    "M2984": "n/a",
+    "N2984": "Internet Appendix §6.3: change in affected funds’ portfolio allocation toward highly innovative firms following disclosure regulation; reduced weight toward firms generating higher-citation patents.",
+    "O2984": "Final text establishes allocation result but not estimator/formula. Older IA14 is binary TreatFund DiD for value-weighted pre-rule innovation holdings with three outcomes; final counterpart not verified. Minimum final-confirmed outcome retained; no imported grid or numerical estimates.  Main=1: final introduction p1970 explicitly enumerates increased holdings-performance sensitivity and reduced innovative-firm allocation alongside shorter horizons as direct evidence of fund-manager short-termism (article.txt L275–290); abstract pp1966 and conclusion p1997 make trading behavior central corroboration. Missing final estimator details do not reduce substantive main status. Source: Final pp1995–1997 L1961–1975,2034–2037; older appendix IA14; final p1970 L275–290, p1966 L18–26."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78115,7 +78125,14 @@
     "H7279": "0",
     "I7279": "unknown",
     "J7279": "unknown",
-    "K7279": "Subsequent affected mutual fund stock ownership; final paragraph does not restate scale. Older IA13 uses ownership share in levels."
+    "K7279": "Subsequent affected mutual fund stock ownership; final paragraph does not restate scale. Older IA13 uses ownership share in levels.",
+    "A7280": "NSKXG8S6",
+    "B7280": "h14",
+    "C7280": "hy1",
+    "H7280": "0",
+    "I7280": "unknown",
+    "J7280": "unknown",
+    "K7280": "Fund portfolio allocation toward innovative/high-citation investee firms; exact final aggregation and transformation not reported in main article. Older appendix uses portfolio-weighted fixed pre-regulation citation/patent measures."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
