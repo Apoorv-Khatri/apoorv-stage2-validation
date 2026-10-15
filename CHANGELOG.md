@@ -472347,3 +472347,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:56:02.547287+00:00 — Review NGGU7KDV s1: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K335",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K336",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K337",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K338",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R335",
+    "before": null,
+    "after": "No qualifying outcome benchmark: treatment SD/share multiplied by log-outcome coefficient (or high-minus-low coefficient) is a log-percent interpretation. Table1 descriptive outcome mean is not linked by the authors; do not invent comparison/alignment from it."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R336",
+    "before": null,
+    "after": "No qualifying outcome benchmark: treatment SD/share multiplied by log-outcome coefficient (or high-minus-low coefficient) is a log-percent interpretation. Table1 descriptive outcome mean is not linked by the authors; do not invent comparison/alignment from it."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R337",
+    "before": null,
+    "after": "No qualifying outcome benchmark: treatment SD/share multiplied by log-outcome coefficient (or high-minus-low coefficient) is a log-percent interpretation. Table1 descriptive outcome mean is not linked by the authors; do not invent comparison/alignment from it."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R338",
+    "before": null,
+    "after": "No qualifying outcome benchmark: treatment SD/share multiplied by log-outcome coefficient (or high-minus-low coefficient) is a log-percent interpretation. Table1 descriptive outcome mean is not linked by the authors; do not invent comparison/alignment from it."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J555",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K555",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M555",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O555",
+    "before": null,
+    "after": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Source: pp696,698–699 Table2A; article.txt L261–264,L384–497,L649–657."
+  }
+]
+```
