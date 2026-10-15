@@ -29133,7 +29133,16 @@
     "L2979": "0",
     "M2979": "n/a",
     "N2979": "Internet Appendix truncation-bias robustness: alternative adjustments to innovation measurements following Lerner–Seru and Dass–Nanda–Xiao under baseline binary innovation DiD.",
-    "O2979": "Minimum scope from explicit final claim of robustness tests. Older IA1 includes sample ending2007, first-three-year citations, bias-matched sample, bias controls; final grid not certified. Do not enter older coefficients as final. Source: Final p1976 §3.1 L664–687; older appendix IA1 only as corroborating provenance."
+    "O2979": "Minimum scope from explicit final claim of robustness tests. Older IA1 includes sample ending2007, first-three-year citations, bias-matched sample, bias controls; final grid not certified. Do not enter older coefficients as final. Source: Final p1976 §3.1 L664–687; older appendix IA1 only as corroborating provenance.",
+    "A2980": "NSKXG8S6",
+    "B2980": "h10",
+    "I2980": "1",
+    "J2980": "DiD_conventional",
+    "K2980": "1",
+    "L2980": "0",
+    "M2980": "n/a",
+    "N2980": "Internet Appendix: change in retail ownership for high versus low pre-regulation affected-fund-ownership firms after SEC rule; slight relative retail-ownership decline, ruling out retail ownership as alternative short-term-pressure channel.",
+    "O2980": "Substantive alternative-channel outcome, not balance/first-stage diagnostic. Final footnote supports high/low before/after contrast; exact coefficients/FE not reported there. Older IA10 shows linear DiD and RetailOwn=1-total institutional ownership, but numbers not transferred. Source: Final p1987 fn20 L1412–1415."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78051,7 +78060,14 @@
     "H7275": "0",
     "I7275": "unknown",
     "J7275": "unknown",
-    "K7275": "Innovation output/citation-weighted patents in truncation-bias robustness. Exact final alternative outcome definitions and transformations are unavailable."
+    "K7275": "Innovation output/citation-weighted patents in truncation-bias robustness. Exact final alternative outcome definitions and transformations are unavailable.",
+    "A7276": "NSKXG8S6",
+    "B7276": "h10",
+    "C7276": "hy1",
+    "H7276": "0",
+    "I7276": "unknown",
+    "J7276": "none",
+    "K7276": "Retail investor ownership share; older appendix defines 1 minus institutional ownership. Final footnote confirms outcome and relative decline, but not detailed construction."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

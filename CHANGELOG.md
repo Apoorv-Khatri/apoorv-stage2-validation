@@ -486486,3 +486486,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:54:51.156448+00:00 — Review NSKXG8S6 h10: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7276",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7276",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7276",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7276",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7276",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7276",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7276",
+    "before": null,
+    "after": "Retail investor ownership share; older appendix defines 1 minus institutional ownership. Final footnote confirms outcome and relative decline, but not detailed construction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2980",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2980",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2980",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2980",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2980",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2980",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2980",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2980",
+    "before": null,
+    "after": "Internet Appendix: change in retail ownership for high versus low pre-regulation affected-fund-ownership firms after SEC rule; slight relative retail-ownership decline, ruling out retail ownership as alternative short-term-pressure channel."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2980",
+    "before": null,
+    "after": "Substantive alternative-channel outcome, not balance/first-stage diagnostic. Final footnote supports high/low before/after contrast; exact coefficients/FE not reported there. Older IA10 shows linear DiD and RetailOwn=1-total institutional ownership, but numbers not transferred. Source: Final p1987 fn20 L1412–1415."
+  }
+]
+```
