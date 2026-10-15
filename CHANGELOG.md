@@ -456312,3 +456312,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:10:14.594532+00:00 — Review LVRD3VXI h11: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6841",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6842",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6841",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6842",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6841",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6842",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6841",
+    "before": null,
+    "after": "Holdings/exposure to risky stocks by institution type; banks, insurance companies, pensions and unclassified institutions tend to avoid risky stocks. Exact appendix measure and scale unavailable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6842",
+    "before": null,
+    "after": "Adjustment of exposure to risky stocks by institution type; the same categories are less willing to adjust. Exact appendix response measure and scale unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2793",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2793",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2793",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2793",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2793",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2793",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2793",
+    "before": null,
+    "after": "Institution-type risk-preference/preferred-habitat mechanism: institutional categories and their holdings of risky stocks and willingness to adjust risky-stock exposure. Final p988 and Section IV.E p1016 report implemented appendix results."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2793",
+    "before": null,
+    "after": "Final main-text evidence only; Appendix S1 not obtained. Implemented tests and qualitative findings are explicitly reported, not merely planned. Unknown estimator and treatment coding; do not invent table numbers, coefficients, FE, instrument sets, binary pooled groups, or detailed outcome scale. Additional splits require the appendix. Broad author-intention mechanism inclusion, not a claim of exogenous institutional type. Source: Main p988; p1016 Section IV.E, article.txt L172–181,L1987–1996."
+  }
+]
+```

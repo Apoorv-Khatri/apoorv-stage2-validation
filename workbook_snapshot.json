@@ -27147,7 +27147,16 @@
     "L2792": "0",
     "M2792": "n/a",
     "N2792": "Log beginning-quarter manager equity portfolio value on manager-quarter trading-induced shift toward risky stocks; TableVIII baseline and up/down-quarter interactions.",
-    "O2792": "Author-intention gate, not an endorsement of causal identification. Observational explanatory regression; no IV/RCT/RD/DiD. Continuous proxy for reputational concerns; explicit null conclusion for sentiment interactions retained, not treated as nuisance controls. Same-type median adjustment and quarter standardization, no identifying manager FE strategy; OLS. Interaction is modification of group/slope effect, not total effect. Aggregate sentiment quarter selection is outcome-dependent, a limitation rather than causal assignment. Source: Main pp1018–1020 TableVIII."
+    "O2792": "Author-intention gate, not an endorsement of causal identification. Observational explanatory regression; no IV/RCT/RD/DiD. Continuous proxy for reputational concerns; explicit null conclusion for sentiment interactions retained, not treated as nuisance controls. Same-type median adjustment and quarter standardization, no identifying manager FE strategy; OLS. Interaction is modification of group/slope effect, not total effect. Aggregate sentiment quarter selection is outcome-dependent, a limitation rather than causal assignment. Source: Main pp1018–1020 TableVIII.",
+    "A2793": "LVRD3VXI",
+    "B2793": "h11",
+    "I2793": "1",
+    "J2793": "unknown",
+    "K2793": "unknown",
+    "L2793": "0",
+    "M2793": "unknown",
+    "N2793": "Institution-type risk-preference/preferred-habitat mechanism: institutional categories and their holdings of risky stocks and willingness to adjust risky-stock exposure. Final p988 and Section IV.E p1016 report implemented appendix results.",
+    "O2793": "Final main-text evidence only; Appendix S1 not obtained. Implemented tests and qualitative findings are explicitly reported, not merely planned. Unknown estimator and treatment coding; do not invent table numbers, coefficients, FE, instrument sets, binary pooled groups, or detailed outcome scale. Additional splits require the appendix. Broad author-intention mechanism inclusion, not a claim of exogenous institutional type. Source: Main p988; p1016 Section IV.E, article.txt L172–181,L1987–1996."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73907,7 +73916,15 @@
     "A6840": "LVRD3VXI",
     "B6840": "h10",
     "C6840": "hy1",
-    "K6840": "Manager-quarter shift toward risky stocks: sum over securities of beginning-quarter log(1+monthly return SD) times change in manager portfolio weights due to trading; subtract same-type median then standardize to unit variance and zero mean each quarter. Outcome SD is of this adjusted measure, not of return volatility."
+    "K6840": "Manager-quarter shift toward risky stocks: sum over securities of beginning-quarter log(1+monthly return SD) times change in manager portfolio weights due to trading; subtract same-type median then standardize to unit variance and zero mean each quarter. Outcome SD is of this adjusted measure, not of return volatility.",
+    "A6841": "LVRD3VXI",
+    "B6841": "h11",
+    "C6841": "hy1",
+    "K6841": "Holdings/exposure to risky stocks by institution type; banks, insurance companies, pensions and unclassified institutions tend to avoid risky stocks. Exact appendix measure and scale unavailable.",
+    "A6842": "LVRD3VXI",
+    "B6842": "h11",
+    "C6842": "hy2",
+    "K6842": "Adjustment of exposure to risky stocks by institution type; the same categories are less willing to adjust. Exact appendix response measure and scale unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
