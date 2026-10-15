@@ -28057,7 +28057,16 @@
     "L2877": "0",
     "M2877": "n/a",
     "N2877": "Appendix TableG8: GZ spread with GDP moderation, all/low/high startup entry, include riskless rate and GDP interaction.",
-    "O2877": "Final Section5.4 confirms substantive replication of the baseline probit framework; pp2510,2525 additionally establish all main results in Spain. Minimum-scope entry results only; no draft coefficients, exact column mapping, observation count or clustering imported. Do not transfer Spain-only country-FE caveat to this multicountry replication. Source: Final pp2510,2525,2541-42; article.txt L158-160,L1071-1074,L2160-2193."
+    "O2877": "Final Section5.4 confirms substantive replication of the baseline probit framework; pp2510,2525 additionally establish all main results in Spain. Minimum-scope entry results only; no draft coefficients, exact column mapping, observation count or clustering imported. Do not transfer Spain-only country-FE caveat to this multicountry replication. Source: Final pp2510,2525,2541-42; article.txt L158-160,L1071-1074,L2160-2193.",
+    "A2878": "ME6H5V5K",
+    "B2878": "h42",
+    "I2878": "1",
+    "J2878": "Other",
+    "K2878": "1",
+    "L2878": "0",
+    "M2878": "n/a",
+    "N2878": "Unreported robustness, p2522 fn11: financial-crisis indicator effect on entry by growth type using expected employment greater than TWICE established-firm average; high-growth share about18%, qualitatively robust. Minimum scope only; exact columns/interactions unreported.",
+    "O2878": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Distinct outcome classification, not new exposure cutoff. Main text establishes implementation, not coefficients; do not import unrelated draft estimates. Source: p2522 fn11 L924-926; baseline design pp2529-32."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -75883,7 +75892,21 @@
     "A7032": "ME6H5V5K",
     "B7032": "h41",
     "C7032": "hy3",
-    "K7032": "Indicator of starting a high-growth business (zero for all other respondents)."
+    "K7032": "Indicator of starting a high-growth business (zero for all other respondents).",
+    "A7033": "ME6H5V5K",
+    "B7033": "h42",
+    "C7033": "hy1",
+    "H7033": "1",
+    "I7033": "1",
+    "J7033": "none",
+    "K7033": "Indicator starting a business below the stricter expected-employment threshold.",
+    "A7034": "ME6H5V5K",
+    "B7034": "h42",
+    "C7034": "hy2",
+    "H7034": "1",
+    "I7034": "1",
+    "J7034": "none",
+    "K7034": "Indicator starting a business with expected employment greater than twice the average size of established firms in its country-sector."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
