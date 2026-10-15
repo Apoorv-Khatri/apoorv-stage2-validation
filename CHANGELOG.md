@@ -450705,3 +450705,318 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:32:29.866706+00:00 — Review L5V28EJD h37: source-audited coding and linked comparisons
+
+51 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6808",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6809",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6810",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6811",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6812",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6813",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6808",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6809",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6810",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6811",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6812",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6813",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6808",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6809",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6810",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6811",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6812",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6813",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6808",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6809",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6810",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6811",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6812",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6813",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6808",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6809",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6810",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6811",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6812",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6813",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6808",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6809",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6810",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6811",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6812",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6813",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6808",
+    "before": null,
+    "after": "Percentage of CLOs with junior OC-test failure; aggregate rate, not individual binary indicator. Fig5/TableA1 or F7."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6809",
+    "before": null,
+    "after": "Percentage of CLOs with senior OC-test failure; aggregate rate, not individual binary indicator. Fig5/TableA1 or F7."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6810",
+    "before": null,
+    "after": "Percentage of CLOs with insolvency; aggregate rate, not individual binary indicator. Fig5/TableA1 or F7."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6811",
+    "before": null,
+    "after": "junior OC dollar slack divided by initial CLO assets, percent; distribution/mean/quantiles after imposed shock or allocation rule. AppendixA1 A.1–A.5, TableA1/F7."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6812",
+    "before": null,
+    "after": "senior OC dollar slack divided by initial CLO assets, percent; distribution/mean/quantiles after imposed shock or allocation rule. AppendixA1 A.1–A.5, TableA1/F7."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6813",
+    "before": null,
+    "after": "insolvency dollar slack divided by initial CLO assets, percent; distribution/mean/quantiles after imposed shock or allocation rule. AppendixA1 A.1–A.5, TableA1/F7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2781",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2781",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2781",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2781",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2781",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2781",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2781",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2781",
+    "before": null,
+    "after": "99% VaR shock versus no shock, sensitivity to rho=.1,.2,.3,.4,.5 in separately reported TableF7; rho=.24 repeats main scenario, not new estimate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2781",
+    "before": null,
+    "after": "Same binary stress scenario contrast; rho is a nuisance/calibration sensitivity, not new treatment. Postshock slack and failure fractions both outcomes. TableF7 contains no no-shock benchmark and comparisons between alternative shocks are effect-to-effect. Nonmonotonic entries visually verified and preserved; prose monotonic claim not universally true in table. Source: IA AppendixD p7/TableF7 p26."
+  }
+]
+```
