@@ -419859,3 +419859,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T07:15:13.278994+00:00 — Review KRNZM9QV s4: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6708",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6708",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6708",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1283",
+    "before": null,
+    "after": "Percentage change in size-quintile daily average |VR−1|, Eq13/Table6A; all changes in VAR are percentages, not simply absolute first differences."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1284",
+    "before": null,
+    "after": "Percentage change in size-quintile daily effective half-spread, Eq13/Table6B; percentage-change transformation rather than original none."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6708",
+    "before": null,
+    "after": "Daily percentage change in VIX, substantive update→volatility null, Eq12/Table6A/B."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J515",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M515",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N515",
+    "before": null,
+    "after": "Lagged daily percentage changes in quote updates affect percentage changes in |VR−1| and effective spreads, and VIX (substantive null), reduced-form four-lag VAR, Table6 A/B Eq12–13."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O515",
+    "before": null,
+    "after": "Correct FE to OLS: separate daily size-quintile time series, no identifying FE. Authors explicitly investigate causation direction, and interpret lack of update→VIX effects as inconsistent with HFT generating/exacerbating volatility. Not structural identified innovations; lags only. Separate reverse MQ and risk-environment treatments h6–h8. Own autoregressions and other unexplained nuisance coefficients excluded. No linked outcome benchmark; coefficients are percent-change slopes, not outcome-SD units. Source: §4.1 pp285–287 Eq11–13 Table6."
+  }
+]
+```
