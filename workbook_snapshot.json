@@ -26951,7 +26951,16 @@
     "L2773": "0",
     "M2773": "n/a",
     "N2773": "Middle versus top book-price tercile within CLO portfolio on sale of above-CCC loans; TableF9 rating subsamples and interactions with above-median12-month OC-slack change.",
-    "O2773": "Causal-intent gains-trading mechanism with explicit weak identification warning. Logit, time FE. Low-book marginal effects .36/.82/1.09/.13pp; joint model .40 and interaction−.15. Middle .10/.23/.41/−.02; joint .11 and interaction−.05. Treatment is ranking of historical cost, not realized profit or random price. Caption month t versus prose t−1 preserved. Source: IA pp7–9 AppendixE/TableF9 p28."
+    "O2773": "Causal-intent gains-trading mechanism with explicit weak identification warning. Logit, time FE. Low-book marginal effects .36/.82/1.09/.13pp; joint model .40 and interaction−.15. Middle .10/.23/.41/−.02; joint .11 and interaction−.05. Treatment is ranking of historical cost, not realized profit or random price. Caption month t versus prose t−1 preserved. Source: IA pp7–9 AppendixE/TableF9 p28.",
+    "A2774": "L5V28EJD",
+    "B2774": "h30",
+    "I2774": "1",
+    "J2774": "OLS",
+    "K2774": "0",
+    "L2774": "0",
+    "M2774": "n/a",
+    "N2774": "Own past fund returns on quarterly mutual-fund flows, cross-sectional regressions each quarter averaged over time, TableF10 PanelsA/B one/four lags.",
+    "O2774": "Substantive support for flow-return spillover mechanism, not mere forecasting task. Fama–MacBeth-type average of cross-sectional OLS slopes, not fixed effects. Do not confuse own-fund returns with mainTable12 loan-index returns. Lagged flow variables remain controls. Source: Main p1142; IA TableF10 p29."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73313,7 +73322,19 @@
     "H6786": "1",
     "I6786": "1",
     "J6786": "none",
-    "K6786": "Monthly dummy for sale of above-CCC loan, zero otherwise; full/rating subsamples."
+    "K6786": "Monthly dummy for sale of above-CCC loan, zero otherwise; full/rating subsamples.",
+    "A6787": "L5V28EJD",
+    "B6787": "h30",
+    "C6787": "hy1",
+    "K6787": "Quarterly loan participation fund flow normalized by lagged fund assets; TableF10.",
+    "A6788": "L5V28EJD",
+    "B6788": "h30",
+    "C6788": "hy2",
+    "K6788": "Quarterly corporate bond fund flow normalized by lagged fund assets; TableF10.",
+    "A6789": "L5V28EJD",
+    "B6789": "h30",
+    "C6789": "hy3",
+    "K6789": "Quarterly high current yield fund flow normalized by lagged fund assets; TableF10."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
