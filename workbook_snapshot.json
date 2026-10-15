@@ -267,6 +267,7 @@
     "B58": "High-frequency quoting, trading, and the efficiency of prices",
     "C58": "fin",
     "D58": 7,
+    "E58": "DONE — All 21 final article pages independently reviewed, including all proposed comparison records and numerical grids. Retain 17 settings, 36 outcomes and 226 comparisons; four original comparisons rejected. No appendix is present or cited; no unseen supplement coverage claimed. Broad parameter-specific intended-effect inclusion retains the explicit cross-sectional causal disclaimer. VAR and uncontrolled Arrowhead before/after classified OLS; dispersion treated as a defined outcome in linear contrasts. Restore original s6/c1 for first half-hour and remove unwritten duplicate; reject unsupported separate headline/trajectory estimands. Retain defined paired graphical contrasts without invented bar values. Same-unit before/after baseline alignment remains unknown where untreated target levels/weights are not established. Printed Table5/Table7 conflicts preserved, including final half-hour component discrepancy. Original model fields and IDs preserved.",
     "A59": "L5V28EJD",
     "B59": "Fire-sale risk in the leveraged loan market",
     "C59": "fin",
@@ -26626,7 +26627,16 @@
     "L2743": "0",
     "M2743": "n/a",
     "N2743": "Arrowhead exposure effect on average daily quote-update activity: per-stock three-month prepost relative change averaged across securities,18% (paired t10.75), Fig6 and §4.2.2. Also graphical beforeafter increases in new submissions, cancellations and modifications (keeping/losing time priority separately), Fig6; introduction explicitly reports increases in all three component classes.",
-    "O2743": "Substantive measured change in speed of liquidity supply, not an IV first stage. No untreated group or DiD. Overall18% comparison is stock-specific three-month normalization; component graphical claims use Fig6 longer July2009–March2011 daily paths and monthly top300 membership, without scalar effect estimates. Introduction p274 explicitly attributes component increases to arrowhead. Trades are displayed but not separately claimed as an arrowhead effect; excluded. No IV instrument: word instrument p288 means proxy. Source: §4.2.2 p288 Fig6."
+    "O2743": "Substantive measured change in speed of liquidity supply, not an IV first stage. No untreated group or DiD. Overall18% comparison is stock-specific three-month normalization; component graphical claims use Fig6 longer July2009–March2011 daily paths and monthly top300 membership, without scalar effect estimates. Introduction p274 explicitly attributes component increases to arrowhead. Trades are displayed but not separately claimed as an arrowhead effect; excluded. No IV instrument: word instrument p288 means proxy. Source: §4.2.2 p288 Fig6.",
+    "A2744": "KRNZM9QV",
+    "B2744": "h10",
+    "I2744": "1",
+    "J2744": "OLS",
+    "K2744": "1",
+    "L2744": "0",
+    "M2744": "n/a",
+    "N2744": "Arrowhead effect on frequency of special-price-quote dissemination: stock-level three-month beforeafter comparison, average50% decrease, t12.72.",
+    "O2744": "Supporting mechanism: changed price-continuity rules reduce smoothing and thereby increase measured impact. Separate from s7 effect of larger versus smaller realized declines on price impact. No IV/DiD. Frequency denominator beyond stock-level three-month frequency not fully specified. Mean percentage decrease normalization is explicit, not a log-percentage interpretation. Source: §4.2.2 p289."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -72593,7 +72603,14 @@
     "H6726": "0",
     "I6726": "unknown",
     "J6726": "none",
-    "K6726": "Daily number of order modifications keeping time priority, averaged across monthly top300 TSE stocks; Fig6 levels, no exact scalar effect printed."
+    "K6726": "Daily number of order modifications keeping time priority, averaged across monthly top300 TSE stocks; Fig6 levels, no exact scalar effect printed.",
+    "A6727": "KRNZM9QV",
+    "B6727": "h10",
+    "C6727": "hy1",
+    "H6727": "0",
+    "I6727": "unknown",
+    "J6727": "other",
+    "K6727": "Frequency of special-price-quote dissemination per stock in3-month pre/post windows; reported mean percentage decline relative to before. Exact frequency denominator unstated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -125519,7 +125536,18 @@
     "O4797": "1",
     "P4797": "unknown",
     "Q4797": "p288 §4.2.2. Focal estimate: Average stock-level percentage increase in quote updates18%, t10.75. Benchmark: Each security pre-arrowhead3-month average daily quote updates used in its percentage increase; no numeric count denominator printed.",
-    "R4797": "p288: each stock uses three-month before/after update means, but p275 describes changing monthly top300 membership and p289 expressly notes information-environment changes over time. Source supplies normalization, not a construction establishing post-target untreated update levels. Do not infer mismatch, or alignment, from these facts alone."
+    "R4797": "p288: each stock uses three-month before/after update means, but p275 describes changing monthly top300 membership and p289 expressly notes information-environment changes over time. Source supplies normalization, not a construction establishing post-target untreated update levels. Do not infer mismatch, or alignment, from these facts alone.",
+    "A4798": "KRNZM9QV",
+    "B4798": "h10",
+    "C4798": "hc1",
+    "K4798": "1",
+    "L4798": "hy1",
+    "M4798": "outcome_mean",
+    "N4798": "1",
+    "O4798": "1",
+    "P4798": "unknown",
+    "Q4798": "p289 §4.2.2. Focal estimate: Average decline in special-quote dissemination50%, t12.72. Benchmark: Stock-level pre-arrowhead special-quote frequency,3-month window; no frequency denominator values printed.",
+    "R4798": "p289: own-stock three-month prefrequency denominator is reported. The counterfactual postperiod untreated frequency and precise frequency denominator/weighting are not established. The intended exogenous technology interpretation establishes eligibility, not by itself equality of untreated levels across periods."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

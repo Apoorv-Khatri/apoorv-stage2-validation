@@ -433332,3 +433332,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T07:20:02.310513+00:00 — Review KRNZM9QV h10: source-audited coding and linked comparisons
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4798",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4798",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4798",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4798",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4798",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4798",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4798",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4798",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4798",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4798",
+    "before": null,
+    "after": "p289 §4.2.2. Focal estimate: Average decline in special-quote dissemination50%, t12.72. Benchmark: Stock-level pre-arrowhead special-quote frequency,3-month window; no frequency denominator values printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4798",
+    "before": null,
+    "after": "p289: own-stock three-month prefrequency denominator is reported. The counterfactual postperiod untreated frequency and precise frequency denominator/weighting are not established. The intended exogenous technology interpretation establishes eligibility, not by itself equality of untreated levels across periods."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6727",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6727",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6727",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6727",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6727",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6727",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6727",
+    "before": null,
+    "after": "Frequency of special-price-quote dissemination per stock in3-month pre/post windows; reported mean percentage decline relative to before. Exact frequency denominator unstated."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E58",
+    "before": null,
+    "after": "DONE — All 21 final article pages independently reviewed, including all proposed comparison records and numerical grids. Retain 17 settings, 36 outcomes and 226 comparisons; four original comparisons rejected. No appendix is present or cited; no unseen supplement coverage claimed. Broad parameter-specific intended-effect inclusion retains the explicit cross-sectional causal disclaimer. VAR and uncontrolled Arrowhead before/after classified OLS; dispersion treated as a defined outcome in linear contrasts. Restore original s6/c1 for first half-hour and remove unwritten duplicate; reject unsupported separate headline/trajectory estimands. Retain defined paired graphical contrasts without invented bar values. Same-unit before/after baseline alignment remains unknown where untreated target levels/weights are not established. Printed Table5/Table7 conflicts preserved, including final half-hour component discrepancy. Original model fields and IDs preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2744",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2744",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2744",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2744",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2744",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2744",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2744",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2744",
+    "before": null,
+    "after": "Arrowhead effect on frequency of special-price-quote dissemination: stock-level three-month beforeafter comparison, average50% decrease, t12.72."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2744",
+    "before": null,
+    "after": "Supporting mechanism: changed price-continuity rules reduce smoothing and thereby increase measured impact. Separate from s7 effect of larger versus smaller realized declines on price impact. No IV/DiD. Frequency denominator beyond stock-level three-month frequency not fully specified. Mean percentage decrease normalization is explicit, not a log-percentage interpretation. Source: §4.2.2 p289."
+  }
+]
+```
