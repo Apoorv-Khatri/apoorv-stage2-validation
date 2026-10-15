@@ -26906,7 +26906,16 @@
     "L2768": "0",
     "M2768": "n/a",
     "N2768": "Bottom versus top OC-slack tercile on any downgraded-loan sale in months0–2, cohort-specific logit TableF4.",
-    "O2768": "Separately reported cohort robustness location; CLO1.0 closing≤2008, CLO2.0 2009–2013, CLO3.0>2013. Nonlinear logit with year-quarter effects. Bottom marginal effects1.41/9.16/3.13; middle1.39/5.48/2.95. Comparisons to main3.53 are effect-to-effect, not benchmarks. Source: Main p1130 fn18; IA TableF4 p21."
+    "O2768": "Separately reported cohort robustness location; CLO1.0 closing≤2008, CLO2.0 2009–2013, CLO3.0>2013. Nonlinear logit with year-quarter effects. Bottom marginal effects1.41/9.16/3.13; middle1.39/5.48/2.95. Comparisons to main3.53 are effect-to-effect, not benchmarks. Source: Main p1130 fn18; IA TableF4 p21.",
+    "A2769": "L5V28EJD",
+    "B2769": "h25",
+    "I2769": "1",
+    "J2769": "Other",
+    "K2769": "1",
+    "L2769": "0",
+    "M2769": "n/a",
+    "N2769": "Middle versus top OC-slack tercile on any downgraded-loan sale in months0–2, cohort-specific logit TableF4.",
+    "O2769": "Separately reported cohort robustness location; CLO1.0 closing≤2008, CLO2.0 2009–2013, CLO3.0>2013. Nonlinear logit with year-quarter effects. Bottom marginal effects1.41/9.16/3.13; middle1.39/5.48/2.95. Comparisons to main3.53 are effect-to-effect, not benchmarks. Source: Main p1130 fn18; IA TableF4 p21."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73233,7 +73242,14 @@
     "H6781": "1",
     "I6781": "1",
     "J6781": "none",
-    "K6781": "At least one sale of downgraded loan by CLO in months0–2, binary sale dummy."
+    "K6781": "At least one sale of downgraded loan by CLO in months0–2, binary sale dummy.",
+    "A6782": "L5V28EJD",
+    "B6782": "h25",
+    "C6782": "hy1",
+    "H6782": "1",
+    "I6782": "1",
+    "J6782": "none",
+    "K6782": "At least one sale of downgraded loan by CLO in months0–2, binary sale dummy."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
