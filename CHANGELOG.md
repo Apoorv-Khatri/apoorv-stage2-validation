@@ -485256,3 +485256,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:44:53.815308+00:00 — Review NSKXG8S6 s6: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1428",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1428",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1428",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I575",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J575",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K575",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L575",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M575",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N575",
+    "before": null,
+    "after": "Table7: binary High age treat (above-median ownership by affected funds managed by older managers), interacted with Post, on log(1+citation-weighted patents); coefficient -0.066. Fund managers classified by pre-regulation median age. Separate Low age treat is h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O575",
+    "before": null,
+    "after": "Distinct high-ownership indicators based on distinct investor sets, not one mutually exclusive young-versus-old assignment. Retain older-manager component here; young-manager component h1. Difference/three-times prose is effect/effect, not an outcome level. Source: Final p1989 Table7; L1504–1560."
+  }
+]
+```
