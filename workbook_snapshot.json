@@ -27281,7 +27281,16 @@
     "L2799": "1",
     "M2799": "n/a",
     "N2799": "Table2 PanelB monthly post-buy factor-adjusted portfolio-return contrast. Local versus nonlocal held stocks, within political-activity strata; all local-minus-nonlocal differences insignificant (0.0031,-0.0056,-0.0040,-0.0046). Tests locality information advantage.",
-    "O2799": "Matching is benchmark preprocessing before calendar-time factor regressions. Alphas are regression-adjusted intercepts, not raw outcome means. Source: p74 Table2B; L379-451."
+    "O2799": "Matching is benchmark preprocessing before calendar-time factor regressions. Alphas are regression-adjusted intercepts, not raw outcome means. Source: p74 Table2B; L379-451.",
+    "A2800": "MBWIN7NL",
+    "B2800": "h5",
+    "I2800": "1",
+    "J2800": "FE",
+    "K2800": "0",
+    "L2800": "1",
+    "M2800": "n/a",
+    "N2800": "Table3: lagged Local Bias effect on quarterly Portfolio Return, columns1-2,7-10; retain null standalone local-bias estimates and positive horse-race local-bias results.",
+    "O2800": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Source: pp75-76 Table3; L455-584."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74128,7 +74137,11 @@
     "H6850": "0",
     "I6850": "unknown",
     "J6850": "none",
-    "K6850": "Monthly portfolio return adjusted for FF3 plus momentum; alpha differences in monthly return units."
+    "K6850": "Monthly portfolio return adjusted for FF3 plus momentum; alpha differences in monthly return units.",
+    "A6851": "MBWIN7NL",
+    "B6851": "h5",
+    "C6851": "hy1",
+    "K6851": "Quarterly value-weighted domestic equity portfolio return, fraction units; Appendix B p89."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
