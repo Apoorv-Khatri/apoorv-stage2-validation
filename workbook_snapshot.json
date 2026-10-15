@@ -27335,7 +27335,16 @@
     "L2805": "1",
     "M2805": "n/a",
     "N2805": "Table6: lagged Fin_Expertise Trustees effect on three local/political bias outcomes. Expertise is argued to reduce political investment but raises overall locality bias.",
-    "O2805": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Percentage of board trustees with finance-industry/sector experience (TableB1). Source: pp80-81 Table6 and interpretation; L867-973."
+    "O2805": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Percentage of board trustees with finance-industry/sector experience (TableB1). Source: pp80-81 Table6 and interpretation; L867-973.",
+    "A2806": "MBWIN7NL",
+    "B2806": "h11",
+    "I2806": "1",
+    "J2806": "FE",
+    "K2806": "0",
+    "L2806": "0",
+    "M2806": "n/a",
+    "N2806": "Table6: lagged State GDP Growth Rate effect on three local/political bias outcomes. Poor local economy interpreted as inducing support of politically connected firms; negative political-bias coefficients.",
+    "O2806": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Prose p75 defines annual state real-GDP growth; AppendixB instead says annual change in seasonally adjusted CPI. Preserve unresolved source-definition conflict. Source: pp80-81 Table6 and interpretation; L867-973."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74230,7 +74239,19 @@
     "A6859": "MBWIN7NL",
     "B6859": "h10",
     "C6859": "hy3",
-    "K6859": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+    "K6859": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one.",
+    "A6860": "MBWIN7NL",
+    "B6860": "h11",
+    "C6860": "hy1",
+    "K6860": "Local Bias: local-firm portfolio weight / market weight minus one.",
+    "A6861": "MBWIN7NL",
+    "B6861": "h11",
+    "C6861": "hy2",
+    "K6861": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one.",
+    "A6862": "MBWIN7NL",
+    "B6862": "h11",
+    "C6862": "hy3",
+    "K6862": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
