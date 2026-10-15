@@ -453699,3 +453699,258 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:06:16.990614+00:00 — Review LVRD3VXI s7: source-audited coding and linked comparisons
+
+41 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4991",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4992",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4993",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4991",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4992",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4993",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4991",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4992",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4993",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4992",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4991",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4992",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4993",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4991",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4992",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4993",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4992",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4993",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4992",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4991",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4992",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4993",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4991",
+    "before": null,
+    "after": "Main TableVIII p1019 and definitions p1018. Focal estimate: Manager high-volatility tilt: baseline slope/group coefficient in non-extreme quarters −0.117 outcome-SD units. Benchmark: SD each quarter of same-type-median-adjusted manager trading-induced risk shift across included managers; continuous covariates standardized separately, transient/nontransient dummies not standardized."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4992",
+    "before": null,
+    "after": "Main TableVIII p1019 and definitions p1018. Focal estimate: Manager high-volatility tilt: up-sentiment interaction increment (NOT total) 0.014 outcome-SD units. Benchmark: SD each quarter of same-type-median-adjusted manager trading-induced risk shift across included managers; continuous covariates standardized separately, transient/nontransient dummies not standardized."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4993",
+    "before": null,
+    "after": "Main TableVIII p1019 and definitions p1018. Focal estimate: Manager high-volatility tilt: down-sentiment interaction increment (NOT total) −0.009 outcome-SD units. Benchmark: SD each quarter of same-type-median-adjusted manager trading-induced risk shift across included managers; continuous covariates standardized separately, transient/nontransient dummies not standardized."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4991",
+    "before": null,
+    "after": "Outcome-SD normalization explicit; baseline corresponds to non-extreme quarters and interactions modify it. Source does not establish that full-quarter adjusted-outcome dispersion corresponds to each subgroup/conditional slope target. Prose rounds−.117 to−.12 outcome SD for one-treatment-SD larger initial tilt; same triple, not duplicate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4992",
+    "before": null,
+    "after": "Outcome-SD normalization explicit; baseline corresponds to non-extreme quarters and interactions modify it. Source does not establish that full-quarter adjusted-outcome dispersion corresponds to each subgroup/conditional slope target. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4993",
+    "before": null,
+    "after": "Outcome-SD normalization explicit; baseline corresponds to non-extreme quarters and interactions modify it. Source does not establish that full-quarter adjusted-outcome dispersion corresponds to each subgroup/conditional slope target. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1324",
+    "before": null,
+    "after": "Manager-quarter shift toward risky stocks: sum over securities of beginning-quarter log(1+monthly return SD) times change in manager portfolio weights due to trading; subtract same-type median then standardize to unit variance and zero mean each quarter. Outcome SD is of this adjusted measure, not of return volatility."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I533",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J533",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K533",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L533",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M533",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N533",
+    "before": null,
+    "after": "Beginning-quarter manager portfolio tilt toward high-volatility stocks on trading-induced shift toward risky stocks; TableVIII first row baseline and extreme-quarter interactions only. Other four characteristics split h7–h10."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O533",
+    "before": null,
+    "after": "Author-intention gate, not an endorsement of causal identification. Observational explanatory regression; no IV/RCT/RD/DiD. Explicit risk-management/reputation interpretation including null interaction effects. Median adjustment against same-type managers then quarter standardization is not an absorbed manager FE estimator; do not infer identifying HDFE. Extreme-quarter labels depend on aggregate demand, so no DiD or randomized event inference. Source: Main pp1018–1020 TableVIII."
+  }
+]
+```
