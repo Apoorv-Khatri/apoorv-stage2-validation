@@ -29061,7 +29061,16 @@
     "L2971": "1",
     "M2971": "n/a",
     "N2971": "Figure2 A/B: continuous standardized foreign institutional ownership originating in Singapore (SGP), effect on log overall environmental and social scores. Origin-specific regressor; non-US investee-firm sample. Domestic ownership and baseline controls/FE retained. No numerical coefficient digitized.",
-    "O2971": "p708 states regressions identical to Tables6/7 except ownership disaggregated by investor origin; country, industry and year FE retain the baseline identifying rationale. Figure2 standardizes foreign ownership, not outcomes. WVS norm is the vertical plotting coordinate, not a median-based treatment definition in this regression. The same country regressor across E/S outcomes remains grouped. Country code visually verified in both panels; no outcome benchmark comparison. Source: Final p709 Figure2 panels A/B (visually read country labels); p708 article.txt L1082–1098 and caption L1165–1168."
+    "O2971": "p708 states regressions identical to Tables6/7 except ownership disaggregated by investor origin; country, industry and year FE retain the baseline identifying rationale. Figure2 standardizes foreign ownership, not outcomes. WVS norm is the vertical plotting coordinate, not a median-based treatment definition in this regression. The same country regressor across E/S outcomes remains grouped. Country code visually verified in both panels; no outcome benchmark comparison. Source: Final p709 Figure2 panels A/B (visually read country labels); p708 article.txt L1082–1098 and caption L1165–1168.",
+    "A2972": "NSKXG8S6",
+    "B2972": "h1",
+    "I2972": "1",
+    "J2972": "DiD_conventional",
+    "K2972": "1",
+    "L2972": "0",
+    "M2972": "n/a",
+    "N2972": "Table7: binary Low age treat, above-median ownership by affected funds managed by younger managers, interacted with Post; coefficient -0.187 on log(1+Citations). Simultaneously controls older-manager ownership treatment retained in s6.",
+    "O2972": "Distinct investor-set treatment. Young/old fund-manager group fixed using age in year before regulation; no new outcome-level magnitude comparison. Source: Final p1989 Table7; L1504–1560."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -77916,7 +77925,14 @@
     "A7266": "NGGU7KDV",
     "B7266": "h93",
     "C7266": "hy2",
-    "K7266": "Natural log of overall social score (equal category weights; 0–100 before log)."
+    "K7266": "Natural log of overall social score (equal category weights; 0–100 before log).",
+    "A7267": "NSKXG8S6",
+    "B7267": "h1",
+    "C7267": "hy1",
+    "H7267": "0",
+    "I7267": "1",
+    "J7267": "log1p",
+    "K7267": "Log(1+truncation-adjusted citation-weighted patent count), firm-year; zero assigned for no patent filing."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

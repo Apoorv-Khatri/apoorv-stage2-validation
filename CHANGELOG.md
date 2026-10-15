@@ -485604,3 +485604,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T14:49:09.281068+00:00 — Review NSKXG8S6 h1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7267",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7267",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7267",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7267",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7267",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7267",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7267",
+    "before": null,
+    "after": "Log(1+truncation-adjusted citation-weighted patent count), firm-year; zero assigned for no patent filing."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2972",
+    "before": null,
+    "after": "NSKXG8S6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2972",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2972",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2972",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2972",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2972",
+    "before": null,
+    "after": "Table7: binary Low age treat, above-median ownership by affected funds managed by younger managers, interacted with Post; coefficient -0.187 on log(1+Citations). Simultaneously controls older-manager ownership treatment retained in s6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2972",
+    "before": null,
+    "after": "Distinct investor-set treatment. Young/old fund-manager group fixed using age in year before regulation; no new outcome-level magnitude comparison. Source: Final p1989 Table7; L1504–1560."
+  }
+]
+```
