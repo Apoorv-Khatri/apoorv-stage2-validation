@@ -27353,7 +27353,16 @@
     "L2807": "0",
     "M2807": "n/a",
     "N2807": "Table6: lagged Corporation Net Income Taxes effect on three local/political bias outcomes. More local tax receipts expected to encourage local investment; positive local-bias result, political-bias nulls.",
-    "O2807": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. State corporate net income taxes divided by total state tax revenues; prose p75 uses previous-quarter total tax revenues. Source: pp80-81 Table6 and interpretation; L867-973."
+    "O2807": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. State corporate net income taxes divided by total state tax revenues; prose p75 uses previous-quarter total tax revenues. Source: pp80-81 Table6 and interpretation; L867-973.",
+    "A2808": "MBWIN7NL",
+    "B2808": "h13",
+    "I2808": "1",
+    "J2808": "FE",
+    "K2808": "0",
+    "L2808": "0",
+    "M2808": "n/a",
+    "N2808": "Table6: lagged Conviction Rate effect on three local/political bias outcomes. Corruption versus enforcement hypotheses explicitly posed; retain null results, not just significant effects.",
+    "O2808": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. State politician convictions divided by state population in millions; corruption/enforcement proxy. Source: pp80-81 Table6 and interpretation; L867-973."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74272,7 +74281,19 @@
     "A6865": "MBWIN7NL",
     "B6865": "h12",
     "C6865": "hy3",
-    "K6865": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+    "K6865": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one.",
+    "A6866": "MBWIN7NL",
+    "B6866": "h13",
+    "C6866": "hy1",
+    "K6866": "Local Bias: local-firm portfolio weight / market weight minus one.",
+    "A6867": "MBWIN7NL",
+    "B6867": "h13",
+    "C6867": "hy2",
+    "K6867": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one.",
+    "A6868": "MBWIN7NL",
+    "B6868": "h13",
+    "C6868": "hy3",
+    "K6868": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
