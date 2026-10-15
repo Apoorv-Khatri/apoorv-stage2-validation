@@ -26807,7 +26807,16 @@
     "L2757": "1",
     "M2757": "n/a",
     "N2757": "no diversification: randomly allocate aggregate top-ten default loss to CLOs invested in single borrowers versus actual holdings under same top-ten default shock; TableA1 PanelB (supplement F5 repeats).",
-    "O2757": "Explicit portfolio-rule counterfactual holding aggregate loss fixed, not randomized observed treatment. Binary alternative rule versus actual. Captures dispersion/constraint incidence, not merely reprinted original stress test. Source: Main pp1145–1146 AppendixA2 TableA1 B."
+    "O2757": "Explicit portfolio-rule counterfactual holding aggregate loss fixed, not randomized observed treatment. Binary alternative rule versus actual. Captures dispersion/constraint incidence, not merely reprinted original stress test. Source: Main pp1145–1146 AppendixA2 TableA1 B.",
+    "A2758": "L5V28EJD",
+    "B2758": "h14",
+    "I2758": "1",
+    "J2758": "Other",
+    "K2758": "0",
+    "L2758": "0",
+    "M2758": "n/a",
+    "N2758": "Loan-index return shock on long-run cumulative mutual/hedge fund flow, Table12 VAR-implied response B1(I−B1)^−1: 1.04 and .64 per1pp return shock; mapped fire-sale losses .91/.56 for .88% loan-index fall.",
+    "O2758": "Nonlinear function of estimated VAR coefficients, with delta-method standard errors; classified Other rather than linear OLS/FE for this long-run estimand. Parent priority: some survey implementations may treat VAR dynamic response as OLS; retain separate estimand whichever method is adjudicated. No benchmark means/SDs; .88% is treatment shock. Exact implemented response is first row of B1(I−B1)^−1, the future cumulative response (lags one onward), not (I−B1)^−1 including the impact identity. An own-flow shock therefore gives reported .01/.39, not 1.01/1.39. This is a reduced-form innovation/state shock; no structural orthogonalization, external instrument or exogenous shock identification is reported. Other follows the nonlinear fitted-parameter map, not a claim that the underlying VAR equations are nonlinear. Source: Main p1142 Table12 bottom/Eq11."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73029,7 +73038,15 @@
     "H6763": "0",
     "I6763": "unknown",
     "J6763": "other",
-    "K6763": "insolvency dollar slack divided by initial CLO assets, percent; distribution/mean/quantiles after imposed shock or allocation rule. AppendixA1 A.1–A.5, TableA1/F7."
+    "K6763": "insolvency dollar slack divided by initial CLO assets, percent; distribution/mean/quantiles after imposed shock or allocation rule. AppendixA1 A.1–A.5, TableA1/F7.",
+    "A6764": "L5V28EJD",
+    "B6764": "h14",
+    "C6764": "hy1",
+    "K6764": "Long-run cumulative mutual-fund flow response, percentage points of assets; VAR-implied.",
+    "A6765": "L5V28EJD",
+    "B6765": "h14",
+    "C6765": "hy2",
+    "K6765": "Long-run cumulative distressed/restructuring hedge-fund flow response, percentage points of assets; VAR-implied."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
