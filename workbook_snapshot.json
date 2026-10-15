@@ -27389,7 +27389,16 @@
     "L2811": "1",
     "M2811": "n/a",
     "N2811": "Table7 baseline columns1,4,7: high Congressional Connection (Fowler connectedness above sample mean) versus low effect on three bias outcomes; coefficients0.257,0.261,0.348. Election-cycle FE, no state FE in baseline.",
-    "O2811": "Separate baseline association given explicit causal pressure/information interpretation from BCRA DiD columns. One effective identifying time dimension; broader FE rationale p75. Not DiD without reform interaction. Source: pp81-83 Table7; L925-967,L977-1044,L1103-1119."
+    "O2811": "Separate baseline association given explicit causal pressure/information interpretation from BCRA DiD columns. One effective identifying time dimension; broader FE rationale p75. Not DiD without reform interaction. Source: pp81-83 Table7; L925-967,L977-1044,L1103-1119.",
+    "A2812": "MBWIN7NL",
+    "B2812": "h17",
+    "I2812": "1",
+    "J2812": "DiD_conventional",
+    "K2812": "0",
+    "L2812": "0",
+    "M2812": "n/a",
+    "N2812": "Table7 columns2-3,5-6,8-9: continuous Politically Affiliated Trustees share x BAN differential BCRA response, separate from binary congressional connection interaction. Contribution interaction -0.045/-0.520; local -0.299/0.313 and lobbying0.301/-0.088.",
+    "O2812": "Implemented dose heterogeneity, not binary trustee treatment. Only contribution-bias state-FE interaction is significant; no unconditional total reform effect inferred. Board share of active/former legislators, Congress members, ex officio, governor-appointed or state-representative-elected trustees (TableB1). Significance clarification: Table7 col2 local-bias trustee interaction -0.299 has one star (p=0.078); the statement that only contribution bias is significant applies to specifications WITH state FE (cols3,6,9). The continuous-share interaction is a differential post-reform slope, not a binary treatment or an unconditional reform effect. Source: pp82,84 Table7; L1000-1001,L1190-1198."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74365,7 +74374,19 @@
     "H6877": "0",
     "I6877": "unknown",
     "J6877": "none",
-    "K6877": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+    "K6877": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one.",
+    "A6878": "MBWIN7NL",
+    "B6878": "h17",
+    "C6878": "hy1",
+    "K6878": "Local Bias: local-firm portfolio weight / market weight minus one.",
+    "A6879": "MBWIN7NL",
+    "B6879": "h17",
+    "C6879": "hy2",
+    "K6879": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one.",
+    "A6880": "MBWIN7NL",
+    "B6880": "h17",
+    "C6880": "hy3",
+    "K6880": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
