@@ -466206,3 +466206,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T10:55:47.948515+00:00 — Review ME6H5V5K s10: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I553",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J553",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K553",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L553",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M553",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O553",
+    "before": null,
+    "after": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Term-premium negative effects receive explicit model-based causal interpretation; sovereign-spread contamination acknowledged. Source: Table7 pp2539-40 L2024-2110."
+  }
+]
+```
