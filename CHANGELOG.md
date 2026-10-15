@@ -480462,3 +480462,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T13:27:05.390578+00:00 — Review NGGU7KDV h55: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7189",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7190",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7189",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7190",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7189",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7190",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7189",
+    "before": null,
+    "after": "Natural log of Overall social score for US firms, constructed from ASSET4 social items, scaled 0-100. Source transformation: log of overall social score."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7190",
+    "before": null,
+    "after": "Natural log of ASSET4 social z-score for US firms, proprietary 0-100 social performance score. Source transformation: log of ASSET4 social z-score."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2933",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2933",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2933",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2933",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2933",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2933",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2933",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2933",
+    "before": null,
+    "after": "Table9 Panel C, columns 1 and 3: US firms; continuous lagged foreign ownership share of all institutional investors domiciled in HIGH-norm countries (Employment Laws Index median split). Outcomes: natural logs of overall and proprietary social scores. Distinct from EPI-defined ownership at s15; not a binary treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2933",
+    "before": null,
+    "after": "Table9 marks country FE Yes but all firms US domiciled: country dimension is constant. Effective industry/year sets=2. Same identifying rationale as baseline. Visual table verification retained printed country row. Domestic social coefficients significant despite broad introductory null rhetoric. Literal treatment split: EPI and Employment Laws Index define different origin-country ownership regressors, not sample variants. Same-index overall/proprietary outcomes remain grouped. Source: p712 Table9B/C columns 1,3; article.txt L1331–1417."
+  }
+]
+```
