@@ -455004,3 +455004,438 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:08:53.336077+00:00 — Review LVRD3VXI h7: source-audited coding and linked comparisons
+
+71 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5002",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5003",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5004",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5005",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5006",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5002",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5003",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5004",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5005",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5006",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5002",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5003",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5004",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5005",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5006",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5002",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5003",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5004",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5005",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5006",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5002",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5003",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5004",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5005",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5006",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5002",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5003",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5004",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5005",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5006",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5002",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5003",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5004",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5005",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5006",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5002",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5003",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5004",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5005",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5006",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5002",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5003",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5004",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5005",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5006",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5002",
+    "before": null,
+    "after": "Main TableVIII p1019 and definitions p1018. Focal estimate: Transient institution indicator: baseline slope/group coefficient in non-extreme quarters 0.059 outcome-SD units. Benchmark: SD each quarter of same-type-median-adjusted manager trading-induced risk shift across included managers; continuous covariates standardized separately, transient/nontransient dummies not standardized."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5003",
+    "before": null,
+    "after": "Main TableVIII p1019 and definitions p1018. Focal estimate: Transient institution indicator: up-sentiment interaction increment (NOT total) 0.035 outcome-SD units. Benchmark: SD each quarter of same-type-median-adjusted manager trading-induced risk shift across included managers; continuous covariates standardized separately, transient/nontransient dummies not standardized."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5004",
+    "before": null,
+    "after": "Main TableVIII p1019 and definitions p1018. Focal estimate: Transient institution indicator: down-sentiment interaction increment (NOT total) −0.116 outcome-SD units. Benchmark: SD each quarter of same-type-median-adjusted manager trading-induced risk shift across included managers; continuous covariates standardized separately, transient/nontransient dummies not standardized."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5005",
+    "before": null,
+    "after": "Main p1020 L2210–2217 / TableVIII. Focal estimate: transient group total effect in up-sentiment quarters, expressly defined as sum first+second columns (.059+.035); no total number printed. Benchmark: same TableVIII standardized manager risk-shift SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5006",
+    "before": null,
+    "after": "Main p1020 L2210–2217 / TableVIII. Focal estimate: transient group total effect in down-sentiment quarters, expressly defined as sum first+third columns (.059−.116); no total number printed. Benchmark: same TableVIII standardized manager risk-shift SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5002",
+    "before": null,
+    "after": "Outcome-SD normalization explicit; baseline corresponds to non-extreme quarters and interactions modify it. Source does not establish that full-quarter adjusted-outcome dispersion corresponds to each subgroup/conditional slope target. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5003",
+    "before": null,
+    "after": "Outcome-SD normalization explicit; baseline corresponds to non-extreme quarters and interactions modify it. Source does not establish that full-quarter adjusted-outcome dispersion corresponds to each subgroup/conditional slope target. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5004",
+    "before": null,
+    "after": "Outcome-SD normalization explicit; baseline corresponds to non-extreme quarters and interactions modify it. Source does not establish that full-quarter adjusted-outcome dispersion corresponds to each subgroup/conditional slope target. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5005",
+    "before": null,
+    "after": "The authors explicitly interpret the total group effect, distinct from interaction increment. Sum not numerically computed or attributed to source. Reference class/conditional target and SD-population match unresolved. The p1020 words compare total effects across sentiment states and with zero, not with an outcome SD. Eligibility/division come from standardized dependent-variable units, so verbal=0, divided=1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5006",
+    "before": null,
+    "after": "The authors explicitly interpret the total group effect, distinct from interaction increment. Sum not numerically computed or attributed to source. Reference class/conditional target and SD-population match unresolved. The p1020 words compare total effects across sentiment states and with zero, not with an outcome SD. Eligibility/division come from standardized dependent-variable units, so verbal=0, divided=1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6837",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6837",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6837",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6837",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6837",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6837",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6837",
+    "before": null,
+    "after": "Manager-quarter shift toward risky stocks: sum over securities of beginning-quarter log(1+monthly return SD) times change in manager portfolio weights due to trading; subtract same-type median then standardize to unit variance and zero mean each quarter. Outcome SD is of this adjusted measure, not of return volatility."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2789",
+    "before": null,
+    "after": "LVRD3VXI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2789",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2789",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2789",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2789",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2789",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2789",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2789",
+    "before": null,
+    "after": "Transient institution indicator on manager-quarter trading-induced shift toward risky stocks; TableVIII baseline and up/down-quarter interactions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2789",
+    "before": null,
+    "after": "Author-intention gate, not an endorsement of causal identification. Observational explanatory regression; no IV/RCT/RD/DiD. Binary indicators are NOT standardized. Both transient and nontransient indicators appear in model; omitted/reference institution class not explicitly named, so do not call this transient versus all nontransient. Same-type median adjustment and quarter standardization, no identifying manager FE strategy; OLS. Interaction is modification of group/slope effect, not total effect. Aggregate sentiment quarter selection is outcome-dependent, a limitation rather than causal assignment. Source: Main pp1018–1020 TableVIII."
+  }
+]
+```
