@@ -479067,3 +479067,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T13:20:51.712842+00:00 — Review NGGU7KDV h40: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7165",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7165",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7165",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7165",
+    "before": null,
+    "after": "ASSET4 governance score constructed similarly to E&S measures; estimated scale unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2920",
+    "before": null,
+    "after": "NGGU7KDV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2920",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2920",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2920",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2920",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2920",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2920",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2920",
+    "before": null,
+    "after": "Untabulated governance performance effects of non-UN-PRI-signatory institutional ownership; positive significant despite low ex ante E&S commitment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2920",
+    "before": null,
+    "after": "Final confirms implemented substantive governance effect but does not state exact estimator/location or FE battery; unknown rather than inventing baseline implementation. Source: pp710,713 fn22 untabulated; L1240–1244,L1469–1474."
+  }
+]
+```

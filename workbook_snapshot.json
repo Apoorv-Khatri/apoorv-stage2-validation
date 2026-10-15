@@ -28536,7 +28536,16 @@
     "L2919": "0",
     "M2919": "n/a",
     "N2919": "Untabulated low-norm foreign ownership effects on social performance after excluding training-and-development category; become insignificant.",
-    "O2919": "Final confirms implemented category exclusion result. Baseline Table6 relationship context supports same FE method; exact coefficient and norm-index variants unresolved. The same footnote attributes the aggregate effect to training and development; the explicitly implemented exclusion test supports this statement. A separate component-outcome regression is not established, so proposed h46 is withdrawn. No extra EPI/Employment-Laws/WVS split is asserted: exact implemented norm-index definition is not enumerated in this untabulated result sentence. Retained as minimum supported scope, not a pooled inventory of verified distinct regressors. Source: p708 fn18 untabulated; L1135–1144."
+    "O2919": "Final confirms implemented category exclusion result. Baseline Table6 relationship context supports same FE method; exact coefficient and norm-index variants unresolved. The same footnote attributes the aggregate effect to training and development; the explicitly implemented exclusion test supports this statement. A separate component-outcome regression is not established, so proposed h46 is withdrawn. No extra EPI/Employment-Laws/WVS split is asserted: exact implemented norm-index definition is not enumerated in this untabulated result sentence. Retained as minimum supported scope, not a pooled inventory of verified distinct regressors. Source: p708 fn18 untabulated; L1135–1144.",
+    "A2920": "NGGU7KDV",
+    "B2920": "h40",
+    "I2920": "1",
+    "J2920": "unknown",
+    "K2920": "0",
+    "L2920": "0",
+    "M2920": "unknown",
+    "N2920": "Untabulated governance performance effects of non-UN-PRI-signatory institutional ownership; positive significant despite low ex ante E&S commitment.",
+    "O2920": "Final confirms implemented substantive governance effect but does not state exact estimator/location or FE battery; unknown rather than inventing baseline implementation. Source: pp710,713 fn22 untabulated; L1240–1244,L1469–1474."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76934,7 +76943,11 @@
     "A7164": "NGGU7KDV",
     "B7164": "h39",
     "C7164": "hy1",
-    "K7164": "Social performance score excluding training and development; exact weights/scale unreported."
+    "K7164": "Social performance score excluding training and development; exact weights/scale unreported.",
+    "A7165": "NGGU7KDV",
+    "B7165": "h40",
+    "C7165": "hy1",
+    "K7165": "ASSET4 governance score constructed similarly to E&S measures; estimated scale unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
