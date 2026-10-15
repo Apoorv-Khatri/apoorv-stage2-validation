@@ -27416,7 +27416,16 @@
     "L2814": "0",
     "M2814": "n/a",
     "N2814": "Table7: Fin_Expertise Trustees effect on local and political bias. Finance expertise share, negative political-bias effects, positive general-local-bias effects.",
-    "O2814": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. For interacted trustee term retain baseline columns; noninteracted exposures can be read conditional on included reform interactions. Percentage of board trustees with finance-industry/sector experience (TableB1). Source: pp81-84 Table7; L925-1044,L1103-1129."
+    "O2814": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. For interacted trustee term retain baseline columns; noninteracted exposures can be read conditional on included reform interactions. Percentage of board trustees with finance-industry/sector experience (TableB1). Source: pp81-84 Table7; L925-1044,L1103-1129.",
+    "A2815": "MBWIN7NL",
+    "B2815": "h20",
+    "I2815": "1",
+    "J2815": "FE",
+    "K2815": "0",
+    "L2815": "0",
+    "M2815": "n/a",
+    "N2815": "Table7: New Public Integrity Index effect on local and political bias. Authors interpret effective governance as reducing political overweighting despite insignificant estimates.",
+    "O2815": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. For interacted trustee term retain baseline columns; noninteracted exposures can be read conditional on included reform interactions. Inverse integrity rank multiplied by bills passed measure. Prose p82 uses NUMBER of introduced bills that became law sponsored by state politicians; AppendixB uses PERCENTAGE of bills passed in state. Preserve construction conflict. Source: pp81-84 Table7; L925-1044,L1103-1129."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74428,7 +74437,19 @@
     "A6886": "MBWIN7NL",
     "B6886": "h19",
     "C6886": "hy3",
-    "K6886": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+    "K6886": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one.",
+    "A6887": "MBWIN7NL",
+    "B6887": "h20",
+    "C6887": "hy1",
+    "K6887": "Local Bias: local-firm portfolio weight / market weight minus one.",
+    "A6888": "MBWIN7NL",
+    "B6888": "h20",
+    "C6888": "hy2",
+    "K6888": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one.",
+    "A6889": "MBWIN7NL",
+    "B6889": "h20",
+    "C6889": "hy3",
+    "K6889": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

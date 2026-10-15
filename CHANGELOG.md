@@ -460188,3 +460188,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T10:02:10.048675+00:00 — Review MBWIN7NL h20: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6887",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6888",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6889",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6887",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6888",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6889",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6887",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6888",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6889",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6887",
+    "before": null,
+    "after": "Local Bias: local-firm portfolio weight / market weight minus one."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6888",
+    "before": null,
+    "after": "Local Contribution Bias: local contribution-firm portfolio weight / corresponding market weight minus one."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6889",
+    "before": null,
+    "after": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2815",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2815",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2815",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2815",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2815",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2815",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2815",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2815",
+    "before": null,
+    "after": "Table7: New Public Integrity Index effect on local and political bias. Authors interpret effective governance as reducing political overweighting despite insignificant estimates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2815",
+    "before": null,
+    "after": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. For interacted trustee term retain baseline columns; noninteracted exposures can be read conditional on included reform interactions. Inverse integrity rank multiplied by bills passed measure. Prose p82 uses NUMBER of introduced bills that became law sponsored by state politicians; AppendixB uses PERCENTAGE of bills passed in state. Preserve construction conflict. Source: pp81-84 Table7; L925-1044,L1103-1129."
+  }
+]
+```
