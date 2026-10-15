@@ -27769,7 +27769,16 @@
     "L2845": "1",
     "M2845": "n/a",
     "N2845": "Table2: real GDP growth effect on all/low/high growth startup entry; both financial-indicator specifications.",
-    "O2845": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Explicit procyclicality / financial-accelerator interpretation, not merely nuisance control. Source: pp2530-31 L1381-1503."
+    "O2845": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Explicit procyclicality / financial-accelerator interpretation, not merely nuisance control. Source: pp2530-31 L1381-1503.",
+    "A2846": "ME6H5V5K",
+    "B2846": "h5",
+    "I2846": "1",
+    "J2846": "Other",
+    "K2846": "0",
+    "L2846": "1",
+    "M2846": "n/a",
+    "N2846": "Table3: real GDP growth effect on all/low/high growth startup entry; conditional on financial crisis/spread, including the GDP-by-finance interaction; do not mistake GDP main coefficient for unconditional effect.",
+    "O2846": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Explicit procyclicality / financial-accelerator interpretation, not merely nuisance control. Source: pp2531-32 L1473-1572."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -75123,7 +75132,19 @@
     "A6947": "ME6H5V5K",
     "B6947": "h4",
     "C6947": "hy3",
-    "K6947": "Indicator of starting a high-growth business (zero for all other respondents)."
+    "K6947": "Indicator of starting a high-growth business (zero for all other respondents).",
+    "A6948": "ME6H5V5K",
+    "B6948": "h5",
+    "C6948": "hy1",
+    "K6948": "Indicator of starting any business.",
+    "A6949": "ME6H5V5K",
+    "B6949": "h5",
+    "C6949": "hy2",
+    "K6949": "Indicator of starting a low-growth business (zero for all other respondents).",
+    "A6950": "ME6H5V5K",
+    "B6950": "h5",
+    "C6950": "hy3",
+    "K6950": "Indicator of starting a high-growth business (zero for all other respondents)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
