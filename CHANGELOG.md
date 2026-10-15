@@ -416556,3 +416556,1782 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T07:13:43.549630+00:00 — Review KRNZM9QV s1: source-audited coding and linked comparisons
+
+295 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4574",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4575",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4576",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4577",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4578",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4579",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4580",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4581",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4582",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4583",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4584",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4585",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4586",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4587",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4588",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4589",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4590",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4591",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4592",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4593",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4594",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4595",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4596",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4597",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4598",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4574",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4575",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4576",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4577",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4578",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4579",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4580",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4581",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4582",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4583",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4584",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4585",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4586",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4587",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4588",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4589",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4590",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4591",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4592",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4593",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4594",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4595",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4596",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4597",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4598",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4574",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4575",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4576",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4577",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4578",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4579",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4580",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4581",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4582",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4583",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4584",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4585",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4586",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4587",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4588",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4589",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4590",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4591",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4592",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4593",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4594",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4595",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4596",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4597",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4598",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K309",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K310",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4574",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4575",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4576",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4577",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4578",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4579",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4580",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4581",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4582",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4583",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4584",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4585",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4586",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4587",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4588",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4589",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4590",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4591",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4592",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4593",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4594",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4595",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4596",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4597",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4598",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4574",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4575",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4576",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4577",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4578",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4579",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4580",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4581",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4582",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4583",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4584",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4585",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4586",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4587",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4588",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4589",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4590",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4591",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4592",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4593",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4594",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4595",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4596",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4597",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4598",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4574",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4575",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4576",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4577",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4578",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4579",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4580",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4581",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4582",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4583",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4584",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4585",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4586",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4587",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4588",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4589",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4590",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4591",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4592",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4593",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4594",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4595",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4596",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4597",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4598",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4574",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4575",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4576",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4577",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4578",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4579",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4580",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4581",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4582",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4583",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4584",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4585",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4586",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4587",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4588",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4589",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4590",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4591",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4592",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4593",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4594",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4595",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4596",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4597",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4598",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4574",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4575",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4576",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4577",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4578",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4579",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4580",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4581",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4582",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4583",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4584",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4585",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4586",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4587",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4588",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4589",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4590",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4591",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4592",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4593",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4594",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4595",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4596",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4597",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4598",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4574",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4575",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4576",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4577",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4578",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4579",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4580",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4581",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4582",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4583",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4584",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4585",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4586",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4587",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4588",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4589",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4590",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4591",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4592",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4593",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4594",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4595",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4596",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4597",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4598",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4574",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -6.10bp, size1/trade1. Benchmark: Fig3 low-update mean effective half-spread for same size1/trade1 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4575",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -0.70bp, size1/trade2. Benchmark: Fig3 low-update mean effective half-spread for same size1/trade2 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4576",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -3.68bp, size1/trade3. Benchmark: Fig3 low-update mean effective half-spread for same size1/trade3 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4577",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -4.23bp, size1/trade4. Benchmark: Fig3 low-update mean effective half-spread for same size1/trade4 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4578",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -1.58bp, size1/trade5. Benchmark: Fig3 low-update mean effective half-spread for same size1/trade5 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4579",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -1.27bp, size2/trade1. Benchmark: Fig3 low-update mean effective half-spread for same size2/trade1 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4580",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -0.96bp, size2/trade2. Benchmark: Fig3 low-update mean effective half-spread for same size2/trade2 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4581",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -0.77bp, size2/trade3. Benchmark: Fig3 low-update mean effective half-spread for same size2/trade3 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4582",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -0.66bp, size2/trade4. Benchmark: Fig3 low-update mean effective half-spread for same size2/trade4 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4583",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -0.62bp, size2/trade5. Benchmark: Fig3 low-update mean effective half-spread for same size2/trade5 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4584",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -2.00bp, size3/trade1. Benchmark: Fig3 low-update mean effective half-spread for same size3/trade1 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4585",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -0.12bp, size3/trade2. Benchmark: Fig3 low-update mean effective half-spread for same size3/trade2 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4586",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -0.06bp, size3/trade3. Benchmark: Fig3 low-update mean effective half-spread for same size3/trade3 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4587",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -0.31bp, size3/trade4. Benchmark: Fig3 low-update mean effective half-spread for same size3/trade4 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4588",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -0.58bp, size3/trade5. Benchmark: Fig3 low-update mean effective half-spread for same size3/trade5 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4589",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -1.27bp, size4/trade1. Benchmark: Fig3 low-update mean effective half-spread for same size4/trade1 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4590",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -0.15bp, size4/trade2. Benchmark: Fig3 low-update mean effective half-spread for same size4/trade2 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4591",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -0.22bp, size4/trade3. Benchmark: Fig3 low-update mean effective half-spread for same size4/trade3 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4592",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -0.91bp, size4/trade4. Benchmark: Fig3 low-update mean effective half-spread for same size4/trade4 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4593",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -1.20bp, size4/trade5. Benchmark: Fig3 low-update mean effective half-spread for same size4/trade5 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4594",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -0.61bp, size5/trade1. Benchmark: Fig3 low-update mean effective half-spread for same size5/trade1 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4595",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -0.28bp, size5/trade2. Benchmark: Fig3 low-update mean effective half-spread for same size5/trade2 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4596",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -0.46bp, size5/trade3. Benchmark: Fig3 low-update mean effective half-spread for same size5/trade3 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4597",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -1.13bp, size5/trade4. Benchmark: Fig3 low-update mean effective half-spread for same size5/trade4 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4598",
+    "before": null,
+    "after": "pp279–281 Table3C/Fig3. Focal estimate: Table3C high-minus-low effective half-spread -1.12bp, size5/trade5. Benchmark: Fig3 low-update mean effective half-spread for same size5/trade5 cell, share weighted within stock then cross-stock/time averaged; graphical level only, no exact bar label."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R309",
+    "before": null,
+    "after": "Wrong-outcome benchmark: access fees are a separate cost component and quoted spreads differ from realized execution effective half-spreads. Same bp units do not satisfy same-outcome criterion. Preserve explicit economic perspective discussion but do not code other_level as catch-all."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R310",
+    "before": null,
+    "after": "Wrong-outcome benchmark: access fees are a separate cost component and quoted spreads differ from realized execution effective half-spreads. Same bp units do not satisfy same-outcome criterion. Preserve explicit economic perspective discussion but do not code other_level as catch-all."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4574",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4575",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4576",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4577",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4578",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4579",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4580",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4581",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4582",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4583",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4584",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4585",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4586",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4587",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4588",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4589",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4590",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4591",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4592",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4593",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4594",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4595",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4596",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4597",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4598",
+    "before": null,
+    "after": "Low-update observed comparison population is specified, but neither the causal target weights nor its untreated equivalence to high-update stocks is established; alignment unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1275",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1276",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1277",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1275",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1276",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1277",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1275",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1276",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1277",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I512",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J512",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K512",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L512",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M512",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N512",
+    "before": null,
+    "after": "High versus low prior-half-hour quote-update groups within size and trade quintiles: linear high-minus-low mean contrasts of |VR−1| at 15sec/5min and 100ms/1sec or2sec horizons, and effective half-spreads. Table3 A–C; Fig3 paired spread levels. Raw VR means and dispersion in Figs1–2 are separately h2/h3, not |VR−1|."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O512",
+    "before": null,
+    "after": "Broad author-intention inclusion despite p273 explicit warning that cross-sectional tests do not imply causation. Countervailing parameter-specific language: p278 dependent sort allows us to see the effect holding size/trading roughly constant; p273 magnitude of the effect; p281 competition compresses realized spreads. This is intended-effect evidence, not a claim of credible identification. Parent priority: adjudicate disclaimer consistently across these US observational settings. No FE, matching weights, or IV; sorting controls are not fixed effects. Table3 headings say prior-half-hour trades whereas body p278 says current-half-hour trades; retain source conflict. Full Table3 A range includes −.012 (size2/trade2), omitted by original −.017 to−.037 range. Table3 B positive entries retained, not forced negative. Footnote3 2010–11-only Table3 rerun is routine same-location sample robustness, grouped here. Source: §3.3–3.4 pp278–281 Table3/Fig3."
+  }
+]
+```
