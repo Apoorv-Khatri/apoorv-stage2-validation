@@ -451197,3 +451197,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:03:21.871786+00:00 — Review LVRD3VXI s1: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1302",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1303",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1304",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1302",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1303",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1304",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1302",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1303",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1304",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1302",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1303",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1304",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O527",
+    "before": null,
+    "after": "Initial tests expressly examine correlation, not causation. Tables I–II identify whose demand is captured by the metric, not a directional response to sentiment. High/low sentiment means remain measurement-validation contrasts; no separate causal binary setting proposed. Table I date caption June1990 conflicts with data June1980; retain both. Source: Main pp986–994, especially p986; article.txt L85–95 and L352–559."
+  }
+]
+```
