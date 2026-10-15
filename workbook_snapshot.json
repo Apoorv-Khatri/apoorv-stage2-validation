@@ -26834,7 +26834,16 @@
     "L2760": "0",
     "M2760": "n/a",
     "N2760": "Downgrade event versus before event: average CLO net loan purchases (buys minus sells) around first downgrade to CCC or below, Fig1.",
-    "O2760": "Broad inclusion based on explicit statement downgrade significantly increases sales. Simple observational event-time mean contrast, not a DiD without a control group. Figure is dollar volume, not a sale dummy. Rating caption says BB or above, body B or above; preserve discrepancy. No standalone focal effect-versus-baseline benchmark is stated; do not invent a trajectory estimand from event curve. Source: Main pp1126–1127 §3.2 Fig1."
+    "O2760": "Broad inclusion based on explicit statement downgrade significantly increases sales. Simple observational event-time mean contrast, not a DiD without a control group. Figure is dollar volume, not a sale dummy. Rating caption says BB or above, body B or above; preserve discrepancy. No standalone focal effect-versus-baseline benchmark is stated; do not invent a trajectory estimand from event curve. Source: Main pp1126–1127 §3.2 Fig1.",
+    "A2761": "L5V28EJD",
+    "B2761": "h17",
+    "I2761": "1",
+    "J2761": "OLS",
+    "K2761": "1",
+    "L2761": "0",
+    "M2761": "n/a",
+    "N2761": "Bottom versus top monthly OC-slack tercile: raw monthly sale probability averaged across loans and three-month moving average, Fig2.",
+    "O2761": "Raw linear group-mean contrast distinct from adjusted nonlinear logit. Broad substantive evidence for constrained sales; middle group is plotted supporting contrast (parent priority on retaining middle comparison). Do not mistake moving average monthly sale probability for probability of any sale in three months. Independent audit: retain the displayed supporting group contrast, but do not count one whole curve as a unique estimate–benchmark triple. Fig2 shows raw markers only for low/high groups; the middle group appears as a three-month moving-average curve. No three-month any-sale outcome or pooled trajectory effect is inferred. Source: Main pp1127–1129 Fig2."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73079,7 +73088,14 @@
     "H6768": "0",
     "I6768": "unknown",
     "J6768": "none",
-    "K6768": "Average across downgraded loans of total CLO net purchases (buys minus sells), thousands of dollars by relative month (visually verified y-axis), Fig1."
+    "K6768": "Average across downgraded loans of total CLO net purchases (buys minus sells), thousands of dollars by relative month (visually verified y-axis), Fig1.",
+    "A6769": "L5V28EJD",
+    "B6769": "h17",
+    "C6769": "hy1",
+    "H6769": "0",
+    "I6769": "unknown",
+    "J6769": "none",
+    "K6769": "Mean monthly sale probability across loans, percent, plotted directly and as three-month moving average; a group rate, not a binary loan-CLO indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
