@@ -444408,3 +444408,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:25:53.286248+00:00 — Review L5V28EJD h18: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6770",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6770",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6770",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6770",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6770",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6770",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6770",
+    "before": null,
+    "after": "Mean monthly sale probability across loans, percent, displayed as the middle-versus-high OC three-month moving-average curves in Fig2. Middle-group raw monthly markers are not separately plotted. Group rate, not binary loan-CLO outcome and not any-sale probability over a three-month window."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2762",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2762",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2762",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2762",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2762",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2762",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2762",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2762",
+    "before": null,
+    "after": "Middle versus top monthly OC-slack tercile: raw monthly sale probability averaged across loans and three-month moving average, Fig2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2762",
+    "before": null,
+    "after": "Raw linear group-mean contrast distinct from adjusted nonlinear logit. Broad substantive evidence for constrained sales; middle group is plotted supporting contrast (parent priority on retaining middle comparison). Do not mistake moving average monthly sale probability for probability of any sale in three months. Independent audit: retain the displayed supporting group contrast, but do not count one whole curve as a unique estimate–benchmark triple. Fig2 shows raw markers only for low/high groups; the middle group appears as a three-month moving-average curve. No three-month any-sale outcome or pooled trajectory effect is inferred. Source: Main pp1127–1129 Fig2."
+  }
+]
+```

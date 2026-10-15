@@ -26843,7 +26843,16 @@
     "L2761": "0",
     "M2761": "n/a",
     "N2761": "Bottom versus top monthly OC-slack tercile: raw monthly sale probability averaged across loans and three-month moving average, Fig2.",
-    "O2761": "Raw linear group-mean contrast distinct from adjusted nonlinear logit. Broad substantive evidence for constrained sales; middle group is plotted supporting contrast (parent priority on retaining middle comparison). Do not mistake moving average monthly sale probability for probability of any sale in three months. Independent audit: retain the displayed supporting group contrast, but do not count one whole curve as a unique estimate–benchmark triple. Fig2 shows raw markers only for low/high groups; the middle group appears as a three-month moving-average curve. No three-month any-sale outcome or pooled trajectory effect is inferred. Source: Main pp1127–1129 Fig2."
+    "O2761": "Raw linear group-mean contrast distinct from adjusted nonlinear logit. Broad substantive evidence for constrained sales; middle group is plotted supporting contrast (parent priority on retaining middle comparison). Do not mistake moving average monthly sale probability for probability of any sale in three months. Independent audit: retain the displayed supporting group contrast, but do not count one whole curve as a unique estimate–benchmark triple. Fig2 shows raw markers only for low/high groups; the middle group appears as a three-month moving-average curve. No three-month any-sale outcome or pooled trajectory effect is inferred. Source: Main pp1127–1129 Fig2.",
+    "A2762": "L5V28EJD",
+    "B2762": "h18",
+    "I2762": "1",
+    "J2762": "OLS",
+    "K2762": "1",
+    "L2762": "0",
+    "M2762": "n/a",
+    "N2762": "Middle versus top monthly OC-slack tercile: raw monthly sale probability averaged across loans and three-month moving average, Fig2.",
+    "O2762": "Raw linear group-mean contrast distinct from adjusted nonlinear logit. Broad substantive evidence for constrained sales; middle group is plotted supporting contrast (parent priority on retaining middle comparison). Do not mistake moving average monthly sale probability for probability of any sale in three months. Independent audit: retain the displayed supporting group contrast, but do not count one whole curve as a unique estimate–benchmark triple. Fig2 shows raw markers only for low/high groups; the middle group appears as a three-month moving-average curve. No three-month any-sale outcome or pooled trajectory effect is inferred. Source: Main pp1127–1129 Fig2."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73095,7 +73104,14 @@
     "H6769": "0",
     "I6769": "unknown",
     "J6769": "none",
-    "K6769": "Mean monthly sale probability across loans, percent, plotted directly and as three-month moving average; a group rate, not a binary loan-CLO indicator."
+    "K6769": "Mean monthly sale probability across loans, percent, plotted directly and as three-month moving average; a group rate, not a binary loan-CLO indicator.",
+    "A6770": "L5V28EJD",
+    "B6770": "h18",
+    "C6770": "hy1",
+    "H6770": "0",
+    "I6770": "unknown",
+    "J6770": "none",
+    "K6770": "Mean monthly sale probability across loans, percent, displayed as the middle-versus-high OC three-month moving-average curves in Fig2. Middle-group raw monthly markers are not separately plotted. Group rate, not binary loan-CLO outcome and not any-sale probability over a three-month window."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
