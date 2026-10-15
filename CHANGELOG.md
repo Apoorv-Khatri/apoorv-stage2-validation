@@ -456777,3 +456777,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:52:33.499012+00:00 — Review MBWIN7NL s3: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5016",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5016",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5016",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K321",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K322",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5016",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L321",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5016",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M321",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5016",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N321",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5016",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O321",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5016",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P321",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5016",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q321",
+    "before": null,
+    "after": "p77 Table4 col1 and prose L667-677; contribution log-hazard -0.276, hazard ratio0.759 relative to otherwise-comparable local noncontributor conditional hazard. Eq6 p90 defines hazard ratio; no observed mean/probability base rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5016",
+    "before": null,
+    "after": "p77 Table4 col3; nonlocal contribution log-hazard -0.237; normalized conditional hazard0.789 relative to otherwise-comparable nonlocal noncontributors. AppendixC Eq6 ratio construction."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R321",
+    "before": null,
+    "after": "Hazard is rate conditional on survival, not an unconditional mean probability; other_level retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R322",
+    "before": null,
+    "after": "Qualifying local-lobbying hazard ratio belongs to separate lobbying setting h7; retain original ID/reject wrong-parent attachment and add linked replacement there."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6846",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6846",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6846",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1327",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6846",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1327",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6846",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1327",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6846",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1327",
+    "before": null,
+    "after": "Continuous-time conditional liquidation hazard from censored holding spells in quarters; reported log-hazard coefficient and exponentiated hazard ratio, not a binary liquidation dependent variable or log duration."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6846",
+    "before": null,
+    "after": "Fig1A p78: model-implied survival probability of a local contribution versus noncontribution holding over elapsed quarters. Derived from Table4 col1 hazard model; not an observed binary outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J536",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M536",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N536",
+    "before": null,
+    "after": "Table4 columns1,3: binary CONTRIBUTION (firm contributes to politicians in fund state) effect on liquidation hazard, local and nonlocal firm samples. Printed Cox proportional hazard with Weibull distribution; Appendix C gives Efron partial likelihood. Hazards 0.759 and0.789 relative to noncontributors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O536",
+    "before": null,
+    "after": "Nonlinear survival estimator; industry FE do not make it linear FE. Preserve Cox/Weibull terminology tension. Holding duration/disposition is an abstract/conclusion central finding, hence main=1. Table4 caption calls the hazard ratio a probability, whereas AppendixC Eq6 explicitly defines a ratio of two conditional hazard functions. Retain the mathematical rate-ratio interpretation and flag the source terminology; neither the hazard ratio nor the hazard itself is an unconditional binary event base rate. Source: pp76-78 Table4; pp89-90 AppendixC; L569-738,L1561-1642."
+  }
+]
+```
