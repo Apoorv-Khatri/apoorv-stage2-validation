@@ -444087,3 +444087,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:24:41.631069+00:00 — Review L5V28EJD h15: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6766",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6767",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6766",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6767",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6766",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6767",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6766",
+    "before": null,
+    "after": "Long-run cumulative mutual-fund flow response, percentage points of assets; VAR-implied."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6767",
+    "before": null,
+    "after": "Long-run cumulative distressed/restructuring hedge-fund flow response, percentage points of assets; VAR-implied."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2759",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2759",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2759",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2759",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2759",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2759",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2759",
+    "before": null,
+    "after": "Quarterly own-flow shock on long-run cumulative fund flow, VAR bottom Table12: .01 mutual funds and .39 hedge funds per1pp shock."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2759",
+    "before": null,
+    "after": "Explicit text attributes long-run increase to flow shock; distinct from return shock. Same nonlinear VAR mapping and identification limitations as h14. Not the nuisance lag coefficients themselves. Exact implemented response is first row of B1(I−B1)^−1, the future cumulative response (lags one onward), not (I−B1)^−1 including the impact identity. An own-flow shock therefore gives reported .01/.39, not 1.01/1.39. This is a reduced-form innovation/state shock; no structural orthogonalization, external instrument or exogenous shock identification is reported. Other follows the nonlinear fitted-parameter map, not a claim that the underlying VAR equations are nonlinear. Source: Main p1142 Table12 bottom."
+  }
+]
+```

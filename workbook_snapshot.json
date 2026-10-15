@@ -26816,7 +26816,16 @@
     "L2758": "0",
     "M2758": "n/a",
     "N2758": "Loan-index return shock on long-run cumulative mutual/hedge fund flow, Table12 VAR-implied response B1(I−B1)^−1: 1.04 and .64 per1pp return shock; mapped fire-sale losses .91/.56 for .88% loan-index fall.",
-    "O2758": "Nonlinear function of estimated VAR coefficients, with delta-method standard errors; classified Other rather than linear OLS/FE for this long-run estimand. Parent priority: some survey implementations may treat VAR dynamic response as OLS; retain separate estimand whichever method is adjudicated. No benchmark means/SDs; .88% is treatment shock. Exact implemented response is first row of B1(I−B1)^−1, the future cumulative response (lags one onward), not (I−B1)^−1 including the impact identity. An own-flow shock therefore gives reported .01/.39, not 1.01/1.39. This is a reduced-form innovation/state shock; no structural orthogonalization, external instrument or exogenous shock identification is reported. Other follows the nonlinear fitted-parameter map, not a claim that the underlying VAR equations are nonlinear. Source: Main p1142 Table12 bottom/Eq11."
+    "O2758": "Nonlinear function of estimated VAR coefficients, with delta-method standard errors; classified Other rather than linear OLS/FE for this long-run estimand. Parent priority: some survey implementations may treat VAR dynamic response as OLS; retain separate estimand whichever method is adjudicated. No benchmark means/SDs; .88% is treatment shock. Exact implemented response is first row of B1(I−B1)^−1, the future cumulative response (lags one onward), not (I−B1)^−1 including the impact identity. An own-flow shock therefore gives reported .01/.39, not 1.01/1.39. This is a reduced-form innovation/state shock; no structural orthogonalization, external instrument or exogenous shock identification is reported. Other follows the nonlinear fitted-parameter map, not a claim that the underlying VAR equations are nonlinear. Source: Main p1142 Table12 bottom/Eq11.",
+    "A2759": "L5V28EJD",
+    "B2759": "h15",
+    "I2759": "1",
+    "J2759": "Other",
+    "K2759": "0",
+    "L2759": "0",
+    "M2759": "n/a",
+    "N2759": "Quarterly own-flow shock on long-run cumulative fund flow, VAR bottom Table12: .01 mutual funds and .39 hedge funds per1pp shock.",
+    "O2759": "Explicit text attributes long-run increase to flow shock; distinct from return shock. Same nonlinear VAR mapping and identification limitations as h14. Not the nuisance lag coefficients themselves. Exact implemented response is first row of B1(I−B1)^−1, the future cumulative response (lags one onward), not (I−B1)^−1 including the impact identity. An own-flow shock therefore gives reported .01/.39, not 1.01/1.39. This is a reduced-form innovation/state shock; no structural orthogonalization, external instrument or exogenous shock identification is reported. Other follows the nonlinear fitted-parameter map, not a claim that the underlying VAR equations are nonlinear. Source: Main p1142 Table12 bottom."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73046,7 +73055,15 @@
     "A6765": "L5V28EJD",
     "B6765": "h14",
     "C6765": "hy2",
-    "K6765": "Long-run cumulative distressed/restructuring hedge-fund flow response, percentage points of assets; VAR-implied."
+    "K6765": "Long-run cumulative distressed/restructuring hedge-fund flow response, percentage points of assets; VAR-implied.",
+    "A6766": "L5V28EJD",
+    "B6766": "h15",
+    "C6766": "hy1",
+    "K6766": "Long-run cumulative mutual-fund flow response, percentage points of assets; VAR-implied.",
+    "A6767": "L5V28EJD",
+    "B6767": "h15",
+    "C6767": "hy2",
+    "K6767": "Long-run cumulative distressed/restructuring hedge-fund flow response, percentage points of assets; VAR-implied."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
