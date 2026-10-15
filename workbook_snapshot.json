@@ -28401,7 +28401,16 @@
     "L2904": "0",
     "M2904": "n/a",
     "N2904": "OB2 B full-sample triple-difference: Deepwater Horizon × continuous pre-event institutional ownership on SOCIAL performance; no shock impact reported. Identical structure to Table3, not merely a pretrend diagnostic.",
-    "O2904": "Final article explicitly states identical Table3 structure and substantive null social response; exact estimates unavailable. Source: p701 Section3.2 OB2; L639–645."
+    "O2904": "Final article explicitly states identical Table3 structure and substantive null social response; exact estimates unavailable. Source: p701 Section3.2 OB2; L639–645.",
+    "A2905": "NGGU7KDV",
+    "B2905": "h25",
+    "I2905": "1",
+    "J2905": "HDFE",
+    "K2905": "0",
+    "L2905": "0",
+    "M2905": "n/a",
+    "N2905": "Untabulated Table2A robustness using raw rather than log E&S scores; implemented results unaffected.",
+    "O2905": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Source: p698 fn6 untabulated; L416–418."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76603,7 +76612,23 @@
     "A7115": "NGGU7KDV",
     "B7115": "h24",
     "C7115": "hy2",
-    "K7115": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
+    "K7115": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit.",
+    "A7116": "NGGU7KDV",
+    "B7116": "h25",
+    "C7116": "hy1",
+    "K7116": "Level of overall environmental score (equal category weights; 0–100).",
+    "A7117": "NGGU7KDV",
+    "B7117": "h25",
+    "C7117": "hy2",
+    "K7117": "Level of proprietary ASSET4 environmental rank-based score (0–100), NOT an outcome-SD unit.",
+    "A7118": "NGGU7KDV",
+    "B7118": "h25",
+    "C7118": "hy3",
+    "K7118": "Level of overall social score (equal category weights; 0–100).",
+    "A7119": "NGGU7KDV",
+    "B7119": "h25",
+    "C7119": "hy4",
+    "K7119": "Level of proprietary ASSET4 social rank-based score (0–100), NOT an outcome-SD unit."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
