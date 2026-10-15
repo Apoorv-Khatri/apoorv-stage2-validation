@@ -28509,7 +28509,16 @@
     "L2916": "0",
     "M2916": "n/a",
     "N2916": "OB10: foreign ownership from high-norm countries; exclude US/UK institutional stakes; replicate Table6, minimum E&S outcome coverage; exact implemented index-by-score mapping unresolved without appendix.",
-    "O2916": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Minimum final-main implemented scope; do not invent appendix columns or coefficients. Distinct norm definitions may require further splits when source recovered. Scope is a lower-bound placeholder for an explicitly implemented high/low ownership result, NOT certification that EPI, Employment Laws and WVS constitute one treatment. Main text says replicate Table6 (OB9) / reestimate our models excluding US/UK stakes (OB10), but does not enumerate appendix columns. No additional index-by-outcome grid is asserted. Resolve the exact index support before calling the paper-wide setting count exhaustive. Source: Section5.5 OB10; p708 L1110–1118."
+    "O2916": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Minimum final-main implemented scope; do not invent appendix columns or coefficients. Distinct norm definitions may require further splits when source recovered. Scope is a lower-bound placeholder for an explicitly implemented high/low ownership result, NOT certification that EPI, Employment Laws and WVS constitute one treatment. Main text says replicate Table6 (OB9) / reestimate our models excluding US/UK stakes (OB10), but does not enumerate appendix columns. No additional index-by-outcome grid is asserted. Resolve the exact index support before calling the paper-wide setting count exhaustive. Source: Section5.5 OB10; p708 L1110–1118.",
+    "A2917": "NGGU7KDV",
+    "B2917": "h37",
+    "I2917": "1",
+    "J2917": "HDFE",
+    "K2917": "0",
+    "L2917": "0",
+    "M2917": "n/a",
+    "N2917": "OB10: foreign ownership from low-norm countries; exclude US/UK institutional stakes; replicate Table6, minimum E&S outcome coverage; exact implemented index-by-score mapping unresolved without appendix.",
+    "O2917": "Identifying FE rationale: p696 controls country/industry/time variation with FE; p702 expressly says controls plus industry/time FE alleviate joint-determinant concerns. Three nonnested country, industry, year sets => HDFE for international baseline; not merely count of dummies. Conditional exogeneity remains an assumption. Minimum final-main implemented scope; do not invent appendix columns or coefficients. Distinct norm definitions may require further splits when source recovered. Scope is a lower-bound placeholder for an explicitly implemented high/low ownership result, NOT certification that EPI, Employment Laws and WVS constitute one treatment. Main text says replicate Table6 (OB9) / reestimate our models excluding US/UK stakes (OB10), but does not enumerate appendix columns. No additional index-by-outcome grid is asserted. Resolve the exact index support before calling the paper-wide setting count exhaustive. Source: Section5.5 OB10; p708 L1110–1118."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76879,7 +76888,23 @@
     "A7157": "NGGU7KDV",
     "B7157": "h36",
     "C7157": "hy4",
-    "K7157": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
+    "K7157": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit.",
+    "A7158": "NGGU7KDV",
+    "B7158": "h37",
+    "C7158": "hy1",
+    "K7158": "Natural log of overall environmental score (equal category weights; 0–100 before log).",
+    "A7159": "NGGU7KDV",
+    "B7159": "h37",
+    "C7159": "hy2",
+    "K7159": "Natural log of proprietary ASSET4 environmental rank-based score (0–100 before log), NOT an outcome-SD unit.",
+    "A7160": "NGGU7KDV",
+    "B7160": "h37",
+    "C7160": "hy3",
+    "K7160": "Natural log of overall social score (equal category weights; 0–100 before log).",
+    "A7161": "NGGU7KDV",
+    "B7161": "h37",
+    "C7161": "hy4",
+    "K7161": "Natural log of proprietary ASSET4 social rank-based score (0–100 before log), NOT an outcome-SD unit."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
