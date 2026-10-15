@@ -27641,7 +27641,16 @@
     "L2839": "0",
     "M2839": "n/a",
     "N2839": "Section5.3 unreported Table7 replications: Politically Affiliated Trustees x BAN effect, residual-bootstrap and unweighted linear regression versions; qualitatively robust. No coefficients reported.",
-    "O2839": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Board share of active/former legislators, Congress members, ex officio, governor-appointed or state-representative-elected trustees (TableB1). Source: p88 Section5.3 L1422-1453."
+    "O2839": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Board share of active/former legislators, Congress members, ex officio, governor-appointed or state-representative-elected trustees (TableB1). Source: p88 Section5.3 L1422-1453.",
+    "A2840": "MBWIN7NL",
+    "B2840": "h45",
+    "I2840": "1",
+    "J2840": "FE",
+    "K2840": "0",
+    "L2840": "0",
+    "M2840": "n/a",
+    "N2840": "Section5.3 unreported Table8 replications: Politically Affiliated Trustees effect, residual-bootstrap and unweighted linear regression versions; qualitatively robust. No coefficients reported.",
+    "O2840": "Minimum implemented scope from explicit statement that Tables6-8 were replicated; inherited design, time/state FE. Does not assert exact specification/coefficients of inaccessible unreported results. Other individually interpreted covariate replications not separately demonstrated. Board share of active/former legislators, Congress members, ex officio, governor-appointed or state-representative-elected trustees (TableB1). Source: p88 Section5.3 L1422-1453."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74882,7 +74891,11 @@
     "A6932": "MBWIN7NL",
     "B6932": "h44",
     "C6932": "hy3",
-    "K6932": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one."
+    "K6932": "Local Lobbying Bias: local lobbying-firm portfolio weight / corresponding market weight minus one.",
+    "A6933": "MBWIN7NL",
+    "B6933": "h45",
+    "C6933": "hy1",
+    "K6933": "Annual Risk Shift: change in risky-asset allocation share."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
