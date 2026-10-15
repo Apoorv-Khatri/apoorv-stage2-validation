@@ -27949,7 +27949,16 @@
     "L2865": "0",
     "M2865": "n/a",
     "N2865": "Internet Appendix G.1: Romer-Romer financial-distress measure replacing the financing indicator in the individual-level startup-entry analysis; all/low/high growth entry under the baseline probit framework.",
-    "O2865": "Final pp2511,2524 and Section4.2 establish the alternative financial measure and probit framework. Keep minimum replication scope; exact final support, interaction columns, sample and coefficients unavailable. Draft A.7 has ordered0-14 indicator with observed0-11.5 and a separate Heckman column; neither exact range nor additional estimator is asserted final. Source: Final pp2511,2524,2529; article.txt L201-203,L1031-1033,L1314-1349."
+    "O2865": "Final pp2511,2524 and Section4.2 establish the alternative financial measure and probit framework. Keep minimum replication scope; exact final support, interaction columns, sample and coefficients unavailable. Draft A.7 has ordered0-14 indicator with observed0-11.5 and a separate Heckman column; neither exact range nor additional estimator is asserted final. Source: Final pp2511,2524,2529; article.txt L201-203,L1031-1033,L1314-1349.",
+    "A2866": "ME6H5V5K",
+    "B2866": "h29",
+    "I2866": "1",
+    "J2866": "Other",
+    "K2866": "1",
+    "L2866": "0",
+    "M2866": "n/a",
+    "N2866": "Internet Appendix G.2: baseline financial-crisis indicator analysis replicated using innovative versus complementary noninnovative startup-entry categories; final p2523 confirms qualitative main results.",
+    "O2866": "Baseline probit framework inherited from Section4.2. Final defines innovative by novelty to potential customers and/or new technology, without an exact response threshold. Draft A.8/fn33 uses all customers AND technology less than one year; do not import that stronger conjunction or its exact columns as final. Main crisis and GZ specifications provide minimum scope; additional RR cross-product remains draft-only. Source: Final p2523 L965-971; baseline Sections4.2-4.3."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -75588,7 +75597,21 @@
     "A6998": "ME6H5V5K",
     "B6998": "h27",
     "C6998": "hy3",
-    "K6998": "Indicator of starting a high-growth business (zero for all other respondents)."
+    "K6998": "Indicator of starting a high-growth business (zero for all other respondents).",
+    "A6999": "ME6H5V5K",
+    "B6999": "h29",
+    "C6999": "hy1",
+    "H6999": "1",
+    "I6999": "1",
+    "J6999": "none",
+    "K6999": "Indicator of starting an noninnovative business under the alternative classification in final p2523. Final novelty and/or new-technology wording retained; exact cutoff unresolved, not draft AND rule.",
+    "A7000": "ME6H5V5K",
+    "B7000": "h29",
+    "C7000": "hy2",
+    "H7000": "1",
+    "I7000": "1",
+    "J7000": "none",
+    "K7000": "Indicator of starting an innovative business under the alternative classification in final p2523. Final novelty and/or new-technology wording retained; exact cutoff unresolved, not draft AND rule."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

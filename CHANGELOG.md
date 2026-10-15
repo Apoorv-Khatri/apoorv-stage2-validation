@@ -470118,3 +470118,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:04:56.505358+00:00 — Review ME6H5V5K h29: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6999",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7000",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6999",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7000",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6999",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7000",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6999",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7000",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6999",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7000",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6999",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7000",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6999",
+    "before": null,
+    "after": "Indicator of starting an noninnovative business under the alternative classification in final p2523. Final novelty and/or new-technology wording retained; exact cutoff unresolved, not draft AND rule."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7000",
+    "before": null,
+    "after": "Indicator of starting an innovative business under the alternative classification in final p2523. Final novelty and/or new-technology wording retained; exact cutoff unresolved, not draft AND rule."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2866",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2866",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2866",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2866",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2866",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2866",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2866",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2866",
+    "before": null,
+    "after": "Internet Appendix G.2: baseline financial-crisis indicator analysis replicated using innovative versus complementary noninnovative startup-entry categories; final p2523 confirms qualitative main results."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2866",
+    "before": null,
+    "after": "Baseline probit framework inherited from Section4.2. Final defines innovative by novelty to potential customers and/or new technology, without an exact response threshold. Draft A.8/fn33 uses all customers AND technology less than one year; do not import that stronger conjunction or its exact columns as final. Main crisis and GZ specifications provide minimum scope; additional RR cross-product remains draft-only. Source: Final p2523 L965-971; baseline Sections4.2-4.3."
+  }
+]
+```
