@@ -27940,7 +27940,16 @@
     "L2864": "0",
     "M2864": "n/a",
     "N2864": "Internet Appendix E.3: high-growth share and employment-growth/size regressions after excluding sectors with markedly different age profiles; final p2528 fn14 confirms the earlier results. One minimum-scope restricted-sector robustness setting.",
-    "O2864": "Inherits Table1 linear identifying-FE design; final says these regressions are repeated after exclusions. Exact excluded sectors, separate table count and columns unavailable. Draft A.3/A.4 show two sector lists and repeats of baseline columns, but do not certify final splits. Preserve Table1 log-caption versus employment-level interpretation conflict. Source: Final p2528 fn14, article.txt L1293-1299."
+    "O2864": "Inherits Table1 linear identifying-FE design; final says these regressions are repeated after exclusions. Exact excluded sectors, separate table count and columns unavailable. Draft A.3/A.4 show two sector lists and repeats of baseline columns, but do not certify final splits. Preserve Table1 log-caption versus employment-level interpretation conflict. Source: Final p2528 fn14, article.txt L1293-1299.",
+    "A2865": "ME6H5V5K",
+    "B2865": "h27",
+    "I2865": "1",
+    "J2865": "Other",
+    "K2865": "0",
+    "L2865": "0",
+    "M2865": "n/a",
+    "N2865": "Internet Appendix G.1: Romer-Romer financial-distress measure replacing the financing indicator in the individual-level startup-entry analysis; all/low/high growth entry under the baseline probit framework.",
+    "O2865": "Final pp2511,2524 and Section4.2 establish the alternative financial measure and probit framework. Keep minimum replication scope; exact final support, interaction columns, sample and coefficients unavailable. Draft A.7 has ordered0-14 indicator with observed0-11.5 and a separate Heckman column; neither exact range nor additional estimator is asserted final. Source: Final pp2511,2524,2529; article.txt L201-203,L1031-1033,L1314-1349."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -75567,7 +75576,19 @@
     "A6995": "ME6H5V5K",
     "B6995": "h24",
     "C6995": "hy2",
-    "K6995": "Log employment as captioned; source scale tension retained."
+    "K6995": "Log employment as captioned; source scale tension retained.",
+    "A6996": "ME6H5V5K",
+    "B6996": "h27",
+    "C6996": "hy1",
+    "K6996": "Indicator of starting any business.",
+    "A6997": "ME6H5V5K",
+    "B6997": "h27",
+    "C6997": "hy2",
+    "K6997": "Indicator of starting a low-growth business (zero for all other respondents).",
+    "A6998": "ME6H5V5K",
+    "B6998": "h27",
+    "C6998": "hy3",
+    "K6998": "Indicator of starting a high-growth business (zero for all other respondents)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
