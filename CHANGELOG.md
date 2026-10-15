@@ -415962,3 +415962,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T06:32:45.665763+00:00 — Review KKKD4ZV5 h15: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6700",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6701",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A6702",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6700",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6701",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6702",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6700",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6701",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6702",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6700",
+    "before": null,
+    "after": "Daily trading volume for each currency pair from CLS; one-sided FX trading volume. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6701",
+    "before": null,
+    "after": "Daily realized power variation (RPV), i.e., daily realized volatility based on intraday absolute returns. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6702",
+    "before": null,
+    "after": "Daily realized Amihud illiquidity, defined as daily RPV divided by daily trading volume; price impact of trading volume. Table2 reports levels; exact rescaling unclear. No explicit log transformation stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2729",
+    "before": null,
+    "after": "KKKD4ZV5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2729",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2729",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2729",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2729",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2729",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2729",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2729",
+    "before": null,
+    "after": "Risk-aversion component RA of FX VIX and Daily trading volume for each currency pair from CLS, Daily realized power variation (RPV), i.e., daily realized volatility based on intraday absolute returns., Daily realized Amihud illiquidity, defined as daily RPV divided by daily trading volume, Table2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2729",
+    "before": null,
+    "after": "The p867 correlation-rather-than-causation disclaimer is genuine counterevidence. Nevertheless p868 gives parameter-specific interpretations (discourage, disincentivize, negative impact, and reaction to strains), and abstract/conclusion elevate liquidity determinants. Under the broad author-intention rule retain these interpreted parameters, not every control. This is a contested gate judgment, not a claim that endogeneity has been solved. Pooled linear regression with lagged outcome and weekday dummies; no identifying FE argument. Table2 says levels, not logs; do not import Table4 log scale. Exact numerical rescaling behind prose percentage interpretation is undocumented. p868 portfolio-adjustment interpretation and increases in volatility/illiquidity. Printed volume slope −.0071 conflicts with prose saying risk aversion increases with volume; preserve both, do not flip sign or infer reverse causality. Source: §4.1 pp867–869, Eq2 Table2; abstract p859 and conclusion p879."
+  }
+]
+```
