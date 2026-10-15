@@ -27542,7 +27542,16 @@
     "L2828": "0",
     "M2828": "n/a",
     "N2828": "Table11 bootstrap performance robustness: lagged Local Lobbying Bias, columns3,6,9,12; WLS/unweighted variants grouped,1000 residual resamples.",
-    "O2828": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Source: pp86,88 Table11; L1288-1335,L1422-1491."
+    "O2828": "Time FE in every column, plus state FE where marked; at most two effective dimensions, not HDFE. Section3.2 p75 explicitly argues that state/time FE address omitted-variable bias and state FE absorb invariant state characteristics. WLS state market-cap weights; fund-clustered SE. No true no-FE column exists. Remaining confounding acknowledged. Source: pp86,88 Table11; L1288-1335,L1422-1491.",
+    "A2829": "MBWIN7NL",
+    "B2829": "h34",
+    "I2829": "1",
+    "J2829": "unknown",
+    "K2829": "1",
+    "L2829": "0",
+    "M2829": "n/a",
+    "N2829": "Section3.3 unreported discrete-time hazard robustness: CONTRIBUTION effect on liquidation/holding survival, with inverse Mills ratio to address selection; results qualitatively similar to Table4.",
+    "O2829": "Discrete hazard link, estimation and first-stage selection specification not reported. Could be logit/probit versus linear hazard; method unknown, not invented Other. No instrument inferred from Mills correction. Source: pp77-78 L664-677,L730-731."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -74658,7 +74667,14 @@
     "A6909": "MBWIN7NL",
     "B6909": "h33",
     "C6909": "hy1",
-    "K6909": "Quarterly value-weighted domestic equity portfolio return, fraction units; Appendix B p89."
+    "K6909": "Quarterly value-weighted domestic equity portfolio return, fraction units; Appendix B p89.",
+    "A6910": "MBWIN7NL",
+    "B6910": "h34",
+    "C6910": "hy1",
+    "H6910": "unknown",
+    "I6910": "unknown",
+    "J6910": "unknown",
+    "K6910": "Discrete-time liquidation event/hazard; actual estimated dependent-variable scale not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

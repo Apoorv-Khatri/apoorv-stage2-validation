@@ -462750,3 +462750,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T10:06:46.198580+00:00 — Review MBWIN7NL h34: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6910",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6910",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6910",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H6910",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I6910",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J6910",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6910",
+    "before": null,
+    "after": "Discrete-time liquidation event/hazard; actual estimated dependent-variable scale not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2829",
+    "before": null,
+    "after": "MBWIN7NL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2829",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2829",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2829",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2829",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2829",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2829",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2829",
+    "before": null,
+    "after": "Section3.3 unreported discrete-time hazard robustness: CONTRIBUTION effect on liquidation/holding survival, with inverse Mills ratio to address selection; results qualitatively similar to Table4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2829",
+    "before": null,
+    "after": "Discrete hazard link, estimation and first-stage selection specification not reported. Could be logit/probit versus linear hazard; method unknown, not invented Other. No instrument inferred from Mills correction. Source: pp77-78 L664-677,L730-731."
+  }
+]
+```
