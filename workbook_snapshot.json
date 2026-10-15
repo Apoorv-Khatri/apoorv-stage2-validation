@@ -27976,7 +27976,16 @@
     "L2868": "0",
     "M2868": "n/a",
     "N2868": "Internet Appendix TableG4: financial-crisis indicator effects on all/low/high-growth startup entry in Spanish GEM surveys; final pp2510,2525 explicitly confirm all main results in Spain, and p2541 specifically confirms the negative spread/high-growth result. Exact final columns unavailable.",
-    "O2868": "Final Section5.4 confirms substantive replication of the baseline probit framework; pp2510,2525 additionally establish all main results in Spain. Minimum-scope entry results only; no draft coefficients, exact column mapping, observation count or clustering imported. Spain only: country dummy constant; no change to nonlinear Other coding. Source: Final pp2510,2525,2541-42; article.txt L158-160,L1071-1074,L2160-2193."
+    "O2868": "Final Section5.4 confirms substantive replication of the baseline probit framework; pp2510,2525 additionally establish all main results in Spain. Minimum-scope entry results only; no draft coefficients, exact column mapping, observation count or clustering imported. Spain only: country dummy constant; no change to nonlinear Other coding. Source: Final pp2510,2525,2541-42; article.txt L158-160,L1071-1074,L2160-2193.",
+    "A2869": "ME6H5V5K",
+    "B2869": "h33",
+    "I2869": "1",
+    "J2869": "Other",
+    "K2869": "0",
+    "L2869": "0",
+    "M2869": "n/a",
+    "N2869": "Internet Appendix TableG4: GZ bond-spread effects on all/low/high-growth startup entry in Spanish GEM surveys; final pp2510,2525 explicitly confirm all main results in Spain, and p2541 specifically confirms the negative spread/high-growth result. Exact final columns unavailable.",
+    "O2869": "Final Section5.4 confirms substantive replication of the baseline probit framework; pp2510,2525 additionally establish all main results in Spain. Minimum-scope entry results only; no draft coefficients, exact column mapping, observation count or clustering imported. Spain only: country dummy constant; no change to nonlinear Other coding. Source: Final pp2510,2525,2541-42; article.txt L158-160,L1071-1074,L2160-2193."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -75658,7 +75667,19 @@
     "H7005": "1",
     "I7005": "1",
     "J7005": "none",
-    "K7005": "Indicator of starting a high-growth business (zero for all other respondents)."
+    "K7005": "Indicator of starting a high-growth business (zero for all other respondents).",
+    "A7006": "ME6H5V5K",
+    "B7006": "h33",
+    "C7006": "hy1",
+    "K7006": "Indicator of starting any business.",
+    "A7007": "ME6H5V5K",
+    "B7007": "h33",
+    "C7007": "hy2",
+    "K7007": "Indicator of starting a low-growth business (zero for all other respondents).",
+    "A7008": "ME6H5V5K",
+    "B7008": "h33",
+    "C7008": "hy3",
+    "K7008": "Indicator of starting a high-growth business (zero for all other respondents)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
