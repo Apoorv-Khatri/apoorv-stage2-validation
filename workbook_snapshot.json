@@ -28473,7 +28473,16 @@
     "L2912": "0",
     "M2912": "n/a",
     "N2912": "OB7 reverse Granger equation: lagged environmental performance effect on Total IO, controlling lagged IO and covariates, firm FE; null effect used as substantive screening/exit mechanism finding.",
-    "O2912": "Substantive null screening/exit finding highlighted in introduction, not excluded wholesale as a reverse-causality diagnostic; implementation may have multiple score variants unresolved. Source: p702 Section4.1 OB7; L652–683."
+    "O2912": "Substantive null screening/exit finding highlighted in introduction, not excluded wholesale as a reverse-causality diagnostic; implementation may have multiple score variants unresolved. Source: p702 Section4.1 OB7; L652–683.",
+    "A2913": "NGGU7KDV",
+    "B2913": "h33",
+    "I2913": "1",
+    "J2913": "FE",
+    "K2913": "0",
+    "L2913": "0",
+    "M2913": "n/a",
+    "N2913": "OB7 reverse Granger equation: lagged social performance effect on Total IO, controlling lagged IO and covariates, firm FE; null effect used as substantive screening/exit mechanism finding.",
+    "O2913": "Substantive null screening/exit finding highlighted in introduction, not excluded wholesale as a reverse-causality diagnostic; implementation may have multiple score variants unresolved. Source: p702 Section4.1 OB7; L652–683."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -76791,7 +76800,11 @@
     "A7144": "NGGU7KDV",
     "B7144": "h32",
     "C7144": "hy1",
-    "K7144": "Total institutional ownership share, exact scale unverified."
+    "K7144": "Total institutional ownership share, exact scale unverified.",
+    "A7145": "NGGU7KDV",
+    "B7145": "h33",
+    "C7145": "hy1",
+    "K7145": "Total institutional ownership share, exact scale unverified."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
