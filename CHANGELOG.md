@@ -448392,3 +448392,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:26:39.035347+00:00 — Review L5V28EJD h20: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6777",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6777",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6777",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6777",
+    "before": null,
+    "after": "Annualized quarterly distribution to CLO equity divided by equity tranche outstanding, percent; TableF2 left panel."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2764",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2764",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2764",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2764",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2764",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2764",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2764",
+    "before": null,
+    "after": "Junior OC-slack level on next-quarter annualized CLO equity yield; linear regression with year-quarter controls, supplement TableF2 first three specifications (full, normal and stress periods)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2764",
+    "before": null,
+    "after": "IA printed pp1–3 EqA1 and TableF2 printed p19: year-quarter dummies are implemented, and p2 says they compare CLOs at a given time. That describes calendar conditioning; unlike AppendixF p9, no argument identifies an unobserved-shock/endogeneity problem solved by this FE set. Classify causally interpreted regression adjustment as OLS; retain the actual time controls. Contested method interpretation: within-time comparability could be read more broadly as identifying FE, but the source does not explicitly supply that rationale. The effect gate passes via performance/cash-diversion mechanism. No no-FE column or extra method-only setting invented. Source: IA pp1–3 EqA1 TableF2 p19."
+  }
+]
+```

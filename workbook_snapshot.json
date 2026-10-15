@@ -26861,7 +26861,16 @@
     "L2763": "0",
     "M2763": "n/a",
     "N2763": "Above- versus below-median number of constrained CLO owners on weekly loan purchase, sale and net transaction volume, dollars and issue-amount-scaled percent; Table7.",
-    "O2763": "Substantive mechanism: more owners leads to more intense selling pressure. Linear grouped comparisons, not first-stage diagnostic. Printed Net header (2)−(1) conflicts with negative buy-minus-sell numbers and prose; preserve numbers and explicit prose definition. Prose 0.94% vs1.5% market turnover compares one-sided sample sales with two-sided market turnover; not automatically same outcome. Source: Main p1133 Table7."
+    "O2763": "Substantive mechanism: more owners leads to more intense selling pressure. Linear grouped comparisons, not first-stage diagnostic. Printed Net header (2)−(1) conflicts with negative buy-minus-sell numbers and prose; preserve numbers and explicit prose definition. Prose 0.94% vs1.5% market turnover compares one-sided sample sales with two-sided market turnover; not automatically same outcome. Source: Main p1133 Table7.",
+    "A2764": "L5V28EJD",
+    "B2764": "h20",
+    "I2764": "1",
+    "J2764": "OLS",
+    "K2764": "0",
+    "L2764": "0",
+    "M2764": "n/a",
+    "N2764": "Junior OC-slack level on next-quarter annualized CLO equity yield; linear regression with year-quarter controls, supplement TableF2 first three specifications (full, normal and stress periods).",
+    "O2764": "IA printed pp1–3 EqA1 and TableF2 printed p19: year-quarter dummies are implemented, and p2 says they compare CLOs at a given time. That describes calendar conditioning; unlike AppendixF p9, no argument identifies an unobserved-shock/endogeneity problem solved by this FE set. Classify causally interpreted regression adjustment as OLS; retain the actual time controls. Contested method interpretation: within-time comparability could be read more broadly as identifying FE, but the source does not explicitly supply that rationale. The effect gate passes via performance/cash-diversion mechanism. No no-FE column or extra method-only setting invented. Source: IA pp1–3 EqA1 TableF2 p19."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -73162,7 +73171,11 @@
     "H6776": "0",
     "I6776": "unknown",
     "J6776": "other",
-    "K6776": "Weekly net (buy minus sell) volume averaged per loan, percent of loan issue amount, Table7 B."
+    "K6776": "Weekly net (buy minus sell) volume averaged per loan, percent of loan issue amount, Table7 B.",
+    "A6777": "L5V28EJD",
+    "B6777": "h20",
+    "C6777": "hy1",
+    "K6777": "Annualized quarterly distribution to CLO equity divided by equity tranche outstanding, percent; TableF2 left panel."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
