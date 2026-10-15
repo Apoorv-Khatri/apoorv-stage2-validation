@@ -418434,3 +418434,1428 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T07:14:42.209807+00:00 — Review KRNZM9QV s3: source-audited coding and linked comparisons
+
+236 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A4599",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4600",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4601",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4602",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4603",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4604",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4605",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4606",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4607",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4608",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4609",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4610",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4611",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4612",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4613",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4614",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4615",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4616",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4617",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A4618",
+    "before": null,
+    "after": "KRNZM9QV"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4599",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4600",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4601",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4602",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4603",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4604",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4605",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4606",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4607",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4608",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4609",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4610",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4611",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4612",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4613",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4614",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4615",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4616",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4617",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B4618",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4599",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4600",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4601",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4602",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4603",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4604",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4605",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4606",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4607",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4608",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4609",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4610",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4611",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4612",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4613",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4614",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4615",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4616",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4617",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C4618",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K311",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4599",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4600",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4601",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4602",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4603",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4604",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4606",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4607",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4608",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4609",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4610",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4611",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4612",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4613",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4614",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4615",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4616",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4617",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K4618",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4599",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4600",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4601",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4602",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4603",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4604",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4605",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4606",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4607",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4608",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4609",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4610",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4611",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4612",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4613",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4614",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4615",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4616",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4617",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L4618",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4599",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4600",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4601",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4602",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4603",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4604",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4605",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4606",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4607",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4608",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4609",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4610",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4611",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4612",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4613",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4614",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4615",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4616",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4617",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M4618",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4599",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4600",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4601",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4602",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4603",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4604",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4605",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4606",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4607",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4608",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4609",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4610",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4611",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4612",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4613",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4614",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4615",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4616",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4617",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N4618",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4599",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4600",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4601",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4602",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4603",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4604",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4605",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4606",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4607",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4608",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4609",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4610",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4611",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4612",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4613",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4614",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4615",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4616",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4617",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O4618",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4599",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4600",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4601",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4602",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4603",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4604",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4605",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4606",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4607",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4608",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4609",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4610",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4611",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4612",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4613",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4614",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4615",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4616",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4617",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P4618",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4599",
+    "before": null,
+    "after": "p284 Table5A. Focal estimate: buyer-initiated sweep,size1, postminuspre300sec |VR−1|: printed -0.0095. Benchmark: Pre-sweep300sec mean |VR−1| 0.3133, same buyer/size1 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4600",
+    "before": null,
+    "after": "p284 Table5B. Focal estimate: buyer-initiated sweep,size1, postminuspre300sec effective half-spread(bp): printed -2.29. Benchmark: Pre-sweep300sec mean effective half-spread(bp) 20.1, same buyer/size1 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4601",
+    "before": null,
+    "after": "p284 Table5A. Focal estimate: buyer-initiated sweep,size2, postminuspre300sec |VR−1|: printed -0.0097. Benchmark: Pre-sweep300sec mean |VR−1| 0.3046, same buyer/size2 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4602",
+    "before": null,
+    "after": "p284 Table5B. Focal estimate: buyer-initiated sweep,size2, postminuspre300sec effective half-spread(bp): printed -0.8. Benchmark: Pre-sweep300sec mean effective half-spread(bp) 10.16, same buyer/size2 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4603",
+    "before": null,
+    "after": "p284 Table5A. Focal estimate: buyer-initiated sweep,size3, postminuspre300sec |VR−1|: printed -0.0072. Benchmark: Pre-sweep300sec mean |VR−1| 0.2991, same buyer/size3 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4604",
+    "before": null,
+    "after": "p284 Table5B. Focal estimate: buyer-initiated sweep,size3, postminuspre300sec effective half-spread(bp): printed -0.68. Benchmark: Pre-sweep300sec mean effective half-spread(bp) 7.61, same buyer/size3 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4605",
+    "before": null,
+    "after": "p284 Table5A. Focal estimate: buyer-initiated sweep,size4, postminuspre300sec |VR−1|: printed -0.0066. Benchmark: Pre-sweep300sec mean |VR−1| 0.3013, same buyer/size4 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4606",
+    "before": null,
+    "after": "p284 Table5B. Focal estimate: buyer-initiated sweep,size4, postminuspre300sec effective half-spread(bp): printed -0.83. Benchmark: Pre-sweep300sec mean effective half-spread(bp) 6.08, same buyer/size4 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4607",
+    "before": null,
+    "after": "p284 Table5A. Focal estimate: buyer-initiated sweep,size5, postminuspre300sec |VR−1|: printed -0.0047. Benchmark: Pre-sweep300sec mean |VR−1| 0.2696, same buyer/size5 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4608",
+    "before": null,
+    "after": "p284 Table5B. Focal estimate: buyer-initiated sweep,size5, postminuspre300sec effective half-spread(bp): printed -0.36. Benchmark: Pre-sweep300sec mean effective half-spread(bp) 3.04, same buyer/size5 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4609",
+    "before": null,
+    "after": "p284 Table5A. Focal estimate: seller-initiated sweep,size1, postminuspre300sec |VR−1|: printed -0.0028. Benchmark: Pre-sweep300sec mean |VR−1| 0.3114, same seller/size1 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4610",
+    "before": null,
+    "after": "p284 Table5B. Focal estimate: seller-initiated sweep,size1, postminuspre300sec effective half-spread(bp): printed -1.85. Benchmark: Pre-sweep300sec mean effective half-spread(bp) 19.59, same seller/size1 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4611",
+    "before": null,
+    "after": "p284 Table5A. Focal estimate: seller-initiated sweep,size2, postminuspre300sec |VR−1|: printed -0.0103. Benchmark: Pre-sweep300sec mean |VR−1| 0.3034, same seller/size2 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4612",
+    "before": null,
+    "after": "p284 Table5B. Focal estimate: seller-initiated sweep,size2, postminuspre300sec effective half-spread(bp): printed -0.93. Benchmark: Pre-sweep300sec mean effective half-spread(bp) 10.35, same seller/size2 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4613",
+    "before": null,
+    "after": "p284 Table5A. Focal estimate: seller-initiated sweep,size3, postminuspre300sec |VR−1|: printed -0.0054. Benchmark: Pre-sweep300sec mean |VR−1| 0.2953, same seller/size3 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4614",
+    "before": null,
+    "after": "p284 Table5B. Focal estimate: seller-initiated sweep,size3, postminuspre300sec effective half-spread(bp): printed -0.71. Benchmark: Pre-sweep300sec mean effective half-spread(bp) 7.77, same seller/size3 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4615",
+    "before": null,
+    "after": "p284 Table5A. Focal estimate: seller-initiated sweep,size4, postminuspre300sec |VR−1|: printed -0.003. Benchmark: Pre-sweep300sec mean |VR−1| 0.295, same seller/size4 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4616",
+    "before": null,
+    "after": "p284 Table5B. Focal estimate: seller-initiated sweep,size4, postminuspre300sec effective half-spread(bp): printed -1.02. Benchmark: Pre-sweep300sec mean effective half-spread(bp) 6.29, same seller/size4 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4617",
+    "before": null,
+    "after": "p284 Table5A. Focal estimate: seller-initiated sweep,size5, postminuspre300sec |VR−1|: printed -0.0039. Benchmark: Pre-sweep300sec mean |VR−1| 0.2681, same seller/size5 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q4618",
+    "before": null,
+    "after": "p284 Table5B. Focal estimate: seller-initiated sweep,size5, postminuspre300sec effective half-spread(bp): printed -0.38. Benchmark: Pre-sweep300sec mean effective half-spread(bp) 3.08, same seller/size5 event sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R311",
+    "before": null,
+    "after": "Historical price impact relative to price20trades earlier is neither the focal postminuspre surrounding effective half-spread nor the intra-sweep SUM of trade spreads. Cross-outcome/aggregation and wrong focal-estimand comparison, not eligible."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4599",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4600",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4601",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4602",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4603",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4604",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4605",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4606",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4607",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4608",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4609",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4610",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4611",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4612",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4613",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4614",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4615",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4616",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4617",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R4618",
+    "before": null,
+    "after": "p283/Table5: same selected events and 300sec windows are established, and footnote5 rules out missing post data; neither that selection check nor short timing establishes the preperiod mean as the target postperiod untreated mean. Source does not specify the required level stability/counterfactual construction. Unknown rather than a generic rejection of endogenous sweeps."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1281",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1282",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1281",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1282",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1281",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1282",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1282",
+    "before": null,
+    "after": "Share-weighted effective HALF-spread in bp in300sec pre/post sweep. The intra-sweep statistic is SUM of trade effective spreads, not the same weighted-average outcome and not part of this outcome contrast."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I514",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J514",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K514",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L514",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M514",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N514",
+    "before": null,
+    "after": "Large collapsed liquidity sweep exposure: paired post-minus-pre 300sec mean contrasts in |VR−1| and share-weighted effective half-spreads, Table5 A/B, separately buyer/seller subsamples and five size quintiles. Intra-sweep sum of individual effective spreads is not the same outcome aggregation as surrounding share-weighted means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O514",
+    "before": null,
+    "after": "No untreated comparison group; before/after linear mean contrast, not DiD/RD. Endogenous sweeps and conditioning on sufficient price variation limit interpretation. Threshold text says at least10,000, caption more than10,000; preserve unresolved strict boundary. Footnote4 relative-volume top5% selection is construction alternative without reported separate outcome result; do not invent a robustness estimate. Grouped conditioning on update groups p284 retains prepost result here; distinct high-low-update treatment on sweep cost is h5. Printed arithmetic/significance conflicts detailed in audit. Source: §3.5 pp281–284 Table5."
+  }
+]
+```
