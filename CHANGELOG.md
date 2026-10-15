@@ -451407,3 +451407,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T09:04:33.810351+00:00 — Review LVRD3VXI s3: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1309",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1310",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1311",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1309",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1310",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1311",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1309",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1310",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1311",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1309",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1310",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1311",
+    "before": null,
+    "after": "Spurious for causal extraction: parent setting excluded; see Settings Notes. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I529",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O529",
+    "before": null,
+    "after": "Metric correlation, contemporaneous sentiment betas, predictive return slopes, and demand-capture correlations. Authors condition mispricing interpretation on the sentiment hypothesis and explicitly allow common omitted causes; no direct sentiment-to-demand effect asserted in initial tests. Return-pattern interpretation is a contested boundary: parent should review p1003 conditional causal hypothesis separately from explicitly descriptive last column, not automatically expand all17 proxies into causal treatments. Source: Main pp999–1003 TableIV and pp1020–1021; L809–1181,L2222–2268."
+  }
+]
+```
