@@ -420870,3 +420870,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T07:16:36.938879+00:00 — Review KRNZM9QV s7: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1290",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1290",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1290",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1290",
+    "before": null,
+    "after": "Postminuspre change in10sec price impact(bp), compared between median-split special-quote change groups. Difference transformation, not none."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I518",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J518",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K518",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L518",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M518",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O518",
+    "before": null,
+    "after": "Median split uses percentage increase in special quote dissemination, so larger declines are below median. Outcome is postminuspre change in price impact; high-low contrast1–2bp. No parallel-trends design asserted, so OLS not DiD; subgroup formed from realized post-change special quoting, not predetermined exposure. Not an instrument. No linked same-outcome baseline. Source: §4.2.2 p289."
+  }
+]
+```
