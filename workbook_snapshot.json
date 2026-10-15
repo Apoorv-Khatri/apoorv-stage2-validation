@@ -28012,7 +28012,16 @@
     "L2872": "0",
     "M2872": "n/a",
     "N2872": "Appendix TableG6: financial-crisis indicator with GDP moderation, all/low/high startup entry, exclude startups already paying wages.",
-    "O2872": "Final Section5.4 confirms substantive replication of the baseline probit framework; pp2510,2525 additionally establish all main results in Spain. Minimum-scope entry results only; no draft coefficients, exact column mapping, observation count or clustering imported. Do not transfer Spain-only country-FE caveat to this multicountry replication. Source: Final pp2510,2525,2541-42; article.txt L158-160,L1071-1074,L2160-2193."
+    "O2872": "Final Section5.4 confirms substantive replication of the baseline probit framework; pp2510,2525 additionally establish all main results in Spain. Minimum-scope entry results only; no draft coefficients, exact column mapping, observation count or clustering imported. Do not transfer Spain-only country-FE caveat to this multicountry replication. Source: Final pp2510,2525,2541-42; article.txt L158-160,L1071-1074,L2160-2193.",
+    "A2873": "ME6H5V5K",
+    "B2873": "h37",
+    "I2873": "1",
+    "J2873": "Other",
+    "K2873": "0",
+    "L2873": "0",
+    "M2873": "n/a",
+    "N2873": "Appendix TableG6: GZ spread with GDP moderation, all/low/high startup entry, exclude startups already paying wages.",
+    "O2873": "Final Section5.4 confirms substantive replication of the baseline probit framework; pp2510,2525 additionally establish all main results in Spain. Minimum-scope entry results only; no draft coefficients, exact column mapping, observation count or clustering imported. Do not transfer Spain-only country-FE caveat to this multicountry replication. Source: Final pp2510,2525,2541-42; article.txt L158-160,L1071-1074,L2160-2193."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -75760,7 +75769,19 @@
     "H7017": "1",
     "I7017": "1",
     "J7017": "none",
-    "K7017": "Indicator of starting a high-growth business (zero for all other respondents)."
+    "K7017": "Indicator of starting a high-growth business (zero for all other respondents).",
+    "A7018": "ME6H5V5K",
+    "B7018": "h37",
+    "C7018": "hy1",
+    "K7018": "Indicator of starting any business.",
+    "A7019": "ME6H5V5K",
+    "B7019": "h37",
+    "C7019": "hy2",
+    "K7019": "Indicator of starting a low-growth business (zero for all other respondents).",
+    "A7020": "ME6H5V5K",
+    "B7020": "h37",
+    "C7020": "hy3",
+    "K7020": "Indicator of starting a high-growth business (zero for all other respondents)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

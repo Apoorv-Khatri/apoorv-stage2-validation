@@ -471213,3 +471213,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:07:24.458354+00:00 — Review ME6H5V5K h37: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7018",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7019",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7020",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7018",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7019",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7020",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7018",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7019",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7020",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7018",
+    "before": null,
+    "after": "Indicator of starting any business."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7019",
+    "before": null,
+    "after": "Indicator of starting a low-growth business (zero for all other respondents)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7020",
+    "before": null,
+    "after": "Indicator of starting a high-growth business (zero for all other respondents)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2873",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2873",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2873",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2873",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2873",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2873",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2873",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2873",
+    "before": null,
+    "after": "Appendix TableG6: GZ spread with GDP moderation, all/low/high startup entry, exclude startups already paying wages."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2873",
+    "before": null,
+    "after": "Final Section5.4 confirms substantive replication of the baseline probit framework; pp2510,2525 additionally establish all main results in Spain. Minimum-scope entry results only; no draft coefficients, exact column mapping, observation count or clustering imported. Do not transfer Spain-only country-FE caveat to this multicountry replication. Source: Final pp2510,2525,2541-42; article.txt L158-160,L1071-1074,L2160-2193."
+  }
+]
+```
