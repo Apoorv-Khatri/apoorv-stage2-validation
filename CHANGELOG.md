@@ -473262,3 +473262,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T12:02:19.514580+00:00 — Review NGGU7KDV s14: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I568",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J568",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K568",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L568",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M568",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O568",
+    "before": null,
+    "after": "Table9 marks country FE Yes but all firms US domiciled: country dimension is constant. Effective industry/year sets=2. Same identifying rationale as baseline. Visual table verification retained printed country row. Domestic social coefficients significant despite broad introductory null rhetoric. Source: pp712–713 Table9A; L1331–1361,L1431–1464."
+  }
+]
+```
