@@ -436563,3 +436563,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T08:20:04.977811+00:00 — Review L5V28EJD h3: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A6733",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B6733",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C6733",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K6733",
+    "before": null,
+    "after": "CAR from week−20 to tau in percent: cumulated residuals of weekly log-price returns; tau=−16,−1,0,5,20."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2747",
+    "before": null,
+    "after": "L5V28EJD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2747",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2747",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2747",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2747",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2747",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2747",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2747",
+    "before": null,
+    "after": "log constrained-CLO dollar holding / loan issue amount on CAR at reported horizons; Table8 PanelB; week0 slope −2.64 pp."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2747",
+    "before": null,
+    "after": "Author-intention inclusion, not endorsement of exogeneity. No IV or randomized assignment. Calendar dummies present, but the relevant main-article discussion does not establish a distinct identifying-FE argument beyond routine temporal controls; OLS survey classification retained. No HDFE: only one calendar set. These are distinct treatment constructions, not excluded IV instruments. PanelC uses event-window sales, not wholly predetermined ownership; PanelD fitted sale probabilities weight holdings rather than instrument a distinct endogenous receipt. Source: Main pp1133–1136 Table8 B."
+  }
+]
+```

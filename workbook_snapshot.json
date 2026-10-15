@@ -26708,7 +26708,16 @@
     "L2746": "1",
     "M2746": "n/a",
     "N2746": "Middle versus top OC-slack tercile contrast in nonlinear logit of at-least-one downgraded-loan sale in months0–2, Table4 cols3–4; marginal effect 2.65 pp.",
-    "O2746": "Separate implemented dummy contrast in three-category model; top omitted. Year-quarter FE and loan/CLO controls. Do not import continuous-slack 13.27% prose comparison into these binary coefficients. Source: Main pp1128–1129 Table4."
+    "O2746": "Separate implemented dummy contrast in three-category model; top omitted. Year-quarter FE and loan/CLO controls. Do not import continuous-slack 13.27% prose comparison into these binary coefficients. Source: Main pp1128–1129 Table4.",
+    "A2747": "L5V28EJD",
+    "B2747": "h3",
+    "I2747": "1",
+    "J2747": "OLS",
+    "K2747": "0",
+    "L2747": "0",
+    "M2747": "n/a",
+    "N2747": "log constrained-CLO dollar holding / loan issue amount on CAR at reported horizons; Table8 PanelB; week0 slope −2.64 pp.",
+    "O2747": "Author-intention inclusion, not endorsement of exogeneity. No IV or randomized assignment. Calendar dummies present, but the relevant main-article discussion does not establish a distinct identifying-FE argument beyond routine temporal controls; OLS survey classification retained. No HDFE: only one calendar set. These are distinct treatment constructions, not excluded IV instruments. PanelC uses event-window sales, not wholly predetermined ownership; PanelD fitted sale probabilities weight holdings rather than instrument a distinct endogenous receipt. Source: Main pp1133–1136 Table8 B."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -72734,7 +72743,11 @@
     "H6732": "1",
     "I6732": "1",
     "J6732": "none",
-    "K6732": "At least one sale by CLO i of downgraded loan j during months0–2 (0/1); Eq6 and Table4."
+    "K6732": "At least one sale by CLO i of downgraded loan j during months0–2 (0/1); Eq6 and Table4.",
+    "A6733": "L5V28EJD",
+    "B6733": "h3",
+    "C6733": "hy1",
+    "K6733": "CAR from week−20 to tau in percent: cumulated residuals of weekly log-price returns; tau=−16,−1,0,5,20."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
