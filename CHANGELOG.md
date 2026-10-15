@@ -472254,3 +472254,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-15T11:09:52.558637+00:00 — Review ME6H5V5K h44: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7037",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7037",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7037",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7037",
+    "before": null,
+    "after": "High-growth rather than low-growth startup choice among entrants; second-stage selection-corrected outcome in Table8. Exact estimator link unresolved."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E62",
+    "before": null,
+    "after": "DONE — Available-source review of all 41 final article pages and 34 author-linked May2020 draft appendix pages with independent audit. Final publisher supplement remains unverified; draft-only innovative exit, RR Heckman/innovation expansion and absolute-job-count comparisons removed, unsupported sector-table splits consolidated. Retain 50 settings and 134 outcomes; 26 comparison rows comprise 14 retained, four rejected and eight unresolved. Table1 identifying FE present throughout, no fabricated no-FE split; age profile terms documented separately. Table8 selection-estimator link unknown, omitted GDP treatment added. Employment log-caption versus level-like interpretation conflict and graphical comparison-unit uncertainty preserved rather than repaired. Probit conditional-mean comparisons distinguished from ineligible channel-effect ratios. Final-main-supported robustness kept minimum-scope; descriptive F2 correlation excluded. Original model fields and IDs preserved; completion does not certify unavailable final supplement."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2880",
+    "before": null,
+    "after": "ME6H5V5K"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2880",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2880",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2880",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2880",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2880",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2880",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2880",
+    "before": null,
+    "after": "Table8 cols1-4: GDP growth effects on high-growth versus low-growth startup choice with two-step Heckman selection correction, conditional on financial conditions and including GDP-by-finance terms where reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2880",
+    "before": null,
+    "after": "Final pp2540-41 explicitly says business cycle affects choice and second stage estimates effects of GDP growth and finance. Distinct estimator from h4/h5 probits. Exact second-stage link unknown, no linear treatment IV. GDP row -0.363,-0.810,0.041,2.778; lower-order coefficients are not unconditional total effects in interacted columns. No qualifying benchmark found. Source: Final Table8 pp2540-41 L2088-2158."
+  }
+]
+```

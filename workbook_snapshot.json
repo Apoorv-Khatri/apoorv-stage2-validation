@@ -287,6 +287,7 @@
     "B62": "Cyclical Fluctuations, Financial Shocks, and the Entry of Fast-Growing Entrepreneurial Startups",
     "C62": "fin",
     "D62": 11,
+    "E62": "DONE — Available-source review of all 41 final article pages and 34 author-linked May2020 draft appendix pages with independent audit. Final publisher supplement remains unverified; draft-only innovative exit, RR Heckman/innovation expansion and absolute-job-count comparisons removed, unsupported sector-table splits consolidated. Retain 50 settings and 134 outcomes; 26 comparison rows comprise 14 retained, four rejected and eight unresolved. Table1 identifying FE present throughout, no fabricated no-FE split; age profile terms documented separately. Table8 selection-estimator link unknown, omitted GDP treatment added. Employment log-caption versus level-like interpretation conflict and graphical comparison-unit uncertainty preserved rather than repaired. Probit conditional-mean comparisons distinguished from ineligible channel-effect ratios. Final-main-supported robustness kept minimum-scope; descriptive F2 correlation excluded. Original model fields and IDs preserved; completion does not certify unavailable final supplement.",
     "A63": "NGGU7KDV",
     "B63": "Do institutional investors drive corporate social responsibility? International evidence",
     "C63": "fin",
@@ -28075,7 +28076,16 @@
     "L2879": "0",
     "M2879": "n/a",
     "N2879": "Unreported robustness, p2522 fn11: GZ spread effect on entry by growth type using expected employment greater than TWICE established-firm average; high-growth share about18%, qualitatively robust. Minimum scope only; exact columns/interactions unreported.",
-    "O2879": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Distinct outcome classification, not new exposure cutoff. Main text establishes implementation, not coefficients; do not import unrelated draft estimates. Source: p2522 fn11 L924-926; baseline design pp2529-32."
+    "O2879": "Weighted individual-level probit, GEM18-64 labor-force weights, country FE and demographic controls, country-clustered SE. Nonlinear outcome estimator: Other, not FE/DiD/IV. Conditional-exogeneity interpretation of macro shocks, not proven exogeneity; GDP controls do not themselves separate supply and demand. Distinct outcome classification, not new exposure cutoff. Main text establishes implementation, not coefficients; do not import unrelated draft estimates. Source: p2522 fn11 L924-926; baseline design pp2529-32.",
+    "A2880": "ME6H5V5K",
+    "B2880": "h44",
+    "I2880": "1",
+    "J2880": "unknown",
+    "K2880": "0",
+    "L2880": "0",
+    "M2880": "n/a",
+    "N2880": "Table8 cols1-4: GDP growth effects on high-growth versus low-growth startup choice with two-step Heckman selection correction, conditional on financial conditions and including GDP-by-finance terms where reported.",
+    "O2880": "Final pp2540-41 explicitly says business cycle affects choice and second stage estimates effects of GDP growth and finance. Distinct estimator from h4/h5 probits. Exact second-stage link unknown, no linear treatment IV. GDP row -0.363,-0.810,0.041,2.778; lower-order coefficients are not unconditional total effects in interacted columns. No qualifying benchmark found. Source: Final Table8 pp2540-41 L2088-2158."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -75923,7 +75933,11 @@
     "A7036": "ME6H5V5K",
     "B7036": "h43",
     "C7036": "hy2",
-    "K7036": "Indicator starting a business with expected employment greater than twice the average size of established firms in its country-sector."
+    "K7036": "Indicator starting a business with expected employment greater than twice the average size of established firms in its country-sector.",
+    "A7037": "ME6H5V5K",
+    "B7037": "h44",
+    "C7037": "hy1",
+    "K7037": "High-growth rather than low-growth startup choice among entrants; second-stage selection-corrected outcome in Table8. Exact estimator link unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
