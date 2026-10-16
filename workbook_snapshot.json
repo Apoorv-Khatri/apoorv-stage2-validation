@@ -29292,7 +29292,16 @@
     "L2988": "1",
     "M2988": "n/a",
     "N2988": "11- but not 12-month maximum announcement indicator -> local news rank; distinct substantive salience contrast, not a diagnostic first stage.",
-    "O2988": "Day-month-year and CBSA FE are two effective identifying dimensions; p2441 explicitly removes national changes to isolate local news. No pre/post difference outcome in this news specification. Source: Table III C pp2441–2442."
+    "O2988": "Day-month-year and CBSA FE are two effective identifying dimensions; p2441 explicitly removes national changes to isolate local news. No pre/post difference outcome in this news specification. Source: Table III C pp2441–2442.",
+    "A2989": "P7K2R8KE",
+    "B2989": "h5",
+    "I2989": "1",
+    "J2989": "FE",
+    "K2989": "1",
+    "L2989": "1",
+    "M2989": "n/a",
+    "N2989": "13- but not 14-month maximum announcement indicator -> local news rank; distinct substantive salience contrast, not a diagnostic first stage.",
+    "O2989": "Day-month-year and CBSA FE are two effective identifying dimensions; p2441 explicitly removes national changes to isolate local news. No pre/post difference outcome in this news specification. Source: Table III C pp2441–2442."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78452,7 +78461,14 @@
     "H7301": "0",
     "I7301": "0",
     "J7301": "other",
-    "K7301": "Local News Interest: within-calendar-year positive rank of local unemployment mentions, divided by maximum rank, (0,1]."
+    "K7301": "Local News Interest: within-calendar-year positive rank of local unemployment mentions, divided by maximum rank, (0,1].",
+    "A7302": "P7K2R8KE",
+    "B7302": "h5",
+    "C7302": "hy1",
+    "H7302": "0",
+    "I7302": "0",
+    "J7302": "other",
+    "K7302": "Local News Interest: within-calendar-year positive rank of local unemployment mentions, divided by maximum rank, (0,1]."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
