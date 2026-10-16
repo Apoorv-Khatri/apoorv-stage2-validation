@@ -29472,7 +29472,16 @@
     "L3008": "1",
     "M3008": "n/a",
     "N3008": "False 12-month maximum -> post-week spending changes; diagnostic preweek comparison excluded.",
-    "O3008": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table VII B cols2–3 pp2451–2454."
+    "O3008": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table VII B cols2–3 pp2451–2454.",
+    "A3009": "P7K2R8KE",
+    "B3009": "h25",
+    "I3009": "1",
+    "J3009": "DiD_conventional",
+    "K3009": "1",
+    "L3009": "1",
+    "M3009": "n/a",
+    "N3009": "Near-12-month maximum -> four-day post minus pre spending change.",
+    "O3009": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table VIII col2 pp2454–2455."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78786,7 +78795,14 @@
     "H7323": "0",
     "I7323": "unknown",
     "J7323": "other",
-    "K7323": "Week4 minus Week2 log(1+weekly discretionary spending), second post week versus immediately preceding week."
+    "K7323": "Week4 minus Week2 log(1+weekly discretionary spending), second post week versus immediately preceding week.",
+    "A7324": "P7K2R8KE",
+    "B7324": "h25",
+    "C7324": "hy1",
+    "H7324": "0",
+    "I7324": "unknown",
+    "J7324": "other",
+    "K7324": "Four-day post minus pre log(1+discretionary spending); title and repeated definition outweigh isolated three-day caption wording."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
