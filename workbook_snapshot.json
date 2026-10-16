@@ -29625,7 +29625,16 @@
     "L3025": "0",
     "M3025": "n/a",
     "N3025": "Heterogeneity of binary maximum announcement spending effect by above-median gas/fuel expense share. Conditional effect is baseline plus interaction for high-characteristic group.",
-    "O3025": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Separate reported moderator estimand. Characteristics time-invariant; construction is not uniformly pre-event. Not a causal intervention on the characteristic itself. Main=1 only when central low-income/sophistication interpretation supports it, not simply because table is in main text. Source: Table XI B col3 pp2462–2465."
+    "O3025": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Separate reported moderator estimand. Characteristics time-invariant; construction is not uniformly pre-event. Not a causal intervention on the characteristic itself. Main=1 only when central low-income/sophistication interpretation supports it, not simply because table is in main text. Source: Table XI B col3 pp2462–2465.",
+    "A3026": "P7K2R8KE",
+    "B3026": "h42",
+    "I3026": "1",
+    "J3026": "DiD_conventional",
+    "K3026": "1",
+    "L3026": "0",
+    "M3026": "n/a",
+    "N3026": "Heterogeneity of binary maximum announcement spending effect by above-median zip-code education. Conditional effect is baseline plus interaction for high-characteristic group.",
+    "O3026": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Separate reported moderator estimand. Characteristics time-invariant; construction is not uniformly pre-event. Not a causal intervention on the characteristic itself. Main=1 only when central low-income/sophistication interpretation supports it, not simply because table is in main text. Source: Table XI C col1 pp2462–2465."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79058,7 +79067,14 @@
     "H7340": "0",
     "I7340": "unknown",
     "J7340": "other",
-    "K7340": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
+    "K7340": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established.",
+    "A7341": "P7K2R8KE",
+    "B7341": "h42",
+    "C7341": "hy1",
+    "H7341": "0",
+    "I7341": "unknown",
+    "J7341": "other",
+    "K7341": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
