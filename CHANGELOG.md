@@ -489273,3 +489273,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:10:48.732703+00:00 — Review P7K2R8KE h6: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7303",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7303",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7303",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7303",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7303",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7303",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7303",
+    "before": null,
+    "after": "Local News Interest: within-calendar-year positive rank of local unemployment mentions, divided by maximum rank, (0,1]."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2990",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2990",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2990",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2990",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2990",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2990",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2990",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2990",
+    "before": null,
+    "after": "14- but not 15-month maximum announcement indicator -> local news rank; distinct substantive salience contrast, not a diagnostic first stage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2990",
+    "before": null,
+    "after": "Day-month-year and CBSA FE are two effective identifying dimensions; p2441 explicitly removes national changes to isolate local news. No pre/post difference outcome in this news specification. Source: Table III C pp2441–2442."
+  }
+]
+```
