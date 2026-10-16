@@ -494502,3 +494502,318 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:33:41.798936+00:00 — Review P7K2R8KE h55: source-audited coding and linked comparisons
+
+51 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7354",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7355",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7356",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7357",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7358",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7359",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7354",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7355",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7356",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7357",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7358",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7359",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7354",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7355",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7356",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7357",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7358",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7359",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7354",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7355",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7356",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7357",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7358",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7359",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7354",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7355",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7356",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7357",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7358",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7359",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7354",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7355",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7356",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7357",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7358",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7359",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7354",
+    "before": null,
+    "after": "Future discretionary expenditure change at 1-month horizon; exact final transformation/conditioning unavailable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7355",
+    "before": null,
+    "after": "Future discretionary expenditure change at 2-month horizon; exact final transformation/conditioning unavailable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7356",
+    "before": null,
+    "after": "Future discretionary expenditure change at 3-month horizon; exact final transformation/conditioning unavailable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7357",
+    "before": null,
+    "after": "Future discretionary expenditure change at 4-month horizon; exact final transformation/conditioning unavailable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7358",
+    "before": null,
+    "after": "Future discretionary expenditure change at 5-month horizon; exact final transformation/conditioning unavailable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7359",
+    "before": null,
+    "after": "Future discretionary expenditure change at 6-month horizon; exact final transformation/conditioning unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3039",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3039",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3039",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3039",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3039",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3039",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3039",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3039",
+    "before": null,
+    "after": "Lagged 12-month maximum announcement -> future discretionary expenditure changes over one through six months; insignificant negative estimates, no reversal."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3039",
+    "before": null,
+    "after": "Final main text explicitly reports implemented analysis and qualitative result, but final supplement unavailable. Scope-limited minimum entry; estimator, additional treatment/column splits and numerical coefficients remain pending. Do not substitute old-draft grids. Human_IV_type unknown because exact implementation is not established. Main=1: abstract and conclusion emphasize no later reversal. Do not import earlier draft claim of statistically significant persistent two-to-four-month reductions, contradicted by final prose. Source: p2455 Section III.E; final Table IA.VI."
+  }
+]
+```
