@@ -488649,3 +488649,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:08:04.077474+00:00 — Review P7K2R8KE s11: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K350",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K351",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R350",
+    "before": null,
+    "after": "Spurious benchmark: compares conditional treatment effects (-1.4% vs -5.4%, or -1.7% vs -6.9%), not an effect to an outcome mean/SD/level. other_level cannot rescue an effect-versus-effect comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R351",
+    "before": null,
+    "after": "Spurious benchmark: compares conditional treatment effects (-1.4% vs -5.4%, or -1.7% vs -6.9%), not an effect to an outcome mean/SD/level. other_level cannot rescue an effect-versus-effect comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1450",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1450",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1450",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1450",
+    "before": null,
+    "after": "Difference of log(1+Y) levels, not a simple log1p level. Zero mass of the reported difference is not established; raw spending zeros are explicitly acknowledged in footnote8 (pp2447–2448)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I589",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J589",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K589",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L589",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M589",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N589",
+    "before": null,
+    "after": "Heterogeneity of binary 12-month-maximum spending effect by paid household coverage of largest local newspaper; Table XII A cols1–2. Interaction -0.040/-0.044; all-newspaper and news-change moderators split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O589",
+    "before": null,
+    "after": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Moderator is continuous, but announcement exposure is binary. Conditional announcement effect equals baseline plus interaction times coverage. Exposure coverage averaged Oct2013–Dec2015 is not necessarily predetermined for all 2011–2016 events. Separate continuous-dose interpretation is contested, not automatically a new duplicate setting. Source: pp2465–2468; Table XII A1–2."
+  }
+]
+```
