@@ -29346,7 +29346,16 @@
     "L2994": "1",
     "M2994": "n/a",
     "N2994": "12-month maximum announcement -> two-week spending change; Table V cols1–2, jointly controlling near-maximum exposure. Routine unemployment-control variants grouped.",
-    "O2994": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table V cols1–2; pp2444–2447."
+    "O2994": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table V cols1–2; pp2444–2447.",
+    "A2995": "P7K2R8KE",
+    "B2995": "h11",
+    "I2995": "1",
+    "J2995": "DiD_conventional",
+    "K2995": "1",
+    "L2995": "1",
+    "M2995": "n/a",
+    "N2995": "False 12-month maximum announcement -> two-week spending change; Table V cols3–4 only. False indicator alone, so non-false reference includes true maximum announcements; unemployment-control variants grouped.",
+    "O2995": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Distinguish h56: cols5–6 jointly estimate true and false announcement arms against neither arm. This is a change in treatment/reference estimand, not a routine control addition. Source: Table V cols3–4; pp2445–2446."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78548,7 +78557,14 @@
     "H7307": "0",
     "I7307": "unknown",
     "J7307": "other",
-    "K7307": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
+    "K7307": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established.",
+    "A7308": "P7K2R8KE",
+    "B7308": "h11",
+    "C7308": "hy1",
+    "H7308": "0",
+    "I7308": "unknown",
+    "J7308": "other",
+    "K7308": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
