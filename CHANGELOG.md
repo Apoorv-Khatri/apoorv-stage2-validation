@@ -489588,3 +489588,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:12:08.312020+00:00 — Review P7K2R8KE h9: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7306",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7306",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7306",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7306",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7306",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7306",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7306",
+    "before": null,
+    "after": "National News Interest positive annual rank scaled to maximum1; not raw article count."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A2993",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B2993",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I2993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J2993",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K2993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L2993",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M2993",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N2993",
+    "before": null,
+    "after": "Release week indicator -> National News Interest positive annual rank of unemployment mentions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O2993",
+    "before": null,
+    "after": "Causally interpreted news-supply response in opening III.A (p2439), despite associative sentence-level wording. Month-year and day-of-week dummies are present; no substantive argument here that these identify by absorbing endogeneity, unlike explicit local-news discussion. OLS/regression-adjustment code does not mean no dummy controls. FE alternative is a contested judgment. Source: Table III A col3; Eq1 pp2436–2440."
+  }
+]
+```

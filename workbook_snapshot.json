@@ -29328,7 +29328,16 @@
     "L2992": "0",
     "M2992": "n/a",
     "N2992": "Within three days of release date indicator -> National News Interest positive annual rank of unemployment mentions.",
-    "O2992": "Causally interpreted news-supply response in opening III.A (p2439), despite associative sentence-level wording. Month-year and day-of-week dummies are present; no substantive argument here that these identify by absorbing endogeneity, unlike explicit local-news discussion. OLS/regression-adjustment code does not mean no dummy controls. FE alternative is a contested judgment. Timing detail: Eq1 says a day within three days, but p2439 describes release day plus subsequent three days for col2; record the table indicator and prose definition without asserting a symmetric plus/minus-three-day window. Source: Table III A col2; Eq1 pp2436–2440."
+    "O2992": "Causally interpreted news-supply response in opening III.A (p2439), despite associative sentence-level wording. Month-year and day-of-week dummies are present; no substantive argument here that these identify by absorbing endogeneity, unlike explicit local-news discussion. OLS/regression-adjustment code does not mean no dummy controls. FE alternative is a contested judgment. Timing detail: Eq1 says a day within three days, but p2439 describes release day plus subsequent three days for col2; record the table indicator and prose definition without asserting a symmetric plus/minus-three-day window. Source: Table III A col2; Eq1 pp2436–2440.",
+    "A2993": "P7K2R8KE",
+    "B2993": "h9",
+    "I2993": "1",
+    "J2993": "OLS",
+    "K2993": "1",
+    "L2993": "0",
+    "M2993": "n/a",
+    "N2993": "Release week indicator -> National News Interest positive annual rank of unemployment mentions.",
+    "O2993": "Causally interpreted news-supply response in opening III.A (p2439), despite associative sentence-level wording. Month-year and day-of-week dummies are present; no substantive argument here that these identify by absorbing endogeneity, unlike explicit local-news discussion. OLS/regression-adjustment code does not mean no dummy controls. FE alternative is a contested judgment. Source: Table III A col3; Eq1 pp2436–2440."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78516,7 +78525,14 @@
     "H7305": "0",
     "I7305": "0",
     "J7305": "other",
-    "K7305": "National News Interest positive annual rank scaled to maximum1; not raw article count."
+    "K7305": "National News Interest positive annual rank scaled to maximum1; not raw article count.",
+    "A7306": "P7K2R8KE",
+    "B7306": "h9",
+    "C7306": "hy1",
+    "H7306": "0",
+    "I7306": "0",
+    "J7306": "other",
+    "K7306": "National News Interest positive annual rank scaled to maximum1; not raw article count."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
