@@ -29337,7 +29337,16 @@
     "L2993": "0",
     "M2993": "n/a",
     "N2993": "Release week indicator -> National News Interest positive annual rank of unemployment mentions.",
-    "O2993": "Causally interpreted news-supply response in opening III.A (p2439), despite associative sentence-level wording. Month-year and day-of-week dummies are present; no substantive argument here that these identify by absorbing endogeneity, unlike explicit local-news discussion. OLS/regression-adjustment code does not mean no dummy controls. FE alternative is a contested judgment. Source: Table III A col3; Eq1 pp2436–2440."
+    "O2993": "Causally interpreted news-supply response in opening III.A (p2439), despite associative sentence-level wording. Month-year and day-of-week dummies are present; no substantive argument here that these identify by absorbing endogeneity, unlike explicit local-news discussion. OLS/regression-adjustment code does not mean no dummy controls. FE alternative is a contested judgment. Source: Table III A col3; Eq1 pp2436–2440.",
+    "A2994": "P7K2R8KE",
+    "B2994": "h10",
+    "I2994": "1",
+    "J2994": "DiD_conventional",
+    "K2994": "1",
+    "L2994": "1",
+    "M2994": "n/a",
+    "N2994": "12-month maximum announcement -> two-week spending change; Table V cols1–2, jointly controlling near-maximum exposure. Routine unemployment-control variants grouped.",
+    "O2994": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table V cols1–2; pp2444–2447."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78532,7 +78541,14 @@
     "H7306": "0",
     "I7306": "0",
     "J7306": "other",
-    "K7306": "National News Interest positive annual rank scaled to maximum1; not raw article count."
+    "K7306": "National News Interest positive annual rank scaled to maximum1; not raw article count.",
+    "A7307": "P7K2R8KE",
+    "B7307": "h10",
+    "C7307": "hy1",
+    "H7307": "0",
+    "I7307": "unknown",
+    "J7307": "other",
+    "K7307": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
