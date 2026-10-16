@@ -29661,7 +29661,16 @@
     "L3029": "1",
     "M3029": "n/a",
     "N3029": "Heterogeneity of binary maximum announcement spending effect by sum of household coverage across all local newspapers.",
-    "O3029": "Binary maximum announcement effect moderated by sum of average household subscription coverage across all local newspapers, Table XII A cols3–4. Conventional DiD with Eq4 spending changes and full Table IV col4 FE/controls. Circulation measured October2013–December2015; not uniformly predetermined for 2011–2016 events. NYC excluded because NYT/WSJ not in coverage data. High-salary interaction is a routine confounder control; not a separate treatment setting. This is not the contemporaneous news-change moderator in h46. Conditional announcement effect is baseline plus interaction times coverage; effect-versus-effect comparisons do not qualify. Source: Table XII A cols3–4 pp2466–2468."
+    "O3029": "Binary maximum announcement effect moderated by sum of average household subscription coverage across all local newspapers, Table XII A cols3–4. Conventional DiD with Eq4 spending changes and full Table IV col4 FE/controls. Circulation measured October2013–December2015; not uniformly predetermined for 2011–2016 events. NYC excluded because NYT/WSJ not in coverage data. High-salary interaction is a routine confounder control; not a separate treatment setting. This is not the contemporaneous news-change moderator in h46. Conditional announcement effect is baseline plus interaction times coverage; effect-versus-effect comparisons do not qualify. Source: Table XII A cols3–4 pp2466–2468.",
+    "A3030": "P7K2R8KE",
+    "B3030": "h46",
+    "I3030": "1",
+    "J3030": "DiD_conventional",
+    "K3030": "1",
+    "L3030": "1",
+    "M3030": "n/a",
+    "N3030": "Heterogeneity of binary maximum announcement spending effect by post minus pre Local News Interest.",
+    "O3030": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Moderator nonbinary; binary code refers to announcement contrast. The post-minus-pre coverage moderator is contemporaneous/endogenous, not an instrument or randomized mediation treatment. Effects compared to other effects do not qualify as outcome-level benchmarks. Source: Table XII B cols1–2 pp2466–2468."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79122,7 +79131,14 @@
     "H7344": "0",
     "I7344": "unknown",
     "J7344": "other",
-    "K7344": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
+    "K7344": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established.",
+    "A7345": "P7K2R8KE",
+    "B7345": "h46",
+    "C7345": "hy1",
+    "H7345": "0",
+    "I7345": "unknown",
+    "J7345": "other",
+    "K7345": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
