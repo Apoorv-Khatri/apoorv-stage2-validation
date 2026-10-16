@@ -29733,7 +29733,16 @@
     "L3037": "0",
     "M3037": "unknown",
     "N3037": "12-month minimum unemployment announcement -> spending; no significant response reported.",
-    "O3037": "Final main text explicitly reports implemented analysis and qualitative result, but final supplement unavailable. Scope-limited minimum entry; estimator, additional treatment/column splits and numerical coefficients remain pending. Do not substitute old-draft grids. Human_IV_type unknown because exact implementation is not established. Final article also refers to IA.V for three-day response; cross-reference conflict unresolved. Source: p2448 footnote10; final Table IA.V reference."
+    "O3037": "Final main text explicitly reports implemented analysis and qualitative result, but final supplement unavailable. Scope-limited minimum entry; estimator, additional treatment/column splits and numerical coefficients remain pending. Do not substitute old-draft grids. Human_IV_type unknown because exact implementation is not established. Final article also refers to IA.V for three-day response; cross-reference conflict unresolved. Source: p2448 footnote10; final Table IA.V reference.",
+    "A3038": "P7K2R8KE",
+    "B3038": "h54",
+    "I3038": "1",
+    "J3038": "unknown",
+    "K3038": "1",
+    "L3038": "0",
+    "M3038": "unknown",
+    "N3038": "12-month maximum -> three-day spending response, reported insignificant.",
+    "O3038": "Final main text explicitly reports implemented analysis and qualitative result, but final supplement unavailable. Scope-limited minimum entry; estimator, additional treatment/column splits and numerical coefficients remain pending. Do not substitute old-draft grids. Human_IV_type unknown because exact implementation is not established. IA.V is also cited for minimum announcements in footnote10; do not resolve from an old draft. Source: p2455 footnote11; final Table IA.V reference."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79250,7 +79259,14 @@
     "H7352": "0",
     "I7352": "unknown",
     "J7352": "unknown",
-    "K7352": "Spending response; precise regression outcome transformation not restated in final footnote."
+    "K7352": "Spending response; precise regression outcome transformation not restated in final footnote.",
+    "A7353": "P7K2R8KE",
+    "B7353": "h54",
+    "C7353": "hy1",
+    "H7353": "0",
+    "I7353": "unknown",
+    "J7353": "unknown",
+    "K7353": "Three-day discretionary spending response; presumed short-window change but exact scale unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
