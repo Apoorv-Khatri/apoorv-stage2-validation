@@ -495030,3 +495030,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T05:22:40.092773+00:00 — Review PJ5D7KBE s3: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I592",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J592",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K592",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L592",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M592",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N592",
+    "before": null,
+    "after": "FF5: continuous MKT beta conditional on other four betas exposure -> monthly individual-stock excess return (percent per month); Table7 A–C cols3,6; pp284–285. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O592",
+    "before": null,
+    "after": "Joint five-beta instrument system; four additional distinct focal exposures split. Univariate RMW and CMA regressions split because the excluded instrument systems differ, not because of routine controls. Table10 Tm1 repeats the corresponding characteristic-controlled beta result; no duplicate added. Source: Table7 A–C cols3,6; pp284–285."
+  }
+]
+```
