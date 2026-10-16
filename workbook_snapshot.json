@@ -29715,7 +29715,16 @@
     "L3035": "0",
     "M3035": "n/a",
     "N3035": "12-month maximum -> change in log(discretionary spending), excluding observations with zero spending pre or post; alternative outcome scale rather than a new identification design.",
-    "O3035": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Final footnote confirms implemented comparable log specification across two appendix tables. Exact final mapping of near/false/true treatments and columns is unavailable; those grids held, not copied from draft. Source: pp2447–2448 footnote8; final Tables IA.III–IA.IV."
+    "O3035": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Final footnote confirms implemented comparable log specification across two appendix tables. Exact final mapping of near/false/true treatments and columns is unavailable; those grids held, not copied from draft. Source: pp2447–2448 footnote8; final Tables IA.III–IA.IV.",
+    "A3036": "P7K2R8KE",
+    "B3036": "h52",
+    "I3036": "1",
+    "J3036": "unknown",
+    "K3036": "1",
+    "L3036": "0",
+    "M3036": "unknown",
+    "N3036": "12-month minimum unemployment announcement -> media coverage; no significant response reported.",
+    "O3036": "Final main text explicitly reports implemented analysis and qualitative result, but final supplement unavailable. Scope-limited minimum entry; estimator, additional treatment/column splits and numerical coefficients remain pending. Do not substitute old-draft grids. Human_IV_type unknown because exact implementation is not established. Final article also refers to IA.V for three-day response; cross-reference conflict unresolved. Source: p2448 footnote10; final Table IA.V reference."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79218,7 +79227,14 @@
     "H7350": "0",
     "I7350": "unknown",
     "J7350": "other",
-    "K7350": "Post minus pre log(discretionary spending), strictly positive raw pre/post spending sample. Reported difference can equal zero; mass not established."
+    "K7350": "Post minus pre log(discretionary spending), strictly positive raw pre/post spending sample. Reported difference can equal zero; mass not established.",
+    "A7351": "P7K2R8KE",
+    "B7351": "h52",
+    "C7351": "hy1",
+    "H7351": "0",
+    "I7351": "unknown",
+    "J7351": "unknown",
+    "K7351": "Local unemployment news interest; scale not restated in final footnote."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
