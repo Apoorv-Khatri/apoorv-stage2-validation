@@ -29724,7 +29724,16 @@
     "L3036": "0",
     "M3036": "unknown",
     "N3036": "12-month minimum unemployment announcement -> media coverage; no significant response reported.",
-    "O3036": "Final main text explicitly reports implemented analysis and qualitative result, but final supplement unavailable. Scope-limited minimum entry; estimator, additional treatment/column splits and numerical coefficients remain pending. Do not substitute old-draft grids. Human_IV_type unknown because exact implementation is not established. Final article also refers to IA.V for three-day response; cross-reference conflict unresolved. Source: p2448 footnote10; final Table IA.V reference."
+    "O3036": "Final main text explicitly reports implemented analysis and qualitative result, but final supplement unavailable. Scope-limited minimum entry; estimator, additional treatment/column splits and numerical coefficients remain pending. Do not substitute old-draft grids. Human_IV_type unknown because exact implementation is not established. Final article also refers to IA.V for three-day response; cross-reference conflict unresolved. Source: p2448 footnote10; final Table IA.V reference.",
+    "A3037": "P7K2R8KE",
+    "B3037": "h53",
+    "I3037": "1",
+    "J3037": "unknown",
+    "K3037": "1",
+    "L3037": "0",
+    "M3037": "unknown",
+    "N3037": "12-month minimum unemployment announcement -> spending; no significant response reported.",
+    "O3037": "Final main text explicitly reports implemented analysis and qualitative result, but final supplement unavailable. Scope-limited minimum entry; estimator, additional treatment/column splits and numerical coefficients remain pending. Do not substitute old-draft grids. Human_IV_type unknown because exact implementation is not established. Final article also refers to IA.V for three-day response; cross-reference conflict unresolved. Source: p2448 footnote10; final Table IA.V reference."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79234,7 +79243,14 @@
     "H7351": "0",
     "I7351": "unknown",
     "J7351": "unknown",
-    "K7351": "Local unemployment news interest; scale not restated in final footnote."
+    "K7351": "Local unemployment news interest; scale not restated in final footnote.",
+    "A7352": "P7K2R8KE",
+    "B7352": "h53",
+    "C7352": "hy1",
+    "H7352": "0",
+    "I7352": "unknown",
+    "J7352": "unknown",
+    "K7352": "Spending response; precise regression outcome transformation not restated in final footnote."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

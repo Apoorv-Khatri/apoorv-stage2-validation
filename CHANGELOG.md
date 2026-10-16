@@ -494292,3 +494292,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:32:42.868037+00:00 — Review P7K2R8KE h53: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7352",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7352",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7352",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7352",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7352",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7352",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7352",
+    "before": null,
+    "after": "Spending response; precise regression outcome transformation not restated in final footnote."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3037",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3037",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3037",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3037",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3037",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3037",
+    "before": null,
+    "after": "12-month minimum unemployment announcement -> spending; no significant response reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3037",
+    "before": null,
+    "after": "Final main text explicitly reports implemented analysis and qualitative result, but final supplement unavailable. Scope-limited minimum entry; estimator, additional treatment/column splits and numerical coefficients remain pending. Do not substitute old-draft grids. Human_IV_type unknown because exact implementation is not established. Final article also refers to IA.V for three-day response; cross-reference conflict unresolved. Source: p2448 footnote10; final Table IA.V reference."
+  }
+]
+```
