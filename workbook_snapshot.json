@@ -29535,7 +29535,16 @@
     "L3015": "1",
     "M3015": "n/a",
     "N3015": "False 12-month maximum announcement -> loan initiation; Table IX B cols3. Indicator level versus post-minus-pre indicator change unresolved; repayment and other announcement treatments separately recorded.",
-    "O3015": "Unresolved implemented dependent variable: Table IX B p2458 explicitly says an indicator during the period, supporting a level linear-probability/HDFE reading; but it calls the regressions analogous to Panel A, whose post-minus-pre construction follows Eq3 pp2437–2438. The same event-window sample size as Table IV is compatible with differencing or a single post-period level and does not settle this. No separate loan equation or post-period implementation is supplied. If level: HDFE, binary outcome, none transform. If pre/post indicator difference: conventional DiD, nonbinary {-1,0,1}, other transform. Method, outcome binary/transform and zero mass remain unknown; do not privilege caption or analogy. Both candidates are non-IV; n/a IV type. Announcement exposure remains binary. Final code/supplement required. Source: Table IX B col3 pp2458–2459."
+    "O3015": "Unresolved implemented dependent variable: Table IX B p2458 explicitly says an indicator during the period, supporting a level linear-probability/HDFE reading; but it calls the regressions analogous to Panel A, whose post-minus-pre construction follows Eq3 pp2437–2438. The same event-window sample size as Table IV is compatible with differencing or a single post-period level and does not settle this. No separate loan equation or post-period implementation is supplied. If level: HDFE, binary outcome, none transform. If pre/post indicator difference: conventional DiD, nonbinary {-1,0,1}, other transform. Method, outcome binary/transform and zero mass remain unknown; do not privilege caption or analogy. Both candidates are non-IV; n/a IV type. Announcement exposure remains binary. Final code/supplement required. Source: Table IX B col3 pp2458–2459.",
+    "A3016": "P7K2R8KE",
+    "B3016": "h32",
+    "I3016": "1",
+    "J3016": "DiD_conventional",
+    "K3016": "1",
+    "L3016": "1",
+    "M3016": "n/a",
+    "N3016": "Near-12-month maximum -> cash withdrawal amount change.",
+    "O3016": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table X A col2 pp2460–2461."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78898,7 +78907,14 @@
     "H7330": "unknown",
     "I7330": "unknown",
     "J7330": "unknown",
-    "K7330": "Loan initiation, Table IX B p2458: caption says binary indicator but analogous-regression wording may retain Eq3 post-minus-pre difference. Level would be {0,1}, none; difference {-1,0,1}, other. Table II establishes raw indicator zeros, not the exact dependent-variable construction or zero mass in this regression. Labels remain unknown pending final implementation."
+    "K7330": "Loan initiation, Table IX B p2458: caption says binary indicator but analogous-regression wording may retain Eq3 post-minus-pre difference. Level would be {0,1}, none; difference {-1,0,1}, other. Table II establishes raw indicator zeros, not the exact dependent-variable construction or zero mass in this regression. Labels remain unknown pending final implementation.",
+    "A7331": "P7K2R8KE",
+    "B7331": "h32",
+    "C7331": "hy1",
+    "H7331": "0",
+    "I7331": "unknown",
+    "J7331": "other",
+    "K7331": "Two-week post minus pre log(1+cash withdrawal dollars); some cash withdrawn within event window."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
