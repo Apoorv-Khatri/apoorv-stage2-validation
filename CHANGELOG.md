@@ -494082,3 +494082,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:31:38.334144+00:00 — Review P7K2R8KE h51: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7350",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7350",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7350",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7350",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7350",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7350",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7350",
+    "before": null,
+    "after": "Post minus pre log(discretionary spending), strictly positive raw pre/post spending sample. Reported difference can equal zero; mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3035",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3035",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3035",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3035",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3035",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3035",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3035",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3035",
+    "before": null,
+    "after": "12-month maximum -> change in log(discretionary spending), excluding observations with zero spending pre or post; alternative outcome scale rather than a new identification design."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3035",
+    "before": null,
+    "after": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Final footnote confirms implemented comparable log specification across two appendix tables. Exact final mapping of near/false/true treatments and columns is unavailable; those grids held, not copied from draft. Source: pp2447–2448 footnote8; final Tables IA.III–IA.IV."
+  }
+]
+```
