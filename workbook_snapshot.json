@@ -29310,7 +29310,16 @@
     "L2990": "1",
     "M2990": "n/a",
     "N2990": "14- but not 15-month maximum announcement indicator -> local news rank; distinct substantive salience contrast, not a diagnostic first stage.",
-    "O2990": "Day-month-year and CBSA FE are two effective identifying dimensions; p2441 explicitly removes national changes to isolate local news. No pre/post difference outcome in this news specification. Source: Table III C pp2441–2442."
+    "O2990": "Day-month-year and CBSA FE are two effective identifying dimensions; p2441 explicitly removes national changes to isolate local news. No pre/post difference outcome in this news specification. Source: Table III C pp2441–2442.",
+    "A2991": "P7K2R8KE",
+    "B2991": "h7",
+    "I2991": "1",
+    "J2991": "OLS",
+    "K2991": "1",
+    "L2991": "0",
+    "M2991": "n/a",
+    "N2991": "Release date indicator -> National News Interest positive annual rank of unemployment mentions.",
+    "O2991": "Causally interpreted news-supply response in opening III.A (p2439), despite associative sentence-level wording. Month-year and day-of-week dummies are present; no substantive argument here that these identify by absorbing endogeneity, unlike explicit local-news discussion. OLS/regression-adjustment code does not mean no dummy controls. FE alternative is a contested judgment. Source: Table III A col1; Eq1 pp2436–2440."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78484,7 +78493,14 @@
     "H7303": "0",
     "I7303": "0",
     "J7303": "other",
-    "K7303": "Local News Interest: within-calendar-year positive rank of local unemployment mentions, divided by maximum rank, (0,1]."
+    "K7303": "Local News Interest: within-calendar-year positive rank of local unemployment mentions, divided by maximum rank, (0,1].",
+    "A7304": "P7K2R8KE",
+    "B7304": "h7",
+    "C7304": "hy1",
+    "H7304": "0",
+    "I7304": "0",
+    "J7304": "other",
+    "K7304": "National News Interest positive annual rank scaled to maximum1; not raw article count."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
