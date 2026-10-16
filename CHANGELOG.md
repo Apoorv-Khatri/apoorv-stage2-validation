@@ -495195,3 +495195,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T05:24:38.925318+00:00 — Review PJ5D7KBE s6: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1457",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1457",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1457",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1456",
+    "before": null,
+    "after": "CAPM IV mean-estimator only after splitting: average excess return over t through t+11 (12 months), percent per month; not cumulative return. Other model exposures have linked added outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1457",
+    "before": null,
+    "after": "Inactive under narrowed s6 (Tm=12 CAPM). One-month CAPM outcome represented under h33/hy1; other model-specific outcomes are linked under their own settings. Preserve original row/ID."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I595",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J595",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K595",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L595",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M595",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N595",
+    "before": null,
+    "after": "CAPM IV mean-estimator: continuous past MKT beta exposure -> 12-month average individual-stock excess return, in monthly percentage units; Table10 CAPM Tm=12; pp289–291. Monthly cross-sectional linear IV slope, averaged across months; Hansen–Hodrick standard errors with 12 lags for overlapping 12-month outcomes. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O595",
+    "before": null,
+    "after": "IV mean-estimator Eqs23–25, with average prior characteristics in both EV and IV matrices. Count only beta measurements as EXCLUDED instruments, not included characteristics. The prose says characteristics are additional instruments, but Eq24 explicitly places the same C in both matrices (visually checked p289). Tm=12 averages t through t+11 and prior-12-month characteristics; Hansen–Hodrick SE with 12 lags. Not current plus NEXT 12 months (13 months). Source: Table10 CAPM Tm=12; pp289–291."
+  }
+]
+```
