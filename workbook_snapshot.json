@@ -29499,7 +29499,16 @@
     "L3011": "1",
     "M3011": "n/a",
     "N3011": "12-month maximum -> credit card repayment change.",
-    "O3011": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table IX A cols1–2 pp2457–2459."
+    "O3011": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table IX A cols1–2 pp2457–2459.",
+    "A3012": "P7K2R8KE",
+    "B3012": "h28",
+    "I3012": "1",
+    "J3012": "DiD_conventional",
+    "K3012": "1",
+    "L3012": "1",
+    "M3012": "n/a",
+    "N3012": "Near-12-month maximum -> credit card repayment change.",
+    "O3012": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table IX A cols2 pp2457–2459."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78834,7 +78843,14 @@
     "H7326": "0",
     "I7326": "unknown",
     "J7326": "other",
-    "K7326": "Two-week post minus pre log(1+credit card repayments); includes event windows with some repayment. Zero mass of difference not established."
+    "K7326": "Two-week post minus pre log(1+credit card repayments); includes event windows with some repayment. Zero mass of difference not established.",
+    "A7327": "P7K2R8KE",
+    "B7327": "h28",
+    "C7327": "hy1",
+    "H7327": "0",
+    "I7327": "unknown",
+    "J7327": "other",
+    "K7327": "Two-week post minus pre log(1+credit card repayments); includes event windows with some repayment. Zero mass of difference not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
