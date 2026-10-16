@@ -29803,7 +29803,16 @@
     "L3040": "1",
     "M3040": "n/a",
     "N3040": "False 12-month maximum announcement -> two-week spending change; Table V cols5–6, jointly with true maximum. Reference omits both true and false maximum arms, distinct from false-only cols3–4 (h11).",
-    "O3040": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Joint mutually exclusive true/false treatment decomposition. Printed false coefficients -0.018 in both columns; identical rounded coefficients do not make estimands identical. True coefficients -0.014/-0.015 reside in h12. No outcome-mean/SD/level comparison. Source: Table V cols5–6 p2445; discussion p2446."
+    "O3040": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Joint mutually exclusive true/false treatment decomposition. Printed false coefficients -0.018 in both columns; identical rounded coefficients do not make estimands identical. True coefficients -0.014/-0.015 reside in h12. No outcome-mean/SD/level comparison. Source: Table V cols5–6 p2445; discussion p2446.",
+    "A3041": "PJ5D7KBE",
+    "B3041": "h1",
+    "I3041": "1",
+    "J3041": "IV",
+    "K3041": "0",
+    "L3041": "1",
+    "M3041": "other",
+    "N3041": "FF3: continuous MKT beta conditional on other two betas exposure -> monthly individual-stock excess return (percent per month); Table6 A cols2,4,5; corresponding B–C specifications; pp283–284. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE.",
+    "O3041": "Separate focal factor exposure, not an outcome or binary treatment. BM vs logBM and subperiod samples are routine variants. MKT here is multivariate FF3 loading, not CAPM market-model loading. Source: Table6 A cols2,4,5; corresponding B–C specifications; pp283–284."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79381,7 +79390,11 @@
     "H7360": "0",
     "I7360": "unknown",
     "J7360": "other",
-    "K7360": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
+    "K7360": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established.",
+    "A7361": "PJ5D7KBE",
+    "B7361": "h1",
+    "C7361": "hy1",
+    "K7361": "Individual-stock excess return relative to one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
