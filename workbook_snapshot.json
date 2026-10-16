@@ -29409,7 +29409,16 @@
     "L3001": "1",
     "M3001": "n/a",
     "N3001": "14- but not 15-month maximum -> spending change; substantive specificity/attention-vs-anchoring contrast.",
-    "O3001": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table VI A col3 pp2448–2449."
+    "O3001": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table VI A col3 pp2448–2449.",
+    "A3002": "P7K2R8KE",
+    "B3002": "h18",
+    "I3002": "1",
+    "J3002": "DiD_conventional",
+    "K3002": "1",
+    "L3002": "1",
+    "M3002": "n/a",
+    "N3002": "False 12- but not 13-month maximum announcement -> spending change.",
+    "O3002": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table VI B cols1–2 pp2449–2450."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78660,7 +78669,14 @@
     "H7314": "0",
     "I7314": "unknown",
     "J7314": "other",
-    "K7314": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
+    "K7314": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established.",
+    "A7315": "P7K2R8KE",
+    "B7315": "h18",
+    "C7315": "hy1",
+    "H7315": "0",
+    "I7315": "unknown",
+    "J7315": "other",
+    "K7315": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
