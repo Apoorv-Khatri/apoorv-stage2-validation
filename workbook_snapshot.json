@@ -29830,7 +29830,16 @@
     "L3043": "1",
     "M3043": "other",
     "N3043": "FF3: continuous HML beta conditional on other two betas exposure -> monthly individual-stock excess return (percent per month); Table6 A cols2,4,5; corresponding B–C specifications; pp283–284. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE.",
-    "O3043": "Separate focal factor exposure, not an outcome or binary treatment. BM vs logBM and subperiod samples are routine variants. MKT here is multivariate FF3 loading, not CAPM market-model loading. Source: Table6 A cols2,4,5; corresponding B–C specifications; pp283–284."
+    "O3043": "Separate focal factor exposure, not an outcome or binary treatment. BM vs logBM and subperiod samples are routine variants. MKT here is multivariate FF3 loading, not CAPM market-model loading. Source: Table6 A cols2,4,5; corresponding B–C specifications; pp283–284.",
+    "A3044": "PJ5D7KBE",
+    "B3044": "h4",
+    "I3044": "1",
+    "J3044": "OLS",
+    "K3044": "0",
+    "L3044": "0",
+    "M3044": "n/a",
+    "N3044": "FF3: continuous MKT beta conditional on other two betas exposure -> monthly individual-stock excess return (percent per month); Table6 A cols7,9,10; corresponding B–C specifications; pp283–284. Monthly cross-sectional OLS/Fama–MacBeth second-pass slope using prior-36-month Dimson betas. Acknowledged errors-in-variables bias; no fixed effects. Authors explicitly use these slopes to support the same substantive no-priced-risk conclusion (p284).",
+    "O3044": "Separate focal factor exposure, not an outcome or binary treatment. BM vs logBM and subperiod samples are routine variants. MKT here is multivariate FF3 loading, not CAPM market-model loading. Source: Table6 A cols7,9,10; corresponding B–C specifications; pp283–284."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79420,7 +79429,11 @@
     "A7363": "PJ5D7KBE",
     "B7363": "h3",
     "C7363": "hy1",
-    "K7363": "Individual-stock excess return relative to one-month T-bill, percent per month."
+    "K7363": "Individual-stock excess return relative to one-month T-bill, percent per month.",
+    "A7364": "PJ5D7KBE",
+    "B7364": "h4",
+    "C7364": "hy1",
+    "K7364": "Individual-stock excess return relative to one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
