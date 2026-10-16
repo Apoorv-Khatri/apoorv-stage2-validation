@@ -487539,3 +487539,792 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:06:04.690601+00:00 — Review P7K2R8KE s7: source-audited coding and linked comparisons
+
+130 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7281",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7282",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7283",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7284",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7285",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7286",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7287",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7288",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7289",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7290",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7291",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7292",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7293",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7294",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7295",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7296",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7297",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7281",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7282",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7283",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7284",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7285",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7286",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7287",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7288",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7289",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7290",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7291",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7292",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7293",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7294",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7295",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7296",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7297",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7281",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7282",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7283",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7284",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7285",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7286",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7287",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7288",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7289",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7290",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7291",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7292",
+    "before": null,
+    "after": "hy12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7293",
+    "before": null,
+    "after": "hy13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7294",
+    "before": null,
+    "after": "hy14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7295",
+    "before": null,
+    "after": "hy15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7296",
+    "before": null,
+    "after": "hy16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7297",
+    "before": null,
+    "after": "hy17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1444",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7281",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7282",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7283",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7284",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7285",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7286",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7287",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7288",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7289",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7290",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7291",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7292",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7293",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7294",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7295",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7296",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7297",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1444",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7281",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7282",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7283",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7284",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7285",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7286",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7287",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7288",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7289",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7290",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7291",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7292",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7293",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7294",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7295",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7296",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7297",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1444",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7281",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7282",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7283",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7284",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7285",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7286",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7287",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7288",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7289",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7290",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7291",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7292",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7293",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7294",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7295",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7296",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7297",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1444",
+    "before": null,
+    "after": "duplicate aggregate placeholder replaced by hy1–hy17, one per Figure5 category."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7281",
+    "before": null,
+    "after": "Automotive expenses: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7282",
+    "before": null,
+    "after": "Restaurants/Dining: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7283",
+    "before": null,
+    "after": "Gifts: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7284",
+    "before": null,
+    "after": "Dues and subscriptions: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7285",
+    "before": null,
+    "after": "Entertainment: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7286",
+    "before": null,
+    "after": "Cable/Satellite services: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7287",
+    "before": null,
+    "after": "Hobbies: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7288",
+    "before": null,
+    "after": "Home improvement: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7289",
+    "before": null,
+    "after": "Online services: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7290",
+    "before": null,
+    "after": "Home maintenance: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7291",
+    "before": null,
+    "after": "Pets/Pet Care: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7292",
+    "before": null,
+    "after": "Electronics: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7293",
+    "before": null,
+    "after": "Travel: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7294",
+    "before": null,
+    "after": "Personal care: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7295",
+    "before": null,
+    "after": "Clothing/Shoes: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7296",
+    "before": null,
+    "after": "Charitable giving: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7297",
+    "before": null,
+    "after": "Child/Dependent expenses: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I585",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J585",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K585",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L585",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M585",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N585",
+    "before": null,
+    "after": "12-month maximum -> 17 separate category spending changes in Figure5, same Eq3 two-week design; at least some category spending in pre or post window."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O585",
+    "before": null,
+    "after": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: pp2456–2457; Figure5; Table I."
+  }
+]
+```
