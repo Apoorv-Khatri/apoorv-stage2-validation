@@ -29848,7 +29848,16 @@
     "L3045": "0",
     "M3045": "n/a",
     "N3045": "FF3: continuous SMB beta conditional on other two betas exposure -> monthly individual-stock excess return (percent per month); Table6 A cols7,9,10; corresponding B–C specifications; pp283–284. Monthly cross-sectional OLS/Fama–MacBeth second-pass slope using prior-36-month Dimson betas. Acknowledged errors-in-variables bias; no fixed effects. Authors explicitly use these slopes to support the same substantive no-priced-risk conclusion (p284).",
-    "O3045": "Separate focal factor exposure, not an outcome or binary treatment. BM vs logBM and subperiod samples are routine variants. MKT here is multivariate FF3 loading, not CAPM market-model loading. Source: Table6 A cols7,9,10; corresponding B–C specifications; pp283–284."
+    "O3045": "Separate focal factor exposure, not an outcome or binary treatment. BM vs logBM and subperiod samples are routine variants. MKT here is multivariate FF3 loading, not CAPM market-model loading. Source: Table6 A cols7,9,10; corresponding B–C specifications; pp283–284.",
+    "A3046": "PJ5D7KBE",
+    "B3046": "h6",
+    "I3046": "1",
+    "J3046": "OLS",
+    "K3046": "0",
+    "L3046": "0",
+    "M3046": "n/a",
+    "N3046": "FF3: continuous HML beta conditional on other two betas exposure -> monthly individual-stock excess return (percent per month); Table6 A cols7,9,10; corresponding B–C specifications; pp283–284. Monthly cross-sectional OLS/Fama–MacBeth second-pass slope using prior-36-month Dimson betas. Acknowledged errors-in-variables bias; no fixed effects. Authors explicitly use these slopes to support the same substantive no-priced-risk conclusion (p284).",
+    "O3046": "Separate focal factor exposure, not an outcome or binary treatment. BM vs logBM and subperiod samples are routine variants. MKT here is multivariate FF3 loading, not CAPM market-model loading. Source: Table6 A cols7,9,10; corresponding B–C specifications; pp283–284."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79446,7 +79455,11 @@
     "A7365": "PJ5D7KBE",
     "B7365": "h5",
     "C7365": "hy1",
-    "K7365": "Individual-stock excess return relative to one-month T-bill, percent per month."
+    "K7365": "Individual-stock excess return relative to one-month T-bill, percent per month.",
+    "A7366": "PJ5D7KBE",
+    "B7366": "h6",
+    "C7366": "hy1",
+    "K7366": "Individual-stock excess return relative to one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
