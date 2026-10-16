@@ -488328,3 +488328,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:06:33.389780+00:00 — Review P7K2R8KE s8: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K349",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L349",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M349",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N349",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O349",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P349",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q349",
+    "before": null,
+    "after": "p2459 Section III.H, Table IX B col1: coefficient -0.0005 probability units (-0.05 percentage points), compared verbally with mean loan initiation frequency0.5% (Table II Panel A, all available consumer two-week periods). \"This is a large effect, given that the mean frequency of initiating a loan is 0.5%.\""
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R349",
+    "before": null,
+    "after": "No effect/mean ratio is stated: verbal comparison yes, division no. Overall observed two-week loan-initiation mean does not establish untreated conditional target mean/weights. Table IX B level versus difference implementation is unresolved; this adds uncertainty to scale/target alignment, which remains unknown, not automatically 0 or 1. The explicit same-loan-outcome benchmark comparison remains eligible under either candidate design; original s8/c1 and y2 links preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1445",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1446",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1445",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1446",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1445",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1446",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1445",
+    "before": null,
+    "after": "inactive: repayment outcome moved to separately coded repayment setting; see linked replacement in proposal. Replacement h27/hy1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1446",
+    "before": null,
+    "after": "Loan initiation, Table IX B p2458: caption says binary indicator but analogous-regression wording may retain Eq3 post-minus-pre difference. Level would be {0,1}, none; difference {-1,0,1}, other. Table II establishes raw indicator zeros, not the exact dependent-variable construction or zero mass in this regression. Labels remain unknown pending final implementation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I586",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J586",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K586",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L586",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M586",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N586",
+    "before": null,
+    "after": "12-month maximum announcement -> loan initiation; Table IX B cols1–2. Indicator level versus post-minus-pre indicator change unresolved; repayment and other announcement treatments separately recorded."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O586",
+    "before": null,
+    "after": "Unresolved implemented dependent variable: Table IX B p2458 explicitly says an indicator during the period, supporting a level linear-probability/HDFE reading; but it calls the regressions analogous to Panel A, whose post-minus-pre construction follows Eq3 pp2437–2438. The same event-window sample size as Table IV is compatible with differencing or a single post-period level and does not settle this. No separate loan equation or post-period implementation is supplied. If level: HDFE, binary outcome, none transform. If pre/post indicator difference: conventional DiD, nonbinary {-1,0,1}, other transform. Method, outcome binary/transform and zero mass remain unknown; do not privilege caption or analogy. Both candidates are non-IV; n/a IV type. Announcement exposure remains binary. Final code/supplement required. Source: pp2458–2459; Table IX B."
+  }
+]
+```
