@@ -494979,3 +494979,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T05:22:01.323218+00:00 — Review PJ5D7KBE s2: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I591",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J591",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K591",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L591",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M591",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N591",
+    "before": null,
+    "after": "CAPM: continuous MKT beta exposure -> monthly individual-stock excess return (percent per month); Table6 A cols6,8; corresponding B–C OLS specifications; pp283–284. Monthly cross-sectional OLS/Fama–MacBeth second-pass slope using prior-36-month Dimson betas. Acknowledged errors-in-variables bias; no fixed effects. Authors explicitly use these slopes to support the same substantive no-priced-risk conclusion (p284)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O591",
+    "before": null,
+    "after": "Narrow original pooled CAPM/FF3 row. OLS inclusion rests on p284 substantive pricing interpretation, despite known EIV bias, not on mere juxtaposition with IV. Original prose incorrectly associates col10 with CAPM; col10 includes FF3 betas. Table6 B-C visibly have OLS as well as IV headers, despite the caption mentioning IV only; these are supporting subperiod variants, not omitted settings. Source: Table6 A cols6,8; corresponding B–C OLS specifications; pp283–284."
+  }
+]
+```
