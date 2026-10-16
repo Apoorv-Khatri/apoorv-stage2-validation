@@ -495081,3 +495081,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T05:23:22.146217+00:00 — Review PJ5D7KBE s4: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I593",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J593",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K593",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L593",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M593",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N593",
+    "before": null,
+    "after": "q-factor: continuous MKT beta conditional on ME,I/A,ROE betas exposure -> monthly individual-stock excess return (percent per month); Table8 A–C cols5,8; pp286–287. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O593",
+    "before": null,
+    "after": "Joint four-beta system. Univariate specifications cols1–4 and same-factor characteristic controls cols6–7 use different scalar instruments and are split. Table10 Tm1 repeats the corresponding characteristic-controlled beta result; no duplicate added. Source: Table8 A–C cols5,8; pp286–287."
+  }
+]
+```
