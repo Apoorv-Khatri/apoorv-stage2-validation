@@ -29355,7 +29355,16 @@
     "L2995": "1",
     "M2995": "n/a",
     "N2995": "False 12-month maximum announcement -> two-week spending change; Table V cols3–4 only. False indicator alone, so non-false reference includes true maximum announcements; unemployment-control variants grouped.",
-    "O2995": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Distinguish h56: cols5–6 jointly estimate true and false announcement arms against neither arm. This is a change in treatment/reference estimand, not a routine control addition. Source: Table V cols3–4; pp2445–2446."
+    "O2995": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Distinguish h56: cols5–6 jointly estimate true and false announcement arms against neither arm. This is a change in treatment/reference estimand, not a routine control addition. Source: Table V cols3–4; pp2445–2446.",
+    "A2996": "P7K2R8KE",
+    "B2996": "h12",
+    "I2996": "1",
+    "J2996": "DiD_conventional",
+    "K2996": "1",
+    "L2996": "1",
+    "M2996": "n/a",
+    "N2996": "True 12-month maximum announcement -> two-week spending change; Table V cols5–6, jointly with false maximum. Reference omits both true and false maximum arms; h56 records the false-arm coefficient.",
+    "O2996": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Joint true/false decomposition, not a true-versus-false pairwise coefficient. The reported equality test is not a separate magnitude comparison. Source: Table V cols5–6; pp2444–2447."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78564,7 +78573,14 @@
     "H7308": "0",
     "I7308": "unknown",
     "J7308": "other",
-    "K7308": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
+    "K7308": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established.",
+    "A7309": "P7K2R8KE",
+    "B7309": "h12",
+    "C7309": "hy1",
+    "H7309": "0",
+    "I7309": "unknown",
+    "J7309": "other",
+    "K7309": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
