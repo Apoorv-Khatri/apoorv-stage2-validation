@@ -495132,3 +495132,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T05:24:06.250044+00:00 — Review PJ5D7KBE s5: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K352",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R352",
+    "before": null,
+    "after": "Reject: p288 compares Acharya–Pedersen (2005) premium about 2.5%/month (30%/year) with about 6% annual equity premium from the literature, not this paper’s Table9 focal effect. Neither cited estimate belongs to s5. Effect-to-effect/market-premium discussion is not a same-outcome benchmark for own LMKT slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I594",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J594",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K594",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L594",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M594",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N594",
+    "before": null,
+    "after": "LCAPM: continuous LMKT net beta = beta1+beta2-beta3-beta4 exposure -> monthly individual-stock excess return (percent per month); Table9 all sample columns; Eq18; pp287–288. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O594",
+    "before": null,
+    "after": "NYSE/Amex only, 1959–2012. GMM/AR/Dimson steps construct betas; implemented return estimator is linear IV, not nonlinear GMM causal estimation. Illiquidity is an included characteristic, not an additional excluded instrument. Monthly outcome is gross excess return r, not excess return minus illiquidity cost. c1 rejected: cited earlier-study premium is not this paper’s focal estimate. Table10 Tm1 repeats the corresponding characteristic-controlled beta result; no duplicate added. Source: Table9 all sample columns; Eq18; pp287–288."
+  }
+]
+```
