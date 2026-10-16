@@ -495624,3 +495624,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T05:27:02.625544+00:00 — Review PJ5D7KBE h5: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7365",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7365",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7365",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7365",
+    "before": null,
+    "after": "Individual-stock excess return relative to one-month T-bill, percent per month."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3045",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3045",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3045",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3045",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3045",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3045",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3045",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3045",
+    "before": null,
+    "after": "FF3: continuous SMB beta conditional on other two betas exposure -> monthly individual-stock excess return (percent per month); Table6 A cols7,9,10; corresponding B–C specifications; pp283–284. Monthly cross-sectional OLS/Fama–MacBeth second-pass slope using prior-36-month Dimson betas. Acknowledged errors-in-variables bias; no fixed effects. Authors explicitly use these slopes to support the same substantive no-priced-risk conclusion (p284)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3045",
+    "before": null,
+    "after": "Separate focal factor exposure, not an outcome or binary treatment. BM vs logBM and subperiod samples are routine variants. MKT here is multivariate FF3 loading, not CAPM market-model loading. Source: Table6 A cols7,9,10; corresponding B–C specifications; pp283–284."
+  }
+]
+```
