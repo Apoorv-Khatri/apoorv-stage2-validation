@@ -487464,3 +487464,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:05:35.043113+00:00 — Review P7K2R8KE s6: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1443",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1443",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1443",
+    "before": null,
+    "after": "Difference of log(1+Y) levels, not a simple log1p level. Zero mass of the reported difference is not established; raw spending zeros are explicitly acknowledged in footnote8 (pp2447–2448)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I584",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J584",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K584",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L584",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M584",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N584",
+    "before": null,
+    "after": "12-month maximum -> four-day post minus pre log(1+spending), Table VIII cols1–2. Near and false indicators split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O584",
+    "before": null,
+    "after": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Printed t=-3.34 versus prose -3.44; caption also mistakenly calls event-window side periods three days. Title, outcome definition and narrative establish four-day focal window. Source: pp2454–2455; Table VIII."
+  }
+]
+```
