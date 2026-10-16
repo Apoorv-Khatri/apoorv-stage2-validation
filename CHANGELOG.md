@@ -492297,3 +492297,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:23:29.134553+00:00 — Review P7K2R8KE h34: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7333",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7333",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7333",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7333",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7333",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7333",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7333",
+    "before": null,
+    "after": "Cash-withdrawal count outcome, Table X B p2461. Caption specifies log(1+count), prose p2460 says log(count), and analogous regressions to Panel A may retain pre/post differencing. Nonbinary under all readings; reported transform and zero mass unknown. Do not infer zeros from log1p or selection on some withdrawal within an event window."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3018",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3018",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3018",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3018",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3018",
+    "before": null,
+    "after": "12-month maximum announcement -> cash-withdrawal count outcome, Table X B. Log1p caption versus log prose, and level versus pre/post difference unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3018",
+    "before": null,
+    "after": "Unresolved implementation: Table X B p2461 calls its dependent variable log(1+number of withdrawals), while p2460 says log(number); the caption also says analogous regressions to Panel A, explicitly a post-minus-pre difference under Eq3. The statement is not enough to establish either a level or a change. If literal level, the identifying FE battery implies HDFE; if pre/post difference, conventional DiD takes precedence. Outcome is nonbinary under either interpretation; method and transform unknown, zero mass unknown. The observed count N and negative adjusted R2 cannot identify the transformation. Both candidate designs are non-IV. Obtain final implementation evidence rather than silently choosing a caption. Source: Table X B cols1–2 pp2460–2461."
+  }
+]
+```
