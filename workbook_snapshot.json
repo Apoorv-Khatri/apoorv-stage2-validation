@@ -29544,7 +29544,16 @@
     "L3016": "1",
     "M3016": "n/a",
     "N3016": "Near-12-month maximum -> cash withdrawal amount change.",
-    "O3016": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table X A col2 pp2460–2461."
+    "O3016": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table X A col2 pp2460–2461.",
+    "A3017": "P7K2R8KE",
+    "B3017": "h33",
+    "I3017": "1",
+    "J3017": "DiD_conventional",
+    "K3017": "1",
+    "L3017": "1",
+    "M3017": "n/a",
+    "N3017": "False 12-month maximum -> cash withdrawal amount change.",
+    "O3017": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table X A col3 pp2460–2461."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78914,7 +78923,14 @@
     "H7331": "0",
     "I7331": "unknown",
     "J7331": "other",
-    "K7331": "Two-week post minus pre log(1+cash withdrawal dollars); some cash withdrawn within event window."
+    "K7331": "Two-week post minus pre log(1+cash withdrawal dollars); some cash withdrawn within event window.",
+    "A7332": "P7K2R8KE",
+    "B7332": "h33",
+    "C7332": "hy1",
+    "H7332": "0",
+    "I7332": "unknown",
+    "J7332": "other",
+    "K7332": "Two-week post minus pre log(1+cash withdrawal dollars); some cash withdrawn within event window."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

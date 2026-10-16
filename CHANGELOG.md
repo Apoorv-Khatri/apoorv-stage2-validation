@@ -492192,3 +492192,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:23:01.986245+00:00 — Review P7K2R8KE h33: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7332",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7332",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7332",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7332",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7332",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7332",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7332",
+    "before": null,
+    "after": "Two-week post minus pre log(1+cash withdrawal dollars); some cash withdrawn within event window."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3017",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3017",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3017",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3017",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3017",
+    "before": null,
+    "after": "False 12-month maximum -> cash withdrawal amount change."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3017",
+    "before": null,
+    "after": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table X A col3 pp2460–2461."
+  }
+]
+```
