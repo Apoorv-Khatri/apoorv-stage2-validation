@@ -487341,3 +487341,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:05:02.089305+00:00 — Review P7K2R8KE s5: source-audited coding and linked comparisons
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1440",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1442",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1440",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1441",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1442",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1440",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1441",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1442",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1440",
+    "before": null,
+    "after": "spurious: diagnostic-only pretrend, Table VII A cols1,4. Retain substantive post-week outcomes y2/y3. Panel B pretrend header reverses week order; not a causal post outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1441",
+    "before": null,
+    "after": "Difference of log(1+Y) levels, not a simple log1p level. Zero mass of the reported difference is not established; raw spending zeros are explicitly acknowledged in footnote8 (pp2447–2448)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1442",
+    "before": null,
+    "after": "Difference of log(1+Y) levels, not a simple log1p level. Zero mass of the reported difference is not established; raw spending zeros are explicitly acknowledged in footnote8 (pp2447–2448)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I583",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J583",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K583",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L583",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M583",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N583",
+    "before": null,
+    "after": "12-month maximum -> Week3 minus Week2 and Week4 minus Week2 log(1+spending), Table VII A cols2–3,5–6 and duplicate Figure4. Exclude pretrend-only outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O583",
+    "before": null,
+    "after": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: pp2450–2454; Table VII A; Figure4."
+  }
+]
+```
