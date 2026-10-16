@@ -495450,3 +495450,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T05:26:10.602954+00:00 — Review PJ5D7KBE h3: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7363",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7363",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7363",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7363",
+    "before": null,
+    "after": "Individual-stock excess return relative to one-month T-bill, percent per month."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3043",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3043",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3043",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3043",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3043",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3043",
+    "before": null,
+    "after": "FF3: continuous HML beta conditional on other two betas exposure -> monthly individual-stock excess return (percent per month); Table6 A cols2,4,5; corresponding B–C specifications; pp283–284. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3043",
+    "before": null,
+    "after": "Separate focal factor exposure, not an outcome or binary treatment. BM vs logBM and subperiod samples are routine variants. MKT here is multivariate FF3 loading, not CAPM market-model loading. Source: Table6 A cols2,4,5; corresponding B–C specifications; pp283–284."
+  }
+]
+```

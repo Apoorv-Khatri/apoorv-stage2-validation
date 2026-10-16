@@ -29821,7 +29821,16 @@
     "L3042": "1",
     "M3042": "other",
     "N3042": "FF3: continuous SMB beta conditional on other two betas exposure -> monthly individual-stock excess return (percent per month); Table6 A cols2,4,5; corresponding B–C specifications; pp283–284. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE.",
-    "O3042": "Separate focal factor exposure, not an outcome or binary treatment. BM vs logBM and subperiod samples are routine variants. MKT here is multivariate FF3 loading, not CAPM market-model loading. Source: Table6 A cols2,4,5; corresponding B–C specifications; pp283–284."
+    "O3042": "Separate focal factor exposure, not an outcome or binary treatment. BM vs logBM and subperiod samples are routine variants. MKT here is multivariate FF3 loading, not CAPM market-model loading. Source: Table6 A cols2,4,5; corresponding B–C specifications; pp283–284.",
+    "A3043": "PJ5D7KBE",
+    "B3043": "h3",
+    "I3043": "1",
+    "J3043": "IV",
+    "K3043": "0",
+    "L3043": "1",
+    "M3043": "other",
+    "N3043": "FF3: continuous HML beta conditional on other two betas exposure -> monthly individual-stock excess return (percent per month); Table6 A cols2,4,5; corresponding B–C specifications; pp283–284. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE.",
+    "O3043": "Separate focal factor exposure, not an outcome or binary treatment. BM vs logBM and subperiod samples are routine variants. MKT here is multivariate FF3 loading, not CAPM market-model loading. Source: Table6 A cols2,4,5; corresponding B–C specifications; pp283–284."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79407,7 +79416,11 @@
     "A7362": "PJ5D7KBE",
     "B7362": "h2",
     "C7362": "hy1",
-    "K7362": "Individual-stock excess return relative to one-month T-bill, percent per month."
+    "K7362": "Individual-stock excess return relative to one-month T-bill, percent per month.",
+    "A7363": "PJ5D7KBE",
+    "B7363": "h3",
+    "C7363": "hy1",
+    "K7363": "Individual-stock excess return relative to one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
