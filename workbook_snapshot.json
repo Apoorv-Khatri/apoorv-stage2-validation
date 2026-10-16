@@ -29697,7 +29697,16 @@
     "L3033": "0",
     "M3033": "unknown",
     "N3033": "CBSA 12-month maximum -> Google searches for unemployment; reported higher for first two, not significantly higher for third.",
-    "O3033": "Final main text explicitly reports implemented analysis and qualitative result, but final supplement unavailable. Scope-limited minimum entry; estimator, additional treatment/column splits and numerical coefficients remain pending. Do not substitute old-draft grids. Human_IV_type unknown because exact implementation is not established. Source: p2442 footnote6; final Table IA.II."
+    "O3033": "Final main text explicitly reports implemented analysis and qualitative result, but final supplement unavailable. Scope-limited minimum entry; estimator, additional treatment/column splits and numerical coefficients remain pending. Do not substitute old-draft grids. Human_IV_type unknown because exact implementation is not established. Source: p2442 footnote6; final Table IA.II.",
+    "A3034": "P7K2R8KE",
+    "B3034": "h50",
+    "I3034": "1",
+    "J3034": "unknown",
+    "K3034": "1",
+    "L3034": "0",
+    "M3034": "unknown",
+    "N3034": "CBSA 12- but not 13-month maximum -> Google searches for unemployment; reported higher for first two, not significantly higher for third.",
+    "O3034": "Final main text explicitly reports implemented analysis and qualitative result, but final supplement unavailable. Scope-limited minimum entry; estimator, additional treatment/column splits and numerical coefficients remain pending. Do not substitute old-draft grids. Human_IV_type unknown because exact implementation is not established. Source: p2442 footnote6; final Table IA.II."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79186,7 +79195,14 @@
     "H7348": "0",
     "I7348": "unknown",
     "J7348": "unknown",
-    "K7348": "Google searches for unemployment, national for announcement-day contrast and CBSA-level for maxima. Exact index construction/scale unavailable."
+    "K7348": "Google searches for unemployment, national for announcement-day contrast and CBSA-level for maxima. Exact index construction/scale unavailable.",
+    "A7349": "P7K2R8KE",
+    "B7349": "h50",
+    "C7349": "hy1",
+    "H7349": "0",
+    "I7349": "unknown",
+    "J7349": "unknown",
+    "K7349": "Google searches for unemployment, national for announcement-day contrast and CBSA-level for maxima. Exact index construction/scale unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

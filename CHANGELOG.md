@@ -493977,3 +493977,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:31:10.934778+00:00 — Review P7K2R8KE h50: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7349",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7349",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7349",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7349",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7349",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7349",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7349",
+    "before": null,
+    "after": "Google searches for unemployment, national for announcement-day contrast and CBSA-level for maxima. Exact index construction/scale unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3034",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3034",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3034",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3034",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3034",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3034",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3034",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3034",
+    "before": null,
+    "after": "CBSA 12- but not 13-month maximum -> Google searches for unemployment; reported higher for first two, not significantly higher for third."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3034",
+    "before": null,
+    "after": "Final main text explicitly reports implemented analysis and qualitative result, but final supplement unavailable. Scope-limited minimum entry; estimator, additional treatment/column splits and numerical coefficients remain pending. Do not substitute old-draft grids. Human_IV_type unknown because exact implementation is not established. Source: p2442 footnote6; final Table IA.II."
+  }
+]
+```
