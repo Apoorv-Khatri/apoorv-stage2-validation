@@ -29256,7 +29256,16 @@
     "L2984": "1",
     "M2984": "n/a",
     "N2984": "Internet Appendix §6.3: change in affected funds’ portfolio allocation toward highly innovative firms following disclosure regulation; reduced weight toward firms generating higher-citation patents.",
-    "O2984": "Final text establishes allocation result but not estimator/formula. Older IA14 is binary TreatFund DiD for value-weighted pre-rule innovation holdings with three outcomes; final counterpart not verified. Minimum final-confirmed outcome retained; no imported grid or numerical estimates.  Main=1: final introduction p1970 explicitly enumerates increased holdings-performance sensitivity and reduced innovative-firm allocation alongside shorter horizons as direct evidence of fund-manager short-termism (article.txt L275–290); abstract pp1966 and conclusion p1997 make trading behavior central corroboration. Missing final estimator details do not reduce substantive main status. Source: Final pp1995–1997 L1961–1975,2034–2037; older appendix IA14; final p1970 L275–290, p1966 L18–26."
+    "O2984": "Final text establishes allocation result but not estimator/formula. Older IA14 is binary TreatFund DiD for value-weighted pre-rule innovation holdings with three outcomes; final counterpart not verified. Minimum final-confirmed outcome retained; no imported grid or numerical estimates.  Main=1: final introduction p1970 explicitly enumerates increased holdings-performance sensitivity and reduced innovative-firm allocation alongside shorter horizons as direct evidence of fund-manager short-termism (article.txt L275–290); abstract pp1966 and conclusion p1997 make trading behavior central corroboration. Missing final estimator details do not reduce substantive main status. Source: Final pp1995–1997 L1961–1975,2034–2037; older appendix IA14; final p1970 L275–290, p1966 L18–26.",
+    "A2985": "P7K2R8KE",
+    "B2985": "h1",
+    "I2985": "1",
+    "J2985": "FE",
+    "K2985": "1",
+    "L2985": "1",
+    "M2985": "n/a",
+    "N2985": "Near-12-month maximum announcement indicator -> local news rank; distinct substantive salience contrast, not a diagnostic first stage.",
+    "O2985": "Day-month-year and CBSA FE are two effective identifying dimensions; p2441 explicitly removes national changes to isolate local news. No pre/post difference outcome in this news specification. Source: Table III B2 pp2440–2441."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78388,7 +78397,14 @@
     "H7297": "0",
     "I7297": "unknown",
     "J7297": "other",
-    "K7297": "Child/Dependent expenses: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot."
+    "K7297": "Child/Dependent expenses: two-week post minus pre log(1+category spending), Eq3 and Figure5 pp2456–2457; sample requires some spending in pre or post. Reported difference zeros not established. Exact point coefficient not transcribed from plot.",
+    "A7298": "P7K2R8KE",
+    "B7298": "h1",
+    "C7298": "hy1",
+    "H7298": "0",
+    "I7298": "0",
+    "J7298": "other",
+    "K7298": "Local News Interest: within-calendar-year positive rank of local unemployment mentions, divided by maximum rank, (0,1]."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
