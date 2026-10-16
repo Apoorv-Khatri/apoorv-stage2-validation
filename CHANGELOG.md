@@ -494817,3 +494817,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:34:08.669831+00:00 — Review P7K2R8KE h56: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7360",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7360",
+    "before": null,
+    "after": "h56"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7360",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7360",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7360",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7360",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7360",
+    "before": null,
+    "after": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E65",
+    "before": null,
+    "after": "DONE — Available-source review of all43 final article pages with independent audit. Final supplement unavailable; no older results substituted. Retain67 settings,95 outcome records including preserved inactive originals,and one qualifying loan-initiation comparison; four original comparisons rejected. Loan initiation and withdrawal-count level-versus-change implementation remains unknown rather than imposing HDFE or DiD. Spending pre/post comparisons conventional DiD; local-news identifying FE distinguished from national calendar-dummy OLS. Joint false-maximum estimand separated from false-only columns; all17 category outcomes recorded. Loan effect -0.0005 compared with mean0.005: verbal1,divided0,alignmentunknown. Appendix settings minimum main-text-supported scope; no invented grids. Original fields,IDs and links preserved. Completion does not certify unavailable supplement coverage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3040",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3040",
+    "before": null,
+    "after": "h56"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3040",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3040",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3040",
+    "before": null,
+    "after": "False 12-month maximum announcement -> two-week spending change; Table V cols5–6, jointly with true maximum. Reference omits both true and false maximum arms, distinct from false-only cols3–4 (h11)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3040",
+    "before": null,
+    "after": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Joint mutually exclusive true/false treatment decomposition. Printed false coefficients -0.018 in both columns; identical rounded coefficients do not make estimands identical. True coefficients -0.014/-0.015 reside in h12. No outcome-mean/SD/level comparison. Source: Table V cols5–6 p2445; discussion p2446."
+  }
+]
+```
