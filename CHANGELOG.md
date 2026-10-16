@@ -487017,3 +487017,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:02:30.531726+00:00 — Review P7K2R8KE s1: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1436",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1436",
+    "before": null,
+    "after": "Local newspaper unemployment-mention rank within calendar year, scaled to maximum1, positive rank scale (0,1]; not a binary mention indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I579",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J579",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K579",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L579",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M579",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N579",
+    "before": null,
+    "after": "12-month maximum announcement indicator -> Local News Interest rank; Table III B cols1–2 only. Near and specific horizons split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O579",
+    "before": null,
+    "after": "Day-month-year and CBSA FE are two effective identifying dimensions; p2441 explicitly removes national changes to isolate local news. No pre/post difference outcome in this news specification. Source: pp2437,2439–2442; Eq2; Table III B."
+  }
+]
+```
