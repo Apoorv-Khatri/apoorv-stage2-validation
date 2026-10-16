@@ -488574,3 +488574,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:07:32.861536+00:00 — Review P7K2R8KE s10: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1449",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1449",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1449",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1449",
+    "before": null,
+    "after": "Difference of log(1+Y) levels, not a simple log1p level. Zero mass of the reported difference is not established; raw spending zeros are explicitly acknowledged in footnote8 (pp2447–2448)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I588",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J588",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K588",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L588",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M588",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N588",
+    "before": null,
+    "after": "Heterogeneity of binary 12-month-maximum spending effect by above-median average salary; Table XI A col1. Interaction +0.009, baseline -0.019; other moderators split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O588",
+    "before": null,
+    "after": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Time-invariant is established, but predetermined salary averaging window is not. Treat moderator as heterogeneity, not a randomized income intervention. Other moderator estimands/panels separated. Source: pp2460–2465; Eq4; Table XI A1."
+  }
+]
+```
