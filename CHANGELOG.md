@@ -494928,3 +494928,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T05:21:28.451882+00:00 — Review PJ5D7KBE s1: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I590",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J590",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K590",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L590",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M590",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N590",
+    "before": null,
+    "after": "CAPM: continuous MKT beta exposure -> monthly individual-stock excess return (percent per month); Table6 A cols1,3; corresponding B–C IV specifications; pp281–284. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O590",
+    "before": null,
+    "after": "Narrow original pooled CAPM/FF3 row to CAPM MKT. SIZE/BM controls are not excluded instruments; distinct FF3 factor exposures split below. Routine controls and subperiods remain grouped. Full-sample slopes -0.246 without and -0.090 with SIZE/BM, percent/month per unit beta. Source: Table6 A cols1,3; corresponding B–C IV specifications; pp281–284."
+  }
+]
+```
