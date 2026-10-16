@@ -493452,3 +493452,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:28:55.149848+00:00 — Review P7K2R8KE h45: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7344",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7344",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7344",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7344",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7344",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7344",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7344",
+    "before": null,
+    "after": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3029",
+    "before": null,
+    "after": "P7K2R8KE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3029",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3029",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3029",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3029",
+    "before": null,
+    "after": "Heterogeneity of binary maximum announcement spending effect by sum of household coverage across all local newspapers."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3029",
+    "before": null,
+    "after": "Binary maximum announcement effect moderated by sum of average household subscription coverage across all local newspapers, Table XII A cols3–4. Conventional DiD with Eq4 spending changes and full Table IV col4 FE/controls. Circulation measured October2013–December2015; not uniformly predetermined for 2011–2016 events. NYC excluded because NYT/WSJ not in coverage data. High-salary interaction is a routine confounder control; not a separate treatment setting. This is not the contemporaneous news-change moderator in h46. Conditional announcement effect is baseline plus interaction times coverage; effect-versus-effect comparisons do not qualify. Source: Table XII A cols3–4 pp2466–2468."
+  }
+]
+```

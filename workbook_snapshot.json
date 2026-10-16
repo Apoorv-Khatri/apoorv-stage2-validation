@@ -29652,7 +29652,16 @@
     "L3028": "0",
     "M3028": "n/a",
     "N3028": "Heterogeneity of binary maximum announcement spending effect by above-median insurance expense share. Conditional effect is baseline plus interaction for high-characteristic group.",
-    "O3028": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Separate reported moderator estimand. Characteristics time-invariant; construction is not uniformly pre-event. Not a causal intervention on the characteristic itself. Main=1 only when central low-income/sophistication interpretation supports it, not simply because table is in main text. Source: Table XI C col3 pp2462–2465."
+    "O3028": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Separate reported moderator estimand. Characteristics time-invariant; construction is not uniformly pre-event. Not a causal intervention on the characteristic itself. Main=1 only when central low-income/sophistication interpretation supports it, not simply because table is in main text. Source: Table XI C col3 pp2462–2465.",
+    "A3029": "P7K2R8KE",
+    "B3029": "h45",
+    "I3029": "1",
+    "J3029": "DiD_conventional",
+    "K3029": "1",
+    "L3029": "1",
+    "M3029": "n/a",
+    "N3029": "Heterogeneity of binary maximum announcement spending effect by sum of household coverage across all local newspapers.",
+    "O3029": "Binary maximum announcement effect moderated by sum of average household subscription coverage across all local newspapers, Table XII A cols3–4. Conventional DiD with Eq4 spending changes and full Table IV col4 FE/controls. Circulation measured October2013–December2015; not uniformly predetermined for 2011–2016 events. NYC excluded because NYT/WSJ not in coverage data. High-salary interaction is a routine confounder control; not a separate treatment setting. This is not the contemporaneous news-change moderator in h46. Conditional announcement effect is baseline plus interaction times coverage; effect-versus-effect comparisons do not qualify. Source: Table XII A cols3–4 pp2466–2468."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79106,7 +79115,14 @@
     "H7343": "0",
     "I7343": "unknown",
     "J7343": "other",
-    "K7343": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
+    "K7343": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established.",
+    "A7344": "P7K2R8KE",
+    "B7344": "h45",
+    "C7344": "hy1",
+    "H7344": "0",
+    "I7344": "unknown",
+    "J7344": "other",
+    "K7344": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
