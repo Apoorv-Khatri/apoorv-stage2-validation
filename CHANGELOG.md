@@ -488475,3 +488475,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-16T03:07:03.046503+00:00 — Review P7K2R8KE s9: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1447",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1448",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1447",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1448",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1447",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1448",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1447",
+    "before": null,
+    "after": "Two-week post minus pre log(1+cash withdrawal amount), Table X A p2461. Difference of transformed levels, hence other; zero mass of the reported difference not established. Sample requires some withdrawal within the event window, not necessarily in each side period."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1448",
+    "before": null,
+    "after": "inactive: count outcome separately recorded under h34/hy1 for Table X B; level versus difference and log versus log1p unresolved. Original ID and definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I587",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J587",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K587",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L587",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M587",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N587",
+    "before": null,
+    "after": "12-month maximum -> two-week change in log(1+cash withdrawal amount); Table X A cols1–2 only. Withdrawal counts and near/false indicators split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O587",
+    "before": null,
+    "after": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: pp2459–2461; Table X A."
+  }
+]
+```
