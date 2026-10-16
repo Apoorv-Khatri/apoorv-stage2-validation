@@ -29670,7 +29670,16 @@
     "L3030": "1",
     "M3030": "n/a",
     "N3030": "Heterogeneity of binary maximum announcement spending effect by post minus pre Local News Interest.",
-    "O3030": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Moderator nonbinary; binary code refers to announcement contrast. The post-minus-pre coverage moderator is contemporaneous/endogenous, not an instrument or randomized mediation treatment. Effects compared to other effects do not qualify as outcome-level benchmarks. Source: Table XII B cols1–2 pp2466–2468."
+    "O3030": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Moderator nonbinary; binary code refers to announcement contrast. The post-minus-pre coverage moderator is contemporaneous/endogenous, not an instrument or randomized mediation treatment. Effects compared to other effects do not qualify as outcome-level benchmarks. Source: Table XII B cols1–2 pp2466–2468.",
+    "A3031": "P7K2R8KE",
+    "B3031": "h47",
+    "I3031": "1",
+    "J3031": "unknown",
+    "K3031": "1",
+    "L3031": "1",
+    "M3031": "unknown",
+    "N3031": "12-month maximum announcement -> length of local unemployment-mentioning media articles; same-day randomly selected nonmaximum CBSA comparison.",
+    "O3031": "Final main text explicitly reports implemented analysis and qualitative result, but final supplement unavailable. Scope-limited minimum entry; estimator, additional treatment/column splits and numerical coefficients remain pending. Do not substitute old-draft grids. Human_IV_type unknown because exact implementation is not established. Random comparator choice is not randomized treatment; matching design mentioned but actual estimator unavailable. Source: p2441; final Table IA.I reference."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79138,7 +79147,14 @@
     "H7345": "0",
     "I7345": "unknown",
     "J7345": "other",
-    "K7345": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established."
+    "K7345": "Two-week post minus pre log(1+discretionary spending); combination transform; zero mass of difference not established.",
+    "A7346": "P7K2R8KE",
+    "B7346": "h47",
+    "C7346": "hy1",
+    "H7346": "0",
+    "I7346": "unknown",
+    "J7346": "unknown",
+    "K7346": "Word count of unemployment-mentioning articles collected two days after announcement; exact aggregation and transformation unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
