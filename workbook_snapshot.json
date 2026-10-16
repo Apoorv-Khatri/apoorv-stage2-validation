@@ -29481,7 +29481,16 @@
     "L3009": "1",
     "M3009": "n/a",
     "N3009": "Near-12-month maximum -> four-day post minus pre spending change.",
-    "O3009": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table VIII col2 pp2454–2455."
+    "O3009": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table VIII col2 pp2454–2455.",
+    "A3010": "P7K2R8KE",
+    "B3010": "h26",
+    "I3010": "1",
+    "J3010": "DiD_conventional",
+    "K3010": "1",
+    "L3010": "1",
+    "M3010": "n/a",
+    "N3010": "False 12-month maximum -> four-day post minus pre spending change.",
+    "O3010": "Pre/post spending differences are compared across maximum and nonmaximum CBSAs in the same announcement window (Eq3 pp2437–2438); conventional DiD takes precedence over identifying FE. Consumer and event-window FE absorb household heterogeneity and seasonality; rate and four current/lagged-change FE absorb fundamentals. No implemented modern DiD, IV, RCT or RD. Binary announcement exposure, not a continuous unemployment dose. Source: Table VIII col3 pp2454–2455."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -78802,7 +78811,14 @@
     "H7324": "0",
     "I7324": "unknown",
     "J7324": "other",
-    "K7324": "Four-day post minus pre log(1+discretionary spending); title and repeated definition outweigh isolated three-day caption wording."
+    "K7324": "Four-day post minus pre log(1+discretionary spending); title and repeated definition outweigh isolated three-day caption wording.",
+    "A7325": "P7K2R8KE",
+    "B7325": "h26",
+    "C7325": "hy1",
+    "H7325": "0",
+    "I7325": "unknown",
+    "J7325": "other",
+    "K7325": "Four-day post minus pre log(1+discretionary spending); title and repeated definition outweigh isolated three-day caption wording."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
