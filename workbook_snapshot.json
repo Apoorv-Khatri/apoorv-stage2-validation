@@ -30253,7 +30253,16 @@
     "L3090": "1",
     "M3090": "n/a",
     "N3090": "FF3: continuous book-to-market ratio, with its log functional-form variant grouped -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Table6 A cols4-5; corresponding B-C IV columns; pp283-284. Reported joint estimator is linear IV/2SLS for beta measurement error. Focal characteristic is included unchanged in both regressor and instrument matrices; code its coefficient OLS/regression adjustment with first-stage fitted nuisance-beta controls, not an instrumented-characteristic treatment effect. Fama-MacBeth averaging and inference. Reported full-sample slope: 0.180 / 0.177.",
-    "O3090": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. IV nuisance betas BM versus logBM is a reported functional-form variant of the same underlying nonbinary characteristic; coefficients are not interchangeable. Source: Table6 A cols4-5; corresponding B-C IV columns; pp283-284."
+    "O3090": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. IV nuisance betas BM versus logBM is a reported functional-form variant of the same underlying nonbinary characteristic; coefficients are not interchangeable. Source: Table6 A cols4-5; corresponding B-C IV columns; pp283-284.",
+    "A3091": "PJ5D7KBE",
+    "B3091": "h51",
+    "I3091": "1",
+    "J3091": "OLS",
+    "K3091": "0",
+    "L3091": "0",
+    "M3091": "n/a",
+    "N3091": "CAPM: continuous natural log of market capitalization -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Table6 A col8; corresponding B-C OLS columns; pp283-284. Conventional monthly cross-sectional OLS on characteristics and raw estimated beta controls. Fama-MacBeth averaging and inference. Reported full-sample slope: -0.143.",
+    "O3091": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. raw estimated beta in conventional OLS Source: Table6 A col8; corresponding B-C OLS columns; pp283-284."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80031,7 +80040,11 @@
     "A7410": "PJ5D7KBE",
     "B7410": "h50",
     "C7410": "hy1",
-    "K7410": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
+    "K7410": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month.",
+    "A7411": "PJ5D7KBE",
+    "B7411": "h51",
+    "C7411": "hy1",
+    "K7411": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

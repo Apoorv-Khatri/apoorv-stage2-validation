@@ -499626,3 +499626,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-17T15:38:28.066527+00:00 — Review PJ5D7KBE h51: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7411",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7411",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7411",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7411",
+    "before": null,
+    "after": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3091",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3091",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3091",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3091",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3091",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3091",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3091",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3091",
+    "before": null,
+    "after": "CAPM: continuous natural log of market capitalization -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Table6 A col8; corresponding B-C OLS columns; pp283-284. Conventional monthly cross-sectional OLS on characteristics and raw estimated beta controls. Fama-MacBeth averaging and inference. Reported full-sample slope: -0.143."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3091",
+    "before": null,
+    "after": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. raw estimated beta in conventional OLS Source: Table6 A col8; corresponding B-C OLS columns; pp283-284."
+  }
+]
+```
