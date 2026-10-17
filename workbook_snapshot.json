@@ -30298,7 +30298,16 @@
     "L3095": "1",
     "M3095": "n/a",
     "N3095": "FF5 characteristic adjustment: continuous natural log of market capitalization -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Table7 A col6, B-C counterparts; pp284-285. Reported joint estimator is linear IV/2SLS for beta measurement error. Focal characteristic is included unchanged in both regressor and instrument matrices; code its coefficient OLS/regression adjustment with first-stage fitted nuisance-beta controls, not an instrumented-characteristic treatment effect. Fama-MacBeth averaging and inference. Reported full-sample slope: -0.153.",
-    "O3095": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Group single-beta versus joint-beta control variants for the same focal characteristic at this table; unlike the beta treatment records, these are nuisance-control variants. Corresponding Table10 Tm1 value is repeated and covered here, not an extra setting. Source: Table7 A col6, B-C counterparts; pp284-285."
+    "O3095": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Group single-beta versus joint-beta control variants for the same focal characteristic at this table; unlike the beta treatment records, these are nuisance-control variants. Corresponding Table10 Tm1 value is repeated and covered here, not an extra setting. Source: Table7 A col6, B-C counterparts; pp284-285.",
+    "A3096": "PJ5D7KBE",
+    "B3096": "h56",
+    "I3096": "1",
+    "J3096": "OLS",
+    "K3096": "0",
+    "L3096": "1",
+    "M3096": "n/a",
+    "N3096": "FF5 characteristic adjustment: continuous book-to-market ratio -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Table7 A col6, B-C counterparts; pp284-285. Reported joint estimator is linear IV/2SLS for beta measurement error. Focal characteristic is included unchanged in both regressor and instrument matrices; code its coefficient OLS/regression adjustment with first-stage fitted nuisance-beta controls, not an instrumented-characteristic treatment effect. Fama-MacBeth averaging and inference. Reported full-sample slope: 0.178.",
+    "O3096": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Group single-beta versus joint-beta control variants for the same focal characteristic at this table; unlike the beta treatment records, these are nuisance-control variants. Corresponding Table10 Tm1 value is repeated and covered here, not an extra setting. Source: Table7 A col6, B-C counterparts; pp284-285."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80096,7 +80105,11 @@
     "A7415": "PJ5D7KBE",
     "B7415": "h55",
     "C7415": "hy1",
-    "K7415": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
+    "K7415": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month.",
+    "A7416": "PJ5D7KBE",
+    "B7416": "h56",
+    "C7416": "hy1",
+    "K7416": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
