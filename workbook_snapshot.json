@@ -30199,7 +30199,16 @@
     "L3084": "0",
     "M3084": "unknown",
     "N3084": "IV mean-estimator additional horizon: continuous past factor exposure (model mapping unresolved) exposure -> 36-month average individual-stock excess return, in monthly percentage units; Section5.1 p290, sentence following Table10 discussion. Explicitly implemented IV mean-estimator robustness with similar results (p290). Exact model/factor mapping, characteristic averaging window, beta-window implementation, and standard-error lag count are not supplied for this horizon; no model-by-factor grid or numerical estimate inferred.",
-    "O3084": "Implemented average-return horizon 36 months explicitly reported with similar results. Scope-limited setting, not a manufactured five-model-by-factor grid. Exact model/focal-factor implementation and corresponding characteristic window not supplied. Do not copy 12-month coefficients or SE lag count. Audit may merge into each identified horizon family if final implementation is obtained. Source: Section5.1 p290, sentence following Table10 discussion."
+    "O3084": "Implemented average-return horizon 36 months explicitly reported with similar results. Scope-limited setting, not a manufactured five-model-by-factor grid. Exact model/focal-factor implementation and corresponding characteristic window not supplied. Do not copy 12-month coefficients or SE lag count. Audit may merge into each identified horizon family if final implementation is obtained. Source: Section5.1 p290, sentence following Table10 discussion.",
+    "A3085": "PJ5D7KBE",
+    "B3085": "h45",
+    "I3085": "1",
+    "J3085": "OLS",
+    "K3085": "0",
+    "L3085": "0",
+    "M3085": "n/a",
+    "N3085": "LCAPM direct illiquidity compensation: continuous monthly c_i,t (contemporaneous; Eq18) -> monthly stock excess return, percent per month; Table9 characteristic-controlled columns; Eq13,18; pp287–288. Included-regressor coefficient from joint linear 2SLS, coded OLS/regression adjustment for the uninstrumented focal characteristic. Equivalent outcome regression includes c unchanged and the first-stage fitted LMKT control; the excluded beta instrument corrects nuisance-beta measurement error, not illiquidity treatment endogeneity. Reported full-sample coefficient 0.220.",
+    "O3085": "p287 Eq13 explicitly says illiquidity level affects expected returns and is compensation for holding an illiquid asset. Eq18 (and Eq24/25 for the mean-estimator) includes the same characteristic in regressor and instrument matrices. There is no excluded instrument for c; own exogeneity is maintained, not established by the beta instrument. This focal-parameter method convention differs from labeling every coefficient in a joint system IV. Table10 Tm1 repeats Table9 and is covered by h45. No own-outcome benchmark. Source: Table9 characteristic-controlled columns; Eq13,18; pp287–288."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79953,7 +79962,11 @@
     "A7404": "PJ5D7KBE",
     "B7404": "h44",
     "C7404": "hy1",
-    "K7404": "Average of monthly individual-stock excess returns over 36 months beginning at t; not a cumulative 36-month return. Percent per month."
+    "K7404": "Average of monthly individual-stock excess returns over 36 months beginning at t; not a cumulative 36-month return. Percent per month.",
+    "A7405": "PJ5D7KBE",
+    "B7405": "h45",
+    "C7405": "hy1",
+    "K7405": "Individual-stock excess return relative to one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

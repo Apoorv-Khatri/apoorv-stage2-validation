@@ -499104,3 +499104,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-17T15:34:58.747513+00:00 — Review PJ5D7KBE h45: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7405",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7405",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7405",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7405",
+    "before": null,
+    "after": "Individual-stock excess return relative to one-month T-bill, percent per month."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3085",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3085",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3085",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3085",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3085",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3085",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3085",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3085",
+    "before": null,
+    "after": "LCAPM direct illiquidity compensation: continuous monthly c_i,t (contemporaneous; Eq18) -> monthly stock excess return, percent per month; Table9 characteristic-controlled columns; Eq13,18; pp287–288. Included-regressor coefficient from joint linear 2SLS, coded OLS/regression adjustment for the uninstrumented focal characteristic. Equivalent outcome regression includes c unchanged and the first-stage fitted LMKT control; the excluded beta instrument corrects nuisance-beta measurement error, not illiquidity treatment endogeneity. Reported full-sample coefficient 0.220."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3085",
+    "before": null,
+    "after": "p287 Eq13 explicitly says illiquidity level affects expected returns and is compensation for holding an illiquid asset. Eq18 (and Eq24/25 for the mean-estimator) includes the same characteristic in regressor and instrument matrices. There is no excluded instrument for c; own exogeneity is maintained, not established by the beta instrument. This focal-parameter method convention differs from labeling every coefficient in a joint system IV. Table10 Tm1 repeats Table9 and is covered by h45. No own-outcome benchmark. Source: Table9 characteristic-controlled columns; Eq13,18; pp287–288."
+  }
+]
+```
