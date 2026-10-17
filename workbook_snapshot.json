@@ -30496,7 +30496,16 @@
     "L3117": "0",
     "M3117": "unknown",
     "N3117": "FF3 past/future-beta robustness: continuous natural log of market capitalization -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Section5.1 p289 first column, untabulated. Implemented substantive characteristic-slope robustness, but precise focal-regressor projection cannot be established from the untabulated sentence; method unknown rather than inventing an instrumented treatment. Inference details not supplied at this scope. Reported full-sample slope: Not numerically reported; remains significant.",
-    "O3117": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Regressor status and exact included-control projection not explicitly specified in this untabulated implementation; do not copy Eq24 or infer an excluded characteristic instrument. Source: Section5.1 p289 first column, untabulated."
+    "O3117": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Regressor status and exact included-control projection not explicitly specified in this untabulated implementation; do not copy Eq24 or infer an excluded characteristic instrument. Source: Section5.1 p289 first column, untabulated.",
+    "A3118": "PJ5D7KBE",
+    "B3118": "h78",
+    "I3118": "1",
+    "J3118": "unknown",
+    "K3118": "0",
+    "L3118": "0",
+    "M3118": "unknown",
+    "N3118": "FF3 past/future-beta robustness: continuous book-to-market ratio -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Section5.1 p289 first column, untabulated. Implemented substantive characteristic-slope robustness, but precise focal-regressor projection cannot be established from the untabulated sentence; method unknown rather than inventing an instrumented treatment. Inference details not supplied at this scope. Reported full-sample slope: Not numerically reported; remains significant.",
+    "O3118": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Regressor status and exact included-control projection not explicitly specified in this untabulated implementation; do not copy Eq24 or infer an excluded characteristic instrument. Source: Section5.1 p289 first column, untabulated."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80382,7 +80391,11 @@
     "A7437": "PJ5D7KBE",
     "B7437": "h77",
     "C7437": "hy1",
-    "K7437": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
+    "K7437": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month.",
+    "A7438": "PJ5D7KBE",
+    "B7438": "h78",
+    "C7438": "hy1",
+    "K7438": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
