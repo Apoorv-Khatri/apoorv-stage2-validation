@@ -29902,7 +29902,16 @@
     "L3051": "1",
     "M3051": "single continuous",
     "N3051": "FF5 single-beta regression: continuous RMW beta exposure -> monthly individual-stock excess return (percent per month); Table7 A–C cols1,4; pp284–285. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE.",
-    "O3051": "Column 4 adds the corresponding characteristic (OP for RMW; INV for CMA). Group routine characteristic controls; separate from joint five-beta excluded-instrument system. No estimate–outcome-mean/SD pairing. Source: Table7 A–C cols1,4; pp284–285."
+    "O3051": "Column 4 adds the corresponding characteristic (OP for RMW; INV for CMA). Group routine characteristic controls; separate from joint five-beta excluded-instrument system. No estimate–outcome-mean/SD pairing. Source: Table7 A–C cols1,4; pp284–285.",
+    "A3052": "PJ5D7KBE",
+    "B3052": "h12",
+    "I3052": "1",
+    "J3052": "IV",
+    "K3052": "0",
+    "L3052": "1",
+    "M3052": "single continuous",
+    "N3052": "FF5 single-beta regression: continuous CMA beta exposure -> monthly individual-stock excess return (percent per month); Table7 A–C cols2,5; pp284–285. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE.",
+    "O3052": "Column 5 adds the corresponding characteristic (OP for RMW; INV for CMA). Group routine characteristic controls; separate from joint five-beta excluded-instrument system. No estimate–outcome-mean/SD pairing. Source: Table7 A–C cols2,5; pp284–285."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79524,7 +79533,11 @@
     "A7371": "PJ5D7KBE",
     "B7371": "h11",
     "C7371": "hy1",
-    "K7371": "Individual-stock excess return relative to one-month T-bill, percent per month."
+    "K7371": "Individual-stock excess return relative to one-month T-bill, percent per month.",
+    "A7372": "PJ5D7KBE",
+    "B7372": "h12",
+    "C7372": "hy1",
+    "K7372": "Individual-stock excess return relative to one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
