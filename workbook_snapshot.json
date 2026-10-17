@@ -30109,7 +30109,16 @@
     "L3074": "0",
     "M3074": "other",
     "N3074": "FF3 separately reported one-month comparison specification: continuous MKT beta exposure -> monthly individual-stock excess return (percent per month); Table10 FF3 Tm=1; pp289–291. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE.",
-    "O3074": "One-month excess-return variant uses lagged characteristics both as controls and in instrument matrix. Unlike FF5/q/LCAPM, these reported estimates differ from Table6. Retain as separately reported implementation variant pending audit of exactly how baseline controls entered projection. Do not count included SIZE/BM as excluded instruments. Explicit contrary prose about additional instruments is documented, not silently repaired. Independent ruling: retain as separately reported, numerically distinct result-location records, not a proved new excluded-instrument estimand. Eq24 does not establish new excluded characteristic instruments. Implementation discrepancy remains unresolved; do not equate different numbers with a demonstrated design change. Source: Table10 FF3 Tm=1; pp289–291."
+    "O3074": "One-month excess-return variant uses lagged characteristics both as controls and in instrument matrix. Unlike FF5/q/LCAPM, these reported estimates differ from Table6. Retain as separately reported implementation variant pending audit of exactly how baseline controls entered projection. Do not count included SIZE/BM as excluded instruments. Explicit contrary prose about additional instruments is documented, not silently repaired. Independent ruling: retain as separately reported, numerically distinct result-location records, not a proved new excluded-instrument estimand. Eq24 does not establish new excluded characteristic instruments. Implementation discrepancy remains unresolved; do not equate different numbers with a demonstrated design change. Source: Table10 FF3 Tm=1; pp289–291.",
+    "A3075": "PJ5D7KBE",
+    "B3075": "h35",
+    "I3075": "1",
+    "J3075": "IV",
+    "K3075": "0",
+    "L3075": "0",
+    "M3075": "other",
+    "N3075": "FF3 separately reported one-month comparison specification: continuous SMB beta exposure -> monthly individual-stock excess return (percent per month); Table10 FF3 Tm=1; pp289–291. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE.",
+    "O3075": "One-month excess-return variant uses lagged characteristics both as controls and in instrument matrix. Unlike FF5/q/LCAPM, these reported estimates differ from Table6. Retain as separately reported implementation variant pending audit of exactly how baseline controls entered projection. Do not count included SIZE/BM as excluded instruments. Explicit contrary prose about additional instruments is documented, not silently repaired. Independent ruling: retain as separately reported, numerically distinct result-location records, not a proved new excluded-instrument estimand. Eq24 does not establish new excluded characteristic instruments. Implementation discrepancy remains unresolved; do not equate different numbers with a demonstrated design change. Source: Table10 FF3 Tm=1; pp289–291."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79823,7 +79832,11 @@
     "A7394": "PJ5D7KBE",
     "B7394": "h34",
     "C7394": "hy1",
-    "K7394": "Individual-stock excess return relative to one-month T-bill, percent per month."
+    "K7394": "Individual-stock excess return relative to one-month T-bill, percent per month.",
+    "A7395": "PJ5D7KBE",
+    "B7395": "h35",
+    "C7395": "hy1",
+    "K7395": "Individual-stock excess return relative to one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
