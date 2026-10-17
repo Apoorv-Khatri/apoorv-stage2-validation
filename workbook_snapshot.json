@@ -30280,7 +30280,16 @@
     "L3093": "0",
     "M3093": "n/a",
     "N3093": "FF3: continuous natural log of market capitalization -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Table6 A cols9-10; corresponding B-C OLS columns; pp283-284. Conventional monthly cross-sectional OLS on characteristics and raw estimated beta controls. Fama-MacBeth averaging and inference. Reported full-sample slope: -0.155 / -0.155.",
-    "O3093": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. raw estimated betas in conventional OLS Source: Table6 A cols9-10; corresponding B-C OLS columns; pp283-284."
+    "O3093": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. raw estimated betas in conventional OLS Source: Table6 A cols9-10; corresponding B-C OLS columns; pp283-284.",
+    "A3094": "PJ5D7KBE",
+    "B3094": "h54",
+    "I3094": "1",
+    "J3094": "OLS",
+    "K3094": "0",
+    "L3094": "0",
+    "M3094": "n/a",
+    "N3094": "FF3: continuous book-to-market ratio, with its log functional-form variant grouped -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Table6 A cols9-10; corresponding B-C OLS columns; pp283-284. Conventional monthly cross-sectional OLS on characteristics and raw estimated beta controls. Fama-MacBeth averaging and inference. Reported full-sample slope: 0.141 / 0.133.",
+    "O3094": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. raw estimated betas in conventional OLS BM versus logBM is a reported functional-form variant of the same underlying nonbinary characteristic; coefficients are not interchangeable. Source: Table6 A cols9-10; corresponding B-C OLS columns; pp283-284."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80070,7 +80079,11 @@
     "A7413": "PJ5D7KBE",
     "B7413": "h53",
     "C7413": "hy1",
-    "K7413": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
+    "K7413": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month.",
+    "A7414": "PJ5D7KBE",
+    "B7414": "h54",
+    "C7414": "hy1",
+    "K7414": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
