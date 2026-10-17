@@ -30190,7 +30190,16 @@
     "L3083": "0",
     "M3083": "unknown",
     "N3083": "IV mean-estimator additional horizon: continuous past factor exposure (model mapping unresolved) exposure -> 24-month average individual-stock excess return, in monthly percentage units; Section5.1 p290, sentence following Table10 discussion. Explicitly implemented IV mean-estimator robustness with similar results (p290). Exact model/factor mapping, characteristic averaging window, beta-window implementation, and standard-error lag count are not supplied for this horizon; no model-by-factor grid or numerical estimate inferred.",
-    "O3083": "Implemented average-return horizon 24 months explicitly reported with similar results. Scope-limited setting, not a manufactured five-model-by-factor grid. Exact model/focal-factor implementation and corresponding characteristic window not supplied. Do not copy 12-month coefficients or SE lag count. Audit may merge into each identified horizon family if final implementation is obtained. Source: Section5.1 p290, sentence following Table10 discussion."
+    "O3083": "Implemented average-return horizon 24 months explicitly reported with similar results. Scope-limited setting, not a manufactured five-model-by-factor grid. Exact model/focal-factor implementation and corresponding characteristic window not supplied. Do not copy 12-month coefficients or SE lag count. Audit may merge into each identified horizon family if final implementation is obtained. Source: Section5.1 p290, sentence following Table10 discussion.",
+    "A3084": "PJ5D7KBE",
+    "B3084": "h44",
+    "I3084": "1",
+    "J3084": "IV",
+    "K3084": "0",
+    "L3084": "0",
+    "M3084": "unknown",
+    "N3084": "IV mean-estimator additional horizon: continuous past factor exposure (model mapping unresolved) exposure -> 36-month average individual-stock excess return, in monthly percentage units; Section5.1 p290, sentence following Table10 discussion. Explicitly implemented IV mean-estimator robustness with similar results (p290). Exact model/factor mapping, characteristic averaging window, beta-window implementation, and standard-error lag count are not supplied for this horizon; no model-by-factor grid or numerical estimate inferred.",
+    "O3084": "Implemented average-return horizon 36 months explicitly reported with similar results. Scope-limited setting, not a manufactured five-model-by-factor grid. Exact model/focal-factor implementation and corresponding characteristic window not supplied. Do not copy 12-month coefficients or SE lag count. Audit may merge into each identified horizon family if final implementation is obtained. Source: Section5.1 p290, sentence following Table10 discussion."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79940,7 +79949,11 @@
     "A7403": "PJ5D7KBE",
     "B7403": "h43",
     "C7403": "hy1",
-    "K7403": "Average of monthly individual-stock excess returns over 24 months beginning at t; not a cumulative 24-month return. Percent per month."
+    "K7403": "Average of monthly individual-stock excess returns over 24 months beginning at t; not a cumulative 24-month return. Percent per month.",
+    "A7404": "PJ5D7KBE",
+    "B7404": "h44",
+    "C7404": "hy1",
+    "K7404": "Average of monthly individual-stock excess returns over 36 months beginning at t; not a cumulative 36-month return. Percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
