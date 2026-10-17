@@ -498669,3 +498669,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-17T15:31:35.381916+00:00 — Review PJ5D7KBE h40: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7400",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7400",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7400",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7400",
+    "before": null,
+    "after": "Individual-stock excess return relative to one-month T-bill, percent per month."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3080",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3080",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3080",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3080",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3080",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3080",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3080",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3080",
+    "before": null,
+    "after": "FF5 future-beta robustness: continuous future factor exposure (scope-limited model-level record) exposure -> monthly individual-stock excess return (percent per month); Section5.1 p289 first column, untabulated. Past beta estimates instrument future beta estimates in the cross-sectional excess-return regression (Section5.1 p289). This is not the baseline prior-36-month odd/even-regressor design. The text supplies no numerical premium or complete joint instrument vector/window/standard-error specification. Retain only the explicitly reported factor/model scope; excluded-instrument type unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3080",
+    "before": null,
+    "after": "Authors explicitly apply the same past/future-beta specification to other models in Section4 and report unchanged conclusions. Minimum model-level implemented-result record; do not invent full coefficient/instrument grid. Exact focal components, joint specification, sample and estimates require implementation evidence. Human_binary=0 follows continuous beta exposure; IV method is explicit but excluded-instrument multiplicity is unresolved. Corrected proposal boilerplate that wrongly asserted the baseline odd/even prior-36-month construction for this future-beta treatment. Source: Section5.1 p289 first column, untabulated."
+  }
+]
+```
