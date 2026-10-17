@@ -30478,7 +30478,16 @@
     "L3115": "0",
     "M3115": "n/a",
     "N3115": "FF3 one-month comparison: continuous natural log of market capitalization -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Table10 FF3 Tm=1; pp289-291. Reported joint estimator is linear IV/2SLS for beta measurement error. Focal characteristic is included unchanged in both regressor and instrument matrices; code its coefficient OLS/regression adjustment with first-stage fitted nuisance-beta controls, not an instrumented-characteristic treatment effect. Fama-MacBeth averaging and inference. Reported full-sample slope: -0.136.",
-    "O3115": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment.  Source: Table10 FF3 Tm=1; pp289-291."
+    "O3115": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment.  Source: Table10 FF3 Tm=1; pp289-291.",
+    "A3116": "PJ5D7KBE",
+    "B3116": "h76",
+    "I3116": "1",
+    "J3116": "OLS",
+    "K3116": "0",
+    "L3116": "0",
+    "M3116": "n/a",
+    "N3116": "FF3 one-month comparison: continuous book-to-market ratio -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Table10 FF3 Tm=1; pp289-291. Reported joint estimator is linear IV/2SLS for beta measurement error. Focal characteristic is included unchanged in both regressor and instrument matrices; code its coefficient OLS/regression adjustment with first-stage fitted nuisance-beta controls, not an instrumented-characteristic treatment effect. Fama-MacBeth averaging and inference. Reported full-sample slope: 0.153.",
+    "O3116": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment.  Source: Table10 FF3 Tm=1; pp289-291."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80356,7 +80365,11 @@
     "A7435": "PJ5D7KBE",
     "B7435": "h75",
     "C7435": "hy1",
-    "K7435": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
+    "K7435": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month.",
+    "A7436": "PJ5D7KBE",
+    "B7436": "h76",
+    "C7436": "hy1",
+    "K7436": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
