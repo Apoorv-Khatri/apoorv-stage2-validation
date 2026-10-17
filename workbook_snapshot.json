@@ -30424,7 +30424,16 @@
     "L3109": "1",
     "M3109": "n/a",
     "N3109": "FF5 mean-estimator: continuous investment/total assets -> Average monthly individual-stock excess return over 12 months beginning at t, percent per month; not cumulative return. Table10 FF5 Tm=12; pp289-291. Reported joint estimator is linear IV/2SLS for beta measurement error. Focal characteristic is included unchanged in both regressor and instrument matrices; code its coefficient OLS/regression adjustment with first-stage fitted nuisance-beta controls, not an instrumented-characteristic treatment effect. Hansen-Hodrick SE with 12 lags. Reported full-sample slope: -0.615.",
-    "O3109": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment.  Source: Table10 FF5 Tm=12; pp289-291."
+    "O3109": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment.  Source: Table10 FF5 Tm=12; pp289-291.",
+    "A3110": "PJ5D7KBE",
+    "B3110": "h70",
+    "I3110": "1",
+    "J3110": "OLS",
+    "K3110": "0",
+    "L3110": "1",
+    "M3110": "n/a",
+    "N3110": "q-factor mean-estimator: continuous natural log of market capitalization -> Average monthly individual-stock excess return over 12 months beginning at t, percent per month; not cumulative return. Table10 q-factor Tm=12; pp289-291. Reported joint estimator is linear IV/2SLS for beta measurement error. Focal characteristic is included unchanged in both regressor and instrument matrices; code its coefficient OLS/regression adjustment with first-stage fitted nuisance-beta controls, not an instrumented-characteristic treatment effect. Hansen-Hodrick SE with 12 lags. Reported full-sample slope: -0.111.",
+    "O3110": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment.  Source: Table10 q-factor Tm=12; pp289-291."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80278,7 +80287,11 @@
     "A7429": "PJ5D7KBE",
     "B7429": "h69",
     "C7429": "hy1",
-    "K7429": "Average monthly individual-stock excess return over 12 months beginning at t, percent per month; not cumulative return."
+    "K7429": "Average monthly individual-stock excess return over 12 months beginning at t, percent per month; not cumulative return.",
+    "A7430": "PJ5D7KBE",
+    "B7430": "h70",
+    "C7430": "hy1",
+    "K7430": "Average monthly individual-stock excess return over 12 months beginning at t, percent per month; not cumulative return."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
