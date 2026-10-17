@@ -500757,3 +500757,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-17T15:46:05.763382+00:00 — Review PJ5D7KBE h64: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7424",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7424",
+    "before": null,
+    "after": "h64"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7424",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7424",
+    "before": null,
+    "after": "Average monthly individual-stock excess return over 12 months beginning at t, percent per month; not cumulative return."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3104",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3104",
+    "before": null,
+    "after": "h64"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3104",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3104",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3104",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3104",
+    "before": null,
+    "after": "FF3 mean-estimator: continuous natural log of market capitalization -> Average monthly individual-stock excess return over 12 months beginning at t, percent per month; not cumulative return. Table10 FF3 Tm=12; pp289-291. Reported joint estimator is linear IV/2SLS for beta measurement error. Focal characteristic is included unchanged in both regressor and instrument matrices; code its coefficient OLS/regression adjustment with first-stage fitted nuisance-beta controls, not an instrumented-characteristic treatment effect. Hansen-Hodrick SE with 12 lags. Reported full-sample slope: -0.101."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3104",
+    "before": null,
+    "after": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment.  Source: Table10 FF3 Tm=12; pp289-291."
+  }
+]
+```
