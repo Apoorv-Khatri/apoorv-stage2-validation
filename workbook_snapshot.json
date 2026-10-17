@@ -30127,7 +30127,16 @@
     "L3076": "0",
     "M3076": "other",
     "N3076": "FF3 separately reported one-month comparison specification: continuous HML beta exposure -> monthly individual-stock excess return (percent per month); Table10 FF3 Tm=1; pp289–291. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE.",
-    "O3076": "One-month excess-return variant uses lagged characteristics both as controls and in instrument matrix. Unlike FF5/q/LCAPM, these reported estimates differ from Table6. Retain as separately reported implementation variant pending audit of exactly how baseline controls entered projection. Do not count included SIZE/BM as excluded instruments. Explicit contrary prose about additional instruments is documented, not silently repaired. Independent ruling: retain as separately reported, numerically distinct result-location records, not a proved new excluded-instrument estimand. Eq24 does not establish new excluded characteristic instruments. Implementation discrepancy remains unresolved; do not equate different numbers with a demonstrated design change. Source: Table10 FF3 Tm=1; pp289–291."
+    "O3076": "One-month excess-return variant uses lagged characteristics both as controls and in instrument matrix. Unlike FF5/q/LCAPM, these reported estimates differ from Table6. Retain as separately reported implementation variant pending audit of exactly how baseline controls entered projection. Do not count included SIZE/BM as excluded instruments. Explicit contrary prose about additional instruments is documented, not silently repaired. Independent ruling: retain as separately reported, numerically distinct result-location records, not a proved new excluded-instrument estimand. Eq24 does not establish new excluded characteristic instruments. Implementation discrepancy remains unresolved; do not equate different numbers with a demonstrated design change. Source: Table10 FF3 Tm=1; pp289–291.",
+    "A3077": "PJ5D7KBE",
+    "B3077": "h37",
+    "I3077": "1",
+    "J3077": "IV",
+    "K3077": "0",
+    "L3077": "0",
+    "M3077": "unknown",
+    "N3077": "FF3 future-beta robustness: continuous future SMB beta exposure -> monthly individual-stock excess return (percent per month); Section5.1 p289 first column, untabulated. Past beta estimates instrument future beta estimates in the cross-sectional excess-return regression (Section5.1 p289). This is not the baseline prior-36-month odd/even-regressor design. The text supplies no numerical premium or complete joint instrument vector/window/standard-error specification. Retain only the explicitly reported factor/model scope; excluded-instrument type unknown.",
+    "O3077": "Main text explicitly says past SMB/HML betas instrument their future betas; no significant premiums and SIZE/BM remain significant. Full joint instrument vector (including possible market beta), estimator/sample variants and exact window mapping are not established; Human_IV_type unknown rather than assume an exhaustive two-variable set. No numerical estimate is supplied. Corrected proposal boilerplate that wrongly asserted the baseline odd/even prior-36-month construction for this future-beta treatment. Source: Section5.1 p289 first column, untabulated."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79849,7 +79858,11 @@
     "A7396": "PJ5D7KBE",
     "B7396": "h36",
     "C7396": "hy1",
-    "K7396": "Individual-stock excess return relative to one-month T-bill, percent per month."
+    "K7396": "Individual-stock excess return relative to one-month T-bill, percent per month.",
+    "A7397": "PJ5D7KBE",
+    "B7397": "h37",
+    "C7397": "hy1",
+    "K7397": "Individual-stock excess return relative to one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
