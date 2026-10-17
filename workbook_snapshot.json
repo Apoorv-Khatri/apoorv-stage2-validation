@@ -30145,7 +30145,16 @@
     "L3078": "0",
     "M3078": "unknown",
     "N3078": "FF3 future-beta robustness: continuous future HML beta exposure -> monthly individual-stock excess return (percent per month); Section5.1 p289 first column, untabulated. Past beta estimates instrument future beta estimates in the cross-sectional excess-return regression (Section5.1 p289). This is not the baseline prior-36-month odd/even-regressor design. The text supplies no numerical premium or complete joint instrument vector/window/standard-error specification. Retain only the explicitly reported factor/model scope; excluded-instrument type unknown.",
-    "O3078": "Main text explicitly says past SMB/HML betas instrument their future betas; no significant premiums and SIZE/BM remain significant. Full joint instrument vector (including possible market beta), estimator/sample variants and exact window mapping are not established; Human_IV_type unknown rather than assume an exhaustive two-variable set. No numerical estimate is supplied. Corrected proposal boilerplate that wrongly asserted the baseline odd/even prior-36-month construction for this future-beta treatment. Source: Section5.1 p289 first column, untabulated."
+    "O3078": "Main text explicitly says past SMB/HML betas instrument their future betas; no significant premiums and SIZE/BM remain significant. Full joint instrument vector (including possible market beta), estimator/sample variants and exact window mapping are not established; Human_IV_type unknown rather than assume an exhaustive two-variable set. No numerical estimate is supplied. Corrected proposal boilerplate that wrongly asserted the baseline odd/even prior-36-month construction for this future-beta treatment. Source: Section5.1 p289 first column, untabulated.",
+    "A3079": "PJ5D7KBE",
+    "B3079": "h39",
+    "I3079": "1",
+    "J3079": "IV",
+    "K3079": "0",
+    "L3079": "0",
+    "M3079": "unknown",
+    "N3079": "CAPM future-beta robustness: continuous future factor exposure (scope-limited model-level record) exposure -> monthly individual-stock excess return (percent per month); Section5.1 p289 first column, untabulated. Past beta estimates instrument future beta estimates in the cross-sectional excess-return regression (Section5.1 p289). This is not the baseline prior-36-month odd/even-regressor design. The text supplies no numerical premium or complete joint instrument vector/window/standard-error specification. Retain only the explicitly reported factor/model scope; excluded-instrument type unknown.",
+    "O3079": "Authors explicitly apply the same past/future-beta specification to other models in Section4 and report unchanged conclusions. Minimum model-level implemented-result record; do not invent full coefficient/instrument grid. Exact focal components, joint specification, sample and estimates require implementation evidence. Human_binary=0 follows continuous beta exposure; IV method is explicit but excluded-instrument multiplicity is unresolved. Corrected proposal boilerplate that wrongly asserted the baseline odd/even prior-36-month construction for this future-beta treatment. Source: Section5.1 p289 first column, untabulated."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79875,7 +79884,11 @@
     "A7398": "PJ5D7KBE",
     "B7398": "h38",
     "C7398": "hy1",
-    "K7398": "Individual-stock excess return relative to one-month T-bill, percent per month."
+    "K7398": "Individual-stock excess return relative to one-month T-bill, percent per month.",
+    "A7399": "PJ5D7KBE",
+    "B7399": "h39",
+    "C7399": "hy1",
+    "K7399": "Individual-stock excess return relative to one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
