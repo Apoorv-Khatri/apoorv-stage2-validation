@@ -498495,3 +498495,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-17T15:30:17.161786+00:00 — Review PJ5D7KBE h38: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7398",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7398",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7398",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7398",
+    "before": null,
+    "after": "Individual-stock excess return relative to one-month T-bill, percent per month."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3078",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3078",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3078",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3078",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3078",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3078",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3078",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3078",
+    "before": null,
+    "after": "FF3 future-beta robustness: continuous future HML beta exposure -> monthly individual-stock excess return (percent per month); Section5.1 p289 first column, untabulated. Past beta estimates instrument future beta estimates in the cross-sectional excess-return regression (Section5.1 p289). This is not the baseline prior-36-month odd/even-regressor design. The text supplies no numerical premium or complete joint instrument vector/window/standard-error specification. Retain only the explicitly reported factor/model scope; excluded-instrument type unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3078",
+    "before": null,
+    "after": "Main text explicitly says past SMB/HML betas instrument their future betas; no significant premiums and SIZE/BM remain significant. Full joint instrument vector (including possible market beta), estimator/sample variants and exact window mapping are not established; Human_IV_type unknown rather than assume an exhaustive two-variable set. No numerical estimate is supplied. Corrected proposal boilerplate that wrongly asserted the baseline odd/even prior-36-month construction for this future-beta treatment. Source: Section5.1 p289 first column, untabulated."
+  }
+]
+```
