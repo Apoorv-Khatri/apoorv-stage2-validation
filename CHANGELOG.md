@@ -498930,3 +498930,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-17T15:33:46.623755+00:00 — Review PJ5D7KBE h43: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7403",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7403",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7403",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7403",
+    "before": null,
+    "after": "Average of monthly individual-stock excess returns over 24 months beginning at t; not a cumulative 24-month return. Percent per month."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3083",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3083",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3083",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3083",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3083",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3083",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3083",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3083",
+    "before": null,
+    "after": "IV mean-estimator additional horizon: continuous past factor exposure (model mapping unresolved) exposure -> 24-month average individual-stock excess return, in monthly percentage units; Section5.1 p290, sentence following Table10 discussion. Explicitly implemented IV mean-estimator robustness with similar results (p290). Exact model/factor mapping, characteristic averaging window, beta-window implementation, and standard-error lag count are not supplied for this horizon; no model-by-factor grid or numerical estimate inferred."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3083",
+    "before": null,
+    "after": "Implemented average-return horizon 24 months explicitly reported with similar results. Scope-limited setting, not a manufactured five-model-by-factor grid. Exact model/focal-factor implementation and corresponding characteristic window not supplied. Do not copy 12-month coefficients or SE lag count. Audit may merge into each identified horizon family if final implementation is obtained. Source: Section5.1 p290, sentence following Table10 discussion."
+  }
+]
+```
