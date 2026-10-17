@@ -30028,7 +30028,16 @@
     "L3065": "1",
     "M3065": "other",
     "N3065": "FF5 IV mean-estimator: continuous past HML beta exposure -> 12-month average individual-stock excess return, in monthly percentage units; Table10 FF5 Tm=12; pp289–291. Monthly cross-sectional linear IV slope, averaged across months; Hansen–Hodrick standard errors with 12 lags for overlapping 12-month outcomes. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE.",
-    "O3065": "IV mean-estimator Eqs23–25, with average prior characteristics in both EV and IV matrices. Count only beta measurements as EXCLUDED instruments, not included characteristics. The prose says characteristics are additional instruments, but Eq24 explicitly places the same C in both matrices (visually checked p289). Tm=12 averages t through t+11 and prior-12-month characteristics; Hansen–Hodrick SE with 12 lags. Not current plus NEXT 12 months (13 months). Source: Table10 FF5 Tm=12; pp289–291."
+    "O3065": "IV mean-estimator Eqs23–25, with average prior characteristics in both EV and IV matrices. Count only beta measurements as EXCLUDED instruments, not included characteristics. The prose says characteristics are additional instruments, but Eq24 explicitly places the same C in both matrices (visually checked p289). Tm=12 averages t through t+11 and prior-12-month characteristics; Hansen–Hodrick SE with 12 lags. Not current plus NEXT 12 months (13 months). Source: Table10 FF5 Tm=12; pp289–291.",
+    "A3066": "PJ5D7KBE",
+    "B3066": "h26",
+    "I3066": "1",
+    "J3066": "IV",
+    "K3066": "0",
+    "L3066": "1",
+    "M3066": "other",
+    "N3066": "FF5 IV mean-estimator: continuous past RMW beta exposure -> 12-month average individual-stock excess return, in monthly percentage units; Table10 FF5 Tm=12; pp289–291. Monthly cross-sectional linear IV slope, averaged across months; Hansen–Hodrick standard errors with 12 lags for overlapping 12-month outcomes. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE.",
+    "O3066": "IV mean-estimator Eqs23–25, with average prior characteristics in both EV and IV matrices. Count only beta measurements as EXCLUDED instruments, not included characteristics. The prose says characteristics are additional instruments, but Eq24 explicitly places the same C in both matrices (visually checked p289). Tm=12 averages t through t+11 and prior-12-month characteristics; Hansen–Hodrick SE with 12 lags. Not current plus NEXT 12 months (13 months). Source: Table10 FF5 Tm=12; pp289–291."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79706,7 +79715,11 @@
     "A7385": "PJ5D7KBE",
     "B7385": "h25",
     "C7385": "hy1",
-    "K7385": "Average of monthly individual-stock excess returns over 12 months beginning at t; not a cumulative 12-month return. Percent per month."
+    "K7385": "Average of monthly individual-stock excess returns over 12 months beginning at t; not a cumulative 12-month return. Percent per month.",
+    "A7386": "PJ5D7KBE",
+    "B7386": "h26",
+    "C7386": "hy1",
+    "K7386": "Average of monthly individual-stock excess returns over 12 months beginning at t; not a cumulative 12-month return. Percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
