@@ -29884,7 +29884,16 @@
     "L3049": "1",
     "M3049": "other",
     "N3049": "FF5: continuous RMW beta conditional on other four betas exposure -> monthly individual-stock excess return (percent per month); Table7 A–C cols3,6; p285. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE.",
-    "O3049": "Table10 Tm1 repeats the corresponding characteristic-controlled beta result; no duplicate added. Source: Table7 A–C cols3,6; p285."
+    "O3049": "Table10 Tm1 repeats the corresponding characteristic-controlled beta result; no duplicate added. Source: Table7 A–C cols3,6; p285.",
+    "A3050": "PJ5D7KBE",
+    "B3050": "h10",
+    "I3050": "1",
+    "J3050": "IV",
+    "K3050": "0",
+    "L3050": "1",
+    "M3050": "other",
+    "N3050": "FF5: continuous CMA beta conditional on other four betas exposure -> monthly individual-stock excess return (percent per month); Table7 A–C cols3,6; p285. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE.",
+    "O3050": "Table10 Tm1 repeats the corresponding characteristic-controlled beta result; no duplicate added. Source: Table7 A–C cols3,6; p285."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79498,7 +79507,11 @@
     "A7369": "PJ5D7KBE",
     "B7369": "h9",
     "C7369": "hy1",
-    "K7369": "Individual-stock excess return relative to one-month T-bill, percent per month."
+    "K7369": "Individual-stock excess return relative to one-month T-bill, percent per month.",
+    "A7370": "PJ5D7KBE",
+    "B7370": "h10",
+    "C7370": "hy1",
+    "K7370": "Individual-stock excess return relative to one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
