@@ -307,6 +307,7 @@
     "B66": "Empirical tests of asset pricing models with individual assets: Resolving the errors-in-variables bias in risk premium estimation",
     "C66": "fin",
     "D66": 6,
+    "E66": "DONE — Available-source review of all26 final article pages including AppendicesA-D, with independent audit. Retain87 settings and88 outcome records including one inactive original; no qualifying own-effect comparisons. Broad author-intention gate admits risk-compensation parameters and direct-versus-proxy characteristic effects, not merely IV measurement-error correction. Characteristic inclusion is interpretive and does not certify causal identification. Included focal characteristics/illiquidity coded regression adjustment with joint-2SLS nuisance-beta implementation explicit; not instrumented characteristic treatments. Table10 included/excluded instruments distinguished, repeated one-month results deduplicated; remaining implementation discrepancies preserved. Future-beta and12-month inference descriptions corrected; untabulated tests minimum scope only. Original comparison rejected because focal premium belongs to prior study. No certified final supplement; partial author theoretical text corroborative only. Original model fields,IDs and links preserved; completion does not certify missing supplement coverage.",
     "A67": "QCQ3E8DE",
     "B67": "Momentum crashes",
     "C67": "fin",
@@ -30523,7 +30524,16 @@
     "L3120": "0",
     "M3120": "unknown",
     "N3120": "IV mean-estimator longer-horizon robustness: continuous characteristic slope(s), model/components unresolved -> Average monthly individual-stock excess return over 36 months beginning at t, percent per month; not cumulative return. Section5.1 p290, 36-month average-return test, untabulated. Implemented substantive characteristic-slope robustness, but precise focal-regressor projection cannot be established from the untabulated sentence; method unknown rather than inventing an instrumented treatment. Inference details not supplied at this scope. Reported full-sample slope: No numerical estimate; similar results reported.",
-    "O3120": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Minimum scope-limited characteristic-effect record; no model-by-characteristic grid inferred. Exact included-regressor implementation and characteristic averaging window unresolved. Source: Section5.1 p290, 36-month average-return test, untabulated."
+    "O3120": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Minimum scope-limited characteristic-effect record; no model-by-characteristic grid inferred. Exact included-regressor implementation and characteristic averaging window unresolved. Source: Section5.1 p290, 36-month average-return test, untabulated.",
+    "A3121": "PJ5D7KBE",
+    "B3121": "h81",
+    "I3121": "1",
+    "J3121": "OLS",
+    "K3121": "0",
+    "L3121": "0",
+    "M3121": "n/a",
+    "N3121": "Alternative profitability-definition robustness: continuous gross profitability (revenue minus cost of goods, divided by current assets) -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. p284 footnote18, untabulated Novy-Marx profitability definition. Reported univariate linear regression of stock returns on this profitability definition; code OLS/regression adjustment. No excluded instrument or beta control is asserted for this untabulated regression. Inference details not supplied at this scope. Reported full-sample slope: Positive and significant; no numerical coefficient supplied.",
+    "O3121": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Explicit univariate regression on the alternative profitability measure; no beta-control or instrument specification asserted. Different numerator/denominator from OP, not merely a coefficient relabeling. Source: p284 footnote18, untabulated Novy-Marx profitability definition."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80421,7 +80431,11 @@
     "A7440": "PJ5D7KBE",
     "B7440": "h80",
     "C7440": "hy1",
-    "K7440": "Average monthly individual-stock excess return over 36 months beginning at t, percent per month; not cumulative return."
+    "K7440": "Average monthly individual-stock excess return over 36 months beginning at t, percent per month; not cumulative return.",
+    "A7441": "PJ5D7KBE",
+    "B7441": "h81",
+    "C7441": "hy1",
+    "K7441": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

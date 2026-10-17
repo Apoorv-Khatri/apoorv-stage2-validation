@@ -502236,3 +502236,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-17T15:55:42.238846+00:00 — Review PJ5D7KBE h81: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7441",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7441",
+    "before": null,
+    "after": "h81"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7441",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7441",
+    "before": null,
+    "after": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E66",
+    "before": null,
+    "after": "DONE — Available-source review of all26 final article pages including AppendicesA-D, with independent audit. Retain87 settings and88 outcome records including one inactive original; no qualifying own-effect comparisons. Broad author-intention gate admits risk-compensation parameters and direct-versus-proxy characteristic effects, not merely IV measurement-error correction. Characteristic inclusion is interpretive and does not certify causal identification. Included focal characteristics/illiquidity coded regression adjustment with joint-2SLS nuisance-beta implementation explicit; not instrumented characteristic treatments. Table10 included/excluded instruments distinguished, repeated one-month results deduplicated; remaining implementation discrepancies preserved. Future-beta and12-month inference descriptions corrected; untabulated tests minimum scope only. Original comparison rejected because focal premium belongs to prior study. No certified final supplement; partial author theoretical text corroborative only. Original model fields,IDs and links preserved; completion does not certify missing supplement coverage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3121",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3121",
+    "before": null,
+    "after": "h81"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3121",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3121",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3121",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3121",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3121",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3121",
+    "before": null,
+    "after": "Alternative profitability-definition robustness: continuous gross profitability (revenue minus cost of goods, divided by current assets) -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. p284 footnote18, untabulated Novy-Marx profitability definition. Reported univariate linear regression of stock returns on this profitability definition; code OLS/regression adjustment. No excluded instrument or beta control is asserted for this untabulated regression. Inference details not supplied at this scope. Reported full-sample slope: Positive and significant; no numerical coefficient supplied."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3121",
+    "before": null,
+    "after": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Explicit univariate regression on the alternative profitability measure; no beta-control or instrument specification asserted. Different numerator/denominator from OP, not merely a coefficient relabeling. Source: p284 footnote18, untabulated Novy-Marx profitability definition."
+  }
+]
+```
