@@ -30235,7 +30235,16 @@
     "L3088": "1",
     "M3088": "n/a",
     "N3088": "CAPM: continuous book-to-market ratio -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Table6 A col3; corresponding B-C IV columns; pp283-284. Reported joint estimator is linear IV/2SLS for beta measurement error. Focal characteristic is included unchanged in both regressor and instrument matrices; code its coefficient OLS/regression adjustment with first-stage fitted nuisance-beta controls, not an instrumented-characteristic treatment effect. Fama-MacBeth averaging and inference. Reported full-sample slope: 0.196.",
-    "O3088": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. IV nuisance beta Source: Table6 A col3; corresponding B-C IV columns; pp283-284."
+    "O3088": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. IV nuisance beta Source: Table6 A col3; corresponding B-C IV columns; pp283-284.",
+    "A3089": "PJ5D7KBE",
+    "B3089": "h49",
+    "I3089": "1",
+    "J3089": "OLS",
+    "K3089": "0",
+    "L3089": "1",
+    "M3089": "n/a",
+    "N3089": "FF3: continuous natural log of market capitalization -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Table6 A cols4-5; corresponding B-C IV columns; pp283-284. Reported joint estimator is linear IV/2SLS for beta measurement error. Focal characteristic is included unchanged in both regressor and instrument matrices; code its coefficient OLS/regression adjustment with first-stage fitted nuisance-beta controls, not an instrumented-characteristic treatment effect. Fama-MacBeth averaging and inference. Reported full-sample slope: -0.118 / -0.122.",
+    "O3089": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. IV nuisance betas Source: Table6 A cols4-5; corresponding B-C IV columns; pp283-284."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80005,7 +80014,11 @@
     "A7408": "PJ5D7KBE",
     "B7408": "h48",
     "C7408": "hy1",
-    "K7408": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
+    "K7408": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month.",
+    "A7409": "PJ5D7KBE",
+    "B7409": "h49",
+    "C7409": "hy1",
+    "K7409": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
