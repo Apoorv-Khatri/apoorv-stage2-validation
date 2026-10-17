@@ -500148,3 +500148,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-17T15:41:56.270268+00:00 — Review PJ5D7KBE h57: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7417",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7417",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7417",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7417",
+    "before": null,
+    "after": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3097",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3097",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3097",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3097",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3097",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3097",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3097",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3097",
+    "before": null,
+    "after": "FF5 characteristic adjustment: continuous paper-defined operating profitability -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Table7 A col6 and col4 with RMW, B-C counterparts; pp284-285. Reported joint estimator is linear IV/2SLS for beta measurement error. Focal characteristic is included unchanged in both regressor and instrument matrices; code its coefficient OLS/regression adjustment with first-stage fitted nuisance-beta controls, not an instrumented-characteristic treatment effect. Fama-MacBeth averaging and inference. Reported full-sample slope: -0.001 in col4; 0.649 in col6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3097",
+    "before": null,
+    "after": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Group single-beta versus joint-beta control variants for the same focal characteristic at this table; unlike the beta treatment records, these are nuisance-control variants. Footnote18 calls the baseline OP regression univariate as in col4, but col4 visibly also includes RMW beta; retain the verified table specification and flag the prose discrepancy rather than adding an invented characteristic-only duplicate. Corresponding Table10 Tm1 value is repeated and covered here, not an extra setting. Source: Table7 A col6 and col4 with RMW, B-C counterparts; pp284-285."
+  }
+]
+```
