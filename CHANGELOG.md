@@ -497799,3 +497799,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-17T15:26:12.965686+00:00 — Review PJ5D7KBE h30: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7390",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7390",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7390",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7390",
+    "before": null,
+    "after": "Average of monthly individual-stock excess returns over 12 months beginning at t; not a cumulative 12-month return. Percent per month."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3070",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3070",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3070",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3070",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3070",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3070",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3070",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3070",
+    "before": null,
+    "after": "q-factor IV mean-estimator: continuous past I/A beta exposure -> 12-month average individual-stock excess return, in monthly percentage units; Table10 q-factor Tm=12; pp289–291. Monthly cross-sectional linear IV slope, averaged across months; Hansen–Hodrick standard errors with 12 lags for overlapping 12-month outcomes. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3070",
+    "before": null,
+    "after": "IV mean-estimator Eqs23–25, with average prior characteristics in both EV and IV matrices. Count only beta measurements as EXCLUDED instruments, not included characteristics. The prose says characteristics are additional instruments, but Eq24 explicitly places the same C in both matrices (visually checked p289). Tm=12 averages t through t+11 and prior-12-month characteristics; Hansen–Hodrick SE with 12 lags. Not current plus NEXT 12 months (13 months). Source: Table10 q-factor Tm=12; pp289–291."
+  }
+]
+```
