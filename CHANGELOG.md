@@ -502149,3 +502149,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-17T15:55:12.608993+00:00 — Review PJ5D7KBE h80: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7440",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7440",
+    "before": null,
+    "after": "h80"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7440",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7440",
+    "before": null,
+    "after": "Average monthly individual-stock excess return over 36 months beginning at t, percent per month; not cumulative return."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3120",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3120",
+    "before": null,
+    "after": "h80"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3120",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3120",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3120",
+    "before": null,
+    "after": "IV mean-estimator longer-horizon robustness: continuous characteristic slope(s), model/components unresolved -> Average monthly individual-stock excess return over 36 months beginning at t, percent per month; not cumulative return. Section5.1 p290, 36-month average-return test, untabulated. Implemented substantive characteristic-slope robustness, but precise focal-regressor projection cannot be established from the untabulated sentence; method unknown rather than inventing an instrumented treatment. Inference details not supplied at this scope. Reported full-sample slope: No numerical estimate; similar results reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3120",
+    "before": null,
+    "after": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Minimum scope-limited characteristic-effect record; no model-by-characteristic grid inferred. Exact included-regressor implementation and characteristic averaging window unresolved. Source: Section5.1 p290, 36-month average-return test, untabulated."
+  }
+]
+```

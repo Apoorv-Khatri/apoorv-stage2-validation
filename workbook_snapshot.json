@@ -30514,7 +30514,16 @@
     "L3119": "0",
     "M3119": "unknown",
     "N3119": "IV mean-estimator longer-horizon robustness: continuous characteristic slope(s), model/components unresolved -> Average monthly individual-stock excess return over 24 months beginning at t, percent per month; not cumulative return. Section5.1 p290, 24-month average-return test, untabulated. Implemented substantive characteristic-slope robustness, but precise focal-regressor projection cannot be established from the untabulated sentence; method unknown rather than inventing an instrumented treatment. Inference details not supplied at this scope. Reported full-sample slope: No numerical estimate; similar results reported.",
-    "O3119": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Minimum scope-limited characteristic-effect record; no model-by-characteristic grid inferred. Exact included-regressor implementation and characteristic averaging window unresolved. Source: Section5.1 p290, 24-month average-return test, untabulated."
+    "O3119": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Minimum scope-limited characteristic-effect record; no model-by-characteristic grid inferred. Exact included-regressor implementation and characteristic averaging window unresolved. Source: Section5.1 p290, 24-month average-return test, untabulated.",
+    "A3120": "PJ5D7KBE",
+    "B3120": "h80",
+    "I3120": "1",
+    "J3120": "unknown",
+    "K3120": "0",
+    "L3120": "0",
+    "M3120": "unknown",
+    "N3120": "IV mean-estimator longer-horizon robustness: continuous characteristic slope(s), model/components unresolved -> Average monthly individual-stock excess return over 36 months beginning at t, percent per month; not cumulative return. Section5.1 p290, 36-month average-return test, untabulated. Implemented substantive characteristic-slope robustness, but precise focal-regressor projection cannot be established from the untabulated sentence; method unknown rather than inventing an instrumented treatment. Inference details not supplied at this scope. Reported full-sample slope: No numerical estimate; similar results reported.",
+    "O3120": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Minimum scope-limited characteristic-effect record; no model-by-characteristic grid inferred. Exact included-regressor implementation and characteristic averaging window unresolved. Source: Section5.1 p290, 36-month average-return test, untabulated."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80408,7 +80417,11 @@
     "A7439": "PJ5D7KBE",
     "B7439": "h79",
     "C7439": "hy1",
-    "K7439": "Average monthly individual-stock excess return over 24 months beginning at t, percent per month; not cumulative return."
+    "K7439": "Average monthly individual-stock excess return over 24 months beginning at t, percent per month; not cumulative return.",
+    "A7440": "PJ5D7KBE",
+    "B7440": "h80",
+    "C7440": "hy1",
+    "K7440": "Average monthly individual-stock excess return over 36 months beginning at t, percent per month; not cumulative return."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
