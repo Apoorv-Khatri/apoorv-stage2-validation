@@ -30451,7 +30451,16 @@
     "L3112": "1",
     "M3112": "n/a",
     "N3112": "q-factor mean-estimator: continuous investment/total assets -> Average monthly individual-stock excess return over 12 months beginning at t, percent per month; not cumulative return. Table10 q-factor Tm=12; pp289-291. Reported joint estimator is linear IV/2SLS for beta measurement error. Focal characteristic is included unchanged in both regressor and instrument matrices; code its coefficient OLS/regression adjustment with first-stage fitted nuisance-beta controls, not an instrumented-characteristic treatment effect. Hansen-Hodrick SE with 12 lags. Reported full-sample slope: -0.324.",
-    "O3112": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment.  Source: Table10 q-factor Tm=12; pp289-291."
+    "O3112": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment.  Source: Table10 q-factor Tm=12; pp289-291.",
+    "A3113": "PJ5D7KBE",
+    "B3113": "h73",
+    "I3113": "1",
+    "J3113": "OLS",
+    "K3113": "0",
+    "L3113": "0",
+    "M3113": "n/a",
+    "N3113": "CAPM one-month comparison: continuous natural log of market capitalization -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Table10 CAPM Tm=1; pp289-291. Reported joint estimator is linear IV/2SLS for beta measurement error. Focal characteristic is included unchanged in both regressor and instrument matrices; code its coefficient OLS/regression adjustment with first-stage fitted nuisance-beta controls, not an instrumented-characteristic treatment effect. Fama-MacBeth averaging and inference. Reported full-sample slope: -0.139.",
+    "O3113": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment.  Source: Table10 CAPM Tm=1; pp289-291."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80317,7 +80326,11 @@
     "A7432": "PJ5D7KBE",
     "B7432": "h72",
     "C7432": "hy1",
-    "K7432": "Average monthly individual-stock excess return over 12 months beginning at t, percent per month; not cumulative return."
+    "K7432": "Average monthly individual-stock excess return over 12 months beginning at t, percent per month; not cumulative return.",
+    "A7433": "PJ5D7KBE",
+    "B7433": "h73",
+    "C7433": "hy1",
+    "K7433": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
