@@ -498147,3 +498147,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-17T15:28:10.257055+00:00 — Review PJ5D7KBE h34: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7394",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7394",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7394",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7394",
+    "before": null,
+    "after": "Individual-stock excess return relative to one-month T-bill, percent per month."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3074",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3074",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3074",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3074",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3074",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3074",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3074",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3074",
+    "before": null,
+    "after": "FF3 separately reported one-month comparison specification: continuous MKT beta exposure -> monthly individual-stock excess return (percent per month); Table10 FF3 Tm=1; pp289–291. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3074",
+    "before": null,
+    "after": "One-month excess-return variant uses lagged characteristics both as controls and in instrument matrix. Unlike FF5/q/LCAPM, these reported estimates differ from Table6. Retain as separately reported implementation variant pending audit of exactly how baseline controls entered projection. Do not count included SIZE/BM as excluded instruments. Explicit contrary prose about additional instruments is documented, not silently repaired. Independent ruling: retain as separately reported, numerically distinct result-location records, not a proved new excluded-instrument estimand. Eq24 does not establish new excluded characteristic instruments. Implementation discrepancy remains unresolved; do not equate different numbers with a demonstrated design change. Source: Table10 FF3 Tm=1; pp289–291."
+  }
+]
+```
