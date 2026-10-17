@@ -30316,7 +30316,16 @@
     "L3097": "1",
     "M3097": "n/a",
     "N3097": "FF5 characteristic adjustment: continuous paper-defined operating profitability -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Table7 A col6 and col4 with RMW, B-C counterparts; pp284-285. Reported joint estimator is linear IV/2SLS for beta measurement error. Focal characteristic is included unchanged in both regressor and instrument matrices; code its coefficient OLS/regression adjustment with first-stage fitted nuisance-beta controls, not an instrumented-characteristic treatment effect. Fama-MacBeth averaging and inference. Reported full-sample slope: -0.001 in col4; 0.649 in col6.",
-    "O3097": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Group single-beta versus joint-beta control variants for the same focal characteristic at this table; unlike the beta treatment records, these are nuisance-control variants. Footnote18 calls the baseline OP regression univariate as in col4, but col4 visibly also includes RMW beta; retain the verified table specification and flag the prose discrepancy rather than adding an invented characteristic-only duplicate. Corresponding Table10 Tm1 value is repeated and covered here, not an extra setting. Source: Table7 A col6 and col4 with RMW, B-C counterparts; pp284-285."
+    "O3097": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Group single-beta versus joint-beta control variants for the same focal characteristic at this table; unlike the beta treatment records, these are nuisance-control variants. Footnote18 calls the baseline OP regression univariate as in col4, but col4 visibly also includes RMW beta; retain the verified table specification and flag the prose discrepancy rather than adding an invented characteristic-only duplicate. Corresponding Table10 Tm1 value is repeated and covered here, not an extra setting. Source: Table7 A col6 and col4 with RMW, B-C counterparts; pp284-285.",
+    "A3098": "PJ5D7KBE",
+    "B3098": "h58",
+    "I3098": "1",
+    "J3098": "OLS",
+    "K3098": "0",
+    "L3098": "1",
+    "M3098": "n/a",
+    "N3098": "FF5 characteristic adjustment: continuous investment/total assets -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Table7 A col6 and col5 with CMA, B-C counterparts; pp284-285. Reported joint estimator is linear IV/2SLS for beta measurement error. Focal characteristic is included unchanged in both regressor and instrument matrices; code its coefficient OLS/regression adjustment with first-stage fitted nuisance-beta controls, not an instrumented-characteristic treatment effect. Fama-MacBeth averaging and inference. Reported full-sample slope: -0.963 in col5; -0.709 in col6.",
+    "O3098": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. Group single-beta versus joint-beta control variants for the same focal characteristic at this table; unlike the beta treatment records, these are nuisance-control variants. Corresponding Table10 Tm1 value is repeated and covered here, not an extra setting. Source: Table7 A col6 and col5 with CMA, B-C counterparts; pp284-285."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80122,7 +80131,11 @@
     "A7417": "PJ5D7KBE",
     "B7417": "h57",
     "C7417": "hy1",
-    "K7417": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
+    "K7417": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month.",
+    "A7418": "PJ5D7KBE",
+    "B7418": "h58",
+    "C7418": "hy1",
+    "K7418": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
