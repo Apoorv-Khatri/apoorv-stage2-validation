@@ -30208,7 +30208,16 @@
     "L3085": "0",
     "M3085": "n/a",
     "N3085": "LCAPM direct illiquidity compensation: continuous monthly c_i,t (contemporaneous; Eq18) -> monthly stock excess return, percent per month; Table9 characteristic-controlled columns; Eq13,18; pp287–288. Included-regressor coefficient from joint linear 2SLS, coded OLS/regression adjustment for the uninstrumented focal characteristic. Equivalent outcome regression includes c unchanged and the first-stage fitted LMKT control; the excluded beta instrument corrects nuisance-beta measurement error, not illiquidity treatment endogeneity. Reported full-sample coefficient 0.220.",
-    "O3085": "p287 Eq13 explicitly says illiquidity level affects expected returns and is compensation for holding an illiquid asset. Eq18 (and Eq24/25 for the mean-estimator) includes the same characteristic in regressor and instrument matrices. There is no excluded instrument for c; own exogeneity is maintained, not established by the beta instrument. This focal-parameter method convention differs from labeling every coefficient in a joint system IV. Table10 Tm1 repeats Table9 and is covered by h45. No own-outcome benchmark. Source: Table9 characteristic-controlled columns; Eq13,18; pp287–288."
+    "O3085": "p287 Eq13 explicitly says illiquidity level affects expected returns and is compensation for holding an illiquid asset. Eq18 (and Eq24/25 for the mean-estimator) includes the same characteristic in regressor and instrument matrices. There is no excluded instrument for c; own exogeneity is maintained, not established by the beta instrument. This focal-parameter method convention differs from labeling every coefficient in a joint system IV. Table10 Tm1 repeats Table9 and is covered by h45. No own-outcome benchmark. Source: Table9 characteristic-controlled columns; Eq13,18; pp287–288.",
+    "A3086": "PJ5D7KBE",
+    "B3086": "h46",
+    "I3086": "1",
+    "J3086": "OLS",
+    "K3086": "0",
+    "L3086": "0",
+    "M3086": "n/a",
+    "N3086": "LCAPM direct illiquidity compensation: continuous past-12-month average illiquidity characteristic (Eq25/Table10 general specification) -> 12-month mean stock excess return over t through t+11, percent per month; Table10 LCAPM Tm=12; pp289–291. Included-regressor coefficient from joint linear 2SLS, coded OLS/regression adjustment for the uninstrumented focal characteristic. Equivalent outcome regression includes c unchanged and the first-stage fitted LMKT control; the excluded beta instrument corrects nuisance-beta measurement error, not illiquidity treatment endogeneity. Reported full-sample coefficient 0.152.",
+    "O3086": "p287 Eq13 explicitly says illiquidity level affects expected returns and is compensation for holding an illiquid asset. Eq18 (and Eq24/25 for the mean-estimator) includes the same characteristic in regressor and instrument matrices. There is no excluded instrument for c; own exogeneity is maintained, not established by the beta instrument. This focal-parameter method convention differs from labeling every coefficient in a joint system IV. Table10 Tm1 repeats Table9 and is covered by h45. No own-outcome benchmark. Source: Table10 LCAPM Tm=12; pp289–291."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79966,7 +79975,11 @@
     "A7405": "PJ5D7KBE",
     "B7405": "h45",
     "C7405": "hy1",
-    "K7405": "Individual-stock excess return relative to one-month T-bill, percent per month."
+    "K7405": "Individual-stock excess return relative to one-month T-bill, percent per month.",
+    "A7406": "PJ5D7KBE",
+    "B7406": "h46",
+    "C7406": "hy1",
+    "K7406": "Average of monthly individual-stock excess returns over 12 months beginning at t; not a cumulative 12-month return. Percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
