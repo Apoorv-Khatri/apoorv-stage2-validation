@@ -499365,3 +499365,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-17T15:36:42.331535+00:00 — Review PJ5D7KBE h48: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7408",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7408",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7408",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7408",
+    "before": null,
+    "after": "Monthly individual-stock excess return relative to the one-month T-bill, percent per month."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3088",
+    "before": null,
+    "after": "PJ5D7KBE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3088",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3088",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3088",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3088",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3088",
+    "before": null,
+    "after": "CAPM: continuous book-to-market ratio -> Monthly individual-stock excess return relative to the one-month T-bill, percent per month. Table6 A col3; corresponding B-C IV columns; pp283-284. Reported joint estimator is linear IV/2SLS for beta measurement error. Focal characteristic is included unchanged in both regressor and instrument matrices; code its coefficient OLS/regression adjustment with first-stage fitted nuisance-beta controls, not an instrumented-characteristic treatment effect. Fama-MacBeth averaging and inference. Reported full-sample slope: 0.196."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3088",
+    "before": null,
+    "after": "Contrary to blanket predictor exclusion in the proposal. Characteristic exogeneity is maintained; instruments for beta controls do not instrument this treatment. IV nuisance beta Source: Table6 A col3; corresponding B-C IV columns; pp283-284."
+  }
+]
+```
