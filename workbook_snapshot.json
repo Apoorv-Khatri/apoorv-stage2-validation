@@ -29965,7 +29965,16 @@
     "L3058": "1",
     "M3058": "single continuous",
     "N3058": "q-factor single-beta regression: continuous I/A beta exposure -> monthly individual-stock excess return (percent per month); Table8 A–C cols3,6; pp286–287. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE.",
-    "O3058": "Distinct scalar excluded instrument rather than joint four-beta system. I/A+INV is col6; ROE+OP is col7, visually verified. Other controls and subperiods stay grouped. Source: Table8 A–C cols3,6; pp286–287."
+    "O3058": "Distinct scalar excluded instrument rather than joint four-beta system. I/A+INV is col6; ROE+OP is col7, visually verified. Other controls and subperiods stay grouped. Source: Table8 A–C cols3,6; pp286–287.",
+    "A3059": "PJ5D7KBE",
+    "B3059": "h19",
+    "I3059": "1",
+    "J3059": "IV",
+    "K3059": "0",
+    "L3059": "1",
+    "M3059": "single continuous",
+    "N3059": "q-factor single-beta regression: continuous ROE beta exposure -> monthly individual-stock excess return (percent per month); Table8 A–C cols4,7; pp286–287. Monthly cross-sectional linear IV slope, averaged across months with Fama–MacBeth inference. Daily-return betas estimated separately in odd/even months of prior 36-month window; opposite-parity beta measurements instrument explanatory beta measurements. Requires independent measurement errors and model restrictions, not randomly assigned exposure. No fixed effects are implemented: factor loadings, time-series averaging and factor controls are not identifying FE.",
+    "O3059": "Distinct scalar excluded instrument rather than joint four-beta system. I/A+INV is col6; ROE+OP is col7, visually verified. Other controls and subperiods stay grouped. Source: Table8 A–C cols4,7; pp286–287."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -79615,7 +79624,11 @@
     "A7378": "PJ5D7KBE",
     "B7378": "h18",
     "C7378": "hy1",
-    "K7378": "Individual-stock excess return relative to one-month T-bill, percent per month."
+    "K7378": "Individual-stock excess return relative to one-month T-bill, percent per month.",
+    "A7379": "PJ5D7KBE",
+    "B7379": "h19",
+    "C7379": "hy1",
+    "K7379": "Individual-stock excess return relative to one-month T-bill, percent per month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
