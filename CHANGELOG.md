@@ -557091,3 +557091,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:16:34.129202+00:00 — Review TRCRCTBB s7: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J723",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K723",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M723",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N723",
+    "before": null,
+    "after": "Current annual ΔPOt effect on quarterly net equity/debt issuance, Table VII.A/B columns 1–4 (and current-dose control in column 6), pp.3426–3429. Firm/year FE. Lagged, already-disclosed ΔPOt−1 contrast separately h7; quarterly outcomes are separate horizons within jointly reported outcome set, not DiD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O723",
+    "before": null,
+    "after": "Linear panel regression; firm (or manager) and time effects absorb persistent unit heterogeneity and common shocks in the within-unit private-information design. At most two effective FE dimensions, not HDFE; no IV/RCT/RD/DiD. No genuine no-unit-FE OLS column. Continuous PO dose, not binary merely because outcomes or subsamples are binary."
+  }
+]
+```
