@@ -576279,3 +576279,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:46:02.311586+00:00 — Review UUTLYHI2 h29: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8048",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8048",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8048",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8048",
+    "before": null,
+    "after": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3523",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3523",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3523",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3523",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3523",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3523",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3523",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3523",
+    "before": null,
+    "after": "Lagged Tier1 capital/RWA effect on loan sale,IA.VI: borrower covenant-violation and downgrade subsamples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3523",
+    "before": null,
+    "after": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Bank + loan-year FE two effective dimensions. Final pp.2205–2206/2215 explicitly establish implemented result. Supporting separately reported robustness; no invented additional variants. CDS status and prior relationships moderate capital effect rather than automatically being extra focal causal treatments. IA.VIII prints0.111(0.010) without stars for small banks; anomaly preserved."
+  }
+]
+```
