@@ -502329,3 +502329,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T02:36:57.926499+00:00 — Review QCQ3E8DE s1: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K353",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R353",
+    "before": null,
+    "after": "Rejected: original focal alpha is not comparable to a different outcome Sharpe ratio, and original s1 fails causal gate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1458",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1458",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1458",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1458",
+    "before": null,
+    "after": "spurious as causal outcome of rejected s1; original data definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I596",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O596",
+    "before": null,
+    "after": "The author describes conditional covariance/exposure, abnormal performance and forecastability, not an identified directional response to manipulating market returns or panic indicators. Reject this extracted regressor-as-treatment interpretation. Contrary evidence: introduction p222 says crashes occur because of negative beta; conclusion pp242–243 gives an economic mechanism. This author-intention boundary is contested, not a claim that observational OLS cannot qualify. Source: Section 2.2, Table 1 and Section 3.2 Eq. (1), Table 3 column (1), PDF pp. 224, 227–229.."
+  }
+]
+```
