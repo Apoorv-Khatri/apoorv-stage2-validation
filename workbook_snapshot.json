@@ -34594,7 +34594,16 @@
     "L3472": "1",
     "M3472": "n/a",
     "N3472": "Debt/population effect on structured-debt/total-debt and high-risk structured-debt/total-debt shares, Table3 columns3/4, Data A; two-sided censored tobit.",
-    "O3472": "Distinct estimator/outcome set from probit. Left-censored0/right-censored1; no-debt entities excluded. Nonlinear Other; broad debt-incentive gate same as s1. Lender and government-type dummies two sets."
+    "O3472": "Distinct estimator/outcome set from probit. Left-censored0/right-censored1; no-debt entities excluded. Nonlinear Other; broad debt-incentive gate same as s1. Lender and government-type dummies two sets.",
+    "A3473": "UTRUH2FR",
+    "B3473": "h2",
+    "I3473": "1",
+    "J3473": "Other",
+    "K3473": "0",
+    "L3473": "1",
+    "M3473": "n/a",
+    "N3473": "Years in power before 2001 election effect on structured adoption, Table5 column2, probit.",
+    "O3473": "Distinct stability treatment, explicitly interpreted p.1922; central contestation corroboration. No quasi-random close-election RD implemented."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88439,7 +88448,11 @@
     "A7980": "UTRUH2FR",
     "B7980": "h1",
     "C7980": "hy2",
-    "K7980": "High-risk structured debt / total debt share, Table3 column4."
+    "K7980": "High-risk structured debt / total debt share, Table3 column4.",
+    "A7981": "UTRUH2FR",
+    "B7981": "h2",
+    "C7981": "hy1",
+    "K7981": "Indicator for any structured loan use. "
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
