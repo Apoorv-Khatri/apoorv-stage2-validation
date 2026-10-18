@@ -606900,3 +606900,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T19:12:24.722359+00:00 — Review X387EWAF h1: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8270",
+    "before": null,
+    "after": "X387EWAF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8271",
+    "before": null,
+    "after": "X387EWAF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8272",
+    "before": null,
+    "after": "X387EWAF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8270",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8271",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8272",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8270",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8271",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8272",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8270",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8271",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8272",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8270",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8271",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8272",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8270",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8271",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8272",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8270",
+    "before": null,
+    "after": "Group/year price informativeness at horizon1, coefficient on log(M/A) in Eq.15 times group-specific SD(log(M/A)); real EBIT/current-assets units, multiplied by100 in Table7 B. High/low option-turnover groups. Not outcome-SD normalization; zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8271",
+    "before": null,
+    "after": "Group/year price informativeness at horizon3, coefficient on log(M/A) in Eq.15 times group-specific SD(log(M/A)); real EBIT/current-assets units, multiplied by100 in Table7 B. High/low option-turnover groups. Not outcome-SD normalization; zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8272",
+    "before": null,
+    "after": "Group/year price informativeness at horizon5, coefficient on log(M/A) in Eq.15 times group-specific SD(log(M/A)); real EBIT/current-assets units, multiplied by100 in Table7 B. High/low option-turnover groups. Not outcome-SD normalization; zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3652",
+    "before": null,
+    "after": "X387EWAF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3652",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3652",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3652",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3652",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3652",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3652",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3652",
+    "before": null,
+    "after": "Above/below annual median option turnover on group price informativeness at horizons1,3,5; Fig.9 C–D/Table7 B pp.643–645; S&P500 nonfinancial firms 1997–2014. Distinct treatment from option listing in s7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3652",
+    "before": null,
+    "after": "Keep distinct annual-median option-turnover contrast, Fig9 C–D/Table7 B; p.643 says impact of option trading should depend on option-market size. Binary contrast actually implemented despite continuous sorting variable. Main status follows abstract/introduction. Conditional on subgroup/regressor arrays, slope times group-specific regressor SD and differences/averages thereof are linear in future earnings. This does not imply causality. Sector controls strip obvious public information, with no separate identifying-FE claim; OLS, not FE/RD/DiD/Other. Outcome is group/year informativeness, not outcome-SD-normalized earnings.  PanelB reported differences1.151,1.800,2.949 are informativeness×100 for horizons1,3,5; no benchmark denominator. Coverage starts1996 but test sample1997–2014."
+  }
+]
+```
