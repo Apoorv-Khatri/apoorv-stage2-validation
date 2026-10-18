@@ -603414,3 +603414,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:49:46.045472+00:00 — Review WZZQX3TX h22: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8243",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8244",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8243",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8244",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8243",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8244",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8243",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8244",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8243",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8244",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8243",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8244",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8243",
+    "before": null,
+    "after": "Log independent-director count."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8244",
+    "before": null,
+    "after": "Log nonindependent-director count."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3637",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3637",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3637",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3637",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3637",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3637",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3637",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3637",
+    "before": null,
+    "after": "Registered covenant violation on log independent and nonindependent directors; full-sample quasi-discontinuity equation (7), IA.XI, pp.2412–2413."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3637",
+    "before": null,
+    "after": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Firm/year FE, third-order polynomials and quintile controls for five covenant accounting variables. No running distance, so FE rather than RD; independent coefficient approximately .04, nonindependent negative insignificant."
+  }
+]
+```

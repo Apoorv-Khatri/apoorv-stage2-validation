@@ -36347,7 +36347,16 @@
     "L3636": "1",
     "M3636": "n/a",
     "N3636": "Implied covenant violations on level number of nonindependent directors, nonparametric Figure IA.1 described p.2402.",
-    "O3636": "Final prose explicitly calls these nonparametric results and replicates preceding Figure2 logic. Minimum scope only; exact all-versus-first panel allocation and kernel implementation unverified in final appendix."
+    "O3636": "Final prose explicitly calls these nonparametric results and replicates preceding Figure2 logic. Minimum scope only; exact all-versus-first panel allocation and kernel implementation unverified in final appendix.",
+    "A3637": "WZZQX3TX",
+    "B3637": "h22",
+    "I3637": "1",
+    "J3637": "FE",
+    "K3637": "1",
+    "L3637": "0",
+    "M3637": "n/a",
+    "N3637": "Registered covenant violation on log independent and nonindependent directors; full-sample quasi-discontinuity equation (7), IA.XI, pp.2412–2413.",
+    "O3637": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Firm/year FE, third-order polynomials and quintile controls for five covenant accounting variables. No running distance, so FE rather than RD; independent coefficient approximately .04, nonindependent negative insignificant."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92042,7 +92051,21 @@
     "H8242": "0",
     "I8242": "0",
     "J8242": "none",
-    "K8242": "Number of nonindependent directors, level count; inferred from explicit counterpart to Figure2. Table I minimum raw count is 1 in the parent sample; a restricted subsample cannot introduce a zero count. This does not imply absence of log zeros."
+    "K8242": "Number of nonindependent directors, level count; inferred from explicit counterpart to Figure2. Table I minimum raw count is 1 in the parent sample; a restricted subsample cannot introduce a zero count. This does not imply absence of log zeros.",
+    "A8243": "WZZQX3TX",
+    "B8243": "h22",
+    "C8243": "hy1",
+    "H8243": "0",
+    "I8243": "unknown",
+    "J8243": "log",
+    "K8243": "Log independent-director count.",
+    "A8244": "WZZQX3TX",
+    "B8244": "h22",
+    "C8244": "hy2",
+    "H8244": "0",
+    "I8244": "unknown",
+    "J8244": "log",
+    "K8244": "Log nonindependent-director count."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
