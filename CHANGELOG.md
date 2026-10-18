@@ -591081,3 +591081,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:42:02.946824+00:00 — Review WERKYTKC h7: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8167",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8167",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8167",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8167",
+    "before": null,
+    "after": "CAR [-1,+1] around dividend increase; caption says excess of size/book-to-market/momentum matched benchmark portfolios; prose specifies Carhart four-factor model. Preserve construction discrepancy; not outcome-SD units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3577",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3577",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3577",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3577",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3577",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3577",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3577",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3577",
+    "before": null,
+    "after": "Change in unexpected dividend-increase component after adding peer information, conditional on baseline residual, on CAR [-1,+1], Table 10B final row / Eq.8; -0.15%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3577",
+    "before": null,
+    "after": "Section 6 pp.561-562 interprets surprise/private information as driving announcement returns, so broad causal author-intention gate met; not pure out-of-sample forecasting. Final CAR regression is linear OLS conditional on generated dividend-model residuals. Firm/time FE belong to prediction first step; factor controls are not identifying FE for the final CAR coefficient. No IV instrument for surprise in final regression, no RCT/RD/DiD or genuine no-FE/identifying-FE split. Prediction endogeneity remains; no claim of credible exogeneity."
+  }
+]
+```

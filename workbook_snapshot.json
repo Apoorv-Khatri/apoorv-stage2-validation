@@ -35705,7 +35705,16 @@
     "L3576": "1",
     "M3576": "single continuous",
     "N3576": "Peer repurchase-DECREASE share in preceding quarter on own repurchase-decrease indicator, Table 9B / Eq.6; 10%/11%.",
-    "O3576": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables. Repurchase null is central in abstract/conclusion."
+    "O3576": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables. Repurchase null is central in abstract/conclusion.",
+    "A3577": "WERKYTKC",
+    "B3577": "h7",
+    "I3577": "1",
+    "J3577": "OLS",
+    "K3577": "0",
+    "L3577": "1",
+    "M3577": "n/a",
+    "N3577": "Change in unexpected dividend-increase component after adding peer information, conditional on baseline residual, on CAR [-1,+1], Table 10B final row / Eq.8; -0.15%.",
+    "O3577": "Section 6 pp.561-562 interprets surprise/private information as driving announcement returns, so broad causal author-intention gate met; not pure out-of-sample forecasting. Final CAR regression is linear OLS conditional on generated dividend-model residuals. Firm/time FE belong to prediction first step; factor controls are not identifying FE for the final CAR coefficient. No IV instrument for surprise in final regression, no RCT/RD/DiD or genuine no-FE/identifying-FE split. Prediction endogeneity remains; no claim of credible exogeneity."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -90927,7 +90936,11 @@
     "A8166": "WERKYTKC",
     "B8166": "h6",
     "C8166": "hy1",
-    "K8166": "Indicator equal to one if the firm decreases repurchases."
+    "K8166": "Indicator equal to one if the firm decreases repurchases.",
+    "A8167": "WERKYTKC",
+    "B8167": "h7",
+    "C8167": "hy1",
+    "K8167": "CAR [-1,+1] around dividend increase; caption says excess of size/book-to-market/momentum matched benchmark portfolios; prose specifies Carhart four-factor model. Preserve construction discrepancy; not outcome-SD units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
