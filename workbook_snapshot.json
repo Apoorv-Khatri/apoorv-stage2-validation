@@ -34103,7 +34103,16 @@
     "L3428": "1",
     "M3428": "n/a",
     "N3428": "Historical squared-market coefficient conditional on market return, estimated using prior 60 monthly returns: bottom-30% minus top-30% value-weighted stock-return contrast, Table1 Monthly beta_M2 row p.404, economic interpretation pp.403–406. Raw mean and CAPM/four-/five-factor adjusted mean contrasts grouped as routine factor controls at this result location; annualized mean 1.80%, alphas 1.51, 0.76, 1.22% respectively.",
-    "O3428": "Author-intention gate: p.403 Eq.1 implies positive average long-short return as compensation for systematic skewness; retain nulls equally. OLS mean/intercept contrasts conditional on lagged sorting weights and observed factor paths; no identifying FE or IV. Binary refers to implemented low-versus-high group contrast, not continuous coskewness. Not a causal effect of forecasting predictors or a portfolio-rule intervention. Main: introduction p.400 jointly motivates failure of historical measures and economically positive PSS premium; main status is not selected by significance."
+    "O3428": "Author-intention gate: p.403 Eq.1 implies positive average long-short return as compensation for systematic skewness; retain nulls equally. OLS mean/intercept contrasts conditional on lagged sorting weights and observed factor paths; no identifying FE or IV. Binary refers to implemented low-versus-high group contrast, not continuous coskewness. Not a causal effect of forecasting predictors or a portfolio-rule intervention. Main: introduction p.400 jointly motivates failure of historical measures and economically positive PSS premium; main status is not selected by significance.",
+    "A3429": "TS6H62KJ",
+    "B3429": "h23",
+    "I3429": "1",
+    "J3429": "OLS",
+    "K3429": "1",
+    "L3429": "1",
+    "M3429": "n/a",
+    "N3429": "Historical standardized Harvey-Siddique coskewness, estimated using prior 60 monthly returns: bottom-30% minus top-30% value-weighted stock-return contrast, Table1 Monthly beta_HS row p.404, economic interpretation pp.403–406. Raw mean and CAPM/four-/five-factor adjusted mean contrasts grouped as routine factor controls at this result location; annualized mean 1.89%, alphas 1.86, 0.61, 0.52% respectively.",
+    "O3429": "Author-intention gate: p.403 Eq.1 implies positive average long-short return as compensation for systematic skewness; retain nulls equally. OLS mean/intercept contrasts conditional on lagged sorting weights and observed factor paths; no identifying FE or IV. Binary refers to implemented low-versus-high group contrast, not continuous coskewness. Not a causal effect of forecasting predictors or a portfolio-rule intervention. Main: introduction p.400 jointly motivates failure of historical measures and economically positive PSS premium; main status is not selected by significance."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87531,7 +87540,14 @@
     "H7892": "0",
     "I7892": "unknown",
     "J7892": "none",
-    "K7892": "Monthly long-minus-short portfolio excess return for Monthly beta_M2, July1963–December2017; monthly returns, with mean and regression alpha displayed annualized in percent in Table1 p.404. Return spread is not a log return or a daily outcome; daily/monthly in historical row names denotes estimation inputs. Continuous return; zero mass not established. Alpha is the factor-adjusted contrast, not a separate measured dependent outcome. Annualization is a scalar reporting conversion, not a cumulative annual realization."
+    "K7892": "Monthly long-minus-short portfolio excess return for Monthly beta_M2, July1963–December2017; monthly returns, with mean and regression alpha displayed annualized in percent in Table1 p.404. Return spread is not a log return or a daily outcome; daily/monthly in historical row names denotes estimation inputs. Continuous return; zero mass not established. Alpha is the factor-adjusted contrast, not a separate measured dependent outcome. Annualization is a scalar reporting conversion, not a cumulative annual realization.",
+    "A7893": "TS6H62KJ",
+    "B7893": "h23",
+    "C7893": "hy1",
+    "H7893": "0",
+    "I7893": "unknown",
+    "J7893": "none",
+    "K7893": "Monthly long-minus-short portfolio excess return for Monthly beta_HS, July1963–December2017; monthly returns, with mean and regression alpha displayed annualized in percent in Table1 p.404. Return spread is not a log return or a daily outcome; daily/monthly in historical row names denotes estimation inputs. Continuous return; zero mass not established. Alpha is the factor-adjusted contrast, not a separate measured dependent outcome. Annualization is a scalar reporting conversion, not a cumulative annual realization."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -145840,7 +145856,18 @@
     "O5235": "1",
     "P5235": "1",
     "Q5235": "Table1 p.404 Monthly beta_M2: annualized mean excess return 1.80%, own annualized volatility 9.45%, reported Sharpe 0.19. Monthly return series July1963–December2017, same long bottom30%/short top30% value-weighted portfolio and dates. Sharpe expressly normalizes the raw mean by own return volatility; not a normalization of alpha.",
-    "R5235": "Eligibility follows accepted economic long-short mean estimand; table explicitly supplies Sharpe, not an analyst-created division. Alignment=1 for the specified portfolio-spread return outcome and own series with matching stated annualized convention; not a stock-level outcome SD or untreated mean. This is annualized mean/volatility, not empirical SD of compounded annual returns. If target is instead underlying individual-stock potential returns, alignment would be unknown; that is not the coded outcome."
+    "R5235": "Eligibility follows accepted economic long-short mean estimand; table explicitly supplies Sharpe, not an analyst-created division. Alignment=1 for the specified portfolio-spread return outcome and own series with matching stated annualized convention; not a stock-level outcome SD or untreated mean. This is annualized mean/volatility, not empirical SD of compounded annual returns. If target is instead underlying individual-stock potential returns, alignment would be unknown; that is not the coded outcome.",
+    "A5236": "TS6H62KJ",
+    "B5236": "h23",
+    "C5236": "hc1",
+    "K5236": "1",
+    "L5236": "hy1",
+    "M5236": "outcome_sd",
+    "N5236": "0",
+    "O5236": "1",
+    "P5236": "1",
+    "Q5236": "Table1 p.404 Monthly beta_HS: annualized mean excess return 1.89%, own annualized volatility 8.55%, reported Sharpe 0.22. Monthly return series July1963–December2017, same long bottom30%/short top30% value-weighted portfolio and dates. Sharpe expressly normalizes the raw mean by own return volatility; not a normalization of alpha.",
+    "R5236": "Eligibility follows accepted economic long-short mean estimand; table explicitly supplies Sharpe, not an analyst-created division. Alignment=1 for the specified portfolio-spread return outcome and own series with matching stated annualized convention; not a stock-level outcome SD or untreated mean. This is annualized mean/volatility, not empirical SD of compounded annual returns. If target is instead underlying individual-stock potential returns, alignment would be unknown; that is not the coded outcome."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
