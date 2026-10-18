@@ -32340,7 +32340,16 @@
     "L3279": "1",
     "M3279": "n/a",
     "N3279": "Pilot-fishing meeting participation versus no pilot-fishing meeting: effect on normalized rationing; Table IX cols1–2 hot/cold subsamples, pp2333–2335. ",
-    "O3279": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Hotness is a subgroup, not the treatment; hot/cold revenue effects are not a DiD. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table IX cols1–2 hot/cold subsamples, pp2333–2335; article_layout.txt L1482–1578."
+    "O3279": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Hotness is a subgroup, not the treatment; hot/cold revenue effects are not a DiD. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table IX cols1–2 hot/cold subsamples, pp2333–2335; article_layout.txt L1482–1578.",
+    "A3280": "RQV5GQTL",
+    "B3280": "h56",
+    "I3280": "1",
+    "J3280": "FE",
+    "K3280": "1",
+    "L3280": "1",
+    "M3280": "n/a",
+    "N3280": "Frequent bidder versus middle-activity omitted category (one-time separately controlled): effect on normalized rationing; Table IX cols1–2 hot/cold subsamples, pp2333–2335. ",
+    "O3280": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Hotness is a subgroup, not the treatment; hot/cold revenue effects are not a DiD. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Construction discrepancy: p2322 says most active quartile; TableVI says at least 50 IPOs. Preserve both; exact threshold mapping unresolved. Source: Table IX cols1–2 hot/cold subsamples, pp2333–2335; article_layout.txt L1482–1578."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -84458,7 +84467,14 @@
     "H7682": "0",
     "I7682": "unknown",
     "J7682": "none",
-    "K7682": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
+    "K7682": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated.",
+    "A7683": "RQV5GQTL",
+    "B7683": "h56",
+    "C7683": "hy1",
+    "H7683": "0",
+    "I7683": "unknown",
+    "J7683": "none",
+    "K7683": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
