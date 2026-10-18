@@ -34483,7 +34483,16 @@
     "L3466": "0",
     "M3466": "n/a",
     "N3466": "Predicted 24-month excess bond returns affecting aggregate financing flows: implemented horizon robustness in Internet Appendix III.A, established final pp.3061/3075. Net equity repurchases and net debt issuance; numerical coefficients and final appendix column labels unavailable.",
-    "O3466": "Minimum horizon-specific predictor scope from explicit implemented similar-results statement. Base regressions retained; no unseen settings census claimed. Additional logit/horizon combinations are not individually established by the brief blanket all empirical tests sentence; pending final appendix. No numerical comparison inferred."
+    "O3466": "Minimum horizon-specific predictor scope from explicit implemented similar-results statement. Base regressions retained; no unseen settings census claimed. Additional logit/horizon combinations are not individually established by the brief blanket all empirical tests sentence; pending final appendix. No numerical comparison inferred.",
+    "A3467": "UK6BI2QX",
+    "B3467": "h32",
+    "I3467": "1",
+    "J3467": "OLS",
+    "K3467": "0",
+    "L3467": "0",
+    "M3467": "n/a",
+    "N3467": "Predicted 24-month excess stock returns affecting aggregate financing flows: implemented horizon robustness in Internet Appendix III.A, established final pp.3061/3075. Net equity repurchases and net debt issuance; numerical coefficients and final appendix column labels unavailable.",
+    "O3467": "Minimum horizon-specific predictor scope from explicit implemented similar-results statement. Base regressions retained; no unseen settings census claimed. Additional logit/horizon combinations are not individually established by the brief blanket all empirical tests sentence; pending final appendix. No numerical comparison inferred."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88256,7 +88265,15 @@
     "A7969": "UK6BI2QX",
     "B7969": "h31",
     "C7969": "hy2",
-    "K7969": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
+    "K7969": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets.",
+    "A7970": "UK6BI2QX",
+    "B7970": "h32",
+    "C7970": "hy1",
+    "K7970": "Aggregate quarterly net equity repurchases of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets.",
+    "A7971": "UK6BI2QX",
+    "B7971": "h32",
+    "C7971": "hy2",
+    "K7971": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
