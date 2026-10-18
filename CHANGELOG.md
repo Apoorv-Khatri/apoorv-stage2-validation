@@ -532767,3 +532767,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:04:57.953007+00:00 — Review RQ77EIC2 s5: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K382",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K383",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R382",
+    "before": null,
+    "after": "No qualifying effect×same-outcome benchmark. 45.4 percentage-point effect is not compared with 1.48% here; that mean belongs to Table9 discussion. 97% describes composition of joint dissents, a different outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R383",
+    "before": null,
+    "after": "No qualifying effect×same-outcome benchmark. 97% is a descriptive fraction of same-party pairs among two-dissent decisions, not an effect normalized by its outcome baseline; not a regression comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1693",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1693",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1693",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1693",
+    "before": null,
+    "after": "spurious under preferred parameter-specific descriptive co-voting gate; parent rejected. If restored, individual dissent is binary, observed zero mass, untransformed (Table8 pp4407–4408)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I673",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N673",
+    "before": null,
+    "after": "Other same-party regulator dissents (binary) and own dissent indicator, Table8 cols1–4; opposing-party exposure separately h3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O673",
+    "before": null,
+    "after": "Independent preferred rejection (contested): pp4407–4409 formulate a test of whether votes cluster along party lines, not an effect of changing another voter's dissent. The Fed interpretation explicitly attributes joint dissents to controversial decisions (p4409). Conditional higher/lower probabilities are compatible with descriptive co-voting; substantive importance does not turn the focal peer-dissent coefficient causal. Not rejected for simultaneity, weak identification, or nulls. If parent adopts broader response reading, restore OLS/binary1/main1; year controls do not alone establish identifying FE. Source: Table8 pp4407–4409; L2077–2175,2254–2264."
+  }
+]
+```
