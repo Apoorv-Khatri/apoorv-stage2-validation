@@ -560790,3 +560790,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:55:52.165569+00:00 — Review TS6H62KJ s20: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1807",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1808",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1807",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1808",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1807",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1808",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1807",
+    "before": null,
+    "after": "Monthly portfolio excess return (% per month); focal estimate is the stated raw or factor-adjusted high-low/low-high contrast, not an alpha-valued dependent variable. No evidence establishing an atom at zero. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1808",
+    "before": null,
+    "after": "duplicate of y1 as a dependent outcome: factor loading(s) are regression parameters of the return outcome, not additional dependent outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J748",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L748",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M748",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N748",
+    "before": null,
+    "after": "Low versus high predicted quantile-based IDIOSYNCRATIC skewness: OLS factor-adjusted return contrasts, Section4.3.2 p.419, Online Appendix Tables4–5 (EW/VW inferred from sequential description and explicit VW Table5 reference). Minimum implemented scope; exact table grids unavailable. Total QSK separately added."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O748",
+    "before": null,
+    "after": "Supporting; implemented regressions and results explicitly stated in final article. Binary low-high contrast, not binary QSK score. Do not assign pooled 0.37–0.58 alpha range to a particular missing cell. Three factor models known from narrative; no numerical unseen-grid reconstruction. Appendix unavailable."
+  }
+]
+```
