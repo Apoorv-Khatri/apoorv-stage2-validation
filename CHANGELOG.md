@@ -603771,3 +603771,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:50:43.539072+00:00 — Review WZZQX3TX h25: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8247",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8247",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8247",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8247",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8247",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8247",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8247",
+    "before": null,
+    "after": "Board independence/director-count outcome of named robustness; exact final scale and outcome set unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3640",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3640",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3640",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3640",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3640",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3640",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3640",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3640",
+    "before": null,
+    "after": "Implied covenant violation on board independence: exclude debt-to-EBITDA covenant; IA.XII p.2413."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3640",
+    "before": null,
+    "after": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Implemented robustness named; exact estimator not restated. Treatment remains two-valued violation indicator, modified exposure definition where covenant set changes."
+  }
+]
+```

@@ -36374,7 +36374,16 @@
     "L3639": "1",
     "M3639": "unknown",
     "N3639": "Implied covenant violation on board independence; IA.XII sample-robustness family: exclude CEO-turnover events, split before/after SOX, extend through2014 (p.2413). Routine sample variants grouped; exact estimator/outcome scale unknown.",
-    "O3639": "Minimum supported scope, not a fabricated table grid. Introduction p.2386 emphasizes stronger effects without CEO replacement, hence main=1 for this grouped family; SOX and extended-period variants alone are supporting. Final supplement unavailable; do not infer hidden coefficients or methods."
+    "O3639": "Minimum supported scope, not a fabricated table grid. Introduction p.2386 emphasizes stronger effects without CEO replacement, hence main=1 for this grouped family; SOX and extended-period variants alone are supporting. Final supplement unavailable; do not infer hidden coefficients or methods.",
+    "A3640": "WZZQX3TX",
+    "B3640": "h25",
+    "I3640": "1",
+    "J3640": "unknown",
+    "K3640": "1",
+    "L3640": "0",
+    "M3640": "unknown",
+    "N3640": "Implied covenant violation on board independence: exclude debt-to-EBITDA covenant; IA.XII p.2413.",
+    "O3640": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Implemented robustness named; exact estimator not restated. Treatment remains two-valued violation indicator, modified exposure definition where covenant set changes."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92097,7 +92106,14 @@
     "H8246": "0",
     "I8246": "unknown",
     "J8246": "unknown",
-    "K8246": "Board independence/director-count outcome of named robustness; exact final scale and outcome set unverified."
+    "K8246": "Board independence/director-count outcome of named robustness; exact final scale and outcome set unverified.",
+    "A8247": "WZZQX3TX",
+    "B8247": "h25",
+    "C8247": "hy1",
+    "H8247": "0",
+    "I8247": "unknown",
+    "J8247": "unknown",
+    "K8247": "Board independence/director-count outcome of named robustness; exact final scale and outcome set unverified."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
