@@ -550827,3 +550827,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:56:58.727748+00:00 — Review S9LRTRJP h8: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7797",
+    "before": null,
+    "after": "S9LRTRJP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7798",
+    "before": null,
+    "after": "S9LRTRJP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7797",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7798",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7797",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7798",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7797",
+    "before": null,
+    "after": "Log(1+total past-due dollars) in buyer–supplier-month; full-amount outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7798",
+    "before": null,
+    "after": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3358",
+    "before": null,
+    "after": "S9LRTRJP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3358",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3358",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3358",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3358",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3358",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3358",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3358",
+    "before": null,
+    "after": "Restricted dual-supplier sample: Minority × After × BiasPCA, TableA1 cols2,4, effects 0.099 and 0.044."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3358",
+    "before": null,
+    "after": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Separate reported restricted-sample robustness location from Table5A. Source: Supplement pp2,15 TableA1; layout L486–508."
+  }
+]
+```

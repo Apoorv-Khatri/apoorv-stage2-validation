@@ -33138,7 +33138,16 @@
     "L3357": "0",
     "M3357": "n/a",
     "N3357": "Restricted customers with both minority and non-minority suppliers each month: Minority × After in TableA1 cols1,3, effects 0.212 and 0.085.",
-    "O3357": "Conventional post-COVID differential change; method precedence overrides FE and OLS implementation. October 2019–May 2020; March onset in text versus caption saying after March is a source timing ambiguity, not silently repaired. Parallel counterfactual trends and no remaining differential shocks are maintained, not established by coding. Printed seller×month FE would absorb After×Minority; a visually verified internal source conflict. Intended design is conventional DiD, but Human_method=unknown because the literal reported estimator cannot identify this coefficient. Do not infer which FE row is erroneous or certify an implemented design without code/correction. Non-IV intent is clear; IV type remains n/a. Source: Supplement pp2,15 TableA1; layout L19–41,486–508."
+    "O3357": "Conventional post-COVID differential change; method precedence overrides FE and OLS implementation. October 2019–May 2020; March onset in text versus caption saying after March is a source timing ambiguity, not silently repaired. Parallel counterfactual trends and no remaining differential shocks are maintained, not established by coding. Printed seller×month FE would absorb After×Minority; a visually verified internal source conflict. Intended design is conventional DiD, but Human_method=unknown because the literal reported estimator cannot identify this coefficient. Do not infer which FE row is erroneous or certify an implemented design without code/correction. Non-IV intent is clear; IV type remains n/a. Source: Supplement pp2,15 TableA1; layout L19–41,486–508.",
+    "A3358": "S9LRTRJP",
+    "B3358": "h8",
+    "I3358": "1",
+    "J3358": "DiD_conventional",
+    "K3358": "0",
+    "L3358": "0",
+    "M3358": "n/a",
+    "N3358": "Restricted dual-supplier sample: Minority × After × BiasPCA, TableA1 cols2,4, effects 0.099 and 0.044.",
+    "O3358": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Separate reported restricted-sample robustness location from Table5A. Source: Supplement pp2,15 TableA1; layout L486–508."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85945,7 +85954,15 @@
     "H7796": "0",
     "I7796": "unknown",
     "J7796": "none",
-    "K7796": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
+    "K7796": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator.",
+    "A7797": "S9LRTRJP",
+    "B7797": "h8",
+    "C7797": "hy1",
+    "K7797": "Log(1+total past-due dollars) in buyer–supplier-month; full-amount outcome.",
+    "A7798": "S9LRTRJP",
+    "B7798": "h8",
+    "C7798": "hy2",
+    "K7798": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
