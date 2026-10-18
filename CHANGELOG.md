@@ -596322,3 +596322,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:14:10.466792+00:00 — Review WM5RSIHQ h19: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8214",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8214",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8214",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8214",
+    "before": null,
+    "after": "Forced CEO turnover; exact estimator and reported outcome scale unknown in final aggregate statement, pp.2180–2181. Not a new aggregate outcome."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E86",
+    "before": null,
+    "after": "DONE — Full available-final-source review of 29 article pages with independent audit. Retain 25 minimum setting scopes, 27 outcomes and 14 comparisons; two original Cox comparison links rejected and correct logit links preserved. Cox hazards/event times distinguished from logit event probabilities; nonlinear models Other, not FE. Table IV supplies twelve 2.86% base pairings plus two distinct endpoint-doubling comparisons; actual-exposure base alignment unknown, same-target modeled endpoint alignment1. Table VIII main role corrected. h19 preserves an established idiosyncratic-performance-by-power family, not an estimated aggregate index or verified four-proxy grid; allocation remains unresolved. Final supplement unavailable; 20-page2014/DOI-TBD author appendix read for provenance only, not substituted. Held source limitations and original fields, IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3622",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3622",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3622",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3622",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3622",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3622",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3622",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3622",
+    "before": null,
+    "after": "Idiosyncratic performance effect on CEO turnover varying with CEO power: minimum family scope explicitly established in final Section IV.D pp.2180–2181; proxy-specific allocation unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3622",
+    "before": null,
+    "after": "Final sentence says power affects the peer and idiosyncratic performance–turnover relations similarly. This establishes a residual-performance family, not a separately estimated aggregate-power index or regression. Retain one minimum scope; do not infer four proxy-specific copies, final coefficients, thresholds or method from the 2014 appendix. Method and final allocation remain unknown."
+  }
+]
+```

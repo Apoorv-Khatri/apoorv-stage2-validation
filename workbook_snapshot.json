@@ -407,6 +407,7 @@
     "B86": "CEO Turnover and Relative Performance Evaluation",
     "C86": "fin",
     "D86": 6,
+    "E86": "DONE — Full available-final-source review of 29 article pages with independent audit. Retain 25 minimum setting scopes, 27 outcomes and 14 comparisons; two original Cox comparison links rejected and correct logit links preserved. Cox hazards/event times distinguished from logit event probabilities; nonlinear models Other, not FE. Table IV supplies twelve 2.86% base pairings plus two distinct endpoint-doubling comparisons; actual-exposure base alignment unknown, same-target modeled endpoint alignment1. Table VIII main role corrected. h19 preserves an established idiosyncratic-performance-by-power family, not an estimated aggregate index or verified four-proxy grid; allocation remains unresolved. Final supplement unavailable; 20-page2014/DOI-TBD author appendix read for provenance only, not substituted. Held source limitations and original fields, IDs and hyperlinks preserved.",
     "A87": "WZZQX3TX",
     "B87": "Creditor Control Rights and Board Independence",
     "C87": "fin",
@@ -36153,7 +36154,16 @@
     "L3621": "0",
     "M3621": "unknown",
     "N3621": "Stock-price reactions to CEO turnover announcements compared between recessions and booms; final introduction footnote 3 p.2158.",
-    "O3621": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. The authors interpret announcement reactions as news about turnover quality. Method, announcement window, industry-state coding and whether focal contrast is binary are not established in final article. Non-IV not assumed."
+    "O3621": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. The authors interpret announcement reactions as news about turnover quality. Method, announcement window, industry-state coding and whether focal contrast is binary are not established in final article. Non-IV not assumed.",
+    "A3622": "WM5RSIHQ",
+    "B3622": "h19",
+    "I3622": "1",
+    "J3622": "unknown",
+    "K3622": "0",
+    "L3622": "1",
+    "M3622": "unknown",
+    "N3622": "Idiosyncratic performance effect on CEO turnover varying with CEO power: minimum family scope explicitly established in final Section IV.D pp.2180–2181; proxy-specific allocation unresolved.",
+    "O3622": "Final sentence says power affects the peer and idiosyncratic performance–turnover relations similarly. This establishes a residual-performance family, not a separately estimated aggregate-power index or regression. Retain one minimum scope; do not infer four proxy-specific copies, final coefficients, thresholds or method from the 2014 appendix. Method and final allocation remain unknown."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91572,7 +91582,11 @@
     "A8213": "WM5RSIHQ",
     "B8213": "h18",
     "C8213": "hy1",
-    "K8213": "Stock-price reaction to CEO turnover announcement; final window, market adjustment and scale unknown."
+    "K8213": "Stock-price reaction to CEO turnover announcement; final window, market adjustment and scale unknown.",
+    "A8214": "WM5RSIHQ",
+    "B8214": "h19",
+    "C8214": "hy1",
+    "K8214": "Forced CEO turnover; exact estimator and reported outcome scale unknown in final aggregate statement, pp.2180–2181. Not a new aggregate outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
