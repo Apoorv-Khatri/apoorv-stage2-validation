@@ -33557,7 +33557,16 @@
     "L3390": "0",
     "M3390": "n/a",
     "N3390": "Low-information peer participation and absence-of-high-type interaction after dropping locations with few measured high types; reported appendix robustness.",
-    "O3390": "PROVISIONAL SOURCE-SCOPE, not a verified exact appendix setting census. One minimum provisional scope: article reports general improved magnitude consistency, but not exact proxy-by-cutoff grid. No three-proxy grid inferred. Two baseline identifying FE; treatment peer-set definition remains unresolved. Source: p162."
+    "O3390": "PROVISIONAL SOURCE-SCOPE, not a verified exact appendix setting census. One minimum provisional scope: article reports general improved magnitude consistency, but not exact proxy-by-cutoff grid. No three-proxy grid inferred. Two baseline identifying FE; treatment peer-set definition remains unresolved. Source: p162.",
+    "A3391": "TE3D5NF5",
+    "B3391": "h1",
+    "I3391": "1",
+    "J3391": "Other",
+    "K3391": "1",
+    "L3391": "0",
+    "M3391": "n/a",
+    "N3391": "Probit robustness for effect of higher-inflation expectations on durable-spending readiness; p.1611 footnote 9: results are similar to multinomial logit.",
+    "O3391": "Actual probit explicitly implemented. Outcome threshold, exact columns, marginal effects and sample not reported. Minimal source-scope record, not a reconstructed unseen grid; main discussion only supports spending, not saving robustness."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86663,7 +86672,14 @@
     "A7846": "SFCSD6BA",
     "B7846": "h21",
     "C7846": "hy1",
-    "K7846": "Indicator of ESPP participation among low-information employees."
+    "K7846": "Indicator of ESPP participation among low-information employees.",
+    "A7847": "TE3D5NF5",
+    "B7847": "h1",
+    "C7847": "hy1",
+    "H7847": "1",
+    "I7847": "unknown",
+    "J7847": "none",
+    "K7847": "Probit dependent durable-spending readiness indicator; p.1611 fn.9 establishes binary-response probit but threshold/category and actual zero frequency not supplied."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

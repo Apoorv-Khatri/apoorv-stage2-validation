@@ -555687,3 +555687,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:52:41.766298+00:00 — Review TE3D5NF5 h1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7847",
+    "before": null,
+    "after": "TE3D5NF5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7847",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7847",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7847",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7847",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7847",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7847",
+    "before": null,
+    "after": "Probit dependent durable-spending readiness indicator; p.1611 fn.9 establishes binary-response probit but threshold/category and actual zero frequency not supplied."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3391",
+    "before": null,
+    "after": "TE3D5NF5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3391",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3391",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3391",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3391",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3391",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3391",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3391",
+    "before": null,
+    "after": "Probit robustness for effect of higher-inflation expectations on durable-spending readiness; p.1611 footnote 9: results are similar to multinomial logit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3391",
+    "before": null,
+    "after": "Actual probit explicitly implemented. Outcome threshold, exact columns, marginal effects and sample not reported. Minimal source-scope record, not a reconstructed unseen grid; main discussion only supports spending, not saving robustness."
+  }
+]
+```
