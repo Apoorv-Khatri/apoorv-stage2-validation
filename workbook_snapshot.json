@@ -35452,7 +35452,16 @@
     "L3555": "1",
     "M3555": "n/a",
     "N3555": "Low return stock bid over three years prior to t, Table 1 Panel B column 5: effect on activist targeting in t.",
-    "O3555": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses."
+    "O3555": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses.",
+    "A3556": "VPZERBIY",
+    "B3556": "h9",
+    "I3556": "1",
+    "J3556": "OLS",
+    "K3556": "1",
+    "L3556": "1",
+    "M3556": "n/a",
+    "N3556": "Low return cash bid over three years prior to t, Table 1 Panel B column 5: effect on activist targeting in t.",
+    "O3556": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -90072,7 +90081,14 @@
     "H8083": "1",
     "I8083": "1",
     "J8083": "none",
-    "K8083": "Activist target indicator in year t (Table 1 Panel B)."
+    "K8083": "Activist target indicator in year t (Table 1 Panel B).",
+    "A8084": "VPZERBIY",
+    "B8084": "h9",
+    "C8084": "hy1",
+    "H8084": "1",
+    "I8084": "1",
+    "J8084": "none",
+    "K8084": "Activist target indicator in year t (Table 1 Panel B)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -148822,7 +148838,18 @@
     "O5254": "1",
     "P5254": "unknown",
     "Q5254": "Introduction p.527: low-return stock acquisition over past three years makes firms twice as likely to become activist targets. Table1B col5 estimate 0.0539. Targeting-probability mean benchmark; exact baseline/weights not reported.",
-    "R5254": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment."
+    "R5254": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment.",
+    "A5255": "VPZERBIY",
+    "B5255": "h9",
+    "C5255": "hc1",
+    "K5255": "1",
+    "L5255": "hy1",
+    "M5255": "outcome_mean",
+    "N5255": "1",
+    "O5255": "1",
+    "P5255": "unknown",
+    "Q5255": "Introduction p.527: low-return cash acquisition over past three years makes firms one-half more likely to become activist targets. Table1B col5 estimate 0.0265. Targeting-probability mean benchmark; exact baseline/weights not reported.",
+    "R5255": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
