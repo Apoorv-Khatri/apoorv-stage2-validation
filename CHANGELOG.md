@@ -532671,3 +532671,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:04:18.325279+00:00 — Review RQ77EIC2 s3: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I671",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J671",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K671",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L671",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M671",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O671",
+    "before": null,
+    "after": "Retain causal interpretation from explicit question whether partisanship affects text (p4401) and estimated speech-to-rule spillovers (p4404), despite contemporaneous/lag association and unresolved common shocks. No FE or IV. SEC/Fed and lag controls are routine sample/specification variants. 10.54–20.02% is the coefficient interpreted as spillover from speech, not scaling by the same outcome mean; no comparison. Final p4402 fn28 also establishes phrase-frequency threshold 30 instead of 100 robustness; routine measurement/control variant within this section, not a new estimator or separate result location. Source: Table6 pp4401–4404; L1758–1949."
+  }
+]
+```
