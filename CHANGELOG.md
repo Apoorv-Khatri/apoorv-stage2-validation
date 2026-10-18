@@ -567927,3 +567927,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:39:29.329928+00:00 — Review UK6BI2QX h22: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7952",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7953",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7952",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7953",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7952",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7953",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7952",
+    "before": null,
+    "after": "Aggregate quarterly net equity repurchases of U.S. nonfinancial corporations, normalized by lagged assets; percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7953",
+    "before": null,
+    "after": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged assets; percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3457",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3457",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3457",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3457",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3457",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3457",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3457",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3457",
+    "before": null,
+    "after": "Blue Chip term-spread forecast error effect on aggregate net equity repurchases and net debt issuance, Table VIII.A columns 2/4; continuous dose, OLS with baseline controls. Printed coefficients 0.0004/0.0002."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3457",
+    "before": null,
+    "after": "Section V/intro p.3044 explicitly frames sentiment and supply as drivers of financing. No IV. For Treasury supply: change in outstanding notes/bonds excluding monetary authorities and foreigners /quarterly GDP (p.3083). Table VIII caption incorrectly calls C columns 5/6; actual headings 7/8. Main=0: additional mechanism, not main valuation/heterogeneity claim."
+  }
+]
+```
