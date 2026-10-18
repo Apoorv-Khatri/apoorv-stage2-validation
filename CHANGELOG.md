@@ -576018,3 +576018,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:44:57.066254+00:00 — Review UUTLYHI2 h26: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8045",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8045",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8045",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8045",
+    "before": null,
+    "after": "Loan price (average bid-ask midpoint); Table11 outcome is average2008 minus average2007, Figures4/5 display daily price levels."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3520",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3520",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3520",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3520",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3520",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3520",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3520",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3520",
+    "before": null,
+    "after": "Syndicate-average bank wholesale funding dependence effect on2007–2008 loan price change, Table11 bank-control coefficients discussed footnote51,p.2225."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3520",
+    "before": null,
+    "after": "Parameter-specific positive C&I and negative wholesale funding effects explicitly interpreted; numerical values not printed in main table and not imported from separately estimated Appendix IA.XX. Supporting banking mechanism."
+  }
+]
+```

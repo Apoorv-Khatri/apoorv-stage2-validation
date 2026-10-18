@@ -35059,7 +35059,16 @@
     "L3519": "0",
     "M3519": "n/a",
     "N3519": "Syndicate-average bank C&I loan share effect on2007–2008 loan price change, Table11 bank-control coefficients discussed footnote51,p.2225.",
-    "O3519": "Parameter-specific positive C&I and negative wholesale funding effects explicitly interpreted; numerical values not printed in main table and not imported from separately estimated Appendix IA.XX. Supporting banking mechanism."
+    "O3519": "Parameter-specific positive C&I and negative wholesale funding effects explicitly interpreted; numerical values not printed in main table and not imported from separately estimated Appendix IA.XX. Supporting banking mechanism.",
+    "A3520": "UUTLYHI2",
+    "B3520": "h26",
+    "I3520": "1",
+    "J3520": "OLS",
+    "K3520": "0",
+    "L3520": "0",
+    "M3520": "n/a",
+    "N3520": "Syndicate-average bank wholesale funding dependence effect on2007–2008 loan price change, Table11 bank-control coefficients discussed footnote51,p.2225.",
+    "O3520": "Parameter-specific positive C&I and negative wholesale funding effects explicitly interpreted; numerical values not printed in main table and not imported from separately estimated Appendix IA.XX. Supporting banking mechanism."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89286,7 +89295,11 @@
     "A8044": "UUTLYHI2",
     "B8044": "h25",
     "C8044": "hy1",
-    "K8044": "Loan price (average bid-ask midpoint); Table11 outcome is average2008 minus average2007, Figures4/5 display daily price levels."
+    "K8044": "Loan price (average bid-ask midpoint); Table11 outcome is average2008 minus average2007, Figures4/5 display daily price levels.",
+    "A8045": "UUTLYHI2",
+    "B8045": "h26",
+    "C8045": "hy1",
+    "K8045": "Loan price (average bid-ask midpoint); Table11 outcome is average2008 minus average2007, Figures4/5 display daily price levels."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
