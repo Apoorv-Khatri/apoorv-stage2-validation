@@ -548550,3 +548550,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:34:35.473089+00:00 — Review S3X8G9NP h10: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7766",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7767",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7768",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7769",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7766",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7767",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7768",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7769",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7766",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7767",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7768",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7769",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7766",
+    "before": null,
+    "after": "Log total commercial-bank assets (dollars); counties without commercial banks omitted (p201 fn2). Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7767",
+    "before": null,
+    "after": "Log total commercial-bank deposits (dollars). Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7768",
+    "before": null,
+    "after": "Reported log number of investment banks; source does not specify zero-count handling. Do not infer log1p despite inclusion of counties without investment banks. Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7769",
+    "before": null,
+    "after": "Indicator for at least one investment bank in county-year (0/1). Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3347",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3347",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3347",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3347",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3347",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3347",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3347",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3347",
+    "before": null,
+    "after": "Third county subscription rate × post-1918 conditional on increment, Idaho and neighbors; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3347",
+    "before": null,
+    "after": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. OLS-labelled conventional intensity DiD with county/year FE. Repeated all-state col1 maps to h2, not another setting. Separate regional robustness location. Includes null investment-bank responses. Source: Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193."
+  }
+]
+```

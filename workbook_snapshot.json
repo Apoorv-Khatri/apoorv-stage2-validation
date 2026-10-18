@@ -32996,7 +32996,16 @@
     "L3346": "0",
     "M3346": "single binary",
     "N3346": "Fourth county subscription rate × post-1918, dropping purely rural counties; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108.",
-    "O3346": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Distinct reported robustness location, not a second record for repeated full-sample odd columns (s5). Notes and title say drop counties without urban center >=2500; column headings instead say IV-Drop Urban. Scope uses explicit notes, with conflict retained. Excluded instrument allotment × post-1918. Source: Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108."
+    "O3346": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Distinct reported robustness location, not a second record for repeated full-sample odd columns (s5). Notes and title say drop counties without urban center >=2500; column headings instead say IV-Drop Urban. Scope uses explicit notes, with conflict retained. Excluded instrument allotment × post-1918. Source: Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108.",
+    "A3347": "S3X8G9NP",
+    "B3347": "h10",
+    "I3347": "1",
+    "J3347": "DiD_conventional",
+    "K3347": "0",
+    "L3347": "0",
+    "M3347": "n/a",
+    "N3347": "Third county subscription rate × post-1918 conditional on increment, Idaho and neighbors; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193.",
+    "O3347": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. OLS-labelled conventional intensity DiD with county/year FE. Repeated all-state col1 maps to h2, not another setting. Separate regional robustness location. Includes null investment-bank responses. Source: Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85627,7 +85636,23 @@
     "A7765": "S3X8G9NP",
     "B7765": "h9",
     "C7765": "hy4",
-    "K7765": "Indicator for at least one investment bank in county-year (0/1). Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108"
+    "K7765": "Indicator for at least one investment bank in county-year (0/1). Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108",
+    "A7766": "S3X8G9NP",
+    "B7766": "h10",
+    "C7766": "hy1",
+    "K7766": "Log total commercial-bank assets (dollars); counties without commercial banks omitted (p201 fn2). Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193",
+    "A7767": "S3X8G9NP",
+    "B7767": "h10",
+    "C7767": "hy2",
+    "K7767": "Log total commercial-bank deposits (dollars). Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193",
+    "A7768": "S3X8G9NP",
+    "B7768": "h10",
+    "C7768": "hy3",
+    "K7768": "Reported log number of investment banks; source does not specify zero-count handling. Do not infer log1p despite inclusion of counties without investment banks. Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193",
+    "A7769": "S3X8G9NP",
+    "B7769": "h10",
+    "C7769": "hy4",
+    "K7769": "Indicator for at least one investment bank in county-year (0/1). Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
