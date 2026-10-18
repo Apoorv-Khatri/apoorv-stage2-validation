@@ -36054,7 +36054,16 @@
     "L3610": "0",
     "M3610": "n/a",
     "N3610": "Industry-induced stock-return component with industry-specific first-stage performance betas on forced CEO dismissal; final Section I.B p.2162 and III.E pp.2172–2174.",
-    "O3610": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. First-stage modification of the expressly described Cox robustness family supports Other; no added identifying FE dimensions inferred from heterogeneous betas."
+    "O3610": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. First-stage modification of the expressly described Cox robustness family supports Other; no added identifying FE dimensions inferred from heterogeneous betas.",
+    "A3611": "WM5RSIHQ",
+    "B3611": "h8",
+    "I3611": "1",
+    "J3611": "Other",
+    "K3611": "0",
+    "L3611": "0",
+    "M3611": "n/a",
+    "N3611": "Industry-induced stock-return component with firm-specific first-stage performance betas on forced CEO dismissal; final Section I.B p.2162 and III.E pp.2172–2174.",
+    "O3611": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. First-stage modification of the expressly described Cox robustness family supports Other; no added identifying FE dimensions inferred from heterogeneous betas."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91429,7 +91438,11 @@
     "A8202": "WM5RSIHQ",
     "B8202": "h7",
     "C8202": "hy1",
-    "K8202": "Forced CEO dismissal event and tenure/time-to-event with voluntary departures right-censored; Cox proportional-hazard outcome. Estimated hazard intensity/slopes are not event probabilities or percentage-point probability effects. See linked setting for result location."
+    "K8202": "Forced CEO dismissal event and tenure/time-to-event with voluntary departures right-censored; Cox proportional-hazard outcome. Estimated hazard intensity/slopes are not event probabilities or percentage-point probability effects. See linked setting for result location.",
+    "A8203": "WM5RSIHQ",
+    "B8203": "h8",
+    "C8203": "hy1",
+    "K8203": "Forced CEO dismissal event and tenure/time-to-event with voluntary departures right-censored; Cox proportional-hazard outcome. Estimated hazard intensity/slopes are not event probabilities or percentage-point probability effects. See linked setting for result location."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
