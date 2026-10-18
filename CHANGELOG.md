@@ -517701,3 +517701,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:58:47.942340+00:00 — Review QY4D7PCL h1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7483",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7483",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7483",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7483",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7483",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7483",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7483",
+    "before": null,
+    "after": "Monthly excess return on long-minus-short Dur strategy, with factor-adjusted intercept annualized by 12; CAPM, FF5 and q-factor variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3141",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3141",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3141",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3141",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3141",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3141",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3141",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3141",
+    "before": null,
+    "after": "Dur extreme-decile risk-adjusted excess-return contrast: time-series factor-regression intercept for L-S spread, Table2B CAPM/FF5/q models (VW/EW)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3141",
+    "before": null,
+    "after": "Factor adjustment is OLS, not FE. Alpha is interpreted as duration premium remaining after controls. This is not an effect of including factors on returns; compare conditional duration contrasts, not raw-versus-adjusted estimates as outcome benchmarks. Author-intention gate: retain the mechanism-interpreted duration return contrast, not a claim of exogenous assignment. The introduction connects short cash-flow timing to priced reinvestment exposure (pp919–921), and Sections3.4/5 link the premia to duration rather than generic prediction. Observational allocation may proxy for fundamentals; causal scope is contested. Linear pre-outcome-weighted portfolio mean contrast is OLS, not matching; no identifying FE. Explicit extreme-decile contrast is binary, despite underlying continuous score. Source: pp927–928 Table2B; L618–688."
+  }
+]
+```

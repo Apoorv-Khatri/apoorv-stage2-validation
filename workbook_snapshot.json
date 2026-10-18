@@ -30851,7 +30851,16 @@
     "L3140": "0",
     "M3140": "n/a",
     "N3140": "Same binary exclusion/reformation rule as h1, but nonlinear Sharpe-ratio performance estimand for HML and HML_RE. Footnote16 reports Sharpe ratios decrease by 15% and 12%, respectively, relative to their versions retaining small-growth stocks.",
-    "O3140": "Nonlinear ratio of factor mean return to its return standard deviation, recomputed under each universe rule; split from linear premium outcome h1. The authors infer proportional changes from t-statistics. No optimal allocation, transaction-cost model or causal effect of accounting ratios is estimated. Historical rule recomputation on the same stock-return history. Interpret as a price-taking, gross-of-unreported-trading/shorting-costs portfolio construction effect, not an effect on firms or equilibrium prices. Exclusion changes holdings and reweights remaining stocks; the underlying stock-return path, NOT portfolio holdings, is held fixed. The authors explicitly attribute changed performance to removing the small-growth corner of the 25 Fama–French portfolios. Source: p241 footnote16, Table4 context; article.txt L814–830."
+    "O3140": "Nonlinear ratio of factor mean return to its return standard deviation, recomputed under each universe rule; split from linear premium outcome h1. The authors infer proportional changes from t-statistics. No optimal allocation, transaction-cost model or causal effect of accounting ratios is estimated. Historical rule recomputation on the same stock-return history. Interpret as a price-taking, gross-of-unreported-trading/shorting-costs portfolio construction effect, not an effect on firms or equilibrium prices. Exclusion changes holdings and reweights remaining stocks; the underlying stock-return path, NOT portfolio holdings, is held fixed. The authors explicitly attribute changed performance to removing the small-growth corner of the 25 Fama–French portfolios. Source: p241 footnote16, Table4 context; article.txt L814–830.",
+    "A3141": "QY4D7PCL",
+    "B3141": "h1",
+    "I3141": "1",
+    "J3141": "OLS",
+    "K3141": "1",
+    "L3141": "1",
+    "M3141": "n/a",
+    "N3141": "Dur extreme-decile risk-adjusted excess-return contrast: time-series factor-regression intercept for L-S spread, Table2B CAPM/FF5/q models (VW/EW).",
+    "O3141": "Factor adjustment is OLS, not FE. Alpha is interpreted as duration premium remaining after controls. This is not an effect of including factors on returns; compare conditional duration contrasts, not raw-versus-adjusted estimates as outcome benchmarks. Author-intention gate: retain the mechanism-interpreted duration return contrast, not a claim of exogenous assignment. The introduction connects short cash-flow timing to priced reinvestment exposure (pp919–921), and Sections3.4/5 link the premia to duration rather than generic prediction. Observational allocation may proxy for fundamentals; causal scope is contested. Linear pre-outcome-weighted portfolio mean contrast is OLS, not matching; no identifying FE. Explicit extreme-decile contrast is binary, despite underlying continuous score. Source: pp927–928 Table2B; L618–688."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -81357,7 +81366,14 @@
     "H7482": "0",
     "I7482": "unknown",
     "J7482": "none",
-    "K7482": "Annualized average return on the short-minus-long Dur strategy estimated within rolling 20-year windows, Fig2 and p928. Annual return units, not a cumulative 20-year return. Opposite sign convention to Table2 L-S."
+    "K7482": "Annualized average return on the short-minus-long Dur strategy estimated within rolling 20-year windows, Fig2 and p928. Annual return units, not a cumulative 20-year return. Opposite sign convention to Table2 L-S.",
+    "A7483": "QY4D7PCL",
+    "B7483": "h1",
+    "C7483": "hy1",
+    "H7483": "0",
+    "I7483": "unknown",
+    "J7483": "none",
+    "K7483": "Monthly excess return on long-minus-short Dur strategy, with factor-adjusted intercept annualized by 12; CAPM, FF5 and q-factor variants."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
