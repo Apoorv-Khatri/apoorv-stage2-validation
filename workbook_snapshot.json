@@ -35732,7 +35732,16 @@
     "L3579": "0",
     "M3579": "single continuous",
     "N3579": "90-day SIC peer dividend-increase share on time to change in quarters, Table C.4A, estimates -1.60/-1.05.",
-    "O3579": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables."
+    "O3579": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables.",
+    "A3580": "WERKYTKC",
+    "B3580": "h10",
+    "I3580": "1",
+    "J3580": "IV",
+    "K3580": "0",
+    "L3580": "0",
+    "M3580": "single continuous",
+    "N3580": "90-day SIC peer dividend-increase share on proportional RCD change, Table C.4B, estimates 20%/38%.",
+    "O3580": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -90966,7 +90975,11 @@
     "A8169": "WERKYTKC",
     "B8169": "h9",
     "C8169": "hy1",
-    "K8169": "Time to dividend change in quarters."
+    "K8169": "Time to dividend change in quarters.",
+    "A8170": "WERKYTKC",
+    "B8170": "h10",
+    "C8170": "hy1",
+    "K8170": "Dividend Payout Change = proportional RCD change (Appendix A), despite caption wording dividend yield change. Not an outcome-mean comparison."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
