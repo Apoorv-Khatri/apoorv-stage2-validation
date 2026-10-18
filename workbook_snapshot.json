@@ -36000,7 +36000,16 @@
     "L3604": "1",
     "M3604": "n/a",
     "N3604": "Idiosyncratic stock returns jointly included in the two-stage industry-based Cox model; t−1 and t−2 on forced dismissal, Table II B.",
-    "O3604": "Distinct focal treatment from peer-induced component, not a newly estimated separate regression. Author-intention gate: pp.2166 and 2172–2174 state both performance components affect dismissals; p.2162 cautions residual performance mixes CEO skill and other shocks. Broad gate permits this without claiming residual exogeneity. Nonlinear implemented Cox/logit estimator takes priority over the paper’s IV analogy and any year dummies: Other, IV type n/a. No separately implemented linear outcome model or causal first-stage OLS setting. Calendar-year dummies are one effective dimension, included to absorb time trends/economy-wide shocks; no HDFE. Returns are continuous; binary event outcome or subgroup dummies do not make the performance dose binary."
+    "O3604": "Distinct focal treatment from peer-induced component, not a newly estimated separate regression. Author-intention gate: pp.2166 and 2172–2174 state both performance components affect dismissals; p.2162 cautions residual performance mixes CEO skill and other shocks. Broad gate permits this without claiming residual exogeneity. Nonlinear implemented Cox/logit estimator takes priority over the paper’s IV analogy and any year dummies: Other, IV type n/a. No separately implemented linear outcome model or causal first-stage OLS setting. Calendar-year dummies are one effective dimension, included to absorb time trends/economy-wide shocks; no HDFE. Returns are continuous; binary event outcome or subgroup dummies do not make the performance dose binary.",
+    "A3605": "WM5RSIHQ",
+    "B3605": "h2",
+    "I3605": "1",
+    "J3605": "Other",
+    "K3605": "0",
+    "L3605": "1",
+    "M3605": "n/a",
+    "N3605": "Idiosyncratic stock returns jointly included in the two-stage industry-based logit model; t−1 and t−2 on forced dismissal, Table III.",
+    "O3605": "Distinct focal treatment from peer-induced component, not a newly estimated separate regression. Author-intention gate: pp.2166 and 2172–2174 state both performance components affect dismissals; p.2162 cautions residual performance mixes CEO skill and other shocks. Broad gate permits this without claiming residual exogeneity. Nonlinear implemented Cox/logit estimator takes priority over the paper’s IV analogy and any year dummies: Other, IV type n/a. No separately implemented linear outcome model or causal first-stage OLS setting. Calendar-year dummies are one effective dimension, included to absorb time trends/economy-wide shocks; no HDFE. Returns are continuous; binary event outcome or subgroup dummies do not make the performance dose binary."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91343,7 +91352,11 @@
     "A8194": "WM5RSIHQ",
     "B8194": "h1",
     "C8194": "hy1",
-    "K8194": "Forced CEO dismissal event and tenure/time-to-event with voluntary departures right-censored; Cox proportional-hazard outcome. Estimated hazard intensity/slopes are not event probabilities or percentage-point probability effects. Table II."
+    "K8194": "Forced CEO dismissal event and tenure/time-to-event with voluntary departures right-censored; Cox proportional-hazard outcome. Estimated hazard intensity/slopes are not event probabilities or percentage-point probability effects. Table II.",
+    "A8195": "WM5RSIHQ",
+    "B8195": "h2",
+    "C8195": "hy1",
+    "K8195": "Binary forced CEO dismissal event in the second-stage logit, Table III. Not a time-to-dismissal regression; Table IV does not vary this idiosyncratic treatment."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
