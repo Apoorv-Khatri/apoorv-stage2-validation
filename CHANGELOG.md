@@ -518763,3 +518763,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T04:04:24.151164+00:00 — Review QY4D7PCL h13: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7495",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7495",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7495",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7495",
+    "before": null,
+    "after": "Annual duration-portfolio excess return relative to shortest-duration decile; market covariance slope under CAPM restriction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3153",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3153",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3153",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3153",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3153",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3153",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3153",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3153",
+    "before": null,
+    "after": "Market covariance risk-price effect under constrained CAPM (lambda_Er=0), Table5 column1; duration-spread moments only, gamma=0."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3153",
+    "before": null,
+    "after": "Eq13 and pp935–936 interpret compensation for covariance exposure as the mechanism generating risk premia; retain the substantive priced-risk parameter, including the CAPM boundary null. Footnote30 establishes pooled returns-on-covariances least squares with equality/inequality restrictions. Other is retained for the inequality-constrained estimator, whose active constraints make its map from reported outcomes nonlinear, not merely for a structural label or generated covariance regressors. Identical fitted coefficients in ICAPM_U do not make the implemented estimators identical. No IV or identifying FE. The column4 CAPM parameter is additionally pinned by the equity-premium equality; its boundary restriction belongs to the implemented constrained fit. No separate causal settings for H, gamma as preference outcome, or pricing-error diagnostics. Source: p935 Table5 cols1/4; L1161–1187."
+  }
+]
+```
