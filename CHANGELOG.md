@@ -519198,3 +519198,348 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T04:06:41.608766+00:00 — Review QY4D7PCL h18: source-audited coding and linked comparisons
+
+56 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5191",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5192",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5193",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5191",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5192",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5193",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5191",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5192",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5193",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5191",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5192",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5193",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5191",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5192",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5193",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5191",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5192",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5193",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5191",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5192",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5193",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5191",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5192",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5193",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5191",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5192",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5193",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5191",
+    "before": null,
+    "after": "Table6 p937: market Moderate state outcome mean 8.8%, Low-state mean 5.6%; table reports t statistic for difference against low. Same annual outcome, returns follow prior-year dispersion measurement."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5192",
+    "before": null,
+    "after": "Table6 p937: VW Moderate state outcome mean -5.4%, Low-state mean -3.1%; table reports t statistic for difference against low. Same annual outcome, returns follow prior-year dispersion measurement."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5193",
+    "before": null,
+    "after": "Table6 p937: EW Moderate state outcome mean -7.4%, Low-state mean -3.6%; table reports t statistic for difference against low. Same annual outcome, returns follow prior-year dispersion measurement."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5191",
+    "before": null,
+    "after": "Contrast defined by paired reported state means; no author-reported numeric difference or division invented. Low-state counterfactual level alignment for high/moderate target not established. Aggregate market duplicated across panels is recorded once."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5192",
+    "before": null,
+    "after": "Contrast defined by paired reported state means; no author-reported numeric difference or division invented. Low-state counterfactual level alignment for high/moderate target not established. Aggregate market duplicated across panels is recorded once."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5193",
+    "before": null,
+    "after": "Contrast defined by paired reported state means; no author-reported numeric difference or division invented. Low-state counterfactual level alignment for high/moderate target not established. Aggregate market duplicated across panels is recorded once."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7500",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7501",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7500",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7501",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7500",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7501",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7500",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7501",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7500",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7501",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7500",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7501",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7500",
+    "before": null,
+    "after": "Annual aggregate equity market excess return within dispersion states."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7501",
+    "before": null,
+    "after": "Annual long-minus-short Dur return within dispersion states, table sign r10-1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3158",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3158",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3158",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3158",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3158",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3158",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3158",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3158",
+    "before": null,
+    "after": "Moderate versus low duration-dispersion states in Table6A/B: mean market excess returns and long-minus-short Dur returns. Moderate comprises middle half, low bottom quarter of annual log-duration dispersion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3158",
+    "before": null,
+    "after": "Separate implemented two-valued state contrast reported against low-state reference with t statistics; same theoretical channel as s4. Not three-state continuous dose; observational OLS mean differences, not DiD. Source: p937 Table6; L1237–1303."
+  }
+]
+```
