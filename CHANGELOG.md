@@ -507480,3 +507480,372 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T02:57:48.763134+00:00 — Review QCQ3E8DE h2: source-audited coding and linked comparisons
+
+60 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5110",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5111",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5112",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5113",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5110",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5111",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5112",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5113",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5110",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5111",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5112",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5113",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5110",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5111",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5112",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5113",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5110",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5111",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5112",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5113",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5110",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5111",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5112",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5113",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5110",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5111",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5112",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5113",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5110",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5111",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5112",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5113",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5110",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5111",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5112",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5113",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5110",
+    "before": null,
+    "after": "Section3.4 p229 and Fig4A p231, 1927:06–1939:12: focal hedged cumulative log wealth performs better than baseline unhedged WML on the same return path. No exact endpoint difference or ratio stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5111",
+    "before": null,
+    "after": "Section3.4 p229, Fig4A p231,1927:06–1939:12: ex post hedged cumulative log wealth exceeds ex ante hedged path; source calls performance bias substantial/strong. No numeric difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5112",
+    "before": null,
+    "after": "Section3.4 p229 and Fig4B p231, 1927:06–2013:03: focal hedged cumulative log wealth performs better than baseline unhedged WML on the same return path. No exact endpoint difference or ratio stated. Source horizon conflict: panel title ends2013:01, caption ends2013:03; p229 prose begins1927:01, caption/title begin1927:06. Use caption horizon provisionally; exact implemented endpoint unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5113",
+    "before": null,
+    "after": "Section3.4 p229, Fig4B p231,1927:06–2013:03: ex post hedged cumulative log wealth exceeds ex ante hedged path; source calls performance bias substantial/strong. No numeric difference or division. Source horizon conflict: panel title ends2013:01, caption ends2013:03; p229 prose begins1927:01, caption/title begin1927:06. Use caption horizon provisionally; exact implemented endpoint unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5110",
+    "before": null,
+    "after": "Qualitative comparison of the same explicitly graphed cumulative wealth level is eligible; no exact numeric endpoint required by instructions. No ratio inferred. The graph is portfolio value on a logarithmic axis; prose calls it cumulative log return."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5111",
+    "before": null,
+    "after": "Qualitative comparison of the same explicitly graphed cumulative wealth level is eligible; no exact numeric endpoint required by instructions. No ratio inferred. The graph is portfolio value on a logarithmic axis; prose calls it cumulative log return."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5112",
+    "before": null,
+    "after": "Qualitative comparison of the same explicitly graphed cumulative wealth level is eligible; no exact numeric endpoint required by instructions. No ratio inferred. The graph is portfolio value on a logarithmic axis; prose calls it cumulative log return."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5113",
+    "before": null,
+    "after": "Qualitative comparison of the same explicitly graphed cumulative wealth level is eligible; no exact numeric endpoint required by instructions. No ratio inferred. The graph is portfolio value on a logarithmic axis; prose calls it cumulative log return."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7446",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7446",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7446",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7446",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7446",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7446",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7446",
+    "before": null,
+    "after": "Cumulative log wealth on market-hedged WML strategy, reinvested under AppendixA.1; Fig4A–B. Continuous log outcome; zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3123",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3123",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3123",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3123",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3123",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3123",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3123",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3123",
+    "before": null,
+    "after": "Switch from unhedged WML to infeasible ex post market hedge using future42-day realized beta with ten daily lags. Fig4 both periods; upward performance bias from look-ahead beta. Counterfactual measurement-rule result, explicitly not implementable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3123",
+    "before": null,
+    "after": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Fig4B horizon conflict: panel title ends2013:01, caption ends2013:03; prose p229 starts1927:01 while title/caption start1927:06. Caption horizon used provisionally. Source: Section3.1,3.4 Fig4 pp227–231."
+  }
+]
+```
