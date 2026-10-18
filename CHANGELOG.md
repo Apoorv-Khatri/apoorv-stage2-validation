@@ -532716,3 +532716,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:04:37.863055+00:00 — Review RQ77EIC2 s4: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I672",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J672",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K672",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L672",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M672",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N672",
+    "before": null,
+    "after": "Monthly speech partisanship dose and its differential influence on rule-category RegisterPartisanship, Table7 A/B cols10/11 with month-year FE; no-FE dose specifications are h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O672",
+    "before": null,
+    "after": "One effective month-year FE dimension conditions out common month-specific variation and speech-partisanship level; identifies differential dose slopes across notices/proposed/final rules. No policy timing or parallel-trends design: not DiD. Rule and Final rule are modifiers/control contrasts, not the focal treatment in the causal influence claim pp4405–4407. Their standalone level comparisons cols2/3/6/7 are descriptive category differences, excluded. This causal-gate choice is contested and documented independently of method. Include Fed and separate final-rule interaction nulls as substantive outcomes of same dose, not omit for nonsignificance. Source: Table7 pp4405–4407; L1965–2075."
+  }
+]
+```
