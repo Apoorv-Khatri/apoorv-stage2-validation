@@ -520542,3 +520542,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T04:10:32.064682+00:00 — Review QY4D7PCL h26: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7517",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7517",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7517",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7517",
+    "before": null,
+    "after": "Firm stock return in Fama–MacBeth regressions; exact horizon/scale and detailed appendix specifications unavailable. Final article establishes qualitative results only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3166",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3166",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3166",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3166",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3166",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3166",
+    "before": null,
+    "after": "Firm-level Dur characteristic coefficient in implemented Fama–MacBeth return regressions reported qualitatively in final Section3.4 (Internet Appendix unavailable)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3166",
+    "before": null,
+    "after": "Minimum scope: final p931 says all results remain valid in firm-level Fama–MacBeth regressions directly using firm characteristics. Unlike portfolio average deciles, these use raw firm characteristics; do not invent table numbers, transforms, numeric coefficients or benchmark rows. Same joint-effect author-intention gate as Table3. Main role for duration/value/profitability follows the introduction, not appendix placement. Source: p931 Section3.4; L854–874."
+  }
+]
+```

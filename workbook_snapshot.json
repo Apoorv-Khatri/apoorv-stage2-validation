@@ -31076,7 +31076,16 @@
     "L3165": "0",
     "M3165": "n/a",
     "N3165": "DSS Dur extreme-decile factor-adjusted excess-return contrast, Table9B CAPM/FF5/q models.",
-    "O3165": "Substantive comparison to the baseline duration proxy: factor-adjusted premium is small/insignificant. Keep null estimates. Separate mean return from conditional alpha location. Factor controls not FE. Source: pp941–943 Table9B; L1624–1637,1721–1756."
+    "O3165": "Substantive comparison to the baseline duration proxy: factor-adjusted premium is small/insignificant. Keep null estimates. Separate mean return from conditional alpha location. Factor controls not FE. Source: pp941–943 Table9B; L1624–1637,1721–1756.",
+    "A3166": "QY4D7PCL",
+    "B3166": "h26",
+    "I3166": "1",
+    "J3166": "OLS",
+    "K3166": "0",
+    "L3166": "1",
+    "M3166": "n/a",
+    "N3166": "Firm-level Dur characteristic coefficient in implemented Fama–MacBeth return regressions reported qualitatively in final Section3.4 (Internet Appendix unavailable).",
+    "O3166": "Minimum scope: final p931 says all results remain valid in firm-level Fama–MacBeth regressions directly using firm characteristics. Unlike portfolio average deciles, these use raw firm characteristics; do not invent table numbers, transforms, numeric coefficients or benchmark rows. Same joint-effect author-intention gate as Table3. Main role for duration/value/profitability follows the introduction, not appendix placement. Source: p931 Section3.4; L854–874."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -81760,7 +81769,11 @@
     "H7516": "0",
     "I7516": "unknown",
     "J7516": "none",
-    "K7516": "Monthly excess return on long-minus-short DSS Dur strategy; alpha annualized by 12, CAPM/FF5/q variants."
+    "K7516": "Monthly excess return on long-minus-short DSS Dur strategy; alpha annualized by 12, CAPM/FF5/q variants.",
+    "A7517": "QY4D7PCL",
+    "B7517": "h26",
+    "C7517": "hy1",
+    "K7517": "Firm stock return in Fama–MacBeth regressions; exact horizon/scale and detailed appendix specifications unavailable. Final article establishes qualitative results only."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
