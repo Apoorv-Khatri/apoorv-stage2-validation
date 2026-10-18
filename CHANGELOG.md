@@ -567354,3 +567354,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:37:43.300429+00:00 — Review UK6BI2QX h17: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7944",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7945",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7944",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7945",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7944",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7945",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7944",
+    "before": null,
+    "after": "Aggregate quarterly net equity repurchases of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7945",
+    "before": null,
+    "after": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3452",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3452",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3452",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3452",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3452",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3452",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3452",
+    "before": null,
+    "after": "Lagged aggregate predicted 12-month excess bond return effect on net equity repurchases and net debt issuance, quarterly flows /lagged assets; Table VII, columns 3/6. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3452",
+    "before": null,
+    "after": "Causally interpreted aggregate OLS, not FE or IV: equations 6/7 and pp.3075–3078 connect pricing conditions to financing responses. Newey-West SE are not an identification method. Central aggregate conclusion; main=1."
+  }
+]
+```
