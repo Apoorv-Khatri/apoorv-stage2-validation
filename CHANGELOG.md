@@ -512634,3 +512634,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:20:09.111360+00:00 — Review QLFZQVZU s3: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1486",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1486",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1486",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1486",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s3 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I610",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O610",
+    "before": null,
+    "after": "Current E/P and lagged/current RE/ME compete as signals of underlying earnings yield. Controlling for retained earnings removes incremental predictive information in E/P; this is not an estimated causal effect of distributing or retaining earnings. The functional-fixation interpretation is considered and argued against, not established for these parameters. Source: pp238–239; Table2 D; L603–642. Source: pp238–239; Table2 D; L603–642."
+  }
+]
+```
