@@ -33968,7 +33968,16 @@
     "L3413": "1",
     "M3413": "n/a",
     "N3413": "PSS covariance exposure: covariance-form price of risk for 25 size/book-to-price portfolios, Table4 PanelA, p.412. Reported PSS price 9.57; distinct from beta-form risk premium s7. ",
-    "O3413": "Independent recommendation: OLS-family (implemented cross-sectional GLS), conditional on estimated exposure regressors and the GLS metric. The reported dependent outcome is average excess portfolio return, not the entire return panel. First-pass slopes/covariances use centered returns; generated regressors alone do not establish a nonlinear effect estimator under the prompt incidental-preprocessing rule. This does not make the full mapping from the raw return panel linear. Full-procedure Other remains a substantive taxonomy alternative for parent adjudication. All parameters are GLS (p.409); OLS R2 is not a second estimator. No identifying FE or excluded IV instrument. Retain model-based risk-compensation interpretation, not predictor causality."
+    "O3413": "Independent recommendation: OLS-family (implemented cross-sectional GLS), conditional on estimated exposure regressors and the GLS metric. The reported dependent outcome is average excess portfolio return, not the entire return panel. First-pass slopes/covariances use centered returns; generated regressors alone do not establish a nonlinear effect estimator under the prompt incidental-preprocessing rule. This does not make the full mapping from the raw return panel linear. Full-procedure Other remains a substantive taxonomy alternative for parent adjudication. All parameters are GLS (p.409); OLS R2 is not a second estimator. No identifying FE or excluded IV instrument. Retain model-based risk-compensation interpretation, not predictor causality.",
+    "A3414": "TS6H62KJ",
+    "B3414": "h8",
+    "I3414": "1",
+    "J3414": "OLS",
+    "K3414": "0",
+    "L3414": "1",
+    "M3414": "n/a",
+    "N3414": "PSS covariance exposure: covariance-form price of risk for 25 size/momentum portfolios, Table4 PanelB, p.412. Reported PSS price 7.27; distinct from beta-form risk premium s8. ",
+    "O3414": "Independent recommendation: OLS-family (implemented cross-sectional GLS), conditional on estimated exposure regressors and the GLS metric. The reported dependent outcome is average excess portfolio return, not the entire return panel. First-pass slopes/covariances use centered returns; generated regressors alone do not establish a nonlinear effect estimator under the prompt incidental-preprocessing rule. This does not make the full mapping from the raw return panel linear. Full-procedure Other remains a substantive taxonomy alternative for parent adjudication. All parameters are GLS (p.409); OLS R2 is not a second estimator. No identifying FE or excluded IV instrument. Retain model-based risk-compensation interpretation, not predictor causality."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87309,7 +87318,11 @@
     "A7877": "TS6H62KJ",
     "B7877": "h7",
     "C7877": "hy1",
-    "K7877": "Average monthly excess returns of test portfolios in the covariance-form cross-sectional pricing equation; the price of risk is a coefficient on return covariance, not an outcome. Tables report price coefficients on a different scale from percentage monthly risk premia."
+    "K7877": "Average monthly excess returns of test portfolios in the covariance-form cross-sectional pricing equation; the price of risk is a coefficient on return covariance, not an outcome. Tables report price coefficients on a different scale from percentage monthly risk premia.",
+    "A7878": "TS6H62KJ",
+    "B7878": "h8",
+    "C7878": "hy1",
+    "K7878": "Average monthly excess returns of test portfolios in the covariance-form cross-sectional pricing equation; the price of risk is a coefficient on return covariance, not an outcome. Tables report price coefficients on a different scale from percentage monthly risk premia."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
