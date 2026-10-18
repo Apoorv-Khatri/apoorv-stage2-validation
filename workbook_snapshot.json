@@ -33005,7 +33005,16 @@
     "L3347": "0",
     "M3347": "n/a",
     "N3347": "Third county subscription rate × post-1918 conditional on increment, Idaho and neighbors; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193.",
-    "O3347": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. OLS-labelled conventional intensity DiD with county/year FE. Repeated all-state col1 maps to h2, not another setting. Separate regional robustness location. Includes null investment-bank responses. Source: Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193."
+    "O3347": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. OLS-labelled conventional intensity DiD with county/year FE. Repeated all-state col1 maps to h2, not another setting. Separate regional robustness location. Includes null investment-bank responses. Source: Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193.",
+    "A3348": "S3X8G9NP",
+    "B3348": "h11",
+    "I3348": "1",
+    "J3348": "DiD_conventional",
+    "K3348": "0",
+    "L3348": "0",
+    "M3348": "n/a",
+    "N3348": "Third-to-fourth county subscription increment × post-1918, Idaho and neighbors; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193.",
+    "O3348": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. OLS-labelled conventional intensity DiD, county/year FE; null responses retained. Repeated all-state col1 maps to h3. Source: Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85652,7 +85661,23 @@
     "A7769": "S3X8G9NP",
     "B7769": "h10",
     "C7769": "hy4",
-    "K7769": "Indicator for at least one investment bank in county-year (0/1). Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193"
+    "K7769": "Indicator for at least one investment bank in county-year (0/1). Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193",
+    "A7770": "S3X8G9NP",
+    "B7770": "h11",
+    "C7770": "hy1",
+    "K7770": "Log total commercial-bank assets (dollars); counties without commercial banks omitted (p201 fn2). Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193",
+    "A7771": "S3X8G9NP",
+    "B7771": "h11",
+    "C7771": "hy2",
+    "K7771": "Log total commercial-bank deposits (dollars). Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193",
+    "A7772": "S3X8G9NP",
+    "B7772": "h11",
+    "C7772": "hy3",
+    "K7772": "Reported log number of investment banks; source does not specify zero-count handling. Do not infer log1p despite inclusion of counties without investment banks. Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193",
+    "A7773": "S3X8G9NP",
+    "B7773": "h11",
+    "C7773": "hy4",
+    "K7773": "Indicator for at least one investment bank in county-year (0/1). Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
