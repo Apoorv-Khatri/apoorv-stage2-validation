@@ -32960,7 +32960,16 @@
     "L3342": "1",
     "M3342": "n/a",
     "N3342": "Third state subscription rate conditional on third-to-fourth increment; outcomes: individual stock-or-bond ownership indicator. Table7 col3 / Eq6B, pp213–214; layout L1113–1185.",
-    "O3342": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Weighted linear probability regression; poll dummies are nuisance controls, not an established identifying-FE strategy. Separate from fourth rate and increment. Source: Table7 col3 / Eq6B, pp213–214; layout L1113–1185."
+    "O3342": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Weighted linear probability regression; poll dummies are nuisance controls, not an established identifying-FE strategy. Separate from fourth rate and increment. Source: Table7 col3 / Eq6B, pp213–214; layout L1113–1185.",
+    "A3343": "S3X8G9NP",
+    "B3343": "h6",
+    "I3343": "1",
+    "J3343": "OLS",
+    "K3343": "0",
+    "L3343": "1",
+    "M3343": "n/a",
+    "N3343": "Third-to-fourth state subscription-rate increment conditional on third rate; outcomes: individual stock-or-bond ownership indicator. Table7 col3 / Eq6B, pp213–214; layout L1113–1185.",
+    "O3343": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Weighted linear probability regression; coefficient 0.004. Poll dummies are nuisance controls. Included under the joint lasting-effects interpretation, not a claim of strong identification. Source: Table7 col3 / Eq6B, pp213–214; layout L1113–1185."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85563,7 +85572,11 @@
     "A7758": "S3X8G9NP",
     "B7758": "h5",
     "C7758": "hy1",
-    "K7758": "Individual response to owning any stocks or bonds (0/1), weighted Gallup surveys. Article data section and references say 1937–1938; Table7 caption says 1935–1938. Table7 col3 / Eq6B, pp213–214; layout L1113–1185"
+    "K7758": "Individual response to owning any stocks or bonds (0/1), weighted Gallup surveys. Article data section and references say 1937–1938; Table7 caption says 1935–1938. Table7 col3 / Eq6B, pp213–214; layout L1113–1185",
+    "A7759": "S3X8G9NP",
+    "B7759": "h6",
+    "C7759": "hy1",
+    "K7759": "Individual response to owning any stocks or bonds (0/1), weighted Gallup surveys. Article data section and references say 1937–1938; Table7 caption says 1935–1938. Table7 col3 / Eq6B, pp213–214; layout L1113–1185"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
