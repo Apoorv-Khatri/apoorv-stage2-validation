@@ -524592,3 +524592,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T08:53:13.953644+00:00 — Review RDVTTVCR s3: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1615",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1616",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1617",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1615",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1616",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1617",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1615",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1616",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1617",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1615",
+    "before": null,
+    "after": "duplicate: s1 and s2 cover both separate and jointly controlled partial effects in Table2 col3. This is not a third bundled treatment/estimand."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1616",
+    "before": null,
+    "after": "duplicate: s1 and s2 cover both separate and jointly controlled partial effects in Table2 col3. This is not a third bundled treatment/estimand."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1617",
+    "before": null,
+    "after": "duplicate: s1 and s2 cover both separate and jointly controlled partial effects in Table2 col3. This is not a third bundled treatment/estimand."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I646",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O646",
+    "before": null,
+    "after": "s1 and s2 cover both separate and jointly controlled partial effects in Table2 col3. This is not a third bundled treatment/estimand. Source: Tables 2–3; pp2870–2874."
+  }
+]
+```
