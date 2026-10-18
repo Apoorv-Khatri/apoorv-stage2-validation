@@ -36401,7 +36401,16 @@
     "L3642": "0",
     "M3642": "unknown",
     "N3642": "Implied covenant violation on fraction independent directors / board size; IA.XII item 7 p.2413.",
-    "O3642": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. A fraction is not binary; transformation and estimator not restated."
+    "O3642": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. A fraction is not binary; transformation and estimator not restated.",
+    "A3643": "WZZQX3TX",
+    "B3643": "h30",
+    "I3643": "1",
+    "J3643": "unknown",
+    "K3643": "1",
+    "L3643": "0",
+    "M3643": "unknown",
+    "N3643": "Implied covenant violation on board independence using alternative lag structures; IA.XIII–XX, pp.2397,2413.",
+    "O3643": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. One minimum lag-family scope, not eight fabricated table settings; exact horizons/outcomes/estimator allocation held."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92145,7 +92154,14 @@
     "H8249": "0",
     "I8249": "unknown",
     "J8249": "unknown",
-    "K8249": "Fraction of independent directors on board; exact estimated transformation unknown."
+    "K8249": "Fraction of independent directors on board; exact estimated transformation unknown.",
+    "A8250": "WZZQX3TX",
+    "B8250": "h30",
+    "C8250": "hy1",
+    "H8250": "0",
+    "I8250": "unknown",
+    "J8250": "unknown",
+    "K8250": "Board independence under alternative lags; exact final outcome scale unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
