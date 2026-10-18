@@ -523809,3 +523809,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:55:04.319035+00:00 — Review R7QNVLC6 h7: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7532",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7532",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7532",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7532",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7532",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7532",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7532",
+    "before": null,
+    "after": "Termination indicator: manager at t disappears from sample from t+1 onward. Source: p2253–2255; L1339–1341,1419–1421,1468–1470."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3178",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3178",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3178",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3178",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3178",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3178",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3178",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3178",
+    "before": null,
+    "after": "Table IX A–B: past three-year three-factor alpha (standardized) and manager termination; logit with FH, experience/tenure and fund controls. Whole-sample alpha coefficients -0.161/-0.163/-0.156/-0.159; include subgroup estimates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3178",
+    "before": null,
+    "after": "Explicit author claim that high past performance decreases termination probability qualifies even though this is a control and supporting result. Source: p2253–2255; L1339–1341,1419–1421,1468–1470. No qualifying outcome benchmark found in associated prose/table. Source: p2253–2255; L1339–1341,1419–1421,1468–1470."
+  }
+]
+```
