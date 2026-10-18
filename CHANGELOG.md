@@ -532575,3 +532575,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:03:37.165302+00:00 — Review RQ77EIC2 s1: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J669",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K669",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M669",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N669",
+    "before": null,
+    "after": "SEC speech partisanship time trend conditional on Commissioner FE, Table 4 cols 2/4. Separate no-FE trends are h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O669",
+    "before": null,
+    "after": "One identifying Commissioner FE dimension distinguishes within-person drift from turnover; pp4399–4400 explicitly attribute the rise to replacement, including the substantive within-person null. No IV/RCT/RD/DiD. Calendar year is not a binary turnover indicator. Main in abstract and conclusion. The causal interpretation is the authors' composition mechanism, not exogenous calendar time. Source: Table4 pp4399–4400; L1577–1671."
+  }
+]
+```
