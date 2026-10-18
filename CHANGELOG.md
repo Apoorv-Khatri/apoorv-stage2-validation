@@ -555096,3 +555096,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:48:16.533342+00:00 — Review TE3D5NF5 s1: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K404",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K405",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R404",
+    "before": null,
+    "after": "Spurious benchmark link: p.1612 fn.10 multiplies Table 2 marginal effect by aggregate log-consumption regression slope 0.5396, not by/divided by Table 1 mean 21.85%. Result is a cross-outcome conversion and log-percent interpretation, not an outcome-mean/SD/level comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R405",
+    "before": null,
+    "after": "Spurious benchmark link: p.1612 fn.10 multiplies Table 2 marginal effect by aggregate log-consumption regression slope 0.5396, not by/divided by Table 1 mean 21.85%. Result is a cross-outcome conversion and log-percent interpretation, not an outcome-mean/SD/level comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1743",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1743",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1743",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1743",
+    "before": null,
+    "after": "Multinomial dependent readiness category: 0 neither, 1 bad, 2 good (p.1611); not binary. Table 1 shows mass in the zero/neither category. Tables report good-time response marginal effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I710",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J710",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K710",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L710",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M710",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O710",
+    "before": null,
+    "after": "Table 2, pp.1610–1612: retain under broad author-intention gate: abstract says expectations increase consumption and p.1612 gives an all-Germans higher-expectations counterfactual. Local text calls these associations/conditional correlations; identification is not established by the controls. Multinomial logit, not OLS or identifying FE. Probit robustness separated as h1."
+  }
+]
+```
