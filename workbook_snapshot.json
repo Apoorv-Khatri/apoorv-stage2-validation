@@ -31514,7 +31514,16 @@
     "L3199": "0",
     "M3199": "unknown",
     "N3199": "Quality/exposure groups and total GIIPS sovereign holdings, Table A3 A (Figure A3 corroboration), non-GIIPS banks.",
-    "O3199": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2863 L559–567; p2866 fn12 L728–730 Table A3A."
+    "O3199": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2863 L559–567; p2866 fn12 L728–730 Table A3A.",
+    "A3200": "RDVTTVCR",
+    "B3200": "h18",
+    "I3200": "1",
+    "J3200": "unknown",
+    "K3200": "unknown",
+    "L3200": "0",
+    "M3200": "unknown",
+    "N3200": "Quality/exposure groups and total GIIPS sovereign holdings, Table A3 B/C (Figure A3 corroboration), GIIPS banks.",
+    "O3200": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2863 L559–567; p2866 fn12 L728–730 Table A3B/C."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82859,7 +82868,13 @@
     "C7583": "hy1",
     "I7583": "unknown",
     "J7583": "unknown",
-    "K7583": "Total GIIPS sovereign holdings adjustment; exact regression outcomes and transformations unavailable."
+    "K7583": "Total GIIPS sovereign holdings adjustment; exact regression outcomes and transformations unavailable.",
+    "A7584": "RDVTTVCR",
+    "B7584": "h18",
+    "C7584": "hy1",
+    "I7584": "unknown",
+    "J7584": "unknown",
+    "K7584": "Total GIIPS sovereign holdings adjustment; exact regression outcomes and transformations unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
