@@ -558063,3 +558063,246 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:21:03.319661+00:00 — Review TRCRCTBB h3: source-audited coding and linked comparisons
+
+39 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5220",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5221",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5220",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5221",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5220",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5221",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5221",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5220",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5221",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5220",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5221",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5221",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5221",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5220",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5221",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5220",
+    "before": null,
+    "after": "p.3415/Table IV.A; Table I net equity SD 0.131 and net debt SD 0.099, 10,402 firm-years. Table IV Panel A, col. (4): coefficient on PO^{t+1}_t = -0.230; author interprets a one-standard-deviation decrease in PO^{t+1}_t as increasing contemporaneous net equity issuance by 1.8% of total securities outstanding. Sample standard deviation of NetEquityIssue; text says the effect is approximately 13.8% of the sample standard deviation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5221",
+    "before": null,
+    "after": "p.3415/Table IV.A; Table I net equity SD 0.131 and net debt SD 0.099, 10,402 firm-years. Table IV Panel A, col. (8): coefficient on PO^{t+1}_t = -0.045; author interprets a one-standard-deviation decrease in PO^{t+1}_t as increasing contemporaneous net debt issuance by 0.35% of total securities outstanding. Sample standard deviation of NetDebtIssue; text says the effect is approximately 3.5% of the sample standard deviation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5220",
+    "before": null,
+    "after": "Continuous conditional regression target/weights not established to equal the stated sample benchmark; same sample alone does not prove alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5221",
+    "before": null,
+    "after": "Continuous conditional regression target/weights not established to equal the stated sample benchmark; same sample alone does not prove alignment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7856",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7857",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7856",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7857",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7856",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7857",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7856",
+    "before": null,
+    "after": "Net equity issuance in year t: (issuance of common and preferred stock minus purchase of common and preferred stock) divided by lagged total securities outstanding (market equity plus debt). Table IV.A columns 3–4 and 7–8."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7857",
+    "before": null,
+    "after": "Net debt issuance in year t: (long-term debt issuance minus long-term debt reduction) divided by lagged total securities outstanding. Table IV.A columns 3–4 and 7–8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3399",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3399",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3399",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3399",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3399",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3399",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3399",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3399",
+    "before": null,
+    "after": "Effect of next-year-due ΔPO(t+1)t, measured as change in corresponding purchase obligations/total assets and entered jointly with the other maturity component; Table IV.A columns 3–4 and 7–8. Outcome set follows s3; distinct from total ΔPOt."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3399",
+    "before": null,
+    "after": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
+  }
+]
+```
