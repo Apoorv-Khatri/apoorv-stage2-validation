@@ -513135,3 +513135,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:24:37.797415+00:00 — Review QLFZQVZU s12: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1499",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1499",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1499",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1499",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s12 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I619",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O619",
+    "before": null,
+    "after": "Historical fitted book-to-market and its residual proxy for missing retained earnings and contributed capital, followed by sorting. This projection is a measurement construction, not excluded-instrument 2SLS, and sorted alphas are predictive robustness. No causal receipt, instrument set or IV estimand is implemented. Source: pp248–249; Table8; L1206–1299. Source: pp248–249; Table8; L1206–1299."
+  }
+]
+```
