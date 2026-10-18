@@ -31854,7 +31854,16 @@
     "L3225": "1",
     "M3225": "n/a",
     "N3225": "Largest bid-size quartile versus bottom half of bids: effect on normalized rationing; Table VI cols1–6, pp2324–2327. Revenue contrasts use cols2–6; bid contrasts include baseline col1 and revenue-adjusted/subgroup variants.",
-    "O3225": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table VI cols1–6, pp2324–2327; article_layout.txt L987–1209."
+    "O3225": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table VI cols1–6, pp2324–2327; article_layout.txt L987–1209.",
+    "A3226": "RQV5GQTL",
+    "B3226": "h2",
+    "I3226": "1",
+    "J3226": "FE",
+    "K3226": "1",
+    "L3226": "1",
+    "M3226": "n/a",
+    "N3226": "Second-largest bid-size quartile versus bottom half: effect on normalized rationing; Table VI cols1–6, pp2324–2327. Revenue contrasts use cols2–6; bid contrasts include baseline col1 and revenue-adjusted/subgroup variants.",
+    "O3226": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table VI cols1–6, pp2324–2327; article_layout.txt L987–1209."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -83594,7 +83603,14 @@
     "H7628": "0",
     "I7628": "unknown",
     "J7628": "none",
-    "K7628": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
+    "K7628": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated.",
+    "A7629": "RQV5GQTL",
+    "B7629": "h2",
+    "C7629": "hy1",
+    "H7629": "0",
+    "I7629": "unknown",
+    "J7629": "none",
+    "K7629": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
