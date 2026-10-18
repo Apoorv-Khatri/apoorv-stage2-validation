@@ -549027,3 +549027,168 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:35:35.862358+00:00 — Review S3X8G9NP h13: source-audited coding and linked comparisons
+
+26 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7778",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7779",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7780",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7781",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7778",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7779",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7780",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7781",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7778",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7779",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7780",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7781",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7778",
+    "before": null,
+    "after": "Log total commercial-bank assets (dollars); counties without commercial banks omitted (p201 fn2). Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7779",
+    "before": null,
+    "after": "Log total commercial-bank deposits (dollars). Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7780",
+    "before": null,
+    "after": "Reported log number of investment banks; source does not specify zero-count handling. Do not infer log1p despite inclusion of counties without investment banks. Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7781",
+    "before": null,
+    "after": "Indicator for at least one investment bank in county-year (0/1). Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193"
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E75",
+    "before": null,
+    "after": "DONE — Available-source review of all23 final article pages and5 publisher-supplement pages with independent audit. Retain21 settings and57 outcome records, including one qualitative undisplayed deposits result under Eq2/s3 with unknown scale; unsupported second deposits allocation not applied. Four original comparisons rejected: treatment-SD scaling, treatment-mean log extrapolation or unbenchmarked effects, not outcome benchmarks. County OLS-labelled DiD distinguished from survey OLS; single-binary excluded instruments and joint-2SLS included third-dose coefficients documented without claiming third-dose LATEs. FigureA1 excluded under diagnostic-only author-use reading, with contrary substantive reduced-form interpretation preserved in review artifacts. Count-log zero handling and printed sample/header/SE/CI conflicts unresolved. Original fields,IDs and links preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3350",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3350",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3350",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3350",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3350",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3350",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3350",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3350",
+    "before": null,
+    "after": "Third-to-fourth county subscription increment × post-1918, Idaho and neighbors; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3350",
+    "before": null,
+    "after": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Single excluded binary switch×post. Null/noisy investment-bank effects retained: log count 0.026 and presence 0.013; respective confidence sets include zero. All-state repeated col2 maps to s6. Source: Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193."
+  }
+]
+```
