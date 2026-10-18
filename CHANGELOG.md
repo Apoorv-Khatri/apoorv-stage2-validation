@@ -555612,3 +555612,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:51:54.621378+00:00 — Review TE3D5NF5 s7: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1751",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1751",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1751",
+    "before": null,
+    "after": "Reported regression outcome is change from the matched baseline wave, not the underlying level indicator or plotted coefficient. Nonbinary change, transform=other (difference), zero mass unknown without matched-pair transition data. Underlying expectation indicator is 1 for prices increasing more, 0 otherwise; equation (9)/Figures 5,8,9."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J716",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M716",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N716",
+    "before": null,
+    "after": "VAT announcement effects on changes in higher-inflation expectations by education, gender, income expectations, age and socioeconomic status; Figure 8, pp.1629–1631, matched conventional DiD. Figure 9 constraint results separated as h4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O716",
+    "before": null,
+    "after": "Main=1: common belief response is central to the differential spending/constraints explanation (intro p.1602). Figure 8 caption contains copied spending/top-bottom text; equation and title identify inflation expectations."
+  }
+]
+```
