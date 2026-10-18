@@ -514800,3 +514800,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:55:26.240624+00:00 — Review QY4D7PCL s2: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I624",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J624",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K624",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L624",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M624",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N624",
+    "before": null,
+    "after": "Duration average-decile dose coefficient in pooled portfolio-return regressions, Table3A/B. Keep routine covariate/sample variants together; other substantive characteristic coefficients receive distinct h rows."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O624",
+    "before": null,
+    "after": "Explicit goal: study the effect of duration, value and profitability jointly (p928). Endogenous-correlation explanation on p931 gives the parameters a causal mechanism reading. No FE are included or argued identifying; Driscoll–Kraay is an inference procedure, not FE. Rank dose, not binary high-low assignment; coefficients scaled to nine deciles. Source: pp928–931 Table3; article.txt L675–738,802–874."
+  }
+]
+```
