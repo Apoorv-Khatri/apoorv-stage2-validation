@@ -35398,7 +35398,16 @@
     "L3549": "1",
     "M3549": "n/a",
     "N3549": "Number stock bids over three years prior to t, Table 1 Panel B column 2: effect on activist targeting in t.",
-    "O3549": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses."
+    "O3549": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses.",
+    "A3550": "VPZERBIY",
+    "B3550": "h3",
+    "I3550": "1",
+    "J3550": "OLS",
+    "K3550": "0",
+    "L3550": "1",
+    "M3550": "n/a",
+    "N3550": "Number cash bids over three years prior to t, Table 1 Panel B column 2: effect on activist targeting in t.",
+    "O3550": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89976,7 +89985,14 @@
     "H8077": "1",
     "I8077": "1",
     "J8077": "none",
-    "K8077": "Activist target indicator in year t (Table 1 Panel B)."
+    "K8077": "Activist target indicator in year t (Table 1 Panel B).",
+    "A8078": "VPZERBIY",
+    "B8078": "h3",
+    "C8078": "hy1",
+    "H8078": "1",
+    "I8078": "1",
+    "J8078": "none",
+    "K8078": "Activist target indicator in year t (Table 1 Panel B)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
