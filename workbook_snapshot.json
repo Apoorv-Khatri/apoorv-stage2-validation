@@ -31917,7 +31917,16 @@
     "L3232": "1",
     "M3232": "n/a",
     "N3232": "Frequent bidder versus middle-activity omitted category (one-time separately controlled): effect on normalized rationing; Table VI cols1–6, pp2324–2327. Revenue contrasts use cols2–6; bid contrasts include baseline col1 and revenue-adjusted/subgroup variants.",
-    "O3232": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Construction discrepancy: p2322 says most active quartile; TableVI says at least 50 IPOs. Preserve both; exact threshold mapping unresolved. Source: Table VI cols1–6, pp2324–2327; article_layout.txt L987–1209."
+    "O3232": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Construction discrepancy: p2322 says most active quartile; TableVI says at least 50 IPOs. Preserve both; exact threshold mapping unresolved. Source: Table VI cols1–6, pp2324–2327; article_layout.txt L987–1209.",
+    "A3233": "RQV5GQTL",
+    "B3233": "h9",
+    "I3233": "1",
+    "J3233": "FE",
+    "K3233": "1",
+    "L3233": "0",
+    "M3233": "n/a",
+    "N3233": "One-time bidder versus middle-activity omitted category (frequent separately controlled): effect on normalized rationing; Table VI cols1–6, pp2324–2327. Revenue contrasts use cols2–6; bid contrasts include baseline col1 and revenue-adjusted/subgroup variants.",
+    "O3233": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Supporting parameter-specific contrast, not promoted solely by location. Source: Table VI cols1–6, pp2324–2327; article_layout.txt L987–1209."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -83706,7 +83715,14 @@
     "H7635": "0",
     "I7635": "unknown",
     "J7635": "none",
-    "K7635": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
+    "K7635": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated.",
+    "A7636": "RQV5GQTL",
+    "B7636": "h9",
+    "C7636": "hy1",
+    "H7636": "0",
+    "I7636": "unknown",
+    "J7636": "none",
+    "K7636": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
