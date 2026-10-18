@@ -594537,3 +594537,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:07:30.788410+00:00 — Review WM5RSIHQ s4: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1929",
+    "before": null,
+    "after": "Forced CEO dismissal event and tenure/time-to-event with voluntary departures right-censored; Cox proportional-hazard outcome. Estimated hazard intensity/slopes are not event probabilities or percentage-point probability effects. See linked setting for result location."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I792",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J792",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L792",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M792",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N792",
+    "before": null,
+    "after": "Market-induced stock-return components in t−1 and t−2 on forced CEO dismissal, two-stage Cox model, Table VI B, pp.2172–2173. Idiosyncratic components split to h4; EW/VW market definitions grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O792",
+    "before": null,
+    "after": "Nonlinear implemented Cox/logit estimator takes priority over the paper’s IV analogy and any year dummies: Other, IV type n/a. No separately implemented linear outcome model or causal first-stage OLS setting. Calendar-year dummies are one effective dimension, included to absorb time trends/economy-wide shocks; no HDFE. Returns are continuous; binary event outcome or subgroup dummies do not make the performance dose binary. Main role established in introduction pp.2155–2158, including central firm-specific-state heterogeneity in s6; method uncertainty is not main-role evidence."
+  }
+]
+```
