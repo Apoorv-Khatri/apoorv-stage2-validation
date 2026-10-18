@@ -569874,3 +569874,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:03:24.765281+00:00 — Review UTRUH2FR s5: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J759",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K759",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L759",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M759",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N759",
+    "before": null,
+    "after": "Number of same-county local governments active in structured loans in preceding quarter affecting own quarterly transaction indicator; equation2/TableA6 described p.1928, conditional logit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O759",
+    "before": null,
+    "after": "Nonlinear conditional logit Other, not FE. Equation2 uses count, binary=0. One-or-more prose contrast does not establish a separately implemented binary regressor without final A6. Quarter and entity FE address common trends and persistent heterogeneity; main=0 supporting coordination mechanism. OLS notional outcome separately established and added."
+  }
+]
+```
