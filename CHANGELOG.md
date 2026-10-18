@@ -605310,3 +605310,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:54:13.327505+00:00 — Review WZZQX3TX h38: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8268",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8269",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8268",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8269",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8268",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8269",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8268",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8269",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8268",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8269",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8268",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8269",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8268",
+    "before": null,
+    "after": "First difference of Number of independent directors connected through lead arrangers; log1p inferred from explicitly replicated Table VIII."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8269",
+    "before": null,
+    "after": "First difference of Number of independent directors connected through other participants; log1p inferred from explicitly replicated Table VIII."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E87",
+    "before": null,
+    "after": "DONE — Full available-source review of 39 published pages including embedded definitions, with independent audit. Retain 35 setting scopes; three original settings rejected (placebo and explicitly noncausal appointment-beta parameters). Add 29 settings, 55 outcomes and 60 comparisons; 62 comparisons retained. Direct cutoff coefficients classified RD despite identifying FE; method-only level splits merged while first-difference scales and column-specific comparisons preserved. ROA/market-to-book slopes and registered violations separately FE. Table IX Matching retained with 26 endpoint-mean pairings; treated means unaligned and matched-control alignment unknown. Table X violation-eta effects independently retained, not covered by beta disclaimer; change/log scale conflicts explicit. IA.XXI level/FD scopes supported by final text, routine IA.XII sample variants merged. Final external supplement unavailable; minimum appendix scopes and held allocations not exact unseen census. Original fields, IDs, hyperlinks and source defects preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3651",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3651",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3651",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3651",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3651",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3651",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3651",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3651",
+    "before": null,
+    "after": "First-difference implementation for implied violation effects on lead-arranger-connected and other-participant-connected independent-director counts; IA.XXI footnote20 p.2414, explicit Table VIII column2 counterpart."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3651",
+    "before": null,
+    "after": "RD precedence: equation (3) implements a direct discontinuity at binding distance zero with side-specific polynomials in a narrow window. Firm/year FE address selection and heterogeneity but do not override the implemented cutoff design (prompt lines24,30,41). No instrumented receipt. Keep authors’ manipulation, heterogeneous thresholds and switcher-target limitations; this taxonomy does not assert random crossing. Separate FD estimator/scale; no precise appendix column numbering or coefficients claimed."
+  }
+]
+```
