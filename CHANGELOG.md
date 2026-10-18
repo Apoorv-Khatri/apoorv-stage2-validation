@@ -603204,3 +603204,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:49:08.321460+00:00 — Review WZZQX3TX h20: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8241",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8241",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8241",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8241",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8241",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8241",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8241",
+    "before": null,
+    "after": "Number of independent directors at t+2, level count; positive count in Table I. Table I minimum raw count is 1 in the parent sample; a restricted subsample cannot introduce a zero count. This does not imply absence of log zeros."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3635",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3635",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3635",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3635",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3635",
+    "before": null,
+    "after": "First implied covenant violation on level number of independent directors at t+2; Figure 2 B, pp.2400–2402, separate-side nonparametric regression, Epanechnikov kernel bandwidth .05; shown within ±.4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3635",
+    "before": null,
+    "after": "Direct local-mean discontinuity, no identifying firm FE. Authors interpret jumps as violation effects (approximately .8 / 1.2 directors respectively); no numerical reference-outcome benchmark attributed from graph."
+  }
+]
+```

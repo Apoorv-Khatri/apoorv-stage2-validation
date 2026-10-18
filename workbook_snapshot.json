@@ -36329,7 +36329,16 @@
     "L3634": "1",
     "M3634": "n/a",
     "N3634": "All implied covenant violation on level number of independent directors at t+2; Figure 2 A, pp.2400–2402, separate-side nonparametric regression, Epanechnikov kernel bandwidth .05; shown within ±.4.",
-    "O3634": "Direct local-mean discontinuity, no identifying firm FE. Authors interpret jumps as violation effects (approximately .8 / 1.2 directors respectively); no numerical reference-outcome benchmark attributed from graph."
+    "O3634": "Direct local-mean discontinuity, no identifying firm FE. Authors interpret jumps as violation effects (approximately .8 / 1.2 directors respectively); no numerical reference-outcome benchmark attributed from graph.",
+    "A3635": "WZZQX3TX",
+    "B3635": "h20",
+    "I3635": "1",
+    "J3635": "RD",
+    "K3635": "1",
+    "L3635": "1",
+    "M3635": "n/a",
+    "N3635": "First implied covenant violation on level number of independent directors at t+2; Figure 2 B, pp.2400–2402, separate-side nonparametric regression, Epanechnikov kernel bandwidth .05; shown within ±.4.",
+    "O3635": "Direct local-mean discontinuity, no identifying firm FE. Authors interpret jumps as violation effects (approximately .8 / 1.2 directors respectively); no numerical reference-outcome benchmark attributed from graph."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92010,7 +92019,14 @@
     "H8240": "0",
     "I8240": "0",
     "J8240": "none",
-    "K8240": "Number of independent directors at t+2, level count; positive count in Table I. Table I minimum raw count is 1 in the parent sample; a restricted subsample cannot introduce a zero count. This does not imply absence of log zeros."
+    "K8240": "Number of independent directors at t+2, level count; positive count in Table I. Table I minimum raw count is 1 in the parent sample; a restricted subsample cannot introduce a zero count. This does not imply absence of log zeros.",
+    "A8241": "WZZQX3TX",
+    "B8241": "h20",
+    "C8241": "hy1",
+    "H8241": "0",
+    "I8241": "0",
+    "J8241": "none",
+    "K8241": "Number of independent directors at t+2, level count; positive count in Table I. Table I minimum raw count is 1 in the parent sample; a restricted subsample cannot introduce a zero count. This does not imply absence of log zeros."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
