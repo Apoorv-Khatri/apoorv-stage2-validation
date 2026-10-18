@@ -35140,7 +35140,16 @@
     "L3528": "0",
     "M3528": "n/a",
     "N3528": "Equally weighted syndicate Tier1 capital/RWA effect on nonbank share,IA.X, maturity/facility-type subsamples.",
-    "O3528": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote28 corroborates distinct appendix analysis; year dummies only, OLS. IA.XI first column repeats Table5 adjusted baseline; new scope is added controls, not duplicate estimate census."
+    "O3528": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote28 corroborates distinct appendix analysis; year dummies only, OLS. IA.XI first column repeats Table5 adjusted baseline; new scope is added controls, not duplicate estimate census.",
+    "A3529": "UUTLYHI2",
+    "B3529": "h35",
+    "I3529": "1",
+    "J3529": "OLS",
+    "K3529": "0",
+    "L3529": "0",
+    "M3529": "n/a",
+    "N3529": "Equally weighted syndicate Tier1 capital/RWA effect on nonbank share,IA.XI, additional loan-size,syndicate-size,purpose controls.",
+    "O3529": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote28 corroborates distinct appendix analysis; year dummies only, OLS. IA.XI first column repeats Table5 adjusted baseline; new scope is added controls, not duplicate estimate census."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89403,7 +89412,11 @@
     "A8053": "UUTLYHI2",
     "B8053": "h34",
     "C8053": "hy1",
-    "K8053": "Fraction of loan funded by nonbanks, not a binary dependent variable."
+    "K8053": "Fraction of loan funded by nonbanks, not a binary dependent variable.",
+    "A8054": "UUTLYHI2",
+    "B8054": "h35",
+    "C8054": "hy1",
+    "K8054": "Fraction of loan funded by nonbanks, not a binary dependent variable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

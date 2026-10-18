@@ -576801,3 +576801,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:47:55.441226+00:00 — Review UUTLYHI2 h35: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8054",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8054",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8054",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8054",
+    "before": null,
+    "after": "Fraction of loan funded by nonbanks, not a binary dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3529",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3529",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3529",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3529",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3529",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3529",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3529",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3529",
+    "before": null,
+    "after": "Equally weighted syndicate Tier1 capital/RWA effect on nonbank share,IA.XI, additional loan-size,syndicate-size,purpose controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3529",
+    "before": null,
+    "after": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote28 corroborates distinct appendix analysis; year dummies only, OLS. IA.XI first column repeats Table5 adjusted baseline; new scope is added controls, not duplicate estimate census."
+  }
+]
+```
