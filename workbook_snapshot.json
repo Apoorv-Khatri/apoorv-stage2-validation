@@ -34339,7 +34339,16 @@
     "L3450": "1",
     "M3450": "n/a",
     "N3450": "Lagged aggregate term premium effect on net equity repurchases and net debt issuance, quarterly flows /lagged assets; Table VII, columns 2/5. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments.",
-    "O3450": "Causally interpreted aggregate OLS, not FE or IV: equations 6/7 and pp.3075–3078 connect pricing conditions to financing responses. Newey-West SE are not an identification method. Central aggregate conclusion; main=1."
+    "O3450": "Causally interpreted aggregate OLS, not FE or IV: equations 6/7 and pp.3075–3078 connect pricing conditions to financing responses. Newey-West SE are not an identification method. Central aggregate conclusion; main=1.",
+    "A3451": "UK6BI2QX",
+    "B3451": "h16",
+    "I3451": "1",
+    "J3451": "OLS",
+    "K3451": "0",
+    "L3451": "1",
+    "M3451": "n/a",
+    "N3451": "Lagged aggregate E10/P effect on net equity repurchases and net debt issuance, quarterly flows /lagged assets; Table VII, columns 1/2/4/5. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments.",
+    "O3451": "Causally interpreted aggregate OLS, not FE or IV: equations 6/7 and pp.3075–3078 connect pricing conditions to financing responses. Newey-West SE are not an identification method. Central aggregate conclusion; main=1."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88000,7 +88009,15 @@
     "A7941": "UK6BI2QX",
     "B7941": "h15",
     "C7941": "hy2",
-    "K7941": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
+    "K7941": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets.",
+    "A7942": "UK6BI2QX",
+    "B7942": "h16",
+    "C7942": "hy1",
+    "K7942": "Aggregate quarterly net equity repurchases of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets.",
+    "A7943": "UK6BI2QX",
+    "B7943": "h16",
+    "C7943": "hy2",
+    "K7943": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -146412,7 +146429,18 @@
     "O5244": "1",
     "P5244": "unknown",
     "Q5244": "p.3077/Table VII column 1: one-SD decrease in term spread associated with roughly 0.25 outcome-SD increase in net equity repurchases; printed coefficient −0.0462. Table II.B outcome SD 0.18 percentage points, N=124 aggregate quarters.",
-    "R5244": "Aggregate 1985Q1–2015Q4 outcome SD, Table II.B; same sample/scale established but continuous conditional regression target and relevant reference-dose weighting not established. Unknown alignment, not automatic 1 or 0. No ratio calculated by reviewer attributed to author."
+    "R5244": "Aggregate 1985Q1–2015Q4 outcome SD, Table II.B; same sample/scale established but continuous conditional regression target and relevant reference-dose weighting not established. Unknown alignment, not automatic 1 or 0. No ratio calculated by reviewer attributed to author.",
+    "A5245": "UK6BI2QX",
+    "B5245": "h16",
+    "C5245": "hc1",
+    "K5245": "1",
+    "L5245": "hy2",
+    "M5245": "outcome_sd",
+    "N5245": "1",
+    "O5245": "1",
+    "P5245": "unknown",
+    "Q5245": "p.3077/Table VII column 4, E10/P coefficient 0.0357: one-SD decrease in E10/P corresponds to decline in net debt issuance about 0.25 outcome SD. Table II.B debt issuance SD 0.23 percentage points, N=124 aggregate quarters. Column 5 differs; do not duplicate the prose comparison onto it.",
+    "R5245": "Aggregate 1985Q1–2015Q4 outcome SD, Table II.B; same sample/scale established but continuous conditional regression target and relevant reference-dose weighting not established. Unknown alignment, not automatic 1 or 0. No ratio calculated by reviewer attributed to author."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
