@@ -31487,7 +31487,16 @@
     "L3196": "1",
     "M3196": "unknown",
     "N3196": "Low quality×government control and domestic sovereign purchases, GIIPS banks, Table A2B cols3/4; substantive moral-suasion null.",
-    "O3196": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2867 L745–790 Table A2B cols3/4."
+    "O3196": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2867 L745–790 Table A2B cols3/4.",
+    "A3197": "RDVTTVCR",
+    "B3197": "h15",
+    "I3197": "1",
+    "J3197": "unknown",
+    "K3197": "1",
+    "L3197": "1",
+    "M3197": "unknown",
+    "N3197": "high exposure contrast within low-quality GIIPS banks: sovereign holdings and hedging behavior, Table A2C.",
+    "O3197": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: pp2866–2867 L713–715,783–790 Table A2C holdings columns not specified; col5 for net/gross comparison."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82805,7 +82814,21 @@
     "C7579": "hy1",
     "I7579": "unknown",
     "J7579": "unknown",
-    "K7579": "Domestic sovereign holdings adjustment; gross and net results, precise estimator and scale unavailable."
+    "K7579": "Domestic sovereign holdings adjustment; gross and net results, precise estimator and scale unavailable.",
+    "A7580": "RDVTTVCR",
+    "B7580": "h15",
+    "C7580": "hy1",
+    "H7580": "unknown",
+    "I7580": "unknown",
+    "J7580": "unknown",
+    "K7580": "Risk-shifting-asset holdings adjustment within low-quality GIIPS banks: high-exposure contrast, Table A2C; exact holdings column and scale unavailable.",
+    "A7581": "RDVTTVCR",
+    "B7581": "h15",
+    "C7581": "hy2",
+    "H7581": "unknown",
+    "I7581": "unknown",
+    "J7581": "unknown",
+    "K7581": "Net holdings change relative to gross holdings change, high-exposure contrast within low-quality GIIPS banks, Table A2C col5. Exact ratio/difference construction unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
