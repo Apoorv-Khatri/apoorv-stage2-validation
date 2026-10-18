@@ -553275,3 +553275,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:26:06.478801+00:00 — Review SFCSD6BA s10: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K403",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R403",
+    "before": null,
+    "after": "Spurious linkage of descriptive outcome mean from Table II/p141 to focal effect. Relevant results report percentage-point effects, without explicit effect/mean comparison or deliberate same-column mean pairing. Verbal effect interpretation alone is not a qualifying comparison. Eligibility fails before verbal/division/alignment coding."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I707",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J707",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K707",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L707",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M707",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O707",
+    "before": null,
+    "after": "Twelve excluded office shares: seven age bins, female share, four income bins; multiple nonbinary instruments => other (not multiple binary). Individual indicators are included controls. IV precedes identifying FE. Article pp149,166, Tables IV/XI. Exclusion is acknowledged as untestable; this does not invalidate the method code. Source: Section II.E 'Peer Effects on the Timing of Participators’ Stock Sales,' Table XI columns (2)-(3), PDF pp. 166-167.."
+  }
+]
+```
