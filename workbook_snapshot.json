@@ -33201,7 +33201,16 @@
     "L3364": "1",
     "M3364": "n/a",
     "N3364": "Relationship distance quartile 3 versus quartile1 × After; TableA2 cols4,8, both payment outcomes.",
-    "O3364": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Appendix Section2 expressly says importance impacts payment behavior; retain substantive supporting estimates including nulls. Age defined as years at COVID start (main text alternatively describes months); distance between zip codes. Predetermined age/distance contrasts, not time-varying continuous treatment. Main=1 recommendation: introduction p3 explicitly enumerates age, sales and distance and the substantive finding that less important relationships face larger delays. This materially supports the central interpretation after competing economic channels are examined, just as punishment does. Null individual contrasts remain in that family; not a significance-based designation. Parent should adjudicate this role disagreement. Source: Supplement pp2–3,16 TableA2; layout L43–63,514–558."
+    "O3364": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Appendix Section2 expressly says importance impacts payment behavior; retain substantive supporting estimates including nulls. Age defined as years at COVID start (main text alternatively describes months); distance between zip codes. Predetermined age/distance contrasts, not time-varying continuous treatment. Main=1 recommendation: introduction p3 explicitly enumerates age, sales and distance and the substantive finding that less important relationships face larger delays. This materially supports the central interpretation after competing economic channels are examined, just as punishment does. Null individual contrasts remain in that family; not a significance-based designation. Parent should adjudicate this role disagreement. Source: Supplement pp2–3,16 TableA2; layout L43–63,514–558.",
+    "A3365": "S9LRTRJP",
+    "B3365": "h15",
+    "I3365": "1",
+    "J3365": "DiD_conventional",
+    "K3365": "1",
+    "L3365": "1",
+    "M3365": "n/a",
+    "N3365": "Relationship distance quartile 4 versus quartile1 × After; TableA2 cols4,8, both payment outcomes.",
+    "O3365": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Appendix Section2 expressly says importance impacts payment behavior; retain substantive supporting estimates including nulls. Age defined as years at COVID start (main text alternatively describes months); distance between zip codes. Predetermined age/distance contrasts, not time-varying continuous treatment. Main=1 recommendation: introduction p3 explicitly enumerates age, sales and distance and the substantive finding that less important relationships face larger delays. This materially supports the central interpretation after competing economic channels are examined, just as punishment does. Null individual contrasts remain in that family; not a significance-based designation. Parent should adjudicate this role disagreement. Source: Supplement pp2–3,16 TableA2; layout L43–63,514–558."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86094,7 +86103,21 @@
     "H7810": "0",
     "I7810": "unknown",
     "J7810": "none",
-    "K7810": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
+    "K7810": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator.",
+    "A7811": "S9LRTRJP",
+    "B7811": "h15",
+    "C7811": "hy1",
+    "H7811": "0",
+    "I7811": "unknown",
+    "J7811": "log1p",
+    "K7811": "Log(1+total past-due dollars) in buyer–supplier-month; full-amount outcome.",
+    "A7812": "S9LRTRJP",
+    "B7812": "h15",
+    "C7812": "hy2",
+    "H7812": "0",
+    "I7812": "unknown",
+    "J7812": "none",
+    "K7812": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
