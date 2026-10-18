@@ -588510,3 +588510,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:21:08.094794+00:00 — Review VPZERBIY h20: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8142",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8142",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8142",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8142",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8142",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8142",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8142",
+    "before": null,
+    "after": "Forced CEO turnover indicator; unreported model in p.541 footnote22, surrounding Table6A context. Exact undisplayed sample size not stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3567",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3567",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3567",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3567",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3567",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3567",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3567",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3567",
+    "before": null,
+    "after": "Activist × CEO–Chairman duality: differential activism effect on forced CEO turnover, unreported regression p.541 footnote22."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3567",
+    "before": null,
+    "after": "Final p.541 footnote22 reports Activist x CEO–Chairman duality = 0.0454 and duality = -0.098. The surrounding paragraph establishes forced CEO turnover as the outcome, not CAR. OLS is a plausible contextual inference from Table6A, but the footnote does not specify its estimator, controls, FE, sample or precise horizon; method unknown. Binary activism/duality contrast is established. Retain one substantive supporting governance scope; do not invent a second CAR model. Comparing these two coefficients is not a same-outcome level benchmark."
+  }
+]
+```

@@ -35551,7 +35551,16 @@
     "L3566": "0",
     "M3566": "n/a",
     "N3566": "Activism on subsequent acquisition/divestiture probabilities using propensity-score-selected control sample. Final p.534 cites Table IA.5; associated June2020 appendix labels the eight-column result IA.4.",
-    "O3566": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Final p.534 establishes a distinct substantive matching robustness analysis. Associated appendix IA.4 explicitly reports OLS after logistic propensity-score sample construction; logistic selection does not make outcome estimator Other. Final IA.5 vs repository IA.4 numbering conflict remains; no unseen grid inferred."
+    "O3566": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Final p.534 establishes a distinct substantive matching robustness analysis. Associated appendix IA.4 explicitly reports OLS after logistic propensity-score sample construction; logistic selection does not make outcome estimator Other. Final IA.5 vs repository IA.4 numbering conflict remains; no unseen grid inferred.",
+    "A3567": "VPZERBIY",
+    "B3567": "h20",
+    "I3567": "1",
+    "J3567": "unknown",
+    "K3567": "1",
+    "L3567": "0",
+    "M3567": "unknown",
+    "N3567": "Activist × CEO–Chairman duality: differential activism effect on forced CEO turnover, unreported regression p.541 footnote22.",
+    "O3567": "Final p.541 footnote22 reports Activist x CEO–Chairman duality = 0.0454 and duality = -0.098. The surrounding paragraph establishes forced CEO turnover as the outcome, not CAR. OLS is a plausible contextual inference from Table6A, but the footnote does not specify its estimator, controls, FE, sample or precise horizon; method unknown. Binary activism/duality contrast is established. Retain one substantive supporting governance scope; do not invent a second CAR model. Comparing these two coefficients is not a same-outcome level benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -90577,7 +90586,14 @@
     "H8141": "1",
     "I8141": "1",
     "J8141": "none",
-    "K8141": "Indicator for making a divestiture in years [t, t+3]."
+    "K8141": "Indicator for making a divestiture in years [t, t+3].",
+    "A8142": "VPZERBIY",
+    "B8142": "h20",
+    "C8142": "hy1",
+    "H8142": "1",
+    "I8142": "1",
+    "J8142": "none",
+    "K8142": "Forced CEO turnover indicator; unreported model in p.541 footnote22, surrounding Table6A context. Exact undisplayed sample size not stated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
