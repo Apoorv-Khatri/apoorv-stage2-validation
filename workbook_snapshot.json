@@ -31604,7 +31604,16 @@
     "L3209": "1",
     "M3209": "n/a",
     "N3209": "Precrisis low-quality/high-exposure bank status × crisis exposure and lending outcomes, GIIPS banks, Section A1.1.",
-    "O3209": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Final p2869 explicitly identifies a standard difference-in-differences setting; p2875 supplies both the risk-shifting result and substantive government-controlled null. Group exposure is binary; do not treat Crisis alone as treatment. Exact reference group and interactions pending appendix. Source: pp2869/2875 L880–883,1277–1296 Section A1.1."
+    "O3209": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Final p2869 explicitly identifies a standard difference-in-differences setting; p2875 supplies both the risk-shifting result and substantive government-controlled null. Group exposure is binary; do not treat Crisis alone as treatment. Exact reference group and interactions pending appendix. Source: pp2869/2875 L880–883,1277–1296 Section A1.1.",
+    "A3210": "RDVTTVCR",
+    "B3210": "h28",
+    "I3210": "1",
+    "J3210": "DiD_conventional",
+    "K3210": "1",
+    "L3210": "1",
+    "M3210": "n/a",
+    "N3210": "Precrisis low-quality/government-controlled bank status × crisis exposure and lending outcomes, GIIPS banks, Section A1.1.",
+    "O3210": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Final p2869 explicitly identifies a standard difference-in-differences setting; p2875 supplies both the risk-shifting result and substantive government-controlled null. Group exposure is binary; do not treat Crisis alone as treatment. Exact reference group and interactions pending appendix. Source: pp2869/2875 L880–883,1277–1296 Section A1.1."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -83028,7 +83037,14 @@
     "H7597": "unknown",
     "I7597": "unknown",
     "J7597": "unknown",
-    "K7597": "Lending outcome(s) in conventional DiD; exact dependent-variable construction and full reported outcome set unavailable."
+    "K7597": "Lending outcome(s) in conventional DiD; exact dependent-variable construction and full reported outcome set unavailable.",
+    "A7598": "RDVTTVCR",
+    "B7598": "h28",
+    "C7598": "hy1",
+    "H7598": "unknown",
+    "I7598": "unknown",
+    "J7598": "unknown",
+    "K7598": "Lending outcome(s) in conventional DiD; exact dependent-variable construction and full reported outcome set unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
