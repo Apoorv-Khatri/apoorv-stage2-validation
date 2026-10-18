@@ -553026,3 +553026,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:24:14.263026+00:00 — Review SFCSD6BA s5: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I702",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J702",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K702",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L702",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M702",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O702",
+    "before": null,
+    "after": "Firm-month and CBSA-month are two identifying dimensions, not HDFE. Within-office firm-CBSA-month variants use one effective set; same FE category. Random half-sampling is not randomized treatment assignment. Source: Section II.C 'Cross-Sectional Differences by the Salience of Peer Experiences,' Table VI columns (1)-(5), PDF pp. 155-156.."
+  }
+]
+```
