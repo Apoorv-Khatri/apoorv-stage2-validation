@@ -34879,7 +34879,16 @@
     "L3499": "0",
     "M3499": "n/a",
     "N3499": "Lagged Total capital/RWA effect on loan sale, Table4.C columns5–8; baseline,TED interaction,and risk subsamples.",
-    "O3499": "Distinct capital treatment; Tier1 Gap is residual from target-capital regression, not an excluded IV. Bank + loan-year FE two effective dimensions. Supporting measurement robustness."
+    "O3499": "Distinct capital treatment; Tier1 Gap is residual from target-capital regression, not an excluded IV. Bank + loan-year FE two effective dimensions. Supporting measurement robustness.",
+    "A3500": "UUTLYHI2",
+    "B3500": "h6",
+    "I3500": "1",
+    "J3500": "OLS",
+    "K3500": "0",
+    "L3500": "0",
+    "M3500": "n/a",
+    "N3500": "Syndicate loan-share-value-weighted Tier1 capital/RWA effect on nonbank share, Table6 column1.",
+    "O3500": "Different aggregated treatment/target exposure, not just SE/control variant. Only year dummies printed; same OLS rationale as Table5. No linked outcome mean/SD in this table."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88994,7 +89003,11 @@
     "A8019": "UUTLYHI2",
     "B8019": "h5",
     "C8019": "hy1",
-    "K8019": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
+    "K8019": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period.",
+    "A8020": "UUTLYHI2",
+    "B8020": "h6",
+    "C8020": "hy1",
+    "K8020": "Fraction of loan funded by nonbanks, not a binary dependent variable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
