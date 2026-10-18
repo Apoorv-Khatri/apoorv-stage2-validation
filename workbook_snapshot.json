@@ -33093,7 +33093,16 @@
     "L3352": "1",
     "M3352": "n/a",
     "N3352": "Black × After × continuous GenderBiasPCA, Table5B; log and share effects, including 0.046 and 0.004 nulls.",
-    "O3352": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Null specifically supports differentiation of gender and race mechanisms and is discussed with the central bias results. Source: Article pp11–12 Table5B; layout L789–806,910–928."
+    "O3352": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Null specifically supports differentiation of gender and race mechanisms and is discussed with the central bias results. Source: Article pp11–12 Table5B; layout L789–806,910–928.",
+    "A3353": "S9LRTRJP",
+    "B3353": "h3",
+    "I3353": "1",
+    "J3353": "DiD_conventional",
+    "K3353": "0",
+    "L3353": "1",
+    "M3353": "n/a",
+    "N3353": "Female × After × continuous RaceBiasPCA, Table5C; log 0.097 and share 0.004; conditional on Black interaction.",
+    "O3353": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Small cross-bias effect retained, not silently dropped for lack of significance on log outcome. Source: Article pp11–12 Table5C; layout L807–841,850–858."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85836,7 +85845,15 @@
     "A7786": "S9LRTRJP",
     "B7786": "h2",
     "C7786": "hy2",
-    "K7786": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
+    "K7786": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator.",
+    "A7787": "S9LRTRJP",
+    "B7787": "h3",
+    "C7787": "hy1",
+    "K7787": "Log(1+total past-due dollars) in buyer–supplier-month; full-amount outcome.",
+    "A7788": "S9LRTRJP",
+    "B7788": "h3",
+    "C7788": "hy2",
+    "K7788": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
