@@ -559614,3 +559614,498 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:52:46.500898+00:00 — Review TS6H62KJ s12: source-audited coding and linked comparisons
+
+81 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5222",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5223",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5224",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5225",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5226",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5227",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5222",
+    "before": null,
+    "after": "s12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5223",
+    "before": null,
+    "after": "s12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5224",
+    "before": null,
+    "after": "s12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5225",
+    "before": null,
+    "after": "s12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5226",
+    "before": null,
+    "after": "s12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5227",
+    "before": null,
+    "after": "s12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5222",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5223",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5224",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5225",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5226",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5227",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5222",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5223",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5224",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5225",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5226",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5227",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5222",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5223",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5224",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5225",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5226",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5227",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5222",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5223",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5224",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5225",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5226",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5227",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5222",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5223",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5224",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5225",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5226",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5227",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5222",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5223",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5224",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5225",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5226",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5227",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5222",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5223",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5224",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5225",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5226",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5227",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5222",
+    "before": null,
+    "after": "Table6 PanelA, p.414, unconditional: High-Low raw monthly return -0.54 percentage points, deliberately alongside Low mean 0.99% per month; US stock portfolios July1963–December2017, value weights. Not a benchmark for CAPM alpha."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5223",
+    "before": null,
+    "after": "Table6 PanelA, p.414, Small: High-Low raw monthly return -0.49 percentage points, deliberately alongside Low mean 1.02% per month; US stock portfolios July1963–December2017, value weights. Not a benchmark for CAPM alpha."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5224",
+    "before": null,
+    "after": "Table6 PanelA, p.414, size2: High-Low raw monthly return -0.54 percentage points, deliberately alongside Low mean 1.03% per month; US stock portfolios July1963–December2017, value weights. Not a benchmark for CAPM alpha."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5225",
+    "before": null,
+    "after": "Table6 PanelA, p.414, size3: High-Low raw monthly return -0.51 percentage points, deliberately alongside Low mean 0.99% per month; US stock portfolios July1963–December2017, value weights. Not a benchmark for CAPM alpha."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5226",
+    "before": null,
+    "after": "Table6 PanelA, p.414, size4: High-Low raw monthly return -0.36 percentage points, deliberately alongside Low mean 0.81% per month; US stock portfolios July1963–December2017, value weights. Not a benchmark for CAPM alpha."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5227",
+    "before": null,
+    "after": "Table6 PanelA, p.414, Large: High-Low raw monthly return -0.24 percentage points, deliberately alongside Low mean 0.7% per month; US stock portfolios July1963–December2017, value weights. Not a benchmark for CAPM alpha."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5222",
+    "before": null,
+    "after": "Endpoint mean explicitly in same row as extreme-group contrast. No verbal effect/base normalization. Low-group observed mean is not established as untreated potential mean for the high-group or another stated causal target under the observational sort; target/weights needed for alignment are unresolved. Table caption says return, not explicitly excess return."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5223",
+    "before": null,
+    "after": "Endpoint mean explicitly in same row as extreme-group contrast. No verbal effect/base normalization. Low-group observed mean is not established as untreated potential mean for the high-group or another stated causal target under the observational sort; target/weights needed for alignment are unresolved. Table caption says return, not explicitly excess return."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5224",
+    "before": null,
+    "after": "Endpoint mean explicitly in same row as extreme-group contrast. No verbal effect/base normalization. Low-group observed mean is not established as untreated potential mean for the high-group or another stated causal target under the observational sort; target/weights needed for alignment are unresolved. Table caption says return, not explicitly excess return."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5225",
+    "before": null,
+    "after": "Endpoint mean explicitly in same row as extreme-group contrast. No verbal effect/base normalization. Low-group observed mean is not established as untreated potential mean for the high-group or another stated causal target under the observational sort; target/weights needed for alignment are unresolved. Table caption says return, not explicitly excess return."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5226",
+    "before": null,
+    "after": "Endpoint mean explicitly in same row as extreme-group contrast. No verbal effect/base normalization. Low-group observed mean is not established as untreated potential mean for the high-group or another stated causal target under the observational sort; target/weights needed for alignment are unresolved. Table caption says return, not explicitly excess return."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5227",
+    "before": null,
+    "after": "Endpoint mean explicitly in same row as extreme-group contrast. No verbal effect/base normalization. Low-group observed mean is not established as untreated potential mean for the high-group or another stated causal target under the observational sort; target/weights needed for alignment are unresolved. Table caption says return, not explicitly excess return."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1790",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1791",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1790",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1791",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1790",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1791",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1790",
+    "before": null,
+    "after": "Monthly portfolio return (% per month) for the raw high-minus-low coskewness spread, unconditional and within size quintiles, Table6 PanelA p.414. CAPM alpha is the factor-adjusted return contrast, not a separate measured dependent outcome. The table caption does not establish that its raw endpoint means are excess returns; do not describe them unconditionally as excess. No evidence establishing probability mass at zero. Raw endpoint means are benchmarks only for raw spreads, not for CAPM alphas."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1791",
+    "before": null,
+    "after": "duplicate of y1 as a dependent outcome: CAPM alpha is an adjusted return contrast, not a separate measured outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I740",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J740",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K740",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L740",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M740",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N740",
+    "before": null,
+    "after": "High versus low predicted coskewness quintile: raw return spread and CAPM-adjusted spread, Table6 PanelA p.414; includes the unconditional first row and within-size-quintile rows. Binary implemented extreme-group contrast; intermediate quintiles describe the dose pattern."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O740",
+    "before": null,
+    "after": "OLS-family linear mean contrasts and factor-adjusted contrasts conditional on past-information sorts. Not matching: double sorting controls size descriptively, with no matching-effect estimator. CAPM factor is not FE. Main: introduction uses this to distinguish systematic skewness from size."
+  }
+]
+```
