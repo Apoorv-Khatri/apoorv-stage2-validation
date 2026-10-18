@@ -553377,3 +553377,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:27:01.851463+00:00 — Review SFCSD6BA s12: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I709",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J709",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K709",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L709",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M709",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O709",
+    "before": null,
+    "after": "Firm-month and CBSA-month are two identifying dimensions, not HDFE. Within-office firm-CBSA-month variants use one effective set; same FE category. Random half-sampling is not randomized treatment assignment. Main=1: conclusion p169 explicitly identifies men and younger workers as most susceptible to peer influence; supersedes original supporting-only rationale. Source: Section II.E 'Peer Effects on the Timing of Participators’ Stock Sales,' Table XII columns (3)-(4), PDF pp. 167-168.."
+  }
+]
+```
