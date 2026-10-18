@@ -532500,3 +532500,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T10:29:01.164875+00:00 — Review RMH5X4LW s11: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1687",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1688",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1687",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1688",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1687",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1688",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1687",
+    "before": null,
+    "after": "spurious: parent s11 is a specification/inference exercise, not a causal setting; retain original model definition unchanged."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1688",
+    "before": null,
+    "after": "spurious: parent s11 is a specification/inference exercise, not a causal setting; retain original model definition unchanged."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E72",
+    "before": null,
+    "after": "DONE — Full available-source review of14 final article pages and36 publisher-supplement pages with independent audit. Reject11 original settings as pricing-restriction, SDF-set and specification estimands rather than author-interpreted causal responses; preserve21 outcomes as inactive. No qualifying additions or comparisons. Rejection is not based on weak identification or significance: identified Table5B, alternative algorithms, nonzero-mean labor submodels and Fama-French extension independently considered. Avoid blanket application of p346 quotation; contrary significant mean tests retained in evidence. Publisher supplement independently re-downloaded byte-identically. Frequency/dimensionality conflicts and printed numerical anomalies preserved. Original fields,IDs and links unchanged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I668",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O668",
+    "before": null,
+    "after": "Spurious causal setting: Table 6A/B, p349: both 2S and IT reproduce pricing/mean/dimension tests, including the identified one-dimensional industry-portfolio model. Section 5.3 and Table 5 describe monthly nominal excess returns, but Table 6 note literally says quarterly real returns; Table E2 repeats the conflicting note. Preserve this discrepancy; it does not supply a causal setting. Structural effects and substantive causal nulls would qualify; neither a policy intervention nor strong identification is required by the gate. Source: Table 6A/B, p349/PDF12; L861–921."
+  }
+]
+```
