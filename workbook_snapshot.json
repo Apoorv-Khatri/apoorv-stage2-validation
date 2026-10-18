@@ -34402,7 +34402,16 @@
     "L3457": "0",
     "M3457": "n/a",
     "N3457": "Blue Chip term-spread forecast error effect on aggregate net equity repurchases and net debt issuance, Table VIII.A columns 2/4; continuous dose, OLS with baseline controls. Printed coefficients 0.0004/0.0002.",
-    "O3457": "Section V/intro p.3044 explicitly frames sentiment and supply as drivers of financing. No IV. For Treasury supply: change in outstanding notes/bonds excluding monetary authorities and foreigners /quarterly GDP (p.3083). Table VIII caption incorrectly calls C columns 5/6; actual headings 7/8. Main=0: additional mechanism, not main valuation/heterogeneity claim."
+    "O3457": "Section V/intro p.3044 explicitly frames sentiment and supply as drivers of financing. No IV. For Treasury supply: change in outstanding notes/bonds excluding monetary authorities and foreigners /quarterly GDP (p.3083). Table VIII caption incorrectly calls C columns 5/6; actual headings 7/8. Main=0: additional mechanism, not main valuation/heterogeneity claim.",
+    "A3458": "UK6BI2QX",
+    "B3458": "h23",
+    "I3458": "1",
+    "J3458": "OLS",
+    "K3458": "0",
+    "L3458": "0",
+    "M3458": "n/a",
+    "N3458": "closed-end equity fund discount effect on aggregate net equity repurchases and net debt issuance, Table VIII.B columns 5/6; continuous dose, OLS with baseline controls. Printed coefficients 0.0108/0.0096.",
+    "O3458": "Section V/intro p.3044 explicitly frames sentiment and supply as drivers of financing. No IV. For Treasury supply: change in outstanding notes/bonds excluding monetary authorities and foreigners /quarterly GDP (p.3083). Table VIII caption incorrectly calls C columns 5/6; actual headings 7/8. Main=0: additional mechanism, not main valuation/heterogeneity claim."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88111,7 +88120,15 @@
     "A7953": "UK6BI2QX",
     "B7953": "h22",
     "C7953": "hy2",
-    "K7953": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged assets; percentage points."
+    "K7953": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged assets; percentage points.",
+    "A7954": "UK6BI2QX",
+    "B7954": "h23",
+    "C7954": "hy1",
+    "K7954": "Aggregate quarterly net equity repurchases of U.S. nonfinancial corporations, normalized by lagged assets; percentage points.",
+    "A7955": "UK6BI2QX",
+    "B7955": "h23",
+    "C7955": "hy2",
+    "K7955": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged assets; percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
