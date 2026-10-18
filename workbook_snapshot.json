@@ -34312,7 +34312,16 @@
     "L3447": "1",
     "M3447": "n/a",
     "N3447": "Lagged firm-level predicted 12-month excess stock return effect on four simultaneous financing indicators; Table IV.A/B, columns 3/6. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments.",
-    "O3447": "Nonlinear logit is Other despite one firm FE dimension; causal response of financing to relative valuations, pp.3065–3068. Treatment continuous, outcomes binary. Odds multipliers 1.2/1.1 are not outcome-mean/SD comparisons; Table IA8 LPM comparison cannot be transferred here."
+    "O3447": "Nonlinear logit is Other despite one firm FE dimension; causal response of financing to relative valuations, pp.3065–3068. Treatment continuous, outcomes binary. Odds multipliers 1.2/1.1 are not outcome-mean/SD comparisons; Table IA8 LPM comparison cannot be transferred here.",
+    "A3448": "UK6BI2QX",
+    "B3448": "h13",
+    "I3448": "1",
+    "J3448": "OLS",
+    "K3448": "0",
+    "L3448": "1",
+    "M3448": "n/a",
+    "N3448": "Lagged aggregate term spread effect on net equity repurchases and net debt issuance, quarterly flows /lagged assets; Table VII, columns 1/4. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments.",
+    "O3448": "Causally interpreted aggregate OLS, not FE or IV: equations 6/7 and pp.3075–3078 connect pricing conditions to financing responses. Newey-West SE are not an identification method. Central aggregate conclusion; main=1."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87949,7 +87958,15 @@
     "A7935": "UK6BI2QX",
     "B7935": "h12",
     "C7935": "hy4",
-    "K7935": "Indicator equal to 1 if the firm issues more equity than its own average and retires more debt than its own average in the same quarter: 1{S_it < Sbar_i, D_it < Dbar_i}."
+    "K7935": "Indicator equal to 1 if the firm issues more equity than its own average and retires more debt than its own average in the same quarter: 1{S_it < Sbar_i, D_it < Dbar_i}.",
+    "A7936": "UK6BI2QX",
+    "B7936": "h13",
+    "C7936": "hy1",
+    "K7936": "Aggregate quarterly net equity repurchases of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets.",
+    "A7937": "UK6BI2QX",
+    "B7937": "h13",
+    "C7937": "hy2",
+    "K7937": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -146350,7 +146367,18 @@
     "O5243": "1",
     "P5243": "unknown",
     "Q5243": "p.3077/Table VII column 1: one-SD decrease in credit spread associated with roughly 0.25 outcome-SD increase in net equity repurchases; printed coefficient −0.0206. Table II.B outcome SD 0.18 percentage points, N=124 aggregate quarters.",
-    "R5243": "Aggregate 1985Q1–2015Q4 outcome SD, Table II.B; same sample/scale established but continuous conditional regression target and relevant reference-dose weighting not established. Unknown alignment, not automatic 1 or 0. No ratio calculated by reviewer attributed to author."
+    "R5243": "Aggregate 1985Q1–2015Q4 outcome SD, Table II.B; same sample/scale established but continuous conditional regression target and relevant reference-dose weighting not established. Unknown alignment, not automatic 1 or 0. No ratio calculated by reviewer attributed to author.",
+    "A5244": "UK6BI2QX",
+    "B5244": "h13",
+    "C5244": "hc1",
+    "K5244": "1",
+    "L5244": "hy1",
+    "M5244": "outcome_sd",
+    "N5244": "1",
+    "O5244": "1",
+    "P5244": "unknown",
+    "Q5244": "p.3077/Table VII column 1: one-SD decrease in term spread associated with roughly 0.25 outcome-SD increase in net equity repurchases; printed coefficient −0.0462. Table II.B outcome SD 0.18 percentage points, N=124 aggregate quarters.",
+    "R5244": "Aggregate 1985Q1–2015Q4 outcome SD, Table II.B; same sample/scale established but continuous conditional regression target and relevant reference-dose weighting not established. Unknown alignment, not automatic 1 or 0. No ratio calculated by reviewer attributed to author."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
