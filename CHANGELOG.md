@@ -560598,3 +560598,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:55:06.316151+00:00 — Review TS6H62KJ s18: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1803",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1804",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1803",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1804",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1803",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1804",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1803",
+    "before": null,
+    "after": "Monthly portfolio excess return (% per month); focal estimate is the stated raw or factor-adjusted high-low/low-high contrast, not an alpha-valued dependent variable. No evidence establishing an atom at zero. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1804",
+    "before": null,
+    "after": "duplicate of y1 as a dependent outcome: factor loading(s) are regression parameters of the return outcome, not additional dependent outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J746",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M746",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O746",
+    "before": null,
+    "after": "Retain broad author gate for skewness pricing: pp.414–415 explicitly test whether preference-induced lower expected returns are empirically important; p.417 links low-minus-high alpha to pricing. No claim of randomized portfolio assignment. OLS time-series factor-adjusted low-high return contrast, conditional on forecast sorts/factor paths; factors are not FE. Main nulls/positive results jointly establish weak robustness of idiosyncratic skewness. Betas are fitted parameters, not separately measured dependent outcomes."
+  }
+]
+```
