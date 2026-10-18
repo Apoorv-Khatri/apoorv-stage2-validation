@@ -572529,3 +572529,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:11:57.057846+00:00 — Review UTRUH2FR h23: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8009",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8009",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8009",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8009",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8009",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8009",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8009",
+    "before": null,
+    "after": "Incumbent-party reelection indicator in A4; final narrative reports similarly higher reelection for non-high-risk usage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3491",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3491",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3491",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3491",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3491",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3491",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3491",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3491",
+    "before": null,
+    "after": "High-risk structured-loan use indicator effect in distance-instrumented reelection probit, TableA4 replication of Table8 established p.1931."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3491",
+    "before": null,
+    "after": "p.1931 explicitly reports the instrumental-variable risk decomposition after separately replicating Table8. Retain only the preferred reelection/tax outcome scopes for each named binary treatment; no inferred naive-model grid, no appendix column labels or coefficients. Estimator family inherited narrowly from the stated Table8 replication: nonlinear reelection Other; instrumented linear tax unknown as s7. One distance variable is described in Table8, not independently verified in unavailable A4. Supporting main0; appendix placement alone is not the reason."
+  }
+]
+```
