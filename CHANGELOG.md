@@ -553218,3 +553218,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:25:43.351916+00:00 — Review SFCSD6BA s9: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K402",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R402",
+    "before": null,
+    "after": "Spurious linkage of descriptive outcome mean from Table II/p141 to focal effect. Relevant results report percentage-point effects, without explicit effect/mean comparison or deliberate same-column mean pairing. Verbal effect interpretation alone is not a qualifying comparison. Eligibility fails before verbal/division/alignment coding."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I706",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J706",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K706",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L706",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M706",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O706",
+    "before": null,
+    "after": "Firm-month and CBSA-month are two identifying dimensions, not HDFE. Within-office firm-CBSA-month variants use one effective set; same FE category. Random half-sampling is not randomized treatment assignment. Correction to original identification wording: random half-sampling removes own-observation mechanical correlation and leave-one-out exclusion bias; it does not by itself solve simultaneous peer influence (reflection) or establish exogeneity (p147). Source: Section II.E 'Peer Effects on the Timing of Participators’ Stock Sales,' Table XI column (1), PDF pp. 165-166.."
+  }
+]
+```
