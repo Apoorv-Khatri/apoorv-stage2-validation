@@ -558702,3 +558702,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:23:50.895486+00:00 — Review TRCRCTBB h8: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7864",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7865",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7866",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7867",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7864",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7865",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7866",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7867",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7864",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7865",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7866",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7867",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7864",
+    "before": null,
+    "after": "NetSellFirm: sum over managers of (shares sold minus purchased)/lagged firm shares ×1000; Appendix A p.3442/Table XI.B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7865",
+    "before": null,
+    "after": "SellFirm: sum over managers of shares sold/lagged firm shares ×1000; Appendix A p.3442/Table XI.B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7866",
+    "before": null,
+    "after": "BuyFirm: sum over managers of shares purchased/lagged firm shares ×1000; Appendix A p.3442/Table XI.B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7867",
+    "before": null,
+    "after": "Sell/(Sell+Buy)Firm: average manager sale share, not ratio of firm aggregate sales to purchases; Appendix A p.3442/Table XI.B."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3404",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3404",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3404",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3404",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3404",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3404",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3404",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3404",
+    "before": null,
+    "after": "Total ΔPOt effect on firm-aggregate insider net sales, sales, purchases and mean sale share, Table XI.B p.3437; firm/year FE. Firm aggregates are distinct from individual-manager panel A estimands."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3404",
+    "before": null,
+    "after": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
+  }
+]
+```

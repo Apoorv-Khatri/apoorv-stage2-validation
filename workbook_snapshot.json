@@ -33745,7 +33745,16 @@
     "L3403": "1",
     "M3403": "n/a",
     "N3403": "Lagged already-disclosed ΔPOt−1 effects on Q1t net equity/debt issuance, Table VII.A/B columns 5–6 pp.3427–3429; firm/year FE. Central disappearance-after-disclosure mechanism, including current-dose adjustment variant.",
-    "O3403": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
+    "O3403": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation.",
+    "A3404": "TRCRCTBB",
+    "B3404": "h8",
+    "I3404": "1",
+    "J3404": "FE",
+    "K3404": "0",
+    "L3404": "1",
+    "M3404": "n/a",
+    "N3404": "Total ΔPOt effect on firm-aggregate insider net sales, sales, purchases and mean sale share, Table XI.B p.3437; firm/year FE. Firm aggregates are distinct from individual-manager panel A estimands.",
+    "O3404": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86954,7 +86963,23 @@
     "A7863": "TRCRCTBB",
     "B7863": "h7",
     "C7863": "hy2",
-    "K7863": "Net debt issuance in Q1t; Table VII.B columns 5–6. Nonbinary normalized flow."
+    "K7863": "Net debt issuance in Q1t; Table VII.B columns 5–6. Nonbinary normalized flow.",
+    "A7864": "TRCRCTBB",
+    "B7864": "h8",
+    "C7864": "hy1",
+    "K7864": "NetSellFirm: sum over managers of (shares sold minus purchased)/lagged firm shares ×1000; Appendix A p.3442/Table XI.B.",
+    "A7865": "TRCRCTBB",
+    "B7865": "h8",
+    "C7865": "hy2",
+    "K7865": "SellFirm: sum over managers of shares sold/lagged firm shares ×1000; Appendix A p.3442/Table XI.B.",
+    "A7866": "TRCRCTBB",
+    "B7866": "h8",
+    "C7866": "hy3",
+    "K7866": "BuyFirm: sum over managers of shares purchased/lagged firm shares ×1000; Appendix A p.3442/Table XI.B.",
+    "A7867": "TRCRCTBB",
+    "B7867": "h8",
+    "C7867": "hy4",
+    "K7867": "Sell/(Sell+Buy)Firm: average manager sale share, not ratio of firm aggregate sales to purchases; Appendix A p.3442/Table XI.B."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
