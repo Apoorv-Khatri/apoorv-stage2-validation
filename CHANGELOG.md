@@ -569793,3 +569793,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:03:01.202806+00:00 — Review UTRUH2FR s4: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K425",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R425",
+    "before": null,
+    "after": "p.1923 10% more likely is explicitly marginal probability effect. No stated post-election probability or demonstrated ratio to a baseline; percent probability effect alone not qualifying. other_level cannot stand for an unnamed reference period. Hold relative-vs-percentage-point interpretation unresolved; do not transfer to linear Panel B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1830",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1830",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1830",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J758",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M758",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N758",
+    "before": null,
+    "after": "2008Q1 election exposure × pre-election period effect on quarterly structured-transaction indicator, Table6.A columns1/2 conditional logit, ±18/12-month windows. Linear panel B split to h5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O758",
+    "before": null,
+    "after": "Nonlinear conditional logit Other, despite DiD identifying argument. Two FE dimensions (local government and quarter); no HDFE. Main=1 as central election-timing result; placebo random-label columns3/4 excluded. No modern DiD implemented. Marginal probability wording 10% more likely does not establish a benchmark-normalized ratio."
+  }
+]
+```
