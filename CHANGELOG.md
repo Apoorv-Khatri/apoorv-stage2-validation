@@ -602820,3 +602820,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:48:28.080379+00:00 — Review WZZQX3TX h17: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5366",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5367",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5366",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5367",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5366",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5367",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5366",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5367",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5366",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5367",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5366",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5367",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5366",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5367",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5366",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5367",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5366",
+    "before": null,
+    "after": "Table VIII column 2: log(1+count) coefficient 0.33, marginal effect (at mean) 1.37 directors. Table I mean count 3.14 connected; log1p derivative uses 1+mean, not mean alone."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5367",
+    "before": null,
+    "after": "Table VIII column 5: log(1+count) coefficient 0.05, marginal effect (at mean) 0.19 directors. Table I mean count 2.80 nonconnected; log1p derivative uses 1+mean, not mean alone."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5366",
+    "before": null,
+    "after": "Deliberate same-outcome level-mean conversion qualifies; multiplication, not division. Full-sample mixed-exposure level mean does not represent the local untreated cutoff target. FD uses a differenced transformed outcome with a level-mean conversion, not an aligned growth-rate mean. Preserve distinct coefficients by column even where rounding coincides."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5367",
+    "before": null,
+    "after": "Deliberate same-outcome level-mean conversion qualifies; multiplication, not division. Full-sample mixed-exposure level mean does not represent the local untreated cutoff target. FD uses a differenced transformed outcome with a level-mean conversion, not an aligned growth-rate mean. Preserve distinct coefficients by column even where rounding coincides."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8238",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8239",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8238",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8239",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8238",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8239",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8238",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8239",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8238",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8239",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8238",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8239",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8238",
+    "before": null,
+    "after": "First difference of log(1+connected independent-director count). Zero prevalence unknown in focal subsample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8239",
+    "before": null,
+    "after": "First difference of log(1+nonconnected independent-director count). Zero prevalence unknown in focal subsample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3633",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3633",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3633",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3633",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3633",
+    "before": null,
+    "after": "Any implied violation on connected and nonconnected independent-director counts, Table VIII columns 2 and 5; FD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3633",
+    "before": null,
+    "after": "RD precedence: equation (3) implements a direct discontinuity at binding distance zero with side-specific polynomials in a narrow window. Firm/year FE address selection and heterogeneity but do not override the implemented cutoff design (prompt lines24,30,41). No instrumented receipt. Keep authors’ manipulation, heterogeneous thresholds and switcher-target limitations; this taxonomy does not assert random crossing. First-differenced implementation retained separately for its reported outcome scale and estimator, not an independent FE design. Underlying binary cutoff exposure; first differencing the regressor does not change that binary intervention."
+  }
+]
+```
