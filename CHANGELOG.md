@@ -548868,3 +548868,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:35:15.921745+00:00 — Review S3X8G9NP h12: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7774",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7775",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7776",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7777",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7774",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7775",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7776",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7777",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7774",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7775",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7776",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7777",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7774",
+    "before": null,
+    "after": "Log total commercial-bank assets (dollars); counties without commercial banks omitted (p201 fn2). Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7775",
+    "before": null,
+    "after": "Log total commercial-bank deposits (dollars). Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7776",
+    "before": null,
+    "after": "Reported log number of investment banks; source does not specify zero-count handling. Do not infer log1p despite inclusion of counties without investment banks. Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7777",
+    "before": null,
+    "after": "Indicator for at least one investment bank in county-year (0/1). Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3349",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3349",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3349",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3349",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3349",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3349",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3349",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3349",
+    "before": null,
+    "after": "Third county subscription rate × post-1918 in joint regional 2SLS, Idaho and neighbors; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3349",
+    "before": null,
+    "after": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Third rate included exogenous, not itself instrumented; switch×post instruments increment. Repeated all-state col2 maps to h4. County/year FE. Nonbinary third-rate treatment. Independent audit: IV code denotes the implemented joint 2SLS system, not instrumented third-rate receipt. The included third-rate coefficient is separately retained because it is substantively interpreted (p211 independent-interest statement; Table7 joint lasting-effects discussion; A3 regional counterpart). Ordinary nuisance controls are not added as treatments. Source: Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193."
+  }
+]
+```

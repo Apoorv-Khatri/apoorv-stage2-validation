@@ -33014,7 +33014,16 @@
     "L3348": "0",
     "M3348": "n/a",
     "N3348": "Third-to-fourth county subscription increment × post-1918, Idaho and neighbors; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193.",
-    "O3348": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. OLS-labelled conventional intensity DiD, county/year FE; null responses retained. Repeated all-state col1 maps to h3. Source: Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193."
+    "O3348": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. OLS-labelled conventional intensity DiD, county/year FE; null responses retained. Repeated all-state col1 maps to h3. Source: Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193.",
+    "A3349": "S3X8G9NP",
+    "B3349": "h12",
+    "I3349": "1",
+    "J3349": "IV",
+    "K3349": "0",
+    "L3349": "0",
+    "M3349": "single binary",
+    "N3349": "Third county subscription rate × post-1918 in joint regional 2SLS, Idaho and neighbors; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193.",
+    "O3349": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Third rate included exogenous, not itself instrumented; switch×post instruments increment. Repeated all-state col2 maps to h4. County/year FE. Nonbinary third-rate treatment. Independent audit: IV code denotes the implemented joint 2SLS system, not instrumented third-rate receipt. The included third-rate coefficient is separately retained because it is substantively interpreted (p211 independent-interest statement; Table7 joint lasting-effects discussion; A3 regional counterpart). Ordinary nuisance controls are not added as treatments. Source: Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85677,7 +85686,23 @@
     "A7773": "S3X8G9NP",
     "B7773": "h11",
     "C7773": "hy4",
-    "K7773": "Indicator for at least one investment bank in county-year (0/1). Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193"
+    "K7773": "Indicator for at least one investment bank in county-year (0/1). Appendix TableA3 panelsA–D col3, supplement PDFp5/printed p4; L131–193",
+    "A7774": "S3X8G9NP",
+    "B7774": "h12",
+    "C7774": "hy1",
+    "K7774": "Log total commercial-bank assets (dollars); counties without commercial banks omitted (p201 fn2). Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193",
+    "A7775": "S3X8G9NP",
+    "B7775": "h12",
+    "C7775": "hy2",
+    "K7775": "Log total commercial-bank deposits (dollars). Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193",
+    "A7776": "S3X8G9NP",
+    "B7776": "h12",
+    "C7776": "hy3",
+    "K7776": "Reported log number of investment banks; source does not specify zero-count handling. Do not infer log1p despite inclusion of counties without investment banks. Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193",
+    "A7777": "S3X8G9NP",
+    "B7777": "h12",
+    "C7777": "hy4",
+    "K7777": "Indicator for at least one investment bank in county-year (0/1). Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
