@@ -31559,7 +31559,16 @@
     "L3204": "0",
     "M3204": "unknown",
     "N3204": "Risk Change GIIPS Sov Debt2010 alternative balance-sheet-hit proxy and lending outcomes, non-GIIPS banks, TableA7.",
-    "O3204": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2872 fn17 / p2874 fn18; L1120–1121,1261–1262 TableA7."
+    "O3204": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2872 fn17 / p2874 fn18; L1120–1121,1261–1262 TableA7.",
+    "A3205": "RDVTTVCR",
+    "B3205": "h23",
+    "I3205": "1",
+    "J3205": "unknown",
+    "K3205": "0",
+    "L3205": "0",
+    "M3205": "unknown",
+    "N3205": "Risk Change GIIPS Sov Debt2010 alternative balance-sheet-hit proxy and lending outcomes, GIIPS banks, TableA8.",
+    "O3205": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2872 fn17 / p2874 fn18; L1120–1121,1261–1262 TableA8."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82935,7 +82944,13 @@
     "C7588": "hy1",
     "I7588": "unknown",
     "J7588": "unknown",
-    "K7588": "Loan volume, lending-decrease propensity and spreads; no coefficient grid or exact estimator inferred."
+    "K7588": "Loan volume, lending-decrease propensity and spreads; no coefficient grid or exact estimator inferred.",
+    "A7589": "RDVTTVCR",
+    "B7589": "h23",
+    "C7589": "hy1",
+    "I7589": "unknown",
+    "J7589": "unknown",
+    "K7589": "Loan volume, lending-decrease propensity and spreads; no coefficient grid or exact estimator inferred."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
