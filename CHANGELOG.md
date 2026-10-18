@@ -553770,3 +553770,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:28:49.915763+00:00 — Review SFCSD6BA h5: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7831",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7831",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7831",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7831",
+    "before": null,
+    "after": "Indicator of ESPP participation in biannual window."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3377",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3377",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3377",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3377",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3377",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3377",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3377",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3377",
+    "before": null,
+    "after": "low-information HE peers’ participation rate, with own high-information interaction; Table IX col2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3377",
+    "before": null,
+    "after": "Two identifying FE: firm-month and CBSA-month. Peer rate is continuous; binary moderator does not make this peer-dose estimand binary. Preserve null and negative interaction estimates. Routine sample variants grouped. Source: pp162–164 Table IX."
+  }
+]
+```
