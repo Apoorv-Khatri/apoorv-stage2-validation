@@ -549870,3 +549870,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:54:17.256013+00:00 — Review S9LRTRJP h1: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7783",
+    "before": null,
+    "after": "S9LRTRJP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7784",
+    "before": null,
+    "after": "S9LRTRJP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7783",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7784",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7783",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7784",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7784",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7783",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7784",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7783",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7784",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7783",
+    "before": null,
+    "after": "Log(1+total past-due dollars) in buyer–supplier-month; full-amount outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7784",
+    "before": null,
+    "after": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3351",
+    "before": null,
+    "after": "S9LRTRJP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3351",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3351",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3351",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3351",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3351",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3351",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3351",
+    "before": null,
+    "after": "Black × After, Table4A/B, conditional on Female × After; includes statistically insignificant share effect 0.016 in col5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3351",
+    "before": null,
+    "after": "Conventional post-COVID differential change; method precedence overrides FE and OLS implementation. October 2019–May 2020; March onset in text versus caption saying after March is a source timing ambiguity, not silently repaired. Parallel counterfactual trends and no remaining differential shocks are maintained, not established by coding. Distinct treatment split from s2, not a new estimator. Source: Article pp8–9 Table4; layout L521–553,611–651."
+  }
+]
+```

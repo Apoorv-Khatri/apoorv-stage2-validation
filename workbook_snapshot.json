@@ -33075,7 +33075,16 @@
     "L3350": "0",
     "M3350": "single binary",
     "N3350": "Third-to-fourth county subscription increment × post-1918, Idaho and neighbors; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193.",
-    "O3350": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Single excluded binary switch×post. Null/noisy investment-bank effects retained: log count 0.026 and presence 0.013; respective confidence sets include zero. All-state repeated col2 maps to s6. Source: Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193."
+    "O3350": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Single excluded binary switch×post. Null/noisy investment-bank effects retained: log count 0.026 and presence 0.013; respective confidence sets include zero. All-state repeated col2 maps to s6. Source: Appendix TableA3 panelsA–D col4, supplement PDFp5/printed p4; L131–193.",
+    "A3351": "S9LRTRJP",
+    "B3351": "h1",
+    "I3351": "1",
+    "J3351": "DiD_conventional",
+    "K3351": "1",
+    "L3351": "1",
+    "M3351": "n/a",
+    "N3351": "Black × After, Table4A/B, conditional on Female × After; includes statistically insignificant share effect 0.016 in col5.",
+    "O3351": "Conventional post-COVID differential change; method precedence overrides FE and OLS implementation. October 2019–May 2020; March onset in text versus caption saying after March is a source timing ambiguity, not silently repaired. Parallel counterfactual trends and no remaining differential shocks are maintained, not established by coding. Distinct treatment split from s2, not a new estimator. Source: Article pp8–9 Table4; layout L521–553,611–651."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85796,7 +85805,21 @@
     "H7782": "0",
     "I7782": "1",
     "J7782": "ihs",
-    "K7782": "Inverse hyperbolic sine of total past-due dollars; implemented robustness reports quantitative and qualitative similarity; no numerical coefficients supplied. Only immediate Table3 baseline context, not automatically every later model."
+    "K7782": "Inverse hyperbolic sine of total past-due dollars; implemented robustness reports quantitative and qualitative similarity; no numerical coefficients supplied. Only immediate Table3 baseline context, not automatically every later model.",
+    "A7783": "S9LRTRJP",
+    "B7783": "h1",
+    "C7783": "hy1",
+    "H7783": "0",
+    "I7783": "unknown",
+    "J7783": "log1p",
+    "K7783": "Log(1+total past-due dollars) in buyer–supplier-month; full-amount outcome.",
+    "A7784": "S9LRTRJP",
+    "B7784": "h1",
+    "C7784": "hy2",
+    "H7784": "0",
+    "I7784": "unknown",
+    "J7784": "none",
+    "K7784": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
