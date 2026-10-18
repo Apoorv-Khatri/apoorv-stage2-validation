@@ -35275,7 +35275,16 @@
     "L3543": "0",
     "M3543": "n/a",
     "N3543": "Equally weighted bank wholesale funding dependence effect on2007–2008 loan price change,IA.XX columns3–4.",
-    "O3543": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Separate251-loan sample, not the116-loan Table11 coefficient. Visual inspection confirms delta in loan-price heading, omitted by text extraction; caption also specifies change. No paired mean or author-normalized outcome comparison."
+    "O3543": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Separate251-loan sample, not the116-loan Table11 coefficient. Visual inspection confirms delta in loan-price heading, omitted by text extraction; caption also specifies change. No paired mean or author-normalized outcome comparison.",
+    "A3544": "UUTLYHI2",
+    "B3544": "h50",
+    "I3544": "1",
+    "J3544": "OLS",
+    "K3544": "0",
+    "L3544": "0",
+    "M3544": "n/a",
+    "N3544": "Lagged nonbank share effect on annual credit growth and loan exit during2003–2006 benign years,IA.XXI.",
+    "O3544": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote54 explicitly examines positive credit-availability effects and reports null; supporting substantive outcome, not diagnostic pretrend of a treated/post design. Year-specific columns grouped as routine period variants at same location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89618,7 +89627,15 @@
     "A8070": "UUTLYHI2",
     "B8070": "h49",
     "C8070": "hy1",
-    "K8070": "Change in average bid-ask midpoint loan price, average2008 minus average2007, author-associated IA.XX columns3–4; separate251-loan sample, not Table11 or Figures4/5."
+    "K8070": "Change in average bid-ask midpoint loan price, average2008 minus average2007, author-associated IA.XX columns3–4; separate251-loan sample, not Table11 or Figures4/5.",
+    "A8071": "UUTLYHI2",
+    "B8071": "h50",
+    "C8071": "hy1",
+    "K8071": "Annual symmetric loan credit growth,years2003–2006.",
+    "A8072": "UUTLYHI2",
+    "B8072": "h50",
+    "C8072": "hy2",
+    "K8072": "Loan exit indicator between preceding year and current year,years2003–2006."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
