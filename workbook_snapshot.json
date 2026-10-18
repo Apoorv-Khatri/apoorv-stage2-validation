@@ -31622,7 +31622,16 @@
     "L3211": "0",
     "M3211": "unknown",
     "N3211": "Indirect GIIPS Sov Risk and firm policies in less restrictive FE specifications, Table A11.",
-    "O3211": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2880 fn20 L1596–1599."
+    "O3211": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2880 fn20 L1596–1599.",
+    "A3212": "RDVTTVCR",
+    "B3212": "h30",
+    "I3212": "1",
+    "J3212": "unknown",
+    "K3212": "0",
+    "L3212": "0",
+    "M3212": "unknown",
+    "N3212": "Indirect Sov Risk using entire sovereign portfolio, rather than GIIPS-only holdings, and firm financial/real outcomes, Table A12B.",
+    "O3212": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2878 L1468–1476."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -83059,7 +83068,13 @@
     "C7599": "hy1",
     "I7599": "unknown",
     "J7599": "unknown",
-    "K7599": "Financial and real outcomes in baseline robustness; exact subset and FE/OLS splits not established."
+    "K7599": "Financial and real outcomes in baseline robustness; exact subset and FE/OLS splits not established.",
+    "A7600": "RDVTTVCR",
+    "B7600": "h30",
+    "C7600": "hy1",
+    "I7600": "unknown",
+    "J7600": "unknown",
+    "K7600": "Firm financial and real outcomes reported as remaining similar; exact appendix grid and method not inferred."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
