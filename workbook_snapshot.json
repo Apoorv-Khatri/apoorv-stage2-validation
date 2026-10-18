@@ -33923,7 +33923,16 @@
     "L3408": "1",
     "M3408": "n/a",
     "N3408": "PSS covariance exposure: covariance-form price of risk for 25 size/momentum portfolios, Table2 PanelB, p.410. Reported PSS price 5.69; distinct from beta-form risk premium s2. Downside/upside market controls are routine variants in this same panel.",
-    "O3408": "Independent recommendation: OLS-family (implemented cross-sectional GLS), conditional on estimated exposure regressors and the GLS metric. The reported dependent outcome is average excess portfolio return, not the entire return panel. First-pass slopes/covariances use centered returns; generated regressors alone do not establish a nonlinear effect estimator under the prompt incidental-preprocessing rule. This does not make the full mapping from the raw return panel linear. Full-procedure Other remains a substantive taxonomy alternative for parent adjudication. All parameters are GLS (p.409); OLS R2 is not a second estimator. No identifying FE or excluded IV instrument. Retain model-based risk-compensation interpretation, not predictor causality."
+    "O3408": "Independent recommendation: OLS-family (implemented cross-sectional GLS), conditional on estimated exposure regressors and the GLS metric. The reported dependent outcome is average excess portfolio return, not the entire return panel. First-pass slopes/covariances use centered returns; generated regressors alone do not establish a nonlinear effect estimator under the prompt incidental-preprocessing rule. This does not make the full mapping from the raw return panel linear. Full-procedure Other remains a substantive taxonomy alternative for parent adjudication. All parameters are GLS (p.409); OLS R2 is not a second estimator. No identifying FE or excluded IV instrument. Retain model-based risk-compensation interpretation, not predictor causality.",
+    "A3409": "TS6H62KJ",
+    "B3409": "h3",
+    "I3409": "1",
+    "J3409": "OLS",
+    "K3409": "0",
+    "L3409": "1",
+    "M3409": "n/a",
+    "N3409": "PSS covariance exposure: covariance-form price of risk for 25 size/predicted-coskewness portfolios, Table2 PanelC, p.410. Reported PSS price 2.81; distinct from beta-form risk premium s3. Downside/upside market controls are routine variants in this same panel.",
+    "O3409": "Independent recommendation: OLS-family (implemented cross-sectional GLS), conditional on estimated exposure regressors and the GLS metric. The reported dependent outcome is average excess portfolio return, not the entire return panel. First-pass slopes/covariances use centered returns; generated regressors alone do not establish a nonlinear effect estimator under the prompt incidental-preprocessing rule. This does not make the full mapping from the raw return panel linear. Full-procedure Other remains a substantive taxonomy alternative for parent adjudication. All parameters are GLS (p.409); OLS R2 is not a second estimator. No identifying FE or excluded IV instrument. Retain model-based risk-compensation interpretation, not predictor causality."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87244,7 +87253,11 @@
     "A7872": "TS6H62KJ",
     "B7872": "h2",
     "C7872": "hy1",
-    "K7872": "Average monthly excess returns of test portfolios in the covariance-form cross-sectional pricing equation; the price of risk is a coefficient on return covariance, not an outcome. Tables report price coefficients on a different scale from percentage monthly risk premia."
+    "K7872": "Average monthly excess returns of test portfolios in the covariance-form cross-sectional pricing equation; the price of risk is a coefficient on return covariance, not an outcome. Tables report price coefficients on a different scale from percentage monthly risk premia.",
+    "A7873": "TS6H62KJ",
+    "B7873": "h3",
+    "C7873": "hy1",
+    "K7873": "Average monthly excess returns of test portfolios in the covariance-form cross-sectional pricing equation; the price of risk is a coefficient on return covariance, not an outcome. Tables report price coefficients on a different scale from percentage monthly risk premia."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
