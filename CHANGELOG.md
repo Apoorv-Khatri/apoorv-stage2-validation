@@ -546393,3 +546393,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:10:05.676123+00:00 — Review RQV5GQTL h110: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5215",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5215",
+    "before": null,
+    "after": "h110"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5215",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5215",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5215",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5215",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5215",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5215",
+    "before": null,
+    "after": "p2326: moving from third revenue quartile to top increases relative allocation by0.42, large given sample average normalized rationing0.78 (TableV, all investors)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5215",
+    "before": null,
+    "after": "Words compare but do not divide. Overall sample mean is not demonstrated to be the relevant untreated mean for this adjusted top-versus-third contrast; exact regression target/weights unresolved. No ratio attributed to authors."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7737",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7737",
+    "before": null,
+    "after": "h110"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7737",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7737",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7737",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7737",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7737",
+    "before": null,
+    "after": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3334",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3334",
+    "before": null,
+    "after": "h110"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3334",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3334",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3334",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3334",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3334",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3334",
+    "before": null,
+    "after": "Top versus third revenue quartile contrast in TableVI col2: effect on normalized rationing, 0.42 as reported in p2326 prose."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3334",
+    "before": null,
+    "after": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Distinct explicitly implemented linear coefficient contrast (top0.514 minus third0.095), not new data regression. Comparison belongs here, not the top-versus-no-revenue row. Source: p2326 TableVI col2; L1127–1132,1163–1167."
+  }
+]
+```
