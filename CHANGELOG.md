@@ -553116,3 +553116,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:24:57.553593+00:00 — Review SFCSD6BA s7: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I704",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J704",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K704",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L704",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M704",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N704",
+    "before": null,
+    "after": "Low-information occupation peers’ participation rate and its interaction with no high-information occupation (HO) employee present; Table VIII cols1,4,7. HE/HI peer sets split to additions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O704",
+    "before": null,
+    "after": "Two identifying FE: firm-month and CBSA-month. Peer rate is continuous; binary moderator does not make this peer-dose estimand binary. Preserve null and negative interaction estimates. Routine sample variants grouped. Source: pp158–162 Table VIII."
+  }
+]
+```
