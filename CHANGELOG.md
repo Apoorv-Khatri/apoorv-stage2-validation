@@ -529314,3 +529314,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T09:41:47.177354+00:00 — Review RDVTTVCR h17: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7583",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7583",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7583",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7583",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7583",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7583",
+    "before": null,
+    "after": "Total GIIPS sovereign holdings adjustment; exact regression outcomes and transformations unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3199",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3199",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3199",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3199",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3199",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3199",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3199",
+    "before": null,
+    "after": "Quality/exposure groups and total GIIPS sovereign holdings, Table A3 A (Figure A3 corroboration), non-GIIPS banks."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3199",
+    "before": null,
+    "after": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2863 L559–567; p2866 fn12 L728–730 Table A3A."
+  }
+]
+```

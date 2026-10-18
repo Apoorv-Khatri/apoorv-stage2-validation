@@ -31505,7 +31505,16 @@
     "L3198": "1",
     "M3198": "unknown",
     "N3198": "government control contrast within low-quality GIIPS banks: sovereign holdings and hedging behavior, Table A2C.",
-    "O3198": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: pp2866–2867 L713–715,783–790 Table A2C col6 for net/gross comparison."
+    "O3198": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: pp2866–2867 L713–715,783–790 Table A2C col6 for net/gross comparison.",
+    "A3199": "RDVTTVCR",
+    "B3199": "h17",
+    "I3199": "1",
+    "J3199": "unknown",
+    "K3199": "unknown",
+    "L3199": "0",
+    "M3199": "unknown",
+    "N3199": "Quality/exposure groups and total GIIPS sovereign holdings, Table A3 A (Figure A3 corroboration), non-GIIPS banks.",
+    "O3199": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2863 L559–567; p2866 fn12 L728–730 Table A3A."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82844,7 +82853,13 @@
     "H7582": "unknown",
     "I7582": "unknown",
     "J7582": "unknown",
-    "K7582": "Net holdings change relative to gross holdings change, government-control contrast within low-quality GIIPS banks, Table A2C col6. Exact ratio/difference construction unavailable; no additional holdings columns inferred."
+    "K7582": "Net holdings change relative to gross holdings change, government-control contrast within low-quality GIIPS banks, Table A2C col6. Exact ratio/difference construction unavailable; no additional holdings columns inferred.",
+    "A7583": "RDVTTVCR",
+    "B7583": "h17",
+    "C7583": "hy1",
+    "I7583": "unknown",
+    "J7583": "unknown",
+    "K7583": "Total GIIPS sovereign holdings adjustment; exact regression outcomes and transformations unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
