@@ -600348,3 +600348,198 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:44:04.464085+00:00 — Review WZZQX3TX s8: source-audited coding and linked comparisons
+
+31 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1940",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1941",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1942",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1943",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1944",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1945",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1940",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1941",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1942",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1943",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1944",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1945",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1940",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1941",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1942",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1943",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1944",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1945",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1940",
+    "before": null,
+    "after": "spurious causal outcome under explicitly noncausal appointment-beta parent. Violation-eta counterpart separately retained under h36. Original definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1941",
+    "before": null,
+    "after": "spurious causal outcome under explicitly noncausal appointment-beta parent. Violation-eta counterpart separately retained under h36. Original definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1942",
+    "before": null,
+    "after": "spurious causal outcome under explicitly noncausal appointment-beta parent. Violation-eta counterpart separately retained under h36. Original definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1943",
+    "before": null,
+    "after": "spurious causal outcome under explicitly noncausal appointment-beta parent. Violation-eta counterpart separately retained under h36. Original definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1944",
+    "before": null,
+    "after": "spurious causal outcome under explicitly noncausal appointment-beta parent. Violation-eta counterpart separately retained under h36. Original definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1945",
+    "before": null,
+    "after": "spurious causal outcome under explicitly noncausal appointment-beta parent. Violation-eta counterpart separately retained under h36. Original definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I802",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J802",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M802",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N802",
+    "before": null,
+    "after": "Excluded appointment differential beta, Table X A. Original model/IDs preserved; not a causal effect of board reform."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O802",
+    "before": null,
+    "after": "Independent parameter-specific gate: p.2416 explicitly says estimated beta should not be interpreted as a causal effect. Intro/conclusion and p.2418 use suggestive board-action language, but do not retract this same-parameter disclaimer. Reject beta as intentionally noncausal, not merely endogenous or statistically insignificant. Eta violation effects independently retained h36/h37; no blanket Table X rejection. Collapsed IA.XXIII beta shares the gate; eta counterpart held for unresolved allocation."
+  }
+]
+```
