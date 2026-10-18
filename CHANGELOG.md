@@ -606147,3 +606147,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T19:10:38.793705+00:00 — Review X387EWAF s5: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K484",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R484",
+    "before": null,
+    "after": "Excluded causal parent. Additionally, benchmark is a level of predicted variation/informativeness, not the underlying earnings or investment outcome attached by the model. Trend/decade changes do not estimate the named price/investment intervention. Verbal ratios exist but do not rescue causal eligibility.  The pooled50% sentence does not uniquely allocate R&D-only versus joint R&D/CAPX fitted-dispersion trend; their Table5 baseline means are distinct."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1971",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1972",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1973",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1971",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1972",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1973",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1971",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1972",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1973",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1971",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1972",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1973",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I808",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O808",
+    "before": null,
+    "after": "Exclude investment as an information signal for earnings, Eqs.21–22/Fig.7/Table5 pp.640–642, not the causal productivity of investment. Footnote13 explicitly contrasts investment as real outcome with investment as information signal. The joint fitted-value SD is nonlinear in the earnings vector, but exclusion precedes estimator classification."
+  }
+]
+```
