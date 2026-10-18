@@ -571896,3 +571896,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:10:06.088538+00:00 — Review UTRUH2FR h16: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8001",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8002",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8001",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8002",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8001",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8002",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8001",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8002",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8001",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8002",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8001",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8002",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8001",
+    "before": null,
+    "after": "Indicator for at least one structured loan during 2002–2007, municipality sample, Table7. Columns 1/3/6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8002",
+    "before": null,
+    "after": "Indicator for at least one high-risk structured loan (Gissler >=3) during 2002–2007, municipality sample, Table7. Columns 2/4/8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3486",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3486",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3486",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3486",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3486",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3486",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3486",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3486",
+    "before": null,
+    "after": "Population bracket 50000<Pop≤100000 indicator effect on structured borrowing, Table7 columns1–4/6/8, probit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3486",
+    "before": null,
+    "after": "pp.1924–1926 test financial sophistication and resources as mechanisms; broad intention includes these proxy effects despite observational associations. Individual indicator is binary conditional contrast against omitted category, not randomized assignment. Exact omitted occupational category not reported; do not invent it. County FE in columns1–4, absent5–8; nonlinear Other in all, so no OLS/FE split. Civil-servant subsample models without/with size controls grouped as routine variants. Caption incorrectly describes all civil-servant levels as elite-school Haut Fonctionnaire; use distinct printed row labels."
+  }
+]
+```
