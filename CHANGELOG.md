@@ -532431,3 +532431,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T10:28:42.193039+00:00 — Review RMH5X4LW s10: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1685",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1686",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1685",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1686",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1685",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1686",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1685",
+    "before": null,
+    "after": "spurious: parent s10 is a specification/inference exercise, not a causal setting; retain original model definition unchanged."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1686",
+    "before": null,
+    "after": "spurious: parent s10 is a specification/inference exercise, not a causal setting; retain original model definition unchanged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I667",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O667",
+    "before": null,
+    "after": "Spurious causal setting: Table 5B, pp348–349, and supplement E.2 pp15–16: this case IS identified. Default-premium coefficient 72.463 (p=0.001) and labor coefficient 58.613 (p=0.066) coexist with SDF mean 0.002 (p=0.968). Authors explicitly interpret the identified SDF as uncorrelated with returns (p349); E.2 attributes nonrejection to a useless default-premium factor. Exclusion concerns the pricing-restriction estimand, not underidentification or insignificance; do not extrapolate p346 alone. Structural effects and substantive causal nulls would qualify; neither a policy intervention nor strong identification is required by the gate. Source: Table 5B, pp348–349/PDF11–12; L816–921."
+  }
+]
+```
