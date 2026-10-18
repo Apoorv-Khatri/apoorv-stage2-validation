@@ -547200,3 +547200,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:30:25.211244+00:00 — Review S3X8G9NP s6: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1716",
+    "before": null,
+    "after": "Paper reports logarithm of investment-bank count, but does not explain treatment of zero counts; log1p versus other zero handling is unresolved. Figures5, Tables5/6; no invented transformation correction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I689",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J689",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K689",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L689",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M689",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N689",
+    "before": null,
+    "after": "Increase in county subscription rate from third to fourth issue × post-1918, 2SLS, Table6 even cols2,4,6,8; four bank outcomes. Excluded instrument: switch-to-allotment indicator × post-1918; third-issue subscription rate × post-1918 is included, not excluded. Third-issue coefficient is independently reported in h4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O689",
+    "before": null,
+    "after": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. One binary excluded instrument. Identification depends on Idaho among switchers with county data. Eq5 and caption establish the difference as endogenous despite erroneous first-stage heading naming Fourth in Table6. Table6/A3 SE and interval discrepancies are preserved in source_evidence.md. Source: Table6 even cols2,4,6,8, pp211–213; layout L909–1054."
+  }
+]
+```
