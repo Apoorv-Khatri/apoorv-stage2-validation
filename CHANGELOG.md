@@ -557187,3 +557187,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:17:39.210302+00:00 — Review TRCRCTBB s9: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1769",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1770",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1769",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1770",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1769",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1770",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1769",
+    "before": null,
+    "after": "Inactive: Table IX parent excluded as confound-covariance diagnostic, not a causally interpreted financing-deficit response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1770",
+    "before": null,
+    "after": "Inactive: Table IX parent excluded as confound-covariance diagnostic, not a causally interpreted financing-deficit response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I725",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O725",
+    "before": null,
+    "after": "Exclude Table IX, pp.3430–3432: parameter-specific confound-covariance check. Author asks whether financing demand is correlated with PO changes and could drive issuance results; does not interpret changing PO or perceived mispricing as causing financing deficit. Substantive importance and a null result do not by themselves establish causal intention. Contrary broad-channel inclusion is plausible; parent adjudication required. All columns do include firm/year FE; exclusion is not based on estimator or insignificance."
+  }
+]
+```
