@@ -31649,7 +31649,16 @@
     "L3214": "0",
     "M3214": "unknown",
     "N3214": "Indirect GIIPS Sov Risk dose among GIIPS firms without significant non-GIIPS business exposure, Table A13B.",
-    "O3214": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Treatment is continuous lender risk; subsample tercile does not make it binary. Final text confirms real effects; financial outcome scope follows explicit rerun analysis but exact grid remains provisional. Independent correction: retain only minimum real-effect block; no financial columns or exact individual outcome grid asserted. Source: p2890 L2105–2114; p2893 L2325–2331 Table A13B."
+    "O3214": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Treatment is continuous lender risk; subsample tercile does not make it binary. Final text confirms real effects; financial outcome scope follows explicit rerun analysis but exact grid remains provisional. Independent correction: retain only minimum real-effect block; no financial columns or exact individual outcome grid asserted. Source: p2890 L2105–2114; p2893 L2325–2331 Table A13B.",
+    "A3215": "RDVTTVCR",
+    "B3215": "h33",
+    "I3215": "1",
+    "J3215": "unknown",
+    "K3215": "0",
+    "L3215": "0",
+    "M3215": "unknown",
+    "N3215": "Indirect lender sovereign risk with firm-bank-dependency and precrisis bank-health robustness, Section A1.2.",
+    "O3215": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2884 L1781–1785."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -83172,7 +83181,13 @@
     "H7612": "n/a",
     "I7612": "n/a",
     "J7612": "n/a",
-    "K7612": "spurious as separately specified outcome: A13B unavailable; p2890 does not enumerate this individual outcome; minimum real-effect block retained in hy1 Proposed ID retained inactive for audit provenance; no original workbook record removed."
+    "K7612": "spurious as separately specified outcome: A13B unavailable; p2890 does not enumerate this individual outcome; minimum real-effect block retained in hy1 Proposed ID retained inactive for audit provenance; no original workbook record removed.",
+    "A7613": "RDVTTVCR",
+    "B7613": "h33",
+    "C7613": "hy1",
+    "I7613": "unknown",
+    "J7613": "unknown",
+    "K7613": "Real effects confirmed qualitatively; exact models/outcome splits unavailable. Retain minimum robustness scope, not invented controls-by-outcome grid."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
