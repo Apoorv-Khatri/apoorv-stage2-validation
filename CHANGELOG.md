@@ -519543,3 +519543,276 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T04:07:16.817516+00:00 — Review QY4D7PCL h19: source-audited coding and linked comparisons
+
+44 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7502",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7503",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7504",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7505",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7506",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7502",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7503",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7504",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7505",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7506",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7502",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7503",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7504",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7505",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7506",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7502",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7503",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7504",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7505",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7506",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7502",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7503",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7504",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7505",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7506",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7502",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7503",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7504",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7505",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7506",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7502",
+    "before": null,
+    "after": "Annual log-return contrast of long-duration versus short-duration portfolios, underlying the within-state risk regressions in Table6. High/moderate-minus-low contrast changes its slope with respect to each of five shock regressors, not its unconditional mean. Log excess returns/log-return differences, not log of a potentially negative long-short simple return. Market, reinvestment, dividend yield, payout yield and dividend growth slopes are coefficients on this shared outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7503",
+    "before": null,
+    "after": "duplicate of h19/hy1: this risk-factor beta is a slope for the same annual log-return outcome, not a separate dependent variable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7504",
+    "before": null,
+    "after": "duplicate of h19/hy1: this risk-factor beta is a slope for the same annual log-return outcome, not a separate dependent variable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7505",
+    "before": null,
+    "after": "duplicate of h19/hy1: this risk-factor beta is a slope for the same annual log-return outcome, not a separate dependent variable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7506",
+    "before": null,
+    "after": "duplicate of h19/hy1: this risk-factor beta is a slope for the same annual log-return outcome, not a separate dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3159",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3159",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3159",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3159",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3159",
+    "before": null,
+    "after": "High versus low duration-dispersion state: differences in conditional log-return risk-factor slopes, Table6A/B, for market, reinvestment, dividend-yield, payout-yield and dividend-growth shocks."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3159",
+    "before": null,
+    "after": "Table6 compares within-state regression slopes. Conditional on each shock series, each OLS slope and their difference are linear in the reported log-return outcome; the sample-variance denominator uses the regressor, not the outcome. A fully state-interacted linear regression is an algebraic representation, not a claim that the author ran that command. Therefore OLS, not Other based on a covariance/variance ratio. State exposure is binary in this implemented contrast; the estimand is slope moderation, not a level-return effect. The p937 dispersion mechanism and p938 competing-risk explanations supply the author-intention gate. Keep all five shock variants together, no separate beta-as-dependent-variable records. Preserve printed L-S signs despite prose calling the negative beta the short-duration strategy beta. Source: pp937–938 Table6; L1240–1270,1296–1332."
+  }
+]
+```
