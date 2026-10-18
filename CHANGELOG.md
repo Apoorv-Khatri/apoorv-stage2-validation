@@ -591951,3 +591951,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:45:20.180483+00:00 — Review WERKYTKC h17: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8177",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8177",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8177",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8177",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8177",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8177",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8177",
+    "before": null,
+    "after": "Announcement CAR [-1,+1], percent, table 0.70% versus prose 0.81%; factor-/portfolio-adjusted return is unlogged and unstandardized. Observed zero atom not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3587",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3587",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3587",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3587",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3587",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3587",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3587",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3587",
+    "before": null,
+    "after": "Dividend-increase announcement versus normal-return counterfactual, mean CAR [-1,+1], Table 10A. Event-study linear abnormal-return contrast, not DiD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3587",
+    "before": null,
+    "after": "Table 10 calls returns announcement-induced; section 6.1 describes positive reaction to revelation of private information. Broad causal gate includes this supporting event-study effect, not only subsequent surprise slopes. Expected-return adjustment uses factor/matched portfolios, not covariate treatment matching; final estimator is mean abnormal return. Caption versus prose construction conflict persists. Printed mean effect 0.70%, prose 0.81%, visually verified; do not choose a repaired value. No reported raw-return level benchmark."
+  }
+]
+```

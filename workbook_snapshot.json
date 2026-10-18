@@ -35795,7 +35795,16 @@
     "L3586": "0",
     "M3586": "single continuous",
     "N3586": "180-day SIC peer-increase share on own dividend-increase indicator under industry-size cutoffs/winsorization variants, Table C.7A, p.568. Baseline no-cutoff/1% cell repeats Table 5 and is not a new estimate.",
-    "O3586": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables. Separately reported sample-sensitivity result, variants grouped. Caption generic increase/decrease wording but single grid matches increase coefficients; no unseen decrease grid inferred. Panel B is mean/SD of TREATMENT, not outcome, so no qualifying comparisons."
+    "O3586": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables. Separately reported sample-sensitivity result, variants grouped. Caption generic increase/decrease wording but single grid matches increase coefficients; no unseen decrease grid inferred. Panel B is mean/SD of TREATMENT, not outcome, so no qualifying comparisons.",
+    "A3587": "WERKYTKC",
+    "B3587": "h17",
+    "I3587": "1",
+    "J3587": "OLS",
+    "K3587": "1",
+    "L3587": "0",
+    "M3587": "n/a",
+    "N3587": "Dividend-increase announcement versus normal-return counterfactual, mean CAR [-1,+1], Table 10A. Event-study linear abnormal-return contrast, not DiD.",
+    "O3587": "Table 10 calls returns announcement-induced; section 6.1 describes positive reaction to revelation of private information. Broad causal gate includes this supporting event-study effect, not only subsequent surprise slopes. Expected-return adjustment uses factor/matched portfolios, not covariate treatment matching; final estimator is mean abnormal return. Caption versus prose construction conflict persists. Printed mean effect 0.70%, prose 0.81%, visually verified; do not choose a repaired value. No reported raw-return level benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91057,7 +91066,14 @@
     "A8176": "WERKYTKC",
     "B8176": "h16",
     "C8176": "hy1",
-    "K8176": "Own dividend-increase indicator in displayed C.7 grid; inference anchored to baseline 0.175 and discussion p.567, not a claim of unseen decrease results."
+    "K8176": "Own dividend-increase indicator in displayed C.7 grid; inference anchored to baseline 0.175 and discussion p.567, not a claim of unseen decrease results.",
+    "A8177": "WERKYTKC",
+    "B8177": "h17",
+    "C8177": "hy1",
+    "H8177": "0",
+    "I8177": "unknown",
+    "J8177": "none",
+    "K8177": "Announcement CAR [-1,+1], percent, table 0.70% versus prose 0.81%; factor-/portfolio-adjusted return is unlogged and unstandardized. Observed zero atom not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
