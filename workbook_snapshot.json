@@ -35257,7 +35257,16 @@
     "L3541": "1",
     "M3541": "n/a",
     "N3541": "Origination in2008 versus2006 effect on primary-market lead and nonbank funding shares,IA.XVIII.",
-    "O3541": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final p.2220 interprets crisis-related nonbank withdrawal and incomplete lead-bank substitution. Year indicator conditional contrasts, no unaffected control group or DiD. Other year dummies treated as context/control, not separately interpreted causal shocks. Industry controls not separately argued identifying FE. Main text reverses column mapping: author appendix prints lead1/nonbank2; no claim of publisher byte identity. Main-role correction: introduction p.2185 footnote7 expressly calls primary-market withdrawal and incomplete lead-bank absorption a key mechanism underpinning the central credit contraction; appendix placement does not make it supporting-only."
+    "O3541": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final p.2220 interprets crisis-related nonbank withdrawal and incomplete lead-bank substitution. Year indicator conditional contrasts, no unaffected control group or DiD. Other year dummies treated as context/control, not separately interpreted causal shocks. Industry controls not separately argued identifying FE. Main text reverses column mapping: author appendix prints lead1/nonbank2; no claim of publisher byte identity. Main-role correction: introduction p.2185 footnote7 expressly calls primary-market withdrawal and incomplete lead-bank absorption a key mechanism underpinning the central credit contraction; appendix placement does not make it supporting-only.",
+    "A3542": "UUTLYHI2",
+    "B3542": "h48",
+    "I3542": "1",
+    "J3542": "FE",
+    "K3542": "0",
+    "L3542": "0",
+    "M3542": "n/a",
+    "N3542": "Bank wholesale funding dependence effect on loan-sale indicator during crisis,IA.XX columns1–2.",
+    "O3542": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote51 supports bank-liability fragility effect; one loan-year identifying FE set. Distinct from capital dose and price outcome."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89592,7 +89601,11 @@
     "H8068": "0",
     "I8068": "unknown",
     "J8068": "none",
-    "K8068": "Nonbank share at origination,IA.XVIII column2."
+    "K8068": "Nonbank share at origination,IA.XVIII column2.",
+    "A8069": "UUTLYHI2",
+    "B8069": "h48",
+    "C8069": "hy1",
+    "K8069": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
