@@ -34675,7 +34675,16 @@
     "L3481": "1",
     "M3481": "n/a",
     "N3481": "Senior civil servant indicator effect on structured borrowing, Table7 columns5–8, probit.",
-    "O3481": "pp.1924–1926 test financial sophistication and resources as mechanisms; broad intention includes these proxy effects despite observational associations. Individual indicator is binary conditional contrast against omitted category, not randomized assignment. Exact omitted occupational category not reported; do not invent it. County FE in columns1–4, absent5–8; nonlinear Other in all, so no OLS/FE split. Civil-servant subsample models without/with size controls grouped as routine variants. Caption incorrectly describes all civil-servant levels as elite-school Haut Fonctionnaire; use distinct printed row labels."
+    "O3481": "pp.1924–1926 test financial sophistication and resources as mechanisms; broad intention includes these proxy effects despite observational associations. Individual indicator is binary conditional contrast against omitted category, not randomized assignment. Exact omitted occupational category not reported; do not invent it. County FE in columns1–4, absent5–8; nonlinear Other in all, so no OLS/FE split. Civil-servant subsample models without/with size controls grouped as routine variants. Caption incorrectly describes all civil-servant levels as elite-school Haut Fonctionnaire; use distinct printed row labels.",
+    "A3482": "UTRUH2FR",
+    "B3482": "h12",
+    "I3482": "1",
+    "J3482": "Other",
+    "K3482": "1",
+    "L3482": "1",
+    "M3482": "n/a",
+    "N3482": "Civil servant A-level indicator effect on structured borrowing, Table7 columns5–8, probit.",
+    "O3482": "pp.1924–1926 test financial sophistication and resources as mechanisms; broad intention includes these proxy effects despite observational associations. Individual indicator is binary conditional contrast against omitted category, not randomized assignment. Exact omitted occupational category not reported; do not invent it. County FE in columns1–4, absent5–8; nonlinear Other in all, so no OLS/FE split. Civil-servant subsample models without/with size controls grouped as routine variants. Caption incorrectly describes all civil-servant levels as elite-school Haut Fonctionnaire; use distinct printed row labels."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88605,7 +88614,21 @@
     "H7993": "1",
     "I7993": "1",
     "J7993": "none",
-    "K7993": "Indicator for at least one high-risk structured loan (Gissler >=3) during 2002–2007, municipality sample, Table7. Civil-servant subsample, columns 7/8."
+    "K7993": "Indicator for at least one high-risk structured loan (Gissler >=3) during 2002–2007, municipality sample, Table7. Civil-servant subsample, columns 7/8.",
+    "A7994": "UTRUH2FR",
+    "B7994": "h12",
+    "C7994": "hy1",
+    "H7994": "1",
+    "I7994": "1",
+    "J7994": "none",
+    "K7994": "Indicator for at least one structured loan during 2002–2007, municipality sample, Table7. Civil-servant subsample, columns 5/6.",
+    "A7995": "UTRUH2FR",
+    "B7995": "h12",
+    "C7995": "hy2",
+    "H7995": "1",
+    "I7995": "1",
+    "J7995": "none",
+    "K7995": "Indicator for at least one high-risk structured loan (Gissler >=3) during 2002–2007, municipality sample, Table7. Civil-servant subsample, columns 7/8."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
