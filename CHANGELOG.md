@@ -594651,3 +594651,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:08:10.801667+00:00 — Review WM5RSIHQ s6: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1931",
+    "before": null,
+    "after": "Forced CEO dismissal event and tenure/time-to-event with voluntary departures right-censored; Cox proportional-hazard outcome. Estimated hazard intensity/slopes are not event probabilities or percentage-point probability effects. See linked setting for result location."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J794",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K794",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M794",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N794",
+    "before": null,
+    "after": "Idiosyncratic continuous stock returns with slopes varying by low/middle/high prior-two-year industry performance terciles, two-stage Cox Table VIII A/B. Industry-induced returns are also included controls; nonlinear marginal effects have baseline hazard set to one, not empirical outcome-SD or mean normalization."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O794",
+    "before": null,
+    "after": "Nonlinear implemented Cox/logit estimator takes priority over the paper’s IV analogy and any year dummies: Other, IV type n/a. No separately implemented linear outcome model or causal first-stage OLS setting. Calendar-year dummies are one effective dimension, included to absorb time trends/economy-wide shocks; no HDFE. Returns are continuous; binary event outcome or subgroup dummies do not make the performance dose binary. Main role established in introduction pp.2155–2158, including central firm-specific-state heterogeneity in s6; method uncertainty is not main-role evidence."
+  }
+]
+```
