@@ -31203,7 +31203,16 @@
     "L3174": "1",
     "M3174": "n/a",
     "N3174": "Table VI B: continuous FH interacted with current/lagged standardized average idiosyncratic volatility, future monthly Carhart net alpha; interactions -0.165/-0.102. Panel OLS with time dummies and fund controls.",
-    "O3174": "Retain the opportunity-dependent skill channel, including insignificant lagged interaction; separate treatment from CrossVol. No identifying FE argument beyond common time adjustment. Source: pp2247–2249; L999–1018,1100–1131. No qualifying outcome benchmark found in associated prose/table. Source: pp2247–2249; L999–1018,1100–1131."
+    "O3174": "Retain the opportunity-dependent skill channel, including insignificant lagged interaction; separate treatment from CrossVol. No identifying FE argument beyond common time adjustment. Source: pp2247–2249; L999–1018,1100–1131. No qualifying outcome benchmark found in associated prose/table. Source: pp2247–2249; L999–1018,1100–1131.",
+    "A3175": "R7QNVLC6",
+    "B3175": "h4",
+    "I3175": "1",
+    "J3175": "OLS",
+    "K3175": "0",
+    "L3175": "1",
+    "M3175": "n/a",
+    "N3175": "Table VI B: continuous FH interacted with current/lagged standardized Baker–Wurgler sentiment, future monthly Carhart net alpha; interactions -0.358/-0.276. Panel OLS with time dummies and fund controls.",
+    "O3175": "Same opportunity-channel interpretation as s4; sentiment is a distinct treatment. Interaction is not a standalone total effect of FH or sentiment. Source: pp2247–2249; L999–1018,1100–1131. No qualifying outcome benchmark found in associated prose/table. Source: pp2247–2249; L999–1018,1100–1131."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82174,7 +82183,11 @@
     "A7528": "R7QNVLC6",
     "B7528": "h3",
     "C7528": "hy1",
-    "K7528": "Future monthly Carhart four-factor net alpha in quarter t+1, in percent. Source: pp2247–2249; L999–1018,1100–1131."
+    "K7528": "Future monthly Carhart four-factor net alpha in quarter t+1, in percent. Source: pp2247–2249; L999–1018,1100–1131.",
+    "A7529": "R7QNVLC6",
+    "B7529": "h4",
+    "C7529": "hy1",
+    "K7529": "Future monthly Carhart four-factor net alpha in quarter t+1, in percent. Source: pp2247–2249; L999–1018,1100–1131."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

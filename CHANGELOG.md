@@ -523512,3 +523512,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:54:07.780649+00:00 — Review R7QNVLC6 h4: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7529",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7529",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7529",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7529",
+    "before": null,
+    "after": "Future monthly Carhart four-factor net alpha in quarter t+1, in percent. Source: pp2247–2249; L999–1018,1100–1131."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3175",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3175",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3175",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3175",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3175",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3175",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3175",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3175",
+    "before": null,
+    "after": "Table VI B: continuous FH interacted with current/lagged standardized Baker–Wurgler sentiment, future monthly Carhart net alpha; interactions -0.358/-0.276. Panel OLS with time dummies and fund controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3175",
+    "before": null,
+    "after": "Same opportunity-channel interpretation as s4; sentiment is a distinct treatment. Interaction is not a standalone total effect of FH or sentiment. Source: pp2247–2249; L999–1018,1100–1131. No qualifying outcome benchmark found in associated prose/table. Source: pp2247–2249; L999–1018,1100–1131."
+  }
+]
+```
