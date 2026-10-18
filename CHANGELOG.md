@@ -589989,3 +589989,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:38:47.344322+00:00 — Review WERKYTKC s6: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K466",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R466",
+    "before": null,
+    "after": "Table10A reports a separate announcement-induced mean abnormal-return effect, not an untreated/control mean paired with the PanelB surprise slope. No verbal comparison or deliberate same-column/panel effect-mean pairing. Mere same-table placement is insufficient; original -0.15% slope is also now at h7. CAR0.70%/0.81% disagreement is a separate source defect, not the reason for rejection."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J785",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K785",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M785",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N785",
+    "before": null,
+    "after": "Baseline unexpected dividend-increase component (prediction residual) on announcement CAR [-1,+1], Table 10B first row / Eq.7; coefficient 0.39%. Change-in-residual treatment separated to h7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O785",
+    "before": null,
+    "after": "Section 6 pp.561-562 interprets surprise/private information as driving announcement returns, so broad causal author-intention gate met; not pure out-of-sample forecasting. Final CAR regression is linear OLS conditional on generated dividend-model residuals. Firm/time FE belong to prediction first step; factor controls are not identifying FE for the final CAR coefficient. No IV instrument for surprise in final regression, no RCT/RD/DiD or genuine no-FE/identifying-FE split. Prediction endogeneity remains; no claim of credible exogeneity. Main: investors anticipating peer effects is in abstract/introduction/conclusion. Table A says 0.70% average CAR, prose says 0.81%; neither value silently repaired."
+  }
+]
+```
