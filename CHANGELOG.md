@@ -575208,3 +575208,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:42:20.561620+00:00 — Review UUTLYHI2 h18: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8033",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8034",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8033",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8034",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8033",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8034",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8033",
+    "before": null,
+    "after": "Loan-level symmetric credit growth, difference2008Q4 minus2006Q4 divided by their average."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8034",
+    "before": null,
+    "after": "Loan exit from SNC by2008Q4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3512",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3512",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3512",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3512",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3512",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3512",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3512",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3512",
+    "before": null,
+    "after": "Stable precrisis nonbank funding share effect on loan-level credit growth and exit, Table10.A/B columns3–5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3512",
+    "before": null,
+    "after": "Distinct total/stable/unstable exposure; stable null is central contrast, not supporting merely because insignificant. Firm exposure loan-value-weighted; loan exposure fraction of commitment. Industry dummies adjustment, same nonrandom supply-effect intention as s4."
+  }
+]
+```
