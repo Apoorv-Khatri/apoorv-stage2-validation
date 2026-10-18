@@ -33129,7 +33129,16 @@
     "L3356": "1",
     "M3356": "n/a",
     "N3356": "Pre-COVID relationship sales-share quartile 4 versus quartile1 × After, Table5A/B/C cols2,4; repeated TableA2 cols3,7 not duplicated.",
-    "O3356": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Substantive interpretation: more important relationships face lower delay increases, Section6.3 p12. Sales share is customer sales divided by supplier total sales (not customer purchases). Explicit dummy contrast is binary although underlying share is continuous. Group routine bias-control variants across Table5 panels; contested granularity recorded. Main=1 recommendation: introduction p3 explicitly enumerates age, sales and distance and the substantive finding that less important relationships face larger delays. This materially supports the central interpretation after competing economic channels are examined, just as punishment does. Null individual contrasts remain in that family; not a significance-based designation. Parent should adjudicate this role disagreement. Source: Article p11 Table5 and p12; supplement p16 TableA2; article layout L878–908."
+    "O3356": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Substantive interpretation: more important relationships face lower delay increases, Section6.3 p12. Sales share is customer sales divided by supplier total sales (not customer purchases). Explicit dummy contrast is binary although underlying share is continuous. Group routine bias-control variants across Table5 panels; contested granularity recorded. Main=1 recommendation: introduction p3 explicitly enumerates age, sales and distance and the substantive finding that less important relationships face larger delays. This materially supports the central interpretation after competing economic channels are examined, just as punishment does. Null individual contrasts remain in that family; not a significance-based designation. Parent should adjudicate this role disagreement. Source: Article p11 Table5 and p12; supplement p16 TableA2; article layout L878–908.",
+    "A3357": "S9LRTRJP",
+    "B3357": "h7",
+    "I3357": "1",
+    "J3357": "unknown",
+    "K3357": "1",
+    "L3357": "0",
+    "M3357": "n/a",
+    "N3357": "Restricted customers with both minority and non-minority suppliers each month: Minority × After in TableA1 cols1,3, effects 0.212 and 0.085.",
+    "O3357": "Conventional post-COVID differential change; method precedence overrides FE and OLS implementation. October 2019–May 2020; March onset in text versus caption saying after March is a source timing ambiguity, not silently repaired. Parallel counterfactual trends and no remaining differential shocks are maintained, not established by coding. Printed seller×month FE would absorb After×Minority; a visually verified internal source conflict. Intended design is conventional DiD, but Human_method=unknown because the literal reported estimator cannot identify this coefficient. Do not infer which FE row is erroneous or certify an implemented design without code/correction. Non-IV intent is clear; IV type remains n/a. Source: Supplement pp2,15 TableA1; layout L19–41,486–508."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85922,7 +85931,21 @@
     "H7794": "0",
     "I7794": "unknown",
     "J7794": "none",
-    "K7794": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
+    "K7794": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator.",
+    "A7795": "S9LRTRJP",
+    "B7795": "h7",
+    "C7795": "hy1",
+    "H7795": "0",
+    "I7795": "unknown",
+    "J7795": "log1p",
+    "K7795": "Log(1+total past-due dollars) in buyer–supplier-month; full-amount outcome.",
+    "A7796": "S9LRTRJP",
+    "B7796": "h7",
+    "C7796": "hy2",
+    "H7796": "0",
+    "I7796": "unknown",
+    "J7796": "none",
+    "K7796": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
