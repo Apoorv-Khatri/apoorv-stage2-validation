@@ -33754,7 +33754,16 @@
     "L3404": "1",
     "M3404": "n/a",
     "N3404": "Total ΔPOt effect on firm-aggregate insider net sales, sales, purchases and mean sale share, Table XI.B p.3437; firm/year FE. Firm aggregates are distinct from individual-manager panel A estimands.",
-    "O3404": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
+    "O3404": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation.",
+    "A3405": "TRCRCTBB",
+    "B3405": "h9",
+    "I3405": "1",
+    "J3405": "FE",
+    "K3405": "0",
+    "L3405": "1",
+    "M3405": "n/a",
+    "N3405": "Total ΔPOt effect on firm-average option-exercise rate, Table XII columns 5–6 pp.3439–3440; firm/year FE; separate aggregated estimand from CEO/all-executive individual samples.",
+    "O3405": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86979,7 +86988,11 @@
     "A7867": "TRCRCTBB",
     "B7867": "h8",
     "C7867": "hy4",
-    "K7867": "Sell/(Sell+Buy)Firm: average manager sale share, not ratio of firm aggregate sales to purchases; Appendix A p.3442/Table XI.B."
+    "K7867": "Sell/(Sell+Buy)Firm: average manager sale share, not ratio of firm aggregate sales to purchases; Appendix A p.3442/Table XI.B.",
+    "A7868": "TRCRCTBB",
+    "B7868": "h9",
+    "C7868": "hy1",
+    "K7868": "OptExerFirm: average across managers of shares acquired via exercise divided by exercised plus unexercised exercisable options; Appendix A p.3442. Nonbinary rate."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

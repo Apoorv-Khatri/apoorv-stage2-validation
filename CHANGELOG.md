@@ -558861,3 +558861,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:24:22.310844+00:00 — Review TRCRCTBB h9: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7868",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7868",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7868",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7868",
+    "before": null,
+    "after": "OptExerFirm: average across managers of shares acquired via exercise divided by exercised plus unexercised exercisable options; Appendix A p.3442. Nonbinary rate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3405",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3405",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3405",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3405",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3405",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3405",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3405",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3405",
+    "before": null,
+    "after": "Total ΔPOt effect on firm-average option-exercise rate, Table XII columns 5–6 pp.3439–3440; firm/year FE; separate aggregated estimand from CEO/all-executive individual samples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3405",
+    "before": null,
+    "after": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
+  }
+]
+```
