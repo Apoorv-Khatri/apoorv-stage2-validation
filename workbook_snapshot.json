@@ -32520,7 +32520,16 @@
     "L3299": "0",
     "M3299": "n/a",
     "N3299": "Price-sensitive limit/step bid versus non-price-sensitive, non-money strike reference bids (money-bid indicator jointly controlled): effect on expected bid profitability; Table X cols1–2, pp2335–2337. Revenue contrasts use col2 only; bid contrasts include cols1–2.",
-    "O3299": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Linear regression in the reported generated profitability outcome; prediction in Eq2 is construction, not an excluded instrument or separate causal first stage. Supporting parameter-specific contrast, not promoted solely by location. Source: Table X cols1–2, pp2335–2337; article_layout.txt L1579–1708."
+    "O3299": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Linear regression in the reported generated profitability outcome; prediction in Eq2 is construction, not an excluded instrument or separate causal first stage. Supporting parameter-specific contrast, not promoted solely by location. Source: Table X cols1–2, pp2335–2337; article_layout.txt L1579–1708.",
+    "A3300": "RQV5GQTL",
+    "B3300": "h76",
+    "I3300": "1",
+    "J3300": "FE",
+    "K3300": "1",
+    "L3300": "0",
+    "M3300": "n/a",
+    "N3300": "Money strike bid versus other bid, conditional on price sensitivity: effect on expected bid profitability; Table X cols1–2, pp2335–2337. Revenue contrasts use col2 only; bid contrasts include cols1–2.",
+    "O3300": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Linear regression in the reported generated profitability outcome; prediction in Eq2 is construction, not an excluded instrument or separate causal first stage. Supporting parameter-specific contrast, not promoted solely by location. Distinct jointly entered binary indicator, not a separate estimator; baseline includes non-price-sensitive non-money reference bids. Source: Table X cols1–2, pp2335–2337; article_layout.txt L1579–1708."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -84778,7 +84787,14 @@
     "H7702": "0",
     "I7702": "unknown",
     "J7702": "none",
-    "K7702": "Expected profitability of bid: shares allocated times fitted expected first-day return divided by bid size (p2335). Constructed level, no log/SD transform. Exact return scaling is not reconciled: Eq2 prose calls underpricing a price ratio, whereas TableV defines net return and TableX says price increase. Do not invent percent versus percentage-point units. Observed zero mass is unknown."
+    "K7702": "Expected profitability of bid: shares allocated times fitted expected first-day return divided by bid size (p2335). Constructed level, no log/SD transform. Exact return scaling is not reconciled: Eq2 prose calls underpricing a price ratio, whereas TableV defines net return and TableX says price increase. Do not invent percent versus percentage-point units. Observed zero mass is unknown.",
+    "A7703": "RQV5GQTL",
+    "B7703": "h76",
+    "C7703": "hy1",
+    "H7703": "0",
+    "I7703": "unknown",
+    "J7703": "none",
+    "K7703": "Expected profitability of bid: shares allocated times fitted expected first-day return divided by bid size (p2335). Constructed level, no log/SD transform. Exact return scaling is not reconciled: Eq2 prose calls underpricing a price ratio, whereas TableV defines net return and TableX says price increase. Do not invent percent versus percentage-point units. Observed zero mass is unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
