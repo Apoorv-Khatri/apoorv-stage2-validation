@@ -605463,3 +605463,132 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T19:09:13.174405+00:00 — Review X387EWAF s1: source-audited coding and linked comparisons
+
+20 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K474",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K475",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K476",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R474",
+    "before": null,
+    "after": "Excluded causal parent. Additionally, benchmark is a level of predicted variation/informativeness, not the underlying earnings or investment outcome attached by the model. Trend/decade changes do not estimate the named price/investment intervention. Verbal ratios exist but do not rescue causal eligibility.  Fitted1960 starting level is not the1960s Table2 mean; p.647 and TableB3 use2014 rather than the prose2010 endpoint."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R475",
+    "before": null,
+    "after": "Excluded causal parent. Additionally, benchmark is a level of predicted variation/informativeness, not the underlying earnings or investment outcome attached by the model. Trend/decade changes do not estimate the named price/investment intervention. Verbal ratios exist but do not rescue causal eligibility.  Fitted1960 starting level is not the1960s Table2 mean; p.647 and TableB3 use2014 rather than the prose2010 endpoint."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R476",
+    "before": null,
+    "after": "Excluded causal parent. Additionally, benchmark is a level of predicted variation/informativeness, not the underlying earnings or investment outcome attached by the model. Trend/decade changes do not estimate the named price/investment intervention. Verbal ratios exist but do not rescue causal eligibility.  Independently, p.635 verbally says five-year informativeness is about50% higher in2000s than1960s: descriptive triple has verbal1/divided1, not merely table-only0/0. Still rejected for causal-parent/focal-outcome mismatch."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1951",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1952",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1953",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1951",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1952",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1953",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1951",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1952",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1953",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1951",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1952",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1953",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I804",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O804",
+    "before": null,
+    "after": "Exclude price-to-earnings forecasting parameter, not an estimated causal effect of changing valuation. Section 5.1 pp.632–633 calls Eq.15 a forecasting regression; Section 3.4 p.630 explicitly calls FPE only a forecasting concept. A welfare interpretation of information is not a causal interpretation of the price slope. Sector indicators remove obvious public information, not an identifying-FE design. Descriptive decade trends in Table 2 do not change this gate."
+  }
+]
+```
