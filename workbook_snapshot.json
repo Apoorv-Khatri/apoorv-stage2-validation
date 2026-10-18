@@ -30651,7 +30651,16 @@
     "L3127": "0",
     "M3127": "n/a",
     "N3127": "In-sample mean/variance dynamic WML rule evaluated in Table7 common1934:01–2013:03 window; Sharpe1.202 versus recursively estimated1.194. Separately reported validation estimand/location, not Fig6 full-period value.",
-    "O3127": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section4.3.1 Table7 pp236–237."
+    "O3127": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section4.3.1 Table7 pp236–237.",
+    "A3128": "QCQ3E8DE",
+    "B3128": "h7",
+    "I3128": "1",
+    "J3128": "Other",
+    "K3128": "1",
+    "L3128": "1",
+    "M3128": "n/a",
+    "N3128": "Dynamic rule using forecasts of conditional mean/variance of residuals after regressing static WML on other factors (footnote12); Table8A incremental annualized alpha versus WML or cvol plus market/FF factors, conditional variants. Alphas23.74,23.23,22.04,7.27,6.92,6.10 percent/year. Factor returns are benchmarks, not focal treatments.",
+    "O3128": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section4.4 Table8A pp237–238, footnote12."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80732,7 +80741,14 @@
     "H7454": "0",
     "I7454": "unknown",
     "J7454": "none",
-    "K7454": "Annualized appraisal ratio relative to preceding Table7 strategy: 0.144."
+    "K7454": "Annualized appraisal ratio relative to preceding Table7 strategy: 0.144.",
+    "A7455": "QCQ3E8DE",
+    "B7455": "h7",
+    "C7455": "hy1",
+    "H7455": "0",
+    "I7455": "unknown",
+    "J7455": "none",
+    "K7455": "Annualized spanning-regression alpha (percentage return/year), with factor/strategy benchmark specification retained in setting; Section4.4 Table8A pp237–238, footnote12"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
