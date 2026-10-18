@@ -606252,3 +606252,222 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T19:11:00.073791+00:00 — Review X387EWAF s6: source-audited coding and linked comparisons
+
+35 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K485",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K486",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L485",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L486",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M485",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M486",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N485",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N486",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O485",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O486",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P485",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P486",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q485",
+    "before": null,
+    "after": "p.642 Section5.7 Fig.8: “Three-year price informativeness is three times larger for the high group than the low group. At the five-year horizon, it is 50% larger.” Benchmark is same-horizon low-institutional-ownership informativeness, a constructed regression functional, not a mean/SD of firm earnings. All nonfinancial firms1980–2014; no exact scalar denominator or time weighting supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q486",
+    "before": null,
+    "after": "p.642 Section5.7 Fig.8: “Three-year price informativeness is three times larger for the high group than the low group. At the five-year horizon, it is 50% larger.” Benchmark is same-horizon low-institutional-ownership informativeness, a constructed regression functional, not a mean/SD of firm earnings. All nonfinancial firms1980–2014; no exact scalar denominator or time weighting supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R485",
+    "before": null,
+    "after": "Eligibility: author-interpreted group difference compared to same constructed outcome level; other_level, not outcome_mean of underlying EBIT. Verbal and division independently explicit; alignment n/a by rule. No ratio reconstructed or exact missing benchmark inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R486",
+    "before": null,
+    "after": "Eligibility: author-interpreted group difference compared to same constructed outcome level; other_level, not outcome_mean of underlying EBIT. Verbal and division independently explicit; alignment n/a by rule. No ratio reconstructed or exact missing benchmark inferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1976",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1974",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1975",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1976",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1974",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1975",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1976",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1974",
+    "before": null,
+    "after": "Year/group price informativeness b_{t,h}×SD_t(log(M/A)), h=1, from group-specific Eq.15. Constructed slope-times-regressor-SD in earnings/current-assets units; tables multiply by100. Not earnings SD units and not binary. No evidence establishes a probability atom at zero. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1975",
+    "before": null,
+    "after": "Year/group price informativeness b_{t,h}×SD_t(log(M/A)), h=3, from group-specific Eq.15. Constructed slope-times-regressor-SD in earnings/current-assets units; tables multiply by100. Not earnings SD units and not binary. No evidence establishes a probability atom at zero. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1976",
+    "before": null,
+    "after": "Year/group price informativeness b_{t,h}×SD_t(log(M/A)), h=5, from group-specific Eq.15. Constructed slope-times-regressor-SD in earnings/current-assets units; tables multiply by100. Not earnings SD units and not binary. No evidence establishes a probability atom at zero. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I809",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J809",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K809",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L809",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M809",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N809",
+    "before": null,
+    "after": "Section5.7, Fig.8/Table6 pp.641–643; above/below annual median institutional share, all nonfinancial firms 1980–2014. Outcome: group/year price informativeness at 1,3,5-year horizons, b×SD(log(M/A))."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O809",
+    "before": null,
+    "after": "Keep broad author intention: p.642 says higher ownership association supports the hypothesis that ownership has contributed to higher informativeness; p.643 attributes information-production contribution to institutions. Counterevidence: associated/consistent-with wording, p.641 ideal experiment unavailable. Not an inference from significance. Conditional on subgroup/regressor arrays, slope times group-specific regressor SD and differences/averages thereof are linear in future earnings. This does not imply causality. Sector controls strip obvious public information, with no separate identifying-FE claim; OLS, not FE/RD/DiD/Other. Outcome is group/year informativeness, not outcome-SD-normalized earnings. "
+  }
+]
+```
