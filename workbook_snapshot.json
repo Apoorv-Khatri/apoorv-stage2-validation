@@ -35050,7 +35050,16 @@
     "L3518": "0",
     "M3518": "n/a",
     "N3518": "Lead-arranger status effect on loan sale, Table3 columns1–4.",
-    "O3518": "p.2206 explicitly interprets large negative effect of being lead arranger as relationship mechanism; not just unlabeled control. Bank + loan-year FE two dimensions. Lead indicator conditional contrast; no random assignment."
+    "O3518": "p.2206 explicitly interprets large negative effect of being lead arranger as relationship mechanism; not just unlabeled control. Bank + loan-year FE two dimensions. Lead indicator conditional contrast; no random assignment.",
+    "A3519": "UUTLYHI2",
+    "B3519": "h25",
+    "I3519": "1",
+    "J3519": "OLS",
+    "K3519": "0",
+    "L3519": "0",
+    "M3519": "n/a",
+    "N3519": "Syndicate-average bank C&I loan share effect on2007–2008 loan price change, Table11 bank-control coefficients discussed footnote51,p.2225.",
+    "O3519": "Parameter-specific positive C&I and negative wholesale funding effects explicitly interpreted; numerical values not printed in main table and not imported from separately estimated Appendix IA.XX. Supporting banking mechanism."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89273,7 +89282,11 @@
     "H8043": "1",
     "I8043": "1",
     "J8043": "none",
-    "K8043": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
+    "K8043": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period.",
+    "A8044": "UUTLYHI2",
+    "B8044": "h25",
+    "C8044": "hy1",
+    "K8044": "Loan price (average bid-ask midpoint); Table11 outcome is average2008 minus average2007, Figures4/5 display daily price levels."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
