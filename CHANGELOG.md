@@ -531972,3 +531972,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T10:26:28.307689+00:00 — Review RMH5X4LW s3: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1672",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1672",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1672",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1672",
+    "before": null,
+    "after": "spurious: parent s3 is a specification/inference exercise, not a causal setting; retain original model definition unchanged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I660",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O660",
+    "before": null,
+    "after": "Spurious causal setting: Table 1 d=3, p345: testing whether each factor separately prices returns is a joint restriction test, not a three-valued treatment. Its rejection is not a causal null estimate. The single-factor empirical submodels in Table E1 were also reviewed separately. Structural effects and substantive causal nulls would qualify; neither a policy intervention nor strong identification is required by the gate. Source: Table 1 d=3, p345/PDF8; L552–622."
+  }
+]
+```
