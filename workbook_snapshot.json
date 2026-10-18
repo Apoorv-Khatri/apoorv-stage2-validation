@@ -33357,7 +33357,16 @@
     "L3373": "1",
     "M3373": "n/a",
     "N3373": "Participation rate among low-information peers under the HE partition (not reporting good/excellent experience, including missing experience); interaction with absence of any HE employee, Table VIII cols2,5,8.",
-    "O3373": "Two identifying FE: firm-month and CBSA-month. Peer rate is continuous; binary moderator does not make this peer-dose estimand binary. Preserve null and negative interaction estimates. Routine sample variants grouped. Source: pp158–162 Table VIII."
+    "O3373": "Two identifying FE: firm-month and CBSA-month. Peer rate is continuous; binary moderator does not make this peer-dose estimand binary. Preserve null and negative interaction estimates. Routine sample variants grouped. Source: pp158–162 Table VIII.",
+    "A3374": "SFCSD6BA",
+    "B3374": "h2",
+    "I3374": "1",
+    "J3374": "FE",
+    "K3374": "0",
+    "L3374": "1",
+    "M3374": "n/a",
+    "N3374": "Participation rate among low-information peers under the HI partition (income not above $200K, with nonmissing income and nonexecutive restrictions); interaction with absence of any HI employee, Table VIII cols3,6,9.",
+    "O3374": "Two identifying FE: firm-month and CBSA-month. Peer rate is continuous; binary moderator does not make this peer-dose estimand binary. Preserve null and negative interaction estimates. Routine sample variants grouped. Source: pp158–162 Table VIII."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86342,7 +86351,11 @@
     "A7827": "SFCSD6BA",
     "B7827": "h1",
     "C7827": "hy1",
-    "K7827": "Indicator of ESPP participation in biannual window among low-information employees under the HE partition."
+    "K7827": "Indicator of ESPP participation in biannual window among low-information employees under the HE partition.",
+    "A7828": "SFCSD6BA",
+    "B7828": "h2",
+    "C7828": "hy1",
+    "K7828": "Indicator of ESPP participation in biannual window among low-information employees under the HI partition."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
