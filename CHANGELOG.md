@@ -604635,3 +604635,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:53:15.056641+00:00 — Review WZZQX3TX h35: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8256",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8256",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8256",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8256",
+    "before": null,
+    "after": "Log independent-director count."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3648",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3648",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3648",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3648",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3648",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3648",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3648",
+    "before": null,
+    "after": "log market-to-book on log independent-director count, jointly included control coefficient in Table III A column2 / IA.VII, p.2404."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3648",
+    "before": null,
+    "after": "Parameter-specific broad gate: authors explicitly interpret change in this covariate as changing directors despite acknowledging jointly determined firm characteristics. Same joint firm/year FE estimator, not new separate regression. A 60% rise said to lead to 8% increase. Treatment SD not outcome benchmark. The RD designation for violation does NOT identify a causal discontinuity effect of this continuous included covariate. Its jointly estimated slope uses identifying firm/year FE; retain FE, not RD or a new standalone regression. No same-outcome benchmark from treatment-SD prose."
+  }
+]
+```

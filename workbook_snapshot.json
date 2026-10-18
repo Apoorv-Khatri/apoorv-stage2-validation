@@ -36446,7 +36446,16 @@
     "L3647": "0",
     "M3647": "n/a",
     "N3647": "ROA on log independent-director count, jointly included control coefficient in Table III A column2 / IA.VII, p.2404.",
-    "O3647": "Parameter-specific broad gate: authors explicitly interpret change in this covariate as changing directors despite acknowledging jointly determined firm characteristics. Same joint firm/year FE estimator, not new separate regression. A one-SD decrease −.08 is said to imply <1% increase; coefficient printed −.78. Do not silently repair the arithmetic inconsistency. The RD designation for violation does NOT identify a causal discontinuity effect of this continuous included covariate. Its jointly estimated slope uses identifying firm/year FE; retain FE, not RD or a new standalone regression. No same-outcome benchmark from treatment-SD prose."
+    "O3647": "Parameter-specific broad gate: authors explicitly interpret change in this covariate as changing directors despite acknowledging jointly determined firm characteristics. Same joint firm/year FE estimator, not new separate regression. A one-SD decrease −.08 is said to imply <1% increase; coefficient printed −.78. Do not silently repair the arithmetic inconsistency. The RD designation for violation does NOT identify a causal discontinuity effect of this continuous included covariate. Its jointly estimated slope uses identifying firm/year FE; retain FE, not RD or a new standalone regression. No same-outcome benchmark from treatment-SD prose.",
+    "A3648": "WZZQX3TX",
+    "B3648": "h35",
+    "I3648": "1",
+    "J3648": "FE",
+    "K3648": "0",
+    "L3648": "0",
+    "M3648": "n/a",
+    "N3648": "log market-to-book on log independent-director count, jointly included control coefficient in Table III A column2 / IA.VII, p.2404.",
+    "O3648": "Parameter-specific broad gate: authors explicitly interpret change in this covariate as changing directors despite acknowledging jointly determined firm characteristics. Same joint firm/year FE estimator, not new separate regression. A 60% rise said to lead to 8% increase. Treatment SD not outcome benchmark. The RD designation for violation does NOT identify a causal discontinuity effect of this continuous included covariate. Its jointly estimated slope uses identifying firm/year FE; retain FE, not RD or a new standalone regression. No same-outcome benchmark from treatment-SD prose."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92229,7 +92238,11 @@
     "A8255": "WZZQX3TX",
     "B8255": "h34",
     "C8255": "hy1",
-    "K8255": "Log independent-director count."
+    "K8255": "Log independent-director count.",
+    "A8256": "WZZQX3TX",
+    "B8256": "h35",
+    "C8256": "hy1",
+    "K8256": "Log independent-director count."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
