@@ -593013,3 +593013,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:49:04.931287+00:00 — Review WERKYTKC h29: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8189",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8189",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8189",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8189",
+    "before": null,
+    "after": "Own dividend-increase indicator, p.556 discussion of Table4A full equation. AppendixA defines increase as proportional regular-cash-dividend change >=1%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3599",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3599",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3599",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3599",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3599",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3599",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3599",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3599",
+    "before": null,
+    "after": "Industry LBO activity count included-regressor coefficient on own dividend-increase indicator, p.556 discussion of Table4A full equation; estimates 1% (prose only). Separate treatment parameter in the implemented joint linear IV equation, not a new regression."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3599",
+    "before": null,
+    "after": "Author-intention gate: pp.552,556 identify these as dividend determinants and discuss substantive effects/ranking, including nulls; C.1 pp.565-566 explicitly considers taxes/catering inducing dividend decisions. Included controls are not automatically excluded. Actual estimator is joint 2SLS/IV, with peer share endogenous and average peer idiosyncratic equity risk the sole excluded instrument. The focal included regressor is NOT instrumented by peer risk; its coefficient additionally relies on maintained included-regressor exogeneity. Method IV describes the implemented joint estimator, not a focal-treatment instrument or LATE. No unseen OLS/FE re-estimation inferred. Firm/time FE (firm only when time-only determinants replace time FE) remain subordinate to the implemented IV equation. AppendixA defines count, nonbinary despite binary-looking C.1 summary moments. Specific coefficient is economically interpreted; other unreported industry/peer coefficients discussed only as common/contextual confounding checks remain diagnostic candidates, not fabricated rows."
+  }
+]
+```
