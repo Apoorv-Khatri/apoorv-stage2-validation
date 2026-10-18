@@ -512907,3 +512907,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:22:37.071509+00:00 — Review QLFZQVZU s8: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1493",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1493",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1493",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1493",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s8 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I615",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O615",
+    "before": null,
+    "after": "Comparing coefficients on cumulative earnings net of dividends and cumulative dividends distinguishes earnings content from payout-policy explanations. The authors say accumulated earnings, not payout policies, drive predictive power. They do not interpret the dividend slope as the causal return response to paying dividends. Differences within one standard error are coefficient/precision comparisons, not outcome benchmarks. Source: pp243–244; Table5 B; L1019–1036. Source: pp243–244; Table5 B; L1019–1036."
+  }
+]
+```
