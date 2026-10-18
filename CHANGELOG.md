@@ -564696,3 +564696,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:29:07.973885+00:00 — Review UK6BI2QX s1: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I749",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J749",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K749",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L749",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M749",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N749",
+    "before": null,
+    "after": "Lagged firm credit spread (percentage points), Table III columns 1/4: effects on quarterly net equity repurchases and net long-term debt issuance, each /lagged assets. Remaining six distinct valuation doses split to added settings."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O749",
+    "before": null,
+    "after": "Broad author-intention gate met: valuations affect financing (abstract, pp.3043,3061–3064). Firm FE explicitly focus on a given firm under changing conditions (p.3060), addressing persistent firm heterogeneity; one effective FE set, not HDFE. No time FE or no-firm-FE column. Lagging and controls do not prove exogeneity. Generated expected-return predictors are not implemented IV treatment receipt."
+  }
+]
+```
