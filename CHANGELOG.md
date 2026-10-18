@@ -568149,3 +568149,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:40:12.060090+00:00 — Review UK6BI2QX h24: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7956",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7957",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7956",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7957",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7956",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7957",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7956",
+    "before": null,
+    "after": "Aggregate quarterly net equity repurchases of U.S. nonfinancial corporations, normalized by lagged assets; percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7957",
+    "before": null,
+    "after": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged assets; percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3459",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3459",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3459",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3459",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3459",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3459",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3459",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3459",
+    "before": null,
+    "after": "Treasury issuance /quarterly GDP effect on aggregate net equity repurchases and net debt issuance, Table VIII.C columns 7/8; continuous dose, OLS with baseline controls. Printed coefficients −0.0532/−0.0408."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3459",
+    "before": null,
+    "after": "Section V/intro p.3044 explicitly frames sentiment and supply as drivers of financing. No IV. For Treasury supply: change in outstanding notes/bonds excluding monetary authorities and foreigners /quarterly GDP (p.3083). Table VIII caption incorrectly calls C columns 5/6; actual headings 7/8. Main=0: additional mechanism, not main valuation/heterogeneity claim."
+  }
+]
+```
