@@ -34249,7 +34249,16 @@
     "L3440": "1",
     "M3440": "n/a",
     "N3440": "Lagged firm-level predicted 12-month excess bond return effect on net equity repurchases and net debt issuance, quarterly flows /lagged assets; Table III, columns 3/6. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments.",
-    "O3440": "Broad author-intention gate met: valuations affect financing (abstract, pp.3043,3061–3064). Firm FE explicitly focus on a given firm under changing conditions (p.3060), addressing persistent firm heterogeneity; one effective FE set, not HDFE. No time FE or no-firm-FE column. Lagging and controls do not prove exogeneity. Generated expected-return predictors are not implemented IV treatment receipt."
+    "O3440": "Broad author-intention gate met: valuations affect financing (abstract, pp.3043,3061–3064). Firm FE explicitly focus on a given firm under changing conditions (p.3060), addressing persistent firm heterogeneity; one effective FE set, not HDFE. No time FE or no-firm-FE column. Lagging and controls do not prove exogeneity. Generated expected-return predictors are not implemented IV treatment receipt.",
+    "A3441": "UK6BI2QX",
+    "B3441": "h6",
+    "I3441": "1",
+    "J3441": "FE",
+    "K3441": "0",
+    "L3441": "1",
+    "M3441": "n/a",
+    "N3441": "Lagged firm-level predicted 12-month excess stock return effect on net equity repurchases and net debt issuance, quarterly flows /lagged assets; Table III, columns 3/6. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments.",
+    "O3441": "Broad author-intention gate met: valuations affect financing (abstract, pp.3043,3061–3064). Firm FE explicitly focus on a given firm under changing conditions (p.3060), addressing persistent firm heterogeneity; one effective FE set, not HDFE. No time FE or no-firm-FE column. Lagging and controls do not prove exogeneity. Generated expected-return predictors are not implemented IV treatment receipt."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87782,7 +87791,15 @@
     "A7909": "UK6BI2QX",
     "B7909": "h5",
     "C7909": "hy2",
-    "K7909": "Quarterly net debt issuance by firm i, defined as long-term debt issuance minus long-term debt reduction, normalized by lagged assets; percentage points of lagged assets."
+    "K7909": "Quarterly net debt issuance by firm i, defined as long-term debt issuance minus long-term debt reduction, normalized by lagged assets; percentage points of lagged assets.",
+    "A7910": "UK6BI2QX",
+    "B7910": "h6",
+    "C7910": "hy1",
+    "K7910": "Quarterly net equity repurchases by firm i, defined as purchase of common and preferred stock minus sale of common and preferred stock, normalized by lagged assets; percentage points of lagged assets.",
+    "A7911": "UK6BI2QX",
+    "B7911": "h6",
+    "C7911": "hy2",
+    "K7911": "Quarterly net debt issuance by firm i, defined as long-term debt issuance minus long-term debt reduction, normalized by lagged assets; percentage points of lagged assets."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
