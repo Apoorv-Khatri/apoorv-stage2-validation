@@ -570447,3 +570447,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:06:03.836961+00:00 — Review UTRUH2FR h4: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7983",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7983",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7983",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7983",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7983",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7983",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7983",
+    "before": null,
+    "after": "Indicator for any structured loan use. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3475",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3475",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3475",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3475",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3475",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3475",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3475",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3475",
+    "before": null,
+    "after": "Close 2001 election indicator (victory margin <5%) effect on structured adoption, Table5 column4, probit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3475",
+    "before": null,
+    "after": "Distinct stability treatment, explicitly interpreted p.1922; central contestation corroboration. No quasi-random close-election RD implemented."
+  }
+]
+```
