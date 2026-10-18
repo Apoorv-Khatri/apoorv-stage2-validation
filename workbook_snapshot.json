@@ -31094,7 +31094,16 @@
     "L3167": "1",
     "M3167": "n/a",
     "N3167": "Firm-level book-to-market characteristic coefficient in implemented Fama–MacBeth return regressions reported qualitatively in final Section3.4 (Internet Appendix unavailable).",
-    "O3167": "Minimum scope: final p931 says all results remain valid in firm-level Fama–MacBeth regressions directly using firm characteristics. Unlike portfolio average deciles, these use raw firm characteristics; do not invent table numbers, transforms, numeric coefficients or benchmark rows. Same joint-effect author-intention gate as Table3. Main role for duration/value/profitability follows the introduction, not appendix placement. Source: p931 Section3.4; L854–874."
+    "O3167": "Minimum scope: final p931 says all results remain valid in firm-level Fama–MacBeth regressions directly using firm characteristics. Unlike portfolio average deciles, these use raw firm characteristics; do not invent table numbers, transforms, numeric coefficients or benchmark rows. Same joint-effect author-intention gate as Table3. Main role for duration/value/profitability follows the introduction, not appendix placement. Source: p931 Section3.4; L854–874.",
+    "A3168": "QY4D7PCL",
+    "B3168": "h28",
+    "I3168": "1",
+    "J3168": "OLS",
+    "K3168": "0",
+    "L3168": "1",
+    "M3168": "n/a",
+    "N3168": "Firm-level gross profitability characteristic coefficient in implemented Fama–MacBeth return regressions reported qualitatively in final Section3.4 (Internet Appendix unavailable).",
+    "O3168": "Minimum scope: final p931 says all results remain valid in firm-level Fama–MacBeth regressions directly using firm characteristics. Unlike portfolio average deciles, these use raw firm characteristics; do not invent table numbers, transforms, numeric coefficients or benchmark rows. Same joint-effect author-intention gate as Table3. Main role for duration/value/profitability follows the introduction, not appendix placement. Source: p931 Section3.4; L854–874."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -81786,7 +81795,11 @@
     "A7518": "QY4D7PCL",
     "B7518": "h27",
     "C7518": "hy1",
-    "K7518": "Firm stock return in Fama–MacBeth regressions; exact horizon/scale and detailed appendix specifications unavailable. Final article establishes qualitative results only."
+    "K7518": "Firm stock return in Fama–MacBeth regressions; exact horizon/scale and detailed appendix specifications unavailable. Final article establishes qualitative results only.",
+    "A7519": "QY4D7PCL",
+    "B7519": "h28",
+    "C7519": "hy1",
+    "K7519": "Firm stock return in Fama–MacBeth regressions; exact horizon/scale and detailed appendix specifications unavailable. Final article establishes qualitative results only."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
