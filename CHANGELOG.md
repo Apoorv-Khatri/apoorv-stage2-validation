@@ -548043,3 +548043,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:32:54.025152+00:00 — Review S3X8G9NP h5: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7758",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7758",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7758",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7758",
+    "before": null,
+    "after": "Individual response to owning any stocks or bonds (0/1), weighted Gallup surveys. Article data section and references say 1937–1938; Table7 caption says 1935–1938. Table7 col3 / Eq6B, pp213–214; layout L1113–1185"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3342",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3342",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3342",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3342",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3342",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3342",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3342",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3342",
+    "before": null,
+    "after": "Third state subscription rate conditional on third-to-fourth increment; outcomes: individual stock-or-bond ownership indicator. Table7 col3 / Eq6B, pp213–214; layout L1113–1185."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3342",
+    "before": null,
+    "after": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Weighted linear probability regression; poll dummies are nuisance controls, not an established identifying-FE strategy. Separate from fourth rate and increment. Source: Table7 col3 / Eq6B, pp213–214; layout L1113–1185."
+  }
+]
+```

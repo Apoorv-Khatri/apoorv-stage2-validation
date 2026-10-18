@@ -32951,7 +32951,16 @@
     "L3341": "1",
     "M3341": "single binary",
     "N3341": "Third county subscription rate × post-1918 in joint 2SLS equation instrumenting the increment; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Table6 even cols2,4,6,8, p212; p211 independent-interest statement L963–967.",
-    "O3341": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Third rate is included/exogenous, NOT itself instrumented. Implemented estimator is joint 2SLS; excluded instrument switch-to-allotment × post-1918 instruments the increment only. Do not describe this third-rate coefficient as a complier response to third subscriptions. Independent audit: IV code denotes the implemented joint 2SLS system, not instrumented third-rate receipt. The included third-rate coefficient is separately retained because it is substantively interpreted (p211 independent-interest statement; Table7 joint lasting-effects discussion; A3 regional counterpart). Ordinary nuisance controls are not added as treatments. Source: Table6 even cols2,4,6,8, p212; p211 independent-interest statement L963–967."
+    "O3341": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Third rate is included/exogenous, NOT itself instrumented. Implemented estimator is joint 2SLS; excluded instrument switch-to-allotment × post-1918 instruments the increment only. Do not describe this third-rate coefficient as a complier response to third subscriptions. Independent audit: IV code denotes the implemented joint 2SLS system, not instrumented third-rate receipt. The included third-rate coefficient is separately retained because it is substantively interpreted (p211 independent-interest statement; Table7 joint lasting-effects discussion; A3 regional counterpart). Ordinary nuisance controls are not added as treatments. Source: Table6 even cols2,4,6,8, p212; p211 independent-interest statement L963–967.",
+    "A3342": "S3X8G9NP",
+    "B3342": "h5",
+    "I3342": "1",
+    "J3342": "OLS",
+    "K3342": "0",
+    "L3342": "1",
+    "M3342": "n/a",
+    "N3342": "Third state subscription rate conditional on third-to-fourth increment; outcomes: individual stock-or-bond ownership indicator. Table7 col3 / Eq6B, pp213–214; layout L1113–1185.",
+    "O3342": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Weighted linear probability regression; poll dummies are nuisance controls, not an established identifying-FE strategy. Separate from fourth rate and increment. Source: Table7 col3 / Eq6B, pp213–214; layout L1113–1185."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85550,7 +85559,11 @@
     "A7757": "S3X8G9NP",
     "B7757": "h4",
     "C7757": "hy4",
-    "K7757": "Indicator for at least one investment bank in county-year (0/1). Table6 even cols2,4,6,8, p212; p211 independent-interest statement L963–967"
+    "K7757": "Indicator for at least one investment bank in county-year (0/1). Table6 even cols2,4,6,8, p212; p211 independent-interest statement L963–967",
+    "A7758": "S3X8G9NP",
+    "B7758": "h5",
+    "C7758": "hy1",
+    "K7758": "Individual response to owning any stocks or bonds (0/1), weighted Gallup surveys. Article data section and references say 1937–1938; Table7 caption says 1935–1938. Table7 col3 / Eq6B, pp213–214; layout L1113–1185"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
