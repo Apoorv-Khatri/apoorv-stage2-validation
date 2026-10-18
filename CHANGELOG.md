@@ -601359,3 +601359,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:45:56.790239+00:00 — Review WZZQX3TX h6: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5355",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5356",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5355",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5356",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5355",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5356",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5355",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5356",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5355",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5356",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5355",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5356",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5355",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5356",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5355",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5356",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5355",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5356",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5355",
+    "before": null,
+    "after": "Table III panel B column 4: coefficient 0.25, marginal effect at mean 1.6 directors. Eq.(3) discussion p.2396 defines beta × outcome mean; full-sample level mean 6.39 (rounded 6.4) (Table I), explicitly confirmed p.2402 for baseline. Multiplication, not division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5356",
+    "before": null,
+    "after": "Table III panel B column 6: coefficient 0.38, marginal effect at mean 2.43 directors. Eq.(3) discussion p.2396 defines beta × outcome mean; full-sample level mean 6.39 (rounded 6.4) (Table I), explicitly confirmed p.2402 for baseline. Multiplication, not division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5355",
+    "before": null,
+    "after": "Deliberate same-outcome level-mean conversion qualifies; multiplication, not division. Full-sample mixed-exposure level mean does not represent the local untreated cutoff target. FD uses a differenced transformed outcome with a level-mean conversion, not an aligned growth-rate mean. Preserve distinct coefficients by column even where rounding coincides."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5356",
+    "before": null,
+    "after": "Deliberate same-outcome level-mean conversion qualifies; multiplication, not division. Full-sample mixed-exposure level mean does not represent the local untreated cutoff target. FD uses a differenced transformed outcome with a level-mean conversion, not an aligned growth-rate mean. Preserve distinct coefficients by column even where rounding coincides."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8231",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8231",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8231",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8231",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8231",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8231",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8231",
+    "before": null,
+    "after": "Log independent director count."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3626",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3626",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3626",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3626",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3626",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3626",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3626",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3626",
+    "before": null,
+    "after": "New implied covenant violation on log independent director count; Table III B columns4 and6, direct local cutoff regression with and without firm FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3626",
+    "before": null,
+    "after": "RD precedence: equation (3) implements a direct discontinuity at binding distance zero with side-specific polynomials in a narrow window. Firm/year FE address selection and heterogeneity but do not override the implemented cutoff design (prompt lines24,30,41). No instrumented receipt. Keep authors’ manipulation, heterogeneous thresholds and switcher-target limitations; this taxonomy does not assert random crossing. Level-log implementations with and without firm FE grouped as control variants; their distinct estimates/comparisons preserved. First violations retain pre-first observations and first event; new violations exclude repeated v(t)=1 with v(t−1)≠0 (visually verified p.2404). Not an absorbing TWFE treatment."
+  }
+]
+```
