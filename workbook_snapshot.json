@@ -32124,7 +32124,16 @@
     "L3255": "1",
     "M3255": "n/a",
     "N3255": "Revised bid versus unrevised bid: effect on normalized rationing; Table VIII col1, pp2331–2333. ",
-    "O3255": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + bank + investor FE: three distinct nonnested dimensions. Identification argument pp2331–2333 controls persistent investor information/size and bank/IPO heterogeneity. HDFE does not require authors to use that acronym. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table VIII col1, pp2331–2333; article_layout.txt L1367–1479."
+    "O3255": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + bank + investor FE: three distinct nonnested dimensions. Identification argument pp2331–2333 controls persistent investor information/size and bank/IPO heterogeneity. HDFE does not require authors to use that acronym. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table VIII col1, pp2331–2333; article_layout.txt L1367–1479.",
+    "A3256": "RQV5GQTL",
+    "B3256": "h32",
+    "I3256": "1",
+    "J3256": "HDFE",
+    "K3256": "1",
+    "L3256": "1",
+    "M3256": "n/a",
+    "N3256": "Attendance at a bookbuilding meeting versus no meeting: effect on normalized rationing; Table VIII col1, pp2331–2333. ",
+    "O3256": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + bank + investor FE: three distinct nonnested dimensions. Identification argument pp2331–2333 controls persistent investor information/size and bank/IPO heterogeneity. HDFE does not require authors to use that acronym. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table VIII col1, pp2331–2333; article_layout.txt L1367–1479."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -84074,7 +84083,14 @@
     "H7658": "0",
     "I7658": "unknown",
     "J7658": "none",
-    "K7658": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
+    "K7658": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated.",
+    "A7659": "RQV5GQTL",
+    "B7659": "h32",
+    "C7659": "hy1",
+    "H7659": "0",
+    "I7659": "unknown",
+    "J7659": "none",
+    "K7659": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
