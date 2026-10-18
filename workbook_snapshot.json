@@ -30887,7 +30887,16 @@
     "L3144": "0",
     "M3144": "n/a",
     "N3144": "asset growth average-decile dose coefficient in Table3A/B pooled portfolio-return regressions; univariate and jointly controlled specifications.",
-    "O3144": "Author studies characteristic effects jointly (p928) and attributes disappearance of value/profitability premia to endogenous correlation with duration (p931). Include null conditional slopes. Same pooled OLS, no identifying FE; not a causal effect of adding a regression control. Growth/size are supporting competing-characteristic checks. Source: pp928–931 Table3; L681–738,802–874."
+    "O3144": "Author studies characteristic effects jointly (p928) and attributes disappearance of value/profitability premia to endogenous correlation with duration (p931). Include null conditional slopes. Same pooled OLS, no identifying FE; not a causal effect of adding a regression control. Growth/size are supporting competing-characteristic checks. Source: pp928–931 Table3; L681–738,802–874.",
+    "A3145": "QY4D7PCL",
+    "B3145": "h5",
+    "I3145": "1",
+    "J3145": "OLS",
+    "K3145": "0",
+    "L3145": "0",
+    "M3145": "n/a",
+    "N3145": "size average-decile dose coefficient in Table3A/B pooled portfolio-return regressions; univariate and jointly controlled specifications.",
+    "O3145": "Author studies characteristic effects jointly (p928) and attributes disappearance of value/profitability premia to endogenous correlation with duration (p931). Include null conditional slopes. Same pooled OLS, no identifying FE; not a causal effect of adding a regression control. Growth/size are supporting competing-characteristic checks. Source: pp928–931 Table3; L681–738,802–874."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -81412,7 +81421,11 @@
     "A7486": "QY4D7PCL",
     "B7486": "h4",
     "C7486": "hy1",
-    "K7486": "Monthly portfolio return; coefficients rescaled to annualized nine-decile high-low return equivalents. No log transformation of the outcome."
+    "K7486": "Monthly portfolio return; coefficients rescaled to annualized nine-decile high-low return equivalents. No log transformation of the outcome.",
+    "A7487": "QY4D7PCL",
+    "B7487": "h5",
+    "C7487": "hy1",
+    "K7487": "Monthly portfolio return; coefficients rescaled to annualized nine-decile high-low return equivalents. No log transformation of the outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
