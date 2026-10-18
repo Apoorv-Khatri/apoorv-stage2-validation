@@ -31040,7 +31040,16 @@
     "L3161": "0",
     "M3161": "n/a",
     "N3161": "ICAPM risk-pricing fit for EPP portfolios, Table7A and Section5.1.2; joint market/reinvestment covariance-pricing implementation and restrictions not fully shown in available main text.",
-    "O3161": "Final p938 Section5.1.2 explicitly implements the Section4.1 ICAPM for this alternative duration measure and reports small alphas plus reinvestment exposure; retain minimum substantive covariance-pricing scope. The exact inequality restrictions, equity-premium equality and risk-price component grid are not established in available Table7/text. Method unknown rather than Other by structural label; known model is non-IV. Do not infer Table5 column5 implementation or invent Appendix coefficients. Split component/restriction settings only if a validated final supplement establishes them. Source: pp938–939 Table7A; L1344–1359,1390–1437."
+    "O3161": "Final p938 Section5.1.2 explicitly implements the Section4.1 ICAPM for this alternative duration measure and reports small alphas plus reinvestment exposure; retain minimum substantive covariance-pricing scope. The exact inequality restrictions, equity-premium equality and risk-price component grid are not established in available Table7/text. Method unknown rather than Other by structural label; known model is non-IV. Do not infer Table5 column5 implementation or invent Appendix coefficients. Split component/restriction settings only if a validated final supplement establishes them. Source: pp938–939 Table7A; L1344–1359,1390–1437.",
+    "A3162": "QY4D7PCL",
+    "B3162": "h22",
+    "I3162": "1",
+    "J3162": "OLS",
+    "K3162": "0",
+    "L3162": "0",
+    "M3162": "n/a",
+    "N3162": "Expected-market-return shocks and annual log returns on EPP portfolios, Table7A beta_Er column.",
+    "O3162": "Discount-rate response mechanism is explicitly invoked in Section5.1.2. Market betas are descriptive risk controls here, not a separate author-interpreted causal treatment. No FE. Source: pp938–939 Table7A; L1344–1359,1390–1437."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -81705,7 +81714,11 @@
     "A7512": "QY4D7PCL",
     "B7512": "h21",
     "C7512": "hy1",
-    "K7512": "Annual excess returns on alternative-duration portfolio spreads, with ICAPM-implied pricing errors shown as substantive robustness/fit summaries, not causal outcomes themselves."
+    "K7512": "Annual excess returns on alternative-duration portfolio spreads, with ICAPM-implied pricing errors shown as substantive robustness/fit summaries, not causal outcomes themselves.",
+    "A7513": "QY4D7PCL",
+    "B7513": "h22",
+    "C7513": "hy1",
+    "K7513": "Annual log excess return on alternative-duration portfolios and L-S spread; reinvestment beta is a slope, not dependent variable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

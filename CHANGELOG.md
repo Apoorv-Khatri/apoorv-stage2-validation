@@ -520176,3 +520176,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T04:08:41.420732+00:00 — Review QY4D7PCL h22: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7513",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7513",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7513",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7513",
+    "before": null,
+    "after": "Annual log excess return on alternative-duration portfolios and L-S spread; reinvestment beta is a slope, not dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3162",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3162",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3162",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3162",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3162",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3162",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3162",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3162",
+    "before": null,
+    "after": "Expected-market-return shocks and annual log returns on EPP portfolios, Table7A beta_Er column."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3162",
+    "before": null,
+    "after": "Discount-rate response mechanism is explicitly invoked in Section5.1.2. Market betas are descriptive risk controls here, not a separate author-interpreted causal treatment. No FE. Source: pp938–939 Table7A; L1344–1359,1390–1437."
+  }
+]
+```
