@@ -543138,3 +543138,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:59:19.660818+00:00 — Review RQV5GQTL h79: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7706",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7706",
+    "before": null,
+    "after": "h79"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7706",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7706",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7706",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7706",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7706",
+    "before": null,
+    "after": "Expected profitability of bid: shares allocated times fitted expected first-day return divided by bid size (p2335). Constructed level, no log/SD transform. Exact return scaling is not reconciled: Eq2 prose calls underpricing a price ratio, whereas TableV defines net return and TableX says price increase. Do not invent percent versus percentage-point units. Observed zero mass is unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3303",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3303",
+    "before": null,
+    "after": "h79"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3303",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3303",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3303",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3303",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3303",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3303",
+    "before": null,
+    "after": "Attendance at a bookbuilding meeting versus no meeting: effect on expected bid profitability; Table X cols1–2, pp2335–2337. Revenue contrasts use col2 only; bid contrasts include cols1–2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3303",
+    "before": null,
+    "after": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Linear regression in the reported generated profitability outcome; prediction in Eq2 is construction, not an excluded instrument or separate causal first stage. Supporting parameter-specific contrast, not promoted solely by location. Source: Table X cols1–2, pp2335–2337; article_layout.txt L1579–1708."
+  }
+]
+```
