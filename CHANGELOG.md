@@ -574542,3 +574542,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:40:24.580307+00:00 — Review UUTLYHI2 h12: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8026",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8026",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8026",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8026",
+    "before": null,
+    "after": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3506",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3506",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3506",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3506",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3506",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3506",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3506",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3506",
+    "before": null,
+    "after": "Basel III Tier1 shortfall effect on loan sale2012Q2–Q3, Table8 column5 without loan FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3506",
+    "before": null,
+    "after": "Genuine no-FE counterpart to s3, −0.491. Post-shock sale indicator, no differenced sale outcome or treated×post implementation despite design-level DiD label."
+  }
+]
+```

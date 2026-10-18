@@ -34933,7 +34933,16 @@
     "L3505": "0",
     "M3505": "n/a",
     "N3505": "Syndicate equally weighted total capital/RWA effect on nonbank share, Table6 column6.",
-    "O3505": "Different aggregated treatment/target exposure, not just SE/control variant. Only year dummies printed; same OLS rationale as Table5. No linked outcome mean/SD in this table."
+    "O3505": "Different aggregated treatment/target exposure, not just SE/control variant. Only year dummies printed; same OLS rationale as Table5. No linked outcome mean/SD in this table.",
+    "A3506": "UUTLYHI2",
+    "B3506": "h12",
+    "I3506": "1",
+    "J3506": "OLS",
+    "K3506": "0",
+    "L3506": "0",
+    "M3506": "n/a",
+    "N3506": "Basel III Tier1 shortfall effect on loan sale2012Q2–Q3, Table8 column5 without loan FE.",
+    "O3506": "Genuine no-FE counterpart to s3, −0.491. Post-shock sale indicator, no differenced sale outcome or treated×post implementation despite design-level DiD label."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89072,7 +89081,11 @@
     "A8025": "UUTLYHI2",
     "B8025": "h11",
     "C8025": "hy1",
-    "K8025": "Fraction of loan funded by nonbanks, not a binary dependent variable."
+    "K8025": "Fraction of loan funded by nonbanks, not a binary dependent variable.",
+    "A8026": "UUTLYHI2",
+    "B8026": "h12",
+    "C8026": "hy1",
+    "K8026": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
