@@ -35443,7 +35443,16 @@
     "L3554": "1",
     "M3554": "n/a",
     "N3554": "Large cash bid over three years prior to t, Table 1 Panel B column 4: effect on activist targeting in t.",
-    "O3554": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses."
+    "O3554": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses.",
+    "A3555": "VPZERBIY",
+    "B3555": "h8",
+    "I3555": "1",
+    "J3555": "OLS",
+    "K3555": "1",
+    "L3555": "1",
+    "M3555": "n/a",
+    "N3555": "Low return stock bid over three years prior to t, Table 1 Panel B column 5: effect on activist targeting in t.",
+    "O3555": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -90056,7 +90065,14 @@
     "H8082": "1",
     "I8082": "1",
     "J8082": "none",
-    "K8082": "Activist target indicator in year t (Table 1 Panel B)."
+    "K8082": "Activist target indicator in year t (Table 1 Panel B).",
+    "A8083": "VPZERBIY",
+    "B8083": "h8",
+    "C8083": "hy1",
+    "H8083": "1",
+    "I8083": "1",
+    "J8083": "none",
+    "K8083": "Activist target indicator in year t (Table 1 Panel B)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -148795,7 +148811,18 @@
     "O5253": "1",
     "P5253": "unknown",
     "Q5253": "Table1B pp.531–532: Column 4 coefficient on Large cash bid = 0.0337 in Table 1 Panel B. Benchmark: Probability of being targeted / unconditional probability of activist targeting in the matched sample. \"In economic terms, a large stock acquisition doubles the probability of being targeted, whereas a large cash acquisition raises this probability by 69%.\"",
-    "R5253": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment."
+    "R5253": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment.",
+    "A5254": "VPZERBIY",
+    "B5254": "h8",
+    "C5254": "hc1",
+    "K5254": "1",
+    "L5254": "hy1",
+    "M5254": "outcome_mean",
+    "N5254": "1",
+    "O5254": "1",
+    "P5254": "unknown",
+    "Q5254": "Introduction p.527: low-return stock acquisition over past three years makes firms twice as likely to become activist targets. Table1B col5 estimate 0.0539. Targeting-probability mean benchmark; exact baseline/weights not reported.",
+    "R5254": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
