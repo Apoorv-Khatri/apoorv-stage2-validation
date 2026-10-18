@@ -522207,3 +522207,216 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:50:51.695646+00:00 — Review R7QNVLC6 s8: source-audited coding and linked comparisons
+
+34 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K362",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K363",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K364",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L362",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L363",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L364",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M362",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M363",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M364",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N362",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N363",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N364",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O362",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O363",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O364",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P362",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P363",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P364",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q362",
+    "before": null,
+    "after": "p2253, Table IX A discussion, article.txt L1342–1349: predicted termination probability 5.5% for an antiherding manager versus 4.2% for a herding manager, holding all other variables at their mean values. Benchmark: 5.5% at the antiherding reference dose for the same covariate profile in the single-manager sample. Verbal comparison without normalization; not a posterior probability or an observed sample average."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q363",
+    "before": null,
+    "after": "p2253, Table IX discussion; article.txt L1342–1359. low-general-experience managers: antiherding 7.4% versus herding 5.1%. These are model-predicted termination probabilities for FH endpoints, not observed frequencies. Authors juxtapose levels, without dividing the contrast by a probability."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q364",
+    "before": null,
+    "after": "p2253, Table IX discussion; article.txt L1342–1359. high-general-experience managers: antiherding 4.4% versus herding 4.0%. These are model-predicted termination probabilities for FH endpoints, not observed frequencies. Authors juxtapose levels, without dividing the contrast by a probability."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R362",
+    "before": null,
+    "after": "Probability is an outcome_mean. For this specific model-predicted profile contrast, p2253 explicitly holds all other variables at the same mean values and varies FH between antiherding and herding profiles. The 5.5% reference-dose probability is therefore the model-implied baseline for that same conditional contrast; alignment=1 does not claim an observed untreated group, population-average effect, or causal validity. Numeric FH endpoints and the chosen logit column are not given, limiting replication rather than breaking this explicit profile match. No division is reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R363",
+    "before": null,
+    "after": "Probability is an outcome_mean; verbal=1, divided=0. The subgroup passage at p2253 does not explicitly restate the covariate evaluation/averaging rule for these predicted endpoints. Same-profile construction is plausible by continuity with Panel A, but not established as explicitly; alignment remains unknown pending that interpretation. Do not infer misalignment merely from absent exact FH endpoints or logit-column numbers. The high-experience near-null remains eligible."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R364",
+    "before": null,
+    "after": "Probability is an outcome_mean; verbal=1, divided=0. The subgroup passage at p2253 does not explicitly restate the covariate evaluation/averaging rule for these predicted endpoints. Same-profile construction is plausible by continuity with Panel A, but not established as explicitly; alignment remains unknown pending that interpretation. Do not infer misalignment merely from absent exact FH endpoints or logit-column numbers. The high-experience near-null remains eligible."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1580",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1580",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1580",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1580",
+    "before": null,
+    "after": "Table IX and p2253 define the estimated logit dependent variable as a termination indicator. Caption says all variables standardized; read as regressor standardization, not a standardized binary logit response. Footnote 23 confirms both events and nonevents. Treatment is continuous; these optional outcome labels are supplied for clarity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I638",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J638",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K638",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L638",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M638",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O638",
+    "before": null,
+    "after": "Retain: authors explicitly interpret herding as reducing negative career outcomes, including high-experience/tenure nulls. Implemented logit and marginal/predicted probabilities are nonlinear Other. FH is a continuous standardized regressor; predicted top/bottom-decile profiles do not implement a binary-treatment regression. Experience, tenure, past alpha and tracking error effects are separately proposed, not silently omitted. Source: pp2252–2255; Table IX A–B; L1291–1361,1381–1475. Source: pp2252–2255; Table IX A–B; L1291–1361,1381–1475."
+  }
+]
+```
