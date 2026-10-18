@@ -606471,3 +606471,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T19:11:21.745786+00:00 — Review X387EWAF s7: source-audited coding and linked comparisons
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1977",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1978",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1979",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1977",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1978",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1979",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1977",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1978",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1979",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1977",
+    "before": null,
+    "after": "Year/group price informativeness b_{t,h}×SD_t(log(M/A)), h=1, from group-specific Eq.15. Constructed slope-times-regressor-SD in earnings/current-assets units; tables multiply by100. Not earnings SD units and not binary. No evidence establishes a probability atom at zero. Restrict to option listing; turnover outcomes under h1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1978",
+    "before": null,
+    "after": "Year/group price informativeness b_{t,h}×SD_t(log(M/A)), h=3, from group-specific Eq.15. Constructed slope-times-regressor-SD in earnings/current-assets units; tables multiply by100. Not earnings SD units and not binary. No evidence establishes a probability atom at zero. Restrict to option listing; turnover outcomes under h1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1979",
+    "before": null,
+    "after": "Year/group price informativeness b_{t,h}×SD_t(log(M/A)), h=5, from group-specific Eq.15. Constructed slope-times-regressor-SD in earnings/current-assets units; tables multiply by100. Not earnings SD units and not binary. No evidence establishes a probability atom at zero. Restrict to option listing; turnover outcomes under h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I810",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J810",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K810",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L810",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M810",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N810",
+    "before": null,
+    "after": "Section5.8, Fig.9 A–B/Table7 A pp.643–645; CBOE-listed versus unlisted S&P500 nonfinancial stocks, 1973–2014. Option-turnover contrast split into h1. Outcome: group/year price informativeness at 1,3,5-year horizons, b×SD(log(M/A))."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O810",
+    "before": null,
+    "after": "Keep listing contrast under options-facilitate-information interpretation, pp.627,643; distinct from intensive option turnover. Listed/unlisted group regressions and decade summaries, not staggered-adoption DiD. Selection acknowledged, not a reason alone to reject author intention. Conditional on subgroup/regressor arrays, slope times group-specific regressor SD and differences/averages thereof are linear in future earnings. This does not imply causality. Sector controls strip obvious public information, with no separate identifying-FE claim; OLS, not FE/RD/DiD/Other. Outcome is group/year informativeness, not outcome-SD-normalized earnings.  Table7 A later-decade coefficients (including2.455/2.445 for2000–2009) are changes in the listed-minus-unlisted gap relative to1973–1979, not later gap levels. Option-turnover scope is h1."
+  }
+]
+```
