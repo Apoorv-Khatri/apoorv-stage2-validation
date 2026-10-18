@@ -544293,3 +544293,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:03:10.901968+00:00 — Review RQV5GQTL h90: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7717",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7717",
+    "before": null,
+    "after": "h90"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7717",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7717",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7717",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7717",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7717",
+    "before": null,
+    "after": "Expected profitability of bid: shares allocated times fitted expected first-day return divided by bid size (p2335). Constructed level, no log/SD transform. Exact return scaling is not reconciled: Eq2 prose calls underpricing a price ratio, whereas TableV defines net return and TableX says price increase. Do not invent percent versus percentage-point units. Observed zero mass is unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3314",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3314",
+    "before": null,
+    "after": "h90"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3314",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3314",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3314",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3314",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3314",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3314",
+    "before": null,
+    "after": "First timing quartile (early) versus later bid: effect on expected bid profitability; Table X col3, pp2335–2337. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3314",
+    "before": null,
+    "after": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + bank + investor FE: three distinct nonnested dimensions. Identification argument pp2331–2333 controls persistent investor information/size and bank/IPO heterogeneity. HDFE does not require authors to use that acronym. Generated outcome does not itself make the final linear estimator IV or nonlinear. Supporting parameter-specific contrast, not promoted solely by location. Source: Table X col3, pp2335–2337; article_layout.txt L1579–1708."
+  }
+]
+```
