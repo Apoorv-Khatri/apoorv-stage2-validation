@@ -33483,7 +33483,16 @@
     "L3387": "1",
     "M3387": "other",
     "N3387": "Alternative-horizon peer selling effects: IV robustness explicitly reported in Section II.E. Exact horizon allocation pending final appendix.",
-    "O3387": "PROVISIONAL SOURCE-SCOPE, not a verified exact appendix setting census. Minimum implemented IV scope: sentence immediately follows IV result. Source lists one week, one/two/three/six months and one year as outcomes considered; do not fabricate six-by-two estimator grid. Broad quick-sale conclusion is central in introduction, not automatically supporting because appendix unavailable. Source: pp136,141,166."
+    "O3387": "PROVISIONAL SOURCE-SCOPE, not a verified exact appendix setting census. Minimum implemented IV scope: sentence immediately follows IV result. Source lists one week, one/two/three/six months and one year as outcomes considered; do not fabricate six-by-two estimator grid. Broad quick-sale conclusion is central in introduction, not automatically supporting because appendix unavailable. Source: pp136,141,166.",
+    "A3388": "SFCSD6BA",
+    "B3388": "h19",
+    "I3388": "1",
+    "J3388": "unknown",
+    "K3388": "unknown",
+    "L3388": "1",
+    "M3388": "unknown",
+    "N3388": "Peer influence on continuous natural log days to first sale, implemented positive result stated in introduction.",
+    "O3388": "PROVISIONAL SOURCE-SCOPE, not a verified exact appendix setting census. Estimator FE versus IV allocation unresolved; do not use Other for uncertainty. This outcome is explicitly stated separately from alternative quick-sale thresholds. The continuous dependent variable does not establish support of the implemented peer treatment; peer regressor construction is unavailable, so treatment binary status is unknown. Source: pp136,141."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86541,7 +86550,11 @@
     "A7843": "SFCSD6BA",
     "B7843": "h18",
     "C7843": "hy1",
-    "K7843": "Quick-sale indicators at alternative horizons; exact implemented horizon grid and corresponding peer-rate definitions unresolved."
+    "K7843": "Quick-sale indicators at alternative horizons; exact implemented horizon grid and corresponding peer-rate definitions unresolved.",
+    "A7844": "SFCSD6BA",
+    "B7844": "h19",
+    "C7844": "hy1",
+    "K7844": "Natural log of time to first sale, in days; exact zero handling unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

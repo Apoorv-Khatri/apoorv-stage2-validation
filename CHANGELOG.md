@@ -554829,3 +554829,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:32:46.275633+00:00 — Review SFCSD6BA h19: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7844",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7844",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7844",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7844",
+    "before": null,
+    "after": "Natural log of time to first sale, in days; exact zero handling unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3388",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3388",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3388",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3388",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3388",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3388",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3388",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3388",
+    "before": null,
+    "after": "Peer influence on continuous natural log days to first sale, implemented positive result stated in introduction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3388",
+    "before": null,
+    "after": "PROVISIONAL SOURCE-SCOPE, not a verified exact appendix setting census. Estimator FE versus IV allocation unresolved; do not use Other for uncertainty. This outcome is explicitly stated separately from alternative quick-sale thresholds. The continuous dependent variable does not establish support of the implemented peer treatment; peer regressor construction is unavailable, so treatment binary status is unknown. Source: pp136,141."
+  }
+]
+```
