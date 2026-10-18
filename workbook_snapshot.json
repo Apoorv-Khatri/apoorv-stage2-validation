@@ -34603,7 +34603,16 @@
     "L3473": "1",
     "M3473": "n/a",
     "N3473": "Years in power before 2001 election effect on structured adoption, Table5 column2, probit.",
-    "O3473": "Distinct stability treatment, explicitly interpreted p.1922; central contestation corroboration. No quasi-random close-election RD implemented."
+    "O3473": "Distinct stability treatment, explicitly interpreted p.1922; central contestation corroboration. No quasi-random close-election RD implemented.",
+    "A3474": "UTRUH2FR",
+    "B3474": "h3",
+    "I3474": "1",
+    "J3474": "Other",
+    "K3474": "0",
+    "L3474": "1",
+    "M3474": "n/a",
+    "N3474": "Number of political swings 1983–2001 effect on structured adoption, Table5 column3, probit.",
+    "O3474": "Distinct stability treatment, explicitly interpreted p.1922; central contestation corroboration. No quasi-random close-election RD implemented."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88452,7 +88461,11 @@
     "A7981": "UTRUH2FR",
     "B7981": "h2",
     "C7981": "hy1",
-    "K7981": "Indicator for any structured loan use. "
+    "K7981": "Indicator for any structured loan use. ",
+    "A7982": "UTRUH2FR",
+    "B7982": "h3",
+    "C7982": "hy1",
+    "K7982": "Indicator for any structured loan use. "
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

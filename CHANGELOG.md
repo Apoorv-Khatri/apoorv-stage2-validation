@@ -570360,3 +570360,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:05:42.014951+00:00 — Review UTRUH2FR h3: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7982",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7982",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7982",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7982",
+    "before": null,
+    "after": "Indicator for any structured loan use. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3474",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3474",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3474",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3474",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3474",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3474",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3474",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3474",
+    "before": null,
+    "after": "Number of political swings 1983–2001 effect on structured adoption, Table5 column3, probit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3474",
+    "before": null,
+    "after": "Distinct stability treatment, explicitly interpreted p.1922; central contestation corroboration. No quasi-random close-election RD implemented."
+  }
+]
+```
