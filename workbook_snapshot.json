@@ -34969,7 +34969,16 @@
     "L3509": "1",
     "M3509": "n/a",
     "N3509": "Syndicate maximal bank Tier1 shortfall effect on change in nonbank share around Basel III announcement, Table8 column8.",
-    "O3509": "Actual pre/post change outcome compared across differential shock exposure; Section2.4 explicitly invokes DiD. No modern estimator. Bank-level exposure aggregated to syndicate. Table8 caption erroneously includes column8 among sale columns but heading and later caption identify8–9 as change share."
+    "O3509": "Actual pre/post change outcome compared across differential shock exposure; Section2.4 explicitly invokes DiD. No modern estimator. Bank-level exposure aggregated to syndicate. Table8 caption erroneously includes column8 among sale columns but heading and later caption identify8–9 as change share.",
+    "A3510": "UUTLYHI2",
+    "B3510": "h16",
+    "I3510": "1",
+    "J3510": "DiD_conventional",
+    "K3510": "1",
+    "L3510": "1",
+    "M3510": "n/a",
+    "N3510": "Syndicate maximum High MSR Exposure dummy among member banks effect on change in nonbank share around Basel III announcement, Table8 column9.",
+    "O3510": "Actual pre/post change outcome compared across differential shock exposure; Section2.4 explicitly invokes DiD. No modern estimator. Bank-level exposure aggregated to syndicate. Table8 caption erroneously includes column8 among sale columns but heading and later caption identify8–9 as change share."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89130,7 +89139,14 @@
     "A8029": "UUTLYHI2",
     "B8029": "h15",
     "C8029": "hy1",
-    "K8029": "Change in nonbank funding share from before to after2012Q2 announcement."
+    "K8029": "Change in nonbank funding share from before to after2012Q2 announcement.",
+    "A8030": "UUTLYHI2",
+    "B8030": "h16",
+    "C8030": "hy1",
+    "H8030": "0",
+    "I8030": "unknown",
+    "J8030": "none",
+    "K8030": "Change in nonbank funding share from before to after2012Q2 announcement."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
