@@ -524685,3 +524685,204 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T08:53:42.039693+00:00 — Review RDVTTVCR s4: source-audited coding and linked comparisons
+
+32 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K370",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K371",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L369",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L370",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L371",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M369",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M370",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M371",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N371",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O371",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P369",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P370",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P371",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q369",
+    "before": null,
+    "after": "p2874 Table3 cols1/2; One-SD-larger Gross Change Risk-Shifting Asset_t (1.94) leads to a 1.96 pp reduction in loan volume, Table 3 col. (1), panel A. Benchmark: Standard deviation of precrisis loan growth; authors say the effect corresponds to 21% of that SD. “Column (1) shows that a one-SD-larger Gross Change Risk-Shifting Asset t (1.94) leads to a 1.96 pp reduction in loan volume, which corresponds to 21% of the SD of precrisis loan growth and a 2.3 pp higher likelihood of a loan decrease.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q370",
+    "before": null,
+    "after": "p2874 Table3 cols1/2; One-SD-larger Net Change Risk-Shifting Asset_t (1.73) implies a 2.6 pp reduction in loan volume, Table 3 col. (2), panel A. Benchmark: Standard deviation of precrisis loan growth; authors say the effect corresponds to 28% of that SD. “Moreover, a one-SD-larger Net Change Risk-Shifting Asset t (1.73) implies a reduction in loan volume by 2.6 pp and a 3.3 pp higher likelihood of a loan decrease. This loan volume decrease corresponds to 28% of the SD of precrisis loan growth.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q371",
+    "before": null,
+    "after": "p2874 Table3 cols1/2; Changing Net Change Risk-Shifting Asset_t from the 10th to the 90th percentile leads to a 9.5 pp higher likelihood of a loan decrease, Table 3 col. (2), panel B. Benchmark: Predicted likelihood of a loan decrease at the 90th percentile: 17.6%. “Changing the Net Change Risk-Shifting Asset t from the 10th percentile to the 90th percentile of the distribution leads to a 9.5 pp higher likelihood of a loan decrease. The predicted likelihood of a loan decrease at the 90th percentile was 17.6%, implying a reduction in the probability of a loan contraction of 53% when borrowing from a bank at the 10th instead of the 90th percentile.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R369",
+    "before": null,
+    "after": "Alignment unknown: precrisis SD reference population/weights and continuous-regression target match are not specified sufficiently. Same data source alone is not alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R370",
+    "before": null,
+    "after": "Wrong parent after gross/net treatment split: actual net-dose comparison retained as h2/hc1. Original ID/model fields preserved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R371",
+    "before": null,
+    "after": "Wrong parent after gross/net treatment split: actual net-dose comparison retained as h2/hc2. Original ID/model fields preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1619",
+    "before": null,
+    "after": "Bank–firm-cluster loan-decrease indicator, Table2/3 captions; not the probability of an individual firm application being refused. Binary outcome has zero and one categories (no label completion required for continuous treatment)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J647",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K647",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M647",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N647",
+    "before": null,
+    "after": "Gross Change Risk-Shifting Asset dose and GIIPS bank lending, Table3 A–C cols1/4. Net dose is split to h2; col6 hedge-moderated slope is s7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O647",
+    "before": null,
+    "after": "Eq1 pp2868–2870: firm-cluster×year FE absorb borrower demand/common shocks; firm-cluster×bank FE absorb persistent borrower-bank heterogeneity. Two effective identifying FE dimensions, not HDFE and not DiD merely because outcomes change during the crisis. Every displayed Table2/3 column has both FE; no actual no-FE OLS column. Author explicitly interprets the focal bank affectedness parameter as changing loan supply. Conditioning is not proof of exogeneity. Gross purchases can reflect risk shifting or moral suasion; identifying credibility is not the inclusion gate. Source: pp2872–2874 Table3 cols1/4; L1105–1251."
+  }
+]
+```
