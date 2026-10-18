@@ -33566,7 +33566,16 @@
     "L3391": "0",
     "M3391": "n/a",
     "N3391": "Probit robustness for effect of higher-inflation expectations on durable-spending readiness; p.1611 footnote 9: results are similar to multinomial logit.",
-    "O3391": "Actual probit explicitly implemented. Outcome threshold, exact columns, marginal effects and sample not reported. Minimal source-scope record, not a reconstructed unseen grid; main discussion only supports spending, not saving robustness."
+    "O3391": "Actual probit explicitly implemented. Outcome threshold, exact columns, marginal effects and sample not reported. Minimal source-scope record, not a reconstructed unseen grid; main discussion only supports spending, not saving robustness.",
+    "A3392": "TE3D5NF5",
+    "B3392": "h2",
+    "I3392": "1",
+    "J3392": "OLS",
+    "K3392": "0",
+    "L3392": "0",
+    "M3392": "n/a",
+    "N3392": "Aggregate quarterly regression of log real durable-consumption expenditure on end-of-quarter average durable-purchasing propensity and quarterly dummies; p.1612 footnote 10. Reported slope 0.5396 converts Table 2 column 2 and 3 marginal effects to 4.8% and 10.3% consumption implications.",
+    "O3392": "Broad inclusion: fitted relationship is explicitly used for an all-Germans expectation-change counterfactual. Auxiliary mapping rather than independent identified policy effect. Quarter dummies are controls, with no author argument that they identify this slope; one effective categorical set, no identifying-FE split. Not the DiD estimate. No outcome mean/SD normalization. Printed inputs imply 4.726896% rather than reported 4.8% for column 2 (audit arithmetic only); preserve reported 4.8% and 10.3%, with exact approximation/unrounded inputs unresolved."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86679,7 +86688,11 @@
     "H7847": "1",
     "I7847": "unknown",
     "J7847": "none",
-    "K7847": "Probit dependent durable-spending readiness indicator; p.1611 fn.9 establishes binary-response probit but threshold/category and actual zero frequency not supplied."
+    "K7847": "Probit dependent durable-spending readiness indicator; p.1611 fn.9 establishes binary-response probit but threshold/category and actual zero frequency not supplied.",
+    "A7848": "TE3D5NF5",
+    "B7848": "h2",
+    "C7848": "hy1",
+    "K7848": "Natural logarithm of aggregate real durable-consumption expenditure, quarterly; p.1612 fn.10. No mean/SD comparison."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

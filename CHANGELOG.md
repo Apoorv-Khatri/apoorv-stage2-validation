@@ -555792,3 +555792,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:53:20.112340+00:00 — Review TE3D5NF5 h2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7848",
+    "before": null,
+    "after": "TE3D5NF5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7848",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7848",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7848",
+    "before": null,
+    "after": "Natural logarithm of aggregate real durable-consumption expenditure, quarterly; p.1612 fn.10. No mean/SD comparison."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3392",
+    "before": null,
+    "after": "TE3D5NF5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3392",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3392",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3392",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3392",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3392",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3392",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3392",
+    "before": null,
+    "after": "Aggregate quarterly regression of log real durable-consumption expenditure on end-of-quarter average durable-purchasing propensity and quarterly dummies; p.1612 footnote 10. Reported slope 0.5396 converts Table 2 column 2 and 3 marginal effects to 4.8% and 10.3% consumption implications."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3392",
+    "before": null,
+    "after": "Broad inclusion: fitted relationship is explicitly used for an all-Germans expectation-change counterfactual. Auxiliary mapping rather than independent identified policy effect. Quarter dummies are controls, with no author argument that they identify this slope; one effective categorical set, no identifying-FE split. Not the DiD estimate. No outcome mean/SD normalization. Printed inputs imply 4.726896% rather than reported 4.8% for column 2 (audit arithmetic only); preserve reported 4.8% and 10.3%, with exact approximation/unrounded inputs unresolved."
+  }
+]
+```
