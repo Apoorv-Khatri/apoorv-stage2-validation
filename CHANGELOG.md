@@ -513180,3 +513180,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:25:08.581937+00:00 — Review QLFZQVZU s13: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1500",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1500",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1500",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1500",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s13 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I620",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O620",
+    "before": null,
+    "after": "Financial-firm holdout regressions repeat predictive Table2 specifications. Positive RE/ME and marginal CC/ME coefficients are substantive predictive corroboration, but not causal effects. Exclusion is not because this is in an appendix or not significant. Source: pp239,252; footnote14/TableA1; L650–668,1482–1521. Source: pp239,252; footnote14/TableA1; L650–668,1482–1521."
+  }
+]
+```
