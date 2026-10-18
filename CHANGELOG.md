@@ -607089,3 +607089,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T19:12:44.388849+00:00 — Review X387EWAF h2: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8273",
+    "before": null,
+    "after": "X387EWAF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8274",
+    "before": null,
+    "after": "X387EWAF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8275",
+    "before": null,
+    "after": "X387EWAF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8276",
+    "before": null,
+    "after": "X387EWAF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8277",
+    "before": null,
+    "after": "X387EWAF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8273",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8274",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8275",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8276",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8277",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8273",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8274",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8275",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8276",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8277",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8273",
+    "before": null,
+    "after": "Future real EBIT at t+1 divided by assets at t, winsorized ratio and delisting replacement as Section4.1. Fig.B1 panelB horizon1; TableB1 additionally illustrates h=1,3,5 for 2009. Continuous unlogged ratio; detailed flags optional because treatment continuous. No claim of known absence of zeros. Predictor is current EBIT/assets; shock is an interpretation, not a separately measured innovation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8274",
+    "before": null,
+    "after": "Future real EBIT at t+2 divided by assets at t, winsorized ratio and delisting replacement as Section4.1. Fig.B1 panelB horizon2; TableB1 additionally illustrates h=1,3,5 for 2009. Continuous unlogged ratio; detailed flags optional because treatment continuous. No claim of known absence of zeros. Predictor is current EBIT/assets; shock is an interpretation, not a separately measured innovation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8275",
+    "before": null,
+    "after": "Future real EBIT at t+3 divided by assets at t, winsorized ratio and delisting replacement as Section4.1. Fig.B1 panelB horizon3; TableB1 additionally illustrates h=1,3,5 for 2009. Continuous unlogged ratio; detailed flags optional because treatment continuous. No claim of known absence of zeros. Predictor is current EBIT/assets; shock is an interpretation, not a separately measured innovation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8276",
+    "before": null,
+    "after": "Future real EBIT at t+4 divided by assets at t, winsorized ratio and delisting replacement as Section4.1. Fig.B1 panelB horizon4; TableB1 additionally illustrates h=1,3,5 for 2009. Continuous unlogged ratio; detailed flags optional because treatment continuous. No claim of known absence of zeros. Predictor is current EBIT/assets; shock is an interpretation, not a separately measured innovation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8277",
+    "before": null,
+    "after": "Future real EBIT at t+5 divided by assets at t, winsorized ratio and delisting replacement as Section4.1. Fig.B1 panelB horizon5; TableB1 additionally illustrates h=1,3,5 for 2009. Continuous unlogged ratio; detailed flags optional because treatment continuous. No claim of known absence of zeros. Predictor is current EBIT/assets; shock is an interpretation, not a separately measured innovation."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E88",
+    "before": null,
+    "after": "DONE — Full available-source review of all30 final pages including AppendicesA–C, with independent audit. Five settings retained, five rejected, growth/value s9 unknown; three comparisons retained and twelve rejected. Predictive price/investment/information-bound estimands not promoted to causal effects from analytical welfare theory. Ownership, option listing, option turnover and liquidity contrasts retained under explicit broad information-production interpretation, not experimental identification. h2 narrowly retains authors’ parameter-specific shock-persistence interpretation of current EBIT/assets; actual regressor is not an isolated earnings innovation and predictive-context counterevidence remains explicit. Option turnover split from listing; all five h2 horizons covered. Table7 later decade coefficients are changes in group gaps, not gap levels. Retained benchmarks are group regression-function levels, not outcome means/SDs. Table8 prose reversal, R&D origins, figure/control and endpoint conflicts preserved. Author final copy contains identical article text and no extra appendix; no unavailable supplement details invented. Original fields, IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3653",
+    "before": null,
+    "after": "X387EWAF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3653",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3653",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3653",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3653",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3653",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3653",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3653",
+    "before": null,
+    "after": "Current EBIT/assets coefficient for future real EBIT divided by current assets, interpreted by authors as semipermanent earnings-shock persistence; Eq15, AppendixB FigB1 B horizons1–5 and TableB1 2009 example horizons1,3,5, pp.649–650. Actual predictor is current earnings/assets, not an isolated innovation; current log(M/A) and sector indicators included."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3653",
+    "before": null,
+    "after": "Keep narrowly under explicit author-intention rule: p.649 directly interprets the roughly0.6 current-earnings coefficient as a semipermanent effect of a shock. Counterevidence: same paragraph calls these forecasting coefficients and motivates short-horizon informativeness. Actual regressor is current EBIT/assets, NOT an isolated earnings innovation or observed intervention. No shock identification is asserted. Parent may adjudicate wording as predictive persistence shorthand; rejection would be a gate judgment, not an estimator/horizon correction. OLS; continuous treatment; supporting horizon rationale, not central market-information result; no excluded instrument."
+  }
+]
+```
