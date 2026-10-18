@@ -597177,3 +597177,474 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:42:58.355610+00:00 — Review WZZQX3TX s5: source-audited coding and linked comparisons
+
+77 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5314",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5315",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5316",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5317",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5318",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5319",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5314",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5315",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5316",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5317",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5318",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5319",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5314",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5315",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5316",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5317",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5318",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5319",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5314",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5315",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5316",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5317",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5318",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5319",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5314",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5315",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5316",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5317",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5318",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5319",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5314",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5315",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5316",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5317",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5318",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5319",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5314",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5315",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5316",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5317",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5318",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5319",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5314",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5315",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5316",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5317",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5318",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5319",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5314",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5315",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5316",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5317",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5318",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5319",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5314",
+    "before": null,
+    "after": "Table VII column 1: coefficient 0.24; marginal effect (at mean) 1.53 independent directors, via beta × full-sample mean 6.39, Eq.(3) convention."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5315",
+    "before": null,
+    "after": "Table VII column 2: coefficient 0.24; marginal effect (at mean) 1.53 independent directors, via beta × full-sample mean 6.39, Eq.(3) convention."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5316",
+    "before": null,
+    "after": "Table VII column 3: coefficient 0.49; marginal effect (at mean) 3.13 independent directors, via beta × full-sample mean 6.39, Eq.(3) convention."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5317",
+    "before": null,
+    "after": "Table VII column 4: coefficient 0.49; marginal effect (at mean) 3.13 independent directors, via beta × full-sample mean 6.39, Eq.(3) convention."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5318",
+    "before": null,
+    "after": "Table VII column 5: coefficient 0.51; marginal effect (at mean) 3.26 independent directors, via beta × full-sample mean 6.39, Eq.(3) convention."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5319",
+    "before": null,
+    "after": "Table VII column 6: coefficient 0.5; marginal effect (at mean) 3.19 independent directors, via beta × full-sample mean 6.39, Eq.(3) convention."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5314",
+    "before": null,
+    "after": "Deliberate same-outcome level-mean conversion qualifies; multiplication, not division. Full-sample mixed-exposure level mean does not represent the local untreated cutoff target. FD uses a differenced transformed outcome with a level-mean conversion, not an aligned growth-rate mean. Preserve distinct coefficients by column even where rounding coincides."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5315",
+    "before": null,
+    "after": "Deliberate same-outcome level-mean conversion qualifies; multiplication, not division. Full-sample mixed-exposure level mean does not represent the local untreated cutoff target. FD uses a differenced transformed outcome with a level-mean conversion, not an aligned growth-rate mean. Preserve distinct coefficients by column even where rounding coincides."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5316",
+    "before": null,
+    "after": "Deliberate same-outcome level-mean conversion qualifies; multiplication, not division. Full-sample mixed-exposure level mean does not represent the local untreated cutoff target. FD uses a differenced transformed outcome with a level-mean conversion, not an aligned growth-rate mean. Preserve distinct coefficients by column even where rounding coincides."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5317",
+    "before": null,
+    "after": "Deliberate same-outcome level-mean conversion qualifies; multiplication, not division. Full-sample mixed-exposure level mean does not represent the local untreated cutoff target. FD uses a differenced transformed outcome with a level-mean conversion, not an aligned growth-rate mean. Preserve distinct coefficients by column even where rounding coincides."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5318",
+    "before": null,
+    "after": "Deliberate same-outcome level-mean conversion qualifies; multiplication, not division. Full-sample mixed-exposure level mean does not represent the local untreated cutoff target. FD uses a differenced transformed outcome with a level-mean conversion, not an aligned growth-rate mean. Preserve distinct coefficients by column even where rounding coincides."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5319",
+    "before": null,
+    "after": "Deliberate same-outcome level-mean conversion qualifies; multiplication, not division. Full-sample mixed-exposure level mean does not represent the local untreated cutoff target. FD uses a differenced transformed outcome with a level-mean conversion, not an aligned growth-rate mean. Preserve distinct coefficients by column even where rounding coincides."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1936",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1936",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1936",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1936",
+    "before": null,
+    "after": "Log director count (not count level), except separately added first-difference models. Table I raw counts have minimum 1, not zero; log(1)=0, so absence of raw zeros does not establish absence of zero mass in logged focal subsample. Focal-sample log zero mass unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J799",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L799",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M799",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N799",
+    "before": null,
+    "after": "Implied covenant violation on log independent-director count, Table VII columns 1–6: sample exclusions based on SEC registered violations. Do not confuse these with full-sample registered-violation treatment in equation (7)/IA.XI."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O799",
+    "before": null,
+    "after": "RD precedence: equation (3) implements a direct discontinuity at binding distance zero with side-specific polynomials in a narrow window. Firm/year FE address selection and heterogeneity but do not override the implemented cutoff design (prompt lines24,30,41). No instrumented receipt. Keep authors’ manipulation, heterogeneous thresholds and switcher-target limitations; this taxonomy does not assert random crossing. Level-log implementations with and without firm FE grouped as control variants; their distinct estimates/comparisons preserved."
+  }
+]
+```
