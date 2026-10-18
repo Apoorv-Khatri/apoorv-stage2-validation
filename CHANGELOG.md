@@ -525132,3 +525132,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T08:55:09.980620+00:00 — Review RDVTTVCR s7: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1628",
+    "before": null,
+    "after": "Bank–firm-cluster loan-decrease indicator, Table2/3 captions; not the probability of an individual firm application being refused. Binary outcome has zero and one categories (no label completion required for continuous treatment)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I650",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J650",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K650",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L650",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M650",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N650",
+    "before": null,
+    "after": "Gross sovereign-purchase dose with slope heterogeneity by No Hedge, GIIPS banks, Table3 A–C col6; retain both hedger null and additional nonhedger slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O650",
+    "before": null,
+    "after": "Eq1 pp2868–2870: firm-cluster×year FE absorb borrower demand/common shocks; firm-cluster×bank FE absorb persistent borrower-bank heterogeneity. Two effective identifying FE dimensions, not HDFE and not DiD merely because outcomes change during the crisis. Every displayed Table2/3 column has both FE; no actual no-FE OLS column. Author explicitly interprets the focal bank affectedness parameter as changing loan supply. Conditioning is not proof of exogeneity. Binary moderator does not make the gross-purchase dose binary. No Hedge is contemporaneous hedging behavior, not predetermined assignment. Gross main slope plus interaction gives the nonhedger slope; interaction alone is the slope difference. Central moral-suasion null is substantive, not diagnostic. Source: pp2869/2873–2874 Table3 col6; L897–913,1137–1259."
+  }
+]
+```
