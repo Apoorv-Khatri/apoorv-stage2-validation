@@ -554742,3 +554742,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:32:25.206177+00:00 — Review SFCSD6BA h18: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7843",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7843",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7843",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7843",
+    "before": null,
+    "after": "Quick-sale indicators at alternative horizons; exact implemented horizon grid and corresponding peer-rate definitions unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3387",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3387",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3387",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3387",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3387",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3387",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3387",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3387",
+    "before": null,
+    "after": "Alternative-horizon peer selling effects: IV robustness explicitly reported in Section II.E. Exact horizon allocation pending final appendix."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3387",
+    "before": null,
+    "after": "PROVISIONAL SOURCE-SCOPE, not a verified exact appendix setting census. Minimum implemented IV scope: sentence immediately follows IV result. Source lists one week, one/two/three/six months and one year as outcomes considered; do not fabricate six-by-two estimator grid. Broad quick-sale conclusion is central in introduction, not automatically supporting because appendix unavailable. Source: pp136,141,166."
+  }
+]
+```
