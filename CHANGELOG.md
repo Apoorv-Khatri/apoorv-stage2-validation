@@ -523152,3 +523152,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:52:40.555231+00:00 — Review R7QNVLC6 s13: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I643",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J643",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K643",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L643",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M643",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N643",
+    "before": null,
+    "after": "Table XV: continuous lagged FH and investor net fund-flow response next quarter. Linear OLS with time dummy controls; -0.033 without fund characteristics, -0.019 with them. Both columns include time FE; do not invent a no-FE column or separate OLS/FE split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O643",
+    "before": null,
+    "after": "Retain substantive investor-response null: authors ask whether investors switch money in response to information in herding, and interpret insignificant controlled slope as weak response. Not diagnostic-only and not dropped for null significance. OLS with time dummy controls; source does not argue these identify the investor response. No fund FE, IV, DiD or HDFE. Alternative FE coding is flagged for parent adjudication. Source: pp2264–2265; Table XV; L1999–2062. Source: pp2264–2265; Table XV; L1999–2062."
+  }
+]
+```
