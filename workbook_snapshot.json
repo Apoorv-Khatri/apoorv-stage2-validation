@@ -30986,7 +30986,16 @@
     "L3155": "1",
     "M3155": "n/a",
     "N3155": "Shocks to expected market returns and annual log excess returns of duration portfolios, Table4A/B risk-exposure slopes, including long-minus-short contrast.",
-    "O3155": "Author gives these slopes a discount-rate response interpretation (p934): declining expected returns raise present values, more for long cash-flow duration. Proxy-shock columns are explicit robustness of the same mechanism; separate scalar proxy treatments. OLS time-series regression, no FE. Covariance association alone would not qualify; the present-value argument supplies the author-intention gate, not proof of exogeneity. Source: pp933–934 Table4; L983–1024,1033–1107."
+    "O3155": "Author gives these slopes a discount-rate response interpretation (p934): declining expected returns raise present values, more for long cash-flow duration. Proxy-shock columns are explicit robustness of the same mechanism; separate scalar proxy treatments. OLS time-series regression, no FE. Covariance association alone would not qualify; the present-value argument supplies the author-intention gate, not proof of exogeneity. Source: pp933–934 Table4; L983–1024,1033–1107.",
+    "A3156": "QY4D7PCL",
+    "B3156": "h16",
+    "I3156": "1",
+    "J3156": "OLS",
+    "K3156": "0",
+    "L3156": "0",
+    "M3156": "n/a",
+    "N3156": "Shocks to dividend yield proxy and annual log excess returns of duration portfolios, Table4A/B risk-exposure slopes, including long-minus-short contrast.",
+    "O3156": "Author gives these slopes a discount-rate response interpretation (p934): declining expected returns raise present values, more for long cash-flow duration. Proxy-shock columns are explicit robustness of the same mechanism; separate scalar proxy treatments. OLS time-series regression, no FE. Covariance association alone would not qualify; the present-value argument supplies the author-intention gate, not proof of exogeneity. Source: pp933–934 Table4; L983–1024,1033–1107."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -81555,7 +81564,11 @@
     "A7497": "QY4D7PCL",
     "B7497": "h15",
     "C7497": "hy1",
-    "K7497": "Annual log excess return on duration portfolios and long-minus-short portfolio; reported beta is a regression coefficient, not the dependent variable."
+    "K7497": "Annual log excess return on duration portfolios and long-minus-short portfolio; reported beta is a regression coefficient, not the dependent variable.",
+    "A7498": "QY4D7PCL",
+    "B7498": "h16",
+    "C7498": "hy1",
+    "K7498": "Annual log excess return on duration portfolios and long-minus-short portfolio; reported beta is a regression coefficient, not the dependent variable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
