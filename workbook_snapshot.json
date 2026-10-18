@@ -33691,7 +33691,16 @@
     "L3397": "0",
     "M3397": "n/a",
     "N3397": "Effect of next-year-due ΔPO(t+1)t, measured as change in corresponding purchase obligations/total assets and entered jointly with the other maturity component; Table III columns 5–8. Outcome set follows s2; distinct from total ΔPOt.",
-    "O3397": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
+    "O3397": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation.",
+    "A3398": "TRCRCTBB",
+    "B3398": "h2",
+    "I3398": "1",
+    "J3398": "FE",
+    "K3398": "0",
+    "L3398": "0",
+    "M3398": "n/a",
+    "N3398": "Effect of residual-maturity ΔPOrestt, measured as change in corresponding purchase obligations/total assets and entered jointly with the other maturity component; Table III columns 5–8. Outcome set follows s2; distinct from total ΔPOt.",
+    "O3398": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86864,7 +86873,11 @@
     "A7854": "TRCRCTBB",
     "B7854": "h1",
     "C7854": "hy1",
-    "K7854": "Size- and book-to-market-adjusted buy-and-hold abnormal stock return during the three-day window from one day before to one day after the 10-K filing date, BHAR(-1,1). Table III columns 5–8."
+    "K7854": "Size- and book-to-market-adjusted buy-and-hold abnormal stock return during the three-day window from one day before to one day after the 10-K filing date, BHAR(-1,1). Table III columns 5–8.",
+    "A7855": "TRCRCTBB",
+    "B7855": "h2",
+    "C7855": "hy1",
+    "K7855": "Size- and book-to-market-adjusted buy-and-hold abnormal stock return during the three-day window from one day before to one day after the 10-K filing date, BHAR(-1,1). Table III columns 5–8."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

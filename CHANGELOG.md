@@ -557976,3 +557976,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:20:30.653320+00:00 — Review TRCRCTBB h2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7855",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7855",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7855",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7855",
+    "before": null,
+    "after": "Size- and book-to-market-adjusted buy-and-hold abnormal stock return during the three-day window from one day before to one day after the 10-K filing date, BHAR(-1,1). Table III columns 5–8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3398",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3398",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3398",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3398",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3398",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3398",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3398",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3398",
+    "before": null,
+    "after": "Effect of residual-maturity ΔPOrestt, measured as change in corresponding purchase obligations/total assets and entered jointly with the other maturity component; Table III columns 5–8. Outcome set follows s2; distinct from total ΔPOt."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3398",
+    "before": null,
+    "after": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
+  }
+]
+```
