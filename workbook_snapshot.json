@@ -35284,7 +35284,16 @@
     "L3544": "0",
     "M3544": "n/a",
     "N3544": "Lagged nonbank share effect on annual credit growth and loan exit during2003–2006 benign years,IA.XXI.",
-    "O3544": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote54 explicitly examines positive credit-availability effects and reports null; supporting substantive outcome, not diagnostic pretrend of a treated/post design. Year-specific columns grouped as routine period variants at same location."
+    "O3544": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote54 explicitly examines positive credit-availability effects and reports null; supporting substantive outcome, not diagnostic pretrend of a treated/post design. Year-specific columns grouped as routine period variants at same location.",
+    "A3545": "UUTLYHI2",
+    "B3545": "h51",
+    "I3545": "1",
+    "J3545": "OLS",
+    "K3545": "1",
+    "L3545": "1",
+    "M3545": "n/a",
+    "N3545": "Above- versus below-median precrisis total nonbank funding share contrast in daily secondary-market loan bid-ask midpoint prices, Figure4, 2007–2008 displayed paths (caption 2007–2009).",
+    "O3545": "Independent broad author-intention adjudication: pp.2222–2225 interpret differential price declines as evidence of fragile-funding price pressure and say the multivariate results mirror the graphical evidence. Code linear unadjusted group-mean price contrasts (OLS-equivalent), not an estimated event-time DiD, continuous-dose regression, or a daily coefficient census. Outcome is the displayed price level path; do not invent an exact change-on-change estimate from the roughly 8pp spread. This inference passes the project inclusion gate despite no random exposure and acknowledged selection. Main=1 follows central price-pressure conclusion, including stable-share null. No exact numerical coefficient or mean-normalized effect asserted."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89635,7 +89644,14 @@
     "A8072": "UUTLYHI2",
     "B8072": "h50",
     "C8072": "hy2",
-    "K8072": "Loan exit indicator between preceding year and current year,years2003–2006."
+    "K8072": "Loan exit indicator between preceding year and current year,years2003–2006.",
+    "A8073": "UUTLYHI2",
+    "B8073": "h51",
+    "C8073": "hy1",
+    "H8073": "0",
+    "I8073": "unknown",
+    "J8073": "none",
+    "K8073": "Daily loan price level, measured by bid-ask quote midpoint and averaged within above/below-median total nonbank-share groups; Figure4. Plotted levels on approximately 60–100 price scale, not annual price change of Table11 or an outcome-SD transformation. Individual price-zero mass not established by positive group means."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
