@@ -573066,3 +573066,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:35:01.077786+00:00 — Review UUTLYHI2 s2: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K427",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L427",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M427",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N427",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O427",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P427",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q427",
+    "before": null,
+    "after": "p.2207/Table5 col1:−1.547; one-SD decrease in syndicate bank capital(2.1%) yields3.25pp larger nonbank share,14.1% of mean nonbank share23.1%. Mean is loan-year nonbank funding share in Table2,39,058 observations; not untreated capital-dose counterfactual."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R427",
+    "before": null,
+    "after": "Continuous capital exposure and regression target weights/untreated baseline not sufficiently specified; same sample does not establish alignment. Treatment SD alone would not qualify; explicit outcome-mean ratio does."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J764",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K764",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M764",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N764",
+    "before": null,
+    "after": "Equally weighted syndicate-average lagged Tier1 capital/RWA effect on nonbank loan funding share, Table5 columns1–5, loan-year level. TED interaction and fail-loan variants grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O764",
+    "before": null,
+    "after": "pp.2207–2209 causal interpretation retained despite admitted selection. Printed implementation has only year dummies, not bank and loan FE; generic caption does not establish those sets. No independent argument that year dummies identify this cross-loan coefficient; OLS/regression adjustment. Table6 distinct aggregation treatments and alternative capital metrics split; not HDFE."
+  }
+]
+```
