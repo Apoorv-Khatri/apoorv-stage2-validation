@@ -569625,3 +569625,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:02:14.960964+00:00 — Review UTRUH2FR s2: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J756",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K756",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M756",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N756",
+    "before": null,
+    "after": "Instrumented debt/population affecting any/high-risk structured adoption, Table4 columns2/3; nonlinear probit second stages, using binary any flood 2002–2008 in OLS first stage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O756",
+    "before": null,
+    "after": "Other takes precedence because final effect estimator is nonlinear probit (Table4 heading); not the linear IV code. Design instrument is exactly one binary flood indicator, recorded here; Human_IV_type=n/a for Other. County/population-category FE two sets; county geography rationale explicit. First stage diagnostic not a separate setting. Printed first-stage 0.148 (0.056); text F=22 and different first/second-stage N retained, not repaired."
+  }
+]
+```
