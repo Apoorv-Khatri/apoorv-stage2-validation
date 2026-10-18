@@ -607770,3 +607770,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T19:56:47.197511+00:00 — Review XFGMHICU h1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8278",
+    "before": null,
+    "after": "XFGMHICU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8278",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8278",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8278",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8278",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8278",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8278",
+    "before": null,
+    "after": "Two-day Method2 risk-adjusted ruling-announcement stock return in basis points, pooled across events after multiplying second-event return by -1; Table4 rows4-6,10-12. Not SD standardization; no evidence of zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3654",
+    "before": null,
+    "after": "XFGMHICU"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3654",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3654",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3654",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3654",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3654",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3654",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3654",
+    "before": null,
+    "after": "Binary late-meeting Delaware staggered-board firms versus January-March controls. Treat-1 September-December; Treat-2 July-December; Treat-3 Treat-2 excluding December per all captions (July-November); p.641 instead says June-November, unresolved printed conflict. Treat-1/2/3 are grouped alternative inclusion/threshold definitions of the same exposure, not continuous doses. Table 4 Treat column rows 4-6 and 10-12 (p.646), pooled Method 2 signed abnormal returns without industry FE. Treat coefficients 71.822,79.879,110.718 untrimmed and 63.922,62.719,93.078 trimmed (basis points)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3654",
+    "before": null,
+    "after": "No IV, actual randomized assignment, direct cutoff discontinuity, modern DiD or implemented conventional parallel-trends comparison is established. Event-window abnormal-return contrasts are not automatically DiD: returns are relative to factor-model expected returns, not a treated/control pre/post outcome-change comparison. Apply FE before OLS only where industry FE implement the explicit confounding-news rationale (pp.639,645-646). Factor controls are not FE; clustering is not absorption. One nonconstant event-date set controls pooling; no industry FE. The event intercept is not itself an independently argued identifying-FE design, so OLS. Main=1: The introduction explicitly highlights no-industry-FE results (p.638); they directly rebut the claim of dependence on GICS-6. Treat1/2/3 retained as nested exposure-sample definitions, not different policy interventions. All insignificant and trimmed variants retained."
+  }
+]
+```
