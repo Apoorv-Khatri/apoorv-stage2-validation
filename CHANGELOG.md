@@ -548217,3 +548217,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:33:33.736814+00:00 — Review S3X8G9NP h7: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7760",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7760",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7760",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7760",
+    "before": null,
+    "after": "Individual response to owning any stocks or bonds (0/1), weighted Gallup surveys. Article data section and references say 1937–1938; Table7 caption says 1935–1938. Table7 col4 / Eq6B, pp213–214; layout L1113–1185"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3344",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3344",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3344",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3344",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3344",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3344",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3344",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3344",
+    "before": null,
+    "after": "Third-to-fourth state subscription-rate increment conditional on third rate; outcomes: individual stock-or-bond ownership indicator. Table7 col4 / Eq6B, pp213–214; layout L1113–1185."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3344",
+    "before": null,
+    "after": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Single excluded binary switch-to-allotment indicator; coefficient 0.003, weak-IV interval includes zero. Main role is independent of significance. Original s8 narrowed to col2. Source: Table7 col4 / Eq6B, pp213–214; layout L1113–1185."
+  }
+]
+```
