@@ -600543,3 +600543,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:44:25.986641+00:00 — Review WZZQX3TX s9: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1946",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1947",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1948",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1949",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1950",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1946",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1947",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1948",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1949",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1950",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1946",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1947",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1948",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1949",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1950",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1946",
+    "before": null,
+    "after": "spurious causal outcome under explicitly noncausal appointment-beta parent. Violation-eta counterpart separately retained under h37. Original definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1947",
+    "before": null,
+    "after": "spurious causal outcome under explicitly noncausal appointment-beta parent. Violation-eta counterpart separately retained under h37. Original definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1948",
+    "before": null,
+    "after": "spurious causal outcome under explicitly noncausal appointment-beta parent. Violation-eta counterpart separately retained under h37. Original definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1949",
+    "before": null,
+    "after": "spurious causal outcome under explicitly noncausal appointment-beta parent. Violation-eta counterpart separately retained under h37. Original definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1950",
+    "before": null,
+    "after": "spurious causal outcome under explicitly noncausal appointment-beta parent. Violation-eta counterpart separately retained under h37. Original definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I803",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J803",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M803",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N803",
+    "before": null,
+    "after": "Excluded appointment differential beta, Table X B. Original model/IDs preserved; not a causal effect of board reform."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O803",
+    "before": null,
+    "after": "Independent parameter-specific gate: p.2416 explicitly says estimated beta should not be interpreted as a causal effect. Intro/conclusion and p.2418 use suggestive board-action language, but do not retract this same-parameter disclaimer. Reject beta as intentionally noncausal, not merely endogenous or statistically insignificant. Eta violation effects independently retained h36/h37; no blanket Table X rejection. Collapsed IA.XXIII beta shares the gate; eta counterpart held for unresolved allocation."
+  }
+]
+```
