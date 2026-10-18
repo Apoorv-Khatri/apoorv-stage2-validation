@@ -541143,3 +541143,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:52:18.614663+00:00 — Review RQV5GQTL h60: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7687",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7687",
+    "before": null,
+    "after": "h60"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7687",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7687",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7687",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7687",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7687",
+    "before": null,
+    "after": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3284",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3284",
+    "before": null,
+    "after": "h60"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3284",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3284",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3284",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3284",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3284",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3284",
+    "before": null,
+    "after": "Revenue quartile 4 versus no-revenue investors (quartile 1 highest, quartile 4 lowest): effect on normalized rationing; Table IX cols1–2 hot/cold subsamples, pp2333–2335. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3284",
+    "before": null,
+    "after": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Hotness is a subgroup, not the treatment; hot/cold revenue effects are not a DiD. Supporting parameter-specific contrast, not promoted solely by location. Source: Table IX cols1–2 hot/cold subsamples, pp2333–2335; article_layout.txt L1482–1578."
+  }
+]
+```
