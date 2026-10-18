@@ -557397,3 +557397,276 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:18:44.324882+00:00 — Review TRCRCTBB s11: source-audited coding and linked comparisons
+
+44 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5216",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5217",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5218",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5216",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5217",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5218",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5216",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5217",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5218",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5217",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5216",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5217",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5218",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5216",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5217",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5218",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5217",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5217",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5216",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5217",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5218",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5216",
+    "before": null,
+    "after": "p.3438/Table XI.A column 1, ΔPO coefficient −0.122: one-treatment-SD decrease in ΔPOt increases outcome by 4.6% for an average manager. Table I manager-level mean 0.234, 59,006 manager-years; outcome is scaled shares, not log. Explicit average-manager percentage is a mean normalization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5217",
+    "before": null,
+    "after": "p.3438/Table XI.A column 3, ΔPO coefficient −0.113: one-treatment-SD decrease in ΔPOt increases outcome by 4.0% for an average manager. Table I manager-level mean 0.251, 59,006 manager-years; outcome is scaled shares, not log. Explicit average-manager percentage is a mean normalization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5218",
+    "before": null,
+    "after": "p.3438/Table XI.A column 5, ΔPO coefficient 0.012: one-treatment-SD increase in ΔPOt increases outcome by 6.2% for an average manager. Table I manager-level mean 0.017, 59,006 manager-years; outcome is scaled shares, not log. Explicit average-manager percentage is a mean normalization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5216",
+    "before": null,
+    "after": "Omitted substantive comparison; not a standalone treatment-SD normalization. Target conditional within-manager slope versus overall manager-years mean lacks untreated/reference-dose and weighting match. No transfer to firm-aggregate panel."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5217",
+    "before": null,
+    "after": "Omitted substantive comparison; not a standalone treatment-SD normalization. Target conditional within-manager slope versus overall manager-years mean lacks untreated/reference-dose and weighting match. No transfer to firm-aggregate panel."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5218",
+    "before": null,
+    "after": "Omitted substantive comparison; not a standalone treatment-SD normalization. Target conditional within-manager slope versus overall manager-years mean lacks untreated/reference-dose and weighting match. No transfer to firm-aggregate panel."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1774",
+    "before": null,
+    "after": "Restrict to individual-manager outcome in Table XI.A; firm-aggregate counterpart now h8. NetSell_t: number of shares sold minus shares purchased, times 1,000, scaled by lagged shares outstanding."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1775",
+    "before": null,
+    "after": "Restrict to individual-manager outcome in Table XI.A; firm-aggregate counterpart now h8. Sell_t: number of shares sold, times 1,000, scaled by lagged shares outstanding."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1776",
+    "before": null,
+    "after": "Restrict to individual-manager outcome in Table XI.A; firm-aggregate counterpart now h8. Buy_t: number of shares purchased, times 1,000, scaled by lagged shares outstanding."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1777",
+    "before": null,
+    "after": "Individual-manager share-volume ratio: number of shares sold divided by shares sold plus shares purchased, not fraction of transaction counts. Missing when manager does not trade. Table XI.A; pp.3409,3442. Firm average of manager ratios separately h8/hy4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I727",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J727",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K727",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L727",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M727",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N727",
+    "before": null,
+    "after": "Total ΔPOt effect on manager-level NetSell, Sell, Buy and Sell/(Sell+Buy), Table XI.A pp.3434–3438; firm-aggregate panel B split to h8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O727",
+    "before": null,
+    "after": "Broad causal intention: managers use private PO information in trading, and p.3438 explicitly discusses effects on NetSell. Main=1 (intro p.3405 and conclusion p.3440). Manager FE present in every column. Year FE printed Yes in odd/No in even columns, despite prose saying additional controls; visually confirmed p.3436. One or two effective sets; both FE, not an OLS split. Three omitted average-manager mean comparisons added."
+  }
+]
+```
