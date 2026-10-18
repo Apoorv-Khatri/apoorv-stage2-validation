@@ -590052,3 +590052,198 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:39:08.321777+00:00 — Review WERKYTKC s7: source-audited coding and linked comparisons
+
+31 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5294",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5294",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5294",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K467",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5294",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L467",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5294",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M467",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5294",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N467",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5294",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O467",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5294",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P467",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5294",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q467",
+    "before": null,
+    "after": "Appendix B p.564 / B.1 col.1: peer effects alter yield by 17% in small industries. “if the expected dividend yield in a small industry is 3% under the assumption of no peer influence ... observed yields will be between 2.5% and 3.5%.” Hypothetical 3% level, not an estimated sample mean. Restrict original pooled 17%/24% claim to 17% example."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5294",
+    "before": null,
+    "after": "Abstract p.549 and introduction p.551: “peer interdependencies account for 12% of total dividend payments.” Section 3.4 p.557 attributes aggregate 12% to excess-variance approach in Appendix B. Total dividend payments are stated same-outcome aggregate level; numerical total/weights and derivation not reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R467",
+    "before": null,
+    "after": "Translation of proportional effect to ±0.5 percentage point range using hypothetical 3% level: multiplication, not authors dividing a focal effect by this 3% benchmark. Do not attach 24% to same 2.5-3.5 range."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5294",
+    "before": null,
+    "after": "Reported aggregate contribution normalized by total dividend payments, not an industry-yield mean and not a signed mean effect derived from variance. Linked to separately added aggregate-payments outcome hy2. Numerical total, aggregation weights and derivation from B.1 are unavailable; retain author-reported 12% normalization only."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8160",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8160",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8160",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1917",
+    "before": null,
+    "after": "Industry dividend yield from regular cash dividends (Appendix A); gamma-squared, multiplier and implied percentage alteration are estimands, not separate binary outcomes. Small/large contrast versus peer-strength treatment support unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8160",
+    "before": null,
+    "after": "Aggregate total dividend payments; excess-variance result is summarized as peer interdependencies accounting for 12% of total payments (abstract p.549, introduction p.551, section3.4 p.557). Separate from industry dividend yield: dollar totals, aggregation weights and yield-to-payment conversion are not reported. No invented dollar effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I786",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J786",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K786",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L786",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M786",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N786",
+    "before": null,
+    "after": "Aggregate peer-interaction effect on industry dividend yields using Graham (2008) excess-variance identification, Appendix B / Table B.1. Ratio of between-/within-group conditional variance differences identifies gamma squared; implied multiplier and yield effects. Not a linear effect estimator in dividend yield. Also author-reported aggregate dividend-payment contribution (abstract, section3.4); separate outcome hy2, construction unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O786",
+    "before": null,
+    "after": "Causal author-intention gate explicit pp.563-564 (induce firms to alter yields; switch small/large industry). Other: outcome-dependent variance/ratio/square-root procedure, not linear IV even though a ratio resembles Wald. Small/large industry indicator supplies identifying contrast, but reported peer-intensity estimand is not clearly a two-valued treatment intervention; binary unknown held for parent, rather than equating instrument/group indicator to receipt. Main: 12% aggregate dividend contribution stated in abstract/introduction. Table B.1 repeats small-industry label for 6%/9% row; prose calls 6% large-industry. No numeric repair."
+  }
+]
+```
