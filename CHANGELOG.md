@@ -594594,3 +594594,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:07:50.964560+00:00 — Review WM5RSIHQ s5: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1930",
+    "before": null,
+    "after": "Forced CEO dismissal event and tenure/time-to-event with voluntary departures right-censored; Cox proportional-hazard outcome. Estimated hazard intensity/slopes are not event probabilities or percentage-point probability effects. See linked setting for result location."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J793",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K793",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M793",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N793",
+    "before": null,
+    "after": "Industry-induced continuous returns with heterogeneous slopes for residual underperformers versus outperformers, two-stage Cox Table VII A/B. Underperformance for t−1 uses residual in t−1; t−2 classification uses summed residual in t−1 and t−2. Not a binary treatment or randomized subgroup comparison."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O793",
+    "before": null,
+    "after": "Nonlinear implemented Cox/logit estimator takes priority over the paper’s IV analogy and any year dummies: Other, IV type n/a. No separately implemented linear outcome model or causal first-stage OLS setting. Calendar-year dummies are one effective dimension, included to absorb time trends/economy-wide shocks; no HDFE. Returns are continuous; binary event outcome or subgroup dummies do not make the performance dose binary. Main role established in introduction pp.2155–2158, including central firm-specific-state heterogeneity in s6; method uncertainty is not main-role evidence."
+  }
+]
+```
