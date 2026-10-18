@@ -597057,3 +597057,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:42:13.519672+00:00 — Review WZZQX3TX s3: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1934",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1934",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1934",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1934",
+    "before": null,
+    "after": "Log director count (not count level), except separately added first-difference models. Table I raw counts have minimum 1, not zero; log(1)=0, so absence of raw zeros does not establish absence of zero mass in logged focal subsample. Focal-sample log zero mass unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J797",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L797",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M797",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N797",
+    "before": null,
+    "after": "Implied covenant violation on log independent-director count; Table V local discontinuity bandwidth/polynomial sensitivity, including global bandwidth robustness column6. Group bandwidth variants, no artificial FE setting for full-sample endpoint."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O797",
+    "before": null,
+    "after": "RD precedence: equation (3) implements a direct discontinuity at binding distance zero with side-specific polynomials in a narrow window. Firm/year FE address selection and heterogeneity but do not override the implemented cutoff design (prompt lines24,30,41). No instrumented receipt. Keep authors’ manipulation, heterogeneous thresholds and switcher-target limitations; this taxonomy does not assert random crossing. Level-log implementations with and without firm FE grouped as control variants; their distinct estimates/comparisons preserved."
+  }
+]
+```
