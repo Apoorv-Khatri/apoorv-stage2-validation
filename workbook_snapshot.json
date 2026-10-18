@@ -31723,7 +31723,16 @@
     "L3216": "1",
     "M3216": "unknown",
     "N3216": "Indirect lender sovereign risk financial/real effects by ability to switch banks; unreported implemented heterogeneity.",
-    "O3216": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2891 fn32 L2191–2193."
+    "O3216": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2891 fn32 L2191–2193.",
+    "A3217": "RQ77EIC2",
+    "B3217": "h1",
+    "I3217": "1",
+    "J3217": "OLS",
+    "K3217": "0",
+    "L3217": "1",
+    "M3217": "n/a",
+    "N3217": "Calendar-year time trend in SEC speech partisanship without Commissioner FE, Table4 cols1/3 (all years and 1990–2019).",
+    "O3217": "Genuine OLS split from s1: the no-FE trend and within-person null jointly support author-attributed turnover mechanism; no invented turnover treatment coefficient. No qualifying outcome mean/SD comparison. Source: Table4 pp4399–4400; L1577–1671."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -83385,7 +83394,11 @@
     "H7619": "n/a",
     "I7619": "n/a",
     "J7619": "n/a",
-    "K7619": "spurious as separately specified outcome: Unreported bank-switching analysis has no verified individual outcome grid; scope blocks retained in hy1/hy4 Proposed ID retained inactive for audit provenance; no original workbook record removed."
+    "K7619": "spurious as separately specified outcome: Unreported bank-switching analysis has no verified individual outcome grid; scope blocks retained in hy1/hy4 Proposed ID retained inactive for audit provenance; no original workbook record removed.",
+    "A7620": "RQ77EIC2",
+    "B7620": "h1",
+    "C7620": "hy1",
+    "K7620": "Speech-level Congress-based SEC partisanship score: for a Republican speech, qi·rho_t; for a Democratic speech, qi·(1-rho_t), where qi is the speech's bigram-frequency vector and rho_t is the congressional posterior-probability vector for decade t. Unit is a probability-like score between 0 and 1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

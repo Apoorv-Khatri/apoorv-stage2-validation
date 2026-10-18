@@ -532983,3 +532983,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:05:42.823452+00:00 — Review RQ77EIC2 h1: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7620",
+    "before": null,
+    "after": "RQ77EIC2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7620",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7620",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7620",
+    "before": null,
+    "after": "Speech-level Congress-based SEC partisanship score: for a Republican speech, qi·rho_t; for a Democratic speech, qi·(1-rho_t), where qi is the speech's bigram-frequency vector and rho_t is the congressional posterior-probability vector for decade t. Unit is a probability-like score between 0 and 1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3217",
+    "before": null,
+    "after": "RQ77EIC2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3217",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3217",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3217",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3217",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3217",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3217",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3217",
+    "before": null,
+    "after": "Calendar-year time trend in SEC speech partisanship without Commissioner FE, Table4 cols1/3 (all years and 1990–2019)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3217",
+    "before": null,
+    "after": "Genuine OLS split from s1: the no-FE trend and within-person null jointly support author-attributed turnover mechanism; no invented turnover treatment coefficient. No qualifying outcome mean/SD comparison. Source: Table4 pp4399–4400; L1577–1671."
+  }
+]
+```
