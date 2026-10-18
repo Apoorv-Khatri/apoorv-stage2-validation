@@ -521529,3 +521529,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:48:30.217799+00:00 — Review R7QNVLC6 s2: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K361",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R361",
+    "before": null,
+    "after": "Table IV/p2242 and footnote18: 0.0698 is FH treatment SD, not alpha outcome SD. The 11 bps/1.32% interpretation does not compare the effect with an outcome level. Independently ineligible even if parent causal gate reversed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1559",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1560",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1559",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1560",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1559",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1560",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1559",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s2 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1560",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s2 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I632",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O632",
+    "before": null,
+    "after": "Predictive alpha slopes identify information about unobservable skill, not effects of changing FH. Time dummies control aggregate movements; their presence alone does not turn the forecast coefficient into a causal effect. The treatment-SD calculation is independently ineligible as an outcome benchmark. Source: pp2242–2244; Table IV; L724–835. Source: pp2242–2244; Table IV; L724–835."
+  }
+]
+```
