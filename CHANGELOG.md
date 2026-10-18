@@ -533238,3 +533238,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:06:42.740506+00:00 — Review RQ77EIC2 h4: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5206",
+    "before": null,
+    "after": "RQ77EIC2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5206",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5206",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5206",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5206",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5206",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5206",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5206",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5206",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5206",
+    "before": null,
+    "after": "p4412 Table9 col2: Congress-based distance from SEC Chair coefficient 0.0032 per treatment SD, explicitly 21.6% of dependent-variable average; preceding p4411 identifies mean as 1.48%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5206",
+    "before": null,
+    "after": "Continuous treatment target/untreated benchmark not established. Chair-column sample 34,482 differs from col1 35,534 because Chair not always present; source does not explain whether mean recomputed for this target. Unknown rather than automatic aligned or unaligned. Replaces wrong-parent s6/c2 only."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7623",
+    "before": null,
+    "after": "RQ77EIC2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7623",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7623",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7623",
+    "before": null,
+    "after": "Indicator that the regulator casts a dissenting vote on a given SEC decision/order/rule or Fed FOMC vote."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3220",
+    "before": null,
+    "after": "RQ77EIC2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3220",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3220",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3220",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3220",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3220",
+    "before": null,
+    "after": "Congress-based ideological distance from Chair, mean-zero unit-SD dose, Table9 cols2/6, SEC/Fed dissent indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3220",
+    "before": null,
+    "after": "Distinct treatment definition, not just outcome or sample. Same one rule/decision identifying FE as s6; no no-FE column. Includes Fed weak/null estimates where present. Central ideological-distance conclusion applies to all four measures. Dictionary treatment measures (not dissent outcomes) undefined for three Fed Governors with no cost/benefit speech; Chair absent on some SEC votes. No invented numeric effects. Source: Table9 pp4410–4413; Eqs9–13; L2292–2481."
+  }
+]
+```

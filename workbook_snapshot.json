@@ -31746,7 +31746,16 @@
     "B3219": "h3",
     "I3219": "0",
     "N3219": "Other opposite-party regulator dissents (binary) and own dissent, Table8 cols1–4, SEC/Fed, with and without year dummy controls.",
-    "O3219": "Independent preferred rejection (contested): pp4407–4409 formulate a test of whether votes cluster along party lines, not an effect of changing another voter's dissent. The Fed interpretation explicitly attributes joint dissents to controversial decisions (p4409). Conditional higher/lower probabilities are compatible with descriptive co-voting; substantive importance does not turn the focal peer-dissent coefficient causal. Not rejected for simultaneity, weak identification, or nulls. If parent adopts broader response reading, restore OLS/binary1/main1; year controls do not alone establish identifying FE. Source: Table8 pp4407–4409; L2077–2175,2254–2264."
+    "O3219": "Independent preferred rejection (contested): pp4407–4409 formulate a test of whether votes cluster along party lines, not an effect of changing another voter's dissent. The Fed interpretation explicitly attributes joint dissents to controversial decisions (p4409). Conditional higher/lower probabilities are compatible with descriptive co-voting; substantive importance does not turn the focal peer-dissent coefficient causal. Not rejected for simultaneity, weak identification, or nulls. If parent adopts broader response reading, restore OLS/binary1/main1; year controls do not alone establish identifying FE. Source: Table8 pp4407–4409; L2077–2175,2254–2264.",
+    "A3220": "RQ77EIC2",
+    "B3220": "h4",
+    "I3220": "1",
+    "J3220": "FE",
+    "K3220": "0",
+    "L3220": "1",
+    "M3220": "n/a",
+    "N3220": "Congress-based ideological distance from Chair, mean-zero unit-SD dose, Table9 cols2/6, SEC/Fed dissent indicator.",
+    "O3220": "Distinct treatment definition, not just outcome or sample. Same one rule/decision identifying FE as s6; no no-FE column. Includes Fed weak/null estimates where present. Central ideological-distance conclusion applies to all four measures. Dictionary treatment measures (not dissent outcomes) undefined for three Fed Governors with no cost/benefit speech; Chair absent on some SEC votes. No invented numeric effects. Source: Table9 pp4410–4413; Eqs9–13; L2292–2481."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -83423,7 +83432,11 @@
     "H7622": "n/a",
     "I7622": "n/a",
     "J7622": "n/a",
-    "K7622": "spurious under preferred parameter-specific descriptive co-voting gate; parent rejected. If restored, individual dissent is binary, observed zero mass, untransformed (Table8 pp4407–4408)."
+    "K7622": "spurious under preferred parameter-specific descriptive co-voting gate; parent rejected. If restored, individual dissent is binary, observed zero mass, untransformed (Table8 pp4407–4408).",
+    "A7623": "RQ77EIC2",
+    "B7623": "h4",
+    "C7623": "hy1",
+    "K7623": "Indicator that the regulator casts a dissenting vote on a given SEC decision/order/rule or Fed FOMC vote."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -141222,7 +141235,18 @@
     "O5205": "0",
     "P5205": "unknown",
     "Q5205": "pp2865–2866 Figure2 A/B; low-quality GIIPS banks: high-exposure group net holdings grow around48% versus 23% for low-exposure group. Group growth means are compared verbally; no division. Baseline March2010 holdings denominator is not separately coded as an effect benchmark.",
-    "R5205": "Unknown alignment: observed low-exposure trajectory not established as high-exposure untreated counterfactual. Growth paths start at zero by construction."
+    "R5205": "Unknown alignment: observed low-exposure trajectory not established as high-exposure untreated counterfactual. Growth paths start at zero by construction.",
+    "A5206": "RQ77EIC2",
+    "B5206": "h4",
+    "C5206": "hc1",
+    "K5206": "1",
+    "L5206": "hy1",
+    "M5206": "outcome_mean",
+    "N5206": "1",
+    "O5206": "1",
+    "P5206": "unknown",
+    "Q5206": "p4412 Table9 col2: Congress-based distance from SEC Chair coefficient 0.0032 per treatment SD, explicitly 21.6% of dependent-variable average; preceding p4411 identifies mean as 1.48%.",
+    "R5206": "Continuous treatment target/untreated benchmark not established. Chair-column sample 34,482 differs from col1 35,534 because Chair not always present; source does not explain whether mean recomputed for this target. Unknown rather than automatic aligned or unaligned. Replaces wrong-parent s6/c2 only."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
