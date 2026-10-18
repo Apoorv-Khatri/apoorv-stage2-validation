@@ -578547,3 +578547,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:53:43.810817+00:00 — Review UUTLYHI2 h53: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8075",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8075",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8075",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8075",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8075",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8075",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8075",
+    "before": null,
+    "after": "Daily loan price level, measured by bid-ask quote midpoint and averaged within above/below-median unstable nonbank-share groups; Figure5 panel(b). Plotted levels on approximately 60–100 price scale, not annual price change of Table11 or an outcome-SD transformation. Individual price-zero mass not established by positive group means."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E83",
+    "before": null,
+    "after": "DONE — Full available-source review of 55 published pages and 26 author-linked appendix pages with independent audit. Publisher-byte identity of the associated appendix remains unverified. Retain 59 setting scopes, add 63 outcomes and retain three comparisons; two original comparison rows rejected as wrong-parent/relocated links. Genuine OLS/identifying-FE variants separated; Table 8 post-shock sales distinguished from actual nonbank-share-change conventional DiD. Figures 4/5 binary group-price paths retained as minimum linear contrasts without invented daily coefficients or DiD. Primary-market crisis mechanism main flags reflect introduction. Table 4B amount/indicator conflict and appendix/main column, timing and scale conflicts remain explicit. Table 12 aggregate effects and exact graphical benchmark allocations remain held outside application. Comparison alignment unknown; no same-sample certification. Original fields, IDs, hyperlinks and inactive outcomes preserved; source-scoped completion is not authenticated final-supplement certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3547",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3547",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3547",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3547",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3547",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3547",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3547",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3547",
+    "before": null,
+    "after": "Above- versus below-median precrisis unstable nonbank funding share contrast in daily secondary-market loan bid-ask midpoint prices, Figure5 panel(b), 2007–2008 displayed paths (caption 2007–2009)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3547",
+    "before": null,
+    "after": "Independent broad author-intention adjudication: pp.2222–2225 interpret differential price declines as evidence of fragile-funding price pressure and say the multivariate results mirror the graphical evidence. Code linear unadjusted group-mean price contrasts (OLS-equivalent), not an estimated event-time DiD, continuous-dose regression, or a daily coefficient census. Outcome is the displayed price level path; do not invent an exact change-on-change estimate from the roughly 8pp spread. This inference passes the project inclusion gate despite no random exposure and acknowledged selection. Main=1 follows central price-pressure conclusion, including stable-share null. No exact numerical coefficient or mean-normalized effect asserted."
+  }
+]
+```
