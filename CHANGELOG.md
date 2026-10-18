@@ -590820,3 +590820,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:41:04.706079+00:00 — Review WERKYTKC h4: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8164",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8164",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8164",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8164",
+    "before": null,
+    "after": "Own dividend-increase indicator, Table 8. No binary-treatment outcome labels required for continuous peer-share slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3574",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3574",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3574",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3574",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3574",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3574",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3574",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3574",
+    "before": null,
+    "after": "Continuous peer-increase share and its interaction with learning (no credit rating) indicator, Table 8 column 4, dividend-increase outcome. Distinct interaction instrument set."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3574",
+    "before": null,
+    "after": "Eq.5 pp.559-560: excluded peer risk and peer risk × learning (no credit rating), two nonbinary instruments (other). Main share plus interaction gives conditional effect; indicator itself is not the endogenous peer treatment. Main because the introduction explicitly frames four competing mechanism tests together; retain central nulls in columns 3-4. Firm/time FE are two dimensions, subordinate to IV."
+  }
+]
+```
