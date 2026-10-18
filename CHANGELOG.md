@@ -558948,3 +558948,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:24:51.574144+00:00 — Review TRCRCTBB h10: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7869",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7870",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7869",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7870",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7869",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7870",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7869",
+    "before": null,
+    "after": "NetEquityIssuet, issuance minus repurchases over lagged total securities; Table BI columns 2/5."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7870",
+    "before": null,
+    "after": "NetDebtIssuet, long-term issuance minus reductions over lagged total securities; Table BI columns 3/6."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E79",
+    "before": null,
+    "after": "DONE — Full available-source review of 46 final-article pages including Appendices A/B, with independent audit. Retain 20 setting scopes; exclude Table II predictive validation and Table IX financing-demand covariance/confound diagnostic after contested-gate adjudication. Add 10 setting splits/omissions and 17 outcomes, including Appendix B unexpected-PO issuance (not IV). Retain 15 comparisons; five original comparison rows rejected (including relocations), and Table X Cpst-effect/SDC-benchmark eligibility remains unknown. Three manager-trading mean comparisons added with explicit shock directions; manager sale share uses share volume, not transaction counts. Contextual identifying FE retained without stronger exogeneity claims; no no-unit-FE OLS or HDFE invented. Preserve Table XI year-FE discrepancy and other printed conflicts. Final external appendix/code unavailable; scopes are not a complete unseen-model census. Original fields, IDs, links and inactive original outcomes preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3406",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3406",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3406",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3406",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3406",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3406",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3406",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3406",
+    "before": null,
+    "after": "Unexpected PO innovation effect on net equity/debt issuance, Appendix B/Table BI columns 2–3 and 5–6, pp.3442–3444. POt minus predicted POt from lagged PO(s), lagged characteristics and firm/year FE. One- versus two-lag forecasting controls grouped as routine construction variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3406",
+    "before": null,
+    "after": "Residualized continuous regressor, NOT fitted-treatment 2SLS: auxiliary columns 1/4 predict PO, then actual minus expected PO enters linear firm/year-FE issuance regressions. Does not use focal issuance outcomes to select weights. Exclude auxiliary prediction columns themselves. Equity coefficients −0.021/−0.028; debt −0.012/−0.019 (insignificant). No outcome mean/SD comparison."
+  }
+]
+```

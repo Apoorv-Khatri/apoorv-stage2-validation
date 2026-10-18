@@ -372,6 +372,7 @@
     "B79": "Information Asymmetry, Mispricing, and Security Issuance",
     "C79": "fin",
     "D79": 12,
+    "E79": "DONE — Full available-source review of 46 final-article pages including Appendices A/B, with independent audit. Retain 20 setting scopes; exclude Table II predictive validation and Table IX financing-demand covariance/confound diagnostic after contested-gate adjudication. Add 10 setting splits/omissions and 17 outcomes, including Appendix B unexpected-PO issuance (not IV). Retain 15 comparisons; five original comparison rows rejected (including relocations), and Table X Cpst-effect/SDC-benchmark eligibility remains unknown. Three manager-trading mean comparisons added with explicit shock directions; manager sale share uses share volume, not transaction counts. Contextual identifying FE retained without stronger exogeneity claims; no no-unit-FE OLS or HDFE invented. Preserve Table XI year-FE discrepancy and other printed conflicts. Final external appendix/code unavailable; scopes are not a complete unseen-model census. Original fields, IDs, links and inactive original outcomes preserved.",
     "A80": "TS6H62KJ",
     "B80": "Measuring skewness premia",
     "C80": "fin",
@@ -33763,7 +33764,16 @@
     "L3405": "1",
     "M3405": "n/a",
     "N3405": "Total ΔPOt effect on firm-average option-exercise rate, Table XII columns 5–6 pp.3439–3440; firm/year FE; separate aggregated estimand from CEO/all-executive individual samples.",
-    "O3405": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
+    "O3405": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation.",
+    "A3406": "TRCRCTBB",
+    "B3406": "h10",
+    "I3406": "1",
+    "J3406": "FE",
+    "K3406": "0",
+    "L3406": "0",
+    "M3406": "n/a",
+    "N3406": "Unexpected PO innovation effect on net equity/debt issuance, Appendix B/Table BI columns 2–3 and 5–6, pp.3442–3444. POt minus predicted POt from lagged PO(s), lagged characteristics and firm/year FE. One- versus two-lag forecasting controls grouped as routine construction variants.",
+    "O3406": "Residualized continuous regressor, NOT fitted-treatment 2SLS: auxiliary columns 1/4 predict PO, then actual minus expected PO enters linear firm/year-FE issuance regressions. Does not use focal issuance outcomes to select weights. Exclude auxiliary prediction columns themselves. Equity coefficients −0.021/−0.028; debt −0.012/−0.019 (insignificant). No outcome mean/SD comparison."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86992,7 +87002,15 @@
     "A7868": "TRCRCTBB",
     "B7868": "h9",
     "C7868": "hy1",
-    "K7868": "OptExerFirm: average across managers of shares acquired via exercise divided by exercised plus unexercised exercisable options; Appendix A p.3442. Nonbinary rate."
+    "K7868": "OptExerFirm: average across managers of shares acquired via exercise divided by exercised plus unexercised exercisable options; Appendix A p.3442. Nonbinary rate.",
+    "A7869": "TRCRCTBB",
+    "B7869": "h10",
+    "C7869": "hy1",
+    "K7869": "NetEquityIssuet, issuance minus repurchases over lagged total securities; Table BI columns 2/5.",
+    "A7870": "TRCRCTBB",
+    "B7870": "h10",
+    "C7870": "hy2",
+    "K7870": "NetDebtIssuet, long-term issuance minus reductions over lagged total securities; Table BI columns 3/6."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
