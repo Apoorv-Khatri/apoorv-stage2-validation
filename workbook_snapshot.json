@@ -34870,7 +34870,16 @@
     "L3498": "0",
     "M3498": "n/a",
     "N3498": "Lagged Tier1 Gap effect on loan sale, Table4.C columns1–4; baseline,TED interaction,and risk subsamples.",
-    "O3498": "Distinct capital treatment; Tier1 Gap is residual from target-capital regression, not an excluded IV. Bank + loan-year FE two effective dimensions. Supporting measurement robustness."
+    "O3498": "Distinct capital treatment; Tier1 Gap is residual from target-capital regression, not an excluded IV. Bank + loan-year FE two effective dimensions. Supporting measurement robustness.",
+    "A3499": "UUTLYHI2",
+    "B3499": "h5",
+    "I3499": "1",
+    "J3499": "FE",
+    "K3499": "0",
+    "L3499": "0",
+    "M3499": "n/a",
+    "N3499": "Lagged Total capital/RWA effect on loan sale, Table4.C columns5–8; baseline,TED interaction,and risk subsamples.",
+    "O3499": "Distinct capital treatment; Tier1 Gap is residual from target-capital regression, not an excluded IV. Bank + loan-year FE two effective dimensions. Supporting measurement robustness."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88981,7 +88990,11 @@
     "A8018": "UUTLYHI2",
     "B8018": "h4",
     "C8018": "hy1",
-    "K8018": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
+    "K8018": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period.",
+    "A8019": "UUTLYHI2",
+    "B8019": "h5",
+    "C8019": "hy1",
+    "K8019": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
