@@ -518589,3 +518589,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T04:03:30.318304+00:00 — Review QY4D7PCL h11: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7493",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7493",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7493",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7493",
+    "before": null,
+    "after": "Annual excess return on duration-portfolio spreads relative to decile1; covariance-price coefficients determine expected return. Joint equity-premium target additionally imposed where specified. Pricing errors are fit checks, not separate causal outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3151",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3151",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3151",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3151",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3151",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3151",
+    "before": null,
+    "after": "Reinvestment covariance risk-price effect on annual expected relative returns, Table5 column6, ICAPM_U without inequality restrictions, equity premium exactly matched."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3151",
+    "before": null,
+    "after": "Eq13 supplies the economic covariance-pricing interpretation. Footnote30 p935 explicitly implements pooled linear returns-on-covariances regressions and Fama–MacBeth inference. ICAPM_U removes inequality restrictions; column6 retains the linear equality matching the equity premium. Generated covariance regressors create estimation error/endogeneity, but no focal-outcome-selected matching weights or adaptive fitting rule is established beyond conventional generated-regressor asset-pricing regression. Code the implemented linear regression OLS, not Other solely because the regressors are estimated from returns or the interpretation is structural. No IV/identifying FE. Constrained columns remain separately coded Other for their inequality-restricted fitting rule. Source: p935 Table5 col6 footnote30; L1116–1187."
+  }
+]
+```
