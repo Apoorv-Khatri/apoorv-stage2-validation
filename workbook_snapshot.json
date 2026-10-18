@@ -357,6 +357,7 @@
     "B76": "Discrimination in the payments chain",
     "C76": "fin",
     "D76": 6,
+    "E76": "DONE — Full available-source review of14 article and20 publisher-supplement pages with independent audit. Retain28 settings,56 outcomes and4 punishment comparisons; reject2 unbenchmarked baseline interpretations. DiD/DDD precedence corrected; distinct demographic and importance contrasts retained with substantive nulls. h7/A1 and h17/A5 implemented methods unknown: printed seller-by-month effects absorb reported After-by-Minority; intended DiD documented without inventing corrected specifications. Importance contrasts main based on introduction; A2 new age/distance-controlled bias robustness separately retained. A4 excluded as pre-existing-type diagnostics under documented contested gate. Punishment comparisons preserve timely-minus-defaulting signs and unknown benchmark alignment. Restricted-sample zeros and abbreviated log1p scales qualified; original fields,IDs,links and source discrepancies preserved.",
     "A77": "SFCSD6BA",
     "B77": "Learning from Coworkers: Peer Effects on Individual Investment Decisions",
     "C77": "fin",
@@ -33264,7 +33265,16 @@
     "L3371": "0",
     "M3371": "n/a",
     "N3371": "Minority × After × IAT customer-location proxy replacing PCA, TableA6 cols4,9; log past due and past-30-day share; reported coefficients 0.723; 0.131.",
-    "O3371": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Individual-proxy substantive robustness; no automatic main flag from underlying main hypothesis. Sundown is a two-valued town indicator; other proxies are counts, scores or ratios. RelativeEarnings is female earnings as percent of male, not silently inverted to a wage gap. Source: Article pp9–10 proxy definitions; supplement pp9,20 TableA6; layout L298–303,685–711."
+    "O3371": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Individual-proxy substantive robustness; no automatic main flag from underlying main hypothesis. Sundown is a two-valued town indicator; other proxies are counts, scores or ratios. RelativeEarnings is female earnings as percent of male, not silently inverted to a wage gap. Source: Article pp9–10 proxy definitions; supplement pp9,20 TableA6; layout L298–303,685–711.",
+    "A3372": "S9LRTRJP",
+    "B3372": "h22",
+    "I3372": "1",
+    "J3372": "DiD_conventional",
+    "K3372": "0",
+    "L3372": "0",
+    "M3372": "n/a",
+    "N3372": "Minority × After × RelativeEarnings (table row Gap) customer-location proxy replacing PCA, TableA6 cols5,10; log past due and past-30-day share; reported coefficients −0.0219; −0.001 (share null).",
+    "O3372": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Individual-proxy substantive robustness; no automatic main flag from underlying main hypothesis. Sundown is a two-valued town indicator; other proxies are counts, scores or ratios. RelativeEarnings is female earnings as percent of male, not silently inverted to a wage gap. Source: Article pp9–10 proxy definitions; supplement pp9,20 TableA6; layout L298–303,685–711."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86237,7 +86247,15 @@
     "A7824": "S9LRTRJP",
     "B7824": "h21",
     "C7824": "hy2",
-    "K7824": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
+    "K7824": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator.",
+    "A7825": "S9LRTRJP",
+    "B7825": "h22",
+    "C7825": "hy1",
+    "K7825": "Past-due dollars, TableA6 header abbreviated Log Past Due; log(1+past due) inferred from explicit reproduction of Table5A in supplement p9 and all-variables-as-previously-defined caption, not separately restated. No additional log-only specification inferred.",
+    "A7826": "S9LRTRJP",
+    "B7826": "h22",
+    "C7826": "hy2",
+    "K7826": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
