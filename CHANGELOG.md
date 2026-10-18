@@ -569100,3 +569100,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:43:25.356858+00:00 — Review UK6BI2QX h33: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7972",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7973",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7972",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7973",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7972",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7973",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7972",
+    "before": null,
+    "after": "Aggregate quarterly net equity repurchases of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7973",
+    "before": null,
+    "after": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3468",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3468",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3468",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3468",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3468",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3468",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3468",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3468",
+    "before": null,
+    "after": "Predicted 36-month excess bond returns affecting aggregate financing flows: implemented horizon robustness in Internet Appendix III.A, established final pp.3061/3075. Net equity repurchases and net debt issuance; numerical coefficients and final appendix column labels unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3468",
+    "before": null,
+    "after": "Minimum horizon-specific predictor scope from explicit implemented similar-results statement. Base regressions retained; no unseen settings census claimed. Additional logit/horizon combinations are not individually established by the brief blanket all empirical tests sentence; pending final appendix. No numerical comparison inferred."
+  }
+]
+```
