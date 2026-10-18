@@ -35266,7 +35266,16 @@
     "L3542": "0",
     "M3542": "n/a",
     "N3542": "Bank wholesale funding dependence effect on loan-sale indicator during crisis,IA.XX columns1–2.",
-    "O3542": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote51 supports bank-liability fragility effect; one loan-year identifying FE set. Distinct from capital dose and price outcome."
+    "O3542": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote51 supports bank-liability fragility effect; one loan-year identifying FE set. Distinct from capital dose and price outcome.",
+    "A3543": "UUTLYHI2",
+    "B3543": "h49",
+    "I3543": "1",
+    "J3543": "OLS",
+    "K3543": "0",
+    "L3543": "0",
+    "M3543": "n/a",
+    "N3543": "Equally weighted bank wholesale funding dependence effect on2007–2008 loan price change,IA.XX columns3–4.",
+    "O3543": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Separate251-loan sample, not the116-loan Table11 coefficient. Visual inspection confirms delta in loan-price heading, omitted by text extraction; caption also specifies change. No paired mean or author-normalized outcome comparison."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89605,7 +89614,11 @@
     "A8069": "UUTLYHI2",
     "B8069": "h48",
     "C8069": "hy1",
-    "K8069": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
+    "K8069": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period.",
+    "A8070": "UUTLYHI2",
+    "B8070": "h49",
+    "C8070": "hy1",
+    "K8070": "Change in average bid-ask midpoint loan price, average2008 minus average2007, author-associated IA.XX columns3–4; separate251-loan sample, not Table11 or Figures4/5."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

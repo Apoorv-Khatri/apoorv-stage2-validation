@@ -578139,3 +578139,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:52:27.058232+00:00 — Review UUTLYHI2 h49: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8070",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8070",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8070",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8070",
+    "before": null,
+    "after": "Change in average bid-ask midpoint loan price, average2008 minus average2007, author-associated IA.XX columns3–4; separate251-loan sample, not Table11 or Figures4/5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3543",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3543",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3543",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3543",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3543",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3543",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3543",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3543",
+    "before": null,
+    "after": "Equally weighted bank wholesale funding dependence effect on2007–2008 loan price change,IA.XX columns3–4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3543",
+    "before": null,
+    "after": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Separate251-loan sample, not the116-loan Table11 coefficient. Visual inspection confirms delta in loan-price heading, omitted by text extraction; caption also specifies change. No paired mean or author-normalized outcome comparison."
+  }
+]
+```
