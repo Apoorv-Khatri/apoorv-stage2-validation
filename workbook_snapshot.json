@@ -36144,7 +36144,16 @@
     "L3620": "0",
     "M3620": "unknown",
     "N3620": "Firm-specific performance effect on CEO compensation in bad versus good industry conditions; final footnote 17 p.2179.",
-    "O3620": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. Explicit implemented null, supporting result; performance dose continuous. Compensation definition, transformation, estimator and numerical magnitude unknown."
+    "O3620": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. Explicit implemented null, supporting result; performance dose continuous. Compensation definition, transformation, estimator and numerical magnitude unknown.",
+    "A3621": "WM5RSIHQ",
+    "B3621": "h18",
+    "I3621": "1",
+    "J3621": "unknown",
+    "K3621": "unknown",
+    "L3621": "0",
+    "M3621": "unknown",
+    "N3621": "Stock-price reactions to CEO turnover announcements compared between recessions and booms; final introduction footnote 3 p.2158.",
+    "O3621": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. The authors interpret announcement reactions as news about turnover quality. Method, announcement window, industry-state coding and whether focal contrast is binary are not established in final article. Non-IV not assumed."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91559,7 +91568,11 @@
     "A8212": "WM5RSIHQ",
     "B8212": "h17",
     "C8212": "hy1",
-    "K8212": "CEO compensation; exact final dependent-variable construction and scale unknown."
+    "K8212": "CEO compensation; exact final dependent-variable construction and scale unknown.",
+    "A8213": "WM5RSIHQ",
+    "B8213": "h18",
+    "C8213": "hy1",
+    "K8213": "Stock-price reaction to CEO turnover announcement; final window, market adjustment and scale unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

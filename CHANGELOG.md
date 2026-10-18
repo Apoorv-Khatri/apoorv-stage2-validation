@@ -596235,3 +596235,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:13:50.080477+00:00 — Review WM5RSIHQ h18: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8213",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8213",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8213",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8213",
+    "before": null,
+    "after": "Stock-price reaction to CEO turnover announcement; final window, market adjustment and scale unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3621",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3621",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3621",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3621",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3621",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3621",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3621",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3621",
+    "before": null,
+    "after": "Stock-price reactions to CEO turnover announcements compared between recessions and booms; final introduction footnote 3 p.2158."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3621",
+    "before": null,
+    "after": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. The authors interpret announcement reactions as news about turnover quality. Method, announcement window, industry-state coding and whether focal contrast is binary are not established in final article. Non-IV not assumed."
+  }
+]
+```
