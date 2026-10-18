@@ -528171,3 +528171,366 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T09:19:28.234781+00:00 — Review RDVTTVCR h10: source-audited coding and linked comparisons
+
+59 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5204",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5205",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5204",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5205",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5204",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5205",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5204",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5205",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5204",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5205",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5204",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5205",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5204",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5205",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5204",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5205",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5204",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5205",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5204",
+    "before": null,
+    "after": "pp2865–2866 Figure2 A/B; low-quality GIIPS banks: high-exposure group gross holdings grow around48% versus 32% for low-exposure group. Group growth means are compared verbally; no division. Baseline March2010 holdings denominator is not separately coded as an effect benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5205",
+    "before": null,
+    "after": "pp2865–2866 Figure2 A/B; low-quality GIIPS banks: high-exposure group net holdings grow around48% versus 23% for low-exposure group. Group growth means are compared verbally; no division. Baseline March2010 holdings denominator is not separately coded as an effect benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5204",
+    "before": null,
+    "after": "Unknown alignment: observed low-exposure trajectory not established as high-exposure untreated counterfactual. Growth paths start at zero by construction."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5205",
+    "before": null,
+    "after": "Unknown alignment: observed low-exposure trajectory not established as high-exposure untreated counterfactual. Growth paths start at zero by construction."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7569",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7570",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7571",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7572",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7569",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7570",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7571",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7572",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7569",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7570",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7571",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7572",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7569",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7570",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7571",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7572",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7569",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7571",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7572",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7569",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7570",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7571",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7572",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7569",
+    "before": null,
+    "after": "Gross domestic sovereign holdings/total assets (level path)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7570",
+    "before": null,
+    "after": "Growth in gross domestic sovereign holdings/total assets from March2010; same-outcome group growth contrast, not log transform."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7571",
+    "before": null,
+    "after": "Net domestic sovereign holdings/total assets (level path)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7572",
+    "before": null,
+    "after": "Growth in net domestic sovereign holdings/total assets from March2010; same-outcome group growth contrast, not log transform."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3192",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3192",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3192",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3192",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3192",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3192",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3192",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3192",
+    "before": null,
+    "after": "high versus low preexisting domestic/risk-shifting exposure low-quality GIIPS banks: gross and net domestic sovereign holdings paths, Figure2 panelsA/B."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3192",
+    "before": null,
+    "after": "Explicit binary bank-group comparison within weak banks. Proposed OLS group mean contrasts, not IV/RCT or causal effect accepted as credible. Theory: preexisting exposure increases risk-shifting incentive; government control proxies moral suasion. Includes substantive moral-suasion null. Plots show holdings ratios and growth since March2010, not fitted regression coefficients. Caption says A/B for levels but actual A/C are levels and B/D growth; verified visually. Source: pp2864–2867 Figure2 panelsA/B; L611–790."
+  }
+]
+```
