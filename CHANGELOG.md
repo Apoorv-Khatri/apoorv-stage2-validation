@@ -529815,3 +529815,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T09:44:05.886927+00:00 — Review RDVTTVCR h22: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7588",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7588",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7588",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7588",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7588",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7588",
+    "before": null,
+    "after": "Loan volume, lending-decrease propensity and spreads; no coefficient grid or exact estimator inferred."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3204",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3204",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3204",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3204",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3204",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3204",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3204",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3204",
+    "before": null,
+    "after": "Risk Change GIIPS Sov Debt2010 alternative balance-sheet-hit proxy and lending outcomes, non-GIIPS banks, TableA7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3204",
+    "before": null,
+    "after": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2872 fn17 / p2874 fn18; L1120–1121,1261–1262 TableA7."
+  }
+]
+```
