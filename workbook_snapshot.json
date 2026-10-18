@@ -35804,7 +35804,16 @@
     "L3587": "0",
     "M3587": "n/a",
     "N3587": "Dividend-increase announcement versus normal-return counterfactual, mean CAR [-1,+1], Table 10A. Event-study linear abnormal-return contrast, not DiD.",
-    "O3587": "Table 10 calls returns announcement-induced; section 6.1 describes positive reaction to revelation of private information. Broad causal gate includes this supporting event-study effect, not only subsequent surprise slopes. Expected-return adjustment uses factor/matched portfolios, not covariate treatment matching; final estimator is mean abnormal return. Caption versus prose construction conflict persists. Printed mean effect 0.70%, prose 0.81%, visually verified; do not choose a repaired value. No reported raw-return level benchmark."
+    "O3587": "Table 10 calls returns announcement-induced; section 6.1 describes positive reaction to revelation of private information. Broad causal gate includes this supporting event-study effect, not only subsequent surprise slopes. Expected-return adjustment uses factor/matched portfolios, not covariate treatment matching; final estimator is mean abnormal return. Caption versus prose construction conflict persists. Printed mean effect 0.70%, prose 0.81%, visually verified; do not choose a repaired value. No reported raw-return level benchmark.",
+    "A3588": "WERKYTKC",
+    "B3588": "h18",
+    "I3588": "1",
+    "J3588": "IV",
+    "K3588": "0",
+    "L3588": "0",
+    "M3588": "single continuous",
+    "N3588": "Repurchases yield included-regressor coefficient on own dividend-increase indicator, Table5 cols1-2 / Table4A, pp.556-557; estimates 0.006/0.006. Separate treatment parameter in the implemented joint linear IV equation, not a new regression.",
+    "O3588": "Author-intention gate: pp.552,556 identify these as dividend determinants and discuss substantive effects/ranking, including nulls; C.1 pp.565-566 explicitly considers taxes/catering inducing dividend decisions. Included controls are not automatically excluded. Actual estimator is joint 2SLS/IV, with peer share endogenous and average peer idiosyncratic equity risk the sole excluded instrument. The focal included regressor is NOT instrumented by peer risk; its coefficient additionally relies on maintained included-regressor exogeneity. Method IV describes the implemented joint estimator, not a focal-treatment instrument or LATE. No unseen OLS/FE re-estimation inferred. Firm/time FE (firm only when time-only determinants replace time FE) remain subordinate to the implemented IV equation. Table5 is not duplicated for the peer parameter. Null life-cycle/institutional coefficients are included on the same determinant interpretation as significant coefficients. Section5.3 p.561 acknowledges unresolved direction among payout/leverage/investment: limitation on identification, not a retraction of the earlier determinant interpretation. Coefficients scaled by regressor SD; no outcome-mean/SD comparison."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91073,7 +91082,11 @@
     "H8177": "0",
     "I8177": "unknown",
     "J8177": "none",
-    "K8177": "Announcement CAR [-1,+1], percent, table 0.70% versus prose 0.81%; factor-/portfolio-adjusted return is unlogged and unstandardized. Observed zero atom not established."
+    "K8177": "Announcement CAR [-1,+1], percent, table 0.70% versus prose 0.81%; factor-/portfolio-adjusted return is unlogged and unstandardized. Observed zero atom not established.",
+    "A8178": "WERKYTKC",
+    "B8178": "h18",
+    "C8178": "hy1",
+    "K8178": "Own dividend-increase indicator, Table5 cols1-2 / Table4A, pp.556-557. AppendixA defines increase as proportional regular-cash-dividend change >=1%."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
