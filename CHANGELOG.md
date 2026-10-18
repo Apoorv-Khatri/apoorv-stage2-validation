@@ -554031,3 +554031,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:29:53.117754+00:00 — Review SFCSD6BA h8: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7834",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7835",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7836",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7834",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7835",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7836",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7834",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7835",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7836",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7834",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7835",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7836",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7834",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7835",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7836",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7834",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7835",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7836",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7834",
+    "before": null,
+    "after": "Potential semiannual dollar gain from ESPP participation, calibrated at median investment and sale horizon; annualized in prose."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7835",
+    "before": null,
+    "after": "Potential percentage return from ESPP participation relative to stock purchase investment, under immediate/median sale policies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7836",
+    "before": null,
+    "after": "Potential annual ESPP participation gains as a percentage of annual income, using wage-bin midpoints and median within-group holding period: printed 4.07%, 4.48%, 2.75% for $25–50K, $50–100K, $100–200K groups. This income normalization is an outcome scale, not a same-outcome magnitude benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3380",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3380",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3380",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3380",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3380",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3380",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3380",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3380",
+    "before": null,
+    "after": "Participating in ESPP versus not participating: calibrated potential dollar and percentage gains, immediate-sale and empirical-median holding policies, income/first-time groups; Table I."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3380",
+    "before": null,
+    "after": "Explicit nonparticipant counterfactual, not predictive return regression. Calibrated discounts/lookback from external plan data and median investment/trading choices; no observed assignment, IV, FE or OLS treatment estimator. Hypothetical gain projections, not identified behavioral peer response. Income-normalized gains use a different outcome benchmark and do not qualify. Source: pp138–140 Table I, fn4–6."
+  }
+]
+```
