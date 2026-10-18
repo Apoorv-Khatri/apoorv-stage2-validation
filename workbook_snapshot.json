@@ -34924,7 +34924,16 @@
     "L3504": "0",
     "M3504": "n/a",
     "N3504": "Syndicate equally weighted Tier1 Gap effect on nonbank share, Table6 column5.",
-    "O3504": "Different aggregated treatment/target exposure, not just SE/control variant. Only year dummies printed; same OLS rationale as Table5. No linked outcome mean/SD in this table."
+    "O3504": "Different aggregated treatment/target exposure, not just SE/control variant. Only year dummies printed; same OLS rationale as Table5. No linked outcome mean/SD in this table.",
+    "A3505": "UUTLYHI2",
+    "B3505": "h11",
+    "I3505": "1",
+    "J3505": "OLS",
+    "K3505": "0",
+    "L3505": "0",
+    "M3505": "n/a",
+    "N3505": "Syndicate equally weighted total capital/RWA effect on nonbank share, Table6 column6.",
+    "O3505": "Different aggregated treatment/target exposure, not just SE/control variant. Only year dummies printed; same OLS rationale as Table5. No linked outcome mean/SD in this table."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89059,7 +89068,11 @@
     "A8024": "UUTLYHI2",
     "B8024": "h10",
     "C8024": "hy1",
-    "K8024": "Fraction of loan funded by nonbanks, not a binary dependent variable."
+    "K8024": "Fraction of loan funded by nonbanks, not a binary dependent variable.",
+    "A8025": "UUTLYHI2",
+    "B8025": "h11",
+    "C8025": "hy1",
+    "K8025": "Fraction of loan funded by nonbanks, not a binary dependent variable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
