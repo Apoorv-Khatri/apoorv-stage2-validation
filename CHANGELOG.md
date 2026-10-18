@@ -532155,3 +532155,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T10:27:25.228182+00:00 — Review RMH5X4LW s6: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1677",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1678",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1677",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1678",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1677",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1678",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1677",
+    "before": null,
+    "after": "spurious: parent s6 is a specification/inference exercise, not a causal setting; retain original model definition unchanged."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1678",
+    "before": null,
+    "after": "spurious: parent s6 is a specification/inference exercise, not a causal setting; retain original model definition unchanged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I663",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O663",
+    "before": null,
+    "after": "Spurious causal setting: Table 3A, pp346–347: extended-sample real-return application estimates SDF directions and tests means/rank. The p346 weights-not-meaningful-risk-prices statement occurs in this context. SDF-on-return diagnostic regressions are not causal OLS. Structural effects and substantive causal nulls would qualify; neither a policy intervention nor strong identification is required by the gate. Source: Table 3A, p347/PDF10; L655–734."
+  }
+]
+```
