@@ -33366,7 +33366,16 @@
     "L3374": "1",
     "M3374": "n/a",
     "N3374": "Participation rate among low-information peers under the HI partition (income not above $200K, with nonmissing income and nonexecutive restrictions); interaction with absence of any HI employee, Table VIII cols3,6,9.",
-    "O3374": "Two identifying FE: firm-month and CBSA-month. Peer rate is continuous; binary moderator does not make this peer-dose estimand binary. Preserve null and negative interaction estimates. Routine sample variants grouped. Source: pp158–162 Table VIII."
+    "O3374": "Two identifying FE: firm-month and CBSA-month. Peer rate is continuous; binary moderator does not make this peer-dose estimand binary. Preserve null and negative interaction estimates. Routine sample variants grouped. Source: pp158–162 Table VIII.",
+    "A3375": "SFCSD6BA",
+    "B3375": "h3",
+    "I3375": "1",
+    "J3375": "FE",
+    "K3375": "0",
+    "L3375": "1",
+    "M3375": "n/a",
+    "N3375": "low-information HO peers’ participation rate, with own high-information interaction; Table IX col1.",
+    "O3375": "Two identifying FE: firm-month and CBSA-month. Peer rate is continuous; binary moderator does not make this peer-dose estimand binary. Preserve null and negative interaction estimates. Routine sample variants grouped. Source: pp162–164 Table IX."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86355,7 +86364,11 @@
     "A7828": "SFCSD6BA",
     "B7828": "h2",
     "C7828": "hy1",
-    "K7828": "Indicator of ESPP participation in biannual window among low-information employees under the HI partition."
+    "K7828": "Indicator of ESPP participation in biannual window among low-information employees under the HI partition.",
+    "A7829": "SFCSD6BA",
+    "B7829": "h3",
+    "C7829": "hy1",
+    "K7829": "Indicator of ESPP participation in biannual window."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
