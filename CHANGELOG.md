@@ -512952,3 +512952,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:23:06.987808+00:00 — Review QLFZQVZU s9: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1494",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1495",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1496",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1494",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1495",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1496",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1494",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1495",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1496",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1494",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s9 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1495",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s9 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1496",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s9 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I616",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O616",
+    "before": null,
+    "after": "The table and text explicitly predict future earnings growth to validate RE/ME as a proxy. Positive RE/ME and negative E/P slopes are interpreted as persistent information and mean reversion, not a response caused by changing a ratio. The market-equity denominator of earnings growth does not constitute a focal-effect/outcome benchmark. Source: p244; Table6 and Section7; L981–1049. Source: p244; Table6 and Section7; L981–1049."
+  }
+]
+```
