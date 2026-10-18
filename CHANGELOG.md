@@ -565602,3 +565602,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:33:25.037334+00:00 — Review UK6BI2QX h5: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7908",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7909",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7908",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7909",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7908",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7909",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7908",
+    "before": null,
+    "after": "Quarterly net equity repurchases by firm i, defined as purchase of common and preferred stock minus sale of common and preferred stock, normalized by lagged assets; percentage points of lagged assets."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7909",
+    "before": null,
+    "after": "Quarterly net debt issuance by firm i, defined as long-term debt issuance minus long-term debt reduction, normalized by lagged assets; percentage points of lagged assets."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3440",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3440",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3440",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3440",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3440",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3440",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3440",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3440",
+    "before": null,
+    "after": "Lagged firm-level predicted 12-month excess bond return effect on net equity repurchases and net debt issuance, quarterly flows /lagged assets; Table III, columns 3/6. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3440",
+    "before": null,
+    "after": "Broad author-intention gate met: valuations affect financing (abstract, pp.3043,3061–3064). Firm FE explicitly focus on a given firm under changing conditions (p.3060), addressing persistent firm heterogeneity; one effective FE set, not HDFE. No time FE or no-firm-FE column. Lagging and controls do not prove exogeneity. Generated expected-return predictors are not implemented IV treatment receipt."
+  }
+]
+```
