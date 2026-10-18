@@ -36383,7 +36383,16 @@
     "L3640": "0",
     "M3640": "unknown",
     "N3640": "Implied covenant violation on board independence: exclude debt-to-EBITDA covenant; IA.XII p.2413.",
-    "O3640": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Implemented robustness named; exact estimator not restated. Treatment remains two-valued violation indicator, modified exposure definition where covenant set changes."
+    "O3640": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Implemented robustness named; exact estimator not restated. Treatment remains two-valued violation indicator, modified exposure definition where covenant set changes.",
+    "A3641": "WZZQX3TX",
+    "B3641": "h26",
+    "I3641": "1",
+    "J3641": "unknown",
+    "K3641": "1",
+    "L3641": "0",
+    "M3641": "unknown",
+    "N3641": "Implied covenant violation on board independence: add interest-coverage covenants; IA.XII p.2413.",
+    "O3641": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Implemented robustness named; exact estimator not restated. Treatment remains two-valued violation indicator, modified exposure definition where covenant set changes."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92113,7 +92122,14 @@
     "H8247": "0",
     "I8247": "unknown",
     "J8247": "unknown",
-    "K8247": "Board independence/director-count outcome of named robustness; exact final scale and outcome set unverified."
+    "K8247": "Board independence/director-count outcome of named robustness; exact final scale and outcome set unverified.",
+    "A8248": "WZZQX3TX",
+    "B8248": "h26",
+    "C8248": "hy1",
+    "H8248": "0",
+    "I8248": "unknown",
+    "J8248": "unknown",
+    "K8248": "Board independence/director-count outcome of named robustness; exact final scale and outcome set unverified."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
