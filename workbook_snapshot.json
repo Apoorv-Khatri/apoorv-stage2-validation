@@ -30914,7 +30914,16 @@
     "L3147": "1",
     "M3147": "n/a",
     "N3147": "Reinvestment covariance risk-price effect on annual expected relative returns, Table5 column3, ICAPM_U without inequality restrictions, duration-spread moments only.",
-    "O3147": "Eq13 supplies the economic covariance-pricing interpretation. Footnote30 p935 explicitly implements pooled linear returns-on-covariances regressions and Fama–MacBeth inference. ICAPM_U removes inequality restrictions; column6 retains the linear equality matching the equity premium. Generated covariance regressors create estimation error/endogeneity, but no focal-outcome-selected matching weights or adaptive fitting rule is established beyond conventional generated-regressor asset-pricing regression. Code the implemented linear regression OLS, not Other solely because the regressors are estimated from returns or the interpretation is structural. No IV/identifying FE. Constrained columns remain separately coded Other for their inequality-restricted fitting rule. Source: p935 Table5 col3 footnote30; L1116–1187."
+    "O3147": "Eq13 supplies the economic covariance-pricing interpretation. Footnote30 p935 explicitly implements pooled linear returns-on-covariances regressions and Fama–MacBeth inference. ICAPM_U removes inequality restrictions; column6 retains the linear equality matching the equity premium. Generated covariance regressors create estimation error/endogeneity, but no focal-outcome-selected matching weights or adaptive fitting rule is established beyond conventional generated-regressor asset-pricing regression. Code the implemented linear regression OLS, not Other solely because the regressors are estimated from returns or the interpretation is structural. No IV/identifying FE. Constrained columns remain separately coded Other for their inequality-restricted fitting rule. Source: p935 Table5 col3 footnote30; L1116–1187.",
+    "A3148": "QY4D7PCL",
+    "B3148": "h8",
+    "I3148": "1",
+    "J3148": "OLS",
+    "K3148": "0",
+    "L3148": "1",
+    "M3148": "n/a",
+    "N3148": "Market covariance risk-price effect on annual expected relative returns, Table5 column3, ICAPM_U without inequality restrictions, duration-spread moments only.",
+    "O3148": "Eq13 supplies the economic covariance-pricing interpretation. Footnote30 p935 explicitly implements pooled linear returns-on-covariances regressions and Fama–MacBeth inference. ICAPM_U removes inequality restrictions; column6 retains the linear equality matching the equity premium. Generated covariance regressors create estimation error/endogeneity, but no focal-outcome-selected matching weights or adaptive fitting rule is established beyond conventional generated-regressor asset-pricing regression. Code the implemented linear regression OLS, not Other solely because the regressors are estimated from returns or the interpretation is structural. No IV/identifying FE. Constrained columns remain separately coded Other for their inequality-restricted fitting rule. Source: p935 Table5 col3 footnote30; L1116–1187."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -81451,7 +81460,11 @@
     "A7489": "QY4D7PCL",
     "B7489": "h7",
     "C7489": "hy1",
-    "K7489": "Annual excess return on duration-portfolio spreads relative to decile1; covariance-price coefficients determine expected return. Joint equity-premium target additionally imposed where specified. Pricing errors are fit checks, not separate causal outcomes."
+    "K7489": "Annual excess return on duration-portfolio spreads relative to decile1; covariance-price coefficients determine expected return. Joint equity-premium target additionally imposed where specified. Pricing errors are fit checks, not separate causal outcomes.",
+    "A7490": "QY4D7PCL",
+    "B7490": "h8",
+    "C7490": "hy1",
+    "K7490": "Annual excess return on duration-portfolio spreads relative to decile1; covariance-price coefficients determine expected return. Joint equity-premium target additionally imposed where specified. Pricing errors are fit checks, not separate causal outcomes."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
