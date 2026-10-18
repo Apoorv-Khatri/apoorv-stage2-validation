@@ -512544,3 +512544,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:19:09.916781+00:00 — Review QLFZQVZU s1: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1484",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1484",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1484",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1484",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s1 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I608",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O608",
+    "before": null,
+    "after": "The paper explicitly says earnings yields likely share common economic determinants with expected returns (p232), and calls retained earnings a proxy. Table2 slopes measure predictive information, not the response of returns to changing accounting balances. The model assertion that authors interpret these as causing higher expected returns is unsupported. The causal-sounding phrase predicts returns only because refers to the source of prediction, not a causal slope. Source: pp232–234,236–239; Table2 A–B; article.txt L103–127,421–435,615–624. Source: pp232–234,236–239; Table2 A–B; article.txt L103–127,421–435,615–624."
+  }
+]
+```
