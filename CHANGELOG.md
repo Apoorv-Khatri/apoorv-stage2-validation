@@ -564822,3 +564822,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:30:06.530998+00:00 — Review UK6BI2QX s3: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1816",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1816",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1816",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1816",
+    "before": null,
+    "after": "Inactive under retained credit-spread/repurchase parent; debt issuance with V/P preserved under h20/hy2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J751",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M751",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N751",
+    "before": null,
+    "after": "Lagged firm credit spread effect on net equity repurchases, Table V.A; group-specific firm-FE slopes. Term spread and V/P effects split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O751",
+    "before": null,
+    "after": "Broad author-intention gate met: valuations affect financing (abstract, pp.3043,3061–3064). Firm FE explicitly focus on a given firm under changing conditions (p.3060), addressing persistent firm heterogeneity; one effective FE set, not HDFE. No time FE or no-firm-FE column. Lagging and controls do not prove exogeneity. Generated expected-return predictors are not implemented IV treatment receipt. Groups use characteristics at end t−1 (Table V caption), not randomized treatment; bottom/top thirds and dividend status are sample variants. Central heterogeneity in abstract; main=1."
+  }
+]
+```
