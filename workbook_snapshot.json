@@ -31257,7 +31257,16 @@
     "L3180": "1",
     "M3180": "n/a",
     "N3180": "Table X cols4–6: continuous fund-specific tenure (years at fund, standardized) and fund herding FH; quarterly Fama–MacBeth OLS with fund characteristics; coefficients -0.158/-0.135/-0.163.",
-    "O3180": "Distinct tenure dose, same author-interpreted reputational incentive response as h8. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536. No qualifying outcome benchmark found in associated prose/table. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536."
+    "O3180": "Distinct tenure dose, same author-interpreted reputational incentive response as h8. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536. No qualifying outcome benchmark found in associated prose/table. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536.",
+    "A3181": "R7QNVLC6",
+    "B3181": "h10",
+    "I3181": "1",
+    "J3181": "Other",
+    "K3181": "0",
+    "L3181": "0",
+    "M3181": "n/a",
+    "N3181": "Table IX A–B: tracking error (standardized residual SD from fund-return/market regressions) and termination probability, logit with fund controls; whole-sample TE coefficients -0.054/-0.052 and subgroup effects including nulls.",
+    "O3181": "Authors explicitly call the tracking-error parameter an effect, although only one sentence interprets it. Include under broad intention rule; weakest retained control-parameter causal gate, flagged for parent adjudication. Source: pp2253–2255; L1339–1341,1422–1424,1471–1473. No qualifying outcome benchmark found in associated prose/table. Source: pp2253–2255; L1339–1341,1422–1424,1471–1473."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82261,7 +82270,14 @@
     "A7534": "R7QNVLC6",
     "B7534": "h9",
     "C7534": "hy1",
-    "K7534": "Fund Herding FH: rank-inverse-weighted history of standardized trade-regression slopes; no dependent-variable SD normalization stated in Table X. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536."
+    "K7534": "Fund Herding FH: rank-inverse-weighted history of standardized trade-regression slopes; no dependent-variable SD normalization stated in Table X. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536.",
+    "A7535": "R7QNVLC6",
+    "B7535": "h10",
+    "C7535": "hy1",
+    "H7535": "1",
+    "I7535": "1",
+    "J7535": "none",
+    "K7535": "Termination indicator: manager at t disappears from sample from t+1 onward. Source: pp2253–2255; L1339–1341,1422–1424,1471–1473."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

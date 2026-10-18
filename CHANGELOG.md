@@ -524088,3 +524088,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:56:01.784846+00:00 — Review R7QNVLC6 h10: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7535",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7535",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7535",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7535",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7535",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7535",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7535",
+    "before": null,
+    "after": "Termination indicator: manager at t disappears from sample from t+1 onward. Source: pp2253–2255; L1339–1341,1422–1424,1471–1473."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3181",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3181",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3181",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3181",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3181",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3181",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3181",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3181",
+    "before": null,
+    "after": "Table IX A–B: tracking error (standardized residual SD from fund-return/market regressions) and termination probability, logit with fund controls; whole-sample TE coefficients -0.054/-0.052 and subgroup effects including nulls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3181",
+    "before": null,
+    "after": "Authors explicitly call the tracking-error parameter an effect, although only one sentence interprets it. Include under broad intention rule; weakest retained control-parameter causal gate, flagged for parent adjudication. Source: pp2253–2255; L1339–1341,1422–1424,1471–1473. No qualifying outcome benchmark found in associated prose/table. Source: pp2253–2255; L1339–1341,1422–1424,1471–1473."
+  }
+]
+```
