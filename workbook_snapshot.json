@@ -33593,7 +33593,16 @@
     "L3394": "1",
     "M3394": "n/a",
     "N3394": "VAT announcement effects on changes in higher-inflation expectations across financial constraints, income and homeownership groups; Figure 9 pp.1630–1632; matched conventional DiD.",
-    "O3394": "Distinct location from Figure 8. Central common-expectations versus differential-spending mechanism, not a diagnostic-only placebo. Footnote 19 reports renters/owners as the slight exception. Caption includes copied spending wording; title/equation identify expectations."
+    "O3394": "Distinct location from Figure 8. Central common-expectations versus differential-spending mechanism, not a diagnostic-only placebo. Footnote 19 reports renters/owners as the slight exception. Caption includes copied spending wording; title/equation identify expectations.",
+    "A3395": "TE3D5NF5",
+    "B3395": "h5",
+    "I3395": "1",
+    "J3395": "DiD_conventional",
+    "K3395": "1",
+    "L3395": "1",
+    "M3395": "n/a",
+    "N3395": "Forward-guidance effects on changes in spending propensities and inflation expectations across demographic groups; final article p.1630 reports implemented Internet Appendix heterogeneity tests and no significant response, including college graduates.",
+    "O3395": "Section 6 establishes continuation of matched policy DiD. One minimum source-scope record for two outcomes; final supplement unavailable, exact figures/groups and further location splits unresolved. Central null across demographics also highlighted in intro p.1602; no invented appendix coefficients."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86724,7 +86733,21 @@
     "H7850": "0",
     "I7850": "unknown",
     "J7850": "other",
-    "K7850": "Change in higher-inflation-expectation indicator/share between month m and June 2005, Figure 9. Difference rather than binary level; observed zero-change mass not tabulated."
+    "K7850": "Change in higher-inflation-expectation indicator/share between month m and June 2005, Figure 9. Difference rather than binary level; observed zero-change mass not tabulated.",
+    "A7851": "TE3D5NF5",
+    "B7851": "h5",
+    "C7851": "hy1",
+    "H7851": "0",
+    "I7851": "unknown",
+    "J7851": "other",
+    "K7851": "Change in durable-spending readiness in demographic forward-guidance DiD, p.1630. Differenced scale follows section 6/equation (9); exact appendix implementation unavailable.",
+    "A7852": "TE3D5NF5",
+    "B7852": "h5",
+    "C7852": "hy2",
+    "H7852": "0",
+    "I7852": "unknown",
+    "J7852": "other",
+    "K7852": "Change in higher-inflation expectations in demographic forward-guidance DiD, p.1630. Underlying binary expectation indicator; differenced outcome nonbinary, exact appendix implementation unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

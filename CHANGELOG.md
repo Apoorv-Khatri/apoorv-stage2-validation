@@ -556089,3 +556089,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:55:03.252126+00:00 — Review TE3D5NF5 h5: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7851",
+    "before": null,
+    "after": "TE3D5NF5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7852",
+    "before": null,
+    "after": "TE3D5NF5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7851",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7852",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7851",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7852",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7851",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7852",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7851",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7852",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7851",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7852",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7851",
+    "before": null,
+    "after": "Change in durable-spending readiness in demographic forward-guidance DiD, p.1630. Differenced scale follows section 6/equation (9); exact appendix implementation unavailable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7852",
+    "before": null,
+    "after": "Change in higher-inflation expectations in demographic forward-guidance DiD, p.1630. Underlying binary expectation indicator; differenced outcome nonbinary, exact appendix implementation unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3395",
+    "before": null,
+    "after": "TE3D5NF5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3395",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3395",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3395",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3395",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3395",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3395",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3395",
+    "before": null,
+    "after": "Forward-guidance effects on changes in spending propensities and inflation expectations across demographic groups; final article p.1630 reports implemented Internet Appendix heterogeneity tests and no significant response, including college graduates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3395",
+    "before": null,
+    "after": "Section 6 establishes continuation of matched policy DiD. One minimum source-scope record for two outcomes; final supplement unavailable, exact figures/groups and further location splits unresolved. Central null across demographics also highlighted in intro p.1602; no invented appendix coefficients."
+  }
+]
+```
