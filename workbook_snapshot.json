@@ -33255,7 +33255,16 @@
     "L3370": "0",
     "M3370": "n/a",
     "N3370": "Minority × After × Universalist customer-location proxy replacing PCA, TableA6 cols3,8; log past due and past-30-day share; reported coefficients −0.083; −0.010.",
-    "O3370": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Individual-proxy substantive robustness; no automatic main flag from underlying main hypothesis. Sundown is a two-valued town indicator; other proxies are counts, scores or ratios. RelativeEarnings is female earnings as percent of male, not silently inverted to a wage gap. Source: Article pp9–10 proxy definitions; supplement pp9,20 TableA6; layout L298–303,685–711."
+    "O3370": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Individual-proxy substantive robustness; no automatic main flag from underlying main hypothesis. Sundown is a two-valued town indicator; other proxies are counts, scores or ratios. RelativeEarnings is female earnings as percent of male, not silently inverted to a wage gap. Source: Article pp9–10 proxy definitions; supplement pp9,20 TableA6; layout L298–303,685–711.",
+    "A3371": "S9LRTRJP",
+    "B3371": "h21",
+    "I3371": "1",
+    "J3371": "DiD_conventional",
+    "K3371": "0",
+    "L3371": "0",
+    "M3371": "n/a",
+    "N3371": "Minority × After × IAT customer-location proxy replacing PCA, TableA6 cols4,9; log past due and past-30-day share; reported coefficients 0.723; 0.131.",
+    "O3371": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Individual-proxy substantive robustness; no automatic main flag from underlying main hypothesis. Sundown is a two-valued town indicator; other proxies are counts, scores or ratios. RelativeEarnings is female earnings as percent of male, not silently inverted to a wage gap. Source: Article pp9–10 proxy definitions; supplement pp9,20 TableA6; layout L298–303,685–711."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86220,7 +86229,15 @@
     "A7822": "S9LRTRJP",
     "B7822": "h20",
     "C7822": "hy2",
-    "K7822": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
+    "K7822": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator.",
+    "A7823": "S9LRTRJP",
+    "B7823": "h21",
+    "C7823": "hy1",
+    "K7823": "Past-due dollars, TableA6 header abbreviated Log Past Due; log(1+past due) inferred from explicit reproduction of Table5A in supplement p9 and all-variables-as-previously-defined caption, not separately restated. No additional log-only specification inferred.",
+    "A7824": "S9LRTRJP",
+    "B7824": "h21",
+    "C7824": "hy2",
+    "K7824": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
