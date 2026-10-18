@@ -34384,7 +34384,16 @@
     "L3455": "1",
     "M3455": "n/a",
     "N3455": "Lagged firm V/P effect on net debt issuance, Table V.B, group-specific firm-FE slopes; t−1 group assignment.",
-    "O3455": "Broad author-intention gate met: valuations affect financing (abstract, pp.3043,3061–3064). Firm FE explicitly focus on a given firm under changing conditions (p.3060), addressing persistent firm heterogeneity; one effective FE set, not HDFE. No time FE or no-firm-FE column. Lagging and controls do not prove exogeneity. Generated expected-return predictors are not implemented IV treatment receipt."
+    "O3455": "Broad author-intention gate met: valuations affect financing (abstract, pp.3043,3061–3064). Firm FE explicitly focus on a given firm under changing conditions (p.3060), addressing persistent firm heterogeneity; one effective FE set, not HDFE. No time FE or no-firm-FE column. Lagging and controls do not prove exogeneity. Generated expected-return predictors are not implemented IV treatment receipt.",
+    "A3456": "UK6BI2QX",
+    "B3456": "h21",
+    "I3456": "1",
+    "J3456": "OLS",
+    "K3456": "0",
+    "L3456": "0",
+    "M3456": "n/a",
+    "N3456": "Blue Chip credit-spread forecast error effect on aggregate net equity repurchases and net debt issuance, Table VIII.A columns 2/4; continuous dose, OLS with baseline controls. Printed coefficients 0.0521/0.0646.",
+    "O3456": "Section V/intro p.3044 explicitly frames sentiment and supply as drivers of financing. No IV. For Treasury supply: change in outstanding notes/bonds excluding monetary authorities and foreigners /quarterly GDP (p.3083). Table VIII caption incorrectly calls C columns 5/6; actual headings 7/8. Main=0: additional mechanism, not main valuation/heterogeneity claim."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88077,7 +88086,15 @@
     "A7949": "UK6BI2QX",
     "B7949": "h20",
     "C7949": "hy2",
-    "K7949": "Quarterly net debt issuance normalized by lagged assets, in subsample regressions by firm characteristics."
+    "K7949": "Quarterly net debt issuance normalized by lagged assets, in subsample regressions by firm characteristics.",
+    "A7950": "UK6BI2QX",
+    "B7950": "h21",
+    "C7950": "hy1",
+    "K7950": "Aggregate quarterly net equity repurchases of U.S. nonfinancial corporations, normalized by lagged assets; percentage points.",
+    "A7951": "UK6BI2QX",
+    "B7951": "h21",
+    "C7951": "hy2",
+    "K7951": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged assets; percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
