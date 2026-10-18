@@ -31577,7 +31577,16 @@
     "L3206": "1",
     "M3206": "unknown",
     "N3206": "GIIPS Sovereign Risk (CDS-weighted bank sovereign holdings/assets) and lending, non-GIIPS banks, TableA9 col4.",
-    "O3206": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2877 L1411–1418 TableA9 col4."
+    "O3206": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2877 L1411–1418 TableA9 col4.",
+    "A3207": "RDVTTVCR",
+    "B3207": "h25",
+    "I3207": "1",
+    "J3207": "unknown",
+    "K3207": "0",
+    "L3207": "1",
+    "M3207": "unknown",
+    "N3207": "GIIPS Sovereign Risk (CDS-weighted bank sovereign holdings/assets) and lending, GIIPS banks, TableA10 col7.",
+    "O3207": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2877 L1411–1418 TableA10 col7."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82973,7 +82982,21 @@
     "A7592": "RDVTTVCR",
     "B7592": "h24",
     "C7592": "hy3",
-    "K7592": "Loan spread response to bank GIIPS Sovereign Risk: final p2877 explicitly reports higher spreads; exact dependent scale unavailable."
+    "K7592": "Loan spread response to bank GIIPS Sovereign Risk: final p2877 explicitly reports higher spreads; exact dependent scale unavailable.",
+    "A7593": "RDVTTVCR",
+    "B7593": "h25",
+    "C7593": "hy1",
+    "I7593": "unknown",
+    "J7593": "unknown",
+    "K7593": "Loan volume response to bank GIIPS Sovereign Risk; final p2877 establishes reduced lending. Exact dependent scale unavailable.",
+    "A7594": "RDVTTVCR",
+    "B7594": "h25",
+    "C7594": "hy2",
+    "K7594": "Propensity to not extend a loan: final p2877 explicitly reports this outcome; exact indicator aggregation/scale unavailable.",
+    "A7595": "RDVTTVCR",
+    "B7595": "h25",
+    "C7595": "hy3",
+    "K7595": "Loan spread response to bank GIIPS Sovereign Risk: final p2877 explicitly reports higher spreads; exact dependent scale unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
