@@ -34978,7 +34978,16 @@
     "L3510": "1",
     "M3510": "n/a",
     "N3510": "Syndicate maximum High MSR Exposure dummy among member banks effect on change in nonbank share around Basel III announcement, Table8 column9.",
-    "O3510": "Actual pre/post change outcome compared across differential shock exposure; Section2.4 explicitly invokes DiD. No modern estimator. Bank-level exposure aggregated to syndicate. Table8 caption erroneously includes column8 among sale columns but heading and later caption identify8–9 as change share."
+    "O3510": "Actual pre/post change outcome compared across differential shock exposure; Section2.4 explicitly invokes DiD. No modern estimator. Bank-level exposure aggregated to syndicate. Table8 caption erroneously includes column8 among sale columns but heading and later caption identify8–9 as change share.",
+    "A3511": "UUTLYHI2",
+    "B3511": "h17",
+    "I3511": "1",
+    "J3511": "OLS",
+    "K3511": "0",
+    "L3511": "1",
+    "M3511": "n/a",
+    "N3511": "Unstable precrisis nonbank funding share effect on loan-level credit growth and exit, Table10.A/B columns2,4,5.",
+    "O3511": "Distinct total/stable/unstable exposure; stable null is central contrast, not supporting merely because insignificant. Firm exposure loan-value-weighted; loan exposure fraction of commitment. Industry dummies adjustment, same nonrandom supply-effect intention as s4."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89146,7 +89155,15 @@
     "H8030": "0",
     "I8030": "unknown",
     "J8030": "none",
-    "K8030": "Change in nonbank funding share from before to after2012Q2 announcement."
+    "K8030": "Change in nonbank funding share from before to after2012Q2 announcement.",
+    "A8031": "UUTLYHI2",
+    "B8031": "h17",
+    "C8031": "hy1",
+    "K8031": "Loan-level symmetric credit growth, difference2008Q4 minus2006Q4 divided by their average.",
+    "A8032": "UUTLYHI2",
+    "B8032": "h17",
+    "C8032": "hy2",
+    "K8032": "Loan exit from SNC by2008Q4."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -147610,7 +147627,18 @@
     "O5246": "1",
     "P5246": "unknown",
     "Q5246": "p.3077/Table VII column 6, coefficient 0.0115: effect is similar for a one-SD decrease in expected excess stock returns, immediately following debt-issuance decline of about 0.25 SD. Table II.B debt issuance SD 0.23 percentage points, N=124. Anaphoric magnitude attribution flagged for audit.",
-    "R5246": "Aggregate 1985Q1–2015Q4 outcome SD, Table II.B; same sample/scale established but continuous conditional regression target and relevant reference-dose weighting not established. Unknown alignment, not automatic 1 or 0. No ratio calculated by reviewer attributed to author."
+    "R5246": "Aggregate 1985Q1–2015Q4 outcome SD, Table II.B; same sample/scale established but continuous conditional regression target and relevant reference-dose weighting not established. Unknown alignment, not automatic 1 or 0. No ratio calculated by reviewer attributed to author.",
+    "A5247": "UUTLYHI2",
+    "B5247": "h17",
+    "C5247": "hc1",
+    "K5247": "1",
+    "L5247": "hy2",
+    "M5247": "outcome_mean",
+    "N5247": "1",
+    "O5247": "1",
+    "P5247": "unknown",
+    "Q5247": "p.2218/Table10.B col4: unstable-share coefficient0.418;10pp higher share implies4.18pp higher exit. Authors divide4.18 by66.13% average loan exit rate to report6.32%. Benchmark is full SNC2006Q4 outstanding-loan sample exit by2008Q4,6,439 loans; not firm exit.",
+    "R5247": "Prose says borrower exit but table/panel and66.13% mean identify loan exit; preserve this distinction. Continuous exposure counterfactual/weights unresolved. Comparison qualifies despite no untreated alignment proof."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

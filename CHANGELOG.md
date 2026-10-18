@@ -575031,3 +575031,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:42:01.453093+00:00 — Review UUTLYHI2 h17: source-audited coding and linked comparisons
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5247",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5247",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5247",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5247",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5247",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5247",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5247",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5247",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5247",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5247",
+    "before": null,
+    "after": "p.2218/Table10.B col4: unstable-share coefficient0.418;10pp higher share implies4.18pp higher exit. Authors divide4.18 by66.13% average loan exit rate to report6.32%. Benchmark is full SNC2006Q4 outstanding-loan sample exit by2008Q4,6,439 loans; not firm exit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5247",
+    "before": null,
+    "after": "Prose says borrower exit but table/panel and66.13% mean identify loan exit; preserve this distinction. Continuous exposure counterfactual/weights unresolved. Comparison qualifies despite no untreated alignment proof."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8031",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8032",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8031",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8032",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8031",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8032",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8031",
+    "before": null,
+    "after": "Loan-level symmetric credit growth, difference2008Q4 minus2006Q4 divided by their average."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8032",
+    "before": null,
+    "after": "Loan exit from SNC by2008Q4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3511",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3511",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3511",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3511",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3511",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3511",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3511",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3511",
+    "before": null,
+    "after": "Unstable precrisis nonbank funding share effect on loan-level credit growth and exit, Table10.A/B columns2,4,5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3511",
+    "before": null,
+    "after": "Distinct total/stable/unstable exposure; stable null is central contrast, not supporting merely because insignificant. Firm exposure loan-value-weighted; loan exposure fraction of commitment. Industry dummies adjustment, same nonrandom supply-effect intention as s4."
+  }
+]
+```
