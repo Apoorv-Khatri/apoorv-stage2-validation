@@ -581322,3 +581322,384 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:14:39.902860+00:00 — Review VPZERBIY s11: source-audited coding and linked comparisons
+
+62 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K457",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K458",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K459",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L457",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L458",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L459",
+    "before": null,
+    "after": "y8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M457",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M458",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M459",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N457",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N458",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N459",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O457",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O458",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O459",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P457",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P458",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P459",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q457",
+    "before": null,
+    "after": "UNRESOLVED candidate attribution, not a verified exact triple. Table8 pp.545–546: Interaction coefficient on Activist x New director = -0.1105 in Table 8 column 3 for cash bids over [t, t+3]. Benchmark: Cash-acquisition likelihood relative to matched non-targets, expressed as a multiple reduction. \"In terms of economic magnitudes, both cash acquisitions (Column 3) and stock acquisitions (Column 5) are two times less likely, relative to matched non-targets; divestitures are about 85% more likely, based on the coefficient in Column 8.\""
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q458",
+    "before": null,
+    "after": "UNRESOLVED candidate attribution, not a verified exact triple. Table8 pp.545–546: Interaction coefficient on Activist x New director = -0.0382 in Table 8 column 5 for stock bids over [t, t+3]. Benchmark: Stock-acquisition likelihood relative to matched non-targets, expressed as a multiple reduction. \"In terms of economic magnitudes, both cash acquisitions (Column 3) and stock acquisitions (Column 5) are two times less likely, relative to matched non-targets; divestitures are about 85% more likely, based on the coefficient in Column 8.\""
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q459",
+    "before": null,
+    "after": "UNRESOLVED candidate attribution, not a verified exact triple. Table8 pp.545–546: Interaction coefficient on Activist x New director = 0.1055 in Table 8 column 8 for divestiture over [t, t+3]. Benchmark: Divestiture likelihood relative to matched non-targets. \"In terms of economic magnitudes, both cash acquisitions (Column 3) and stock acquisitions (Column 5) are two times less likely, relative to matched non-targets; divestitures are about 85% more likely, based on the coefficient in Column 8.\""
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R457",
+    "before": null,
+    "after": "Ambiguous focal interaction-versus-total allocation; retained in held_candidates, not applied as an exact triple. Independent audit: Human_keep=unknown rather than 0; evidence is not proven spurious. No new triples appended."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R458",
+    "before": null,
+    "after": "Ambiguous focal interaction-versus-total allocation; retained in held_candidates, not applied as an exact triple. Independent audit: Human_keep=unknown rather than 0; evidence is not proven spurious. No new triples appended."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R459",
+    "before": null,
+    "after": "Ambiguous focal interaction-versus-total allocation; retained in held_candidates, not applied as an exact triple. Independent audit: Human_keep=unknown rather than 0; evidence is not proven spurious. No new triples appended."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1899",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1900",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1901",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1902",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1903",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1904",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1905",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1906",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1899",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1900",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1901",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1902",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1903",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1904",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1905",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1906",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1899",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1900",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1901",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1902",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1903",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1904",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1905",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1906",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1899",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1900",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1901",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1902",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1903",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1904",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1905",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1906",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I779",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J779",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K779",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L779",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M779",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O779",
+    "before": null,
+    "after": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Main: board channel central in abstract/introduction/conclusion. New director is binary; interaction is differential director effect by activism, not total activism effect. New director includes at least one appointment in t,t+1, not necessarily every appointment an activist nominee; missing BoardEx cases supplemented with dissident seats. Separate binary activism parameter h23."
+  }
+]
+```
