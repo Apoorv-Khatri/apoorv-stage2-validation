@@ -595056,3 +595056,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:09:46.259338+00:00 — Review WM5RSIHQ h5: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8198",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8199",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8198",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8199",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8198",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8199",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8198",
+    "before": null,
+    "after": "Forced CEO turnover event/time-to-event in competing-risks Cox model (final III.E p.2172); cause-specific hazard response, not an averaged event probability. Retention is the reference survival state."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8199",
+    "before": null,
+    "after": "Voluntary CEO turnover event/time-to-event in competing-risks Cox model (final III.E p.2172); cause-specific hazard response, not an averaged event probability. Retention is the reference survival state."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3608",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3608",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3608",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3608",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3608",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3608",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3608",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3608",
+    "before": null,
+    "after": "Industry-induced performance on forced and voluntary CEO turnover, competing-risks extension using Cox and Lunn–McNeil (1995); final Section III.E p.2172."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3608",
+    "before": null,
+    "after": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. Explicit nonlinear Cox estimator => Other, not IV. Retention is reference survival state, not a separately estimated third turnover outcome."
+  }
+]
+```

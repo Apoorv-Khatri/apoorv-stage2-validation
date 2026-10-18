@@ -36027,7 +36027,16 @@
     "L3607": "0",
     "M3607": "n/a",
     "N3607": "Idiosyncratic stock returns jointly included in the two-stage market-based Cox model; t−1 and t−2 on forced dismissal, Table VI B.",
-    "O3607": "Distinct focal treatment from peer-induced component, not a newly estimated separate regression. Author-intention gate: pp.2166 and 2172–2174 state both performance components affect dismissals; p.2162 cautions residual performance mixes CEO skill and other shocks. Broad gate permits this without claiming residual exogeneity. Nonlinear implemented Cox/logit estimator takes priority over the paper’s IV analogy and any year dummies: Other, IV type n/a. No separately implemented linear outcome model or causal first-stage OLS setting. Calendar-year dummies are one effective dimension, included to absorb time trends/economy-wide shocks; no HDFE. Returns are continuous; binary event outcome or subgroup dummies do not make the performance dose binary."
+    "O3607": "Distinct focal treatment from peer-induced component, not a newly estimated separate regression. Author-intention gate: pp.2166 and 2172–2174 state both performance components affect dismissals; p.2162 cautions residual performance mixes CEO skill and other shocks. Broad gate permits this without claiming residual exogeneity. Nonlinear implemented Cox/logit estimator takes priority over the paper’s IV analogy and any year dummies: Other, IV type n/a. No separately implemented linear outcome model or causal first-stage OLS setting. Calendar-year dummies are one effective dimension, included to absorb time trends/economy-wide shocks; no HDFE. Returns are continuous; binary event outcome or subgroup dummies do not make the performance dose binary.",
+    "A3608": "WM5RSIHQ",
+    "B3608": "h5",
+    "I3608": "1",
+    "J3608": "Other",
+    "K3608": "0",
+    "L3608": "0",
+    "M3608": "n/a",
+    "N3608": "Industry-induced performance on forced and voluntary CEO turnover, competing-risks extension using Cox and Lunn–McNeil (1995); final Section III.E p.2172.",
+    "O3608": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. Explicit nonlinear Cox estimator => Other, not IV. Retention is reference survival state, not a separately estimated third turnover outcome."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91382,7 +91391,15 @@
     "A8197": "WM5RSIHQ",
     "B8197": "h4",
     "C8197": "hy1",
-    "K8197": "Forced CEO dismissal event and tenure/time-to-event with voluntary departures right-censored; Cox proportional-hazard outcome. Estimated hazard intensity/slopes are not event probabilities or percentage-point probability effects. See linked setting for result location."
+    "K8197": "Forced CEO dismissal event and tenure/time-to-event with voluntary departures right-censored; Cox proportional-hazard outcome. Estimated hazard intensity/slopes are not event probabilities or percentage-point probability effects. See linked setting for result location.",
+    "A8198": "WM5RSIHQ",
+    "B8198": "h5",
+    "C8198": "hy1",
+    "K8198": "Forced CEO turnover event/time-to-event in competing-risks Cox model (final III.E p.2172); cause-specific hazard response, not an averaged event probability. Retention is the reference survival state.",
+    "A8199": "WM5RSIHQ",
+    "B8199": "h5",
+    "C8199": "hy2",
+    "K8199": "Voluntary CEO turnover event/time-to-event in competing-risks Cox model (final III.E p.2172); cause-specific hazard response, not an averaged event probability. Retention is the reference survival state."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
