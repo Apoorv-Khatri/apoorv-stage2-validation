@@ -524193,3 +524193,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:56:21.718993+00:00 — Review R7QNVLC6 h11: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7536",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7536",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7536",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7536",
+    "before": null,
+    "after": "Monthly stock return in excess of one-month Treasury bill rate, percent, separately evaluated in quarters t+1,t+2,t+3,t+4; horizons grouped within the same table. Source: IA pp10–11,36; supplement.txt L547–599; supplement_layout.txt L1157–1190."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E70",
+    "before": null,
+    "after": "DONE — Available-source review of all41 final article pages and40 publication-labelled author-hosted Internet Appendix pages with independent audit. Retain4 original settings and11 additions; reject9 predictive/diagnostic settings. Add14 outcomes including three prose-reported gross-return outcomes with unreported coefficients; retain3 probability comparisons and reject treatment-SD comparison. Same-covariate-profile probability benchmark aligned for c1; subgroup constructions c2/c3 unknown. Retain opportunity, career-incentive, investor-flow and appendix price-pressure channels; time controls alone not identifying FE. Preserve printed discrepancies and original fields,IDs and links. Institutional appendix provenance and identical re-fetch verified; publisher-byte identity unestablished. Completion scoped to available sources."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3182",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3182",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3182",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3182",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3182",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3182",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3182",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3182",
+    "before": null,
+    "after": "Internet Appendix VI.A, Table IA.XVI: continuous quarterly change in aggregate institutional ownership and future monthly stock excess returns in quarters t+1 through t+4; monthly Fama–MacBeth OLS with two stock-control sets. All eight focal slopes are insignificant (0.006,-0.014;0.006,0.012;-0.027,-0.038;-0.002,0.010)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3182",
+    "before": null,
+    "after": "Substantive null price-pressure channel: authors explicitly use these coefficients to rule out pressure caused by institutional trades as the source of underperformance. Retain despite predictive phrasing because X is interpreted as a potential cause of returns, unlike FH as a skill signal. Not a balance/pretrend/first-stage diagnostic. Source: IA pp10–11,36; supplement.txt L547–599; supplement_layout.txt L1157–1190. No qualifying outcome benchmark found in associated prose/table. Source: IA pp10–11,36; supplement.txt L547–599; supplement_layout.txt L1157–1190."
+  }
+]
+```

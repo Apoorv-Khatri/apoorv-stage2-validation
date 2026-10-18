@@ -327,6 +327,7 @@
     "B70": "Does Herding Behavior Reveal Skill? An Analysis of Mutual Fund Performance",
     "C70": "fin",
     "D70": 13,
+    "E70": "DONE — Available-source review of all41 final article pages and40 publication-labelled author-hosted Internet Appendix pages with independent audit. Retain4 original settings and11 additions; reject9 predictive/diagnostic settings. Add14 outcomes including three prose-reported gross-return outcomes with unreported coefficients; retain3 probability comparisons and reject treatment-SD comparison. Same-covariate-profile probability benchmark aligned for c1; subgroup constructions c2/c3 unknown. Retain opportunity, career-incentive, investor-flow and appendix price-pressure channels; time controls alone not identifying FE. Preserve printed discrepancies and original fields,IDs and links. Institutional appendix provenance and identical re-fetch verified; publisher-byte identity unestablished. Completion scoped to available sources.",
     "A71": "RDVTTVCR",
     "B71": "Real Effects of the Sovereign Debt Crisis in Europe: Evidence from Syndicated Loans",
     "C71": "fin",
@@ -31266,7 +31267,16 @@
     "L3181": "0",
     "M3181": "n/a",
     "N3181": "Table IX A–B: tracking error (standardized residual SD from fund-return/market regressions) and termination probability, logit with fund controls; whole-sample TE coefficients -0.054/-0.052 and subgroup effects including nulls.",
-    "O3181": "Authors explicitly call the tracking-error parameter an effect, although only one sentence interprets it. Include under broad intention rule; weakest retained control-parameter causal gate, flagged for parent adjudication. Source: pp2253–2255; L1339–1341,1422–1424,1471–1473. No qualifying outcome benchmark found in associated prose/table. Source: pp2253–2255; L1339–1341,1422–1424,1471–1473."
+    "O3181": "Authors explicitly call the tracking-error parameter an effect, although only one sentence interprets it. Include under broad intention rule; weakest retained control-parameter causal gate, flagged for parent adjudication. Source: pp2253–2255; L1339–1341,1422–1424,1471–1473. No qualifying outcome benchmark found in associated prose/table. Source: pp2253–2255; L1339–1341,1422–1424,1471–1473.",
+    "A3182": "R7QNVLC6",
+    "B3182": "h11",
+    "I3182": "1",
+    "J3182": "OLS",
+    "K3182": "0",
+    "L3182": "0",
+    "M3182": "n/a",
+    "N3182": "Internet Appendix VI.A, Table IA.XVI: continuous quarterly change in aggregate institutional ownership and future monthly stock excess returns in quarters t+1 through t+4; monthly Fama–MacBeth OLS with two stock-control sets. All eight focal slopes are insignificant (0.006,-0.014;0.006,0.012;-0.027,-0.038;-0.002,0.010).",
+    "O3182": "Substantive null price-pressure channel: authors explicitly use these coefficients to rule out pressure caused by institutional trades as the source of underperformance. Retain despite predictive phrasing because X is interpreted as a potential cause of returns, unlike FH as a skill signal. Not a balance/pretrend/first-stage diagnostic. Source: IA pp10–11,36; supplement.txt L547–599; supplement_layout.txt L1157–1190. No qualifying outcome benchmark found in associated prose/table. Source: IA pp10–11,36; supplement.txt L547–599; supplement_layout.txt L1157–1190."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82277,7 +82287,11 @@
     "H7535": "1",
     "I7535": "1",
     "J7535": "none",
-    "K7535": "Termination indicator: manager at t disappears from sample from t+1 onward. Source: pp2253–2255; L1339–1341,1422–1424,1471–1473."
+    "K7535": "Termination indicator: manager at t disappears from sample from t+1 onward. Source: pp2253–2255; L1339–1341,1422–1424,1471–1473.",
+    "A7536": "R7QNVLC6",
+    "B7536": "h11",
+    "C7536": "hy1",
+    "K7536": "Monthly stock return in excess of one-month Treasury bill rate, percent, separately evaluated in quarters t+1,t+2,t+3,t+4; horizons grouped within the same table. Source: IA pp10–11,36; supplement.txt L547–599; supplement_layout.txt L1157–1190."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
