@@ -515379,3 +515379,576 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:56:44.875461+00:00 — Review QY4D7PCL s5: source-audited coding and linked comparisons
+
+94 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5167",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5168",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5169",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5170",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5171",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5172",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5167",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5168",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5169",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5170",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5171",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5172",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5167",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5168",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5169",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5170",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5171",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5172",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5167",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5168",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5169",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5170",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5171",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5172",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5167",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5168",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5169",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5170",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5171",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5172",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5167",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5168",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5169",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5170",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5171",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5172",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5167",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5168",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5169",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5170",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5171",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5172",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5167",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5168",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5169",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5170",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5171",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5172",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5167",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5168",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5169",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5170",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5171",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5172",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5167",
+    "before": null,
+    "after": "Table7A p939, VW, outcome y1: L-S contrast -8.4% annualized; Short-decile mean 12.7% in same outcome column. Sample 1973–2018 portfolio returns, with horizon/sample variant defined in outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5168",
+    "before": null,
+    "after": "Table7A p939, VW, outcome y2: L-S contrast -6.9% annualized; Short-decile mean 11.6% in same outcome column. Sample 1973–2018 portfolio returns, with horizon/sample variant defined in outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5169",
+    "before": null,
+    "after": "Table7A p939, VW, outcome y3: L-S contrast -7.3% annualized; Short-decile mean 10.4% in same outcome column. Sample 1973–2018 portfolio returns, with horizon/sample variant defined in outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5170",
+    "before": null,
+    "after": "Table7A p939, EW, outcome y1: L-S contrast -9.3% annualized; Short-decile mean 13.0% in same outcome column. Sample 1973–2018 portfolio returns, with horizon/sample variant defined in outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5171",
+    "before": null,
+    "after": "Table7A p939, EW, outcome y2: L-S contrast -6.9% annualized; Short-decile mean 12.7% in same outcome column. Sample 1973–2018 portfolio returns, with horizon/sample variant defined in outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5172",
+    "before": null,
+    "after": "Table7A p939, EW, outcome y3: L-S contrast -5.9% annualized; Short-decile mean 10.8% in same outcome column. Sample 1973–2018 portfolio returns, with horizon/sample variant defined in outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5167",
+    "before": null,
+    "after": "Deliberate contrast/component-group mean pairing. Short-decile observed mean is not demonstrated to be untreated return for long-decile stocks; unresolved observational target/weights. Rounded table values are transcribed without recalculating differences. Independent audit accepts eligibility: the displayed group means and explicit L-S contrast are deliberately linked within the same outcome column; descriptive means elsewhere would not suffice."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5168",
+    "before": null,
+    "after": "Deliberate contrast/component-group mean pairing. Short-decile observed mean is not demonstrated to be untreated return for long-decile stocks; unresolved observational target/weights. Rounded table values are transcribed without recalculating differences. Independent audit accepts eligibility: the displayed group means and explicit L-S contrast are deliberately linked within the same outcome column; descriptive means elsewhere would not suffice."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5169",
+    "before": null,
+    "after": "Deliberate contrast/component-group mean pairing. Short-decile observed mean is not demonstrated to be untreated return for long-decile stocks; unresolved observational target/weights. Rounded table values are transcribed without recalculating differences. Independent audit accepts eligibility: the displayed group means and explicit L-S contrast are deliberately linked within the same outcome column; descriptive means elsewhere would not suffice."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5170",
+    "before": null,
+    "after": "Deliberate contrast/component-group mean pairing. Short-decile observed mean is not demonstrated to be untreated return for long-decile stocks; unresolved observational target/weights. Rounded table values are transcribed without recalculating differences. Independent audit accepts eligibility: the displayed group means and explicit L-S contrast are deliberately linked within the same outcome column; descriptive means elsewhere would not suffice."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5171",
+    "before": null,
+    "after": "Deliberate contrast/component-group mean pairing. Short-decile observed mean is not demonstrated to be untreated return for long-decile stocks; unresolved observational target/weights. Rounded table values are transcribed without recalculating differences. Independent audit accepts eligibility: the displayed group means and explicit L-S contrast are deliberately linked within the same outcome column; descriptive means elsewhere would not suffice."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5172",
+    "before": null,
+    "after": "Deliberate contrast/component-group mean pairing. Short-decile observed mean is not demonstrated to be untreated return for long-decile stocks; unresolved observational target/weights. Rounded table values are transcribed without recalculating differences. Independent audit accepts eligibility: the displayed group means and explicit L-S contrast are deliberately linked within the same outcome column; descriptive means elsewhere would not suffice."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1521",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1522",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1523",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1524",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1525",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1526",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1521",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1522",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1523",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1524",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1525",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1526",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1521",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1522",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1523",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1524",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1525",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1526",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1524",
+    "before": null,
+    "after": "spurious as dependent variable of mean-return contrast: ICAPM alpha is a pricing error and beta is a regression coefficient. Structural pricing and shock-response scopes separately added."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1525",
+    "before": null,
+    "after": "spurious as dependent variable of mean-return contrast: ICAPM alpha is a pricing error and beta is a regression coefficient. Structural pricing and shock-response scopes separately added."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1526",
+    "before": null,
+    "after": "spurious as dependent variable of mean-return contrast: ICAPM alpha is a pricing error and beta is a regression coefficient. Structural pricing and shock-response scopes separately added."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I627",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J627",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K627",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L627",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M627",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N627",
+    "before": null,
+    "after": "Extreme EPP duration-decile return contrasts (decile10 minus decile1), Table7A. Separate annual/five-year/large-stock variants remain outcomes under this setting; factor/ICAPM estimation treated separately."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O627",
+    "before": null,
+    "after": "Author-intention gate: retain the mechanism-interpreted duration return contrast, not a claim of exogenous assignment. The introduction connects short cash-flow timing to priced reinvestment exposure (pp919–921), and Sections3.4/5 link the premia to duration rather than generic prediction. Observational allocation may proxy for fundamentals; causal scope is contested. Linear pre-outcome-weighted portfolio mean contrast is OLS, not matching; no identifying FE. Explicit extreme-decile contrast is binary, despite underlying continuous score. Supporting robustness, not main solely because a large premium persists. ICAPM alphas and shock betas are not dependent variables in the simple mean contrast. Source: pp938–943 Table7A; article.txt L1334–1464,1594–1682,1691–1768."
+  }
+]
+```
