@@ -35687,7 +35687,16 @@
     "L3574": "1",
     "M3574": "other",
     "N3574": "Continuous peer-increase share and its interaction with learning (no credit rating) indicator, Table 8 column 4, dividend-increase outcome. Distinct interaction instrument set.",
-    "O3574": "Eq.5 pp.559-560: excluded peer risk and peer risk × learning (no credit rating), two nonbinary instruments (other). Main share plus interaction gives conditional effect; indicator itself is not the endogenous peer treatment. Main because the introduction explicitly frames four competing mechanism tests together; retain central nulls in columns 3-4. Firm/time FE are two dimensions, subordinate to IV."
+    "O3574": "Eq.5 pp.559-560: excluded peer risk and peer risk × learning (no credit rating), two nonbinary instruments (other). Main share plus interaction gives conditional effect; indicator itself is not the endogenous peer treatment. Main because the introduction explicitly frames four competing mechanism tests together; retain central nulls in columns 3-4. Firm/time FE are two dimensions, subordinate to IV.",
+    "A3575": "WERKYTKC",
+    "B3575": "h5",
+    "I3575": "1",
+    "J3575": "IV",
+    "K3575": "0",
+    "L3575": "1",
+    "M3575": "single continuous",
+    "N3575": "180-day SIC peer-increase share on proportional regular-cash-dividend payout change, Table 6B; 16%/33% per treatment SD.",
+    "O3575": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -90901,7 +90910,11 @@
     "A8164": "WERKYTKC",
     "B8164": "h4",
     "C8164": "hy1",
-    "K8164": "Own dividend-increase indicator, Table 8. No binary-treatment outcome labels required for continuous peer-share slope."
+    "K8164": "Own dividend-increase indicator, Table 8. No binary-treatment outcome labels required for continuous peer-share slope.",
+    "A8165": "WERKYTKC",
+    "B8165": "h5",
+    "C8165": "hy1",
+    "K8165": "Dividend Payout Change = (RCD_t - RCD_t-1)/RCD_t-1 (Appendix A p.563). Table 6B caption says dividend yield change and prose says target payout ratio; actual panel label and definition specify proportional regular-cash-dividend change, not earnings-normalized payout ratio. No logarithm or own-outcome-mean standardization."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
