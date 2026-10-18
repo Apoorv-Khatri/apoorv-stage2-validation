@@ -556995,3 +556995,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:15:17.046010+00:00 — Review TRCRCTBB s5: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I721",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J721",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K721",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L721",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M721",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N721",
+    "before": null,
+    "after": "Total ΔPOt effect on leverage, Table V columns 1–2, pp.3420–3421. Firm plus year or industry×year FE. Component doses split to h5/h6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O721",
+    "before": null,
+    "after": "Linear panel regression; firm (or manager) and time effects absorb persistent unit heterogeneity and common shocks in the within-unit private-information design. At most two effective FE dimensions, not HDFE; no IV/RCT/RD/DiD. No genuine no-unit-FE OLS column. Continuous PO dose, not binary merely because outcomes or subsamples are binary."
+  }
+]
+```
