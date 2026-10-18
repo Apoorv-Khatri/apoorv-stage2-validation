@@ -503502,3 +503502,300 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T02:39:41.693592+00:00 — Review QCQ3E8DE s8: source-audited coding and linked comparisons
+
+48 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5063",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5064",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5063",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5064",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5063",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5064",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K355",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5063",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5064",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L355",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5063",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5064",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M355",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5063",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5064",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N355",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5063",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5064",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O355",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5063",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5064",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P355",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5063",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5064",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q355",
+    "before": null,
+    "after": "Table7 pp236–237,1934:01–2013:03: OOS dynamic versus static WML, annualized Sharpe 1.194 versus 0.682."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5063",
+    "before": null,
+    "after": "Table7 pp236–237,1934:01–2013:03: OOS dynamic versus variance scaling, annualized Sharpe 1.194 versus 1.126."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5064",
+    "before": null,
+    "after": "Table7 pp236–237,1934:01–2013:03: OOS dynamic versus cvol, annualized Sharpe 1.194 versus 1.041."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R355",
+    "before": null,
+    "after": "Same-performance level under alternative rule, not outcome-mean/SD normalization and not a comparison of two estimated regression coefficients. Sharpe ratio is the measured policy-performance outcome here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5063",
+    "before": null,
+    "after": "Same-performance level under alternative rule, not outcome-mean/SD normalization and not a comparison of two estimated regression coefficients. Sharpe ratio is the measured policy-performance outcome here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5064",
+    "before": null,
+    "after": "Same-performance level under alternative rule, not outcome-mean/SD normalization and not a comparison of two estimated regression coefficients. Sharpe ratio is the measured policy-performance outcome here."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7443",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7443",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7443",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1468",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1468",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7443",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1468",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7443",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1468",
+    "before": null,
+    "after": "Annualized strategy Sharpe ratio; cumulative log wealth and appraisal ratio where applicable added separately below. No causal coefficient normalized by an outcome SD is inferred from the Sharpe statistic."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7443",
+    "before": null,
+    "after": "Annualized appraisal ratio of OOS dynamic rule:0.396 versus variance-scaled rule (Table7) and0.585 versus cvol (p237 orthogonal incremental-strategy calculation). Neither is division by a benchmark outcome level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I603",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J603",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K603",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L603",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M603",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N603",
+    "before": null,
+    "after": "Recursively estimated out-of-sample dynamic WML weight, Eq9 and Eq6, using past-126-day realized variance; Table7 1934:01–2013:03. Annualized Sharpe 1.194, appraisal ratio0.396 relative to variance scaling."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O603",
+    "before": null,
+    "after": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section4.3.1 Table7 pp236–237."
+  }
+]
+```
