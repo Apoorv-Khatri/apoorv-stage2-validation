@@ -570000,3 +570000,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:04:10.557786+00:00 — Review UTRUH2FR s7: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1833",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1833",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1833",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J761",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M761",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N761",
+    "before": null,
+    "after": "Structured-loan receipt 2002–2007 effect on change in local tax euros per inhabitant, Table8 column5/equation4; OLS outcome stage after probit first-stage distance model."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O761",
+    "before": null,
+    "after": "Causal intention and binary receipt clear. Authors call IV; footnote20 cites Wooldridge/Faulkender-Petersen, but source does not establish whether fitted probit enters directly or instruments actual receipt in another linear first stage. Do not assert compatible-projection/2SLS equivalence or classify Other solely for uncertainty. Minimum unknown pending implementation. One described excluded scalar distance (single continuous if IV verified). Differenced tax absorbs stable entity heterogeneity conceptually; do not add an artificial third separately absorbed FE dimension to branch/population controls. No benchmark comparison for −55.045."
+  }
+]
+```
