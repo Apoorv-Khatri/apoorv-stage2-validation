@@ -558306,3 +558306,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:21:36.403792+00:00 — Review TRCRCTBB h4: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7858",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7859",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7858",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7859",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7858",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7859",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7858",
+    "before": null,
+    "after": "Net equity issuance in year t: (issuance of common and preferred stock minus purchase of common and preferred stock) divided by lagged total securities outstanding (market equity plus debt). Table IV.A columns 3–4 and 7–8."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7859",
+    "before": null,
+    "after": "Net debt issuance in year t: (long-term debt issuance minus long-term debt reduction) divided by lagged total securities outstanding. Table IV.A columns 3–4 and 7–8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3400",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3400",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3400",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3400",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3400",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3400",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3400",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3400",
+    "before": null,
+    "after": "Effect of residual-maturity ΔPOrestt, measured as change in corresponding purchase obligations/total assets and entered jointly with the other maturity component; Table IV.A columns 3–4 and 7–8. Outcome set follows s3; distinct from total ΔPOt."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3400",
+    "before": null,
+    "after": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
+  }
+]
+```

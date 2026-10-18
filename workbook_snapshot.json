@@ -33709,7 +33709,16 @@
     "L3399": "1",
     "M3399": "n/a",
     "N3399": "Effect of next-year-due ΔPO(t+1)t, measured as change in corresponding purchase obligations/total assets and entered jointly with the other maturity component; Table IV.A columns 3–4 and 7–8. Outcome set follows s3; distinct from total ΔPOt.",
-    "O3399": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
+    "O3399": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation.",
+    "A3400": "TRCRCTBB",
+    "B3400": "h4",
+    "I3400": "1",
+    "J3400": "FE",
+    "K3400": "0",
+    "L3400": "1",
+    "M3400": "n/a",
+    "N3400": "Effect of residual-maturity ΔPOrestt, measured as change in corresponding purchase obligations/total assets and entered jointly with the other maturity component; Table IV.A columns 3–4 and 7–8. Outcome set follows s3; distinct from total ΔPOt.",
+    "O3400": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86894,7 +86903,15 @@
     "A7857": "TRCRCTBB",
     "B7857": "h3",
     "C7857": "hy2",
-    "K7857": "Net debt issuance in year t: (long-term debt issuance minus long-term debt reduction) divided by lagged total securities outstanding. Table IV.A columns 3–4 and 7–8."
+    "K7857": "Net debt issuance in year t: (long-term debt issuance minus long-term debt reduction) divided by lagged total securities outstanding. Table IV.A columns 3–4 and 7–8.",
+    "A7858": "TRCRCTBB",
+    "B7858": "h4",
+    "C7858": "hy1",
+    "K7858": "Net equity issuance in year t: (issuance of common and preferred stock minus purchase of common and preferred stock) divided by lagged total securities outstanding (market equity plus debt). Table IV.A columns 3–4 and 7–8.",
+    "A7859": "TRCRCTBB",
+    "B7859": "h4",
+    "C7859": "hy2",
+    "K7859": "Net debt issuance in year t: (long-term debt issuance minus long-term debt reduction) divided by lagged total securities outstanding. Table IV.A columns 3–4 and 7–8."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
