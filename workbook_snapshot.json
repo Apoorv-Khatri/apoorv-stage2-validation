@@ -34639,7 +34639,16 @@
     "L3477": "0",
     "M3477": "n/a",
     "N3477": "Structured-loan receipt 2002–2007 effect on change in local taxes per inhabitant, Table8 column2 naïve linear regression, 13.879 euros.",
-    "O3477": "Broad intention as biased comparison benchmark, Section7 p.1929. Branch/population bracket dummies are present; no independent identifying-FE argument for this naïve column beyond regression adjustment. Do not borrow the IV geography argument to create HDFE or a no-FE split. Tax difference removes stable entity levels but no parallel-trends treatment/control panel design is implemented."
+    "O3477": "Broad intention as biased comparison benchmark, Section7 p.1929. Branch/population bracket dummies are present; no independent identifying-FE argument for this naïve column beyond regression adjustment. Do not borrow the IV geography argument to create HDFE or a no-FE split. Tax difference removes stable entity levels but no parallel-trends treatment/control panel design is implemented.",
+    "A3478": "UTRUH2FR",
+    "B3478": "h8",
+    "I3478": "1",
+    "J3478": "Other",
+    "K3478": "1",
+    "L3478": "1",
+    "M3478": "n/a",
+    "N3478": "White-collar background (college-degree-requiring profession) indicator effect on structured borrowing, Table7 columns3/4, probit.",
+    "O3478": "pp.1924–1926 test financial sophistication and resources as mechanisms; broad intention includes these proxy effects despite observational associations. Individual indicator is binary conditional contrast against omitted category, not randomized assignment. Exact omitted occupational category not reported; do not invent it. County FE in columns1–4, absent5–8; nonlinear Other in all, so no OLS/FE split. Civil-servant subsample models without/with size controls grouped as routine variants. Caption incorrectly describes all civil-servant levels as elite-school Haut Fonctionnaire; use distinct printed row labels."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88513,7 +88522,21 @@
     "H7985": "0",
     "I7985": "unknown",
     "J7985": "none",
-    "K7985": "Change in local tax per inhabitant, year-end 2002 to year-end 2007, euros/resident; Table8 column2 heading Δ confirms change, not level."
+    "K7985": "Change in local tax per inhabitant, year-end 2002 to year-end 2007, euros/resident; Table8 column2 heading Δ confirms change, not level.",
+    "A7986": "UTRUH2FR",
+    "B7986": "h8",
+    "C7986": "hy1",
+    "H7986": "1",
+    "I7986": "1",
+    "J7986": "none",
+    "K7986": "Indicator for at least one structured loan during 2002–2007, municipality sample, Table7. Column 3.",
+    "A7987": "UTRUH2FR",
+    "B7987": "h8",
+    "C7987": "hy2",
+    "H7987": "1",
+    "I7987": "1",
+    "J7987": "none",
+    "K7987": "Indicator for at least one high-risk structured loan (Gissler >=3) during 2002–2007, municipality sample, Table7. Column 4."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
