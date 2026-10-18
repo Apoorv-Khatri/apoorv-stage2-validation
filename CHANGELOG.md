@@ -507243,3 +507243,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T02:57:18.648353+00:00 — Review QCQ3E8DE h1: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5108",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5109",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5108",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5109",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5108",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5109",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5108",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5109",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5108",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5109",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5108",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5109",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5108",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5109",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5108",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5109",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5108",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5109",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5108",
+    "before": null,
+    "after": "Section3.4 p229 and Fig4A p231, 1927:06–1939:12: focal hedged cumulative log wealth underperforms baseline unhedged WML on the same return path. No exact endpoint difference or ratio stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5109",
+    "before": null,
+    "after": "Section3.4 p229 and Fig4B p231, 1927:06–2013:03: focal hedged cumulative log wealth performs no better than baseline unhedged WML on the same return path. No exact endpoint difference or ratio stated. Source horizon conflict: panel title ends2013:01, caption ends2013:03; p229 prose begins1927:01, caption/title begin1927:06. Use caption horizon provisionally; exact implemented endpoint unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5108",
+    "before": null,
+    "after": "Qualitative comparison of the same explicitly graphed cumulative wealth level is eligible; no exact numeric endpoint required by instructions. No ratio inferred. The graph is portfolio value on a logarithmic axis; prose calls it cumulative log return."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5109",
+    "before": null,
+    "after": "Qualitative comparison of the same explicitly graphed cumulative wealth level is eligible; no exact numeric endpoint required by instructions. No ratio inferred. The graph is portfolio value on a logarithmic axis; prose calls it cumulative log return."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7445",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7445",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7445",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7445",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7445",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7445",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7445",
+    "before": null,
+    "after": "Cumulative log wealth on market-hedged WML strategy, reinvested under AppendixA.1; Fig4A–B. Continuous log outcome; zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3122",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3122",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3122",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3122",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3122",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3122",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3122",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3122",
+    "before": null,
+    "after": "Switch from unhedged WML to ex ante market hedge using lagged42-day beta with ten daily market-return lags. Fig4 cumulative log wealth, 1927:06–1939:12 and 1927:06–2013:03. Hedge worsens early crash performance and does not improve full-period performance."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3122",
+    "before": null,
+    "after": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Fig4B horizon conflict: panel title ends2013:01, caption ends2013:03; prose p229 starts1927:01 while title/caption start1927:06. Caption horizon used provisionally. Source: Section3.4 Fig4 pp229–231."
+  }
+]
+```
