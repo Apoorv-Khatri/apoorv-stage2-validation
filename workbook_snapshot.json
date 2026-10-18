@@ -34474,7 +34474,16 @@
     "L3465": "0",
     "M3465": "n/a",
     "N3465": "Predicted 36-month excess stock returns affecting firm-level financing flows: implemented horizon robustness in Internet Appendix III.A, established final pp.3061/3075. Net equity repurchases and net debt issuance; numerical coefficients and final appendix column labels unavailable.",
-    "O3465": "Minimum horizon-specific predictor scope from explicit implemented similar-results statement. Base regressions retained; no unseen settings census claimed. Additional logit/horizon combinations are not individually established by the brief blanket all empirical tests sentence; pending final appendix. No numerical comparison inferred."
+    "O3465": "Minimum horizon-specific predictor scope from explicit implemented similar-results statement. Base regressions retained; no unseen settings census claimed. Additional logit/horizon combinations are not individually established by the brief blanket all empirical tests sentence; pending final appendix. No numerical comparison inferred.",
+    "A3466": "UK6BI2QX",
+    "B3466": "h31",
+    "I3466": "1",
+    "J3466": "OLS",
+    "K3466": "0",
+    "L3466": "0",
+    "M3466": "n/a",
+    "N3466": "Predicted 24-month excess bond returns affecting aggregate financing flows: implemented horizon robustness in Internet Appendix III.A, established final pp.3061/3075. Net equity repurchases and net debt issuance; numerical coefficients and final appendix column labels unavailable.",
+    "O3466": "Minimum horizon-specific predictor scope from explicit implemented similar-results statement. Base regressions retained; no unseen settings census claimed. Additional logit/horizon combinations are not individually established by the brief blanket all empirical tests sentence; pending final appendix. No numerical comparison inferred."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88239,7 +88248,15 @@
     "A7967": "UK6BI2QX",
     "B7967": "h30",
     "C7967": "hy2",
-    "K7967": "Quarterly net debt issuance by firm i, defined as long-term debt issuance minus long-term debt reduction, normalized by lagged assets; percentage points of lagged assets."
+    "K7967": "Quarterly net debt issuance by firm i, defined as long-term debt issuance minus long-term debt reduction, normalized by lagged assets; percentage points of lagged assets.",
+    "A7968": "UK6BI2QX",
+    "B7968": "h31",
+    "C7968": "hy1",
+    "K7968": "Aggregate quarterly net equity repurchases of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets.",
+    "A7969": "UK6BI2QX",
+    "B7969": "h31",
+    "C7969": "hy2",
+    "K7969": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
