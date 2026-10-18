@@ -35750,7 +35750,16 @@
     "L3581": "0",
     "M3581": "single continuous",
     "N3581": "180-day TNIC peer dividend-DECREASE share on own dividend-decrease indicator, Table C.5B.",
-    "O3581": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables."
+    "O3581": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables.",
+    "A3582": "WERKYTKC",
+    "B3582": "h12",
+    "I3582": "1",
+    "J3582": "IV",
+    "K3582": "0",
+    "L3582": "0",
+    "M3582": "single continuous",
+    "N3582": "180-day TNIC peer dividend-increase share on time to change in quarters, Table C.6A, estimates -2.09/-2.57.",
+    "O3582": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -90992,7 +91001,11 @@
     "A8171": "WERKYTKC",
     "B8171": "h11",
     "C8171": "hy1",
-    "K8171": "Dividend-decrease indicator; Appendix A positive 1% threshold typo unresolved, no correction invented."
+    "K8171": "Dividend-decrease indicator; Appendix A positive 1% threshold typo unresolved, no correction invented.",
+    "A8172": "WERKYTKC",
+    "B8172": "h12",
+    "C8172": "hy1",
+    "K8172": "Time to dividend change in quarters."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
