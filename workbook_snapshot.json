@@ -36428,7 +36428,16 @@
     "L3645": "1",
     "M3645": "n/a",
     "N3645": "Implied violation on lead-arranger-connected and other-participant-connected independent-director counts; IA.XXI footnote20 p.2414 explicitly replicates Table VIII columns1–3. Level log1p cutoff implementations grouped with/without firm FE; FD counterpart h38.",
-    "O3645": "RD precedence: equation (3) implements a direct discontinuity at binding distance zero with side-specific polynomials in a narrow window. Firm/year FE address selection and heterogeneity but do not override the implemented cutoff design (prompt lines24,30,41). No instrumented receipt. Keep authors’ manipulation, heterogeneous thresholds and switcher-target limitations; this taxonomy does not assert random crossing. Final text explicitly identifies Table VIII columns1–3; implementation is not wholly unknown. Two connection outcomes grouped, no table-column grid or coefficients invented. Log1p scale inherited from explicitly replicated regression; unseen extra variants remain held."
+    "O3645": "RD precedence: equation (3) implements a direct discontinuity at binding distance zero with side-specific polynomials in a narrow window. Firm/year FE address selection and heterogeneity but do not override the implemented cutoff design (prompt lines24,30,41). No instrumented receipt. Keep authors’ manipulation, heterogeneous thresholds and switcher-target limitations; this taxonomy does not assert random crossing. Final text explicitly identifies Table VIII columns1–3; implementation is not wholly unknown. Two connection outcomes grouped, no table-column grid or coefficients invented. Log1p scale inherited from explicitly replicated regression; unseen extra variants remain held.",
+    "A3646": "WZZQX3TX",
+    "B3646": "h33",
+    "I3646": "1",
+    "J3646": "unknown",
+    "K3646": "1",
+    "L3646": "1",
+    "M3646": "unknown",
+    "N3646": "Implied covenant violations on board appointments with repeated/stronger firm-bank lending relationships, bank dependence, and covenant tightness at origination; IA.XXIV p.2419.",
+    "O3646": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Central mechanism also introduction p.2387. Violation is binary; moderator definitions/thresholds/timing and exact allocation held, not four invented models."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92200,7 +92209,14 @@
     "H8253": "0",
     "I8253": "unknown",
     "J8253": "log1p",
-    "K8253": "Number of independent directors connected through other participants; log1p inferred from explicitly replicated Table VIII."
+    "K8253": "Number of independent directors connected through other participants; log1p inferred from explicitly replicated Table VIII.",
+    "A8254": "WZZQX3TX",
+    "B8254": "h33",
+    "C8254": "hy1",
+    "H8254": "0",
+    "I8254": "unknown",
+    "J8254": "unknown",
+    "K8254": "Board appointments / independence; exact final scale unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
