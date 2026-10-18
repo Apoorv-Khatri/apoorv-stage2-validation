@@ -512589,3 +512589,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:19:39.074544+00:00 — Review QLFZQVZU s2: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1485",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1485",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1485",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1485",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s2 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I609",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O609",
+    "before": null,
+    "after": "Negative-book-equity inclusion and positive-retained-earnings restriction test sensitivity of return prediction to log/indicator coding. Neither the continuous ratio nor the nonpositive indicator is interpreted as a causal treatment. These are routine sample variants, not separate causal settings. Source: pp238–239; Table2 C; L625–647. Source: pp238–239; Table2 C; L625–647."
+  }
+]
+```
