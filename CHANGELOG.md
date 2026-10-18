@@ -564585,3 +564585,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:06:42.805978+00:00 — Review TS6H62KJ h29: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7899",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7899",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7899",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7899",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7899",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7899",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7899",
+    "before": null,
+    "after": "Monthly low-minus-high portfolio return, factor-adjusted contrast for fully unranked coskewness prediction construction, p.408. Monthly frequency and value-weighted 30% tails inherited from Section2/Table1 factor definition; p.408 does not reprint this construction or numerical units. No numeric alpha supplied, no annualized amount inferred; return is continuous, zero mass unknown, alpha not a separate outcome."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E80",
+    "before": null,
+    "after": "DONE — Full available-source review of 26 final-article pages, Appendix A and all figures, independent audit and targeted Table 1 omission review. Retain 49 setting scopes, 59 outcome records including inactive parameter duplicates, and 21 comparisons. Conventional two-pass GLS classified OLS-family under conditional reported-mean-return linearity, not a claim the author estimated OLS; PCA remains Other. Table 1 economically interpreted long-short risk premia, historical nulls and unranked variants included; own-series SD normalizations retained, market-mean comparison unaligned. Table 6 raw-mean comparisons have unknown alignment and are not attached to alphas. Sharpe-level performance comparisons excluded as lacking a separate causal-performance estimand; Table 7 spanning and unspecified forecast-only variants remain diagnostic. Preserve printed Daily beta_M2 mean/Sharpe contradiction and other source conflicts. Online Appendix unavailable; supplemental records are minimum supported scopes, not exact unseen grids. Original fields, IDs and links preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3435",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3435",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3435",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3435",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3435",
+    "before": null,
+    "after": "Low-minus-high predicted coskewness return contrast with BOTH predictors and dependent coskewness unranked in Eq.4, Section2.5.2 p.408 (layout lines728–739), unreported factor regression alphas all insignificant. Distinct construction from Table1 PSS (unranked), which un-ranks the dependent coskewness only. Minimum implemented return-adjustment scope; no numerical grid supplied."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3435",
+    "before": null,
+    "after": "Explicit all-alpha null is a risk-adjusted-return result under the accepted risk-compensation gate, not merely a forecasting correlation. Conditional linear return regression/contrast OLS; implemented low/high factor contrast binary. Supporting construction robustness main=0. No inferred alpha magnitudes, exact model grid, or supplement cells. Realized coskewness close to zero is diagnostic and not an added return outcome."
+  }
+]
+```

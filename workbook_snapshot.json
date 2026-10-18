@@ -377,6 +377,7 @@
     "B80": "Measuring skewness premia",
     "C80": "fin",
     "D80": 20,
+    "E80": "DONE — Full available-source review of 26 final-article pages, Appendix A and all figures, independent audit and targeted Table 1 omission review. Retain 49 setting scopes, 59 outcome records including inactive parameter duplicates, and 21 comparisons. Conventional two-pass GLS classified OLS-family under conditional reported-mean-return linearity, not a claim the author estimated OLS; PCA remains Other. Table 1 economically interpreted long-short risk premia, historical nulls and unranked variants included; own-series SD normalizations retained, market-mean comparison unaligned. Table 6 raw-mean comparisons have unknown alignment and are not attached to alphas. Sharpe-level performance comparisons excluded as lacking a separate causal-performance estimand; Table 7 spanning and unspecified forecast-only variants remain diagnostic. Preserve printed Daily beta_M2 mean/Sharpe contradiction and other source conflicts. Online Appendix unavailable; supplemental records are minimum supported scopes, not exact unseen grids. Original fields, IDs and links preserved.",
     "A81": "UK6BI2QX",
     "B81": "Nonfinancial Firms as Cross‐Market Arbitrageurs",
     "C81": "fin",
@@ -34157,7 +34158,16 @@
     "L3434": "0",
     "M3434": "n/a",
     "N3434": "Predicted raw coskewness from Eq.4 with unranked dependent coskewness but ranked predictors: bottom-30% minus top-30% value-weighted stock-return contrast, Table1 PSS (unranked) row p.404, economic interpretation pp.403–406. Raw mean and CAPM/four-/five-factor adjusted mean contrasts grouped as routine factor controls at this result location; annualized mean 2.52%, alphas 1.61, -0.95, 4.55% respectively.",
-    "O3434": "Author-intention gate: p.403 Eq.1 implies positive average long-short return as compensation for systematic skewness; retain nulls equally. OLS mean/intercept contrasts conditional on lagged sorting weights and observed factor paths; no identifying FE or IV. Binary refers to implemented low-versus-high group contrast, not continuous coskewness. Not a causal effect of forecasting predictors or a portfolio-rule intervention. Supporting construction robustness, not an independently central result."
+    "O3434": "Author-intention gate: p.403 Eq.1 implies positive average long-short return as compensation for systematic skewness; retain nulls equally. OLS mean/intercept contrasts conditional on lagged sorting weights and observed factor paths; no identifying FE or IV. Binary refers to implemented low-versus-high group contrast, not continuous coskewness. Not a causal effect of forecasting predictors or a portfolio-rule intervention. Supporting construction robustness, not an independently central result.",
+    "A3435": "TS6H62KJ",
+    "B3435": "h29",
+    "I3435": "1",
+    "J3435": "OLS",
+    "K3435": "1",
+    "L3435": "0",
+    "M3435": "n/a",
+    "N3435": "Low-minus-high predicted coskewness return contrast with BOTH predictors and dependent coskewness unranked in Eq.4, Section2.5.2 p.408 (layout lines728–739), unreported factor regression alphas all insignificant. Distinct construction from Table1 PSS (unranked), which un-ranks the dependent coskewness only. Minimum implemented return-adjustment scope; no numerical grid supplied.",
+    "O3435": "Explicit all-alpha null is a risk-adjusted-return result under the accepted risk-compensation gate, not merely a forecasting correlation. Conditional linear return regression/contrast OLS; implemented low/high factor contrast binary. Supporting construction robustness main=0. No inferred alpha magnitudes, exact model grid, or supplement cells. Realized coskewness close to zero is diagnostic and not an added return outcome."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87627,7 +87637,14 @@
     "H7898": "0",
     "I7898": "unknown",
     "J7898": "none",
-    "K7898": "Monthly long-minus-short portfolio excess return for PSS (unranked), July1963–December2017; monthly returns, with mean and regression alpha displayed annualized in percent in Table1 p.404. Return spread is not a log return or a daily outcome; daily/monthly in historical row names denotes estimation inputs. Continuous return; zero mass not established. Alpha is the factor-adjusted contrast, not a separate measured dependent outcome. Annualization is a scalar reporting conversion, not a cumulative annual realization."
+    "K7898": "Monthly long-minus-short portfolio excess return for PSS (unranked), July1963–December2017; monthly returns, with mean and regression alpha displayed annualized in percent in Table1 p.404. Return spread is not a log return or a daily outcome; daily/monthly in historical row names denotes estimation inputs. Continuous return; zero mass not established. Alpha is the factor-adjusted contrast, not a separate measured dependent outcome. Annualization is a scalar reporting conversion, not a cumulative annual realization.",
+    "A7899": "TS6H62KJ",
+    "B7899": "h29",
+    "C7899": "hy1",
+    "H7899": "0",
+    "I7899": "unknown",
+    "J7899": "none",
+    "K7899": "Monthly low-minus-high portfolio return, factor-adjusted contrast for fully unranked coskewness prediction construction, p.408. Monthly frequency and value-weighted 30% tails inherited from Section2/Table1 factor definition; p.408 does not reprint this construction or numerical units. No numeric alpha supplied, no annualized amount inferred; return is continuous, zero mass unknown, alpha not a separate outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
