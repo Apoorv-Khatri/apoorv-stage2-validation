@@ -32277,7 +32277,16 @@
     "L3272": "1",
     "M3272": "n/a",
     "N3272": "Largest bid-size quartile versus bottom half of bids: effect on normalized rationing; Table IX cols1–2 hot/cold subsamples, pp2333–2335. ",
-    "O3272": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Hotness is a subgroup, not the treatment; hot/cold revenue effects are not a DiD. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table IX cols1–2 hot/cold subsamples, pp2333–2335; article_layout.txt L1482–1578."
+    "O3272": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Hotness is a subgroup, not the treatment; hot/cold revenue effects are not a DiD. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table IX cols1–2 hot/cold subsamples, pp2333–2335; article_layout.txt L1482–1578.",
+    "A3273": "RQV5GQTL",
+    "B3273": "h49",
+    "I3273": "1",
+    "J3273": "FE",
+    "K3273": "1",
+    "L3273": "1",
+    "M3273": "n/a",
+    "N3273": "Second-largest bid-size quartile versus bottom half: effect on normalized rationing; Table IX cols1–2 hot/cold subsamples, pp2333–2335. ",
+    "O3273": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Hotness is a subgroup, not the treatment; hot/cold revenue effects are not a DiD. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table IX cols1–2 hot/cold subsamples, pp2333–2335; article_layout.txt L1482–1578."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -84346,7 +84355,14 @@
     "H7675": "0",
     "I7675": "unknown",
     "J7675": "none",
-    "K7675": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
+    "K7675": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated.",
+    "A7676": "RQV5GQTL",
+    "B7676": "h49",
+    "C7676": "hy1",
+    "H7676": "0",
+    "I7676": "unknown",
+    "J7676": "none",
+    "K7676": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
