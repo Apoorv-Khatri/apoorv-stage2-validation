@@ -30905,7 +30905,16 @@
     "L3146": "1",
     "M3146": "n/a",
     "N3146": "Market covariance risk-price effect on annual expected relative returns, Table5 column2, constrained ICAPM, duration-spread moments only.",
-    "O3146": "Eq13 and pp935–936 interpret compensation for covariance exposure as the mechanism generating risk premia; retain the substantive priced-risk parameter, including the CAPM boundary null. Footnote30 establishes pooled returns-on-covariances least squares with equality/inequality restrictions. Other is retained for the inequality-constrained estimator, whose active constraints make its map from reported outcomes nonlinear, not merely for a structural label or generated covariance regressors. Identical fitted coefficients in ICAPM_U do not make the implemented estimators identical. No IV or identifying FE. The column4 CAPM parameter is additionally pinned by the equity-premium equality; its boundary restriction belongs to the implemented constrained fit. No separate causal settings for H, gamma as preference outcome, or pricing-error diagnostics. Source: p935 Table5 col2 footnote30; L1116–1187."
+    "O3146": "Eq13 and pp935–936 interpret compensation for covariance exposure as the mechanism generating risk premia; retain the substantive priced-risk parameter, including the CAPM boundary null. Footnote30 establishes pooled returns-on-covariances least squares with equality/inequality restrictions. Other is retained for the inequality-constrained estimator, whose active constraints make its map from reported outcomes nonlinear, not merely for a structural label or generated covariance regressors. Identical fitted coefficients in ICAPM_U do not make the implemented estimators identical. No IV or identifying FE. The column4 CAPM parameter is additionally pinned by the equity-premium equality; its boundary restriction belongs to the implemented constrained fit. No separate causal settings for H, gamma as preference outcome, or pricing-error diagnostics. Source: p935 Table5 col2 footnote30; L1116–1187.",
+    "A3147": "QY4D7PCL",
+    "B3147": "h7",
+    "I3147": "1",
+    "J3147": "OLS",
+    "K3147": "0",
+    "L3147": "1",
+    "M3147": "n/a",
+    "N3147": "Reinvestment covariance risk-price effect on annual expected relative returns, Table5 column3, ICAPM_U without inequality restrictions, duration-spread moments only.",
+    "O3147": "Eq13 supplies the economic covariance-pricing interpretation. Footnote30 p935 explicitly implements pooled linear returns-on-covariances regressions and Fama–MacBeth inference. ICAPM_U removes inequality restrictions; column6 retains the linear equality matching the equity premium. Generated covariance regressors create estimation error/endogeneity, but no focal-outcome-selected matching weights or adaptive fitting rule is established beyond conventional generated-regressor asset-pricing regression. Code the implemented linear regression OLS, not Other solely because the regressors are estimated from returns or the interpretation is structural. No IV/identifying FE. Constrained columns remain separately coded Other for their inequality-restricted fitting rule. Source: p935 Table5 col3 footnote30; L1116–1187."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -81438,7 +81447,11 @@
     "A7488": "QY4D7PCL",
     "B7488": "h6",
     "C7488": "hy1",
-    "K7488": "Annual excess return on duration-portfolio spreads relative to decile1; covariance-price coefficients determine expected return. Joint equity-premium target additionally imposed where specified. Pricing errors are fit checks, not separate causal outcomes."
+    "K7488": "Annual excess return on duration-portfolio spreads relative to decile1; covariance-price coefficients determine expected return. Joint equity-premium target additionally imposed where specified. Pricing errors are fit checks, not separate causal outcomes.",
+    "A7489": "QY4D7PCL",
+    "B7489": "h7",
+    "C7489": "hy1",
+    "K7489": "Annual excess return on duration-portfolio spreads relative to decile1; covariance-price coefficients determine expected return. Joint equity-premium target additionally imposed where specified. Pricing errors are fit checks, not separate causal outcomes."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
