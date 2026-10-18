@@ -33102,7 +33102,16 @@
     "L3353": "1",
     "M3353": "n/a",
     "N3353": "Female × After × continuous RaceBiasPCA, Table5C; log 0.097 and share 0.004; conditional on Black interaction.",
-    "O3353": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Small cross-bias effect retained, not silently dropped for lack of significance on log outcome. Source: Article pp11–12 Table5C; layout L807–841,850–858."
+    "O3353": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Small cross-bias effect retained, not silently dropped for lack of significance on log outcome. Source: Article pp11–12 Table5C; layout L807–841,850–858.",
+    "A3354": "S9LRTRJP",
+    "B3354": "h4",
+    "I3354": "1",
+    "J3354": "DiD_conventional",
+    "K3354": "1",
+    "L3354": "1",
+    "M3354": "n/a",
+    "N3354": "Pre-COVID relationship sales-share quartile 2 versus quartile1 × After, Table5A/B/C cols2,4; repeated TableA2 cols3,7 not duplicated.",
+    "O3354": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Substantive interpretation: more important relationships face lower delay increases, Section6.3 p12. Sales share is customer sales divided by supplier total sales (not customer purchases). Explicit dummy contrast is binary although underlying share is continuous. Group routine bias-control variants across Table5 panels; contested granularity recorded. Main=1 recommendation: introduction p3 explicitly enumerates age, sales and distance and the substantive finding that less important relationships face larger delays. This materially supports the central interpretation after competing economic channels are examined, just as punishment does. Null individual contrasts remain in that family; not a significance-based designation. Parent should adjudicate this role disagreement. Source: Article p11 Table5 and p12; supplement p16 TableA2; article layout L878–908."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85853,7 +85862,21 @@
     "A7788": "S9LRTRJP",
     "B7788": "h3",
     "C7788": "hy2",
-    "K7788": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
+    "K7788": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator.",
+    "A7789": "S9LRTRJP",
+    "B7789": "h4",
+    "C7789": "hy1",
+    "H7789": "0",
+    "I7789": "unknown",
+    "J7789": "log1p",
+    "K7789": "Log(1+total past-due dollars) in buyer–supplier-month; full-amount outcome.",
+    "A7790": "S9LRTRJP",
+    "B7790": "h4",
+    "C7790": "hy2",
+    "H7790": "0",
+    "I7790": "unknown",
+    "J7790": "none",
+    "K7790": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
