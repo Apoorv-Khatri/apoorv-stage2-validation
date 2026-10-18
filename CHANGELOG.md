@@ -592230,3 +592230,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:46:16.694108+00:00 — Review WERKYTKC h20: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8180",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8180",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8180",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8180",
+    "before": null,
+    "after": "Own dividend-increase indicator, Table5 cols1-2 / Table4A, pp.556-557. AppendixA defines increase as proportional regular-cash-dividend change >=1%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3590",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3590",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3590",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3590",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3590",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3590",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3590",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3590",
+    "before": null,
+    "after": "Life-cycle stage included-regressor coefficient on own dividend-increase indicator, Table5 cols1-2 / Table4A, pp.556-557; estimates 0.016/0.014. Separate treatment parameter in the implemented joint linear IV equation, not a new regression."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3590",
+    "before": null,
+    "after": "Author-intention gate: pp.552,556 identify these as dividend determinants and discuss substantive effects/ranking, including nulls; C.1 pp.565-566 explicitly considers taxes/catering inducing dividend decisions. Included controls are not automatically excluded. Actual estimator is joint 2SLS/IV, with peer share endogenous and average peer idiosyncratic equity risk the sole excluded instrument. The focal included regressor is NOT instrumented by peer risk; its coefficient additionally relies on maintained included-regressor exogeneity. Method IV describes the implemented joint estimator, not a focal-treatment instrument or LATE. No unseen OLS/FE re-estimation inferred. Firm/time FE (firm only when time-only determinants replace time FE) remain subordinate to the implemented IV equation. Table5 is not duplicated for the peer parameter. Null life-cycle/institutional coefficients are included on the same determinant interpretation as significant coefficients. Section5.3 p.561 acknowledges unresolved direction among payout/leverage/investment: limitation on identification, not a retraction of the earlier determinant interpretation. Coefficients scaled by regressor SD; no outcome-mean/SD comparison."
+  }
+]
+```
