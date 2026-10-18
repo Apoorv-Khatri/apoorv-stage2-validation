@@ -35068,7 +35068,16 @@
     "L3520": "0",
     "M3520": "n/a",
     "N3520": "Syndicate-average bank wholesale funding dependence effect on2007–2008 loan price change, Table11 bank-control coefficients discussed footnote51,p.2225.",
-    "O3520": "Parameter-specific positive C&I and negative wholesale funding effects explicitly interpreted; numerical values not printed in main table and not imported from separately estimated Appendix IA.XX. Supporting banking mechanism."
+    "O3520": "Parameter-specific positive C&I and negative wholesale funding effects explicitly interpreted; numerical values not printed in main table and not imported from separately estimated Appendix IA.XX. Supporting banking mechanism.",
+    "A3521": "UUTLYHI2",
+    "B3521": "h27",
+    "I3521": "1",
+    "J3521": "FE",
+    "K3521": "0",
+    "L3521": "0",
+    "M3521": "n/a",
+    "N3521": "Lagged Tier1 capital/RWA effect on loan sale,IA.IV: excluding first-year/prearranged sales.",
+    "O3521": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Bank + loan-year FE two effective dimensions. Final pp.2205–2206/2215 explicitly establish implemented result. Supporting separately reported robustness; no invented additional variants. CDS status and prior relationships moderate capital effect rather than automatically being extra focal causal treatments. IA.VIII prints0.111(0.010) without stars for small banks; anomaly preserved."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89299,7 +89308,11 @@
     "A8045": "UUTLYHI2",
     "B8045": "h26",
     "C8045": "hy1",
-    "K8045": "Loan price (average bid-ask midpoint); Table11 outcome is average2008 minus average2007, Figures4/5 display daily price levels."
+    "K8045": "Loan price (average bid-ask midpoint); Table11 outcome is average2008 minus average2007, Figures4/5 display daily price levels.",
+    "A8046": "UUTLYHI2",
+    "B8046": "h27",
+    "C8046": "hy1",
+    "K8046": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
