@@ -35930,7 +35930,16 @@
     "L3601": "0",
     "M3601": "single continuous",
     "N3601": "Dividend tax rate included-regressor coefficient on own dividend-decrease indicator, TableC.2B check2; estimates 0%/0%. Separate treatment parameter in the implemented joint linear IV equation, not a new regression.",
-    "O3601": "Author-intention gate: pp.552,556 identify these as dividend determinants and discuss substantive effects/ranking, including nulls; C.1 pp.565-566 explicitly considers taxes/catering inducing dividend decisions. Included controls are not automatically excluded. Actual estimator is joint 2SLS/IV, with peer share endogenous and average peer idiosyncratic equity risk the sole excluded instrument. The focal included regressor is NOT instrumented by peer risk; its coefficient additionally relies on maintained included-regressor exogeneity. Method IV describes the implemented joint estimator, not a focal-treatment instrument or LATE. No unseen OLS/FE re-estimation inferred. Firm/time FE (firm only when time-only determinants replace time FE) remain subordinate to the implemented IV equation. Time FE removed to estimate the time-only determinant; firm FE retained. Tax rate/valuation-premium measure is a dose, not an implemented 2003 binary policy contrast; no DiD design claimed. Peer-share coefficient already covered by h14/h15. No linked outcome benchmark."
+    "O3601": "Author-intention gate: pp.552,556 identify these as dividend determinants and discuss substantive effects/ranking, including nulls; C.1 pp.565-566 explicitly considers taxes/catering inducing dividend decisions. Included controls are not automatically excluded. Actual estimator is joint 2SLS/IV, with peer share endogenous and average peer idiosyncratic equity risk the sole excluded instrument. The focal included regressor is NOT instrumented by peer risk; its coefficient additionally relies on maintained included-regressor exogeneity. Method IV describes the implemented joint estimator, not a focal-treatment instrument or LATE. No unseen OLS/FE re-estimation inferred. Firm/time FE (firm only when time-only determinants replace time FE) remain subordinate to the implemented IV equation. Time FE removed to estimate the time-only determinant; firm FE retained. Tax rate/valuation-premium measure is a dose, not an implemented 2003 binary policy contrast; no DiD design claimed. Peer-share coefficient already covered by h14/h15. No linked outcome benchmark.",
+    "A3602": "WERKYTKC",
+    "B3602": "h32",
+    "I3602": "1",
+    "J3602": "IV",
+    "K3602": "0",
+    "L3602": "0",
+    "M3602": "single continuous",
+    "N3602": "Baker-Wurgler catering measure included-regressor coefficient on own dividend-increase indicator, TableC.2A check4; estimates 4%/3%. Separate treatment parameter in the implemented joint linear IV equation, not a new regression.",
+    "O3602": "Author-intention gate: pp.552,556 identify these as dividend determinants and discuss substantive effects/ranking, including nulls; C.1 pp.565-566 explicitly considers taxes/catering inducing dividend decisions. Included controls are not automatically excluded. Actual estimator is joint 2SLS/IV, with peer share endogenous and average peer idiosyncratic equity risk the sole excluded instrument. The focal included regressor is NOT instrumented by peer risk; its coefficient additionally relies on maintained included-regressor exogeneity. Method IV describes the implemented joint estimator, not a focal-treatment instrument or LATE. No unseen OLS/FE re-estimation inferred. Firm/time FE (firm only when time-only determinants replace time FE) remain subordinate to the implemented IV equation. Time FE removed to estimate the time-only determinant; firm FE retained. Tax rate/valuation-premium measure is a dose, not an implemented 2003 binary policy contrast; no DiD design claimed. Peer-share coefficient already covered by h14/h15. No linked outcome benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91255,7 +91264,11 @@
     "A8191": "WERKYTKC",
     "B8191": "h31",
     "C8191": "hy1",
-    "K8191": "Own dividend-decrease indicator, TableC.2B check2. AppendixA prints decrease threshold <=positive1%; actual threshold unresolved."
+    "K8191": "Own dividend-decrease indicator, TableC.2B check2. AppendixA prints decrease threshold <=positive1%; actual threshold unresolved.",
+    "A8192": "WERKYTKC",
+    "B8192": "h32",
+    "C8192": "hy1",
+    "K8192": "Own dividend-increase indicator, TableC.2A check4. AppendixA defines increase as proportional regular-cash-dividend change >=1%."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
