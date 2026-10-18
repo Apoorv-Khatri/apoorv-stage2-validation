@@ -573165,3 +573165,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:35:21.872743+00:00 — Review UUTLYHI2 s3: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1840",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1842",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1840",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1842",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1840",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1842",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1840",
+    "before": null,
+    "after": "Inactive: y1 is diagnostic capital-relevance first stage (not implemented IV or separate substantive effect); y3 belongs to separately added syndicate-change DiD settings, not sale FE."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1842",
+    "before": null,
+    "after": "Inactive: y1 is diagnostic capital-relevance first stage (not implemented IV or separate substantive effect); y3 belongs to separately added syndicate-change DiD settings, not sale FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I765",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J765",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K765",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L765",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M765",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N765",
+    "before": null,
+    "after": "Basel III Tier1 capital shortfall effect on loan sale from 2012Q2 to 2012Q3, Table8 columns2–4 and7, within-loan linear cross-section with loan FE. Continuous negative shortfall; more negative means more missing capital."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O765",
+    "before": null,
+    "after": "Section2.4 calls overall strategy DiD, but sale outcome is post-shock indicator, not pre/post difference in sale rates. Loan FE is one identifying set; pre-event Loan Sale Propensity is a control, not an imposed differencing coefficient. Code actual FE implementation; no IV second stage. No-FE column5, binary MSR exposure, and actual change-in-nonbank-share regressions split. Column1 first-stage capital relevance is diagnostic-only; no independent retained capital outcome."
+  }
+]
+```
