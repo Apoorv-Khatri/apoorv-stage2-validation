@@ -589734,3 +589734,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:37:47.111848+00:00 — Review WERKYTKC s3: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K464",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K465",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R464",
+    "before": null,
+    "after": "Spurious cross-table comparison: separate descriptive Tables 2/3 are not deliberately linked to focal effect in Tables 4/6 or prose. Treatment-SD scaling and 16% proportional-change coefficient alone do not qualify. No outcome mean/SD paired with focal regression."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R465",
+    "before": null,
+    "after": "Spurious cross-table comparison: separate descriptive Tables 2/3 are not deliberately linked to focal effect in Tables 4/6 or prose. Treatment-SD scaling and 16% proportional-change coefficient alone do not qualify. No outcome mean/SD paired with focal regression."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1911",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1911",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1911",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1911",
+    "before": null,
+    "after": "Inactive after setting split; duplicate of h5/hy1. Original IDs and definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I782",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J782",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K782",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L782",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M782",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N782",
+    "before": null,
+    "after": "180-day SIC peer-increase share on time to dividend change in quarters, Table 6A. Nonannual/all-changer samples are routine variants; -1.48/-0.98 quarters. Table 6B payout-change outcome split to h5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O782",
+    "before": null,
+    "after": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables."
+  }
+]
+```
