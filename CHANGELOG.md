@@ -549351,3 +549351,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:52:07.317176+00:00 — Review S9LRTRJP s2: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1722",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1723",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1722",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1723",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1722",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1723",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1722",
+    "before": null,
+    "after": "Scope now Female treatment only; same joint Table4 regression outcome as Black setting h1. Footnote14 establishes zeros in baseline Table3, not necessarily the smaller Table4 estimation sample; exact-sample zero mass unknown for both female and Black effects."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1723",
+    "before": null,
+    "after": "Share of most recent credit sale past due in subsequent month (0–1 units), not a binary delinquency flag. Zero mass in this exact continuing-relationship estimation sample not established by a positive mean or by log1p elsewhere. Scope now Female treatment only; same outcomes copied under Black setting h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I693",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J693",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K693",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L693",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M693",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N693",
+    "before": null,
+    "after": "Female × After, Table4A/B, conditional on Black × After; retain female component of pooled model row; Black effect split to h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O693",
+    "before": null,
+    "after": "Conventional post-COVID differential change; method precedence overrides FE and OLS implementation. October 2019–May 2020; March onset in text versus caption saying after March is a source timing ambiguity, not silently repaired. Parallel counterfactual trends and no remaining differential shocks are maintained, not established by coding. Female and Black are distinct possibly overlapping indicators; not mutually exclusive assignment arms. Table4B Black null is not discarded. Source: Article pp8–9 Table4."
+  }
+]
+```
