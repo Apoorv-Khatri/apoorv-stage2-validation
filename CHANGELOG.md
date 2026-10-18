@@ -591864,3 +591864,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:45:01.824767+00:00 — Review WERKYTKC h16: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8176",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8176",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8176",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8176",
+    "before": null,
+    "after": "Own dividend-increase indicator in displayed C.7 grid; inference anchored to baseline 0.175 and discussion p.567, not a claim of unseen decrease results."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3586",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3586",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3586",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3586",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3586",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3586",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3586",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3586",
+    "before": null,
+    "after": "180-day SIC peer-increase share on own dividend-increase indicator under industry-size cutoffs/winsorization variants, Table C.7A, p.568. Baseline no-cutoff/1% cell repeats Table 5 and is not a new estimate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3586",
+    "before": null,
+    "after": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables. Separately reported sample-sensitivity result, variants grouped. Caption generic increase/decrease wording but single grid matches increase coefficients; no unseen decrease grid inferred. Panel B is mean/SD of TREATMENT, not outcome, so no qualifying comparisons."
+  }
+]
+```
