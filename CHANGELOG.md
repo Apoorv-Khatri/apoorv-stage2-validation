@@ -520977,3 +520977,246 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T04:12:54.548983+00:00 — Review QY4D7PCL h31: source-audited coding and linked comparisons
+
+39 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5194",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5195",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5194",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5195",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5194",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5195",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5194",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5195",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5194",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5195",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5194",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5195",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5194",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5195",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5194",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5195",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5194",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5195",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5194",
+    "before": null,
+    "after": "Table4A p934, VW r column: L-S annual-compounded mean contrast -8.8%, short-duration mean 13.3%. July1973–June2018; annual arithmetic excess returns, not Table2 monthly annualization or log-return slopes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5195",
+    "before": null,
+    "after": "Table4B p934, EW r column: L-S annual-compounded mean contrast -10.4%, short-duration mean 13.4%. July1973–June2018; annual arithmetic excess returns, not Table2 monthly annualization or log-return slopes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5194",
+    "before": null,
+    "after": "Eligible deliberate same-column contrast/component-mean pairing. Alignment unknown: observational duration contrast does not define a sufficiently explicit counterfactual target and weights for assigning the short-group mean to the target. Not automatically aligned by sharing the data. No computed ratio attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5195",
+    "before": null,
+    "after": "Eligible deliberate same-column contrast/component-mean pairing. Alignment unknown: observational duration contrast does not define a sufficiently explicit counterfactual target and weights for assigning the short-group mean to the target. Not automatically aligned by sharing the data. No computed ratio attributed to author."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7522",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7522",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7522",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7522",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7522",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7522",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7522",
+    "before": null,
+    "after": "Annual arithmetic excess return from compounding July-to-June portfolio returns; Table4 r column. Mean contrasts are not log returns: only the separate beta regressions use log returns. VW/EW variants."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E69",
+    "before": null,
+    "after": "DONE — Available-source review of all27 final article pages with independent audit. Retain38 settings,53 active outcomes and45 comparisons; reject alphabetical-score diagnostic and rounded duplicate comparison. Table5 unrestricted linear pricing classified OLS; constrained fits Other with restriction-specific caveats; unavailable EPP/llDur pricing implementation unknown. Table6 slope differences classified OLS on underlying log returns, not estimated-beta outcomes. Add Table4 annual-compounded return contrast separately from annualized monthly results. Group-mean alignment remains unknown; own-return-SD Sharpe normalizations aligned. Rolling20-year 4% comparison relinked. Printed signs, rounding and horizon qualifications preserved. No verified final supplement or older substitution; original fields,IDs and links preserved; completion scoped to available sources."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3171",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3171",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3171",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3171",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3171",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3171",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3171",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3171",
+    "before": null,
+    "after": "Long-minus-short Dur extreme-decile contrast in average annual compounded excess returns, Table4A/B r column; distinct from Table2 monthly-mean annualization and from Table4 shock slopes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3171",
+    "before": null,
+    "after": "Section4.2.1 p933 explicitly calculates average returns directly from July-to-June annual returns and interprets the 8.8% short-duration premium. Same economic duration gate as s1, but separately reported annual estimator/location. VW L-S -8.8%, EW -10.4%; no replacement of the Table2 -8.6%/-9.4% estimates. Binary implemented extreme-decile contrast, observational OLS, not matching. Source: pp933–934 Section4.2.1 Table4A/B; article_layout.txt L1107–1213."
+  }
+]
+```
