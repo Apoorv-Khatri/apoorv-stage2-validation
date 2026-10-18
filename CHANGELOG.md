@@ -555438,3 +555438,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:50:27.045964+00:00 — Review TE3D5NF5 s5: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1748",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1749",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1748",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1749",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1748",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1749",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1748",
+    "before": null,
+    "after": "Reported regression outcome is change from the matched baseline wave, not the underlying level indicator or plotted coefficient. Nonbinary change, transform=other (difference), zero mass unknown without matched-pair transition data. Underlying expectation indicator is 1 for prices increasing more, 0 otherwise; equation (9)/Figures 5,8,9."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1749",
+    "before": null,
+    "after": "Reported regression outcome is change from the matched baseline wave, not the underlying level indicator or plotted coefficient. Nonbinary change, transform=other (difference), zero mass unknown without matched-pair transition data. Underlying spending scale unresolved: p.1624 probability/percentage-point prose versus Figure 3 ordinal 1–3 scale. Do not silently assume a binary good-time indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J714",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M714",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N714",
+    "before": null,
+    "after": "German exposure to July 2013 and January 2014 ECB forward guidance versus matched UK/Swedish households, March 2013 baseline; changes in durable-spending readiness and higher-inflation expectations. Figure 5 right panels, equation (9), pp.1624–1626. Conventional matched DiD; Figures 2–4 and Table 5 provide pretrend/support/balance diagnostics, not extra treatment effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O714",
+    "before": null,
+    "after": "Matching is on gender, age, education, income and social status, first across countries within month and then across repeated cross-sections over time (p.1621). DiD takes precedence over matching and country FE. Country is one FE dimension; no HDFE, IV, modern-DiD or no-controls OLS split. Figure 5 legend says two-SE bounds; caption says one-SE. Spending scale conflicts between probability prose and Figure 3 ordinal levels remain unresolved."
+  }
+]
+```
