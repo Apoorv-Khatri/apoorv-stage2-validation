@@ -547725,3 +547725,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:32:13.915593+00:00 — Review S3X8G9NP h3: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7750",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7751",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7752",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7753",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7750",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7751",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7752",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7753",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7750",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7751",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7752",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7753",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7750",
+    "before": null,
+    "after": "Log total commercial-bank assets (dollars); counties without commercial banks omitted (p201 fn2). Table6 odd cols1,3,5,7, p212; layout L1008–1054"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7751",
+    "before": null,
+    "after": "Log total commercial-bank deposits (dollars). Table6 odd cols1,3,5,7, p212; layout L1008–1054"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7752",
+    "before": null,
+    "after": "Reported log number of investment banks; source does not specify zero-count handling. Do not infer log1p despite inclusion of counties without investment banks. Table6 odd cols1,3,5,7, p212; layout L1008–1054"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7753",
+    "before": null,
+    "after": "Indicator for at least one investment bank in county-year (0/1). Table6 odd cols1,3,5,7, p212; layout L1008–1054"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3340",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3340",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3340",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3340",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3340",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3340",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3340",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3340",
+    "before": null,
+    "after": "Third-to-fourth county subscription-rate change × post-1918, conditional on third rate; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Table6 odd cols1,3,5,7, p212; layout L1008–1054."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3340",
+    "before": null,
+    "after": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Keep null investment-bank outcomes (0.004 and 0.001) as substantive. County/year FE; conventional intensity DiD. Source: Table6 odd cols1,3,5,7, p212; layout L1008–1054."
+  }
+]
+```

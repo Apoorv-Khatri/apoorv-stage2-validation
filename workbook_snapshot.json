@@ -32933,7 +32933,16 @@
     "L3339": "1",
     "M3339": "n/a",
     "N3339": "Third county subscription rate × post-1918, conditional on third-to-fourth change; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Table6 odd cols1,3,5,7, p212; layout L1008–1054.",
-    "O3339": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Third subscription effect is of independent interest (p211 L963–967). Separate treatment from increment. County/year FE; conventional intensity DiD. Source: Table6 odd cols1,3,5,7, p212; layout L1008–1054."
+    "O3339": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Third subscription effect is of independent interest (p211 L963–967). Separate treatment from increment. County/year FE; conventional intensity DiD. Source: Table6 odd cols1,3,5,7, p212; layout L1008–1054.",
+    "A3340": "S3X8G9NP",
+    "B3340": "h3",
+    "I3340": "1",
+    "J3340": "DiD_conventional",
+    "K3340": "0",
+    "L3340": "1",
+    "M3340": "n/a",
+    "N3340": "Third-to-fourth county subscription-rate change × post-1918, conditional on third rate; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Table6 odd cols1,3,5,7, p212; layout L1008–1054.",
+    "O3340": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Keep null investment-bank outcomes (0.004 and 0.001) as substantive. County/year FE; conventional intensity DiD. Source: Table6 odd cols1,3,5,7, p212; layout L1008–1054."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85500,7 +85509,23 @@
     "A7749": "S3X8G9NP",
     "B7749": "h2",
     "C7749": "hy4",
-    "K7749": "Indicator for at least one investment bank in county-year (0/1). Table6 odd cols1,3,5,7, p212; layout L1008–1054"
+    "K7749": "Indicator for at least one investment bank in county-year (0/1). Table6 odd cols1,3,5,7, p212; layout L1008–1054",
+    "A7750": "S3X8G9NP",
+    "B7750": "h3",
+    "C7750": "hy1",
+    "K7750": "Log total commercial-bank assets (dollars); counties without commercial banks omitted (p201 fn2). Table6 odd cols1,3,5,7, p212; layout L1008–1054",
+    "A7751": "S3X8G9NP",
+    "B7751": "h3",
+    "C7751": "hy2",
+    "K7751": "Log total commercial-bank deposits (dollars). Table6 odd cols1,3,5,7, p212; layout L1008–1054",
+    "A7752": "S3X8G9NP",
+    "B7752": "h3",
+    "C7752": "hy3",
+    "K7752": "Reported log number of investment banks; source does not specify zero-count handling. Do not infer log1p despite inclusion of counties without investment banks. Table6 odd cols1,3,5,7, p212; layout L1008–1054",
+    "A7753": "S3X8G9NP",
+    "B7753": "h3",
+    "C7753": "hy4",
+    "K7753": "Indicator for at least one investment bank in county-year (0/1). Table6 odd cols1,3,5,7, p212; layout L1008–1054"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
