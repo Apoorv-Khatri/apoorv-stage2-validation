@@ -312,6 +312,7 @@
     "B67": "Momentum crashes",
     "C67": "fin",
     "D67": 12,
+    "E67": "DONE — Available-source review of all27 final article pages including AppendicesA-D with independent audit of all101 initial comparison candidates and one added allocation comparison. Retain25 of29 setting records,62 outcome records,and100 comparisons; one comparison rejected and one headline attribution unresolved. Broad author-intention gate retains conditional bear/rebound response parameters but not generic forecast/covariance diagnostics. Explicit portfolio-rule counterfactuals assume fixed price paths,price taking and stated cost/look-ahead limitations. Rule-choice contrasts binary; internal continuous weights not binary doses. Sharpe/skewness same-outcome rule levels coded other_level,not outcome-SD effects. Fixed50–50 linear rule classified regression adjustment. Market-plus-WML optimal allocation added. Figure4 horizon,Table3 numerical and headline1.19 conflicts preserved. No older substitute or invented supplement grids. Original fields,IDs and links preserved; completion scoped to available sources.",
     "A68": "QLFZQVZU",
     "B68": "Earnings, retained earnings, and book-to-market in the cross section of expected returns",
     "C68": "fin",
@@ -30741,7 +30742,16 @@
     "L3137": "1",
     "M3137": "n/a",
     "N3137": "Continuous contemporaneous market-return response under bear/up interactions; p240 Table10B. Preserve all regional/asset coefficients and nulls, including insignificant US in Table9B and most single-asset estimates in Table10B.",
-    "O3137": "Author-intention inclusion, not an identification endorsement. Introduction p222 explicitly says momentum crashes because of conditionally negative beta; p223 calls crashes driven by conditional beta and loser optionality; pp228–230 interpret these exact market-response slopes as short-call exposure generating losses on rebounds. These are causally interpreted observational OLS under the supplied broad criterion. No excluded IV, FE, randomized assignment, or demonstrated exogeneity. Source: p240 Table10B."
+    "O3137": "Author-intention inclusion, not an identification endorsement. Introduction p222 explicitly says momentum crashes because of conditionally negative beta; p223 calls crashes driven by conditional beta and loser optionality; pp228–230 interpret these exact market-response slopes as short-call exposure generating losses on rebounds. These are causally interpreted observational OLS under the supplied broad criterion. No excluded IV, FE, randomized assignment, or demonstrated exogeneity. Source: p240 Table10B.",
+    "A3138": "QCQ3E8DE",
+    "B3138": "h14",
+    "I3138": "1",
+    "J3138": "Other",
+    "K3138": "1",
+    "L3138": "0",
+    "M3138": "n/a",
+    "N3138": "Switch from market-only investment to ex post optimal combination of market and WML. Section2.2 explicitly reports combination Sharpe more than double market Sharpe. Full1927:01–2013:03 context; infeasible ex post optimization is a performance upper-bound, not implementable investor evidence.",
+    "O3138": "Explicitly recombines fixed return paths and attributes greater Sharpe to optimal combination. Nonlinear, outcome-adaptive optimization; price-taking, no-cost interpretation. Unlike descriptive decile comparisons, a changed allocation rule is stated. Source: p224 Section2.2 last paragraph."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80976,7 +80986,14 @@
     "H7476": "0",
     "I7476": "unknown",
     "J7476": "none",
-    "K7476": "Monthly global all-asset momentum strategy return (GAll). p240 Table10B."
+    "K7476": "Monthly global all-asset momentum strategy return (GAll). p240 Table10B.",
+    "A7477": "QCQ3E8DE",
+    "B7477": "h14",
+    "C7477": "hy1",
+    "H7477": "0",
+    "I7477": "unknown",
+    "J7477": "none",
+    "K7477": "Annualized Sharpe ratio of ex post optimal market-plus-WML combination, Section2.2 p224. Ratio itself is the measured policy outcome, not return-effect normalization."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -137967,7 +137984,18 @@
     "O5149": "0",
     "P5149": "n/a",
     "Q5149": "Table11A p241: fully dynamic GAll* skewness 0.44 versus unstar dynamic GAll skewness 0.20; same series coverage.",
-    "R5149": "Skewness is the focal policy-performance outcome; benchmark is the same statistic under the stated alternative rule, not a return SD or a different regression effect. other_level alignment is n/a. No division claimed."
+    "R5149": "Skewness is the focal policy-performance outcome; benchmark is the same statistic under the stated alternative rule, not a return SD or a different regression effect. other_level alignment is n/a. No division claimed.",
+    "A5150": "QCQ3E8DE",
+    "B5150": "h14",
+    "C5150": "hc1",
+    "K5150": "1",
+    "L5150": "hy1",
+    "M5150": "other_level",
+    "N5150": "1",
+    "O5150": "1",
+    "P5150": "n/a",
+    "Q5150": "p224 Section2.2: an ex post optimal combination of the market and WML portfolio has a Sharpe ratio more than double that of the market. Market Sharpe0.40 in adjacent prose (Table1 monthly-return Sharpe0.41); exact combination Sharpe not stated. Full1927:01–2013:03 context.",
+    "R5150": "Do not calculate or invent combination Sharpe. Retain source distinction between prose and Table1 market statistics; no automatic outcome_sd classification."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

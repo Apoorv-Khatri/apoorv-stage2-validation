@@ -512367,3 +512367,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:05:10.865392+00:00 — Review QCQ3E8DE h14: source-audited coding and linked comparisons
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5150",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5150",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5150",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5150",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5150",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5150",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5150",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5150",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5150",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5150",
+    "before": null,
+    "after": "p224 Section2.2: an ex post optimal combination of the market and WML portfolio has a Sharpe ratio more than double that of the market. Market Sharpe0.40 in adjacent prose (Table1 monthly-return Sharpe0.41); exact combination Sharpe not stated. Full1927:01–2013:03 context."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5150",
+    "before": null,
+    "after": "Do not calculate or invent combination Sharpe. Retain source distinction between prose and Table1 market statistics; no automatic outcome_sd classification."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7477",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7477",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7477",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7477",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7477",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7477",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7477",
+    "before": null,
+    "after": "Annualized Sharpe ratio of ex post optimal market-plus-WML combination, Section2.2 p224. Ratio itself is the measured policy outcome, not return-effect normalization."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E67",
+    "before": null,
+    "after": "DONE — Available-source review of all27 final article pages including AppendicesA-D with independent audit of all101 initial comparison candidates and one added allocation comparison. Retain25 of29 setting records,62 outcome records,and100 comparisons; one comparison rejected and one headline attribution unresolved. Broad author-intention gate retains conditional bear/rebound response parameters but not generic forecast/covariance diagnostics. Explicit portfolio-rule counterfactuals assume fixed price paths,price taking and stated cost/look-ahead limitations. Rule-choice contrasts binary; internal continuous weights not binary doses. Sharpe/skewness same-outcome rule levels coded other_level,not outcome-SD effects. Fixed50–50 linear rule classified regression adjustment. Market-plus-WML optimal allocation added. Figure4 horizon,Table3 numerical and headline1.19 conflicts preserved. No older substitute or invented supplement grids. Original fields,IDs and links preserved; completion scoped to available sources."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3138",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3138",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3138",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3138",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3138",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3138",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3138",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3138",
+    "before": null,
+    "after": "Switch from market-only investment to ex post optimal combination of market and WML. Section2.2 explicitly reports combination Sharpe more than double market Sharpe. Full1927:01–2013:03 context; infeasible ex post optimization is a performance upper-bound, not implementable investor evidence."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3138",
+    "before": null,
+    "after": "Explicitly recombines fixed return paths and attributes greater Sharpe to optimal combination. Nonlinear, outcome-adaptive optimization; price-taking, no-cost interpretation. Unlike descriptive decile comparisons, a changed allocation rule is stated. Source: p224 Section2.2 last paragraph."
+  }
+]
+```
