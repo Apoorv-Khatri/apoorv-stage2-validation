@@ -36090,7 +36090,16 @@
     "L3614": "1",
     "M3614": "unknown",
     "N3614": "Industry performance on forced CEO dismissal in small-firm samples; final Section IV.A p.2175 and footnote 14.",
-    "O3614": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. Distinct separately reported supporting exclusion of oligopoly mechanism, central in introduction p.2157. Sample definitions and estimator unverified in final supplement; no fabricated two-table split."
+    "O3614": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. Distinct separately reported supporting exclusion of oligopoly mechanism, central in introduction p.2157. Sample definitions and estimator unverified in final supplement; no fabricated two-table split.",
+    "A3615": "WM5RSIHQ",
+    "B3615": "h12",
+    "I3615": "1",
+    "J3615": "unknown",
+    "K3615": "0",
+    "L3615": "1",
+    "M3615": "unknown",
+    "N3615": "Industry performance effect on forced CEO turnover by CEO tenure up to four years, five–eight years, and more than eight years; final Section IV.B p.2179.",
+    "O3615": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. Main null in introduction p.2157. Continuous performance remains treatment, tenure is moderator; precise estimator not restated."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91481,7 +91490,11 @@
     "A8206": "WM5RSIHQ",
     "B8206": "h11",
     "C8206": "hy1",
-    "K8206": "Forced CEO dismissal outcome; final prose establishes the turnover response, but exact estimator and reported outcome scale are unresolved. Do not assume a Cox hazard or logit probability."
+    "K8206": "Forced CEO dismissal outcome; final prose establishes the turnover response, but exact estimator and reported outcome scale are unresolved. Do not assume a Cox hazard or logit probability.",
+    "A8207": "WM5RSIHQ",
+    "B8207": "h12",
+    "C8207": "hy1",
+    "K8207": "Forced CEO dismissal outcome; final prose establishes the turnover response, but exact estimator and reported outcome scale are unresolved. Do not assume a Cox hazard or logit probability."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
