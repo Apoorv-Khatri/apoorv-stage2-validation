@@ -31613,7 +31613,16 @@
     "L3210": "1",
     "M3210": "n/a",
     "N3210": "Precrisis low-quality/government-controlled bank status × crisis exposure and lending outcomes, GIIPS banks, Section A1.1.",
-    "O3210": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Final p2869 explicitly identifies a standard difference-in-differences setting; p2875 supplies both the risk-shifting result and substantive government-controlled null. Group exposure is binary; do not treat Crisis alone as treatment. Exact reference group and interactions pending appendix. Source: pp2869/2875 L880–883,1277–1296 Section A1.1."
+    "O3210": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Final p2869 explicitly identifies a standard difference-in-differences setting; p2875 supplies both the risk-shifting result and substantive government-controlled null. Group exposure is binary; do not treat Crisis alone as treatment. Exact reference group and interactions pending appendix. Source: pp2869/2875 L880–883,1277–1296 Section A1.1.",
+    "A3211": "RDVTTVCR",
+    "B3211": "h29",
+    "I3211": "1",
+    "J3211": "unknown",
+    "K3211": "0",
+    "L3211": "0",
+    "M3211": "unknown",
+    "N3211": "Indirect GIIPS Sov Risk and firm policies in less restrictive FE specifications, Table A11.",
+    "O3211": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2880 fn20 L1596–1599."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -83044,7 +83053,13 @@
     "H7598": "unknown",
     "I7598": "unknown",
     "J7598": "unknown",
-    "K7598": "Lending outcome(s) in conventional DiD; exact dependent-variable construction and full reported outcome set unavailable."
+    "K7598": "Lending outcome(s) in conventional DiD; exact dependent-variable construction and full reported outcome set unavailable.",
+    "A7599": "RDVTTVCR",
+    "B7599": "h29",
+    "C7599": "hy1",
+    "I7599": "unknown",
+    "J7599": "unknown",
+    "K7599": "Financial and real outcomes in baseline robustness; exact subset and FE/OLS splits not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
