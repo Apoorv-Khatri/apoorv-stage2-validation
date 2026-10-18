@@ -573264,3 +573264,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:35:41.940539+00:00 — Review UUTLYHI2 s4: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K428",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R428",
+    "before": null,
+    "after": "Wrong treatment parent after split: unstable nonbank share comparison now h17/hc1; s4 retained for total-share loan setting. Original ID remains rejected, not overwritten."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1845",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1846",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1845",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1846",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1845",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1846",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1845",
+    "before": null,
+    "after": "Inactive under loan-level parent; firm outcomes linked to separately added firm-exposure setting."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1846",
+    "before": null,
+    "after": "Inactive under loan-level parent; firm outcomes linked to separately added firm-exposure setting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J766",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K766",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M766",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N766",
+    "before": null,
+    "after": "Total precrisis nonbank share effect on loan-level symmetric credit growth and loan exit, Table10.A/B column1, 2006Q4 to2008Q4. Stable/unstable and firm-level exposures split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O766",
+    "before": null,
+    "after": "Equation2/pp.2215–2219 explicitly interpreted credit-supply effects despite nonrandom exposure. OLS, not DiD merely because growth outcome spans crisis; no parallel-trends design asserted here. Industry controls address observed quality; no separate identifying-FE argument. Continuous share, not binary exposure."
+  }
+]
+```
