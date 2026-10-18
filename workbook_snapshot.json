@@ -35194,7 +35194,16 @@
     "L3534": "0",
     "M3534": "n/a",
     "N3534": "Basel III total capital shortfall effect on loan sale2012Q2–Q3,IA.XIII.B.",
-    "O3534": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote36 confirms total-capital shock result. One loan FE set, same post-sale implementation as s3; not automatically DiD."
+    "O3534": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote36 confirms total-capital shock result. One loan FE set, same post-sale implementation as s3; not automatically DiD.",
+    "A3535": "UUTLYHI2",
+    "B3535": "h41",
+    "I3535": "1",
+    "J3535": "DiD_conventional",
+    "K3535": "0",
+    "L3535": "0",
+    "M3535": "n/a",
+    "N3535": "equally weighted mean syndicate Basel III Tier1 shortfall effect on nonbank share change,IA.XIII.D.",
+    "O3535": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote36 and appendix caption establish change outcome; visually verified panelD heading includes delta (lost by text extraction). Same conventional DiD as Table8. Distinct aggregated treatment, no exact publisher final numerical claim."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89481,7 +89490,11 @@
     "A8059": "UUTLYHI2",
     "B8059": "h40",
     "C8059": "hy1",
-    "K8059": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
+    "K8059": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period.",
+    "A8060": "UUTLYHI2",
+    "B8060": "h41",
+    "C8060": "hy1",
+    "K8060": "Change in syndicate nonbank share around announcement; IA.XIII.D delta visually verified despite missing extracted symbol."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

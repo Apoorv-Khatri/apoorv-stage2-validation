@@ -577323,3 +577323,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:49:49.276201+00:00 — Review UUTLYHI2 h41: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8060",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8060",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8060",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8060",
+    "before": null,
+    "after": "Change in syndicate nonbank share around announcement; IA.XIII.D delta visually verified despite missing extracted symbol."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3535",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3535",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3535",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3535",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3535",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3535",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3535",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3535",
+    "before": null,
+    "after": "equally weighted mean syndicate Basel III Tier1 shortfall effect on nonbank share change,IA.XIII.D."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3535",
+    "before": null,
+    "after": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote36 and appendix caption establish change outcome; visually verified panelD heading includes delta (lost by text extraction). Same conventional DiD as Table8. Distinct aggregated treatment, no exact publisher final numerical claim."
+  }
+]
+```
