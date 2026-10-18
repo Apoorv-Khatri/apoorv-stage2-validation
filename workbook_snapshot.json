@@ -32718,7 +32718,16 @@
     "L3321": "0",
     "M3321": "n/a",
     "N3321": "Revenue quartile 4 versus no-revenue investors (quartile 1 highest, quartile 4 lowest): effect on expected bid profitability; Table X col3, pp2335–2337. ",
-    "O3321": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + bank + investor FE: three distinct nonnested dimensions. Identification argument pp2331–2333 controls persistent investor information/size and bank/IPO heterogeneity. HDFE does not require authors to use that acronym. Generated outcome does not itself make the final linear estimator IV or nonlinear. Supporting parameter-specific contrast, not promoted solely by location. Source: Table X col3, pp2335–2337; article_layout.txt L1579–1708."
+    "O3321": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + bank + investor FE: three distinct nonnested dimensions. Identification argument pp2331–2333 controls persistent investor information/size and bank/IPO heterogeneity. HDFE does not require authors to use that acronym. Generated outcome does not itself make the final linear estimator IV or nonlinear. Supporting parameter-specific contrast, not promoted solely by location. Source: Table X col3, pp2335–2337; article_layout.txt L1579–1708.",
+    "A3322": "RQV5GQTL",
+    "B3322": "h98",
+    "I3322": "1",
+    "J3322": "FE",
+    "K3322": "1",
+    "L3322": "0",
+    "M3322": "n/a",
+    "N3322": "Largest bid-size quartile versus bottom half of bids: effect on expected bid profitability; Table X col4, pp2335–2337. ",
+    "O3322": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + investor-bank pair FE: two effective dimensions. Bank and investor main effects are nested in pair FE, including cumulative Yes rows in TableVIII; FE, not HDFE. Revenue nulls remain substantive; do not discard them or infer the main claim fails the causal-intention gate. Supporting parameter-specific contrast, not promoted solely by location. Source: Table X col4, pp2335–2337; article_layout.txt L1579–1708."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85130,7 +85139,14 @@
     "H7724": "0",
     "I7724": "unknown",
     "J7724": "none",
-    "K7724": "Expected profitability of bid: shares allocated times fitted expected first-day return divided by bid size (p2335). Constructed level, no log/SD transform. Exact return scaling is not reconciled: Eq2 prose calls underpricing a price ratio, whereas TableV defines net return and TableX says price increase. Do not invent percent versus percentage-point units. Observed zero mass is unknown."
+    "K7724": "Expected profitability of bid: shares allocated times fitted expected first-day return divided by bid size (p2335). Constructed level, no log/SD transform. Exact return scaling is not reconciled: Eq2 prose calls underpricing a price ratio, whereas TableV defines net return and TableX says price increase. Do not invent percent versus percentage-point units. Observed zero mass is unknown.",
+    "A7725": "RQV5GQTL",
+    "B7725": "h98",
+    "C7725": "hy1",
+    "H7725": "0",
+    "I7725": "unknown",
+    "J7725": "none",
+    "K7725": "Expected profitability of bid: shares allocated times fitted expected first-day return divided by bid size (p2335). Constructed level, no log/SD transform. Exact return scaling is not reconciled: Eq2 prose calls underpricing a price ratio, whereas TableV defines net return and TableX says price increase. Do not invent percent versus percentage-point units. Observed zero mass is unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
