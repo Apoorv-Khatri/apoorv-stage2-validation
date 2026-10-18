@@ -556236,3 +556236,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:55:40.391097+00:00 — Review TE3D5NF5 h6: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7853",
+    "before": null,
+    "after": "TE3D5NF5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7853",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7853",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7853",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7853",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7853",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7853",
+    "before": null,
+    "after": "Spending propensity by renters/owners, p.1638 fn.28; exact dependent encoding and estimator not established."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E78",
+    "before": null,
+    "after": "DONE — Full available-source review of 46 final-article pages with independent audit. Retain 13 setting scopes and 16 outcomes; reject all three original comparisons because the purported 21.85% benchmark links are unsupported. Final supplement unavailable; January 2021 manuscript not substituted. Section 3 nonlinear associations retained under explicit intervention interpretation, not certified exogenous effects. Auxiliary aggregate OLS mapping retained as supporting; policy matched-change outcomes coded conventional DiD and nonbinary differenced outcomes, with unresolved underlying spending encoding and zero mass. h6 housing-group robustness retained narrowly with unknown implementation and outcome labels; separate regressions not asserted. Appendix scopes are minimum final-prose-supported records, not exact grids. Preserve reported 4.8% and input-product discrepancy, Table 4 percentage conflict and Figure 5 uncertainty-label conflict without repairing source values. Original fields, IDs and links preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3396",
+    "before": null,
+    "after": "TE3D5NF5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3396",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3396",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3396",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3396",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3396",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3396",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3396",
+    "before": null,
+    "after": "Higher-inflation expectations and durable-spending propensities compared across renters and homeowners; p.1638 footnote 28 reports similar associations. Exact estimator and whether separate regressions were used are not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3396",
+    "before": null,
+    "after": "Broad mechanism-gate inclusion is provisional: final prose establishes empirical comparison but not exact estimator or table. Binary expectation contrast inferred from established section 3 regressor; do not assert multinomial logit or a coefficient without final implementation evidence. Housing-confound supporting result."
+  }
+]
+```

@@ -367,6 +367,7 @@
     "B78": "Managing Households’ Expectations with Unconventional Policies",
     "C78": "fin",
     "D78": 7,
+    "E78": "DONE — Full available-source review of 46 final-article pages with independent audit. Retain 13 setting scopes and 16 outcomes; reject all three original comparisons because the purported 21.85% benchmark links are unsupported. Final supplement unavailable; January 2021 manuscript not substituted. Section 3 nonlinear associations retained under explicit intervention interpretation, not certified exogenous effects. Auxiliary aggregate OLS mapping retained as supporting; policy matched-change outcomes coded conventional DiD and nonbinary differenced outcomes, with unresolved underlying spending encoding and zero mass. h6 housing-group robustness retained narrowly with unknown implementation and outcome labels; separate regressions not asserted. Appendix scopes are minimum final-prose-supported records, not exact grids. Preserve reported 4.8% and input-product discrepancy, Table 4 percentage conflict and Figure 5 uncertainty-label conflict without repairing source values. Original fields, IDs and links preserved.",
     "A79": "TRCRCTBB",
     "B79": "Information Asymmetry, Mispricing, and Security Issuance",
     "C79": "fin",
@@ -33602,7 +33603,16 @@
     "L3395": "1",
     "M3395": "n/a",
     "N3395": "Forward-guidance effects on changes in spending propensities and inflation expectations across demographic groups; final article p.1630 reports implemented Internet Appendix heterogeneity tests and no significant response, including college graduates.",
-    "O3395": "Section 6 establishes continuation of matched policy DiD. One minimum source-scope record for two outcomes; final supplement unavailable, exact figures/groups and further location splits unresolved. Central null across demographics also highlighted in intro p.1602; no invented appendix coefficients."
+    "O3395": "Section 6 establishes continuation of matched policy DiD. One minimum source-scope record for two outcomes; final supplement unavailable, exact figures/groups and further location splits unresolved. Central null across demographics also highlighted in intro p.1602; no invented appendix coefficients.",
+    "A3396": "TE3D5NF5",
+    "B3396": "h6",
+    "I3396": "1",
+    "J3396": "unknown",
+    "K3396": "1",
+    "L3396": "0",
+    "M3396": "unknown",
+    "N3396": "Higher-inflation expectations and durable-spending propensities compared across renters and homeowners; p.1638 footnote 28 reports similar associations. Exact estimator and whether separate regressions were used are not established.",
+    "O3396": "Broad mechanism-gate inclusion is provisional: final prose establishes empirical comparison but not exact estimator or table. Binary expectation contrast inferred from established section 3 regressor; do not assert multinomial logit or a coefficient without final implementation evidence. Housing-confound supporting result."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86747,7 +86757,14 @@
     "H7852": "0",
     "I7852": "unknown",
     "J7852": "other",
-    "K7852": "Change in higher-inflation expectations in demographic forward-guidance DiD, p.1630. Underlying binary expectation indicator; differenced outcome nonbinary, exact appendix implementation unavailable."
+    "K7852": "Change in higher-inflation expectations in demographic forward-guidance DiD, p.1630. Underlying binary expectation indicator; differenced outcome nonbinary, exact appendix implementation unavailable.",
+    "A7853": "TE3D5NF5",
+    "B7853": "h6",
+    "C7853": "hy1",
+    "H7853": "unknown",
+    "I7853": "unknown",
+    "J7853": "unknown",
+    "K7853": "Spending propensity by renters/owners, p.1638 fn.28; exact dependent encoding and estimator not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
