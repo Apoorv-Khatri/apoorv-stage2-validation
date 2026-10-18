@@ -555537,3 +555537,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:51:14.842246+00:00 — Review TE3D5NF5 s6: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1750",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1750",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1750",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1750",
+    "before": null,
+    "after": "Reported regression outcome is change from the matched baseline wave, not the underlying level indicator or plotted coefficient. Nonbinary change, transform=other (difference), zero mass unknown without matched-pair transition data. Underlying spending scale unresolved: p.1624 probability/percentage-point prose versus Figure 3 ordinal 1–3 scale. Do not silently assume a binary good-time indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J715",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M715",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N715",
+    "before": null,
+    "after": "VAT announcement effects on changes in durable-spending readiness by education, gender, income expectations, age and socioeconomic status; Figure 6, pp.1626–1628, matched conventional DiD. Figure 7 financial-constraint results separated as h3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O715",
+    "before": null,
+    "after": "Main=1: intro p.1602 and conclusion pp.1638–1639 emphasize demographic universality. Repeated-cross-section subgroup timing not established as predetermined. No subgroup-specific coefficients invented."
+  }
+]
+```
