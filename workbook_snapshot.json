@@ -31424,7 +31424,16 @@
     "L3189": "1",
     "M3189": "n/a",
     "N3189": "Aggregate employment and sales losses attributed to lender risk: counterfactual move of each above-threshold firm to 5th-percentile risk (10th in robustness), non-GIIPS domestic and GIIPS outward-exposed samples, Section4.4.",
-    "O3189": "Eq6 changes continuous risk using estimated regression slope; Eq7 converts fitted and counterfactual growth to employment levels and sums losses. Nonlinear growth-to-level aggregate counterfactual, not a new IV or binary receipt effect. Sales described as analogous; exact sales implementation not displayed. Partial equilibrium assumes least-affected syndicate did not shift supply and total effects add across firms. Main: abstract 44%–66%. Source: Section4.4 pp2891–2894 Eqs6–8; L2164–2188,2282–2368."
+    "O3189": "Eq6 changes continuous risk using estimated regression slope; Eq7 converts fitted and counterfactual growth to employment levels and sums losses. Nonlinear growth-to-level aggregate counterfactual, not a new IV or binary receipt effect. Sales described as analogous; exact sales implementation not displayed. Partial equilibrium assumes least-affected syndicate did not shift supply and total effects add across firms. Main: abstract 44%–66%. Source: Section4.4 pp2891–2894 Eqs6–8; L2164–2188,2282–2368.",
+    "A3190": "RDVTTVCR",
+    "B3190": "h8",
+    "I3190": "1",
+    "J3190": "unknown",
+    "K3190": "0",
+    "L3190": "1",
+    "M3190": "unknown",
+    "N3190": "Aggregate investment loss under least-affected-syndicate counterfactual, Section4.4; same two samples and 5th/10th-percentile risk reference.",
+    "O3190": "Investment aggregation is said to be similar but formula for translating CAPX ratio to aggregate investment is not displayed. Underlying HDFE slope is known; full aggregate implementation could remain linear HDFE imputation or require additional nonlinear scaling. Unknown, not Other as uncertainty. Do not infer a coefficient or full weighting rule. Source: Section4.4 pp2891–2894 Eqs6–8; L2164–2188,2282–2368."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82648,7 +82657,11 @@
     "A7563": "RDVTTVCR",
     "B7563": "h7",
     "C7563": "hy2",
-    "K7563": "Aggregate sales loss over 2010–2012 attributable to bank lending shock; analogous growth-to-level calculation stated, exact formula not displayed."
+    "K7563": "Aggregate sales loss over 2010–2012 attributable to bank lending shock; analogous growth-to-level calculation stated, exact formula not displayed.",
+    "A7564": "RDVTTVCR",
+    "B7564": "h8",
+    "C7564": "hy1",
+    "K7564": "Aggregate investment loss over 2010–2012 attributable to bank lending shock; exact transformation from estimated CAPX rate not supplied."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -140385,7 +140398,29 @@
     "O5201": "1",
     "P5201": "n/a",
     "Q5201": "p2893 Section4.4 Eqs7–8; GIIPS firms with high revenue from non-GIIPS subsidiaries: aggregate bank-lending-shock sales loss accounts for 61% of the observed total 3.6% sales decline over the crisis. Benchmark is total sample net change, not an untreated mean. Authors report share of total decline; no implied effect computed here.",
-    "R5201": "Separate aggregate estimand from Table4 individual growth coefficients. Total observed outcome change qualifies as other same-outcome level; eligibility is contested if taxonomy disallows aggregates of changes."
+    "R5201": "Separate aggregate estimand from Table4 individual growth coefficients. Total observed outcome change qualifies as other same-outcome level; eligibility is contested if taxonomy disallows aggregates of changes.",
+    "A5202": "RDVTTVCR",
+    "B5202": "h8",
+    "C5202": "hc1",
+    "K5202": "1",
+    "L5202": "hy1",
+    "M5202": "other_level",
+    "N5202": "1",
+    "O5202": "1",
+    "P5202": "n/a",
+    "Q5202": "p2893 Section4.4 Eqs7–8; non-GIIPS firms without GIIPS/other non-EU subsidiaries: aggregate bank-lending-shock investment loss accounts for 46% of the observed total 2% investment decline over the crisis. Benchmark is total sample net change, not an untreated mean. Authors report share of total decline; no implied effect computed here.",
+    "R5202": "Separate aggregate estimand from Table4 individual growth coefficients. Total observed outcome change qualifies as other same-outcome level; eligibility is contested if taxonomy disallows aggregates of changes.",
+    "A5203": "RDVTTVCR",
+    "B5203": "h8",
+    "C5203": "hc2",
+    "K5203": "1",
+    "L5203": "hy1",
+    "M5203": "other_level",
+    "N5203": "1",
+    "O5203": "1",
+    "P5203": "n/a",
+    "Q5203": "p2893 Section4.4 Eqs7–8; GIIPS firms with high revenue from non-GIIPS subsidiaries: aggregate bank-lending-shock investment loss accounts for 62% of the observed total 13% investment decline over the crisis. Benchmark is total sample net change, not an untreated mean. Authors report share of total decline; no implied effect computed here.",
+    "R5203": "Separate aggregate estimand from Table4 individual growth coefficients. Total observed outcome change qualifies as other same-outcome level; eligibility is contested if taxonomy disallows aggregates of changes."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

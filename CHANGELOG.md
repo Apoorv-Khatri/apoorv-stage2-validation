@@ -527793,3 +527793,222 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T09:18:37.501812+00:00 — Review RDVTTVCR h8: source-audited coding and linked comparisons
+
+35 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5202",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5203",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5202",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5203",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5202",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5203",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5203",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5202",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5203",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5202",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5203",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5203",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5203",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5202",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5203",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5202",
+    "before": null,
+    "after": "p2893 Section4.4 Eqs7–8; non-GIIPS firms without GIIPS/other non-EU subsidiaries: aggregate bank-lending-shock investment loss accounts for 46% of the observed total 2% investment decline over the crisis. Benchmark is total sample net change, not an untreated mean. Authors report share of total decline; no implied effect computed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5203",
+    "before": null,
+    "after": "p2893 Section4.4 Eqs7–8; GIIPS firms with high revenue from non-GIIPS subsidiaries: aggregate bank-lending-shock investment loss accounts for 62% of the observed total 13% investment decline over the crisis. Benchmark is total sample net change, not an untreated mean. Authors report share of total decline; no implied effect computed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5202",
+    "before": null,
+    "after": "Separate aggregate estimand from Table4 individual growth coefficients. Total observed outcome change qualifies as other same-outcome level; eligibility is contested if taxonomy disallows aggregates of changes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5203",
+    "before": null,
+    "after": "Separate aggregate estimand from Table4 individual growth coefficients. Total observed outcome change qualifies as other same-outcome level; eligibility is contested if taxonomy disallows aggregates of changes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7564",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7564",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7564",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7564",
+    "before": null,
+    "after": "Aggregate investment loss over 2010–2012 attributable to bank lending shock; exact transformation from estimated CAPX rate not supplied."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3190",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3190",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3190",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3190",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3190",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3190",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3190",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3190",
+    "before": null,
+    "after": "Aggregate investment loss under least-affected-syndicate counterfactual, Section4.4; same two samples and 5th/10th-percentile risk reference."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3190",
+    "before": null,
+    "after": "Investment aggregation is said to be similar but formula for translating CAPX ratio to aggregate investment is not displayed. Underlying HDFE slope is known; full aggregate implementation could remain linear HDFE imputation or require additional nonlinear scaling. Unknown, not Other as uncertainty. Do not infer a coefficient or full weighting rule. Source: Section4.4 pp2891–2894 Eqs6–8; L2164–2188,2282–2368."
+  }
+]
+```
