@@ -32250,7 +32250,16 @@
     "L3269": "1",
     "M3269": "n/a",
     "N3269": "Revenue quartile 2 versus no-revenue investors (quartile 1 highest, quartile 4 lowest): effect on normalized rationing; Table VIII col2, pp2331–2333. ",
-    "O3269": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + investor-bank pair FE: two effective dimensions. Bank and investor main effects are nested in pair FE, including cumulative Yes rows in TableVIII; FE, not HDFE. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table VIII col2, pp2331–2333; article_layout.txt L1367–1479."
+    "O3269": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + investor-bank pair FE: two effective dimensions. Bank and investor main effects are nested in pair FE, including cumulative Yes rows in TableVIII; FE, not HDFE. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table VIII col2, pp2331–2333; article_layout.txt L1367–1479.",
+    "A3270": "RQV5GQTL",
+    "B3270": "h46",
+    "I3270": "1",
+    "J3270": "FE",
+    "K3270": "1",
+    "L3270": "1",
+    "M3270": "n/a",
+    "N3270": "Revenue quartile 3 versus no-revenue investors (quartile 1 highest, quartile 4 lowest): effect on normalized rationing; Table VIII col2, pp2331–2333. ",
+    "O3270": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + investor-bank pair FE: two effective dimensions. Bank and investor main effects are nested in pair FE, including cumulative Yes rows in TableVIII; FE, not HDFE. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table VIII col2, pp2331–2333; article_layout.txt L1367–1479."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -84298,7 +84307,14 @@
     "H7672": "0",
     "I7672": "unknown",
     "J7672": "none",
-    "K7672": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
+    "K7672": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated.",
+    "A7673": "RQV5GQTL",
+    "B7673": "h46",
+    "C7673": "hy1",
+    "H7673": "0",
+    "I7673": "unknown",
+    "J7673": "none",
+    "K7673": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
