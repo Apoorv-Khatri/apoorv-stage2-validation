@@ -35032,7 +35032,16 @@
     "L3516": "1",
     "M3516": "n/a",
     "N3516": "Unstable precrisis nonbank funding share effect on2007–2008 loan price change, Table11 columns3,4,7,8.",
-    "O3516": "Stable null and unstable decline jointly support main fragility conclusion;116/79-loan samples routine variants. No outcome benchmark for these coefficients; comparing −0.182 with −0.049 is effect versus effect, not other_level."
+    "O3516": "Stable null and unstable decline jointly support main fragility conclusion;116/79-loan samples routine variants. No outcome benchmark for these coefficients; comparing −0.182 with −0.049 is effect versus effect, not other_level.",
+    "A3517": "UUTLYHI2",
+    "B3517": "h23",
+    "I3517": "1",
+    "J3517": "OLS",
+    "K3517": "0",
+    "L3517": "1",
+    "M3517": "n/a",
+    "N3517": "Stable precrisis nonbank funding share effect on2007–2008 loan price change, Table11 columns5–8.",
+    "O3517": "Stable null and unstable decline jointly support main fragility conclusion;116/79-loan samples routine variants. No outcome benchmark for these coefficients; comparing −0.182 with −0.049 is effect versus effect, not other_level."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89244,7 +89253,11 @@
     "A8041": "UUTLYHI2",
     "B8041": "h22",
     "C8041": "hy1",
-    "K8041": "Loan price (average bid-ask midpoint); Table11 outcome is average2008 minus average2007, Figures4/5 display daily price levels."
+    "K8041": "Loan price (average bid-ask midpoint); Table11 outcome is average2008 minus average2007, Figures4/5 display daily price levels.",
+    "A8042": "UUTLYHI2",
+    "B8042": "h23",
+    "C8042": "hy1",
+    "K8042": "Loan price (average bid-ask midpoint); Table11 outcome is average2008 minus average2007, Figures4/5 display daily price levels."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

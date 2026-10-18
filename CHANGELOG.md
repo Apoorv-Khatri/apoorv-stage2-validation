@@ -575739,3 +575739,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:43:57.443434+00:00 — Review UUTLYHI2 h23: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8042",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8042",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8042",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8042",
+    "before": null,
+    "after": "Loan price (average bid-ask midpoint); Table11 outcome is average2008 minus average2007, Figures4/5 display daily price levels."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3517",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3517",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3517",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3517",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3517",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3517",
+    "before": null,
+    "after": "Stable precrisis nonbank funding share effect on2007–2008 loan price change, Table11 columns5–8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3517",
+    "before": null,
+    "after": "Stable null and unstable decline jointly support main fragility conclusion;116/79-loan samples routine variants. No outcome benchmark for these coefficients; comparing −0.182 with −0.049 is effect versus effect, not other_level."
+  }
+]
+```
