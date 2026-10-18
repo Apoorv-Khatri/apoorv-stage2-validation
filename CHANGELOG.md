@@ -556416,3 +556416,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:13:28.328166+00:00 — Review TRCRCTBB s2: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K409",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K410",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L409",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L410",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M409",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M410",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N409",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N410",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O409",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O410",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P409",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P410",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q409",
+    "before": null,
+    "after": "pp.3413–3414/Table III; Table I BHAR(-1,1) SD 0.037 over 14,911 firm-years, versus focal column N=8,066. Table III, col. (4): coefficient on PO_t = 0.032; author interprets a one-standard-deviation increase in PO_t as increasing BHAR(-1,1) by approximately 28 bps. Standard deviation of BHAR(-1,1); Table I reports SD 0.037, and the text states the effect equals 7.6% of the standard deviation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q410",
+    "before": null,
+    "after": "pp.3413–3414/Table III; Table I BHAR(-1,1) SD 0.037 over 14,911 firm-years, versus focal column N=8,066. Table III, col. (8): coefficient on PO^{t+1}_t = 0.042; author interprets a one-standard-deviation increase in PO^{t+1}_t as increasing BHAR(-1,1) by approximately 33 bps. Standard deviation of BHAR(-1,1); text states the effect equals 8.9% of the standard deviation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R409",
+    "before": null,
+    "after": "Outcome SD covers full return sample, but focal earnings-surprise-controlled column uses restricted N=8,066; source identifies population mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R410",
+    "before": null,
+    "after": "Wrong-parent after distinct treatment split: preserve original record; exact focal estimate/benchmark retained under h1/hc1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I718",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J718",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K718",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L718",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M718",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N718",
+    "before": null,
+    "after": "Disclosure response to total change in purchase obligations ΔPOt: BHAR(-1,1), Table III columns 1–4, pp.3412–3414. Firm plus year or industry×year FE. Next-year-due and residual-maturity doses split to h1/h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O718",
+    "before": null,
+    "after": "Retain under broad gate: p.3412 says prices should respond immediately to disclosure of private PO information; contrasts with predictive Table II. Supporting information-revelation mechanism, not headline issuance. Two effective FE sets; earnings-surprise controls address concurrent news. No clean exogenous disclosure-dose design claimed."
+  }
+]
+```
