@@ -35380,7 +35380,16 @@
     "L3547": "1",
     "M3547": "n/a",
     "N3547": "Above- versus below-median precrisis unstable nonbank funding share contrast in daily secondary-market loan bid-ask midpoint prices, Figure5 panel(b), 2007–2008 displayed paths (caption 2007–2009).",
-    "O3547": "Independent broad author-intention adjudication: pp.2222–2225 interpret differential price declines as evidence of fragile-funding price pressure and say the multivariate results mirror the graphical evidence. Code linear unadjusted group-mean price contrasts (OLS-equivalent), not an estimated event-time DiD, continuous-dose regression, or a daily coefficient census. Outcome is the displayed price level path; do not invent an exact change-on-change estimate from the roughly 8pp spread. This inference passes the project inclusion gate despite no random exposure and acknowledged selection. Main=1 follows central price-pressure conclusion, including stable-share null. No exact numerical coefficient or mean-normalized effect asserted."
+    "O3547": "Independent broad author-intention adjudication: pp.2222–2225 interpret differential price declines as evidence of fragile-funding price pressure and say the multivariate results mirror the graphical evidence. Code linear unadjusted group-mean price contrasts (OLS-equivalent), not an estimated event-time DiD, continuous-dose regression, or a daily coefficient census. Outcome is the displayed price level path; do not invent an exact change-on-change estimate from the roughly 8pp spread. This inference passes the project inclusion gate despite no random exposure and acknowledged selection. Main=1 follows central price-pressure conclusion, including stable-share null. No exact numerical coefficient or mean-normalized effect asserted.",
+    "A3548": "VPZERBIY",
+    "B3548": "h1",
+    "I3548": "1",
+    "J3548": "OLS",
+    "K3548": "1",
+    "L3548": "1",
+    "M3548": "n/a",
+    "N3548": "Cash bid over three years prior to t, Table 1 Panel B column 1: effect on activist targeting in t.",
+    "O3548": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89944,7 +89953,14 @@
     "H8075": "0",
     "I8075": "unknown",
     "J8075": "none",
-    "K8075": "Daily loan price level, measured by bid-ask quote midpoint and averaged within above/below-median unstable nonbank-share groups; Figure5 panel(b). Plotted levels on approximately 60–100 price scale, not annual price change of Table11 or an outcome-SD transformation. Individual price-zero mass not established by positive group means."
+    "K8075": "Daily loan price level, measured by bid-ask quote midpoint and averaged within above/below-median unstable nonbank-share groups; Figure5 panel(b). Plotted levels on approximately 60–100 price scale, not annual price change of Table11 or an outcome-SD transformation. Individual price-zero mass not established by positive group means.",
+    "A8076": "VPZERBIY",
+    "B8076": "h1",
+    "C8076": "hy1",
+    "H8076": "1",
+    "I8076": "1",
+    "J8076": "none",
+    "K8076": "Activist target indicator in year t (Table 1 Panel B)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -148650,7 +148666,18 @@
     "O5250": "1",
     "P5250": "unknown",
     "Q5250": "Table3A column 6, p.536, Activist -0.0425 for [t,t+5]. P.535 expressly compares three (five) year effect to about half as likely for in-wave deals, corresponding outcome probability.",
-    "R5250": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment."
+    "R5250": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment.",
+    "A5251": "VPZERBIY",
+    "B5251": "h1",
+    "C5251": "hc1",
+    "K5251": "1",
+    "L5251": "hy1",
+    "M5251": "outcome_mean",
+    "N5251": "1",
+    "O5251": "1",
+    "P5251": "unknown",
+    "Q5251": "Table1B pp.531–532: Column 1 coefficient on Cash bid = 0.0173 in Table 1 Panel B, for the effect of having a cash-financed acquisition in the prior three years on activist-target probability in year t. Benchmark: Unconditional probability of activist arrival/targeting in the matched sample. \"In economic terms, a prior stock (cash) acquisition increases the probability of being targeted by 79.7% (35.4%) of the unconditional probability in this matched sample.\"",
+    "R5251": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

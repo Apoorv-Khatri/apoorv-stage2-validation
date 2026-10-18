@@ -581703,3 +581703,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:14:59.524275+00:00 — Review VPZERBIY h1: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5251",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5251",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5251",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5251",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5251",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5251",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5251",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5251",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5251",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5251",
+    "before": null,
+    "after": "Table1B pp.531–532: Column 1 coefficient on Cash bid = 0.0173 in Table 1 Panel B, for the effect of having a cash-financed acquisition in the prior three years on activist-target probability in year t. Benchmark: Unconditional probability of activist arrival/targeting in the matched sample. \"In economic terms, a prior stock (cash) acquisition increases the probability of being targeted by 79.7% (35.4%) of the unconditional probability in this matched sample.\""
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5251",
+    "before": null,
+    "after": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8076",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8076",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8076",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8076",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8076",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8076",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8076",
+    "before": null,
+    "after": "Activist target indicator in year t (Table 1 Panel B)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3548",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3548",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3548",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3548",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3548",
+    "before": null,
+    "after": "Cash bid over three years prior to t, Table 1 Panel B column 1: effect on activist targeting in t."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3548",
+    "before": null,
+    "after": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses."
+  }
+]
+```
