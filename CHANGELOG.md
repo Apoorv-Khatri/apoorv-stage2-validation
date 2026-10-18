@@ -557823,3 +557823,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:20:00.447392+00:00 — Review TRCRCTBB h1: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5219",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5219",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5219",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5219",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5219",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5219",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5219",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5219",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5219",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5219",
+    "before": null,
+    "after": "pp.3413–3414/Table III; Table I BHAR(-1,1) SD 0.037 over 14,911 firm-years, versus focal column N=8,066. Table III, col. (8): coefficient on PO^{t+1}_t = 0.042; author interprets a one-standard-deviation increase in PO^{t+1}_t as increasing BHAR(-1,1) by approximately 33 bps. Standard deviation of BHAR(-1,1); text states the effect equals 8.9% of the standard deviation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5219",
+    "before": null,
+    "after": "Outcome SD covers full return sample, but focal earnings-surprise-controlled column uses restricted N=8,066; source identifies population mismatch."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7854",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7854",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7854",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7854",
+    "before": null,
+    "after": "Size- and book-to-market-adjusted buy-and-hold abnormal stock return during the three-day window from one day before to one day after the 10-K filing date, BHAR(-1,1). Table III columns 5–8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3397",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3397",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3397",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3397",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3397",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3397",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3397",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3397",
+    "before": null,
+    "after": "Effect of next-year-due ΔPO(t+1)t, measured as change in corresponding purchase obligations/total assets and entered jointly with the other maturity component; Table III columns 5–8. Outcome set follows s2; distinct from total ΔPOt."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3397",
+    "before": null,
+    "after": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
+  }
+]
+```

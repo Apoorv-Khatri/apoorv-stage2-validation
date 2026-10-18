@@ -33682,7 +33682,16 @@
     "L3396": "0",
     "M3396": "unknown",
     "N3396": "Higher-inflation expectations and durable-spending propensities compared across renters and homeowners; p.1638 footnote 28 reports similar associations. Exact estimator and whether separate regressions were used are not established.",
-    "O3396": "Broad mechanism-gate inclusion is provisional: final prose establishes empirical comparison but not exact estimator or table. Binary expectation contrast inferred from established section 3 regressor; do not assert multinomial logit or a coefficient without final implementation evidence. Housing-confound supporting result."
+    "O3396": "Broad mechanism-gate inclusion is provisional: final prose establishes empirical comparison but not exact estimator or table. Binary expectation contrast inferred from established section 3 regressor; do not assert multinomial logit or a coefficient without final implementation evidence. Housing-confound supporting result.",
+    "A3397": "TRCRCTBB",
+    "B3397": "h1",
+    "I3397": "1",
+    "J3397": "FE",
+    "K3397": "0",
+    "L3397": "0",
+    "M3397": "n/a",
+    "N3397": "Effect of next-year-due ΔPO(t+1)t, measured as change in corresponding purchase obligations/total assets and entered jointly with the other maturity component; Table III columns 5–8. Outcome set follows s2; distinct from total ΔPOt.",
+    "O3397": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86851,7 +86860,11 @@
     "H7853": "unknown",
     "I7853": "unknown",
     "J7853": "unknown",
-    "K7853": "Spending propensity by renters/owners, p.1638 fn.28; exact dependent encoding and estimator not established."
+    "K7853": "Spending propensity by renters/owners, p.1638 fn.28; exact dependent encoding and estimator not established.",
+    "A7854": "TRCRCTBB",
+    "B7854": "h1",
+    "C7854": "hy1",
+    "K7854": "Size- and book-to-market-adjusted buy-and-hold abnormal stock return during the three-day window from one day before to one day after the 10-K filing date, BHAR(-1,1). Table III columns 5–8."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -144973,7 +144986,18 @@
     "O5218": "1",
     "P5218": "unknown",
     "Q5218": "p.3438/Table XI.A column 5, ΔPO coefficient 0.012: one-treatment-SD increase in ΔPOt increases outcome by 6.2% for an average manager. Table I manager-level mean 0.017, 59,006 manager-years; outcome is scaled shares, not log. Explicit average-manager percentage is a mean normalization.",
-    "R5218": "Omitted substantive comparison; not a standalone treatment-SD normalization. Target conditional within-manager slope versus overall manager-years mean lacks untreated/reference-dose and weighting match. No transfer to firm-aggregate panel."
+    "R5218": "Omitted substantive comparison; not a standalone treatment-SD normalization. Target conditional within-manager slope versus overall manager-years mean lacks untreated/reference-dose and weighting match. No transfer to firm-aggregate panel.",
+    "A5219": "TRCRCTBB",
+    "B5219": "h1",
+    "C5219": "hc1",
+    "K5219": "1",
+    "L5219": "hy1",
+    "M5219": "outcome_sd",
+    "N5219": "1",
+    "O5219": "1",
+    "P5219": "0",
+    "Q5219": "pp.3413–3414/Table III; Table I BHAR(-1,1) SD 0.037 over 14,911 firm-years, versus focal column N=8,066. Table III, col. (8): coefficient on PO^{t+1}_t = 0.042; author interprets a one-standard-deviation increase in PO^{t+1}_t as increasing BHAR(-1,1) by approximately 33 bps. Standard deviation of BHAR(-1,1); text states the effect equals 8.9% of the standard deviation.",
+    "R5219": "Outcome SD covers full return sample, but focal earnings-surprise-controlled column uses restricted N=8,066; source identifies population mismatch."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
