@@ -568545,3 +568545,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:41:39.822893+00:00 — Review UK6BI2QX h28: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7962",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7963",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7962",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7963",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7962",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7963",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7962",
+    "before": null,
+    "after": "Quarterly net equity repurchases by firm i, defined as purchase of common and preferred stock minus sale of common and preferred stock, normalized by lagged assets; percentage points of lagged assets."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7963",
+    "before": null,
+    "after": "Quarterly net debt issuance by firm i, defined as long-term debt issuance minus long-term debt reduction, normalized by lagged assets; percentage points of lagged assets."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3463",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3463",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3463",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3463",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3463",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3463",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3463",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3463",
+    "before": null,
+    "after": "Predicted 24-month excess stock returns affecting firm-level financing flows: implemented horizon robustness in Internet Appendix III.A, established final pp.3061/3075. Net equity repurchases and net debt issuance; numerical coefficients and final appendix column labels unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3463",
+    "before": null,
+    "after": "Minimum horizon-specific predictor scope from explicit implemented similar-results statement. Base regressions retained; no unseen settings census claimed. Additional logit/horizon combinations are not individually established by the brief blanket all empirical tests sentence; pending final appendix. No numerical comparison inferred."
+  }
+]
+```
