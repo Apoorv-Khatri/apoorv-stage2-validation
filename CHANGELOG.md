@@ -595167,3 +595167,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:10:05.175275+00:00 — Review WM5RSIHQ h6: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8200",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8201",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8200",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8201",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8200",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8201",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8200",
+    "before": null,
+    "after": "Forced CEO turnover event/time-to-event in competing-risks Cox model (final III.E p.2172); cause-specific hazard response, not an averaged event probability. Retention is the reference survival state."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8201",
+    "before": null,
+    "after": "Voluntary CEO turnover event/time-to-event in competing-risks Cox model (final III.E p.2172); cause-specific hazard response, not an averaged event probability. Retention is the reference survival state."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3609",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3609",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3609",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3609",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3609",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3609",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3609",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3609",
+    "before": null,
+    "after": "Idiosyncratic performance on forced and voluntary turnover in the same competing-risks model, final Section III.E p.2172."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3609",
+    "before": null,
+    "after": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. Both components explicitly have weaker effects on voluntary turnover; no separate OLS regression invented."
+  }
+]
+```
