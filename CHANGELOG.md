@@ -525909,3 +525909,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T08:58:32.512902+00:00 — Review RDVTTVCR s14: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1665",
+    "before": null,
+    "after": "Log difference of employment or sales as defined in Table1; growth rate itself is not logged. Same-outcome growth-SD comparisons qualify."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1667",
+    "before": null,
+    "after": "Log difference of employment or sales as defined in Table1; growth rate itself is not logged. Same-outcome growth-SD comparisons qualify."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I657",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J657",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K657",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L657",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M657",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N657",
+    "before": null,
+    "after": "Continuous indirect sovereign-risk dose with heterogeneity by Private/unlisted status, Table7 panelA; No Rating and No Bond Outstanding panels split to h3/h4. Includes cashflow triple interaction for cash savings and null baseline-group slopes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O657",
+    "before": null,
+    "after": "Eqs4–5 pp2879–2880 establish identifying roles: firm FE absorb fixed firm heterogeneity, industry×country×year FE absorb local industry demand, foreign-bank-GIIPS-country×year FE address firms' geographic business exposure. Three nonredundant FE batteries: HDFE. Table4 credit-line columns replace industry×country×year with country×year, retaining three. Continuous time-varying lender risk, not a treated/post interaction and not IV. Frozen 2009 loan/syndicate weights mitigate rematching. Treatment remains risk dose, not a binary listing intervention; effects differ by binary moderator. Introduction p2858 highlights financing substitution as central causal corroboration. Source: pp2890–2892 Table7A; L2115–2267."
+  }
+]
+```
