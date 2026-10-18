@@ -520437,3 +520437,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T04:10:02.091182+00:00 — Review QY4D7PCL h25: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7516",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7516",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7516",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7516",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7516",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7516",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7516",
+    "before": null,
+    "after": "Monthly excess return on long-minus-short DSS Dur strategy; alpha annualized by 12, CAPM/FF5/q variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3165",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3165",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3165",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3165",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3165",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3165",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3165",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3165",
+    "before": null,
+    "after": "DSS Dur extreme-decile factor-adjusted excess-return contrast, Table9B CAPM/FF5/q models."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3165",
+    "before": null,
+    "after": "Substantive comparison to the baseline duration proxy: factor-adjusted premium is small/insignificant. Keep null estimates. Separate mean return from conditional alpha location. Factor controls not FE. Source: pp941–943 Table9B; L1624–1637,1721–1756."
+  }
+]
+```

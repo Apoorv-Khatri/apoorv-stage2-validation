@@ -31067,7 +31067,16 @@
     "L3164": "0",
     "M3164": "n/a",
     "N3164": "Expected-market-return shocks and annual log returns on llDur portfolios, Table7B beta_Er column.",
-    "O3164": "Discount-rate response mechanism is explicitly invoked in Section5.1.2. Market betas are descriptive risk controls here, not a separate author-interpreted causal treatment. No FE. Source: pp938–939 Table7B; L1344–1359,1390–1437."
+    "O3164": "Discount-rate response mechanism is explicitly invoked in Section5.1.2. Market betas are descriptive risk controls here, not a separate author-interpreted causal treatment. No FE. Source: pp938–939 Table7B; L1344–1359,1390–1437.",
+    "A3165": "QY4D7PCL",
+    "B3165": "h25",
+    "I3165": "1",
+    "J3165": "OLS",
+    "K3165": "1",
+    "L3165": "0",
+    "M3165": "n/a",
+    "N3165": "DSS Dur extreme-decile factor-adjusted excess-return contrast, Table9B CAPM/FF5/q models.",
+    "O3165": "Substantive comparison to the baseline duration proxy: factor-adjusted premium is small/insignificant. Keep null estimates. Separate mean return from conditional alpha location. Factor controls not FE. Source: pp941–943 Table9B; L1624–1637,1721–1756."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -81744,7 +81753,14 @@
     "A7515": "QY4D7PCL",
     "B7515": "h24",
     "C7515": "hy1",
-    "K7515": "Annual log excess return on alternative-duration portfolios and L-S spread; reinvestment beta is a slope, not dependent variable."
+    "K7515": "Annual log excess return on alternative-duration portfolios and L-S spread; reinvestment beta is a slope, not dependent variable.",
+    "A7516": "QY4D7PCL",
+    "B7516": "h25",
+    "C7516": "hy1",
+    "H7516": "0",
+    "I7516": "unknown",
+    "J7516": "none",
+    "K7516": "Monthly excess return on long-minus-short DSS Dur strategy; alpha annualized by 12, CAPM/FF5/q variants."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
