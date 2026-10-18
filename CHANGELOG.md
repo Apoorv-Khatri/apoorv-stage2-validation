@@ -512817,3 +512817,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:21:37.027101+00:00 — Review QLFZQVZU s6: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1491",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1491",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1491",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1491",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I613",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O613",
+    "before": null,
+    "after": "Spanning regressions ask whether a factor contains valuable information beyond the spanning set; alpha is not a treatment coefficient and including a regressor is not binary treatment. Strongest contrary evidence is investor would be better off trading/shorting language (p242). It explains incremental investment opportunities under the factor model, not a quantified intervention on an investor rule with fixed underlying holdings/path. Factor loadings are continuous comovement, not identifying FE. Source: pp241–242; Table4 A–C; L751–896. Source: pp241–242; Table4 A–C; L751–896."
+  }
+]
+```
