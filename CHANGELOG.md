@@ -520350,3 +520350,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T04:09:34.454094+00:00 — Review QY4D7PCL h24: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7515",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7515",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7515",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7515",
+    "before": null,
+    "after": "Annual log excess return on alternative-duration portfolios and L-S spread; reinvestment beta is a slope, not dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3164",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3164",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3164",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3164",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3164",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3164",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3164",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3164",
+    "before": null,
+    "after": "Expected-market-return shocks and annual log returns on llDur portfolios, Table7B beta_Er column."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3164",
+    "before": null,
+    "after": "Discount-rate response mechanism is explicitly invoked in Section5.1.2. Market betas are descriptive risk controls here, not a separate author-interpreted causal treatment. No FE. Source: pp938–939 Table7B; L1344–1359,1390–1437."
+  }
+]
+```
