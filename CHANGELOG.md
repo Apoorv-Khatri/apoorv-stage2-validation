@@ -521610,3 +521610,144 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:48:58.229775+00:00 — Review R7QNVLC6 s3: source-audited coding and linked comparisons
+
+22 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1561",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1562",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1563",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1564",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1565",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1561",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1562",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1563",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1564",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1565",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1561",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1562",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1563",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1564",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1565",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1561",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s3 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1562",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s3 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1563",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s3 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1564",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s3 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1565",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s3 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I633",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O633",
+    "before": null,
+    "after": "Strongest contrary language is clean identification and attributable to differences in ability. The same passage explicitly says the gap is not driven solely by herding/antiherding trades, instead by unobserved stock-picking skill. The SFH ownership score is a signal, not an exposure asserted to change prices. Reject this coefficient/contrast, not the skill explanation itself. Source: pp2244–2246; Table V; L857–911,934–965. Source: pp2244–2246; Table V; L857–911,934–965."
+  }
+]
+```
