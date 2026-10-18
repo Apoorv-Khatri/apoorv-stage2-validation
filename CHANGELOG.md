@@ -605037,3 +605037,276 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:53:54.485213+00:00 — Review WZZQX3TX h37: source-audited coding and linked comparisons
+
+44 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8263",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8264",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8265",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8266",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8267",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8263",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8264",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8265",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8266",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8267",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8263",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8264",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8265",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8266",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8267",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8263",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8264",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8265",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8266",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8267",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8263",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8264",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8265",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8266",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8267",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8263",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8264",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8265",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8266",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8267",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8263",
+    "before": null,
+    "after": "CEO total pay in thousands of dollars. Log compensation component, not log1p. Underlying zero treatment/sample exclusion not documented; do not import LLM raw-zero claims into reported logged outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8264",
+    "before": null,
+    "after": "CEO salary in thousands of dollars. Log compensation component, not log1p. Underlying zero treatment/sample exclusion not documented; do not import LLM raw-zero claims into reported logged outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8265",
+    "before": null,
+    "after": "CEO bonus in thousands of dollars. Log compensation component, not log1p. Underlying zero treatment/sample exclusion not documented; do not import LLM raw-zero claims into reported logged outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8266",
+    "before": null,
+    "after": "Value of CEO option grants in thousands of dollars, based on grant-date Black-Scholes value. Log compensation component, not log1p. Underlying zero treatment/sample exclusion not documented; do not import LLM raw-zero claims into reported logged outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8267",
+    "before": null,
+    "after": "Value of CEO restricted stock grants in thousands of dollars, based on grant-date fair value. Log compensation component, not log1p. Underlying zero treatment/sample exclusion not documented; do not import LLM raw-zero claims into reported logged outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3650",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3650",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3650",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3650",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3650",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3650",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3650",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3650",
+    "before": null,
+    "after": "Post-first-violation After coefficient eta and explicitly discussed eta+beta among new-appointment firms, Table X B, pp.2416–2419; years +2..+4 versus −3..−1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3650",
+    "before": null,
+    "after": "p.2416 no-causal disclaimer explicitly targets beta (appointment differential). pp.2418–2419 separately interpret violations as affecting financing/investment/pay. Broad gate includes this suggestive within-firm violation effect, not causal board reform. All firms violate; no untreated violation comparison, so After coefficient is FE before/after rather than a standalone DiD. Firm/year two dimensions. Timing of board grouping is postviolation/endogenous. Retained gate is the violation before/after response conditional on appointment group, NOT the causal effect of appointments. Eta alone refers to no-new-appointment firms; eta+beta is the stated total for appointment firms, never beta alone. Level group endogeneity remains explicit; this is broad author intention, not causal certification."
+  }
+]
+```
