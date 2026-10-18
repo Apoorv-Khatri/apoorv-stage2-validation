@@ -546738,3 +546738,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:11:10.710855+00:00 — Review RQV5GQTL h113: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7740",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7740",
+    "before": null,
+    "after": "h113"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7740",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7740",
+    "before": null,
+    "after": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E74",
+    "before": null,
+    "after": "DONE — Available-source review of all39 final article pages with independent audit. Retain120 setting records including three minimum-scope appendix families, not an exact full-supplement census; reject two original subgroup duplicates. Identifying IPO/bank FE, investor HDFE and two-effective-dimension investor-bank FE distinguished; treatment-specific effects and substantive nulls retained without bank-by-sample grids. One confirmed comparison: top-minus-third0.42 versus mean0.78. Nine comparisons unresolved: headline60% estimator attribution and eight investor-type mappings/division claims; hot-only means versus full-sample effects definitely unaligned. Advisor informative-bidding h114 and fee-share h115 NOT applied; implementation/aggregation unresolved and held in review artifacts. Preserve missing coefficients, conditional reference groups, printed conflicts and original fields/IDs/links. Final supplement unavailable; no older substitute. Completion scoped to available-source adjudication; held scopes and appendix details pending."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3337",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3337",
+    "before": null,
+    "after": "h113"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3337",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3337",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3337",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3337",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3337",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3337",
+    "before": null,
+    "after": "Revenue timing variants after IPO; qualitative allocation coefficients significant and slightly smaller. Exact years/contrasts not supplied. Provisional minimum-scope appendix family, not an exact setting count."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3337",
+    "before": null,
+    "after": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. Final text establishes implemented result but not appendix method battery/column mapping; do not assume FE/HDFE, quartile indicator contrasts or coefficients. Main-versus-supporting judged as robustness of revenue findings, not from appendix placement. Source: p2330 TableIA.VII reference; L1314–1330."
+  }
+]
+```

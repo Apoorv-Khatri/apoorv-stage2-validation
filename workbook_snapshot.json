@@ -347,6 +347,7 @@
     "B74": "Quid Pro Quo? What Factors Influence IPO Allocations to Investors?",
     "C74": "fin",
     "D74": 9,
+    "E74": "DONE — Available-source review of all39 final article pages with independent audit. Retain120 setting records including three minimum-scope appendix families, not an exact full-supplement census; reject two original subgroup duplicates. Identifying IPO/bank FE, investor HDFE and two-effective-dimension investor-bank FE distinguished; treatment-specific effects and substantive nulls retained without bank-by-sample grids. One confirmed comparison: top-minus-third0.42 versus mean0.78. Nine comparisons unresolved: headline60% estimator attribution and eight investor-type mappings/division claims; hot-only means versus full-sample effects definitely unaligned. Advisor informative-bidding h114 and fee-share h115 NOT applied; implementation/aggregation unresolved and held in review artifacts. Preserve missing coefficients, conditional reference groups, printed conflicts and original fields/IDs/links. Final supplement unavailable; no older substitute. Completion scoped to available-source adjudication; held scopes and appendix details pending.",
     "A75": "S3X8G9NP",
     "B75": "When Uncle Sam introduced Main Street to Wall Street: Liberty Bonds and the transformation of American finance",
     "C75": "fin",
@@ -32853,7 +32854,16 @@
     "L3336": "0",
     "M3336": "unknown",
     "N3336": "Revenue timing variant using year before IPO; qualitative allocation coefficients significant. Provisional minimum-scope appendix family, not an exact setting count.",
-    "O3336": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. Final text establishes implemented result but not appendix method battery/column mapping; do not assume FE/HDFE, quartile indicator contrasts or coefficients. Main-versus-supporting judged as robustness of revenue findings, not from appendix placement. Source: p2330 TableIA.VII reference; L1314–1330."
+    "O3336": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. Final text establishes implemented result but not appendix method battery/column mapping; do not assume FE/HDFE, quartile indicator contrasts or coefficients. Main-versus-supporting judged as robustness of revenue findings, not from appendix placement. Source: p2330 TableIA.VII reference; L1314–1330.",
+    "A3337": "RQV5GQTL",
+    "B3337": "h113",
+    "I3337": "1",
+    "J3337": "unknown",
+    "K3337": "unknown",
+    "L3337": "0",
+    "M3337": "unknown",
+    "N3337": "Revenue timing variants after IPO; qualitative allocation coefficients significant and slightly smaller. Exact years/contrasts not supplied. Provisional minimum-scope appendix family, not an exact setting count.",
+    "O3337": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. Final text establishes implemented result but not appendix method battery/column mapping; do not assume FE/HDFE, quartile indicator contrasts or coefficients. Main-versus-supporting judged as robustness of revenue findings, not from appendix placement. Source: p2330 TableIA.VII reference; L1314–1330."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85364,7 +85374,11 @@
     "A7739": "RQV5GQTL",
     "B7739": "h112",
     "C7739": "hy1",
-    "K7739": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
+    "K7739": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated.",
+    "A7740": "RQV5GQTL",
+    "B7740": "h113",
+    "C7740": "hy1",
+    "K7740": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
