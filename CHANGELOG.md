@@ -581181,3 +581181,144 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:14:20.078080+00:00 — Review VPZERBIY s10: source-audited coding and linked comparisons
+
+22 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K455",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K456",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L455",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L456",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M455",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M456",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N455",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N456",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O455",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O456",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P455",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P456",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q455",
+    "before": null,
+    "after": "Table7 p.544 footnote24: Interaction coefficient on Activist x Increase in PPS = -0.0237 in Table 7 column 3 for cash bids over [t, t+3]. Benchmark: Outcome standard-deviation based scaling used by authors: effect translated using SD of Increase in PPS relative to SD of Cash Bid. \"Comparing cash to stock acquisition bids, the economic magnitude of the interaction coefficients in Columns 3 and 5 are similar (23.6% vs. 25.0%), suggesting that increasing a CEO’s PPS reduces the tendency to conduct both cash and stock acquisitions.24\" [ … ] \"For example, the economic magnitude of the interaction in Column 3 is estimated as the coefficient on the interaction term x (SD of Increase in PPS/SD of Cash Bid) = −0.0237 x (3.78/0.38) = 23.58. The magnitude of the coefficient in Column 5 is 25.02.\""
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q456",
+    "before": null,
+    "after": "Table7 p.544 footnote24: Interaction coefficient on Activist x Increase in PPS = -0.0190 in Table 7 column 5 for stock bids over [t, t+3]. Benchmark: Outcome standard-deviation based scaling used by authors: effect translated using SD of Increase in PPS relative to SD of Stock Bid. \"Comparing cash to stock acquisition bids, the economic magnitude of the interaction coefficients in Columns 3 and 5 are similar (23.6% vs. 25.0%), suggesting that increasing a CEO’s PPS reduces the tendency to conduct both cash and stock acquisitions.24\" [ … ] \"The magnitude of the coefficient in Column 5 is 25.02.\""
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R455",
+    "before": null,
+    "after": "Outcome SD normalization qualifies even with continuous PPS treatment. Footnote24 prints -0.0237 × (3.78/0.38) = 23.58; visually confirmed sign/unit error: arithmetic is approximately -0.2358 SD, or -23.58 percent of SD. Preserve printed figure, do not silently correct. Stock outcome SD not supplied; SD population/weights unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R456",
+    "before": null,
+    "after": "Outcome SD normalization qualifies even with continuous PPS treatment. Footnote24 prints -0.0237 × (3.78/0.38) = 23.58; visually confirmed sign/unit error: arithmetic is approximately -0.2358 SD, or -23.58 percent of SD. Preserve printed figure, do not silently correct. Stock outcome SD not supplied; SD population/weights unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I778",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J778",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K778",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L778",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M778",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O778",
+    "before": null,
+    "after": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Main: compensation mechanism central in abstract/introduction/conclusion. Continuous percentage change in PPS (not an increase dummy), interacted with activism. Full PPS slope at targets is main PPS slope plus interaction. Binary activism parameter separately represented in h22; outcome labels completed there. Changes in PPS are contemporaneous/post-activism, not predetermined."
+  }
+]
+```
