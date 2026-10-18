@@ -31194,7 +31194,16 @@
     "L3173": "1",
     "M3173": "n/a",
     "N3173": "Table VI A: standardized Baker–Wurgler sentiment (current/lagged) and monthly net-return spread D10–D1; OLS slopes -0.256/-0.243. Also includes the gross-return differential explicitly reported in p2247 prose (article.txt L991–998); Table VI A displays net only, so gross coefficients are unreported here.",
-    "O3173": "Distinct opportunity proxy, interpreted as changing the opportunity-dependent performance gap. Source: pp2246–2248; L979–998,1082–1087. No qualifying outcome benchmark found in associated prose/table. Independent audit adds the prose-reported gross outcome without copying net coefficients or inventing a gross table. Source: pp2246–2248; L979–998,1082–1087."
+    "O3173": "Distinct opportunity proxy, interpreted as changing the opportunity-dependent performance gap. Source: pp2246–2248; L979–998,1082–1087. No qualifying outcome benchmark found in associated prose/table. Independent audit adds the prose-reported gross outcome without copying net coefficients or inventing a gross table. Source: pp2246–2248; L979–998,1082–1087.",
+    "A3174": "R7QNVLC6",
+    "B3174": "h3",
+    "I3174": "1",
+    "J3174": "OLS",
+    "K3174": "0",
+    "L3174": "1",
+    "M3174": "n/a",
+    "N3174": "Table VI B: continuous FH interacted with current/lagged standardized average idiosyncratic volatility, future monthly Carhart net alpha; interactions -0.165/-0.102. Panel OLS with time dummies and fund controls.",
+    "O3174": "Retain the opportunity-dependent skill channel, including insignificant lagged interaction; separate treatment from CrossVol. No identifying FE argument beyond common time adjustment. Source: pp2247–2249; L999–1018,1100–1131. No qualifying outcome benchmark found in associated prose/table. Source: pp2247–2249; L999–1018,1100–1131."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82161,7 +82170,11 @@
     "A7527": "R7QNVLC6",
     "B7527": "h2",
     "C7527": "hy2",
-    "K7527": "Monthly gross-return differential between highest- and lowest-FH deciles (D10 minus D1), before fees, in percentage points. Implemented time-series regressions on the parent opportunity proxy are stated at p2247, article.txt L991–998 (before and after fees); Table VI A displays only net returns. Gross numerical coefficients and detailed column mapping are not reported; do not substitute the net estimates."
+    "K7527": "Monthly gross-return differential between highest- and lowest-FH deciles (D10 minus D1), before fees, in percentage points. Implemented time-series regressions on the parent opportunity proxy are stated at p2247, article.txt L991–998 (before and after fees); Table VI A displays only net returns. Gross numerical coefficients and detailed column mapping are not reported; do not substitute the net estimates.",
+    "A7528": "R7QNVLC6",
+    "B7528": "h3",
+    "C7528": "hy1",
+    "K7528": "Future monthly Carhart four-factor net alpha in quarter t+1, in percent. Source: pp2247–2249; L999–1018,1100–1131."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

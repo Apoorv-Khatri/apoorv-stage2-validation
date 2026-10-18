@@ -523425,3 +523425,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:53:47.575395+00:00 — Review R7QNVLC6 h3: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7528",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7528",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7528",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7528",
+    "before": null,
+    "after": "Future monthly Carhart four-factor net alpha in quarter t+1, in percent. Source: pp2247–2249; L999–1018,1100–1131."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3174",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3174",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3174",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3174",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3174",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3174",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3174",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3174",
+    "before": null,
+    "after": "Table VI B: continuous FH interacted with current/lagged standardized average idiosyncratic volatility, future monthly Carhart net alpha; interactions -0.165/-0.102. Panel OLS with time dummies and fund controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3174",
+    "before": null,
+    "after": "Retain the opportunity-dependent skill channel, including insignificant lagged interaction; separate treatment from CrossVol. No identifying FE argument beyond common time adjustment. Source: pp2247–2249; L999–1018,1100–1131. No qualifying outcome benchmark found in associated prose/table. Source: pp2247–2249; L999–1018,1100–1131."
+  }
+]
+```
