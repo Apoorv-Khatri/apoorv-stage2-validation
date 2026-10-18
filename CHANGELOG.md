@@ -576714,3 +576714,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:47:36.608393+00:00 — Review UUTLYHI2 h34: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8053",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8053",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8053",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8053",
+    "before": null,
+    "after": "Fraction of loan funded by nonbanks, not a binary dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3528",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3528",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3528",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3528",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3528",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3528",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3528",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3528",
+    "before": null,
+    "after": "Equally weighted syndicate Tier1 capital/RWA effect on nonbank share,IA.X, maturity/facility-type subsamples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3528",
+    "before": null,
+    "after": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote28 corroborates distinct appendix analysis; year dummies only, OLS. IA.XI first column repeats Table5 adjusted baseline; new scope is added controls, not duplicate estimate census."
+  }
+]
+```
