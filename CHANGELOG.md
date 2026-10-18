@@ -512862,3 +512862,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:22:07.347420+00:00 — Review QLFZQVZU s7: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1492",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1492",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1492",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1492",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I614",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O614",
+    "before": null,
+    "after": "Backward accumulation windows and exclusion of extraordinary/special items construct alternative earnings-yield predictors; slopes and t-values test whether averaging improves proxy quality. The claimed attenuation of measurement noise is an explanation of predictive content, not an estimated causal response of returns to earnings accumulation. Distinct earnings definitions would require splits only if a qualifying causal interpretation were established. Source: pp242–244; Table5 A; L875–975. Source: pp242–244; Table5 A; L875–975."
+  }
+]
+```
