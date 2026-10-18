@@ -539253,3 +539253,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:45:46.183575+00:00 — Review RQV5GQTL h42: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7669",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7669",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7669",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7669",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7669",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7669",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7669",
+    "before": null,
+    "after": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3266",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3266",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3266",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3266",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3266",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3266",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3266",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3266",
+    "before": null,
+    "after": "Revised bid versus unrevised bid: effect on normalized rationing; Table VIII col2, pp2331–2333. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3266",
+    "before": null,
+    "after": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + investor-bank pair FE: two effective dimensions. Bank and investor main effects are nested in pair FE, including cumulative Yes rows in TableVIII; FE, not HDFE. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table VIII col2, pp2331–2333; article_layout.txt L1367–1479."
+  }
+]
+```
