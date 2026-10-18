@@ -555189,3 +555189,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:48:49.961098+00:00 — Review TE3D5NF5 s2: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1744",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1744",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1744",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1744",
+    "before": null,
+    "after": "Three-category saving readiness, reported marginal effects for not at all, not really, good time (Table 3). Caption uses different generic response labels; numeric category coding and observed zero-category mass not established. Not binary."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I711",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J711",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K711",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L711",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M711",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O711",
+    "before": null,
+    "after": "Table 3 p.1613 and section 7.2: explicit higher expectations increase bad-time-to-save/decrease good-time-to-save interpretation; supporting Euler-equation channel. Three categorical response probabilities jointly reported, not three independent binary regressions."
+  }
+]
+```
