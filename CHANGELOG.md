@@ -555879,3 +555879,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:53:53.338913+00:00 — Review TE3D5NF5 h3: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7849",
+    "before": null,
+    "after": "TE3D5NF5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7849",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7849",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7849",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7849",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7849",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7849",
+    "before": null,
+    "after": "Change in spending readiness between month m and June 2005 matched wave, Figure 7. Nonbinary differenced response; underlying ordinal-versus-good-time probability ambiguity persists. Zero transitions not tabulated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3393",
+    "before": null,
+    "after": "TE3D5NF5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3393",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3393",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3393",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3393",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3393",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3393",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3393",
+    "before": null,
+    "after": "VAT announcement effects on changes in durable-spending readiness across financial constraints, income and homeownership groups; Figure 7 pp.1628–1629; matched conventional DiD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3393",
+    "before": null,
+    "after": "Distinct result location from Figure 6. Intro p.1602 highlights muted spending response among constrained households. All three panels concern spending per surrounding text and equation; caption top/bottom inflation wording is copied/inconsistent. Group status timing not established."
+  }
+]
+```

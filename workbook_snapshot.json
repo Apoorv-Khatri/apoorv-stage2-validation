@@ -33575,7 +33575,16 @@
     "L3392": "0",
     "M3392": "n/a",
     "N3392": "Aggregate quarterly regression of log real durable-consumption expenditure on end-of-quarter average durable-purchasing propensity and quarterly dummies; p.1612 footnote 10. Reported slope 0.5396 converts Table 2 column 2 and 3 marginal effects to 4.8% and 10.3% consumption implications.",
-    "O3392": "Broad inclusion: fitted relationship is explicitly used for an all-Germans expectation-change counterfactual. Auxiliary mapping rather than independent identified policy effect. Quarter dummies are controls, with no author argument that they identify this slope; one effective categorical set, no identifying-FE split. Not the DiD estimate. No outcome mean/SD normalization. Printed inputs imply 4.726896% rather than reported 4.8% for column 2 (audit arithmetic only); preserve reported 4.8% and 10.3%, with exact approximation/unrounded inputs unresolved."
+    "O3392": "Broad inclusion: fitted relationship is explicitly used for an all-Germans expectation-change counterfactual. Auxiliary mapping rather than independent identified policy effect. Quarter dummies are controls, with no author argument that they identify this slope; one effective categorical set, no identifying-FE split. Not the DiD estimate. No outcome mean/SD normalization. Printed inputs imply 4.726896% rather than reported 4.8% for column 2 (audit arithmetic only); preserve reported 4.8% and 10.3%, with exact approximation/unrounded inputs unresolved.",
+    "A3393": "TE3D5NF5",
+    "B3393": "h3",
+    "I3393": "1",
+    "J3393": "DiD_conventional",
+    "K3393": "1",
+    "L3393": "1",
+    "M3393": "n/a",
+    "N3393": "VAT announcement effects on changes in durable-spending readiness across financial constraints, income and homeownership groups; Figure 7 pp.1628–1629; matched conventional DiD.",
+    "O3393": "Distinct result location from Figure 6. Intro p.1602 highlights muted spending response among constrained households. All three panels concern spending per surrounding text and equation; caption top/bottom inflation wording is copied/inconsistent. Group status timing not established."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86692,7 +86701,14 @@
     "A7848": "TE3D5NF5",
     "B7848": "h2",
     "C7848": "hy1",
-    "K7848": "Natural logarithm of aggregate real durable-consumption expenditure, quarterly; p.1612 fn.10. No mean/SD comparison."
+    "K7848": "Natural logarithm of aggregate real durable-consumption expenditure, quarterly; p.1612 fn.10. No mean/SD comparison.",
+    "A7849": "TE3D5NF5",
+    "B7849": "h3",
+    "C7849": "hy1",
+    "H7849": "0",
+    "I7849": "unknown",
+    "J7849": "other",
+    "K7849": "Change in spending readiness between month m and June 2005 matched wave, Figure 7. Nonbinary differenced response; underlying ordinal-versus-good-time probability ambiguity persists. Zero transitions not tabulated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
