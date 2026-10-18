@@ -547257,3 +547257,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:30:49.060412+00:00 — Review S3X8G9NP s7: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1718",
+    "before": null,
+    "after": "Individual stock-or-bond ownership indicator. Source date conflict: data section/references 1937–1938, Table7 caption 1935–1938. Original outcome retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J690",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K690",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M690",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N690",
+    "before": null,
+    "after": "State Fourth Liberty Bond subscription rate effect on individual stock-or-bond ownership, weighted linear probability OLS, Table7 col1 / Eq6A. Third-issue and difference coefficients in col3 are separate treatments h5/h6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O690",
+    "before": null,
+    "after": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Poll dummies control survey waves; no source argument establishes an identifying-FE strategy for these nuisance controls. Therefore OLS, not FE. Joint OLS/IV discussion concerns lasting effects, not pure prediction; weaker identification does not exclude col1. Main=1 as persistent-ownership corroboration. Source: Table7 col1 / Eq6A, pp213–214; layout L1078–1185."
+  }
+]
+```
