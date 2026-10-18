@@ -33084,7 +33084,16 @@
     "L3351": "1",
     "M3351": "n/a",
     "N3351": "Black × After, Table4A/B, conditional on Female × After; includes statistically insignificant share effect 0.016 in col5.",
-    "O3351": "Conventional post-COVID differential change; method precedence overrides FE and OLS implementation. October 2019–May 2020; March onset in text versus caption saying after March is a source timing ambiguity, not silently repaired. Parallel counterfactual trends and no remaining differential shocks are maintained, not established by coding. Distinct treatment split from s2, not a new estimator. Source: Article pp8–9 Table4; layout L521–553,611–651."
+    "O3351": "Conventional post-COVID differential change; method precedence overrides FE and OLS implementation. October 2019–May 2020; March onset in text versus caption saying after March is a source timing ambiguity, not silently repaired. Parallel counterfactual trends and no remaining differential shocks are maintained, not established by coding. Distinct treatment split from s2, not a new estimator. Source: Article pp8–9 Table4; layout L521–553,611–651.",
+    "A3352": "S9LRTRJP",
+    "B3352": "h2",
+    "I3352": "1",
+    "J3352": "DiD_conventional",
+    "K3352": "0",
+    "L3352": "1",
+    "M3352": "n/a",
+    "N3352": "Black × After × continuous GenderBiasPCA, Table5B; log and share effects, including 0.046 and 0.004 nulls.",
+    "O3352": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Null specifically supports differentiation of gender and race mechanisms and is discussed with the central bias results. Source: Article pp11–12 Table5B; layout L789–806,910–928."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85819,7 +85828,15 @@
     "H7784": "0",
     "I7784": "unknown",
     "J7784": "none",
-    "K7784": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
+    "K7784": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator.",
+    "A7785": "S9LRTRJP",
+    "B7785": "h2",
+    "C7785": "hy1",
+    "K7785": "Log(1+total past-due dollars) in buyer–supplier-month; full-amount outcome.",
+    "A7786": "S9LRTRJP",
+    "B7786": "h2",
+    "C7786": "hy2",
+    "K7786": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

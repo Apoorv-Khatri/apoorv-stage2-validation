@@ -550017,3 +550017,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:54:39.210216+00:00 — Review S9LRTRJP h2: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7785",
+    "before": null,
+    "after": "S9LRTRJP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7786",
+    "before": null,
+    "after": "S9LRTRJP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7785",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7786",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7785",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7786",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7785",
+    "before": null,
+    "after": "Log(1+total past-due dollars) in buyer–supplier-month; full-amount outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7786",
+    "before": null,
+    "after": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3352",
+    "before": null,
+    "after": "S9LRTRJP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3352",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3352",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3352",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3352",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3352",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3352",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3352",
+    "before": null,
+    "after": "Black × After × continuous GenderBiasPCA, Table5B; log and share effects, including 0.046 and 0.004 nulls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3352",
+    "before": null,
+    "after": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Null specifically supports differentiation of gender and race mechanisms and is discussed with the central bias results. Source: Article pp11–12 Table5B; layout L789–806,910–928."
+  }
+]
+```
