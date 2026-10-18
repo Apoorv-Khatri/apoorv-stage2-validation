@@ -522798,3 +522798,264 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:51:55.342450+00:00 — Review R7QNVLC6 s11: source-audited coding and linked comparisons
+
+42 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1595",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1596",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1597",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1598",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1599",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1600",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1601",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1602",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1603",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1604",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1595",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1596",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1597",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1598",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1599",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1600",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1601",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1602",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1603",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1604",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1595",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1596",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1597",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1598",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1599",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1600",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1601",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1602",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1603",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1604",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1595",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s11 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1596",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s11 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1597",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s11 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1598",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s11 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1599",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s11 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1600",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s11 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1601",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s11 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1602",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s11 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1603",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s11 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1604",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s11 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I641",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O641",
+    "before": null,
+    "after": "Own-trade control tests persistence/flow confounding of the predictive signal. No claim that the FH slope measures a directional return effect. The autocorrelation regression constructs the measure; it is not a separate diagnostic first-stage IV. Source: pp2260,2262; Table XIII; L1751–1783,1849–1888. Source: pp2260,2262; Table XIII; L1751–1783,1849–1888."
+  }
+]
+```
