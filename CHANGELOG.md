@@ -603666,3 +603666,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:50:24.209795+00:00 — Review WZZQX3TX h24: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8246",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8246",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8246",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8246",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8246",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8246",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8246",
+    "before": null,
+    "after": "Board independence/director-count outcome of named robustness; exact final scale and outcome set unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3639",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3639",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3639",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3639",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3639",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3639",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3639",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3639",
+    "before": null,
+    "after": "Implied covenant violation on board independence; IA.XII sample-robustness family: exclude CEO-turnover events, split before/after SOX, extend through2014 (p.2413). Routine sample variants grouped; exact estimator/outcome scale unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3639",
+    "before": null,
+    "after": "Minimum supported scope, not a fabricated table grid. Introduction p.2386 emphasizes stronger effects without CEO replacement, hence main=1 for this grouped family; SOX and extended-period variants alone are supporting. Final supplement unavailable; do not infer hidden coefficients or methods."
+  }
+]
+```

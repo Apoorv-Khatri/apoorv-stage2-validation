@@ -36365,7 +36365,16 @@
     "L3638": "0",
     "M3638": "n/a",
     "N3638": "Implied covenant violations on independent-director count, Poisson robustness, IA.XII item 1 p.2413.",
-    "O3638": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Explicit Poisson nonlinear estimator, not FE method even with FE. Count dependent variable inferred from named Poisson extension of count regressions; no unseen offset or variant inferred."
+    "O3638": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Explicit Poisson nonlinear estimator, not FE method even with FE. Count dependent variable inferred from named Poisson extension of count regressions; no unseen offset or variant inferred.",
+    "A3639": "WZZQX3TX",
+    "B3639": "h24",
+    "I3639": "1",
+    "J3639": "unknown",
+    "K3639": "1",
+    "L3639": "1",
+    "M3639": "unknown",
+    "N3639": "Implied covenant violation on board independence; IA.XII sample-robustness family: exclude CEO-turnover events, split before/after SOX, extend through2014 (p.2413). Routine sample variants grouped; exact estimator/outcome scale unknown.",
+    "O3639": "Minimum supported scope, not a fabricated table grid. Introduction p.2386 emphasizes stronger effects without CEO replacement, hence main=1 for this grouped family; SOX and extended-period variants alone are supporting. Final supplement unavailable; do not infer hidden coefficients or methods."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92081,7 +92090,14 @@
     "H8245": "0",
     "I8245": "unknown",
     "J8245": "none",
-    "K8245": "Independent-director count in Poisson regression; exact link/offset and zero policy unverified."
+    "K8245": "Independent-director count in Poisson regression; exact link/offset and zero policy unverified.",
+    "A8246": "WZZQX3TX",
+    "B8246": "h24",
+    "C8246": "hy1",
+    "H8246": "0",
+    "I8246": "unknown",
+    "J8246": "unknown",
+    "K8246": "Board independence/director-count outcome of named robustness; exact final scale and outcome set unverified."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
