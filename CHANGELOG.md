@@ -573624,3 +573624,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:37:08.629984+00:00 — Review UUTLYHI2 h2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8014",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8014",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8014",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8014",
+    "before": null,
+    "after": "Dollar value of retained loan share divided by lagged bank total assets, Table4.B1–2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3496",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3496",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3496",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3496",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3496",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3496",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3496",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3496",
+    "before": null,
+    "after": "Lagged Tier1 capital/RWA effect on retained loan-share dollars / lagged bank assets, Table4.B1–2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3496",
+    "before": null,
+    "after": "Caption/table identify loan-year FE, with bank FE added column2; one/two effective dimensions both FE. Prose says loan and year separately; do not invent HDFE from that conflict. TableA1 instead describes share of commitment; main detailed prose/caption specify bank-assets scaling."
+  }
+]
+```
