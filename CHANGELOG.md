@@ -532626,3 +532626,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:03:58.142078+00:00 — Review RQ77EIC2 s2: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1690",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1690",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1690",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1690",
+    "before": null,
+    "after": "spurious under parameter-specific noncausal-association gate; parent s2 rejected (contested)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I670",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O670",
+    "before": null,
+    "after": "Reject under parameter-specific intention gate, not because results are null or identification is weak. Table5 and pp4400–4401 repeatedly say correlated, relationship, and mostly uncorrelated; no claim that changing sex/education/background changes partisanship. This is a contested boundary: broad explanatory reading would require five separate binary treatments, not one pooled row. No omitted causal null is presumed merely from nonsignificance. Source: Table5 pp4400–4401; L1672–1755."
+  }
+]
+```
