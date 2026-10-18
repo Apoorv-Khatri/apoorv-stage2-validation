@@ -387,6 +387,7 @@
     "B82": "The Political Economy of Financial Innovation: Evidence from Local Governments",
     "C82": "fin",
     "D82": 8,
+    "E82": "DONE — Full available-source review of 32 published pages with independent audit. Retain 31 setting scopes (8 original plus 23 additions), 47 outcome records including inactive duplicates, and one comparison; reject the original unbenchmarked timing comparison. Figure 4 summary-statistic setting and linked descriptive ratio excluded after contested-gate adjudication. A4 restricted to four minimum preferred instrumented scopes; four inferred naive cells remain excluded pending final implementation evidence. Nonlinear probit/tobit/logit designs coded Other, distinct linear conventional DiD retained. Instrumented-tax implementation and A3 tax-evolution treatment coding remain unknown; naive Table 8 models retained as biased causal benchmarks. Table 7 column-specific absences preserved, not treated as zeros. Eight held evidence items remain outside application. Final supplement unavailable; older author draft not substituted, unseen grids not certified. Original fields, IDs, hyperlinks and source conflicts preserved.",
     "A83": "UUTLYHI2",
     "B83": "The Rise of Shadow Banking: Evidence from Capital Regulation",
     "C83": "fin",
@@ -34783,7 +34784,16 @@
     "L3493": "0",
     "M3493": "n/a",
     "N3493": "Exclusively non-high-risk structured-loan use indicator effect in distance-instrumented reelection probit, TableA4 replication of Table8 established p.1931.",
-    "O3493": "p.1931 explicitly reports the instrumental-variable risk decomposition after separately replicating Table8. Retain only the preferred reelection/tax outcome scopes for each named binary treatment; no inferred naive-model grid, no appendix column labels or coefficients. Estimator family inherited narrowly from the stated Table8 replication: nonlinear reelection Other; instrumented linear tax unknown as s7. One distance variable is described in Table8, not independently verified in unavailable A4. Supporting main0; appendix placement alone is not the reason."
+    "O3493": "p.1931 explicitly reports the instrumental-variable risk decomposition after separately replicating Table8. Retain only the preferred reelection/tax outcome scopes for each named binary treatment; no inferred naive-model grid, no appendix column labels or coefficients. Estimator family inherited narrowly from the stated Table8 replication: nonlinear reelection Other; instrumented linear tax unknown as s7. One distance variable is described in Table8, not independently verified in unavailable A4. Supporting main0; appendix placement alone is not the reason.",
+    "A3494": "UTRUH2FR",
+    "B3494": "h28",
+    "I3494": "1",
+    "J3494": "unknown",
+    "K3494": "1",
+    "L3494": "0",
+    "M3494": "unknown",
+    "N3494": "Exclusively non-high-risk structured-loan use indicator effect in distance-instrumented tax-change regression, TableA4 replication of Table8 established p.1931.",
+    "O3494": "p.1931 explicitly reports the instrumental-variable risk decomposition after separately replicating Table8. Retain only the preferred reelection/tax outcome scopes for each named binary treatment; no inferred naive-model grid, no appendix column labels or coefficients. Estimator family inherited narrowly from the stated Table8 replication: nonlinear reelection Other; instrumented linear tax unknown as s7. One distance variable is described in Table8, not independently verified in unavailable A4. Supporting main0; appendix placement alone is not the reason."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88836,7 +88846,14 @@
     "H8011": "1",
     "I8011": "unknown",
     "J8011": "none",
-    "K8011": "Incumbent-party reelection indicator in A4; final narrative reports similarly higher reelection for non-high-risk usage."
+    "K8011": "Incumbent-party reelection indicator in A4; final narrative reports similarly higher reelection for non-high-risk usage.",
+    "A8012": "UTRUH2FR",
+    "B8012": "h28",
+    "C8012": "hy1",
+    "H8012": "0",
+    "I8012": "unknown",
+    "J8012": "none",
+    "K8012": "Change in local tax per inhabitant as Table8 replication; high-risk larger decrease and non-high-risk lower impact, pp.1931."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

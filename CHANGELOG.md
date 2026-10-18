@@ -572844,3 +572844,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:13:07.307507+00:00 — Review UTRUH2FR h28: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8012",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8012",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8012",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8012",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8012",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8012",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8012",
+    "before": null,
+    "after": "Change in local tax per inhabitant as Table8 replication; high-risk larger decrease and non-high-risk lower impact, pp.1931."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E82",
+    "before": null,
+    "after": "DONE — Full available-source review of 32 published pages with independent audit. Retain 31 setting scopes (8 original plus 23 additions), 47 outcome records including inactive duplicates, and one comparison; reject the original unbenchmarked timing comparison. Figure 4 summary-statistic setting and linked descriptive ratio excluded after contested-gate adjudication. A4 restricted to four minimum preferred instrumented scopes; four inferred naive cells remain excluded pending final implementation evidence. Nonlinear probit/tobit/logit designs coded Other, distinct linear conventional DiD retained. Instrumented-tax implementation and A3 tax-evolution treatment coding remain unknown; naive Table 8 models retained as biased causal benchmarks. Table 7 column-specific absences preserved, not treated as zeros. Eight held evidence items remain outside application. Final supplement unavailable; older author draft not substituted, unseen grids not certified. Original fields, IDs, hyperlinks and source conflicts preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3494",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3494",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3494",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3494",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3494",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3494",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3494",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3494",
+    "before": null,
+    "after": "Exclusively non-high-risk structured-loan use indicator effect in distance-instrumented tax-change regression, TableA4 replication of Table8 established p.1931."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3494",
+    "before": null,
+    "after": "p.1931 explicitly reports the instrumental-variable risk decomposition after separately replicating Table8. Retain only the preferred reelection/tax outcome scopes for each named binary treatment; no inferred naive-model grid, no appendix column labels or coefficients. Estimator family inherited narrowly from the stated Table8 replication: nonlinear reelection Other; instrumented linear tax unknown as s7. One distance variable is described in Table8, not independently verified in unavailable A4. Supporting main0; appendix placement alone is not the reason."
+  }
+]
+```
