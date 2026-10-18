@@ -36320,7 +36320,16 @@
     "L3633": "1",
     "M3633": "n/a",
     "N3633": "Any implied violation on connected and nonconnected independent-director counts, Table VIII columns 2 and 5; FD.",
-    "O3633": "RD precedence: equation (3) implements a direct discontinuity at binding distance zero with side-specific polynomials in a narrow window. Firm/year FE address selection and heterogeneity but do not override the implemented cutoff design (prompt lines24,30,41). No instrumented receipt. Keep authors’ manipulation, heterogeneous thresholds and switcher-target limitations; this taxonomy does not assert random crossing. First-differenced implementation retained separately for its reported outcome scale and estimator, not an independent FE design. Underlying binary cutoff exposure; first differencing the regressor does not change that binary intervention."
+    "O3633": "RD precedence: equation (3) implements a direct discontinuity at binding distance zero with side-specific polynomials in a narrow window. Firm/year FE address selection and heterogeneity but do not override the implemented cutoff design (prompt lines24,30,41). No instrumented receipt. Keep authors’ manipulation, heterogeneous thresholds and switcher-target limitations; this taxonomy does not assert random crossing. First-differenced implementation retained separately for its reported outcome scale and estimator, not an independent FE design. Underlying binary cutoff exposure; first differencing the regressor does not change that binary intervention.",
+    "A3634": "WZZQX3TX",
+    "B3634": "h19",
+    "I3634": "1",
+    "J3634": "RD",
+    "K3634": "1",
+    "L3634": "1",
+    "M3634": "n/a",
+    "N3634": "All implied covenant violation on level number of independent directors at t+2; Figure 2 A, pp.2400–2402, separate-side nonparametric regression, Epanechnikov kernel bandwidth .05; shown within ±.4.",
+    "O3634": "Direct local-mean discontinuity, no identifying firm FE. Authors interpret jumps as violation effects (approximately .8 / 1.2 directors respectively); no numerical reference-outcome benchmark attributed from graph."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91994,7 +92003,14 @@
     "H8239": "0",
     "I8239": "unknown",
     "J8239": "other",
-    "K8239": "First difference of log(1+nonconnected independent-director count). Zero prevalence unknown in focal subsample."
+    "K8239": "First difference of log(1+nonconnected independent-director count). Zero prevalence unknown in focal subsample.",
+    "A8240": "WZZQX3TX",
+    "B8240": "h19",
+    "C8240": "hy1",
+    "H8240": "0",
+    "I8240": "0",
+    "J8240": "none",
+    "K8240": "Number of independent directors at t+2, level count; positive count in Table I. Table I minimum raw count is 1 in the parent sample; a restricted subsample cannot introduce a zero count. This does not imply absence of log zeros."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
