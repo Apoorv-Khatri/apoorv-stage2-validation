@@ -513270,3 +513270,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:26:07.946157+00:00 — Review QLFZQVZU s15: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1502",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1502",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1502",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1502",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s15 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I622",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O622",
+    "before": null,
+    "after": "Special-item factor spanning tests distinct predictive information, including supporting null SPI and small-stock alphas and positive big-stock alphas. The authors replicate a mispricing-related pattern but do not estimate an effect of investor fixation or a binary special-item intervention. Actual regressors are continuous factor returns; alpha is an intercept. Unchanged HML_RE alphas across controls compare estimated effects, not outcome means. Source: pp250–251; Table9; L1341–1434. Source: pp250–251; Table9; L1341–1434."
+  }
+]
+```
