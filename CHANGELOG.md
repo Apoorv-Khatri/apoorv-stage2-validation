@@ -551637,3 +551637,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:59:13.005836+00:00 — Review S9LRTRJP h14: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7809",
+    "before": null,
+    "after": "S9LRTRJP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7810",
+    "before": null,
+    "after": "S9LRTRJP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7809",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7810",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7809",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7810",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7809",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7810",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7809",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7810",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7809",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7810",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7809",
+    "before": null,
+    "after": "Log(1+total past-due dollars) in buyer–supplier-month; full-amount outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7810",
+    "before": null,
+    "after": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3364",
+    "before": null,
+    "after": "S9LRTRJP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3364",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3364",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3364",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3364",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3364",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3364",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3364",
+    "before": null,
+    "after": "Relationship distance quartile 3 versus quartile1 × After; TableA2 cols4,8, both payment outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3364",
+    "before": null,
+    "after": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Appendix Section2 expressly says importance impacts payment behavior; retain substantive supporting estimates including nulls. Age defined as years at COVID start (main text alternatively describes months); distance between zip codes. Predetermined age/distance contrasts, not time-varying continuous treatment. Main=1 recommendation: introduction p3 explicitly enumerates age, sales and distance and the substantive finding that less important relationships face larger delays. This materially supports the central interpretation after competing economic channels are examined, just as punishment does. Null individual contrasts remain in that family; not a significance-based designation. Parent should adjudicate this role disagreement. Source: Supplement pp2–3,16 TableA2; layout L43–63,514–558."
+  }
+]
+```
