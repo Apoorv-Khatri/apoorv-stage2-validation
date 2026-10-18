@@ -549192,3 +549192,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:51:44.442686+00:00 — Review S9LRTRJP s1: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K394",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K395",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R394",
+    "before": null,
+    "after": "Log1p coefficient interpreted approximately as 21 percent; no separately stated outcome level benchmark. Relative to control describes DiD, not division by an outcome benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R395",
+    "before": null,
+    "after": "0.091–0.155 share-unit effects are approximately 9.1–15.5 percentage points, despite prose percent wording. No stated control outcome level or actual normalization. A treatment contrast is not automatically a benchmark comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7782",
+    "before": null,
+    "after": "S9LRTRJP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7782",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7782",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1720",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1721",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7782",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1721",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7782",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1720",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1721",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7782",
+    "before": null,
+    "after": "ihs"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1721",
+    "before": null,
+    "after": "Share of most recent credit sale past due in subsequent month (0–1 units), not a binary delinquency flag. Zero mass in this exact continuing-relationship estimation sample not established by a positive mean or by log1p elsewhere."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7782",
+    "before": null,
+    "after": "Inverse hyperbolic sine of total past-due dollars; implemented robustness reports quantitative and qualitative similarity; no numerical coefficients supplied. Only immediate Table3 baseline context, not automatically every later model."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J692",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M692",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N692",
+    "before": null,
+    "after": "Minority (female OR Black lead credit officer) × After; Table 3A/B log(1+past-due dollars) and past-30-day share; footnote14 IHS robustness added as hy1; footnote11 NamSor assignment is a routine measurement variant."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O692",
+    "before": null,
+    "after": "Conventional post-COVID differential change; method precedence overrides FE and OLS implementation. October 2019–May 2020; March onset in text versus caption saying after March is a source timing ambiguity, not silently repaired. Parallel counterfactual trends and no remaining differential shocks are maintained, not established by coding. Table3 cols1–3 seller and month FE; col4 seller×buyer plus month; col5 seller×buyer plus buyer×month (nested seller/month rows not extra effective dimensions). No genuine no-FE OLS split. Source: Article pp5–8, Eq1, Table3; footnotes11,14."
+  }
+]
+```
