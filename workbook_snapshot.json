@@ -35488,7 +35488,16 @@
     "L3559": "1",
     "M3559": "n/a",
     "N3559": "Divestiture over three years prior to t, Table 1 Panel B column 7: effect on activist targeting in t.",
-    "O3559": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses."
+    "O3559": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses.",
+    "A3560": "VPZERBIY",
+    "B3560": "h13",
+    "I3560": "1",
+    "J3560": "OLS",
+    "K3560": "1",
+    "L3560": "1",
+    "M3560": "n/a",
+    "N3560": "Large divestiture over three years prior to t, Table 1 Panel B column 8: effect on activist targeting in t.",
+    "O3560": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -90136,7 +90145,14 @@
     "H8087": "1",
     "I8087": "1",
     "J8087": "none",
-    "K8087": "Activist target indicator in year t (Table 1 Panel B)."
+    "K8087": "Activist target indicator in year t (Table 1 Panel B).",
+    "A8088": "VPZERBIY",
+    "B8088": "h13",
+    "C8088": "hy1",
+    "H8088": "1",
+    "I8088": "1",
+    "J8088": "none",
+    "K8088": "Activist target indicator in year t (Table 1 Panel B)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -148930,7 +148946,18 @@
     "O5258": "1",
     "P5258": "unknown",
     "Q5258": "Table1B pp.531–532: Column 7 coefficient on Divestiture = -0.0107 in Table 1 Panel B. Benchmark: Unconditional probability of being targeted by activists in the matched sample. \"We find that past divestitures are negatively associated with activist targeting; in economic terms, firms that have conducted a divestiture (large divestiture) experience a 22.5% (35.1%) lower probability of being targeted by activists relative to the unconditional probability in the matched sample.\"",
-    "R5258": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment."
+    "R5258": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment.",
+    "A5259": "VPZERBIY",
+    "B5259": "h13",
+    "C5259": "hc1",
+    "K5259": "1",
+    "L5259": "hy1",
+    "M5259": "outcome_mean",
+    "N5259": "1",
+    "O5259": "1",
+    "P5259": "unknown",
+    "Q5259": "Table1B pp.531–532: Column 8 coefficient on Large divestiture = -0.0172 in Table 1 Panel B. Benchmark: Unconditional probability of being targeted by activists in the matched sample. \"We find that past divestitures are negatively associated with activist targeting; in economic terms, firms that have conducted a divestiture (large divestiture) experience a 22.5% (35.1%) lower probability of being targeted by activists relative to the unconditional probability in the matched sample.\"",
+    "R5259": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
