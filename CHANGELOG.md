@@ -579870,3 +579870,504 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:12:40.426759+00:00 — Review VPZERBIY s5: source-audited coding and linked comparisons
+
+82 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K445",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K446",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K447",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K448",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L444",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L445",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L446",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L447",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L448",
+    "before": null,
+    "after": "y8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M444",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M445",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M446",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M447",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M448",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N445",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N446",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N447",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N448",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O445",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O446",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O447",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O448",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P444",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P445",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P446",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P447",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P448",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q444",
+    "before": null,
+    "after": "Table4A pp.535,538: Table 4 Panel A column 1 coefficient on Activist = 0.0752 for divestiture probability over [t, t+1]. Benchmark: Unconditional probability of divestiture in the matched sample. \"In economic terms, targets are 46.4% more likely to engage in divestitures in the first year post-activism, 27.9% in the second year, and 17.7% in the third year, indicating that the effect of activism on divestiture activity is stronger closer to the start of a campaign.\""
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q445",
+    "before": null,
+    "after": "Table4A pp.535,538: Table 4 Panel A column 2 coefficient on Activist = 0.0717 for divestiture probability over [t, t+3]. Benchmark: Unconditional divestiture probability in the matched sample; authors express later horizons as percent changes. \"In economic terms, targets are 46.4% more likely to engage in divestitures in the first year post-activism, 27.9% in the second year, and 17.7% in the third year, indicating that the effect of activism on divestiture activity is stronger closer to the start of a campaign.\""
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q446",
+    "before": null,
+    "after": "Table4A pp.535,538: Table 4 Panel A column 4 coefficient on Activist = 0.0494 for large divestiture probability over [t, t+1]. Benchmark: Unconditional probability of a large divestiture in the matched sample. \"In economic terms, targets are 49.6% more likely to undertake a large divestiture in the first year post-activism and 32.0% more likely to do so in the three years after activism.\""
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q447",
+    "before": null,
+    "after": "Table4A pp.535,538: Table 4 Panel A column 5 coefficient on Activist = 0.0549 for large divestiture probability over [t, t+3]. Benchmark: Unconditional probability of a large divestiture in the matched sample. \"In economic terms, targets are 49.6% more likely to undertake a large divestiture in the first year post-activism and 32.0% more likely to do so in the three years after activism.\""
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q448",
+    "before": null,
+    "after": "Table4A pp.535,538: Table 4 Panel A column 8 coefficient on Activist = 0.0521 for reduction in business segments over [t, t+3]. Benchmark: Probability of reducing the number of business segments when divesting, for matched non-targets / unconditional comparison used by authors. \"For example, the coefficient in Column 8 indicates that targets are two times more likely (in economic terms) to reduce the number of business segments when divesting assets, compared to matched non-targets.\""
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R444",
+    "before": null,
+    "after": "A probability is an outcome mean, not other_level. Regression target/conditioning and untreated benchmark weights not established; unknown alignment, not presumed aligned merely because matched sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R445",
+    "before": null,
+    "after": "A probability is an outcome mean, not other_level. Regression target/conditioning and untreated benchmark weights not established; unknown alignment, not presumed aligned merely because matched sample. Final introduction p.527 explicitly links 28% to three years, supporting c2 despite p.535 second-year typo; retain literal conflict."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R446",
+    "before": null,
+    "after": "A probability is an outcome mean, not other_level. Regression target/conditioning and untreated benchmark weights not established; unknown alignment, not presumed aligned merely because matched sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R447",
+    "before": null,
+    "after": "A probability is an outcome mean, not other_level. Regression target/conditioning and untreated benchmark weights not established; unknown alignment, not presumed aligned merely because matched sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R448",
+    "before": null,
+    "after": "A probability is an outcome mean, not other_level. Regression target/conditioning and untreated benchmark weights not established; unknown alignment, not presumed aligned merely because matched sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1868",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1869",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1870",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1871",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1872",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1873",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1874",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1875",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1876",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1868",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1869",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1870",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1871",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1872",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1873",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1874",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1875",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1876",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1868",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1869",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1870",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1871",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1872",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1873",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1874",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1875",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1876",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1868",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1869",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1870",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1871",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1872",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1873",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1874",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1875",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1876",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I773",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J773",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K773",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L773",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M773",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O773",
+    "before": null,
+    "after": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported."
+  }
+]
+```
