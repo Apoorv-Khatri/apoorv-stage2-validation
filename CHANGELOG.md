@@ -591603,3 +591603,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:44:06.121282+00:00 — Review WERKYTKC h13: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8173",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8173",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8173",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8173",
+    "before": null,
+    "after": "Dividend Payout Change = proportional RCD change (Appendix A), despite caption wording dividend yield change. Not an outcome-mean comparison."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3583",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3583",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3583",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3583",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3583",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3583",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3583",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3583",
+    "before": null,
+    "after": "180-day TNIC peer dividend-increase share on proportional RCD change, Table C.6B, estimates 27%/48%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3583",
+    "before": null,
+    "after": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables."
+  }
+]
+```
