@@ -32915,7 +32915,16 @@
     "L3337": "0",
     "M3337": "unknown",
     "N3337": "Revenue timing variants after IPO; qualitative allocation coefficients significant and slightly smaller. Exact years/contrasts not supplied. Provisional minimum-scope appendix family, not an exact setting count.",
-    "O3337": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. Final text establishes implemented result but not appendix method battery/column mapping; do not assume FE/HDFE, quartile indicator contrasts or coefficients. Main-versus-supporting judged as robustness of revenue findings, not from appendix placement. Source: p2330 TableIA.VII reference; L1314–1330."
+    "O3337": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. Final text establishes implemented result but not appendix method battery/column mapping; do not assume FE/HDFE, quartile indicator contrasts or coefficients. Main-versus-supporting judged as robustness of revenue findings, not from appendix placement. Source: p2330 TableIA.VII reference; L1314–1330.",
+    "A3338": "S3X8G9NP",
+    "B3338": "h1",
+    "I3338": "1",
+    "J3338": "DiD_conventional",
+    "K3338": "0",
+    "L3338": "1",
+    "M3338": "n/a",
+    "N3338": "Fourth county subscription rate × post-1918; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Table5 odd cols1,3,5,7, p210; layout L857–897.",
+    "O3338": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. OLS-labelled implementation of conventional intensity DiD: county/year FE and pre/post effect. Not an OLS-method row. Distinct from annual Fig4/5 and from IV. No no-FE OLS specification is reported. Source: Table5 odd cols1,3,5,7, p210; layout L857–897."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85450,7 +85459,23 @@
     "H7741": "0",
     "I7741": "unknown",
     "J7741": "unknown",
-    "K7741": "Commercial-bank deposits, qualitatively reported as very similar to assets in the paragraph immediately defining Eq (2), p204. Attach once to contemporaneous investment-bank presence (s3), not also to Eq (3) entry (s4). No deposits estimates displayed. Log scale is inferred from the parallel bank-outcome definitions in Eq (1), not explicitly restated for this unreported regression; implementation/scale not independently shown."
+    "K7741": "Commercial-bank deposits, qualitatively reported as very similar to assets in the paragraph immediately defining Eq (2), p204. Attach once to contemporaneous investment-bank presence (s3), not also to Eq (3) entry (s4). No deposits estimates displayed. Log scale is inferred from the parallel bank-outcome definitions in Eq (1), not explicitly restated for this unreported regression; implementation/scale not independently shown.",
+    "A7742": "S3X8G9NP",
+    "B7742": "h1",
+    "C7742": "hy1",
+    "K7742": "Log total commercial-bank assets (dollars); counties without commercial banks omitted (p201 fn2). Table5 odd cols1,3,5,7, p210; layout L857–897",
+    "A7743": "S3X8G9NP",
+    "B7743": "h1",
+    "C7743": "hy2",
+    "K7743": "Log total commercial-bank deposits (dollars). Table5 odd cols1,3,5,7, p210; layout L857–897",
+    "A7744": "S3X8G9NP",
+    "B7744": "h1",
+    "C7744": "hy3",
+    "K7744": "Reported log number of investment banks; source does not specify zero-count handling. Do not infer log1p despite inclusion of counties without investment banks. Table5 odd cols1,3,5,7, p210; layout L857–897",
+    "A7745": "S3X8G9NP",
+    "B7745": "h1",
+    "C7745": "hy4",
+    "K7745": "Indicator for at least one investment bank in county-year (0/1). Table5 odd cols1,3,5,7, p210; layout L857–897"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
