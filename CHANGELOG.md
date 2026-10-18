@@ -578658,3 +578658,210 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:11:20.091700+00:00 — Review VPZERBIY s1: source-audited coding and linked comparisons
+
+33 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K430",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K431",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K432",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K433",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K437",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L430",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M430",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N430",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O430",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P430",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q430",
+    "before": null,
+    "after": "Table1B pp.531–532: Column 1 coefficient on Stock bid = 0.0389 in Table 1 Panel B, for the effect of having a stock-financed acquisition in the prior three years on activist-target probability in year t. Benchmark: Unconditional probability of activist arrival/targeting in the matched sample; exact level not stated in the sentence, but the paper explicitly uses it as the denominator for the percentage comparison. \"In economic terms, a prior stock (cash) acquisition increases the probability of being targeted by 79.7% (35.4%) of the unconditional probability in this matched sample.\""
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R430",
+    "before": null,
+    "after": "A probability is an outcome mean, not other_level. Regression target/conditioning and untreated benchmark weights not established; unknown alignment, not presumed aligned merely because matched sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R431",
+    "before": null,
+    "after": "Distinct treatment split; comparison retained once under h1/hc1. Original row/ID preserved inactive."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R432",
+    "before": null,
+    "after": "Distinct treatment split; comparison retained once under h6/hc1. Original row/ID preserved inactive."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R433",
+    "before": null,
+    "after": "Distinct treatment split; comparison retained once under h7/hc1. Original row/ID preserved inactive."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R434",
+    "before": null,
+    "after": "Distinct treatment split; comparison retained once under h10/hc1. Original row/ID preserved inactive."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R435",
+    "before": null,
+    "after": "Distinct treatment split; comparison retained once under h11/hc1. Original row/ID preserved inactive."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R436",
+    "before": null,
+    "after": "Distinct treatment split; comparison retained once under h12/hc1. Original row/ID preserved inactive."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R437",
+    "before": null,
+    "after": "Distinct treatment split; comparison retained once under h13/hc1. Original row/ID preserved inactive."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1851",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1851",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1851",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1851",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I769",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J769",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K769",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L769",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M769",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N769",
+    "before": null,
+    "after": "Prior stock-financed acquisition indicator over the three years before t, Table 1 Panel B column 1: effect on activist targeting in t. Other distinct acquisition/divestiture treatments split to h1–h13."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O769",
+    "before": null,
+    "after": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 explicitly asks whether prior behavior affects targeting and concludes it makes firms prone to intervention. Not excluded merely because the outcome is selection into activism."
+  }
+]
+```
