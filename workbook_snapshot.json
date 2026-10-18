@@ -36410,7 +36410,16 @@
     "L3643": "0",
     "M3643": "unknown",
     "N3643": "Implied covenant violation on board independence using alternative lag structures; IA.XIII–XX, pp.2397,2413.",
-    "O3643": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. One minimum lag-family scope, not eight fabricated table settings; exact horizons/outcomes/estimator allocation held."
+    "O3643": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. One minimum lag-family scope, not eight fabricated table settings; exact horizons/outcomes/estimator allocation held.",
+    "A3644": "WZZQX3TX",
+    "B3644": "h31",
+    "I3644": "1",
+    "J3644": "unknown",
+    "K3644": "1",
+    "L3644": "0",
+    "M3644": "unknown",
+    "N3644": "Implied covenant violation on board independence controlling for past stock returns and alternative discontinuity-sample retention; IA.XIII–XX p.2413.",
+    "O3644": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Minimum combined implemented robustness scope; unknown how individual tables allocate routines versus distinct estimators."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92161,7 +92170,14 @@
     "H8250": "0",
     "I8250": "unknown",
     "J8250": "unknown",
-    "K8250": "Board independence under alternative lags; exact final outcome scale unknown."
+    "K8250": "Board independence under alternative lags; exact final outcome scale unknown.",
+    "A8251": "WZZQX3TX",
+    "B8251": "h31",
+    "C8251": "hy1",
+    "H8251": "0",
+    "I8251": "unknown",
+    "J8251": "unknown",
+    "K8251": "Board independence; exact outcome scale unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
