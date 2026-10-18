@@ -527418,3 +527418,378 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T09:02:34.635953+00:00 — Review RDVTTVCR h7: source-audited coding and linked comparisons
+
+61 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5198",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5199",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5200",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5201",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5198",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5199",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5200",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5201",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5198",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5199",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5200",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5201",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5198",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5198",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5199",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5200",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5201",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5198",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5199",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5200",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5201",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5198",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5198",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5198",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5199",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5200",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5201",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5198",
+    "before": null,
+    "after": "p2893 Section4.4 Eqs7–8; non-GIIPS firms without GIIPS/other non-EU subsidiaries: aggregate bank-lending-shock employment loss accounts for 49% of the observed total 1.6% employment decline over the crisis. Benchmark is total sample net change, not an untreated mean. Authors report share of total decline; no implied effect computed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5199",
+    "before": null,
+    "after": "p2893 Section4.4 Eqs7–8; non-GIIPS firms without GIIPS/other non-EU subsidiaries: aggregate bank-lending-shock sales loss accounts for 44% of the observed total 2% sales decline over the crisis. Benchmark is total sample net change, not an untreated mean. Authors report share of total decline; no implied effect computed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5200",
+    "before": null,
+    "after": "p2893 Section4.4 Eqs7–8; GIIPS firms with high revenue from non-GIIPS subsidiaries: aggregate bank-lending-shock employment loss accounts for 66% of the observed total 5.6% employment decline over the crisis. Benchmark is total sample net change, not an untreated mean. Authors report share of total decline; no implied effect computed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5201",
+    "before": null,
+    "after": "p2893 Section4.4 Eqs7–8; GIIPS firms with high revenue from non-GIIPS subsidiaries: aggregate bank-lending-shock sales loss accounts for 61% of the observed total 3.6% sales decline over the crisis. Benchmark is total sample net change, not an untreated mean. Authors report share of total decline; no implied effect computed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5198",
+    "before": null,
+    "after": "Separate aggregate estimand from Table4 individual growth coefficients. Total observed outcome change qualifies as other same-outcome level; eligibility is contested if taxonomy disallows aggregates of changes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5199",
+    "before": null,
+    "after": "Separate aggregate estimand from Table4 individual growth coefficients. Total observed outcome change qualifies as other same-outcome level; eligibility is contested if taxonomy disallows aggregates of changes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5200",
+    "before": null,
+    "after": "Separate aggregate estimand from Table4 individual growth coefficients. Total observed outcome change qualifies as other same-outcome level; eligibility is contested if taxonomy disallows aggregates of changes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5201",
+    "before": null,
+    "after": "Separate aggregate estimand from Table4 individual growth coefficients. Total observed outcome change qualifies as other same-outcome level; eligibility is contested if taxonomy disallows aggregates of changes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7562",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7563",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7562",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7563",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7562",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7563",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7562",
+    "before": null,
+    "after": "Aggregate employment loss over 2010–2012 attributable to bank lending shock relative to least-affected-syndicate counterfactual; employment levels, not individual log-growth coefficients."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7563",
+    "before": null,
+    "after": "Aggregate sales loss over 2010–2012 attributable to bank lending shock; analogous growth-to-level calculation stated, exact formula not displayed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3189",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3189",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3189",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3189",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3189",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3189",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3189",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3189",
+    "before": null,
+    "after": "Aggregate employment and sales losses attributed to lender risk: counterfactual move of each above-threshold firm to 5th-percentile risk (10th in robustness), non-GIIPS domestic and GIIPS outward-exposed samples, Section4.4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3189",
+    "before": null,
+    "after": "Eq6 changes continuous risk using estimated regression slope; Eq7 converts fitted and counterfactual growth to employment levels and sums losses. Nonlinear growth-to-level aggregate counterfactual, not a new IV or binary receipt effect. Sales described as analogous; exact sales implementation not displayed. Partial equilibrium assumes least-affected syndicate did not shift supply and total effects add across firms. Main: abstract 44%–66%. Source: Section4.4 pp2891–2894 Eqs6–8; L2164–2188,2282–2368."
+  }
+]
+```
