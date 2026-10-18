@@ -526482,3 +526482,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T09:00:09.200036+00:00 — Review RDVTTVCR h3: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7544",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7545",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7546",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7547",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7548",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7549",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7544",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7545",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7546",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7547",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7548",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7549",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7544",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7545",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7546",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7547",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7548",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7549",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7544",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7545",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7546",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7547",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7549",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7544",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7545",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7546",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7547",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7548",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7549",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7544",
+    "before": null,
+    "after": "Change in cash holdings divided by lagged total assets; cash-flow sensitivity is a coefficient, not the dependent variable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7545",
+    "before": null,
+    "after": "Net debt: (current+noncurrent liabilities-cash)/total assets."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7546",
+    "before": null,
+    "after": "Interest coverage ratio: EBIT/interest expense."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7547",
+    "before": null,
+    "after": "Employment growth: ln(Employment[t+1])-ln(Employment[t]); a log difference, not log of a growth rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7548",
+    "before": null,
+    "after": "CAPX investment proxy: (Fixed Assets[t+1]-Fixed Assets[t]+Depreciation)/Fixed Assets[t], set to zero when negative; Table1 and footnote25."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7549",
+    "before": null,
+    "after": "Sales growth: ln(Sales[t+1])-ln(Sales[t]); a log difference."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3185",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3185",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3185",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3185",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3185",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3185",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3185",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3185",
+    "before": null,
+    "after": "Continuous indirect sovereign-risk dose with heterogeneity by No Rating, Table7 panelB; cashflow triple interaction in cash equation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3185",
+    "before": null,
+    "after": "Eqs4–5 pp2879–2880 establish identifying roles: firm FE absorb fixed firm heterogeneity, industry×country×year FE absorb local industry demand, foreign-bank-GIIPS-country×year FE address firms' geographic business exposure. Three nonredundant FE batteries: HDFE. Table4 credit-line columns replace industry×country×year with country×year, retaining three. Continuous time-varying lender risk, not a treated/post interaction and not IV. Frozen 2009 loan/syndicate weights mitigate rematching. Distinct moderator and separately reported panel; include base-group nulls. Not binary treatment simply because the moderator is binary. No Bond Outstanding is described as no bond issue during the sample, so not asserted predetermined. Source: pp2891–2892 Table7B; L2141–2267."
+  }
+]
+```
