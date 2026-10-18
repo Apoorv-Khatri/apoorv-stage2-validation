@@ -608820,3 +608820,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T20:00:00.478738+00:00 — Review XFGMHICU h11: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8288",
+    "before": null,
+    "after": "XFGMHICU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8288",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8288",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8288",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8288",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8288",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8288",
+    "before": null,
+    "after": "Firm-level two-day risk-adjusted stock return in basis points for Event-2, November23-24, 2010, November22 close to November24 close; Table 4 Event-1/Event-2 columns rows 4-6 and 10-12 (p.646). Actual dependent return, not estimated Treat coefficient. Unflipped return scale; estimated effect is not the dependent variable. Method2 return construction. No log or outcome-SD transformation; zero mass unknown."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E89",
+    "before": null,
+    "after": "DONE — Full available-source review of all11 final pages, four tables and footnotes1–11, with independent audit. Retain15 settings: four original pooled scopes and11 additions;11 outcomes added, eight original coefficient-as-outcome records inactive with replacement links. Separate October and November interventions from each other and the pooled sign-aligned common-slope estimate. Identifying industry FE distinguished from no-industry-FE OLS; event-window factor-adjusted returns do not by themselves establish DiD. Table1B event-specific FE implementation unresolved, two methods unknown. Treat1/2/3 grouped as nested exposure/sample variants, all scopes central to the rebuttal. No qualifying magnitude comparisons; effect ratios, sample-size ratios and inference diagnostics excluded. Preserve Treat3 June/July and table/prose significance conflicts. Final external supplement unverified; no older draft substituted. Original fields, IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3664",
+    "before": null,
+    "after": "XFGMHICU"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3664",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3664",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3664",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3664",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3664",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3664",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3664",
+    "before": null,
+    "after": "Binary late-meeting Delaware staggered-board firms versus January-March controls. Treat-1 September-December; Treat-2 July-December; Treat-3 Treat-2 excluding December per all captions (July-November); p.641 instead says June-November, unresolved printed conflict. Treat-1/2/3 are grouped alternative inclusion/threshold definitions of the same exposure, not continuous doses. Table 4 rows 4-6 and 10-12, p.646, Event-2 coefficient only: effect of the November 23, 2010 Supreme Court reversal strengthening board protection on unflipped firm two-day risk-adjusted returns. Separate event-specific treatment/estimand from both the other ruling and the pooled signed-return coefficient. One dependent return outcome; simulation p-values excluded."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3664",
+    "before": null,
+    "after": "No IV, actual randomized assignment, direct cutoff discontinuity, modern DiD or implemented conventional parallel-trends comparison is established. Event-window abnormal-return contrasts are not automatically DiD: returns are relative to factor-model expected returns, not a treated/control pre/post outcome-change comparison. Apply FE before OLS only where industry FE implement the explicit confounding-news rationale (pp.639,645-646). Factor controls are not FE; clustering is not absorption. No industry FE in these rows; within a single-event sample the event indicator is constant. Zero nonconstant FE dimensions. OLS. Main=1: The introduction explicitly highlights no-industry-FE results (p.638); they directly rebut the claim of dependence on GICS-6. Separate event coefficients supply the actual opposite-sign valuation responses used in the central paired-event evidence, not just null simulations. Pooled parent h1."
+  }
+]
+```
