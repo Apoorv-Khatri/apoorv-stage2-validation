@@ -526161,3 +526161,324 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T08:59:33.188051+00:00 — Review RDVTTVCR h2: source-audited coding and linked comparisons
+
+52 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5196",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5197",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5196",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5197",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5196",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5197",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5196",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5197",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5196",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5197",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5196",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5197",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5196",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5197",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5196",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5197",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5196",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5197",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5196",
+    "before": null,
+    "after": "p2874 Table3 cols1/2; One-SD-larger Net Change Risk-Shifting Asset_t (1.73) implies a 2.6 pp reduction in loan volume, Table 3 col. (2), panel A. Benchmark: Standard deviation of precrisis loan growth; authors say the effect corresponds to 28% of that SD. “Moreover, a one-SD-larger Net Change Risk-Shifting Asset t (1.73) implies a reduction in loan volume by 2.6 pp and a 3.3 pp higher likelihood of a loan decrease. This loan volume decrease corresponds to 28% of the SD of precrisis loan growth.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5197",
+    "before": null,
+    "after": "p2874 Table3 cols1/2; Changing Net Change Risk-Shifting Asset_t from the 10th to the 90th percentile leads to a 9.5 pp higher likelihood of a loan decrease, Table 3 col. (2), panel B. Benchmark: Predicted likelihood of a loan decrease at the 90th percentile: 17.6%. “Changing the Net Change Risk-Shifting Asset t from the 10th percentile to the 90th percentile of the distribution leads to a 9.5 pp higher likelihood of a loan decrease. The predicted likelihood of a loan decrease at the 90th percentile was 17.6%, implying a reduction in the probability of a loan contraction of 53% when borrowing from a bank at the 10th instead of the 90th percentile.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5196",
+    "before": null,
+    "after": "Moved from s4/c2 without treating dose percentile comparison as a binary treatment. Precrisis growth-SD target weights unreported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5197",
+    "before": null,
+    "after": "Moved from s4/c3 without treating dose percentile comparison as a binary treatment. Predicted endpoint probability is outcome_mean; averaging/conditioning target unclear."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7541",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7542",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7543",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7541",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7542",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7543",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7541",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7542",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7543",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7541",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7542",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7543",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7541",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7542",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7543",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7541",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7542",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7543",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7541",
+    "before": null,
+    "after": "Change in bank-to-firm-cluster loan volume; Table2/3 use growth/change scale, not log loan levels."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7542",
+    "before": null,
+    "after": "Loan-decrease indicator at bank–firm-cluster level; not an individual application approval indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7543",
+    "before": null,
+    "after": "Change in average loan spread paid by firms in cluster, basis points in Table2/3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3184",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3184",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3184",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3184",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3184",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3184",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3184",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3184",
+    "before": null,
+    "after": "Net Change Risk-Shifting Asset dose and GIIPS bank lending, Table3 A–C cols2/5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3184",
+    "before": null,
+    "after": "Eq1 pp2868–2870: firm-cluster×year FE absorb borrower demand/common shocks; firm-cluster×bank FE absorb persistent borrower-bank heterogeneity. Two effective identifying FE dimensions, not HDFE and not DiD merely because outcomes change during the crisis. Every displayed Table2/3 column has both FE; no actual no-FE OLS column. Author explicitly interprets the focal bank affectedness parameter as changing loan supply. Conditioning is not proof of exogeneity. Distinct net sovereign exposure, not routine alternative controls for gross exposure. Source: pp2872–2874 Table3 cols2/5; L1105–1251."
+  }
+]
+```
