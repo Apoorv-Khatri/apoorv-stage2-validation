@@ -572424,3 +572424,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:11:34.906190+00:00 — Review UTRUH2FR h20: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8008",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8008",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8008",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8008",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8008",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8008",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8008",
+    "before": null,
+    "after": "Reelection indicator, TableA3 described p.1931; estimator and tax-evolution treatment coding unresolved, no numeric coefficient reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3490",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3490",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3490",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3490",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3490",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3490",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3490",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3490",
+    "before": null,
+    "after": "Tax evolution effect on incumbent-party reelection, TableA3 described p.1931."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3490",
+    "before": null,
+    "after": "p.1931 TableA3 explicitly regresses reelection on tax evolution and interprets a fiscal channel. The final text does not establish estimator or whether tax evolution enters as a continuous change versus an indicator/other coding; method and binary unknown. Do not import the Table8 recipe. Supporting mechanism, main0."
+  }
+]
+```

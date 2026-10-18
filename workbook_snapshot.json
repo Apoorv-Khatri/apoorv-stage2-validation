@@ -34747,7 +34747,16 @@
     "L3489": "0",
     "M3489": "n/a",
     "N3489": "Lagged count of same-county active neighbors effect on aggregated transaction notional in current quarter; equation2 OLS variant described p.1928/TableA6.",
-    "O3489": "Linear OLS with entity and quarter FE, explicitly netting persistent heterogeneity/common time trend; two effective dimensions. Distinct notional outcome estimator from conditional-logit s5; minimum final-text scope without unavailable A6 grid."
+    "O3489": "Linear OLS with entity and quarter FE, explicitly netting persistent heterogeneity/common time trend; two effective dimensions. Distinct notional outcome estimator from conditional-logit s5; minimum final-text scope without unavailable A6 grid.",
+    "A3490": "UTRUH2FR",
+    "B3490": "h20",
+    "I3490": "1",
+    "J3490": "unknown",
+    "K3490": "unknown",
+    "L3490": "0",
+    "M3490": "unknown",
+    "N3490": "Tax evolution effect on incumbent-party reelection, TableA3 described p.1931.",
+    "O3490": "p.1931 TableA3 explicitly regresses reelection on tax evolution and interprets a fiscal channel. The final text does not establish estimator or whether tax evolution enters as a continuous change versus an indicator/other coding; method and binary unknown. Do not import the Table8 recipe. Supporting mechanism, main0."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88772,7 +88781,14 @@
     "A8007": "UTRUH2FR",
     "B8007": "h19",
     "C8007": "hy1",
-    "K8007": "Aggregated notional amount of structured transactions implemented by local government i in quarter t; units and log/level scale beyond stated notional unresolved in unavailable A6."
+    "K8007": "Aggregated notional amount of structured transactions implemented by local government i in quarter t; units and log/level scale beyond stated notional unresolved in unavailable A6.",
+    "A8008": "UTRUH2FR",
+    "B8008": "h20",
+    "C8008": "hy1",
+    "H8008": "1",
+    "I8008": "unknown",
+    "J8008": "none",
+    "K8008": "Reelection indicator, TableA3 described p.1931; estimator and tax-evolution treatment coding unresolved, no numeric coefficient reported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
