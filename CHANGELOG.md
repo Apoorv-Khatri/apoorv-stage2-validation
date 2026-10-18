@@ -590580,3 +590580,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:40:27.550637+00:00 — Review WERKYTKC h2: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5295",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5295",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5295",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5295",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5295",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5295",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5295",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5295",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5295",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5295",
+    "before": null,
+    "after": "Section 4.2 p.559, Table 8 col.2: strategically vulnerable firm is \"twice as likely to payout additional cash when peer influence is high.\" Focal estimate is the author-reported qualitative high-peer versus lower-peer likelihood contrast for strategically vulnerable firms; NOT a numerical claim that the 4.3pp interaction equals a doubling. Benchmark is the comparison likelihood implicit in twice as likely; its numerical value and exact peer cutoff are not supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5295",
+    "before": null,
+    "after": "Retain verbal same-outcome probability ratio on its own terms; outcome_mean/verbal1/divided1. Exact lower-peer reference, weights and contrast construction are unspecified, hence alignment unknown. Table8 interaction 4.3pp and peer slope16.1% supply model context only; neither is asserted to be the numerator of this ratio. Parent may hold if requiring numerical-estimate allocation beyond the prompt."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8162",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8162",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8162",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8162",
+    "before": null,
+    "after": "Own dividend-increase indicator, Table 8. No binary-treatment outcome labels required for continuous peer-share slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3572",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3572",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3572",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3572",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3572",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3572",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3572",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3572",
+    "before": null,
+    "after": "Continuous peer-increase share and its interaction with strategic vulnerability indicator, Table 8 column 2, dividend-increase outcome. Distinct interaction instrument set."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3572",
+    "before": null,
+    "after": "Eq.5 pp.559-560: excluded peer risk and peer risk × strategic vulnerability, two nonbinary instruments (other). Main share plus interaction gives conditional effect; indicator itself is not the endogenous peer treatment. Main because the introduction explicitly frames four competing mechanism tests together; retain central nulls in columns 3-4. Firm/time FE are two dimensions, subordinate to IV."
+  }
+]
+```

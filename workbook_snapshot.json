@@ -35660,7 +35660,16 @@
     "L3571": "1",
     "M3571": "single continuous",
     "N3571": "180-day SIC peer dividend-decrease share on own dividend-decrease indicator, Table 4B, coefficients -4%/-31%. Distinct treatment from increase share.",
-    "O3571": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables."
+    "O3571": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables.",
+    "A3572": "WERKYTKC",
+    "B3572": "h2",
+    "I3572": "1",
+    "J3572": "IV",
+    "K3572": "0",
+    "L3572": "1",
+    "M3572": "other",
+    "N3572": "Continuous peer-increase share and its interaction with strategic vulnerability indicator, Table 8 column 2, dividend-increase outcome. Distinct interaction instrument set.",
+    "O3572": "Eq.5 pp.559-560: excluded peer risk and peer risk × strategic vulnerability, two nonbinary instruments (other). Main share plus interaction gives conditional effect; indicator itself is not the endogenous peer treatment. Main because the introduction explicitly frames four competing mechanism tests together; retain central nulls in columns 3-4. Firm/time FE are two dimensions, subordinate to IV."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -90862,7 +90871,11 @@
     "A8161": "WERKYTKC",
     "B8161": "h1",
     "C8161": "hy1",
-    "K8161": "Own dividend-decrease indicator, Table 4B. Appendix A prints proportional RCD change <= +1%, inconsistent with decrease wording; do not silently correct to -1%. Binary nature clear; exact threshold implementation unresolved."
+    "K8161": "Own dividend-decrease indicator, Table 4B. Appendix A prints proportional RCD change <= +1%, inconsistent with decrease wording; do not silently correct to -1%. Binary nature clear; exact threshold implementation unresolved.",
+    "A8162": "WERKYTKC",
+    "B8162": "h2",
+    "C8162": "hy1",
+    "K8162": "Own dividend-increase indicator, Table 8. No binary-treatment outcome labels required for continuous peer-share slope."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -150080,7 +150093,18 @@
     "O5294": "1",
     "P5294": "n/a",
     "Q5294": "Abstract p.549 and introduction p.551: “peer interdependencies account for 12% of total dividend payments.” Section 3.4 p.557 attributes aggregate 12% to excess-variance approach in Appendix B. Total dividend payments are stated same-outcome aggregate level; numerical total/weights and derivation not reported.",
-    "R5294": "Reported aggregate contribution normalized by total dividend payments, not an industry-yield mean and not a signed mean effect derived from variance. Linked to separately added aggregate-payments outcome hy2. Numerical total, aggregation weights and derivation from B.1 are unavailable; retain author-reported 12% normalization only."
+    "R5294": "Reported aggregate contribution normalized by total dividend payments, not an industry-yield mean and not a signed mean effect derived from variance. Linked to separately added aggregate-payments outcome hy2. Numerical total, aggregation weights and derivation from B.1 are unavailable; retain author-reported 12% normalization only.",
+    "A5295": "WERKYTKC",
+    "B5295": "h2",
+    "C5295": "hc1",
+    "K5295": "1",
+    "L5295": "hy1",
+    "M5295": "outcome_mean",
+    "N5295": "1",
+    "O5295": "1",
+    "P5295": "unknown",
+    "Q5295": "Section 4.2 p.559, Table 8 col.2: strategically vulnerable firm is \"twice as likely to payout additional cash when peer influence is high.\" Focal estimate is the author-reported qualitative high-peer versus lower-peer likelihood contrast for strategically vulnerable firms; NOT a numerical claim that the 4.3pp interaction equals a doubling. Benchmark is the comparison likelihood implicit in twice as likely; its numerical value and exact peer cutoff are not supplied.",
+    "R5295": "Retain verbal same-outcome probability ratio on its own terms; outcome_mean/verbal1/divided1. Exact lower-peer reference, weights and contrast construction are unspecified, hence alignment unknown. Table8 interaction 4.3pp and peer slope16.1% supply model context only; neither is asserted to be the numerator of this ratio. Parent may hold if requiring numerical-estimate allocation beyond the prompt."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
