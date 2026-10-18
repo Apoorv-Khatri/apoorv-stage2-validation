@@ -33228,7 +33228,16 @@
     "L3367": "0",
     "M3367": "n/a",
     "N3367": "Balanced-panel Minority × After payment effects, TableA5A/B; exit, entry and intensive sample strata, missing pair-months filled with zero; two payment outcomes, not a binary exit dependent variable.",
-    "O3367": "Conventional post-COVID differential change; method precedence overrides FE and OLS implementation. October 2019–May 2020; March onset in text versus caption saying after March is a source timing ambiguity, not silently repaired. Parallel counterfactual trends and no remaining differential shocks are maintained, not established by coding. Printed seller×month FE would absorb After×Minority; a visually verified internal source conflict. Intended design is conventional DiD, but Human_method=unknown because the literal reported estimator cannot identify this coefficient. Do not infer which FE row is erroneous or certify an implemented design without code/correction. Non-IV intent is clear; IV type remains n/a. Sample strata depend on realized pre/post trading; do not call them predetermined. Includes substantive entry/exit nulls; only-existing-zeros robustness fn4 grouped. Source: Supplement pp8,19 TableA5 fn4; layout L238–273,638–679."
+    "O3367": "Conventional post-COVID differential change; method precedence overrides FE and OLS implementation. October 2019–May 2020; March onset in text versus caption saying after March is a source timing ambiguity, not silently repaired. Parallel counterfactual trends and no remaining differential shocks are maintained, not established by coding. Printed seller×month FE would absorb After×Minority; a visually verified internal source conflict. Intended design is conventional DiD, but Human_method=unknown because the literal reported estimator cannot identify this coefficient. Do not infer which FE row is erroneous or certify an implemented design without code/correction. Non-IV intent is clear; IV type remains n/a. Sample strata depend on realized pre/post trading; do not call them predetermined. Includes substantive entry/exit nulls; only-existing-zeros robustness fn4 grouped. Source: Supplement pp8,19 TableA5 fn4; layout L238–273,638–679.",
+    "A3368": "S9LRTRJP",
+    "B3368": "h18",
+    "I3368": "1",
+    "J3368": "DiD_conventional",
+    "K3368": "0",
+    "L3368": "0",
+    "M3368": "n/a",
+    "N3368": "Minority × After × Lynchings customer-location proxy replacing PCA, TableA6 cols1,6; log past due and past-30-day share; reported coefficients 0.022; 0.001.",
+    "O3368": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Individual-proxy substantive robustness; no automatic main flag from underlying main hypothesis. Sundown is a two-valued town indicator; other proxies are counts, scores or ratios. RelativeEarnings is female earnings as percent of male, not silently inverted to a wage gap. Source: Article pp9–10 proxy definitions; supplement pp9,20 TableA6; layout L298–303,685–711."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86163,7 +86172,15 @@
     "H7816": "0",
     "I7816": "1",
     "J7816": "none",
-    "K7816": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator. Balanced-panel zero imputation applies."
+    "K7816": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator. Balanced-panel zero imputation applies.",
+    "A7817": "S9LRTRJP",
+    "B7817": "h18",
+    "C7817": "hy1",
+    "K7817": "Past-due dollars, TableA6 header abbreviated Log Past Due; log(1+past due) inferred from explicit reproduction of Table5A in supplement p9 and all-variables-as-previously-defined caption, not separately restated. No additional log-only specification inferred.",
+    "A7818": "S9LRTRJP",
+    "B7818": "h18",
+    "C7818": "hy2",
+    "K7818": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
