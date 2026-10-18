@@ -9432,6 +9432,13 @@
     "F635": "0",
     "G635": "Treatment: Continuous aggregate investment-opportunity proxy: CrossVol, IV, or Sentiment (current or lagged), interpreted as changing the magnitude of the return effect of herding. The effective outcome contrast is the monthly return spread between top-herding and bottom-herding fund portfolios.\n\nMethod: The authors estimate time-series regressions of the monthly return differential between herding and antiherding fund portfolios (decile 10 minus decile 1) on contemporaneous and lagged proxies for investment opportunities: cross-sectional stock return dispersion, average idiosyncratic volatility, and investor sentiment. This is an aggregate observational regression used to interpret how the performance effect of herding varies over time.\n\nIdentification: Identification comes from time-series covariation between aggregate opportunity proxies and the return spread between herding and antiherding funds. The concern is that macro conditions correlated with these proxies may mechanically affect the spread through channels other than differential skill. The paper interprets significant negative slopes as evidence that skill-related performance differences matter more in high-opportunity periods.\n\nSetting: Using monthly time-series regressions, the authors show that the return spread between herding and antiherding funds becomes more negative when return dispersion, idiosyncratic volatility, or investor sentiment is high. For example, the coefficient on contemporaneous CrossVol is -0.206 and on contemporaneous Sentiment is -0.256. These results support the interpretation that the cost of herding is larger when the value of managerial skill is higher.\n\nMain role: This is a supporting time-series version of the broader heterogeneity claim that the performance gap widens when skill is more valuable; the panel interaction regressions are the paper’s more comprehensive evidence.",
     "H635": "Section III.B, Table VI Panel A (PDF pp. 18-20).",
+    "I635": "1",
+    "J635": "OLS",
+    "K635": "0",
+    "L635": "1",
+    "M635": "n/a",
+    "N635": "Table VI Panel A: contemporaneous and lagged standardized CrossVol effects on monthly net-return differential D10 minus D1, OLS time-series regressions; slopes -0.206/-0.221. Other opportunity treatments split to h1/h2. Also includes the gross-return differential explicitly reported in p2247 prose (article.txt L991–998); Table VI A displays net only, so gross coefficients are unreported here.",
+    "O635": "Retain the authors’ opportunity-channel test: dispersion widens the performance gap when skill is valuable. Restrict to CrossVol current/lagged; idiosyncratic volatility and sentiment are distinct treatments h1/h2. OLS time-series slopes, not an IV despite abbreviation IV. Both panels materially support the central abstract/introduction opportunity conclusion. Source: pp2246–2248; Table VI A; L969–998,1043–1090. Independent audit adds the prose-reported gross outcome without copying net coefficients or inventing a gross table. Source: pp2246–2248; Table VI A; L969–998,1043–1090.",
     "A636": "R7QNVLC6",
     "B636": "s6",
     "C636": "OLS",
@@ -81931,7 +81938,11 @@
     "H7522": "0",
     "I7522": "unknown",
     "J7522": "none",
-    "K7522": "Annual arithmetic excess return from compounding July-to-June portfolio returns; Table4 r column. Mean contrasts are not log returns: only the separate beta regressions use log returns. VW/EW variants."
+    "K7522": "Annual arithmetic excess return from compounding July-to-June portfolio returns; Table4 r column. Mean contrasts are not log returns: only the separate beta regressions use log returns. VW/EW variants.",
+    "A7523": "R7QNVLC6",
+    "B7523": "s5",
+    "C7523": "hy1",
+    "K7523": "Monthly gross-return differential between highest- and lowest-FH deciles (D10 minus D1), before fees, in percentage points. Implemented time-series regressions on the parent opportunity proxy are stated at p2247, article.txt L991–998 (before and after fees); Table VI A displays only net returns. Gross numerical coefficients and detailed column mapping are not reported; do not substitute the net estimates."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

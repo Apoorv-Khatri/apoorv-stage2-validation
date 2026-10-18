@@ -521802,3 +521802,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:49:40.757701+00:00 — Review R7QNVLC6 s5: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7523",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7523",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7523",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7523",
+    "before": null,
+    "after": "Monthly gross-return differential between highest- and lowest-FH deciles (D10 minus D1), before fees, in percentage points. Implemented time-series regressions on the parent opportunity proxy are stated at p2247, article.txt L991–998 (before and after fees); Table VI A displays only net returns. Gross numerical coefficients and detailed column mapping are not reported; do not substitute the net estimates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J635",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K635",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M635",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N635",
+    "before": null,
+    "after": "Table VI Panel A: contemporaneous and lagged standardized CrossVol effects on monthly net-return differential D10 minus D1, OLS time-series regressions; slopes -0.206/-0.221. Other opportunity treatments split to h1/h2. Also includes the gross-return differential explicitly reported in p2247 prose (article.txt L991–998); Table VI A displays net only, so gross coefficients are unreported here."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O635",
+    "before": null,
+    "after": "Retain the authors’ opportunity-channel test: dispersion widens the performance gap when skill is valuable. Restrict to CrossVol current/lagged; idiosyncratic volatility and sentiment are distinct treatments h1/h2. OLS time-series slopes, not an IV despite abbreviation IV. Both panels materially support the central abstract/introduction opportunity conclusion. Source: pp2246–2248; Table VI A; L969–998,1043–1090. Independent audit adds the prose-reported gross outcome without copying net coefficients or inventing a gross table. Source: pp2246–2248; Table VI A; L969–998,1043–1090."
+  }
+]
+```
