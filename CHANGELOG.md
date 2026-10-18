@@ -530820,3 +530820,300 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T09:47:32.520969+00:00 — Review RDVTTVCR h31: source-audited coding and linked comparisons
+
+48 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7601",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7602",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7603",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7604",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7605",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7606",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7601",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7602",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7603",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7604",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7605",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7606",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7601",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7602",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7603",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7604",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7605",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7606",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7601",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7602",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7603",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7601",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7602",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7603",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7604",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7605",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7606",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7601",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7602",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7603",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7604",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7605",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7606",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7601",
+    "before": null,
+    "after": "spurious as separately specified outcome: A13A final text explicitly establishes real effects and employment/investment/sales in Section4.4, but does not establish separate cash/net-debt/ICR columns Proposed ID retained inactive for audit provenance; no original workbook record removed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7602",
+    "before": null,
+    "after": "spurious as separately specified outcome: A13A final text explicitly establishes real effects and employment/investment/sales in Section4.4, but does not establish separate cash/net-debt/ICR columns Proposed ID retained inactive for audit provenance; no original workbook record removed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7603",
+    "before": null,
+    "after": "spurious as separately specified outcome: A13A final text explicitly establishes real effects and employment/investment/sales in Section4.4, but does not establish separate cash/net-debt/ICR columns Proposed ID retained inactive for audit provenance; no original workbook record removed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7604",
+    "before": null,
+    "after": "Employment growth: ln(Employment[t+1])-ln(Employment[t]); a log difference, not log of a growth rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7605",
+    "before": null,
+    "after": "CAPX investment proxy: (Fixed Assets[t+1]-Fixed Assets[t]+Depreciation)/Fixed Assets[t], set to zero when negative; Table1 and footnote25."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7606",
+    "before": null,
+    "after": "Sales growth: ln(Sales[t+1])-ln(Sales[t]); a log difference."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3213",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3213",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3213",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3213",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3213",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3213",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3213",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3213",
+    "before": null,
+    "after": "Indirect GIIPS Sov Risk dose among GIIPS firms high (highest-tercile) non-GIIPS subsidiary revenue share, Table A13A."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3213",
+    "before": null,
+    "after": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Treatment is continuous lender risk; subsample tercile does not make it binary. Final text confirms real effects; financial outcome scope follows explicit rerun analysis but exact grid remains provisional. Independent correction: no separately asserted financial outcomes; final pp2890/2893 establish real outcomes only at this scope. Source: p2890 L2105–2114; p2893 L2325–2331 Table A13A."
+  }
+]
+```
