@@ -567465,3 +567465,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:38:03.567157+00:00 — Review UK6BI2QX h18: source-audited coding and linked comparisons
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5246",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5246",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5246",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5246",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5246",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5246",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5246",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5246",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5246",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5246",
+    "before": null,
+    "after": "p.3077/Table VII column 6, coefficient 0.0115: effect is similar for a one-SD decrease in expected excess stock returns, immediately following debt-issuance decline of about 0.25 SD. Table II.B debt issuance SD 0.23 percentage points, N=124. Anaphoric magnitude attribution flagged for audit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5246",
+    "before": null,
+    "after": "Aggregate 1985Q1–2015Q4 outcome SD, Table II.B; same sample/scale established but continuous conditional regression target and relevant reference-dose weighting not established. Unknown alignment, not automatic 1 or 0. No ratio calculated by reviewer attributed to author."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7946",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7947",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7946",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7947",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7946",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7947",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7946",
+    "before": null,
+    "after": "Aggregate quarterly net equity repurchases of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7947",
+    "before": null,
+    "after": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3453",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3453",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3453",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3453",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3453",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3453",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3453",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3453",
+    "before": null,
+    "after": "Lagged aggregate predicted 12-month excess stock return effect on net equity repurchases and net debt issuance, quarterly flows /lagged assets; Table VII, columns 3/6. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3453",
+    "before": null,
+    "after": "Causally interpreted aggregate OLS, not FE or IV: equations 6/7 and pp.3075–3078 connect pricing conditions to financing responses. Newey-West SE are not an identification method. Central aggregate conclusion; main=1."
+  }
+]
+```

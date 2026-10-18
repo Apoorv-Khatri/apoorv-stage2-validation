@@ -34357,7 +34357,16 @@
     "L3452": "1",
     "M3452": "n/a",
     "N3452": "Lagged aggregate predicted 12-month excess bond return effect on net equity repurchases and net debt issuance, quarterly flows /lagged assets; Table VII, columns 3/6. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments.",
-    "O3452": "Causally interpreted aggregate OLS, not FE or IV: equations 6/7 and pp.3075–3078 connect pricing conditions to financing responses. Newey-West SE are not an identification method. Central aggregate conclusion; main=1."
+    "O3452": "Causally interpreted aggregate OLS, not FE or IV: equations 6/7 and pp.3075–3078 connect pricing conditions to financing responses. Newey-West SE are not an identification method. Central aggregate conclusion; main=1.",
+    "A3453": "UK6BI2QX",
+    "B3453": "h18",
+    "I3453": "1",
+    "J3453": "OLS",
+    "K3453": "0",
+    "L3453": "1",
+    "M3453": "n/a",
+    "N3453": "Lagged aggregate predicted 12-month excess stock return effect on net equity repurchases and net debt issuance, quarterly flows /lagged assets; Table VII, columns 3/6. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments.",
+    "O3453": "Causally interpreted aggregate OLS, not FE or IV: equations 6/7 and pp.3075–3078 connect pricing conditions to financing responses. Newey-West SE are not an identification method. Central aggregate conclusion; main=1."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88034,7 +88043,15 @@
     "A7945": "UK6BI2QX",
     "B7945": "h17",
     "C7945": "hy2",
-    "K7945": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
+    "K7945": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets.",
+    "A7946": "UK6BI2QX",
+    "B7946": "h18",
+    "C7946": "hy1",
+    "K7946": "Aggregate quarterly net equity repurchases of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets.",
+    "A7947": "UK6BI2QX",
+    "B7947": "h18",
+    "C7947": "hy2",
+    "K7947": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -146457,7 +146474,18 @@
     "O5245": "1",
     "P5245": "unknown",
     "Q5245": "p.3077/Table VII column 4, E10/P coefficient 0.0357: one-SD decrease in E10/P corresponds to decline in net debt issuance about 0.25 outcome SD. Table II.B debt issuance SD 0.23 percentage points, N=124 aggregate quarters. Column 5 differs; do not duplicate the prose comparison onto it.",
-    "R5245": "Aggregate 1985Q1–2015Q4 outcome SD, Table II.B; same sample/scale established but continuous conditional regression target and relevant reference-dose weighting not established. Unknown alignment, not automatic 1 or 0. No ratio calculated by reviewer attributed to author."
+    "R5245": "Aggregate 1985Q1–2015Q4 outcome SD, Table II.B; same sample/scale established but continuous conditional regression target and relevant reference-dose weighting not established. Unknown alignment, not automatic 1 or 0. No ratio calculated by reviewer attributed to author.",
+    "A5246": "UK6BI2QX",
+    "B5246": "h18",
+    "C5246": "hc1",
+    "K5246": "1",
+    "L5246": "hy2",
+    "M5246": "outcome_sd",
+    "N5246": "1",
+    "O5246": "1",
+    "P5246": "unknown",
+    "Q5246": "p.3077/Table VII column 6, coefficient 0.0115: effect is similar for a one-SD decrease in expected excess stock returns, immediately following debt-issuance decline of about 0.25 SD. Table II.B debt issuance SD 0.23 percentage points, N=124. Anaphoric magnitude attribution flagged for audit.",
+    "R5246": "Aggregate 1985Q1–2015Q4 outcome SD, Table II.B; same sample/scale established but continuous conditional regression target and relevant reference-dose weighting not established. Unknown alignment, not automatic 1 or 0. No ratio calculated by reviewer attributed to author."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
