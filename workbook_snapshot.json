@@ -35425,7 +35425,16 @@
     "L3552": "1",
     "M3552": "n/a",
     "N3552": "Volume cash bids over three years prior to t, Table 1 Panel B column 3: effect on activist targeting in t.",
-    "O3552": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses."
+    "O3552": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses.",
+    "A3553": "VPZERBIY",
+    "B3553": "h6",
+    "I3553": "1",
+    "J3553": "OLS",
+    "K3553": "1",
+    "L3553": "1",
+    "M3553": "n/a",
+    "N3553": "Large stock bid over three years prior to t, Table 1 Panel B column 4: effect on activist targeting in t.",
+    "O3553": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -90024,7 +90033,14 @@
     "H8080": "1",
     "I8080": "1",
     "J8080": "none",
-    "K8080": "Activist target indicator in year t (Table 1 Panel B)."
+    "K8080": "Activist target indicator in year t (Table 1 Panel B).",
+    "A8081": "VPZERBIY",
+    "B8081": "h6",
+    "C8081": "hy1",
+    "H8081": "1",
+    "I8081": "1",
+    "J8081": "none",
+    "K8081": "Activist target indicator in year t (Table 1 Panel B)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -148741,7 +148757,18 @@
     "O5251": "1",
     "P5251": "unknown",
     "Q5251": "Table1B pp.531–532: Column 1 coefficient on Cash bid = 0.0173 in Table 1 Panel B, for the effect of having a cash-financed acquisition in the prior three years on activist-target probability in year t. Benchmark: Unconditional probability of activist arrival/targeting in the matched sample. \"In economic terms, a prior stock (cash) acquisition increases the probability of being targeted by 79.7% (35.4%) of the unconditional probability in this matched sample.\"",
-    "R5251": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment."
+    "R5251": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment.",
+    "A5252": "VPZERBIY",
+    "B5252": "h6",
+    "C5252": "hc1",
+    "K5252": "1",
+    "L5252": "hy1",
+    "M5252": "outcome_mean",
+    "N5252": "1",
+    "O5252": "1",
+    "P5252": "unknown",
+    "Q5252": "Table1B pp.531–532: Column 4 coefficient on Large stock bid = 0.0490 in Table 1 Panel B. Benchmark: Probability of being targeted / unconditional probability of activist targeting in the matched sample. \"In economic terms, a large stock acquisition doubles the probability of being targeted, whereas a large cash acquisition raises this probability by 69%.\"",
+    "R5252": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

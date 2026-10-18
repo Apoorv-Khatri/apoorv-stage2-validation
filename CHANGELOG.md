@@ -582294,3 +582294,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:16:32.628183+00:00 — Review VPZERBIY h6: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5252",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5252",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5252",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5252",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5252",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5252",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5252",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5252",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5252",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5252",
+    "before": null,
+    "after": "Table1B pp.531–532: Column 4 coefficient on Large stock bid = 0.0490 in Table 1 Panel B. Benchmark: Probability of being targeted / unconditional probability of activist targeting in the matched sample. \"In economic terms, a large stock acquisition doubles the probability of being targeted, whereas a large cash acquisition raises this probability by 69%.\""
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5252",
+    "before": null,
+    "after": "Benchmark weights and relevant untreated regression target are not established; same sample alone does not establish alignment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8081",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8081",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8081",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8081",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8081",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8081",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8081",
+    "before": null,
+    "after": "Activist target indicator in year t (Table 1 Panel B)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3553",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3553",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3553",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3553",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3553",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3553",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3553",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3553",
+    "before": null,
+    "after": "Large stock bid over three years prior to t, Table 1 Panel B column 4: effect on activist targeting in t."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3553",
+    "before": null,
+    "after": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Section 3 pp.529–532 supplies directional author interpretation. Number is a count; volume is acquisition value scaled by market capitalization; binary indicators are distinct from these doses."
+  }
+]
+```
