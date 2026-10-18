@@ -548304,3 +548304,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:33:53.310384+00:00 — Review S3X8G9NP h8: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7761",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7761",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7761",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7761",
+    "before": null,
+    "after": "Individual response to owning any stocks or bonds (0/1), weighted Gallup surveys. Article data section and references say 1937–1938; Table7 caption says 1935–1938. Table7 col4 / Eq6B, pp213–214; layout L1113–1185"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3345",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3345",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3345",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3345",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3345",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3345",
+    "before": null,
+    "after": "Third state subscription rate in joint 2SLS instrumenting the third-to-fourth increment; outcomes: individual stock-or-bond ownership indicator. Table7 col4 / Eq6B, pp213–214; layout L1113–1185."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3345",
+    "before": null,
+    "after": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Third rate is an included exogenous treatment coefficient (0.004), not instrumented; single excluded switch indicator instruments increment. Joint estimator IV; no third-rate LATE claim. Independent audit: IV code denotes the implemented joint 2SLS system, not instrumented third-rate receipt. The included third-rate coefficient is separately retained because it is substantively interpreted (p211 independent-interest statement; Table7 joint lasting-effects discussion; A3 regional counterpart). Ordinary nuisance controls are not added as treatments. Source: Table7 col4 / Eq6B, pp213–214; layout L1113–1185."
+  }
+]
+```

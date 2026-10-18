@@ -32978,7 +32978,16 @@
     "L3344": "1",
     "M3344": "single binary",
     "N3344": "Third-to-fourth state subscription-rate increment conditional on third rate; outcomes: individual stock-or-bond ownership indicator. Table7 col4 / Eq6B, pp213–214; layout L1113–1185.",
-    "O3344": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Single excluded binary switch-to-allotment indicator; coefficient 0.003, weak-IV interval includes zero. Main role is independent of significance. Original s8 narrowed to col2. Source: Table7 col4 / Eq6B, pp213–214; layout L1113–1185."
+    "O3344": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Single excluded binary switch-to-allotment indicator; coefficient 0.003, weak-IV interval includes zero. Main role is independent of significance. Original s8 narrowed to col2. Source: Table7 col4 / Eq6B, pp213–214; layout L1113–1185.",
+    "A3345": "S3X8G9NP",
+    "B3345": "h8",
+    "I3345": "1",
+    "J3345": "IV",
+    "K3345": "0",
+    "L3345": "1",
+    "M3345": "single binary",
+    "N3345": "Third state subscription rate in joint 2SLS instrumenting the third-to-fourth increment; outcomes: individual stock-or-bond ownership indicator. Table7 col4 / Eq6B, pp213–214; layout L1113–1185.",
+    "O3345": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Third rate is an included exogenous treatment coefficient (0.004), not instrumented; single excluded switch indicator instruments increment. Joint estimator IV; no third-rate LATE claim. Independent audit: IV code denotes the implemented joint 2SLS system, not instrumented third-rate receipt. The included third-rate coefficient is separately retained because it is substantively interpreted (p211 independent-interest statement; Table7 joint lasting-effects discussion; A3 regional counterpart). Ordinary nuisance controls are not added as treatments. Source: Table7 col4 / Eq6B, pp213–214; layout L1113–1185."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85589,7 +85598,11 @@
     "A7760": "S3X8G9NP",
     "B7760": "h7",
     "C7760": "hy1",
-    "K7760": "Individual response to owning any stocks or bonds (0/1), weighted Gallup surveys. Article data section and references say 1937–1938; Table7 caption says 1935–1938. Table7 col4 / Eq6B, pp213–214; layout L1113–1185"
+    "K7760": "Individual response to owning any stocks or bonds (0/1), weighted Gallup surveys. Article data section and references say 1937–1938; Table7 caption says 1935–1938. Table7 col4 / Eq6B, pp213–214; layout L1113–1185",
+    "A7761": "S3X8G9NP",
+    "B7761": "h8",
+    "C7761": "hy1",
+    "K7761": "Individual response to owning any stocks or bonds (0/1), weighted Gallup surveys. Article data section and references say 1937–1938; Table7 caption says 1935–1938. Table7 col4 / Eq6B, pp213–214; layout L1113–1185"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
