@@ -547107,3 +547107,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:30:03.429306+00:00 — Review S3X8G9NP s5: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K390",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K391",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q390",
+    "before": null,
+    "after": "Treatment-SD scaling only: p211 compares a 10.2-point subscription change with estimated log-asset change 0.21. No outcome-SD benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q391",
+    "before": null,
+    "after": "Conclusion p215 fn13 calculates exp(beta × mean T)-1. Mean is of treatment, not outcome; 24–41% is a log-effect extrapolation, not comparison to an independently stated outcome level. Also pools OLS-labelled DiD and IV. No qualifying same-outcome benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R390",
+    "before": null,
+    "after": "Treatment-SD scaling only: p211 compares a 10.2-point subscription change with estimated log-asset change 0.21. No outcome-SD benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R391",
+    "before": null,
+    "after": "Conclusion p215 fn13 calculates exp(beta × mean T)-1. Mean is of treatment, not outcome; 24–41% is a log-effect extrapolation, not comparison to an independently stated outcome level. Also pools OLS-labelled DiD and IV. No qualifying same-outcome benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1712",
+    "before": null,
+    "after": "Paper reports logarithm of investment-bank count, but does not explain treatment of zero counts; log1p versus other zero handling is unresolved. Figures5, Tables5/6; no invented transformation correction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I688",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J688",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K688",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L688",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M688",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N688",
+    "before": null,
+    "after": "County Fourth Liberty Bond subscription rate × post-1918, 2SLS, Table5 even columns only; four bank outcomes. Allotment-system indicator × post-1918 is the single binary excluded instrument. Odd columns are a distinct conventional DiD setting h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O688",
+    "before": null,
+    "after": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. County and year FE (two dimensions), no district×year FE in IV. Binary excluded instrument does not make receipt binary. Retain insignificant investment-bank log-count effect and weak-IV intervals including zero; these are substantive outcomes. Source: Table5 even cols2,4,6,8, pp209–211; layout L838–952."
+  }
+]
+```
