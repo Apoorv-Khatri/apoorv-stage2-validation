@@ -593361,3 +593361,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:50:19.876773+00:00 — Review WERKYTKC h33: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8193",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8193",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8193",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8193",
+    "before": null,
+    "after": "Own dividend-decrease indicator, TableC.2B check4. AppendixA prints decrease threshold <=positive1%; actual threshold unresolved."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E85",
+    "before": null,
+    "after": "DONE — Full available-source review of 22 final pages including embedded Appendices A–C, with independent audit. Retain 42 setting scopes, 53 outcomes and four comparisons; six original comparison rows rejected, with strategic qualitative ratio relocated to its correct parent. Included-control effects retained where explicitly interpreted as determinants; IV denotes their actual joint estimator, not an assertion that peer risk instruments each focal included regressor or identifies its LATE. Mechanism interactions use two nonbinary instruments, type other. Earnings-channel null main. Excess-variance method Other and treatment binary unknown; aggregate dividend payments separated from industry yields, with 12% construction unresolved. Unsupported B.1 normalization candidates remain held. Preserve CAR0.70/0.81, threshold, industry-label and F/t conflicts without repair. External supplement not recovered; embedded final appendices fully reviewed. Original fields, IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3603",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3603",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3603",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3603",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3603",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3603",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3603",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3603",
+    "before": null,
+    "after": "Baker-Wurgler catering measure included-regressor coefficient on own dividend-decrease indicator, TableC.2B check4; estimates -2%/-2%. Separate treatment parameter in the implemented joint linear IV equation, not a new regression."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3603",
+    "before": null,
+    "after": "Author-intention gate: pp.552,556 identify these as dividend determinants and discuss substantive effects/ranking, including nulls; C.1 pp.565-566 explicitly considers taxes/catering inducing dividend decisions. Included controls are not automatically excluded. Actual estimator is joint 2SLS/IV, with peer share endogenous and average peer idiosyncratic equity risk the sole excluded instrument. The focal included regressor is NOT instrumented by peer risk; its coefficient additionally relies on maintained included-regressor exogeneity. Method IV describes the implemented joint estimator, not a focal-treatment instrument or LATE. No unseen OLS/FE re-estimation inferred. Firm/time FE (firm only when time-only determinants replace time FE) remain subordinate to the implemented IV equation. Time FE removed to estimate the time-only determinant; firm FE retained. Tax rate/valuation-premium measure is a dose, not an implemented 2003 binary policy contrast; no DiD design claimed. Peer-share coefficient already covered by h14/h15. No linked outcome benchmark."
+  }
+]
+```

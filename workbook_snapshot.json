@@ -402,6 +402,7 @@
     "B85": "Dividend payments as a response to peer influence",
     "C85": "fin",
     "D85": 9,
+    "E85": "DONE — Full available-source review of 22 final pages including embedded Appendices A–C, with independent audit. Retain 42 setting scopes, 53 outcomes and four comparisons; six original comparison rows rejected, with strategic qualitative ratio relocated to its correct parent. Included-control effects retained where explicitly interpreted as determinants; IV denotes their actual joint estimator, not an assertion that peer risk instruments each focal included regressor or identifies its LATE. Mechanism interactions use two nonbinary instruments, type other. Earnings-channel null main. Excess-variance method Other and treatment binary unknown; aggregate dividend payments separated from industry yields, with 12% construction unresolved. Unsupported B.1 normalization candidates remain held. Preserve CAR0.70/0.81, threshold, industry-label and F/t conflicts without repair. External supplement not recovered; embedded final appendices fully reviewed. Original fields, IDs and hyperlinks preserved.",
     "A86": "WM5RSIHQ",
     "B86": "CEO Turnover and Relative Performance Evaluation",
     "C86": "fin",
@@ -35939,7 +35940,16 @@
     "L3602": "0",
     "M3602": "single continuous",
     "N3602": "Baker-Wurgler catering measure included-regressor coefficient on own dividend-increase indicator, TableC.2A check4; estimates 4%/3%. Separate treatment parameter in the implemented joint linear IV equation, not a new regression.",
-    "O3602": "Author-intention gate: pp.552,556 identify these as dividend determinants and discuss substantive effects/ranking, including nulls; C.1 pp.565-566 explicitly considers taxes/catering inducing dividend decisions. Included controls are not automatically excluded. Actual estimator is joint 2SLS/IV, with peer share endogenous and average peer idiosyncratic equity risk the sole excluded instrument. The focal included regressor is NOT instrumented by peer risk; its coefficient additionally relies on maintained included-regressor exogeneity. Method IV describes the implemented joint estimator, not a focal-treatment instrument or LATE. No unseen OLS/FE re-estimation inferred. Firm/time FE (firm only when time-only determinants replace time FE) remain subordinate to the implemented IV equation. Time FE removed to estimate the time-only determinant; firm FE retained. Tax rate/valuation-premium measure is a dose, not an implemented 2003 binary policy contrast; no DiD design claimed. Peer-share coefficient already covered by h14/h15. No linked outcome benchmark."
+    "O3602": "Author-intention gate: pp.552,556 identify these as dividend determinants and discuss substantive effects/ranking, including nulls; C.1 pp.565-566 explicitly considers taxes/catering inducing dividend decisions. Included controls are not automatically excluded. Actual estimator is joint 2SLS/IV, with peer share endogenous and average peer idiosyncratic equity risk the sole excluded instrument. The focal included regressor is NOT instrumented by peer risk; its coefficient additionally relies on maintained included-regressor exogeneity. Method IV describes the implemented joint estimator, not a focal-treatment instrument or LATE. No unseen OLS/FE re-estimation inferred. Firm/time FE (firm only when time-only determinants replace time FE) remain subordinate to the implemented IV equation. Time FE removed to estimate the time-only determinant; firm FE retained. Tax rate/valuation-premium measure is a dose, not an implemented 2003 binary policy contrast; no DiD design claimed. Peer-share coefficient already covered by h14/h15. No linked outcome benchmark.",
+    "A3603": "WERKYTKC",
+    "B3603": "h33",
+    "I3603": "1",
+    "J3603": "IV",
+    "K3603": "0",
+    "L3603": "0",
+    "M3603": "single continuous",
+    "N3603": "Baker-Wurgler catering measure included-regressor coefficient on own dividend-decrease indicator, TableC.2B check4; estimates -2%/-2%. Separate treatment parameter in the implemented joint linear IV equation, not a new regression.",
+    "O3603": "Author-intention gate: pp.552,556 identify these as dividend determinants and discuss substantive effects/ranking, including nulls; C.1 pp.565-566 explicitly considers taxes/catering inducing dividend decisions. Included controls are not automatically excluded. Actual estimator is joint 2SLS/IV, with peer share endogenous and average peer idiosyncratic equity risk the sole excluded instrument. The focal included regressor is NOT instrumented by peer risk; its coefficient additionally relies on maintained included-regressor exogeneity. Method IV describes the implemented joint estimator, not a focal-treatment instrument or LATE. No unseen OLS/FE re-estimation inferred. Firm/time FE (firm only when time-only determinants replace time FE) remain subordinate to the implemented IV equation. Time FE removed to estimate the time-only determinant; firm FE retained. Tax rate/valuation-premium measure is a dose, not an implemented 2003 binary policy contrast; no DiD design claimed. Peer-share coefficient already covered by h14/h15. No linked outcome benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91268,7 +91278,11 @@
     "A8192": "WERKYTKC",
     "B8192": "h32",
     "C8192": "hy1",
-    "K8192": "Own dividend-increase indicator, TableC.2A check4. AppendixA defines increase as proportional regular-cash-dividend change >=1%."
+    "K8192": "Own dividend-increase indicator, TableC.2A check4. AppendixA defines increase as proportional regular-cash-dividend change >=1%.",
+    "A8193": "WERKYTKC",
+    "B8193": "h33",
+    "C8193": "hy1",
+    "K8193": "Own dividend-decrease indicator, TableC.2B check4. AppendixA prints decrease threshold <=positive1%; actual threshold unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
