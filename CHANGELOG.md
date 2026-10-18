@@ -568260,3 +568260,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:40:33.432806+00:00 — Review UK6BI2QX h25: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7958",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7958",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7958",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7958",
+    "before": null,
+    "after": "Probability/indicator of simultaneous issuance and repurchases in different markets, Table IA8 as described p.3068; exact directional/threshold outcome mapping unknown. Prose benchmark about 15% occurrence per quarter in main sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3460",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3460",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3460",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3460",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3460",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3460",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3460",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3460",
+    "before": null,
+    "after": "predicted excess bond returns effect on probability of simultaneous issuance in one market and repurchases in the other; implemented linear probability model Table IA8, established by final p.3068. Direction/threshold-specific table columns unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3460",
+    "before": null,
+    "after": "Final text establishes linear probability estimation and central simultaneity corroboration. Firm FE in neighboring logit does not prove FE in IA8; unresolved OLS vs identifying FE, so unknown, not Other. Continuous predictor. Minimum one scope per explicitly named predictor, no invented four-indicator grid."
+  }
+]
+```
