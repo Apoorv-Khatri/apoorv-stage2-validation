@@ -514980,3 +514980,402 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:56:18.099333+00:00 — Review QY4D7PCL s4: source-audited coding and linked comparisons
+
+65 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5165",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5166",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5165",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5166",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5165",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5166",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K359",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K360",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5165",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L359",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5165",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5166",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M359",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5165",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5166",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N359",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5165",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5166",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O359",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5165",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5166",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P359",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5165",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5166",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q359",
+    "before": null,
+    "after": "p937 Table6A and prose: short-minus-long strategy annual mean 20.3% in high dispersion years versus 3.1% in low years; table r10-1 prints -20.3% and -3.1%, respectively, with t=-2.38 for contrast. Low-state mean of same strategy is the outcome-mean reference for high-versus-low state contrast. No division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5165",
+    "before": null,
+    "after": "Table6 p937: market High state outcome mean 5.9%, Low-state mean 5.6%; table reports t statistic for difference against low. Same annual outcome, returns follow prior-year dispersion measurement."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5166",
+    "before": null,
+    "after": "Table6 p937: EW High state outcome mean -22.2%, Low-state mean -3.6%; table reports t statistic for difference against low. Same annual outcome, returns follow prior-year dispersion measurement."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R359",
+    "before": null,
+    "after": "Not effect/effect comparison here: state is treatment and strategy return is outcome. Low-state mean is not established as high-state untreated counterfactual; regression target/weights unresolved, aligned unknown. Preserve table/prose sign distinction; no computed contrast attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R360",
+    "before": null,
+    "after": "Duplicate of s4/c1: rounded 20% versus 3% introduction restates identical high-versus-low state comparison, not another focal estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5165",
+    "before": null,
+    "after": "Contrast defined by paired reported state means; no author-reported numeric difference or division invented. Low-state counterfactual level alignment for high/moderate target not established. Aggregate market duplicated across panels is recorded once."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5166",
+    "before": null,
+    "after": "Contrast defined by paired reported state means; no author-reported numeric difference or division invented. Low-state counterfactual level alignment for high/moderate target not established. Aggregate market duplicated across panels is recorded once."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1514",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1516",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1517",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1518",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1519",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1520",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1514",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1515",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1516",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1517",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1518",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1519",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1520",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1514",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1515",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1516",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1517",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1518",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1519",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1520",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1516",
+    "before": null,
+    "after": "duplicate scope in h19/h20: risk beta is a conditional log-return slope. State slope differences use OLS; see h19/hy1 and h20/hy1, not separate beta-dependent-variable outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1517",
+    "before": null,
+    "after": "duplicate scope in h19/h20: risk beta is a conditional log-return slope. State slope differences use OLS; see h19/hy1 and h20/hy1, not separate beta-dependent-variable outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1518",
+    "before": null,
+    "after": "duplicate scope in h19/h20: risk beta is a conditional log-return slope. State slope differences use OLS; see h19/hy1 and h20/hy1, not separate beta-dependent-variable outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1519",
+    "before": null,
+    "after": "duplicate scope in h19/h20: risk beta is a conditional log-return slope. State slope differences use OLS; see h19/hy1 and h20/hy1, not separate beta-dependent-variable outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1520",
+    "before": null,
+    "after": "duplicate scope in h19/h20: risk beta is a conditional log-return slope. State slope differences use OLS; see h19/hy1 and h20/hy1, not separate beta-dependent-variable outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I626",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J626",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K626",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L626",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M626",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N626",
+    "before": null,
+    "after": "High versus low cross-sectional dispersion of log(Dur), top versus bottom quarter of years: average market excess return and long-minus-short duration return in Table6A/B. Moderate-versus-low contrasts and conditional slope-difference estimands split to h rows."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O626",
+    "before": null,
+    "after": "Gate: p937 explicitly predicts that larger duration dispersion requires more reinvestment exposure and should induce a higher premium holding everything else fixed. Retain mechanism-interpreted mean contrasts, including aggregate-market null, not generic forecast accuracy. Not randomized or DiD. OLS mean contrasts; no FE. Table beta signs follow long-minus-short even where prose calls it the short-duration strategy. Source: pp937–938 Table6; L1237–1332."
+  }
+]
+```
