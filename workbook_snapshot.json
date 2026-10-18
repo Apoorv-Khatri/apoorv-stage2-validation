@@ -30977,7 +30977,16 @@
     "L3154": "0",
     "M3154": "n/a",
     "N3154": "Market covariance risk-price effect under constrained CAPM (lambda_Er=0), Table5 column4; equity premium exactly matched, gamma=3.7.",
-    "O3154": "Eq13 and pp935–936 interpret compensation for covariance exposure as the mechanism generating risk premia; retain the substantive priced-risk parameter, including the CAPM boundary null. Footnote30 establishes pooled returns-on-covariances least squares with equality/inequality restrictions. Other is retained for the inequality-constrained estimator, whose active constraints make its map from reported outcomes nonlinear, not merely for a structural label or generated covariance regressors. Identical fitted coefficients in ICAPM_U do not make the implemented estimators identical. No IV or identifying FE. The column4 CAPM parameter is additionally pinned by the equity-premium equality; its boundary restriction belongs to the implemented constrained fit. No separate causal settings for H, gamma as preference outcome, or pricing-error diagnostics. Source: p935 Table5 cols1/4; L1161–1187."
+    "O3154": "Eq13 and pp935–936 interpret compensation for covariance exposure as the mechanism generating risk premia; retain the substantive priced-risk parameter, including the CAPM boundary null. Footnote30 establishes pooled returns-on-covariances least squares with equality/inequality restrictions. Other is retained for the inequality-constrained estimator, whose active constraints make its map from reported outcomes nonlinear, not merely for a structural label or generated covariance regressors. Identical fitted coefficients in ICAPM_U do not make the implemented estimators identical. No IV or identifying FE. The column4 CAPM parameter is additionally pinned by the equity-premium equality; its boundary restriction belongs to the implemented constrained fit. No separate causal settings for H, gamma as preference outcome, or pricing-error diagnostics. Source: p935 Table5 cols1/4; L1161–1187.",
+    "A3155": "QY4D7PCL",
+    "B3155": "h15",
+    "I3155": "1",
+    "J3155": "OLS",
+    "K3155": "0",
+    "L3155": "1",
+    "M3155": "n/a",
+    "N3155": "Shocks to expected market returns and annual log excess returns of duration portfolios, Table4A/B risk-exposure slopes, including long-minus-short contrast.",
+    "O3155": "Author gives these slopes a discount-rate response interpretation (p934): declining expected returns raise present values, more for long cash-flow duration. Proxy-shock columns are explicit robustness of the same mechanism; separate scalar proxy treatments. OLS time-series regression, no FE. Covariance association alone would not qualify; the present-value argument supplies the author-intention gate, not proof of exogeneity. Source: pp933–934 Table4; L983–1024,1033–1107."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -81542,7 +81551,11 @@
     "A7496": "QY4D7PCL",
     "B7496": "h14",
     "C7496": "hy1",
-    "K7496": "Annual duration-portfolio excess return relative to shortest-duration decile; market covariance slope under CAPM restriction."
+    "K7496": "Annual duration-portfolio excess return relative to shortest-duration decile; market covariance slope under CAPM restriction.",
+    "A7497": "QY4D7PCL",
+    "B7497": "h15",
+    "C7497": "hy1",
+    "K7497": "Annual log excess return on duration portfolios and long-minus-short portfolio; reported beta is a regression coefficient, not the dependent variable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

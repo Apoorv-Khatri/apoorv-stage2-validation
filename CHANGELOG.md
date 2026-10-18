@@ -518937,3 +518937,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T04:05:19.995607+00:00 — Review QY4D7PCL h15: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7497",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7497",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7497",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7497",
+    "before": null,
+    "after": "Annual log excess return on duration portfolios and long-minus-short portfolio; reported beta is a regression coefficient, not the dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3155",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3155",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3155",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3155",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3155",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3155",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3155",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3155",
+    "before": null,
+    "after": "Shocks to expected market returns and annual log excess returns of duration portfolios, Table4A/B risk-exposure slopes, including long-minus-short contrast."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3155",
+    "before": null,
+    "after": "Author gives these slopes a discount-rate response interpretation (p934): declining expected returns raise present values, more for long cash-flow duration. Proxy-shock columns are explicit robustness of the same mechanism; separate scalar proxy treatments. OLS time-series regression, no FE. Covariance association alone would not qualify; the present-value argument supplies the author-intention gate, not proof of exogeneity. Source: pp933–934 Table4; L983–1024,1033–1107."
+  }
+]
+```
