@@ -532842,3 +532842,144 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:05:20.435728+00:00 — Review RQ77EIC2 s6: source-audited coding and linked comparisons
+
+22 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K384",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K385",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K386",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K387",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L384",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M384",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N384",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O384",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P384",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q384",
+    "before": null,
+    "after": "p4411 Table9 col1: one-treatment-SD ideological-distance increase gives 0.0021 (21 bps), 14.2% of average individual SEC dissent 1.48%. Mean describes observed SEC dissent, not an established untreated outcome for the continuous-distance target."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R384",
+    "before": null,
+    "after": "Eligible explicit ratio; alignment unknown: continuous within-rule target/weights and zero-distance untreated counterfactual mean not identified by reported overall average."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R385",
+    "before": null,
+    "after": "Correct explicit 21.6%-of-mean comparison but wrong retained treatment parent after split. Preserve original c2 rejected here; identical verified evidence linked to h4/hc1, not double-counted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R386",
+    "before": null,
+    "after": "No deliberate benchmark linkage for this focal estimate: 87/62 bps and one-treatment-SD scaling do not themselves compare with the 1.48% outcome mean used in preceding GST-coefficient sentences. Table9 contains no dependent-variable mean row. Also distinct dictionary treatment now h5/h6. Contextual extension of mean is contested; preferred eligibility=0."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R387",
+    "before": null,
+    "after": "No deliberate benchmark linkage for this focal estimate: 87/62 bps and one-treatment-SD scaling do not themselves compare with the 1.48% outcome mean used in preceding GST-coefficient sentences. Table9 contains no dependent-variable mean row. Also distinct dictionary treatment now h5/h6. Contextual extension of mean is contested; preferred eligibility=0."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1694",
+    "before": null,
+    "after": "Individual dissent indicator for Congress-based distance from other regulators only, Table9 cols1/5. Other treatments have outcomes under h4–h6; dependent variable is not standardized."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J674",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K674",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M674",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N674",
+    "before": null,
+    "after": "Congress-based ideological distance from other voting regulators, standardized dose, Table9 cols1/5; other three distance treatments split h4–h6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O674",
+    "before": null,
+    "after": "One identifying rule/decision FE dimension controls time and issue (p4411); issue nests timing so not two dimensions and no HDFE. Compare voters on same item. Author uses ideological differences to explain why partisanship increases dissent (pp4410,4413); retains Fed weak effect. Treatment standardized, outcome is untransformed binary dissent (not outcome-SD units). Source: Table9 pp4410–4413; L2292–2438,2478–2481."
+  }
+]
+```
