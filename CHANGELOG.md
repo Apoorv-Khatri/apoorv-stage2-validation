@@ -511317,3 +511317,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:02:16.785626+00:00 — Review QCQ3E8DE h11: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7461",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7461",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7461",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7461",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7461",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7461",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7461",
+    "before": null,
+    "after": "Annualized spanning-regression alpha (percentage return/year), with factor/strategy benchmark specification retained in setting; Section5.4 Table11B pp241–242 footnote15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3132",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3132",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3132",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3132",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3132",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3132",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3132",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3132",
+    "before": null,
+    "after": "Dynamic residual-based rule performance across markets, Table11B rows dyn on WML and dyn on cvol, including starred aggregation variants. Footnote15 forecasts residuals from WML regressed on market and panic-interacted market, unlike unadjusted Table11A. Annualized alpha is incremental performance, not causal effect of factor regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3132",
+    "before": null,
+    "after": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section5.4 Table11B pp241–242 footnote15."
+  }
+]
+```

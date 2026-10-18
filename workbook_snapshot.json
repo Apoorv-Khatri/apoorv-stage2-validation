@@ -30687,7 +30687,16 @@
     "L3131": "1",
     "M3131": "n/a",
     "N3131": "Fully dynamic composite aggregation: equalize constituent dynamic-strategy conditional volatility ex ante, then equally weight, instead of full-sample volatility scaling. GE*,GA*,GAll* Sharpe ratios0.956,1.028,1.223 and skewness1.11,-0.19,0.44; compare respective unstar dynamic composites0.752,0.973,1.139.",
-    "O3131": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section5.4 Table11A pp241–242."
+    "O3131": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section5.4 Table11A pp241–242.",
+    "A3132": "QCQ3E8DE",
+    "B3132": "h11",
+    "I3132": "1",
+    "J3132": "Other",
+    "K3132": "1",
+    "L3132": "1",
+    "M3132": "n/a",
+    "N3132": "Dynamic residual-based rule performance across markets, Table11B rows dyn on WML and dyn on cvol, including starred aggregation variants. Footnote15 forecasts residuals from WML regressed on market and panic-interacted market, unlike unadjusted Table11A. Annualized alpha is incremental performance, not causal effect of factor regressors.",
+    "O3132": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section5.4 Table11B pp241–242 footnote15."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80810,7 +80819,14 @@
     "H7460": "0",
     "I7460": "unknown",
     "J7460": "none",
-    "K7460": "Skewness of focal strategy monthly returns; Table11A."
+    "K7460": "Skewness of focal strategy monthly returns; Table11A.",
+    "A7461": "QCQ3E8DE",
+    "B7461": "h11",
+    "C7461": "hy1",
+    "H7461": "0",
+    "I7461": "unknown",
+    "J7461": "none",
+    "K7461": "Annualized spanning-regression alpha (percentage return/year), with factor/strategy benchmark specification retained in setting; Section5.4 Table11B pp241–242 footnote15"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
