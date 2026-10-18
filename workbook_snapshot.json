@@ -34294,7 +34294,16 @@
     "L3445": "1",
     "M3445": "n/a",
     "N3445": "Lagged firm-level V/P effect on four simultaneous financing indicators; Table IV.A/B, columns 1/2/4/5. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments.",
-    "O3445": "Nonlinear logit is Other despite one firm FE dimension; causal response of financing to relative valuations, pp.3065–3068. Treatment continuous, outcomes binary. Odds multipliers 1.2/1.1 are not outcome-mean/SD comparisons; Table IA8 LPM comparison cannot be transferred here."
+    "O3445": "Nonlinear logit is Other despite one firm FE dimension; causal response of financing to relative valuations, pp.3065–3068. Treatment continuous, outcomes binary. Odds multipliers 1.2/1.1 are not outcome-mean/SD comparisons; Table IA8 LPM comparison cannot be transferred here.",
+    "A3446": "UK6BI2QX",
+    "B3446": "h11",
+    "I3446": "1",
+    "J3446": "Other",
+    "K3446": "0",
+    "L3446": "1",
+    "M3446": "n/a",
+    "N3446": "Lagged firm-level predicted 12-month excess bond return effect on four simultaneous financing indicators; Table IV.A/B, columns 3/6. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments.",
+    "O3446": "Nonlinear logit is Other despite one firm FE dimension; causal response of financing to relative valuations, pp.3065–3068. Treatment continuous, outcomes binary. Odds multipliers 1.2/1.1 are not outcome-mean/SD comparisons; Table IA8 LPM comparison cannot be transferred here."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87899,7 +87908,23 @@
     "A7927": "UK6BI2QX",
     "B7927": "h10",
     "C7927": "hy4",
-    "K7927": "Indicator equal to 1 if the firm issues more equity than its own average and retires more debt than its own average in the same quarter: 1{S_it < Sbar_i, D_it < Dbar_i}."
+    "K7927": "Indicator equal to 1 if the firm issues more equity than its own average and retires more debt than its own average in the same quarter: 1{S_it < Sbar_i, D_it < Dbar_i}.",
+    "A7928": "UK6BI2QX",
+    "B7928": "h11",
+    "C7928": "hy1",
+    "K7928": "Indicator equal to 1 if the firm simultaneously has positive net equity repurchases and positive net debt issuance in the same quarter: 1{S_it > 0, D_it > 0}.",
+    "A7929": "UK6BI2QX",
+    "B7929": "h11",
+    "C7929": "hy2",
+    "K7929": "Indicator equal to 1 if the firm simultaneously has negative net equity repurchases (i.e., net equity issuance) and negative net debt issuance (i.e., net debt retirement) in the same quarter: 1{S_it < 0, D_it < 0}.",
+    "A7930": "UK6BI2QX",
+    "B7930": "h11",
+    "C7930": "hy3",
+    "K7930": "Indicator equal to 1 if the firm repurchases more equity than its own average and issues more debt than its own average in the same quarter: 1{S_it > Sbar_i, D_it > Dbar_i}.",
+    "A7931": "UK6BI2QX",
+    "B7931": "h11",
+    "C7931": "hy4",
+    "K7931": "Indicator equal to 1 if the firm issues more equity than its own average and retires more debt than its own average in the same quarter: 1{S_it < Sbar_i, D_it < Dbar_i}."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
