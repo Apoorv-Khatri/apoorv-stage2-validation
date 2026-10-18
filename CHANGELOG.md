@@ -503799,3 +503799,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T02:55:10.200330+00:00 — Review QCQ3E8DE s9: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1469",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1470",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1469",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1470",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1469",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1470",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1469",
+    "before": null,
+    "after": "spurious as causal outcome of rejected s9; original data definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1470",
+    "before": null,
+    "after": "spurious as causal outcome of rejected s9; original data definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I604",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O604",
+    "before": null,
+    "after": "Reject extracted factor returns as causal treatments: Table8 estimates spanning intercepts, not effects of factor-return interventions. Preserve substantive rule-performance evidence under h7 and h8; these are not diagnostic-only exclusions. Source: Section 4.4, Table 8 Panels A and B, PDF pp. 237–238.."
+  }
+]
+```
