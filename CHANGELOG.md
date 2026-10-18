@@ -589623,3 +589623,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:37:26.402825+00:00 — Review WERKYTKC s2: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K462",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K463",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L462",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M462",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N462",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O462",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P462",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q462",
+    "before": null,
+    "after": "p.559 section 4.2 / Table 8 col.1: “6 percentage points more likely ... This represents a 38% increase with respect to the likelihood of increasing dividend payments when peer influence is high.” Benchmark is a probability/base rate, not other_level; exact high-peer population/weights not specified."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R462",
+    "before": null,
+    "after": "Two-instrument interaction estimand; high-peer observed likelihood not established as untreated counterfactual for its weighted target. Unknown alignment; do not reverse engineer a denominator from 6/38."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R463",
+    "before": null,
+    "after": "Wrong parent after s2 is narrowed to overconfidence. Strategic-vulnerability twice-as-likely contrast retained at h2/hc1 as a qualitative high-peer likelihood contrast. Do not equate the verbal ratio to 4.3pp divided by an invented base rate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I781",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J781",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K781",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L781",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M781",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N781",
+    "before": null,
+    "after": "Continuous 180-day peer-increase share and its interaction with CEO-overconfidence indicator: Table 8 column 1 / Eq.5, dividend-increase outcome. Other mechanism instrument sets split to h2-h4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O781",
+    "before": null,
+    "after": "Section 4 pp.559-560 and introduction establish central mechanism interpretation. Two endogenous regressors: peer share and peer share × overconfidence. Two excluded NONBINARY instruments: peer idiosyncratic risk and risk × indicator; category other, not mixed. Indicator moderator does not make the focal peer-share slope binary. Firm/time FE remain subordinate to IV. Interaction 6.0pp is differential slope, not full subgroup peer effect (main share slope 19.1%). No random assignment of CEO traits asserted."
+  }
+]
+```
