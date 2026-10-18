@@ -556563,3 +556563,246 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:14:02.346054+00:00 — Review TRCRCTBB s3: source-audited coding and linked comparisons
+
+39 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K411",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K412",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K413",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K414",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L411",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L412",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L413",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L414",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M411",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M412",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M413",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M414",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N411",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N412",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N413",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N414",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O411",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O412",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O413",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O414",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P411",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P412",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P413",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P414",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q411",
+    "before": null,
+    "after": "p.3415/Table IV.A; Table I net equity SD 0.131 and net debt SD 0.099, 10,402 firm-years. Table IV Panel A, col. (2): coefficient on PO_t = -0.129; author interprets a one-standard-deviation decrease in PO_t as increasing contemporaneous net equity issuance by 1.1% of total securities outstanding. Sample standard deviation of NetEquityIssue; Table I reports SD 0.131, and the text says the effect is approximately 8.7% of this SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q412",
+    "before": null,
+    "after": "p.3415/Table IV.A; Table I net equity SD 0.131 and net debt SD 0.099, 10,402 firm-years. Table IV Panel A, col. (4): coefficient on PO^{t+1}_t = -0.230; author interprets a one-standard-deviation decrease in PO^{t+1}_t as increasing contemporaneous net equity issuance by 1.8% of total securities outstanding. Sample standard deviation of NetEquityIssue; text says the effect is approximately 13.8% of the sample standard deviation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q413",
+    "before": null,
+    "after": "p.3415/Table IV.A; Table I net equity SD 0.131 and net debt SD 0.099, 10,402 firm-years. Table IV Panel A, col. (6): coefficient on PO_t = -0.026; author interprets a one-standard-deviation decrease in PO_t as increasing contemporaneous net debt issuance by 0.23% of total securities outstanding. Sample standard deviation of NetDebtIssue; Table I reports SD 0.099, and the text says the effect is approximately 2.3% of the sample SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q414",
+    "before": null,
+    "after": "p.3415/Table IV.A; Table I net equity SD 0.131 and net debt SD 0.099, 10,402 firm-years. Table IV Panel A, col. (8): coefficient on PO^{t+1}_t = -0.045; author interprets a one-standard-deviation decrease in PO^{t+1}_t as increasing contemporaneous net debt issuance by 0.35% of total securities outstanding. Sample standard deviation of NetDebtIssue; text says the effect is approximately 3.5% of the sample standard deviation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R411",
+    "before": null,
+    "after": "Continuous conditional regression target/weights not established to equal the stated sample benchmark; same sample alone does not prove alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R412",
+    "before": null,
+    "after": "Wrong-parent after distinct treatment split: preserve original record; exact focal estimate/benchmark retained under h3/hc1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R413",
+    "before": null,
+    "after": "Continuous conditional regression target/weights not established to equal the stated sample benchmark; same sample alone does not prove alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R414",
+    "before": null,
+    "after": "Wrong-parent after distinct treatment split: preserve original record; exact focal estimate/benchmark retained under h3/hc2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J719",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K719",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M719",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N719",
+    "before": null,
+    "after": "Total ΔPOt effect on net equity and net debt issuance, Table IV.A columns 1–2 and 5–6, pp.3414–3417; next-year-due and residual-maturity doses split to h3/h4. Firm plus year or industry×year FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O719",
+    "before": null,
+    "after": "Linear panel regression; firm (or manager) and time effects absorb persistent unit heterogeneity and common shocks in the within-unit private-information design. At most two effective FE dimensions, not HDFE; no IV/RCT/RD/DiD. No genuine no-unit-FE OLS column. Continuous PO dose, not binary merely because outcomes or subsamples are binary."
+  }
+]
+```
