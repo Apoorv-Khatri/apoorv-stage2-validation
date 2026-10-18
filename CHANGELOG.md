@@ -570657,3 +570657,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:06:46.880289+00:00 — Review UTRUH2FR h6: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7985",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7985",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7985",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7985",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7985",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7985",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7985",
+    "before": null,
+    "after": "Change in local tax per inhabitant, year-end 2002 to year-end 2007, euros/resident; Table8 column2 heading Δ confirms change, not level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3477",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3477",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3477",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3477",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3477",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3477",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3477",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3477",
+    "before": null,
+    "after": "Structured-loan receipt 2002–2007 effect on change in local taxes per inhabitant, Table8 column2 naïve linear regression, 13.879 euros."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3477",
+    "before": null,
+    "after": "Broad intention as biased comparison benchmark, Section7 p.1929. Branch/population bracket dummies are present; no independent identifying-FE argument for this naïve column beyond regression adjustment. Do not borrow the IV geography argument to create HDFE or a no-FE split. Tax difference removes stable entity levels but no parallel-trends treatment/control panel design is implemented."
+  }
+]
+```

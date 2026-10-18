@@ -34630,7 +34630,16 @@
     "L3476": "1",
     "M3476": "n/a",
     "N3476": "Election-exposed entities × pre-election period effect on quarterly structured transaction, Table6.B columns1/2, linear panel regression ±18/12 months.",
-    "O3476": "Same election/control groups as s4; conventional DiD dominates two identifying FE sets and OLS label. Not a genuine standalone OLS setting. Placebo columns3/4 diagnostic only."
+    "O3476": "Same election/control groups as s4; conventional DiD dominates two identifying FE sets and OLS label. Not a genuine standalone OLS setting. Placebo columns3/4 diagnostic only.",
+    "A3477": "UTRUH2FR",
+    "B3477": "h6",
+    "I3477": "1",
+    "J3477": "OLS",
+    "K3477": "1",
+    "L3477": "0",
+    "M3477": "n/a",
+    "N3477": "Structured-loan receipt 2002–2007 effect on change in local taxes per inhabitant, Table8 column2 naïve linear regression, 13.879 euros.",
+    "O3477": "Broad intention as biased comparison benchmark, Section7 p.1929. Branch/population bracket dummies are present; no independent identifying-FE argument for this naïve column beyond regression adjustment. Do not borrow the IV geography argument to create HDFE or a no-FE split. Tax difference removes stable entity levels but no parallel-trends treatment/control panel design is implemented."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88497,7 +88506,14 @@
     "H7984": "1",
     "I7984": "1",
     "J7984": "none",
-    "K7984": "Indicator of a structured trade for a local government in quarter t, Table6.B."
+    "K7984": "Indicator of a structured trade for a local government in quarter t, Table6.B.",
+    "A7985": "UTRUH2FR",
+    "B7985": "h6",
+    "C7985": "hy1",
+    "H7985": "0",
+    "I7985": "unknown",
+    "J7985": "none",
+    "K7985": "Change in local tax per inhabitant, year-end 2002 to year-end 2007, euros/resident; Table8 column2 heading Δ confirms change, not level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
