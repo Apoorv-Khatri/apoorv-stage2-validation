@@ -34621,7 +34621,16 @@
     "L3475": "1",
     "M3475": "n/a",
     "N3475": "Close 2001 election indicator (victory margin <5%) effect on structured adoption, Table5 column4, probit.",
-    "O3475": "Distinct stability treatment, explicitly interpreted p.1922; central contestation corroboration. No quasi-random close-election RD implemented."
+    "O3475": "Distinct stability treatment, explicitly interpreted p.1922; central contestation corroboration. No quasi-random close-election RD implemented.",
+    "A3476": "UTRUH2FR",
+    "B3476": "h5",
+    "I3476": "1",
+    "J3476": "DiD_conventional",
+    "K3476": "1",
+    "L3476": "1",
+    "M3476": "n/a",
+    "N3476": "Election-exposed entities × pre-election period effect on quarterly structured transaction, Table6.B columns1/2, linear panel regression ±18/12 months.",
+    "O3476": "Same election/control groups as s4; conventional DiD dominates two identifying FE sets and OLS label. Not a genuine standalone OLS setting. Placebo columns3/4 diagnostic only."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88481,7 +88490,14 @@
     "H7983": "1",
     "I7983": "1",
     "J7983": "none",
-    "K7983": "Indicator for any structured loan use. "
+    "K7983": "Indicator for any structured loan use. ",
+    "A7984": "UTRUH2FR",
+    "B7984": "h5",
+    "C7984": "hy1",
+    "H7984": "1",
+    "I7984": "1",
+    "J7984": "none",
+    "K7984": "Indicator of a structured trade for a local government in quarter t, Table6.B."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
