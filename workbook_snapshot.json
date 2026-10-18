@@ -34204,7 +34204,16 @@
     "L3435": "0",
     "M3435": "n/a",
     "N3435": "Low-minus-high predicted coskewness return contrast with BOTH predictors and dependent coskewness unranked in Eq.4, Section2.5.2 p.408 (layout lines728–739), unreported factor regression alphas all insignificant. Distinct construction from Table1 PSS (unranked), which un-ranks the dependent coskewness only. Minimum implemented return-adjustment scope; no numerical grid supplied.",
-    "O3435": "Explicit all-alpha null is a risk-adjusted-return result under the accepted risk-compensation gate, not merely a forecasting correlation. Conditional linear return regression/contrast OLS; implemented low/high factor contrast binary. Supporting construction robustness main=0. No inferred alpha magnitudes, exact model grid, or supplement cells. Realized coskewness close to zero is diagnostic and not an added return outcome."
+    "O3435": "Explicit all-alpha null is a risk-adjusted-return result under the accepted risk-compensation gate, not merely a forecasting correlation. Conditional linear return regression/contrast OLS; implemented low/high factor contrast binary. Supporting construction robustness main=0. No inferred alpha magnitudes, exact model grid, or supplement cells. Realized coskewness close to zero is diagnostic and not an added return outcome.",
+    "A3436": "UK6BI2QX",
+    "B3436": "h1",
+    "I3436": "1",
+    "J3436": "FE",
+    "K3436": "0",
+    "L3436": "1",
+    "M3436": "n/a",
+    "N3436": "Lagged firm-level term spread effect on net equity repurchases and net debt issuance, quarterly flows /lagged assets; Table III, columns 1/4. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments.",
+    "O3436": "Broad author-intention gate met: valuations affect financing (abstract, pp.3043,3061–3064). Firm FE explicitly focus on a given firm under changing conditions (p.3060), addressing persistent firm heterogeneity; one effective FE set, not HDFE. No time FE or no-firm-FE column. Lagging and controls do not prove exogeneity. Generated expected-return predictors are not implemented IV treatment receipt."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87697,7 +87706,15 @@
     "H7899": "0",
     "I7899": "unknown",
     "J7899": "none",
-    "K7899": "Monthly low-minus-high portfolio return, factor-adjusted contrast for fully unranked coskewness prediction construction, p.408. Monthly frequency and value-weighted 30% tails inherited from Section2/Table1 factor definition; p.408 does not reprint this construction or numerical units. No numeric alpha supplied, no annualized amount inferred; return is continuous, zero mass unknown, alpha not a separate outcome."
+    "K7899": "Monthly low-minus-high portfolio return, factor-adjusted contrast for fully unranked coskewness prediction construction, p.408. Monthly frequency and value-weighted 30% tails inherited from Section2/Table1 factor definition; p.408 does not reprint this construction or numerical units. No numeric alpha supplied, no annualized amount inferred; return is continuous, zero mass unknown, alpha not a separate outcome.",
+    "A7900": "UK6BI2QX",
+    "B7900": "h1",
+    "C7900": "hy1",
+    "K7900": "Quarterly net equity repurchases by firm i, defined as purchase of common and preferred stock minus sale of common and preferred stock, normalized by lagged assets; percentage points of lagged assets.",
+    "A7901": "UK6BI2QX",
+    "B7901": "h1",
+    "C7901": "hy2",
+    "K7901": "Quarterly net debt issuance by firm i, defined as long-term debt issuance minus long-term debt reduction, normalized by lagged assets; percentage points of lagged assets."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
