@@ -560691,3 +560691,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:55:29.248421+00:00 — Review TS6H62KJ s19: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1805",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1806",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1805",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1806",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1805",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1806",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1805",
+    "before": null,
+    "after": "Monthly portfolio excess return (% per month); focal estimate is the stated raw or factor-adjusted high-low/low-high contrast, not an alpha-valued dependent variable. No evidence establishing an atom at zero. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1806",
+    "before": null,
+    "after": "duplicate of y1 as a dependent outcome: factor loading(s) are regression parameters of the return outcome, not additional dependent outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I747",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J747",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K747",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L747",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M747",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N747",
+    "before": null,
+    "after": "Low versus high predicted total skewness: equal-weighted return alpha, Table10 PanelA p.420 (MKT and PSS). PanelsB/C and value-weighted Table11 separately added. Reported low-high alpha 0.18% per month."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O747",
+    "before": null,
+    "after": "Supporting total-skewness robustness, Section4.3.1. Tables10/11 are in the final main article, not inaccessible appendix tables. Outcome is monthly excess return; alpha is its adjusted contrast. Other factor controls do not create FE."
+  }
+]
+```
