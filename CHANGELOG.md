@@ -590733,3 +590733,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:40:46.184987+00:00 — Review WERKYTKC h3: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8163",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8163",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8163",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8163",
+    "before": null,
+    "after": "Own dividend-increase indicator, Table 8. No binary-treatment outcome labels required for continuous peer-share slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3573",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3573",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3573",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3573",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3573",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3573",
+    "before": null,
+    "after": "Continuous peer-increase share and its interaction with reputation-building (young/short-tenure CEO) indicator, Table 8 column 3, dividend-increase outcome. Distinct interaction instrument set."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3573",
+    "before": null,
+    "after": "Eq.5 pp.559-560: excluded peer risk and peer risk × reputation-building (young/short-tenure CEO), two nonbinary instruments (other). Main share plus interaction gives conditional effect; indicator itself is not the endogenous peer treatment. Main because the introduction explicitly frames four competing mechanism tests together; retain central nulls in columns 3-4. Firm/time FE are two dimensions, subordinate to IV."
+  }
+]
+```

@@ -35669,7 +35669,16 @@
     "L3572": "1",
     "M3572": "other",
     "N3572": "Continuous peer-increase share and its interaction with strategic vulnerability indicator, Table 8 column 2, dividend-increase outcome. Distinct interaction instrument set.",
-    "O3572": "Eq.5 pp.559-560: excluded peer risk and peer risk × strategic vulnerability, two nonbinary instruments (other). Main share plus interaction gives conditional effect; indicator itself is not the endogenous peer treatment. Main because the introduction explicitly frames four competing mechanism tests together; retain central nulls in columns 3-4. Firm/time FE are two dimensions, subordinate to IV."
+    "O3572": "Eq.5 pp.559-560: excluded peer risk and peer risk × strategic vulnerability, two nonbinary instruments (other). Main share plus interaction gives conditional effect; indicator itself is not the endogenous peer treatment. Main because the introduction explicitly frames four competing mechanism tests together; retain central nulls in columns 3-4. Firm/time FE are two dimensions, subordinate to IV.",
+    "A3573": "WERKYTKC",
+    "B3573": "h3",
+    "I3573": "1",
+    "J3573": "IV",
+    "K3573": "0",
+    "L3573": "1",
+    "M3573": "other",
+    "N3573": "Continuous peer-increase share and its interaction with reputation-building (young/short-tenure CEO) indicator, Table 8 column 3, dividend-increase outcome. Distinct interaction instrument set.",
+    "O3573": "Eq.5 pp.559-560: excluded peer risk and peer risk × reputation-building (young/short-tenure CEO), two nonbinary instruments (other). Main share plus interaction gives conditional effect; indicator itself is not the endogenous peer treatment. Main because the introduction explicitly frames four competing mechanism tests together; retain central nulls in columns 3-4. Firm/time FE are two dimensions, subordinate to IV."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -90875,7 +90884,11 @@
     "A8162": "WERKYTKC",
     "B8162": "h2",
     "C8162": "hy1",
-    "K8162": "Own dividend-increase indicator, Table 8. No binary-treatment outcome labels required for continuous peer-share slope."
+    "K8162": "Own dividend-increase indicator, Table 8. No binary-treatment outcome labels required for continuous peer-share slope.",
+    "A8163": "WERKYTKC",
+    "B8163": "h3",
+    "C8163": "hy1",
+    "K8163": "Own dividend-increase indicator, Table 8. No binary-treatment outcome labels required for continuous peer-share slope."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
