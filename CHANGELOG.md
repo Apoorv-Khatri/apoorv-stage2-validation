@@ -569433,3 +569433,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:44:28.969432+00:00 — Review UK6BI2QX h36: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7978",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7978",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7978",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7978",
+    "before": null,
+    "after": "Cross-market corporate arbitrage financing response, no evidence found for transitory MBS-duration supply shocks (p.3084/Table IA16); exact dependent-variable definition and scaling unknown."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E81",
+    "before": null,
+    "after": "DONE — Full available-source review of 47 final-article pages with independent audit. Retain 41 setting scopes (five original and 36 additions), including minimum final-prose-supported appendix scopes; add 79 outcome records, not an exact unseen outcome census. Table VI predictive financing signals excluded after parameter-specific adjudication; both original different-outcome comparisons rejected. Four aggregate outcome-SD comparisons retained with unknown alignment, including explicitly qualified anaphoric attribution. Two tentative allocations of one pooled IA8 comparison held outside workbook application; LPM implementation and outcome allocation remain unknown. IA16 substantive transitory-supply null retained with unknown method, treatment coding and outcome construction. Firm FE, nonlinear logit and aggregate OLS distinguished; conditional-logit algorithm not asserted. Final supplement/code unavailable; Treasury firm/aggregate reference conflict and further appendix grids unresolved. Original fields, IDs, links and source anomalies preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3471",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3471",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3471",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3471",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3471",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3471",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3471",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3471",
+    "before": null,
+    "after": "Higher-frequency interest-rate risk supply shocks induced by changes in MBS duration; Internet Appendix Table IA16, final p.3084. Effect on cross-market financing response; substantive null about inability to exploit transitory shocks."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3471",
+    "before": null,
+    "after": "Called a placebo, but tests economically substantive boundary of firms’ arbitrage ability, so retained supporting under broad gate. Exact shock construction, frequency, dependent financing measures and estimator unavailable; no invented monthly OLS or numerical grid. Continuous duration variation does not establish the implemented treatment coding; binary status unknown pending IA16."
+  }
+]
+```

@@ -382,6 +382,7 @@
     "B81": "Nonfinancial Firms as Cross‐Market Arbitrageurs",
     "C81": "fin",
     "D81": 6,
+    "E81": "DONE — Full available-source review of 47 final-article pages with independent audit. Retain 41 setting scopes (five original and 36 additions), including minimum final-prose-supported appendix scopes; add 79 outcome records, not an exact unseen outcome census. Table VI predictive financing signals excluded after parameter-specific adjudication; both original different-outcome comparisons rejected. Four aggregate outcome-SD comparisons retained with unknown alignment, including explicitly qualified anaphoric attribution. Two tentative allocations of one pooled IA8 comparison held outside workbook application; LPM implementation and outcome allocation remain unknown. IA16 substantive transitory-supply null retained with unknown method, treatment coding and outcome construction. Firm FE, nonlinear logit and aggregate OLS distinguished; conditional-logit algorithm not asserted. Final supplement/code unavailable; Treasury firm/aggregate reference conflict and further appendix grids unresolved. Original fields, IDs, links and source anomalies preserved.",
     "A82": "UTRUH2FR",
     "B82": "The Political Economy of Financial Innovation: Evidence from Local Governments",
     "C82": "fin",
@@ -34519,7 +34520,16 @@
     "L3470": "0",
     "M3470": "n/a",
     "N3470": "Aggregate value-weighted V/P effect on aggregate net equity repurchases and net debt issuance, Internet Appendix III.E, explicitly implemented similar results at final p.3075; alternative to E10/P.",
-    "O3470": "Distinct aggregate valuation dose. Final text establishes implementation; no table grid or coefficients inferred."
+    "O3470": "Distinct aggregate valuation dose. Final text establishes implementation; no table grid or coefficients inferred.",
+    "A3471": "UK6BI2QX",
+    "B3471": "h36",
+    "I3471": "1",
+    "J3471": "unknown",
+    "K3471": "unknown",
+    "L3471": "0",
+    "M3471": "unknown",
+    "N3471": "Higher-frequency interest-rate risk supply shocks induced by changes in MBS duration; Internet Appendix Table IA16, final p.3084. Effect on cross-market financing response; substantive null about inability to exploit transitory shocks.",
+    "O3471": "Called a placebo, but tests economically substantive boundary of firms’ arbitrage ability, so retained supporting under broad gate. Exact shock construction, frequency, dependent financing measures and estimator unavailable; no invented monthly OLS or numerical grid. Continuous duration variation does not establish the implemented treatment coding; binary status unknown pending IA16."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88324,7 +88334,11 @@
     "A7977": "UK6BI2QX",
     "B7977": "h35",
     "C7977": "hy2",
-    "K7977": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
+    "K7977": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets.",
+    "A7978": "UK6BI2QX",
+    "B7978": "h36",
+    "C7978": "hy1",
+    "K7978": "Cross-market corporate arbitrage financing response, no evidence found for transitory MBS-duration supply shocks (p.3084/Table IA16); exact dependent-variable definition and scaling unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
