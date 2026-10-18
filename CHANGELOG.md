@@ -535497,3 +535497,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:34:44.494933+00:00 — Review RQV5GQTL h10: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5209",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5210",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5209",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5210",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5209",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5210",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5209",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5210",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5209",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5210",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5209",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5210",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5209",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5210",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5209",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5210",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5209",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5210",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5209",
+    "before": null,
+    "after": "TableVI col5 revenue quartile2 versus no-revenue effect=0.390; p2327 says effects of revenues are much more similar relative to average rationing levels: long-only benchmark1.08. TableV identifies these quoted means as HOT-IPO means, not full-sample means (full-sample long-only0.98, hedge fund0.63)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5210",
+    "before": null,
+    "after": "TableVI col6 revenue quartile2 versus no-revenue effect=0.167; p2327 says effects of revenues are much more similar relative to average rationing levels: hedge fund benchmark0.55. TableV identifies these quoted means as HOT-IPO means, not full-sample means (full-sample long-only0.98, hedge fund0.63)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5209",
+    "before": null,
+    "after": "HOLD exact focal-triple expansion and division, not the existence of a verbal benchmark discussion. p2327 collectively compares revenue effects relative to two stated average levels; it does not enumerate quartile-specific normalized effects or identify only the headline quartile. Neither eight confirmed triples nor a selectively chosen top-only pair is uniquely established. No ratio is calculated or attributed. If the parent adopts the broad plural interpretation, all eight may be eligible; deliberate normalization remains an interpretation requiring adjudication. Human_aligned=0 is independently established: Table V 1.08/0.55 are hot-only means but Table VI cols5/6 pool hot and cold."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5210",
+    "before": null,
+    "after": "HOLD exact focal-triple expansion and division, not the existence of a verbal benchmark discussion. p2327 collectively compares revenue effects relative to two stated average levels; it does not enumerate quartile-specific normalized effects or identify only the headline quartile. Neither eight confirmed triples nor a selectively chosen top-only pair is uniquely established. No ratio is calculated or attributed. If the parent adopts the broad plural interpretation, all eight may be eligible; deliberate normalization remains an interpretation requiring adjudication. Human_aligned=0 is independently established: Table V 1.08/0.55 are hot-only means but Table VI cols5/6 pool hot and cold."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7637",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7637",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7637",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7637",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7637",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7637",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7637",
+    "before": null,
+    "after": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3234",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3234",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3234",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3234",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3234",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3234",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3234",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3234",
+    "before": null,
+    "after": "Revenue quartile 2 versus no-revenue investors (quartile 1 highest, quartile 4 lowest): effect on normalized rationing; Table VI cols1–6, pp2324–2327. Revenue contrasts use cols2–6; bid contrasts include baseline col1 and revenue-adjusted/subgroup variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3234",
+    "before": null,
+    "after": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO and bank FE explicitly absorb unobserved IPO drivers and bank allocation policies (p2322); two identifying dimensions, therefore FE, not OLS. Routine controls and subgroup columns at the same table are grouped. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table VI cols1–6, pp2324–2327; article_layout.txt L987–1209."
+  }
+]
+```
