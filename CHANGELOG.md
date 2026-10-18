@@ -605877,3 +605877,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T19:09:55.525854+00:00 — Review X387EWAF s3: source-audited coding and linked comparisons
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K483",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R483",
+    "before": null,
+    "after": "Excluded causal parent. Additionally, benchmark is a level of predicted variation/informativeness, not the underlying earnings or investment outcome attached by the model. Trend/decade changes do not estimate the named price/investment intervention. Verbal ratios exist but do not rescue causal eligibility. Do not replace printed1960 by1972: R&D origin conflicts with data availability. Horizon attribution of “four times” is pooled."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1962",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1963",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1964",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1965",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1966",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1967",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1962",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1963",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1964",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1965",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1966",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1967",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1962",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1963",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1964",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1965",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1966",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1967",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1962",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1963",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1964",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1965",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1966",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1967",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I806",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O806",
+    "before": null,
+    "after": "Exclude forecastability of R&D/CAPX from prices, Eq.18/Fig.5/Table3 pp.637–639. The model motivates feedback but the empirical coefficient is used to measure information about real decisions, not a price intervention response. This is a parameter-specific gate, not a claim that investment has no causal mechanisms."
+  }
+]
+```
