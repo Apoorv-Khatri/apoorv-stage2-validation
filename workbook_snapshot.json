@@ -32673,7 +32673,16 @@
     "L3316": "0",
     "M3316": "n/a",
     "N3316": "Attendance at a bookbuilding meeting versus no meeting: effect on expected bid profitability; Table X col3, pp2335–2337. ",
-    "O3316": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + bank + investor FE: three distinct nonnested dimensions. Identification argument pp2331–2333 controls persistent investor information/size and bank/IPO heterogeneity. HDFE does not require authors to use that acronym. Generated outcome does not itself make the final linear estimator IV or nonlinear. Supporting parameter-specific contrast, not promoted solely by location. Source: Table X col3, pp2335–2337; article_layout.txt L1579–1708."
+    "O3316": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + bank + investor FE: three distinct nonnested dimensions. Identification argument pp2331–2333 controls persistent investor information/size and bank/IPO heterogeneity. HDFE does not require authors to use that acronym. Generated outcome does not itself make the final linear estimator IV or nonlinear. Supporting parameter-specific contrast, not promoted solely by location. Source: Table X col3, pp2335–2337; article_layout.txt L1579–1708.",
+    "A3317": "RQV5GQTL",
+    "B3317": "h93",
+    "I3317": "1",
+    "J3317": "HDFE",
+    "K3317": "1",
+    "L3317": "0",
+    "M3317": "n/a",
+    "N3317": "Pilot-fishing meeting participation versus no pilot-fishing meeting: effect on expected bid profitability; Table X col3, pp2335–2337. ",
+    "O3317": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + bank + investor FE: three distinct nonnested dimensions. Identification argument pp2331–2333 controls persistent investor information/size and bank/IPO heterogeneity. HDFE does not require authors to use that acronym. Generated outcome does not itself make the final linear estimator IV or nonlinear. Supporting parameter-specific contrast, not promoted solely by location. Source: Table X col3, pp2335–2337; article_layout.txt L1579–1708."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85050,7 +85059,14 @@
     "H7719": "0",
     "I7719": "unknown",
     "J7719": "none",
-    "K7719": "Expected profitability of bid: shares allocated times fitted expected first-day return divided by bid size (p2335). Constructed level, no log/SD transform. Exact return scaling is not reconciled: Eq2 prose calls underpricing a price ratio, whereas TableV defines net return and TableX says price increase. Do not invent percent versus percentage-point units. Observed zero mass is unknown."
+    "K7719": "Expected profitability of bid: shares allocated times fitted expected first-day return divided by bid size (p2335). Constructed level, no log/SD transform. Exact return scaling is not reconciled: Eq2 prose calls underpricing a price ratio, whereas TableV defines net return and TableX says price increase. Do not invent percent versus percentage-point units. Observed zero mass is unknown.",
+    "A7720": "RQV5GQTL",
+    "B7720": "h93",
+    "C7720": "hy1",
+    "H7720": "0",
+    "I7720": "unknown",
+    "J7720": "none",
+    "K7720": "Expected profitability of bid: shares allocated times fitted expected first-day return divided by bid size (p2335). Constructed level, no log/SD transform. Exact return scaling is not reconciled: Eq2 prose calls underpricing a price ratio, whereas TableV defines net return and TableX says price increase. Do not invent percent versus percentage-point units. Observed zero mass is unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
