@@ -564897,3 +564897,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:30:32.138476+00:00 — Review UK6BI2QX s4: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K423",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R422",
+    "before": null,
+    "after": "Table VI parent is predictive, excluded. Independently, pp.3043/3073 compare debt-minus-hedged-equity relative returns with overall real corporate cost of capital (~6pp), not a same-outcome level; other_level is not a cross-outcome catch-all. Wording genuinely verbal and not divided, but this does not establish eligibility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R423",
+    "before": null,
+    "after": "Table VI parent is predictive, excluded. Independently, pp.3043/3073 compare debt-minus-hedged-equity relative returns with overall real corporate cost of capital (~6pp), not a same-outcome level; other_level is not a cross-outcome catch-all. Wording genuinely verbal and not divided, but this does not establish eligibility."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1817",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1818",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1817",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1818",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1817",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1818",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1817",
+    "before": null,
+    "after": "Inactive: Table VI forecasting setting excluded by parameter-specific causal gate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1818",
+    "before": null,
+    "after": "Inactive: Table VI forecasting setting excluded by parameter-specific causal gate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I752",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O752",
+    "before": null,
+    "after": "Exclude Table VI: pp.3069–3074 explicitly forecast ex post relative security returns to diagnose ex ante mispricing. Not an estimate of financing actions causing returns. Returns-to-arbitrage and possible market-impact language is contrary broad-gate evidence, but the estimated lambda is predictive, not a policy counterfactual. Figure 3 analogous. If independently adjudicated causal, continuous financing and four binary indicators require separate settings; do not retain their pooled model row unchanged."
+  }
+]
+```
