@@ -513045,3 +513045,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:23:35.745034+00:00 — Review QLFZQVZU s10: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1497",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1497",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1497",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1497",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s10 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I617",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O617",
+    "before": null,
+    "after": "Stale ratio values predict future returns with current controls. Figure2 displays Fama–MacBeth t-values against lag, not event-time causal coefficients. Persistence for approximately four versus three years describes forecast information, not a return-effect/outcome-level comparison. Source: p245; Fig2; L1055–1104. Source: p245; Fig2; L1055–1104."
+  }
+]
+```
