@@ -31460,7 +31460,16 @@
     "L3193": "1",
     "M3193": "n/a",
     "N3193": "government-controlled versus non-government-controlled low-quality GIIPS banks: gross and net domestic sovereign holdings paths, Figure2 panelsC/D.",
-    "O3193": "Explicit binary bank-group comparison within weak banks. Proposed OLS group mean contrasts, not IV/RCT or causal effect accepted as credible. Theory: preexisting exposure increases risk-shifting incentive; government control proxies moral suasion. Includes substantive moral-suasion null. Plots show holdings ratios and growth since March2010, not fitted regression coefficients. Caption says A/B for levels but actual A/C are levels and B/D growth; verified visually. Source: pp2864–2867 Figure2 panelsC/D; L611–790."
+    "O3193": "Explicit binary bank-group comparison within weak banks. Proposed OLS group mean contrasts, not IV/RCT or causal effect accepted as credible. Theory: preexisting exposure increases risk-shifting incentive; government control proxies moral suasion. Includes substantive moral-suasion null. Plots show holdings ratios and growth since March2010, not fitted regression coefficients. Caption says A/B for levels but actual A/C are levels and B/D growth; verified visually. Source: pp2864–2867 Figure2 panelsC/D; L611–790.",
+    "A3194": "RDVTTVCR",
+    "B3194": "h12",
+    "I3194": "1",
+    "J3194": "unknown",
+    "K3194": "unknown",
+    "L3194": "1",
+    "M3194": "unknown",
+    "N3194": "Ex ante quality×preexisting exposure and risk-shifting-asset portfolio adjustment, non-GIIPS banks, Table A2 panelA.",
+    "O3194": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: pp2863–2866; L554–567,674–715 (Table A2A)."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82760,7 +82769,13 @@
     "H7576": "0",
     "I7576": "1",
     "J7576": "none",
-    "K7576": "Growth in net domestic sovereign holdings/total assets from March2010; same-outcome group growth contrast, not log transform."
+    "K7576": "Growth in net domestic sovereign holdings/total assets from March2010; same-outcome group growth contrast, not log transform.",
+    "A7577": "RDVTTVCR",
+    "B7577": "h12",
+    "C7577": "hy1",
+    "I7577": "unknown",
+    "J7577": "unknown",
+    "K7577": "Risk-shifting-asset sovereign holdings adjustment for non-GIIPS banks, Table A2A; final discussion of Figure1 concerns net holdings. Exact regression outcome scale and gross-versus-net column coverage unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
