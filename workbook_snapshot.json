@@ -35077,7 +35077,16 @@
     "L3521": "0",
     "M3521": "n/a",
     "N3521": "Lagged Tier1 capital/RWA effect on loan sale,IA.IV: excluding first-year/prearranged sales.",
-    "O3521": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Bank + loan-year FE two effective dimensions. Final pp.2205–2206/2215 explicitly establish implemented result. Supporting separately reported robustness; no invented additional variants. CDS status and prior relationships moderate capital effect rather than automatically being extra focal causal treatments. IA.VIII prints0.111(0.010) without stars for small banks; anomaly preserved."
+    "O3521": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Bank + loan-year FE two effective dimensions. Final pp.2205–2206/2215 explicitly establish implemented result. Supporting separately reported robustness; no invented additional variants. CDS status and prior relationships moderate capital effect rather than automatically being extra focal causal treatments. IA.VIII prints0.111(0.010) without stars for small banks; anomaly preserved.",
+    "A3522": "UUTLYHI2",
+    "B3522": "h28",
+    "I3522": "1",
+    "J3522": "FE",
+    "K3522": "0",
+    "L3522": "0",
+    "M3522": "n/a",
+    "N3522": "Lagged Tier1 leverage (capital/total assets) effect on loan sale,IA.V: alternative regulatory capital metric.",
+    "O3522": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Bank + loan-year FE two effective dimensions. Final pp.2205–2206/2215 explicitly establish implemented result. Supporting separately reported robustness; no invented additional variants. CDS status and prior relationships moderate capital effect rather than automatically being extra focal causal treatments. IA.VIII prints0.111(0.010) without stars for small banks; anomaly preserved."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89312,7 +89321,11 @@
     "A8046": "UUTLYHI2",
     "B8046": "h27",
     "C8046": "hy1",
-    "K8046": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
+    "K8046": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period.",
+    "A8047": "UUTLYHI2",
+    "B8047": "h28",
+    "C8047": "hy1",
+    "K8047": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
