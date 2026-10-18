@@ -556806,3 +556806,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:14:42.565094+00:00 — Review TRCRCTBB s4: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K415",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K416",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L415",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L416",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L417",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M415",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M416",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M417",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N415",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N416",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O415",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O416",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P415",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P416",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P417",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q415",
+    "before": null,
+    "after": "p.3419/Table IV.B; Table I sample means equity issue 0.135, repurchase 0.183, debt issue 0.203, 10,402 firm-years. Table IV Panel B, col. (1): coefficient on PO_t = -0.348; author interprets a one-standard-deviation decrease in PO_t as increasing the probability of equity issuance by 3.1 percentage points. Sample mean of EquityIssueD_t is 0.135 (13.5%) from Table I; text states the effect is approximately 22.7% of this mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q416",
+    "before": null,
+    "after": "p.3419/Table IV.B; Table I sample means equity issue 0.135, repurchase 0.183, debt issue 0.203, 10,402 firm-years. Table IV Panel B, col. (4): coefficient on PO_t = 0.304; author interprets a one-standard-deviation increase in PO_t as increasing the probability of equity repurchase by 2.7 percentage points. Sample mean of RepurchaseD_t is 0.183 (18.3%) from Table I; text states the effect is approximately 14.6% of this mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q417",
+    "before": null,
+    "after": "p.3419/Table IV.B; Table I sample means equity issue 0.135, repurchase 0.183, debt issue 0.203, 10,402 firm-years. Table IV Panel B, col. (6): coefficient on PO_t = -0.103; author interprets a one-standard-deviation decrease in PO_t as increasing the probability of debt issuance by 0.9 percentage points. Sample mean of DebtIssueD_t is 0.203 (20.3%) from Table I; text states the effect is approximately 4.5% of this mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R415",
+    "before": null,
+    "after": "Continuous conditional regression target/weights not established to equal the stated sample benchmark; same sample alone does not prove alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R416",
+    "before": null,
+    "after": "Continuous conditional regression target/weights not established to equal the stated sample benchmark; same sample alone does not prove alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R417",
+    "before": null,
+    "after": "Continuous conditional regression target/weights not established to equal the stated sample benchmark; same sample alone does not prove alignment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J720",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K720",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M720",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O720",
+    "before": null,
+    "after": "Linear panel regression; firm (or manager) and time effects absorb persistent unit heterogeneity and common shocks in the within-unit private-information design. At most two effective FE dimensions, not HDFE; no IV/RCT/RD/DiD. No genuine no-unit-FE OLS column. Continuous PO dose, not binary merely because outcomes or subsamples are binary. Table IV.B/p.3419: probabilities from linear models, not logit. Equity-issuance 22.7% mean comparison belongs to column 1 (firm/year FE), not column 2. p.3419 interquartile repurchase sentence switches to next-year PO although panel only uses total PO; do not alter treatment on that basis."
+  }
+]
+```
