@@ -546876,3 +546876,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:29:00.508970+00:00 — Review S3X8G9NP s2: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1706",
+    "before": null,
+    "after": "Paper reports logarithm of investment-bank count, but does not explain treatment of zero counts; log1p versus other zero handling is unresolved. Figures5, Tables5/6; no invented transformation correction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I685",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J685",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K685",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L685",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M685",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O685",
+    "before": null,
+    "after": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Post-drive dynamics substantively interpreted, not diagnostic-only. County and district×year are two effective FE dimensions; DiD precedence. Log-count zero handling unspecified despite counties without IBs; do not silently change to log1p. Main=1 as central timing/geographic-expansion evidence. Source: Fig5 / Eq1, pp204–205; layout L563–608,642–644."
+  }
+]
+```
