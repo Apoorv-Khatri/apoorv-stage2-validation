@@ -532017,3 +532017,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T10:26:47.106378+00:00 — Review RMH5X4LW s4: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1673",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1674",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1673",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1674",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1673",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1674",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1673",
+    "before": null,
+    "after": "spurious: parent s4 is a specification/inference exercise, not a causal setting; retain original model definition unchanged."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1674",
+    "before": null,
+    "after": "spurious: parent s4 is a specification/inference exercise, not a causal setting; retain original model definition unchanged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I661",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O661",
+    "before": null,
+    "after": "Spurious causal setting: Table 2 d=1, p346: 2S-GMM and IT-GMM estimate SDF means and pricing-criterion tests. Neither algorithm is a treatment; these are not automatically IV treatment estimators. No author-interpreted factor-to-return response is reported. Structural effects and substantive causal nulls would qualify; neither a policy intervention nor strong identification is required by the gate. Source: Table 2 d=1, p346/PDF9; L628–674."
+  }
+]
+```
