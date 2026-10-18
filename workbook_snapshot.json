@@ -362,6 +362,7 @@
     "B77": "Learning from Coworkers: Peer Effects on Individual Investment Decisions",
     "C77": "fin",
     "D77": 12,
+    "E77": "DONE — Full available-source review of 40 final-article pages with independent audit. Retain 30 setting records and 32 outcomes, including explicitly provisional appendix scopes, not an exact appendix census. Final appendix and code inaccessible. Reject four original comparisons lacking author linkage to outcome benchmarks; Table X descriptive correlations and their proposed comparisons excluded after contested-gate adjudication. Table I explicit calibrated participation counterfactual retained with dollar, return and income-normalized gains outcomes; income is not an eligible same-outcome benchmark. Peer-share treatments, identifying FE/occupation HDFE and IV instrument shares distinguished; random half-sampling is not treatment randomization. h19 treatment support and implemented method remain unknown. Printed Table X cells and roughly 25% minimum claim conflict and are preserved in audit, not repaired. Original fields, IDs, links and source limitations preserved.",
     "A78": "TE3D5NF5",
     "B78": "Managing Households’ Expectations with Unconventional Policies",
     "C78": "fin",
@@ -33501,7 +33502,16 @@
     "L3389": "0",
     "M3389": "unknown",
     "N3389": "Peer trading after exclusion of demographically unusual offices; generally robust but weaker, implemented appendix results described in article.",
-    "O3389": "PROVISIONAL SOURCE-SCOPE, not a verified exact appendix setting census. Minimum scope; exact FE/IV allocation and demographic cutoffs unresolved without appendix. Do not erase substantive robustness because appendix is blocked. Source: pp166–168."
+    "O3389": "PROVISIONAL SOURCE-SCOPE, not a verified exact appendix setting census. Minimum scope; exact FE/IV allocation and demographic cutoffs unresolved without appendix. Do not erase substantive robustness because appendix is blocked. Source: pp166–168.",
+    "A3390": "SFCSD6BA",
+    "B3390": "h21",
+    "I3390": "1",
+    "J3390": "FE",
+    "K3390": "0",
+    "L3390": "0",
+    "M3390": "n/a",
+    "N3390": "Low-information peer participation and absence-of-high-type interaction after dropping locations with few measured high types; reported appendix robustness.",
+    "O3390": "PROVISIONAL SOURCE-SCOPE, not a verified exact appendix setting census. One minimum provisional scope: article reports general improved magnitude consistency, but not exact proxy-by-cutoff grid. No three-proxy grid inferred. Two baseline identifying FE; treatment peer-set definition remains unresolved. Source: p162."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86567,7 +86577,11 @@
     "A7845": "SFCSD6BA",
     "B7845": "h20",
     "C7845": "hy1",
-    "K7845": "Indicator of selling ESPP shares within two weeks."
+    "K7845": "Indicator of selling ESPP shares within two weeks.",
+    "A7846": "SFCSD6BA",
+    "B7846": "h21",
+    "C7846": "hy1",
+    "K7846": "Indicator of ESPP participation among low-information employees."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

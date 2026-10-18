@@ -555003,3 +555003,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:33:35.811060+00:00 — Review SFCSD6BA h21: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7846",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7846",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7846",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7846",
+    "before": null,
+    "after": "Indicator of ESPP participation among low-information employees."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E77",
+    "before": null,
+    "after": "DONE — Full available-source review of 40 final-article pages with independent audit. Retain 30 setting records and 32 outcomes, including explicitly provisional appendix scopes, not an exact appendix census. Final appendix and code inaccessible. Reject four original comparisons lacking author linkage to outcome benchmarks; Table X descriptive correlations and their proposed comparisons excluded after contested-gate adjudication. Table I explicit calibrated participation counterfactual retained with dollar, return and income-normalized gains outcomes; income is not an eligible same-outcome benchmark. Peer-share treatments, identifying FE/occupation HDFE and IV instrument shares distinguished; random half-sampling is not treatment randomization. h19 treatment support and implemented method remain unknown. Printed Table X cells and roughly 25% minimum claim conflict and are preserved in audit, not repaired. Original fields, IDs, links and source limitations preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3390",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3390",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3390",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3390",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3390",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3390",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3390",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3390",
+    "before": null,
+    "after": "Low-information peer participation and absence-of-high-type interaction after dropping locations with few measured high types; reported appendix robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3390",
+    "before": null,
+    "after": "PROVISIONAL SOURCE-SCOPE, not a verified exact appendix setting census. One minimum provisional scope: article reports general improved magnitude consistency, but not exact proxy-by-cutoff grid. No three-proxy grid inferred. Two baseline identifying FE; treatment peer-set definition remains unresolved. Source: p162."
+  }
+]
+```
