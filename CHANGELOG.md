@@ -509070,3 +509070,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:00:51.456427+00:00 — Review QCQ3E8DE h8: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7456",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7456",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7456",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7456",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7456",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7456",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7456",
+    "before": null,
+    "after": "Annualized spanning-regression alpha (percentage return/year), with factor/strategy benchmark specification retained in setting; Section4.4 Table8B pp237–238"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3129",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3129",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3129",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3129",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3129",
+    "before": null,
+    "after": "Constant-volatility rule performance measured by Table8B spanning alphas versus WML or dynamic rule plus market/FF controls, conditional variants. Alphas14.27,14.28,13.88,-0.72,-0.15,-0.02 percent/year; retain null incremental performance against dynamic rule."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3129",
+    "before": null,
+    "after": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section4.4 Table8B pp237–238."
+  }
+]
+```
