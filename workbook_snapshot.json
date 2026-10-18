@@ -31239,7 +31239,16 @@
     "L3178": "0",
     "M3178": "n/a",
     "N3178": "Table IX A–B: past three-year three-factor alpha (standardized) and manager termination; logit with FH, experience/tenure and fund controls. Whole-sample alpha coefficients -0.161/-0.163/-0.156/-0.159; include subgroup estimates.",
-    "O3178": "Explicit author claim that high past performance decreases termination probability qualifies even though this is a control and supporting result. Source: p2253–2255; L1339–1341,1419–1421,1468–1470. No qualifying outcome benchmark found in associated prose/table. Source: p2253–2255; L1339–1341,1419–1421,1468–1470."
+    "O3178": "Explicit author claim that high past performance decreases termination probability qualifies even though this is a control and supporting result. Source: p2253–2255; L1339–1341,1419–1421,1468–1470. No qualifying outcome benchmark found in associated prose/table. Source: p2253–2255; L1339–1341,1419–1421,1468–1470.",
+    "A3179": "R7QNVLC6",
+    "B3179": "h8",
+    "I3179": "1",
+    "J3179": "OLS",
+    "K3179": "0",
+    "L3179": "1",
+    "M3179": "n/a",
+    "N3179": "Table X cols1–3: continuous general managerial experience (years in CRSP, standardized) and fund herding FH, quarterly Fama–MacBeth OLS with fund characteristics; coefficients -0.144/-0.160/-0.148.",
+    "O3179": "Authors ask whether managers respond to reputational incentives and interpret this slope as stronger herding incentives among less experienced managers. This is more than forecast validation; observational endogeneity does not disqualify it. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536. No qualifying outcome benchmark found in associated prose/table. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82235,7 +82244,11 @@
     "H7532": "1",
     "I7532": "1",
     "J7532": "none",
-    "K7532": "Termination indicator: manager at t disappears from sample from t+1 onward. Source: p2253–2255; L1339–1341,1419–1421,1468–1470."
+    "K7532": "Termination indicator: manager at t disappears from sample from t+1 onward. Source: p2253–2255; L1339–1341,1419–1421,1468–1470.",
+    "A7533": "R7QNVLC6",
+    "B7533": "h8",
+    "C7533": "hy1",
+    "K7533": "Fund Herding FH: rank-inverse-weighted history of standardized trade-regression slopes; no dependent-variable SD normalization stated in Table X. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -523914,3 +523914,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:55:22.703202+00:00 — Review R7QNVLC6 h8: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7533",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7533",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7533",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7533",
+    "before": null,
+    "after": "Fund Herding FH: rank-inverse-weighted history of standardized trade-regression slopes; no dependent-variable SD normalization stated in Table X. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3179",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3179",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3179",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3179",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3179",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3179",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3179",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3179",
+    "before": null,
+    "after": "Table X cols1–3: continuous general managerial experience (years in CRSP, standardized) and fund herding FH, quarterly Fama–MacBeth OLS with fund characteristics; coefficients -0.144/-0.160/-0.148."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3179",
+    "before": null,
+    "after": "Authors ask whether managers respond to reputational incentives and interpret this slope as stronger herding incentives among less experienced managers. This is more than forecast validation; observational endogeneity does not disqualify it. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536. No qualifying outcome benchmark found in associated prose/table. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536."
+  }
+]
+```
