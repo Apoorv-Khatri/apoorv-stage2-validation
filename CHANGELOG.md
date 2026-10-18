@@ -513090,3 +513090,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:24:06.632731+00:00 — Review QLFZQVZU s11: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1498",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1498",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1498",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1498",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s11 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I618",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O618",
+    "before": null,
+    "after": "Pre/post1990 and international sorts test out-of-sample stability of predictive patterns. A calendar sample split is not DiD; observed characteristics are not assigned exposures. The explanation of changing firm composition is evaluated with descriptive means/correlations, not causal treatment-response parameters. Alpha comparisons across samples compare estimated spreads, not outcome baselines. Source: pp246–249; Table7; L1110–1263. Source: pp246–249; Table7; L1110–1263."
+  }
+]
+```
