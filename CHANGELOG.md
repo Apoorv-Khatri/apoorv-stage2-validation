@@ -502524,3 +502524,132 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T02:38:14.121105+00:00 — Review QCQ3E8DE s4: source-audited coding and linked comparisons
+
+20 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1461",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1462",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1463",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1464",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1461",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1462",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1463",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1464",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1461",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1462",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1463",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1464",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1464",
+    "before": null,
+    "after": "duplicate of s3/y1: Table4A WML repeats Table3 col3; retain source row, not a separate result."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I599",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J599",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K599",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L599",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M599",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N599",
+    "before": null,
+    "after": "Continuous market-return response of momentum deciles1–10 in bear/up versus bear/down states; Table4A. Loser optionality drives momentum crashes. WML column repeats s3, not an additional independent outcome. Bull-market null split h15."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O599",
+    "before": null,
+    "after": "Author-intention inclusion, not an identification endorsement. Introduction p222 explicitly says momentum crashes because of conditionally negative beta; p223 calls crashes driven by conditional beta and loser optionality; pp228–230 interpret these exact market-response slopes as short-call exposure generating losses on rebounds. These are causally interpreted observational OLS under the supplied broad criterion. No excluded IV, FE, randomized assignment, or demonstrated exogeneity. Source: pp222,229–230 Table4A."
+  }
+]
+```
