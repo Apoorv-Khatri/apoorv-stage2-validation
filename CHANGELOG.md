@@ -513462,3 +513462,288 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:27:13.086295+00:00 — Review QLFZQVZU h2: source-audited coding and linked comparisons
+
+46 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5151",
+    "before": null,
+    "after": "QLFZQVZU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5152",
+    "before": null,
+    "after": "QLFZQVZU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5151",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5152",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5151",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5152",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5152",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5151",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5152",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5151",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5152",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5152",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5152",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5151",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5152",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5151",
+    "before": null,
+    "after": "p241 footnote16: removing small-growth stocks and reforming HML decreases its Sharpe ratio by 15%, relative to the same factor constructed without that exclusion in the Table4 sample. Baseline Sharpe level is not numerically printed. Exact shared quotation: “Because t-values are proportional to Sharpe ratios, the Sharpe ratios decrease by 15% for HML and 12% for HML_RE.” (Subscript/typography normalized.)"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5152",
+    "before": null,
+    "after": "p241 footnote16: removing small-growth stocks and reforming HML_RE decreases its Sharpe ratio by 12%, relative to the same factor constructed without that exclusion in the Table4 sample. Baseline Sharpe level is not numerically printed. Exact shared quotation: “Because t-values are proportional to Sharpe ratios, the Sharpe ratios decrease by 15% for HML and 12% for HML_RE.” (Subscript/typography normalized.)"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5151",
+    "before": null,
+    "after": "Benchmark is the original strategy Sharpe level, not the mean or SD of Sharpe-ratio observations and not a return-effect/return-SD normalization. Do not compute and insert a baseline Sharpe level or a return change."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5152",
+    "before": null,
+    "after": "Benchmark is the original strategy Sharpe level, not the mean or SD of Sharpe-ratio observations and not a return-effect/return-SD normalization. Do not compute and insert a baseline Sharpe level or a return change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7480",
+    "before": null,
+    "after": "QLFZQVZU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7481",
+    "before": null,
+    "after": "QLFZQVZU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7480",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7481",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7480",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7481",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7480",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7481",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7480",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7481",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7480",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7481",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7480",
+    "before": null,
+    "after": "HML Sharpe ratio under the two universe rules, reported without a further outcome transformation. Post-exclusion relative reduction 15%. Sharpe is a nonlinear performance statistic; this is not an effect expressed in outcome-SD units. Source: p241 footnote16. No point mass at zero is established by the reported summary statistics."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7481",
+    "before": null,
+    "after": "HML_RE Sharpe ratio under the two universe rules, reported without a further outcome transformation. Post-exclusion relative reduction 12%. Sharpe is a nonlinear performance statistic; this is not an effect expressed in outcome-SD units. Source: p241 footnote16. No point mass at zero is established by the reported summary statistics."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E68",
+    "before": null,
+    "after": "DONE — Available-source review of all24 final article pages and appendices with independent audit. Reject15 original predictive/proxy/spanning settings; preserve19 original outcomes as inactive causal records. Add two explicit footnote16 small-growth-exclusion rule settings: linear factor-return contrast and nonlinear Sharpe recomputation, four outcomes and two retained Sharpe-level comparisons. Reported15%/12% reductions are other_level,verbal1,divided1,alignedn/a; no invented baseline values. Retain literal23/31bps with horizon caveat. This narrow rule-counterfactual inclusion does not promote generic characteristic sorts,spanning or functional-fixation implication tests into causal estimates. Original fields,IDs and links preserved. No additional final supplement verified or older substitution; completion scoped to available sources."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3140",
+    "before": null,
+    "after": "QLFZQVZU"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3140",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3140",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3140",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3140",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3140",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3140",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3140",
+    "before": null,
+    "after": "Same binary exclusion/reformation rule as h1, but nonlinear Sharpe-ratio performance estimand for HML and HML_RE. Footnote16 reports Sharpe ratios decrease by 15% and 12%, respectively, relative to their versions retaining small-growth stocks."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3140",
+    "before": null,
+    "after": "Nonlinear ratio of factor mean return to its return standard deviation, recomputed under each universe rule; split from linear premium outcome h1. The authors infer proportional changes from t-statistics. No optimal allocation, transaction-cost model or causal effect of accounting ratios is estimated. Historical rule recomputation on the same stock-return history. Interpret as a price-taking, gross-of-unreported-trading/shorting-costs portfolio construction effect, not an effect on firms or equilibrium prices. Exclusion changes holdings and reweights remaining stocks; the underlying stock-return path, NOT portfolio holdings, is held fixed. The authors explicitly attribute changed performance to removing the small-growth corner of the 25 Fama–French portfolios. Source: p241 footnote16, Table4 context; article.txt L814–830."
+  }
+]
+```
