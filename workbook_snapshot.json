@@ -35885,7 +35885,16 @@
     "L3596": "0",
     "M3596": "single continuous",
     "N3596": "Own idiosyncratic equity risk included-regressor coefficient on own dividend-increase indicator, Table5 cols1-2 / Table4A, pp.556-557; estimates -0.009/-0.008. Separate treatment parameter in the implemented joint linear IV equation, not a new regression.",
-    "O3596": "Author-intention gate: pp.552,556 identify these as dividend determinants and discuss substantive effects/ranking, including nulls; C.1 pp.565-566 explicitly considers taxes/catering inducing dividend decisions. Included controls are not automatically excluded. Actual estimator is joint 2SLS/IV, with peer share endogenous and average peer idiosyncratic equity risk the sole excluded instrument. The focal included regressor is NOT instrumented by peer risk; its coefficient additionally relies on maintained included-regressor exogeneity. Method IV describes the implemented joint estimator, not a focal-treatment instrument or LATE. No unseen OLS/FE re-estimation inferred. Firm/time FE (firm only when time-only determinants replace time FE) remain subordinate to the implemented IV equation. Table5 is not duplicated for the peer parameter. Null life-cycle/institutional coefficients are included on the same determinant interpretation as significant coefficients. Section5.3 p.561 acknowledges unresolved direction among payout/leverage/investment: limitation on identification, not a retraction of the earlier determinant interpretation. Coefficients scaled by regressor SD; no outcome-mean/SD comparison."
+    "O3596": "Author-intention gate: pp.552,556 identify these as dividend determinants and discuss substantive effects/ranking, including nulls; C.1 pp.565-566 explicitly considers taxes/catering inducing dividend decisions. Included controls are not automatically excluded. Actual estimator is joint 2SLS/IV, with peer share endogenous and average peer idiosyncratic equity risk the sole excluded instrument. The focal included regressor is NOT instrumented by peer risk; its coefficient additionally relies on maintained included-regressor exogeneity. Method IV describes the implemented joint estimator, not a focal-treatment instrument or LATE. No unseen OLS/FE re-estimation inferred. Firm/time FE (firm only when time-only determinants replace time FE) remain subordinate to the implemented IV equation. Table5 is not duplicated for the peer parameter. Null life-cycle/institutional coefficients are included on the same determinant interpretation as significant coefficients. Section5.3 p.561 acknowledges unresolved direction among payout/leverage/investment: limitation on identification, not a retraction of the earlier determinant interpretation. Coefficients scaled by regressor SD; no outcome-mean/SD comparison.",
+    "A3597": "WERKYTKC",
+    "B3597": "h27",
+    "I3597": "1",
+    "J3597": "IV",
+    "K3597": "0",
+    "L3597": "0",
+    "M3597": "single continuous",
+    "N3597": "Institutional ownership included-regressor coefficient on own dividend-increase indicator, Table5 cols1-2 / Table4A, pp.556-557; estimates 0.007/0.009. Separate treatment parameter in the implemented joint linear IV equation, not a new regression.",
+    "O3597": "Author-intention gate: pp.552,556 identify these as dividend determinants and discuss substantive effects/ranking, including nulls; C.1 pp.565-566 explicitly considers taxes/catering inducing dividend decisions. Included controls are not automatically excluded. Actual estimator is joint 2SLS/IV, with peer share endogenous and average peer idiosyncratic equity risk the sole excluded instrument. The focal included regressor is NOT instrumented by peer risk; its coefficient additionally relies on maintained included-regressor exogeneity. Method IV describes the implemented joint estimator, not a focal-treatment instrument or LATE. No unseen OLS/FE re-estimation inferred. Firm/time FE (firm only when time-only determinants replace time FE) remain subordinate to the implemented IV equation. Table5 is not duplicated for the peer parameter. Null life-cycle/institutional coefficients are included on the same determinant interpretation as significant coefficients. Section5.3 p.561 acknowledges unresolved direction among payout/leverage/investment: limitation on identification, not a retraction of the earlier determinant interpretation. Coefficients scaled by regressor SD; no outcome-mean/SD comparison."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91190,7 +91199,11 @@
     "A8186": "WERKYTKC",
     "B8186": "h26",
     "C8186": "hy1",
-    "K8186": "Own dividend-increase indicator, Table5 cols1-2 / Table4A, pp.556-557. AppendixA defines increase as proportional regular-cash-dividend change >=1%."
+    "K8186": "Own dividend-increase indicator, Table5 cols1-2 / Table4A, pp.556-557. AppendixA defines increase as proportional regular-cash-dividend change >=1%.",
+    "A8187": "WERKYTKC",
+    "B8187": "h27",
+    "C8187": "hy1",
+    "K8187": "Own dividend-increase indicator, Table5 cols1-2 / Table4A, pp.556-557. AppendixA defines increase as proportional regular-cash-dividend change >=1%."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
