@@ -507849,3 +507849,480 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T02:58:20.654815+00:00 — Review QCQ3E8DE h3: source-audited coding and linked comparisons
+
+78 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5114",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5115",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5116",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5117",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5118",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5114",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5115",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5116",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5117",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5118",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5114",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5115",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5116",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5117",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5118",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5114",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5114",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5115",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5116",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5117",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5118",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5114",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5115",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5116",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5117",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5118",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5114",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5114",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5115",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5116",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5117",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5118",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5114",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5115",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5116",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5117",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5118",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5114",
+    "before": null,
+    "after": "Fig6A p235 legend, 1927:07–2013:03: cvol Sharpe 1.02 versus static WML 0.59; p234 says cvol outperforms WML."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5115",
+    "before": null,
+    "after": "Fig6B p235 legend, 1927:07–1949:12: cvol Sharpe 0.61 versus static WML 0.25; p234 says cvol outperforms WML."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5116",
+    "before": null,
+    "after": "Fig6C p235 legend, 1950:01–1974:12: cvol Sharpe 1.33 versus static WML 1.13; p234 says cvol outperforms WML."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5117",
+    "before": null,
+    "after": "Fig6D p235 legend, 1975:01–1999:12: cvol Sharpe 1.36 versus static WML 1.18; p234 says cvol outperforms WML."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5118",
+    "before": null,
+    "after": "Fig6E p235 legend, 2000:01–2013:03: cvol Sharpe 0.50 versus static WML 0.22; p234 says cvol outperforms WML."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5114",
+    "before": null,
+    "after": "Same-performance level under alternative rule, not outcome-mean/SD normalization and not a comparison of two estimated regression coefficients. Sharpe ratio is the measured policy-performance outcome here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5115",
+    "before": null,
+    "after": "Same-performance level under alternative rule, not outcome-mean/SD normalization and not a comparison of two estimated regression coefficients. Sharpe ratio is the measured policy-performance outcome here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5116",
+    "before": null,
+    "after": "Same-performance level under alternative rule, not outcome-mean/SD normalization and not a comparison of two estimated regression coefficients. Sharpe ratio is the measured policy-performance outcome here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5117",
+    "before": null,
+    "after": "Same-performance level under alternative rule, not outcome-mean/SD normalization and not a comparison of two estimated regression coefficients. Sharpe ratio is the measured policy-performance outcome here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5118",
+    "before": null,
+    "after": "Same-performance level under alternative rule, not outcome-mean/SD normalization and not a comparison of two estimated regression coefficients. Sharpe ratio is the measured policy-performance outcome here."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7447",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7448",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7447",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7448",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7447",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7448",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7447",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7448",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7447",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7448",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7447",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7448",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7447",
+    "before": null,
+    "after": "Annualized Sharpe ratio of the focal portfolio rule; Sections4.1–4.2 Fig6 pp233–235"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7448",
+    "before": null,
+    "after": "Cumulative log wealth of cvol rule, Fig6A–E."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3124",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3124",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3124",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3124",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3124",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3124",
+    "before": null,
+    "after": "Continuous inverse-volatility WML scaling (cvol) versus constant WML weight; Fig6 A–E, same19% annual volatility. Cumulative log wealth and Sharpe performance."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3124",
+    "before": null,
+    "after": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Sections4.1–4.2 Fig6 pp233–235."
+  }
+]
+```
