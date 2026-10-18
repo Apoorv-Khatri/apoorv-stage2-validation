@@ -33156,7 +33156,16 @@
     "L3359": "0",
     "M3359": "n/a",
     "N3359": "Minority × After × BiasPCA with relationship age/distance controls, TableA2 cols2,4,6,8. Repeated no-control and volume-control cols1,3,5,7 remain s3, not additional estimates.",
-    "O3359": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Separately tabulated substantive robustness; exact method unchanged. Whether to merge this location with s3 routine controls is an adjudication issue. Source: Supplement pp2–3,16 TableA2; layout L43–63,514–558."
+    "O3359": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Separately tabulated substantive robustness; exact method unchanged. Whether to merge this location with s3 routine controls is an adjudication issue. Source: Supplement pp2–3,16 TableA2; layout L43–63,514–558.",
+    "A3360": "S9LRTRJP",
+    "B3360": "h10",
+    "I3360": "1",
+    "J3360": "DiD_conventional",
+    "K3360": "1",
+    "L3360": "1",
+    "M3360": "n/a",
+    "N3360": "Relationship age quartile 2 versus quartile1 × After; TableA2 cols2,6, both payment outcomes.",
+    "O3360": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Appendix Section2 expressly says importance impacts payment behavior; retain substantive supporting estimates including nulls. Age defined as years at COVID start (main text alternatively describes months); distance between zip codes. Predetermined age/distance contrasts, not time-varying continuous treatment. Main=1 recommendation: introduction p3 explicitly enumerates age, sales and distance and the substantive finding that less important relationships face larger delays. This materially supports the central interpretation after competing economic channels are examined, just as punishment does. Null individual contrasts remain in that family; not a significance-based designation. Parent should adjudicate this role disagreement. Source: Supplement pp2–3,16 TableA2; layout L43–63,514–558."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85979,7 +85988,21 @@
     "A7800": "S9LRTRJP",
     "B7800": "h9",
     "C7800": "hy2",
-    "K7800": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
+    "K7800": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator.",
+    "A7801": "S9LRTRJP",
+    "B7801": "h10",
+    "C7801": "hy1",
+    "H7801": "0",
+    "I7801": "unknown",
+    "J7801": "log1p",
+    "K7801": "Log(1+total past-due dollars) in buyer–supplier-month; full-amount outcome.",
+    "A7802": "S9LRTRJP",
+    "B7802": "h10",
+    "C7802": "hy2",
+    "H7802": "0",
+    "I7802": "unknown",
+    "J7802": "none",
+    "K7802": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
