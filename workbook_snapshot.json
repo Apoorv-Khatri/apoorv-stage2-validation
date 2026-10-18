@@ -35149,7 +35149,16 @@
     "L3529": "0",
     "M3529": "n/a",
     "N3529": "Equally weighted syndicate Tier1 capital/RWA effect on nonbank share,IA.XI, additional loan-size,syndicate-size,purpose controls.",
-    "O3529": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote28 corroborates distinct appendix analysis; year dummies only, OLS. IA.XI first column repeats Table5 adjusted baseline; new scope is added controls, not duplicate estimate census."
+    "O3529": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote28 corroborates distinct appendix analysis; year dummies only, OLS. IA.XI first column repeats Table5 adjusted baseline; new scope is added controls, not duplicate estimate census.",
+    "A3530": "UUTLYHI2",
+    "B3530": "h36",
+    "I3530": "1",
+    "J3530": "OLS",
+    "K3530": "0",
+    "L3530": "0",
+    "M3530": "n/a",
+    "N3530": "Equally weighted syndicate Tier1 capital/RWA effect on affiliated nonbank share,IA.XII column1.",
+    "O3530": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Substantive test of within-BHC reallocation, final footnote28. Called placebo but genuinely distinct lending destination and capital-risk mechanism, not artificial treatment. Supporting/null, no mean benchmark. Appendix positive coefficients conflict with loosely negative final narrative; do not repair signs."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89416,7 +89425,11 @@
     "A8054": "UUTLYHI2",
     "B8054": "h35",
     "C8054": "hy1",
-    "K8054": "Fraction of loan funded by nonbanks, not a binary dependent variable."
+    "K8054": "Fraction of loan funded by nonbanks, not a binary dependent variable.",
+    "A8055": "UUTLYHI2",
+    "B8055": "h36",
+    "C8055": "hy1",
+    "K8055": "Fraction of loan funded by nonbanks affiliated with bank holding company of lender holding loan share; IA.XII."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
