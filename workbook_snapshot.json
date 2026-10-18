@@ -31523,7 +31523,16 @@
     "L3200": "0",
     "M3200": "unknown",
     "N3200": "Quality/exposure groups and total GIIPS sovereign holdings, Table A3 B/C (Figure A3 corroboration), GIIPS banks.",
-    "O3200": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2863 L559–567; p2866 fn12 L728–730 Table A3B/C."
+    "O3200": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2863 L559–567; p2866 fn12 L728–730 Table A3B/C.",
+    "A3201": "RDVTTVCR",
+    "B3201": "h19",
+    "I3201": "1",
+    "J3201": "unknown",
+    "K3201": "1",
+    "L3201": "1",
+    "M3201": "unknown",
+    "N3201": "Low- versus high-quality GIIPS banks and nondomestic GIIPS sovereign exposure, Table A4 / Figure A4.",
+    "O3201": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2866 L716–726."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82874,7 +82883,14 @@
     "C7584": "hy1",
     "I7584": "unknown",
     "J7584": "unknown",
-    "K7584": "Total GIIPS sovereign holdings adjustment; exact regression outcomes and transformations unavailable."
+    "K7584": "Total GIIPS sovereign holdings adjustment; exact regression outcomes and transformations unavailable.",
+    "A7585": "RDVTTVCR",
+    "B7585": "h19",
+    "C7585": "hy1",
+    "H7585": "unknown",
+    "I7585": "unknown",
+    "J7585": "unknown",
+    "K7585": "Foreign GIIPS sovereign holdings adjustment; low-quality banks decrease less; exact scale and estimator unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
