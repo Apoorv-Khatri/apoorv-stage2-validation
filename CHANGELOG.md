@@ -564990,3 +564990,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:30:58.127620+00:00 — Review UK6BI2QX s5: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5243",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5243",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5243",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5243",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5243",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5243",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5243",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5243",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5243",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5243",
+    "before": null,
+    "after": "p.3077/Table VII column 1: one-SD decrease in credit spread associated with roughly 0.25 outcome-SD increase in net equity repurchases; printed coefficient −0.0206. Table II.B outcome SD 0.18 percentage points, N=124 aggregate quarters."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5243",
+    "before": null,
+    "after": "Aggregate 1985Q1–2015Q4 outcome SD, Table II.B; same sample/scale established but continuous conditional regression target and relevant reference-dose weighting not established. Unknown alignment, not automatic 1 or 0. No ratio calculated by reviewer attributed to author."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I753",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J753",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K753",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L753",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M753",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N753",
+    "before": null,
+    "after": "Lagged aggregate high-yield credit spread effect on net equity repurchases and net debt issuance, Table VII columns 1/4; quarterly flows /lagged total nonfinancial corporate assets, 1985Q1–2015Q4. Other six doses split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O753",
+    "before": null,
+    "after": "Causally interpreted aggregate OLS, not FE or IV: equations 6/7 and pp.3075–3078 connect pricing conditions to financing responses. Newey-West SE are not an identification method. Central aggregate conclusion; main=1."
+  }
+]
+```
