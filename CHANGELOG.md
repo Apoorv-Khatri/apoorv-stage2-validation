@@ -570069,3 +570069,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:04:34.836146+00:00 — Review UTRUH2FR s8: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1834",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1835",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1834",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1835",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1834",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1835",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1835",
+    "before": null,
+    "after": "Inactive under probit parent; corrected tax-change outcome retained as h6/hy1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I762",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J762",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K762",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L762",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M762",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N762",
+    "before": null,
+    "after": "Structured-loan usage effect on incumbent-party reelection, Table8 column1 naïve probit (0.011), supporting comparison before instrumented analysis. Tax OLS column2 split to h6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O762",
+    "before": null,
+    "after": "Broad gate retained provisionally: Section7 calls these coefficients subject to strong selection and bias against true effects, then calls for IV to measure effects adequately. This is an endogenous causal benchmark, not prediction; contrary no significant relationship language recorded for independent adjudication. Nonlinear probit Other, not OLS; main=0."
+  }
+]
+```
