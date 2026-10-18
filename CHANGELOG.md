@@ -577149,3 +577149,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:49:11.435824+00:00 — Review UUTLYHI2 h39: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8058",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8058",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8058",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8058",
+    "before": null,
+    "after": "Fraction of loan funded by nonbanks affiliated with bank holding company of lender holding loan share; IA.XII."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3533",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3533",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3533",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3533",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3533",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3533",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3533",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3533",
+    "before": null,
+    "after": "Equally weighted syndicate Tier1 leverage effect on affiliated nonbank share,IA.XII column4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3533",
+    "before": null,
+    "after": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Substantive test of within-BHC reallocation, final footnote28. Called placebo but genuinely distinct lending destination and capital-risk mechanism, not artificial treatment. Supporting/null, no mean benchmark. Appendix positive coefficients conflict with loosely negative final narrative; do not repair signs."
+  }
+]
+```

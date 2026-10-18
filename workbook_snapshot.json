@@ -35176,7 +35176,16 @@
     "L3532": "0",
     "M3532": "n/a",
     "N3532": "Equally weighted syndicate Total capital/RWA effect on affiliated nonbank share,IA.XII column3.",
-    "O3532": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Substantive test of within-BHC reallocation, final footnote28. Called placebo but genuinely distinct lending destination and capital-risk mechanism, not artificial treatment. Supporting/null, no mean benchmark. Appendix positive coefficients conflict with loosely negative final narrative; do not repair signs."
+    "O3532": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Substantive test of within-BHC reallocation, final footnote28. Called placebo but genuinely distinct lending destination and capital-risk mechanism, not artificial treatment. Supporting/null, no mean benchmark. Appendix positive coefficients conflict with loosely negative final narrative; do not repair signs.",
+    "A3533": "UUTLYHI2",
+    "B3533": "h39",
+    "I3533": "1",
+    "J3533": "OLS",
+    "K3533": "0",
+    "L3533": "0",
+    "M3533": "n/a",
+    "N3533": "Equally weighted syndicate Tier1 leverage effect on affiliated nonbank share,IA.XII column4.",
+    "O3533": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Substantive test of within-BHC reallocation, final footnote28. Called placebo but genuinely distinct lending destination and capital-risk mechanism, not artificial treatment. Supporting/null, no mean benchmark. Appendix positive coefficients conflict with loosely negative final narrative; do not repair signs."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89455,7 +89464,11 @@
     "A8057": "UUTLYHI2",
     "B8057": "h38",
     "C8057": "hy1",
-    "K8057": "Fraction of loan funded by nonbanks affiliated with bank holding company of lender holding loan share; IA.XII."
+    "K8057": "Fraction of loan funded by nonbanks affiliated with bank holding company of lender holding loan share; IA.XII.",
+    "A8058": "UUTLYHI2",
+    "B8058": "h39",
+    "C8058": "hy1",
+    "K8058": "Fraction of loan funded by nonbanks affiliated with bank holding company of lender holding loan share; IA.XII."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
