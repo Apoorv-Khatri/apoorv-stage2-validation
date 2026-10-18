@@ -513225,3 +513225,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:25:38.250711+00:00 — Review QLFZQVZU s14: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1501",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1501",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1501",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1501",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s14 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I621",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O621",
+    "before": null,
+    "after": "E/BE slopes are predictive restrictions used against the functional-fixation theory: the theory predicts a negative relation whereas authors summarize positive coefficients. This is the most contested gate: a mechanism is discussed, but the estimated slope is not interpreted as an effect of changing current earnings. The figure plots predictive t-statistics, including negative portions despite broad positive prose; do not fabricate exact coefficients. Source: pp249–250; Section10/Fig4; L1301–1335,1382–1391. Source: pp249–250; Section10/Fig4; L1301–1335,1382–1391."
+  }
+]
+```
