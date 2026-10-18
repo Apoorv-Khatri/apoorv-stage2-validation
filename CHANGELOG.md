@@ -589833,3 +589833,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:38:06.821025+00:00 — Review WERKYTKC s4: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1912",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1912",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1912",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1912",
+    "before": null,
+    "after": "Spurious as a retained causal outcome: Table 7A random-peer-group diagnostic-only placebo excluded. Table 7B earnings channel retained under s4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1913",
+    "before": null,
+    "after": "(EPSPXQ_t - EPSPXQ_t-1)/(CSHO_t-1 × PRCC_F_t-1), Appendix A p.563; not earnings scaled by pre-announcement returns as the introduction says. Market-cap denominator is not a magnitude benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I783",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J783",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L783",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M783",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N783",
+    "before": null,
+    "after": "Actual 180-day SIC peer-increase share on change in EPS divided by pre-announcement market capitalization, Table 7B. Random-peer placebo Table 7A excluded as diagnostic-only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O783",
+    "before": null,
+    "after": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables. Table 7B is retained as substantive earnings-channel null: introduction p.550 and conclusion p.563 say peer effects operate through adjustment/target payout rather than earnings. Main role (1): conclusion p.563 explicitly locates the central Lintner margins in adjustment/target payout instead of earnings; this substantive null materially supports that conclusion. Not a diagnostic first stage. Random-peer Table 7A only validates reference-group design, excluded. This diagnostic/substantive boundary is flagged for adjudication."
+  }
+]
+```
