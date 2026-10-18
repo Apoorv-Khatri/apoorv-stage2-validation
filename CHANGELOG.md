@@ -590370,3 +590370,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:39:48.392121+00:00 — Review WERKYTKC s9: source-audited coding and linked comparisons
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1923",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1924",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1925",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1923",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1924",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1925",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1923",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1924",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1925",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1923",
+    "before": null,
+    "after": "Inactive after setting split; duplicate of h11/hy1. Original IDs and definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1924",
+    "before": null,
+    "after": "Inactive after setting split; duplicate of h12/hy1. Original IDs and definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1925",
+    "before": null,
+    "after": "Inactive after setting split; duplicate of h13/hy1. Original IDs and definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J788",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M788",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N788",
+    "before": null,
+    "after": "180-day TNIC peer dividend-INCREASE share on own dividend-increase indicator, Table C.5A. Other panels split to h11-h13."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O788",
+    "before": null,
+    "after": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables. TNIC groups/risk/covariates recalculated; 1996-2008 sample. C.5 says prior 180 days but later caption says after; defining prior-window sentence retained, conflict disclosed. C.6 first-stage F/t pairs visibly inconsistent; do not repair or infer IV strength from them."
+  }
+]
+```
