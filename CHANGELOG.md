@@ -555984,3 +555984,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:54:26.998638+00:00 — Review TE3D5NF5 h4: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7850",
+    "before": null,
+    "after": "TE3D5NF5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7850",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7850",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7850",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7850",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7850",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7850",
+    "before": null,
+    "after": "Change in higher-inflation-expectation indicator/share between month m and June 2005, Figure 9. Difference rather than binary level; observed zero-change mass not tabulated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3394",
+    "before": null,
+    "after": "TE3D5NF5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3394",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3394",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3394",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3394",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3394",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3394",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3394",
+    "before": null,
+    "after": "VAT announcement effects on changes in higher-inflation expectations across financial constraints, income and homeownership groups; Figure 9 pp.1630–1632; matched conventional DiD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3394",
+    "before": null,
+    "after": "Distinct location from Figure 8. Central common-expectations versus differential-spending mechanism, not a diagnostic-only placebo. Footnote 19 reports renters/owners as the slight exception. Caption includes copied spending wording; title/equation identify expectations."
+  }
+]
+```

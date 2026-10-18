@@ -33584,7 +33584,16 @@
     "L3393": "1",
     "M3393": "n/a",
     "N3393": "VAT announcement effects on changes in durable-spending readiness across financial constraints, income and homeownership groups; Figure 7 pp.1628–1629; matched conventional DiD.",
-    "O3393": "Distinct result location from Figure 6. Intro p.1602 highlights muted spending response among constrained households. All three panels concern spending per surrounding text and equation; caption top/bottom inflation wording is copied/inconsistent. Group status timing not established."
+    "O3393": "Distinct result location from Figure 6. Intro p.1602 highlights muted spending response among constrained households. All three panels concern spending per surrounding text and equation; caption top/bottom inflation wording is copied/inconsistent. Group status timing not established.",
+    "A3394": "TE3D5NF5",
+    "B3394": "h4",
+    "I3394": "1",
+    "J3394": "DiD_conventional",
+    "K3394": "1",
+    "L3394": "1",
+    "M3394": "n/a",
+    "N3394": "VAT announcement effects on changes in higher-inflation expectations across financial constraints, income and homeownership groups; Figure 9 pp.1630–1632; matched conventional DiD.",
+    "O3394": "Distinct location from Figure 8. Central common-expectations versus differential-spending mechanism, not a diagnostic-only placebo. Footnote 19 reports renters/owners as the slight exception. Caption includes copied spending wording; title/equation identify expectations."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86708,7 +86717,14 @@
     "H7849": "0",
     "I7849": "unknown",
     "J7849": "other",
-    "K7849": "Change in spending readiness between month m and June 2005 matched wave, Figure 7. Nonbinary differenced response; underlying ordinal-versus-good-time probability ambiguity persists. Zero transitions not tabulated."
+    "K7849": "Change in spending readiness between month m and June 2005 matched wave, Figure 7. Nonbinary differenced response; underlying ordinal-versus-good-time probability ambiguity persists. Zero transitions not tabulated.",
+    "A7850": "TE3D5NF5",
+    "B7850": "h4",
+    "C7850": "hy1",
+    "H7850": "0",
+    "I7850": "unknown",
+    "J7850": "other",
+    "K7850": "Change in higher-inflation-expectation indicator/share between month m and June 2005, Figure 9. Difference rather than binary level; observed zero-change mass not tabulated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
