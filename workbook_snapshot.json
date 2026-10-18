@@ -31532,7 +31532,16 @@
     "L3201": "1",
     "M3201": "unknown",
     "N3201": "Low- versus high-quality GIIPS banks and nondomestic GIIPS sovereign exposure, Table A4 / Figure A4.",
-    "O3201": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2866 L716–726."
+    "O3201": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2866 L716–726.",
+    "A3202": "RDVTTVCR",
+    "B3202": "h20",
+    "I3202": "1",
+    "J3202": "unknown",
+    "K3202": "0",
+    "L3202": "0",
+    "M3202": "unknown",
+    "N3202": "Change in total GIIPS sovereign debt holdings and lending outcomes, non-GIIPS banks, Table A5.",
+    "O3202": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: pp2872/2874 L1073–1076,1229–1232 TableA5."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82890,7 +82899,13 @@
     "H7585": "unknown",
     "I7585": "unknown",
     "J7585": "unknown",
-    "K7585": "Foreign GIIPS sovereign holdings adjustment; low-quality banks decrease less; exact scale and estimator unavailable."
+    "K7585": "Foreign GIIPS sovereign holdings adjustment; low-quality banks decrease less; exact scale and estimator unavailable.",
+    "A7586": "RDVTTVCR",
+    "B7586": "h20",
+    "C7586": "hy1",
+    "I7586": "unknown",
+    "J7586": "unknown",
+    "K7586": "Loan volume, lending-decrease propensity and spreads as lending-outcome block; detailed outcome scales and gross/net treatment splits unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
