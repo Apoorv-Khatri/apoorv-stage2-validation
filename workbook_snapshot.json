@@ -36419,7 +36419,16 @@
     "L3644": "0",
     "M3644": "unknown",
     "N3644": "Implied covenant violation on board independence controlling for past stock returns and alternative discontinuity-sample retention; IA.XIII–XX p.2413.",
-    "O3644": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Minimum combined implemented robustness scope; unknown how individual tables allocate routines versus distinct estimators."
+    "O3644": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Minimum combined implemented robustness scope; unknown how individual tables allocate routines versus distinct estimators.",
+    "A3645": "WZZQX3TX",
+    "B3645": "h32",
+    "I3645": "1",
+    "J3645": "RD",
+    "K3645": "1",
+    "L3645": "1",
+    "M3645": "n/a",
+    "N3645": "Implied violation on lead-arranger-connected and other-participant-connected independent-director counts; IA.XXI footnote20 p.2414 explicitly replicates Table VIII columns1–3. Level log1p cutoff implementations grouped with/without firm FE; FD counterpart h38.",
+    "O3645": "RD precedence: equation (3) implements a direct discontinuity at binding distance zero with side-specific polynomials in a narrow window. Firm/year FE address selection and heterogeneity but do not override the implemented cutoff design (prompt lines24,30,41). No instrumented receipt. Keep authors’ manipulation, heterogeneous thresholds and switcher-target limitations; this taxonomy does not assert random crossing. Final text explicitly identifies Table VIII columns1–3; implementation is not wholly unknown. Two connection outcomes grouped, no table-column grid or coefficients invented. Log1p scale inherited from explicitly replicated regression; unseen extra variants remain held."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92177,7 +92186,21 @@
     "H8251": "0",
     "I8251": "unknown",
     "J8251": "unknown",
-    "K8251": "Board independence; exact outcome scale unknown."
+    "K8251": "Board independence; exact outcome scale unknown.",
+    "A8252": "WZZQX3TX",
+    "B8252": "h32",
+    "C8252": "hy1",
+    "H8252": "0",
+    "I8252": "unknown",
+    "J8252": "log1p",
+    "K8252": "Number of independent directors connected through lead arrangers; log1p inferred from explicitly replicated Table VIII.",
+    "A8253": "WZZQX3TX",
+    "B8253": "h32",
+    "C8253": "hy2",
+    "H8253": "0",
+    "I8253": "unknown",
+    "J8253": "log1p",
+    "K8253": "Number of independent directors connected through other participants; log1p inferred from explicitly replicated Table VIII."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
