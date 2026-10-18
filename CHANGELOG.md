@@ -606594,3 +606594,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T19:11:42.902937+00:00 — Review X387EWAF s8: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K487",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L487",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M487",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N487",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O487",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P487",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q487",
+    "before": null,
+    "after": "p.644 Section5.9, Fig.10/Table8: “five-year informativeness is two points or 50% higher for the high-turnover group than the low-turnover group.” Benchmark is low-turnover price-informativeness level, not mean/SD earnings; S&P500 firms. Table8 liquidity h5 constant2.109 in col3; prose cites cols4–6 in error."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R487",
+    "before": null,
+    "after": "Eligibility: author-interpreted group difference compared to same constructed outcome level; other_level, not outcome_mean of underlying EBIT. Verbal and division independently explicit; alignment n/a by rule. No ratio reconstructed or exact missing benchmark inferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1980",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1982",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1980",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1981",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1982",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1980",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1981",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1982",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1980",
+    "before": null,
+    "after": "Year/group price informativeness b_{t,h}×SD_t(log(M/A)), h=1, from group-specific Eq.15. Constructed slope-times-regressor-SD in earnings/current-assets units; tables multiply by100. Not earnings SD units and not binary. No evidence establishes a probability atom at zero. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1981",
+    "before": null,
+    "after": "Year/group price informativeness b_{t,h}×SD_t(log(M/A)), h=3, from group-specific Eq.15. Constructed slope-times-regressor-SD in earnings/current-assets units; tables multiply by100. Not earnings SD units and not binary. No evidence establishes a probability atom at zero. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1982",
+    "before": null,
+    "after": "Year/group price informativeness b_{t,h}×SD_t(log(M/A)), h=5, from group-specific Eq.15. Constructed slope-times-regressor-SD in earnings/current-assets units; tables multiply by100. Not earnings SD units and not binary. No evidence establishes a probability atom at zero. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I811",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J811",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K811",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L811",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M811",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N811",
+    "before": null,
+    "after": "Section5.9, Fig.10/Table8 columns1–3 pp.643–646; above/below annual median share turnover, S&P500 nonfinancial firms 1960–2014. Outcome: group/year price informativeness at 1,3,5-year horizons, b×SD(log(M/A))."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O811",
+    "before": null,
+    "after": "Keep broad author intention: p.644 explicitly says the finding supports rising liquidity having contributed to the rise in informativeness/RPE. Group contrasts measure informativeness, not price effects on earnings. Conditional on subgroup/regressor arrays, slope times group-specific regressor SD and differences/averages thereof are linear in future earnings. This does not imply causality. Sector controls strip obvious public information, with no separate identifying-FE claim; OLS, not FE/RD/DiD/Other. Outcome is group/year informativeness, not outcome-SD-normalized earnings.  Table8 headers/caption place liquidity in1–3 and growth/value in4–6; prose reverses these blocks. Preserve conflict."
+  }
+]
+```
