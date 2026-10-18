@@ -564177,3 +564177,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:06:00.758482+00:00 — Review TS6H62KJ h27: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5240",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5241",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5240",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5241",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5240",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5241",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5240",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5241",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5240",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5241",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5240",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5241",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5240",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5241",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5240",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5241",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5240",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5241",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5240",
+    "before": null,
+    "after": "Table1 p.404 PSS: annualized mean excess return 5.37%, own annualized volatility 14.19%, reported Sharpe 0.38. Monthly return series July1963–December2017, same long bottom30%/short top30% value-weighted portfolio and dates. Sharpe expressly normalizes the raw mean by own return volatility; not a normalization of alpha."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5241",
+    "before": null,
+    "after": "Introduction p.400: PSS average excess return 5.37% per year and Sharpe 0.38; “The corresponding values for the market portfolio are 6.37% and 0.42, respectively.” Table1 p.404 repeats the annualized return means. Market benchmark is value-weighted all-stock portfolio, not the PSS bottom-minus-top30% spread, July1963–December2017."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5240",
+    "before": null,
+    "after": "Eligibility follows accepted economic long-short mean estimand; table explicitly supplies Sharpe, not an analyst-created division. Alignment=1 for the specified portfolio-spread return outcome and own series with matching stated annualized convention; not a stock-level outcome SD or untreated mean. This is annualized mean/volatility, not empirical SD of compounded annual returns. If target is instead underlying individual-stock potential returns, alignment would be unknown; that is not the coded outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5241",
+    "before": null,
+    "after": "Explicit same-scale annualized excess-return comparison; benchmark is market outcome mean, not other_level. Different portfolio exposures/weights are expressly identified; market mean is not established as untreated potential mean of the PSS contrast, hence unaligned. Do not transfer this return comparison to Sharpe or adjusted alpha."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7897",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7897",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7897",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7897",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7897",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7897",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7897",
+    "before": null,
+    "after": "Monthly long-minus-short portfolio excess return for PSS, July1963–December2017; monthly returns, with mean and regression alpha displayed annualized in percent in Table1 p.404. Return spread is not a log return or a daily outcome; daily/monthly in historical row names denotes estimation inputs. Continuous return; zero mass not established. Alpha is the factor-adjusted contrast, not a separate measured dependent outcome. Annualization is a scalar reporting conversion, not a cumulative annual realization."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3433",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3433",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3433",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3433",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3433",
+    "before": null,
+    "after": "Predicted cross-sectional coskewness rank from expanding Eq.4 using ranked predictors: bottom-30% minus top-30% value-weighted stock-return contrast, Table1 PSS row p.404, economic interpretation pp.403–406. Raw mean and CAPM/four-/five-factor adjusted mean contrasts grouped as routine factor controls at this result location; annualized mean 5.37%, alphas 4.02, -0.36, 5.91% respectively. Footnote16 p.406: four-/five-factor controls additionally augmented with Pastor-Stambaugh illiquidity; alpha significance unchanged, no coefficients supplied. Grouped with this PSS scope only, not copied to every Table1 row."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3433",
+    "before": null,
+    "after": "Author-intention gate: p.403 Eq.1 implies positive average long-short return as compensation for systematic skewness; retain nulls equally. OLS mean/intercept contrasts conditional on lagged sorting weights and observed factor paths; no identifying FE or IV. Binary refers to implemented low-versus-high group contrast, not continuous coskewness. Not a causal effect of forecasting predictors or a portfolio-rule intervention. Main: introduction p.400 jointly motivates failure of historical measures and economically positive PSS premium; main status is not selected by significance. Footnote16 p.406: four-/five-factor controls additionally augmented with Pastor-Stambaugh illiquidity; alpha significance unchanged, no coefficients supplied. Grouped with this PSS scope only, not copied to every Table1 row."
+  }
+]
+```
