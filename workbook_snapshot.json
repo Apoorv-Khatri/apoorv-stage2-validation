@@ -33420,7 +33420,16 @@
     "L3380": "0",
     "M3380": "n/a",
     "N3380": "Participating in ESPP versus not participating: calibrated potential dollar and percentage gains, immediate-sale and empirical-median holding policies, income/first-time groups; Table I.",
-    "O3380": "Explicit nonparticipant counterfactual, not predictive return regression. Calibrated discounts/lookback from external plan data and median investment/trading choices; no observed assignment, IV, FE or OLS treatment estimator. Hypothetical gain projections, not identified behavioral peer response. Income-normalized gains use a different outcome benchmark and do not qualify. Source: pp138–140 Table I, fn4–6."
+    "O3380": "Explicit nonparticipant counterfactual, not predictive return regression. Calibrated discounts/lookback from external plan data and median investment/trading choices; no observed assignment, IV, FE or OLS treatment estimator. Hypothetical gain projections, not identified behavioral peer response. Income-normalized gains use a different outcome benchmark and do not qualify. Source: pp138–140 Table I, fn4–6.",
+    "A3381": "SFCSD6BA",
+    "B3381": "h12",
+    "I3381": "1",
+    "J3381": "HDFE",
+    "K3381": "0",
+    "L3381": "0",
+    "M3381": "n/a",
+    "N3381": "Peer participation with added occupation FE, implemented robustness, quantitative similarity reported; final appendix unavailable.",
+    "O3381": "Occupation FE explicitly address unobserved occupational roles, in addition to firm-month and CBSA-month: three separately varying identifying sets. Minimum scope only; no invented appendix table/coefficients. Source: pp147–149, sentence spanning page break."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86450,7 +86459,11 @@
     "H7836": "0",
     "I7836": "unknown",
     "J7836": "other",
-    "K7836": "Potential annual ESPP participation gains as a percentage of annual income, using wage-bin midpoints and median within-group holding period: printed 4.07%, 4.48%, 2.75% for $25–50K, $50–100K, $100–200K groups. This income normalization is an outcome scale, not a same-outcome magnitude benchmark."
+    "K7836": "Potential annual ESPP participation gains as a percentage of annual income, using wage-bin midpoints and median within-group holding period: printed 4.07%, 4.48%, 2.75% for $25–50K, $50–100K, $100–200K groups. This income normalization is an outcome scale, not a same-outcome magnitude benchmark.",
+    "A7837": "SFCSD6BA",
+    "B7837": "h12",
+    "C7837": "hy1",
+    "K7837": "Indicator of ESPP participation in biannual window."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

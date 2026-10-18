@@ -554220,3 +554220,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:30:16.754536+00:00 — Review SFCSD6BA h12: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7837",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7837",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7837",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7837",
+    "before": null,
+    "after": "Indicator of ESPP participation in biannual window."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3381",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3381",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3381",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3381",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3381",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3381",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3381",
+    "before": null,
+    "after": "Peer participation with added occupation FE, implemented robustness, quantitative similarity reported; final appendix unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3381",
+    "before": null,
+    "after": "Occupation FE explicitly address unobserved occupational roles, in addition to firm-month and CBSA-month: three separately varying identifying sets. Minimum scope only; no invented appendix table/coefficients. Source: pp147–149, sentence spanning page break."
+  }
+]
+```
