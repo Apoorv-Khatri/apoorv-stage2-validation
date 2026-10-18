@@ -533478,3 +533478,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:07:24.501560+00:00 — Review RQ77EIC2 h6: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7625",
+    "before": null,
+    "after": "RQ77EIC2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7625",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7625",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7625",
+    "before": null,
+    "after": "Indicator that the regulator casts a dissenting vote on a given SEC decision/order/rule or Fed FOMC vote."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3222",
+    "before": null,
+    "after": "RQ77EIC2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3222",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3222",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3222",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3222",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3222",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3222",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3222",
+    "before": null,
+    "after": "Dictionary-based ideological distance from Chair, mean-zero unit-SD dose, Table9 cols4/8, SEC/Fed dissent indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3222",
+    "before": null,
+    "after": "Distinct treatment definition, not just outcome or sample. Same one rule/decision identifying FE as s6; no no-FE column. Includes Fed weak/null estimates where present. Central ideological-distance conclusion applies to all four measures. Dictionary treatment measures (not dissent outcomes) undefined for three Fed Governors with no cost/benefit speech; Chair absent on some SEC votes. No invented numeric effects. Source: Table9 pp4410–4413; Eqs9–13; L2292–2481."
+  }
+]
+```
