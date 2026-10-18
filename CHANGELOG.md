@@ -555258,3 +555258,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:49:23.228068+00:00 — Review TE3D5NF5 s3: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1745",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1745",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1745",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1745",
+    "before": null,
+    "after": "Multinomial dependent readiness category: 0 neither, 1 bad, 2 good (p.1611); not binary. Table 1 shows mass in the zero/neither category. Tables report good-time response marginal effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I712",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J712",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K712",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L712",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M712",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O712",
+    "before": null,
+    "after": "Table 4 pp.1613–1616: main=1 because introduction p.1598 singles out education/patience heterogeneity as central evidence. Broad author-intention inclusion is contested by repeated associational terminology; no clean causal identification claimed. Renters/owners qualitative result separately scoped in h6."
+  }
+]
+```
