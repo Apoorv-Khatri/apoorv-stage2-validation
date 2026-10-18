@@ -36392,7 +36392,16 @@
     "L3641": "0",
     "M3641": "unknown",
     "N3641": "Implied covenant violation on board independence: add interest-coverage covenants; IA.XII p.2413.",
-    "O3641": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Implemented robustness named; exact estimator not restated. Treatment remains two-valued violation indicator, modified exposure definition where covenant set changes."
+    "O3641": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Implemented robustness named; exact estimator not restated. Treatment remains two-valued violation indicator, modified exposure definition where covenant set changes.",
+    "A3642": "WZZQX3TX",
+    "B3642": "h29",
+    "I3642": "1",
+    "J3642": "unknown",
+    "K3642": "1",
+    "L3642": "0",
+    "M3642": "unknown",
+    "N3642": "Implied covenant violation on fraction independent directors / board size; IA.XII item 7 p.2413.",
+    "O3642": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. A fraction is not binary; transformation and estimator not restated."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92129,7 +92138,14 @@
     "H8248": "0",
     "I8248": "unknown",
     "J8248": "unknown",
-    "K8248": "Board independence/director-count outcome of named robustness; exact final scale and outcome set unverified."
+    "K8248": "Board independence/director-count outcome of named robustness; exact final scale and outcome set unverified.",
+    "A8249": "WZZQX3TX",
+    "B8249": "h29",
+    "C8249": "hy1",
+    "H8249": "0",
+    "I8249": "unknown",
+    "J8249": "unknown",
+    "K8249": "Fraction of independent directors on board; exact estimated transformation unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
