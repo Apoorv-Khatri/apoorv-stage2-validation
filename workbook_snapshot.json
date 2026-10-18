@@ -34058,7 +34058,16 @@
     "L3423": "0",
     "M3423": "n/a",
     "N3423": "PSS price of risk in four-factor model augmented with PSS while retaining SMB; Section3.2 p.411 unreported results: both PSS and SMB prices insignificant.",
-    "O3423": "Independent recommendation: OLS-family (implemented cross-sectional GLS), conditional on estimated exposure regressors and the GLS metric. The reported dependent outcome is average excess portfolio return, not the entire return panel. First-pass slopes/covariances use centered returns; generated regressors alone do not establish a nonlinear effect estimator under the prompt incidental-preprocessing rule. This does not make the full mapping from the raw return panel linear. Full-procedure Other remains a substantive taxonomy alternative for parent adjudication. All parameters are GLS (p.409); OLS R2 is not a second estimator. No identifying FE or excluded IV instrument. Retain model-based risk-compensation interpretation, not predictor causality."
+    "O3423": "Independent recommendation: OLS-family (implemented cross-sectional GLS), conditional on estimated exposure regressors and the GLS metric. The reported dependent outcome is average excess portfolio return, not the entire return panel. First-pass slopes/covariances use centered returns; generated regressors alone do not establish a nonlinear effect estimator under the prompt incidental-preprocessing rule. This does not make the full mapping from the raw return panel linear. Full-procedure Other remains a substantive taxonomy alternative for parent adjudication. All parameters are GLS (p.409); OLS R2 is not a second estimator. No identifying FE or excluded IV instrument. Retain model-based risk-compensation interpretation, not predictor causality.",
+    "A3424": "TS6H62KJ",
+    "B3424": "h18",
+    "I3424": "1",
+    "J3424": "OLS",
+    "K3424": "0",
+    "L3424": "0",
+    "M3424": "n/a",
+    "N3424": "PSS price of risk for size/coskewness portfolios after dropping one of HML, RMW or CMA from five-factor model; Section3.2 p.412 unreported results.",
+    "O3424": "Independent recommendation: OLS-family (implemented cross-sectional GLS), conditional on estimated exposure regressors and the GLS metric. The reported dependent outcome is average excess portfolio return, not the entire return panel. First-pass slopes/covariances use centered returns; generated regressors alone do not establish a nonlinear effect estimator under the prompt incidental-preprocessing rule. This does not make the full mapping from the raw return panel linear. Full-procedure Other remains a substantive taxonomy alternative for parent adjudication. All parameters are GLS (p.409); OLS R2 is not a second estimator. No identifying FE or excluded IV instrument. Retain model-based risk-compensation interpretation, not predictor causality."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87460,7 +87469,11 @@
     "A7887": "TS6H62KJ",
     "B7887": "h17",
     "C7887": "hy1",
-    "K7887": "Average monthly excess returns of test portfolios in cross-sectional risk-pricing regression; exact unreported sample-by-coefficient grid unavailable."
+    "K7887": "Average monthly excess returns of test portfolios in cross-sectional risk-pricing regression; exact unreported sample-by-coefficient grid unavailable.",
+    "A7888": "TS6H62KJ",
+    "B7888": "h18",
+    "C7888": "hy1",
+    "K7888": "Average monthly excess return of size/coskewness test portfolios in covariance-form risk pricing."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
