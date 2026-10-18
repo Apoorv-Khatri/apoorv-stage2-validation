@@ -603309,3 +603309,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:49:27.448043+00:00 — Review WZZQX3TX h21: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8242",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8242",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8242",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8242",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8242",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8242",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8242",
+    "before": null,
+    "after": "Number of nonindependent directors, level count; inferred from explicit counterpart to Figure2. Table I minimum raw count is 1 in the parent sample; a restricted subsample cannot introduce a zero count. This does not imply absence of log zeros."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3636",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3636",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3636",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3636",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3636",
+    "before": null,
+    "after": "Implied covenant violations on level number of nonindependent directors, nonparametric Figure IA.1 described p.2402."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3636",
+    "before": null,
+    "after": "Final prose explicitly calls these nonparametric results and replicates preceding Figure2 logic. Minimum scope only; exact all-versus-first panel allocation and kernel implementation unverified in final appendix."
+  }
+]
+```
