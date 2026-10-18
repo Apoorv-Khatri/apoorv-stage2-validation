@@ -34585,7 +34585,16 @@
     "L3471": "0",
     "M3471": "unknown",
     "N3471": "Higher-frequency interest-rate risk supply shocks induced by changes in MBS duration; Internet Appendix Table IA16, final p.3084. Effect on cross-market financing response; substantive null about inability to exploit transitory shocks.",
-    "O3471": "Called a placebo, but tests economically substantive boundary of firms’ arbitrage ability, so retained supporting under broad gate. Exact shock construction, frequency, dependent financing measures and estimator unavailable; no invented monthly OLS or numerical grid. Continuous duration variation does not establish the implemented treatment coding; binary status unknown pending IA16."
+    "O3471": "Called a placebo, but tests economically substantive boundary of firms’ arbitrage ability, so retained supporting under broad gate. Exact shock construction, frequency, dependent financing measures and estimator unavailable; no invented monthly OLS or numerical grid. Continuous duration variation does not establish the implemented treatment coding; binary status unknown pending IA16.",
+    "A3472": "UTRUH2FR",
+    "B3472": "h1",
+    "I3472": "1",
+    "J3472": "Other",
+    "K3472": "0",
+    "L3472": "1",
+    "M3472": "n/a",
+    "N3472": "Debt/population effect on structured-debt/total-debt and high-risk structured-debt/total-debt shares, Table3 columns3/4, Data A; two-sided censored tobit.",
+    "O3472": "Distinct estimator/outcome set from probit. Left-censored0/right-censored1; no-debt entities excluded. Nonlinear Other; broad debt-incentive gate same as s1. Lender and government-type dummies two sets."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88422,7 +88431,15 @@
     "A7978": "UK6BI2QX",
     "B7978": "h36",
     "C7978": "hy1",
-    "K7978": "Cross-market corporate arbitrage financing response, no evidence found for transitory MBS-duration supply shocks (p.3084/Table IA16); exact dependent-variable definition and scaling unknown."
+    "K7978": "Cross-market corporate arbitrage financing response, no evidence found for transitory MBS-duration supply shocks (p.3084/Table IA16); exact dependent-variable definition and scaling unknown.",
+    "A7979": "UTRUH2FR",
+    "B7979": "h1",
+    "C7979": "hy1",
+    "K7979": "Structured debt / total debt share, Table3 column3.",
+    "A7980": "UTRUH2FR",
+    "B7980": "h1",
+    "C7980": "hy2",
+    "K7980": "High-risk structured debt / total debt share, Table3 column4."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

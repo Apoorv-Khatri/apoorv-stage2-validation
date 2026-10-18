@@ -570162,3 +570162,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:04:58.230663+00:00 — Review UTRUH2FR h1: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7979",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7980",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7979",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7980",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7979",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7980",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7979",
+    "before": null,
+    "after": "Structured debt / total debt share, Table3 column3."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7980",
+    "before": null,
+    "after": "High-risk structured debt / total debt share, Table3 column4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3472",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3472",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3472",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3472",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3472",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3472",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3472",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3472",
+    "before": null,
+    "after": "Debt/population effect on structured-debt/total-debt and high-risk structured-debt/total-debt shares, Table3 columns3/4, Data A; two-sided censored tobit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3472",
+    "before": null,
+    "after": "Distinct estimator/outcome set from probit. Left-censored0/right-censored1; no-debt entities excluded. Nonlinear Other; broad debt-incentive gate same as s1. Lender and government-type dummies two sets."
+  }
+]
+```
