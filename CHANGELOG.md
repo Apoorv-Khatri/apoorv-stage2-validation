@@ -605592,3 +605592,288 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T19:09:34.548661+00:00 — Review X387EWAF s2: source-audited coding and linked comparisons
+
+46 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K477",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K478",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K479",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K480",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K481",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K482",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R477",
+    "before": null,
+    "after": "Excluded causal parent. Additionally, benchmark is a level of predicted variation/informativeness, not the underlying earnings or investment outcome attached by the model. Trend/decade changes do not estimate the named price/investment intervention. Verbal ratios exist but do not rescue causal eligibility. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R478",
+    "before": null,
+    "after": "Excluded causal parent. Additionally, benchmark is a level of predicted variation/informativeness, not the underlying earnings or investment outcome attached by the model. Trend/decade changes do not estimate the named price/investment intervention. Verbal ratios exist but do not rescue causal eligibility. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R479",
+    "before": null,
+    "after": "Excluded causal parent. Additionally, benchmark is a level of predicted variation/informativeness, not the underlying earnings or investment outcome attached by the model. Trend/decade changes do not estimate the named price/investment intervention. Verbal ratios exist but do not rescue causal eligibility. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R480",
+    "before": null,
+    "after": "Excluded causal parent. Additionally, benchmark is a level of predicted variation/informativeness, not the underlying earnings or investment outcome attached by the model. Trend/decade changes do not estimate the named price/investment intervention. Verbal ratios exist but do not rescue causal eligibility. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R481",
+    "before": null,
+    "after": "Excluded causal parent. Additionally, benchmark is a level of predicted variation/informativeness, not the underlying earnings or investment outcome attached by the model. Trend/decade changes do not estimate the named price/investment intervention. Verbal ratios exist but do not rescue causal eligibility. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R482",
+    "before": null,
+    "after": "Excluded causal parent. Additionally, benchmark is a level of predicted variation/informativeness, not the underlying earnings or investment outcome attached by the model. Trend/decade changes do not estimate the named price/investment intervention. Verbal ratios exist but do not rescue causal eligibility. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1954",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1955",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1956",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1957",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1958",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1959",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1960",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1961",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1954",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1955",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1956",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1957",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1958",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1959",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1960",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1961",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1954",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1955",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1956",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1957",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1958",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1959",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1960",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1961",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1954",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1955",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1956",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1957",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1958",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1959",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1960",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1961",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I805",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O805",
+    "before": null,
+    "after": "Exclude the same predictive estimand under debt-adjusted valuation and EBITDA/net-income/CFO outcomes, Fig.4 pp.636–637. If inclusion were adjudicated differently, debt-adjusted valuation would require a separate treatment scope; this is not an omission under the proposed causal gate."
+  }
+]
+```
