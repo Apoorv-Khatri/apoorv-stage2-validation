@@ -562803,3 +562803,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:02:06.711990+00:00 — Review TS6H62KJ h17: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7887",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7887",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7887",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7887",
+    "before": null,
+    "after": "Average monthly excess returns of test portfolios in cross-sectional risk-pricing regression; exact unreported sample-by-coefficient grid unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3423",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3423",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3423",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3423",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3423",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3423",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3423",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3423",
+    "before": null,
+    "after": "PSS price of risk in four-factor model augmented with PSS while retaining SMB; Section3.2 p.411 unreported results: both PSS and SMB prices insignificant."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3423",
+    "before": null,
+    "after": "Independent recommendation: OLS-family (implemented cross-sectional GLS), conditional on estimated exposure regressors and the GLS metric. The reported dependent outcome is average excess portfolio return, not the entire return panel. First-pass slopes/covariances use centered returns; generated regressors alone do not establish a nonlinear effect estimator under the prompt incidental-preprocessing rule. This does not make the full mapping from the raw return panel linear. Full-procedure Other remains a substantive taxonomy alternative for parent adjudication. All parameters are GLS (p.409); OLS R2 is not a second estimator. No identifying FE or excluded IV instrument. Retain model-based risk-compensation interpretation, not predictor causality."
+  }
+]
+```

@@ -34049,7 +34049,16 @@
     "L3422": "0",
     "M3422": "n/a",
     "N3422": "Low versus high predicted quantile-based TOTAL skewness: factor-adjusted portfolio return, Section4.3.2 p.419; Online Appendix Tables6–7, with value-weighted Table7 explicitly named. Minimum scope covering implemented EW/VW regressions; no invented per-cell estimates.",
-    "O3422": "Distinct treatment from idiosyncratic QSK retained in s20. Supporting robustness; final text establishes OLS regressions, low-high contrasts and factor-model variants. Missing supplement prevents exact table/column disaggregation. Pooled alpha ranges must not be assigned to particular omitted cells."
+    "O3422": "Distinct treatment from idiosyncratic QSK retained in s20. Supporting robustness; final text establishes OLS regressions, low-high contrasts and factor-model variants. Missing supplement prevents exact table/column disaggregation. Pooled alpha ranges must not be assigned to particular omitted cells.",
+    "A3423": "TS6H62KJ",
+    "B3423": "h17",
+    "I3423": "1",
+    "J3423": "OLS",
+    "K3423": "0",
+    "L3423": "0",
+    "M3423": "n/a",
+    "N3423": "PSS price of risk in four-factor model augmented with PSS while retaining SMB; Section3.2 p.411 unreported results: both PSS and SMB prices insignificant.",
+    "O3423": "Independent recommendation: OLS-family (implemented cross-sectional GLS), conditional on estimated exposure regressors and the GLS metric. The reported dependent outcome is average excess portfolio return, not the entire return panel. First-pass slopes/covariances use centered returns; generated regressors alone do not establish a nonlinear effect estimator under the prompt incidental-preprocessing rule. This does not make the full mapping from the raw return panel linear. Full-procedure Other remains a substantive taxonomy alternative for parent adjudication. All parameters are GLS (p.409); OLS R2 is not a second estimator. No identifying FE or excluded IV instrument. Retain model-based risk-compensation interpretation, not predictor causality."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87447,7 +87456,11 @@
     "H7886": "0",
     "I7886": "unknown",
     "J7886": "none",
-    "K7886": "Monthly portfolio excess returns, percent per month; alpha is the adjusted low-high return contrast, not the dependent variable. Probability mass at zero is not established."
+    "K7886": "Monthly portfolio excess returns, percent per month; alpha is the adjusted low-high return contrast, not the dependent variable. Probability mass at zero is not established.",
+    "A7887": "TS6H62KJ",
+    "B7887": "h17",
+    "C7887": "hy1",
+    "K7887": "Average monthly excess returns of test portfolios in cross-sectional risk-pricing regression; exact unreported sample-by-coefficient grid unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
