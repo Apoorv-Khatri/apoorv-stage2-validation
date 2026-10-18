@@ -606054,3 +606054,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T19:10:17.295308+00:00 — Review X387EWAF s4: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1968",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1969",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1970",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1968",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1969",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1970",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1968",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1969",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1970",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1968",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1969",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1970",
+    "before": null,
+    "after": "spurious for causal inventory: parent setting excluded as forecasting/diagnostic; preserve original outcome definition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I807",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O807",
+    "before": null,
+    "after": "Exclude return-predictability diagnostic, Eq.19/Fig.6/Table4 pp.637–640. Authors test whether declining expected-return variation explains increasing cash-flow forecastability; no causal price-to-return estimate."
+  }
+]
+```
