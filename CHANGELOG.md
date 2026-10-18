@@ -553683,3 +553683,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:28:27.871206+00:00 — Review SFCSD6BA h4: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7830",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7830",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7830",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7830",
+    "before": null,
+    "after": "Indicator of ESPP participation in biannual window."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3376",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3376",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3376",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3376",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3376",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3376",
+    "before": null,
+    "after": "high-information HE peers’ participation rate, with own high-information interaction; Table IX col2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3376",
+    "before": null,
+    "after": "Two identifying FE: firm-month and CBSA-month. Peer rate is continuous; binary moderator does not make this peer-dose estimand binary. Preserve null and negative interaction estimates. Routine sample variants grouped. HE high-peer level 0.0481 is imprecise but centrally interpreted, retained. Source: pp162–164 Table IX."
+  }
+]
+```
