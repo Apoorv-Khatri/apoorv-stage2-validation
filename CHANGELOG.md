@@ -521877,3 +521877,264 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:50:07.938932+00:00 — Review R7QNVLC6 s6: source-audited coding and linked comparisons
+
+42 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1568",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1569",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1570",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1571",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1572",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1573",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1574",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1575",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1576",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1577",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1568",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1569",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1570",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1571",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1572",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1573",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1574",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1575",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1576",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1577",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1568",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1569",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1570",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1571",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1572",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1573",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1574",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1575",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1576",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1577",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1568",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1569",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1570",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1571",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1572",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1573",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1574",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1575",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1576",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1577",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s6 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I636",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O636",
+    "before": null,
+    "after": "Persistence tests distinguish skill signals from luck. Long-horizon performance prediction does not establish effects of inducing FH. Were the causal gate reversed, this is a central conclusion (main=1), not merely supporting because later in the paper; implemented top-bottom contrast would be binary. Source: pp2247,2249–2250; Table VII; L1021–1037,1136–1140,1157–1197. Source: pp2247,2249–2250; Table VII; L1021–1037,1136–1140,1157–1197."
+  }
+]
+```
