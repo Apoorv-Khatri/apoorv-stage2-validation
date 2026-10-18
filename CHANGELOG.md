@@ -520089,3 +520089,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T04:08:14.289120+00:00 — Review QY4D7PCL h21: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7512",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7512",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7512",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7512",
+    "before": null,
+    "after": "Annual excess returns on alternative-duration portfolio spreads, with ICAPM-implied pricing errors shown as substantive robustness/fit summaries, not causal outcomes themselves."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3161",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3161",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3161",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3161",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3161",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3161",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3161",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3161",
+    "before": null,
+    "after": "ICAPM risk-pricing fit for EPP portfolios, Table7A and Section5.1.2; joint market/reinvestment covariance-pricing implementation and restrictions not fully shown in available main text."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3161",
+    "before": null,
+    "after": "Final p938 Section5.1.2 explicitly implements the Section4.1 ICAPM for this alternative duration measure and reports small alphas plus reinvestment exposure; retain minimum substantive covariance-pricing scope. The exact inequality restrictions, equity-premium equality and risk-price component grid are not established in available Table7/text. Method unknown rather than Other by structural label; known model is non-IV. Do not infer Table5 column5 implementation or invent Appendix coefficients. Split component/restriction settings only if a validated final supplement establishes them. Source: pp938–939 Table7A; L1344–1359,1390–1437."
+  }
+]
+```
