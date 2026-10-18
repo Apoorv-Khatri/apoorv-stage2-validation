@@ -595539,3 +595539,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:11:19.742403+00:00 — Review WM5RSIHQ h10: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8205",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8205",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8205",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8205",
+    "before": null,
+    "after": "Forced CEO dismissal outcome; final prose establishes the turnover response, but exact estimator and reported outcome scale are unresolved. Do not assume a Cox hazard or logit probability."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3613",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3613",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3613",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3613",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3613",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3613",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3613",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3613",
+    "before": null,
+    "after": "Firm-specific two-year change in operating return on assets on forced CEO dismissal; final Section III.E p.2174."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3613",
+    "before": null,
+    "after": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. Two-year accounting-performance dose is nonbinary. Final prose establishes implementation and effect but does not expressly restate second-stage estimator for this outcome-measure change; method unknown rather than guessed from older appendix."
+  }
+]
+```
