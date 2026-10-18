@@ -564414,3 +564414,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:06:21.851093+00:00 — Review TS6H62KJ h28: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5242",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5242",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5242",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5242",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5242",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5242",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5242",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5242",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5242",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5242",
+    "before": null,
+    "after": "Table1 p.404 PSS (unranked): annualized mean excess return 2.52%, own annualized volatility 13.40%, reported Sharpe 0.19. Monthly return series July1963–December2017, same long bottom30%/short top30% value-weighted portfolio and dates. Sharpe expressly normalizes the raw mean by own return volatility; not a normalization of alpha."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5242",
+    "before": null,
+    "after": "Eligibility follows accepted economic long-short mean estimand; table explicitly supplies Sharpe, not an analyst-created division. Alignment=1 for the specified portfolio-spread return outcome and own series with matching stated annualized convention; not a stock-level outcome SD or untreated mean. This is annualized mean/volatility, not empirical SD of compounded annual returns. If target is instead underlying individual-stock potential returns, alignment would be unknown; that is not the coded outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7898",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7898",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7898",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7898",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7898",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7898",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7898",
+    "before": null,
+    "after": "Monthly long-minus-short portfolio excess return for PSS (unranked), July1963–December2017; monthly returns, with mean and regression alpha displayed annualized in percent in Table1 p.404. Return spread is not a log return or a daily outcome; daily/monthly in historical row names denotes estimation inputs. Continuous return; zero mass not established. Alpha is the factor-adjusted contrast, not a separate measured dependent outcome. Annualization is a scalar reporting conversion, not a cumulative annual realization."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3434",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3434",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3434",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3434",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3434",
+    "before": null,
+    "after": "Predicted raw coskewness from Eq.4 with unranked dependent coskewness but ranked predictors: bottom-30% minus top-30% value-weighted stock-return contrast, Table1 PSS (unranked) row p.404, economic interpretation pp.403–406. Raw mean and CAPM/four-/five-factor adjusted mean contrasts grouped as routine factor controls at this result location; annualized mean 2.52%, alphas 1.61, -0.95, 4.55% respectively."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3434",
+    "before": null,
+    "after": "Author-intention gate: p.403 Eq.1 implies positive average long-short return as compensation for systematic skewness; retain nulls equally. OLS mean/intercept contrasts conditional on lagged sorting weights and observed factor paths; no identifying FE or IV. Binary refers to implemented low-versus-high group contrast, not continuous coskewness. Not a causal effect of forecasting predictors or a portfolio-rule intervention. Supporting construction robustness, not an independently central result."
+  }
+]
+```

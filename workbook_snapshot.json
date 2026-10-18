@@ -34148,7 +34148,16 @@
     "L3433": "1",
     "M3433": "n/a",
     "N3433": "Predicted cross-sectional coskewness rank from expanding Eq.4 using ranked predictors: bottom-30% minus top-30% value-weighted stock-return contrast, Table1 PSS row p.404, economic interpretation pp.403–406. Raw mean and CAPM/four-/five-factor adjusted mean contrasts grouped as routine factor controls at this result location; annualized mean 5.37%, alphas 4.02, -0.36, 5.91% respectively. Footnote16 p.406: four-/five-factor controls additionally augmented with Pastor-Stambaugh illiquidity; alpha significance unchanged, no coefficients supplied. Grouped with this PSS scope only, not copied to every Table1 row.",
-    "O3433": "Author-intention gate: p.403 Eq.1 implies positive average long-short return as compensation for systematic skewness; retain nulls equally. OLS mean/intercept contrasts conditional on lagged sorting weights and observed factor paths; no identifying FE or IV. Binary refers to implemented low-versus-high group contrast, not continuous coskewness. Not a causal effect of forecasting predictors or a portfolio-rule intervention. Main: introduction p.400 jointly motivates failure of historical measures and economically positive PSS premium; main status is not selected by significance. Footnote16 p.406: four-/five-factor controls additionally augmented with Pastor-Stambaugh illiquidity; alpha significance unchanged, no coefficients supplied. Grouped with this PSS scope only, not copied to every Table1 row."
+    "O3433": "Author-intention gate: p.403 Eq.1 implies positive average long-short return as compensation for systematic skewness; retain nulls equally. OLS mean/intercept contrasts conditional on lagged sorting weights and observed factor paths; no identifying FE or IV. Binary refers to implemented low-versus-high group contrast, not continuous coskewness. Not a causal effect of forecasting predictors or a portfolio-rule intervention. Main: introduction p.400 jointly motivates failure of historical measures and economically positive PSS premium; main status is not selected by significance. Footnote16 p.406: four-/five-factor controls additionally augmented with Pastor-Stambaugh illiquidity; alpha significance unchanged, no coefficients supplied. Grouped with this PSS scope only, not copied to every Table1 row.",
+    "A3434": "TS6H62KJ",
+    "B3434": "h28",
+    "I3434": "1",
+    "J3434": "OLS",
+    "K3434": "1",
+    "L3434": "0",
+    "M3434": "n/a",
+    "N3434": "Predicted raw coskewness from Eq.4 with unranked dependent coskewness but ranked predictors: bottom-30% minus top-30% value-weighted stock-return contrast, Table1 PSS (unranked) row p.404, economic interpretation pp.403–406. Raw mean and CAPM/four-/five-factor adjusted mean contrasts grouped as routine factor controls at this result location; annualized mean 2.52%, alphas 1.61, -0.95, 4.55% respectively.",
+    "O3434": "Author-intention gate: p.403 Eq.1 implies positive average long-short return as compensation for systematic skewness; retain nulls equally. OLS mean/intercept contrasts conditional on lagged sorting weights and observed factor paths; no identifying FE or IV. Binary refers to implemented low-versus-high group contrast, not continuous coskewness. Not a causal effect of forecasting predictors or a portfolio-rule intervention. Supporting construction robustness, not an independently central result."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87611,7 +87620,14 @@
     "H7897": "0",
     "I7897": "unknown",
     "J7897": "none",
-    "K7897": "Monthly long-minus-short portfolio excess return for PSS, July1963–December2017; monthly returns, with mean and regression alpha displayed annualized in percent in Table1 p.404. Return spread is not a log return or a daily outcome; daily/monthly in historical row names denotes estimation inputs. Continuous return; zero mass not established. Alpha is the factor-adjusted contrast, not a separate measured dependent outcome. Annualization is a scalar reporting conversion, not a cumulative annual realization."
+    "K7897": "Monthly long-minus-short portfolio excess return for PSS, July1963–December2017; monthly returns, with mean and regression alpha displayed annualized in percent in Table1 p.404. Return spread is not a log return or a daily outcome; daily/monthly in historical row names denotes estimation inputs. Continuous return; zero mass not established. Alpha is the factor-adjusted contrast, not a separate measured dependent outcome. Annualization is a scalar reporting conversion, not a cumulative annual realization.",
+    "A7898": "TS6H62KJ",
+    "B7898": "h28",
+    "C7898": "hy1",
+    "H7898": "0",
+    "I7898": "unknown",
+    "J7898": "none",
+    "K7898": "Monthly long-minus-short portfolio excess return for PSS (unranked), July1963–December2017; monthly returns, with mean and regression alpha displayed annualized in percent in Table1 p.404. Return spread is not a log return or a daily outcome; daily/monthly in historical row names denotes estimation inputs. Continuous return; zero mass not established. Alpha is the factor-adjusted contrast, not a separate measured dependent outcome. Annualization is a scalar reporting conversion, not a cumulative annual realization."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -145986,7 +146002,18 @@
     "O5241": "0",
     "P5241": "0",
     "Q5241": "Introduction p.400: PSS average excess return 5.37% per year and Sharpe 0.38; “The corresponding values for the market portfolio are 6.37% and 0.42, respectively.” Table1 p.404 repeats the annualized return means. Market benchmark is value-weighted all-stock portfolio, not the PSS bottom-minus-top30% spread, July1963–December2017.",
-    "R5241": "Explicit same-scale annualized excess-return comparison; benchmark is market outcome mean, not other_level. Different portfolio exposures/weights are expressly identified; market mean is not established as untreated potential mean of the PSS contrast, hence unaligned. Do not transfer this return comparison to Sharpe or adjusted alpha."
+    "R5241": "Explicit same-scale annualized excess-return comparison; benchmark is market outcome mean, not other_level. Different portfolio exposures/weights are expressly identified; market mean is not established as untreated potential mean of the PSS contrast, hence unaligned. Do not transfer this return comparison to Sharpe or adjusted alpha.",
+    "A5242": "TS6H62KJ",
+    "B5242": "h28",
+    "C5242": "hc1",
+    "K5242": "1",
+    "L5242": "hy1",
+    "M5242": "outcome_sd",
+    "N5242": "0",
+    "O5242": "1",
+    "P5242": "1",
+    "Q5242": "Table1 p.404 PSS (unranked): annualized mean excess return 2.52%, own annualized volatility 13.40%, reported Sharpe 0.19. Monthly return series July1963–December2017, same long bottom30%/short top30% value-weighted portfolio and dates. Sharpe expressly normalizes the raw mean by own return volatility; not a normalization of alpha.",
+    "R5242": "Eligibility follows accepted economic long-short mean estimand; table explicitly supplies Sharpe, not an analyst-created division. Alignment=1 for the specified portfolio-spread return outcome and own series with matching stated annualized convention; not a stock-level outcome SD or untreated mean. This is annualized mean/volatility, not empirical SD of compounded annual returns. If target is instead underlying individual-stock potential returns, alignment would be unknown; that is not the coded outcome."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
