@@ -35777,7 +35777,16 @@
     "L3584": "0",
     "M3584": "single continuous",
     "N3584": "180-day SIC peer dividend-increase share on own increase indicator, Table C.2A tax/catering robustness (checks 2-4). Bootstrap check 1 repeats baseline and adds no new effect setting.",
-    "O3584": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables. Tax/catering controls replace time FE, firm FE remains; absence of time FE does not convert IV into OLS. Routine control/sample variants grouped. Effects 19%/27%,17%/23%,17%/22%; not outcome benchmarks."
+    "O3584": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables. Tax/catering controls replace time FE, firm FE remains; absence of time FE does not convert IV into OLS. Routine control/sample variants grouped. Effects 19%/27%,17%/23%,17%/22%; not outcome benchmarks.",
+    "A3585": "WERKYTKC",
+    "B3585": "h15",
+    "I3585": "1",
+    "J3585": "IV",
+    "K3585": "0",
+    "L3585": "0",
+    "M3585": "single continuous",
+    "N3585": "180-day SIC peer dividend-decrease share on own decrease indicator, Table C.2B tax/catering robustness (checks 2-4).",
+    "O3585": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables. Time FE removed for time-varying controls; IV still applies. Positive 14%/14% under tax controls and 16%/15% under catering contrast with baseline insignificant negative estimates; do not repeat paper-wide no-decrease-effect claim for these variants."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91031,7 +91040,11 @@
     "A8174": "WERKYTKC",
     "B8174": "h14",
     "C8174": "hy1",
-    "K8174": "Dividend-increase indicator, Table C.2A checks 2-4."
+    "K8174": "Dividend-increase indicator, Table C.2A checks 2-4.",
+    "A8175": "WERKYTKC",
+    "B8175": "h15",
+    "C8175": "hy1",
+    "K8175": "Dividend-decrease indicator, Table C.2B; same Appendix A threshold caveat."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
