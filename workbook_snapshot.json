@@ -31478,7 +31478,16 @@
     "L3195": "1",
     "M3195": "unknown",
     "N3195": "Ex ante quality×preexisting exposure and risk-shifting-asset portfolio adjustment, GIIPS banks, Table A2 panelB.",
-    "O3195": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: pp2863–2866; L554–567,674–715 (Table A2B)."
+    "O3195": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: pp2863–2866; L554–567,674–715 (Table A2B).",
+    "A3196": "RDVTTVCR",
+    "B3196": "h14",
+    "I3196": "1",
+    "J3196": "unknown",
+    "K3196": "unknown",
+    "L3196": "1",
+    "M3196": "unknown",
+    "N3196": "Low quality×government control and domestic sovereign purchases, GIIPS banks, Table A2B cols3/4; substantive moral-suasion null.",
+    "O3196": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2867 L745–790 Table A2B cols3/4."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82790,7 +82799,13 @@
     "C7578": "hy1",
     "I7578": "unknown",
     "J7578": "unknown",
-    "K7578": "Gross/net risk-shifting-asset holdings adjustment as established by final discussion; exact columns/scales not available."
+    "K7578": "Gross/net risk-shifting-asset holdings adjustment as established by final discussion; exact columns/scales not available.",
+    "A7579": "RDVTTVCR",
+    "B7579": "h14",
+    "C7579": "hy1",
+    "I7579": "unknown",
+    "J7579": "unknown",
+    "K7579": "Domestic sovereign holdings adjustment; gross and net results, precise estimator and scale unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
