@@ -36437,7 +36437,16 @@
     "L3646": "1",
     "M3646": "unknown",
     "N3646": "Implied covenant violations on board appointments with repeated/stronger firm-bank lending relationships, bank dependence, and covenant tightness at origination; IA.XXIV p.2419.",
-    "O3646": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Central mechanism also introduction p.2387. Violation is binary; moderator definitions/thresholds/timing and exact allocation held, not four invented models."
+    "O3646": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Central mechanism also introduction p.2387. Violation is binary; moderator definitions/thresholds/timing and exact allocation held, not four invented models.",
+    "A3647": "WZZQX3TX",
+    "B3647": "h34",
+    "I3647": "1",
+    "J3647": "FE",
+    "K3647": "0",
+    "L3647": "0",
+    "M3647": "n/a",
+    "N3647": "ROA on log independent-director count, jointly included control coefficient in Table III A column2 / IA.VII, p.2404.",
+    "O3647": "Parameter-specific broad gate: authors explicitly interpret change in this covariate as changing directors despite acknowledging jointly determined firm characteristics. Same joint firm/year FE estimator, not new separate regression. A one-SD decrease −.08 is said to imply <1% increase; coefficient printed −.78. Do not silently repair the arithmetic inconsistency. The RD designation for violation does NOT identify a causal discontinuity effect of this continuous included covariate. Its jointly estimated slope uses identifying firm/year FE; retain FE, not RD or a new standalone regression. No same-outcome benchmark from treatment-SD prose."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92216,7 +92225,11 @@
     "H8254": "0",
     "I8254": "unknown",
     "J8254": "unknown",
-    "K8254": "Board appointments / independence; exact final scale unknown."
+    "K8254": "Board appointments / independence; exact final scale unknown.",
+    "A8255": "WZZQX3TX",
+    "B8255": "h34",
+    "C8255": "hy1",
+    "K8255": "Log independent-director count."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
