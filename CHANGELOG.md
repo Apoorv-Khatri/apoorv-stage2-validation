@@ -502653,3 +502653,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T02:38:36.289127+00:00 — Review QCQ3E8DE s5: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1465",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1465",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1465",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1465",
+    "before": null,
+    "after": "spurious as causal outcome of rejected s5; original data definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I600",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O600",
+    "before": null,
+    "after": "The author describes conditional covariance/exposure, abnormal performance and forecastability, not an identified directional response to manipulating market returns or panic indicators. Reject this extracted regressor-as-treatment interpretation. Contrary evidence: introduction p222 says crashes occur because of negative beta; conclusion pp242–243 gives an economic mechanism. This author-intention boundary is contested, not a claim that observational OLS cannot qualify. Source: Section 3.5 Eq. (4), Table 5 columns (1)–(5), PDF pp. 230–232.."
+  }
+]
+```
