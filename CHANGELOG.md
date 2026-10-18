@@ -573375,3 +573375,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:36:02.228431+00:00 — Review UUTLYHI2 s5: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1847",
+    "before": null,
+    "after": "Symmetric growth rate in firm total debt liabilities between the precrisis and postcrisis periods. Author-linked IA.XVII: symmetric growth between2006 and2010; not the2006–2008 SNC credit horizon."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1848",
+    "before": null,
+    "after": "Symmetric growth rate in firm employment (number of employees) during the crisis. Author-linked IA.XVII: symmetric growth between2006 and2010; not the2006–2008 SNC credit horizon."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1849",
+    "before": null,
+    "after": "Symmetric growth rate in firm total assets during the crisis. Author-linked IA.XVII: symmetric growth between2006 and2010; not the2006–2008 SNC credit horizon."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I767",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J767",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K767",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L767",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M767",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O767",
+    "before": null,
+    "after": "Final p.2219/footnote43 establishes OLS-style same firm framework and three real outcomes; author-linked Appendix IA.XVII (August24,2020,26pp) supplies 2006-to2010 horizon and −0.121/−0.126/−0.175. Associated appendix verified against final cross-reference and debt coefficient, not byte-verified publisher supplement. Supporting real-activity extension; industry dummies are adjustment, not identifying FE."
+  }
+]
+```
