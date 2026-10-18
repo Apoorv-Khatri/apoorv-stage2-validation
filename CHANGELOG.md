@@ -580371,3 +580371,144 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:12:59.989047+00:00 — Review VPZERBIY s6: source-audited coding and linked comparisons
+
+22 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1877",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1878",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1879",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1880",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1877",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1878",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1879",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1880",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1877",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1878",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1879",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1880",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1877",
+    "before": null,
+    "after": "CAR on untransformed abnormal-return scale; paper does not establish an atom at zero. Market/factor adjustment is not an outcome-SD comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1878",
+    "before": null,
+    "after": "CAR on untransformed abnormal-return scale; paper does not establish an atom at zero. Market/factor adjustment is not an outcome-SD comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1879",
+    "before": null,
+    "after": "CAR on untransformed abnormal-return scale; paper does not establish an atom at zero. Market/factor adjustment is not an outcome-SD comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1880",
+    "before": null,
+    "after": "CAR on untransformed abnormal-return scale; paper does not establish an atom at zero. Market/factor adjustment is not an outcome-SD comparison."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J774",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M774",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O774",
+    "before": null,
+    "after": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported."
+  }
+]
+```
