@@ -546927,3 +546927,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:29:22.036116+00:00 — Review S3X8G9NP s3: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7741",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7741",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7741",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1708",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7741",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1708",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7741",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1708",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7741",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1708",
+    "before": null,
+    "after": "Log commercial-bank assets; p201 fn2 excludes counties without commercial banks. No raw zero mass in retained bank-assets observations. Fig6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7741",
+    "before": null,
+    "after": "Commercial-bank deposits, qualitatively reported as very similar to assets in the paragraph immediately defining Eq (2), p204. Attach once to contemporaneous investment-bank presence (s3), not also to Eq (3) entry (s4). No deposits estimates displayed. Log scale is inferred from the parallel bank-outcome definitions in Eq (1), not explicitly restated for this unreported regression; implementation/scale not independently shown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I686",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J686",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K686",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L686",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M686",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O686",
+    "before": null,
+    "after": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Time-varying investment-bank presence interacted with year, not a fixed exposure/post design. County FE explicitly absorb permanent county characteristics (p201); county and district×year = two effective sets, not HDFE. Introduction p195 and conclusion p215 identify stronger competition as a central conclusion. Deposits are reported qualitatively as similar on p204. Independent audit: the deposits sentence immediately follows Eq2 definitions and precedes its estimates, before the second model is introduced. Include once under s3; no separately verified Eq3 deposits result. Deposits scale held unknown. Source: Fig6A / Eq2, pp204,206; layout L554–568,610–634,661–664."
+  }
+]
+```
