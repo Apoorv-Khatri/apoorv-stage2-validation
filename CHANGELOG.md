@@ -524001,3 +524001,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:55:40.804464+00:00 — Review R7QNVLC6 h9: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7534",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7534",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7534",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7534",
+    "before": null,
+    "after": "Fund Herding FH: rank-inverse-weighted history of standardized trade-regression slopes; no dependent-variable SD normalization stated in Table X. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3180",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3180",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3180",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3180",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3180",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3180",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3180",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3180",
+    "before": null,
+    "after": "Table X cols4–6: continuous fund-specific tenure (years at fund, standardized) and fund herding FH; quarterly Fama–MacBeth OLS with fund characteristics; coefficients -0.158/-0.135/-0.163."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3180",
+    "before": null,
+    "after": "Distinct tenure dose, same author-interpreted reputational incentive response as h8. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536. No qualifying outcome benchmark found in associated prose/table. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536."
+  }
+]
+```

@@ -31248,7 +31248,16 @@
     "L3179": "1",
     "M3179": "n/a",
     "N3179": "Table X cols1–3: continuous general managerial experience (years in CRSP, standardized) and fund herding FH, quarterly Fama–MacBeth OLS with fund characteristics; coefficients -0.144/-0.160/-0.148.",
-    "O3179": "Authors ask whether managers respond to reputational incentives and interpret this slope as stronger herding incentives among less experienced managers. This is more than forecast validation; observational endogeneity does not disqualify it. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536. No qualifying outcome benchmark found in associated prose/table. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536."
+    "O3179": "Authors ask whether managers respond to reputational incentives and interpret this slope as stronger herding incentives among less experienced managers. This is more than forecast validation; observational endogeneity does not disqualify it. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536. No qualifying outcome benchmark found in associated prose/table. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536.",
+    "A3180": "R7QNVLC6",
+    "B3180": "h9",
+    "I3180": "1",
+    "J3180": "OLS",
+    "K3180": "0",
+    "L3180": "1",
+    "M3180": "n/a",
+    "N3180": "Table X cols4–6: continuous fund-specific tenure (years at fund, standardized) and fund herding FH; quarterly Fama–MacBeth OLS with fund characteristics; coefficients -0.158/-0.135/-0.163.",
+    "O3180": "Distinct tenure dose, same author-interpreted reputational incentive response as h8. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536. No qualifying outcome benchmark found in associated prose/table. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82248,7 +82257,11 @@
     "A7533": "R7QNVLC6",
     "B7533": "h8",
     "C7533": "hy1",
-    "K7533": "Fund Herding FH: rank-inverse-weighted history of standardized trade-regression slopes; no dependent-variable SD normalization stated in Table X. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536."
+    "K7533": "Fund Herding FH: rank-inverse-weighted history of standardized trade-regression slopes; no dependent-variable SD normalization stated in Table X. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536.",
+    "A7534": "R7QNVLC6",
+    "B7534": "h9",
+    "C7534": "hy1",
+    "K7534": "Fund Herding FH: rank-inverse-weighted history of standardized trade-regression slopes; no dependent-variable SD normalization stated in Table X. Source: pp2253,2255–2256; L1362–1365,1479–1485,1493–1536."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
