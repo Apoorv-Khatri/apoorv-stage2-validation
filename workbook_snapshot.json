@@ -31962,7 +31962,16 @@
     "L3237": "1",
     "M3237": "n/a",
     "N3237": "Largest bid-size quartile versus bottom half of bids: effect on normalized rationing; Table VII bank-specific columns, pp2328–2330. ",
-    "O3237": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO FE absorb common IPO drivers; bank constant within each individual-bank sample. Others column pools smaller banks. Caption only establishes IPO FE. One effective set; no HDFE. Caption mentions how investor FE are defined, but SectionII.C calls these baseline regressions and SectionIII.A introduces investor FE later; do not treat stray generic wording as implemented investor FE. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table VII bank-specific columns, pp2328–2330; article_layout.txt L1212–1330."
+    "O3237": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO FE absorb common IPO drivers; bank constant within each individual-bank sample. Others column pools smaller banks. Caption only establishes IPO FE. One effective set; no HDFE. Caption mentions how investor FE are defined, but SectionII.C calls these baseline regressions and SectionIII.A introduces investor FE later; do not treat stray generic wording as implemented investor FE. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table VII bank-specific columns, pp2328–2330; article_layout.txt L1212–1330.",
+    "A3238": "RQV5GQTL",
+    "B3238": "h14",
+    "I3238": "1",
+    "J3238": "FE",
+    "K3238": "1",
+    "L3238": "1",
+    "M3238": "n/a",
+    "N3238": "Second-largest bid-size quartile versus bottom half: effect on normalized rationing; Table VII bank-specific columns, pp2328–2330. ",
+    "O3238": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO FE absorb common IPO drivers; bank constant within each individual-bank sample. Others column pools smaller banks. Caption only establishes IPO FE. One effective set; no HDFE. Caption mentions how investor FE are defined, but SectionII.C calls these baseline regressions and SectionIII.A introduces investor FE later; do not treat stray generic wording as implemented investor FE. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table VII bank-specific columns, pp2328–2330; article_layout.txt L1212–1330."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -83786,7 +83795,14 @@
     "H7640": "0",
     "I7640": "unknown",
     "J7640": "none",
-    "K7640": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
+    "K7640": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated.",
+    "A7641": "RQV5GQTL",
+    "B7641": "h14",
+    "C7641": "hy1",
+    "H7641": "0",
+    "I7641": "unknown",
+    "J7641": "none",
+    "K7641": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
