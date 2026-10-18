@@ -573438,3 +573438,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:36:25.752412+00:00 — Review UUTLYHI2 s6: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K429",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L429",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M429",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N429",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O429",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P429",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q429",
+    "before": null,
+    "after": "p.2225/Table11 col2:−0.049; one-SD higher nonbank share(0.344) corresponds to−1.69pp annual price change,19.2% of mean fall−8.8pp. Table9.B mean is116 matched traded loans,average2008 minus2007 price."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R429",
+    "before": null,
+    "after": "Same outcome change units; mean fall is not established no-exposure counterfactual for continuous share or target-weighted regression mean. Alignment unknown, not automatic0 or1. Comparison to prior study26.2% is effect versus effect, not extra other_level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J768",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K768",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M768",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N768",
+    "before": null,
+    "after": "Total precrisis nonbank share effect on change in average bid-ask midpoint loan price from2007 to2008, Table11 columns1–2,116 traded loans. Stable/unstable doses and graphical binary splits separately coded in h51–h53."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O768",
+    "before": null,
+    "after": "pp.2220–2225 broad author-intention gate: fragile funding is interpreted as exerting price pressure, while selection and quote-versus-trade limitations acknowledged. OLS on price change, no quasi-experimental DiD. Table11 marks bank controls Y even column1; do not repeat prose claim of no controls as fact. Focal benchmark uses column2 only."
+  }
+]
+```
