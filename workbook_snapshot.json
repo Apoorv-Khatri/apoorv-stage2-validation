@@ -36356,7 +36356,16 @@
     "L3637": "0",
     "M3637": "n/a",
     "N3637": "Registered covenant violation on log independent and nonindependent directors; full-sample quasi-discontinuity equation (7), IA.XI, pp.2412–2413.",
-    "O3637": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Firm/year FE, third-order polynomials and quintile controls for five covenant accounting variables. No running distance, so FE rather than RD; independent coefficient approximately .04, nonindependent negative insignificant."
+    "O3637": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Firm/year FE, third-order polynomials and quintile controls for five covenant accounting variables. No running distance, so FE rather than RD; independent coefficient approximately .04, nonindependent negative insignificant.",
+    "A3638": "WZZQX3TX",
+    "B3638": "h23",
+    "I3638": "1",
+    "J3638": "Other",
+    "K3638": "1",
+    "L3638": "0",
+    "M3638": "n/a",
+    "N3638": "Implied covenant violations on independent-director count, Poisson robustness, IA.XII item 1 p.2413.",
+    "O3638": "Minimum final-article-established scope only: final Internet Appendix unavailable. No unseen coefficient grid, column mapping or extra outcomes inferred. Explicit Poisson nonlinear estimator, not FE method even with FE. Count dependent variable inferred from named Poisson extension of count regressions; no unseen offset or variant inferred."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92065,7 +92074,14 @@
     "H8244": "0",
     "I8244": "unknown",
     "J8244": "log",
-    "K8244": "Log nonindependent-director count."
+    "K8244": "Log nonindependent-director count.",
+    "A8245": "WZZQX3TX",
+    "B8245": "h23",
+    "C8245": "hy1",
+    "H8245": "0",
+    "I8245": "unknown",
+    "J8245": "none",
+    "K8245": "Independent-director count in Poisson regression; exact link/offset and zero policy unverified."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
