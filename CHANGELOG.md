@@ -556347,3 +556347,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:12:56.671018+00:00 — Review TRCRCTBB s1: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K407",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K408",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R407",
+    "before": null,
+    "after": "Numerically real outcome-SD comparisons, but parent Table II pure predictive validation excluded. Gate assessed before comparison eligibility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R408",
+    "before": null,
+    "after": "Numerically real outcome-SD comparisons, but parent Table II pure predictive validation excluded. Gate assessed before comparison eligibility."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1752",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1752",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1752",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1752",
+    "before": null,
+    "after": "Inactive: parent Table II predictive validation excluded from causal settings."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I717",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O717",
+    "before": null,
+    "after": "Exclude Table II, pp.3411–3412: predictive validity of private-information proxy, not a claim that changing POs causes future returns. Explicit question is whether predisclosed POs predict future stock prices. Numerical increases wording is predictive interpretation in this parameter-specific context; not excluded merely for weak identification. Broad-gate alternative flagged in audit."
+  }
+]
+```
