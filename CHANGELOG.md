@@ -578442,3 +578442,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:53:25.567163+00:00 — Review UUTLYHI2 h52: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8074",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8074",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8074",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8074",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8074",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8074",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8074",
+    "before": null,
+    "after": "Daily loan price level, measured by bid-ask quote midpoint and averaged within above/below-median stable nonbank-share groups; Figure5 panel(a). Plotted levels on approximately 60–100 price scale, not annual price change of Table11 or an outcome-SD transformation. Individual price-zero mass not established by positive group means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3546",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3546",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3546",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3546",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3546",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3546",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3546",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3546",
+    "before": null,
+    "after": "Above- versus below-median precrisis stable nonbank funding share contrast in daily secondary-market loan bid-ask midpoint prices, Figure5 panel(a), 2007–2008 displayed paths (caption 2007–2009)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3546",
+    "before": null,
+    "after": "Independent broad author-intention adjudication: pp.2222–2225 interpret differential price declines as evidence of fragile-funding price pressure and say the multivariate results mirror the graphical evidence. Code linear unadjusted group-mean price contrasts (OLS-equivalent), not an estimated event-time DiD, continuous-dose regression, or a daily coefficient census. Outcome is the displayed price level path; do not invent an exact change-on-change estimate from the roughly 8pp spread. This inference passes the project inclusion gate despite no random exposure and acknowledged selection. Main=1 follows central price-pressure conclusion, including stable-share null. No exact numerical coefficient or mean-normalized effect asserted."
+  }
+]
+```
