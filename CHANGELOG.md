@@ -511422,3 +511422,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:02:46.044901+00:00 — Review QCQ3E8DE h12: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7462",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7462",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7462",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7462",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7462",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7462",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7462",
+    "before": null,
+    "after": "Annualized spanning-regression alpha (percentage return/year), with factor/strategy benchmark specification retained in setting; Section5.4 Table11B pp241–242"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3133",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3133",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3133",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3133",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3133",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3133",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3133",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3133",
+    "before": null,
+    "after": "Constant-volatility rule performance across markets, Table11B rows cvol on WML and cvol on dyn, including comparisons with starred dynamic composites. Preserve nonsignificant fixed-income/Japan and null reverse-spanning results."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3133",
+    "before": null,
+    "after": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section5.4 Table11B pp241–242."
+  }
+]
+```

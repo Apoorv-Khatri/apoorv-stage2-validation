@@ -30696,7 +30696,16 @@
     "L3132": "1",
     "M3132": "n/a",
     "N3132": "Dynamic residual-based rule performance across markets, Table11B rows dyn on WML and dyn on cvol, including starred aggregation variants. Footnote15 forecasts residuals from WML regressed on market and panic-interacted market, unlike unadjusted Table11A. Annualized alpha is incremental performance, not causal effect of factor regressors.",
-    "O3132": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section5.4 Table11B pp241–242 footnote15."
+    "O3132": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section5.4 Table11B pp241–242 footnote15.",
+    "A3133": "QCQ3E8DE",
+    "B3133": "h12",
+    "I3133": "1",
+    "J3133": "Other",
+    "K3133": "1",
+    "L3133": "1",
+    "M3133": "n/a",
+    "N3133": "Constant-volatility rule performance across markets, Table11B rows cvol on WML and cvol on dyn, including comparisons with starred dynamic composites. Preserve nonsignificant fixed-income/Japan and null reverse-spanning results.",
+    "O3133": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section5.4 Table11B pp241–242."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80826,7 +80835,14 @@
     "H7461": "0",
     "I7461": "unknown",
     "J7461": "none",
-    "K7461": "Annualized spanning-regression alpha (percentage return/year), with factor/strategy benchmark specification retained in setting; Section5.4 Table11B pp241–242 footnote15"
+    "K7461": "Annualized spanning-regression alpha (percentage return/year), with factor/strategy benchmark specification retained in setting; Section5.4 Table11B pp241–242 footnote15",
+    "A7462": "QCQ3E8DE",
+    "B7462": "h12",
+    "C7462": "hy1",
+    "H7462": "0",
+    "I7462": "unknown",
+    "J7462": "none",
+    "K7462": "Annualized spanning-regression alpha (percentage return/year), with factor/strategy benchmark specification retained in setting; Section5.4 Table11B pp241–242"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
