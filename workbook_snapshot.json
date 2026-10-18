@@ -34258,7 +34258,16 @@
     "L3441": "1",
     "M3441": "n/a",
     "N3441": "Lagged firm-level predicted 12-month excess stock return effect on net equity repurchases and net debt issuance, quarterly flows /lagged assets; Table III, columns 3/6. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments.",
-    "O3441": "Broad author-intention gate met: valuations affect financing (abstract, pp.3043,3061–3064). Firm FE explicitly focus on a given firm under changing conditions (p.3060), addressing persistent firm heterogeneity; one effective FE set, not HDFE. No time FE or no-firm-FE column. Lagging and controls do not prove exogeneity. Generated expected-return predictors are not implemented IV treatment receipt."
+    "O3441": "Broad author-intention gate met: valuations affect financing (abstract, pp.3043,3061–3064). Firm FE explicitly focus on a given firm under changing conditions (p.3060), addressing persistent firm heterogeneity; one effective FE set, not HDFE. No time FE or no-firm-FE column. Lagging and controls do not prove exogeneity. Generated expected-return predictors are not implemented IV treatment receipt.",
+    "A3442": "UK6BI2QX",
+    "B3442": "h7",
+    "I3442": "1",
+    "J3442": "Other",
+    "K3442": "0",
+    "L3442": "1",
+    "M3442": "n/a",
+    "N3442": "Lagged firm-level term spread effect on four simultaneous financing indicators; Table IV.A/B, columns 1/4. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments.",
+    "O3442": "Nonlinear logit is Other despite one firm FE dimension; causal response of financing to relative valuations, pp.3065–3068. Treatment continuous, outcomes binary. Odds multipliers 1.2/1.1 are not outcome-mean/SD comparisons; Table IA8 LPM comparison cannot be transferred here."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87799,7 +87808,23 @@
     "A7911": "UK6BI2QX",
     "B7911": "h6",
     "C7911": "hy2",
-    "K7911": "Quarterly net debt issuance by firm i, defined as long-term debt issuance minus long-term debt reduction, normalized by lagged assets; percentage points of lagged assets."
+    "K7911": "Quarterly net debt issuance by firm i, defined as long-term debt issuance minus long-term debt reduction, normalized by lagged assets; percentage points of lagged assets.",
+    "A7912": "UK6BI2QX",
+    "B7912": "h7",
+    "C7912": "hy1",
+    "K7912": "Indicator equal to 1 if the firm simultaneously has positive net equity repurchases and positive net debt issuance in the same quarter: 1{S_it > 0, D_it > 0}.",
+    "A7913": "UK6BI2QX",
+    "B7913": "h7",
+    "C7913": "hy2",
+    "K7913": "Indicator equal to 1 if the firm simultaneously has negative net equity repurchases (i.e., net equity issuance) and negative net debt issuance (i.e., net debt retirement) in the same quarter: 1{S_it < 0, D_it < 0}.",
+    "A7914": "UK6BI2QX",
+    "B7914": "h7",
+    "C7914": "hy3",
+    "K7914": "Indicator equal to 1 if the firm repurchases more equity than its own average and issues more debt than its own average in the same quarter: 1{S_it > Sbar_i, D_it > Dbar_i}.",
+    "A7915": "UK6BI2QX",
+    "B7915": "h7",
+    "C7915": "hy4",
+    "K7915": "Indicator equal to 1 if the firm issues more equity than its own average and retires more debt than its own average in the same quarter: 1{S_it < Sbar_i, D_it < Dbar_i}."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
