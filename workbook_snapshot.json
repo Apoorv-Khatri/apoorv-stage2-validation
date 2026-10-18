@@ -32655,7 +32655,16 @@
     "L3314": "0",
     "M3314": "n/a",
     "N3314": "First timing quartile (early) versus later bid: effect on expected bid profitability; Table X col3, pp2335–2337. ",
-    "O3314": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + bank + investor FE: three distinct nonnested dimensions. Identification argument pp2331–2333 controls persistent investor information/size and bank/IPO heterogeneity. HDFE does not require authors to use that acronym. Generated outcome does not itself make the final linear estimator IV or nonlinear. Supporting parameter-specific contrast, not promoted solely by location. Source: Table X col3, pp2335–2337; article_layout.txt L1579–1708."
+    "O3314": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + bank + investor FE: three distinct nonnested dimensions. Identification argument pp2331–2333 controls persistent investor information/size and bank/IPO heterogeneity. HDFE does not require authors to use that acronym. Generated outcome does not itself make the final linear estimator IV or nonlinear. Supporting parameter-specific contrast, not promoted solely by location. Source: Table X col3, pp2335–2337; article_layout.txt L1579–1708.",
+    "A3315": "RQV5GQTL",
+    "B3315": "h91",
+    "I3315": "1",
+    "J3315": "HDFE",
+    "K3315": "1",
+    "L3315": "0",
+    "M3315": "n/a",
+    "N3315": "Revised bid versus unrevised bid: effect on expected bid profitability; Table X col3, pp2335–2337. ",
+    "O3315": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + bank + investor FE: three distinct nonnested dimensions. Identification argument pp2331–2333 controls persistent investor information/size and bank/IPO heterogeneity. HDFE does not require authors to use that acronym. Generated outcome does not itself make the final linear estimator IV or nonlinear. Supporting profitability parameter; main status must be assessed for this outcome, not borrowed from allocation. Independent audit: revised-bid profitability is supporting, just like the other Table X information-proxy outcomes. The introduction highlights revision nulls for allocation, not profitability; do not transfer main status across outcomes. Source: Table X col3, pp2335–2337; article_layout.txt L1579–1708."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85018,7 +85027,14 @@
     "H7717": "0",
     "I7717": "unknown",
     "J7717": "none",
-    "K7717": "Expected profitability of bid: shares allocated times fitted expected first-day return divided by bid size (p2335). Constructed level, no log/SD transform. Exact return scaling is not reconciled: Eq2 prose calls underpricing a price ratio, whereas TableV defines net return and TableX says price increase. Do not invent percent versus percentage-point units. Observed zero mass is unknown."
+    "K7717": "Expected profitability of bid: shares allocated times fitted expected first-day return divided by bid size (p2335). Constructed level, no log/SD transform. Exact return scaling is not reconciled: Eq2 prose calls underpricing a price ratio, whereas TableV defines net return and TableX says price increase. Do not invent percent versus percentage-point units. Observed zero mass is unknown.",
+    "A7718": "RQV5GQTL",
+    "B7718": "h91",
+    "C7718": "hy1",
+    "H7718": "0",
+    "I7718": "unknown",
+    "J7718": "none",
+    "K7718": "Expected profitability of bid: shares allocated times fitted expected first-day return divided by bid size (p2335). Constructed level, no log/SD transform. Exact return scaling is not reconciled: Eq2 prose calls underpricing a price ratio, whereas TableV defines net return and TableX says price increase. Do not invent percent versus percentage-point units. Observed zero mass is unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
