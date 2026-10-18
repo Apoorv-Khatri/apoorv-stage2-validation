@@ -572955,3 +572955,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:34:40.151860+00:00 — Review UUTLYHI2 s1: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K426",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R426",
+    "before": null,
+    "after": "Wrong setting/duplicate:3.25pp increase and23.1% nonbank mean belong to Table5/s2, not Table3 loan-sale outcome. Retain s2/c1 only."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1837",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1838",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1837",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1838",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1837",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1838",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1837",
+    "before": null,
+    "after": "Inactive under sale-indicator parent; retained outcome moved to h2/hy1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1838",
+    "before": null,
+    "after": "Inactive under Table3 parent; three size-specific outcomes at h3; original confidently continuous definition not supported unambiguously."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I763",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J763",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K763",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L763",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M763",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N763",
+    "before": null,
+    "after": "Lagged Tier 1 capital/RWA effect on loan-sale indicator; equation1/Table3 columns1–4 and Table4.A columns1–2, term-loan bank-share-year observations. TED interactions and loan-risk/sample variants grouped; other treatments, outcome sets, and no-FE column split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O763",
+    "before": null,
+    "after": "pp.2198–2203 explicit capital effect and identifying loan-year FE; bank FE absorb persistent bank heterogeneity. Two effective dimensions, not three: loan×year is one set. Table4.A5 is genuinely separate no-identifying-FE OLS. No IV, RCT, RD or implemented modern DiD."
+  }
+]
+```
