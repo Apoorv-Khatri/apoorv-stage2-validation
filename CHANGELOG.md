@@ -552336,3 +552336,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:01:02.503359+00:00 — Review S9LRTRJP h19: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7819",
+    "before": null,
+    "after": "S9LRTRJP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7820",
+    "before": null,
+    "after": "S9LRTRJP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7819",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7820",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7819",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7820",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7819",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7820",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7819",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7820",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7819",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7820",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7819",
+    "before": null,
+    "after": "Past-due dollars, caption abbreviated Log Past Due; log(1+past due) inferred from repeated baseline specification/all variables as previously defined, not separately restated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7820",
+    "before": null,
+    "after": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3369",
+    "before": null,
+    "after": "S9LRTRJP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3369",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3369",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3369",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3369",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3369",
+    "before": null,
+    "after": "Minority × After × Sundown customer-location proxy replacing PCA, TableA6 cols2,7; log past due and past-30-day share; reported coefficients 0.043; 0.009 (share null)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3369",
+    "before": null,
+    "after": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Individual-proxy substantive robustness; no automatic main flag from underlying main hypothesis. Sundown is a two-valued town indicator; other proxies are counts, scores or ratios. RelativeEarnings is female earnings as percent of male, not silently inverted to a wage gap. Source: Article pp9–10 proxy definitions; supplement pp9,20 TableA6; layout L298–303,685–711."
+  }
+]
+```
