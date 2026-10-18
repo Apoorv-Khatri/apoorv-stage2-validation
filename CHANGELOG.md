@@ -531525,3 +531525,312 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T09:48:27.064338+00:00 — Review RDVTTVCR h34: source-audited coding and linked comparisons
+
+50 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7614",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7615",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7616",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7617",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7618",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7619",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7614",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7615",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7616",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7617",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7618",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7619",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7614",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7615",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7616",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7617",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7618",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7619",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7615",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7616",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7618",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7619",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7614",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7615",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7616",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7617",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7618",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7619",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7614",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7615",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7616",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7617",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7618",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7619",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7614",
+    "before": null,
+    "after": "Financial-outcome response block by ability to switch banks; fn32 reports negative financial effects only among nonswitchers. Exact individual outcomes, switching definition/timing, and estimator unavailable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7615",
+    "before": null,
+    "after": "spurious as separately specified outcome: Unreported bank-switching analysis has no verified individual outcome grid; scope blocks retained in hy1/hy4 Proposed ID retained inactive for audit provenance; no original workbook record removed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7616",
+    "before": null,
+    "after": "spurious as separately specified outcome: Unreported bank-switching analysis has no verified individual outcome grid; scope blocks retained in hy1/hy4 Proposed ID retained inactive for audit provenance; no original workbook record removed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7617",
+    "before": null,
+    "after": "Real-outcome response block by ability to switch banks; fn32 reports negative real effects only among nonswitchers. Exact individual outcomes and scale unavailable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7618",
+    "before": null,
+    "after": "spurious as separately specified outcome: Unreported bank-switching analysis has no verified individual outcome grid; scope blocks retained in hy1/hy4 Proposed ID retained inactive for audit provenance; no original workbook record removed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7619",
+    "before": null,
+    "after": "spurious as separately specified outcome: Unreported bank-switching analysis has no verified individual outcome grid; scope blocks retained in hy1/hy4 Proposed ID retained inactive for audit provenance; no original workbook record removed."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E71",
+    "before": null,
+    "after": "DONE — Available-source review of all42 final article pages with independent audit. Retain46 settings and24 comparisons. Outcome inventory has124 active records including explicitly provisional scope-level blocks, not124 verified individual dependent variables. Tables2–3 FE; Tables4/6/7 HDFE with distinct borrower and foreign-lender-country effects. Preserve gross/net dose splits, continuous moderator interactions and horse-race deduplication. Retain substantive graphical paths with implementation caveats and aggregate counterfactual estimands; investment aggregation method unknown. Remove unsupported appendix-specific outcome assertions, retain minimum main-text-established scopes. Preserve printed anomalies and original fields,IDs and links. Final Internet Appendix unavailable; no older substitute or refused retrieval bypass. Completion scoped to available sources, not exhaustive appendix certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3216",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3216",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3216",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3216",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3216",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3216",
+    "before": null,
+    "after": "Indirect lender sovereign risk financial/real effects by ability to switch banks; unreported implemented heterogeneity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3216",
+    "before": null,
+    "after": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: p2891 fn32 L2191–2193."
+  }
+]
+```
