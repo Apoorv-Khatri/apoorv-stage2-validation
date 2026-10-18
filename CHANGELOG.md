@@ -514851,3 +514851,132 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:55:51.739797+00:00 — Review QY4D7PCL s3: source-audited coding and linked comparisons
+
+20 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1511",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1512",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1513",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1511",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1512",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1513",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1511",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1512",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1513",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1510",
+    "before": null,
+    "after": "Annual excess return relative to shortest-duration portfolio in constrained ICAPM Table5 col2; this is the dependent return, not estimated beta or pricing error."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1511",
+    "before": null,
+    "after": "spurious as dependent variable of covariance-price regression: beta is a coefficient or alpha is a pricing error. Table4 shock-response outcomes are annual log excess returns in added settings."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1512",
+    "before": null,
+    "after": "spurious as dependent variable of covariance-price regression: beta is a coefficient or alpha is a pricing error. Table4 shock-response outcomes are annual log excess returns in added settings."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1513",
+    "before": null,
+    "after": "spurious as dependent variable of covariance-price regression: beta is a coefficient or alpha is a pricing error. Table4 shock-response outcomes are annual log excess returns in added settings."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I625",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J625",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K625",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L625",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M625",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N625",
+    "before": null,
+    "after": "Effect of reinvestment-risk covariance exposure on expected annual relative returns in the constrained ICAPM, Table5 column2: duration-portfolio spreads as testing assets, without imposing aggregate equity premium. Lambda_Er=16.4, market price gamma=3.5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O625",
+    "before": null,
+    "after": "Eq13 and pp935–936 interpret compensation for covariance exposure as the mechanism generating risk premia; retain the substantive priced-risk parameter, including the CAPM boundary null. Footnote30 establishes pooled returns-on-covariances least squares with equality/inequality restrictions. Other is retained for the inequality-constrained estimator, whose active constraints make its map from reported outcomes nonlinear, not merely for a structural label or generated covariance regressors. Identical fitted coefficients in ICAPM_U do not make the implemented estimators identical. No IV or identifying FE. The column4 CAPM parameter is additionally pinned by the equity-premium equality; its boundary restriction belongs to the implemented constrained fit. No separate causal settings for H, gamma as preference outcome, or pricing-error diagnostics. Source: pp932–936 Eq13 Table5 col2 footnote30; L898–906,1116–1187."
+  }
+]
+```
