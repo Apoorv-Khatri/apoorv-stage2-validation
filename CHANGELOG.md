@@ -512772,3 +512772,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:21:07.818399+00:00 — Review QLFZQVZU s5: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1490",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1490",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1490",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1490",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s5 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I612",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O612",
+    "before": null,
+    "after": "Conditional sorts hold the other observed sorting characteristic fixed to test incremental information. The 0.15 and 0.45 monthly alpha averages are averages of spread strategies, not effects benchmarked to an untreated mean. Buying/selling language describes portfolios, without a separate rule-change causal estimand. Source: pp240,253; TableA2 A–B; L729–737,1557–1607. Source: pp240,253; TableA2 A–B; L729–737,1557–1607."
+  }
+]
+```
