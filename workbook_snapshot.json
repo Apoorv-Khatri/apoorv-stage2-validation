@@ -33402,7 +33402,16 @@
     "L3378": "1",
     "M3378": "n/a",
     "N3378": "high-information HI peers’ participation rate, with own high-information interaction; Table IX col3.",
-    "O3378": "Two identifying FE: firm-month and CBSA-month. Peer rate is continuous; binary moderator does not make this peer-dose estimand binary. Preserve null and negative interaction estimates. Routine sample variants grouped. Source: pp162–164 Table IX."
+    "O3378": "Two identifying FE: firm-month and CBSA-month. Peer rate is continuous; binary moderator does not make this peer-dose estimand binary. Preserve null and negative interaction estimates. Routine sample variants grouped. Source: pp162–164 Table IX.",
+    "A3379": "SFCSD6BA",
+    "B3379": "h7",
+    "I3379": "1",
+    "J3379": "FE",
+    "K3379": "0",
+    "L3379": "1",
+    "M3379": "n/a",
+    "N3379": "low-information HI peers’ participation rate, with own high-information interaction; Table IX col3.",
+    "O3379": "Two identifying FE: firm-month and CBSA-month. Peer rate is continuous; binary moderator does not make this peer-dose estimand binary. Preserve null and negative interaction estimates. Routine sample variants grouped. Source: pp162–164 Table IX."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86407,7 +86416,11 @@
     "A7832": "SFCSD6BA",
     "B7832": "h6",
     "C7832": "hy1",
-    "K7832": "Indicator of ESPP participation in biannual window."
+    "K7832": "Indicator of ESPP participation in biannual window.",
+    "A7833": "SFCSD6BA",
+    "B7833": "h7",
+    "C7833": "hy1",
+    "K7833": "Indicator of ESPP participation in biannual window."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
