@@ -606765,3 +606765,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T19:12:04.206925+00:00 — Review X387EWAF s9: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K488",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R488",
+    "before": null,
+    "after": "Wrong focal contrast: “roughly doubling” is within-growth time trend, not growth-versus-value difference. Figure11 covers both3- and5-year horizons; text does not uniquely assign to y3. No duplicate additions inferred; separate from unresolved parent causal gate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1983",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1984",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1985",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1983",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1984",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1985",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1983",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1984",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1985",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1983",
+    "before": null,
+    "after": "Year/group price informativeness b_{t,h}×SD_t(log(M/A)), h=1, from group-specific Eq.15. Constructed slope-times-regressor-SD in earnings/current-assets units; tables multiply by100. Not earnings SD units and not binary. No evidence establishes a probability atom at zero.  Parent causal gate unresolved; these conditional outcome labels do not establish a causal growth-status effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1984",
+    "before": null,
+    "after": "Year/group price informativeness b_{t,h}×SD_t(log(M/A)), h=3, from group-specific Eq.15. Constructed slope-times-regressor-SD in earnings/current-assets units; tables multiply by100. Not earnings SD units and not binary. No evidence establishes a probability atom at zero.  Parent causal gate unresolved; these conditional outcome labels do not establish a causal growth-status effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1985",
+    "before": null,
+    "after": "Year/group price informativeness b_{t,h}×SD_t(log(M/A)), h=5, from group-specific Eq.15. Constructed slope-times-regressor-SD in earnings/current-assets units; tables multiply by100. Not earnings SD units and not binary. No evidence establishes a probability atom at zero.  Parent causal gate unresolved; these conditional outcome labels do not establish a causal growth-status effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I812",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J812",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K812",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L812",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M812",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N812",
+    "before": null,
+    "after": "Section5.10, Fig.11/Table8 columns4–6 pp.645–647; above/below annual median log(M/A), growth versus value firms. Gate unresolved: tests differential response to market information rather than a clearly interpreted effect of changing growth status. Outcome: group/year price informativeness at 1,3,5-year horizons, b×SD(log(M/A))."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O812",
+    "before": null,
+    "after": "Unknown: Prediction2 and fn15 frame information-production changes as having larger effects for growth firms; they do not clearly interpret switching growth status as causing informativeness. Broad information-production framing favors inclusion; effect-modification framing opposes it. Main status remains1. Conditional on subgroup/regressor arrays, slope times group-specific regressor SD and differences/averages thereof are linear in future earnings. This does not imply causality. Sector controls strip obvious public information, with no separate identifying-FE claim; OLS, not FE/RD/DiD/Other. Outcome is group/year informativeness, not outcome-SD-normalized earnings.  Table8 headers/caption place liquidity in1–3 and growth/value in4–6; prose reverses these blocks. Preserve conflict."
+  }
+]
+```
