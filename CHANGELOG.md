@@ -508539,3 +508539,216 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T02:59:22.054096+00:00 — Review QCQ3E8DE h5: source-audited coding and linked comparisons
+
+34 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5120",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5120",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5120",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5120",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5120",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5120",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5120",
+    "before": null,
+    "after": "Table7 pp236–237,1934:01–2013:03: variance scaling versus cvol, annualized Sharpe 1.126 versus 1.041."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5120",
+    "before": null,
+    "after": "Same-performance level under alternative rule, not outcome-mean/SD normalization and not a comparison of two estimated regression coefficients. Sharpe ratio is the measured policy-performance outcome here."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7451",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7452",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7451",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7452",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7451",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7452",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7451",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7452",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7451",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7452",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7451",
+    "before": null,
+    "after": "Annualized Sharpe ratio of the focal portfolio rule; Section4.3.1 Table7 pp236–237"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7452",
+    "before": null,
+    "after": "Annualized appraisal ratio relative to preceding Table7 strategy: 0.431."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3126",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3126",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3126",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3126",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3126",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3126",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3126",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3126",
+    "before": null,
+    "after": "Continuous trailing126-day inverse-variance WML scaling, Table7; Sharpe1.126, appraisal0.431 relative to cvol. Distinct variance versus volatility weighting rule."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3126",
+    "before": null,
+    "after": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section4.3.1 Table7 pp236–237."
+  }
+]
+```

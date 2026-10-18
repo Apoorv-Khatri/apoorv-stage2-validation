@@ -30633,7 +30633,16 @@
     "L3125": "0",
     "M3125": "n/a",
     "N3125": "Continuous trailing126-day inverse-volatility WML scaling, cvol in Table7; Sharpe1.041 versus static0.682, appraisal0.786.",
-    "O3125": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section4.3.1 Table7 pp236–237."
+    "O3125": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section4.3.1 Table7 pp236–237.",
+    "A3126": "QCQ3E8DE",
+    "B3126": "h5",
+    "I3126": "1",
+    "J3126": "Other",
+    "K3126": "1",
+    "L3126": "0",
+    "M3126": "n/a",
+    "N3126": "Continuous trailing126-day inverse-variance WML scaling, Table7; Sharpe1.126, appraisal0.431 relative to cvol. Distinct variance versus volatility weighting rule.",
+    "O3126": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section4.3.1 Table7 pp236–237."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80686,7 +80695,21 @@
     "H7450": "0",
     "I7450": "unknown",
     "J7450": "none",
-    "K7450": "Annualized appraisal ratio relative to preceding Table7 strategy: 0.786."
+    "K7450": "Annualized appraisal ratio relative to preceding Table7 strategy: 0.786.",
+    "A7451": "QCQ3E8DE",
+    "B7451": "h5",
+    "C7451": "hy1",
+    "H7451": "0",
+    "I7451": "unknown",
+    "J7451": "none",
+    "K7451": "Annualized Sharpe ratio of the focal portfolio rule; Section4.3.1 Table7 pp236–237",
+    "A7452": "QCQ3E8DE",
+    "B7452": "h5",
+    "C7452": "hy2",
+    "H7452": "0",
+    "I7452": "unknown",
+    "J7452": "none",
+    "K7452": "Annualized appraisal ratio relative to preceding Table7 strategy: 0.431."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -137347,7 +137370,18 @@
     "O5119": "0",
     "P5119": "n/a",
     "Q5119": "Table7 pp236–237,1934:01–2013:03: cvol versus WML, annualized Sharpe 1.041 versus 0.682.",
-    "R5119": "Same-performance level under alternative rule, not outcome-mean/SD normalization and not a comparison of two estimated regression coefficients. Sharpe ratio is the measured policy-performance outcome here."
+    "R5119": "Same-performance level under alternative rule, not outcome-mean/SD normalization and not a comparison of two estimated regression coefficients. Sharpe ratio is the measured policy-performance outcome here.",
+    "A5120": "QCQ3E8DE",
+    "B5120": "h5",
+    "C5120": "hc1",
+    "K5120": "1",
+    "L5120": "hy1",
+    "M5120": "other_level",
+    "N5120": "1",
+    "O5120": "0",
+    "P5120": "n/a",
+    "Q5120": "Table7 pp236–237,1934:01–2013:03: variance scaling versus cvol, annualized Sharpe 1.126 versus 1.041.",
+    "R5120": "Same-performance level under alternative rule, not outcome-mean/SD normalization and not a comparison of two estimated regression coefficients. Sharpe ratio is the measured policy-performance outcome here."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
