@@ -34321,7 +34321,16 @@
     "L3448": "1",
     "M3448": "n/a",
     "N3448": "Lagged aggregate term spread effect on net equity repurchases and net debt issuance, quarterly flows /lagged assets; Table VII, columns 1/4. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments.",
-    "O3448": "Causally interpreted aggregate OLS, not FE or IV: equations 6/7 and pp.3075–3078 connect pricing conditions to financing responses. Newey-West SE are not an identification method. Central aggregate conclusion; main=1."
+    "O3448": "Causally interpreted aggregate OLS, not FE or IV: equations 6/7 and pp.3075–3078 connect pricing conditions to financing responses. Newey-West SE are not an identification method. Central aggregate conclusion; main=1.",
+    "A3449": "UK6BI2QX",
+    "B3449": "h14",
+    "I3449": "1",
+    "J3449": "OLS",
+    "K3449": "0",
+    "L3449": "1",
+    "M3449": "n/a",
+    "N3449": "Lagged aggregate credit premium effect on net equity repurchases and net debt issuance, quarterly flows /lagged assets; Table VII, columns 2/5. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments.",
+    "O3449": "Causally interpreted aggregate OLS, not FE or IV: equations 6/7 and pp.3075–3078 connect pricing conditions to financing responses. Newey-West SE are not an identification method. Central aggregate conclusion; main=1."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87966,7 +87975,15 @@
     "A7937": "UK6BI2QX",
     "B7937": "h13",
     "C7937": "hy2",
-    "K7937": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
+    "K7937": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets.",
+    "A7938": "UK6BI2QX",
+    "B7938": "h14",
+    "C7938": "hy1",
+    "K7938": "Aggregate quarterly net equity repurchases of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets.",
+    "A7939": "UK6BI2QX",
+    "B7939": "h14",
+    "C7939": "hy2",
+    "K7939": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
