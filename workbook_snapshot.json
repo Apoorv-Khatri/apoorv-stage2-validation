@@ -35768,7 +35768,16 @@
     "L3583": "0",
     "M3583": "single continuous",
     "N3583": "180-day TNIC peer dividend-increase share on proportional RCD change, Table C.6B, estimates 27%/48%.",
-    "O3583": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables."
+    "O3583": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables.",
+    "A3584": "WERKYTKC",
+    "B3584": "h14",
+    "I3584": "1",
+    "J3584": "IV",
+    "K3584": "0",
+    "L3584": "0",
+    "M3584": "single continuous",
+    "N3584": "180-day SIC peer dividend-increase share on own increase indicator, Table C.2A tax/catering robustness (checks 2-4). Bootstrap check 1 repeats baseline and adds no new effect setting.",
+    "O3584": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables. Tax/catering controls replace time FE, firm FE remains; absence of time FE does not convert IV into OLS. Routine control/sample variants grouped. Effects 19%/27%,17%/23%,17%/22%; not outcome benchmarks."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91018,7 +91027,11 @@
     "A8173": "WERKYTKC",
     "B8173": "h13",
     "C8173": "hy1",
-    "K8173": "Dividend Payout Change = proportional RCD change (Appendix A), despite caption wording dividend yield change. Not an outcome-mean comparison."
+    "K8173": "Dividend Payout Change = proportional RCD change (Appendix A), despite caption wording dividend yield change. Not an outcome-mean comparison.",
+    "A8174": "WERKYTKC",
+    "B8174": "h14",
+    "C8174": "hy1",
+    "K8174": "Dividend-increase indicator, Table C.2A checks 2-4."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
