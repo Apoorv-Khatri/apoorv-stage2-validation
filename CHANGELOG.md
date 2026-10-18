@@ -589119,3 +589119,408 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:22:05.813417+00:00 — Review VPZERBIY h23: source-audited coding and linked comparisons
+
+66 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8152",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8153",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8154",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8155",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8156",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8157",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8158",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8159",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8152",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8153",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8154",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8155",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8156",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8157",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8158",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8159",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8152",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8153",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8154",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8155",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8156",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8157",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8158",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8159",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8152",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8153",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8154",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8155",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8156",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8157",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8158",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8152",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8153",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8154",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8155",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8156",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8157",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8158",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8152",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8153",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8154",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8155",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8156",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8157",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8158",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8159",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8152",
+    "before": null,
+    "after": "Indicator for making any acquisition bid in years [t, t+3]."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8153",
+    "before": null,
+    "after": "Indicator for making any acquisition bid in years [t, t+5]."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8154",
+    "before": null,
+    "after": "Indicator for making a cash-financed acquisition bid in years [t, t+3]."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8155",
+    "before": null,
+    "after": "Indicator for making a cash-financed acquisition bid in years [t, t+5]."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8156",
+    "before": null,
+    "after": "Indicator for making a stock-financed acquisition bid in years [t, t+3]."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8157",
+    "before": null,
+    "after": "Indicator for making a stock-financed acquisition bid in years [t, t+5]."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8158",
+    "before": null,
+    "after": "Indicator for making a divestiture in years [t, t+1]."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8159",
+    "before": null,
+    "after": "Indicator for making a divestiture in years [t, t+3]."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E84",
+    "before": null,
+    "after": "DONE — Full available-source review of 23 published pages and seven associated accepted-manuscript appendix pages with independent audit. Retain 34 setting scopes, 140 outcome records and 61 comparison triples; eight ambiguous original comparisons remain unknown, seven wrong-parent originals rejected with supported relocations. Eleven held evidence groups remain outside retained triples. Table 2A interpreted matched post-event contrasts retained as Matching, without asserting ATT or target weights; treated-mean benchmarks unaligned and pooled control alignment unknown. Main-table dummy controls distinguished from appendix identifying fund/industry/year HDFE. Continuous PPS and binary activism/director effects separated; unreported footnote 22 method and footnote 25 PPS scale/implementation unknown. Preserve printed zero differences, t-statistic/arithmetic defects and interaction-versus-total uncertainty. Associated WRAP accepted appendix is not authenticated final supplement; IA.4/final IA.5 conflict explicit. Original fields, IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3570",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3570",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3570",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3570",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3570",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3570",
+    "before": null,
+    "after": "Activist binary exposure on acquisition/divestiture probabilities in Table 8, conditional on New director indicator; lower-order activist coefficient and conditional total effect, distinct from moderator-slope interaction retained under s11."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3570",
+    "before": null,
+    "after": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Final pp.541/544 for Table7 and p.546 for Table8 explicitly interpret lower-order activist coefficients. These are supporting reconfirmation of baseline activism effects, not a separate central mechanism. At moderator zero coefficient is baseline; otherwise add interaction × moderator."
+  }
+]
+```
