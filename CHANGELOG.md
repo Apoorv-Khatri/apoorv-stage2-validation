@@ -533652,3 +533652,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:08:04.901351+00:00 — Review RQ77EIC2 h8: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7627",
+    "before": null,
+    "after": "RQ77EIC2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7627",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7627",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7627",
+    "before": null,
+    "after": "Quarterly/yearly average RegisterPartisanship; exact time aggregation weights and column-specific lags not available in final main article."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E73",
+    "before": null,
+    "after": "DONE — Available-source review of all44 final article pages with independent audit. Retain4 original settings and7 active additions; reject Table5 correlations and Table8 descriptive co-voting interpretation. Genuine OLS/identifying-FE splits retained for Tables4/7; four Table9 distance treatments separated; two mean comparisons retained with unknown alignment. Dictionary87/62bps not deliberately linked to outcome mean. Provisional PPML h9 NOT applied: literal Tables7/8 reference conflicts with dissent context; treatment mapping unresolved and held in review artifacts, not counted as a verified setting. A4/A5 minimum main-text-established robustness retained. Final supplement unavailable; December2021 version not substituted. Original fields,IDs and links preserved; completion scoped to available-source adjudication, with PPML omission resolution explicitly pending."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3224",
+    "before": null,
+    "after": "RQ77EIC2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3224",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3224",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3224",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3224",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3224",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3224",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3224",
+    "before": null,
+    "after": "Speech partisanship and RegisterPartisanship regressions using quarterly and yearly rather than monthly aggregation, Internet Appendix Table A5, final footnote30."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3224",
+    "before": null,
+    "after": "Main text explicitly says results for Table6 using quarterly and yearly aggregation and strong positive contemporaneous relation. OLS classification follows explicitly repeated Table6 regressions, not invented appendix FE. Group temporal aggregation/sample variants at A5. Exact lag grid, coefficients and benchmarks unavailable. Supporting check. Source: p4404 fn30; L1940–1949."
+  }
+]
+```

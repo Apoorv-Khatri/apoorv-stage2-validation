@@ -342,6 +342,7 @@
     "B73": "The Partisanship of Financial Regulators",
     "C73": "fin",
     "D73": 6,
+    "E73": "DONE — Available-source review of all44 final article pages with independent audit. Retain4 original settings and7 active additions; reject Table5 correlations and Table8 descriptive co-voting interpretation. Genuine OLS/identifying-FE splits retained for Tables4/7; four Table9 distance treatments separated; two mean comparisons retained with unknown alignment. Dictionary87/62bps not deliberately linked to outcome mean. Provisional PPML h9 NOT applied: literal Tables7/8 reference conflicts with dissent context; treatment mapping unresolved and held in review artifacts, not counted as a verified setting. A4/A5 minimum main-text-established robustness retained. Final supplement unavailable; December2021 version not substituted. Original fields,IDs and links preserved; completion scoped to available-source adjudication, with PPML omission resolution explicitly pending.",
     "A74": "RQV5GQTL",
     "B74": "Quid Pro Quo? What Factors Influence IPO Allocations to Investors?",
     "C74": "fin",
@@ -31782,7 +31783,16 @@
     "L3223": "0",
     "M3223": "unknown",
     "N3223": "Speech partisanship and RegisterPartisanship robustness including no-majority days under alternative party assignments, Internet Appendix Table A4 as established in final footnote29.",
-    "O3223": "Minimum source-limited setting. Final footnote29 reports similar statistical/economic results using president party, independent-regulator speech party, or combination. Exact implemented estimator/columns and whether all category models recur unresolved; do not invent OLS/FE grid. Same speech dose, alternative outcome measurement/sample variants grouped. Supporting robustness, not independently a central result. Source: p4402 fn29; L1816–1822."
+    "O3223": "Minimum source-limited setting. Final footnote29 reports similar statistical/economic results using president party, independent-regulator speech party, or combination. Exact implemented estimator/columns and whether all category models recur unresolved; do not invent OLS/FE grid. Same speech dose, alternative outcome measurement/sample variants grouped. Supporting robustness, not independently a central result. Source: p4402 fn29; L1816–1822.",
+    "A3224": "RQ77EIC2",
+    "B3224": "h8",
+    "I3224": "1",
+    "J3224": "OLS",
+    "K3224": "0",
+    "L3224": "0",
+    "M3224": "n/a",
+    "N3224": "Speech partisanship and RegisterPartisanship regressions using quarterly and yearly rather than monthly aggregation, Internet Appendix Table A5, final footnote30.",
+    "O3224": "Main text explicitly says results for Table6 using quarterly and yearly aggregation and strong positive contemporaneous relation. OLS classification follows explicitly repeated Table6 regressions, not invented appendix FE. Group temporal aggregation/sample variants at A5. Exact lag grid, coefficients and benchmarks unavailable. Supporting check. Source: p4404 fn30; L1940–1949."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -83475,7 +83485,11 @@
     "A7626": "RQ77EIC2",
     "B7626": "h7",
     "C7626": "hy1",
-    "K7626": "RegisterPartisanship with previously omitted no-majority days assigned a party using president, independent-regulator speech, or combined rules. Exact appendix aggregation/column mapping unresolved."
+    "K7626": "RegisterPartisanship with previously omitted no-majority days assigned a party using president, independent-regulator speech, or combined rules. Exact appendix aggregation/column mapping unresolved.",
+    "A7627": "RQ77EIC2",
+    "B7627": "h8",
+    "C7627": "hy1",
+    "K7627": "Quarterly/yearly average RegisterPartisanship; exact time aggregation weights and column-specific lags not available in final main article."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
