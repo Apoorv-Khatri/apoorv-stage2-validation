@@ -33727,7 +33727,16 @@
     "L3401": "1",
     "M3401": "n/a",
     "N3401": "Effect of next-year-due ΔPO(t+1)t, measured as change in corresponding purchase obligations/total assets and entered jointly with the other maturity component; Table V columns 3–4. Outcome set follows s5; distinct from total ΔPOt.",
-    "O3401": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
+    "O3401": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation.",
+    "A3402": "TRCRCTBB",
+    "B3402": "h6",
+    "I3402": "1",
+    "J3402": "FE",
+    "K3402": "0",
+    "L3402": "1",
+    "M3402": "n/a",
+    "N3402": "Effect of residual-maturity ΔPOrestt, measured as change in corresponding purchase obligations/total assets and entered jointly with the other maturity component; Table V columns 3–4. Outcome set follows s5; distinct from total ΔPOt.",
+    "O3402": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86924,7 +86933,11 @@
     "A7860": "TRCRCTBB",
     "B7860": "h5",
     "C7860": "hy1",
-    "K7860": "Financial leverage, defined as debt divided by debt plus book equity, Leverage_t = Debt_t / (Debt_t + CEQ_t). Table V columns 3–4."
+    "K7860": "Financial leverage, defined as debt divided by debt plus book equity, Leverage_t = Debt_t / (Debt_t + CEQ_t). Table V columns 3–4.",
+    "A7861": "TRCRCTBB",
+    "B7861": "h6",
+    "C7861": "hy1",
+    "K7861": "Financial leverage, defined as debt divided by debt plus book equity, Leverage_t = Debt_t / (Debt_t + CEQ_t). Table V columns 3–4."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
