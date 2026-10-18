@@ -33147,7 +33147,16 @@
     "L3358": "0",
     "M3358": "n/a",
     "N3358": "Restricted dual-supplier sample: Minority × After × BiasPCA, TableA1 cols2,4, effects 0.099 and 0.044.",
-    "O3358": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Separate reported restricted-sample robustness location from Table5A. Source: Supplement pp2,15 TableA1; layout L486–508."
+    "O3358": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Separate reported restricted-sample robustness location from Table5A. Source: Supplement pp2,15 TableA1; layout L486–508.",
+    "A3359": "S9LRTRJP",
+    "B3359": "h9",
+    "I3359": "1",
+    "J3359": "DiD_conventional",
+    "K3359": "0",
+    "L3359": "0",
+    "M3359": "n/a",
+    "N3359": "Minority × After × BiasPCA with relationship age/distance controls, TableA2 cols2,4,6,8. Repeated no-control and volume-control cols1,3,5,7 remain s3, not additional estimates.",
+    "O3359": "Identifying seller×buyer, seller×month and buyer×month FE: three effective sets, but conventional continuous-moderator DDD takes precedence over HDFE. Lower-order terms absorbed as Eq.(2) explains. No IV or modern DiD. Separately tabulated substantive robustness; exact method unchanged. Whether to merge this location with s3 routine controls is an adjudication issue. Source: Supplement pp2–3,16 TableA2; layout L43–63,514–558."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85962,7 +85971,15 @@
     "A7798": "S9LRTRJP",
     "B7798": "h8",
     "C7798": "hy2",
-    "K7798": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
+    "K7798": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator.",
+    "A7799": "S9LRTRJP",
+    "B7799": "h9",
+    "C7799": "hy1",
+    "K7799": "Log(1+total past-due dollars) in buyer–supplier-month; full-amount outcome.",
+    "A7800": "S9LRTRJP",
+    "B7800": "h9",
+    "C7800": "hy2",
+    "K7800": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
