@@ -525189,3 +525189,276 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T08:55:38.260132+00:00 — Review RDVTTVCR s8: source-audited coding and linked comparisons
+
+44 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K374",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K377",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K378",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L375",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L376",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L377",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L378",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M375",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M376",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M377",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M378",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N377",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N378",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O377",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O378",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P375",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P376",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P377",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P378",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q375",
+    "before": null,
+    "after": "pp2880–2882 Table4 cols1–5; A one-SD-higher Indirect GIIPS Sov Risk results in a 5.4-pp-lower net debt ratio, Table 4 col. (2). Benchmark: Precrisis standard deviation of net debt ratio; authors say effect equals 18.1% of precrisis SD. “The estimates suggest that a one-SD-higher Indirect GIIPS Sov Risk results in a 5.4-pp-lower (18.1% of precrisis SD) net debt ratio and a 4.35-pp-lower (20.6% of precrisis SD) ICR.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q376",
+    "before": null,
+    "after": "pp2880–2882 Table4 cols1–5; A one-SD-higher Indirect GIIPS Sov Risk results in a 4.35-pp-lower ICR, Table 4 col. (3). Benchmark: Precrisis standard deviation of ICR; authors say effect equals 20.6% of precrisis SD. “The estimates suggest that a one-SD-higher Indirect GIIPS Sov Risk results in a 5.4-pp-lower (18.1% of precrisis SD) net debt ratio and a 4.35-pp-lower (20.6% of precrisis SD) ICR.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q377",
+    "before": null,
+    "after": "pp2880–2882 Table4 cols1–5; A one-SD increase in Indirect GIIPS Sov Risk led to a reduction in the fraction of outstanding credit lines by 7.8 pp, Table 4 col. (4). Benchmark: Precrisis standard deviation of the fraction of outstanding credit lines; authors say effect equals 33.1% of precrisis SD. “A one-SD increase in Indirect GIIPS Sov Risk led to a reduction in the fraction of outstanding (undrawn) credit lines by 7.8 pp (10.9 pp), respectively, which corresponds to 33.1% (36.2%) of the precrisis SD.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q378",
+    "before": null,
+    "after": "pp2880–2882 Table4 cols1–5; A one-SD increase in Indirect GIIPS Sov Risk led to a reduction in the fraction of undrawn credit lines by 10.9 pp, Table 4 col. (5). Benchmark: Precrisis standard deviation of the fraction of undrawn credit lines; authors say effect equals 36.2% of precrisis SD. “A one-SD increase in Indirect GIIPS Sov Risk led to a reduction in the fraction of outstanding (undrawn) credit lines by 7.8 pp (10.9 pp), respectively, which corresponds to 33.1% (36.2%) of the precrisis SD.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R374",
+    "before": null,
+    "after": "Effect-versus-effect comparison to external cash-flow sensitivity estimate (Almeida et al.), not a mean/SD/level of the cash-change dependent outcome. Other_level is not a catch-all. p2880; retain source evidence verbatim in original_fields."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R375",
+    "before": null,
+    "after": "Alignment unknown: precrisis SD reference population/weights and continuous-regression target match are not specified sufficiently. Same data source alone is not alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R376",
+    "before": null,
+    "after": "Alignment unknown: precrisis SD reference population/weights and continuous-regression target match are not specified sufficiently. Same data source alone is not alignment. Printed prose calls ICR change 4.35 pp, but ICR is EBIT/interest expense, a ratio, not a probability. Preserve the printed magnitude without silently changing units; potential prose unit error."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R377",
+    "before": null,
+    "after": "Alignment unknown: precrisis SD reference population/weights and continuous-regression target match are not specified sufficiently. Same data source alone is not alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R378",
+    "before": null,
+    "after": "Alignment unknown: precrisis SD reference population/weights and continuous-regression target match are not specified sufficiently. Same data source alone is not alignment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7537",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7537",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7537",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7537",
+    "before": null,
+    "after": "Leverage ratio as alternative dependent variable to net debt: implemented qualitative robustness, numerical estimate not reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I651",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J651",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K651",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L651",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M651",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O651",
+    "before": null,
+    "after": "Eqs4–5 pp2879–2880 establish identifying roles: firm FE absorb fixed firm heterogeneity, industry×country×year FE absorb local industry demand, foreign-bank-GIIPS-country×year FE address firms' geographic business exposure. Three nonredundant FE batteries: HDFE. Table4 credit-line columns replace industry×country×year with country×year, retaining three. Continuous time-varying lender risk, not a treated/post interaction and not IV. Frozen 2009 loan/syndicate weights mitigate rematching. Cashflow interaction is a financial-constraint mechanism of lender-risk dose; retain null level coefficient as well as sensitivity. Add leverage robustness outcome from fn22. Source: pp2879–2882 Eqs4–5 Table4 cols1–5; L1489–1694."
+  }
+]
+```
