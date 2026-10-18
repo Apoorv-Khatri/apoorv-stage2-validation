@@ -31221,7 +31221,16 @@
     "L3176": "1",
     "M3176": "n/a",
     "N3176": "Table IX A–B: continuous general managerial experience (years appearing in CRSP, standardized) and next-quarter termination probability in single-manager funds; logit coefficients and marginal effects, whole sample and experience subsamples. Whole-sample coefficients -0.183/-0.187.",
-    "O3176": "Authors explicitly say less experienced managers face higher termination probabilities, motivating career concerns in the introduction. Not just a control coefficient. Source: pp2252–2255; L1306–1361,1398–1400,1447–1449. No qualifying outcome benchmark found in associated prose/table. Source: pp2252–2255; L1306–1361,1398–1400,1447–1449."
+    "O3176": "Authors explicitly say less experienced managers face higher termination probabilities, motivating career concerns in the introduction. Not just a control coefficient. Source: pp2252–2255; L1306–1361,1398–1400,1447–1449. No qualifying outcome benchmark found in associated prose/table. Source: pp2252–2255; L1306–1361,1398–1400,1447–1449.",
+    "A3177": "R7QNVLC6",
+    "B3177": "h6",
+    "I3177": "1",
+    "J3177": "Other",
+    "K3177": "0",
+    "L3177": "1",
+    "M3177": "n/a",
+    "N3177": "Table IX A–B: continuous fund-specific managerial tenure (years with fund, standardized) and termination probability; logit with controls, whole sample and tenure subsamples. Whole-sample coefficients -0.144/-0.145; include low-tenure null/positive slopes rather than dropping them.",
+    "O3177": "Distinct experience definition; same central career-incentive rationale as h5. Nonlinear logit is Other, not FE even if future implementation details reveal controls. Source: pp2252–2255; L1306–1361,1401–1403,1450–1452. No qualifying outcome benchmark found in associated prose/table. Source: pp2252–2255; L1306–1361,1401–1403,1450–1452."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82203,7 +82212,14 @@
     "H7530": "1",
     "I7530": "1",
     "J7530": "none",
-    "K7530": "Termination indicator: manager at t disappears from sample from t+1 onward. Source: pp2252–2255; L1306–1361,1398–1400,1447–1449."
+    "K7530": "Termination indicator: manager at t disappears from sample from t+1 onward. Source: pp2252–2255; L1306–1361,1398–1400,1447–1449.",
+    "A7531": "R7QNVLC6",
+    "B7531": "h6",
+    "C7531": "hy1",
+    "H7531": "1",
+    "I7531": "1",
+    "J7531": "none",
+    "K7531": "Termination indicator: manager at t disappears from sample from t+1 onward. Source: pp2252–2255; L1306–1361,1401–1403,1450–1452."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

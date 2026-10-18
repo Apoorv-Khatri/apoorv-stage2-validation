@@ -523704,3 +523704,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:54:46.053361+00:00 — Review R7QNVLC6 h6: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7531",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7531",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7531",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7531",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7531",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7531",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7531",
+    "before": null,
+    "after": "Termination indicator: manager at t disappears from sample from t+1 onward. Source: pp2252–2255; L1306–1361,1401–1403,1450–1452."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3177",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3177",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3177",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3177",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3177",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3177",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3177",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3177",
+    "before": null,
+    "after": "Table IX A–B: continuous fund-specific managerial tenure (years with fund, standardized) and termination probability; logit with controls, whole sample and tenure subsamples. Whole-sample coefficients -0.144/-0.145; include low-tenure null/positive slopes rather than dropping them."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3177",
+    "before": null,
+    "after": "Distinct experience definition; same central career-incentive rationale as h5. Nonlinear logit is Other, not FE even if future implementation details reveal controls. Source: pp2252–2255; L1306–1361,1401–1403,1450–1452. No qualifying outcome benchmark found in associated prose/table. Source: pp2252–2255; L1306–1361,1401–1403,1450–1452."
+  }
+]
+```
