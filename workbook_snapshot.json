@@ -34834,7 +34834,16 @@
     "L3494": "0",
     "M3494": "unknown",
     "N3494": "Exclusively non-high-risk structured-loan use indicator effect in distance-instrumented tax-change regression, TableA4 replication of Table8 established p.1931.",
-    "O3494": "p.1931 explicitly reports the instrumental-variable risk decomposition after separately replicating Table8. Retain only the preferred reelection/tax outcome scopes for each named binary treatment; no inferred naive-model grid, no appendix column labels or coefficients. Estimator family inherited narrowly from the stated Table8 replication: nonlinear reelection Other; instrumented linear tax unknown as s7. One distance variable is described in Table8, not independently verified in unavailable A4. Supporting main0; appendix placement alone is not the reason."
+    "O3494": "p.1931 explicitly reports the instrumental-variable risk decomposition after separately replicating Table8. Retain only the preferred reelection/tax outcome scopes for each named binary treatment; no inferred naive-model grid, no appendix column labels or coefficients. Estimator family inherited narrowly from the stated Table8 replication: nonlinear reelection Other; instrumented linear tax unknown as s7. One distance variable is described in Table8, not independently verified in unavailable A4. Supporting main0; appendix placement alone is not the reason.",
+    "A3495": "UUTLYHI2",
+    "B3495": "h1",
+    "I3495": "1",
+    "J3495": "OLS",
+    "K3495": "0",
+    "L3495": "0",
+    "M3495": "n/a",
+    "N3495": "Lagged Tier1 capital/RWA effect on loan sale, Table4.A5, bank/loan-year FE and time-varying bank controls removed.",
+    "O3495": "p.2203 explicitly estimates endogenous causal benchmark to assess omitted-variable sensitivity; −0.198. Do not discard because used as robustness."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88921,7 +88930,11 @@
     "H8012": "0",
     "I8012": "unknown",
     "J8012": "none",
-    "K8012": "Change in local tax per inhabitant as Table8 replication; high-risk larger decrease and non-high-risk lower impact, pp.1931."
+    "K8012": "Change in local tax per inhabitant as Table8 replication; high-risk larger decrease and non-high-risk lower impact, pp.1931.",
+    "A8013": "UUTLYHI2",
+    "B8013": "h1",
+    "C8013": "hy1",
+    "K8013": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
