@@ -565107,3 +565107,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:31:25.290298+00:00 — Review UK6BI2QX s6: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I754",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J754",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K754",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L754",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M754",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N754",
+    "before": null,
+    "after": "Blue Chip Baa-yield forecast error (actual minus forecast) effect on aggregate net equity repurchases and net debt issuance, Table VIII.A columns 1/3, 1999Q1–2015Q4. Other shock variables split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O754",
+    "before": null,
+    "after": "Broad intention retained: Section V examines impact of sentiment/supply shocks; realized forecast errors proxy ex ante optimism, not randomized shocks. Parameter direction is forecasting diagnostic in prose, but modeled financing response and explicit impact framing support inclusion provisionally. Supporting mechanism, main=0; no instrumented receipt."
+  }
+]
+```
