@@ -35560,7 +35560,16 @@
     "L3567": "0",
     "M3567": "unknown",
     "N3567": "Activist × CEO–Chairman duality: differential activism effect on forced CEO turnover, unreported regression p.541 footnote22.",
-    "O3567": "Final p.541 footnote22 reports Activist x CEO–Chairman duality = 0.0454 and duality = -0.098. The surrounding paragraph establishes forced CEO turnover as the outcome, not CAR. OLS is a plausible contextual inference from Table6A, but the footnote does not specify its estimator, controls, FE, sample or precise horizon; method unknown. Binary activism/duality contrast is established. Retain one substantive supporting governance scope; do not invent a second CAR model. Comparing these two coefficients is not a same-outcome level benchmark."
+    "O3567": "Final p.541 footnote22 reports Activist x CEO–Chairman duality = 0.0454 and duality = -0.098. The surrounding paragraph establishes forced CEO turnover as the outcome, not CAR. OLS is a plausible contextual inference from Table6A, but the footnote does not specify its estimator, controls, FE, sample or precise horizon; method unknown. Binary activism/duality contrast is established. Retain one substantive supporting governance scope; do not invent a second CAR model. Comparing these two coefficients is not a same-outcome level benchmark.",
+    "A3568": "VPZERBIY",
+    "B3568": "h21",
+    "I3568": "1",
+    "J3568": "unknown",
+    "K3568": "1",
+    "L3568": "0",
+    "M3568": "unknown",
+    "N3568": "Activist presence affecting CEO PPS change t-1 to t+1: unreported multivariate regression p.544 and footnote25.",
+    "O3568": "Implemented multivariate regression is reported with same controls/FE as Table7, but prose says 34.9% higher likelihood of an increase whereas footnote25 names Increase in PPS, defined as continuous percentage change. Do not assume LPM or OLS scale from neighboring models; estimator and binary outcome unresolved. This is substantive compensation-mechanism corroboration, not a diagnostic."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -90593,7 +90602,14 @@
     "H8142": "1",
     "I8142": "1",
     "J8142": "none",
-    "K8142": "Forced CEO turnover indicator; unreported model in p.541 footnote22, surrounding Table6A context. Exact undisplayed sample size not stated."
+    "K8142": "Forced CEO turnover indicator; unreported model in p.541 footnote22, surrounding Table6A context. Exact undisplayed sample size not stated.",
+    "A8143": "VPZERBIY",
+    "B8143": "h21",
+    "C8143": "hy1",
+    "H8143": "unknown",
+    "I8143": "unknown",
+    "J8143": "unknown",
+    "K8143": "CEO PPS change from t-1 to t+1; prose calls it likelihood of an increase, footnote25 calls dependent variable Increase in PPS (continuous percentage change in Appendix). Binary-versus-continuous implementation unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

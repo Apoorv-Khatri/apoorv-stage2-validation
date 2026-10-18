@@ -588615,3 +588615,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:21:27.071699+00:00 — Review VPZERBIY h21: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8143",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8143",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8143",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8143",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8143",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8143",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8143",
+    "before": null,
+    "after": "CEO PPS change from t-1 to t+1; prose calls it likelihood of an increase, footnote25 calls dependent variable Increase in PPS (continuous percentage change in Appendix). Binary-versus-continuous implementation unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3568",
+    "before": null,
+    "after": "VPZERBIY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3568",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3568",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3568",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3568",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3568",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3568",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3568",
+    "before": null,
+    "after": "Activist presence affecting CEO PPS change t-1 to t+1: unreported multivariate regression p.544 and footnote25."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3568",
+    "before": null,
+    "after": "Implemented multivariate regression is reported with same controls/FE as Table7, but prose says 34.9% higher likelihood of an increase whereas footnote25 names Increase in PPS, defined as continuous percentage change. Do not assume LPM or OLS scale from neighboring models; estimator and binary outcome unresolved. This is substantive compensation-mechanism corroboration, not a diagnostic."
+  }
+]
+```
