@@ -557256,3 +557256,144 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:18:10.688484+00:00 — Review TRCRCTBB s10: source-audited coding and linked comparisons
+
+22 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K419",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L418",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L419",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M418",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M419",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N419",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O419",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P418",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P419",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q418",
+    "before": null,
+    "after": "p.3434/Table X; Table I SDC-subsample outcome SD 0.077, N=3,875. Table X, col. (2): coefficient on PO_t = -0.089; author interprets a one-standard-deviation decrease in PO_t as increasing SEOminusREPO^SDC_t by approximately 0.8% of total securities outstanding. Sample standard deviation of SEOminusREPO^SDC_t is 0.077 from Table I; text states the effect is approximately 10.4% of the sample standard deviation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q419",
+    "before": null,
+    "after": "p.3434, visually verified: Table X column 4 coefficient −0.101 affects SEOminusREPO^Cpst by about 0.9% of securities; prose calls it 11.0% of SD of SEOminusREPO^SDC. Table I SDs are 0.082 Cpst and 0.077 SDC (N=3,875)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R418",
+    "before": null,
+    "after": "Continuous conditional regression target/weights not established to equal the stated sample benchmark; same sample alone does not prove alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R419",
+    "before": null,
+    "after": "Eligibility unresolved: printed benchmark is a different outcome construction; do not silently repair SDC to Cpst or use other_level. If literal, reject as cross-outcome; if confirmed typo, same-outcome SD comparison qualifies. Verbal=1/divided=1 independently certain; alignment remains unknown even under typo interpretation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I726",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J726",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K726",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L726",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M726",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O726",
+    "before": null,
+    "after": "Linear panel regression; firm (or manager) and time effects absorb persistent unit heterogeneity and common shocks in the within-unit private-information design. At most two effective FE dimensions, not HDFE; no IV/RCT/RD/DiD. No genuine no-unit-FE OLS column. Continuous PO dose, not binary merely because outcomes or subsamples are binary."
+  }
+]
+```
