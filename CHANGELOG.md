@@ -533070,3 +533070,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:06:03.055794+00:00 — Review RQ77EIC2 h2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7621",
+    "before": null,
+    "after": "RQ77EIC2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7621",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7621",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7621",
+    "before": null,
+    "after": "Monthly RegisterPartisanship by month-year-category (notices, proposed rules, finalized rules), computed as monthly average of daily Congress-based partisan similarity scores for Register text in that category. Unit is a probability-like score between 0 and 1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3218",
+    "before": null,
+    "after": "RQ77EIC2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3218",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3218",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3218",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3218",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3218",
+    "before": null,
+    "after": "Monthly speech partisanship dose and category-moderated slopes for RegisterPartisanship, Table7 A/B cols1/4/5/8/9 without month-year FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3218",
+    "before": null,
+    "after": "Same focal speech dose, same outcome and result location; category interactions are effect heterogeneity, grouped with routine category controls. Explicit spillover/influence interpretation pp4405–4407. Separate from identifying FE cols10/11 retained in s4. Baseline category indicators alone are not asserted causal treatments. Includes weak Fed interaction and SEC notice-slope null. Source: Table7 pp4405–4407; L1965–2075."
+  }
+]
+```

@@ -31732,7 +31732,16 @@
     "L3217": "1",
     "M3217": "n/a",
     "N3217": "Calendar-year time trend in SEC speech partisanship without Commissioner FE, Table4 cols1/3 (all years and 1990–2019).",
-    "O3217": "Genuine OLS split from s1: the no-FE trend and within-person null jointly support author-attributed turnover mechanism; no invented turnover treatment coefficient. No qualifying outcome mean/SD comparison. Source: Table4 pp4399–4400; L1577–1671."
+    "O3217": "Genuine OLS split from s1: the no-FE trend and within-person null jointly support author-attributed turnover mechanism; no invented turnover treatment coefficient. No qualifying outcome mean/SD comparison. Source: Table4 pp4399–4400; L1577–1671.",
+    "A3218": "RQ77EIC2",
+    "B3218": "h2",
+    "I3218": "1",
+    "J3218": "OLS",
+    "K3218": "0",
+    "L3218": "1",
+    "M3218": "n/a",
+    "N3218": "Monthly speech partisanship dose and category-moderated slopes for RegisterPartisanship, Table7 A/B cols1/4/5/8/9 without month-year FE.",
+    "O3218": "Same focal speech dose, same outcome and result location; category interactions are effect heterogeneity, grouped with routine category controls. Explicit spillover/influence interpretation pp4405–4407. Separate from identifying FE cols10/11 retained in s4. Baseline category indicators alone are not asserted causal treatments. Includes weak Fed interaction and SEC notice-slope null. Source: Table7 pp4405–4407; L1965–2075."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -83398,7 +83407,11 @@
     "A7620": "RQ77EIC2",
     "B7620": "h1",
     "C7620": "hy1",
-    "K7620": "Speech-level Congress-based SEC partisanship score: for a Republican speech, qi·rho_t; for a Democratic speech, qi·(1-rho_t), where qi is the speech's bigram-frequency vector and rho_t is the congressional posterior-probability vector for decade t. Unit is a probability-like score between 0 and 1."
+    "K7620": "Speech-level Congress-based SEC partisanship score: for a Republican speech, qi·rho_t; for a Democratic speech, qi·(1-rho_t), where qi is the speech's bigram-frequency vector and rho_t is the congressional posterior-probability vector for decade t. Unit is a probability-like score between 0 and 1.",
+    "A7621": "RQ77EIC2",
+    "B7621": "h2",
+    "C7621": "hy1",
+    "K7621": "Monthly RegisterPartisanship by month-year-category (notices, proposed rules, finalized rules), computed as monthly average of daily Congress-based partisan similarity scores for Register text in that category. Unit is a probability-like score between 0 and 1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
