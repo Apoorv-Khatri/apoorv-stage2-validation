@@ -35991,7 +35991,16 @@
     "L3603": "0",
     "M3603": "single continuous",
     "N3603": "Baker-Wurgler catering measure included-regressor coefficient on own dividend-decrease indicator, TableC.2B check4; estimates -2%/-2%. Separate treatment parameter in the implemented joint linear IV equation, not a new regression.",
-    "O3603": "Author-intention gate: pp.552,556 identify these as dividend determinants and discuss substantive effects/ranking, including nulls; C.1 pp.565-566 explicitly considers taxes/catering inducing dividend decisions. Included controls are not automatically excluded. Actual estimator is joint 2SLS/IV, with peer share endogenous and average peer idiosyncratic equity risk the sole excluded instrument. The focal included regressor is NOT instrumented by peer risk; its coefficient additionally relies on maintained included-regressor exogeneity. Method IV describes the implemented joint estimator, not a focal-treatment instrument or LATE. No unseen OLS/FE re-estimation inferred. Firm/time FE (firm only when time-only determinants replace time FE) remain subordinate to the implemented IV equation. Time FE removed to estimate the time-only determinant; firm FE retained. Tax rate/valuation-premium measure is a dose, not an implemented 2003 binary policy contrast; no DiD design claimed. Peer-share coefficient already covered by h14/h15. No linked outcome benchmark."
+    "O3603": "Author-intention gate: pp.552,556 identify these as dividend determinants and discuss substantive effects/ranking, including nulls; C.1 pp.565-566 explicitly considers taxes/catering inducing dividend decisions. Included controls are not automatically excluded. Actual estimator is joint 2SLS/IV, with peer share endogenous and average peer idiosyncratic equity risk the sole excluded instrument. The focal included regressor is NOT instrumented by peer risk; its coefficient additionally relies on maintained included-regressor exogeneity. Method IV describes the implemented joint estimator, not a focal-treatment instrument or LATE. No unseen OLS/FE re-estimation inferred. Firm/time FE (firm only when time-only determinants replace time FE) remain subordinate to the implemented IV equation. Time FE removed to estimate the time-only determinant; firm FE retained. Tax rate/valuation-premium measure is a dose, not an implemented 2003 binary policy contrast; no DiD design claimed. Peer-share coefficient already covered by h14/h15. No linked outcome benchmark.",
+    "A3604": "WM5RSIHQ",
+    "B3604": "h1",
+    "I3604": "1",
+    "J3604": "Other",
+    "K3604": "0",
+    "L3604": "1",
+    "M3604": "n/a",
+    "N3604": "Idiosyncratic stock returns jointly included in the two-stage industry-based Cox model; t−1 and t−2 on forced dismissal, Table II B.",
+    "O3604": "Distinct focal treatment from peer-induced component, not a newly estimated separate regression. Author-intention gate: pp.2166 and 2172–2174 state both performance components affect dismissals; p.2162 cautions residual performance mixes CEO skill and other shocks. Broad gate permits this without claiming residual exogeneity. Nonlinear implemented Cox/logit estimator takes priority over the paper’s IV analogy and any year dummies: Other, IV type n/a. No separately implemented linear outcome model or causal first-stage OLS setting. Calendar-year dummies are one effective dimension, included to absorb time trends/economy-wide shocks; no HDFE. Returns are continuous; binary event outcome or subgroup dummies do not make the performance dose binary."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91330,7 +91339,11 @@
     "A8193": "WERKYTKC",
     "B8193": "h33",
     "C8193": "hy1",
-    "K8193": "Own dividend-decrease indicator, TableC.2B check4. AppendixA prints decrease threshold <=positive1%; actual threshold unresolved."
+    "K8193": "Own dividend-decrease indicator, TableC.2B check4. AppendixA prints decrease threshold <=positive1%; actual threshold unresolved.",
+    "A8194": "WM5RSIHQ",
+    "B8194": "h1",
+    "C8194": "hy1",
+    "K8194": "Forced CEO dismissal event and tenure/time-to-event with voluntary departures right-censored; Cox proportional-hazard outcome. Estimated hazard intensity/slopes are not event probabilities or percentage-point probability effects. Table II."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
