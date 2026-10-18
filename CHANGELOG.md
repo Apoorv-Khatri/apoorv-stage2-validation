@@ -562698,3 +562698,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:01:45.498318+00:00 — Review TS6H62KJ h16: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7886",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7886",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7886",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7886",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7886",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7886",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7886",
+    "before": null,
+    "after": "Monthly portfolio excess returns, percent per month; alpha is the adjusted low-high return contrast, not the dependent variable. Probability mass at zero is not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3422",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3422",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3422",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3422",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3422",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3422",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3422",
+    "before": null,
+    "after": "Low versus high predicted quantile-based TOTAL skewness: factor-adjusted portfolio return, Section4.3.2 p.419; Online Appendix Tables6–7, with value-weighted Table7 explicitly named. Minimum scope covering implemented EW/VW regressions; no invented per-cell estimates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3422",
+    "before": null,
+    "after": "Distinct treatment from idiosyncratic QSK retained in s20. Supporting robustness; final text establishes OLS regressions, low-high contrasts and factor-model variants. Missing supplement prevents exact table/column disaggregation. Pooled alpha ranges must not be assigned to particular omitted cells."
+  }
+]
+```

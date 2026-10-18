@@ -34040,7 +34040,16 @@
     "L3421": "0",
     "M3421": "n/a",
     "N3421": "Low versus high predicted total skewness: value-weighted portfolio excess return adjusted by MKT/PSS/HML/RMW/CMA, Table11 PanelC p.421; low-high alpha 0.18% per month.",
-    "O3421": "Supporting robustness Section4.3.1, explicit final main-article table. Binary extreme-group contrast; routine middle group not a separate causal treatment. OLS factor regressions, factors not FE."
+    "O3421": "Supporting robustness Section4.3.1, explicit final main-article table. Binary extreme-group contrast; routine middle group not a separate causal treatment. OLS factor regressions, factors not FE.",
+    "A3422": "TS6H62KJ",
+    "B3422": "h16",
+    "I3422": "1",
+    "J3422": "OLS",
+    "K3422": "1",
+    "L3422": "0",
+    "M3422": "n/a",
+    "N3422": "Low versus high predicted quantile-based TOTAL skewness: factor-adjusted portfolio return, Section4.3.2 p.419; Online Appendix Tables6–7, with value-weighted Table7 explicitly named. Minimum scope covering implemented EW/VW regressions; no invented per-cell estimates.",
+    "O3422": "Distinct treatment from idiosyncratic QSK retained in s20. Supporting robustness; final text establishes OLS regressions, low-high contrasts and factor-model variants. Missing supplement prevents exact table/column disaggregation. Pooled alpha ranges must not be assigned to particular omitted cells."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87431,7 +87440,14 @@
     "H7885": "0",
     "I7885": "unknown",
     "J7885": "none",
-    "K7885": "Monthly portfolio excess returns, percent per month; alpha is the adjusted low-high return contrast, not the dependent variable. Probability mass at zero is not established."
+    "K7885": "Monthly portfolio excess returns, percent per month; alpha is the adjusted low-high return contrast, not the dependent variable. Probability mass at zero is not established.",
+    "A7886": "TS6H62KJ",
+    "B7886": "h16",
+    "C7886": "hy1",
+    "H7886": "0",
+    "I7886": "unknown",
+    "J7886": "none",
+    "K7886": "Monthly portfolio excess returns, percent per month; alpha is the adjusted low-high return contrast, not the dependent variable. Probability mass at zero is not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
