@@ -525462,3 +525462,210 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T08:56:07.246342+00:00 — Review RDVTTVCR s9: source-audited coding and linked comparisons
+
+33 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K379",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K380",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L379",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L380",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L381",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M379",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M380",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M381",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N379",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N380",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O379",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O380",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P379",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P380",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P381",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q379",
+    "before": null,
+    "after": "p2884 Table4 cols6–8; A one-SD-higher Indirect GIIPS Sov Risk led to a 4.7 pp reduction in employment growth, Table 4 col. (6). Benchmark: Precrisis standard deviation of employment growth; authors say effect equals 28.1% of precrisis SD. “More precisely, a one-SD-higher Indirect GIIPS Sov Risk led to a 4.7 pp reduction in employment growth (28.1% of precrisis SD), a 5.9 pp decrease in capital expenditures (29.1% of precrisis SD), and a 5.6 pp decrease in sales growth (24.4% of precrisis SD).”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q380",
+    "before": null,
+    "after": "p2884 Table4 cols6–8; A one-SD-higher Indirect GIIPS Sov Risk led to a 5.9 pp decrease in capital expenditures, Table 4 col. (7). Benchmark: Precrisis standard deviation of capital expenditures (CAPX); authors say effect equals 29.1% of precrisis SD. “More precisely, a one-SD-higher Indirect GIIPS Sov Risk led to a 4.7 pp reduction in employment growth (28.1% of precrisis SD), a 5.9 pp decrease in capital expenditures (29.1% of precrisis SD), and a 5.6 pp decrease in sales growth (24.4% of precrisis SD).”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q381",
+    "before": null,
+    "after": "p2884 Table4 cols6–8; A one-SD-higher Indirect GIIPS Sov Risk led to a 5.6 pp decrease in sales growth, Table 4 col. (8). Benchmark: Precrisis standard deviation of sales growth; authors say effect equals 24.4% of precrisis SD. “More precisely, a one-SD-higher Indirect GIIPS Sov Risk led to a 4.7 pp reduction in employment growth (28.1% of precrisis SD), a 5.9 pp decrease in capital expenditures (29.1% of precrisis SD), and a 5.6 pp decrease in sales growth (24.4% of precrisis SD).”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R379",
+    "before": null,
+    "after": "Alignment unknown: precrisis SD reference population/weights and continuous-regression target match are not specified sufficiently. Same data source alone is not alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R380",
+    "before": null,
+    "after": "Alignment unknown: precrisis SD reference population/weights and continuous-regression target match are not specified sufficiently. Same data source alone is not alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R381",
+    "before": null,
+    "after": "Alignment unknown: precrisis SD reference population/weights and continuous-regression target match are not specified sufficiently. Same data source alone is not alignment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1635",
+    "before": null,
+    "after": "Log difference of employment or sales as defined in Table1; growth rate itself is not logged. Same-outcome growth-SD comparisons qualify."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1637",
+    "before": null,
+    "after": "Log difference of employment or sales as defined in Table1; growth rate itself is not logged. Same-outcome growth-SD comparisons qualify."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I652",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J652",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K652",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L652",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M652",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N652",
+    "before": null,
+    "after": "Continuous Indirect GIIPS Sov Risk and employment growth, CAPX and sales growth, Table4 cols6–8; graphical binary high/low comparisons split to h5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O652",
+    "before": null,
+    "after": "Eqs4–5 pp2879–2880 establish identifying roles: firm FE absorb fixed firm heterogeneity, industry×country×year FE absorb local industry demand, foreign-bank-GIIPS-country×year FE address firms' geographic business exposure. Three nonredundant FE batteries: HDFE. Table4 credit-line columns replace industry×country×year with country×year, retaining three. Continuous time-varying lender risk, not a treated/post interaction and not IV. Frozen 2009 loan/syndicate weights mitigate rematching. Central real-effects outcome block; distinguish log differences from log-transformed growth. Source: pp2882–2884 Table4/Section4.1; L1695–1785."
+  }
+]
+```
