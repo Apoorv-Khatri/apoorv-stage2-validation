@@ -35023,7 +35023,16 @@
     "L3515": "1",
     "M3515": "n/a",
     "N3515": "Stable precrisis nonbank funding share effect on firm-level credit growth and exit, Table10.A/B columns7.",
-    "O3515": "Distinct total/stable/unstable exposure; stable null is central contrast, not supporting merely because insignificant. Firm exposure loan-value-weighted; loan exposure fraction of commitment. Industry dummies adjustment, same nonrandom supply-effect intention as s4."
+    "O3515": "Distinct total/stable/unstable exposure; stable null is central contrast, not supporting merely because insignificant. Firm exposure loan-value-weighted; loan exposure fraction of commitment. Industry dummies adjustment, same nonrandom supply-effect intention as s4.",
+    "A3516": "UUTLYHI2",
+    "B3516": "h22",
+    "I3516": "1",
+    "J3516": "OLS",
+    "K3516": "0",
+    "L3516": "1",
+    "M3516": "n/a",
+    "N3516": "Unstable precrisis nonbank funding share effect on2007–2008 loan price change, Table11 columns3,4,7,8.",
+    "O3516": "Stable null and unstable decline jointly support main fragility conclusion;116/79-loan samples routine variants. No outcome benchmark for these coefficients; comparing −0.182 with −0.049 is effect versus effect, not other_level."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89231,7 +89240,11 @@
     "A8040": "UUTLYHI2",
     "B8040": "h21",
     "C8040": "hy2",
-    "K8040": "Firm exit from SNC by2008Q4; firm exit requires all2006 loans exit and no new loans."
+    "K8040": "Firm exit from SNC by2008Q4; firm exit requires all2006 loans exit and no new loans.",
+    "A8041": "UUTLYHI2",
+    "B8041": "h22",
+    "C8041": "hy1",
+    "K8041": "Loan price (average bid-ask midpoint); Table11 outcome is average2008 minus average2007, Figures4/5 display daily price levels."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
