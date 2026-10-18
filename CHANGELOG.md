@@ -532293,3 +532293,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T10:28:04.252781+00:00 — Review RMH5X4LW s8: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1681",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1682",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1681",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1682",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1681",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1682",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1681",
+    "before": null,
+    "after": "spurious: parent s8 is a specification/inference exercise, not a causal setting; retain original model definition unchanged."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1682",
+    "before": null,
+    "after": "spurious: parent s8 is a specification/inference exercise, not a causal setting; retain original model definition unchanged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I665",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O665",
+    "before": null,
+    "after": "Spurious causal setting: Table 4A/B, pp347–348: do not infer that every estimator fails to reject zero means. Panel A d=2 DM p-values are 0.020 and 0.008; Panel B gives 0.078 and 0.066. J tests remain nonrejected as described in the text. These are still specification restrictions, not causal effects, regardless of rejection status. Structural effects and substantive causal nulls would qualify; neither a policy intervention nor strong identification is required by the gate. Source: Table 4A/B, p348/PDF11; L747–814."
+  }
+]
+```
