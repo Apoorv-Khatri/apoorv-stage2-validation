@@ -512679,3 +512679,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:20:38.804371+00:00 — Review QLFZQVZU s4: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1487",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1488",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1489",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1487",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1488",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1489",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1487",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1488",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1489",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1487",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s4 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1488",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s4 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1489",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s4 is rejected at the author-intention gate; the reported predictive outcome itself exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I611",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O611",
+    "before": null,
+    "after": "Authors introduce portfolio sorts explicitly as a more robust way to evaluate predictive ability. High-low returns and alphas document characteristic-sorted expected-return differences. No directional effect of changing a firm’s ratio is asserted. A tradable sort alone is not an explicitly attributed portfolio-rule intervention. If the gate were reversed, these fixed-weight linear contrasts would not automatically be Other. Source: pp239–240; Table3; L645–728. Source: pp239–240; Table3; L645–728."
+  }
+]
+```
