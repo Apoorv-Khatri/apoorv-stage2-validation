@@ -574107,3 +574107,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:38:48.660642+00:00 — Review UUTLYHI2 h7: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8021",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8021",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8021",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8021",
+    "before": null,
+    "after": "Fraction of loan funded by nonbanks, not a binary dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3501",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3501",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3501",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3501",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3501",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3501",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3501",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3501",
+    "before": null,
+    "after": "Syndicate median member Tier1 capital/RWA effect on nonbank share, Table6 column2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3501",
+    "before": null,
+    "after": "Different aggregated treatment/target exposure, not just SE/control variant. Only year dummies printed; same OLS rationale as Table5. No linked outcome mean/SD in this table."
+  }
+]
+```
