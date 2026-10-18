@@ -563064,3 +563064,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:03:23.955155+00:00 — Review TS6H62KJ h20: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7890",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7890",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7890",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7890",
+    "before": null,
+    "after": "Average monthly excess returns of test portfolios in PCA-based risk-pricing tests; exact appendix grid unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3426",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3426",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3426",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3426",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3426",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3426",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3426",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3426",
+    "before": null,
+    "after": "PSS pricing with predicted covariance factor replacing MKT: replication of PCA omitted-factor procedure Table5, Online Appendix Section6, final p.413 footnote26."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3426",
+    "before": null,
+    "after": "Distinct PCA method from conventional two-pass replication. Minimum implemented scope; latent-factor procedure is outcome-adaptive. No invented appendix panels or coefficients."
+  }
+]
+```

@@ -34076,7 +34076,16 @@
     "L3425": "0",
     "M3425": "n/a",
     "N3425": "PSS pricing with predicted covariance factor replacing MKT: replication of conventional two-pass tests Tables2–4, Online Appendix Section6, established by final p.413 footnote26.",
-    "O3425": "Independent recommendation: OLS-family (implemented cross-sectional GLS), conditional on estimated exposure regressors and the GLS metric. The reported dependent outcome is average excess portfolio return, not the entire return panel. First-pass slopes/covariances use centered returns; generated regressors alone do not establish a nonlinear effect estimator under the prompt incidental-preprocessing rule. This does not make the full mapping from the raw return panel linear. Full-procedure Other remains a substantive taxonomy alternative for parent adjudication. All parameters are GLS (p.409); OLS R2 is not a second estimator. No identifying FE or excluded IV instrument. Retain model-based risk-compensation interpretation, not predictor causality. Minimum narrative scope only; final Online Appendix unavailable; no inferred grid."
+    "O3425": "Independent recommendation: OLS-family (implemented cross-sectional GLS), conditional on estimated exposure regressors and the GLS metric. The reported dependent outcome is average excess portfolio return, not the entire return panel. First-pass slopes/covariances use centered returns; generated regressors alone do not establish a nonlinear effect estimator under the prompt incidental-preprocessing rule. This does not make the full mapping from the raw return panel linear. Full-procedure Other remains a substantive taxonomy alternative for parent adjudication. All parameters are GLS (p.409); OLS R2 is not a second estimator. No identifying FE or excluded IV instrument. Retain model-based risk-compensation interpretation, not predictor causality. Minimum narrative scope only; final Online Appendix unavailable; no inferred grid.",
+    "A3426": "TS6H62KJ",
+    "B3426": "h20",
+    "I3426": "1",
+    "J3426": "Other",
+    "K3426": "0",
+    "L3426": "0",
+    "M3426": "n/a",
+    "N3426": "PSS pricing with predicted covariance factor replacing MKT: replication of PCA omitted-factor procedure Table5, Online Appendix Section6, final p.413 footnote26.",
+    "O3426": "Distinct PCA method from conventional two-pass replication. Minimum implemented scope; latent-factor procedure is outcome-adaptive. No invented appendix panels or coefficients."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87486,7 +87495,11 @@
     "A7889": "TS6H62KJ",
     "B7889": "h19",
     "C7889": "hy1",
-    "K7889": "Average monthly excess returns of test portfolios in risk-pricing tests; exact appendix result grid unavailable."
+    "K7889": "Average monthly excess returns of test portfolios in risk-pricing tests; exact appendix result grid unavailable.",
+    "A7890": "TS6H62KJ",
+    "B7890": "h20",
+    "C7890": "hy1",
+    "K7890": "Average monthly excess returns of test portfolios in PCA-based risk-pricing tests; exact appendix grid unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
