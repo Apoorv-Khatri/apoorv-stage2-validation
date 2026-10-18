@@ -35696,7 +35696,16 @@
     "L3575": "1",
     "M3575": "single continuous",
     "N3575": "180-day SIC peer-increase share on proportional regular-cash-dividend payout change, Table 6B; 16%/33% per treatment SD.",
-    "O3575": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables."
+    "O3575": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables.",
+    "A3576": "WERKYTKC",
+    "B3576": "h6",
+    "I3576": "1",
+    "J3576": "IV",
+    "K3576": "0",
+    "L3576": "1",
+    "M3576": "single continuous",
+    "N3576": "Peer repurchase-DECREASE share in preceding quarter on own repurchase-decrease indicator, Table 9B / Eq.6; 10%/11%.",
+    "O3576": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables. Repurchase null is central in abstract/conclusion."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -90914,7 +90923,11 @@
     "A8165": "WERKYTKC",
     "B8165": "h5",
     "C8165": "hy1",
-    "K8165": "Dividend Payout Change = (RCD_t - RCD_t-1)/RCD_t-1 (Appendix A p.563). Table 6B caption says dividend yield change and prose says target payout ratio; actual panel label and definition specify proportional regular-cash-dividend change, not earnings-normalized payout ratio. No logarithm or own-outcome-mean standardization."
+    "K8165": "Dividend Payout Change = (RCD_t - RCD_t-1)/RCD_t-1 (Appendix A p.563). Table 6B caption says dividend yield change and prose says target payout ratio; actual panel label and definition specify proportional regular-cash-dividend change, not earnings-normalized payout ratio. No logarithm or own-outcome-mean standardization.",
+    "A8166": "WERKYTKC",
+    "B8166": "h6",
+    "C8166": "hy1",
+    "K8166": "Indicator equal to one if the firm decreases repurchases."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
