@@ -534087,3 +534087,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:29:03.409626+00:00 — Review RQV5GQTL s3: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1697",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1697",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1697",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1697",
+    "before": null,
+    "after": "duplicate of y1 and linked treatment-specific hy outcomes for TableVI under s2/s1 and h additions; parent sample split merged, not a spurious source outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I677",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O677",
+    "before": null,
+    "after": "Duplicate sample-variant setting: TableVI advisor/nonadvisor and long-only/hedge-fund columns are routine subsample variants at the same result location. Revenue and bid contrasts retained under s2/s1 and treatment-specific h additions for TableVI. This is not rejection of substantive heterogeneity or its comparisons. Source: pp2324–2327 TableVI; L1084–1209."
+  }
+]
+```
