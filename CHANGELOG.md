@@ -607401,3 +607401,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T19:55:41.057374+00:00 — Review XFGMHICU s2: source-audited coding and linked comparisons
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1989",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1990",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1991",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1989",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1990",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1991",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1989",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1990",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1991",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1989",
+    "before": null,
+    "after": "Pooled two-day risk-adjusted return in basis points; multiply second-event returns by -1. Continuous constructed signed-return outcome, not binary or outcome-SD units. Zero atom not established. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1990",
+    "before": null,
+    "after": "spurious as an outcome definition / inactive after scope correction: the estimated Treat coefficient is not a dependent variable. Actual two-day return is retained at h3/hy1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1991",
+    "before": null,
+    "after": "spurious as an outcome definition / inactive after scope correction: the estimated Treat coefficient is not a dependent variable. Actual two-day return is retained at h8/hy1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I814",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J814",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K814",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L814",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M814",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N814",
+    "before": null,
+    "after": "Binary late-meeting Delaware staggered-board firms versus January-March controls. Treat-1 September-December; Treat-2 July-December; Treat-3 Treat-2 excluding December per all captions (July-November); p.641 instead says June-November, unresolved printed conflict. Treat-1/2/3 are grouped alternative inclusion/threshold definitions of the same exposure, not continuous doses. Table 2 Treat column rows 1-21 (p.642): pooled Method 2 signed returns, market-cap screens and symmetric return trimming. Individual-event settings: h3 (October) and h8 (November)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O814",
+    "before": null,
+    "after": "No IV, actual randomized assignment, direct cutoff discontinuity, modern DiD or implemented conventional parallel-trends comparison is established. Event-window abnormal-return contrasts are not automatically DiD: returns are relative to factor-model expected returns, not a treated/control pre/post outcome-change comparison. Apply FE before OLS only where industry FE implement the explicit confounding-news rationale (pp.639,645-646). Factor controls are not FE; clustering is not absorption. Two nonconstant categorical dimensions (industry and event date); only industry is explicitly argued to remove confounding industry news. Below HDFE threshold. Main=1: Excluding small firms is explicitly the central critique (p.638); all Table2 variants including nulls materially address it. Treat1/2/3 retained as nested exposure-sample definitions, not different policy interventions. All insignificant and trimmed variants retained."
+  }
+]
+```
