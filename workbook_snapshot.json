@@ -35014,7 +35014,16 @@
     "L3514": "1",
     "M3514": "n/a",
     "N3514": "Unstable precrisis nonbank funding share effect on firm-level credit growth and exit, Table10.A/B columns7.",
-    "O3514": "Distinct total/stable/unstable exposure; stable null is central contrast, not supporting merely because insignificant. Firm exposure loan-value-weighted; loan exposure fraction of commitment. Industry dummies adjustment, same nonrandom supply-effect intention as s4."
+    "O3514": "Distinct total/stable/unstable exposure; stable null is central contrast, not supporting merely because insignificant. Firm exposure loan-value-weighted; loan exposure fraction of commitment. Industry dummies adjustment, same nonrandom supply-effect intention as s4.",
+    "A3515": "UUTLYHI2",
+    "B3515": "h21",
+    "I3515": "1",
+    "J3515": "OLS",
+    "K3515": "0",
+    "L3515": "1",
+    "M3515": "n/a",
+    "N3515": "Stable precrisis nonbank funding share effect on firm-level credit growth and exit, Table10.A/B columns7.",
+    "O3515": "Distinct total/stable/unstable exposure; stable null is central contrast, not supporting merely because insignificant. Firm exposure loan-value-weighted; loan exposure fraction of commitment. Industry dummies adjustment, same nonrandom supply-effect intention as s4."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89214,7 +89223,15 @@
     "A8038": "UUTLYHI2",
     "B8038": "h20",
     "C8038": "hy2",
-    "K8038": "Firm exit from SNC by2008Q4; firm exit requires all2006 loans exit and no new loans."
+    "K8038": "Firm exit from SNC by2008Q4; firm exit requires all2006 loans exit and no new loans.",
+    "A8039": "UUTLYHI2",
+    "B8039": "h21",
+    "C8039": "hy1",
+    "K8039": "Firm-level symmetric credit growth, difference2008Q4 minus2006Q4 divided by their average; firm credit sums term loans.",
+    "A8040": "UUTLYHI2",
+    "B8040": "h21",
+    "C8040": "hy2",
+    "K8040": "Firm exit from SNC by2008Q4; firm exit requires all2006 loans exit and no new loans."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

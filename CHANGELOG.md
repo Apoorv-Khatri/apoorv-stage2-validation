@@ -575541,3 +575541,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:43:17.341020+00:00 — Review UUTLYHI2 h21: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8039",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8040",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8039",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8040",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8039",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8040",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8039",
+    "before": null,
+    "after": "Firm-level symmetric credit growth, difference2008Q4 minus2006Q4 divided by their average; firm credit sums term loans."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8040",
+    "before": null,
+    "after": "Firm exit from SNC by2008Q4; firm exit requires all2006 loans exit and no new loans."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3515",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3515",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3515",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3515",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3515",
+    "before": null,
+    "after": "Stable precrisis nonbank funding share effect on firm-level credit growth and exit, Table10.A/B columns7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3515",
+    "before": null,
+    "after": "Distinct total/stable/unstable exposure; stable null is central contrast, not supporting merely because insignificant. Firm exposure loan-value-weighted; loan exposure fraction of commitment. Industry dummies adjustment, same nonrandom supply-effect intention as s4."
+  }
+]
+```
