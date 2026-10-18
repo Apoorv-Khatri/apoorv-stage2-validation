@@ -517806,3 +517806,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:59:15.574504+00:00 — Review QY4D7PCL h2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7484",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7484",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7484",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7484",
+    "before": null,
+    "after": "Monthly portfolio return; coefficients rescaled to annualized nine-decile high-low return equivalents. No log transformation of the outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3142",
+    "before": null,
+    "after": "QY4D7PCL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3142",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3142",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3142",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3142",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3142",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3142",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3142",
+    "before": null,
+    "after": "book-to-market average-decile dose coefficient in Table3A/B pooled portfolio-return regressions; univariate and jointly controlled specifications."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3142",
+    "before": null,
+    "after": "Author studies characteristic effects jointly (p928) and attributes disappearance of value/profitability premia to endogenous correlation with duration (p931). Include null conditional slopes. Same pooled OLS, no identifying FE; not a causal effect of adding a regression control. Growth/size are supporting competing-characteristic checks. Source: pp928–931 Table3; L681–738,802–874."
+  }
+]
+```
