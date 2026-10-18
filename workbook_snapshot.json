@@ -34085,7 +34085,16 @@
     "L3426": "0",
     "M3426": "n/a",
     "N3426": "PSS pricing with predicted covariance factor replacing MKT: replication of PCA omitted-factor procedure Table5, Online Appendix Section6, final p.413 footnote26.",
-    "O3426": "Distinct PCA method from conventional two-pass replication. Minimum implemented scope; latent-factor procedure is outcome-adaptive. No invented appendix panels or coefficients."
+    "O3426": "Distinct PCA method from conventional two-pass replication. Minimum implemented scope; latent-factor procedure is outcome-adaptive. No invented appendix panels or coefficients.",
+    "A3427": "TS6H62KJ",
+    "B3427": "h21",
+    "I3427": "1",
+    "J3427": "OLS",
+    "K3427": "1",
+    "L3427": "1",
+    "M3427": "n/a",
+    "N3427": "Historical covariance of stock return with squared market return, estimated using prior 60 monthly returns: bottom-30% minus top-30% value-weighted stock-return contrast, Table1 Monthly Cos row p.404, economic interpretation pp.403–406. Raw mean and CAPM/four-/five-factor adjusted mean contrasts grouped as routine factor controls at this result location; annualized mean 2.77%, alphas 1.03, 2.64, 3.22% respectively.",
+    "O3427": "Author-intention gate: p.403 Eq.1 implies positive average long-short return as compensation for systematic skewness; retain nulls equally. OLS mean/intercept contrasts conditional on lagged sorting weights and observed factor paths; no identifying FE or IV. Binary refers to implemented low-versus-high group contrast, not continuous coskewness. Not a causal effect of forecasting predictors or a portfolio-rule intervention. Main: introduction p.400 jointly motivates failure of historical measures and economically positive PSS premium; main status is not selected by significance."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87499,7 +87508,14 @@
     "A7890": "TS6H62KJ",
     "B7890": "h20",
     "C7890": "hy1",
-    "K7890": "Average monthly excess returns of test portfolios in PCA-based risk-pricing tests; exact appendix grid unavailable."
+    "K7890": "Average monthly excess returns of test portfolios in PCA-based risk-pricing tests; exact appendix grid unavailable.",
+    "A7891": "TS6H62KJ",
+    "B7891": "h21",
+    "C7891": "hy1",
+    "H7891": "0",
+    "I7891": "unknown",
+    "J7891": "none",
+    "K7891": "Monthly long-minus-short portfolio excess return for Monthly Cos, July1963–December2017; monthly returns, with mean and regression alpha displayed annualized in percent in Table1 p.404. Return spread is not a log return or a daily outcome; daily/monthly in historical row names denotes estimation inputs. Continuous return; zero mass not established. Alpha is the factor-adjusted contrast, not a separate measured dependent outcome. Annualization is a scalar reporting conversion, not a cumulative annual realization."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -145786,7 +145802,18 @@
     "O5233": "0",
     "P5233": "unknown",
     "Q5233": "Table6 PanelB, p.414, HighCos: High-Low raw monthly return -0.34 percentage points, deliberately alongside Small-size mean 0.79% per month; US stock portfolios July1963–December2017, value weights. Not a benchmark for CAPM alpha.",
-    "R5233": "Endpoint mean explicitly in same row as extreme-group contrast. No verbal effect/base normalization. Low-group observed mean is not established as untreated potential mean for the high-group or another stated causal target under the observational sort; target/weights needed for alignment are unresolved. Table caption says return, not explicitly excess return."
+    "R5233": "Endpoint mean explicitly in same row as extreme-group contrast. No verbal effect/base normalization. Low-group observed mean is not established as untreated potential mean for the high-group or another stated causal target under the observational sort; target/weights needed for alignment are unresolved. Table caption says return, not explicitly excess return.",
+    "A5234": "TS6H62KJ",
+    "B5234": "h21",
+    "C5234": "hc1",
+    "K5234": "1",
+    "L5234": "hy1",
+    "M5234": "outcome_sd",
+    "N5234": "0",
+    "O5234": "1",
+    "P5234": "1",
+    "Q5234": "Table1 p.404 Monthly Cos: annualized mean excess return 2.77%, own annualized volatility 12.24%, reported Sharpe 0.23. Monthly return series July1963–December2017, same long bottom30%/short top30% value-weighted portfolio and dates. Sharpe expressly normalizes the raw mean by own return volatility; not a normalization of alpha.",
+    "R5234": "Eligibility follows accepted economic long-short mean estimand; table explicitly supplies Sharpe, not an analyst-created division. Alignment=1 for the specified portfolio-spread return outcome and own series with matching stated annualized convention; not a stock-level outcome SD or untreated mean. This is annualized mean/volatility, not empirical SD of compounded annual returns. If target is instead underlying individual-stock potential returns, alignment would be unknown; that is not the coded outcome."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
