@@ -607647,3 +607647,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T19:56:25.412914+00:00 — Review XFGMHICU s4: source-audited coding and linked comparisons
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1995",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1996",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1997",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1995",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1996",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1997",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1995",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1996",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1997",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1995",
+    "before": null,
+    "after": "Pooled two-day risk-adjusted return in basis points; multiply second-event returns by -1. Continuous constructed signed-return outcome, not binary or outcome-SD units. Zero atom not established. Table4 GICS-4 rows1-3,7-9 only; no-industry-FE pool now h1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1996",
+    "before": null,
+    "after": "spurious as an outcome definition / inactive after scope correction: the estimated Treat coefficient is not a dependent variable. Actual two-day return is retained at h5/hy1. No-industry-FE event variant is h6/hy1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1997",
+    "before": null,
+    "after": "spurious as an outcome definition / inactive after scope correction: the estimated Treat coefficient is not a dependent variable. Actual two-day return is retained at h10/hy1. No-industry-FE event variant is h11/hy1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J816",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M816",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N816",
+    "before": null,
+    "after": "Binary late-meeting Delaware staggered-board firms versus January-March controls. Treat-1 September-December; Treat-2 July-December; Treat-3 Treat-2 excluding December per all captions (July-November); p.641 instead says June-November, unresolved printed conflict. Treat-1/2/3 are grouped alternative inclusion/threshold definitions of the same exposure, not continuous doses. Table 4 Treat column rows 1-3 and 7-9 only (p.646): pooled Method 2 signed returns with GICS-4 identifying industry FE, with/without trimming. No-industry-FE rows move to h1; individual-event columns to h5/h10 (GICS-4) and h6/h11 (no industry FE)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O816",
+    "before": null,
+    "after": "No IV, actual randomized assignment, direct cutoff discontinuity, modern DiD or implemented conventional parallel-trends comparison is established. Event-window abnormal-return contrasts are not automatically DiD: returns are relative to factor-model expected returns, not a treated/control pre/post outcome-change comparison. Apply FE before OLS only where industry FE implement the explicit confounding-news rationale (pp.639,645-646). Factor controls are not FE; clustering is not absorption. Two nonconstant categorical dimensions (industry and event date); only industry is explicitly argued to remove confounding industry news. Below HDFE threshold. Main=1: Industry-FE sensitivity is explicitly enumerated in the introduction (p.638) and affirmed in section5/conclusion; it is central, not supporting by table order. Treat1/2/3 retained as nested exposure-sample definitions, not different policy interventions. All insignificant and trimmed variants retained."
+  }
+]
+```
