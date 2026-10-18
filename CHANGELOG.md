@@ -554307,3 +554307,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:30:37.550417+00:00 — Review SFCSD6BA h13: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7838",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7838",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7838",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7838",
+    "before": null,
+    "after": "Indicator of ESPP participation in biannual window."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3382",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3382",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3382",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3382",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3382",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3382",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3382",
+    "before": null,
+    "after": "Peer participation instrumented using demographics excluding income instruments; implemented robustness reported in fn11."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3382",
+    "before": null,
+    "after": "At least age and gender office shares per baseline minus income; eight nonbinary shares => other. No inferred grid of other instrument subsets. Source: p149 footnote11."
+  }
+]
+```
