@@ -595887,3 +595887,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:12:34.214697+00:00 — Review WM5RSIHQ h14: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8209",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8209",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8209",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8209",
+    "before": null,
+    "after": "Forced CEO dismissal outcome; final prose establishes the turnover response, but exact estimator and reported outcome scale are unresolved. Do not assume a Cox hazard or logit probability."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3617",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3617",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3617",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3617",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3617",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3617",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3617",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3617",
+    "before": null,
+    "after": "Industry/peer performance effect on forced CEO turnover varying with CEO large equity stakes; final Section IV.D pp.2180–2181."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3617",
+    "before": null,
+    "after": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. Central CEO-power null in introduction pp.2157–2158. Dose remains continuous; final moderator threshold/scale and method unverified. Final p.2181 also mentions idiosyncratic slopes; minimum residual-performance family retained once in h19; exact allocation by proxy held, not silently duplicated."
+  }
+]
+```
