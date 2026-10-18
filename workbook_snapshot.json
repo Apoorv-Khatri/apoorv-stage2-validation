@@ -35041,7 +35041,16 @@
     "L3517": "1",
     "M3517": "n/a",
     "N3517": "Stable precrisis nonbank funding share effect on2007–2008 loan price change, Table11 columns5–8.",
-    "O3517": "Stable null and unstable decline jointly support main fragility conclusion;116/79-loan samples routine variants. No outcome benchmark for these coefficients; comparing −0.182 with −0.049 is effect versus effect, not other_level."
+    "O3517": "Stable null and unstable decline jointly support main fragility conclusion;116/79-loan samples routine variants. No outcome benchmark for these coefficients; comparing −0.182 with −0.049 is effect versus effect, not other_level.",
+    "A3518": "UUTLYHI2",
+    "B3518": "h24",
+    "I3518": "1",
+    "J3518": "FE",
+    "K3518": "1",
+    "L3518": "0",
+    "M3518": "n/a",
+    "N3518": "Lead-arranger status effect on loan sale, Table3 columns1–4.",
+    "O3518": "p.2206 explicitly interprets large negative effect of being lead arranger as relationship mechanism; not just unlabeled control. Bank + loan-year FE two dimensions. Lead indicator conditional contrast; no random assignment."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89257,7 +89266,14 @@
     "A8042": "UUTLYHI2",
     "B8042": "h23",
     "C8042": "hy1",
-    "K8042": "Loan price (average bid-ask midpoint); Table11 outcome is average2008 minus average2007, Figures4/5 display daily price levels."
+    "K8042": "Loan price (average bid-ask midpoint); Table11 outcome is average2008 minus average2007, Figures4/5 display daily price levels.",
+    "A8043": "UUTLYHI2",
+    "B8043": "h24",
+    "C8043": "hy1",
+    "H8043": "1",
+    "I8043": "1",
+    "J8043": "none",
+    "K8043": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
