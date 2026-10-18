@@ -33447,7 +33447,16 @@
     "L3383": "0",
     "M3383": "n/a",
     "N3383": "Peer participation after excluding demographic-outlier offices; Figure1 panelA, 19 sample variants grouped.",
-    "O3383": "Two identifying FE: firm-month and CBSA-month. Peer rate is continuous; binary moderator does not make this peer-dose estimand binary. Preserve null and negative interaction estimates. Routine sample variants grouped. Baseline horizontal coefficient lines are other effects, not outcome-level benchmarks. Source: pp150–153 Figure1, fn13–14."
+    "O3383": "Two identifying FE: firm-month and CBSA-month. Peer rate is continuous; binary moderator does not make this peer-dose estimand binary. Preserve null and negative interaction estimates. Routine sample variants grouped. Baseline horizontal coefficient lines are other effects, not outcome-level benchmarks. Source: pp150–153 Figure1, fn13–14.",
+    "A3384": "SFCSD6BA",
+    "B3384": "h15",
+    "I3384": "1",
+    "J3384": "IV",
+    "K3384": "0",
+    "L3384": "0",
+    "M3384": "other",
+    "N3384": "Peer participation after excluding demographic-outlier offices; Figure1 panelB, 19 sample variants grouped.",
+    "O3384": "Two identifying FE: firm-month and CBSA-month. Peer rate is continuous; binary moderator does not make this peer-dose estimand binary. Preserve null and negative interaction estimates. Routine sample variants grouped. Baseline horizontal coefficient lines are other effects, not outcome-level benchmarks. Source: pp150–153 Figure1, fn13–14."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86489,7 +86498,11 @@
     "A7839": "SFCSD6BA",
     "B7839": "h14",
     "C7839": "hy1",
-    "K7839": "Indicator of ESPP participation in biannual window."
+    "K7839": "Indicator of ESPP participation in biannual window.",
+    "A7840": "SFCSD6BA",
+    "B7840": "h15",
+    "C7840": "hy1",
+    "K7840": "Indicator of ESPP participation in biannual window."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
