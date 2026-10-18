@@ -511527,3 +511527,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:03:15.078635+00:00 — Review QCQ3E8DE h13: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7463",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7463",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7463",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7463",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7463",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7463",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7463",
+    "before": null,
+    "after": "Monthly return on50–50 WML/HML-devil portfolio; TableB1. Conditional alpha14.08 and panic-premium coefficient-11.13 annualized percent with market controls (col8); no-market col7 alpha13.41, coefficient-12.01. Continuous outcome; zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3134",
+    "before": null,
+    "after": "QCQ3E8DE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3134",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3134",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3134",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3134",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3134",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3134",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3134",
+    "before": null,
+    "after": "Fixed switch from WML alone to50% WML+50% HML-devil allocation. TableB1 cols7–8 and AppendixB explicitly evaluate hedging panic-state risk; equal-dollar rather than equal-risk allocation. Combination still has negative panic premium and beta change. Do not treat market-state correlations of HML or SMB as interventions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3134",
+    "before": null,
+    "after": "Fixed equal-dollar allocation is linear in underlying monthly returns. TableB1 cols7–8 uses linear regression adjustment with optional market controls; no outcome-adaptive weight selection or nonlinear focal estimator. Price-taking policy interpretation and no-cost assumptions retained. Source: AppendixB TableB1 cols7–8 pp244–245; footnote20."
+  }
+]
+```

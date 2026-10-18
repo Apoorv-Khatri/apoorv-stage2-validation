@@ -30705,7 +30705,16 @@
     "L3133": "1",
     "M3133": "n/a",
     "N3133": "Constant-volatility rule performance across markets, Table11B rows cvol on WML and cvol on dyn, including comparisons with starred dynamic composites. Preserve nonsignificant fixed-income/Japan and null reverse-spanning results.",
-    "O3133": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section5.4 Table11B pp241–242."
+    "O3133": "Implemented rule-versus-benchmark contrasts are binary policy choices, even though each rule internally produces continuously varying portfolio weights. Other codes the full nonlinear/adaptive portfolio-performance procedure; no effect of changing an arbitrary scalar weight is estimated. Price-taking, fixed realized paths and no transaction costs are maintained. Source: Section5.4 Table11B pp241–242.",
+    "A3134": "QCQ3E8DE",
+    "B3134": "h13",
+    "I3134": "1",
+    "J3134": "OLS",
+    "K3134": "1",
+    "L3134": "0",
+    "M3134": "n/a",
+    "N3134": "Fixed switch from WML alone to50% WML+50% HML-devil allocation. TableB1 cols7–8 and AppendixB explicitly evaluate hedging panic-state risk; equal-dollar rather than equal-risk allocation. Combination still has negative panic premium and beta change. Do not treat market-state correlations of HML or SMB as interventions.",
+    "O3134": "Fixed equal-dollar allocation is linear in underlying monthly returns. TableB1 cols7–8 uses linear regression adjustment with optional market controls; no outcome-adaptive weight selection or nonlinear focal estimator. Price-taking policy interpretation and no-cost assumptions retained. Source: AppendixB TableB1 cols7–8 pp244–245; footnote20."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80842,7 +80851,14 @@
     "H7462": "0",
     "I7462": "unknown",
     "J7462": "none",
-    "K7462": "Annualized spanning-regression alpha (percentage return/year), with factor/strategy benchmark specification retained in setting; Section5.4 Table11B pp241–242"
+    "K7462": "Annualized spanning-regression alpha (percentage return/year), with factor/strategy benchmark specification retained in setting; Section5.4 Table11B pp241–242",
+    "A7463": "QCQ3E8DE",
+    "B7463": "h13",
+    "C7463": "hy1",
+    "H7463": "0",
+    "I7463": "unknown",
+    "J7463": "none",
+    "K7463": "Monthly return on50–50 WML/HML-devil portfolio; TableB1. Conditional alpha14.08 and panic-premium coefficient-11.13 annualized percent with market controls (col8); no-market col7 alpha13.41, coefficient-12.01. Continuous outcome; zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
