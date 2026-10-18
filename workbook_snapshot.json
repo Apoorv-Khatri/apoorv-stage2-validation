@@ -35203,7 +35203,16 @@
     "L3535": "0",
     "M3535": "n/a",
     "N3535": "equally weighted mean syndicate Basel III Tier1 shortfall effect on nonbank share change,IA.XIII.D.",
-    "O3535": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote36 and appendix caption establish change outcome; visually verified panelD heading includes delta (lost by text extraction). Same conventional DiD as Table8. Distinct aggregated treatment, no exact publisher final numerical claim."
+    "O3535": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote36 and appendix caption establish change outcome; visually verified panelD heading includes delta (lost by text extraction). Same conventional DiD as Table8. Distinct aggregated treatment, no exact publisher final numerical claim.",
+    "A3536": "UUTLYHI2",
+    "B3536": "h42",
+    "I3536": "1",
+    "J3536": "DiD_conventional",
+    "K3536": "0",
+    "L3536": "0",
+    "M3536": "n/a",
+    "N3536": "loan-value-weighted mean syndicate Basel III Tier1 shortfall effect on nonbank share change,IA.XIII.D.",
+    "O3536": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote36 and appendix caption establish change outcome; visually verified panelD heading includes delta (lost by text extraction). Same conventional DiD as Table8. Distinct aggregated treatment, no exact publisher final numerical claim."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89494,7 +89503,11 @@
     "A8060": "UUTLYHI2",
     "B8060": "h41",
     "C8060": "hy1",
-    "K8060": "Change in syndicate nonbank share around announcement; IA.XIII.D delta visually verified despite missing extracted symbol."
+    "K8060": "Change in syndicate nonbank share around announcement; IA.XIII.D delta visually verified despite missing extracted symbol.",
+    "A8061": "UUTLYHI2",
+    "B8061": "h42",
+    "C8061": "hy1",
+    "K8061": "Change in syndicate nonbank share around announcement; IA.XIII.D delta visually verified despite missing extracted symbol."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
