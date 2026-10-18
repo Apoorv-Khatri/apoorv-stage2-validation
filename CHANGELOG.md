@@ -566142,3 +566142,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T15:34:55.292333+00:00 — Review UK6BI2QX h9: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7920",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7921",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7922",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7923",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7920",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7921",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7922",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7923",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7920",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7921",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7922",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7923",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7920",
+    "before": null,
+    "after": "Indicator equal to 1 if the firm simultaneously has positive net equity repurchases and positive net debt issuance in the same quarter: 1{S_it > 0, D_it > 0}."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7921",
+    "before": null,
+    "after": "Indicator equal to 1 if the firm simultaneously has negative net equity repurchases (i.e., net equity issuance) and negative net debt issuance (i.e., net debt retirement) in the same quarter: 1{S_it < 0, D_it < 0}."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7922",
+    "before": null,
+    "after": "Indicator equal to 1 if the firm repurchases more equity than its own average and issues more debt than its own average in the same quarter: 1{S_it > Sbar_i, D_it > Dbar_i}."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7923",
+    "before": null,
+    "after": "Indicator equal to 1 if the firm issues more equity than its own average and retires more debt than its own average in the same quarter: 1{S_it < Sbar_i, D_it < Dbar_i}."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3444",
+    "before": null,
+    "after": "UK6BI2QX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3444",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3444",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3444",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3444",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3444",
+    "before": null,
+    "after": "Lagged firm-level term premium effect on four simultaneous financing indicators; Table IV.A/B, columns 2/5. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3444",
+    "before": null,
+    "after": "Nonlinear logit is Other despite one firm FE dimension; causal response of financing to relative valuations, pp.3065–3068. Treatment continuous, outcomes binary. Odds multipliers 1.2/1.1 are not outcome-mean/SD comparisons; Table IA8 LPM comparison cannot be transferred here."
+  }
+]
+```
