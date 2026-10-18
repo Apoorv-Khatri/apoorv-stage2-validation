@@ -593187,3 +593187,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:49:42.067487+00:00 — Review WERKYTKC h31: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8191",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8191",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8191",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8191",
+    "before": null,
+    "after": "Own dividend-decrease indicator, TableC.2B check2. AppendixA prints decrease threshold <=positive1%; actual threshold unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3601",
+    "before": null,
+    "after": "WERKYTKC"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3601",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3601",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3601",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3601",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3601",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3601",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3601",
+    "before": null,
+    "after": "Dividend tax rate included-regressor coefficient on own dividend-decrease indicator, TableC.2B check2; estimates 0%/0%. Separate treatment parameter in the implemented joint linear IV equation, not a new regression."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3601",
+    "before": null,
+    "after": "Author-intention gate: pp.552,556 identify these as dividend determinants and discuss substantive effects/ranking, including nulls; C.1 pp.565-566 explicitly considers taxes/catering inducing dividend decisions. Included controls are not automatically excluded. Actual estimator is joint 2SLS/IV, with peer share endogenous and average peer idiosyncratic equity risk the sole excluded instrument. The focal included regressor is NOT instrumented by peer risk; its coefficient additionally relies on maintained included-regressor exogeneity. Method IV describes the implemented joint estimator, not a focal-treatment instrument or LATE. No unseen OLS/FE re-estimation inferred. Firm/time FE (firm only when time-only determinants replace time FE) remain subordinate to the implemented IV equation. Time FE removed to estimate the time-only determinant; firm FE retained. Tax rate/valuation-premium measure is a dose, not an implemented 2003 binary policy contrast; no DiD design claimed. Peer-share coefficient already covered by h14/h15. No linked outcome benchmark."
+  }
+]
+```
