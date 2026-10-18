@@ -513315,3 +513315,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:26:42.241250+00:00 — Review QLFZQVZU h1: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7478",
+    "before": null,
+    "after": "QLFZQVZU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7479",
+    "before": null,
+    "after": "QLFZQVZU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7478",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7479",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7478",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7479",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7478",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7479",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7478",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7479",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7478",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7479",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7478",
+    "before": null,
+    "after": "HML average factor-return premium under the two universe rules; post-exclusion value 23 basis points. Footnote16 does not explicitly label the horizon of these numbers; monthly series in Table4 methodology. No numerical return difference reconstructed. Source: p241 footnote16. No point mass at zero is established by the reported summary statistics."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7479",
+    "before": null,
+    "after": "HML_RE average factor-return premium under the two universe rules; post-exclusion value 31 basis points. Footnote16 does not explicitly label the horizon of these numbers; monthly series in Table4 methodology. No numerical return difference reconstructed. Source: p241 footnote16. No point mass at zero is established by the reported summary statistics."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3139",
+    "before": null,
+    "after": "QLFZQVZU"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3139",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3139",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3139",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3139",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3139",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3139",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3139",
+    "before": null,
+    "after": "Exclude versus retain small-growth stocks (the small-growth corner of the 25 Fama–French portfolios), then reform HML and HML_RE by the same six-portfolio methodology. Outcomes: average factor-return premiums for HML and HML_RE, reported as 23 and 31 basis points after exclusion (t=2.28 and 2.85). Footnote16, p241."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3139",
+    "before": null,
+    "after": "Linear portfolio-return recomputation and time averaging; the difference between two prespecified construction rules is a linear contrast in underlying stock returns, within OLS/regression-adjustment taxonomy, not automatically Other or Matching. No treatment regression is claimed. Footnote does not print the return changes or explicitly label the 23/31 basis-point horizon; surrounding methodology is monthly, while the next sentence discusses annualized significance. Preserve that ambiguity rather than silently annualizing. Historical rule recomputation on the same stock-return history. Interpret as a price-taking, gross-of-unreported-trading/shorting-costs portfolio construction effect, not an effect on firms or equilibrium prices. Exclusion changes holdings and reweights remaining stocks; the underlying stock-return path, NOT portfolio holdings, is held fixed. The authors explicitly attribute changed performance to removing the small-growth corner of the 25 Fama–French portfolios. Source: p241 footnote16, Table4 context; article.txt L814–830."
+  }
+]
+```

@@ -30781,7 +30781,16 @@
     "L3138": "0",
     "M3138": "n/a",
     "N3138": "Switch from market-only investment to ex post optimal combination of market and WML. Section2.2 explicitly reports combination Sharpe more than double market Sharpe. Full1927:01–2013:03 context; infeasible ex post optimization is a performance upper-bound, not implementable investor evidence.",
-    "O3138": "Explicitly recombines fixed return paths and attributes greater Sharpe to optimal combination. Nonlinear, outcome-adaptive optimization; price-taking, no-cost interpretation. Unlike descriptive decile comparisons, a changed allocation rule is stated. Source: p224 Section2.2 last paragraph."
+    "O3138": "Explicitly recombines fixed return paths and attributes greater Sharpe to optimal combination. Nonlinear, outcome-adaptive optimization; price-taking, no-cost interpretation. Unlike descriptive decile comparisons, a changed allocation rule is stated. Source: p224 Section2.2 last paragraph.",
+    "A3139": "QLFZQVZU",
+    "B3139": "h1",
+    "I3139": "1",
+    "J3139": "OLS",
+    "K3139": "1",
+    "L3139": "0",
+    "M3139": "n/a",
+    "N3139": "Exclude versus retain small-growth stocks (the small-growth corner of the 25 Fama–French portfolios), then reform HML and HML_RE by the same six-portfolio methodology. Outcomes: average factor-return premiums for HML and HML_RE, reported as 23 and 31 basis points after exclusion (t=2.28 and 2.85). Footnote16, p241.",
+    "O3139": "Linear portfolio-return recomputation and time averaging; the difference between two prespecified construction rules is a linear contrast in underlying stock returns, within OLS/regression-adjustment taxonomy, not automatically Other or Matching. No treatment regression is claimed. Footnote does not print the return changes or explicitly label the 23/31 basis-point horizon; surrounding methodology is monthly, while the next sentence discusses annualized significance. Preserve that ambiguity rather than silently annualizing. Historical rule recomputation on the same stock-return history. Interpret as a price-taking, gross-of-unreported-trading/shorting-costs portfolio construction effect, not an effect on firms or equilibrium prices. Exclusion changes holdings and reweights remaining stocks; the underlying stock-return path, NOT portfolio holdings, is held fixed. The authors explicitly attribute changed performance to removing the small-growth corner of the 25 Fama–French portfolios. Source: p241 footnote16, Table4 context; article.txt L814–830."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -81099,7 +81108,21 @@
     "H7477": "0",
     "I7477": "unknown",
     "J7477": "none",
-    "K7477": "Annualized Sharpe ratio of ex post optimal market-plus-WML combination, Section2.2 p224. Ratio itself is the measured policy outcome, not return-effect normalization."
+    "K7477": "Annualized Sharpe ratio of ex post optimal market-plus-WML combination, Section2.2 p224. Ratio itself is the measured policy outcome, not return-effect normalization.",
+    "A7478": "QLFZQVZU",
+    "B7478": "h1",
+    "C7478": "hy1",
+    "H7478": "0",
+    "I7478": "unknown",
+    "J7478": "none",
+    "K7478": "HML average factor-return premium under the two universe rules; post-exclusion value 23 basis points. Footnote16 does not explicitly label the horizon of these numbers; monthly series in Table4 methodology. No numerical return difference reconstructed. Source: p241 footnote16. No point mass at zero is established by the reported summary statistics.",
+    "A7479": "QLFZQVZU",
+    "B7479": "h1",
+    "C7479": "hy2",
+    "H7479": "0",
+    "I7479": "unknown",
+    "J7479": "none",
+    "K7479": "HML_RE average factor-return premium under the two universe rules; post-exclusion value 31 basis points. Footnote16 does not explicitly label the horizon of these numbers; monthly series in Table4 methodology. No numerical return difference reconstructed. Source: p241 footnote16. No point mass at zero is established by the reported summary statistics."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
