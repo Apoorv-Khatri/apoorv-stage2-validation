@@ -569925,3 +569925,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:03:47.629662+00:00 — Review UTRUH2FR s6: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1832",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1832",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1832",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1832",
+    "before": null,
+    "after": "Same party reelected in 2008; Table8 caption says same party as elected in 2002, while election-cycle context elsewhere says 2001. Do not silently repair source year. Both reelection outcomes occur in estimable probit sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J760",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M760",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N760",
+    "before": null,
+    "after": "Structured-loan use 2002–2007 effect on incumbent-party reelection, Table8 column4 probit with instrumented usage from first-stage probit on distance to nearest Dexia branch."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O760",
+    "before": null,
+    "after": "Other: nonlinear probit outcome, not linear IV. Exactly one nonbinary excluded distance variable in the described design; n/a IV-type field because method Other. Binary receipt, not continuous fitted propensity. Branch and population brackets are two FE sets; no HDFE. Caption says elected in 2002 despite other election timing; preserve inconsistency, define same party reelected 2008 without silently correcting year."
+  }
+]
+```
