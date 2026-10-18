@@ -546651,3 +546651,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:10:49.363321+00:00 — Review RQV5GQTL h112: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7739",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7739",
+    "before": null,
+    "after": "h112"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7739",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7739",
+    "before": null,
+    "after": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3336",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3336",
+    "before": null,
+    "after": "h112"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3336",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3336",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3336",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3336",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3336",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3336",
+    "before": null,
+    "after": "Revenue timing variant using year before IPO; qualitative allocation coefficients significant. Provisional minimum-scope appendix family, not an exact setting count."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3336",
+    "before": null,
+    "after": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. Final text establishes implemented result but not appendix method battery/column mapping; do not assume FE/HDFE, quartile indicator contrasts or coefficients. Main-versus-supporting judged as robustness of revenue findings, not from appendix placement. Source: p2330 TableIA.VII reference; L1314–1330."
+  }
+]
+```
