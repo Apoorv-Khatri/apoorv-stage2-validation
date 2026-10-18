@@ -549603,3 +549603,270 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:53:51.631531+00:00 — Review S9LRTRJP s6: source-audited coding and linked comparisons
+
+43 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K396",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K397",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K398",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K399",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L396",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L397",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L398",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L399",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M396",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M397",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M398",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M399",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N396",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N397",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N398",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N399",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O396",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O397",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O398",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O399",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P396",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P397",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P398",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P399",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q396",
+    "before": null,
+    "after": "Table6 p13, pre-COVID non-minority: printed timely-minus-defaulting Difference=−0.054, timely mean=0.038, defaulting mean=0.092. Section7 p12 explicitly compares firing to baseline breakage for non-defaulting customers; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q397",
+    "before": null,
+    "after": "Table6 p13, pre-COVID minority: printed timely-minus-defaulting Difference=−0.081, timely mean=0.038, defaulting mean=0.119. Section7 p12 explicitly compares firing to baseline breakage for non-defaulting customers; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q398",
+    "before": null,
+    "after": "Table6 p13, COVID non-minority: printed timely-minus-defaulting Difference=−0.003, timely mean=0.290, defaulting mean=0.293. Section7 p12 explicitly compares firing to baseline breakage for non-defaulting customers; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q399",
+    "before": null,
+    "after": "Table6 p13, COVID minority: printed timely-minus-defaulting Difference=0.002, timely mean=0.282, defaulting mean=0.280. Section7 p12 explicitly compares firing to baseline breakage for non-defaulting customers; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R396",
+    "before": null,
+    "after": "Model direction is reversed: printed difference is timely minus defaulting, not defaulting minus timely. Probability is an outcome mean, not other_level. Observed timely-group baseline is stated; no target-population counterfactual equality/weights established, so alignment unknown rather than assumed from shared table. Verbal comparison applies to all four groups, including COVID nulls."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R397",
+    "before": null,
+    "after": "Model direction is reversed: printed difference is timely minus defaulting, not defaulting minus timely. Probability is an outcome mean, not other_level. Observed timely-group baseline is stated; no target-population counterfactual equality/weights established, so alignment unknown rather than assumed from shared table. Verbal comparison applies to all four groups, including COVID nulls."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R398",
+    "before": null,
+    "after": "Model direction is reversed: printed difference is timely minus defaulting, not defaulting minus timely. Probability is an outcome mean, not other_level. Observed timely-group baseline is stated; no target-population counterfactual equality/weights established, so alignment unknown rather than assumed from shared table. Verbal comparison applies to all four groups, including COVID nulls."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R399",
+    "before": null,
+    "after": "Model direction is reversed: printed difference is timely minus defaulting, not defaulting minus timely. Probability is an outcome mean, not other_level. Observed timely-group baseline is stated; no target-population counterfactual equality/weights established, so alignment unknown rather than assumed from shared table. Verbal comparison applies to all four groups, including COVID nulls."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1730",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1730",
+    "before": null,
+    "after": "Binary indicator of no longer transacting within t+6; reported averages are probabilities, not a continuous probability dependent variable. Table6 interior probabilities establish both zero and one realizations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I697",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J697",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K697",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L697",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M697",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N697",
+    "before": null,
+    "after": "Defaulting versus timely customer payment status and subsequent six-month relationship termination; Table6 four period×supplier-demographic sample contrasts. Preserve printed timely-minus-defaulting difference orientation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O697",
+    "before": null,
+    "after": "Author-intention gate retains suggestive punishment interpretation (intro p3 and Section7), despite explicit inability to identify who terminated or why. Plain linear mean contrasts, not a fitted DiD: period/sample splits alone do not implement DiD. Central mechanism corroboration in introduction makes main=1, including COVID nulls. No FE. Preperiod transactions end August2019 so follow-up ends before COVID. Source: Article pp3,12–13 Section7 Table6 footnotes20–21."
+  }
+]
+```
