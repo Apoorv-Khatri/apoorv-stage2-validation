@@ -547314,3 +547314,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:31:10.775314+00:00 — Review S3X8G9NP s8: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K392",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K393",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q392",
+    "before": null,
+    "after": "p214: 8.3-point treatment SD yields 3.3 percentage-point ownership increase. No outcome mean/SD/level benchmark. Percent wording does not establish division by an outcome baseline."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q393",
+    "before": null,
+    "after": "Conclusion p215: 8.9-percentage-point counterfactual effect only. No stated outcome-level benchmark, no normalization. Not a qualifying comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R392",
+    "before": null,
+    "after": "p214: 8.3-point treatment SD yields 3.3 percentage-point ownership increase. No outcome mean/SD/level benchmark. Percent wording does not establish division by an outcome baseline."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R393",
+    "before": null,
+    "after": "Conclusion p215: 8.9-percentage-point counterfactual effect only. No stated outcome-level benchmark, no normalization. Not a qualifying comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1719",
+    "before": null,
+    "after": "Individual stock-or-bond ownership indicator. Source date conflict: data section/references 1937–1938, Table7 caption 1935–1938. Original outcome retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I691",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J691",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K691",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L691",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M691",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N691",
+    "before": null,
+    "after": "State Fourth Liberty Bond subscription rate effect on individual stock-or-bond ownership, 2SLS Table7 col2 / Eq6A. Single excluded binary instrument: allotment-system use. Alternative difference/switch IV belongs to h7; third-issue coefficient in joint IV equation belongs to h8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O691",
+    "before": null,
+    "after": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Column2 IV, single binary excluded allotment indicator, continuous receipt. Table7 has four columns: prose references to columns4/5 for alternative OLS/IV are inconsistent; actual table places them in cols3/4. Weak instrument concern is not a gate exclusion. Source: Table7 col2 / Eq6A, pp213–214; layout L1078–1185."
+  }
+]
+```
