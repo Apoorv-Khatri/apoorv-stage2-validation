@@ -531834,3 +531834,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T10:25:50.473495+00:00 — Review RMH5X4LW s1: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1668",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1669",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1668",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1669",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1668",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1669",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1668",
+    "before": null,
+    "after": "spurious: parent s1 is a specification/inference exercise, not a causal setting; retain original model definition unchanged."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1669",
+    "before": null,
+    "after": "spurious: parent s1 is a specification/inference exercise, not a causal setting; retain original model definition unchanged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I658",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O658",
+    "before": null,
+    "after": "Spurious causal setting: Table 1 d=1, p345: durable coefficient 92.229 (p=0.035) is reported as a price-of-risk estimate, the strongest inclusion argument. But Sections 3 and 5.1 use it to evaluate admissible pricing restrictions and compare dimensionality, not to interpret a change in consumption as changing returns. The later rejection of its economic interpretation is corroborating evidence, not an identification-quality veto. Structural effects and substantive causal nulls would qualify; neither a policy intervention nor strong identification is required by the gate. Source: Table 1 d=1, journal p345/PDF8; main layout L552–622."
+  }
+]
+```
