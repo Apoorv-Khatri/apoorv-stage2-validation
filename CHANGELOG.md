@@ -525789,3 +525789,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T08:57:35.438243+00:00 — Review RDVTTVCR s12: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K1653",
+    "before": null,
+    "after": "Log difference of employment or sales as defined in Table1; growth rate itself is not logged. Same-outcome growth-SD comparisons qualify."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1655",
+    "before": null,
+    "after": "Log difference of employment or sales as defined in Table1; growth rate itself is not logged. Same-outcome growth-SD comparisons qualify."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I655",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J655",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K655",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L655",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M655",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N655",
+    "before": null,
+    "after": "Continuous Indirect GIIPS Sov Risk and six financial/real outcomes, Table6 panel C; non-GIIPS firms without GIIPS or other non-EU subsidiaries, nontradable-sector subsample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O655",
+    "before": null,
+    "after": "Eqs4–5 pp2879–2880 establish identifying roles: firm FE absorb fixed firm heterogeneity, industry×country×year FE absorb local industry demand, foreign-bank-GIIPS-country×year FE address firms' geographic business exposure. Three nonredundant FE batteries: HDFE. Table4 credit-line columns replace industry×country×year with country×year, retaining three. Continuous time-varying lender risk, not a treated/post interaction and not IV. Frozen 2009 loan/syndicate weights mitigate rematching. Table6 explicitly includes firm, industry×time, foreign-GIIPS-bank-country×time: three identifying batteries. Industry×time is not nested in a country×time battery here. No IV from bank M&A; the acquisitions restrict sample links, not instrument risk. Retain the substantive null among GIIPS-exposed borrowers in panelD; do not discard for insignificance. Source: pp2886–2890 Table6 panel C; L1846–2114."
+  }
+]
+```
