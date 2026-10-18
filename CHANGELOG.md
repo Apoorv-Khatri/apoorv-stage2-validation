@@ -601188,3 +601188,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:45:37.057749+00:00 — Review WZZQX3TX h4: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5354",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5354",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5354",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5354",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5354",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5354",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5354",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5354",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5354",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5354",
+    "before": null,
+    "after": "Table III panel B column 2: coefficient 0.34, marginal effect at mean 2.17 directors. Eq.(3) discussion p.2396 defines beta × outcome mean; full-sample level mean 6.39 (rounded 6.4) (Table I), explicitly confirmed p.2402 for baseline. Multiplication, not division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5354",
+    "before": null,
+    "after": "Deliberate same-outcome level-mean conversion qualifies; multiplication, not division. Full-sample mixed-exposure level mean does not represent the local untreated cutoff target. FD uses a differenced transformed outcome with a level-mean conversion, not an aligned growth-rate mean. Preserve distinct coefficients by column even where rounding coincides."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8230",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8230",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8230",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8230",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8230",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8230",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8230",
+    "before": null,
+    "after": "First difference of log independent director count."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3625",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3625",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3625",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3625",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3625",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3625",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3625",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3625",
+    "before": null,
+    "after": "First implied covenant violation in t−2 on independent director count, Table III B column 2; first differences."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3625",
+    "before": null,
+    "after": "RD precedence: equation (3) implements a direct discontinuity at binding distance zero with side-specific polynomials in a narrow window. Firm/year FE address selection and heterogeneity but do not override the implemented cutoff design (prompt lines24,30,41). No instrumented receipt. Keep authors’ manipulation, heterogeneous thresholds and switcher-target limitations; this taxonomy does not assert random crossing. First-differenced implementation retained separately for its reported outcome scale and estimator, not an independent FE design. Underlying binary cutoff exposure; first differencing the regressor does not change that binary intervention."
+  }
+]
+```

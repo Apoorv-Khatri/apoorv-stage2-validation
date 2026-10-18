@@ -36239,7 +36239,16 @@
     "L3624": "1",
     "M3624": "n/a",
     "N3624": "First implied covenant violation on log independent director count; Table III B columns1 and3, direct local cutoff regression with and without firm FE.",
-    "O3624": "RD precedence: equation (3) implements a direct discontinuity at binding distance zero with side-specific polynomials in a narrow window. Firm/year FE address selection and heterogeneity but do not override the implemented cutoff design (prompt lines24,30,41). No instrumented receipt. Keep authors’ manipulation, heterogeneous thresholds and switcher-target limitations; this taxonomy does not assert random crossing. Level-log implementations with and without firm FE grouped as control variants; their distinct estimates/comparisons preserved. First violations retain pre-first observations and first event; new violations exclude repeated v(t)=1 with v(t−1)≠0 (visually verified p.2404). Not an absorbing TWFE treatment."
+    "O3624": "RD precedence: equation (3) implements a direct discontinuity at binding distance zero with side-specific polynomials in a narrow window. Firm/year FE address selection and heterogeneity but do not override the implemented cutoff design (prompt lines24,30,41). No instrumented receipt. Keep authors’ manipulation, heterogeneous thresholds and switcher-target limitations; this taxonomy does not assert random crossing. Level-log implementations with and without firm FE grouped as control variants; their distinct estimates/comparisons preserved. First violations retain pre-first observations and first event; new violations exclude repeated v(t)=1 with v(t−1)≠0 (visually verified p.2404). Not an absorbing TWFE treatment.",
+    "A3625": "WZZQX3TX",
+    "B3625": "h4",
+    "I3625": "1",
+    "J3625": "RD",
+    "K3625": "1",
+    "L3625": "1",
+    "M3625": "n/a",
+    "N3625": "First implied covenant violation in t−2 on independent director count, Table III B column 2; first differences.",
+    "O3625": "RD precedence: equation (3) implements a direct discontinuity at binding distance zero with side-specific polynomials in a narrow window. Firm/year FE address selection and heterogeneity but do not override the implemented cutoff design (prompt lines24,30,41). No instrumented receipt. Keep authors’ manipulation, heterogeneous thresholds and switcher-target limitations; this taxonomy does not assert random crossing. First-differenced implementation retained separately for its reported outcome scale and estimator, not an independent FE design. Underlying binary cutoff exposure; first differencing the regressor does not change that binary intervention."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91843,7 +91852,14 @@
     "H8229": "0",
     "I8229": "unknown",
     "J8229": "log",
-    "K8229": "Log independent director count."
+    "K8229": "Log independent director count.",
+    "A8230": "WZZQX3TX",
+    "B8230": "h4",
+    "C8230": "hy1",
+    "H8230": "0",
+    "I8230": "unknown",
+    "J8230": "other",
+    "K8230": "First difference of log independent director count."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -151746,7 +151762,18 @@
     "O5353": "0",
     "P5353": "0",
     "Q5353": "Table III panel B column 3: coefficient 0.34, marginal effect at mean 2.17 directors. Eq.(3) discussion p.2396 defines beta × outcome mean; full-sample level mean 6.39 (rounded 6.4) (Table I), explicitly confirmed p.2402 for baseline. Multiplication, not division.",
-    "R5353": "Deliberate same-outcome level-mean conversion qualifies; multiplication, not division. Full-sample mixed-exposure level mean does not represent the local untreated cutoff target. FD uses a differenced transformed outcome with a level-mean conversion, not an aligned growth-rate mean. Preserve distinct coefficients by column even where rounding coincides."
+    "R5353": "Deliberate same-outcome level-mean conversion qualifies; multiplication, not division. Full-sample mixed-exposure level mean does not represent the local untreated cutoff target. FD uses a differenced transformed outcome with a level-mean conversion, not an aligned growth-rate mean. Preserve distinct coefficients by column even where rounding coincides.",
+    "A5354": "WZZQX3TX",
+    "B5354": "h4",
+    "C5354": "hc1",
+    "K5354": "1",
+    "L5354": "hy1",
+    "M5354": "outcome_mean",
+    "N5354": "1",
+    "O5354": "0",
+    "P5354": "0",
+    "Q5354": "Table III panel B column 2: coefficient 0.34, marginal effect at mean 2.17 directors. Eq.(3) discussion p.2396 defines beta × outcome mean; full-sample level mean 6.39 (rounded 6.4) (Table I), explicitly confirmed p.2402 for baseline. Multiplication, not division.",
+    "R5354": "Deliberate same-outcome level-mean conversion qualifies; multiplication, not division. Full-sample mixed-exposure level mean does not represent the local untreated cutoff target. FD uses a differenced transformed outcome with a level-mean conversion, not an aligned growth-rate mean. Preserve distinct coefficients by column even where rounding coincides."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
