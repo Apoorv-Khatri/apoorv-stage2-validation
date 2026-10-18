@@ -525039,3 +525039,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T08:54:39.911978+00:00 — Review RDVTTVCR s6: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1624",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1625",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1626",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1624",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1625",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1626",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1624",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1625",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1626",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1624",
+    "before": null,
+    "after": "duplicate: s4, h2 and s5 cover gross/net portfolio-purchase and sovereign-loss partial effects across Table3 cols4/5. Routine jointly controlled variants, not a bundled third treatment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1625",
+    "before": null,
+    "after": "duplicate: s4, h2 and s5 cover gross/net portfolio-purchase and sovereign-loss partial effects across Table3 cols4/5. Routine jointly controlled variants, not a bundled third treatment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1626",
+    "before": null,
+    "after": "duplicate: s4, h2 and s5 cover gross/net portfolio-purchase and sovereign-loss partial effects across Table3 cols4/5. Routine jointly controlled variants, not a bundled third treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I649",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O649",
+    "before": null,
+    "after": "s4, h2 and s5 cover gross/net portfolio-purchase and sovereign-loss partial effects across Table3 cols4/5. Routine jointly controlled variants, not a bundled third treatment. Source: Tables 2–3; pp2870–2874."
+  }
+]
+```
