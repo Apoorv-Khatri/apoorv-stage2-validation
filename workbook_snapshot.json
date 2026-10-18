@@ -31433,7 +31433,16 @@
     "L3190": "1",
     "M3190": "unknown",
     "N3190": "Aggregate investment loss under least-affected-syndicate counterfactual, Section4.4; same two samples and 5th/10th-percentile risk reference.",
-    "O3190": "Investment aggregation is said to be similar but formula for translating CAPX ratio to aggregate investment is not displayed. Underlying HDFE slope is known; full aggregate implementation could remain linear HDFE imputation or require additional nonlinear scaling. Unknown, not Other as uncertainty. Do not infer a coefficient or full weighting rule. Source: Section4.4 pp2891–2894 Eqs6–8; L2164–2188,2282–2368."
+    "O3190": "Investment aggregation is said to be similar but formula for translating CAPX ratio to aggregate investment is not displayed. Underlying HDFE slope is known; full aggregate implementation could remain linear HDFE imputation or require additional nonlinear scaling. Unknown, not Other as uncertainty. Do not infer a coefficient or full weighting rule. Source: Section4.4 pp2891–2894 Eqs6–8; L2164–2188,2282–2368.",
+    "A3191": "RDVTTVCR",
+    "B3191": "h9",
+    "I3191": "1",
+    "J3191": "OLS",
+    "K3191": "0",
+    "L3191": "1",
+    "M3191": "n/a",
+    "N3191": "Joint quality/exposure bank-group contrasts in net sovereign-portfolio paths, non-GIIPS banks, Figure1: risk-shifting asset and remaining four GIIPS exposures, 2010–2012.",
+    "O3191": "Four quality×exposure groups plotted; do not invent three binary coefficient rows. Proposed OLS linear group means/growth contrasts, not DiD: no precrisis/post comparison under a stated parallel-trends design. Low-quality/high-exposure banks increase risk-shifting asset roughly30% while others decrease; author explicitly rules out moral suasion and interprets as risk-shifting. Initial levels alone are descriptive; retain differential evolution. Source: Section2 pp2863–2864 Figure1; L528–603."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82661,7 +82670,23 @@
     "A7564": "RDVTTVCR",
     "B7564": "h8",
     "C7564": "hy1",
-    "K7564": "Aggregate investment loss over 2010–2012 attributable to bank lending shock; exact transformation from estimated CAPX rate not supplied."
+    "K7564": "Aggregate investment loss over 2010–2012 attributable to bank lending shock; exact transformation from estimated CAPX rate not supplied.",
+    "A7565": "RDVTTVCR",
+    "B7565": "h9",
+    "C7565": "hy1",
+    "K7565": "Net risk-shifting sovereign holdings/total assets: level path, Figure1 panel A.",
+    "A7566": "RDVTTVCR",
+    "B7566": "h9",
+    "C7566": "hy2",
+    "K7566": "Average remaining four GIIPS sovereign holdings/total assets: level path, Figure1 panel C.",
+    "A7567": "RDVTTVCR",
+    "B7567": "h9",
+    "C7567": "hy3",
+    "K7567": "Growth in net risk-shifting sovereign holdings/total assets since March2010; Figure1 panel B. Not the level outcome in hy1.",
+    "A7568": "RDVTTVCR",
+    "B7568": "h9",
+    "C7568": "hy4",
+    "K7568": "Growth in average remaining four GIIPS sovereign holdings/total assets since March2010; Figure1 panel D. Not the level outcome in hy2."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

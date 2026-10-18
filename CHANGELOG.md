@@ -528012,3 +528012,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T09:19:03.502831+00:00 — Review RDVTTVCR h9: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7565",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7566",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7567",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7568",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7565",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7566",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7567",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7568",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7565",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7566",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7567",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7568",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7565",
+    "before": null,
+    "after": "Net risk-shifting sovereign holdings/total assets: level path, Figure1 panel A."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7566",
+    "before": null,
+    "after": "Average remaining four GIIPS sovereign holdings/total assets: level path, Figure1 panel C."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7567",
+    "before": null,
+    "after": "Growth in net risk-shifting sovereign holdings/total assets since March2010; Figure1 panel B. Not the level outcome in hy1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7568",
+    "before": null,
+    "after": "Growth in average remaining four GIIPS sovereign holdings/total assets since March2010; Figure1 panel D. Not the level outcome in hy2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3191",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3191",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3191",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3191",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3191",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3191",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3191",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3191",
+    "before": null,
+    "after": "Joint quality/exposure bank-group contrasts in net sovereign-portfolio paths, non-GIIPS banks, Figure1: risk-shifting asset and remaining four GIIPS exposures, 2010–2012."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3191",
+    "before": null,
+    "after": "Four quality×exposure groups plotted; do not invent three binary coefficient rows. Proposed OLS linear group means/growth contrasts, not DiD: no precrisis/post comparison under a stated parallel-trends design. Low-quality/high-exposure banks increase risk-shifting asset roughly30% while others decrease; author explicitly rules out moral suasion and interprets as risk-shifting. Initial levels alone are descriptive; retain differential evolution. Source: Section2 pp2863–2864 Figure1; L528–603."
+  }
+]
+```
