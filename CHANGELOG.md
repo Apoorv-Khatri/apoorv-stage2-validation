@@ -524286,3 +524286,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T08:51:45.308575+00:00 — Review RDVTTVCR s1: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L365",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L366",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M365",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M366",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P365",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P366",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q365",
+    "before": null,
+    "after": "pp2870–2871 Table2 col1; One-SD-larger net change in risk-shifting asset (0.34) led to a 0.93 pp reduction in loan volume, Table 2 col. (1), panel A. Benchmark: Standard deviation of precrisis loan growth; benchmark not numerically reported in the same sentence, only that the effect equals 10% of that SD. “For example, a one-SD-larger net change (0.34) led to a 0.93 pp reduction in loan volume and a 1.4 pp higher likelihood of a loan decrease. This loan volume decrease corresponds to 10% of the SD of the precrisis loan growth.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q366",
+    "before": null,
+    "after": "pp2870–2871 Table2 col1; Changing the increase in the risk-shifting asset from the 10th to the 90th percentile implies a 2.6 pp higher likelihood of a loan decrease, Table 2 col. (1), panel B. Benchmark: Predicted likelihood of a loan decrease at the 90th percentile of the treatment distribution: 8.6%. “Moreover, changing the increase in the risk-shifting asset from the 10th percentile to the 90th percentile of the distribution implies a 2.6 pp higher likelihood of a loan decrease. The predicted likelihood of a loan decrease at the 90th percentile of the distribution was 8.6%, implying a decrease in the probability of a loan decrease of 30% when borrowing from a bank at the 10th percentile instead of a bank at the 90th percentile of the distribution.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R365",
+    "before": null,
+    "after": "Alignment unknown: precrisis SD reference population/weights and continuous-regression target match are not specified sufficiently. Same data source alone is not alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R366",
+    "before": null,
+    "after": "Predicted probability is an outcome mean/base rate, not other_level. Continuous percentile intervention and fitted endpoint probability: conditioning/averaging population and counterfactual target match not sufficiently reported; alignment unknown. Direction is lower-risk versus higher-risk lending contraction, not percentage reduction in loan approval probability."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1610",
+    "before": null,
+    "after": "Bank–firm-cluster loan-decrease indicator, Table2/3 captions; not the probability of an individual firm application being refused. Binary outcome has zero and one categories (no label completion required for continuous treatment)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I644",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J644",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K644",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L644",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M644",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N644",
+    "before": null,
+    "after": "Net Change Risk-Shifting Asset dose and bank lending: non-GIIPS banks, Table2 A–C cols1/3; jointly controlled col3 is a routine control variant."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O644",
+    "before": null,
+    "after": "Eq1 pp2868–2870: firm-cluster×year FE absorb borrower demand/common shocks; firm-cluster×bank FE absorb persistent borrower-bank heterogeneity. Two effective identifying FE dimensions, not HDFE and not DiD merely because outcomes change during the crisis. Every displayed Table2/3 column has both FE; no actual no-FE OLS column. Author explicitly interprets the focal bank affectedness parameter as changing loan supply. Conditioning is not proof of exogeneity. Source: pp2870–2872 Eq1 Table2 cols1/3; layout L933–1103."
+  }
+]
+```
