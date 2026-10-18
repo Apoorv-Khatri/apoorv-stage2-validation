@@ -34013,7 +34013,16 @@
     "L3418": "0",
     "M3418": "n/a",
     "N3418": "Low versus high predicted total skewness: equal-weighted portfolio excess return adjusted by MKT/PSS/HML/RMW/CMA, Table10 PanelC p.420; low-high alpha -0.10% per month.",
-    "O3418": "Supporting robustness Section4.3.1, explicit final main-article table. Binary extreme-group contrast; routine middle group not a separate causal treatment. OLS factor regressions, factors not FE."
+    "O3418": "Supporting robustness Section4.3.1, explicit final main-article table. Binary extreme-group contrast; routine middle group not a separate causal treatment. OLS factor regressions, factors not FE.",
+    "A3419": "TS6H62KJ",
+    "B3419": "h13",
+    "I3419": "1",
+    "J3419": "OLS",
+    "K3419": "1",
+    "L3419": "0",
+    "M3419": "n/a",
+    "N3419": "Low versus high predicted total skewness: value-weighted portfolio excess return adjusted by MKT/PSS, Table11 PanelA p.421; low-high alpha 0.33% per month.",
+    "O3419": "Supporting robustness Section4.3.1, explicit final main-article table. Binary extreme-group contrast; routine middle group not a separate causal treatment. OLS factor regressions, factors not FE."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87383,7 +87392,14 @@
     "H7882": "0",
     "I7882": "unknown",
     "J7882": "none",
-    "K7882": "Monthly portfolio excess returns, percent per month; alpha is the adjusted low-high return contrast, not the dependent variable. Probability mass at zero is not established."
+    "K7882": "Monthly portfolio excess returns, percent per month; alpha is the adjusted low-high return contrast, not the dependent variable. Probability mass at zero is not established.",
+    "A7883": "TS6H62KJ",
+    "B7883": "h13",
+    "C7883": "hy1",
+    "H7883": "0",
+    "I7883": "unknown",
+    "J7883": "none",
+    "K7883": "Monthly portfolio excess returns, percent per month; alpha is the adjusted low-high return contrast, not the dependent variable. Probability mass at zero is not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
