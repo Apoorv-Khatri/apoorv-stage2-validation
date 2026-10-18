@@ -33905,7 +33905,16 @@
     "L3406": "0",
     "M3406": "n/a",
     "N3406": "Unexpected PO innovation effect on net equity/debt issuance, Appendix B/Table BI columns 2–3 and 5–6, pp.3442–3444. POt minus predicted POt from lagged PO(s), lagged characteristics and firm/year FE. One- versus two-lag forecasting controls grouped as routine construction variants.",
-    "O3406": "Residualized continuous regressor, NOT fitted-treatment 2SLS: auxiliary columns 1/4 predict PO, then actual minus expected PO enters linear firm/year-FE issuance regressions. Does not use focal issuance outcomes to select weights. Exclude auxiliary prediction columns themselves. Equity coefficients −0.021/−0.028; debt −0.012/−0.019 (insignificant). No outcome mean/SD comparison."
+    "O3406": "Residualized continuous regressor, NOT fitted-treatment 2SLS: auxiliary columns 1/4 predict PO, then actual minus expected PO enters linear firm/year-FE issuance regressions. Does not use focal issuance outcomes to select weights. Exclude auxiliary prediction columns themselves. Equity coefficients −0.021/−0.028; debt −0.012/−0.019 (insignificant). No outcome mean/SD comparison.",
+    "A3407": "TS6H62KJ",
+    "B3407": "h1",
+    "I3407": "1",
+    "J3407": "OLS",
+    "K3407": "0",
+    "L3407": "1",
+    "M3407": "n/a",
+    "N3407": "PSS covariance exposure: covariance-form price of risk for 25 size/book-to-price portfolios, Table2 PanelA, p.410. Reported PSS price 5.55; distinct from beta-form risk premium s1. Downside/upside market controls are routine variants in this same panel.",
+    "O3407": "Independent recommendation: OLS-family (implemented cross-sectional GLS), conditional on estimated exposure regressors and the GLS metric. The reported dependent outcome is average excess portfolio return, not the entire return panel. First-pass slopes/covariances use centered returns; generated regressors alone do not establish a nonlinear effect estimator under the prompt incidental-preprocessing rule. This does not make the full mapping from the raw return panel linear. Full-procedure Other remains a substantive taxonomy alternative for parent adjudication. All parameters are GLS (p.409); OLS R2 is not a second estimator. No identifying FE or excluded IV instrument. Retain model-based risk-compensation interpretation, not predictor causality."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87218,7 +87227,11 @@
     "A7870": "TRCRCTBB",
     "B7870": "h10",
     "C7870": "hy2",
-    "K7870": "NetDebtIssuet, long-term issuance minus reductions over lagged total securities; Table BI columns 3/6."
+    "K7870": "NetDebtIssuet, long-term issuance minus reductions over lagged total securities; Table BI columns 3/6.",
+    "A7871": "TS6H62KJ",
+    "B7871": "h1",
+    "C7871": "hy1",
+    "K7871": "Average monthly excess returns of test portfolios in the covariance-form cross-sectional pricing equation; the price of risk is a coefficient on return covariance, not an outcome. Tables report price coefficients on a different scale from percentage monthly risk premia."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
