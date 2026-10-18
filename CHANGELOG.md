@@ -522138,3 +522138,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:50:29.889306+00:00 — Review R7QNVLC6 s7: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1578",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1579",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1578",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1579",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1578",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1579",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1578",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1579",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I637",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O637",
+    "before": null,
+    "after": "Explicitly forecasts future institutional trades from antiherding-fund trades to detect earlier information acquisition. The interpretation is common information arriving earlier, not that those trades cause the crowd to trade. Supporting null herding-trade coefficients were reviewed too; neither is dropped merely for insignificance. Would be main if retained, as abstract/introduction/conclusion enumerate anticipation centrally. Source: pp2249–2251; Table VIII; L1143–1269. Source: pp2249–2251; Table VIII; L1143–1269."
+  }
+]
+```
