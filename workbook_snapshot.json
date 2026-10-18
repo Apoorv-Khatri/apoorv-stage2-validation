@@ -31469,7 +31469,16 @@
     "L3194": "1",
     "M3194": "unknown",
     "N3194": "Ex ante quality×preexisting exposure and risk-shifting-asset portfolio adjustment, non-GIIPS banks, Table A2 panelA.",
-    "O3194": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: pp2863–2866; L554–567,674–715 (Table A2A)."
+    "O3194": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: pp2863–2866; L554–567,674–715 (Table A2A).",
+    "A3195": "RDVTTVCR",
+    "B3195": "h13",
+    "I3195": "1",
+    "J3195": "unknown",
+    "K3195": "unknown",
+    "L3195": "1",
+    "M3195": "unknown",
+    "N3195": "Ex ante quality×preexisting exposure and risk-shifting-asset portfolio adjustment, GIIPS banks, Table A2 panelB.",
+    "O3195": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Source: pp2863–2866; L554–567,674–715 (Table A2B)."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82775,7 +82784,13 @@
     "C7577": "hy1",
     "I7577": "unknown",
     "J7577": "unknown",
-    "K7577": "Risk-shifting-asset sovereign holdings adjustment for non-GIIPS banks, Table A2A; final discussion of Figure1 concerns net holdings. Exact regression outcome scale and gross-versus-net column coverage unavailable."
+    "K7577": "Risk-shifting-asset sovereign holdings adjustment for non-GIIPS banks, Table A2A; final discussion of Figure1 concerns net holdings. Exact regression outcome scale and gross-versus-net column coverage unavailable.",
+    "A7578": "RDVTTVCR",
+    "B7578": "h13",
+    "C7578": "hy1",
+    "I7578": "unknown",
+    "J7578": "unknown",
+    "K7578": "Gross/net risk-shifting-asset holdings adjustment as established by final discussion; exact columns/scales not available."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
