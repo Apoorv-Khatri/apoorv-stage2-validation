@@ -531903,3 +531903,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T10:26:09.404035+00:00 — Review RMH5X4LW s2: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1670",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1671",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1670",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1671",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1670",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1671",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1670",
+    "before": null,
+    "after": "spurious: parent s2 is a specification/inference exercise, not a causal setting; retain original model definition unchanged."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1671",
+    "before": null,
+    "after": "spurious: parent s2 is a specification/inference exercise, not a causal setting; retain original model definition unchanged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I659",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O659",
+    "before": null,
+    "after": "Spurious causal setting: Table 1 d=2, pp345–346: the market/nondurable and market/durable bases are jointly estimated Epstein–Zin submodels. Their coefficients characterize a space of SDFs; the author interpretation concerns covariance with returns and complete overspecification. The p346 statement about weights rather than meaningful risk prices is directly relevant here. Structural effects and substantive causal nulls would qualify; neither a policy intervention nor strong identification is required by the gate. Source: Table 1 d=2, pp345–346/PDF8–9; L552–689."
+  }
+]
+```
