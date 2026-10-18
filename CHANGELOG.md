@@ -574839,3 +574839,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:41:23.198371+00:00 — Review UUTLYHI2 h15: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8029",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8029",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8029",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8029",
+    "before": null,
+    "after": "Change in nonbank funding share from before to after2012Q2 announcement."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3509",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3509",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3509",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3509",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3509",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3509",
+    "before": null,
+    "after": "Syndicate maximal bank Tier1 shortfall effect on change in nonbank share around Basel III announcement, Table8 column8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3509",
+    "before": null,
+    "after": "Actual pre/post change outcome compared across differential shock exposure; Section2.4 explicitly invokes DiD. No modern estimator. Bank-level exposure aggregated to syndicate. Table8 caption erroneously includes column8 among sale columns but heading and later caption identify8–9 as change share."
+  }
+]
+```

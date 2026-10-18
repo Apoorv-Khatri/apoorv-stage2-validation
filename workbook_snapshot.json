@@ -34960,7 +34960,16 @@
     "L3508": "0",
     "M3508": "n/a",
     "N3508": "Above-median mortgage-servicing-rights exposure effect on loan sale2012Q2–Q3 without loan FE; unreported robustness explicitly established footnote34,p.2214.",
-    "O3508": "Minimum final-text implemented scope, coefficient virtually identical but no exact number invented. FIRE/no-amend variants belong to FE binary setting; no unseen grid added."
+    "O3508": "Minimum final-text implemented scope, coefficient virtually identical but no exact number invented. FIRE/no-amend variants belong to FE binary setting; no unseen grid added.",
+    "A3509": "UUTLYHI2",
+    "B3509": "h15",
+    "I3509": "1",
+    "J3509": "DiD_conventional",
+    "K3509": "0",
+    "L3509": "1",
+    "M3509": "n/a",
+    "N3509": "Syndicate maximal bank Tier1 shortfall effect on change in nonbank share around Basel III announcement, Table8 column8.",
+    "O3509": "Actual pre/post change outcome compared across differential shock exposure; Section2.4 explicitly invokes DiD. No modern estimator. Bank-level exposure aggregated to syndicate. Table8 caption erroneously includes column8 among sale columns but heading and later caption identify8–9 as change share."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89117,7 +89126,11 @@
     "H8028": "1",
     "I8028": "1",
     "J8028": "none",
-    "K8028": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
+    "K8028": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period.",
+    "A8029": "UUTLYHI2",
+    "B8029": "h15",
+    "C8029": "hy1",
+    "K8029": "Change in nonbank funding share from before to after2012Q2 announcement."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
