@@ -31741,7 +31741,12 @@
     "L3218": "1",
     "M3218": "n/a",
     "N3218": "Monthly speech partisanship dose and category-moderated slopes for RegisterPartisanship, Table7 A/B cols1/4/5/8/9 without month-year FE.",
-    "O3218": "Same focal speech dose, same outcome and result location; category interactions are effect heterogeneity, grouped with routine category controls. Explicit spillover/influence interpretation pp4405–4407. Separate from identifying FE cols10/11 retained in s4. Baseline category indicators alone are not asserted causal treatments. Includes weak Fed interaction and SEC notice-slope null. Source: Table7 pp4405–4407; L1965–2075."
+    "O3218": "Same focal speech dose, same outcome and result location; category interactions are effect heterogeneity, grouped with routine category controls. Explicit spillover/influence interpretation pp4405–4407. Separate from identifying FE cols10/11 retained in s4. Baseline category indicators alone are not asserted causal treatments. Includes weak Fed interaction and SEC notice-slope null. Source: Table7 pp4405–4407; L1965–2075.",
+    "A3219": "RQ77EIC2",
+    "B3219": "h3",
+    "I3219": "0",
+    "N3219": "Other opposite-party regulator dissents (binary) and own dissent, Table8 cols1–4, SEC/Fed, with and without year dummy controls.",
+    "O3219": "Independent preferred rejection (contested): pp4407–4409 formulate a test of whether votes cluster along party lines, not an effect of changing another voter's dissent. The Fed interpretation explicitly attributes joint dissents to controversial decisions (p4409). Conditional higher/lower probabilities are compatible with descriptive co-voting; substantive importance does not turn the focal peer-dissent coefficient causal. Not rejected for simultaneity, weak identification, or nulls. If parent adopts broader response reading, restore OLS/binary1/main1; year controls do not alone establish identifying FE. Source: Table8 pp4407–4409; L2077–2175,2254–2264."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -83411,7 +83416,14 @@
     "A7621": "RQ77EIC2",
     "B7621": "h2",
     "C7621": "hy1",
-    "K7621": "Monthly RegisterPartisanship by month-year-category (notices, proposed rules, finalized rules), computed as monthly average of daily Congress-based partisan similarity scores for Register text in that category. Unit is a probability-like score between 0 and 1."
+    "K7621": "Monthly RegisterPartisanship by month-year-category (notices, proposed rules, finalized rules), computed as monthly average of daily Congress-based partisan similarity scores for Register text in that category. Unit is a probability-like score between 0 and 1.",
+    "A7622": "RQ77EIC2",
+    "B7622": "h3",
+    "C7622": "hy1",
+    "H7622": "n/a",
+    "I7622": "n/a",
+    "J7622": "n/a",
+    "K7622": "spurious under preferred parameter-specific descriptive co-voting gate; parent rejected. If restored, individual dissent is binary, observed zero mass, untransformed (Table8 pp4407–4408)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

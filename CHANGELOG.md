@@ -533157,3 +533157,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:06:22.875222+00:00 — Review RQ77EIC2 h3: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7622",
+    "before": null,
+    "after": "RQ77EIC2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7622",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7622",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7622",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7622",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7622",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7622",
+    "before": null,
+    "after": "spurious under preferred parameter-specific descriptive co-voting gate; parent rejected. If restored, individual dissent is binary, observed zero mass, untransformed (Table8 pp4407–4408)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3219",
+    "before": null,
+    "after": "RQ77EIC2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3219",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3219",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3219",
+    "before": null,
+    "after": "Other opposite-party regulator dissents (binary) and own dissent, Table8 cols1–4, SEC/Fed, with and without year dummy controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3219",
+    "before": null,
+    "after": "Independent preferred rejection (contested): pp4407–4409 formulate a test of whether votes cluster along party lines, not an effect of changing another voter's dissent. The Fed interpretation explicitly attributes joint dissents to controversial decisions (p4409). Conditional higher/lower probabilities are compatible with descriptive co-voting; substantive importance does not turn the focal peer-dissent coefficient causal. Not rejected for simultaneity, weak identification, or nulls. If parent adopts broader response reading, restore OLS/binary1/main1; year controls do not alone establish identifying FE. Source: Table8 pp4407–4409; L2077–2175,2254–2264."
+  }
+]
+```
