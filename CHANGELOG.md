@@ -569676,3 +569676,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:02:37.458149+00:00 — Review UTRUH2FR s3: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K424",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L424",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M424",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N424",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O424",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P424",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q424",
+    "before": null,
+    "after": "p.1922/Table5 column1: marginal probability effect printed as 8% more likely for politically contested municipalities, explicitly compared to average participation 56% in >9,000-inhabitant subsample. Average pools stronghold and contested municipalities, not a no-stronghold/control counterfactual for the focal contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R424",
+    "before": null,
+    "after": "8% language retained literally; likely percentage-point marginal effect but do not normalize to 56% or silently repair wording. Explicit pooled average is not untreated mean; alignment0, not identification-quality judgment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1829",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1829",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1829",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J757",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M757",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N757",
+    "before": null,
+    "after": "Political stronghold indicator (same party >12 years) effect on structured-loan use, Table5 column1 probit. Other political stability treatments split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O757",
+    "before": null,
+    "after": "pp.1921–1922 explicit positive effect of political contestation; nonlinear probit Other. No FE listed. Stronghold binary, not pooled unknown. Main central political-incentives conclusion. Margin of victory in column4 is an adjustment for close-election effect, not separately interpreted treatment."
+  }
+]
+```
