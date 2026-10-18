@@ -577236,3 +577236,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:49:30.513496+00:00 — Review UUTLYHI2 h40: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8059",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8059",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8059",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8059",
+    "before": null,
+    "after": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3534",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3534",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3534",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3534",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3534",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3534",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3534",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3534",
+    "before": null,
+    "after": "Basel III total capital shortfall effect on loan sale2012Q2–Q3,IA.XIII.B."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3534",
+    "before": null,
+    "after": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote36 confirms total-capital shock result. One loan FE set, same post-sale implementation as s3; not automatically DiD."
+  }
+]
+```

@@ -35185,7 +35185,16 @@
     "L3533": "0",
     "M3533": "n/a",
     "N3533": "Equally weighted syndicate Tier1 leverage effect on affiliated nonbank share,IA.XII column4.",
-    "O3533": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Substantive test of within-BHC reallocation, final footnote28. Called placebo but genuinely distinct lending destination and capital-risk mechanism, not artificial treatment. Supporting/null, no mean benchmark. Appendix positive coefficients conflict with loosely negative final narrative; do not repair signs."
+    "O3533": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Substantive test of within-BHC reallocation, final footnote28. Called placebo but genuinely distinct lending destination and capital-risk mechanism, not artificial treatment. Supporting/null, no mean benchmark. Appendix positive coefficients conflict with loosely negative final narrative; do not repair signs.",
+    "A3534": "UUTLYHI2",
+    "B3534": "h40",
+    "I3534": "1",
+    "J3534": "FE",
+    "K3534": "0",
+    "L3534": "0",
+    "M3534": "n/a",
+    "N3534": "Basel III total capital shortfall effect on loan sale2012Q2–Q3,IA.XIII.B.",
+    "O3534": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote36 confirms total-capital shock result. One loan FE set, same post-sale implementation as s3; not automatically DiD."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89468,7 +89477,11 @@
     "A8058": "UUTLYHI2",
     "B8058": "h39",
     "C8058": "hy1",
-    "K8058": "Fraction of loan funded by nonbanks affiliated with bank holding company of lender holding loan share; IA.XII."
+    "K8058": "Fraction of loan funded by nonbanks affiliated with bank holding company of lender holding loan share; IA.XII.",
+    "A8059": "UUTLYHI2",
+    "B8059": "h40",
+    "C8059": "hy1",
+    "K8059": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
