@@ -523599,3 +523599,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:54:27.660251+00:00 — Review R7QNVLC6 h5: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7530",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7530",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7530",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7530",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7530",
+    "before": null,
+    "after": "Termination indicator: manager at t disappears from sample from t+1 onward. Source: pp2252–2255; L1306–1361,1398–1400,1447–1449."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3176",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3176",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3176",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3176",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3176",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3176",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3176",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3176",
+    "before": null,
+    "after": "Table IX A–B: continuous general managerial experience (years appearing in CRSP, standardized) and next-quarter termination probability in single-manager funds; logit coefficients and marginal effects, whole sample and experience subsamples. Whole-sample coefficients -0.183/-0.187."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3176",
+    "before": null,
+    "after": "Authors explicitly say less experienced managers face higher termination probabilities, motivating career concerns in the introduction. Not just a control coefficient. Source: pp2252–2255; L1306–1361,1398–1400,1447–1449. No qualifying outcome benchmark found in associated prose/table. Source: pp2252–2255; L1306–1361,1398–1400,1447–1449."
+  }
+]
+```

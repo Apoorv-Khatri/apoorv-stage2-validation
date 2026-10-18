@@ -31212,7 +31212,16 @@
     "L3175": "1",
     "M3175": "n/a",
     "N3175": "Table VI B: continuous FH interacted with current/lagged standardized Baker–Wurgler sentiment, future monthly Carhart net alpha; interactions -0.358/-0.276. Panel OLS with time dummies and fund controls.",
-    "O3175": "Same opportunity-channel interpretation as s4; sentiment is a distinct treatment. Interaction is not a standalone total effect of FH or sentiment. Source: pp2247–2249; L999–1018,1100–1131. No qualifying outcome benchmark found in associated prose/table. Source: pp2247–2249; L999–1018,1100–1131."
+    "O3175": "Same opportunity-channel interpretation as s4; sentiment is a distinct treatment. Interaction is not a standalone total effect of FH or sentiment. Source: pp2247–2249; L999–1018,1100–1131. No qualifying outcome benchmark found in associated prose/table. Source: pp2247–2249; L999–1018,1100–1131.",
+    "A3176": "R7QNVLC6",
+    "B3176": "h5",
+    "I3176": "1",
+    "J3176": "Other",
+    "K3176": "0",
+    "L3176": "1",
+    "M3176": "n/a",
+    "N3176": "Table IX A–B: continuous general managerial experience (years appearing in CRSP, standardized) and next-quarter termination probability in single-manager funds; logit coefficients and marginal effects, whole sample and experience subsamples. Whole-sample coefficients -0.183/-0.187.",
+    "O3176": "Authors explicitly say less experienced managers face higher termination probabilities, motivating career concerns in the introduction. Not just a control coefficient. Source: pp2252–2255; L1306–1361,1398–1400,1447–1449. No qualifying outcome benchmark found in associated prose/table. Source: pp2252–2255; L1306–1361,1398–1400,1447–1449."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82187,7 +82196,14 @@
     "A7529": "R7QNVLC6",
     "B7529": "h4",
     "C7529": "hy1",
-    "K7529": "Future monthly Carhart four-factor net alpha in quarter t+1, in percent. Source: pp2247–2249; L999–1018,1100–1131."
+    "K7529": "Future monthly Carhart four-factor net alpha in quarter t+1, in percent. Source: pp2247–2249; L999–1018,1100–1131.",
+    "A7530": "R7QNVLC6",
+    "B7530": "h5",
+    "C7530": "hy1",
+    "H7530": "1",
+    "I7530": "1",
+    "J7530": "none",
+    "K7530": "Termination indicator: manager at t disappears from sample from t+1 onward. Source: pp2252–2255; L1306–1361,1398–1400,1447–1449."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
