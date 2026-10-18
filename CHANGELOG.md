@@ -569526,3 +569526,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:01:51.490472+00:00 — Review UTRUH2FR s1: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1825",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1826",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1825",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1826",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1825",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1826",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1825",
+    "before": null,
+    "after": "Inactive under probit parent; moved to h1/hy1 to separate tobit estimator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1826",
+    "before": null,
+    "after": "Inactive under probit parent; moved to h1/hy2 to separate tobit estimator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J755",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K755",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M755",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N755",
+    "before": null,
+    "after": "Debt/population effect on any and high-risk structured-loan adoption, Table 3 probit columns 1/2 and 5/6; Data A/B sample variants grouped. Tobit shares split to h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O755",
+    "before": null,
+    "after": "Nonlinear probit is Other, not OLS or FE. Broad author-intention gate: pp.1905,1912,1919–1920 debt incentives and strengthening the case for a causal relationship; explicit robust-correlation language acknowledged, not a claim of exogeneity. Table3 two categorical FE sets per sample, not HDFE. Debt/population units not explicitly resolved by caption: do not assert euros rather than thousands of euros from coefficients alone."
+  }
+]
+```
