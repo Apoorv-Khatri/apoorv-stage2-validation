@@ -608400,3 +608400,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T19:58:44.383502+00:00 — Review XFGMHICU h7: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8284",
+    "before": null,
+    "after": "XFGMHICU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8284",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8284",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8284",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8284",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8284",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8284",
+    "before": null,
+    "after": "Firm-level two-day risk-adjusted stock return in basis points for Event-2, November23-24, 2010, November22 close to November24 close; Table 1 Panel B columns 1-4 (p.640). Actual dependent return, not estimated Treat coefficient. Unflipped return scale; estimated effect is not the dependent variable. Method1/Method2 return construction variants. No log or outcome-SD transformation; zero mass unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3660",
+    "before": null,
+    "after": "XFGMHICU"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3660",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3660",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3660",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3660",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3660",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3660",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3660",
+    "before": null,
+    "after": "Binary late-meeting Delaware staggered-board firms versus January-March controls. Treat-1 September-December; Treat-2 July-December; Treat-3 Treat-2 excluding December per all captions (July-November); p.641 instead says June-November, unresolved printed conflict. Treat-1/2/3 are grouped alternative inclusion/threshold definitions of the same exposure, not continuous doses. Table 1 Panel B columns 1-4, p.640, Event-2 coefficient only: effect of the November 23, 2010 Supreme Court reversal strengthening board protection on unflipped firm two-day risk-adjusted returns. Separate event-specific treatment/estimand from both the other ruling and the pooled signed-return coefficient. One dependent return outcome; simulation p-values excluded."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3660",
+    "before": null,
+    "after": "No IV, actual randomized assignment, direct cutoff discontinuity, modern DiD or implemented conventional parallel-trends comparison is established. Event-window abnormal-return contrasts are not automatically DiD: returns are relative to factor-model expected returns, not a treated/control pre/post outcome-change comparison. Apply FE before OLS only where industry FE implement the explicit confounding-news rationale (pp.639,645-646). Factor controls are not FE; clustering is not absorption. Table1 PanelB establishes linear OLS fitting but its own caption does not restate industry FE; the preceding FE sentence describes PanelA. Final article does not settle FE versus OLS for these individual-date regressions. Unknown survey method (not Other); no claim of possible IV is intended. Main=1: Baseline and alternative return/exposure definitions directly establish the central weakening-protection valuation claim (pp.638-640). Separate event coefficients supply the actual opposite-sign valuation responses used in the central paired-event evidence, not just null simulations. Pooled parent s1."
+  }
+]
+```
