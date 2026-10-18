@@ -597132,3 +597132,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:42:35.575829+00:00 — Review WZZQX3TX s4: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1935",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1935",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1935",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1935",
+    "before": null,
+    "after": "spurious: diagnostic-only parent s4; true-threshold outcome already s1/y1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I798",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O798",
+    "before": null,
+    "after": "Diagnostic-only fake-threshold exogeneity/placebo tests in Table VI, pp.2408–2410. True-threshold column repeats s1 and its comparison. Not a substantive new intervention."
+  }
+]
+```
