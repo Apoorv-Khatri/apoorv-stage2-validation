@@ -33995,7 +33995,16 @@
     "L3416": "1",
     "M3416": "n/a",
     "N3416": "High versus low market-capitalization quintile, unconditional and conditional on predicted coskewness quintile; raw average return and CAPM-adjusted contrasts, Table6 PanelB p.414.",
-    "O3416": "Independent reciprocal size-effect test omitted by model; introduction pp.401 and Section3.4 use central nulls to distinguish skewness from size. OLS-family conditional linear contrasts, no identifying FE. Raw means use caption monthly returns; excess qualification unresolved for those means."
+    "O3416": "Independent reciprocal size-effect test omitted by model; introduction pp.401 and Section3.4 use central nulls to distinguish skewness from size. OLS-family conditional linear contrasts, no identifying FE. Raw means use caption monthly returns; excess qualification unresolved for those means.",
+    "A3417": "TS6H62KJ",
+    "B3417": "h11",
+    "I3417": "1",
+    "J3417": "OLS",
+    "K3417": "1",
+    "L3417": "0",
+    "M3417": "n/a",
+    "N3417": "Low versus high predicted total skewness: equal-weighted portfolio excess return adjusted by MKT/PSS/HML/MOM, Table10 PanelB p.420; low-high alpha -0.25% per month.",
+    "O3417": "Supporting robustness Section4.3.1, explicit final main-article table. Binary extreme-group contrast; routine middle group not a separate causal treatment. OLS factor regressions, factors not FE."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -87351,7 +87360,14 @@
     "H7880": "0",
     "I7880": "unknown",
     "J7880": "none",
-    "K7880": "Monthly portfolio return (%) for raw size spread; monthly excess return for CAPM-adjusted size spread. These are scales of the same return outcome, not estimated-beta outcomes; raw caption does not explicitly say excess."
+    "K7880": "Monthly portfolio return (%) for raw size spread; monthly excess return for CAPM-adjusted size spread. These are scales of the same return outcome, not estimated-beta outcomes; raw caption does not explicitly say excess.",
+    "A7881": "TS6H62KJ",
+    "B7881": "h11",
+    "C7881": "hy1",
+    "H7881": "0",
+    "I7881": "unknown",
+    "J7881": "none",
+    "K7881": "Monthly portfolio excess returns, percent per month; alpha is the adjusted low-high return contrast, not the dependent variable. Probability mass at zero is not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

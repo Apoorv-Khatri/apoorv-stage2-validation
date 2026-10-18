@@ -562173,3 +562173,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:59:48.413369+00:00 — Review TS6H62KJ h11: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7881",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7881",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7881",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7881",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7881",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7881",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7881",
+    "before": null,
+    "after": "Monthly portfolio excess returns, percent per month; alpha is the adjusted low-high return contrast, not the dependent variable. Probability mass at zero is not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3417",
+    "before": null,
+    "after": "TS6H62KJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3417",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3417",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3417",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3417",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3417",
+    "before": null,
+    "after": "Low versus high predicted total skewness: equal-weighted portfolio excess return adjusted by MKT/PSS/HML/MOM, Table10 PanelB p.420; low-high alpha -0.25% per month."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3417",
+    "before": null,
+    "after": "Supporting robustness Section4.3.1, explicit final main-article table. Binary extreme-group contrast; routine middle group not a separate causal treatment. OLS factor regressions, factors not FE."
+  }
+]
+```
