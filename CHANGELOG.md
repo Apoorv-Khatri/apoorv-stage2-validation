@@ -580947,3 +580947,168 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:13:39.496826+00:00 — Review VPZERBIY s8: source-audited coding and linked comparisons
+
+26 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K453",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K454",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L453",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L454",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M453",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M454",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N453",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N454",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O453",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O454",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P453",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P454",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q453",
+    "before": null,
+    "after": "UNRESOLVED candidate attribution, not a verified exact triple. Table6A pp.541–542: Main Activist coefficient in Table 6 Panel A (e.g., column 1 = 0.0802) for forced CEO turnover over years t and t+1. Benchmark: Unconditional probability of forced CEO turnover in the matched sample = 7.7%. \"In economic terms, activist intervention doubles the probability of forced CEO turnover over the two years following the campaign, relative to the unconditional probability of 7.7% in the matched sample.\""
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q454",
+    "before": null,
+    "after": "UNRESOLVED candidate attribution, not a verified exact triple. Table6A pp.541–542: Interaction coefficient on Activist x Large stock bid = 0.3670 in Table 6 Panel A column 3; authors also discuss low-return stock acquisitions. Benchmark: Forced CEO turnover probability at matched non-targets / baseline probability, expressed as a multiple. \"As seen in Columns 3 and 5, CEOs of firms conducting large and low-return stock acquisitions are almost five times more likely to be forced out in the presence of an activist.\""
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R453",
+    "before": null,
+    "after": "Exact focal-estimate allocation unsupported; qualifying verbal benchmark held outside application. Overall matched mean 7.7% is not a proven untreated conditional mean. Independent audit: Human_keep=unknown rather than 0; evidence is not proven spurious. No new triples appended."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R454",
+    "before": null,
+    "after": "Exact focal-estimate allocation unsupported; qualifying verbal benchmark held outside application. Overall matched mean 7.7% is not a proven untreated conditional mean. Independent audit: Human_keep=unknown rather than 0; evidence is not proven spurious. No new triples appended."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1889",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1889",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1889",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1889",
+    "before": null,
+    "after": "Binary 0/1 event indicator, with non-events in the estimation sample; zero is genuine mass, not missingness. See corresponding table caption and Appendix definitions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I776",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J776",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K776",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L776",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M776",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O776",
+    "before": null,
+    "after": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Main: CEO removal channel and its market valuation are emphasized together in introduction pp.527–528 and conclusion. Activist is the binary focal exposure; prior M&A indicators moderate its effect across columns. Retain conditional-effect heterogeneity within one exposure/outcome/location, not nine different interventions. An interaction is a difference in sensitivities, not the total activism effect in that subgroup. Table 6 defines Activist over t and t+1."
+  }
+]
+```
