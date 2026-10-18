@@ -34861,7 +34861,16 @@
     "L3497": "0",
     "M3497": "n/a",
     "N3497": "Lagged Tier1 capital/RWA effect on small/large/top-decile loan sales, Table4.B3–5.",
-    "O3497": "Caption and dependent-variable heading indicate sale dollars / lagged bank assets with size-based classification; p.2205 instead says construct indicators. Implementation scale unresolved; do not confidently assert continuous amount or binary size indicator. Bank + loan-year FE two sets. Minimum joint outcome scope pending final implementation clarification."
+    "O3497": "Caption and dependent-variable heading indicate sale dollars / lagged bank assets with size-based classification; p.2205 instead says construct indicators. Implementation scale unresolved; do not confidently assert continuous amount or binary size indicator. Bank + loan-year FE two sets. Minimum joint outcome scope pending final implementation clarification.",
+    "A3498": "UUTLYHI2",
+    "B3498": "h4",
+    "I3498": "1",
+    "J3498": "FE",
+    "K3498": "0",
+    "L3498": "0",
+    "M3498": "n/a",
+    "N3498": "Lagged Tier1 Gap effect on loan sale, Table4.C columns1–4; baseline,TED interaction,and risk subsamples.",
+    "O3498": "Distinct capital treatment; Tier1 Gap is residual from target-capital regression, not an excluded IV. Bank + loan-year FE two effective dimensions. Supporting measurement robustness."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88968,7 +88977,11 @@
     "A8017": "UUTLYHI2",
     "B8017": "h3",
     "C8017": "hy3",
-    "K8017": "top-decile loan-sale outcome, Table4.B3–5. Amount/assets versus size-category indicator conflict between table heading/caption and p.2205 prose; exact scale unknown."
+    "K8017": "top-decile loan-sale outcome, Table4.B3–5. Amount/assets versus size-category indicator conflict between table heading/caption and p.2205 prose; exact scale unknown.",
+    "A8018": "UUTLYHI2",
+    "B8018": "h4",
+    "C8018": "hy1",
+    "K8018": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
