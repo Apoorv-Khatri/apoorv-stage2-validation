@@ -34774,7 +34774,16 @@
     "L3492": "0",
     "M3492": "unknown",
     "N3492": "High-risk structured-loan use indicator effect in distance-instrumented tax-change regression, TableA4 replication of Table8 established p.1931.",
-    "O3492": "p.1931 explicitly reports the instrumental-variable risk decomposition after separately replicating Table8. Retain only the preferred reelection/tax outcome scopes for each named binary treatment; no inferred naive-model grid, no appendix column labels or coefficients. Estimator family inherited narrowly from the stated Table8 replication: nonlinear reelection Other; instrumented linear tax unknown as s7. One distance variable is described in Table8, not independently verified in unavailable A4. Supporting main0; appendix placement alone is not the reason."
+    "O3492": "p.1931 explicitly reports the instrumental-variable risk decomposition after separately replicating Table8. Retain only the preferred reelection/tax outcome scopes for each named binary treatment; no inferred naive-model grid, no appendix column labels or coefficients. Estimator family inherited narrowly from the stated Table8 replication: nonlinear reelection Other; instrumented linear tax unknown as s7. One distance variable is described in Table8, not independently verified in unavailable A4. Supporting main0; appendix placement alone is not the reason.",
+    "A3493": "UTRUH2FR",
+    "B3493": "h27",
+    "I3493": "1",
+    "J3493": "Other",
+    "K3493": "1",
+    "L3493": "0",
+    "M3493": "n/a",
+    "N3493": "Exclusively non-high-risk structured-loan use indicator effect in distance-instrumented reelection probit, TableA4 replication of Table8 established p.1931.",
+    "O3493": "p.1931 explicitly reports the instrumental-variable risk decomposition after separately replicating Table8. Retain only the preferred reelection/tax outcome scopes for each named binary treatment; no inferred naive-model grid, no appendix column labels or coefficients. Estimator family inherited narrowly from the stated Table8 replication: nonlinear reelection Other; instrumented linear tax unknown as s7. One distance variable is described in Table8, not independently verified in unavailable A4. Supporting main0; appendix placement alone is not the reason."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88820,7 +88829,14 @@
     "H8010": "0",
     "I8010": "unknown",
     "J8010": "none",
-    "K8010": "Change in local tax per inhabitant as Table8 replication; high-risk larger decrease and non-high-risk lower impact, pp.1931."
+    "K8010": "Change in local tax per inhabitant as Table8 replication; high-risk larger decrease and non-high-risk lower impact, pp.1931.",
+    "A8011": "UTRUH2FR",
+    "B8011": "h27",
+    "C8011": "hy1",
+    "H8011": "1",
+    "I8011": "unknown",
+    "J8011": "none",
+    "K8011": "Incumbent-party reelection indicator in A4; final narrative reports similarly higher reelection for non-high-risk usage."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
