@@ -33438,7 +33438,16 @@
     "L3382": "0",
     "M3382": "other",
     "N3382": "Peer participation instrumented using demographics excluding income instruments; implemented robustness reported in fn11.",
-    "O3382": "At least age and gender office shares per baseline minus income; eight nonbinary shares => other. No inferred grid of other instrument subsets. Source: p149 footnote11."
+    "O3382": "At least age and gender office shares per baseline minus income; eight nonbinary shares => other. No inferred grid of other instrument subsets. Source: p149 footnote11.",
+    "A3383": "SFCSD6BA",
+    "B3383": "h14",
+    "I3383": "1",
+    "J3383": "FE",
+    "K3383": "0",
+    "L3383": "0",
+    "M3383": "n/a",
+    "N3383": "Peer participation after excluding demographic-outlier offices; Figure1 panelA, 19 sample variants grouped.",
+    "O3383": "Two identifying FE: firm-month and CBSA-month. Peer rate is continuous; binary moderator does not make this peer-dose estimand binary. Preserve null and negative interaction estimates. Routine sample variants grouped. Baseline horizontal coefficient lines are other effects, not outcome-level benchmarks. Source: pp150–153 Figure1, fn13–14."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86476,7 +86485,11 @@
     "A7838": "SFCSD6BA",
     "B7838": "h13",
     "C7838": "hy1",
-    "K7838": "Indicator of ESPP participation in biannual window."
+    "K7838": "Indicator of ESPP participation in biannual window.",
+    "A7839": "SFCSD6BA",
+    "B7839": "h14",
+    "C7839": "hy1",
+    "K7839": "Indicator of ESPP participation in biannual window."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
