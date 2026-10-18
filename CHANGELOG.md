@@ -558591,3 +558591,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:23:17.452412+00:00 — Review TRCRCTBB h7: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7862",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7863",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7862",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7863",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7862",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7863",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7862",
+    "before": null,
+    "after": "Net equity issuance in Q1t; Table VII.A columns 5–6. Nonbinary normalized flow."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7863",
+    "before": null,
+    "after": "Net debt issuance in Q1t; Table VII.B columns 5–6. Nonbinary normalized flow."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3403",
+    "before": null,
+    "after": "TRCRCTBB"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3403",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3403",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3403",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3403",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3403",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3403",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3403",
+    "before": null,
+    "after": "Lagged already-disclosed ΔPOt−1 effects on Q1t net equity/debt issuance, Table VII.A/B columns 5–6 pp.3427–3429; firm/year FE. Central disappearance-after-disclosure mechanism, including current-dose adjustment variant."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3403",
+    "before": null,
+    "after": "Distinct continuous treatment or estimand; linear identifying unit/time FE (two effective sets). No IV, DiD, HDFE or separate no-FE OLS implementation."
+  }
+]
+```
