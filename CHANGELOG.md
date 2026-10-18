@@ -607980,3 +607980,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T19:57:28.585840+00:00 — Review XFGMHICU h3: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8280",
+    "before": null,
+    "after": "XFGMHICU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8280",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8280",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8280",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8280",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8280",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8280",
+    "before": null,
+    "after": "Firm-level two-day risk-adjusted stock return in basis points for Event-1, October 11-12, 2010 following October8 after-close ruling; Table 2 Event-1/Event-2 columns rows 1-21 (p.642). Actual dependent return, not estimated Treat coefficient. Unflipped return scale; estimated effect is not the dependent variable. Method2 return construction. No log or outcome-SD transformation; zero mass unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3656",
+    "before": null,
+    "after": "XFGMHICU"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3656",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3656",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3656",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3656",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3656",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3656",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3656",
+    "before": null,
+    "after": "Binary late-meeting Delaware staggered-board firms versus January-March controls. Treat-1 September-December; Treat-2 July-December; Treat-3 Treat-2 excluding December per all captions (July-November); p.641 instead says June-November, unresolved printed conflict. Treat-1/2/3 are grouped alternative inclusion/threshold definitions of the same exposure, not continuous doses. Table 2 rows 1-21, p.642, Event-1 coefficient only: effect of the October 8, 2010 Chancery Court ruling weakening board protection on unflipped firm two-day risk-adjusted returns. Separate event-specific treatment/estimand from both the other ruling and the pooled signed-return coefficient. One dependent return outcome; simulation p-values excluded."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3656",
+    "before": null,
+    "after": "No IV, actual randomized assignment, direct cutoff discontinuity, modern DiD or implemented conventional parallel-trends comparison is established. Event-window abnormal-return contrasts are not automatically DiD: returns are relative to factor-model expected returns, not a treated/control pre/post outcome-change comparison. Apply FE before OLS only where industry FE implement the explicit confounding-news rationale (pp.639,645-646). Factor controls are not FE; clustering is not absorption. One nonconstant industry FE dimension, GICS-6, under the table-wide implementation caption. FE, not HDFE. Main=1: Excluding small firms is explicitly the central critique (p.638); all Table2 variants including nulls materially address it. Separate event coefficients supply the actual opposite-sign valuation responses used in the central paired-event evidence, not just null simulations. Pooled parent s2."
+  }
+]
+```
