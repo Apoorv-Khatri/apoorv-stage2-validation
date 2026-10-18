@@ -548391,3 +548391,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:34:15.158892+00:00 — Review S3X8G9NP h9: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7762",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7763",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7764",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7765",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7762",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7763",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7764",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7765",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7762",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7763",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7764",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7765",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7762",
+    "before": null,
+    "after": "Log total commercial-bank assets (dollars); counties without commercial banks omitted (p201 fn2). Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7763",
+    "before": null,
+    "after": "Log total commercial-bank deposits (dollars). Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7764",
+    "before": null,
+    "after": "Reported log number of investment banks; source does not specify zero-count handling. Do not infer log1p despite inclusion of counties without investment banks. Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7765",
+    "before": null,
+    "after": "Indicator for at least one investment bank in county-year (0/1). Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3346",
+    "before": null,
+    "after": "S3X8G9NP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3346",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3346",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3346",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3346",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3346",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3346",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3346",
+    "before": null,
+    "after": "Fourth county subscription rate × post-1918, dropping purely rural counties; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3346",
+    "before": null,
+    "after": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Distinct reported robustness location, not a second record for repeated full-sample odd columns (s5). Notes and title say drop counties without urban center >=2500; column headings instead say IV-Drop Urban. Scope uses explicit notes, with conflict retained. Excluded instrument allotment × post-1918. Source: Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108."
+  }
+]
+```

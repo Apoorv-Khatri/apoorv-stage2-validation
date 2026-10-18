@@ -32987,7 +32987,16 @@
     "L3345": "1",
     "M3345": "single binary",
     "N3345": "Third state subscription rate in joint 2SLS instrumenting the third-to-fourth increment; outcomes: individual stock-or-bond ownership indicator. Table7 col4 / Eq6B, pp213–214; layout L1113–1185.",
-    "O3345": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Third rate is an included exogenous treatment coefficient (0.004), not instrumented; single excluded switch indicator instruments increment. Joint estimator IV; no third-rate LATE claim. Independent audit: IV code denotes the implemented joint 2SLS system, not instrumented third-rate receipt. The included third-rate coefficient is separately retained because it is substantively interpreted (p211 independent-interest statement; Table7 joint lasting-effects discussion; A3 regional counterpart). Ordinary nuisance controls are not added as treatments. Source: Table7 col4 / Eq6B, pp213–214; layout L1113–1185."
+    "O3345": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Third rate is an included exogenous treatment coefficient (0.004), not instrumented; single excluded switch indicator instruments increment. Joint estimator IV; no third-rate LATE claim. Independent audit: IV code denotes the implemented joint 2SLS system, not instrumented third-rate receipt. The included third-rate coefficient is separately retained because it is substantively interpreted (p211 independent-interest statement; Table7 joint lasting-effects discussion; A3 regional counterpart). Ordinary nuisance controls are not added as treatments. Source: Table7 col4 / Eq6B, pp213–214; layout L1113–1185.",
+    "A3346": "S3X8G9NP",
+    "B3346": "h9",
+    "I3346": "1",
+    "J3346": "IV",
+    "K3346": "0",
+    "L3346": "0",
+    "M3346": "single binary",
+    "N3346": "Fourth county subscription rate × post-1918, dropping purely rural counties; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108.",
+    "O3346": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Distinct reported robustness location, not a second record for repeated full-sample odd columns (s5). Notes and title say drop counties without urban center >=2500; column headings instead say IV-Drop Urban. Scope uses explicit notes, with conflict retained. Excluded instrument allotment × post-1918. Source: Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85602,7 +85611,23 @@
     "A7761": "S3X8G9NP",
     "B7761": "h8",
     "C7761": "hy1",
-    "K7761": "Individual response to owning any stocks or bonds (0/1), weighted Gallup surveys. Article data section and references say 1937–1938; Table7 caption says 1935–1938. Table7 col4 / Eq6B, pp213–214; layout L1113–1185"
+    "K7761": "Individual response to owning any stocks or bonds (0/1), weighted Gallup surveys. Article data section and references say 1937–1938; Table7 caption says 1935–1938. Table7 col4 / Eq6B, pp213–214; layout L1113–1185",
+    "A7762": "S3X8G9NP",
+    "B7762": "h9",
+    "C7762": "hy1",
+    "K7762": "Log total commercial-bank assets (dollars); counties without commercial banks omitted (p201 fn2). Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108",
+    "A7763": "S3X8G9NP",
+    "B7763": "h9",
+    "C7763": "hy2",
+    "K7763": "Log total commercial-bank deposits (dollars). Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108",
+    "A7764": "S3X8G9NP",
+    "B7764": "h9",
+    "C7764": "hy3",
+    "K7764": "Reported log number of investment banks; source does not specify zero-count handling. Do not infer log1p despite inclusion of counties without investment banks. Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108",
+    "A7765": "S3X8G9NP",
+    "B7765": "h9",
+    "C7765": "hy4",
+    "K7765": "Indicator for at least one investment bank in county-year (0/1). Appendix TableA1 even cols2,4,6,8, supplement PDFp3/printed p2; supplement_layout L79–108"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
