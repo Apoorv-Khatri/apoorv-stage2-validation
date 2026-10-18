@@ -33492,7 +33492,16 @@
     "L3388": "1",
     "M3388": "unknown",
     "N3388": "Peer influence on continuous natural log days to first sale, implemented positive result stated in introduction.",
-    "O3388": "PROVISIONAL SOURCE-SCOPE, not a verified exact appendix setting census. Estimator FE versus IV allocation unresolved; do not use Other for uncertainty. This outcome is explicitly stated separately from alternative quick-sale thresholds. The continuous dependent variable does not establish support of the implemented peer treatment; peer regressor construction is unavailable, so treatment binary status is unknown. Source: pp136,141."
+    "O3388": "PROVISIONAL SOURCE-SCOPE, not a verified exact appendix setting census. Estimator FE versus IV allocation unresolved; do not use Other for uncertainty. This outcome is explicitly stated separately from alternative quick-sale thresholds. The continuous dependent variable does not establish support of the implemented peer treatment; peer regressor construction is unavailable, so treatment binary status is unknown. Source: pp136,141.",
+    "A3389": "SFCSD6BA",
+    "B3389": "h20",
+    "I3389": "1",
+    "J3389": "unknown",
+    "K3389": "0",
+    "L3389": "0",
+    "M3389": "unknown",
+    "N3389": "Peer trading after exclusion of demographically unusual offices; generally robust but weaker, implemented appendix results described in article.",
+    "O3389": "PROVISIONAL SOURCE-SCOPE, not a verified exact appendix setting census. Minimum scope; exact FE/IV allocation and demographic cutoffs unresolved without appendix. Do not erase substantive robustness because appendix is blocked. Source: pp166–168."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86554,7 +86563,11 @@
     "A7844": "SFCSD6BA",
     "B7844": "h19",
     "C7844": "hy1",
-    "K7844": "Natural log of time to first sale, in days; exact zero handling unknown."
+    "K7844": "Natural log of time to first sale, in days; exact zero handling unknown.",
+    "A7845": "SFCSD6BA",
+    "B7845": "h20",
+    "C7845": "hy1",
+    "K7845": "Indicator of selling ESPP shares within two weeks."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

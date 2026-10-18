@@ -554916,3 +554916,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T13:33:13.677621+00:00 — Review SFCSD6BA h20: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7845",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7845",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7845",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7845",
+    "before": null,
+    "after": "Indicator of selling ESPP shares within two weeks."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3389",
+    "before": null,
+    "after": "SFCSD6BA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3389",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3389",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3389",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3389",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3389",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3389",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3389",
+    "before": null,
+    "after": "Peer trading after exclusion of demographically unusual offices; generally robust but weaker, implemented appendix results described in article."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3389",
+    "before": null,
+    "after": "PROVISIONAL SOURCE-SCOPE, not a verified exact appendix setting census. Minimum scope; exact FE/IV allocation and demographic cutoffs unresolved without appendix. Do not erase substantive robustness because appendix is blocked. Source: pp166–168."
+  }
+]
+```
