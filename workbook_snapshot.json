@@ -30714,7 +30714,16 @@
     "L3134": "0",
     "M3134": "n/a",
     "N3134": "Fixed switch from WML alone to50% WML+50% HML-devil allocation. TableB1 cols7–8 and AppendixB explicitly evaluate hedging panic-state risk; equal-dollar rather than equal-risk allocation. Combination still has negative panic premium and beta change. Do not treat market-state correlations of HML or SMB as interventions.",
-    "O3134": "Fixed equal-dollar allocation is linear in underlying monthly returns. TableB1 cols7–8 uses linear regression adjustment with optional market controls; no outcome-adaptive weight selection or nonlinear focal estimator. Price-taking policy interpretation and no-cost assumptions retained. Source: AppendixB TableB1 cols7–8 pp244–245; footnote20."
+    "O3134": "Fixed equal-dollar allocation is linear in underlying monthly returns. TableB1 cols7–8 uses linear regression adjustment with optional market controls; no outcome-adaptive weight selection or nonlinear focal estimator. Price-taking policy interpretation and no-cost assumptions retained. Source: AppendixB TableB1 cols7–8 pp244–245; footnote20.",
+    "A3135": "QCQ3E8DE",
+    "B3135": "h15",
+    "I3135": "1",
+    "J3135": "OLS",
+    "K3135": "0",
+    "L3135": "1",
+    "M3135": "n/a",
+    "N3135": "Continuous market-return response in bull/up versus bull/down states, Table4B deciles1–10 and WML. Retain null loser optionality and nonsignificant WML interaction -0.242, plus winner interaction -0.251.",
+    "O3135": "Author-intention inclusion, not an identification endorsement. Introduction p222 explicitly says momentum crashes because of conditionally negative beta; p223 calls crashes driven by conditional beta and loser optionality; pp228–230 interpret these exact market-response slopes as short-call exposure generating losses on rebounds. These are causally interpreted observational OLS under the supplied broad criterion. No excluded IV, FE, randomized assignment, or demonstrated exogeneity. Source: p230 Table4B; p229 Section3.3."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -80858,7 +80867,21 @@
     "H7463": "0",
     "I7463": "unknown",
     "J7463": "none",
-    "K7463": "Monthly return on50–50 WML/HML-devil portfolio; TableB1. Conditional alpha14.08 and panic-premium coefficient-11.13 annualized percent with market controls (col8); no-market col7 alpha13.41, coefficient-12.01. Continuous outcome; zero mass not established."
+    "K7463": "Monthly return on50–50 WML/HML-devil portfolio; TableB1. Conditional alpha14.08 and panic-premium coefficient-11.13 annualized percent with market controls (col8); no-market col7 alpha13.41, coefficient-12.01. Continuous outcome; zero mass not established.",
+    "A7464": "QCQ3E8DE",
+    "B7464": "h15",
+    "C7464": "hy1",
+    "H7464": "0",
+    "I7464": "unknown",
+    "J7464": "none",
+    "K7464": "Monthly excess returns of deciles1–10, Table4B, percent/month.",
+    "A7465": "QCQ3E8DE",
+    "B7465": "h15",
+    "C7465": "hy2",
+    "H7465": "0",
+    "I7465": "unknown",
+    "J7465": "none",
+    "K7465": "Monthly WML return, Table4B bull-market optionality specification, percent/month."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
