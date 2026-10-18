@@ -604722,3 +604722,318 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:53:35.968673+00:00 — Review WZZQX3TX h36: source-audited coding and linked comparisons
+
+51 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8257",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8258",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8259",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8260",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8261",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8262",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8257",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8258",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8259",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8260",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8261",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8262",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8257",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8258",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8259",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8260",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8261",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8262",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8257",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8258",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8259",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8260",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8261",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8262",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8257",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8258",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8259",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8260",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8261",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8262",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8257",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8258",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8259",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8260",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8261",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8262",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8257",
+    "before": null,
+    "after": "Investment: capital expenditures scaled by lagged property, plant, and equipment. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8258",
+    "before": null,
+    "after": "Net debt issues scaled by lagged total assets. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8259",
+    "before": null,
+    "after": "Net equity issues scaled by lagged total assets. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8260",
+    "before": null,
+    "after": "SEO proceeds scaled by lagged total assets. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8261",
+    "before": null,
+    "after": "Dividends scaled by lagged total assets. Table X caption specifies CHANGE in dividends scaled by lagged assets (y5) / CHANGE in annualized eight-quarter ROA volatility (y6), despite abbreviated level labels and level Appendix definitions. Preserve caption construction; exact implementation unresolved. Reported caption transformation is a first change (other), not none; level definitions/prose create an unresolved implementation conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8262",
+    "before": null,
+    "after": "Volatility of ROA: annualized standard deviation of ROA over the last eight quarters. Table X caption specifies CHANGE in dividends scaled by lagged assets (y5) / CHANGE in annualized eight-quarter ROA volatility (y6), despite abbreviated level labels and level Appendix definitions. Preserve caption construction; exact implementation unresolved. Reported caption transformation is a first change (other), not none; level definitions/prose create an unresolved implementation conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3649",
+    "before": null,
+    "after": "WZZQX3TX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3649",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3649",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3649",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3649",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3649",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3649",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3649",
+    "before": null,
+    "after": "Post-first-violation After coefficient eta and explicitly discussed eta+beta among new-appointment firms, Table X A, pp.2416–2419; years +2..+4 versus −3..−1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3649",
+    "before": null,
+    "after": "p.2416 no-causal disclaimer explicitly targets beta (appointment differential). pp.2418–2419 separately interpret violations as affecting financing/investment/pay. Broad gate includes this suggestive within-firm violation effect, not causal board reform. All firms violate; no untreated violation comparison, so After coefficient is FE before/after rather than a standalone DiD. Firm/year two dimensions. Timing of board grouping is postviolation/endogenous. Retained gate is the violation before/after response conditional on appointment group, NOT the causal effect of appointments. Eta alone refers to no-new-appointment firms; eta+beta is the stated total for appointment firms, never beta alone. Level group endogeneity remains explicit; this is broad author intention, not causal certification."
+  }
+]
+```
