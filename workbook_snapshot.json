@@ -33219,7 +33219,16 @@
     "L3366": "0",
     "M3366": "n/a",
     "N3366": "Same demographic-group buyer–supplier match × After among minority customers and minority suppliers; TableA3 (0.378 log, 0.026 share); includes untabulated no-buyer×month FE sample expansion in fn3.",
-    "O3366": "Conventional post-COVID differential change; method precedence overrides FE and OLS implementation. October 2019–May 2020; March onset in text versus caption saying after March is a source timing ambiguity, not silently repaired. Parallel counterfactual trends and no remaining differential shocks are maintained, not established by coding. Same=1 for white-woman/white-woman, Black-woman/Black-woman or Black-man/Black-man; zero otherwise in minority-only sample. Null mechanism effect retained. Effective displayed FE: seller×buyer and buyer×month (two); relaxing buyer×month leaves relationship plus month, still DiD. Main text broader everyone-pays-minorities interpretation is not proof of another unreported treatment grid. Source: Supplement pp3–4,17 TableA3 fn3; layout L65–125,559–579."
+    "O3366": "Conventional post-COVID differential change; method precedence overrides FE and OLS implementation. October 2019–May 2020; March onset in text versus caption saying after March is a source timing ambiguity, not silently repaired. Parallel counterfactual trends and no remaining differential shocks are maintained, not established by coding. Same=1 for white-woman/white-woman, Black-woman/Black-woman or Black-man/Black-man; zero otherwise in minority-only sample. Null mechanism effect retained. Effective displayed FE: seller×buyer and buyer×month (two); relaxing buyer×month leaves relationship plus month, still DiD. Main text broader everyone-pays-minorities interpretation is not proof of another unreported treatment grid. Source: Supplement pp3–4,17 TableA3 fn3; layout L65–125,559–579.",
+    "A3367": "S9LRTRJP",
+    "B3367": "h17",
+    "I3367": "1",
+    "J3367": "unknown",
+    "K3367": "1",
+    "L3367": "0",
+    "M3367": "n/a",
+    "N3367": "Balanced-panel Minority × After payment effects, TableA5A/B; exit, entry and intensive sample strata, missing pair-months filled with zero; two payment outcomes, not a binary exit dependent variable.",
+    "O3367": "Conventional post-COVID differential change; method precedence overrides FE and OLS implementation. October 2019–May 2020; March onset in text versus caption saying after March is a source timing ambiguity, not silently repaired. Parallel counterfactual trends and no remaining differential shocks are maintained, not established by coding. Printed seller×month FE would absorb After×Minority; a visually verified internal source conflict. Intended design is conventional DiD, but Human_method=unknown because the literal reported estimator cannot identify this coefficient. Do not infer which FE row is erroneous or certify an implemented design without code/correction. Non-IV intent is clear; IV type remains n/a. Sample strata depend on realized pre/post trading; do not call them predetermined. Includes substantive entry/exit nulls; only-existing-zeros robustness fn4 grouped. Source: Supplement pp8,19 TableA5 fn4; layout L238–273,638–679."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -86140,7 +86149,21 @@
     "H7814": "0",
     "I7814": "unknown",
     "J7814": "none",
-    "K7814": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator."
+    "K7814": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator.",
+    "A7815": "S9LRTRJP",
+    "B7815": "h17",
+    "C7815": "hy1",
+    "H7815": "0",
+    "I7815": "1",
+    "J7815": "log1p",
+    "K7815": "Log(1+total past-due dollars) in buyer–supplier-month; full-amount outcome. Balanced panel with missing transactions filled zero.",
+    "A7816": "S9LRTRJP",
+    "B7816": "h17",
+    "C7816": "hy2",
+    "H7816": "0",
+    "I7816": "1",
+    "J7816": "none",
+    "K7816": "Percentage/share of most recent credit sale overdue the next month, reported in 0–1 share units; not an indicator. Balanced-panel zero imputation applies."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
