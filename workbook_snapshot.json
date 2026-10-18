@@ -31176,7 +31176,16 @@
     "L3171": "1",
     "M3171": "n/a",
     "N3171": "Long-minus-short Dur extreme-decile contrast in average annual compounded excess returns, Table4A/B r column; distinct from Table2 monthly-mean annualization and from Table4 shock slopes.",
-    "O3171": "Section4.2.1 p933 explicitly calculates average returns directly from July-to-June annual returns and interprets the 8.8% short-duration premium. Same economic duration gate as s1, but separately reported annual estimator/location. VW L-S -8.8%, EW -10.4%; no replacement of the Table2 -8.6%/-9.4% estimates. Binary implemented extreme-decile contrast, observational OLS, not matching. Source: pp933–934 Section4.2.1 Table4A/B; article_layout.txt L1107–1213."
+    "O3171": "Section4.2.1 p933 explicitly calculates average returns directly from July-to-June annual returns and interprets the 8.8% short-duration premium. Same economic duration gate as s1, but separately reported annual estimator/location. VW L-S -8.8%, EW -10.4%; no replacement of the Table2 -8.6%/-9.4% estimates. Binary implemented extreme-decile contrast, observational OLS, not matching. Source: pp933–934 Section4.2.1 Table4A/B; article_layout.txt L1107–1213.",
+    "A3172": "R7QNVLC6",
+    "B3172": "h1",
+    "I3172": "1",
+    "J3172": "OLS",
+    "K3172": "0",
+    "L3172": "1",
+    "M3172": "n/a",
+    "N3172": "Table VI A: standardized average idiosyncratic volatility (current/lagged) and monthly net-return spread D10–D1; OLS slopes -0.114/-0.121. IV is the volatility abbreviation, not instrumental variables. Also includes the gross-return differential explicitly reported in p2247 prose (article.txt L991–998); Table VI A displays net only, so gross coefficients are unreported here.",
+    "O3172": "The opportunity channel interprets higher idiosyncratic variation as increasing the value of skill; same rationale as s5. Source: pp2246–2248; L969–998,1078–1087. No qualifying outcome benchmark found in associated prose/table. Independent audit adds the prose-reported gross outcome without copying net coefficients or inventing a gross table. Source: pp2246–2248; L969–998,1078–1087."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -82127,7 +82136,15 @@
     "A7523": "R7QNVLC6",
     "B7523": "s5",
     "C7523": "hy1",
-    "K7523": "Monthly gross-return differential between highest- and lowest-FH deciles (D10 minus D1), before fees, in percentage points. Implemented time-series regressions on the parent opportunity proxy are stated at p2247, article.txt L991–998 (before and after fees); Table VI A displays only net returns. Gross numerical coefficients and detailed column mapping are not reported; do not substitute the net estimates."
+    "K7523": "Monthly gross-return differential between highest- and lowest-FH deciles (D10 minus D1), before fees, in percentage points. Implemented time-series regressions on the parent opportunity proxy are stated at p2247, article.txt L991–998 (before and after fees); Table VI A displays only net returns. Gross numerical coefficients and detailed column mapping are not reported; do not substitute the net estimates.",
+    "A7524": "R7QNVLC6",
+    "B7524": "h1",
+    "C7524": "hy1",
+    "K7524": "Monthly net-return differential between highest- and lowest-FH deciles, in percentage points. Source: pp2246–2248; L969–998,1078–1087.",
+    "A7525": "R7QNVLC6",
+    "B7525": "h1",
+    "C7525": "hy2",
+    "K7525": "Monthly gross-return differential between highest- and lowest-FH deciles (D10 minus D1), before fees, in percentage points. Implemented time-series regressions on the parent opportunity proxy are stated at p2247, article.txt L991–998 (before and after fees); Table VI A displays only net returns. Gross numerical coefficients and detailed column mapping are not reported; do not substitute the net estimates."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

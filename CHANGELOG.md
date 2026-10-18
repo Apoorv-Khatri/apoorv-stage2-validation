@@ -523203,3 +523203,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:53:02.629200+00:00 — Review R7QNVLC6 h1: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7524",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7525",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7524",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7525",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7524",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7525",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7524",
+    "before": null,
+    "after": "Monthly net-return differential between highest- and lowest-FH deciles, in percentage points. Source: pp2246–2248; L969–998,1078–1087."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7525",
+    "before": null,
+    "after": "Monthly gross-return differential between highest- and lowest-FH deciles (D10 minus D1), before fees, in percentage points. Implemented time-series regressions on the parent opportunity proxy are stated at p2247, article.txt L991–998 (before and after fees); Table VI A displays only net returns. Gross numerical coefficients and detailed column mapping are not reported; do not substitute the net estimates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3172",
+    "before": null,
+    "after": "R7QNVLC6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3172",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3172",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3172",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3172",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3172",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3172",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3172",
+    "before": null,
+    "after": "Table VI A: standardized average idiosyncratic volatility (current/lagged) and monthly net-return spread D10–D1; OLS slopes -0.114/-0.121. IV is the volatility abbreviation, not instrumental variables. Also includes the gross-return differential explicitly reported in p2247 prose (article.txt L991–998); Table VI A displays net only, so gross coefficients are unreported here."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3172",
+    "before": null,
+    "after": "The opportunity channel interprets higher idiosyncratic variation as increasing the value of skill; same rationale as s5. Source: pp2246–2248; L969–998,1078–1087. No qualifying outcome benchmark found in associated prose/table. Independent audit adds the prose-reported gross outcome without copying net coefficients or inventing a gross table. Source: pp2246–2248; L969–998,1078–1087."
+  }
+]
+```
