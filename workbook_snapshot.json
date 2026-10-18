@@ -34366,7 +34366,16 @@
     "L3453": "1",
     "M3453": "n/a",
     "N3453": "Lagged aggregate predicted 12-month excess stock return effect on net equity repurchases and net debt issuance, quarterly flows /lagged assets; Table VII, columns 3/6. Distinct continuous valuation dose. Premium decompositions enter predicted components as controls, not instruments.",
-    "O3453": "Causally interpreted aggregate OLS, not FE or IV: equations 6/7 and pp.3075–3078 connect pricing conditions to financing responses. Newey-West SE are not an identification method. Central aggregate conclusion; main=1."
+    "O3453": "Causally interpreted aggregate OLS, not FE or IV: equations 6/7 and pp.3075–3078 connect pricing conditions to financing responses. Newey-West SE are not an identification method. Central aggregate conclusion; main=1.",
+    "A3454": "UK6BI2QX",
+    "B3454": "h19",
+    "I3454": "1",
+    "J3454": "FE",
+    "K3454": "0",
+    "L3454": "1",
+    "M3454": "n/a",
+    "N3454": "Lagged firm term spread effect on net equity repurchases, Table V.A, group-specific firm-FE slopes; same t−1 size/profitability/KZ/dividend groups as credit-spread setting.",
+    "O3454": "Broad author-intention gate met: valuations affect financing (abstract, pp.3043,3061–3064). Firm FE explicitly focus on a given firm under changing conditions (p.3060), addressing persistent firm heterogeneity; one effective FE set, not HDFE. No time FE or no-firm-FE column. Lagging and controls do not prove exogeneity. Generated expected-return predictors are not implemented IV treatment receipt."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88051,7 +88060,11 @@
     "A7947": "UK6BI2QX",
     "B7947": "h18",
     "C7947": "hy2",
-    "K7947": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets."
+    "K7947": "Aggregate quarterly net debt issuance of U.S. nonfinancial corporations, normalized by lagged total assets; percentage points of assets.",
+    "A7948": "UK6BI2QX",
+    "B7948": "h19",
+    "C7948": "hy1",
+    "K7948": "Quarterly net equity repurchases normalized by lagged assets, in subsample regressions by firm characteristics."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
