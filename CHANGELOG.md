@@ -531117,3 +531117,312 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T09:47:50.919947+00:00 — Review RDVTTVCR h32: source-audited coding and linked comparisons
+
+50 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7607",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7608",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7609",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7610",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7611",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7612",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7607",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7608",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7609",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7610",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7611",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7612",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7607",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7608",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7609",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7610",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7611",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7612",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7608",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7609",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7610",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7611",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7612",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7607",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7608",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7609",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7610",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7611",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7612",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7607",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7608",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7609",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7610",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7611",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7612",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7607",
+    "before": null,
+    "after": "Real-outcome response block, GIIPS firms without non-GIIPS business exposure, Table A13B: weaker effects reported on p2890. Exact individual dependent outcomes and scales not established by available text."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7608",
+    "before": null,
+    "after": "spurious as separately specified outcome: A13B unavailable; p2890 does not enumerate this individual outcome; minimum real-effect block retained in hy1 Proposed ID retained inactive for audit provenance; no original workbook record removed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7609",
+    "before": null,
+    "after": "spurious as separately specified outcome: A13B unavailable; p2890 does not enumerate this individual outcome; minimum real-effect block retained in hy1 Proposed ID retained inactive for audit provenance; no original workbook record removed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7610",
+    "before": null,
+    "after": "spurious as separately specified outcome: A13B unavailable; p2890 does not enumerate this individual outcome; minimum real-effect block retained in hy1 Proposed ID retained inactive for audit provenance; no original workbook record removed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7611",
+    "before": null,
+    "after": "spurious as separately specified outcome: A13B unavailable; p2890 does not enumerate this individual outcome; minimum real-effect block retained in hy1 Proposed ID retained inactive for audit provenance; no original workbook record removed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7612",
+    "before": null,
+    "after": "spurious as separately specified outcome: A13B unavailable; p2890 does not enumerate this individual outcome; minimum real-effect block retained in hy1 Proposed ID retained inactive for audit provenance; no original workbook record removed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3214",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3214",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3214",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3214",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3214",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3214",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3214",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3214",
+    "before": null,
+    "after": "Indirect GIIPS Sov Risk dose among GIIPS firms without significant non-GIIPS business exposure, Table A13B."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3214",
+    "before": null,
+    "after": "Final Internet Appendix unavailable. This is a minimum implemented-result scope supported by cited final main-text sentences, not an invented appendix coefficient grid. Exact estimator, dummy coding, controls and comparisons remain unverified; unknown is intentional. Main-role assessment is independent of implementation certainty. Treatment is continuous lender risk; subsample tercile does not make it binary. Final text confirms real effects; financial outcome scope follows explicit rerun analysis but exact grid remains provisional. Independent correction: retain only minimum real-effect block; no financial columns or exact individual outcome grid asserted. Source: p2890 L2105–2114; p2893 L2325–2331 Table A13B."
+  }
+]
+```
