@@ -34852,7 +34852,16 @@
     "L3496": "0",
     "M3496": "n/a",
     "N3496": "Lagged Tier1 capital/RWA effect on retained loan-share dollars / lagged bank assets, Table4.B1–2.",
-    "O3496": "Caption/table identify loan-year FE, with bank FE added column2; one/two effective dimensions both FE. Prose says loan and year separately; do not invent HDFE from that conflict. TableA1 instead describes share of commitment; main detailed prose/caption specify bank-assets scaling."
+    "O3496": "Caption/table identify loan-year FE, with bank FE added column2; one/two effective dimensions both FE. Prose says loan and year separately; do not invent HDFE from that conflict. TableA1 instead describes share of commitment; main detailed prose/caption specify bank-assets scaling.",
+    "A3497": "UUTLYHI2",
+    "B3497": "h3",
+    "I3497": "1",
+    "J3497": "FE",
+    "K3497": "0",
+    "L3497": "0",
+    "M3497": "n/a",
+    "N3497": "Lagged Tier1 capital/RWA effect on small/large/top-decile loan sales, Table4.B3–5.",
+    "O3497": "Caption and dependent-variable heading indicate sale dollars / lagged bank assets with size-based classification; p.2205 instead says construct indicators. Implementation scale unresolved; do not confidently assert continuous amount or binary size indicator. Bank + loan-year FE two sets. Minimum joint outcome scope pending final implementation clarification."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88947,7 +88956,19 @@
     "A8014": "UUTLYHI2",
     "B8014": "h2",
     "C8014": "hy1",
-    "K8014": "Dollar value of retained loan share divided by lagged bank total assets, Table4.B1–2."
+    "K8014": "Dollar value of retained loan share divided by lagged bank total assets, Table4.B1–2.",
+    "A8015": "UUTLYHI2",
+    "B8015": "h3",
+    "C8015": "hy1",
+    "K8015": "below-median loan-sale outcome, Table4.B3–5. Amount/assets versus size-category indicator conflict between table heading/caption and p.2205 prose; exact scale unknown.",
+    "A8016": "UUTLYHI2",
+    "B8016": "h3",
+    "C8016": "hy2",
+    "K8016": "above-median loan-sale outcome, Table4.B3–5. Amount/assets versus size-category indicator conflict between table heading/caption and p.2205 prose; exact scale unknown.",
+    "A8017": "UUTLYHI2",
+    "B8017": "h3",
+    "C8017": "hy3",
+    "K8017": "top-decile loan-sale outcome, Table4.B3–5. Amount/assets versus size-category indicator conflict between table heading/caption and p.2205 prose; exact scale unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

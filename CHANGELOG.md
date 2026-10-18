@@ -573711,3 +573711,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:37:28.726202+00:00 — Review UUTLYHI2 h3: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8015",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8016",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8017",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8015",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8016",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8017",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8015",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8016",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8017",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8015",
+    "before": null,
+    "after": "below-median loan-sale outcome, Table4.B3–5. Amount/assets versus size-category indicator conflict between table heading/caption and p.2205 prose; exact scale unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8016",
+    "before": null,
+    "after": "above-median loan-sale outcome, Table4.B3–5. Amount/assets versus size-category indicator conflict between table heading/caption and p.2205 prose; exact scale unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8017",
+    "before": null,
+    "after": "top-decile loan-sale outcome, Table4.B3–5. Amount/assets versus size-category indicator conflict between table heading/caption and p.2205 prose; exact scale unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3497",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3497",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3497",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3497",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3497",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3497",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3497",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3497",
+    "before": null,
+    "after": "Lagged Tier1 capital/RWA effect on small/large/top-decile loan sales, Table4.B3–5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3497",
+    "before": null,
+    "after": "Caption and dependent-variable heading indicate sale dollars / lagged bank assets with size-based classification; p.2205 instead says construct indicators. Implementation scale unresolved; do not confidently assert continuous amount or binary size indicator. Bank + loan-year FE two sets. Minimum joint outcome scope pending final implementation clarification."
+  }
+]
+```
