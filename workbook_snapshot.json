@@ -31755,7 +31755,16 @@
     "L3220": "1",
     "M3220": "n/a",
     "N3220": "Congress-based ideological distance from Chair, mean-zero unit-SD dose, Table9 cols2/6, SEC/Fed dissent indicator.",
-    "O3220": "Distinct treatment definition, not just outcome or sample. Same one rule/decision identifying FE as s6; no no-FE column. Includes Fed weak/null estimates where present. Central ideological-distance conclusion applies to all four measures. Dictionary treatment measures (not dissent outcomes) undefined for three Fed Governors with no cost/benefit speech; Chair absent on some SEC votes. No invented numeric effects. Source: Table9 pp4410–4413; Eqs9–13; L2292–2481."
+    "O3220": "Distinct treatment definition, not just outcome or sample. Same one rule/decision identifying FE as s6; no no-FE column. Includes Fed weak/null estimates where present. Central ideological-distance conclusion applies to all four measures. Dictionary treatment measures (not dissent outcomes) undefined for three Fed Governors with no cost/benefit speech; Chair absent on some SEC votes. No invented numeric effects. Source: Table9 pp4410–4413; Eqs9–13; L2292–2481.",
+    "A3221": "RQ77EIC2",
+    "B3221": "h5",
+    "I3221": "1",
+    "J3221": "FE",
+    "K3221": "0",
+    "L3221": "1",
+    "M3221": "n/a",
+    "N3221": "Dictionary-based ideological distance from other voting regulators, mean-zero unit-SD dose, Table9 cols3/7, SEC/Fed dissent indicator.",
+    "O3221": "Distinct treatment definition, not just outcome or sample. Same one rule/decision identifying FE as s6; no no-FE column. Includes Fed weak/null estimates where present. Central ideological-distance conclusion applies to all four measures. Dictionary treatment measures (not dissent outcomes) undefined for three Fed Governors with no cost/benefit speech; Chair absent on some SEC votes. No invented numeric effects. Source: Table9 pp4410–4413; Eqs9–13; L2292–2481."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -83436,7 +83445,11 @@
     "A7623": "RQ77EIC2",
     "B7623": "h4",
     "C7623": "hy1",
-    "K7623": "Indicator that the regulator casts a dissenting vote on a given SEC decision/order/rule or Fed FOMC vote."
+    "K7623": "Indicator that the regulator casts a dissenting vote on a given SEC decision/order/rule or Fed FOMC vote.",
+    "A7624": "RQ77EIC2",
+    "B7624": "h5",
+    "C7624": "hy1",
+    "K7624": "Indicator that the regulator casts a dissenting vote on a given SEC decision/order/rule or Fed FOMC vote."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
