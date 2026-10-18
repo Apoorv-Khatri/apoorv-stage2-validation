@@ -559569,3 +559569,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:52:24.391297+00:00 — Review TS6H62KJ s11: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I739",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J739",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K739",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L739",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M739",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O739",
+    "before": null,
+    "after": "Retain main model-based risk-compensation parameter; p.401 explicitly highlights omitted-factor robustness. Other: PCA factors/loadings estimated from the outcome-return matrix, then component risk premia mapped to PSS. Not IV; principal components are not excluded instruments. Table5 contains no linked outcome benchmark. Printed t-ratios 1.89–2.00 in lower panel should not be rewritten as uniformly 5%-significant."
+  }
+]
+```
