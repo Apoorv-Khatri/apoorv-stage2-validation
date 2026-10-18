@@ -572337,3 +572337,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:11:11.763814+00:00 — Review UTRUH2FR h19: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8007",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8007",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8007",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8007",
+    "before": null,
+    "after": "Aggregated notional amount of structured transactions implemented by local government i in quarter t; units and log/level scale beyond stated notional unresolved in unavailable A6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3489",
+    "before": null,
+    "after": "UTRUH2FR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3489",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3489",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3489",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3489",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3489",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3489",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3489",
+    "before": null,
+    "after": "Lagged count of same-county active neighbors effect on aggregated transaction notional in current quarter; equation2 OLS variant described p.1928/TableA6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3489",
+    "before": null,
+    "after": "Linear OLS with entity and quarter FE, explicitly netting persistent heterogeneity/common time trend; two effective dimensions. Distinct notional outcome estimator from conditional-logit s5; minimum final-text scope without unavailable A6 grid."
+  }
+]
+```

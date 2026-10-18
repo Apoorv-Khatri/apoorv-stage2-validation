@@ -34738,7 +34738,16 @@
     "L3488": "0",
     "M3488": "n/a",
     "N3488": "Population bracket 200000<Pop indicator effect on structured borrowing, Table7 columns1–4, probit.",
-    "O3488": "pp.1924–1926 test financial sophistication and resources as mechanisms; broad intention includes these proxy effects despite observational associations. Individual indicator is binary conditional contrast against omitted category, not randomized assignment. Exact omitted occupational category not reported; do not invent it. County FE in columns1–4, absent5–8; nonlinear Other in all, so no OLS/FE split. Civil-servant subsample models without/with size controls grouped as routine variants. Caption incorrectly describes all civil-servant levels as elite-school Haut Fonctionnaire; use distinct printed row labels."
+    "O3488": "pp.1924–1926 test financial sophistication and resources as mechanisms; broad intention includes these proxy effects despite observational associations. Individual indicator is binary conditional contrast against omitted category, not randomized assignment. Exact omitted occupational category not reported; do not invent it. County FE in columns1–4, absent5–8; nonlinear Other in all, so no OLS/FE split. Civil-servant subsample models without/with size controls grouped as routine variants. Caption incorrectly describes all civil-servant levels as elite-school Haut Fonctionnaire; use distinct printed row labels.",
+    "A3489": "UTRUH2FR",
+    "B3489": "h19",
+    "I3489": "1",
+    "J3489": "FE",
+    "K3489": "0",
+    "L3489": "0",
+    "M3489": "n/a",
+    "N3489": "Lagged count of same-county active neighbors effect on aggregated transaction notional in current quarter; equation2 OLS variant described p.1928/TableA6.",
+    "O3489": "Linear OLS with entity and quarter FE, explicitly netting persistent heterogeneity/common time trend; two effective dimensions. Distinct notional outcome estimator from conditional-logit s5; minimum final-text scope without unavailable A6 grid."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -88759,7 +88768,11 @@
     "H8006": "1",
     "I8006": "1",
     "J8006": "none",
-    "K8006": "Indicator for at least one high-risk structured loan (Gissler >=3) during 2002–2007, municipality sample, Table7. Columns 2/4; column8 coefficient absent."
+    "K8006": "Indicator for at least one high-risk structured loan (Gissler >=3) during 2002–2007, municipality sample, Table7. Columns 2/4; column8 coefficient absent.",
+    "A8007": "UTRUH2FR",
+    "B8007": "h19",
+    "C8007": "hy1",
+    "K8007": "Aggregated notional amount of structured transactions implemented by local government i in quarter t; units and log/level scale beyond stated notional unresolved in unavailable A6."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
