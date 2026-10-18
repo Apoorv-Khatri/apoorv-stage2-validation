@@ -34942,7 +34942,16 @@
     "L3506": "0",
     "M3506": "n/a",
     "N3506": "Basel III Tier1 shortfall effect on loan sale2012Q2–Q3, Table8 column5 without loan FE.",
-    "O3506": "Genuine no-FE counterpart to s3, −0.491. Post-shock sale indicator, no differenced sale outcome or treated×post implementation despite design-level DiD label."
+    "O3506": "Genuine no-FE counterpart to s3, −0.491. Post-shock sale indicator, no differenced sale outcome or treated×post implementation despite design-level DiD label.",
+    "A3507": "UUTLYHI2",
+    "B3507": "h13",
+    "I3507": "1",
+    "J3507": "FE",
+    "K3507": "1",
+    "L3507": "1",
+    "M3507": "n/a",
+    "N3507": "Above-median mortgage-servicing-rights exposure effect on loan sale2012Q2–Q3, Table8 columns6–7.",
+    "O3507": "Binary High MSR Exposure, not continuous receipt or an IV. Within-loan comparisons, one identifying FE dimension; −0.014 is NOT printed, actual positive coefficients0.014/0.012."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89085,7 +89094,14 @@
     "A8026": "UUTLYHI2",
     "B8026": "h12",
     "C8026": "hy1",
-    "K8026": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
+    "K8026": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period.",
+    "A8027": "UUTLYHI2",
+    "B8027": "h13",
+    "C8027": "hy1",
+    "H8027": "1",
+    "I8027": "1",
+    "J8027": "none",
+    "K8027": "Indicator that lender reduces its ownership stake in a continuing loan relative to previous period."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
