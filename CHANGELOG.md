@@ -522420,3 +522420,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:51:12.502404+00:00 — Review R7QNVLC6 s9: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1581",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1582",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1583",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1584",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1581",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1582",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1583",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1584",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1581",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1582",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1583",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1584",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1581",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s9 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1582",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s9 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1583",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s9 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1584",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s9 is rejected at the parameter-specific author-intention gate; the predictive outcome exists."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I639",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O639",
+    "before": null,
+    "after": "The interpretation is that FH reveals skill more strongly for inexperienced managers, not that assigning FH changes performance. Reject predictive sorted outcomes. If gate reversed, keep main=1, binary top-bottom contrast and separate experience/tenure result locations as needed; table-prose conflicts documented in evidence audit. Source: pp2256–2258; Table XI A–B; L1540–1655. Source: pp2256–2258; Table XI A–B; L1540–1655."
+  }
+]
+```
