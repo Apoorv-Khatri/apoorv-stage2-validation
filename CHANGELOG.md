@@ -593535,3 +593535,948 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T18:06:50.670239+00:00 — Review WM5RSIHQ s2: source-audited coding and linked comparisons
+
+156 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5296",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5297",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5298",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5299",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5300",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5301",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5302",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5303",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5304",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5305",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5306",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5307",
+    "before": null,
+    "after": "WM5RSIHQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5296",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5297",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5298",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5299",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5300",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5301",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5302",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5303",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5304",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5305",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5306",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5307",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5296",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5297",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5298",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5299",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5300",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5301",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5302",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5303",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5304",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5305",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5306",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5307",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K470",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K471",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5296",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5297",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5298",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5299",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5300",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5301",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5302",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5303",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5304",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5305",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5306",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5307",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L470",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L471",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5296",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5297",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5298",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5299",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5300",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5301",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5302",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5303",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5304",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5305",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5306",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5307",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M470",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M471",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5296",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5297",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5298",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5299",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5300",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5301",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5302",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5303",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5304",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5305",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5306",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5307",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N470",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N471",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5296",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5297",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5298",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5299",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5300",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5301",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5302",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5303",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5304",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5305",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5306",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5307",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O470",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O471",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5296",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5297",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5298",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5299",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5300",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5301",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5302",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5303",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5304",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5305",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5306",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5307",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P470",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P471",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5296",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5297",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5298",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5299",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5300",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5301",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5302",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5303",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5304",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5305",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5306",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5307",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q470",
+    "before": null,
+    "after": "Table IV p.2170 and p.2166, Table III column 1: t−1 peer-induced return set to its 10th percentile gives average dismissal probability 4.14%, versus 2.86% base with all covariates at actual values, averaged across all observations. No division by 2.86% is reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q471",
+    "before": null,
+    "after": "Table IV p.2170 and p.2166, Table III column 3: t−1 peer-induced return set to its 10th percentile gives average dismissal probability 4.05%, versus 2.86% base with all covariates at actual values, averaged across all observations. No division by 2.86% is reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5296",
+    "before": null,
+    "after": "Table IV p.2170, EW industry / Table III column 1: set peer-induced stock return in t−1 to 90th percentile, implied dismissal probability 2.05%, deliberately paired with base 2.86%. Other covariates remain actual; predictions averaged over all observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5297",
+    "before": null,
+    "after": "Table IV p.2170, VW industry / Table III column 3: set peer-induced stock return in t−1 to 90th percentile, implied dismissal probability 2.12%, deliberately paired with base 2.86%. Other covariates remain actual; predictions averaged over all observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5298",
+    "before": null,
+    "after": "Table IV p.2170, EW industry / Table III column 1: set peer-induced stock return in t−2 to 10th percentile, implied dismissal probability 3.03%, deliberately paired with base 2.86%. Other covariates remain actual; predictions averaged over all observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5299",
+    "before": null,
+    "after": "Table IV p.2170, VW industry / Table III column 3: set peer-induced stock return in t−2 to 10th percentile, implied dismissal probability 3.26%, deliberately paired with base 2.86%. Other covariates remain actual; predictions averaged over all observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5300",
+    "before": null,
+    "after": "Table IV p.2170, EW industry / Table III column 1: set peer-induced stock return in t−2 to 90th percentile, implied dismissal probability 2.69%, deliberately paired with base 2.86%. Other covariates remain actual; predictions averaged over all observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5301",
+    "before": null,
+    "after": "Table IV p.2170, VW industry / Table III column 3: set peer-induced stock return in t−2 to 90th percentile, implied dismissal probability 2.52%, deliberately paired with base 2.86%. Other covariates remain actual; predictions averaged over all observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5302",
+    "before": null,
+    "after": "Table IV p.2170, EW industry / Table III column 1: set peer-induced stock return in both t−1 and t−2 to 10th percentile, implied dismissal probability 4.36%, deliberately paired with base 2.86%. Other covariates remain actual; predictions averaged over all observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5303",
+    "before": null,
+    "after": "Table IV p.2170, VW industry / Table III column 3: set peer-induced stock return in both t−1 and t−2 to 10th percentile, implied dismissal probability 4.59%, deliberately paired with base 2.86%. Other covariates remain actual; predictions averaged over all observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5304",
+    "before": null,
+    "after": "Table IV p.2170, EW industry / Table III column 1: set peer-induced stock return in both t−1 and t−2 to 90th percentile, implied dismissal probability 1.92%, deliberately paired with base 2.86%. Other covariates remain actual; predictions averaged over all observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5305",
+    "before": null,
+    "after": "Table IV p.2170, VW industry / Table III column 3: set peer-induced stock return in both t−1 and t−2 to 90th percentile, implied dismissal probability 1.88%, deliberately paired with base 2.86%. Other covariates remain actual; predictions averaged over all observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5306",
+    "before": null,
+    "after": "Final p.2166 and Table IV: EW, t−1 peer-induced return moved from 90th to 10th percentile: average dismissal probability rises from 2.05% to 4.14%. Authors state this “doubles the implied probability of a CEO dismissal.” Benchmark is modeled 90th-percentile outcome mean 2.05%, NOT base 2.86%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5307",
+    "before": null,
+    "after": "Final p.2166 and Table IV: VW, t−1 peer-induced return moved from 90th to 10th percentile: average dismissal probability rises from 2.12% to 4.05%. Authors state this “doubles the implied probability of a CEO dismissal.” Benchmark is modeled 90th-percentile outcome mean 2.12%, NOT base 2.86%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R470",
+    "before": null,
+    "after": "The verbal doubling uses 90th-percentile counterfactual probability, NOT the 2.86% base. Base is observed-exposure mixture, not established untreated mean for a continuous-return contrast; alignment unknown. Endpoint ratio separately recorded."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R471",
+    "before": null,
+    "after": "The verbal doubling uses 90th-percentile counterfactual probability, NOT the 2.86% base. Base is observed-exposure mixture, not established untreated mean for a continuous-return contrast; alignment unknown. Endpoint ratio separately recorded."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5296",
+    "before": null,
+    "after": "No author division by base. Overall observed-exposure base is not established untreated outcome mean for this continuous-dose contrast; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5297",
+    "before": null,
+    "after": "No author division by base. Overall observed-exposure base is not established untreated outcome mean for this continuous-dose contrast; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5298",
+    "before": null,
+    "after": "No author division by base. Overall observed-exposure base is not established untreated outcome mean for this continuous-dose contrast; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5299",
+    "before": null,
+    "after": "No author division by base. Overall observed-exposure base is not established untreated outcome mean for this continuous-dose contrast; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5300",
+    "before": null,
+    "after": "No author division by base. Overall observed-exposure base is not established untreated outcome mean for this continuous-dose contrast; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5301",
+    "before": null,
+    "after": "No author division by base. Overall observed-exposure base is not established untreated outcome mean for this continuous-dose contrast; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5302",
+    "before": null,
+    "after": "No author division by base. Overall observed-exposure base is not established untreated outcome mean for this continuous-dose contrast; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5303",
+    "before": null,
+    "after": "No author division by base. Overall observed-exposure base is not established untreated outcome mean for this continuous-dose contrast; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5304",
+    "before": null,
+    "after": "No author division by base. Overall observed-exposure base is not established untreated outcome mean for this continuous-dose contrast; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5305",
+    "before": null,
+    "after": "No author division by base. Overall observed-exposure base is not established untreated outcome mean for this continuous-dose contrast; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5306",
+    "before": null,
+    "after": "Caption explicitly averages both counterfactual predictions over the same observations with all other variables held actual. Conditional on maintained nonlinear model this constructs same-target reference mean for the stated percentile contrast; not IV compliers or an observed low-return subgroup. Approximate “doubles” preserved, not asserted exact arithmetic."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5307",
+    "before": null,
+    "after": "Caption explicitly averages both counterfactual predictions over the same observations with all other variables held actual. Conditional on maintained nonlinear model this constructs same-target reference mean for the stated percentile contrast; not IV compliers or an observed low-return subgroup. Approximate “doubles” preserved, not asserted exact arithmetic."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1927",
+    "before": null,
+    "after": "Binary forced CEO dismissal event in the second-stage logit, Table III. Table IV averages implied event probabilities from columns 1 and 3; probabilities are not Cox hazards."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I790",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J790",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K790",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L790",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M790",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N790",
+    "before": null,
+    "after": "Industry-induced stock-return components in t−1 and t−2 on forced CEO dismissal; OLS decomposition followed by logit, Table III; Table IV implied probabilities come only from columns 1 and 3. Idiosyncratic coefficients split to h2. EW/VW and year-control variants grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O790",
+    "before": null,
+    "after": "Nonlinear implemented Cox/logit estimator takes priority over the paper’s IV analogy and any year dummies: Other, IV type n/a. No separately implemented linear outcome model or causal first-stage OLS setting. Calendar-year dummies are one effective dimension, included to absorb time trends/economy-wide shocks; no HDFE. Returns are continuous; binary event outcome or subgroup dummies do not make the performance dose binary. Main role established in introduction pp.2155–2158, including central firm-specific-state heterogeneity in s6; method uncertainty is not main-role evidence."
+  }
+]
+```
