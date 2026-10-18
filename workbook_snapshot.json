@@ -31773,7 +31773,16 @@
     "L3222": "1",
     "M3222": "n/a",
     "N3222": "Dictionary-based ideological distance from Chair, mean-zero unit-SD dose, Table9 cols4/8, SEC/Fed dissent indicator.",
-    "O3222": "Distinct treatment definition, not just outcome or sample. Same one rule/decision identifying FE as s6; no no-FE column. Includes Fed weak/null estimates where present. Central ideological-distance conclusion applies to all four measures. Dictionary treatment measures (not dissent outcomes) undefined for three Fed Governors with no cost/benefit speech; Chair absent on some SEC votes. No invented numeric effects. Source: Table9 pp4410–4413; Eqs9–13; L2292–2481."
+    "O3222": "Distinct treatment definition, not just outcome or sample. Same one rule/decision identifying FE as s6; no no-FE column. Includes Fed weak/null estimates where present. Central ideological-distance conclusion applies to all four measures. Dictionary treatment measures (not dissent outcomes) undefined for three Fed Governors with no cost/benefit speech; Chair absent on some SEC votes. No invented numeric effects. Source: Table9 pp4410–4413; Eqs9–13; L2292–2481.",
+    "A3223": "RQ77EIC2",
+    "B3223": "h7",
+    "I3223": "1",
+    "J3223": "unknown",
+    "K3223": "0",
+    "L3223": "0",
+    "M3223": "unknown",
+    "N3223": "Speech partisanship and RegisterPartisanship robustness including no-majority days under alternative party assignments, Internet Appendix Table A4 as established in final footnote29.",
+    "O3223": "Minimum source-limited setting. Final footnote29 reports similar statistical/economic results using president party, independent-regulator speech party, or combination. Exact implemented estimator/columns and whether all category models recur unresolved; do not invent OLS/FE grid. Same speech dose, alternative outcome measurement/sample variants grouped. Supporting robustness, not independently a central result. Source: p4402 fn29; L1816–1822."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -83462,7 +83471,11 @@
     "A7625": "RQ77EIC2",
     "B7625": "h6",
     "C7625": "hy1",
-    "K7625": "Indicator that the regulator casts a dissenting vote on a given SEC decision/order/rule or Fed FOMC vote."
+    "K7625": "Indicator that the regulator casts a dissenting vote on a given SEC decision/order/rule or Fed FOMC vote.",
+    "A7626": "RQ77EIC2",
+    "B7626": "h7",
+    "C7626": "hy1",
+    "K7626": "RegisterPartisanship with previously omitted no-majority days assigned a party using president, independent-regulator speech, or combined rules. Exact appendix aggregation/column mapping unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

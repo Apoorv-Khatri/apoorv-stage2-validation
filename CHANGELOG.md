@@ -533565,3 +533565,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:07:44.425385+00:00 — Review RQ77EIC2 h7: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7626",
+    "before": null,
+    "after": "RQ77EIC2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7626",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7626",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7626",
+    "before": null,
+    "after": "RegisterPartisanship with previously omitted no-majority days assigned a party using president, independent-regulator speech, or combined rules. Exact appendix aggregation/column mapping unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3223",
+    "before": null,
+    "after": "RQ77EIC2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3223",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3223",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3223",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3223",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3223",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3223",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3223",
+    "before": null,
+    "after": "Speech partisanship and RegisterPartisanship robustness including no-majority days under alternative party assignments, Internet Appendix Table A4 as established in final footnote29."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3223",
+    "before": null,
+    "after": "Minimum source-limited setting. Final footnote29 reports similar statistical/economic results using president party, independent-regulator speech party, or combination. Exact implemented estimator/columns and whether all category models recur unresolved; do not invent OLS/FE grid. Same speech dose, alternative outcome measurement/sample variants grouped. Supporting robustness, not independently a central result. Source: p4402 fn29; L1816–1822."
+  }
+]
+```
