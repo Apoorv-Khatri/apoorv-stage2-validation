@@ -581112,3 +581112,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T17:13:59.901558+00:00 — Review VPZERBIY s9: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1890",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1890",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1890",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1890",
+    "before": null,
+    "after": "CAR on untransformed abnormal-return scale; paper does not establish an atom at zero. Market/factor adjustment is not an outcome-SD comparison."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I777",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J777",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K777",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L777",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M777",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O777",
+    "before": null,
+    "after": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Main: CEO removal channel and its market valuation are emphasized together in introduction pp.527–528 and conclusion. Activist is the binary focal exposure; prior M&A indicators moderate its effect across columns. Retain conditional-effect heterogeneity within one exposure/outcome/location, not nine different interventions. An interaction is a difference in sensitivities, not the total activism effect in that subgroup. Table 6 defines Activist over t and t+1."
+  }
+]
+```
