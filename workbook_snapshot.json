@@ -36640,7 +36640,16 @@
     "L3661": "1",
     "M3661": "n/a",
     "N3661": "Binary late-meeting Delaware staggered-board firms versus January-March controls. Treat-1 September-December; Treat-2 July-December; Treat-3 Treat-2 excluding December per all captions (July-November); p.641 instead says June-November, unresolved printed conflict. Treat-1/2/3 are grouped alternative inclusion/threshold definitions of the same exposure, not continuous doses. Table 2 rows 1-21, p.642, Event-2 coefficient only: effect of the November 23, 2010 Supreme Court reversal strengthening board protection on unflipped firm two-day risk-adjusted returns. Separate event-specific treatment/estimand from both the other ruling and the pooled signed-return coefficient. One dependent return outcome; simulation p-values excluded.",
-    "O3661": "No IV, actual randomized assignment, direct cutoff discontinuity, modern DiD or implemented conventional parallel-trends comparison is established. Event-window abnormal-return contrasts are not automatically DiD: returns are relative to factor-model expected returns, not a treated/control pre/post outcome-change comparison. Apply FE before OLS only where industry FE implement the explicit confounding-news rationale (pp.639,645-646). Factor controls are not FE; clustering is not absorption. One nonconstant industry FE dimension, GICS-6, under the table-wide implementation caption. FE, not HDFE. Main=1: Excluding small firms is explicitly the central critique (p.638); all Table2 variants including nulls materially address it. Separate event coefficients supply the actual opposite-sign valuation responses used in the central paired-event evidence, not just null simulations. Pooled parent s2."
+    "O3661": "No IV, actual randomized assignment, direct cutoff discontinuity, modern DiD or implemented conventional parallel-trends comparison is established. Event-window abnormal-return contrasts are not automatically DiD: returns are relative to factor-model expected returns, not a treated/control pre/post outcome-change comparison. Apply FE before OLS only where industry FE implement the explicit confounding-news rationale (pp.639,645-646). Factor controls are not FE; clustering is not absorption. One nonconstant industry FE dimension, GICS-6, under the table-wide implementation caption. FE, not HDFE. Main=1: Excluding small firms is explicitly the central critique (p.638); all Table2 variants including nulls materially address it. Separate event coefficients supply the actual opposite-sign valuation responses used in the central paired-event evidence, not just null simulations. Pooled parent s2.",
+    "A3662": "XFGMHICU",
+    "B3662": "h9",
+    "I3662": "1",
+    "J3662": "FE",
+    "K3662": "1",
+    "L3662": "1",
+    "M3662": "n/a",
+    "N3662": "Binary late-meeting Delaware staggered-board firms versus January-March controls. Treat-1 September-December; Treat-2 July-December; Treat-3 Treat-2 excluding December per all captions (July-November); p.641 instead says June-November, unresolved printed conflict. Treat-1/2/3 are grouped alternative inclusion/threshold definitions of the same exposure, not continuous doses. Table 3 rows 1-18, p.644, Event-2 coefficient only: effect of the November 23, 2010 Supreme Court reversal strengthening board protection on unflipped firm two-day risk-adjusted returns. Separate event-specific treatment/estimand from both the other ruling and the pooled signed-return coefficient. One dependent return outcome; simulation p-values excluded.",
+    "O3662": "No IV, actual randomized assignment, direct cutoff discontinuity, modern DiD or implemented conventional parallel-trends comparison is established. Event-window abnormal-return contrasts are not automatically DiD: returns are relative to factor-model expected returns, not a treated/control pre/post outcome-change comparison. Apply FE before OLS only where industry FE implement the explicit confounding-news rationale (pp.639,645-646). Factor controls are not FE; clustering is not absorption. One nonconstant industry FE dimension, GICS-6, under the table-wide implementation caption. FE, not HDFE. Main=1: Particular-observation and symmetric-outlier exclusions directly answer the central critique (pp.638,643-645). Separate event coefficients supply the actual opposite-sign valuation responses used in the central paired-event evidence, not just null simulations. Pooled parent s3."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92803,7 +92812,14 @@
     "H8285": "0",
     "I8285": "unknown",
     "J8285": "none",
-    "K8285": "Firm-level two-day risk-adjusted stock return in basis points for Event-2, November23-24, 2010, November22 close to November24 close; Table 2 Event-1/Event-2 columns rows 1-21 (p.642). Actual dependent return, not estimated Treat coefficient. Unflipped return scale; estimated effect is not the dependent variable. Method2 return construction. No log or outcome-SD transformation; zero mass unknown."
+    "K8285": "Firm-level two-day risk-adjusted stock return in basis points for Event-2, November23-24, 2010, November22 close to November24 close; Table 2 Event-1/Event-2 columns rows 1-21 (p.642). Actual dependent return, not estimated Treat coefficient. Unflipped return scale; estimated effect is not the dependent variable. Method2 return construction. No log or outcome-SD transformation; zero mass unknown.",
+    "A8286": "XFGMHICU",
+    "B8286": "h9",
+    "C8286": "hy1",
+    "H8286": "0",
+    "I8286": "unknown",
+    "J8286": "none",
+    "K8286": "Firm-level two-day risk-adjusted stock return in basis points for Event-2, November23-24, 2010, November22 close to November24 close; Table 3 Event-1/Event-2 columns rows 1-18 (p.644). Actual dependent return, not estimated Treat coefficient. Unflipped return scale; estimated effect is not the dependent variable. Method2 return construction. No log or outcome-SD transformation; zero mass unknown."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
