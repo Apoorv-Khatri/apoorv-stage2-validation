@@ -521751,3 +521751,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T07:49:20.281451+00:00 — Review R7QNVLC6 s4: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J634",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K634",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M634",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N634",
+    "before": null,
+    "after": "Table VI Panel B: CrossVol current/lagged interacted with continuous FH; opportunity-dependent differences in future monthly four-factor net alpha. Time-dummy-adjusted panel OLS with fund controls; idiosyncratic-volatility and sentiment interactions are h3/h4. Negative interactions -0.322/-0.324; do not interpret baseline FH alone as a causal effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O634",
+    "before": null,
+    "after": "Retain the opportunity-dependent performance-gap interaction: authors argue that greater opportunities increase gains/losses and the value of skill, then test that channel. Restrict original to CrossVol (current/lagged); other opportunity proxies split to h3/h4. FH alone remains a skill signal, not an independent causal effect. OLS code with time dummy adjustment: no separate argument that time FE identify the heterogeneous opportunity response. This inclusion and method are contestable; parent adjudication required. Source: pp2246–2249; Table VI B; L914–1018,1098–1131. Source: pp2246–2249; Table VI B; L914–1018,1098–1131."
+  }
+]
+```
