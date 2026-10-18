@@ -516525,3 +516525,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T03:57:45.215918+00:00 — Review QY4D7PCL s7: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1533",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1534",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1535",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1536",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1537",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1538",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1539",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1533",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1534",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1535",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1536",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1537",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1538",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1539",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1533",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1534",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1535",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1536",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1537",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1538",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1539",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1533",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is a diagnostic-only pDur falsification; original source result remains preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1534",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is a diagnostic-only pDur falsification; original source result remains preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1535",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is a diagnostic-only pDur falsification; original source result remains preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1536",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is a diagnostic-only pDur falsification; original source result remains preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1537",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is a diagnostic-only pDur falsification; original source result remains preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1538",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is a diagnostic-only pDur falsification; original source result remains preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1539",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s7 is a diagnostic-only pDur falsification; original source result remains preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I629",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O629",
+    "before": null,
+    "after": "Diagnostic-only placebo/falsification of arbitrary characteristic aggregation, not an interpreted economic effect of alphabetical-name-rank fitted pDur. Table8 tests whether arbitrary functions predict returns (pp938–939); author does not interpret pDur as affecting cash flows or expected returns. Exclusion is not because estimates are null: retain substantive null value/profitability coefficients and market-return response elsewhere. Contested broad-robustness alternative documented in coverage audit. Source: pp938–940 Section5.2 Table8; L1370–1381,1441–1464,1475–1541."
+  }
+]
+```
