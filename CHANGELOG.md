@@ -557142,3 +557142,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:17:06.208949+00:00 — Review TRCRCTBB s8: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J724",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K724",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M724",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O724",
+    "before": null,
+    "after": "Linear panel regression; firm (or manager) and time effects absorb persistent unit heterogeneity and common shocks in the within-unit private-information design. At most two effective FE dimensions, not HDFE; no IV/RCT/RD/DiD. No genuine no-unit-FE OLS column. Continuous PO dose, not binary merely because outcomes or subsamples are binary."
+  }
+]
+```
