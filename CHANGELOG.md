@@ -524886,3 +524886,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T08:54:10.762118+00:00 — Review RDVTTVCR s5: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L372",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L373",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M372",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M373",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P372",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P373",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q372",
+    "before": null,
+    "after": "p2874 Table3 col3; One-SD-larger reduction in Value Change GIIPS Sov Debt 2010_t (11.51) led to a 1.75 pp loan volume reduction, Table 3 col. (3), panel A. Benchmark: Standard deviation of precrisis loan growth; authors say the effect corresponds to 19% of that SD. “For example, a one-SD-larger reduction in Value Change GIIPS Sov Debt 2010t (11.51) led to a 1.75 pp loan volume reduction and a 2.4 pp higher likelihood of a loan decrease. This loan decrease corresponds to 19% of the SD of precrisis loan growth.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q373",
+    "before": null,
+    "after": "p2874 Table3 col3; Changing the value decrease from the 90th percentile to the 10th percentile led to a 6.6 pp higher likelihood of a loan decrease, Table 3 col. (3), panel B. Benchmark: Predicted likelihood of a loan decrease at the 10th percentile of the distribution: 13.9%. “Changing the value decrease from the 90th percentile to the 10th percentile of the distribution led to a 6.6 pp higher likelihood of a loan decrease. The predicted likelihood of a loan decrease at the 10th percentile of the distribution was 13.9%, implying a decrease in the probability of a loan contraction of 47.3% when borrowing from a bank at the 90th instead of the 10th percentile.”"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R372",
+    "before": null,
+    "after": "Alignment unknown: precrisis SD reference population/weights and continuous-regression target match are not specified sufficiently. Same data source alone is not alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R373",
+    "before": null,
+    "after": "Predicted probability is an outcome mean/base rate, not other_level. Continuous percentile intervention and fitted endpoint probability: conditioning/averaging population and counterfactual target match not sufficiently reported; alignment unknown. Direction is lower-risk versus higher-risk lending contraction, not percentage reduction in loan approval probability."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1622",
+    "before": null,
+    "after": "Bank–firm-cluster loan-decrease indicator, Table2/3 captions; not the probability of an individual firm application being refused. Binary outcome has zero and one categories (no label completion required for continuous treatment)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J648",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K648",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M648",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N648",
+    "before": null,
+    "after": "Value Change GIIPS Sov Debt 2010 dose and GIIPS bank lending, Table3 A–C cols3/4/5/6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O648",
+    "before": null,
+    "after": "Eq1 pp2868–2870: firm-cluster×year FE absorb borrower demand/common shocks; firm-cluster×bank FE absorb persistent borrower-bank heterogeneity. Two effective identifying FE dimensions, not HDFE and not DiD merely because outcomes change during the crisis. Every displayed Table2/3 column has both FE; no actual no-FE OLS column. Author explicitly interprets the focal bank affectedness parameter as changing loan supply. Conditioning is not proof of exogeneity. Retain balance-sheet hit as distinct substantive parameter across horse races; no new setting for adding gross/net controls. Source: pp2873–2874 Table3; L1137–1262."
+  }
+]
+```
