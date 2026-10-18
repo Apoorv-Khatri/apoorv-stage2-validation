@@ -527040,3 +527040,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T09:01:09.565136+00:00 — Review RDVTTVCR h5: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7556",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7557",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7558",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7556",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7557",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7558",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7556",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7557",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7558",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7557",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7558",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7556",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7557",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7558",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7556",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7557",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7558",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7556",
+    "before": null,
+    "after": "Adjusted yearly group mean path of Employment growth: ln(Employment[t+1])-ln(Employment[t]); a log difference, not log of a growth rate. Individual-variable definition is supplied for interpretation; plotted group means need not share its zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7557",
+    "before": null,
+    "after": "Adjusted yearly group mean path of CAPX investment proxy: (Fixed Assets[t+1]-Fixed Assets[t]+Depreciation)/Fixed Assets[t], set to zero when negative; Table1 and footnote25. Individual-variable definition is supplied for interpretation; plotted group means need not share its zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7558",
+    "before": null,
+    "after": "Adjusted yearly group mean path of Sales growth: ln(Sales[t+1])-ln(Sales[t]); a log difference. Individual-variable definition is supplied for interpretation; plotted group means need not share its zero mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3187",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3187",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3187",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3187",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3187",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3187",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3187",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3187",
+    "before": null,
+    "after": "Above- versus below-precrisis-median indirect GIIPS sovereign risk: adjusted yearly real-outcome mean paths, Figure5, entire firm sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3187",
+    "before": null,
+    "after": "Author explicitly says greater exposure led to negative real effects; retain postcrisis paths, not only pretrend diagnostics. Figures show group means rather than estimated event-time coefficients; fn24 says controls for industry, country and size. Proposed OLS/regression-adjusted group contrasts (not identifying FE established for these plots). Parallel pretrends are discussed but no named or implemented event-time regression is shown. Conventional DiD interpretation of graphical changes is contested; no coefficients digitized. Binary threshold is distinct from continuous risk in Table4/6. Source: Figure5, pp2882–2884 fn24; L1695–1766."
+  }
+]
+```
