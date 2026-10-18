@@ -35651,7 +35651,16 @@
     "L3570": "0",
     "M3570": "n/a",
     "N3570": "Activist binary exposure on acquisition/divestiture probabilities in Table 8, conditional on New director indicator; lower-order activist coefficient and conditional total effect, distinct from moderator-slope interaction retained under s11.",
-    "O3570": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Final pp.541/544 for Table7 and p.546 for Table8 explicitly interpret lower-order activist coefficients. These are supporting reconfirmation of baseline activism effects, not a separate central mechanism. At moderator zero coefficient is baseline; otherwise add interaction × moderator."
+    "O3570": "Author-intention gate met by substantive affects/influences interpretation, not a claim of proven exogeneity. Industry and year dummies (two sets) are listed as controls, without a distinct identifying-FE argument in these main-table models; OLS/regression adjustment. Matching here constructs the regression sample; no treated/post parallel-trends estimator, IV, RCT or RD. No no-FE/identifying-FE column split is supported. Final pp.541/544 for Table7 and p.546 for Table8 explicitly interpret lower-order activist coefficients. These are supporting reconfirmation of baseline activism effects, not a separate central mechanism. At moderator zero coefficient is baseline; otherwise add interaction × moderator.",
+    "A3571": "WERKYTKC",
+    "B3571": "h1",
+    "I3571": "1",
+    "J3571": "IV",
+    "K3571": "0",
+    "L3571": "1",
+    "M3571": "single continuous",
+    "N3571": "180-day SIC peer dividend-decrease share on own dividend-decrease indicator, Table 4B, coefficients -4%/-31%. Distinct treatment from increase share.",
+    "O3571": "Broad author-intention gate: peer behavior is interpreted as affecting own payout, despite reflection/common-shock concerns. Linear IV on reported outcome takes priority over firm and time FE (two effective dimensions). Excluded instrument: average peer idiosyncratic equity risk, one continuous scalar; own risk, industry risk and included controls are not excluded instruments. Peer-share dose is nonbinary regardless of whether the dependent variable is binary. No causal OLS split in these IV tables."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -90849,7 +90858,11 @@
     "A8160": "WERKYTKC",
     "B8160": "s7",
     "C8160": "hy2",
-    "K8160": "Aggregate total dividend payments; excess-variance result is summarized as peer interdependencies accounting for 12% of total payments (abstract p.549, introduction p.551, section3.4 p.557). Separate from industry dividend yield: dollar totals, aggregation weights and yield-to-payment conversion are not reported. No invented dollar effect."
+    "K8160": "Aggregate total dividend payments; excess-variance result is summarized as peer interdependencies accounting for 12% of total payments (abstract p.549, introduction p.551, section3.4 p.557). Separate from industry dividend yield: dollar totals, aggregation weights and yield-to-payment conversion are not reported. No invented dollar effect.",
+    "A8161": "WERKYTKC",
+    "B8161": "h1",
+    "C8161": "hy1",
+    "K8161": "Own dividend-decrease indicator, Table 4B. Appendix A prints proportional RCD change <= +1%, inconsistent with decrease wording; do not silently correct to -1%. Binary nature clear; exact threshold implementation unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
