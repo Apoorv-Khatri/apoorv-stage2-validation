@@ -557670,3 +557670,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T14:19:18.279205+00:00 — Review TRCRCTBB s12: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K420",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K421",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L420",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L421",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M420",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M421",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N420",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N421",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O420",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O421",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P420",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P421",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q420",
+    "before": null,
+    "after": "pp.3438–3439/Table XII column 1; Table I CEO mean 0.133 and SD 0.235, N=5,703. Table XII, col. (1): coefficient on PO_t = -0.216; author interprets a one-standard-deviation decrease in PO_t as increasing CEOs' OptExer_t by approximately 1.9 percentage points. For CEO OptExer_t, the text states this is 8.1% of the standard deviation; Table I reports OptExerCEO_t mean 0.133 and SD 0.235."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q421",
+    "before": null,
+    "after": "pp.3438–3439/Table XII column 1; Table I CEO mean 0.133 and SD 0.235, N=5,703. Table XII, col. (1): coefficient on PO_t = -0.216; same focal estimate interpreted as a one-standard-deviation decrease in PO_t increasing CEOs' OptExer_t by approximately 1.9 percentage points. Mean of CEOs' OptExer_t; Table I reports OptExerCEO_t mean 0.133. The text states the effect is 14.3% of the mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R420",
+    "before": null,
+    "after": "Continuous conditional regression target/weights not established to equal the stated sample benchmark; same sample alone does not prove alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R421",
+    "before": null,
+    "after": "Continuous conditional regression target/weights not established to equal the stated sample benchmark; same sample alone does not prove alignment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1778",
+    "before": null,
+    "after": "Individual CEO/all-executive exercise rate, Table XII columns 1–4. Firm-average counterpart separately h9/hy1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J728",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K728",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M728",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N728",
+    "before": null,
+    "after": "Total ΔPOt effect on individual option-exercise rates for CEOs and all executives, Table XII columns 1–4, pp.3438–3439; manager/year FE. CEO/all-executive samples retained as routine variants; firm-average estimand split to h9."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O728",
+    "before": null,
+    "after": "Main=1 independently of certainty: introduction p.3405 and conclusion p.3440 jointly emphasize stock trading and option exercise. These are continuous rates, not binary exercises. Mean and SD comparisons both attach to CEO column 1; no transfer to all-executive or firm-average results."
+  }
+]
+```
