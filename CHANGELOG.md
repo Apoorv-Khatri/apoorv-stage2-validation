@@ -577905,3 +577905,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T16:51:44.910262+00:00 — Review UUTLYHI2 h47: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8067",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8068",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8067",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8068",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8067",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8068",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8067",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8068",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8067",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8068",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8067",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8068",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8067",
+    "before": null,
+    "after": "Lead arranger share at origination,IA.XVIII column1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8068",
+    "before": null,
+    "after": "Nonbank share at origination,IA.XVIII column2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3541",
+    "before": null,
+    "after": "UUTLYHI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3541",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3541",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3541",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3541",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3541",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3541",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3541",
+    "before": null,
+    "after": "Origination in2008 versus2006 effect on primary-market lead and nonbank funding shares,IA.XVIII."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3541",
+    "before": null,
+    "after": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final p.2220 interprets crisis-related nonbank withdrawal and incomplete lead-bank substitution. Year indicator conditional contrasts, no unaffected control group or DiD. Other year dummies treated as context/control, not separately interpreted causal shocks. Industry controls not separately argued identifying FE. Main text reverses column mapping: author appendix prints lead1/nonbank2; no claim of publisher byte identity. Main-role correction: introduction p.2185 footnote7 expressly calls primary-market withdrawal and incomplete lead-bank absorption a key mechanism underpinning the central credit contraction; appendix placement does not make it supporting-only."
+  }
+]
+```

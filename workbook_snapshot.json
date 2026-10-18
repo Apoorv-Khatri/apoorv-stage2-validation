@@ -35248,7 +35248,16 @@
     "L3540": "1",
     "M3540": "n/a",
     "N3540": "Origination in2007 versus2006 effect on primary-market lead and nonbank funding shares,IA.XVIII.",
-    "O3540": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final p.2220 interprets crisis-related nonbank withdrawal and incomplete lead-bank substitution. Year indicator conditional contrasts, no unaffected control group or DiD. Other year dummies treated as context/control, not separately interpreted causal shocks. Industry controls not separately argued identifying FE. Main text reverses column mapping: author appendix prints lead1/nonbank2; no claim of publisher byte identity. Main-role correction: introduction p.2185 footnote7 expressly calls primary-market withdrawal and incomplete lead-bank absorption a key mechanism underpinning the central credit contraction; appendix placement does not make it supporting-only."
+    "O3540": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final p.2220 interprets crisis-related nonbank withdrawal and incomplete lead-bank substitution. Year indicator conditional contrasts, no unaffected control group or DiD. Other year dummies treated as context/control, not separately interpreted causal shocks. Industry controls not separately argued identifying FE. Main text reverses column mapping: author appendix prints lead1/nonbank2; no claim of publisher byte identity. Main-role correction: introduction p.2185 footnote7 expressly calls primary-market withdrawal and incomplete lead-bank absorption a key mechanism underpinning the central credit contraction; appendix placement does not make it supporting-only.",
+    "A3541": "UUTLYHI2",
+    "B3541": "h47",
+    "I3541": "1",
+    "J3541": "OLS",
+    "K3541": "1",
+    "L3541": "1",
+    "M3541": "n/a",
+    "N3541": "Origination in2008 versus2006 effect on primary-market lead and nonbank funding shares,IA.XVIII.",
+    "O3541": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final p.2220 interprets crisis-related nonbank withdrawal and incomplete lead-bank substitution. Year indicator conditional contrasts, no unaffected control group or DiD. Other year dummies treated as context/control, not separately interpreted causal shocks. Industry controls not separately argued identifying FE. Main text reverses column mapping: author appendix prints lead1/nonbank2; no claim of publisher byte identity. Main-role correction: introduction p.2185 footnote7 expressly calls primary-market withdrawal and incomplete lead-bank absorption a key mechanism underpinning the central credit contraction; appendix placement does not make it supporting-only."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89569,7 +89578,21 @@
     "H8066": "0",
     "I8066": "unknown",
     "J8066": "none",
-    "K8066": "Nonbank share at origination,IA.XVIII column2."
+    "K8066": "Nonbank share at origination,IA.XVIII column2.",
+    "A8067": "UUTLYHI2",
+    "B8067": "h47",
+    "C8067": "hy1",
+    "H8067": "0",
+    "I8067": "unknown",
+    "J8067": "none",
+    "K8067": "Lead arranger share at origination,IA.XVIII column1.",
+    "A8068": "UUTLYHI2",
+    "B8068": "h47",
+    "C8068": "hy2",
+    "H8068": "0",
+    "I8068": "unknown",
+    "J8068": "none",
+    "K8068": "Nonbank share at origination,IA.XVIII column2."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
