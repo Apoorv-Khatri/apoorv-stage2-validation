@@ -32439,7 +32439,16 @@
     "L3290": "1",
     "M3290": "n/a",
     "N3290": "Revised bid versus unrevised bid: effect on normalized rationing; Table IX cols3–4 hot/cold subsamples, pp2333–2335. ",
-    "O3290": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + bank + investor FE: three distinct nonnested dimensions. Identification argument pp2331–2333 controls persistent investor information/size and bank/IPO heterogeneity. HDFE does not require authors to use that acronym. Hot/cold sample split does not change method; retain cold-IPO nulls. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table IX cols3–4 hot/cold subsamples, pp2333–2335; article_layout.txt L1482–1578."
+    "O3290": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + bank + investor FE: three distinct nonnested dimensions. Identification argument pp2331–2333 controls persistent investor information/size and bank/IPO heterogeneity. HDFE does not require authors to use that acronym. Hot/cold sample split does not change method; retain cold-IPO nulls. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table IX cols3–4 hot/cold subsamples, pp2333–2335; article_layout.txt L1482–1578.",
+    "A3291": "RQV5GQTL",
+    "B3291": "h67",
+    "I3291": "1",
+    "J3291": "HDFE",
+    "K3291": "1",
+    "L3291": "1",
+    "M3291": "n/a",
+    "N3291": "Attendance at a bookbuilding meeting versus no meeting: effect on normalized rationing; Table IX cols3–4 hot/cold subsamples, pp2333–2335. ",
+    "O3291": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + bank + investor FE: three distinct nonnested dimensions. Identification argument pp2331–2333 controls persistent investor information/size and bank/IPO heterogeneity. HDFE does not require authors to use that acronym. Hot/cold sample split does not change method; retain cold-IPO nulls. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table IX cols3–4 hot/cold subsamples, pp2333–2335; article_layout.txt L1482–1578."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -84634,7 +84643,14 @@
     "H7693": "0",
     "I7693": "unknown",
     "J7693": "none",
-    "K7693": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
+    "K7693": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated.",
+    "A7694": "RQV5GQTL",
+    "B7694": "h67",
+    "C7694": "hy1",
+    "H7694": "0",
+    "I7694": "unknown",
+    "J7694": "none",
+    "K7694": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

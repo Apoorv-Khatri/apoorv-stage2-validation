@@ -541878,3 +541878,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T11:54:40.517163+00:00 — Review RQV5GQTL h67: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7694",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7694",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7694",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7694",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7694",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7694",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7694",
+    "before": null,
+    "after": "Normalized rationing: individual allocation/bid divided by IPO-wide allocation/bid; dimensionless ratio, not binary and not logged. Zero mass is not established in the available final source; no exclusion of zero allocations is stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3291",
+    "before": null,
+    "after": "RQV5GQTL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3291",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3291",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3291",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3291",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3291",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3291",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3291",
+    "before": null,
+    "after": "Attendance at a bookbuilding meeting versus no meeting: effect on normalized rationing; Table IX cols3–4 hot/cold subsamples, pp2333–2335. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3291",
+    "before": null,
+    "after": "Retain under author-intention gate, not an endorsement of exogeneity: pp2305–2306,2321–2323 explicitly discuss how bid actions and revenue ranks affect allocations. Substantive nulls retained. No IV/RCT/RD/DiD; matching names is entity resolution, not causal matching. IPO + bank + investor FE: three distinct nonnested dimensions. Identification argument pp2331–2333 controls persistent investor information/size and bank/IPO heterogeneity. HDFE does not require authors to use that acronym. Hot/cold sample split does not change method; retain cold-IPO nulls. Main role: this mechanism/result is explicitly emphasized in introduction or conclusion, including bank variation and hot-IPO concentration; significance is not the main flag rule. Source: Table IX cols3–4 hot/cold subsamples, pp2333–2335; article_layout.txt L1482–1578."
+  }
+]
+```
