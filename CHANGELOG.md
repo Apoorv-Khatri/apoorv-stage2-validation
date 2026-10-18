@@ -525972,3 +525972,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T08:59:02.661231+00:00 — Review RDVTTVCR h1: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A7538",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7539",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A7540",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7538",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7539",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B7540",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7538",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7539",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C7540",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7538",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7539",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H7540",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7538",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7539",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I7540",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7538",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7539",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J7540",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7538",
+    "before": null,
+    "after": "Change in bank-to-firm-cluster loan volume; Table2/3 use growth/change scale, not log loan levels."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7539",
+    "before": null,
+    "after": "Loan-decrease indicator at bank–firm-cluster level; not an individual application approval indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K7540",
+    "before": null,
+    "after": "Change in average loan spread paid by firms in cluster, basis points in Table2/3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3183",
+    "before": null,
+    "after": "RDVTTVCR"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3183",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3183",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3183",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3183",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3183",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3183",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3183",
+    "before": null,
+    "after": "Gross Change Risk-Shifting Asset dose and non-GIIPS bank lending, Table2 A–C cols4/5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3183",
+    "before": null,
+    "after": "Eq1 pp2868–2870: firm-cluster×year FE absorb borrower demand/common shocks; firm-cluster×bank FE absorb persistent borrower-bank heterogeneity. Two effective identifying FE dimensions, not HDFE and not DiD merely because outcomes change during the crisis. Every displayed Table2/3 column has both FE; no actual no-FE OLS column. Author explicitly interprets the focal bank affectedness parameter as changing loan supply. Conditioning is not proof of exogeneity. Distinct gross rather than net exposure treatment omitted from original rows; explicitly implemented robustness. Source: p2870 fn16; p2871 Table2 cols4/5; L979–1051."
+  }
+]
+```
