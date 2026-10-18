@@ -35239,7 +35239,16 @@
     "L3539": "0",
     "M3539": "n/a",
     "N3539": "lead arranger syndicate Basel III Tier1 shortfall effect on nonbank share change,IA.XIII.D.",
-    "O3539": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote36 and appendix caption establish change outcome; visually verified panelD heading includes delta (lost by text extraction). Same conventional DiD as Table8. Distinct aggregated treatment, no exact publisher final numerical claim."
+    "O3539": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final footnote36 and appendix caption establish change outcome; visually verified panelD heading includes delta (lost by text extraction). Same conventional DiD as Table8. Distinct aggregated treatment, no exact publisher final numerical claim.",
+    "A3540": "UUTLYHI2",
+    "B3540": "h46",
+    "I3540": "1",
+    "J3540": "OLS",
+    "K3540": "1",
+    "L3540": "1",
+    "M3540": "n/a",
+    "N3540": "Origination in2007 versus2006 effect on primary-market lead and nonbank funding shares,IA.XVIII.",
+    "O3540": "Author institutional appendix dated August24,2020; title/authors and IA labels match final citations; not byte-verified publisher supplement. Final p.2220 interprets crisis-related nonbank withdrawal and incomplete lead-bank substitution. Year indicator conditional contrasts, no unaffected control group or DiD. Other year dummies treated as context/control, not separately interpreted causal shocks. Industry controls not separately argued identifying FE. Main text reverses column mapping: author appendix prints lead1/nonbank2; no claim of publisher byte identity. Main-role correction: introduction p.2185 footnote7 expressly calls primary-market withdrawal and incomplete lead-bank absorption a key mechanism underpinning the central credit contraction; appendix placement does not make it supporting-only."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -89546,7 +89555,21 @@
     "A8064": "UUTLYHI2",
     "B8064": "h45",
     "C8064": "hy1",
-    "K8064": "Change in syndicate nonbank share around announcement; IA.XIII.D delta visually verified despite missing extracted symbol."
+    "K8064": "Change in syndicate nonbank share around announcement; IA.XIII.D delta visually verified despite missing extracted symbol.",
+    "A8065": "UUTLYHI2",
+    "B8065": "h46",
+    "C8065": "hy1",
+    "H8065": "0",
+    "I8065": "unknown",
+    "J8065": "none",
+    "K8065": "Lead arranger share at origination,IA.XVIII column1.",
+    "A8066": "UUTLYHI2",
+    "B8066": "h46",
+    "C8066": "hy2",
+    "H8066": "0",
+    "I8066": "unknown",
+    "J8066": "none",
+    "K8066": "Nonbank share at origination,IA.XVIII column2."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
