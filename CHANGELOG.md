@@ -502455,3 +502455,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T02:37:48.707803+00:00 — Review QCQ3E8DE s3: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1460",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1460",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1460",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I598",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J598",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K598",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L598",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M598",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N598",
+    "before": null,
+    "after": "Continuous contemporaneous excess-market-return response of WML in bear/up versus bear/down states; Eq3/Table3 cols3–4. Interaction -0.815 (col3), -0.727 (col4). Binary indicators partition a continuous return dose, not a binary treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O598",
+    "before": null,
+    "after": "Author-intention inclusion, not an identification endorsement. Introduction p222 explicitly says momentum crashes because of conditionally negative beta; p223 calls crashes driven by conditional beta and loser optionality; pp228–230 interpret these exact market-response slopes as short-call exposure generating losses on rebounds. These are causally interpreted observational OLS under the supplied broad criterion. No excluded IV, FE, randomized assignment, or demonstrated exogeneity. Source conflict: p228–229 prose reports beta totals -0.742 and -1.796, while printed Table3 col3 coefficients are -0.032, -0.661, -0.815 (col4 -0.034, -0.708, -0.727). Do not silently repair the prose or mix columns; intro p222 reports approximately -0.70/-1.51. Source: pp222,228–229 Eq3 Table3 cols3–4."
+  }
+]
+```
