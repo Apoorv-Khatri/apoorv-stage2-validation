@@ -547038,3 +547038,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-18T12:29:42.758380+00:00 — Review S3X8G9NP s4: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1709",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1709",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1709",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1709",
+    "before": null,
+    "after": "Log commercial-bank assets; p201 fn2 excludes counties without commercial banks. No raw zero mass in retained bank-assets observations. Fig6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I687",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J687",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K687",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L687",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M687",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O687",
+    "before": null,
+    "after": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Fixed county entry exposure during 1916–1920 interacted with years, relative to 1910: conventional DiD, not modern DiD. Same two effective FE sets as s3. Competition is central in introduction/conclusion, so main=1. Source: Fig6B / Eq3, pp204,206; layout L569–613,661–664."
+  }
+]
+```
