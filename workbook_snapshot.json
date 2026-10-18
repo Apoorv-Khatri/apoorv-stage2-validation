@@ -32942,7 +32942,16 @@
     "L3340": "1",
     "M3340": "n/a",
     "N3340": "Third-to-fourth county subscription-rate change × post-1918, conditional on third rate; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Table6 odd cols1,3,5,7, p212; layout L1008–1054.",
-    "O3340": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Keep null investment-bank outcomes (0.004 and 0.001) as substantive. County/year FE; conventional intensity DiD. Source: Table6 odd cols1,3,5,7, p212; layout L1008–1054."
+    "O3340": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Keep null investment-bank outcomes (0.004 and 0.001) as substantive. County/year FE; conventional intensity DiD. Source: Table6 odd cols1,3,5,7, p212; layout L1008–1054.",
+    "A3341": "S3X8G9NP",
+    "B3341": "h4",
+    "I3341": "1",
+    "J3341": "IV",
+    "K3341": "0",
+    "L3341": "1",
+    "M3341": "single binary",
+    "N3341": "Third county subscription rate × post-1918 in joint 2SLS equation instrumenting the increment; outcomes: log commercial-bank assets, log commercial-bank deposits, reported log number of investment banks, and investment-bank presence indicator. Table6 even cols2,4,6,8, p212; p211 independent-interest statement L963–967.",
+    "O3341": "Author-intention gate: causal effects are expressly interpreted in pp195–196,202–204,211–215 despite acknowledged endogeneity; this is not a credibility verdict. Central nulls retained. Third rate is included/exogenous, NOT itself instrumented. Implemented estimator is joint 2SLS; excluded instrument switch-to-allotment × post-1918 instruments the increment only. Do not describe this third-rate coefficient as a complier response to third subscriptions. Independent audit: IV code denotes the implemented joint 2SLS system, not instrumented third-rate receipt. The included third-rate coefficient is separately retained because it is substantively interpreted (p211 independent-interest statement; Table7 joint lasting-effects discussion; A3 regional counterpart). Ordinary nuisance controls are not added as treatments. Source: Table6 even cols2,4,6,8, p212; p211 independent-interest statement L963–967."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -85525,7 +85534,23 @@
     "A7753": "S3X8G9NP",
     "B7753": "h3",
     "C7753": "hy4",
-    "K7753": "Indicator for at least one investment bank in county-year (0/1). Table6 odd cols1,3,5,7, p212; layout L1008–1054"
+    "K7753": "Indicator for at least one investment bank in county-year (0/1). Table6 odd cols1,3,5,7, p212; layout L1008–1054",
+    "A7754": "S3X8G9NP",
+    "B7754": "h4",
+    "C7754": "hy1",
+    "K7754": "Log total commercial-bank assets (dollars); counties without commercial banks omitted (p201 fn2). Table6 even cols2,4,6,8, p212; p211 independent-interest statement L963–967",
+    "A7755": "S3X8G9NP",
+    "B7755": "h4",
+    "C7755": "hy2",
+    "K7755": "Log total commercial-bank deposits (dollars). Table6 even cols2,4,6,8, p212; p211 independent-interest statement L963–967",
+    "A7756": "S3X8G9NP",
+    "B7756": "h4",
+    "C7756": "hy3",
+    "K7756": "Reported log number of investment banks; source does not specify zero-count handling. Do not infer log1p despite inclusion of counties without investment banks. Table6 even cols2,4,6,8, p212; p211 independent-interest statement L963–967",
+    "A7757": "S3X8G9NP",
+    "B7757": "h4",
+    "C7757": "hy4",
+    "K7757": "Indicator for at least one investment bank in county-year (0/1). Table6 even cols2,4,6,8, p212; p211 independent-interest statement L963–967"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
