@@ -36045,7 +36045,16 @@
     "L3609": "0",
     "M3609": "n/a",
     "N3609": "Idiosyncratic performance on forced and voluntary turnover in the same competing-risks model, final Section III.E p.2172.",
-    "O3609": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. Both components explicitly have weaker effects on voluntary turnover; no separate OLS regression invented."
+    "O3609": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. Both components explicitly have weaker effects on voluntary turnover; no separate OLS regression invented.",
+    "A3610": "WM5RSIHQ",
+    "B3610": "h7",
+    "I3610": "1",
+    "J3610": "Other",
+    "K3610": "0",
+    "L3610": "0",
+    "M3610": "n/a",
+    "N3610": "Industry-induced stock-return component with industry-specific first-stage performance betas on forced CEO dismissal; final Section I.B p.2162 and III.E pp.2172–2174.",
+    "O3610": "Minimum scope established by FINAL article prose only. Author appendix dated 2014 with DOI TBD is not verified final supplement; no table grid, thresholds, coefficients, extra outcomes or estimator details imported from it. Exact final allocation and possible further splits pending. First-stage modification of the expressly described Cox robustness family supports Other; no added identifying FE dimensions inferred from heterogeneous betas."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -91416,7 +91425,11 @@
     "A8201": "WM5RSIHQ",
     "B8201": "h6",
     "C8201": "hy2",
-    "K8201": "Voluntary CEO turnover event/time-to-event in competing-risks Cox model (final III.E p.2172); cause-specific hazard response, not an averaged event probability. Retention is the reference survival state."
+    "K8201": "Voluntary CEO turnover event/time-to-event in competing-risks Cox model (final III.E p.2172); cause-specific hazard response, not an averaged event probability. Retention is the reference survival state.",
+    "A8202": "WM5RSIHQ",
+    "B8202": "h7",
+    "C8202": "hy1",
+    "K8202": "Forced CEO dismissal event and tenure/time-to-event with voluntary departures right-censored; Cox proportional-hazard outcome. Estimated hazard intensity/slopes are not event probabilities or percentage-point probability effects. See linked setting for result location."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
