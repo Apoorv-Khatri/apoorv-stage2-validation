@@ -843591,3 +843591,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:41:31.770671+00:00 — Review A8LFPXLL h34: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9326",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9326",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9326",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9326",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9326",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9326",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9326",
+    "before": null,
+    "after": "Differential change in total earnings within earnings bin, conditional on some workers in that bin; Figure A.6 C, main footnote25. Exact normalization denominator not restated for this conditional-sample result; not certified as total-baseline-wage-bill normalization."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4160",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4160",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4160",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4160",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4160",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4160",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4160",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4160",
+    "before": null,
+    "after": "Baseline exposure earnings-bin heterogeneity conditional on firm having workers in bin Location: Figure A.6 C"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4160",
+    "before": null,
+    "after": "Figure A.6 C and main footnote25: substantive conditional-bin heterogeneity, not a decomposition of aggregate response. Exact denominator unresolved; no benchmark manufactured from bin cutpoints."
+  }
+]
+```
