@@ -680019,3 +680019,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:55:32.997908+00:00 — Review 4LB5EN3L h7: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8551",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8551",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8551",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8551",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8551",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8551",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8551",
+    "before": null,
+    "after": "Log daily wage in specified Table5 wage subpanel."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3809",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3809",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3809",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3809",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3809",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3809",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3809",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3809",
+    "before": null,
+    "after": "Table5 PanelA FIRST subpanel cols1-5: direct referral and referral×tenure effects on log daily wage in linked known-referral spells; controls include pre-estimated worker/firm wage components."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3809",
+    "before": null,
+    "after": "pp526,533-534: scalar prior-window effects, not categorical FE in focal regression; no IV. Preferred col5 initial0.033, interaction-0.017; main direct corroboration. Other columns routine control variants."
+  }
+]
+```

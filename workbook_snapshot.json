@@ -38396,7 +38396,16 @@
     "L3808": "1",
     "M3808": "n/a",
     "N3808": "Table4 PanelC col5: own-minority share on log daily wage and annual turnover; first-year versus subsequent-year effects, joint worker, firm, and year FE.",
-    "O3808": "Eq(2), pp523-526 and Table4 notes p530: worker FE address worker ability/referral selection, firm FE firm productivity/referral selection; year FE also present. Cols3/4 have worker OR firm plus year (standard FE); col5 has worker+firm+year (three effective sets, HDFE), with explicit substantive sorting argument. No IV, randomization, RD, or DiD implemented in these proxy regressions. Own share is a continuous pre-hire proxy, not observed referral treatment."
+    "O3808": "Eq(2), pp523-526 and Table4 notes p530: worker FE address worker ability/referral selection, firm FE firm productivity/referral selection; year FE also present. Cols3/4 have worker OR firm plus year (standard FE); col5 has worker+firm+year (three effective sets, HDFE), with explicit substantive sorting argument. No IV, randomization, RD, or DiD implemented in these proxy regressions. Own share is a continuous pre-hire proxy, not observed referral treatment.",
+    "A3809": "4LB5EN3L",
+    "B3809": "h7",
+    "I3809": "1",
+    "J3809": "OLS",
+    "K3809": "1",
+    "L3809": "1",
+    "M3809": "n/a",
+    "N3809": "Table5 PanelA FIRST subpanel cols1-5: direct referral and referral×tenure effects on log daily wage in linked known-referral spells; controls include pre-estimated worker/firm wage components.",
+    "O3809": "pp526,533-534: scalar prior-window effects, not categorical FE in focal regression; no IV. Preferred col5 initial0.033, interaction-0.017; main direct corroboration. Other columns routine control variants."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -96625,7 +96634,14 @@
     "A8550": "4LB5EN3L",
     "B8550": "h6",
     "C8550": "hy2",
-    "K8550": "Binary annual leaving-firm indicator t+1; Table4 PanelC."
+    "K8550": "Binary annual leaving-firm indicator t+1; Table4 PanelC.",
+    "A8551": "4LB5EN3L",
+    "B8551": "h7",
+    "C8551": "hy1",
+    "H8551": "0",
+    "I8551": "unknown",
+    "J8551": "log",
+    "K8551": "Log daily wage in specified Table5 wage subpanel."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
