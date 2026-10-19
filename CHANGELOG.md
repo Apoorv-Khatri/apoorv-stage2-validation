@@ -795150,3 +795150,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T13:28:52.111396+00:00 — Review 9VJYE45Y h13: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9092",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9093",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9092",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9093",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9092",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9093",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9092",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9093",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9092",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9093",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9092",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9093",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9092",
+    "before": null,
+    "after": "Annual out-of-pocket spending under fixed utilization, mechanical decline about200 dollars; p879. Fixed-utilization input distribution not explicitly established; do not transfer individual zero-mass label automatically."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9093",
+    "before": null,
+    "after": "Annual insurer spending under fixed utilization, mechanical increase about200 dollars, expressly stated as same amount; p879. Fixed-utilization input distribution not explicitly established; do not transfer individual zero-mass label automatically."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4089",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4089",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4089",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4089",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4089",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4089",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4089",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4089",
+    "before": null,
+    "after": "Fill gap versus standard2008 contract holding utilization behavior constant: mechanical payment-incidence effect, p879; average OOP falls about200 dollars and insurer spending rises by same amount. Distinct fixed-behavior estimand from s3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4089",
+    "before": null,
+    "after": "Author explicitly attributes spending/payment change to filling gap with behavior held fixed. This is a mechanical policy counterfactual, not zero causal content merely because behavior is frozen. Conditional payment aggregation may be linear, while full model recovery is nonlinear; exact implemented inputs/procedure for this reported mechanical calculation not established by inspected sources, so unknown rather than inferred OLS or Other. No effect-to-effect comparison added."
+  }
+]
+```

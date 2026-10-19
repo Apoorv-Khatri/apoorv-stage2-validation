@@ -41354,7 +41354,16 @@
     "L4088": "1",
     "M4088": "n/a",
     "N4088": "Fill gap versus standard2008: conditional distribution of individual annual spending changes by predicted baseline spending, Figure VIII top pp879-882.",
-    "O4088": "Structural dynamic purchase model estimated by simulated minimum distance (equation9); nonlinear recovery/optimization, not IV from moment conditions and not RD from the budget kink. Same simulation draws across contracts; fixed health/preferences, plan selection and supply. Main role follows introduction/conclusion, not table order."
+    "O4088": "Structural dynamic purchase model estimated by simulated minimum distance (equation9); nonlinear recovery/optimization, not IV from moment conditions and not RD from the budget kink. Same simulation draws across contracts; fixed health/preferences, plan selection and supply. Main role follows introduction/conclusion, not table order.",
+    "A4089": "9VJYE45Y",
+    "B4089": "h13",
+    "I4089": "1",
+    "J4089": "unknown",
+    "K4089": "1",
+    "L4089": "0",
+    "M4089": "unknown",
+    "N4089": "Fill gap versus standard2008 contract holding utilization behavior constant: mechanical payment-incidence effect, p879; average OOP falls about200 dollars and insurer spending rises by same amount. Distinct fixed-behavior estimand from s3.",
+    "O4089": "Author explicitly attributes spending/payment change to filling gap with behavior held fixed. This is a mechanical policy counterfactual, not zero causal content merely because behavior is frozen. Conditional payment aggregation may be linear, while full model recovery is nonlinear; exact implemented inputs/procedure for this reported mechanical calculation not established by inspected sources, so unknown rather than inferred OLS or Other. No effect-to-effect comparison added."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -103530,7 +103539,21 @@
     "H9091": "0",
     "I9091": "unknown",
     "J9091": "none",
-    "K9091": "90th percentile of individual annual spending change conditional on predicted baseline spending; Figure VIII top. No numeric graph endpoints invented; distinct from Table VI difference of distributional quantiles."
+    "K9091": "90th percentile of individual annual spending change conditional on predicted baseline spending; Figure VIII top. No numeric graph endpoints invented; distinct from Table VI difference of distributional quantiles.",
+    "A9092": "9VJYE45Y",
+    "B9092": "h13",
+    "C9092": "hy1",
+    "H9092": "0",
+    "I9092": "unknown",
+    "J9092": "none",
+    "K9092": "Annual out-of-pocket spending under fixed utilization, mechanical decline about200 dollars; p879. Fixed-utilization input distribution not explicitly established; do not transfer individual zero-mass label automatically.",
+    "A9093": "9VJYE45Y",
+    "B9093": "h13",
+    "C9093": "hy2",
+    "H9093": "0",
+    "I9093": "unknown",
+    "J9093": "none",
+    "K9093": "Annual insurer spending under fixed utilization, mechanical increase about200 dollars, expressly stated as same amount; p879. Fixed-utilization input distribution not explicitly established; do not transfer individual zero-mass label automatically."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
