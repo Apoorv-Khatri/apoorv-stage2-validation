@@ -660930,3 +660930,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:48:37.176329+00:00 — Review 4BNXLZ5D h8: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8449",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8449",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8449",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8449",
+    "before": null,
+    "after": "Postshipment-use indicator in multinomial outcome; Figure8 reports its model-implied probability, not a two-valued predicted probability."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3763",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3763",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3763",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3763",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3763",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3763",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3763",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3763",
+    "before": null,
+    "after": "Figure8 panel b: Contract viability on postshipment probability, moderated by long-distance indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3763",
+    "before": null,
+    "after": "Implemented multinomial logit: Other regardless of product/year dummies. Three mutually exclusive financing categories; category-specific probability effects are not separate binary logits. Author-intention gate: pp885–87 explicitly calls these effects and tests propositions; observational institutional variation is not exogenous identification. No IV/RCT/RD/DiD. Continuous enforcement dose, even though distance moderator is binary. Figure shows predictions, not outcome-SD units. No numeric graph values imputed."
+  }
+]
+```
