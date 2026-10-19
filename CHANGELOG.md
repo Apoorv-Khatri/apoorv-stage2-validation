@@ -728049,3 +728049,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:45:49.963634+00:00 — Review 5VHQLIKT s10: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2263",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2263",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2263",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2263",
+    "before": null,
+    "after": "Inactive observational/correlational parent; original definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I917",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O917",
+    "before": null,
+    "after": "Figure V Mechanisms: pp2350,2355,2358,2361 and conclusion explicitly frame these as correlations; experiments are separately used to establish causal direction. p2357 leads to/impactful language is a contested broad-intention counterargument, not ignored. No parameter-specific identifying FE argument. Reject observational attitude decomposition, not because endogeneity alone invalidates a claimed effect."
+  }
+]
+```
