@@ -38151,7 +38151,16 @@
     "L3786": "0",
     "M3786": "n/a",
     "N3786": "Table5col3 p3206: binary hiring-shock effect varying continuously with control-month employment rate; beta+gamma×employment, not a continuous-dose hiring treatment.",
-    "O3786": "Eq(1), pp3196-3199; Appendix C pp19-21. Village matched-pair randomized high versus low external hiring intensity; workers randomly assigned offers/waitlist/never offered, with never-offered spillover sample. Linear ITT; RCT precedes round-strata FE and sampling weights. Seasonal moderator uses control-village month employment, not randomized season; treatment remains binary. Not IV receipt except s5. Control condition has small hiring shock, not literally no jobs. Randomization supports control counterfactual for matched season/population under maintained sampling assumptions; wage selection, subgroup means and continuous-moderator targets need separate scrutiny."
+    "O3786": "Eq(1), pp3196-3199; Appendix C pp19-21. Village matched-pair randomized high versus low external hiring intensity; workers randomly assigned offers/waitlist/never offered, with never-offered spillover sample. Linear ITT; RCT precedes round-strata FE and sampling weights. Seasonal moderator uses control-village month employment, not randomized season; treatment remains binary. Not IV receipt except s5. Control condition has small hiring shock, not literally no jobs. Randomization supports control counterfactual for matched season/population under maintained sampling assumptions; wage selection, subgroup means and continuous-moderator targets need separate scrutiny.",
+    "A3787": "4HCEQK9M",
+    "B3787": "h3",
+    "I3787": "1",
+    "J3787": "RCT",
+    "K3787": "1",
+    "L3787": "0",
+    "M3787": "n/a",
+    "N3787": "Table6col2 p3208: binary hiring-shock effect varying continuously with control-month employment rate; beta+gamma×employment, not a continuous-dose hiring treatment.",
+    "O3787": "Eq(1), pp3196-3199; Appendix C pp19-21. Village matched-pair randomized high versus low external hiring intensity; workers randomly assigned offers/waitlist/never offered, with never-offered spillover sample. Linear ITT; RCT precedes round-strata FE and sampling weights. Seasonal moderator uses control-village month employment, not randomized season; treatment remains binary. Not IV receipt except s5. Control condition has small hiring shock, not literally no jobs. Randomization supports control counterfactual for matched season/population under maintained sampling assumptions; wage selection, subgroup means and continuous-moderator targets need separate scrutiny."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -96053,7 +96062,14 @@
     "H8500": "1",
     "I8500": "1",
     "J8500": "none",
-    "K8500": "local wage-employment indicator"
+    "K8500": "local wage-employment indicator",
+    "A8501": "4HCEQK9M",
+    "B8501": "h3",
+    "C8501": "hy1",
+    "H8501": "1",
+    "I8501": "1",
+    "J8501": "none",
+    "K8501": "full-village local wage-employment indicator"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
