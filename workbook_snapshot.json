@@ -38634,7 +38634,16 @@
     "L3824": "0",
     "M3824": "n/a",
     "N3824": "AppendixFigureD5: coverage-reform contrast in adjusted racial gap paths by education, treated versus control industries.",
-    "O3824": "Same graphical gap-DiD judgment as s13, held for parent. Caption high education11-or-more conflicts with low11-or-less and D4 high>11; preserve, do not infer overlap implementation."
+    "O3824": "Same graphical gap-DiD judgment as s13, held for parent. Caption high education11-or-more conflicts with low11-or-less and D4 high>11; preserve, do not infer overlap implementation.",
+    "A3825": "4X3H7PWW",
+    "B3825": "h9",
+    "I3825": "1",
+    "J3825": "DiD_conventional",
+    "K3825": "1",
+    "L3825": "1",
+    "M3825": "n/a",
+    "N3825": "AppendixTableD2: strong versus weak state DiD on log aggregate mean earnings conditional/unconditional on working, state-group×year.",
+    "O3825": "AppD explains average earnings including individual zeros before logging; not log1p/IHS. Table sample25-65 versus main prime-age25-55. Unconditional positive effect central racial-income conclusion (main fn49), conditional controls are supporting comparisons. Separate outcomes grouped at same location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97094,7 +97103,21 @@
     "H8576": "0",
     "I8576": "unknown",
     "J8576": "log",
-    "K8576": "Adjusted racial gap from log earnings, low/high education; FigureD5."
+    "K8576": "Adjusted racial gap from log earnings, low/high education; FigureD5.",
+    "A8577": "4X3H7PWW",
+    "B8577": "h9",
+    "C8577": "hy1",
+    "H8577": "0",
+    "I8577": "unknown",
+    "J8577": "log",
+    "K8577": "Log state-group-year average annual earnings of workers, TableD2 cols1-2.",
+    "A8578": "4X3H7PWW",
+    "B8578": "h9",
+    "C8578": "hy2",
+    "H8578": "0",
+    "I8578": "unknown",
+    "J8578": "log",
+    "K8578": "Log state-group-year average earnings including unemployed/NILF zero individual earnings, TableD2 col3. Individual raw zeros explicit; aggregate/log zero mass not established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
