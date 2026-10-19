@@ -682098,3 +682098,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:27:08.324930+00:00 — Review 4X3H7PWW s10: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I892",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J892",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K892",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L892",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M892",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N892",
+    "before": null,
+    "after": "TableVI Alternative1: continuous1966 state Kaitz index × post on employment indicators and log annual earnings, All/Black/White."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O892",
+    "before": null,
+    "after": "Separate from affected-worker fraction treatment h3. One treatment-SD scaling (mean0.35, SD0.048) is not outcome-SD comparison."
+  }
+]
+```
