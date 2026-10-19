@@ -766437,3 +766437,486 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:14:17.301680+00:00 — Review 7PQVC2SH h38: source-audited coding and linked comparisons
+
+79 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6841",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6842",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6843",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6844",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6845",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6846",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6841",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6842",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6843",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6844",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6845",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6846",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6841",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6842",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6843",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6844",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6845",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6846",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6841",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6842",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6843",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6844",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6845",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6846",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6841",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6842",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6843",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6844",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6845",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6846",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6841",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6842",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6843",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6844",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6845",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6846",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6841",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6842",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6843",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6844",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6845",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6846",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6841",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6842",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6843",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6844",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6845",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6846",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6841",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6842",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6843",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6844",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6845",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6846",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6841",
+    "before": null,
+    "after": "pp2096-2097 / Table5B col1: full estimated-model explained fraction0.78; author-replicated Caselli baseline0.39 for this accounting approach. Do not use40% indiscriminately for panelB or substitute external78% estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6842",
+    "before": null,
+    "after": "pp2096-2097 / Table5B col2: full estimated-model explained fraction0.66; author-replicated Caselli baseline0.39 for this accounting approach. Do not use40% indiscriminately for panelB or substitute external78% estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6843",
+    "before": null,
+    "after": "pp2096-2097 / Table5B col3: full estimated-model explained fraction0.60; author-replicated Caselli baseline0.39 for this accounting approach. Do not use40% indiscriminately for panelB or substitute external78% estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6844",
+    "before": null,
+    "after": "pp2096-2097 / Table5B col4: full estimated-model explained fraction0.76; author-replicated Caselli baseline0.39 for this accounting approach. Do not use40% indiscriminately for panelB or substitute external78% estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6845",
+    "before": null,
+    "after": "pp2096-2097 / Table5B col5: full estimated-model explained fraction0.64; author-replicated Caselli baseline0.39 for this accounting approach. Do not use40% indiscriminately for panelB or substitute external78% estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6846",
+    "before": null,
+    "after": "pp2096-2097 / Table5B col6: full estimated-model explained fraction0.59; author-replicated Caselli baseline0.39 for this accounting approach. Do not use40% indiscriminately for panelB or substitute external78% estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6841",
+    "before": null,
+    "after": "Counterfactual-accounting proportion outcome, other_level; comparison not divided by baseline. Source also reports constant8%-return baseline35%/34%; held as alternative benchmark allocation for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6842",
+    "before": null,
+    "after": "Counterfactual-accounting proportion outcome, other_level; comparison not divided by baseline. Source also reports constant8%-return baseline35%/34%; held as alternative benchmark allocation for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6843",
+    "before": null,
+    "after": "Counterfactual-accounting proportion outcome, other_level; comparison not divided by baseline. Source also reports constant8%-return baseline35%/34%; held as alternative benchmark allocation for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6844",
+    "before": null,
+    "after": "Counterfactual-accounting proportion outcome, other_level; comparison not divided by baseline. Source also reports constant8%-return baseline35%/34%; held as alternative benchmark allocation for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6845",
+    "before": null,
+    "after": "Counterfactual-accounting proportion outcome, other_level; comparison not divided by baseline. Source also reports constant8%-return baseline35%/34%; held as alternative benchmark allocation for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6846",
+    "before": null,
+    "after": "Counterfactual-accounting proportion outcome, other_level; comparison not divided by baseline. Source also reports constant8%-return baseline35%/34%; held as alternative benchmark allocation for adjudication."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8926",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8926",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8926",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8926",
+    "before": null,
+    "after": "Caselli fraction of cross-country income variation explained, Table5B overall."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3986",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3986",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3986",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3986",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3986",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3986",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3986",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3986",
+    "before": null,
+    "after": "Section5.2/Table5 overall rows: contribution of observed human/physical capital variation including entrepreneur productivity, two development-accounting approaches and six calibrated specifications. Scope restricted to panel B, Caselli accounting; panel A separately h29."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3986",
+    "before": null,
+    "after": "Structural factor-only counterfactual relative to standard accounting, not an observed cross-country causal regression. Continuous human-capital distribution. Full versus Caselli baseline is explicit same-outcome comparison; no coefficient recalculated."
+  }
+]
+```
