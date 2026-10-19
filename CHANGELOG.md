@@ -652713,3 +652713,582 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:20:45.826861+00:00 — Review 3ZIDN6KF s5: source-audited coding and linked comparisons
+
+95 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K532",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K533",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K534",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K535",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K538",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K539",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L532",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L533",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L534",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L535",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L536",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L537",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L538",
+    "before": null,
+    "after": "y7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L539",
+    "before": null,
+    "after": "y8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M532",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M533",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M534",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M535",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M536",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M537",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M538",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M539",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N532",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N533",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N534",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N535",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N536",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N537",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N538",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N539",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O532",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O533",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O534",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O535",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O536",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O537",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O538",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O539",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P532",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P533",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P534",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P535",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P536",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P537",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P538",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P539",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q532",
+    "before": null,
+    "after": "Table 5 panel A reports “Mean of dependent variable: 0.628” and “Reform × Post −0.014 (0.014).” Benchmark is the estimation-sample mean, not a demonstrated untreated-target mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q533",
+    "before": null,
+    "after": "Table 5 panel A reports “Mean of dependent variable: 0.0983” and “Reform × Post 0.007 (0.007).” Benchmark is the estimation-sample mean, not a demonstrated untreated-target mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q534",
+    "before": null,
+    "after": "Table 5 panel A reports “Mean of dependent variable: 0.0244” and “Reform × Post 0.007 (0.004).” Benchmark is the estimation-sample mean, not a demonstrated untreated-target mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q535",
+    "before": null,
+    "after": "Table 5 panel A reports “Mean of dependent variable: 0.0187” and “Reform × Post −0.001 (0.004).” Benchmark is the estimation-sample mean, not a demonstrated untreated-target mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q536",
+    "before": null,
+    "after": "Table 5 panel B reports “Mean of dependent variable: 28.40” and “Reform × Post 0.826 (1.038).” Benchmark is the estimation-sample mean, not a demonstrated untreated-target mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q537",
+    "before": null,
+    "after": "Table 5 panel B reports “Mean of dependent variable: 0.864” and “Reform × Post −0.002 (0.027).” Benchmark is the estimation-sample mean, not a demonstrated untreated-target mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q538",
+    "before": null,
+    "after": "Table 5 panel B reports “Mean of dependent variable: 0.114” and “Reform × Post −0.015 (0.026).” Benchmark is the estimation-sample mean, not a demonstrated untreated-target mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q539",
+    "before": null,
+    "after": "Table 5 panel B reports “Mean of dependent variable: 0.966” and “Reform × Post −0.000 (0.012).” Benchmark is the estimation-sample mean, not a demonstrated untreated-target mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R532",
+    "before": null,
+    "after": "Deliberate table mean pairing qualifies, including reported log-scale mean. Percentage interpretation of a log coefficient is not verbal comparison to that mean. Alignment unknown: target untreated levels/weights not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R533",
+    "before": null,
+    "after": "Deliberate table mean pairing qualifies, including reported log-scale mean. Percentage interpretation of a log coefficient is not verbal comparison to that mean. Alignment unknown: target untreated levels/weights not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R534",
+    "before": null,
+    "after": "Deliberate table mean pairing qualifies, including reported log-scale mean. Percentage interpretation of a log coefficient is not verbal comparison to that mean. Alignment unknown: target untreated levels/weights not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R535",
+    "before": null,
+    "after": "Deliberate table mean pairing qualifies, including reported log-scale mean. Percentage interpretation of a log coefficient is not verbal comparison to that mean. Alignment unknown: target untreated levels/weights not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R536",
+    "before": null,
+    "after": "Deliberate table mean pairing qualifies, including reported log-scale mean. Percentage interpretation of a log coefficient is not verbal comparison to that mean. Alignment unknown: target untreated levels/weights not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R537",
+    "before": null,
+    "after": "Deliberate table mean pairing qualifies, including reported log-scale mean. Percentage interpretation of a log coefficient is not verbal comparison to that mean. Alignment unknown: target untreated levels/weights not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R538",
+    "before": null,
+    "after": "Deliberate table mean pairing qualifies, including reported log-scale mean. Percentage interpretation of a log coefficient is not verbal comparison to that mean. Alignment unknown: target untreated levels/weights not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R539",
+    "before": null,
+    "after": "Deliberate table mean pairing qualifies, including reported log-scale mean. Percentage interpretation of a log coefficient is not verbal comparison to that mean. Alignment unknown: target untreated levels/weights not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2089",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2090",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2091",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2092",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2093",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2094",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2095",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2089",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2090",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2091",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2092",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2093",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2094",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2095",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2088",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2089",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2090",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2091",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2092",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2093",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2094",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2095",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2092",
+    "before": null,
+    "after": "Age of census-linked hires; Appendix C excludes candidate matches younger than18 or older than65 at personnel observation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I853",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J853",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K853",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L853",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M853",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O853",
+    "before": null,
+    "after": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Intro p2355 central worker-selection null. Individual outcomes, not city shares. Three FE sets do not override DiD."
+  }
+]
+```
