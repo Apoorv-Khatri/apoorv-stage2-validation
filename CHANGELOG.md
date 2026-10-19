@@ -752409,3 +752409,324 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:34:09.031097+00:00 — Review 64JY936S h33: source-audited coding and linked comparisons
+
+52 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8875",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8876",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8877",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8878",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8879",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8880",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8875",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8876",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8877",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8878",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8879",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8880",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8875",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8876",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8877",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8878",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8879",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8880",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8875",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8876",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8877",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8878",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8879",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8880",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8875",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8876",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8877",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8878",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8879",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8880",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8875",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8876",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8877",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8878",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8879",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8880",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8875",
+    "before": null,
+    "after": "Young employment in high-share firms elasticity-1.64; AppendixC.5.3. Each is a specified model outcome/margin, not one grouped placeholder."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8876",
+    "before": null,
+    "after": "Old employment in high-share firms elasticity-0.40; AppendixC.5.3. Each is a specified model outcome/margin, not one grouped placeholder."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8877",
+    "before": null,
+    "after": "Young employment in medium-share firms elasticity-1.40; AppendixC.5.3. Each is a specified model outcome/margin, not one grouped placeholder."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8878",
+    "before": null,
+    "after": "Old employment in medium-share firms elasticity-0.15; AppendixC.5.3. Each is a specified model outcome/margin, not one grouped placeholder."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8879",
+    "before": null,
+    "after": "High-minus-medium total employment response fitted to4.6%; AppendixC.5.3. Each is a specified model outcome/margin, not one grouped placeholder."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8880",
+    "before": null,
+    "after": "High-minus-medium net wage response fitted around2%; AppendixC.5.3. Each is a specified model outcome/margin, not one grouped placeholder."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E103",
+    "before": null,
+    "after": "DONE — Full47-page final article and50-page official AEA supplement independently reviewed; official supplement re-downloaded/hash-matched. Retain41 settings and99 comparisons, with33 settings94 outcomes97 comparisons added. Conventional DiD precedence for cohort/firm-exposure contrasts, not RD or IV merely from age cutoffs or first stages. Table7 aggregate percentile-series regressions classified conventional DiD in reported-outcome domain, consistently with Table1C selected-group means; underlying nonlinear percentile construction and full-micro-procedure alternative explicit. Own-outcome baseline normalization retained with means distinguished from own-firm/percentile levels; ten qualitative graphical pairs have no invented coefficients or annual grids. s2 central incidence evidence main. h29 concurrent temporary-contract reform attribution and exposure unknown, not relabeled youth-payroll assignment; substantive null scopes retained. Density, cash-only and accounting implementation uncertainty retained; nonlinear ratio/calibration scopes distinguished. Employment construction, dose/year caption reversals and printed scale conflicts preserved. Official supplement identity verified; fresh remote main-PDF identity unavailable, verified local final article used. No microdata or code replication. Original fields, IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3948",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3948",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3948",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3948",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3948",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3948",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3948",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3948",
+    "before": null,
+    "after": "Calibrated two-firm-type pay-equity/monopsony model response to youth payroll tax, AppendixC.5.3 pp82-84; absolute employment elasticities and fitted relative employment/wage effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3948",
+    "before": null,
+    "after": "Nonlinear calibrated CES equilibrium, not empirically estimated IV/OLS. Fitted relative employment4.6% and wage2% target data; additional predicted absolute elasticities young/old in high-share firms-1.64/-0.40, medium-share-1.40/-0.15. Pure analytical C.1-C.5.2 predictions not separate estimated settings. Calibration alternative parameters acknowledged."
+  }
+]
+```
