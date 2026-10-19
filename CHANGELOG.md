@@ -614619,3 +614619,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T00:27:06.009180+00:00 — Review XTWW4AUI h12: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8300",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8300",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8300",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8300",
+    "before": null,
+    "after": "Return outcome of timing-premium analysis; exact stock/portfolio implementation not specified. Do not duplicate quantitative Table8 or Table11 result into unseen appendix. Treatment, horizon and method unresolved."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E90",
+    "before": null,
+    "after": "DONE — Full available-source review of18 final pages,12 tables,5 figures and20 footnotes, with independent audit. Retain19 minimum settings and62 endpoint-mean comparisons; original s7/c1 rejected because benchmarks are treatment-side quantities. Timing-premium causal intention rests on parameter-specific compensation and ceteris-paribus interpretations, not portfolio tradeability. s1 median across outcome-ranked permutations Other; s2/h1–h6 full procedures unknown; s7 Fama–MacBeth OLS, not identifying FE. Main-text-established appendix scopes retained minimally without unseen grids; h11/h12 treatment/model unresolved. Both deliberately paired early and late endpoint means eligible; early alignment unknown, late0; no invented ratios. Preserve printed term-structure, rounding, theory-scale and other source conflicts. Final Internet Appendix unavailable (journal-linked file deleted); no older source substituted. Original fields, IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3676",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3676",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3676",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3676",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3676",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3676",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3676",
+    "before": null,
+    "after": "Shorting-premium proxy cheap-minus-expensive factor based on SIRIO control robustness, pp.139-140."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3676",
+    "before": null,
+    "after": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Do not duplicate quantitative Table8 or Table11 result into unseen appendix. Treatment, horizon and method unresolved."
+  }
+]
+```

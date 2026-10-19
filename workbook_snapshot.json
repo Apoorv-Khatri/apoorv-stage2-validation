@@ -427,6 +427,7 @@
     "B90": "Implied volatility duration: A measure for the timing of uncertainty resolution",
     "C90": "fin",
     "D90": 7,
+    "E90": "DONE — Full available-source review of18 final pages,12 tables,5 figures and20 footnotes, with independent audit. Retain19 minimum settings and62 endpoint-mean comparisons; original s7/c1 rejected because benchmarks are treatment-side quantities. Timing-premium causal intention rests on parameter-specific compensation and ceteris-paribus interpretations, not portfolio tradeability. s1 median across outcome-ranked permutations Other; s2/h1–h6 full procedures unknown; s7 Fama–MacBeth OLS, not identifying FE. Main-text-established appendix scopes retained minimally without unseen grids; h11/h12 treatment/model unresolved. Both deliberately paired early and late endpoint means eligible; early alignment unknown, late0; no invented ratios. Preserve printed term-structure, rounding, theory-scale and other source conflicts. Final Internet Appendix unavailable (journal-linked file deleted); no older source substituted. Original fields, IDs and hyperlinks preserved.",
     "A91": "ZHTZCSY3",
     "B91": "Measuring institutional trading costs and the implications for finance research: The case of tick size reductions",
     "C91": "fin",
@@ -36816,7 +36817,16 @@
     "L3675": "0",
     "M3675": "unknown",
     "N3675": "Shorting-premium E-factor control robustness, pp.139-140.",
-    "O3675": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Main text establishes implemented factor control and unchanged result, but does not settle Fama-MacBeth slope versus LME alpha or treatment coding."
+    "O3675": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Main text establishes implemented factor control and unchanged result, but does not settle Fama-MacBeth slope versus LME alpha or treatment coding.",
+    "A3676": "XTWW4AUI",
+    "B3676": "h12",
+    "I3676": "1",
+    "J3676": "unknown",
+    "K3676": "unknown",
+    "L3676": "0",
+    "M3676": "unknown",
+    "N3676": "Shorting-premium proxy cheap-minus-expensive factor based on SIRIO control robustness, pp.139-140.",
+    "O3676": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Do not duplicate quantitative Table8 or Table11 result into unseen appendix. Treatment, horizon and method unresolved."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93089,7 +93099,11 @@
     "A8299": "XTWW4AUI",
     "B8299": "h11",
     "C8299": "hy1",
-    "K8299": "Return outcome of timing-premium analysis; exact stock/portfolio implementation not specified. Main text establishes implemented factor control and unchanged result, but does not settle Fama-MacBeth slope versus LME alpha or treatment coding."
+    "K8299": "Return outcome of timing-premium analysis; exact stock/portfolio implementation not specified. Main text establishes implemented factor control and unchanged result, but does not settle Fama-MacBeth slope versus LME alpha or treatment coding.",
+    "A8300": "XTWW4AUI",
+    "B8300": "h12",
+    "C8300": "hy1",
+    "K8300": "Return outcome of timing-premium analysis; exact stock/portfolio implementation not specified. Do not duplicate quantitative Table8 or Table11 result into unseen appendix. Treatment, horizon and method unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
