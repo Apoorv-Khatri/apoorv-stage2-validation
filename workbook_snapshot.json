@@ -37441,7 +37441,16 @@
     "L3726": "0",
     "M3726": "single continuous",
     "N3726": "TableB6, p3174: upper-BP DI income effect on beneficiary earnings.",
-    "O3726": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Main text establishes implemented effect: family null, upper negative. No unseen table coefficients/benchmarks asserted."
+    "O3726": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Main text establishes implemented effect: family null, upper negative. No unseen table coefficients/benchmarks asserted.",
+    "A3727": "2XPTKJBQ",
+    "B3727": "h3",
+    "I3727": "1",
+    "J3727": "IV",
+    "K3727": "0",
+    "L3727": "0",
+    "M3727": "single continuous",
+    "N3727": "TableB8 / FigureB11, pp3175–76 fn17: family-BP disability cash income effect on mortality among DI/SSI dual eligibles and pooled DI+DI/SSI sample variants.",
+    "O3727": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Family dual estimate -0.05 pp versus main -0.26 pp is an effect-to-effect comparison, not qualifying benchmark. Upper policy-rule applicability does not establish an implemented upper result. Pooled lower/family results established fn17; pooled upper grid not assumed. Dual-only and pooled lower/family samples are routine sample variants at B8, not binary eligibility treatments. Upper B8 is not established merely by a sentence describing payment rules."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94501,7 +94510,11 @@
     "A8388": "2XPTKJBQ",
     "B8388": "h2",
     "C8388": "hy1",
-    "K8388": "Earnings; exact horizon/scale not established by final main text."
+    "K8388": "Earnings; exact horizon/scale not established by final main text.",
+    "A8389": "2XPTKJBQ",
+    "B8389": "h3",
+    "C8389": "hy1",
+    "K8389": "Mortality after DI waiting period; precise appendix horizon unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

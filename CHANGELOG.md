@@ -650463,3 +650463,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:55:55.042776+00:00 — Review 2XPTKJBQ h3: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8389",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8389",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8389",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8389",
+    "before": null,
+    "after": "Mortality after DI waiting period; precise appendix horizon unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3727",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3727",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3727",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3727",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3727",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3727",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3727",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3727",
+    "before": null,
+    "after": "TableB8 / FigureB11, pp3175–76 fn17: family-BP disability cash income effect on mortality among DI/SSI dual eligibles and pooled DI+DI/SSI sample variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3727",
+    "before": null,
+    "after": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Family dual estimate -0.05 pp versus main -0.26 pp is an effect-to-effect comparison, not qualifying benchmark. Upper policy-rule applicability does not establish an implemented upper result. Pooled lower/family results established fn17; pooled upper grid not assumed. Dual-only and pooled lower/family samples are routine sample variants at B8, not binary eligibility treatments. Upper B8 is not established merely by a sentence describing payment rules."
+  }
+]
+```
