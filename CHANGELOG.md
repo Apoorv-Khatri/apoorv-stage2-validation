@@ -678777,3 +678777,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:51:06.769397+00:00 — Review 4LB5EN3L s3: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I877",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J877",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K877",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L877",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M877",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N877",
+    "before": null,
+    "after": "Table4 PanelA cols3-4: own-minority workforce share one year before hiring on log daily wage and annual leaving-firm indicator; average effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O877",
+    "before": null,
+    "after": "Eq(2), pp523-526 and Table4 notes p530: worker FE address worker ability/referral selection, firm FE firm productivity/referral selection; year FE also present. Cols3/4 have worker OR firm plus year (standard FE); col5 has worker+firm+year (three effective sets, HDFE), with explicit substantive sorting argument. No IV, randomization, RD, or DiD implemented in these proxy regressions. Own share is a continuous pre-hire proxy, not observed referral treatment."
+  }
+]
+```
