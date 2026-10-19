@@ -36726,7 +36726,16 @@
     "L3665": "0",
     "M3665": "unknown",
     "N3665": "Alternative IV thresholds and no-long-IV-restriction placebo, pp.130-131; positive 1.26pp moderate5-15% gap, footnote8 0.64/3.17pp other gaps.",
-    "O3665": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Outcome-ranked permutation aggregation and exact column implementation not verified; no unseen grid inferred."
+    "O3665": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Outcome-ranked permutation aggregation and exact column implementation not verified; no unseen grid inferred.",
+    "A3666": "XTWW4AUI",
+    "B3666": "h2",
+    "I3666": "1",
+    "J3666": "unknown",
+    "K3666": "1",
+    "L3666": "0",
+    "M3666": "unknown",
+    "N3666": "Holding-month dynamics of matched-pair strategy, p.131: positive all12 months, highest second month, significance wanes after six.",
+    "O3666": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Distinct dynamic result location; no numeric coefficients available."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92941,7 +92950,14 @@
     "H8289": "0",
     "I8289": "unknown",
     "J8289": "none",
-    "K8289": "12-month late-minus-early stock return. Outcome-ranked permutation aggregation and exact column implementation not verified; no unseen grid inferred."
+    "K8289": "12-month late-minus-early stock return. Outcome-ranked permutation aggregation and exact column implementation not verified; no unseen grid inferred.",
+    "A8290": "XTWW4AUI",
+    "B8290": "h2",
+    "C8290": "hy1",
+    "H8290": "0",
+    "I8290": "unknown",
+    "J8290": "none",
+    "K8290": "Return in each of the 12 holding months. Distinct dynamic result location; no numeric coefficients available."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

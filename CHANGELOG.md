@@ -613641,3 +613641,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T00:24:04.513854+00:00 — Review XTWW4AUI h2: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8290",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8290",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8290",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8290",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8290",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8290",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8290",
+    "before": null,
+    "after": "Return in each of the 12 holding months. Distinct dynamic result location; no numeric coefficients available."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3666",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3666",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3666",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3666",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3666",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3666",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3666",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3666",
+    "before": null,
+    "after": "Holding-month dynamics of matched-pair strategy, p.131: positive all12 months, highest second month, significance wanes after six."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3666",
+    "before": null,
+    "after": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Distinct dynamic result location; no numeric coefficients available."
+  }
+]
+```
