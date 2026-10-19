@@ -758925,3 +758925,270 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:04:54.694566+00:00 — Review 7PQVC2SH h12: source-audited coding and linked comparisons
+
+43 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6764",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6765",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6766",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6764",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6765",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6766",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6764",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6765",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6766",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6765",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6764",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6765",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6766",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6764",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6765",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6766",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6765",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6765",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6764",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6765",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6766",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6764",
+    "before": null,
+    "after": "AppendixB.1 pp1-2: top schooling group firms twice as large as bottom group at age0, QP sales1995-1997 cohort. Potential lagged-reporting survivor bias noted by author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6765",
+    "before": null,
+    "after": "AppendixB.1 pp1-2: top schooling group firms 2.5 times as large as bottom group at age10, QP sales1995-1997 cohort. Potential lagged-reporting survivor bias noted by author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6766",
+    "before": null,
+    "after": "AppendixB.1 pp1-2: top schooling group firms 2.6 times as large as bottom group at age20, QP sales1995-1997 cohort. Potential lagged-reporting survivor bias noted by author."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8898",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8898",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8898",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8898",
+    "before": null,
+    "after": "Log sales, AppendixB.1/F.3a. No unprinted coefficient values assigned."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3960",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3960",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3960",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3960",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3960",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3960",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3960",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3960",
+    "before": null,
+    "after": "AppendixB.1/F.3a: entrepreneur schooling-bin sales life cycles in1995-1997 cohorts up to age20, QP rather than SCIE sales."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3960",
+    "before": null,
+    "after": "Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented. These are schooling treatments within sector/sample variants, not causal effects of sector membership."
+  }
+]
+```
