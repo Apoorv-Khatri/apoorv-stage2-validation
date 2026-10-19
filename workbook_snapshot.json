@@ -38850,7 +38850,16 @@
     "L3848": "1",
     "M3848": "unknown",
     "N3848": "AppendixTableE4, additional gender/education employment responses and all/race/gender/education hours: implied own-wage employment/hours response elasticities using wage and employment effects induced by strong versus weak state reform exposure; distinct from the policy reduced forms.",
-    "O3848": "Minimum established derived wage-response estimand. Authors interpret these as labor-demand responses, not merely diagnostic ratios. Focal treatment is average wage change (nonbinary). Different employment/earnings samples, control projections and employment-rate normalization prevent certifying a compatible linear Wald/IV implementation from ratios alone. Method/IV type unknown; do not inherit DiD from policy coefficients. No unreported outcome means or comparison grids added."
+    "O3848": "Minimum established derived wage-response estimand. Authors interpret these as labor-demand responses, not merely diagnostic ratios. Focal treatment is average wage change (nonbinary). Different employment/earnings samples, control projections and employment-rate normalization prevent certifying a compatible linear Wald/IV implementation from ratios alone. Method/IV type unknown; do not inherit DiD from policy coefficients. No unreported outcome means or comparison grids added.",
+    "A3849": "4X3H7PWW",
+    "B3849": "h33",
+    "I3849": "1",
+    "J3849": "unknown",
+    "K3849": "0",
+    "L3849": "0",
+    "M3849": "unknown",
+    "N3849": "AppendixTableE5, additional gender/education employment responses and all/race/gender/education hours: implied own-wage employment/hours response elasticities using wage and employment effects induced by 1966 state Kaitz index exposure; distinct from the policy reduced forms.",
+    "O3849": "Minimum established derived wage-response estimand. Authors interpret these as labor-demand responses, not merely diagnostic ratios. Focal treatment is average wage change (nonbinary). Different employment/earnings samples, control projections and employment-rate normalization prevent certifying a compatible linear Wald/IV implementation from ratios alone. Method/IV type unknown; do not inherit DiD from policy coefficients. No unreported outcome means or comparison grids added."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97565,7 +97574,19 @@
     "A8627": "4X3H7PWW",
     "B8627": "h32",
     "C8627": "hy3",
-    "K8627": "Annual hours conditional on employment, expressed as own-wage elasticity; AppendixTableE4, additional gender/education employment responses and all/race/gender/education hours. Underlying policy regression is log annual hours."
+    "K8627": "Annual hours conditional on employment, expressed as own-wage elasticity; AppendixTableE4, additional gender/education employment responses and all/race/gender/education hours. Underlying policy regression is log annual hours.",
+    "A8628": "4X3H7PWW",
+    "B8628": "h33",
+    "C8628": "hy1",
+    "K8628": "Employment among employed/unemployed adults, expressed as own-wage elasticity; AppendixTableE5, additional gender/education employment responses and all/race/gender/education hours. Underlying policy regression uses individual employment indicator.",
+    "A8629": "4X3H7PWW",
+    "B8629": "h33",
+    "C8629": "hy2",
+    "K8629": "Employment among employed/unemployed/not-in-labor-force adults, expressed as own-wage elasticity; AppendixTableE5, additional gender/education employment responses and all/race/gender/education hours. Underlying policy regression uses individual employment indicator.",
+    "A8630": "4X3H7PWW",
+    "B8630": "h33",
+    "C8630": "hy3",
+    "K8630": "Annual hours conditional on employment, expressed as own-wage elasticity; AppendixTableE5, additional gender/education employment responses and all/race/gender/education hours. Underlying policy regression is log annual hours."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

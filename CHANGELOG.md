@@ -687255,3 +687255,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:54:59.046838+00:00 — Review 4X3H7PWW h33: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8628",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8629",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8630",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8628",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8629",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8630",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8628",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8629",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8630",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8628",
+    "before": null,
+    "after": "Employment among employed/unemployed adults, expressed as own-wage elasticity; AppendixTableE5, additional gender/education employment responses and all/race/gender/education hours. Underlying policy regression uses individual employment indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8629",
+    "before": null,
+    "after": "Employment among employed/unemployed/not-in-labor-force adults, expressed as own-wage elasticity; AppendixTableE5, additional gender/education employment responses and all/race/gender/education hours. Underlying policy regression uses individual employment indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8630",
+    "before": null,
+    "after": "Annual hours conditional on employment, expressed as own-wage elasticity; AppendixTableE5, additional gender/education employment responses and all/race/gender/education hours. Underlying policy regression is log annual hours."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3849",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3849",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3849",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3849",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3849",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3849",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3849",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3849",
+    "before": null,
+    "after": "AppendixTableE5, additional gender/education employment responses and all/race/gender/education hours: implied own-wage employment/hours response elasticities using wage and employment effects induced by 1966 state Kaitz index exposure; distinct from the policy reduced forms."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3849",
+    "before": null,
+    "after": "Minimum established derived wage-response estimand. Authors interpret these as labor-demand responses, not merely diagnostic ratios. Focal treatment is average wage change (nonbinary). Different employment/earnings samples, control projections and employment-rate normalization prevent certifying a compatible linear Wald/IV implementation from ratios alone. Method/IV type unknown; do not inherit DiD from policy coefficients. No unreported outcome means or comparison grids added."
+  }
+]
+```
