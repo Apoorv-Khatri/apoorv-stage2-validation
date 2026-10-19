@@ -41133,7 +41133,16 @@
     "L4069": "1",
     "M4069": "n/a",
     "N4069": "CII versus CIV profile category, Table5 panelA within LEQEF and LAS leader subsamples. Separate prescribed-category responses, Poisson; central nulls for LAS retained.",
-    "O4069": "Section IV Result1 explicitly says deviations evoke punishment; repeated strategy-method choices under prescribed contribution profiles. Poisson is nonlinear in reported punishment outcome => Other, not RCT. Profiles not randomly assigned leaders. Main motive evidence is central to typology. No own-outcome mean/SD benchmark printed; intercept is log expected punishment, not raw baseline pairing."
+    "O4069": "Section IV Result1 explicitly says deviations evoke punishment; repeated strategy-method choices under prescribed contribution profiles. Poisson is nonlinear in reported punishment outcome => Other, not RCT. Profiles not randomly assigned leaders. Main motive evidence is central to typology. No own-outcome mean/SD benchmark printed; intercept is log expected punishment, not raw baseline pairing.",
+    "A4070": "8A6ENF64",
+    "B4070": "h47",
+    "I4070": "1",
+    "J4070": "Other",
+    "K4070": "1",
+    "L4070": "1",
+    "M4070": "n/a",
+    "N4070": "CIII versus CIV profile category, Table5 panelA within LEQ, LEQEF and LAS leader subsamples. Separate prescribed-category responses, Poisson; central nulls for LAS retained.",
+    "O4070": "Section IV Result1 explicitly says deviations evoke punishment; repeated strategy-method choices under prescribed contribution profiles. Poisson is nonlinear in reported punishment outcome => Other, not RCT. Profiles not randomly assigned leaders. Main motive evidence is central to typology. No own-outcome mean/SD benchmark printed; intercept is log expected punishment, not raw baseline pairing."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -102839,7 +102848,14 @@
     "H9033": "0",
     "I9033": "unknown",
     "J9033": "none",
-    "K9033": "Punishment points/Birr on player1 within indicated leader types; counts not logarithmically transformed outcomes despite semi-elasticity coefficient display."
+    "K9033": "Punishment points/Birr on player1 within indicated leader types; counts not logarithmically transformed outcomes despite semi-elasticity coefficient display.",
+    "A9034": "8A6ENF64",
+    "B9034": "h47",
+    "C9034": "hy1",
+    "H9034": "0",
+    "I9034": "unknown",
+    "J9034": "none",
+    "K9034": "Punishment points/Birr on player1 within indicated leader types; counts not logarithmically transformed outcomes despite semi-elasticity coefficient display."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
