@@ -794220,3 +794220,408 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T13:27:28.529760+00:00 — Review 9VJYE45Y h9: source-audited coding and linked comparisons
+
+66 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7064",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7065",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7066",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7067",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7068",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7064",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7065",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7066",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7067",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7068",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7064",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7065",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7066",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7067",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7068",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7064",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7065",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7066",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7067",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7064",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7065",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7066",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7067",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7068",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7064",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7065",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7066",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7067",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7068",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7064",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7065",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7066",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7067",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7068",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7064",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7065",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7066",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7067",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7068",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7064",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7065",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7066",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7067",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7064",
+    "before": null,
+    "after": "Table A3 bottom p18, type1: 25% coinsurance mean5, full insurance mean6. Deliberate same-type two-contract pairing; no difference coefficient or percent effect printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7065",
+    "before": null,
+    "after": "Table A3 bottom p18, type2: 25% coinsurance mean577, full insurance mean753. Deliberate same-type two-contract pairing; no difference coefficient or percent effect printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7066",
+    "before": null,
+    "after": "Table A3 bottom p18, type3: 25% coinsurance mean1951, full insurance mean2280. Deliberate same-type two-contract pairing; no difference coefficient or percent effect printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7067",
+    "before": null,
+    "after": "Table A3 bottom p18, type4: 25% coinsurance mean2845, full insurance mean3338. Deliberate same-type two-contract pairing; no difference coefficient or percent effect printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7068",
+    "before": null,
+    "after": "Table A3 bottom p18, type5: 25% coinsurance mean3988, full insurance mean4295. Deliberate same-type two-contract pairing; no difference coefficient or percent effect printed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9083",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9083",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9083",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9083",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9083",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9083",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9083",
+    "before": null,
+    "after": "Expected annual total spending by latent type under two constant-price contracts; Table A3 bottom p18. Mean conditional on type, not five distinct dependent variables."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4085",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4085",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4085",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4085",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4085",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4085",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4085",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4085",
+    "before": null,
+    "after": "Full insurance versus constant25% coinsurance: type-specific implied expected annual drug spending; Table A3 bottom p18."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4085",
+    "before": null,
+    "after": "Explicit two-contract implied-spending comparison conditional on latent type, not a causal effect of type or risk-score coefficients. Retained as substantive contract counterfactual under the broad author-intention gate (Table note: claiming affected by contract features). Other reflects estimated latent-type/health-preference recovery. Do not assert that these constant-contract expected values use the same simulation draws as Table VI; direct analytic calculation is possible. Alternative exclusion as parameter illustration remains contested. Full insurance is the intervention and constant25% coinsurance the baseline."
+  }
+]
+```
