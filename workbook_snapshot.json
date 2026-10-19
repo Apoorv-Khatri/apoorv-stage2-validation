@@ -37477,7 +37477,16 @@
     "L3730": "0",
     "M3730": "single continuous",
     "N3730": "TableB7, p3174 fn14: lower-BP fuzzy RKD using DI income plus earnings as treatment denominator rather than DI income alone.",
-    "O3730": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Distinct treatment/estimand: denominator is kink in sum of DI income and earnings. Main text says results similar to Table1; no transfer of Table1 comparisons to unseen B7."
+    "O3730": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Distinct treatment/estimand: denominator is kink in sum of DI income and earnings. Main text says results similar to Table1; no transfer of Table1 comparisons to unseen B7.",
+    "A3731": "2XPTKJBQ",
+    "B3731": "h10",
+    "I3731": "1",
+    "J3731": "IV",
+    "K3731": "0",
+    "L3731": "0",
+    "M3731": "single continuous",
+    "N3731": "TableB7, p3174 fn14: family-BP fuzzy RKD using DI income plus earnings as treatment denominator rather than DI income alone.",
+    "O3731": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Distinct treatment/estimand: denominator is kink in sum of DI income and earnings. Main text says results similar to Table1; no transfer of Table1 comparisons to unseen B7."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94553,7 +94562,11 @@
     "A8392": "2XPTKJBQ",
     "B8392": "h9",
     "C8392": "hy1",
-    "K8392": "Average annual mortality in main four-year framework."
+    "K8392": "Average annual mortality in main four-year framework.",
+    "A8393": "2XPTKJBQ",
+    "B8393": "h10",
+    "C8393": "hy1",
+    "K8393": "Average annual mortality in main four-year framework."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
