@@ -40764,7 +40764,16 @@
     "L4028": "1",
     "M4028": "n/a",
     "N4028": "LAS weighted punishment intensity (points spent on full contributors, zero outside LAS), Table6 cols3,5-8; identifying village FE; PCT-I.",
-    "O4028": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders."
+    "O4028": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders.",
+    "A4029": "8A6ENF64",
+    "B4029": "h6",
+    "I4029": "1",
+    "J4029": "OLS",
+    "K4029": "0",
+    "L4029": "1",
+    "M4029": "n/a",
+    "N4029": "LAS weighted punishment intensity, Table6 cols1-2; no village FE, unadjusted and group-adjusted OLS; PCT-I. Do not transfer col3 headline comparisons here.",
+    "O4029": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -102155,7 +102164,14 @@
     "H8988": "0",
     "I8988": "0",
     "J8988": "none",
-    "K8988": "Average potential crop trees per hectare, first forest assessment2005 (PCT-I)."
+    "K8988": "Average potential crop trees per hectare, first forest assessment2005 (PCT-I).",
+    "A8989": "8A6ENF64",
+    "B8989": "h6",
+    "C8989": "hy1",
+    "H8989": "0",
+    "I8989": "0",
+    "J8989": "none",
+    "K8989": "Average potential crop trees per hectare, first forest assessment2005 (PCT-I)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
