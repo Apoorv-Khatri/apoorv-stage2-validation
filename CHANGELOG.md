@@ -681717,3 +681717,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:23:06.799880+00:00 — Review 4X3H7PWW s7: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2176",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2176",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2176",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I889",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J889",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K889",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L889",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M889",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N889",
+    "before": null,
+    "after": "AppendixE4 annual-hours row: strong versus weak state DiD on log annual hours among employed, all/Black/White; FigureVIII A instead labels cross-industry design."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O889",
+    "before": null,
+    "after": "E4 establishes strong/weak state hours estimates, retained independently of contradictory FigureVIII A caption. FigureVIII A distinctness held unknown at h2. Annual hours use weeks-interval midpoint times weekly hours and uniform smoothing; no automatic zero-mass inference on log scale."
+  }
+]
+```
