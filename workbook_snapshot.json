@@ -37665,7 +37665,16 @@
     "L3744": "1",
     "M3744": "n/a",
     "N3744": "FigureA9: individual-exit dynamics for prereform entrants; binary reform exposure interacted with event time.",
-    "O3744": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Separate dynamic estimand at figure. No numeric digitization. For supporting-only interpretation of appendix dynamics, parent may main=0; content corroborates named central outcome, not placement-based exclusion."
+    "O3744": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Separate dynamic estimand at figure. No numeric digitization. For supporting-only interpretation of appendix dynamics, parent may main=0; content corroborates named central outcome, not placement-based exclusion.",
+    "A3745": "3ZIDN6KF",
+    "B3745": "h7",
+    "I3745": "1",
+    "J3745": "DiD_conventional",
+    "K3745": "1",
+    "L3745": "1",
+    "M3745": "n/a",
+    "N3745": "FigureA10: political-newspaper dynamics across election years; binary reform exposure interacted with event time.",
+    "O3745": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Separate dynamic estimand at figure. No numeric digitization. For supporting-only interpretation of appendix dynamics, parent may main=0; content corroborates named central outcome, not placement-based exclusion."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94981,7 +94990,14 @@
     "H8418": "1",
     "I8418": "1",
     "J8418": "none",
-    "K8418": "FigureA9: Individual-level exit indicator for whether a postal worker leaves service (is last observed) in a given year."
+    "K8418": "FigureA9: Individual-level exit indicator for whether a postal worker leaves service (is last observed) in a given year.",
+    "A8419": "3ZIDN6KF",
+    "B8419": "h7",
+    "C8419": "hy1",
+    "H8419": "0",
+    "I8419": "1",
+    "J8419": "none",
+    "K8419": "FigureA10: Total number of political (party-affiliated) newspapers in a city-election year."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
