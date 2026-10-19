@@ -40616,7 +40616,16 @@
     "L4014": "0",
     "M4014": "n/a",
     "N4014": "Appendix sensitivity Table1 p20 col1, rows[3]: foreign competitiveness-only historical shocks; homogeneous-firm equilibrium; no selection/reallocation; aggregate emissions index.",
-    "O4014": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels."
+    "O4014": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels.",
+    "A4015": "89PULMFU",
+    "B4015": "h28",
+    "I4015": "1",
+    "J4015": "Other",
+    "K4015": "0",
+    "L4015": "0",
+    "M4015": "n/a",
+    "N4015": "Appendix sensitivity Table1 p20 col2, rows[3]: US competitiveness-only historical shocks; homogeneous-firm equilibrium; no selection/reallocation; aggregate emissions index.",
+    "O4015": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101924,7 +101933,11 @@
     "A8974": "89PULMFU",
     "B8974": "h27",
     "C8974": "hy1",
-    "K8974": "Unweighted mean across six criteria pollutants of US manufacturing counterfactual-emissions/own1990-emissions percentages, averaged across2005 and2008 (sensitivity Table1 p20 note). This is one actually tabulated aggregate dependent measure, not six unobserved outcomes grouped as a placeholder. SectionIII.G instead says NOx2008; numerical allocation remains conflicting."
+    "K8974": "Unweighted mean across six criteria pollutants of US manufacturing counterfactual-emissions/own1990-emissions percentages, averaged across2005 and2008 (sensitivity Table1 p20 note). This is one actually tabulated aggregate dependent measure, not six unobserved outcomes grouped as a placeholder. SectionIII.G instead says NOx2008; numerical allocation remains conflicting.",
+    "A8975": "89PULMFU",
+    "B8975": "h28",
+    "C8975": "hy1",
+    "K8975": "Unweighted mean across six criteria pollutants of US manufacturing counterfactual-emissions/own1990-emissions percentages, averaged across2005 and2008 (sensitivity Table1 p20 note). This is one actually tabulated aggregate dependent measure, not six unobserved outcomes grouped as a placeholder. SectionIII.G instead says NOx2008; numerical allocation remains conflicting."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -180094,7 +180107,18 @@
     "O6935": "1",
     "P6935": "n/a",
     "Q6935": "Official appendix p20 sensitivity Table1 row3, col1: 93.504 percent of own1990 emissions for foreign competitiveness-only scenario. Table title explicitly divides counterfactual emissions by1990; note defines six-pollutant mean averaged2005/2008. Baseline index100. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels.",
-    "R6935": "Table/title-only specific triple: verbal0 divided1; shared explanatory note does not individually verbalize every estimate."
+    "R6935": "Table/title-only specific triple: verbal0 divided1; shared explanatory note does not individually verbalize every estimate.",
+    "A6936": "89PULMFU",
+    "B6936": "h28",
+    "C6936": "hc1",
+    "K6936": "1",
+    "L6936": "hy1",
+    "M6936": "other_level",
+    "N6936": "0",
+    "O6936": "1",
+    "P6936": "n/a",
+    "Q6936": "Official appendix p20 sensitivity Table1 row3, col2: 83.868 percent of own1990 emissions for US competitiveness-only scenario. Table title explicitly divides counterfactual emissions by1990; note defines six-pollutant mean averaged2005/2008. Baseline index100. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels.",
+    "R6936": "Table/title-only specific triple: verbal0 divided1; shared explanatory note does not individually verbalize every estimate."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
