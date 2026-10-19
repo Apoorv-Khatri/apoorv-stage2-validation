@@ -752730,3 +752730,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:56:07.449219+00:00 — Review 7PQVC2SH s1: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K606",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L605",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L606",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M605",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M606",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N606",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O606",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P605",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P606",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q605",
+    "before": null,
+    "after": "p2067 Figure1: Top-versus-bottom entrepreneur-schooling-group contrast in sales at entry from Figure 1 / Section 3.1: firms in the top group are '39% larger at entry' than those in the bottom group. Benchmark: Sales level of firms in the bottom entrepreneur-schooling group (less than six years of schooling) at entry; comparison is a relative level contrast, not a mean explicitly labeled as such."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q606",
+    "before": null,
+    "after": "p2067 Figure1: Top-versus-bottom entrepreneur-schooling-group contrast in sales by age 10 from Figure 1 / Section 3.1: firms in the top group are '2.7 times larger' than those in the bottom group. Benchmark: Sales level of firms in the bottom entrepreneur-schooling group at age 10; relative level comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R605",
+    "before": null,
+    "after": "Explicit group-level comparison retained; do not interpret exponentiated fitted log levels as arithmetic conditional means."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R606",
+    "before": null,
+    "after": "Explicit group-level comparison retained; do not interpret exponentiated fitted log levels as arithmetic conditional means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I926",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J926",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K926",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L926",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M926",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N926",
+    "before": null,
+    "after": "Equation1 / Figure1 and F.2a-b: five entrepreneur-schooling bins interacted with age, 2004-2007 cohorts up to age10; log sales, value added and employment. Joint multivalued profile, not a separately estimated binary treatment. F.2c survival is added under h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O926",
+    "before": null,
+    "after": "Baseline year and observed experience/worker controls. Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented."
+  }
+]
+```
