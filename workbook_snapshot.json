@@ -38616,7 +38616,16 @@
     "L3822": "0",
     "M3822": "n/a",
     "N3822": "AppendixFigureD3: newly covered Black/White workers versus pooled-race1938 control, log earnings event paths.",
-    "O3822": "Distinct reference-group estimand from s4; p202 reports black approximately20% versus pooled controls. Author notes other civil-rights-era effects may contribute; causal intention retained, credibility not gate."
+    "O3822": "Distinct reference-group estimand from s4; p202 reports black approximately20% versus pooled controls. Author notes other civil-rights-era effects may contribute; causal intention retained, credibility not gate.",
+    "A3823": "4X3H7PWW",
+    "B3823": "h7",
+    "I3823": "1",
+    "J3823": "DiD_conventional",
+    "K3823": "1",
+    "L3823": "0",
+    "M3823": "n/a",
+    "N3823": "AppendixFigureD4: newly covered industry DiD on log earnings by education within each race.",
+    "O3823": "Separately reported crossed race/education outcome scope; no new method; high-education null retained."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97062,7 +97071,14 @@
     "H8574": "0",
     "I8574": "unknown",
     "J8574": "log",
-    "K8574": "Log annual earnings by race against pooled control, FigureD3."
+    "K8574": "Log annual earnings by race against pooled control, FigureD3.",
+    "A8575": "4X3H7PWW",
+    "B8575": "h7",
+    "C8575": "hy1",
+    "H8575": "0",
+    "I8575": "unknown",
+    "J8575": "log",
+    "K8575": "Log annual earnings low/high education within Black/White groups; FigureD4."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
