@@ -41906,7 +41906,16 @@
     "L4137": "0",
     "M4137": "n/a",
     "N4137": "Owner top-bracket exposure defined using 2012, predicted baseline assignment Location: Figure A.1 and Table A.6 exposure 2012",
-    "O4137": "Author-linked appendix pp.48/64; baseline definition differs from 2011-2012. One binary excluded exposure in each IV contrast; table and graph deduplicated."
+    "O4137": "Author-linked appendix pp.48/64; baseline definition differs from 2011-2012. One binary excluded exposure in each IV contrast; table and graph deduplicated.",
+    "A4138": "A8LFPXLL",
+    "B4138": "h8",
+    "I4138": "1",
+    "J4138": "IV",
+    "K4138": "1",
+    "L4138": "0",
+    "M4138": "single binary",
+    "N4138": "Owner top-bracket exposure defined using 2012, realized top-bracket exposure instrumented by baseline exposure Location: Figure A.1 and Table A.6 exposure 2012",
+    "O4138": "Author-linked appendix pp.48/64; baseline definition differs from 2011-2012. One binary excluded exposure in each IV contrast; table and graph deduplicated."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105763,7 +105772,14 @@
     "H9303": "0",
     "I9303": "0",
     "J9303": "log",
-    "K9303": "Log average full-time employee earnings relative to 2012 baseline."
+    "K9303": "Log average full-time employee earnings relative to 2012 baseline.",
+    "A9304": "A8LFPXLL",
+    "B9304": "h8",
+    "C9304": "hy1",
+    "H9304": "0",
+    "I9304": "0",
+    "J9304": "log",
+    "K9304": "Log average full-time employee earnings relative to 2012 baseline."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
