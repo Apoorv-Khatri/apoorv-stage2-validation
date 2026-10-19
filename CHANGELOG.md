@@ -657120,3 +657120,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:27:35.990906+00:00 — Review 3ZIDN6KF h14: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5829",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5830",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5829",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5830",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5829",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5830",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5829",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5830",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5829",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5830",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5829",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5830",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5829",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5830",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5829",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5830",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5829",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5830",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5829",
+    "before": null,
+    "after": "TableA3 col2 p48: focal -.149; deliberately paired mean dependent variable 4.285, same reported scale and estimation sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5830",
+    "before": null,
+    "after": "TableA3 col3 p48: focal -.234; deliberately paired mean dependent variable 5.321, same reported scale and estimation sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5829",
+    "before": null,
+    "after": "Mean covers estimation sample, not established untreated target-population mean. Parallel trends does not establish equal untreated levels; target weights/time construction unresolved, alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5830",
+    "before": null,
+    "after": "Mean covers estimation sample, not established untreated target-population mean. Parallel trends does not establish equal untreated levels; target weights/time construction unresolved, alignment unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8426",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8426",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8426",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8426",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8426",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8426",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8426",
+    "before": null,
+    "after": "Log delivery errors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3752",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3752",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3752",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3752",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3752",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3752",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3752",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3752",
+    "before": null,
+    "after": "TableA3 cols2-3: reform effects on log delivery errors, all reform cohorts and free-delivery sample robustness. Col1 repeats s1/Table2col2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3752",
+    "before": null,
+    "after": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. "
+  }
+]
+```
