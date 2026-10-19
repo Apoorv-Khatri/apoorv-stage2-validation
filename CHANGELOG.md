@@ -757569,3 +757569,246 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:00:25.449392+00:00 — Review 7PQVC2SH s12: source-audited coding and linked comparisons
+
+39 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K625",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K626",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K627",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K628",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L625",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L626",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L627",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L628",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M625",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M626",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M627",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M628",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N625",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N626",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N627",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N628",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O625",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O626",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O627",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O628",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P625",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P626",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P627",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P628",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q625",
+    "before": null,
+    "after": "pp2080-2081 Figure9: Age-10 top-versus-bottom-schooling-group sales difference in high-tech manufacturing: 13 times larger. Benchmark: Sales level of firms started by the average entrepreneur in the bottom schooling group within high-tech manufacturing at age 10."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q626",
+    "before": null,
+    "after": "pp2080-2081 Figure9: Age-10 top-versus-bottom-schooling-group sales difference in high-tech services: 9 times larger. Benchmark: Sales level of firms started by the average entrepreneur in the bottom schooling group within high-tech services at age 10."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q627",
+    "before": null,
+    "after": "pp2080-2081 Figure9: Age-10 top-versus-bottom-schooling-group sales difference in other manufacturing: 4 times larger. Benchmark: Sales level of firms started by the average entrepreneur in the bottom schooling group within other manufacturing at age 10."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q628",
+    "before": null,
+    "after": "pp2080-2081 Figure9: Age-10 top-versus-bottom-schooling-group sales difference in other services: 2 times larger. Benchmark: Sales level of firms started by the average entrepreneur in the bottom schooling group within other services at age 10."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R625",
+    "before": null,
+    "after": "Explicit group-level comparison retained; do not interpret exponentiated fitted log levels as arithmetic conditional means."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R626",
+    "before": null,
+    "after": "Explicit group-level comparison retained; do not interpret exponentiated fitted log levels as arithmetic conditional means."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R627",
+    "before": null,
+    "after": "Explicit group-level comparison retained; do not interpret exponentiated fitted log levels as arithmetic conditional means."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R628",
+    "before": null,
+    "after": "Explicit group-level comparison retained; do not interpret exponentiated fitted log levels as arithmetic conditional means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I937",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J937",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K937",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L937",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M937",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N937",
+    "before": null,
+    "after": "Figure9: continuous entrepreneur schooling-by-age sales slopes estimated separately in five technology-sector groups; all groups including other sectors retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O937",
+    "before": null,
+    "after": "Central evidence distinguishing innovation channel pp2080-2081; treatment is schooling dose, not high-tech membership. Identifying five-digit sector-by-year cells address endogenous sector selection/growth potential (p2068), carried into mechanism comparisons pp2076,2080. One interacted cell set plus age controls, not HDFE; year nested in sector-year. Residual omitted ability remains. No higher-priority design."
+  }
+]
+```
