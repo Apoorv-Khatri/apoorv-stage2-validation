@@ -625992,3 +625992,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:55:13.611633+00:00 — Review 2UP7GN8M h2: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5553",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5554",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5553",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5554",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5553",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5554",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5553",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5554",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5553",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5554",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5553",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5554",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5553",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5554",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5553",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5554",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5553",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5554",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5553",
+    "before": null,
+    "after": "Figure3A paroxetine row and pp3309-3311: sponsorship contrast .14 (14 percentage points); explicitly juxtaposed mean relative-efficacy benchmark .02 (2 percentage points) unsponsored paroxetine-minus-placebo gap."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5554",
+    "before": null,
+    "after": "Figure3A paroxetine row and pp3309-3311: sponsorship contrast .14 (14 percentage points); explicitly juxtaposed mean relative-efficacy benchmark .16 (16 percentage points) sponsored paroxetine-minus-placebo gap."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5553",
+    "before": null,
+    "after": "Same raw between-arm response-gap outcome, not the individual component levels .47/.31/.25/.23. Endpoint pairing qualifies despite also explaining the contrast. No author division by the endpoint. Observed unsponsored trials are not shown to represent the sponsored target counterfactual; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5554",
+    "before": null,
+    "after": "Same raw between-arm response-gap outcome, not the individual component levels .47/.31/.25/.23. Endpoint pairing qualifies despite also explaining the contrast. No author division by the endpoint. Sponsored endpoint is the treated mean, not the untreated target mean; alignment 0."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8329",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8330",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8329",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8330",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8329",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8330",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8329",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8330",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8329",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8330",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8329",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8330",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8329",
+    "before": null,
+    "after": "Drug-set relative efficacy in antidepressant response-fraction units; raw between-arm gaps compared by sponsorship, Figure3A and B antidepressants."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8330",
+    "before": null,
+    "after": "Drug-set relative efficacy for antipsychotics, symptom-score-change units; Figure3B separate scale, no invented estimates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3687",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3687",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3687",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3687",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3687",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3687",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3687",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3687",
+    "before": null,
+    "after": "Figure3 A-B, pp3309-3311: drug-set-specific raw cross-sectional double differences of efficacy across sponsored/unsponsored trials and focal/comparator drugs."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3687",
+    "before": null,
+    "after": "Author calls this DiD, but no calendar treatment/post or parallel trends. Linear four-cell contrast; sponsorship observational, not RCT. Distinct unstandardized and trial-weighted drug-set estimand, not duplicate of regression drug-pair weighted/standardized Eq.(1). Parent adjudicate cross-sectional DiD taxonomy. No numerical digitization of unlabeled points."
+  }
+]
+```
