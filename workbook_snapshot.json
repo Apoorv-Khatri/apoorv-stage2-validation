@@ -40142,7 +40142,16 @@
     "L3963": "0",
     "M3963": "n/a",
     "N3963": "AppendixB.3/TableE.2: continuous entrepreneur-schooling-by-age sales coefficients; controls/matching-channel omission, number of entrepreneurs, unique-founder and clustering variants grouped.",
-    "O3963": "Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented. These are schooling treatments within sector/sample variants, not causal effects of sector membership."
+    "O3963": "Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented. These are schooling treatments within sector/sample variants, not causal effects of sector membership.",
+    "A3964": "7PQVC2SH",
+    "B3964": "h16",
+    "I3964": "1",
+    "J3964": "FE",
+    "K3964": "0",
+    "L3964": "0",
+    "M3964": "n/a",
+    "N3964": "AppendixB.5/F.6a-e: continuous schooling sales-age effects separately by human-capital intensity, finance dependence, contract intensity, capital intensity and social-network intensity sectors; mostly insignificant heterogeneity retained.",
+    "O3964": "Identifying five-digit sector-by-year cells address endogenous sector selection/growth potential (p2068), carried into mechanism comparisons pp2076,2080. One interacted cell set plus age controls, not HDFE; year nested in sector-year. Residual omitted ability remains. No higher-priority design. These are schooling treatments within sector/sample variants, not causal effects of sector membership."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101087,7 +101096,11 @@
     "A8902": "7PQVC2SH",
     "B8902": "h15",
     "C8902": "hy2",
-    "K8902": "Log value added, AppendixB.3 p3 states similar results; no table supplied. Routine variants grouped, no manufactured columns."
+    "K8902": "Log value added, AppendixB.3 p3 states similar results; no table supplied. Routine variants grouped, no manufactured columns.",
+    "A8903": "7PQVC2SH",
+    "B8903": "h16",
+    "C8903": "hy1",
+    "K8903": "Log sales, AppendixB.5/F.6a-e. No unprinted coefficient values assigned."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

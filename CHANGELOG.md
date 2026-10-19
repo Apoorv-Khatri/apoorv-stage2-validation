@@ -759477,3 +759477,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:06:22.062827+00:00 — Review 7PQVC2SH h16: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8903",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8903",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8903",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8903",
+    "before": null,
+    "after": "Log sales, AppendixB.5/F.6a-e. No unprinted coefficient values assigned."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3964",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3964",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3964",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3964",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3964",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3964",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3964",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3964",
+    "before": null,
+    "after": "AppendixB.5/F.6a-e: continuous schooling sales-age effects separately by human-capital intensity, finance dependence, contract intensity, capital intensity and social-network intensity sectors; mostly insignificant heterogeneity retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3964",
+    "before": null,
+    "after": "Identifying five-digit sector-by-year cells address endogenous sector selection/growth potential (p2068), carried into mechanism comparisons pp2076,2080. One interacted cell set plus age controls, not HDFE; year nested in sector-year. Residual omitted ability remains. No higher-priority design. These are schooling treatments within sector/sample variants, not causal effects of sector membership."
+  }
+]
+```
