@@ -41754,7 +41754,16 @@
     "L4127": "0",
     "M4127": "unknown",
     "N4127": "Party-turnover score effects including municipalities where the incumbent party did not run: All Munic endpoint, Appendix Figure A.5; main p458 explicitly reports robustness. Endpoint estimator unknown because vote margin is undefined for some included observations.",
-    "O4127": "Causal eligibility established by implemented robustness discussion; no inference of RD, IV, or OLS implementation for this endpoint."
+    "O4127": "Causal eligibility established by implemented robustness discussion; no inference of RD, IV, or OLS implementation for this endpoint.",
+    "A4128": "9XMIBBJM",
+    "B4128": "h37",
+    "I4128": "1",
+    "J4128": "OLS",
+    "K4128": "0",
+    "L4128": "0",
+    "M4128": "n/a",
+    "N4128": "Party-turnover histories and headmaster replacement paths in all municipalities, Appendix Figure A.9; main pp469–470 and fn42 explicitly describe effects. Four 2008/2012 turnover histories; not a verified parallel-trends DiD.",
+    "O4128": "Plotted group means are linear descriptive contrasts given causal interpretation; no adjustment or experimental assignment is established. Retain supporting scope; no fabricated path coefficients or pairwise allocations."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105436,7 +105445,14 @@
     "H9282": "0",
     "I9282": "unknown",
     "J9282": "sd_units",
-    "K9282": "Individual grade8 standardized Prova Brasil score at All Munic endpoint, Figure A.5 B."
+    "K9282": "Individual grade8 standardized Prova Brasil score at All Munic endpoint, Figure A.5 B.",
+    "A9283": "9XMIBBJM",
+    "B9283": "h37",
+    "C9283": "hy1",
+    "H9283": "0",
+    "I9283": "unknown",
+    "J9283": "none",
+    "K9283": "Share of schools with headmaster tenure under two years along 2007–2013 paths; Figure A.9. Four election histories, not an individual binary dependent variable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

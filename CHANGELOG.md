@@ -838605,3 +838605,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T14:56:14.474417+00:00 — Review 9XMIBBJM h37: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9283",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9283",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9283",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9283",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9283",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9283",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9283",
+    "before": null,
+    "after": "Share of schools with headmaster tenure under two years along 2007–2013 paths; Figure A.9. Four election histories, not an individual binary dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4128",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4128",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4128",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4128",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4128",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4128",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4128",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4128",
+    "before": null,
+    "after": "Party-turnover histories and headmaster replacement paths in all municipalities, Appendix Figure A.9; main pp469–470 and fn42 explicitly describe effects. Four 2008/2012 turnover histories; not a verified parallel-trends DiD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4128",
+    "before": null,
+    "after": "Plotted group means are linear descriptive contrasts given causal interpretation; no adjustment or experimental assignment is established. Retain supporting scope; no fabricated path coefficients or pairwise allocations."
+  }
+]
+```
