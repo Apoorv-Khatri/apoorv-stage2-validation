@@ -843486,3 +843486,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:41:05.396522+00:00 — Review A8LFPXLL h33: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9325",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9325",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9325",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9325",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9325",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9325",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9325",
+    "before": null,
+    "after": "Stayer earnings response indexed by fixed prereform worker earnings bins, Figure A.6 B; denominator not separately stated for B. Surrounding Panel A uses total baseline wage bill, but that extension is not certified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4159",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4159",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4159",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4159",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4159",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4159",
+    "before": null,
+    "after": "Baseline exposure stayer responses indexed by fixed prereform worker earnings bins Location: Figure A.6 B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4159",
+    "before": null,
+    "after": "Figure A.6 B fixes prereform worker membership, unlike Panel A moving membership. Same conventional DiD causal design; exact normalization is unresolved, so outcome transform unknown rather than asserted from the neighboring panel."
+  }
+]
+```

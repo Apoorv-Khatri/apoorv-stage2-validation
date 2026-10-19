@@ -42095,7 +42095,16 @@
     "L4158": "0",
     "M4158": "n/a",
     "N4158": "Baseline any-top exposure with alternative business-income controls Location: Table A.7 first result row only",
-    "O4158": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+    "O4158": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location.",
+    "A4159": "A8LFPXLL",
+    "B4159": "h33",
+    "I4159": "1",
+    "J4159": "DiD_conventional",
+    "K4159": "1",
+    "L4159": "0",
+    "M4159": "n/a",
+    "N4159": "Baseline exposure stayer responses indexed by fixed prereform worker earnings bins Location: Figure A.6 B",
+    "O4159": "Figure A.6 B fixes prereform worker membership, unlike Panel A moving membership. Same conventional DiD causal design; exact normalization is unresolved, so outcome transform unknown rather than asserted from the neighboring panel."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106087,7 +106096,14 @@
     "H9324": "0",
     "I9324": "0",
     "J9324": "log",
-    "K9324": "Log average employee earnings; baseline decile/ventile/spline controls. Second result row is excluded placebo."
+    "K9324": "Log average employee earnings; baseline decile/ventile/spline controls. Second result row is excluded placebo.",
+    "A9325": "A8LFPXLL",
+    "B9325": "h33",
+    "C9325": "hy1",
+    "H9325": "0",
+    "I9325": "unknown",
+    "J9325": "unknown",
+    "K9325": "Stayer earnings response indexed by fixed prereform worker earnings bins, Figure A.6 B; denominator not separately stated for B. Surrounding Panel A uses total baseline wage bill, but that extension is not certified."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
