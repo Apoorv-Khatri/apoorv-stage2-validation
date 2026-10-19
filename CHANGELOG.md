@@ -623121,3 +623121,570 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:51:42.075634+00:00 — Review 2UP7GN8M s1: source-audited coding and linked comparisons
+
+93 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5526",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5527",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5528",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5529",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5526",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5527",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5528",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5529",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5526",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5527",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5528",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5529",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K490",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K491",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5526",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5527",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5528",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5529",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L490",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L491",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L492",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5526",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5527",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5528",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5529",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M490",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M491",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M492",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5526",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5527",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5528",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5529",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N490",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N491",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5526",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5528",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5529",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O490",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O491",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5526",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5528",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5529",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P490",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P491",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P492",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5526",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5527",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5528",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5529",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q490",
+    "before": null,
+    "after": "Table1 col2 p3313; prose p3312:49%: focal estimate .171; benchmark .35."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q491",
+    "before": null,
+    "after": "Table1 col4 p3313; prose43%: focal estimate .104; benchmark .24."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q492",
+    "before": null,
+    "after": "Table1 col5 p3313; prose73%: focal estimate .283; benchmark .39."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5526",
+    "before": null,
+    "after": "Table1 col3 p3313: focal estimate .259; benchmark .06."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5527",
+    "before": null,
+    "after": "Table1 col6 p3313: focal estimate .019; benchmark .05."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5528",
+    "before": null,
+    "after": "Table1 col3; introduction p3300; p3312 explicit SD efficacy: focal estimate .259 standard deviations; benchmark SD underlying absolute efficacy normalization; exact reference population/within-scale construction not fully reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5529",
+    "before": null,
+    "after": "Table7 col1 p3327 repeated Table1 col2: focal estimate .171; benchmark .33 (Table1 reports .35)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R490",
+    "before": null,
+    "after": "Deliberately linked same-column outcome mean; sample includes sponsored and unsponsored arms. Untreated target/weights not established, so alignment unknown, not mechanically aligned from common sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R491",
+    "before": null,
+    "after": "Deliberately linked same-column outcome mean; sample includes sponsored and unsponsored arms. Untreated target/weights not established, so alignment unknown, not mechanically aligned from common sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R492",
+    "before": null,
+    "after": "Mean is full estimation sample, not established untreated comparison target. For c3 preserve printed prose “0.28 percentage points”; coefficient .283 corresponds to28.3 percentage points, so prose unit is inconsistent."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5526",
+    "before": null,
+    "after": "Deliberately linked same-column outcome mean; sample includes sponsored and unsponsored arms. Untreated target/weights not established, so alignment unknown, not mechanically aligned from common sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5527",
+    "before": null,
+    "after": "Deliberately linked same-column outcome mean; sample includes sponsored and unsponsored arms. Untreated target/weights not established, so alignment unknown, not mechanically aligned from common sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5528",
+    "before": null,
+    "after": "Absolute outcome explicitly standardized; reference normalization weights/population unavailable, so alignment unknown. Relative component differences are not automatically unit-SD relative outcomes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5529",
+    "before": null,
+    "after": "Repeated focal estimate but conflicting benchmark. Could be source typo or distinct construction; do not count as retained second triple before adjudication."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2013",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2014",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2015",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2016",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2017",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2013",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2014",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2015",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2016",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2013",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2014",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2015",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2016",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2017",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2013",
+    "before": null,
+    "after": "Relative efficacy: standardized absolute efficacy minus placebo in pair if available, otherwise least-effective arm. Reported differences inherit component units, not demonstrated unit SD of relative outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2014",
+    "before": null,
+    "after": "Absolute efficacy standardized (mean zero, SD one per introduction); underlying antidepressant response fraction versus antipsychotic symptom-score change. Zero mass on standardized scale not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2017",
+    "before": null,
+    "after": "Relative percent decline in psychiatric symptom score, compared with placebo or least-effective arm; not a binary outcome. Minimum-reference cases structurally zero; exact sample zero count not stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I830",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J830",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K830",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L830",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M830",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N830",
+    "before": null,
+    "after": "Table1 cols2-6 Eq.(1): binary manufacturer/marketer sponsorship on relative/absolute efficacy, significance, best-arm status and relative score decline. Col1 split to h1; Figure3 to h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O830",
+    "before": null,
+    "after": "Eq.(1), pp3311-3312: sponsorship is NOT randomized with patient drug assignment; no IV/RD. Cross-sectional arm/comparator double difference is called DiD by author but lacks treated/post parallel-trends comparison under project definition. Proposed HDFE: drug-by-pair cells, publication-year bins, scale indicators are three separate sets; joint adjustment addresses molecule/comparator selection, timing and measurement heterogeneity. Contested HDFE versus FE if ancillary sets do not satisfy identification-battery criterion; also contested cross-sectional DiD interpretation. Relative efficacy is the REPORTED outcome; placebo/least-arm subtraction is its construction, not evidence of treatment randomization. Independent audit: Recommend HDFE under the written battery criterion: drug-by-pair holds molecule/comparator fixed (pp3311-3312), year bins address timing heterogeneity and scale FE absorb mean measurement differences (fn13). Sets are not nested by construction. Auxiliary precision language does not erase the explicit identifying role of the battery. Table1 col1 has only one set, so h1 remains distinct. Cross-sectional double differences are not project temporal DiD."
+  }
+]
+```
