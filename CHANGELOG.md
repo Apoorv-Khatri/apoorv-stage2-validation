@@ -656226,3 +656226,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:25:29.907106+00:00 — Review 3ZIDN6KF h8: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5825",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5826",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5825",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5826",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5825",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5826",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5825",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5826",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5825",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5826",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5825",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5826",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5825",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5826",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5825",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5826",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5825",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5826",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5825",
+    "before": null,
+    "after": "Table7 col4 p2378: focal .023 nonelection reform effect; deliberately paired mean dependent variable .148, same reported scale and estimation sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5826",
+    "before": null,
+    "after": "Table7 col4 p2378: focal -.130 reform×post×election differential; deliberately paired mean dependent variable .148, same reported scale and estimation sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5825",
+    "before": null,
+    "after": "Mean covers estimation sample, not established untreated target-population mean. Parallel trends does not establish equal untreated levels; target weights/time construction unresolved, alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5826",
+    "before": null,
+    "after": "Mean covers estimation sample, not established untreated target-population mean. Parallel trends does not establish equal untreated levels; target weights/time construction unresolved, alignment unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8420",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8420",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8420",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8420",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8420",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8420",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8420",
+    "before": null,
+    "after": "City share last observed in personnel records; not individual binary exit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3746",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3746",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3746",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3746",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3746",
+    "before": null,
+    "after": "Table7 col4: reform×post×election differential effect on city exit rate; balanced panel."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3746",
+    "before": null,
+    "after": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Election means first personnel observation after election (fn32); .023 nonelection reform effect and -.130 election differential; .054 prereform group election gap not a reform causal effect."
+  }
+]
+```
