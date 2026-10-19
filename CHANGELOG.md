@@ -843207,3 +843207,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:39:42.664153+00:00 — Review A8LFPXLL h26: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9322",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9322",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9322",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9322",
+    "before": null,
+    "after": "Log average employee earnings; Table A.6 elasticity ITT exposure 2010-2012."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4156",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4156",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4156",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4156",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4156",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4156",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4156",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4156",
+    "before": null,
+    "after": "Predicted MTR elasticity under exposure 2010-2012 Location: Table A.6 elasticity ITT, exposure 2010-2012"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4156",
+    "before": null,
+    "after": "Actual displayed elasticity row. Continuous predicted-rate treatment, not the binary exposure coefficient in the neighboring column. Exact net-income exclusions versus subsample implementation are not restated in the caption; parent may merge restrictions that only alter samples with h17. No invented dose increment."
+  }
+]
+```

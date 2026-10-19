@@ -42068,7 +42068,16 @@
     "L4155": "0",
     "M4155": "n/a",
     "N4155": "Predicted MTR elasticity under exposure 2012 Location: Table A.6 elasticity ITT, exposure 2012",
-    "O4155": "Actual displayed elasticity row. Continuous predicted-rate treatment, not the binary exposure coefficient in the neighboring column. Exact net-income exclusions versus subsample implementation are not restated in the caption; parent may merge restrictions that only alter samples with h17. No invented dose increment."
+    "O4155": "Actual displayed elasticity row. Continuous predicted-rate treatment, not the binary exposure coefficient in the neighboring column. Exact net-income exclusions versus subsample implementation are not restated in the caption; parent may merge restrictions that only alter samples with h17. No invented dose increment.",
+    "A4156": "A8LFPXLL",
+    "B4156": "h26",
+    "I4156": "1",
+    "J4156": "DiD_conventional",
+    "K4156": "0",
+    "L4156": "0",
+    "M4156": "n/a",
+    "N4156": "Predicted MTR elasticity under exposure 2010-2012 Location: Table A.6 elasticity ITT, exposure 2010-2012",
+    "O4156": "Actual displayed elasticity row. Continuous predicted-rate treatment, not the binary exposure coefficient in the neighboring column. Exact net-income exclusions versus subsample implementation are not restated in the caption; parent may merge restrictions that only alter samples with h17. No invented dose increment."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106045,7 +106054,11 @@
     "A9321": "A8LFPXLL",
     "B9321": "h25",
     "C9321": "hy1",
-    "K9321": "Log average employee earnings; Table A.6 elasticity ITT exposure 2012."
+    "K9321": "Log average employee earnings; Table A.6 elasticity ITT exposure 2012.",
+    "A9322": "A8LFPXLL",
+    "B9322": "h26",
+    "C9322": "hy1",
+    "K9322": "Log average employee earnings; Table A.6 elasticity ITT exposure 2010-2012."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
