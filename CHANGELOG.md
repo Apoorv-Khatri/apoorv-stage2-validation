@@ -760083,3 +760083,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:08:30.453103+00:00 — Review 7PQVC2SH h22: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8910",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8910",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8910",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8910",
+    "before": null,
+    "after": "Initial log entrepreneurial productivity z at birth before occupational selection; v is effect per schooling year."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3970",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3970",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3970",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3970",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3970",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3970",
+    "before": null,
+    "after": "Table4B / pp2087-2088: schooling effect v on initial entrepreneurial log productivity, constrained maximum likelihood with equilibrium occupation threshold and entrepreneurship-rate constraints."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3970",
+    "before": null,
+    "after": "Baseline v0.0436; variants0.0446,0.0409,0.0463. No instrument or causal FE model merely because some data residualized within sectors. Mean/SD parameter estimates are not outcome benchmarks."
+  }
+]
+```

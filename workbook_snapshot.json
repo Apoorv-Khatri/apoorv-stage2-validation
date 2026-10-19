@@ -40196,7 +40196,16 @@
     "L3969": "1",
     "M3969": "n/a",
     "N3969": "Table4A / pp2086-2088: structural effect of an additional schooling year on entrepreneurial log-productivity growth mu1; minimum-distance m and tail-implied recovery. Four sales/value-added overall/within-sector calibrations.",
-    "O3969": "Nonlinear outcome-adaptive model estimation, not IV because equations invert tail indices. Baseline mu1=0.0033; alternatives0.0041,0.0049,0.0039. Schooling changes growth in equation9; m/mu0/SDs themselves are nuisance/model parameters, not additional treatment effects."
+    "O3969": "Nonlinear outcome-adaptive model estimation, not IV because equations invert tail indices. Baseline mu1=0.0033; alternatives0.0041,0.0049,0.0039. Schooling changes growth in equation9; m/mu0/SDs themselves are nuisance/model parameters, not additional treatment effects.",
+    "A3970": "7PQVC2SH",
+    "B3970": "h22",
+    "I3970": "1",
+    "J3970": "Other",
+    "K3970": "0",
+    "L3970": "1",
+    "M3970": "n/a",
+    "N3970": "Table4B / pp2087-2088: schooling effect v on initial entrepreneurial log productivity, constrained maximum likelihood with equilibrium occupation threshold and entrepreneurship-rate constraints.",
+    "O3970": "Baseline v0.0436; variants0.0446,0.0409,0.0463. No instrument or causal FE model merely because some data residualized within sectors. Mean/SD parameter estimates are not outcome benchmarks."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101169,7 +101178,11 @@
     "A8909": "7PQVC2SH",
     "B8909": "h21",
     "C8909": "hy1",
-    "K8909": "Entrepreneurial log-productivity growth rate during initial growth phase, per time unit; equation9, Table4A."
+    "K8909": "Entrepreneurial log-productivity growth rate during initial growth phase, per time unit; equation9, Table4A.",
+    "A8910": "7PQVC2SH",
+    "B8910": "h22",
+    "C8910": "hy1",
+    "K8910": "Initial log entrepreneurial productivity z at birth before occupational selection; v is effect per schooling year."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
