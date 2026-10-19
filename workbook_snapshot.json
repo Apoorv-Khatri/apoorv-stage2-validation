@@ -37116,7 +37116,16 @@
     "L3698": "0",
     "M3698": "unknown",
     "N3698": "TableA10, footnote28 p3325: sponsorship on relative efficacy after dropping pre-1991 trials.",
-    "O3698": "Implemented supporting smaller sponsorship estimate established in final main text. Exact FE/controls and numerical coefficient not available; no extrapolated table grid."
+    "O3698": "Implemented supporting smaller sponsorship estimate established in final main text. Exact FE/controls and numerical coefficient not available; no extrapolated table grid.",
+    "A3699": "2UP7GN8M",
+    "B3699": "h14",
+    "I3699": "1",
+    "J3699": "unknown",
+    "K3699": "1",
+    "L3699": "1",
+    "M3699": "unknown",
+    "N3699": "TableA11 pp3326: sponsorship effects by preregistered and published status, including both/neither interaction.",
+    "O3699": "Main text reports estimated effects and p-values, not just an announced appendix. Minimum sponsorship heterogeneity scope retained; no exact FE sets or coefficient table available. Binary sponsorship; not infer temporal policy DiD from registry/publication subgroups."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93741,7 +93750,14 @@
     "H8342": "0",
     "I8342": "unknown",
     "J8342": "unknown",
-    "K8342": "Relative efficacy: standardized component difference from placebo/least arm; exact appendix scale unverified where source unavailable."
+    "K8342": "Relative efficacy: standardized component difference from placebo/least arm; exact appendix scale unverified where source unavailable.",
+    "A8343": "2UP7GN8M",
+    "B8343": "h14",
+    "C8343": "hy1",
+    "H8343": "0",
+    "I8343": "unknown",
+    "J8343": "unknown",
+    "K8343": "Relative efficacy: standardized component difference from placebo/least arm; exact appendix scale unverified where source unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
