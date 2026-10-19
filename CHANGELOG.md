@@ -738942,3 +738942,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:52:45.900540+00:00 — Review 5VHQLIKT h29: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8783",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8784",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8785",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8786",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8783",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8784",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8785",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8786",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8783",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8784",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8785",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8786",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8783",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8786",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8783",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8786",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8783",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8784",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8785",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8786",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8783",
+    "before": null,
+    "after": "Indicator that lowering taxes on wealthy people and corporations would ultimately do more to reduce income differences between poor and rich families than raising them (trickle-down belief; Figure III caption p2343). Named Republican Economist-video response in p2364 fn30; main-table definition used, no claim of directly reading the appendix."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8784",
+    "before": null,
+    "after": "Indicator that income-tax cuts on the middle class would decrease the deficit in the long run (middle-class Laffer belief; Table IV col3 p2339). Named Republican Economist-video response in p2364 fn30; main-table definition used, no claim of directly reading the appendix."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8785",
+    "before": null,
+    "after": "Indicator that high-income individuals are entitled to keep a very large share of income and should not pay high taxes even if less revenue is available to help low-income families (Table VI col4 p2345). Named Republican Economist-video response in p2364 fn30; main-table definition used, no claim of directly reading the appendix."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8786",
+    "before": null,
+    "after": "Indicator that money and wealth in the United States should be more evenly distributed (Table VI col1 p2345). Named Republican Economist-video response in p2364 fn30; main-table definition used, no claim of directly reading the appendix."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E102",
+    "before": null,
+    "after": "DONE — Available-main-source review/application only; final supplement unavailable and exhaustive paper coverage NOT certified. All61 final-article pages independently reviewed. Retain25 settings and reject two explicitly correlational observational settings after weighing contrary causal wording. Separate Redistribution, Efficiency and Economist randomized video arms; central policy nulls retained, first/second-stage language not IV.139 retained comparisons include129 printed coefficient/control-mean pairings, six standardized-index comparisons and four partisan-gap comparisons; partisan percentages are not SD coefficients. Generic-formulation control means versus full-formulation targets and final index normalization leave alignment unknown. Male/Democrat subgroup baselines not automatically paired with pooled-video effects. Fourteen supplementary scopes h17–h28,h30–h31 and grouped placeholder outcomes HELD OUTSIDE application in independent-held.json; component/arm/interaction allocation unresolved, not spurious or absent. h29 retains four explicitly defined main-text beliefs. Further appendix settings/comparisons may be missing; no unseen grids, no access bypass or older substitution. Attention incentive diagnostic and unreported information-price response excluded. Sample/cross-reference conflicts preserved. Original fields, IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3915",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3915",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3915",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3915",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3915",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3915",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3915",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3915",
+    "before": null,
+    "after": "Income-tax Economist video versus no video: party-heterogeneous responses on four explicitly named beliefs (trickle-down, middle-class Laffer effect, high-income entitlement, wealth distribution unfair), p2364 footnote30 / OA-6. Republican subgroup responses are described; a separate interaction coefficient versus subgroup-total allocation is not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3915",
+    "before": null,
+    "after": "Supporting randomized-assignment belief results; not a causal effect of party. Four outcome concepts established in fn30 and definitions in Figure III, Tables IV/VI. Retain one qualitative scope, not a fabricated interaction-plus-subgroup grid. Exact estimates, subgroup weighting and appendix implementation remain unavailable; no comparison added."
+  }
+]
+```
