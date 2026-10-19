@@ -38450,7 +38450,16 @@
     "L3814": "0",
     "M3814": "n/a",
     "N3814": "AppendixC/TableA2 pp542-543: pre-hire own-minority share and tenure interaction effects on log daily wage and annual turnover in Frankfurt, Cologne and Hamburg; Munich column repeats h4.",
-    "O3814": "TableA2 explicitly includes worker+firm+calendar-year FE, same sorting rationale. Routine city sample variants grouped; no separate duplicate Munich. No linked mean/SD."
+    "O3814": "TableA2 explicitly includes worker+firm+calendar-year FE, same sorting rationale. Routine city sample variants grouped; no separate duplicate Munich. No linked mean/SD.",
+    "A3815": "4LB5EN3L",
+    "B3815": "h13",
+    "I3815": "1",
+    "J3815": "HDFE",
+    "K3815": "0",
+    "L3815": "0",
+    "M3815": "n/a",
+    "N3815": "AppendixC/TableA3 cols2-7 pp542-544: own-minority share and tenure interaction on log wage and annual turnover; firm×hire-year replacement, five-group controls, supply shares, minority/guestworker samples, and other-minority control. Col1 repeats h4.",
+    "O3815": "Worker FE, firm (or firm×hire-year) FE and observation-year FE inherited baseline. Hire-year not observation-year: interaction does not subsume calendar-year effects for repeated spells. Text p542 specifies firm-year of HIRE; short caption only firm-year. TableA3col4 says tenure interaction; p544 says first/subsequent years for extra share controls: preserve conflict, no fabricated additional implementation. Nonfocal added control slopes not separately given causal interpretation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -96736,7 +96745,15 @@
     "A8559": "4LB5EN3L",
     "B8559": "h12",
     "C8559": "hy2",
-    "K8559": "Annual leaving-firm indicator, indicated appendix scope."
+    "K8559": "Annual leaving-firm indicator, indicated appendix scope.",
+    "A8560": "4LB5EN3L",
+    "B8560": "h13",
+    "C8560": "hy1",
+    "K8560": "Log daily wage, indicated appendix scope.",
+    "A8561": "4LB5EN3L",
+    "B8561": "h13",
+    "C8561": "hy2",
+    "K8561": "Annual leaving-firm indicator, indicated appendix scope."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

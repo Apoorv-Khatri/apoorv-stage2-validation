@@ -681003,3 +681003,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:57:41.703878+00:00 — Review 4LB5EN3L h13: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8560",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8561",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8560",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8561",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8560",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8561",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8560",
+    "before": null,
+    "after": "Log daily wage, indicated appendix scope."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8561",
+    "before": null,
+    "after": "Annual leaving-firm indicator, indicated appendix scope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3815",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3815",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3815",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3815",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3815",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3815",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3815",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3815",
+    "before": null,
+    "after": "AppendixC/TableA3 cols2-7 pp542-544: own-minority share and tenure interaction on log wage and annual turnover; firm×hire-year replacement, five-group controls, supply shares, minority/guestworker samples, and other-minority control. Col1 repeats h4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3815",
+    "before": null,
+    "after": "Worker FE, firm (or firm×hire-year) FE and observation-year FE inherited baseline. Hire-year not observation-year: interaction does not subsume calendar-year effects for repeated spells. Text p542 specifies firm-year of HIRE; short caption only firm-year. TableA3col4 says tenure interaction; p544 says first/subsequent years for extra share controls: preserve conflict, no fabricated additional implementation. Nonfocal added control slopes not separately given causal interpretation."
+  }
+]
+```
