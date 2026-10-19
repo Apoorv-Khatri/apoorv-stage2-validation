@@ -36863,7 +36863,16 @@
     "L3676": "0",
     "M3676": "unknown",
     "N3676": "Shorting-premium proxy cheap-minus-expensive factor based on SIRIO control robustness, pp.139-140.",
-    "O3676": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Do not duplicate quantitative Table8 or Table11 result into unseen appendix. Treatment, horizon and method unresolved."
+    "O3676": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Do not duplicate quantitative Table8 or Table11 result into unseen appendix. Treatment, horizon and method unresolved.",
+    "A3677": "ZHTZCSY3",
+    "B3677": "h1",
+    "I3677": "1",
+    "J3677": "OLS",
+    "K3677": "0",
+    "L3677": "1",
+    "M3677": "n/a",
+    "N3677": "Table8 cols2/5/8 p.846: change in Percent effective spread 1, scaled using closing stock price 30 days before decimalization, on change in market-to-book.",
+    "O3677": "Distinct treatment construction from s2: denominator held fixed rather than contemporaneous. All full/NYSE/Nasdaq variants grouped. Eq.(3) observed-change regression with industry dummy controls, not demonstrated IV or identifying FE. Central nulls retained under explicit causal research question (pp.845-846)."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93167,7 +93176,11 @@
     "A8300": "XTWW4AUI",
     "B8300": "h12",
     "C8300": "hy1",
-    "K8300": "Return outcome of timing-premium analysis; exact stock/portfolio implementation not specified. Do not duplicate quantitative Table8 or Table11 result into unseen appendix. Treatment, horizon and method unresolved."
+    "K8300": "Return outcome of timing-premium analysis; exact stock/portfolio implementation not specified. Do not duplicate quantitative Table8 or Table11 result into unseen appendix. Treatment, horizon and method unresolved.",
+    "A8301": "ZHTZCSY3",
+    "B8301": "h1",
+    "C8301": "hy1",
+    "K8301": "Change in market-to-book from 30 days before to 30 days after decimalization; daily values averaged within stock-month. Book equity from previous fiscal year-end."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

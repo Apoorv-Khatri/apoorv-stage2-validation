@@ -617526,3 +617526,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:16:11.445594+00:00 — Review ZHTZCSY3 h1: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8301",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8301",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8301",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8301",
+    "before": null,
+    "after": "Change in market-to-book from 30 days before to 30 days after decimalization; daily values averaged within stock-month. Book equity from previous fiscal year-end."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3677",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3677",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3677",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3677",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3677",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3677",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3677",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3677",
+    "before": null,
+    "after": "Table8 cols2/5/8 p.846: change in Percent effective spread 1, scaled using closing stock price 30 days before decimalization, on change in market-to-book."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3677",
+    "before": null,
+    "after": "Distinct treatment construction from s2: denominator held fixed rather than contemporaneous. All full/NYSE/Nasdaq variants grouped. Eq.(3) observed-change regression with industry dummy controls, not demonstrated IV or identifying FE. Central nulls retained under explicit causal research question (pp.845-846)."
+  }
+]
+```
