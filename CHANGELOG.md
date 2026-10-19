@@ -750951,3 +750951,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:30:04.197149+00:00 — Review 64JY936S h23: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6717",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6717",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6717",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6717",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6717",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6717",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6717",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6717",
+    "before": null,
+    "after": "A17G: author-interpreted post-reform treated/control trajectory contrast, not an annual coefficient grid. Individual group mean earnings relative to2006 group level; top versus next-highest quartile; exact cohort details not fully restated. No numerical effect extracted or invented; one graphical contrast for this outcome and displayed post-reform path."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6717",
+    "before": null,
+    "after": "Same-outcome normalization is deliberately displayed. Numerical coefficient is not a prerequisite for a graphical comparison. No distinct year-specific triples asserted. Separate group denominators; common untreated target mean/weights not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8860",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8860",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8860",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8860",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8860",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8860",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8860",
+    "before": null,
+    "after": "Group mean individual earnings relative to2006, A17G; exact2003 worker cohort construction not fully restated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3938",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3938",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3938",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3938",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3938",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3938",
+    "before": null,
+    "after": "A17 individual earnings robustness: high versus next-highest quartile firm exposure using2006 base; individual average earnings relative to2006; distinct worker outcome/estimand."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3938",
+    "before": null,
+    "after": "A17 G/H; header versus later caption year conflict preserved. Worker cohort/assignment details not restated completely for2003 variant, so do not invent ages or numerical effects."
+  }
+]
+```
