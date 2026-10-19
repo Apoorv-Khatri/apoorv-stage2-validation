@@ -36735,7 +36735,16 @@
     "L3666": "0",
     "M3666": "unknown",
     "N3666": "Holding-month dynamics of matched-pair strategy, p.131: positive all12 months, highest second month, significance wanes after six.",
-    "O3666": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Distinct dynamic result location; no numeric coefficients available."
+    "O3666": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Distinct dynamic result location; no numeric coefficients available.",
+    "A3667": "XTWW4AUI",
+    "B3667": "h3",
+    "I3667": "1",
+    "J3667": "unknown",
+    "K3667": "1",
+    "L3667": "0",
+    "M3667": "unknown",
+    "N3667": "Alternative IV maturity definitions of matched-pair late/early strategies, p.131.",
+    "O3667": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Exact alternative maturity endpoints, selection and estimator not established by final article."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92957,7 +92966,14 @@
     "H8290": "0",
     "I8290": "unknown",
     "J8290": "none",
-    "K8290": "Return in each of the 12 holding months. Distinct dynamic result location; no numeric coefficients available."
+    "K8290": "Return in each of the 12 holding months. Distinct dynamic result location; no numeric coefficients available.",
+    "A8291": "XTWW4AUI",
+    "B8291": "h3",
+    "C8291": "hy1",
+    "H8291": "0",
+    "I8291": "unknown",
+    "J8291": "unknown",
+    "K8291": "Matched-pair strategy returns; precise horizon not restated in final main text. Exact alternative maturity endpoints, selection and estimator not established by final article."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
