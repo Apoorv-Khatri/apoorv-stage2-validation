@@ -681306,3 +681306,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:21:07.483970+00:00 — Review 4X3H7PWW s2: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2169",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2169",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2169",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2169",
+    "before": null,
+    "after": "Duplicate of s1/y1; inactive parent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I884",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O884",
+    "before": null,
+    "after": "Duplicate of s1: TableI cols2-8 are routine controls, sample and inference variants at same location, not distinct settings."
+  }
+]
+```
