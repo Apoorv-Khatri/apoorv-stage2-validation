@@ -39201,7 +39201,16 @@
     "L3881": "1",
     "M3881": "n/a",
     "N3881": "Table9 VI-versus-MM technology premium, cols1,2: -0.080,-0.082; log TFP outcome, distinct focal treatment from sheet share.",
-    "O3881": "Technology-and-sheet productivity premia explicitly analyzed p159. Year controls only."
+    "O3881": "Technology-and-sheet productivity premia explicitly analyzed p159. Year controls only.",
+    "A3882": "5SL56HMJ",
+    "B3882": "h4",
+    "I3882": "1",
+    "J3882": "FE",
+    "K3882": "1",
+    "L3882": "1",
+    "M3882": "n/a",
+    "N3882": "Table9 VI-versus-MM technology premium, cols3,4: -0.115,-0.089; log TFP outcome, distinct focal treatment from sheet share.",
+    "O3882": "Technology-and-sheet productivity premia explicitly analyzed p159. State-year or firm-year identifying cells address geography/ownership as in SectionIIIB."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -98310,7 +98319,14 @@
     "H8675": "0",
     "I8675": "unknown",
     "J8675": "log",
-    "K8675": "Estimated log TFP, Table9 cols1,2; not sheet specialization as an outcome."
+    "K8675": "Estimated log TFP, Table9 cols1,2; not sheet specialization as an outcome.",
+    "A8676": "5SL56HMJ",
+    "B8676": "h4",
+    "C8676": "hy1",
+    "H8676": "0",
+    "I8676": "unknown",
+    "J8676": "log",
+    "K8676": "Estimated log TFP, Table9 cols3,4; not sheet specialization as an outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
