@@ -716628,3 +716628,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:14:15.071049+00:00 — Review 5SL56HMJ s3: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2213",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2213",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2213",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2213",
+    "before": null,
+    "after": "Estimated log TFP, Table5 cols2-4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I904",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J904",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K904",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L904",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M904",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N904",
+    "before": null,
+    "after": "Table5 cols2-4 pp149-153: VI-minus-MM log productivity within firm-year, state-year, and joint firm-state-year cells: -0.084,-0.102,-0.178. Col1 separated to h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O904",
+    "before": null,
+    "after": "Identifying FE explicitly address management/ownership, geography and union confounding. Each interacted set is one dimension, not HDFE. No technology switching; residual within-cell selection acknowledged. Central technology mechanism retained independently of insignificance in col2."
+  }
+]
+```
