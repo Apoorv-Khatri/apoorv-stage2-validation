@@ -41870,7 +41870,16 @@
     "L4133": "1",
     "M4133": "n/a",
     "N4133": "Predicted change in average business income tax rate: employee earnings elasticity, distinct from MTR and dollar-liability treatment Location: Table IV epsilon_ATR ITT",
-    "O4133": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+    "O4133": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location.",
+    "A4134": "A8LFPXLL",
+    "B4134": "h4",
+    "I4134": "1",
+    "J4134": "DiD_conventional",
+    "K4134": "1",
+    "L4134": "0",
+    "M4134": "n/a",
+    "N4134": "Binary owner exposure effect within predicted liability groups, each relative to unexposed firms Location: Figure VII, p.674",
+    "O4134": "Figure visually shows Losses and Q1-Q4; caption says quartiles, prose says quintiles. Do not relabel as continuous treatment or fabricate coefficients."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105697,7 +105706,14 @@
     "A9297": "A8LFPXLL",
     "B9297": "h3",
     "C9297": "hy2",
-    "K9297": "Log average earnings of fixed 2011-2012 stayers retained through 2016; epsilon_ATR -0.064."
+    "K9297": "Log average earnings of fixed 2011-2012 stayers retained through 2016; epsilon_ATR -0.064.",
+    "A9298": "A8LFPXLL",
+    "B9298": "h4",
+    "C9298": "hy1",
+    "H9298": "0",
+    "I9298": "0",
+    "J9298": "log",
+    "K9298": "Log average employee earnings, separately for exposed loss firms and predicted-liability quartiles Q1-Q4 against unexposed controls."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
