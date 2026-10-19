@@ -38625,7 +38625,16 @@
     "L3823": "0",
     "M3823": "n/a",
     "N3823": "AppendixFigureD4: newly covered industry DiD on log earnings by education within each race.",
-    "O3823": "Separately reported crossed race/education outcome scope; no new method; high-education null retained."
+    "O3823": "Separately reported crossed race/education outcome scope; no new method; high-education null retained.",
+    "A3824": "4X3H7PWW",
+    "B3824": "h8",
+    "I3824": "1",
+    "J3824": "DiD_conventional",
+    "K3824": "1",
+    "L3824": "0",
+    "M3824": "n/a",
+    "N3824": "AppendixFigureD5: coverage-reform contrast in adjusted racial gap paths by education, treated versus control industries.",
+    "O3824": "Same graphical gap-DiD judgment as s13, held for parent. Caption high education11-or-more conflicts with low11-or-less and D4 high>11; preserve, do not infer overlap implementation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97078,7 +97087,14 @@
     "H8575": "0",
     "I8575": "unknown",
     "J8575": "log",
-    "K8575": "Log annual earnings low/high education within Black/White groups; FigureD4."
+    "K8575": "Log annual earnings low/high education within Black/White groups; FigureD4.",
+    "A8576": "4X3H7PWW",
+    "B8576": "h8",
+    "C8576": "hy1",
+    "H8576": "0",
+    "I8576": "unknown",
+    "J8576": "log",
+    "K8576": "Adjusted racial gap from log earnings, low/high education; FigureD5."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
