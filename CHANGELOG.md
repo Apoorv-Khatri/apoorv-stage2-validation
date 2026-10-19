@@ -614775,3 +614775,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:14:00.467717+00:00 — Review ZHTZCSY3 s2: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I825",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J825",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K825",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L825",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M825",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N825",
+    "before": null,
+    "after": "Table8 cols1/4/7 p.846: change in contemporaneous-price-scaled Percent effective spread on change in market-to-book; two-digit SIC industry dummies. Other liquidity constructions split to h1/h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O825",
+    "before": null,
+    "after": "Section7.1 explicitly examines causal impact and interprets reduced spread as leading to greater value, while challenging mechanical price-denominator confounding. Retain author-intention, not causal credibility. Table title says instrument, but Eq.(3) directly regresses change in value on observed change in liquidity; no first-stage/fitted treatment/2SLS specified. Not IV. Industry dummies are merely listed; no identifying-FE argument established. No untreated group/parallel-trends contrast in this continuous change-on-change regression, so OLS rather than DiD. Parent adjudicate taxonomy if stronger identifying FE evidence is found."
+  }
+]
+```
