@@ -678174,3 +678174,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:29:29.498786+00:00 — Review 4HCEQK9M h16: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8531",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8531",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8531",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8531",
+    "before": null,
+    "after": "Aggregate labor supply response to wage; elasticity construction in AppendixE, not a binary outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3800",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3800",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3800",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3800",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3800",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3800",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3800",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3800",
+    "before": null,
+    "after": "AppendixE pp23-24 FigureA8: aggregate supply elasticity0.03 implied by hiring-shock wage/employment changes under competitive semi-peak equilibrium."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3800",
+    "before": null,
+    "after": "Appendix E pp23-24: supply recovery uses delta h (removed workers counterfactual days at market wage), delta e and delta w; inverse slope printed delta w/(delta h-delta e), elasticity 0.03. Footnote4 excludes equating delta h to observed job take-up. Exact counterfactual estimator and elasticity scaling are not supplied. A ratio alone does not defeat Wald linearity conditional on treatment; structural terminology alone does not prove outcome-adaptive nonlinear estimation. Full method unknown, not established Other."
+  }
+]
+```
