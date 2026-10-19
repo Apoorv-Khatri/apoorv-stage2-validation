@@ -750288,3 +750288,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:28:49.122537+00:00 — Review 64JY936S h20: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8855",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8855",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8855",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8855",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8855",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8855",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8855",
+    "before": null,
+    "after": "Fraction of2006 firms operating in each year2003-13; aggregate fraction not binary. A15B; unweighted A15A rejected as age-composition confounding by authors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3935",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3935",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3935",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3935",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3935",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3935",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3935",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3935",
+    "before": null,
+    "after": "High versus medium2006 share-young firm survival, A15B/Appendix A.4; DFL firm-age reweighted2006 firms with>3 workers, before/after2007. Substantive null survival effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3935",
+    "before": null,
+    "after": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
+  }
+]
+```

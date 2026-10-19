@@ -39796,7 +39796,16 @@
     "L3934": "0",
     "M3934": "n/a",
     "N3934": "Age eligibility x post log hiring and log separation rates, A13B; ages20-26 versus27-35,2002-06 versus2009-13. Separate log outcome from Table2/A3 levels.",
-    "O3934": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
+    "O3934": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms.",
+    "A3935": "64JY936S",
+    "B3935": "h20",
+    "I3935": "1",
+    "J3935": "DiD_conventional",
+    "K3935": "1",
+    "L3935": "0",
+    "M3935": "n/a",
+    "N3935": "High versus medium2006 share-young firm survival, A15B/Appendix A.4; DFL firm-age reweighted2006 firms with>3 workers, before/after2007. Substantive null survival effect.",
+    "O3935": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100387,7 +100396,14 @@
     "H8854": "0",
     "I8854": "0",
     "J8854": "log",
-    "K8854": "Log employment-to-unemployment transition share; A13B label-0.215 (0.032), prose about22% decline. TableA3 instead repeats rate-level estimates."
+    "K8854": "Log employment-to-unemployment transition share; A13B label-0.215 (0.032), prose about22% decline. TableA3 instead repeats rate-level estimates.",
+    "A8855": "64JY936S",
+    "B8855": "h20",
+    "C8855": "hy1",
+    "H8855": "0",
+    "I8855": "0",
+    "J8855": "none",
+    "K8855": "Fraction of2006 firms operating in each year2003-13; aggregate fraction not binary. A15B; unweighted A15A rejected as age-composition confounding by authors."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
