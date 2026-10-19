@@ -651468,3 +651468,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:59:55.783039+00:00 — Review 2XPTKJBQ h17: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8402",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8402",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8402",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8402",
+    "before": null,
+    "after": "Aggregate annual lives saved, 830–1,340 each year during sample period under stated extrapolation assumptions (p3179 fn26), not individual mortality percentage points."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E94",
+    "before": null,
+    "after": "DONE — Full available-source review of30 final pages, Tables1–2, Figures1–3 and footnotes1–26, with independent audit. Retain21 settings,27 outcomes and76 comparisons. Fuzzy RKD Wald ratios classified IV with scalar nonbinary kink variation; income treatment continuous, not eligibility assignment. Lower/family first-stage transcription corrected in human notes. B5 consolidated minimum horizon scope without inferred BP grid; unsupported upperB8 held. First-/fourth-year mortality outcomes separated. Figure3 result-location scopes retained without bandwidth-by-bandwidth expansion. Conditional aggregate lives-saved intervention h17 retained with unknown aggregation method, not certified transportability; reciprocal cost/life-year arithmetic not separate effect. Table2 verbal flags narrowed to explicit links; all local mean alignments unknown for continuous-IV target weights. Preserve Table1+0.097pp/−2.0%, Table2 means, Figure3/prose and cost-range conflicts. Final appendices unavailable; no unseen grids or older-source substitution. Original fields, IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3738",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3738",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3738",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3738",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3738",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3738",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3738",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3738",
+    "before": null,
+    "after": "Conclusion p3179 fn26: conditional national intervention of $1,000 additional annual income to each new DI beneficiary; 830–1,340 lives saved annually during sample period if local estimates apply to 10% of all DI beneficiaries and one-third with dependents."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3738",
+    "before": null,
+    "after": "Distinct aggregate population estimand, not a new identifying design. Extrapolates covariate-adjusted conventional/bias-corrected IV estimates with explicit transport assumptions. Full aggregation/overlap weights not supplied; method unknown rather than invented OLS or automatic nonlinear Other. Continuous income dose. No mortality mean/SD benchmark supplied; coverage fractions are not outcome baselines. Parent may instead treat as downstream implication, but lack of new estimation alone is not sufficient exclusion under broad causal-setting rule."
+  }
+]
+```

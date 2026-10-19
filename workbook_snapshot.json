@@ -447,6 +447,7 @@
     "B94": "Disability Insurance Income Saves Lives",
     "C94": "econ",
     "D94": 7,
+    "E94": "DONE — Full available-source review of30 final pages, Tables1–2, Figures1–3 and footnotes1–26, with independent audit. Retain21 settings,27 outcomes and76 comparisons. Fuzzy RKD Wald ratios classified IV with scalar nonbinary kink variation; income treatment continuous, not eligibility assignment. Lower/family first-stage transcription corrected in human notes. B5 consolidated minimum horizon scope without inferred BP grid; unsupported upperB8 held. First-/fourth-year mortality outcomes separated. Figure3 result-location scopes retained without bandwidth-by-bandwidth expansion. Conditional aggregate lives-saved intervention h17 retained with unknown aggregation method, not certified transportability; reciprocal cost/life-year arithmetic not separate effect. Table2 verbal flags narrowed to explicit links; all local mean alignments unknown for continuous-IV target weights. Preserve Table1+0.097pp/−2.0%, Table2 means, Figure3/prose and cost-range conflicts. Final appendices unavailable; no unseen grids or older-source substitution. Original fields, IDs and hyperlinks preserved.",
     "A95": "3ZIDN6KF",
     "B95": "Strengthening State Capacity: Civil Service Reform and Public Sector Performance during the Gilded Age",
     "C95": "econ",
@@ -37540,7 +37541,16 @@
     "L3737": "0",
     "M3737": "single continuous",
     "N3737": "Figure3 / pp3168–71: upper-BP bandwidth robustness of DI income on mortality.",
-    "O3737": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Same estimator across bandwidths; retain as separately reported figure scope, not one setting per bandwidth. Figure3 lower plotted curve appears around -0.5 to -0.4, while prose says stabilizes -0.30; preserve figure/prose conflict. Parent may merge this routine bandwidth figure with Table1 setting under grouping rule; no new comparisons claimed. Independent decision: retain one scope per separately reported Figure3 BP (distinct result location), not one per bandwidth; merging into s1–s3 is an acceptable grouping alternative with identical comparison inventory."
+    "O3737": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Same estimator across bandwidths; retain as separately reported figure scope, not one setting per bandwidth. Figure3 lower plotted curve appears around -0.5 to -0.4, while prose says stabilizes -0.30; preserve figure/prose conflict. Parent may merge this routine bandwidth figure with Table1 setting under grouping rule; no new comparisons claimed. Independent decision: retain one scope per separately reported Figure3 BP (distinct result location), not one per bandwidth; merging into s1–s3 is an acceptable grouping alternative with identical comparison inventory.",
+    "A3738": "2XPTKJBQ",
+    "B3738": "h17",
+    "I3738": "1",
+    "J3738": "unknown",
+    "K3738": "0",
+    "L3738": "1",
+    "M3738": "unknown",
+    "N3738": "Conclusion p3179 fn26: conditional national intervention of $1,000 additional annual income to each new DI beneficiary; 830–1,340 lives saved annually during sample period if local estimates apply to 10% of all DI beneficiaries and one-third with dependents.",
+    "O3738": "Distinct aggregate population estimand, not a new identifying design. Extrapolates covariate-adjusted conventional/bias-corrected IV estimates with explicit transport assumptions. Full aggregation/overlap weights not supplied; method unknown rather than invented OLS or automatic nonlinear Other. Continuous income dose. No mortality mean/SD benchmark supplied; coverage fractions are not outcome baselines. Parent may instead treat as downstream implication, but lack of new estimation alone is not sufficient exclusion under broad causal-setting rule."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94652,7 +94662,11 @@
     "A8401": "2XPTKJBQ",
     "B8401": "h16",
     "C8401": "hy1",
-    "K8401": "Average annual mortality over first four years (pp)."
+    "K8401": "Average annual mortality over first four years (pp).",
+    "A8402": "2XPTKJBQ",
+    "B8402": "h17",
+    "C8402": "hy1",
+    "K8402": "Aggregate annual lives saved, 830–1,340 each year during sample period under stated extrapolation assumptions (p3179 fn26), not individual mortality percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
