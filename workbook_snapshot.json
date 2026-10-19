@@ -40016,7 +40016,16 @@
     "L3949": "1",
     "M3949": "n/a",
     "N3949": "Appendix FigureF.2c p18 / main fn12: schooling-bin by age effects on cumulative survival, baseline2004-2007 cohorts.",
-    "O3949": "Substantive survival result rejects riskier-strategy explanation; no exclusion for null middle-bin contrasts. Caption says equation1 but graph and main.ipynb cell23 establish linear survival indicator, not log survival. Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented."
+    "O3949": "Substantive survival result rejects riskier-strategy explanation; no exclusion for null middle-bin contrasts. Caption says equation1 but graph and main.ipynb cell23 establish linear survival indicator, not log survival. Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented.",
+    "A3950": "7PQVC2SH",
+    "B3950": "h2",
+    "I3950": "1",
+    "J3950": "OLS",
+    "K3950": "0",
+    "L3950": "1",
+    "M3950": "n/a",
+    "N3950": "Figure5b: separately estimated OLS mean log-sales slope on continuous schooling,0.057; same controls as equation2.",
+    "O3950": "Distinct implemented mean estimand from nonlinear quantiles s8; main average-versus-tail heterogeneity comparison. Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100885,7 +100894,11 @@
     "A8883": "7PQVC2SH",
     "B8883": "h1",
     "C8883": "hy1",
-    "K8883": "Cumulative survival indicator at each age, coded1 if max observed firm age reaches that age, zero otherwise; graph reports adjusted rates anchored1 at entry. Equation1 caption does not imply log survival."
+    "K8883": "Cumulative survival indicator at each age, coded1 if max observed firm age reaches that age, zero otherwise; graph reports adjusted rates anchored1 at entry. Equation1 caption does not imply log survival.",
+    "A8884": "7PQVC2SH",
+    "B8884": "h2",
+    "C8884": "hy1",
+    "K8884": "Log sales, pooled2005-2017 cross-sections age<=10; mean regression, not quantile outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
