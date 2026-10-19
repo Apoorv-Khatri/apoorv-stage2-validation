@@ -39183,7 +39183,16 @@
     "L3879": "1",
     "M3879": "n/a",
     "N3879": "Table5 col1: VI-minus-MM log TFP premium -0.074 with year controls only.",
-    "O3879": "Baseline without the identifying firm/geographic cells, pp149-150. Separate actual OLS setting rather than pooling with s3 FE; repeated premise but separately located comparison specification."
+    "O3879": "Baseline without the identifying firm/geographic cells, pp149-150. Separate actual OLS setting rather than pooling with s3 FE; repeated premise but separately located comparison specification.",
+    "A3880": "5SL56HMJ",
+    "B3880": "h2",
+    "I3880": "1",
+    "J3880": "OLS",
+    "K3880": "0",
+    "L3880": "1",
+    "M3880": "n/a",
+    "N3880": "Table9 cols2,5: continuous sheet-specialization share with year controls; all-plants0.073 and VI-only0.058 (null retained).",
+    "O3880": "Common-time dummies alone do not establish identifying FE here; same mechanism interpretation as s5, not excluded for weak identification or insignificance."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -98281,7 +98290,11 @@
     "H8673": "0",
     "I8673": "unknown",
     "J8673": "log",
-    "K8673": "Estimated log TFP, Table5 col1."
+    "K8673": "Estimated log TFP, Table5 col1.",
+    "A8674": "5SL56HMJ",
+    "B8674": "h2",
+    "C8674": "hy1",
+    "K8674": "Estimated log TFP, Table9 cols2,5."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

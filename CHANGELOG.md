@@ -717537,3 +717537,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:16:02.696690+00:00 — Review 5SL56HMJ h2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8674",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8674",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8674",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8674",
+    "before": null,
+    "after": "Estimated log TFP, Table9 cols2,5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3880",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3880",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3880",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3880",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3880",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3880",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3880",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3880",
+    "before": null,
+    "after": "Table9 cols2,5: continuous sheet-specialization share with year controls; all-plants0.073 and VI-only0.058 (null retained)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3880",
+    "before": null,
+    "after": "Common-time dummies alone do not establish identifying FE here; same mechanism interpretation as s5, not excluded for weak identification or insignificance."
+  }
+]
+```
