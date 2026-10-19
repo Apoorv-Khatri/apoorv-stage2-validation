@@ -41273,7 +41273,16 @@
     "L4079": "1",
     "M4079": "unknown",
     "N4079": "Prior-year spending kink to+500 versus-2000 to-500: relative next-January spending (January/March-June monthly mean), Figure IX top, Table III col4/Table IV col6, Appendix A9.",
-    "O4079": "Paper pp889-891 describes mean of individual January/March-June ratios and two-group contrast (conditional reported-outcome OLS). Replication do lines1162-1185/1570-1577 instead ratio of group means and ratio-of-ratios (Other in raw expenditure); table code reports ratio-minus-one, paper prints1.333. Cannot verify exact published implementation without restricted data. A9 caption year y+1 versus prose/code both years conflict preserved."
+    "O4079": "Paper pp889-891 describes mean of individual January/March-June ratios and two-group contrast (conditional reported-outcome OLS). Replication do lines1162-1185/1570-1577 instead ratio of group means and ratio-of-ratios (Other in raw expenditure); table code reports ratio-minus-one, paper prints1.333. Cannot verify exact published implementation without restricted data. A9 caption year y+1 versus prose/code both years conflict preserved.",
+    "A4080": "9VJYE45Y",
+    "B4080": "h4",
+    "I4080": "1",
+    "J4080": "Other",
+    "K4080": "0",
+    "L4080": "1",
+    "M4080": "n/a",
+    "N4080": "Kink response in adjusted annual spending that adds bin-average extra next-January spending; Figure IX bottom/footnote34 p892. Positive residual bunching rejects all-response-is-deferral hypothesis.",
+    "O4080": "Outcome-adaptive bin adjustment and excess-density recovery; not IV/RD. Individual-adjustment and July placebo disappearance are noise diagnostics, not separate causal estimates."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -103351,7 +103360,14 @@
     "H9077": "0",
     "I9077": "unknown",
     "J9077": "other",
-    "K9077": "Relative January Inappropriate drug spending; Table IV col6. January divided by March-June monthly mean, group-average ratio; zero-denominator handling not stated. CONFLICT: paper mean-of-individual-ratios versus code ratio-of-group-means; exact reported construction unresolved, not silently normalized."
+    "K9077": "Relative January Inappropriate drug spending; Table IV col6. January divided by March-June monthly mean, group-average ratio; zero-denominator handling not stated. CONFLICT: paper mean-of-individual-ratios versus code ratio-of-group-means; exact reported construction unresolved, not silently normalized.",
+    "A9078": "9VJYE45Y",
+    "B9078": "h4",
+    "C9078": "hy1",
+    "H9078": "0",
+    "I9078": "unknown",
+    "J9078": "other",
+    "K9078": "Excess frequency near kink in adjusted annual drug spending distribution; bins add average January minus March-June spending."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -182869,7 +182885,17 @@
     "O7057": "1",
     "P7057": "unknown",
     "Q7057": "p890 and A9: no deductible subgroup excess January spending38%, relative to far-below-gap group. Main prose says plan type in both years; A9 caption specifies year y+1; preserve population conflict.",
-    "R7057": "Population scope conflict and unestablished untreated group-level match. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+    "R7057": "Population scope conflict and unestablished untreated group-level match. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison.",
+    "A7058": "9VJYE45Y",
+    "B7058": "h4",
+    "C7058": "hc1",
+    "K7058": "1",
+    "L7058": "hy1",
+    "M7058": "other_level",
+    "N7058": "1",
+    "O7058": "1",
+    "P7058": "n/a",
+    "Q7058": "Figure IX bottom/fn34: adjusted excess mass0.242(SE0.004), relative to smooth counterfactual local mass. Baseline0.291 is another estimated effect, NOT an eligible benchmark."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
