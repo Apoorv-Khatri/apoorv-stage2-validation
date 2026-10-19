@@ -41663,7 +41663,16 @@
     "L4116": "0",
     "M4116": "n/a",
     "N4116": "Calibrated financial waste attributable to political turnover from lost learning, fixed education costs and student counts. Main pp.468–469 fn37–39",
-    "O4116": "Worked intervention calculation passes broad gate; estimator mapping is not fully reported. Not Other merely because back-of-envelope."
+    "O4116": "Worked intervention calculation passes broad gate; estimator mapping is not fully reported. Not Other merely because back-of-envelope.",
+    "A4117": "9XMIBBJM",
+    "B4117": "h26",
+    "I4117": "1",
+    "J4117": "unknown",
+    "K4117": "1",
+    "L4117": "0",
+    "M4117": "n/a",
+    "N4117": "Calibrated compensatory education-policy expenditure to offset turnover test-score losses, using external voucher cost/effect. Main p.469 fn41",
+    "O4117": "US$31.7m prose conflicts with US$29m /28,998,717 footnote. This is not empirical replication; source discrepancy preserved."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105100,7 +105109,14 @@
     "H9247": "0",
     "I9247": "unknown",
     "J9247": "other",
-    "K9247": "Extrapolated total waste for all municipal students in treated municipalities (13 times tested-student amount)"
+    "K9247": "Extrapolated total waste for all municipal students in treated municipalities (13 times tested-student amount)",
+    "A9248": "9XMIBBJM",
+    "B9248": "h26",
+    "C9248": "hy1",
+    "H9248": "0",
+    "I9248": "unknown",
+    "J9248": "none",
+    "K9248": "Total expenditure required for compensatory intervention for tested grade4/8 students in treated close-election municipalities; prose US$31.7m, fn41 US$29m (28,998,717)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
