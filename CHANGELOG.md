@@ -650637,3 +650637,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:56:38.071120+00:00 — Review 2XPTKJBQ h6: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8391",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8391",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8391",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8391",
+    "before": null,
+    "after": "TableB5 extended-follow-up average annual mortality, described as from 4 through 10 years after entry. Exact cumulative-versus-window horizon construction and BP allocation unresolved; no unseen grid inferred."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3729",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3729",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3729",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3729",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3729",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3729",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3729",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3729",
+    "before": null,
+    "after": "Table B5, p3174: implemented extended-follow-up fuzzy-RKD DI-income effects on average annual mortality, described as from 4 through 10 years after entry. Minimum single scope; exact BP-by-horizon allocation unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3729",
+    "before": null,
+    "after": "Eq1–2 fuzzy RKD IV, continuous payment dose; scalar nonbinary slope-kink contrast. Immediate paragraph concerns lower/family BPs and fn13 singles out family weakening first stages. Do not assert upper BP or a full BP-by-horizon grid. One minimum scope pending final B5; does not mean a pooled-BP estimator. No coefficient or mean transferred from Table1."
+  }
+]
+```
