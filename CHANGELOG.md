@@ -768696,3 +768696,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:38:34.850696+00:00 — Review 89PULMFU h12: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8939",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8939",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8939",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8939",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8939",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8939",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8939",
+    "before": null,
+    "after": "Log model-implied NOx pollution tax at region x sector x year; event-time coefficient path relative to year before policy."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3999",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3999",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3999",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3999",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3999",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3999",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3999",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3999",
+    "before": null,
+    "after": "NBP dynamic post-treatment log NOx-tax effects: Figure6 / p3847 fn37 event-study DDD. Retain substantive post2002 increases; prepolicy coefficients diagnostic-only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3999",
+    "before": null,
+    "after": "Same assignment as s2 but separately reported dynamic estimand. Region-year, sector-year and region-sector FE; conventional event-time model, no named heterogeneity-robust estimator. No endpoint coefficient invented."
+  }
+]
+```

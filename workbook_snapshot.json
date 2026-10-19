@@ -40472,7 +40472,16 @@
     "L3998": "0",
     "M3998": "n/a",
     "N3998": "Table1B col6: newly nonattainment regulatory exposure interacted with polluter status/share; effect on total emissions across pollutants pollution intensity, reduced-form coefficient-5.346.",
-    "O3998": "Table1 note p3835 specifies binary polluter x pollutant-specific newly nonattainment indicator; p3834 fn21 instead specifies continuous1990 sector emission share x any-pollutant newly nonattainment1990-93. Multiplicity is one scalar excluded interaction in each equation, but support/definition conflicts: IV type unknown, not confidently single binary or single continuous. Lower-order terms are included controls. No code obtained to resolve. Equation17 uses first differences; table reports county-NAICS FE and log-level dependent labels. Do not invent a separate levels estimator. p3835 says regulated sectors decrease pollution per unit output after regulation; retain imprecise/null results too. First-difference interaction with lower-order terms is conventional DiD; no IV receipt in this reduced form. Binary unknown because binary-polluter versus continuous-share conflict."
+    "O3998": "Table1 note p3835 specifies binary polluter x pollutant-specific newly nonattainment indicator; p3834 fn21 instead specifies continuous1990 sector emission share x any-pollutant newly nonattainment1990-93. Multiplicity is one scalar excluded interaction in each equation, but support/definition conflicts: IV type unknown, not confidently single binary or single continuous. Lower-order terms are included controls. No code obtained to resolve. Equation17 uses first differences; table reports county-NAICS FE and log-level dependent labels. Do not invent a separate levels estimator. p3835 says regulated sectors decrease pollution per unit output after regulation; retain imprecise/null results too. First-difference interaction with lower-order terms is conventional DiD; no IV receipt in this reduced form. Binary unknown because binary-polluter versus continuous-share conflict.",
+    "A3999": "89PULMFU",
+    "B3999": "h12",
+    "I3999": "1",
+    "J3999": "DiD_conventional",
+    "K3999": "1",
+    "L3999": "0",
+    "M3999": "n/a",
+    "N3999": "NBP dynamic post-treatment log NOx-tax effects: Figure6 / p3847 fn37 event-study DDD. Retain substantive post2002 increases; prepolicy coefficients diagnostic-only.",
+    "O3999": "Same assignment as s2 but separately reported dynamic estimand. Region-year, sector-year and region-sector FE; conventional event-time model, no named heterogeneity-robust estimator. No endpoint coefficient invented."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101633,7 +101642,14 @@
     "H8938": "0",
     "I8938": "unknown",
     "J8938": "other",
-    "K8938": "Change in log((total emissions across pollutants emissions+1)/real output), Table1B, eq17/fn22. Table log-level label and first-difference description unresolved."
+    "K8938": "Change in log((total emissions across pollutants emissions+1)/real output), Table1B, eq17/fn22. Table log-level label and first-difference description unresolved.",
+    "A8939": "89PULMFU",
+    "B8939": "h12",
+    "C8939": "hy1",
+    "H8939": "0",
+    "I8939": "unknown",
+    "J8939": "log",
+    "K8939": "Log model-implied NOx pollution tax at region x sector x year; event-time coefficient path relative to year before policy."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
