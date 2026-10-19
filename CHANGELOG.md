@@ -734736,3 +734736,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:48:43.778828+00:00 — Review 5VHQLIKT h7: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6589",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6590",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6589",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6590",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6589",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6590",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6589",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6590",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6589",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6590",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6589",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6590",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6589",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6590",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6589",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6590",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6589",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6590",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6589",
+    "before": null,
+    "after": "Table IV B/C p2339 cols4-5 estate macro-efficiency beliefs, column4: Efficiency coefficient 0.05 probability units; same-column Control mean 0.28. No-video respondents with generic question formulation (Table III note, inherited by other tables). Values are not percentages of baseline; binary outcome has observed zeros because 0<control mean<1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6590",
+    "before": null,
+    "after": "Table IV B/C p2339 cols4-5 estate macro-efficiency beliefs, column5: Efficiency coefficient 0.05 probability units; same-column Control mean 0.46. No-video respondents with generic question formulation (Table III note, inherited by other tables). Values are not percentages of baseline; binary outcome has observed zeros because 0<control mean<1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6589",
+    "before": null,
+    "after": "Benchmark restricted to generic wording; full regression controls all question formulations (p2326 fn12, p2334 fn17, Table III note). Without final appendix, equality with full assignment target across formulations is not established. Random assignment would align an unrestricted no-video mean; retain unknown for this specific restricted benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6590",
+    "before": null,
+    "after": "Benchmark restricted to generic wording; full regression controls all question formulations (p2326 fn12, p2334 fn17, Table III note). Without final appendix, equality with full assignment target across formulations is not established. Random assignment would align an unrestricted no-video mean; retain unknown for this specific restricted benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8751",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8752",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8751",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8752",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8751",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8752",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8752",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8752",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8751",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8752",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8751",
+    "before": null,
+    "after": "Indicator equal to 1 if respondent believes increasing the federal estate tax on wealthy households would hurt economic activity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8752",
+    "before": null,
+    "after": "Indicator equal to 1 if respondent believes cuts to the estate tax for wealthy households would decrease the deficit in the long run (estate-tax Laffer effect)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3905",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3905",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3905",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3905",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3905",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3905",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3905",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3905",
+    "before": null,
+    "after": "Efficiency video assignment versus no-video control: Table IV B/C p2339 cols4-5 estate macro-efficiency beliefs. Other randomized arms are separate settings; all respondent-control variants at this location grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3905",
+    "before": null,
+    "after": "Direct randomized video assignment versus no video; linear controlled regressions. Demographic/question-form dummies are controls, not identifying FE. Mechanism beliefs are substantive outcomes, not diagnostic-only first stages; no IV receipt estimator. Abstract and VI.D establish central experimental role, including null Efficiency policy effects."
+  }
+]
+```
