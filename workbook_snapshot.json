@@ -39643,7 +39643,16 @@
     "L3917": "1",
     "M3917": "n/a",
     "N3917": "Fairly high (next1/8) versus medium2006 share-young exposure; Table4 cols2-3 per-worker earnings/A14 f-h; same DiD and normalization as s6. Table6 headers and pp1753/1756 support col2 fairly/col3 very; note reverses names, preserved as conflict.",
-    "O3917": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
+    "O3917": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms.",
+    "A3918": "64JY936S",
+    "B3918": "h5",
+    "I3918": "1",
+    "J3918": "DiD_conventional",
+    "K3918": "1",
+    "L3918": "1",
+    "M3918": "n/a",
+    "N3918": "Fairly high (next1/8) versus medium2006 share-young exposure; Table6 row1 cols2-3/Figure8B; same DiD and normalization as s7. Table6 headers and pp1753/1756 support col2 fairly/col3 very; note reverses names, preserved as conflict.",
+    "O3918": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -99842,7 +99851,14 @@
     "H8798": "0",
     "I8798": "unknown",
     "J8798": "other",
-    "K8798": "Average gross wage earnings (labor cost) per worker in the firm, normalized relative to 2006. Table4/5 uses arithmetic normalized levels, not logs. Zero mass of aggregate reported series not established; unbalanced micro records include zero for nonoperating firms."
+    "K8798": "Average gross wage earnings (labor cost) per worker in the firm, normalized relative to 2006. Table4/5 uses arithmetic normalized levels, not logs. Zero mass of aggregate reported series not established; unbalanced micro records include zero for nonoperating firms.",
+    "A8799": "64JY936S",
+    "B8799": "h5",
+    "C8799": "hy1",
+    "H8799": "0",
+    "I8799": "unknown",
+    "J8799": "other",
+    "K8799": "Individual annual net wage earnings from tax records, including zero for nonemployment, normalized relative to 2006 average earnings of the exposure group. Reported outcome is group mean (not individual binary observation), normalized by group2006 mean; individual nonemployment zeros do not imply a zero atom in the aggregate mean."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -174945,7 +174961,18 @@
     "N6669": "1",
     "O6669": "1",
     "P6669": "n/a",
-    "Q6669": "Table4 col2 per-worker outcome: 0.0035; note/Figure7 and pp1749-51 explicitly scale by each firm own2006 value then average. Same-outcome baseline level; payroll-tax A14(g) graphical scale conflict kept separate, not silently treated as normalized1."
+    "Q6669": "Table4 col2 per-worker outcome: 0.0035; note/Figure7 and pp1749-51 explicitly scale by each firm own2006 value then average. Same-outcome baseline level; payroll-tax A14(g) graphical scale conflict kept separate, not silently treated as normalized1.",
+    "A6670": "64JY936S",
+    "B6670": "h5",
+    "C6670": "hc1",
+    "K6670": "1",
+    "L6670": "hy1",
+    "M6670": "outcome_mean",
+    "N6670": "1",
+    "O6670": "1",
+    "P6670": "unknown",
+    "Q6670": "Table6 row1 col2, 0.015; note and Figure8/10/A20 describe average earnings relative to own-group2006 mean. Header col2 fairly high/col3 very high conflicts with reversed note; adjoining prose confirms header. Numeric dollar baseline not printed.",
+    "R6670": "Age-DFL (and gender rows age/industry-DFL) target is explicit but separate group2006 denominators mean a single common untreated target mean is not established; parallel trends alone does not equate levels."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
