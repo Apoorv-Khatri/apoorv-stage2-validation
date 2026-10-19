@@ -39327,7 +39327,16 @@
     "L3895": "1",
     "M3895": "unknown",
     "N3895": "Main pp157,164: combined direct MM-attributed productivity contribution, between-technology reallocation plus MM productivity growth; one estimand with conflicting reported44%/51% formulations, not two separately identified interventions.",
-    "O3895": "Authors attribute gains to reallocation/entry (main pp156-161,166-169; AppendixG). Retain under author-intention gate, not an exogenous intervention claim. Method Other denotes structural causal accounting, not proof that a covariance is nonlinear: conditional on constructed TFP and fixed revenue shares, OP components are linear. Full economic procedure uses estimated production functions and realized revenue weights; no separately implemented OLS/IV/DiD coefficient or covariate-based matching treatment estimator is established. Conditional-linear-contrast taxonomy remains a parent adjudication issue. AppendixD.1 pp18-19 labor-as-state timing robustness reports similar reallocation point estimates/significance; group as routine upstream timing variant, do not invent component grids. Parent adjudication: method unknown. Conditional on constructed productivity and shares, accounting components may be linear contrasts; upstream structural estimation alone does not establish a nonlinear focal estimator. Complete attribution procedure versus conditional-outcome domain is unresolved, so Other is not certified. Causal-intention retention does not establish identification."
+    "O3895": "Authors attribute gains to reallocation/entry (main pp156-161,166-169; AppendixG). Retain under author-intention gate, not an exogenous intervention claim. Method Other denotes structural causal accounting, not proof that a covariance is nonlinear: conditional on constructed TFP and fixed revenue shares, OP components are linear. Full economic procedure uses estimated production functions and realized revenue weights; no separately implemented OLS/IV/DiD coefficient or covariate-based matching treatment estimator is established. Conditional-linear-contrast taxonomy remains a parent adjudication issue. AppendixD.1 pp18-19 labor-as-state timing robustness reports similar reallocation point estimates/significance; group as routine upstream timing variant, do not invent component grids. Parent adjudication: method unknown. Conditional on constructed productivity and shares, accounting components may be linear contrasts; upstream structural estimation alone does not establish a nonlinear focal estimator. Complete attribution procedure versus conditional-outcome domain is unresolved, so Other is not certified. Causal-intention retention does not establish identification.",
+    "A3896": "5SL56HMJ",
+    "B3896": "h20",
+    "I3896": "1",
+    "J3896": "unknown",
+    "K3896": "0",
+    "L3896": "1",
+    "M3896": "unknown",
+    "N3896": "SectionIV.D / pp161,167: TOTAL MM-attributed productivity contribution including induced VI reallocation/exit; broader estimand than direct h19.",
+    "O3896": "Authors attribute gains to reallocation/entry (main pp156-161,166-169; AppendixG). Retain under author-intention gate, not an exogenous intervention claim. Method Other denotes structural causal accounting, not proof that a covariance is nonlinear: conditional on constructed TFP and fixed revenue shares, OP components are linear. Full economic procedure uses estimated production functions and realized revenue weights; no separately implemented OLS/IV/DiD coefficient or covariate-based matching treatment estimator is established. Conditional-linear-contrast taxonomy remains a parent adjudication issue. AppendixD.1 pp18-19 labor-as-state timing robustness reports similar reallocation point estimates/significance; group as routine upstream timing variant, do not invent component grids. Total81% includes induced VI reallocation and is broader than direct h19. Parent adjudication: method unknown. Conditional on constructed productivity and shares, accounting components may be linear contrasts; upstream structural estimation alone does not establish a nonlinear focal estimator. Complete attribution procedure versus conditional-outcome domain is unresolved, so Other is not certified. Causal-intention retention does not establish identification."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -98495,7 +98504,11 @@
     "A8689": "5SL56HMJ",
     "B8689": "h19",
     "C8689": "hy1",
-    "K8689": "Aggregate log TFP growth1963-2002, revenue-weighted; subgroup totals where explicitly reported. Shares of growth are contribution measures, not individual binary outcomes."
+    "K8689": "Aggregate log TFP growth1963-2002, revenue-weighted; subgroup totals where explicitly reported. Shares of growth are contribution measures, not individual binary outcomes.",
+    "A8690": "5SL56HMJ",
+    "B8690": "h20",
+    "C8690": "hy1",
+    "K8690": "Aggregate log TFP growth1963-2002, revenue-weighted; subgroup totals where explicitly reported. Shares of growth are contribution measures, not individual binary outcomes."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -171514,7 +171527,18 @@
     "O6482": "1",
     "P6482": "n/a",
     "Q6482": "Main p157 reports combined direct MM contribution44%=23% between-technology plus21% MM improvement; p164 reports minimum direct51%=23% plus28% total MM growth, against aggregate industry productivity growth1963-2002 (Table7/8 total22.1). One direct-attribution estimate/outcome/benchmark record with conflicting formulations, not two effects. Neither contribution level is reconstructed.",
-    "R6482": "Count once. Different component wording could indicate different accounting scopes, but no independently identified interventions are established. Parent may hold eligibility unknown instead; do not count both unresolved formulations."
+    "R6482": "Count once. Different component wording could indicate different accounting scopes, but no independently identified interventions are established. Parent may hold eligibility unknown instead; do not count both unresolved formulations.",
+    "A6483": "5SL56HMJ",
+    "B6483": "h20",
+    "C6483": "hc1",
+    "K6483": "1",
+    "L6483": "hy1",
+    "M6483": "other_level",
+    "N6483": "1",
+    "O6483": "1",
+    "P6483": "n/a",
+    "Q6483": "p161 and p167: all except19 percent VI within-plant improvement, including induced VI reallocation; combined MM-attributed contribution81% of aggregate industry productivity growth1963-2002 (Table7/8 total22.1). Reported shares are not reconciled or converted into invented contribution levels.",
+    "R6483": "Direct44% versus51% source accounting conflict;81% deliberately broader estimand separated to h20. Parent must adjudicate whether two conflicting direct estimates count separately or are held as one unresolved allocation."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
