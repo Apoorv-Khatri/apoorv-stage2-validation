@@ -726903,3 +726903,726 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:44:12.286094+00:00 — Review 5VHQLIKT s6: source-audited coding and linked comparisons
+
+119 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6521",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6522",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6523",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6524",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6525",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6526",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6527",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6528",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6521",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6522",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6523",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6524",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6525",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6526",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6527",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6528",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6521",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6522",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6523",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6524",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6525",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6526",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6527",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6528",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6521",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6522",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6523",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6524",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6525",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6526",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6527",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6528",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6521",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6522",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6523",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6524",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6525",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6526",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6527",
+    "before": null,
+    "after": "y7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6528",
+    "before": null,
+    "after": "y8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6521",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6522",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6523",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6524",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6525",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6526",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6527",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6528",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6521",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6522",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6523",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6524",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6525",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6526",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6528",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6521",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6522",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6523",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6524",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6525",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6526",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6528",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6521",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6522",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6523",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6524",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6525",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6526",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6527",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6528",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6521",
+    "before": null,
+    "after": "Table VII B/C pp2347-2348 estate fairness, column1: Redistribution coefficient 0.04 probability units; same-column Control mean 0.64. No-video respondents with generic question formulation (Table III note, inherited by other tables). Values are not percentages of baseline; binary outcome has observed zeros because 0<control mean<1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6522",
+    "before": null,
+    "after": "Table VII B/C pp2347-2348 estate fairness, column2: Redistribution coefficient 0.02 probability units; same-column Control mean 0.46. No-video respondents with generic question formulation (Table III note, inherited by other tables). Values are not percentages of baseline; binary outcome has observed zeros because 0<control mean<1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6523",
+    "before": null,
+    "after": "Table VII B/C pp2347-2348 estate fairness, column3: Redistribution coefficient 0.01 probability units; same-column Control mean 0.62. No-video respondents with generic question formulation (Table III note, inherited by other tables). Values are not percentages of baseline; binary outcome has observed zeros because 0<control mean<1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6524",
+    "before": null,
+    "after": "Table VII B/C pp2347-2348 estate fairness, column4: Redistribution coefficient 0.01 probability units; same-column Control mean 0.61. No-video respondents with generic question formulation (Table III note, inherited by other tables). Values are not percentages of baseline; binary outcome has observed zeros because 0<control mean<1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6525",
+    "before": null,
+    "after": "Table VII B/C pp2347-2348 estate fairness, column5: Redistribution coefficient -0.05 probability units; same-column Control mean 0.47. No-video respondents with generic question formulation (Table III note, inherited by other tables). Values are not percentages of baseline; binary outcome has observed zeros because 0<control mean<1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6526",
+    "before": null,
+    "after": "Table VII B/C pp2347-2348 estate fairness, column6: Redistribution coefficient 0.03 probability units; same-column Control mean 0.32. No-video respondents with generic question formulation (Table III note, inherited by other tables). Values are not percentages of baseline; binary outcome has observed zeros because 0<control mean<1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6527",
+    "before": null,
+    "after": "Table VII B/C pp2347-2348 estate fairness, column7: Redistribution coefficient -0.09 probability units; same-column Control mean 0.53. No-video respondents with generic question formulation (Table III note, inherited by other tables). Values are not percentages of baseline; binary outcome has observed zeros because 0<control mean<1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6528",
+    "before": null,
+    "after": "Table VII B/C pp2347-2348 estate fairness, column8: Redistribution coefficient -0.06 probability units; same-column Control mean 0.58. No-video respondents with generic question formulation (Table III note, inherited by other tables). Values are not percentages of baseline; binary outcome has observed zeros because 0<control mean<1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6521",
+    "before": null,
+    "after": "Benchmark restricted to generic wording; full regression controls all question formulations (p2326 fn12, p2334 fn17, Table III note). Without final appendix, equality with full assignment target across formulations is not established. Random assignment would align an unrestricted no-video mean; retain unknown for this specific restricted benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6522",
+    "before": null,
+    "after": "Benchmark restricted to generic wording; full regression controls all question formulations (p2326 fn12, p2334 fn17, Table III note). Without final appendix, equality with full assignment target across formulations is not established. Random assignment would align an unrestricted no-video mean; retain unknown for this specific restricted benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6523",
+    "before": null,
+    "after": "Benchmark restricted to generic wording; full regression controls all question formulations (p2326 fn12, p2334 fn17, Table III note). Without final appendix, equality with full assignment target across formulations is not established. Random assignment would align an unrestricted no-video mean; retain unknown for this specific restricted benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6524",
+    "before": null,
+    "after": "Benchmark restricted to generic wording; full regression controls all question formulations (p2326 fn12, p2334 fn17, Table III note). Without final appendix, equality with full assignment target across formulations is not established. Random assignment would align an unrestricted no-video mean; retain unknown for this specific restricted benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6525",
+    "before": null,
+    "after": "Benchmark restricted to generic wording; full regression controls all question formulations (p2326 fn12, p2334 fn17, Table III note). Without final appendix, equality with full assignment target across formulations is not established. Random assignment would align an unrestricted no-video mean; retain unknown for this specific restricted benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6526",
+    "before": null,
+    "after": "Benchmark restricted to generic wording; full regression controls all question formulations (p2326 fn12, p2334 fn17, Table III note). Without final appendix, equality with full assignment target across formulations is not established. Random assignment would align an unrestricted no-video mean; retain unknown for this specific restricted benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6527",
+    "before": null,
+    "after": "Benchmark restricted to generic wording; full regression controls all question formulations (p2326 fn12, p2334 fn17, Table III note). Without final appendix, equality with full assignment target across formulations is not established. Random assignment would align an unrestricted no-video mean; retain unknown for this specific restricted benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6528",
+    "before": null,
+    "after": "Benchmark restricted to generic wording; full regression controls all question formulations (p2326 fn12, p2334 fn17, Table III note). Without final appendix, equality with full assignment target across formulations is not established. Random assignment would align an unrestricted no-video mean; retain unknown for this specific restricted benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2252",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2253",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2254",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2255",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2256",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2257",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2258",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2259",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2252",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2253",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2254",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2255",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2256",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2257",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2258",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2259",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2252",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2253",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2254",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2255",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2256",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2257",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2258",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2259",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I913",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J913",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K913",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L913",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M913",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N913",
+    "before": null,
+    "after": "Redistribution video assignment versus no-video control: Table VII B/C pp2347-2348 estate fairness. Other randomized arms are separate settings; all respondent-control variants at this location grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O913",
+    "before": null,
+    "after": "Direct randomized video assignment versus no video; linear controlled regressions. Demographic/question-form dummies are controls, not identifying FE. Mechanism beliefs are substantive outcomes, not diagnostic-only first stages; no IV receipt estimator. Abstract and VI.D establish central experimental role, including null Efficiency policy effects."
+  }
+]
+```
