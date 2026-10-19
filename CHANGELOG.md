@@ -653988,3 +653988,450 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:21:53.279375+00:00 — Review 3ZIDN6KF s8: source-audited coding and linked comparisons
+
+73 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5822",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5823",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5824",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5822",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5823",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5824",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5822",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5823",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5824",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K545",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K546",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K547",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5822",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5823",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5824",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L545",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L546",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L547",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5822",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5823",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5824",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M545",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M546",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M547",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5822",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5823",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5824",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N545",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N546",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N547",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5822",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5823",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5824",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O545",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O546",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O547",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5822",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5823",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5824",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P545",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P546",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P547",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5822",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5823",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5824",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q545",
+    "before": null,
+    "after": "Table 8, column 1: “Mean of dependent variable: 0.278” and “Reform × Post × Election −0.075 (0.041).” Benchmark is the estimation-sample mean, not a demonstrated untreated-target mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q546",
+    "before": null,
+    "after": "Table 8, column 2: “Mean of dependent variable: 12.59” and “Reform × Post × Election 0.194 (0.072).” Benchmark is the estimation-sample mean, not a demonstrated untreated-target mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q547",
+    "before": null,
+    "after": "Table 8, column 3: “Mean of dependent variable: 1.019” and “Reform × Post × Election −0.157 (0.073).” Benchmark is the estimation-sample mean, not a demonstrated untreated-target mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5822",
+    "before": null,
+    "after": "Table8 col1 p2380: focal .002 nonelection Reform×Post; deliberately paired mean dependent variable .278, same reported scale and estimation sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5823",
+    "before": null,
+    "after": "Table8 col2 p2380: focal -.003 nonelection Reform×Post; deliberately paired mean dependent variable 12.59, same reported scale and estimation sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5824",
+    "before": null,
+    "after": "Table8 col3 p2380: focal -.066 nonelection Reform×Post; deliberately paired mean dependent variable 1.019, same reported scale and estimation sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R545",
+    "before": null,
+    "after": "Deliberate table mean pairing qualifies, including reported log-scale mean. Percentage interpretation of a log coefficient is not verbal comparison to that mean. Alignment unknown: target untreated levels/weights not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R546",
+    "before": null,
+    "after": "Deliberate table mean pairing qualifies, including reported log-scale mean. Percentage interpretation of a log coefficient is not verbal comparison to that mean. Alignment unknown: target untreated levels/weights not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R547",
+    "before": null,
+    "after": "Deliberate table mean pairing qualifies, including reported log-scale mean. Percentage interpretation of a log coefficient is not verbal comparison to that mean. Alignment unknown: target untreated levels/weights not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5822",
+    "before": null,
+    "after": "Mean covers estimation sample, not established untreated target-population mean. Parallel trends does not establish equal untreated levels; target weights/time construction unresolved, alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5823",
+    "before": null,
+    "after": "Mean covers estimation sample, not established untreated target-population mean. Parallel trends does not establish equal untreated levels; target weights/time construction unresolved, alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5824",
+    "before": null,
+    "after": "Mean covers estimation sample, not established untreated target-population mean. Parallel trends does not establish equal untreated levels; target weights/time construction unresolved, alignment unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2101",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2102",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2103",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2101",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2102",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2103",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2101",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2102",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2103",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2101",
+    "before": null,
+    "after": "Table8 header Error rate and mean .278; caption calls delivery errors, while Table4 defines per-staff scale ×100. Exact scale in Table8 not explicit; do not silently assert an unscaled count."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I856",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J856",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K856",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L856",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M856",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O856",
+    "before": null,
+    "after": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Conventional DDD election heterogeneity. Lower-order Reform×Post is nonelection effect; triple coefficient differential, not election total. Table8 col1 header error rate versus caption delivery errors; exact divisor only borrowed from Table4, preserve uncertainty. Election convention differs across annual vs biennial sources; do not universalize fn32."
+  }
+]
+```
