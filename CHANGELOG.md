@@ -659940,3 +659940,510 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:46:20.348148+00:00 — Review 4BNXLZ5D s1: source-audited coding and linked comparisons
+
+83 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5850",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5851",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5852",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5850",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5851",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5852",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5850",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5851",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5852",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K557",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K559",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5850",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5851",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5852",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L557",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L558",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L559",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5850",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5851",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5852",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M557",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M558",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M559",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5850",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5851",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5852",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N557",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N559",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5850",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5851",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5852",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O557",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O558",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O559",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5850",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5851",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5852",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P557",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P558",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P559",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5850",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5851",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5852",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q557",
+    "before": null,
+    "after": "p885 / Table4 row1: moving common-law→civil-law changes predicted Cash-in-advance indicator (one versus zero for the other financing modes). probability from 4.0% to 31.7%. Benchmark here common-law predicted probability 4.0%; model-implied category mean, not other_level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q558",
+    "before": null,
+    "after": "p885 / Table4 row1: moving common-law→civil-law changes predicted Letter-of-credit indicator (one versus zero for the other financing modes). probability from 0.4% to 4.1%. Benchmark here common-law predicted probability 0.4%; model-implied category mean, not other_level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q559",
+    "before": null,
+    "after": "p885 / Table4 row1: moving common-law→civil-law changes predicted Postshipment indicator (documentary collection or open account; one versus zero for other modes). probability from 95.6% to 64.2%. Benchmark here common-law predicted probability 95.6%; model-implied category mean, not other_level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5850",
+    "before": null,
+    "after": "p885 / Table4 common-law specification: predicted probability moves from 4.0% common-law to 31.7% civil-law. Same focal switch as c1; benchmark here the explicitly paired civil-law endpoint."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5851",
+    "before": null,
+    "after": "p885 / Table4 common-law specification: predicted probability moves from 0.4% common-law to 4.1% civil-law. Same focal switch as c2; benchmark here the explicitly paired civil-law endpoint."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5852",
+    "before": null,
+    "after": "p885 / Table4 common-law specification: predicted probability moves from 95.6% common-law to 64.2% civil-law. Same focal switch as c3; benchmark here the explicitly paired civil-law endpoint."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R557",
+    "before": null,
+    "after": "Specific prediction weighting/covariate evaluation and target population not stated. Common-law is starting-state baseline for the explicitly reversed switch; alignment unknown, not established simply by common model. No author division. Opposite endpoint recorded separately for symmetric pairing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R558",
+    "before": null,
+    "after": "Specific prediction weighting/covariate evaluation and target population not stated. Common-law is starting-state baseline for the explicitly reversed switch; alignment unknown, not established simply by common model. No author division. Opposite endpoint recorded separately for symmetric pairing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R559",
+    "before": null,
+    "after": "Specific prediction weighting/covariate evaluation and target population not stated. Common-law is starting-state baseline for the explicitly reversed switch; alignment unknown, not established simply by common model. No author division. Opposite endpoint recorded separately for symmetric pairing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5850",
+    "before": null,
+    "after": "Symmetric same-outcome endpoint eligibility; civil-law destination is the post-switch endpoint, not untreated common-law baseline for the author-described common-to-civil move. Thus unaligned for that direction; prediction weights also unstated. No division. Independent recommendation accepts symmetric endpoint pairing; direction is explicitly common-to-civil, not inferred from regressor coding."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5851",
+    "before": null,
+    "after": "Symmetric same-outcome endpoint eligibility; civil-law destination is the post-switch endpoint, not untreated common-law baseline for the author-described common-to-civil move. Thus unaligned for that direction; prediction weights also unstated. No division. Independent recommendation accepts symmetric endpoint pairing; direction is explicitly common-to-civil, not inferred from regressor coding."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5852",
+    "before": null,
+    "after": "Symmetric same-outcome endpoint eligibility; civil-law destination is the post-switch endpoint, not untreated common-law baseline for the author-described common-to-civil move. Thus unaligned for that direction; prediction weights also unstated. No division. Independent recommendation accepts symmetric endpoint pairing; direction is explicitly common-to-civil, not inferred from regressor coding."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8445",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8445",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8445",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2110",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2111",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2112",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8445",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2110",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2111",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2112",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8445",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2110",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2111",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2112",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8445",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2110",
+    "before": null,
+    "after": "Cash-in-advance indicator (one versus zero for the other financing modes). Multinomial dependent category is not itself binary; labels refer to this category indicator. Predicted probabilities reported p885 are continuous expectations of that indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2111",
+    "before": null,
+    "after": "Letter-of-credit indicator (one versus zero for the other financing modes). Multinomial dependent category is not itself binary; labels refer to this category indicator. Predicted probabilities reported p885 are continuous expectations of that indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2112",
+    "before": null,
+    "after": "Duplicate contrast, not a third distinct category outcome: CIA-versus-LC is another normalization of the same multinomial equation. Retain CIA y1 and LC y2; missing postshipment indicator hy1 added."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8445",
+    "before": null,
+    "after": "Postshipment indicator (documentary collection or open account; one versus zero for other modes). Missing category outcome for predicted probability 95.6%→64.2%, p885."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I859",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J859",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K859",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L859",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M859",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N859",
+    "before": null,
+    "after": "Table4 common-law indicator only (row1), including common-to-civil predicted probability contrasts p885; other seven enforcement proxies split h1–h7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O859",
+    "before": null,
+    "after": "Implemented multinomial logit: Other regardless of product/year dummies. Three mutually exclusive financing categories; category-specific probability effects are not separate binary logits. Author-intention gate: pp885–87 explicitly calls these effects and tests propositions; observational institutional variation is not exogenous identification. No IV/RCT/RD/DiD."
+  }
+]
+```
