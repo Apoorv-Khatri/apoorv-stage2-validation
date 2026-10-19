@@ -772212,3 +772212,210 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:40:46.546232+00:00 — Review 89PULMFU h19: source-audited coding and linked comparisons
+
+33 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6893",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6894",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6893",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6894",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6893",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6894",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6893",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6894",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6893",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6894",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6893",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6894",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6893",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6894",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6893",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6894",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6893",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6894",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6893",
+    "before": null,
+    "after": "Figure7B and caption: US environmental regulation-only CO2 emissions path relative to own1990=100, same construction as Figure5; pp3848-49."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6894",
+    "before": null,
+    "after": "Figure7B: US environmental regulation-only CO2 path compared with actual all-shocks CO2 path; p3849 discusses observed modest change and no shock fully explaining it. Same-outcome contemporaneous level benchmark; no ratio to actual emissions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8960",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8960",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8960",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8960",
+    "before": null,
+    "after": "Total US manufacturing CO2 emissions index,1990=100. MECS fuel-based construction; Figure7B. No invented numerical endpoints."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4005",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4005",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4005",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4005",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4005",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4005",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4005",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4005",
+    "before": null,
+    "after": "Figure7B pp3848-49: historical US environmental regulation alone; CO2 manufacturing emissions path versus1990 shocks."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4005",
+    "before": null,
+    "after": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification. CO2 decomposition is supporting extension, distinct from descriptive recovered-tax Figure7A."
+  }
+]
+```

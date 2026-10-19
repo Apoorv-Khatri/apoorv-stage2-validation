@@ -40526,7 +40526,16 @@
     "L4004": "1",
     "M4004": "n/a",
     "N4004": "Figure5 A-F pp3841-44: historical1990-2008 US environmental regulation path alone versus all shocks fixed at1990; effects on six US manufacturing emissions paths.",
-    "O4004": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification."
+    "O4004": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification.",
+    "A4005": "89PULMFU",
+    "B4005": "h19",
+    "I4005": "1",
+    "J4005": "Other",
+    "K4005": "0",
+    "L4005": "0",
+    "M4005": "n/a",
+    "N4005": "Figure7B pp3848-49: historical US environmental regulation alone; CO2 manufacturing emissions path versus1990 shocks.",
+    "O4005": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification. CO2 decomposition is supporting extension, distinct from descriptive recovered-tax Figure7A."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101774,7 +101783,11 @@
     "A8959": "89PULMFU",
     "B8959": "h15",
     "C8959": "hy6",
-    "K8959": "VOCs total US manufacturing emissions index,1990=100; Figure5 panelF. Not pollution intensity; no graph endpoint numerals transcribed."
+    "K8959": "VOCs total US manufacturing emissions index,1990=100; Figure5 panelF. Not pollution intensity; no graph endpoint numerals transcribed.",
+    "A8960": "89PULMFU",
+    "B8960": "h19",
+    "C8960": "hy1",
+    "K8960": "Total US manufacturing CO2 emissions index,1990=100. MECS fuel-based construction; Figure7B. No invented numerical endpoints."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -179476,7 +179489,27 @@
     "O6892": "0",
     "P6892": "n/a",
     "Q6892": "Figure5 panelF: US environmental regulation-only counterfactual VOCs path deliberately compared against actual same-pollutant all-shocks path (solid line); p3841 explicitly says compare counterfactual emissions against actual. Separate contemporaneous same-outcome level benchmark, not an untreated mean. No division by actual path reported.",
-    "R6892": "Graphical same-outcome level pairing policy requires parent adjudication; values intentionally qualitative."
+    "R6892": "Graphical same-outcome level pairing policy requires parent adjudication; values intentionally qualitative.",
+    "A6893": "89PULMFU",
+    "B6893": "h19",
+    "C6893": "hc1",
+    "K6893": "1",
+    "L6893": "hy1",
+    "M6893": "other_level",
+    "N6893": "1",
+    "O6893": "1",
+    "P6893": "n/a",
+    "Q6893": "Figure7B and caption: US environmental regulation-only CO2 emissions path relative to own1990=100, same construction as Figure5; pp3848-49.",
+    "A6894": "89PULMFU",
+    "B6894": "h19",
+    "C6894": "hc2",
+    "K6894": "1",
+    "L6894": "hy1",
+    "M6894": "other_level",
+    "N6894": "1",
+    "O6894": "0",
+    "P6894": "n/a",
+    "Q6894": "Figure7B: US environmental regulation-only CO2 path compared with actual all-shocks CO2 path; p3849 discusses observed modest change and no shock fully explaining it. Same-outcome contemporaneous level benchmark; no ratio to actual emissions."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
