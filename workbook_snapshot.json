@@ -36798,7 +36798,16 @@
     "L3673": "0",
     "M3673": "n/a",
     "N3673": "Fama-MacBeth IVD × IV365 squared slopes controlling idiosyncratic variance and mispricing variants, p.139.",
-    "O3673": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Separate result location retained; exact cells unavailable."
+    "O3673": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Separate result location retained; exact cells unavailable.",
+    "A3674": "XTWW4AUI",
+    "B3674": "h10",
+    "I3674": "1",
+    "J3674": "OLS",
+    "K3674": "1",
+    "L3674": "0",
+    "M3674": "n/a",
+    "N3674": "IV365/IVD double sorts restricted to bottom20% mispricing (most underpriced) stocks, p.139.",
+    "O3674": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Implemented sort contrast known and positive at top IV quintile; do not infer weights or horizon."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93060,7 +93069,14 @@
     "A8297": "XTWW4AUI",
     "B8297": "h9",
     "C8297": "hy1",
-    "K8297": "Monthly individual stock excess return. Separate result location retained; exact cells unavailable."
+    "K8297": "Monthly individual stock excess return. Separate result location retained; exact cells unavailable.",
+    "A8298": "XTWW4AUI",
+    "B8298": "h10",
+    "C8298": "hy1",
+    "H8298": "0",
+    "I8298": "unknown",
+    "J8298": "unknown",
+    "K8298": "High-minus-low IVD portfolio return; holding horizon not stated in final main paragraph. Implemented sort contrast known and positive at top IV quintile; do not infer weights or horizon."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
