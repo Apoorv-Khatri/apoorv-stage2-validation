@@ -39192,7 +39192,16 @@
     "L3880": "1",
     "M3880": "n/a",
     "N3880": "Table9 cols2,5: continuous sheet-specialization share with year controls; all-plants0.073 and VI-only0.058 (null retained).",
-    "O3880": "Common-time dummies alone do not establish identifying FE here; same mechanism interpretation as s5, not excluded for weak identification or insignificance."
+    "O3880": "Common-time dummies alone do not establish identifying FE here; same mechanism interpretation as s5, not excluded for weak identification or insignificance.",
+    "A3881": "5SL56HMJ",
+    "B3881": "h3",
+    "I3881": "1",
+    "J3881": "OLS",
+    "K3881": "1",
+    "L3881": "1",
+    "M3881": "n/a",
+    "N3881": "Table9 VI-versus-MM technology premium, cols1,2: -0.080,-0.082; log TFP outcome, distinct focal treatment from sheet share.",
+    "O3881": "Technology-and-sheet productivity premia explicitly analyzed p159. Year controls only."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -98294,7 +98303,14 @@
     "A8674": "5SL56HMJ",
     "B8674": "h2",
     "C8674": "hy1",
-    "K8674": "Estimated log TFP, Table9 cols2,5."
+    "K8674": "Estimated log TFP, Table9 cols2,5.",
+    "A8675": "5SL56HMJ",
+    "B8675": "h3",
+    "C8675": "hy1",
+    "H8675": "0",
+    "I8675": "unknown",
+    "J8675": "log",
+    "K8675": "Estimated log TFP, Table9 cols1,2; not sheet specialization as an outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
