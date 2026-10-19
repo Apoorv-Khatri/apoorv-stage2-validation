@@ -687618,3 +687618,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T07:56:26.038811+00:00 — Review 5EFFX2TK s1: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2192",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2193",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2194",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2192",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2193",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2194",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2192",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2193",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2194",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2192",
+    "before": null,
+    "after": "Inactive under rejected predictor-treatment parent; original definition preserved. See source audit for distinct maturity-rule scope."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2193",
+    "before": null,
+    "after": "Inactive under rejected predictor-treatment parent; original definition preserved. See source audit for distinct maturity-rule scope."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2194",
+    "before": null,
+    "after": "Inactive under rejected predictor-treatment parent; original definition preserved. See source audit for distinct maturity-rule scope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I897",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O897",
+    "before": null,
+    "after": "Reject Table1 short-rate predictor coefficient: explicitly forecasting, not effect of an intervention on rates (pp4147-4150). Footnote6 p4164 concerns yield slopes in selected countries, not this short-rate coefficient. No identifying-FE claim inferred from country dummies."
+  }
+]
+```
