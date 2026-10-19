@@ -839682,3 +839682,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:25:49.502449+00:00 — Review A8LFPXLL s5: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2423",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2421",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2422",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2423",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2421",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2422",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2423",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2421",
+    "before": null,
+    "after": "Fractional change in total wage bill (W2016-W2012)/W2012, trimmed at 99th percentile; Table III B, Eq.(3). Not log."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2422",
+    "before": null,
+    "after": "Change in total earnings of fixed firm stayers divided by TOTAL 2012 wage bill, not change in contemporaneous stayer share; Eq.(3)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2423",
+    "before": null,
+    "after": "(New-hire 2016 earnings minus separators baseline earnings)/TOTAL 2012 wage bill; Eq.(3)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J968",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M968",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O968",
+    "before": null,
+    "after": "Table III B and Eq.(3): fractional wage-bill change, NOT log change. Stayer and turnover contributions use baseline TOTAL wage bill. The 38% statement compares two causal effects, not an outcome benchmark."
+  }
+]
+```
