@@ -679797,3 +679797,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:54:51.284107+00:00 — Review 4LB5EN3L h5: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8547",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8548",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8547",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8548",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8547",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8548",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8547",
+    "before": null,
+    "after": "Log daily gross wage, low/medium skilled full-time administrative workers; Table4 PanelC."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8548",
+    "before": null,
+    "after": "Binary annual leaving-firm indicator t+1; Table4 PanelC."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3807",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3807",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3807",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3807",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3807",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3807",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3807",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3807",
+    "before": null,
+    "after": "Table4 PanelC cols1-2: own-minority share on log daily wage and annual turnover; first-year versus subsequent-year effects, without identifying worker/firm FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3807",
+    "before": null,
+    "after": "Broad author-intention inclusion: Table4 caption and discussion frame these as alternative impact estimates, while p530 calls initial wage coefficient a negative association and p531 says OLS biased by sorting. Supporting selection benchmarks, not preferred causal estimates; gate contested. Year and industry dummies alone do not establish identifying FE."
+  }
+]
+```
