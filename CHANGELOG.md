@@ -678954,3 +678954,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:52:20.891539+00:00 — Review 4LB5EN3L s6: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2164",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2164",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2164",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I880",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J880",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K880",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L880",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M880",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N880",
+    "before": null,
+    "after": "Table5 PanelA SECOND subpanel cols3-4: observed referral versus nonreferral wage contrast, augmented administrative sample, jointly estimated worker OR firm FE with year FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O880",
+    "before": null,
+    "after": "pp526-527,533: unknown-referral spells are base; reported effect is difference of referral and nonreferral coefficients, a binary contrast. Preserve date conflict: prose2002-2012 vs Table5 note2003-2012. Do not pool with pre-estimated-effect adjustment or joint three-set specification."
+  }
+]
+```
