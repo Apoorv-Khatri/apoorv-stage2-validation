@@ -38169,7 +38169,16 @@
     "L3788": "0",
     "M3788": "n/a",
     "N3788": "B5cols1-4 p10: non-winsorized wage robustness under binary seasonal moderation.",
-    "O3788": "Eq(1), pp3196-3199; Appendix C pp19-21. Village matched-pair randomized high versus low external hiring intensity; workers randomly assigned offers/waitlist/never offered, with never-offered spillover sample. Linear ITT; RCT precedes round-strata FE and sampling weights. Seasonal moderator uses control-village month employment, not randomized season; treatment remains binary. Not IV receipt except s5. Control condition has small hiring shock, not literally no jobs. Randomization supports control counterfactual for matched season/population under maintained sampling assumptions; wage selection, subgroup means and continuous-moderator targets need separate scrutiny."
+    "O3788": "Eq(1), pp3196-3199; Appendix C pp19-21. Village matched-pair randomized high versus low external hiring intensity; workers randomly assigned offers/waitlist/never offered, with never-offered spillover sample. Linear ITT; RCT precedes round-strata FE and sampling weights. Seasonal moderator uses control-village month employment, not randomized season; treatment remains binary. Not IV receipt except s5. Control condition has small hiring shock, not literally no jobs. Randomization supports control counterfactual for matched season/population under maintained sampling assumptions; wage selection, subgroup means and continuous-moderator targets need separate scrutiny.",
+    "A3789": "4HCEQK9M",
+    "B3789": "h5",
+    "I3789": "1",
+    "J3789": "RCT",
+    "K3789": "1",
+    "L3789": "0",
+    "M3789": "n/a",
+    "N3789": "B5cols5-6 p10: non-winsorized log and level wages, randomized shock×continuous employment moderator.",
+    "O3789": "Eq(1), pp3196-3199; Appendix C pp19-21. Village matched-pair randomized high versus low external hiring intensity; workers randomly assigned offers/waitlist/never offered, with never-offered spillover sample. Linear ITT; RCT precedes round-strata FE and sampling weights. Seasonal moderator uses control-village month employment, not randomized season; treatment remains binary. Not IV receipt except s5. Control condition has small hiring shock, not literally no jobs. Randomization supports control counterfactual for matched season/population under maintained sampling assumptions; wage selection, subgroup means and continuous-moderator targets need separate scrutiny."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -96099,7 +96108,21 @@
     "H8504": "0",
     "I8504": "unknown",
     "J8504": "none",
-    "K8504": "Total wage rupees"
+    "K8504": "Total wage rupees",
+    "A8505": "4HCEQK9M",
+    "B8505": "h5",
+    "C8505": "hy1",
+    "H8505": "0",
+    "I8505": "unknown",
+    "J8505": "log",
+    "K8505": "Log total wage",
+    "A8506": "4HCEQK9M",
+    "B8506": "h5",
+    "C8506": "hy2",
+    "H8506": "0",
+    "I8506": "unknown",
+    "J8506": "none",
+    "K8506": "Total rupee wage"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
