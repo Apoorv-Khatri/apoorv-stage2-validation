@@ -37989,7 +37989,16 @@
     "L3776": "1",
     "M3776": "n/a",
     "N3776": "Table5 even cols2/4/6: log number of previous transactions, interacted with common-law indicator, on financing-mode indicators.",
-    "O3776": "Table5 p889 explicitly identifies changes within customer-country; p864 explains FE rule out selection of customers who buy less on cash-in-advance. Customer×country, product, year are THREE nonnested sets. HDFE substantive selection rationale plus dimensions; original claim fewer than three is wrong. No higher-priority estimator. Main central relationship conclusion pp856–57,898. Fn28/online Table8 LC-exclusion robustness is grouped here as a routine sample variant, not a separately verified HDFE implementation. Available text establishes dropping LC, not the unseen estimator cells. Reopen a method split only if final appendix shows a distinct estimator."
+    "O3776": "Table5 p889 explicitly identifies changes within customer-country; p864 explains FE rule out selection of customers who buy less on cash-in-advance. Customer×country, product, year are THREE nonnested sets. HDFE substantive selection rationale plus dimensions; original claim fewer than three is wrong. No higher-priority estimator. Main central relationship conclusion pp856–57,898. Fn28/online Table8 LC-exclusion robustness is grouped here as a routine sample variant, not a separately verified HDFE implementation. Available text establishes dropping LC, not the unseen estimator cells. Reopen a method split only if final appendix shows a distinct estimator.",
+    "A3777": "4BNXLZ5D",
+    "B3777": "h16",
+    "I3777": "1",
+    "J3777": "Other",
+    "K3777": "0",
+    "L3777": "1",
+    "M3777": "n/a",
+    "N3777": "Table4 specifications / p886 fn26: log distance from Washington DC to destination capital on financing-mode choice; enforcement proxies are alternative controls. Coefficients displayed in unavailable online appendix.",
+    "O3777": "Implemented multinomial logit: Other regardless of product/year dummies. Three mutually exclusive financing categories; category-specific probability effects are not separate binary logits. Author-intention gate: pp885–87 explicitly calls these effects and tests propositions; observational institutional variation is not exogenous identification. No IV/RCT/RD/DiD. Independently passes author-intention gate: distance predictions propositions2/3 tested explicitly, positive significant in 7/8 CIA and 6/8 LC contrasts. No numerical coefficients or benchmark claimed."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -95648,7 +95657,19 @@
     "A8476": "4BNXLZ5D",
     "B8476": "h15",
     "C8476": "hy3",
-    "K8476": "Postshipment indicator (documentary collection or open account; one versus zero for other modes)."
+    "K8476": "Postshipment indicator (documentary collection or open account; one versus zero for other modes).",
+    "A8477": "4BNXLZ5D",
+    "B8477": "h16",
+    "C8477": "hy1",
+    "K8477": "Cash-in-advance indicator (one versus zero for the other financing modes).",
+    "A8478": "4BNXLZ5D",
+    "B8478": "h16",
+    "C8478": "hy2",
+    "K8478": "Letter-of-credit indicator (one versus zero for the other financing modes).",
+    "A8479": "4BNXLZ5D",
+    "B8479": "h16",
+    "C8479": "hy3",
+    "K8479": "Postshipment indicator (documentary collection or open account; one versus zero for other modes)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
