@@ -683265,3 +683265,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:45:31.160059+00:00 — Review 4X3H7PWW h5: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8573",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8573",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8573",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8573",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8573",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8573",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8573",
+    "before": null,
+    "after": "Log annual earnings by pooled-race1966 distribution quartile; TableD1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3821",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3821",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3821",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3821",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3821",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3821",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3821",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3821",
+    "before": null,
+    "after": "AppendixD1 Table: newly covered industry × post ×1966 earnings quartile, all/Black/White log annual earnings; all quartiles and both postperiods."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3821",
+    "before": null,
+    "after": "Explicit DDD, not quantile regression. Main p197 describes+7.0%, table0.068 log points; supporting mechanism, includes null upper quartiles. Thresholds based on1966 distribution; repeated cross-sectional individual membership timing not established by fixed thresholds alone."
+  }
+]
+```

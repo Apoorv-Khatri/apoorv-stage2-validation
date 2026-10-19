@@ -38598,7 +38598,16 @@
     "L3820": "0",
     "M3820": "n/a",
     "N3820": "TableIII cols1-3/pp194-195: mechanical counterfactual assign1967 minimum to below-floor workers, perfect compliance/no employment change and spillovers; predicted wage changes overall/by race/education.",
-    "O3820": "Policy intervention calculation not pure forecasting. Nonlinear floor mapping of wages and average proportional changes. Alternative spillover cutoffs in footnote39 grouped. No mean/SD benchmark explicitly paired beyond proportional wage-change interpretation; no invented baseline wage values."
+    "O3820": "Policy intervention calculation not pure forecasting. Nonlinear floor mapping of wages and average proportional changes. Alternative spillover cutoffs in footnote39 grouped. No mean/SD benchmark explicitly paired beyond proportional wage-change interpretation; no invented baseline wage values.",
+    "A3821": "4X3H7PWW",
+    "B3821": "h5",
+    "I3821": "1",
+    "J3821": "DiD_conventional",
+    "K3821": "1",
+    "L3821": "0",
+    "M3821": "n/a",
+    "N3821": "AppendixD1 Table: newly covered industry × post ×1966 earnings quartile, all/Black/White log annual earnings; all quartiles and both postperiods.",
+    "O3821": "Explicit DDD, not quantile regression. Main p197 describes+7.0%, table0.068 log points; supporting mechanism, includes null upper quartiles. Thresholds based on1966 distribution; repeated cross-sectional individual membership timing not established by fixed thresholds alone."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97030,7 +97039,14 @@
     "H8572": "0",
     "I8572": "unknown",
     "J8572": "other",
-    "K8572": "Hourly-wage-based predicted earnings increase under1967 floor, overall and subgroups; TableIII. Nonlinear wage-floor mapping."
+    "K8572": "Hourly-wage-based predicted earnings increase under1967 floor, overall and subgroups; TableIII. Nonlinear wage-floor mapping.",
+    "A8573": "4X3H7PWW",
+    "B8573": "h5",
+    "C8573": "hy1",
+    "H8573": "0",
+    "I8573": "unknown",
+    "J8573": "log",
+    "K8573": "Log annual earnings by pooled-race1966 distribution quartile; TableD1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
