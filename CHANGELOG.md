@@ -750672,3 +750672,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:29:39.351576+00:00 — Review 64JY936S h22: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6715",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6716",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6715",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6716",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6715",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6716",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6715",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6716",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6715",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6716",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6715",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6716",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6715",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6716",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6715",
+    "before": null,
+    "after": "A17D: author-interpreted post-reform treated/control trajectory contrast, not an annual coefficient grid. Firm employment divided by own2003 level; top versus next-highest quartile. Axis/header year retained; later caption reverses years. No numerical effect extracted or invented; one graphical contrast for this outcome and displayed post-reform path."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6716",
+    "before": null,
+    "after": "A17F: author-interpreted post-reform treated/control trajectory contrast, not an annual coefficient grid. Firm sales divided by own2003 level; top versus next-highest quartile. Axis/header year retained; later caption reverses years. No numerical effect extracted or invented; one graphical contrast for this outcome and displayed post-reform path."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6715",
+    "before": null,
+    "after": "Same-outcome normalization is deliberately displayed. Numerical coefficient is not a prerequisite for a graphical comparison. No distinct year-specific triples asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6716",
+    "before": null,
+    "after": "Same-outcome normalization is deliberately displayed. Numerical coefficient is not a prerequisite for a graphical comparison. No distinct year-specific triples asserted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8858",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8859",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8858",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8859",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8858",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8859",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8858",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8859",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8858",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8859",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8858",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8859",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8858",
+    "before": null,
+    "after": "Firm employment relative to own2003 level; A17D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8859",
+    "before": null,
+    "after": "Firm sales relative to own2003 level; A17F"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3937",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3937",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3937",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3937",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3937",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3937",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3937",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3937",
+    "before": null,
+    "after": "A17 employment and sales robustness: high versus next-highest quartile positive share-young firms selected in2003; separately reported alternative control group (not middle half). Graphical DiD, balanced firms."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3937",
+    "before": null,
+    "after": "A17 headers/axes and first caption sentence identify left2006/right2003, later caption reverses years. Retain conflict. No graph endpoints invented; first-stage panels diagnostic only."
+  }
+]
+```
