@@ -763845,3 +763845,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:12:09.029309+00:00 — Review 7PQVC2SH h32: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8920",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8920",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8920",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8920",
+    "before": null,
+    "after": "Entrepreneurial profits; model marginal schooling return, arithmetic versus geometric expectation distinguished."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3980",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3980",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3980",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3980",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3980",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3980",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3980",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3980",
+    "before": null,
+    "after": "Section5.1 p2094: schooling effect on entrepreneur profits; model-implied geometric return10.9%, arithmetic return15.6% at schooling6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3980",
+    "before": null,
+    "after": "Structural model implications feeding the central aggregation/heterogeneity argument; nonlinear expectation and estimated distribution parameters. Comparisons among marginal returns are effect-versus-effect, not outcome mean/SD; no extra eligible comparison."
+  }
+]
+```

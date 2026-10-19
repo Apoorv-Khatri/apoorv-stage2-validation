@@ -40286,7 +40286,16 @@
     "L3979": "1",
     "M3979": "n/a",
     "N3979": "Section5.1 pp2093-2094: schooling effect on employee human capital/earnings; geometric return8% fixed, model-implied arithmetic return11.0% at schooling6.",
-    "O3979": "Structural model implications feeding the central aggregation/heterogeneity argument; nonlinear expectation and estimated distribution parameters. Comparisons among marginal returns are effect-versus-effect, not outcome mean/SD; no extra eligible comparison."
+    "O3979": "Structural model implications feeding the central aggregation/heterogeneity argument; nonlinear expectation and estimated distribution parameters. Comparisons among marginal returns are effect-versus-effect, not outcome mean/SD; no extra eligible comparison.",
+    "A3980": "7PQVC2SH",
+    "B3980": "h32",
+    "I3980": "1",
+    "J3980": "Other",
+    "K3980": "0",
+    "L3980": "1",
+    "M3980": "n/a",
+    "N3980": "Section5.1 p2094: schooling effect on entrepreneur profits; model-implied geometric return10.9%, arithmetic return15.6% at schooling6.",
+    "O3980": "Structural model implications feeding the central aggregation/heterogeneity argument; nonlinear expectation and estimated distribution parameters. Comparisons among marginal returns are effect-versus-effect, not outcome mean/SD; no extra eligible comparison."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101314,7 +101323,11 @@
     "A8919": "7PQVC2SH",
     "B8919": "h31",
     "C8919": "hy1",
-    "K8919": "Employee human capital and proportional earnings; model marginal schooling return."
+    "K8919": "Employee human capital and proportional earnings; model marginal schooling return.",
+    "A8920": "7PQVC2SH",
+    "B8920": "h32",
+    "C8920": "hy1",
+    "K8920": "Entrepreneurial profits; model marginal schooling return, arithmetic versus geometric expectation distinguished."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
