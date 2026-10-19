@@ -37314,7 +37314,16 @@
     "L3717": "1",
     "M3717": "n/a",
     "N3717": "Table5 pp1558-60: Income growth3% annually for30years; change in consumer surplus.",
-    "O3717": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Explicitly implemented calibrated counterfactual. Main institutional-performance conclusion in conclusion pp1561-62. Continuous growth-rate scenario differs from binary elimination of a friction. Not an observational regression of the policy itself. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented."
+    "O3717": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Explicitly implemented calibrated counterfactual. Main institutional-performance conclusion in conclusion pp1561-62. Continuous growth-rate scenario differs from binary elimination of a friction. Not an observational regression of the policy itself. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented.",
+    "A3718": "2W92PVM3",
+    "B3718": "h16",
+    "I3718": "1",
+    "J3718": "Other",
+    "K3718": "0",
+    "L3718": "1",
+    "M3718": "n/a",
+    "N3718": "Table5 pp1558-60: Electricity-consumption growth10% annually for30years; change in consumer surplus.",
+    "O3718": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Explicitly implemented calibrated counterfactual. Main institutional-performance conclusion in conclusion pp1561-62. Continuous growth-rate scenario differs from binary elimination of a friction. Not an observational regression of the policy itself. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94283,7 +94292,11 @@
     "A8373": "2W92PVM3",
     "B8373": "h15",
     "C8373": "hy1",
-    "K8373": "consumer surplus per household, USD; construction as reported Table5."
+    "K8373": "consumer surplus per household, USD; construction as reported Table5.",
+    "A8374": "2W92PVM3",
+    "B8374": "h16",
+    "C8374": "hy1",
+    "K8374": "consumer surplus per household, USD; construction as reported Table5."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -158563,7 +158576,18 @@
     "O5730": "0",
     "P5730": "1",
     "Q5730": "Table5 pp1558-59: focal estimate +139; benchmark 147 base-scenario average consumer surplus.",
-    "R5730": "Same modeled population, weights and scale as within-column baseline. For credit, prose says more than triples CS (level/base); for leakage,21.3% decrease actually used. Do not derive additional ratios."
+    "R5730": "Same modeled population, weights and scale as within-column baseline. For credit, prose says more than triples CS (level/base); for leakage,21.3% decrease actually used. Do not derive additional ratios.",
+    "A5731": "2W92PVM3",
+    "B5731": "h16",
+    "C5731": "hc1",
+    "K5731": "1",
+    "L5731": "hy1",
+    "M5731": "outcome_mean",
+    "N5731": "1",
+    "O5731": "0",
+    "P5731": "1",
+    "Q5731": "Table5 pp1558-59: focal estimate +365; benchmark 293 base-scenario average consumer surplus.",
+    "R5731": "Same modeled population, weights and scale as within-column baseline. For credit, prose says more than triples CS (level/base); for leakage,21.3% decrease actually used. Do not derive additional ratios."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
