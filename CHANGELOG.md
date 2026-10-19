@@ -654435,3 +654435,264 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:22:15.589007+00:00 — Review 3ZIDN6KF s9: source-audited coding and linked comparisons
+
+42 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K549",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K550",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K551",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L548",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L549",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L550",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L551",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M548",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M549",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M550",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M551",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N548",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N549",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N550",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N551",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O548",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O549",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O550",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O551",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P548",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P549",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P550",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P551",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q548",
+    "before": null,
+    "after": "Table 9, column 1: “Mean of dependent variable: 0.121” and “Reform × Post −0.032 (0.009).” Benchmark is the estimation-sample mean, not a demonstrated untreated-target mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q549",
+    "before": null,
+    "after": "Table 9, column 2: “Mean of dependent variable: 0.146” and “Reform × Post −0.160 (0.022).” Benchmark is the estimation-sample mean, not a demonstrated untreated-target mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q550",
+    "before": null,
+    "after": "Table 9, column 3: “Mean of dependent variable: 0.124” and “Reform × Post-reform entry cohort 0.014 (0.014).” Benchmark is the estimation-sample mean, not a demonstrated untreated-target mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q551",
+    "before": null,
+    "after": "Table9 col4 p2381: Reform×Post -.053 conditional on Reform×Post-reform entry cohort=0; full estimation-sample mean individual exit .121. Not an unconditional average across entry cohorts."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R548",
+    "before": null,
+    "after": "Deliberate table mean pairing qualifies, including reported log-scale mean. Percentage interpretation of a log coefficient is not verbal comparison to that mean. Alignment unknown: target untreated levels/weights not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R549",
+    "before": null,
+    "after": "Deliberate table mean pairing qualifies, including reported log-scale mean. Percentage interpretation of a log coefficient is not verbal comparison to that mean. Alignment unknown: target untreated levels/weights not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R550",
+    "before": null,
+    "after": "Table9 col3 post-period cohort effect split h9; comparison retained there, not dropped."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R551",
+    "before": null,
+    "after": "Mean covers estimation sample, not established untreated target-population mean. Parallel trends does not establish equal untreated levels; target weights/time construction unresolved, alignment unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2104",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I857",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J857",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K857",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L857",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M857",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N857",
+    "before": null,
+    "after": "Table9 cols1-2,4 Reform×Post coefficients: binary reform protection on individual exit; col2 restricts to prereform entrants. In col4 -.053 is conditional on the postreform-entry interaction being zero, not an unconditional average over entry cohorts. Cohort coefficients separately h9/h10 in the same reported models."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O857",
+    "before": null,
+    "after": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Intro p2355 explicitly highlights retention for all hires; main=1. Four FE sets do not override DiD for Reform×Post. In col4 the new-entry contrast also involves the cohort coefficient; do not label -.053 an unconditional full-sample effect or invent a separately estimated total."
+  }
+]
+```
