@@ -716262,3 +716262,228 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:13:32.781095+00:00 — Review 5SL56HMJ s1: source-audited coding and linked comparisons
+
+36 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K581",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K582",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K583",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R581",
+    "before": null,
+    "after": "Descriptive parent excluded; plain log-coefficient percent readings do not independently qualify. Appendix B.2 log-ratio-of-means and4.2-times language preserved in audit as a contested alternative, not silently corrected."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R582",
+    "before": null,
+    "after": "Descriptive parent excluded; plain log-coefficient percent readings do not independently qualify. Appendix B.2 log-ratio-of-means and4.2-times language preserved in audit as a contested alternative, not silently corrected."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R583",
+    "before": null,
+    "after": "Descriptive parent excluded; plain log-coefficient percent readings do not independently qualify. Appendix B.2 log-ratio-of-means and4.2-times language preserved in audit as a contested alternative, not silently corrected."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2205",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2206",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2207",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2208",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2209",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2210",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2211",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2205",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2206",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2207",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2208",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2209",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2210",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2211",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2205",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2206",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2207",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2208",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2209",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2210",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2211",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2205",
+    "before": null,
+    "after": "Inactive descriptive parent s1. Original fields preserved; B.2 identifies employment (not unspecified hours), assets, and wage; value added per worker is an additional descriptive outcome, not a retained causal omission."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2206",
+    "before": null,
+    "after": "Inactive descriptive parent s1. Original fields preserved; B.2 identifies employment (not unspecified hours), assets, and wage; value added per worker is an additional descriptive outcome, not a retained causal omission."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2207",
+    "before": null,
+    "after": "Inactive descriptive parent s1. Original fields preserved; B.2 identifies employment (not unspecified hours), assets, and wage; value added per worker is an additional descriptive outcome, not a retained causal omission."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2208",
+    "before": null,
+    "after": "Inactive descriptive parent s1. Original fields preserved; B.2 identifies employment (not unspecified hours), assets, and wage; value added per worker is an additional descriptive outcome, not a retained causal omission."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2209",
+    "before": null,
+    "after": "Inactive descriptive parent s1. Original fields preserved; B.2 identifies employment (not unspecified hours), assets, and wage; value added per worker is an additional descriptive outcome, not a retained causal omission."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2210",
+    "before": null,
+    "after": "Inactive descriptive parent s1. Original fields preserved; B.2 identifies employment (not unspecified hours), assets, and wage; value added per worker is an additional descriptive outcome, not a retained causal omission."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2211",
+    "before": null,
+    "after": "Inactive descriptive parent s1. Original fields preserved; B.2 identifies employment (not unspecified hours), assets, and wage; value added per worker is an additional descriptive outcome, not a retained causal omission."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I902",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O902",
+    "before": null,
+    "after": "p136 explicitly calls these descriptive OLS regressions; Appendix B.2 describes size/input/wage differences, not a technology intervention coefficient. Gate precedes estimator. Original log-percentage claims are also not standalone outcome benchmarks; B.2 contains conflicting 144 percent versus4.2-times wording. See held evidence audit."
+  }
+]
+```
