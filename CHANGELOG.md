@@ -718266,3 +718266,408 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:17:46.763614+00:00 — Review 5SL56HMJ h8: source-audited coding and linked comparisons
+
+66 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6421",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6422",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6423",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6424",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6425",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6421",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6422",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6423",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6424",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6425",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6421",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6422",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6423",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6424",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6425",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6421",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6422",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6423",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6424",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6425",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6421",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6422",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6423",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6424",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6425",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6421",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6422",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6423",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6424",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6425",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6423",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6424",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6425",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6421",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6422",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6423",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6424",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6425",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6421",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6422",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6423",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6424",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6425",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6421",
+    "before": null,
+    "after": "Table8 p158 All: component9.3; industry growth22.1; same-panel total paired with component; explicit share printed in repeated Table12 col1: 42%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6422",
+    "before": null,
+    "after": "Table8 p158 MM: component-0.3; industry growth22.1; printed parenthetical contribution to industry growth-0.03, using authors type aggregation, not simply component/22.1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6423",
+    "before": null,
+    "after": "Table8 p158 VI: component11.3; industry growth22.1; printed parenthetical contribution to industry growth0.23, using authors type aggregation, not simply component/22.1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6424",
+    "before": null,
+    "after": "Table8 component-0.3, MM own-type total growth9.6; Table12 col1 explicitly reports-3% of own-type growth. Distinct denominator from Table8 industry contribution; baseline estimate not a new setting."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6425",
+    "before": null,
+    "after": "Table8 component11.3, VI own-type total growth24.3; Table12 col1 explicitly reports46% of own-type growth. Distinct denominator from Table8 industry contribution; baseline estimate not a new setting."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6421",
+    "before": null,
+    "after": "Source table note uses9.6/17.7*0.77 while Table7 prints17.0; main net-entry prose says17% whereas Table8 VI contribution0.07 and later p1617% agree. Preserve conflict. Independent verbal audit: main pp156-158 has no words pairing each printed within-type covariance or separate all-plant dynamic component with its own benchmark; main pp166-167 explicitly discusses normalized between shares10/18/23 and VI net-entry16/7. Table-only eligibility and author division remain separate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6422",
+    "before": null,
+    "after": "Source table note uses9.6/17.7*0.77 while Table7 prints17.0; main net-entry prose says17% whereas Table8 VI contribution0.07 and later p1617% agree. Preserve conflict."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6423",
+    "before": null,
+    "after": "Source table note uses9.6/17.7*0.77 while Table7 prints17.0; main net-entry prose says17% whereas Table8 VI contribution0.07 and later p1617% agree. Preserve conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8679",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8679",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8679",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8679",
+    "before": null,
+    "after": "Aggregate log TFP growth1963-2002, revenue-weighted; subgroup totals where explicitly reported. Shares of growth are contribution measures, not individual binary outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3885",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3885",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3885",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3885",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3885",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3885",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3885",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3885",
+    "before": null,
+    "after": "Table8 dynamic market-share reallocation among continuing plants, pp157-161; all/MM/VI:9.3,-0.3,11.3. Retain near-zero/negative MM contribution."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3885",
+    "before": null,
+    "after": "Authors attribute gains to reallocation/entry (main pp156-161,166-169; AppendixG). Retain under author-intention gate, not an exogenous intervention claim. Method Other denotes structural causal accounting, not proof that a covariance is nonlinear: conditional on constructed TFP and fixed revenue shares, OP components are linear. Full economic procedure uses estimated production functions and realized revenue weights; no separately implemented OLS/IV/DiD coefficient or covariate-based matching treatment estimator is established. Conditional-linear-contrast taxonomy remains a parent adjudication issue. AppendixD.1 pp18-19 labor-as-state timing robustness reports similar reallocation point estimates/significance; group as routine upstream timing variant, do not invent component grids. Parent adjudication: method unknown. Conditional on constructed productivity and shares, accounting components may be linear contrasts; upstream structural estimation alone does not establish a nonlinear focal estimator. Complete attribution procedure versus conditional-outcome domain is unresolved, so Other is not certified. Causal-intention retention does not establish identification."
+  }
+]
+```
