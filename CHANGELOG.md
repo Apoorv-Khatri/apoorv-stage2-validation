@@ -679464,3 +679464,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:53:48.728780+00:00 — Review 4LB5EN3L h2: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8541",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8542",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8541",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8542",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8541",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8542",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8541",
+    "before": null,
+    "after": "Log daily gross wage, low/medium skilled full-time administrative workers; Table4 PanelA."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8542",
+    "before": null,
+    "after": "Binary annual leaving-firm indicator t+1; Table4 PanelA."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3804",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3804",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3804",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3804",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3804",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3804",
+    "before": null,
+    "after": "Table4 PanelA col5: own-minority share on log daily wage and annual turnover; average effects, joint worker, firm, and year FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3804",
+    "before": null,
+    "after": "Eq(2), pp523-526 and Table4 notes p530: worker FE address worker ability/referral selection, firm FE firm productivity/referral selection; year FE also present. Cols3/4 have worker OR firm plus year (standard FE); col5 has worker+firm+year (three effective sets, HDFE), with explicit substantive sorting argument. No IV, randomization, RD, or DiD implemented in these proxy regressions. Own share is a continuous pre-hire proxy, not observed referral treatment."
+  }
+]
+```
