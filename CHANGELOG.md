@@ -754665,3 +754665,2772 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:59:40.197937+00:00 — Review 7PQVC2SH s10: source-audited coding and linked comparisons
+
+460 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6732",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6733",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6734",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6735",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6736",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6737",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6738",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6739",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6740",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6741",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6742",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6743",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6744",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6745",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6746",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6747",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6748",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6749",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6750",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6751",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6752",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6753",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6754",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6755",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6756",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6757",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6758",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6759",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6760",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6761",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6762",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6732",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6733",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6734",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6735",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6736",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6737",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6738",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6739",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6740",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6741",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6742",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6743",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6744",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6745",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6746",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6747",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6748",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6749",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6750",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6751",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6752",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6753",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6754",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6755",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6756",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6757",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6758",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6759",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6760",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6761",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6762",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6732",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6733",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6734",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6735",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6736",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6737",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6738",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6739",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6740",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6741",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6742",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6743",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6744",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6745",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6746",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6747",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6748",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6749",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6750",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6751",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6752",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6753",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6754",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6755",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6756",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6757",
+    "before": null,
+    "after": "hc26"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6758",
+    "before": null,
+    "after": "hc27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6759",
+    "before": null,
+    "after": "hc28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6760",
+    "before": null,
+    "after": "hc29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6761",
+    "before": null,
+    "after": "hc30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6762",
+    "before": null,
+    "after": "hc31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K618",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K619",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K620",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K621",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K622",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6732",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6733",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6734",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6735",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6736",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6737",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6738",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6739",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6740",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6741",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6742",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6743",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6744",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6745",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6747",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6749",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6750",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6752",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6753",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6754",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6762",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L618",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L619",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L620",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L621",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L622",
+    "before": null,
+    "after": "y14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6732",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6733",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6734",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6735",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6736",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6737",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6738",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6739",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6740",
+    "before": null,
+    "after": "y7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6741",
+    "before": null,
+    "after": "y7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6742",
+    "before": null,
+    "after": "y8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6743",
+    "before": null,
+    "after": "y8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6744",
+    "before": null,
+    "after": "y9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6745",
+    "before": null,
+    "after": "y9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6746",
+    "before": null,
+    "after": "y10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6747",
+    "before": null,
+    "after": "y10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6748",
+    "before": null,
+    "after": "y11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6749",
+    "before": null,
+    "after": "y11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6750",
+    "before": null,
+    "after": "y12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6751",
+    "before": null,
+    "after": "y12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6752",
+    "before": null,
+    "after": "y13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6753",
+    "before": null,
+    "after": "y13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6754",
+    "before": null,
+    "after": "y14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6755",
+    "before": null,
+    "after": "y15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6756",
+    "before": null,
+    "after": "y15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6757",
+    "before": null,
+    "after": "y16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6758",
+    "before": null,
+    "after": "y16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6759",
+    "before": null,
+    "after": "y17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6760",
+    "before": null,
+    "after": "y17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6761",
+    "before": null,
+    "after": "y18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6762",
+    "before": null,
+    "after": "y18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M618",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M619",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M620",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M621",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M622",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6732",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6733",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6734",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6735",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6736",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6737",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6738",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6739",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6740",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6741",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6742",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6743",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6744",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6745",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6746",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6747",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6748",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6749",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6750",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6751",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6752",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6753",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6754",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6755",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6756",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6757",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6758",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6759",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6760",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6761",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6762",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N618",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N619",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N620",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N621",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N622",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6732",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6733",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6734",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6735",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6736",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6737",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6738",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6739",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6740",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6741",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6742",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6743",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6744",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6745",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6746",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6747",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6748",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6749",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6750",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6752",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6753",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6754",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6755",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6756",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6757",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6758",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6759",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6760",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6761",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6762",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O618",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O619",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O620",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O621",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O622",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6732",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6733",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6734",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6735",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6736",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6737",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6738",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6739",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6740",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6741",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6742",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6743",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6744",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6745",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6746",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6747",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6748",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6749",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6750",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6752",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6753",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6754",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6755",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6756",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6757",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6758",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6759",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6760",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6761",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6762",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P618",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P619",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P620",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P621",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P622",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6732",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6733",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6734",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6735",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6736",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6737",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6738",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6739",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6740",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6741",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6742",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6743",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6744",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6745",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6746",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6747",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6748",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6749",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6750",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6752",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6753",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6754",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6755",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6756",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6757",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6758",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6759",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6760",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6761",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6762",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q618",
+    "before": null,
+    "after": "Table3 p2079 practice row1: printed college-minus-no-college difference0.10 probability units; No college mean0.51,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q619",
+    "before": null,
+    "after": "Table3 p2079 practice row2: printed college-minus-no-college difference0.15 probability units; No college mean0.40,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q620",
+    "before": null,
+    "after": "Table3 p2079 practice row3: printed college-minus-no-college difference0.16 probability units; No college mean0.69,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q621",
+    "before": null,
+    "after": "Table3 p2079 practice row4: printed college-minus-no-college difference0.13 probability units; No college mean0.13,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q622",
+    "before": null,
+    "after": "Table3 p2079 practice row14: printed college-minus-no-college difference0.12 probability units; No college mean0.44,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6732",
+    "before": null,
+    "after": "Table3 p2079 practice row1: printed college-minus-no-college difference0.10 probability units; College mean0.61,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6733",
+    "before": null,
+    "after": "Table3 p2079 practice row2: printed college-minus-no-college difference0.15 probability units; College mean0.55,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6734",
+    "before": null,
+    "after": "Table3 p2079 practice row3: printed college-minus-no-college difference0.16 probability units; College mean0.84,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6735",
+    "before": null,
+    "after": "Table3 p2079 practice row4: printed college-minus-no-college difference0.13 probability units; College mean0.25,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6736",
+    "before": null,
+    "after": "Table3 p2079 practice row5: printed college-minus-no-college difference0.14 probability units; No college mean0.21,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6737",
+    "before": null,
+    "after": "Table3 p2079 practice row5: printed college-minus-no-college difference0.14 probability units; College mean0.35,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6738",
+    "before": null,
+    "after": "Table3 p2079 practice row6: printed college-minus-no-college difference0.11 probability units; No college mean0.10,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6739",
+    "before": null,
+    "after": "Table3 p2079 practice row6: printed college-minus-no-college difference0.11 probability units; College mean0.20,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6740",
+    "before": null,
+    "after": "Table3 p2079 practice row7: printed college-minus-no-college difference0.15 probability units; No college mean0.27,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6741",
+    "before": null,
+    "after": "Table3 p2079 practice row7: printed college-minus-no-college difference0.15 probability units; College mean0.42,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6742",
+    "before": null,
+    "after": "Table3 p2079 practice row8: printed college-minus-no-college difference-0.03 probability units; No college mean0.04,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6743",
+    "before": null,
+    "after": "Table3 p2079 practice row8: printed college-minus-no-college difference-0.03 probability units; College mean0.01,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6744",
+    "before": null,
+    "after": "Table3 p2079 practice row9: printed college-minus-no-college difference0.08 probability units; No college mean0.40,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6745",
+    "before": null,
+    "after": "Table3 p2079 practice row9: printed college-minus-no-college difference0.08 probability units; College mean0.49,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6746",
+    "before": null,
+    "after": "Table3 p2079 practice row10: printed college-minus-no-college difference0.07 probability units; No college mean0.08,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6747",
+    "before": null,
+    "after": "Table3 p2079 practice row10: printed college-minus-no-college difference0.07 probability units; College mean0.15,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6748",
+    "before": null,
+    "after": "Table3 p2079 practice row11: printed college-minus-no-college difference0.08 probability units; No college mean0.12,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6749",
+    "before": null,
+    "after": "Table3 p2079 practice row11: printed college-minus-no-college difference0.08 probability units; College mean0.21,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6750",
+    "before": null,
+    "after": "Table3 p2079 practice row12: printed college-minus-no-college difference0.09 probability units; No college mean0.14,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6751",
+    "before": null,
+    "after": "Table3 p2079 practice row12: printed college-minus-no-college difference0.09 probability units; College mean0.23,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6752",
+    "before": null,
+    "after": "Table3 p2079 practice row13: printed college-minus-no-college difference0.11 probability units; No college mean0.23,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6753",
+    "before": null,
+    "after": "Table3 p2079 practice row13: printed college-minus-no-college difference0.11 probability units; College mean0.34,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6754",
+    "before": null,
+    "after": "Table3 p2079 practice row14: printed college-minus-no-college difference0.12 probability units; College mean0.56,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6755",
+    "before": null,
+    "after": "Table3 p2079 practice row15: printed college-minus-no-college difference0.06 probability units; No college mean0.23,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6756",
+    "before": null,
+    "after": "Table3 p2079 practice row15: printed college-minus-no-college difference0.06 probability units; College mean0.30,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6757",
+    "before": null,
+    "after": "Table3 p2079 practice row16: printed college-minus-no-college difference0.04 probability units; No college mean0.09,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6758",
+    "before": null,
+    "after": "Table3 p2079 practice row16: printed college-minus-no-college difference0.04 probability units; College mean0.12,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6759",
+    "before": null,
+    "after": "Table3 p2079 practice row17: printed college-minus-no-college difference0.10 probability units; No college mean0.28,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6760",
+    "before": null,
+    "after": "Table3 p2079 practice row17: printed college-minus-no-college difference0.10 probability units; College mean0.38,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6761",
+    "before": null,
+    "after": "Table3 p2079 practice row18: printed college-minus-no-college difference0.07 probability units; No college mean0.85,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6762",
+    "before": null,
+    "after": "Table3 p2079 practice row18: printed college-minus-no-college difference0.07 probability units; College mean0.92,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R618",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R619",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R620",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R621",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R622",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6732",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6733",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6734",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6735",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6736",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6737",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6738",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6739",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6740",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6741",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6742",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6743",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6744",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6745",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6746",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6747",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6748",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6749",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6750",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6751",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6752",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6753",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6754",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6755",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6756",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6757",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6758",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6759",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6760",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6761",
+    "before": null,
+    "after": "Untreated target composition is not established. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6762",
+    "before": null,
+    "after": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2320",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2321",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2322",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2323",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2324",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2326",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2328",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2329",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2331",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2332",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2333",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2334",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2335",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2336",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2337",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2320",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2321",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2322",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2323",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2324",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2326",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2328",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2329",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2331",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2332",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2333",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2334",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2335",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2336",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2337",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2320",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2321",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2322",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2323",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2324",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2325",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2326",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2327",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2328",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2329",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2330",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2331",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2332",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2333",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2334",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2335",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2336",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2337",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2320",
+    "before": null,
+    "after": "Indicator that the firm has both short- and long-term goals. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2321",
+    "before": null,
+    "after": "Indicator that top management monitors key performance indicators at least monthly. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2322",
+    "before": null,
+    "after": "Indicator that key performance indicators are disseminated through the organization. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2323",
+    "before": null,
+    "after": "Indicator that the firm conducts individual performance reviews at least annually. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2324",
+    "before": null,
+    "after": "Indicator that the firm offers training and development opportunities. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2325",
+    "before": null,
+    "after": "Indicator that the firm provides incentives via stock awards, profit-sharing, or bonuses. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2326",
+    "before": null,
+    "after": "Indicator that promotions are exclusively based on ability and performance. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2327",
+    "before": null,
+    "after": "Indicator that promotions are mostly based on seniority or family connections. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2328",
+    "before": null,
+    "after": "Indicator that the firm promoted workers in the past year. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2329",
+    "before": null,
+    "after": "Indicator that the firm fired low-performing workers in the past year. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2330",
+    "before": null,
+    "after": "Indicator that the entrepreneur believes in collective intelligence. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2331",
+    "before": null,
+    "after": "Indicator that the entrepreneur tends to allow others to make decisions. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2332",
+    "before": null,
+    "after": "Indicator that non-managers are highly involved in decision-making. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2333",
+    "before": null,
+    "after": "Indicator that the firm’s strategy is geared towards growth. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2334",
+    "before": null,
+    "after": "Indicator that the firm has ambitious goals. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2335",
+    "before": null,
+    "after": "Indicator that the firm is focused on new goods/services. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2336",
+    "before": null,
+    "after": "Indicator that the firm is focused on new management practices. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2337",
+    "before": null,
+    "after": "Indicator that managers learned about new management practices in the past year. Table3 p2079; underlying firm response is binary, both groups contain zero and one responses."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I935",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J935",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K935",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L935",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M935",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N935",
+    "before": null,
+    "after": "Table3: college-degree entrepreneur versus no degree, independent founder-managed2016 survey firms;18 separate binary management/ambition practice outcomes and unadjusted differences."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O935",
+    "before": null,
+    "after": "Observed mean contrasts are linear, not matching or RCT. Broad mechanism gate: Section3.4 explicitly investigates possible schooling-effect channels, all four sets summarized p2081. Causal schooling effect rather than pre-existing preferences remains contested; main flag follows intro mechanism conclusion consistently, not table position. No conditional independence or untreated-target equivalence established."
+  }
+]
+```
