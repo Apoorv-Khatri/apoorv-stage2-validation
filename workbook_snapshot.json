@@ -37197,7 +37197,16 @@
     "L3704": "1",
     "M3704": "n/a",
     "N3704": "Table2 cols1-8 / Figure2: high 100% subsidy offer ($0 effective price, free ready-board) versus no offer ($398 plus wiring); take-up and its covariate heterogeneity.",
-    "O3704": "Random assignment at transformer-community level (150 communities, stratified by county/market/installation cohort), pp1533-34, Eq.(1). Direct assignment RCT, not IV receipt or DiD. Stratification covariates/round FE do not replace randomized identification. Main demand conclusion in abstract. Arm-specific binary contrasts; interactions modify subsidy effects and are not themselves unconditional total effects. Independent audit: Retain binary arm-versus-no-offer assignment and all column-specific heterogeneity coefficients without significance filtering. Do not reinterpret the continuous moderator itself as the randomized treatment."
+    "O3704": "Random assignment at transformer-community level (150 communities, stratified by county/market/installation cohort), pp1533-34, Eq.(1). Direct assignment RCT, not IV receipt or DiD. Stratification covariates/round FE do not replace randomized identification. Main demand conclusion in abstract. Arm-specific binary contrasts; interactions modify subsidy effects and are not themselves unconditional total effects. Independent audit: Retain binary arm-versus-no-offer assignment and all column-specific heterogeneity coefficients without significance filtering. Do not reinterpret the continuous moderator itself as the randomized treatment.",
+    "A3705": "2W92PVM3",
+    "B3705": "h3",
+    "I3705": "1",
+    "J3705": "OLS",
+    "K3705": "0",
+    "L3705": "0",
+    "M3705": "n/a",
+    "N3705": "Footnote24 p1542 / FigB9A: separately fitted quadratic scale-cost function; budgeted average total connection cost.",
+    "O3705": "Final main text explicitly says implemented quadratic gives poor fit. Linear in outcome and polynomial regressors; not direct random assignment, no verified IV here. Author April2019 A1A-C has additional OLS/IV fits, held separately rather than asserted as final. Independent audit: Retain only final-text-established cost robustness scope. No final-only numerical appendix coefficients or additional endogenous polynomial terms inferred. The author copy is informative but not a verified final supplement."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94074,7 +94083,11 @@
     "H8356": "1",
     "I8356": "1",
     "J8356": "none",
-    "K8356": "Take-up indicator multiplied by100 (0/100); treatment-household acceptance/payment within8 weeks. Control connections measured over study period and assumed equivalent8-week timing in fn28."
+    "K8356": "Take-up indicator multiplied by100 (0/100); treatment-household acceptance/payment within8 weeks. Control connections measured over study period and assumed equivalent8-week timing in fn28.",
+    "A8357": "2W92PVM3",
+    "B8357": "h3",
+    "C8357": "hy1",
+    "K8357": "Budgeted average total cost per connection in USD; quadratic scale specification. Exact final appendix coefficients unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

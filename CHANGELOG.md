@@ -641700,3 +641700,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:31:39.581833+00:00 — Review 2W92PVM3 h3: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8357",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8357",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8357",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8357",
+    "before": null,
+    "after": "Budgeted average total cost per connection in USD; quadratic scale specification. Exact final appendix coefficients unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3705",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3705",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3705",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3705",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3705",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3705",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3705",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3705",
+    "before": null,
+    "after": "Footnote24 p1542 / FigB9A: separately fitted quadratic scale-cost function; budgeted average total connection cost."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3705",
+    "before": null,
+    "after": "Final main text explicitly says implemented quadratic gives poor fit. Linear in outcome and polynomial regressors; not direct random assignment, no verified IV here. Author April2019 A1A-C has additional OLS/IV fits, held separately rather than asserted as final. Independent audit: Retain only final-text-established cost robustness scope. No final-only numerical appendix coefficients or additional endogenous polynomial terms inferred. The author copy is informative but not a verified final supplement."
+  }
+]
+```
