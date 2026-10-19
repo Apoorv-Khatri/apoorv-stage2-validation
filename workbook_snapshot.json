@@ -41978,7 +41978,16 @@
     "L4145": "0",
     "M4145": "n/a",
     "N4145": "Baseline exposure comparison with higher-income unexposed controls Location: Figure A.5 substantive series (not placebo)",
-    "O4145": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+    "O4145": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location.",
+    "A4146": "A8LFPXLL",
+    "B4146": "h16",
+    "I4146": "1",
+    "J4146": "IV",
+    "K4146": "1",
+    "L4146": "0",
+    "M4146": "single binary",
+    "N4146": "Realized top-bracket exposure instrumented by baseline 2011-2012 exposure; sample/weight variants Location: Table A.6 DD 2SLS baseline, unweighted and composition samples",
+    "O4146": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105891,7 +105900,14 @@
     "H9311": "0",
     "I9311": "0",
     "J9311": "log",
-    "K9311": "Log average employee earnings; control owners above $250K or $350K but below top bracket. Placebo $350-450K versus lower incomes excluded."
+    "K9311": "Log average employee earnings; control owners above $250K or $350K but below top bracket. Placebo $350-450K versus lower incomes excluded.",
+    "A9312": "A8LFPXLL",
+    "B9312": "h16",
+    "C9312": "hy1",
+    "H9312": "0",
+    "I9312": "0",
+    "J9312": "log",
+    "K9312": "Log average employee earnings, Table A.6 DD 2SLS sample robustness; main row -0.0259 versus final Table II -0.0258 conflict retained."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
