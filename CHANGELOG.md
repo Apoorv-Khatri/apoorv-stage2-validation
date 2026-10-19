@@ -840225,3 +840225,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:28:10.949771+00:00 — Review A8LFPXLL s10: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J973",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K973",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M973",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O973",
+    "before": null,
+    "after": "Table IV 2SLS: total wage-bill/stayer-earnings changes, instrument baseline binary top-bracket exposure for observed total business tax liability; single binary excluded instrument in each contrast. Do not attribute ITT average-earnings outcomes or ATR elasticities to this IV."
+  }
+]
+```
