@@ -681462,3 +681462,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:21:56.073250+00:00 — Review 4X3H7PWW s4: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K577",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K578",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R577",
+    "before": null,
+    "after": "TableIII compares estimated reform effect with another predicted reform effect, not an outcome mean/SD/level. Verbal=1 and no division in source do not establish eligibility. Race evidence must use1967-only8.0/4.3, not pooled9.5/5.4."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R578",
+    "before": null,
+    "after": "TableIII compares estimated reform effect with another predicted reform effect, not an outcome mean/SD/level. Verbal=1 and no division in source do not establish eligibility. Race evidence must use1967-only8.0/4.3, not pooled9.5/5.4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2172",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2173",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2172",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2173",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2172",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2173",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I886",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J886",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K886",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L886",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M886",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N886",
+    "before": null,
+    "after": "FigureVI B/TableV: race-specific newly covered industry DiD on annual earnings, both postperiods and routine state controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O886",
+    "before": null,
+    "after": "Author interprets implemented policy contrast causally. Conventional treated/post or event-time estimator; no implemented heterogeneity-robust modern DiD, randomized assignment, RD or IV. Fixed effects do not override DiD precedence."
+  }
+]
+```
