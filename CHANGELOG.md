@@ -721119,3 +721119,882 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:19:36.593863+00:00 — Review 5SL56HMJ h13: source-audited coding and linked comparisons
+
+145 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6459",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6460",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6461",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6462",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6463",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6464",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6465",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6466",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6467",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6468",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6469",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6470",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6459",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6460",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6461",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6462",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6463",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6464",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6465",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6466",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6467",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6468",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6469",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6470",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6459",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6460",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6461",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6462",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6463",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6464",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6465",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6466",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6467",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6468",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6469",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6470",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6459",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6460",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6461",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6462",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6463",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6464",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6465",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6466",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6467",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6468",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6469",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6470",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6459",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6460",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6461",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6462",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6463",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6464",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6465",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6466",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6467",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6468",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6469",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6470",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6459",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6460",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6461",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6462",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6463",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6464",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6465",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6466",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6467",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6468",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6469",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6470",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6459",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6460",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6461",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6462",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6463",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6464",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6465",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6466",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6467",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6468",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6469",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6470",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6459",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6460",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6461",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6462",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6463",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6464",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6465",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6466",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6467",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6468",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6469",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6470",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6459",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6460",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6461",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6462",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6463",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6464",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6465",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6466",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6467",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6468",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6469",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6470",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6459",
+    "before": null,
+    "after": "Table12 col2 OLS, All: net-entry share12% of own-population productivity growth. No component or denominator invented. Unlike Table8 parentheticals, MM/VI Table12 shares use own-type growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6460",
+    "before": null,
+    "after": "Table12 col2 OLS, MM: net-entry share8% of own-population productivity growth. No component or denominator invented. Unlike Table8 parentheticals, MM/VI Table12 shares use own-type growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6461",
+    "before": null,
+    "after": "Table12 col2 OLS, VI: net-entry share7% of own-population productivity growth. No component or denominator invented. Unlike Table8 parentheticals, MM/VI Table12 shares use own-type growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6462",
+    "before": null,
+    "after": "Table12 col3 no material price, All: net-entry share15% of own-population productivity growth. No component or denominator invented. Unlike Table8 parentheticals, MM/VI Table12 shares use own-type growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6463",
+    "before": null,
+    "after": "Table12 col3 no material price, MM: net-entry share-22% of own-population productivity growth. No component or denominator invented. Unlike Table8 parentheticals, MM/VI Table12 shares use own-type growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6464",
+    "before": null,
+    "after": "Table12 col3 no material price, VI: net-entry share16% of own-population productivity growth. No component or denominator invented. Unlike Table8 parentheticals, MM/VI Table12 shares use own-type growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6465",
+    "before": null,
+    "after": "Table12 col4 no output price, All: net-entry share11% of own-population productivity growth. No component or denominator invented. Unlike Table8 parentheticals, MM/VI Table12 shares use own-type growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6466",
+    "before": null,
+    "after": "Table12 col4 no output price, MM: net-entry share-25% of own-population productivity growth. No component or denominator invented. Unlike Table8 parentheticals, MM/VI Table12 shares use own-type growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6467",
+    "before": null,
+    "after": "Table12 col4 no output price, VI: net-entry share12% of own-population productivity growth. No component or denominator invented. Unlike Table8 parentheticals, MM/VI Table12 shares use own-type growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6468",
+    "before": null,
+    "after": "Table12 col5 technology specific, All: net-entry share10% of own-population productivity growth. No component or denominator invented. Unlike Table8 parentheticals, MM/VI Table12 shares use own-type growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6469",
+    "before": null,
+    "after": "Table12 col5 technology specific, MM: net-entry share-34% of own-population productivity growth. No component or denominator invented. Unlike Table8 parentheticals, MM/VI Table12 shares use own-type growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6470",
+    "before": null,
+    "after": "Table12 col5 technology specific, VI: net-entry share11% of own-population productivity growth. No component or denominator invented. Unlike Table8 parentheticals, MM/VI Table12 shares use own-type growth."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6459",
+    "before": null,
+    "after": "Benchmark is realized same-outcome aggregate growth, other_level; not outcome_mean. Negative shares retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6460",
+    "before": null,
+    "after": "Benchmark is realized same-outcome aggregate growth, other_level; not outcome_mean. Negative shares retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6461",
+    "before": null,
+    "after": "Benchmark is realized same-outcome aggregate growth, other_level; not outcome_mean. Negative shares retained. Independent verbal audit: main pp156-158 has no words pairing each printed within-type covariance or separate all-plant dynamic component with its own benchmark; main pp166-167 explicitly discusses normalized between shares10/18/23 and VI net-entry16/7. Table-only eligibility and author division remain separate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6462",
+    "before": null,
+    "after": "Benchmark is realized same-outcome aggregate growth, other_level; not outcome_mean. Negative shares retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6463",
+    "before": null,
+    "after": "Benchmark is realized same-outcome aggregate growth, other_level; not outcome_mean. Negative shares retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6464",
+    "before": null,
+    "after": "Benchmark is realized same-outcome aggregate growth, other_level; not outcome_mean. Negative shares retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6465",
+    "before": null,
+    "after": "Benchmark is realized same-outcome aggregate growth, other_level; not outcome_mean. Negative shares retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6466",
+    "before": null,
+    "after": "Benchmark is realized same-outcome aggregate growth, other_level; not outcome_mean. Negative shares retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6467",
+    "before": null,
+    "after": "Benchmark is realized same-outcome aggregate growth, other_level; not outcome_mean. Negative shares retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6468",
+    "before": null,
+    "after": "Benchmark is realized same-outcome aggregate growth, other_level; not outcome_mean. Negative shares retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6469",
+    "before": null,
+    "after": "Benchmark is realized same-outcome aggregate growth, other_level; not outcome_mean. Negative shares retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6470",
+    "before": null,
+    "after": "Benchmark is realized same-outcome aggregate growth, other_level; not outcome_mean. Negative shares retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8684",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8684",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8684",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8684",
+    "before": null,
+    "after": "Aggregate log TFP growth1963-2002, revenue-weighted; subgroup totals where explicitly reported. Shares of growth are contribution measures, not individual binary outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3890",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3890",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3890",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3890",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3890",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3890",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3890",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3890",
+    "before": null,
+    "after": "Table12 cols2-5: net-entry contribution under alternative productivity constructions; col1 duplicate h9."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3890",
+    "before": null,
+    "after": "Authors attribute gains to reallocation/entry (main pp156-161,166-169; AppendixG). Retain under author-intention gate, not an exogenous intervention claim. Method Other denotes structural causal accounting, not proof that a covariance is nonlinear: conditional on constructed TFP and fixed revenue shares, OP components are linear. Full economic procedure uses estimated production functions and realized revenue weights; no separately implemented OLS/IV/DiD coefficient or covariate-based matching treatment estimator is established. Conditional-linear-contrast taxonomy remains a parent adjudication issue. AppendixD.1 pp18-19 labor-as-state timing robustness reports similar reallocation point estimates/significance; group as routine upstream timing variant, do not invent component grids. Parent adjudication: method unknown. Conditional on constructed productivity and shares, accounting components may be linear contrasts; upstream structural estimation alone does not establish a nonlinear focal estimator. Complete attribution procedure versus conditional-outcome domain is unresolved, so Other is not certified. Causal-intention retention does not establish identification."
+  }
+]
+```
