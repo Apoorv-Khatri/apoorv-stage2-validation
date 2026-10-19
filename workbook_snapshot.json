@@ -40908,7 +40908,16 @@
     "L4044": "0",
     "M4044": "n/a",
     "N4044": "Same continuous LPUN; A11 col4, PCT-II,25 groups, OLS limited controls; no village FE. Coefficient50.504.",
-    "O4044": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders."
+    "O4044": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders.",
+    "A4045": "8A6ENF64",
+    "B4045": "h22",
+    "I4045": "1",
+    "J4045": "Other",
+    "K4045": "1",
+    "L4045": "1",
+    "M4045": "n/a",
+    "N4045": "Contribution profile(4,4) versus(6,6); Table3 Poisson (eq4) punishment of player1; AME0.059 Birr. Routine socioeconomic-control variant fn21 grouped.",
+    "O4045": "Section IV Result1 explicitly says deviations evoke punishment; repeated strategy-method choices under prescribed contribution profiles. Poisson is nonlinear in reported punishment outcome => Other, not RCT. Profiles not randomly assigned leaders. Main motive evidence is central to typology. No own-outcome mean/SD benchmark printed; intercept is log expected punishment, not raw baseline pairing."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -102418,7 +102427,14 @@
     "H9005": "0",
     "I9005": "unknown",
     "J9005": "none",
-    "K9005": "Second-assessment PCT per hectare."
+    "K9005": "Second-assessment PCT per hectare.",
+    "A9006": "8A6ENF64",
+    "B9006": "h22",
+    "C9006": "hy1",
+    "H9006": "0",
+    "I9006": "1",
+    "J9006": "none",
+    "K9006": "Punishment points/Birr spent by leader on player1 in a strategy-method decision. Nonnegative discrete count, observed0,1,2 (fn20)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
