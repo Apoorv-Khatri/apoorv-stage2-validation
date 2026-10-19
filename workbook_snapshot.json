@@ -38342,7 +38342,16 @@
     "L3802": "1",
     "M3802": "n/a",
     "N3802": "Figure4 p3203, panels1-4 A/B: randomized high-versus-low hiring-shock comparisons of local wage, spillover employment, full-village employment and self-employment distributions, by season.",
-    "O3802": "Substantive author-interpreted distributional effects at a distinct result location (main pp3202,3206-3207). Empirical CDF contrasts are mean differences of threshold indicators, linear conditional on thresholds, not quantile estimation. KS tests are diagnostic inference only, not separate Other settings. Do not reuse daily binary employment outcomes for plotted0-7 work-day distributions. No numeric threshold-effect grid inferred."
+    "O3802": "Substantive author-interpreted distributional effects at a distinct result location (main pp3202,3206-3207). Empirical CDF contrasts are mean differences of threshold indicators, linear conditional on thresholds, not quantile estimation. KS tests are diagnostic inference only, not separate Other settings. Do not reuse daily binary employment outcomes for plotted0-7 work-day distributions. No numeric threshold-effect grid inferred.",
+    "A3803": "4LB5EN3L",
+    "B3803": "h1",
+    "I3803": "1",
+    "J3803": "OLS",
+    "K3803": "0",
+    "L3803": "0",
+    "M3803": "n/a",
+    "N3803": "Table4 PanelA cols1-2: own-minority share on log daily wage and annual turnover; average effects, without identifying worker/firm FE.",
+    "O3803": "Broad author-intention inclusion: Table4 caption and discussion frame these as alternative impact estimates, while p530 calls initial wage coefficient a negative association and p531 says OLS biased by sorting. Supporting selection benchmarks, not preferred causal estimates; gate contested. Year and industry dummies alone do not establish identifying FE."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -96523,7 +96532,15 @@
     "H8538": "0",
     "I8538": "unknown",
     "J8538": "none",
-    "K8538": "Self-employment distribution, day-count axis0-7, Figure4panels4A/B; not daily binary status. Exact plot aggregation window not stated in caption. Raw outcome scale; plotted using empirical CDFs, not log or outcome-SD normalization."
+    "K8538": "Self-employment distribution, day-count axis0-7, Figure4panels4A/B; not daily binary status. Exact plot aggregation window not stated in caption. Raw outcome scale; plotted using empirical CDFs, not log or outcome-SD normalization.",
+    "A8539": "4LB5EN3L",
+    "B8539": "h1",
+    "C8539": "hy1",
+    "K8539": "Log daily gross wage, low/medium skilled full-time administrative workers; Table4 PanelA.",
+    "A8540": "4LB5EN3L",
+    "B8540": "h1",
+    "C8540": "hy2",
+    "K8540": "Binary annual leaving-firm indicator t+1; Table4 PanelA."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
