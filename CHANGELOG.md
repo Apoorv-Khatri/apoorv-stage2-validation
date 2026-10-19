@@ -843294,3 +843294,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:40:09.313985+00:00 — Review A8LFPXLL h30: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9323",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9323",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9323",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9323",
+    "before": null,
+    "after": "Log average employee earnings; Table A.6 elasticity ITT top based on average 2011-2012 owner incomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4157",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4157",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4157",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4157",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4157",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4157",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4157",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4157",
+    "before": null,
+    "after": "Predicted MTR elasticity under top based on average 2011-2012 owner incomes Location: Table A.6 elasticity ITT, top based on average 2011-2012 owner incomes"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4157",
+    "before": null,
+    "after": "Actual displayed elasticity row. Continuous predicted-rate treatment, not the binary exposure coefficient in the neighboring column. Exact net-income exclusions versus subsample implementation are not restated in the caption; parent may merge restrictions that only alter samples with h17. No invented dose increment."
+  }
+]
+```

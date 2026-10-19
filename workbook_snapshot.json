@@ -42077,7 +42077,16 @@
     "L4156": "0",
     "M4156": "n/a",
     "N4156": "Predicted MTR elasticity under exposure 2010-2012 Location: Table A.6 elasticity ITT, exposure 2010-2012",
-    "O4156": "Actual displayed elasticity row. Continuous predicted-rate treatment, not the binary exposure coefficient in the neighboring column. Exact net-income exclusions versus subsample implementation are not restated in the caption; parent may merge restrictions that only alter samples with h17. No invented dose increment."
+    "O4156": "Actual displayed elasticity row. Continuous predicted-rate treatment, not the binary exposure coefficient in the neighboring column. Exact net-income exclusions versus subsample implementation are not restated in the caption; parent may merge restrictions that only alter samples with h17. No invented dose increment.",
+    "A4157": "A8LFPXLL",
+    "B4157": "h30",
+    "I4157": "1",
+    "J4157": "DiD_conventional",
+    "K4157": "0",
+    "L4157": "0",
+    "M4157": "n/a",
+    "N4157": "Predicted MTR elasticity under top based on average 2011-2012 owner incomes Location: Table A.6 elasticity ITT, top based on average 2011-2012 owner incomes",
+    "O4157": "Actual displayed elasticity row. Continuous predicted-rate treatment, not the binary exposure coefficient in the neighboring column. Exact net-income exclusions versus subsample implementation are not restated in the caption; parent may merge restrictions that only alter samples with h17. No invented dose increment."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106058,7 +106067,11 @@
     "A9322": "A8LFPXLL",
     "B9322": "h26",
     "C9322": "hy1",
-    "K9322": "Log average employee earnings; Table A.6 elasticity ITT exposure 2010-2012."
+    "K9322": "Log average employee earnings; Table A.6 elasticity ITT exposure 2010-2012.",
+    "A9323": "A8LFPXLL",
+    "B9323": "h30",
+    "C9323": "hy1",
+    "K9323": "Log average employee earnings; Table A.6 elasticity ITT top based on average 2011-2012 owner incomes."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
