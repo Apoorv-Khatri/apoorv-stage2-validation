@@ -38643,7 +38643,16 @@
     "L3825": "1",
     "M3825": "n/a",
     "N3825": "AppendixTableD2: strong versus weak state DiD on log aggregate mean earnings conditional/unconditional on working, state-group×year.",
-    "O3825": "AppD explains average earnings including individual zeros before logging; not log1p/IHS. Table sample25-65 versus main prime-age25-55. Unconditional positive effect central racial-income conclusion (main fn49), conditional controls are supporting comparisons. Separate outcomes grouped at same location."
+    "O3825": "AppD explains average earnings including individual zeros before logging; not log1p/IHS. Table sample25-65 versus main prime-age25-55. Unconditional positive effect central racial-income conclusion (main fn49), conditional controls are supporting comparisons. Separate outcomes grouped at same location.",
+    "A3826": "4X3H7PWW",
+    "B3826": "h10",
+    "I3826": "1",
+    "J3826": "DiD_conventional",
+    "K3826": "1",
+    "L3826": "0",
+    "M3826": "n/a",
+    "N3826": "AppendixTableE1: industry×state×year aggregated cross-industry DiD on log employment counts and log earnings; routine FE variants.",
+    "O3826": "Distinct aggregate employment implementation;0.078 wage and-0.003 log employment baseline. Not HDFE even in added state FE column: DiD precedence."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97117,7 +97126,21 @@
     "H8578": "0",
     "I8578": "unknown",
     "J8578": "log",
-    "K8578": "Log state-group-year average earnings including unemployed/NILF zero individual earnings, TableD2 col3. Individual raw zeros explicit; aggregate/log zero mass not established."
+    "K8578": "Log state-group-year average earnings including unemployed/NILF zero individual earnings, TableD2 col3. Individual raw zeros explicit; aggregate/log zero mass not established.",
+    "A8579": "4X3H7PWW",
+    "B8579": "h10",
+    "C8579": "hy1",
+    "H8579": "0",
+    "I8579": "unknown",
+    "J8579": "log",
+    "K8579": "Log number of employed workers in industry×state-group×year cell, TableE1.",
+    "A8580": "4X3H7PWW",
+    "B8580": "h10",
+    "C8580": "hy2",
+    "H8580": "0",
+    "I8580": "unknown",
+    "J8580": "log",
+    "K8580": "Log annual earnings aggregated to industry×state-group×year cell, TableE1; mean-versus-sum aggregation of wage not explicit in caption."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
