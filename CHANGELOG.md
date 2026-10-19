@@ -687525,3 +687525,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:55:40.519222+00:00 — Review 4X3H7PWW h35: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8634",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8634",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8634",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8634",
+    "before": null,
+    "after": "Employment count in industry-state-year cells, expressed as own-wage elasticity in TableE1 (-0.04/-0.06/-0.06); underlying policy outcome is log count."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E99",
+    "before": null,
+    "after": "DONE — Source-scoped review of60 final article pages and89-page author-linked publication-companion appendix, independently audited; publisher byte identity unverified and OUP403 respected. Retain47 settings, one duplicate rejected and one hours-design scope unresolved. Seven separate own-wage elasticity scopes added consistently with distinct wage-response estimands; methods unknown where compatible full implementation is unestablished. Retain11 comparisons, reject six, and leave one treated-gap endpoint attachment unresolved: total treated closure is not established as policy DiD. Adjusted policy racial-gap paths and weighted parallel-trend gap accounting classified conventional DiD/DDD, not causal race effects. h2 industry/state hours distinctness unknown due caption/prose conflict. E9 share and EPOP outcomes separated; no unsupported IV claim. Full bunching mapping Other; alternative and substitution elasticity implementation limits explicit. Graphical wage-distribution finding main with method unknown. Five held comparison families remain outside additions, including count normalizations, Eq4 wage-mean allocations and E9 share/EPOP baselines; these are unresolved coverage, not certified absence. Symmetric F1 wage endpoints retained with printed conflicts and alignment limits. Formula, sign, SD and numerical conflicts preserved; no fabricated grids or replication claims. Original fields, IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3851",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3851",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3851",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3851",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3851",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3851",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3851",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3851",
+    "before": null,
+    "after": "AppendixTableE1, aggregated industry-state-year cells, columns1-3: implied own-wage employment/hours response elasticities using wage and employment effects induced by newly covered versus previously covered industry reform exposure; distinct from the policy reduced forms."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3851",
+    "before": null,
+    "after": "Minimum established derived wage-response estimand. Authors interpret these as labor-demand responses, not merely diagnostic ratios. Focal treatment is average wage change (nonbinary). Different employment/earnings samples, control projections and employment-rate normalization prevent certifying a compatible linear Wald/IV implementation from ratios alone. Method/IV type unknown; do not inherit DiD from policy coefficients. No unreported outcome means or comparison grids added."
+  }
+]
+```

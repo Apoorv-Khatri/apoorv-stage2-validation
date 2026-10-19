@@ -472,6 +472,7 @@
     "B99": "Minimum Wages and Racial Inequality*",
     "C99": "econ",
     "D99": 14,
+    "E99": "DONE — Source-scoped review of60 final article pages and89-page author-linked publication-companion appendix, independently audited; publisher byte identity unverified and OUP403 respected. Retain47 settings, one duplicate rejected and one hours-design scope unresolved. Seven separate own-wage elasticity scopes added consistently with distinct wage-response estimands; methods unknown where compatible full implementation is unestablished. Retain11 comparisons, reject six, and leave one treated-gap endpoint attachment unresolved: total treated closure is not established as policy DiD. Adjusted policy racial-gap paths and weighted parallel-trend gap accounting classified conventional DiD/DDD, not causal race effects. h2 industry/state hours distinctness unknown due caption/prose conflict. E9 share and EPOP outcomes separated; no unsupported IV claim. Full bunching mapping Other; alternative and substitution elasticity implementation limits explicit. Graphical wage-distribution finding main with method unknown. Five held comparison families remain outside additions, including count normalizations, Eq4 wage-mean allocations and E9 share/EPOP baselines; these are unresolved coverage, not certified absence. Symmetric F1 wage endpoints retained with printed conflicts and alignment limits. Formula, sign, SD and numerical conflicts preserved; no fabricated grids or replication claims. Original fields, IDs and hyperlinks preserved.",
     "A100": "5EFFX2TK",
     "B100": "The Term Structure of Currency Carry Trade Risk Premia",
     "C100": "econ",
@@ -38868,7 +38869,16 @@
     "L3850": "0",
     "M3850": "unknown",
     "N3850": "AppendixTableE6, additional gender/education employment responses and all/race/gender/education hours: implied own-wage employment/hours response elasticities using wage and employment effects induced by 1966 fraction below $1.60 exposure; distinct from the policy reduced forms.",
-    "O3850": "Minimum established derived wage-response estimand. Authors interpret these as labor-demand responses, not merely diagnostic ratios. Focal treatment is average wage change (nonbinary). Different employment/earnings samples, control projections and employment-rate normalization prevent certifying a compatible linear Wald/IV implementation from ratios alone. Method/IV type unknown; do not inherit DiD from policy coefficients. No unreported outcome means or comparison grids added."
+    "O3850": "Minimum established derived wage-response estimand. Authors interpret these as labor-demand responses, not merely diagnostic ratios. Focal treatment is average wage change (nonbinary). Different employment/earnings samples, control projections and employment-rate normalization prevent certifying a compatible linear Wald/IV implementation from ratios alone. Method/IV type unknown; do not inherit DiD from policy coefficients. No unreported outcome means or comparison grids added.",
+    "A3851": "4X3H7PWW",
+    "B3851": "h35",
+    "I3851": "1",
+    "J3851": "unknown",
+    "K3851": "0",
+    "L3851": "0",
+    "M3851": "unknown",
+    "N3851": "AppendixTableE1, aggregated industry-state-year cells, columns1-3: implied own-wage employment/hours response elasticities using wage and employment effects induced by newly covered versus previously covered industry reform exposure; distinct from the policy reduced forms.",
+    "O3851": "Minimum established derived wage-response estimand. Authors interpret these as labor-demand responses, not merely diagnostic ratios. Focal treatment is average wage change (nonbinary). Different employment/earnings samples, control projections and employment-rate normalization prevent certifying a compatible linear Wald/IV implementation from ratios alone. Method/IV type unknown; do not inherit DiD from policy coefficients. No unreported outcome means or comparison grids added."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97607,7 +97617,11 @@
     "A8633": "4X3H7PWW",
     "B8633": "h34",
     "C8633": "hy3",
-    "K8633": "Annual hours conditional on employment, expressed as own-wage elasticity; AppendixTableE6, additional gender/education employment responses and all/race/gender/education hours. Underlying policy regression is log annual hours."
+    "K8633": "Annual hours conditional on employment, expressed as own-wage elasticity; AppendixTableE6, additional gender/education employment responses and all/race/gender/education hours. Underlying policy regression is log annual hours.",
+    "A8634": "4X3H7PWW",
+    "B8634": "h35",
+    "C8634": "hy1",
+    "K8634": "Employment count in industry-state-year cells, expressed as own-wage elasticity in TableE1 (-0.04/-0.06/-0.06); underlying policy outcome is log count."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
