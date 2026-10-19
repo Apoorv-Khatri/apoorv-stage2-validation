@@ -749427,3 +749427,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:25:52.236539+00:00 — Review 64JY936S h13: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8845",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8846",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8845",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8846",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8845",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8846",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8845",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8846",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8845",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8846",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8845",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8846",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8845",
+    "before": null,
+    "after": "Net monthly wage density by age group/time, Figure3/A6. Density is reported ordinate, wage is horizontal axis. No numerical shift coefficient."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8846",
+    "before": null,
+    "after": "Gross monthly wage density by age group/time, Figure3/A6. Density is reported ordinate, wage is horizontal axis. No numerical shift coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3928",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3928",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3928",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3928",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3928",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3928",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3928",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3928",
+    "before": null,
+    "after": "Age eligibility x post wage-distribution incidence, Figure3/A6: young22-24 versus older27-29,2002-06 versus2009-13; common control-wage index deflation. Net density unchanged; gross density shifts."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3928",
+    "before": null,
+    "after": "Author-interpreted substantive distributional incidence, not diagnostics. Density estimation kernel/bandwidth implementation unreported: no automatic linear-DiD or nonlinear-Other assignment. Control-wage deflation is a price/time adjustment, not a deliberately focal-effect magnitude ratio."
+  }
+]
+```

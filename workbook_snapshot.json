@@ -39733,7 +39733,16 @@
     "L3927": "0",
     "M3927": "n/a",
     "N3927": "Age eligibility x post net monthly wage in high/low turnover industries, A5; split by2000 median employment-weighted industry mean job duration.",
-    "O3927": "Graphical pre/post age profile contrast; no numerical local-polynomial RD. A5 axis says annual main-employer earnings/months worked; caption says FTE contracted survey monthly wage. Preserve conflict, do not pick one silently."
+    "O3927": "Graphical pre/post age profile contrast; no numerical local-polynomial RD. A5 axis says annual main-employer earnings/months worked; caption says FTE contracted survey monthly wage. Preserve conflict, do not pick one silently.",
+    "A3928": "64JY936S",
+    "B3928": "h13",
+    "I3928": "1",
+    "J3928": "unknown",
+    "K3928": "1",
+    "L3928": "1",
+    "M3928": "unknown",
+    "N3928": "Age eligibility x post wage-distribution incidence, Figure3/A6: young22-24 versus older27-29,2002-06 versus2009-13; common control-wage index deflation. Net density unchanged; gross density shifts.",
+    "O3928": "Author-interpreted substantive distributional incidence, not diagnostics. Density estimation kernel/bandwidth implementation unreported: no automatic linear-DiD or nonlinear-Other assignment. Control-wage deflation is a price/time adjustment, not a deliberately focal-effect magnitude ratio."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100254,7 +100263,21 @@
     "H8844": "0",
     "I8844": "0",
     "J8844": "none",
-    "K8844": "Monthly net wage, USD; A5 axis annual main-employer earnings/months worked versus caption FTE survey wage. Source conflict affects exact construction."
+    "K8844": "Monthly net wage, USD; A5 axis annual main-employer earnings/months worked versus caption FTE survey wage. Source conflict affects exact construction.",
+    "A8845": "64JY936S",
+    "B8845": "h13",
+    "C8845": "hy1",
+    "H8845": "0",
+    "I8845": "unknown",
+    "J8845": "other",
+    "K8845": "Net monthly wage density by age group/time, Figure3/A6. Density is reported ordinate, wage is horizontal axis. No numerical shift coefficient.",
+    "A8846": "64JY936S",
+    "B8846": "h13",
+    "C8846": "hy2",
+    "H8846": "0",
+    "I8846": "unknown",
+    "J8846": "other",
+    "K8846": "Gross monthly wage density by age group/time, Figure3/A6. Density is reported ordinate, wage is horizontal axis. No numerical shift coefficient."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
