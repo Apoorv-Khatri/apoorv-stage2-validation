@@ -795546,3 +795546,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T14:00:43.894814+00:00 — Review 9XCS46FU s3: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K643",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K644",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K645",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K646",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R643",
+    "before": null,
+    "after": "Focal observational contrast excluded by author-intention gate; numerical comparison preserved in original fields and independent report."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R644",
+    "before": null,
+    "after": "Focal observational contrast excluded by author-intention gate; numerical comparison preserved in original fields and independent report."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R645",
+    "before": null,
+    "after": "Focal observational contrast excluded by author-intention gate; numerical comparison preserved in original fields and independent report."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R646",
+    "before": null,
+    "after": "Focal observational contrast excluded by author-intention gate; numerical comparison preserved in original fields and independent report."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2369",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2369",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2369",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2369",
+    "before": null,
+    "after": "Spurious as a causal-outcome record under rejected observational/diagnostic parent; original measured outcome and model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I952",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O952",
+    "before": null,
+    "after": "Independent author-intention gate: Table VI explicitly measures empirical plausibility and magnitudes of correlations (p808); VI.C asks whether these correlations might be causal, not that these observational coefficients estimate such effects. Broad influence rhetoric is acknowledged but does not override parameter-specific correlation language."
+  }
+]
+```
