@@ -716703,3 +716703,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:14:36.108765+00:00 — Review 5SL56HMJ s4: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6410",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6411",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6410",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6411",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6410",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6411",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K584",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6410",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6411",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L584",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6410",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6411",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M584",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6410",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6411",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N584",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6410",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6411",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O584",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6410",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6411",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P584",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6410",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6411",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q584",
+    "before": null,
+    "after": "Appendix TableB.7 p8, All385 industries: predicted steel TFP growth 0.081; share of actual steel TFP growth 0.34. Main p152 rounds to8 percent and at most one-third. Benchmark is realized steel aggregate growth1972-1996, not untreated mean. Exact denominator not printed; do not backsolve it."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6410",
+    "before": null,
+    "after": "Appendix TableB.7 p8, Excluding SIC3674,384 industries: predicted steel TFP growth 0.079; share of actual steel TFP growth 0.34. Main p152 rounds to8 percent and at most one-third. Benchmark is realized steel aggregate growth1972-1996, not untreated mean. Exact denominator not printed; do not backsolve it."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6411",
+    "before": null,
+    "after": "Appendix TableB.7 p8, Big sectors excluding SIC3674,80 industries: predicted steel TFP growth 0.087; share of actual steel TFP growth 0.37. Main p152 rounds to8 percent and at most one-third. Benchmark is realized steel aggregate growth1972-1996, not untreated mean. Exact denominator not printed; do not backsolve it."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R584",
+    "before": null,
+    "after": "Fitted level includes constant and source large-sector37% exceeds literal one-third; retain the reported values. Attribution, not a clean marginal dose effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6410",
+    "before": null,
+    "after": "Fitted level includes constant and source large-sector37% exceeds literal one-third; retain the reported values. Attribution, not a clean marginal dose effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6411",
+    "before": null,
+    "after": "Fitted level includes constant and source large-sector37% exceeds literal one-third; retain the reported values. Attribution, not a clean marginal dose effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2214",
+    "before": null,
+    "after": "Industry TFP growth1972-1996, long difference; fitted steel growth includes constant. Not a log-level percentage interpretation alone."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I905",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J905",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K905",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L905",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M905",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N905",
+    "before": null,
+    "after": "Appendix B.7 p8 / main p152: shipment-weighted cross-industry regression of1972-1996 TFP growth on change in import penetration; all industries, excluding SIC3674, and large-industry variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O905",
+    "before": null,
+    "after": "Authors translate fitted steel growth into how much import competition can explain, despite explicit reverse-causality warning fn34. No instrument/FE identification. Fitted predictions include intercept; not pure gamma1 times exposure."
+  }
+]
+```
