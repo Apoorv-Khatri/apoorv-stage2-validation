@@ -840915,3 +840915,336 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:31:07.680948+00:00 — Review A8LFPXLL h6: source-audited coding and linked comparisons
+
+54 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7546",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7547",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7548",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7546",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7547",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7548",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7546",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7547",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7548",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7546",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7547",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7546",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7547",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7548",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7546",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7547",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7548",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7546",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7547",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7546",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7547",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7548",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7546",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7547",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7548",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7546",
+    "before": null,
+    "after": "Table V observed-calibration row and pp.686-687: MVPF 1.46 with pass-through versus 1.35 no-spillover MVPF for business income tax. Values are printed levels; no invented difference or ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7547",
+    "before": null,
+    "after": "Table V observed-calibration row and pp.686-687: MVPF 1.38 with pass-through versus 1.35 no-spillover MVPF for taxing business owners through personal income tax. Values are printed levels; no invented difference or ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7548",
+    "before": null,
+    "after": "Table V observed-calibration row and pp.686-687: MVPF 1.36 with pass-through versus 1.35 no-spillover MVPF for top marginal personal income tax. Values are printed levels; no invented difference or ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7546",
+    "before": null,
+    "after": "Broad author-intention inclusion of empirical welfare counterfactual. Narrow empirical-regression-only interpretation would exclude this setting and comparisons."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7547",
+    "before": null,
+    "after": "Broad author-intention inclusion of empirical welfare counterfactual. Narrow empirical-regression-only interpretation would exclude this setting and comparisons."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7548",
+    "before": null,
+    "after": "Broad author-intention inclusion of empirical welfare counterfactual. Narrow empirical-regression-only interpretation would exclude this setting and comparisons."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9300",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9301",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9302",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9300",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9301",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9302",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9300",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9301",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9302",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9300",
+    "before": null,
+    "after": "MVPF for business income tax; dimensionless sufficient-statistic calibration, Eq.(6)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9301",
+    "before": null,
+    "after": "MVPF for taxing business owners through personal income tax; dimensionless sufficient-statistic calibration, Eq.(6)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9302",
+    "before": null,
+    "after": "MVPF for top marginal personal income tax; dimensionless sufficient-statistic calibration, Eq.(6)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4136",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4136",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4136",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4136",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4136",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4136",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4136",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4136",
+    "before": null,
+    "after": "Empirically calibrated cross-bracket spillover adjustment to marginal value of public funds, versus no-spillover assumption Location: Section VII A, Eq.(6), Table V"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4136",
+    "before": null,
+    "after": "Implemented nonlinear rational function of pass-through coefficient and external ETI/tax parameters, not a new DiD regression. Retain observed empirical calibrations; pure hypothetical dose sensitivity rows are conceptual and not independently estimated causal settings."
+  }
+]
+```
