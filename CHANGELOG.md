@@ -760170,3 +760170,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:08:51.029403+00:00 — Review 7PQVC2SH h23: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8911",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8911",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8911",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8911",
+    "before": null,
+    "after": "Aggregate log output / log output per capita with population normalized; structural marginal schooling returns. Comparing aggregate return with individual return or0.29 macro slope is effect-versus-effect, not eligible outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3971",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3971",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3971",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3971",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3971",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3971",
+    "before": null,
+    "after": "Section5.1/equation26/Figure13: structural schooling increase effects on aggregate log output, with homogeneous and heterogeneous schooling/selection and sigma3/4/5 variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3971",
+    "before": null,
+    "after": "Nonlinear calibrated equilibrium output mapping; terminal regression summarizes model-implied log output across94 countries, not independent identified cross-country OLS. Baseline homogeneous s6 return22.8%, heterogeneity25.0%, selection25.9%, sigma4/5 returns21.6%/19.5%. Other preferred full-procedure taxonomy; generated-outcome OLS alternative requires adjudication."
+  }
+]
+```

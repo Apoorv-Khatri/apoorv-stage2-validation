@@ -40205,7 +40205,16 @@
     "L3970": "1",
     "M3970": "n/a",
     "N3970": "Table4B / pp2087-2088: schooling effect v on initial entrepreneurial log productivity, constrained maximum likelihood with equilibrium occupation threshold and entrepreneurship-rate constraints.",
-    "O3970": "Baseline v0.0436; variants0.0446,0.0409,0.0463. No instrument or causal FE model merely because some data residualized within sectors. Mean/SD parameter estimates are not outcome benchmarks."
+    "O3970": "Baseline v0.0436; variants0.0446,0.0409,0.0463. No instrument or causal FE model merely because some data residualized within sectors. Mean/SD parameter estimates are not outcome benchmarks.",
+    "A3971": "7PQVC2SH",
+    "B3971": "h23",
+    "I3971": "1",
+    "J3971": "Other",
+    "K3971": "0",
+    "L3971": "1",
+    "M3971": "n/a",
+    "N3971": "Section5.1/equation26/Figure13: structural schooling increase effects on aggregate log output, with homogeneous and heterogeneous schooling/selection and sigma3/4/5 variants.",
+    "O3971": "Nonlinear calibrated equilibrium output mapping; terminal regression summarizes model-implied log output across94 countries, not independent identified cross-country OLS. Baseline homogeneous s6 return22.8%, heterogeneity25.0%, selection25.9%, sigma4/5 returns21.6%/19.5%. Other preferred full-procedure taxonomy; generated-outcome OLS alternative requires adjudication."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101182,7 +101191,11 @@
     "A8910": "7PQVC2SH",
     "B8910": "h22",
     "C8910": "hy1",
-    "K8910": "Initial log entrepreneurial productivity z at birth before occupational selection; v is effect per schooling year."
+    "K8910": "Initial log entrepreneurial productivity z at birth before occupational selection; v is effect per schooling year.",
+    "A8911": "7PQVC2SH",
+    "B8911": "h23",
+    "C8911": "hy1",
+    "K8911": "Aggregate log output / log output per capita with population normalized; structural marginal schooling returns. Comparing aggregate return with individual return or0.29 macro slope is effect-versus-effect, not eligible outcome benchmark."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
