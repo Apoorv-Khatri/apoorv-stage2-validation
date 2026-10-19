@@ -829533,3 +829533,414 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T14:51:51.946154+00:00 — Review 9XMIBBJM h27: source-audited coding and linked comparisons
+
+67 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7433",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7434",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7435",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7436",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7433",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7434",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7435",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7436",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7433",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7434",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7435",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7436",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7436",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7433",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7434",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7435",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7436",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7433",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7434",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7435",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7436",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7433",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7436",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7433",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7433",
+    "before": null,
+    "after": "Appendix Figure A.7, left winning party panel: focal effect plotted local-linear discontinuity; no numerical coefficient printed or digitized; benchmark individual score SD in municipalities without party turnover."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7434",
+    "before": null,
+    "after": "Appendix Figure A.7, right winning party panel: focal effect plotted local-linear discontinuity; no numerical coefficient printed or digitized; benchmark individual score SD in municipalities without party turnover."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7435",
+    "before": null,
+    "after": "Appendix Figure A.8, left winning party panel: focal effect plotted local-linear discontinuity; no numerical coefficient printed or digitized; benchmark individual score SD in municipalities without party turnover."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7436",
+    "before": null,
+    "after": "Appendix Figure A.8, right winning party panel: focal effect plotted local-linear discontinuity; no numerical coefficient printed or digitized; benchmark individual score SD in municipalities without party turnover."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7433",
+    "before": null,
+    "after": "Qualitative graphical standardization qualifies without invented coefficient or bin-level grid. Broad SD reference differs from local subgroup target."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7434",
+    "before": null,
+    "after": "Qualitative graphical standardization qualifies without invented coefficient or bin-level grid. Broad SD reference differs from local subgroup target."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7435",
+    "before": null,
+    "after": "Qualitative graphical standardization qualifies without invented coefficient or bin-level grid. Broad SD reference differs from local subgroup target."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7436",
+    "before": null,
+    "after": "Qualitative graphical standardization qualifies without invented coefficient or bin-level grid. Broad SD reference differs from local subgroup target."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9249",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9250",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9249",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9250",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9249",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9250",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9249",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9250",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9249",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9250",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9249",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9250",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9249",
+    "before": null,
+    "after": "Individual grade 4 Prova Brasil score in the left/right winning-party panels, standardized against the no-party-turnover individual distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9250",
+    "before": null,
+    "after": "Individual grade 8 Prova Brasil score in the left/right winning-party panels, standardized against the no-party-turnover individual distribution."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4118",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4118",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4118",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4118",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4118",
+    "before": null,
+    "after": "Party-turnover direct RD on student scores separately where the winning party is left versus right; distinct plotted subgroup results. Appendix Figures A.7–A.8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4118",
+    "before": null,
+    "after": "Graphical score contrasts are in explicitly stated outcome-SD units; no coefficients or graph endpoints digitized. These are separate from the A.4 interacted grade4 regression. Main role: introduction p446 explicitly uses ideological invariance to rule out policy shifts."
+  }
+]
+```
