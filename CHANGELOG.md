@@ -678732,3 +678732,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:50:44.496857+00:00 — Review 4LB5EN3L s2: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2157",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2157",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2157",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2157",
+    "before": null,
+    "after": "Spurious for retained causal inventory: diagnostic-only proxy-validation parent; original outcome definition preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I876",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O876",
+    "before": null,
+    "after": "Tables2-3 pp527-529 explicitly introduced as descriptive proxy-validation evidence (p527); Table2 alpha identifies referral prevalence under model and Table3 validates proxy association. No substantive wage/turnover intervention here. Exclude diagnostic-only proxy validation, despite increase/impact wording. Contested author-intention gate: parent may retain broad causal own-share hiring interpretation; do not treat exclusion as an econometric credibility judgment."
+  }
+]
+```
