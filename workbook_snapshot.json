@@ -42005,7 +42005,16 @@
     "L4148": "0",
     "M4148": "single binary",
     "N4148": "all owners top: baseline exposure definition instrumenting realized exposure Location: Table A.6 all owners top",
-    "O4148": "Distinct reported exposure/instrument definition; Appendix E provides treatment rationale. IV single binary baseline definition; exact realized exposure counterpart not restated for each row, so describe only established scope."
+    "O4148": "Distinct reported exposure/instrument definition; Appendix E provides treatment rationale. IV single binary baseline definition; exact realized exposure counterpart not restated for each row, so describe only established scope.",
+    "A4149": "A8LFPXLL",
+    "B4149": "h19",
+    "I4149": "1",
+    "J4149": "DiD_conventional",
+    "K4149": "1",
+    "L4149": "0",
+    "M4149": "n/a",
+    "N4149": "top net of capital gains and dividends: baseline exposure definition as direct treatment Location: Table A.6 top net of capital gains and dividends",
+    "O4149": "Distinct reported exposure/instrument definition; Appendix E provides treatment rationale. IV single binary baseline definition; exact realized exposure counterpart not restated for each row, so describe only established scope."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105936,7 +105945,14 @@
     "H9314": "0",
     "I9314": "0",
     "J9314": "log",
-    "K9314": "Log average employee earnings, Table A.6 all owners top."
+    "K9314": "Log average employee earnings, Table A.6 all owners top.",
+    "A9315": "A8LFPXLL",
+    "B9315": "h19",
+    "C9315": "hy1",
+    "H9315": "0",
+    "I9315": "0",
+    "J9315": "log",
+    "K9315": "Log average employee earnings, Table A.6 top net of capital gains and dividends."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
