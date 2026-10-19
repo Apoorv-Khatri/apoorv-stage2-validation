@@ -37620,7 +37620,16 @@
     "L3739": "1",
     "M3739": "n/a",
     "N3739": "Figure2: pooled delivery error dynamics; binary reform exposure interacted with event time.",
-    "O3739": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Separate dynamic estimand at figure. No numeric digitization. For supporting-only interpretation of appendix dynamics, parent may main=0; content corroborates named central outcome, not placement-based exclusion."
+    "O3739": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Separate dynamic estimand at figure. No numeric digitization. For supporting-only interpretation of appendix dynamics, parent may main=0; content corroborates named central outcome, not placement-based exclusion.",
+    "A3740": "3ZIDN6KF",
+    "B3740": "h2",
+    "I3740": "1",
+    "J3740": "DiD_conventional",
+    "K3740": "1",
+    "L3740": "1",
+    "M3740": "n/a",
+    "N3740": "Figure3: 1883/1893 delivery error dynamics; binary reform exposure interacted with event time.",
+    "O3740": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Separate dynamic estimand at figure. No numeric digitization. For supporting-only interpretation of appendix dynamics, parent may main=0; content corroborates named central outcome, not placement-based exclusion."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94831,7 +94840,14 @@
     "H8403": "0",
     "I8403": "unknown",
     "J8403": "log",
-    "K8403": "Figure2: Number of postal delivery errors in a city-year, measured from returned facing slips; main specification uses the logarithm of the total number of errors on returned slips."
+    "K8403": "Figure2: Number of postal delivery errors in a city-year, measured from returned facing slips; main specification uses the logarithm of the total number of errors on returned slips.",
+    "A8404": "3ZIDN6KF",
+    "B8404": "h2",
+    "C8404": "hy1",
+    "H8404": "0",
+    "I8404": "unknown",
+    "J8404": "log",
+    "K8404": "Figure3: Number of postal delivery errors in a city-year, measured from returned facing slips; main specification uses the logarithm of the total number of errors on returned slips."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
