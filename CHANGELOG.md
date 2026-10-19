@@ -645279,3 +645279,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:52:37.162988+00:00 — Review 2XPTKJBQ s2: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5747",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5748",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5747",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5748",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5747",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5748",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K516",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5747",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L516",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L517",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5747",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5748",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M516",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M517",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5747",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5748",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N516",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5747",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O516",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5747",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P516",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P517",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5747",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5748",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q516",
+    "before": null,
+    "after": "Table1 p3169, family BP col1: -0.254 pp annual mortality per $1,000 annual DI; mean 3.65 pp at AIME [-10,0]; printed implied change -6.9%. p3168 explicitly compares these lower/family effects to means (5–10%); SectionVI repeats adjusted estimates, not additional triples."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q517",
+    "before": null,
+    "after": "Table1 p3169, family BP col3: -0.184 pp annual mortality per $1,000 annual DI; mean 3.65 pp at AIME [-10,0]; printed implied change -5.0%. p3168 explicitly compares these lower/family effects to means (5–10%); SectionVI repeats adjusted estimates, not additional triples."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5747",
+    "before": null,
+    "after": "Table1 p3169, family BP col2: -0.319 pp annual mortality per $1,000 annual DI; mean 3.65 pp at AIME [-10,0]; printed implied change -8.7%. p3168 explicitly compares these lower/family effects to means (5–10%); SectionVI repeats adjusted estimates, not additional triples."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5748",
+    "before": null,
+    "after": "Table1 p3169, family BP col4: -0.255 pp annual mortality per $1,000 annual DI; mean 3.65 pp at AIME [-10,0]; printed implied change -7.0%. p3168 explicitly compares these lower/family effects to means (5–10%); SectionVI repeats adjusted estimates, not additional triples."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R516",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R517",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5747",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5748",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2076",
+    "before": null,
+    "after": "Average annual mortality during first four years after DI payments, in percentage points. Detailed binary-treatment labels not required: treatment is continuous. Do not treat the reported average rate as automatically a binary dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I843",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J843",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K843",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L843",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M843",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O843",
+    "before": null,
+    "after": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Main abstract/conclusion: lower/family reductions AND upper null. Actual treatment includes PIA plus dependent payments, Eq.(1), not only primary PIA; lower/upper samples include beneficiaries with and without dependents. Correct Table1 first-stage transcription: -0.369,-0.370,-0.369,-0.369 DI pay change per $1 AIME, not positive 2.369–2.370. Mortality estimates separately use a $1,000 annual treatment increment."
+  }
+]
+```
