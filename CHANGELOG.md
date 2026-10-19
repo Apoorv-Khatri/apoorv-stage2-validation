@@ -743748,3 +743748,372 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:21:16.610026+00:00 — Review 64JY936S h3: source-audited coding and linked comparisons
+
+60 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6667",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6668",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6669",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6667",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6668",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6669",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6667",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6668",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6669",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6667",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6668",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6667",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6668",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6669",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6667",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6668",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6669",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6667",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6668",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6667",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6668",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6667",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6668",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6669",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6667",
+    "before": null,
+    "after": "Table4 col2 per-worker outcome: 0.013; note/Figure7 and pp1749-51 explicitly scale by each firm own2006 value then average. Same-outcome baseline level; payroll-tax A14(g) graphical scale conflict kept separate, not silently treated as normalized1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6668",
+    "before": null,
+    "after": "Table4 col2 per-worker outcome: -0.025; note/Figure7 and pp1749-51 explicitly scale by each firm own2006 value then average. Same-outcome baseline level; payroll-tax A14(g) graphical scale conflict kept separate, not silently treated as normalized1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6669",
+    "before": null,
+    "after": "Table4 col2 per-worker outcome: 0.0035; note/Figure7 and pp1749-51 explicitly scale by each firm own2006 value then average. Same-outcome baseline level; payroll-tax A14(g) graphical scale conflict kept separate, not silently treated as normalized1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8796",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8797",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8798",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8796",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8797",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8798",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8796",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8797",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8798",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8796",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8797",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8798",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8796",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8797",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8798",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8796",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8797",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8798",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8796",
+    "before": null,
+    "after": "Average net wage earnings per worker in the firm, normalized relative to 2006. Table4/5 uses arithmetic normalized levels, not logs. Zero mass of aggregate reported series not established; unbalanced micro records include zero for nonoperating firms."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8797",
+    "before": null,
+    "after": "Average payroll taxes paid per worker in the firm, normalized relative to 2006. Table4/5 uses arithmetic normalized levels, not logs. Zero mass of aggregate reported series not established; unbalanced micro records include zero for nonoperating firms."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8798",
+    "before": null,
+    "after": "Average gross wage earnings (labor cost) per worker in the firm, normalized relative to 2006. Table4/5 uses arithmetic normalized levels, not logs. Zero mass of aggregate reported series not established; unbalanced micro records include zero for nonoperating firms."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3917",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3917",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3917",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3917",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3917",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3917",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3917",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3917",
+    "before": null,
+    "after": "Fairly high (next1/8) versus medium2006 share-young exposure; Table4 cols2-3 per-worker earnings/A14 f-h; same DiD and normalization as s6. Table6 headers and pp1753/1756 support col2 fairly/col3 very; note reverses names, preserved as conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3917",
+    "before": null,
+    "after": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
+  }
+]
+```
