@@ -614826,3 +614826,888 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:14:32.766554+00:00 — Review ZHTZCSY3 s3: source-audited coding and linked comparisons
+
+146 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5430",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5431",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5432",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5433",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5434",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5435",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5436",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5437",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5438",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5439",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5440",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5441",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5430",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5431",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5432",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5433",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5434",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5435",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5436",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5437",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5438",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5439",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5440",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5441",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5430",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5431",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5432",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5433",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5434",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5435",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5436",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5437",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5438",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5439",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5440",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5441",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5430",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5431",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5432",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5436",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5437",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5438",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5439",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5440",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5441",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5430",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5431",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5432",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5433",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5434",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5435",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5436",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5437",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5438",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5439",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5440",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5441",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5430",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5431",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5432",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5433",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5434",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5435",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5436",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5437",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5438",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5439",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5440",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5441",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5430",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5431",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5432",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5437",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5438",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5439",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5440",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5430",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5431",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5432",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5433",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5437",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5438",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5439",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5440",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5430",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5431",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5432",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5437",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5438",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5439",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5440",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5441",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5430",
+    "before": null,
+    "after": "Table9 PanelA p.847, matched sample, Δlog(1+nonself citations): reported focal difference -0.801; treated mean -1.18, same reported outcome units/population. Paired table entries, not an author-reported ratio. Section7.2 p.847: largest-improvement stocks experience a larger reduction in innovation compared to smallest-improvement stocks (article.txt lines1185–1194)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5431",
+    "before": null,
+    "after": "Table9 PanelA p.847, matched sample, Δlog(1+nonself citations): reported focal difference -0.801; control mean -0.378, same reported outcome units/population. Paired table entries, not an author-reported ratio. Section7.2 p.847: largest-improvement stocks experience a larger reduction in innovation compared to smallest-improvement stocks (article.txt lines1185–1194)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5432",
+    "before": null,
+    "after": "Table9 PanelA p.847, matched sample, Δlog(1+eventually granted patent applications): reported focal difference -0.214; treated mean -0.159, same reported outcome units/population. Paired table entries, not an author-reported ratio. Section7.2 p.847: largest-improvement stocks experience a larger reduction in innovation compared to smallest-improvement stocks (article.txt lines1185–1194)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5433",
+    "before": null,
+    "after": "Table9 PanelA p.847, matched sample, Δlog(1+eventually granted patent applications): reported focal difference -0.214; control mean 0.054, same reported outcome units/population. Paired table entries, not an author-reported ratio. Section7.2 p.847: largest-improvement stocks experience a larger reduction in innovation compared to smallest-improvement stocks (article.txt lines1185–1194)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5434",
+    "before": null,
+    "after": "Table9 PanelB p.847, matched sample, Δlog(1+nonself citations): reported focal difference -0.246; treated mean -0.609, same reported outcome units/population. Paired table entries, not an author-reported ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5435",
+    "before": null,
+    "after": "Table9 PanelB p.847, matched sample, Δlog(1+nonself citations): reported focal difference -0.246; control mean -0.363, same reported outcome units/population. Paired table entries, not an author-reported ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5436",
+    "before": null,
+    "after": "Table9 PanelB p.847, matched sample, Δlog(1+eventually granted patent applications): reported focal difference -0.009; treated mean -0.041, same reported outcome units/population. Paired table entries, not an author-reported ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5437",
+    "before": null,
+    "after": "Table9 PanelB p.847, matched sample, Δlog(1+eventually granted patent applications): reported focal difference -0.009; control mean -0.032, same reported outcome units/population. Paired table entries, not an author-reported ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5438",
+    "before": null,
+    "after": "Table9 PanelC p.847, matched sample, Δlog(1+nonself citations): reported focal difference -0.883; treated mean -1.502, same reported outcome units/population. Paired table entries, not an author-reported ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5439",
+    "before": null,
+    "after": "Table9 PanelC p.847, matched sample, Δlog(1+nonself citations): reported focal difference -0.883; control mean -0.62, same reported outcome units/population. Paired table entries, not an author-reported ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5440",
+    "before": null,
+    "after": "Table9 PanelC p.847, matched sample, Δlog(1+eventually granted patent applications): reported focal difference -0.313; treated mean -0.236, same reported outcome units/population. Paired table entries, not an author-reported ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5441",
+    "before": null,
+    "after": "Table9 PanelC p.847, matched sample, Δlog(1+eventually granted patent applications): reported focal difference -0.313; control mean 0.078, same reported outcome units/population. Paired table entries, not an author-reported ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5430",
+    "before": null,
+    "after": "Same-row endpoint mean deliberately paired with focal difference; decomposition-only exclusion is a parent adjudication alternative. Observed treated change is not untreated counterfactual change."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5431",
+    "before": null,
+    "after": "Same-row deliberately paired endpoint; retain symmetrically with treated mean. Alignment=1 under the maintained matched-group DiD on the REPORTED CHANGE outcome: the same matched control change enters the displayed effect and supplies its counterfactual change. This is not equality of untreated levels and not a general validation of matching. Exact reuse/caliper details unavailable; if table means are not the estimator-weighted means, downgrade to unknown. No such mismatch is reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5432",
+    "before": null,
+    "after": "Same-row endpoint mean deliberately paired with focal difference; decomposition-only exclusion is a parent adjudication alternative. Observed treated change is not untreated counterfactual change."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5433",
+    "before": null,
+    "after": "Same-row deliberately paired endpoint; retain symmetrically with treated mean. Alignment=1 under the maintained matched-group DiD on the REPORTED CHANGE outcome: the same matched control change enters the displayed effect and supplies its counterfactual change. This is not equality of untreated levels and not a general validation of matching. Exact reuse/caliper details unavailable; if table means are not the estimator-weighted means, downgrade to unknown. No such mismatch is reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5434",
+    "before": null,
+    "after": "Same-row endpoint mean deliberately paired with focal difference; decomposition-only exclusion is a parent adjudication alternative. Observed treated change is not untreated counterfactual change."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5435",
+    "before": null,
+    "after": "Same-row deliberately paired endpoint; retain symmetrically with treated mean. Alignment=1 under the maintained matched-group DiD on the REPORTED CHANGE outcome: the same matched control change enters the displayed effect and supplies its counterfactual change. This is not equality of untreated levels and not a general validation of matching. Exact reuse/caliper details unavailable; if table means are not the estimator-weighted means, downgrade to unknown. No such mismatch is reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5436",
+    "before": null,
+    "after": "Same-row endpoint mean deliberately paired with focal difference; decomposition-only exclusion is a parent adjudication alternative. Observed treated change is not untreated counterfactual change."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5437",
+    "before": null,
+    "after": "Same-row deliberately paired endpoint; retain symmetrically with treated mean. Alignment=1 under the maintained matched-group DiD on the REPORTED CHANGE outcome: the same matched control change enters the displayed effect and supplies its counterfactual change. This is not equality of untreated levels and not a general validation of matching. Exact reuse/caliper details unavailable; if table means are not the estimator-weighted means, downgrade to unknown. No such mismatch is reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5438",
+    "before": null,
+    "after": "Same-row endpoint mean deliberately paired with focal difference; decomposition-only exclusion is a parent adjudication alternative. Observed treated change is not untreated counterfactual change."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5439",
+    "before": null,
+    "after": "Same-row deliberately paired endpoint; retain symmetrically with treated mean. Alignment=1 under the maintained matched-group DiD on the REPORTED CHANGE outcome: the same matched control change enters the displayed effect and supplies its counterfactual change. This is not equality of untreated levels and not a general validation of matching. Exact reuse/caliper details unavailable; if table means are not the estimator-weighted means, downgrade to unknown. No such mismatch is reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5440",
+    "before": null,
+    "after": "Same-row endpoint mean deliberately paired with focal difference; decomposition-only exclusion is a parent adjudication alternative. Observed treated change is not untreated counterfactual change."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5441",
+    "before": null,
+    "after": "Same-row deliberately paired endpoint; retain symmetrically with treated mean. Alignment=1 under the maintained matched-group DiD on the REPORTED CHANGE outcome: the same matched control change enters the displayed effect and supplies its counterfactual change. This is not equality of untreated levels and not a general validation of matching. Exact reuse/caliper details unavailable; if table means are not the estimator-weighted means, downgrade to unknown. No such mismatch is reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2007",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2008",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2007",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2008",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2007",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2008",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2007",
+    "before": null,
+    "after": "Table9: pre/post change in log(1+nonself patent citations), three years before versus three years after decimalization. Patent/citation counts corrected for truncation with lag-distribution weights (p.846). Composite change-of-log1p scale, not simply log1p levels. Zero mass of the reported change is not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2008",
+    "before": null,
+    "after": "Table9: pre/post change in log(1+eventually granted patent applications), three years before versus three years after decimalization. Patent/citation counts corrected for truncation with lag-distribution weights (p.846). Composite change-of-log1p scale, not simply log1p levels. Zero mass of the reported change is not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I826",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J826",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K826",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L826",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M826",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O826",
+    "before": null,
+    "after": "Tables9-10 pp.847-848; largest versus smallest realized liquidity-improvement terciles, matched one-to-five using pre-event propensity scores. Conventional difference of pre/post outcome changes; DiD precedes Matching. Probit estimates treatment assignment for preprocessing, not the outcome effect, so not Other. No implemented modern estimator or instrumented receipt. Endogenous realized-liquidity exposure is an identification caveat, not grounds to erase the authors causal replication question. Central negative/null comparison across liquidity definitions. Default-risk spread uses equal-weighted trades, unlike innovation baseline volume weighting (p.848). Matching inputs include pre-event patent/citation growth (t-3 to t-1); these are baseline covariates, not selection by the realized post/pre effect or by its significance. Do not misclassify all baseline-outcome adjustment as outcome-adaptive."
+  }
+]
+```
