@@ -38688,7 +38688,16 @@
     "L3830": "0",
     "M3830": "n/a",
     "N3830": "AppendixTableE7/Eq13: strong versus weak state × post × below-median1966 unemployment, employment probability all/Black/White.",
-    "O3830": "Distinct moderator-specific DDD estimand. Lower-order treatment effect applies moderator0, total at1 requires adding triple term. E7 prose mistakenly calls negative Black effect tight market, table row says above-median unemployment. Keep coefficient-conditional meanings; no generic independent causal effect assigned to geography control."
+    "O3830": "Distinct moderator-specific DDD estimand. Lower-order treatment effect applies moderator0, total at1 requires adding triple term. E7 prose mistakenly calls negative Black effect tight market, table row says above-median unemployment. Keep coefficient-conditional meanings; no generic independent causal effect assigned to geography control.",
+    "A3831": "4X3H7PWW",
+    "B3831": "h15",
+    "I3831": "1",
+    "J3831": "DiD_conventional",
+    "K3831": "0",
+    "L3831": "0",
+    "M3831": "n/a",
+    "N3831": "AppendixTableE7/Eq13: 1966 Kaitz index × post × below-median1966 unemployment, employment probability all/Black/White.",
+    "O3831": "Distinct moderator-specific DDD estimand. Lower-order treatment effect applies moderator0, total at1 requires adding triple term. E7 prose mistakenly calls negative Black effect tight market, table row says above-median unemployment. Keep coefficient-conditional meanings; no generic independent causal effect assigned to geography control."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97243,7 +97252,11 @@
     "H8593": "1",
     "I8593": "1",
     "J8593": "none",
-    "K8593": "Employment versus unemployment indicator, TableE7."
+    "K8593": "Employment versus unemployment indicator, TableE7.",
+    "A8594": "4X3H7PWW",
+    "B8594": "h15",
+    "C8594": "hy1",
+    "K8594": "Employment versus unemployment indicator, TableE7."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
