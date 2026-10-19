@@ -609138,3 +609138,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T00:21:45.186378+00:00 — Review XTWW4AUI s2: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H1999",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1999",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1999",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1999",
+    "before": null,
+    "after": "Reported simple return (12-month cumulative for s1-s4; one-month for s5-s7), not an estimated coefficient as a separate dependent variable. Percentage-point contrasts; factor alpha where applicable. No log/log1p outcome. Exact zero mass is not established by main article."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J818",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M818",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N818",
+    "before": null,
+    "after": "Table 2 p.131: factor-adjusted 12-month matched-pair late-minus-early return alpha (6.42,6.54,7.71pp). Exposure is late versus early, not the strategy return as a regressor."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O818",
+    "before": null,
+    "after": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Conditional time-series factor fitting is OLS, not FE. The main article does not establish whether Table2 uses the outcome-selected median permutation from Table1 or a fixed/nonadaptive portfolio construction; full-procedure Other versus Matching/OLS domain unresolved without final appendix. Unknown is preferred to silently assuming the unseen selection implementation."
+  }
+]
+```
