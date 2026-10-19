@@ -37710,7 +37710,16 @@
     "L3749": "0",
     "M3749": "n/a",
     "N3749": "FigureA1 p40: Callaway–Sant’Anna dynamic effect of reform on log delivery errors.",
-    "O3749": "Final official supplement FigA1 explicitly names Callaway–Sant’Anna and Stata csdid. Linear heterogeneity-robust implementation established, distinct from baseline stacked regression. No numerical point estimates transcribed from graph, no SD/mean pairing."
+    "O3749": "Final official supplement FigA1 explicitly names Callaway–Sant’Anna and Stata csdid. Linear heterogeneity-robust implementation established, distinct from baseline stacked regression. No numerical point estimates transcribed from graph, no SD/mean pairing.",
+    "A3750": "3ZIDN6KF",
+    "B3750": "h12",
+    "I3750": "1",
+    "J3750": "DiD_modern",
+    "K3750": "1",
+    "L3750": "0",
+    "M3750": "n/a",
+    "N3750": "FigureA1 p40: de Chaisemartin–D’Haultfoeuille dynamic effect of reform on log delivery errors.",
+    "O3750": "Final official supplement FigA1 explicitly names de Chaisemartin–D’Haultfoeuille and Stata did_multiplegt. Linear heterogeneity-robust implementation established, distinct from baseline stacked regression. No numerical point estimates transcribed from graph, no SD/mean pairing."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -95061,7 +95070,14 @@
     "H8423": "0",
     "I8423": "unknown",
     "J8423": "log",
-    "K8423": "Log delivery errors, FigureA1."
+    "K8423": "Log delivery errors, FigureA1.",
+    "A8424": "3ZIDN6KF",
+    "B8424": "h12",
+    "C8424": "hy1",
+    "H8424": "0",
+    "I8424": "unknown",
+    "J8424": "log",
+    "K8424": "Log delivery errors, FigureA1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
