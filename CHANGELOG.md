@@ -625539,3 +625539,210 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:54:04.394499+00:00 — Review 2UP7GN8M s7: source-audited coding and linked comparisons
+
+33 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5550",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5551",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5550",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5551",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5550",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5551",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5550",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5551",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5550",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5551",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5550",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5551",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5550",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5551",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5550",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5551",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5550",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5551",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5550",
+    "before": null,
+    "after": "Table7 col2 p3327: focal estimate .221 pre-policy sponsorship premium; benchmark .33."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5551",
+    "before": null,
+    "after": "Table7 col2 p3327: focal estimate -.155 sponsor x post interaction; benchmark .33."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5550",
+    "before": null,
+    "after": "Same-column mean across full sample, not subgroup or policy untreated counterfactual. Unknown alignment. Printed .33 differs from Table1 .35; no silent replacement. Lower-order premium and differential effect are distinct estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5551",
+    "before": null,
+    "after": "Same-column mean across full sample, not subgroup or policy untreated counterfactual. Unknown alignment. Printed .33 differs from Table1 .35; no silent replacement. Lower-order premium and differential effect are distinct estimates."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2023",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2023",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2023",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2023",
+    "before": null,
+    "after": "Relative efficacy: standardized absolute efficacy minus placebo in pair if available, otherwise least-effective arm. Reported differences inherit component units, not demonstrated unit SD of relative outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I836",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J836",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K836",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L836",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M836",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N836",
+    "before": null,
+    "after": "Table7 col2: post-2005 change in sponsorship effect; binary sponsored exposure interacted with policy period. Figure5B dynamics split h6; preregistered interaction col3 split h7; col1 repeated baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O836",
+    "before": null,
+    "after": "Actual sponsor-by-post interaction receives DiD precedence over FE; no named modern estimator. Conditional parallel-change interpretation subject to concurrent transparency/norm changes, pp3325-3326. Main policy conclusion. Focal -.155 is change in sponsorship premium; .221 is pre-policy sponsorship premium, not average policy effect. Printed mean .33 conflicts with repeated baseline .35 in Table1. Independent audit: DiD is supported by substantive pre/post-policy differential sponsorship interpretation (pp3325-3326), not by an interaction symbol alone. No modern estimator is implemented. Repeated cross sections need not observe the identical trials before and after. Concurrent reporting/norm reforms undermine attribution, not the implemented conventional differential-change category."
+  }
+]
+```
