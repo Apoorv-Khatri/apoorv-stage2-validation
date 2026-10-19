@@ -36762,7 +36762,16 @@
     "L3669": "0",
     "M3669": "unknown",
     "N3669": "Matched-pair late/early return contrasts by IV term-structure combination, p.131.",
-    "O3669": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Printed late-downward/early-upward prose conflicts with low-IV30 late coding; preserve conflict. Exact group grid unavailable."
+    "O3669": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Printed late-downward/early-upward prose conflicts with low-IV30 late coding; preserve conflict. Exact group grid unavailable.",
+    "A3670": "XTWW4AUI",
+    "B3670": "h6",
+    "I3670": "1",
+    "J3670": "unknown",
+    "K3670": "1",
+    "L3670": "0",
+    "M3670": "unknown",
+    "N3670": "Alternative pair-weighting schemes, footnote7 p.130 (table number only candidate, not verified by final main text).",
+    "O3670": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Final main establishes implemented weighting robustness but not appendix table number, weights or outcome-selection aggregation; No table number is source-established. Independent audit: minimum implemented scope at footnote7; merge with s1 if later final evidence proves only same-location routine weighting rather than separate result scope."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93005,7 +93014,14 @@
     "H8293": "0",
     "I8293": "unknown",
     "J8293": "none",
-    "K8293": "Matched-pair subsequent return difference. Printed late-downward/early-upward prose conflicts with low-IV30 late coding; preserve conflict. Exact group grid unavailable."
+    "K8293": "Matched-pair subsequent return difference. Printed late-downward/early-upward prose conflicts with low-IV30 late coding; preserve conflict. Exact group grid unavailable.",
+    "A8294": "XTWW4AUI",
+    "B8294": "h6",
+    "C8294": "hy1",
+    "H8294": "0",
+    "I8294": "unknown",
+    "J8294": "none",
+    "K8294": "Matched-pair subsequent return difference. Final main establishes implemented weighting robustness but not appendix table number, weights or outcome-selection aggregation; No table number is source-established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

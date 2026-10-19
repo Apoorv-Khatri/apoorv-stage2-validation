@@ -614061,3 +614061,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T00:25:16.094404+00:00 — Review XTWW4AUI h6: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8294",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8294",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8294",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8294",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8294",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8294",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8294",
+    "before": null,
+    "after": "Matched-pair subsequent return difference. Final main establishes implemented weighting robustness but not appendix table number, weights or outcome-selection aggregation; No table number is source-established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3670",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3670",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3670",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3670",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3670",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3670",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3670",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3670",
+    "before": null,
+    "after": "Alternative pair-weighting schemes, footnote7 p.130 (table number only candidate, not verified by final main text)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3670",
+    "before": null,
+    "after": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Final main establishes implemented weighting robustness but not appendix table number, weights or outcome-selection aggregation; No table number is source-established. Independent audit: minimum implemented scope at footnote7; merge with s1 if later final evidence proves only same-location routine weighting rather than separate result scope."
+  }
+]
+```
