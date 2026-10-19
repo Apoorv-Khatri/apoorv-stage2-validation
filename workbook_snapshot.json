@@ -39532,7 +39532,16 @@
     "L3911": "1",
     "M3911": "n/a",
     "N3911": "Efficiency video assignment versus no-video control: Figure V A Treatments p2356 income policy index. Other randomized arms are separate settings; all respondent-control variants at this location grouped.",
-    "O3911": "Direct randomized video assignment versus no video; linear controlled regressions. Demographic/question-form dummies are controls, not identifying FE. Mechanism beliefs are substantive outcomes, not diagnostic-only first stages; no IV receipt estimator. Abstract and VI.D establish central experimental role, including null Efficiency policy effects."
+    "O3911": "Direct randomized video assignment versus no video; linear controlled regressions. Demographic/question-form dummies are controls, not identifying FE. Mechanism beliefs are substantive outcomes, not diagnostic-only first stages; no IV receipt estimator. Abstract and VI.D establish central experimental role, including null Efficiency policy effects.",
+    "A3912": "5VHQLIKT",
+    "B3912": "h14",
+    "I3912": "1",
+    "J3912": "RCT",
+    "K3912": "1",
+    "L3912": "1",
+    "M3912": "n/a",
+    "N3912": "Economist video assignment versus no-video control: Figure V A Treatments p2356 income policy index. Other randomized arms are separate settings; all respondent-control variants at this location grouped.",
+    "O3912": "Direct randomized video assignment versus no video; linear controlled regressions. Demographic/question-form dummies are controls, not identifying FE. Mechanism beliefs are substantive outcomes, not diagnostic-only first stages; no IV receipt estimator. Abstract and VI.D establish central experimental role, including null Efficiency policy effects. Correction: the reported 23%/18% income and roughly 30% estate magnitudes are shares of the same-index partisan gap, NOT numerical outcome-SD coefficients; Figure V prints no exact treatment-point labels."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -99466,7 +99475,14 @@
     "H8779": "0",
     "I8779": "unknown",
     "J8779": "sd_units",
-    "K8779": "Income tax policy index: standardized composite increasing in support for more progressive income taxes and government intervention to reduce inequality. Components are indicator variables for believing progressive taxation is a good tool to reduce income inequality, supporting increasing taxes on high-income households to expand programs targeted to low-income families or to increase U.S. investments, and believing government should be responsible for reducing income differences between rich and poor. Control-group z-scored components averaged and restandardized (p2352). No evidence establishes an atom exactly at zero in the standardized composite."
+    "K8779": "Income tax policy index: standardized composite increasing in support for more progressive income taxes and government intervention to reduce inequality. Components are indicator variables for believing progressive taxation is a good tool to reduce income inequality, supporting increasing taxes on high-income households to expand programs targeted to low-income families or to increase U.S. investments, and believing government should be responsible for reducing income differences between rich and poor. Control-group z-scored components averaged and restandardized (p2352). No evidence establishes an atom exactly at zero in the standardized composite.",
+    "A8780": "5VHQLIKT",
+    "B8780": "h14",
+    "C8780": "hy1",
+    "H8780": "0",
+    "I8780": "unknown",
+    "J8780": "sd_units",
+    "K8780": "Income tax policy index: standardized composite increasing in support for more progressive income taxes and government intervention to reduce inequality. Components are indicator variables for believing progressive taxation is a good tool to reduce income inequality, supporting increasing taxes on high-income households to expand programs targeted to low-income families or to increase U.S. investments, and believing government should be responsible for reducing income differences between rich and poor. Control-group z-scored components averaged and restandardized (p2352). No evidence establishes an atom exactly at zero in the standardized composite."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -173998,7 +174014,28 @@
     "O6617": "1",
     "P6617": "unknown",
     "Q6617": "Figure V A Treatments p2356 income policy index: Efficiency assignment coefficient is plotted in standardized policy-index units; exact numeric estimate not printed in main text. p2352 construction: average control-mean/control-SD-standardized components, standardized again. Includes null Efficiency effect.",
-    "R6617": "Control group is normalization reference for components; final index restandardization reference/weights not explicit enough in available text to establish final composite SD alignment. Do not equate partisan-gap percentages with SD coefficients."
+    "R6617": "Control group is normalization reference for components; final index restandardization reference/weights not explicit enough in available text to establish final composite SD alignment. Do not equate partisan-gap percentages with SD coefficients.",
+    "A6618": "5VHQLIKT",
+    "B6618": "h14",
+    "C6618": "hc1",
+    "K6618": "1",
+    "L6618": "hy1",
+    "M6618": "outcome_sd",
+    "N6618": "0",
+    "O6618": "1",
+    "P6618": "unknown",
+    "Q6618": "Figure V A Treatments p2356 income policy index: Economist assignment coefficient is plotted in standardized policy-index units; exact numeric estimate not printed in main text. p2352 construction: average control-mean/control-SD-standardized components, standardized again. Includes null Efficiency effect.",
+    "R6618": "Control group is normalization reference for components; final index restandardization reference/weights not explicit enough in available text to establish final composite SD alignment. Do not equate partisan-gap percentages with SD coefficients.",
+    "A6619": "5VHQLIKT",
+    "B6619": "h14",
+    "C6619": "hc2",
+    "K6619": "1",
+    "L6619": "hy1",
+    "M6619": "other_level",
+    "N6619": "1",
+    "O6619": "1",
+    "P6619": "n/a",
+    "Q6619": "p2363: Economist effect is around18% of same-policy-index Democrat-Republican gap. Effect plotted Figure V, not inferred as equal to that number of SDs."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
