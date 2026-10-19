@@ -36771,7 +36771,16 @@
     "L3670": "0",
     "M3670": "unknown",
     "N3670": "Alternative pair-weighting schemes, footnote7 p.130 (table number only candidate, not verified by final main text).",
-    "O3670": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Final main establishes implemented weighting robustness but not appendix table number, weights or outcome-selection aggregation; No table number is source-established. Independent audit: minimum implemented scope at footnote7; merge with s1 if later final evidence proves only same-location routine weighting rather than separate result scope."
+    "O3670": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Final main establishes implemented weighting robustness but not appendix table number, weights or outcome-selection aggregation; No table number is source-established. Independent audit: minimum implemented scope at footnote7; merge with s1 if later final evidence proves only same-location routine weighting rather than separate result scope.",
+    "A3671": "XTWW4AUI",
+    "B3671": "h7",
+    "I3671": "1",
+    "J3671": "OLS",
+    "K3671": "0",
+    "L3671": "0",
+    "M3671": "n/a",
+    "N3671": "Fama-MacBeth IVD × IV365 squared slopes controlling variance-risk premiums of different maturities, p.139.",
+    "O3671": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Coefficient remains practically same magnitude/significance; no exact estimates inferred."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93021,7 +93030,11 @@
     "H8294": "0",
     "I8294": "unknown",
     "J8294": "none",
-    "K8294": "Matched-pair subsequent return difference. Final main establishes implemented weighting robustness but not appendix table number, weights or outcome-selection aggregation; No table number is source-established."
+    "K8294": "Matched-pair subsequent return difference. Final main establishes implemented weighting robustness but not appendix table number, weights or outcome-selection aggregation; No table number is source-established.",
+    "A8295": "XTWW4AUI",
+    "B8295": "h7",
+    "C8295": "hy1",
+    "K8295": "Monthly individual stock excess return. Coefficient remains practically same magnitude/significance; no exact estimates inferred."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
