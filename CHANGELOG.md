@@ -782532,3 +782532,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T12:23:18.293151+00:00 — Review 8A6ENF64 h45: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9032",
+    "before": null,
+    "after": "8A6ENF64"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9032",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9032",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9032",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9032",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9032",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9032",
+    "before": null,
+    "after": "Punishment points/Birr on player1 within indicated leader types; counts not logarithmically transformed outcomes despite semi-elasticity coefficient display."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4068",
+    "before": null,
+    "after": "8A6ENF64"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4068",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4068",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4068",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4068",
+    "before": null,
+    "after": "CI versus CIV profile category, Table5 panelA within LAS leader subsamples. Separate prescribed-category responses, Poisson; central nulls for LAS retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4068",
+    "before": null,
+    "after": "Section IV Result1 explicitly says deviations evoke punishment; repeated strategy-method choices under prescribed contribution profiles. Poisson is nonlinear in reported punishment outcome => Other, not RCT. Profiles not randomly assigned leaders. Main motive evidence is central to typology. No own-outcome mean/SD benchmark printed; intercept is log expected punishment, not raw baseline pairing."
+  }
+]
+```
