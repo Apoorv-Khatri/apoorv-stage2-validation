@@ -41106,7 +41106,16 @@
     "L4066": "1",
     "M4066": "n/a",
     "N4066": "CIII versus CII (additional equality violation),0.24 Birr P1; A.I pp1-2, contrasts of A2 predicted Poisson means. Nonlinear count-response estimator.",
-    "O4066": "Section IV Result1 explicitly says deviations evoke punishment; repeated strategy-method choices under prescribed contribution profiles. Poisson is nonlinear in reported punishment outcome => Other, not RCT. Profiles not randomly assigned leaders. Main motive evidence is central to typology. No own-outcome mean/SD benchmark printed; intercept is log expected punishment, not raw baseline pairing."
+    "O4066": "Section IV Result1 explicitly says deviations evoke punishment; repeated strategy-method choices under prescribed contribution profiles. Poisson is nonlinear in reported punishment outcome => Other, not RCT. Profiles not randomly assigned leaders. Main motive evidence is central to typology. No own-outcome mean/SD benchmark printed; intercept is log expected punishment, not raw baseline pairing.",
+    "A4067": "8A6ENF64",
+    "B4067": "h44",
+    "I4067": "1",
+    "J4067": "Other",
+    "K4067": "1",
+    "L4067": "1",
+    "M4067": "n/a",
+    "N4067": "CIV versus CIII (player2 full contribution),0.072 Birr P1; A.I pp1-2, contrasts of A2 predicted Poisson means. Nonlinear count-response estimator.",
+    "O4067": "Section IV Result1 explicitly says deviations evoke punishment; repeated strategy-method choices under prescribed contribution profiles. Poisson is nonlinear in reported punishment outcome => Other, not RCT. Profiles not randomly assigned leaders. Main motive evidence is central to typology. No own-outcome mean/SD benchmark printed; intercept is log expected punishment, not raw baseline pairing."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -102791,7 +102800,14 @@
     "H9030": "0",
     "I9030": "1",
     "J9030": "none",
-    "K9030": "Punishment points/Birr on player1."
+    "K9030": "Punishment points/Birr on player1.",
+    "A9031": "8A6ENF64",
+    "B9031": "h44",
+    "C9031": "hy1",
+    "H9031": "0",
+    "I9031": "1",
+    "J9031": "none",
+    "K9031": "Punishment points/Birr on player1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
