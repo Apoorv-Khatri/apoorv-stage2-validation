@@ -724731,3 +724731,306 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:42:31.592651+00:00 — Review 5VHQLIKT s2: source-audited coding and linked comparisons
+
+49 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6498",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6499",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6500",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6498",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6499",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6500",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6498",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6499",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6500",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6498",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6499",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6498",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6499",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6500",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6498",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6499",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6500",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6498",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6499",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6500",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6498",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6499",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6500",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6498",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6499",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6500",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6498",
+    "before": null,
+    "after": "Table IV B/C p2339 cols1-3 income macro-efficiency beliefs, column1: Redistribution coefficient -0.01 probability units; same-column Control mean 0.31. No-video respondents with generic question formulation (Table III note, inherited by other tables). Values are not percentages of baseline; binary outcome has observed zeros because 0<control mean<1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6499",
+    "before": null,
+    "after": "Table IV B/C p2339 cols1-3 income macro-efficiency beliefs, column2: Redistribution coefficient 0.00 probability units; same-column Control mean 0.48. No-video respondents with generic question formulation (Table III note, inherited by other tables). Values are not percentages of baseline; binary outcome has observed zeros because 0<control mean<1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6500",
+    "before": null,
+    "after": "Table IV B/C p2339 cols1-3 income macro-efficiency beliefs, column3: Redistribution coefficient -0.05 probability units; same-column Control mean 0.65. No-video respondents with generic question formulation (Table III note, inherited by other tables). Values are not percentages of baseline; binary outcome has observed zeros because 0<control mean<1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6498",
+    "before": null,
+    "after": "Benchmark restricted to generic wording; full regression controls all question formulations (p2326 fn12, p2334 fn17, Table III note). Without final appendix, equality with full assignment target across formulations is not established. Random assignment would align an unrestricted no-video mean; retain unknown for this specific restricted benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6499",
+    "before": null,
+    "after": "Benchmark restricted to generic wording; full regression controls all question formulations (p2326 fn12, p2334 fn17, Table III note). Without final appendix, equality with full assignment target across formulations is not established. Random assignment would align an unrestricted no-video mean; retain unknown for this specific restricted benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6500",
+    "before": null,
+    "after": "Benchmark restricted to generic wording; full regression controls all question formulations (p2326 fn12, p2334 fn17, Table III note). Without final appendix, equality with full assignment target across formulations is not established. Random assignment would align an unrestricted no-video mean; retain unknown for this specific restricted benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2229",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2231",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2229",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2231",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2229",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2230",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2231",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I909",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J909",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K909",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L909",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M909",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N909",
+    "before": null,
+    "after": "Redistribution video assignment versus no-video control: Table IV B/C p2339 cols1-3 income macro-efficiency beliefs. Other randomized arms are separate settings; all respondent-control variants at this location grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O909",
+    "before": null,
+    "after": "Direct randomized video assignment versus no video; linear controlled regressions. Demographic/question-form dummies are controls, not identifying FE. Mechanism beliefs are substantive outcomes, not diagnostic-only first stages; no IV receipt estimator. Abstract and VI.D establish central experimental role, including null Efficiency policy effects."
+  }
+]
+```
