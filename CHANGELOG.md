@@ -671598,3 +671598,720 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:22:23.212100+00:00 — Review 4HCEQK9M h4: source-audited coding and linked comparisons
+
+118 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5944",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5945",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5946",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5947",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5948",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5949",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5950",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5951",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5944",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5945",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5946",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5947",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5948",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5949",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5950",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5951",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5944",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5945",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5946",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5947",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5948",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5949",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5950",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5951",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5944",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5945",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5946",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5947",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5948",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5949",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5950",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5951",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5944",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5945",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5946",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5947",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5948",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5949",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5950",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5951",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5944",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5945",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5946",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5947",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5948",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5949",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5950",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5951",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5944",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5945",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5946",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5947",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5948",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5949",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5950",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5951",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5944",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5945",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5946",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5947",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5948",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5949",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5950",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5951",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5944",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5945",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5946",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5947",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5948",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5949",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5950",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5951",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5944",
+    "before": null,
+    "after": "B5col1 p10 lean: focal -0.0202 (lean beta); paired control mean 5.458, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5945",
+    "before": null,
+    "after": "B5col1 p10 semi-peak: focal -0.0202 + 0.0740 (semi-peak beta+gamma); paired control mean 5.428, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5946",
+    "before": null,
+    "after": "B5col2 p10 lean: focal -0.0113 (lean beta); paired control mean 5.500, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5947",
+    "before": null,
+    "after": "B5col2 p10 semi-peak: focal -0.0113 + 0.0676 (semi-peak beta+gamma); paired control mean 5.504, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5948",
+    "before": null,
+    "after": "B5col3 p10 lean: focal -0.0183 (lean beta); paired control mean 5.500, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5949",
+    "before": null,
+    "after": "B5col3 p10 semi-peak: focal -0.0183 + 0.0684 (semi-peak beta+gamma); paired control mean 5.504, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5950",
+    "before": null,
+    "after": "B5col4 p10 lean: focal -5.632 (lean beta); paired control mean 253.8, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5951",
+    "before": null,
+    "after": "B5col4 p10 semi-peak: focal -5.632 + 18.57 (semi-peak beta+gamma); paired control mean 251.6, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5944",
+    "before": null,
+    "after": "Final appendix labels non-winsorized, many cells identical mainTable3; preserve distinct declared robustness not assume typo/duplicate. Wage selection alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5945",
+    "before": null,
+    "after": "Final appendix labels non-winsorized, many cells identical mainTable3; preserve distinct declared robustness not assume typo/duplicate. Wage selection alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5946",
+    "before": null,
+    "after": "Final appendix labels non-winsorized, many cells identical mainTable3; preserve distinct declared robustness not assume typo/duplicate. Wage selection alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5947",
+    "before": null,
+    "after": "Final appendix labels non-winsorized, many cells identical mainTable3; preserve distinct declared robustness not assume typo/duplicate. Wage selection alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5948",
+    "before": null,
+    "after": "Final appendix labels non-winsorized, many cells identical mainTable3; preserve distinct declared robustness not assume typo/duplicate. Wage selection alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5949",
+    "before": null,
+    "after": "Final appendix labels non-winsorized, many cells identical mainTable3; preserve distinct declared robustness not assume typo/duplicate. Wage selection alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5950",
+    "before": null,
+    "after": "Final appendix labels non-winsorized, many cells identical mainTable3; preserve distinct declared robustness not assume typo/duplicate. Wage selection alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5951",
+    "before": null,
+    "after": "Final appendix labels non-winsorized, many cells identical mainTable3; preserve distinct declared robustness not assume typo/duplicate. Wage selection alignment unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8502",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8503",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8504",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8502",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8503",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8504",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8502",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8503",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8504",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8502",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8503",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8504",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8502",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8503",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8504",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8502",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8503",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8504",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8502",
+    "before": null,
+    "after": "Log cash wage"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8503",
+    "before": null,
+    "after": "Log total wage"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8504",
+    "before": null,
+    "after": "Total wage rupees"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3788",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3788",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3788",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3788",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3788",
+    "before": null,
+    "after": "B5cols1-4 p10: non-winsorized wage robustness under binary seasonal moderation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3788",
+    "before": null,
+    "after": "Eq(1), pp3196-3199; Appendix C pp19-21. Village matched-pair randomized high versus low external hiring intensity; workers randomly assigned offers/waitlist/never offered, with never-offered spillover sample. Linear ITT; RCT precedes round-strata FE and sampling weights. Seasonal moderator uses control-village month employment, not randomized season; treatment remains binary. Not IV receipt except s5. Control condition has small hiring shock, not literally no jobs. Randomization supports control counterfactual for matched season/population under maintained sampling assumptions; wage selection, subgroup means and continuous-moderator targets need separate scrutiny."
+  }
+]
+```
