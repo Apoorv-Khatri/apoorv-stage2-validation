@@ -680613,3 +680613,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:56:56.640395+00:00 — Review 4LB5EN3L h11: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6018",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6019",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6018",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6019",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6018",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6019",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6018",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6019",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6018",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6019",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6019",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6019",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6018",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6019",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6018",
+    "before": null,
+    "after": "Table6col2 p534 and p532: initial referral turnover effect -1.9 percentage points, explicitly6.7% of annual baseline28.2%; model-based conversion0.37."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6019",
+    "before": null,
+    "after": "Table6col2 p534: turnover speed of convergence 1.0pp/year, deliberately paired baseline turnover 28.2%. Table reports normalization only for INITIAL effect, not this gradient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6018",
+    "before": null,
+    "after": "Benchmark is reported annual baseline turnover (population/conditioning not specified), not established untreated-referral counterfactual for initial-hire effect; target and weights unresolved, alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6019",
+    "before": null,
+    "after": "Same outcome baseline pairing eligible; marginal tenure gradient is not average referral effect and untreated-target benchmark weights not given. Annual versus monthly turnover outcome retained by column; per-year moderator unit not a different outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8556",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8557",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8556",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8557",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8556",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8557",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8557",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8556",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8557",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8556",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8557",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8556",
+    "before": null,
+    "after": "Log wage referral contrast and annual tenure gradient, Table6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8557",
+    "before": null,
+    "after": "Annual binary leaving-firm outcome underlying transformed referral contrast and annual tenure gradient, Table6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3813",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3813",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3813",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3813",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3813",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3813",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3813",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3813",
+    "before": null,
+    "after": "Section5.1.3 p532/Table6 col2: model-based conversion of Table4 PanelB col5 proxy slopes into binary referral effects using0.10/0.269=0.37 from Eq(3) evaluated at median shares and hiring coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3813",
+    "before": null,
+    "after": "Independent adjudication: p532 footnote33 constructs the conversion factor from Table2 hiring-share coefficient and median workforce/population shares, not from the focal log-wage or turnover outcomes. Multiplying Table4 joint worker+firm+year linear coefficients by this scalar preserves linearity in those outcomes. Retain HDFE under identifying-method precedence, with a model-based referral-dose interpretation; this is not an implemented referral first stage or the later nonlinear welfare calibration. Distinct referral estimand retained separately from raw share effects. Parent should adjudicate this conditional-on-design taxonomy explicitly."
+  }
+]
+```
