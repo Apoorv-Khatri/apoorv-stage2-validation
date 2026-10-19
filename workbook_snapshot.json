@@ -37017,7 +37017,16 @@
     "L3687": "1",
     "M3687": "n/a",
     "N3687": "Figure3 A-B, pp3309-3311: drug-set-specific raw cross-sectional double differences of efficacy across sponsored/unsponsored trials and focal/comparator drugs.",
-    "O3687": "Author calls this DiD, but no calendar treatment/post or parallel trends. Linear four-cell contrast; sponsorship observational, not RCT. Distinct unstandardized and trial-weighted drug-set estimand, not duplicate of regression drug-pair weighted/standardized Eq.(1). Parent adjudicate cross-sectional DiD taxonomy. No numerical digitization of unlabeled points."
+    "O3687": "Author calls this DiD, but no calendar treatment/post or parallel trends. Linear four-cell contrast; sponsorship observational, not RCT. Distinct unstandardized and trial-weighted drug-set estimand, not duplicate of regression drug-pair weighted/standardized Eq.(1). Parent adjudicate cross-sectional DiD taxonomy. No numerical digitization of unlabeled points.",
+    "A3688": "2UP7GN8M",
+    "B3688": "h3",
+    "I3688": "1",
+    "J3688": "HDFE",
+    "K3688": "1",
+    "L3688": "0",
+    "M3688": "n/a",
+    "N3688": "Table2 col5: sponsorship excluding conflicts-of-interest-only identification; relative efficacy .147.",
+    "O3688": "Eq.(1), pp3311-3312: sponsorship is NOT randomized with patient drug assignment; no IV/RD. Cross-sectional arm/comparator double difference is called DiD by author but lacks treated/post parallel-trends comparison under project definition. Proposed HDFE: drug-by-pair cells, publication-year bins, scale indicators are three separate sets; joint adjustment addresses molecule/comparator selection, timing and measurement heterogeneity. Contested HDFE versus FE if ancillary sets do not satisfy identification-battery criterion; also contested cross-sectional DiD interpretation. Relative efficacy is the REPORTED outcome; placebo/least-arm subtraction is its construction, not evidence of treatment randomization. Caption says excludes trials while prose says excludes conflicts-of-interest from definition; preserve implementation ambiguity rather than assert exact recoding."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93561,7 +93570,14 @@
     "H8330": "0",
     "I8330": "unknown",
     "J8330": "other",
-    "K8330": "Drug-set relative efficacy for antipsychotics, symptom-score-change units; Figure3B separate scale, no invented estimates."
+    "K8330": "Drug-set relative efficacy for antipsychotics, symptom-score-change units; Figure3B separate scale, no invented estimates.",
+    "A8331": "2UP7GN8M",
+    "B8331": "h3",
+    "C8331": "hy1",
+    "H8331": "0",
+    "I8331": "1",
+    "J8331": "other",
+    "K8331": "Relative efficacy: standardized absolute efficacy minus the placebo arm if available, otherwise the least-effective arm; main-source equation/table establishes construction. Component-SD units do not establish unit SD of this difference."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -155781,7 +155797,18 @@
     "O5554": "0",
     "P5554": "0",
     "Q5554": "Figure3A paroxetine row and pp3309-3311: sponsorship contrast .14 (14 percentage points); explicitly juxtaposed mean relative-efficacy benchmark .16 (16 percentage points) sponsored paroxetine-minus-placebo gap.",
-    "R5554": "Same raw between-arm response-gap outcome, not the individual component levels .47/.31/.25/.23. Endpoint pairing qualifies despite also explaining the contrast. No author division by the endpoint. Sponsored endpoint is the treated mean, not the untreated target mean; alignment 0."
+    "R5554": "Same raw between-arm response-gap outcome, not the individual component levels .47/.31/.25/.23. Endpoint pairing qualifies despite also explaining the contrast. No author division by the endpoint. Sponsored endpoint is the treated mean, not the untreated target mean; alignment 0.",
+    "A5555": "2UP7GN8M",
+    "B5555": "h3",
+    "C5555": "hc1",
+    "K5555": "1",
+    "L5555": "hy1",
+    "M5555": "outcome_mean",
+    "N5555": "0",
+    "O5555": "0",
+    "P5555": "unknown",
+    "Q5555": "Table2 col5 p3315: focal estimate .147; benchmark .35.",
+    "R5555": "Deliberately linked same-column outcome mean; sample includes sponsored and unsponsored arms. Untreated target/weights not established, so alignment unknown, not mechanically aligned from common sample."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
