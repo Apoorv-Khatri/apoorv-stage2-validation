@@ -625746,3 +625746,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:54:27.449962+00:00 — Review 2UP7GN8M s8: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2024",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2024",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2024",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2024",
+    "before": null,
+    "after": "Relative efficacy: standardized absolute efficacy minus placebo in pair if available, otherwise least-effective arm. Reported differences inherit component units, not demonstrated unit SD of relative outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I837",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J837",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K837",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L837",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M837",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N837",
+    "before": null,
+    "after": "Eq.(7), Figures6-7: drug-specific sponsorship effects on relative efficacy; same coefficients reused in novelty and sales plots."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O837",
+    "before": null,
+    "after": "Eq.(1), pp3311-3312: sponsorship is NOT randomized with patient drug assignment; no IV/RD. Cross-sectional arm/comparator double difference is called DiD by author but lacks treated/post parallel-trends comparison under project definition. Proposed HDFE: drug-by-pair cells, publication-year bins, scale indicators are three separate sets; joint adjustment addresses molecule/comparator selection, timing and measurement heterogeneity. Contested HDFE versus FE if ancillary sets do not satisfy identification-battery criterion; also contested cross-sectional DiD interpretation. Relative efficacy is the REPORTED outcome; placebo/least-arm subtraction is its construction, not evidence of treatment randomization. Novelty and market-size best-fit lines are explicitly correlations, not established directional causal slopes; do not promote them automatically. Drug-specific coefficients grouped as heterogeneity at same equation, without invented numerical values. Independent audit: Introduction p3303 expressly presents novelty and market-size heterogeneity as theoretical predictions borne out by the paper. Drug-specific causal sponsorship coefficients materially support that conclusion even though the subsequent fitted cross-drug correlations are not separately directional causal estimates."
+  }
+]
+```
