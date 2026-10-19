@@ -773625,3 +773625,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:41:52.798352+00:00 — Review 89PULMFU h21: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6909",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6909",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6909",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6909",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6909",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6909",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6909",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6909",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6909",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6909",
+    "before": null,
+    "after": "Appendix Figure5 p4, main pp3844-45: NOx intensity response curve normalized by respective1990 intensity=100; doubling foreign competitiveness decreases intensity a few percentage points in most sectors. No exact numerical endpoint printed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8968",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8968",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8968",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8968",
+    "before": null,
+    "after": "NOx emissions per real unit output, indexed to sector1990=100, Appendix Figure5. Sector curves are sample variants; blue line cross-sector mean of indexed intensity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4008",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4008",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4008",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4008",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4008",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4008",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4008",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4008",
+    "before": null,
+    "after": "Appendix Figure5 p4 / main pp3844-45: arbitrary0.50-2.0 foreign-competitiveness shocks, holding domestic competitiveness/regulation fixed; NOx sector pollution-intensity response, sector curves and cross-sector mean."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4008",
+    "before": null,
+    "after": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification. Distinct comparative-static dose response. No seven-dose-by17-sector coefficient grid fabricated; caption calls6 exercises (baseline1 not a changed shock)."
+  }
+]
+```

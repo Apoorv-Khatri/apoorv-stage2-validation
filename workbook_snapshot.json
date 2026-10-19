@@ -40553,7 +40553,16 @@
     "L4007": "0",
     "M4007": "n/a",
     "N4007": "Figure7B pp3848-49: historical US expenditure shares alone; CO2 manufacturing emissions path versus1990 shocks.",
-    "O4007": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification. CO2 decomposition is supporting extension, distinct from descriptive recovered-tax Figure7A."
+    "O4007": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification. CO2 decomposition is supporting extension, distinct from descriptive recovered-tax Figure7A.",
+    "A4008": "89PULMFU",
+    "B4008": "h21",
+    "I4008": "1",
+    "J4008": "Other",
+    "K4008": "0",
+    "L4008": "0",
+    "M4008": "n/a",
+    "N4008": "Appendix Figure5 p4 / main pp3844-45: arbitrary0.50-2.0 foreign-competitiveness shocks, holding domestic competitiveness/regulation fixed; NOx sector pollution-intensity response, sector curves and cross-sector mean.",
+    "O4008": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification. Distinct comparative-static dose response. No seven-dose-by17-sector coefficient grid fabricated; caption calls6 exercises (baseline1 not a changed shock)."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101833,7 +101842,11 @@
     "A8967": "89PULMFU",
     "B8967": "h20",
     "C8967": "hy1",
-    "K8967": "Total US manufacturing CO2 emissions index,1990=100. MECS fuel-based construction; Figure7B. No invented numerical endpoints."
+    "K8967": "Total US manufacturing CO2 emissions index,1990=100. MECS fuel-based construction; Figure7B. No invented numerical endpoints.",
+    "A8968": "89PULMFU",
+    "B8968": "h21",
+    "C8968": "hy1",
+    "K8968": "NOx emissions per real unit output, indexed to sector1990=100, Appendix Figure5. Sector curves are sample variants; blue line cross-sector mean of indexed intensity."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -179707,7 +179720,17 @@
     "N6908": "1",
     "O6908": "0",
     "P6908": "n/a",
-    "Q6908": "Figure7B: US expenditure shares-only CO2 path compared with actual all-shocks CO2 path; p3849 discusses observed modest change and no shock fully explaining it. Same-outcome contemporaneous level benchmark; no ratio to actual emissions."
+    "Q6908": "Figure7B: US expenditure shares-only CO2 path compared with actual all-shocks CO2 path; p3849 discusses observed modest change and no shock fully explaining it. Same-outcome contemporaneous level benchmark; no ratio to actual emissions.",
+    "A6909": "89PULMFU",
+    "B6909": "h21",
+    "C6909": "hc1",
+    "K6909": "1",
+    "L6909": "hy1",
+    "M6909": "other_level",
+    "N6909": "1",
+    "O6909": "1",
+    "P6909": "n/a",
+    "Q6909": "Appendix Figure5 p4, main pp3844-45: NOx intensity response curve normalized by respective1990 intensity=100; doubling foreign competitiveness decreases intensity a few percentage points in most sectors. No exact numerical endpoint printed."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
