@@ -40463,7 +40463,16 @@
     "L3997": "0",
     "M3997": "n/a",
     "N3997": "Table1B col5: newly nonattainment regulatory exposure interacted with polluter status/share; effect on VOCs pollution intensity, reduced-form coefficient-7.812.",
-    "O3997": "Table1 note p3835 specifies binary polluter x pollutant-specific newly nonattainment indicator; p3834 fn21 instead specifies continuous1990 sector emission share x any-pollutant newly nonattainment1990-93. Multiplicity is one scalar excluded interaction in each equation, but support/definition conflicts: IV type unknown, not confidently single binary or single continuous. Lower-order terms are included controls. No code obtained to resolve. Equation17 uses first differences; table reports county-NAICS FE and log-level dependent labels. Do not invent a separate levels estimator. p3835 says regulated sectors decrease pollution per unit output after regulation; retain imprecise/null results too. First-difference interaction with lower-order terms is conventional DiD; no IV receipt in this reduced form. Binary unknown because binary-polluter versus continuous-share conflict."
+    "O3997": "Table1 note p3835 specifies binary polluter x pollutant-specific newly nonattainment indicator; p3834 fn21 instead specifies continuous1990 sector emission share x any-pollutant newly nonattainment1990-93. Multiplicity is one scalar excluded interaction in each equation, but support/definition conflicts: IV type unknown, not confidently single binary or single continuous. Lower-order terms are included controls. No code obtained to resolve. Equation17 uses first differences; table reports county-NAICS FE and log-level dependent labels. Do not invent a separate levels estimator. p3835 says regulated sectors decrease pollution per unit output after regulation; retain imprecise/null results too. First-difference interaction with lower-order terms is conventional DiD; no IV receipt in this reduced form. Binary unknown because binary-polluter versus continuous-share conflict.",
+    "A3998": "89PULMFU",
+    "B3998": "h11",
+    "I3998": "1",
+    "J3998": "DiD_conventional",
+    "K3998": "unknown",
+    "L3998": "0",
+    "M3998": "n/a",
+    "N3998": "Table1B col6: newly nonattainment regulatory exposure interacted with polluter status/share; effect on total emissions across pollutants pollution intensity, reduced-form coefficient-5.346.",
+    "O3998": "Table1 note p3835 specifies binary polluter x pollutant-specific newly nonattainment indicator; p3834 fn21 instead specifies continuous1990 sector emission share x any-pollutant newly nonattainment1990-93. Multiplicity is one scalar excluded interaction in each equation, but support/definition conflicts: IV type unknown, not confidently single binary or single continuous. Lower-order terms are included controls. No code obtained to resolve. Equation17 uses first differences; table reports county-NAICS FE and log-level dependent labels. Do not invent a separate levels estimator. p3835 says regulated sectors decrease pollution per unit output after regulation; retain imprecise/null results too. First-difference interaction with lower-order terms is conventional DiD; no IV receipt in this reduced form. Binary unknown because binary-polluter versus continuous-share conflict."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101617,7 +101626,14 @@
     "H8937": "0",
     "I8937": "unknown",
     "J8937": "other",
-    "K8937": "Change in log((VOCs emissions+1)/real output), Table1B, eq17/fn22. Table log-level label and first-difference description unresolved."
+    "K8937": "Change in log((VOCs emissions+1)/real output), Table1B, eq17/fn22. Table log-level label and first-difference description unresolved.",
+    "A8938": "89PULMFU",
+    "B8938": "h11",
+    "C8938": "hy1",
+    "H8938": "0",
+    "I8938": "unknown",
+    "J8938": "other",
+    "K8938": "Change in log((total emissions across pollutants emissions+1)/real output), Table1B, eq17/fn22. Table log-level label and first-difference description unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
