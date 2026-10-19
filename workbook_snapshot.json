@@ -517,6 +517,7 @@
     "B108": "Machine Learning as a Tool for Hypothesis Generation",
     "C108": "econ",
     "D108": 4,
+    "E108": "DONE — Available-source review only:77-page final article and79-page mirrored appendix reviewed and independently audited; final publisher supplement identity unverified. Retain two randomized synthetic-face morph experiments, well-groomedness and heavy-facedness, on study participants hypothetical detention choices, not actual judicial detention. Observational actual-decision and prediction regressions excluded on explicit correlation/hypothesis-generation framing (pp758,808,816–819), not because weak identification alone disqualifies causal intention. Zero qualifying benchmark comparisons under this gate; treatment SDs, risk-percentile equivalents and effect/effect comparisons are not outcome benchmarks. Main versus mirror direction, N, clustering and treatment-SD-reference conflicts preserved. AppendixC fn86 establishes a separate structured-risk analysis with -1/0/+1 regressor and doubled slope31percentagepoints; held outside application because pooled/separate experimental allocation and conditioning unresolved, not rejected as diagnostic-only. Public replication archive is available; streamed README identifies survey11/lab_experiment.feather but network failure occurred before experiment scripts, so implementation and full archive remain uninspected. No empirical replication. Source-scoped completion excludes unresolved structured-risk implementation and final-supplement identity; not omission-free certification. Original/model fields IDs and hyperlinks preserved.",
     "A109": "9XMIBBJM",
     "B109": "Political Turnover, Bureaucratic Turnover, and the Quality of Public Services",
     "C109": "econ",
@@ -41386,7 +41387,16 @@
     "L4090": "1",
     "M4090": "unknown",
     "N4090": "Fill gap versus observed contracts holding utilization behavior constant: mechanical insurer/Medicare spending increase150 dollars per beneficiary, p883; intro p844 says mechanical consequence about60% of overall effect. Distinct fixed-behavior estimand from s4.",
-    "O4090": "Author explicitly attributes spending/payment change to filling gap with behavior held fixed. This is a mechanical policy counterfactual, not zero causal content merely because behavior is frozen. Conditional payment aggregation may be linear, while full model recovery is nonlinear; exact implemented inputs/procedure for this reported mechanical calculation not established by inspected sources, so unknown rather than inferred OLS or Other. No effect-to-effect comparison added."
+    "O4090": "Author explicitly attributes spending/payment change to filling gap with behavior held fixed. This is a mechanical policy counterfactual, not zero causal content merely because behavior is frozen. Conditional payment aggregation may be linear, while full model recovery is nonlinear; exact implemented inputs/procedure for this reported mechanical calculation not established by inspected sources, so unknown rather than inferred OLS or Other. No effect-to-effect comparison added.",
+    "A4091": "9XCS46FU",
+    "B4091": "h2",
+    "I4091": "1",
+    "J4091": "RCT",
+    "K4091": "1",
+    "L4091": "1",
+    "M4091": "n/a",
+    "N4091": "Randomized heavy-faced paired-morph variant on hypothetical detention recommendation; Appendix C/Table A.XVII cols (3),(4). Routine controls/sample variants grouped at this location.",
+    "O4091": "Main p817 says LESS groomed/heavy-faced is more likely detained; mirror Appendix C p70 says MORE, contrary to negative A.XVII cells. N well-groomed 18,269 prose versus 18,268 table; respondent versus two-way clustering; validation versus GAN treatment-SD reference differ. Preserve conflicts. Mirror is not verified final publisher supplement. No empirical replication. Randomized assignment dominates pair/participant FE; binary assignment, not continuous treatment-SD."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -103603,7 +103613,14 @@
     "H9094": "0",
     "I9094": "unknown",
     "J9094": "none",
-    "K9094": "Annual insurer spending under fixed utilization, mechanical increase150 dollars per beneficiary; p883. Medicare interpretation assumes complete pass-through, fn29. Fixed-utilization input distribution not explicitly established; do not transfer individual zero-mass label automatically."
+    "K9094": "Annual insurer spending under fixed utilization, mechanical increase150 dollars per beneficiary; p883. Medicare interpretation assumes complete pass-through, fn29. Fixed-utilization input distribution not explicitly established; do not transfer individual zero-mass label automatically.",
+    "A9095": "9XCS46FU",
+    "B9095": "h2",
+    "C9095": "hy1",
+    "H9095": "1",
+    "I9095": "1",
+    "J9095": "none",
+    "K9095": "Respondent-by-image-pair indicator y_is=1 if the prespecified top defendant is recommended for detention, 0 if bottom; Appendix C pp69–70. Probability scale."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

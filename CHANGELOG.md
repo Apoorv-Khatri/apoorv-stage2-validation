@@ -795714,3 +795714,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T14:01:36.129749+00:00 — Review 9XCS46FU h2: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9095",
+    "before": null,
+    "after": "9XCS46FU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9095",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9095",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9095",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9095",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9095",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9095",
+    "before": null,
+    "after": "Respondent-by-image-pair indicator y_is=1 if the prespecified top defendant is recommended for detention, 0 if bottom; Appendix C pp69–70. Probability scale."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E108",
+    "before": null,
+    "after": "DONE — Available-source review only:77-page final article and79-page mirrored appendix reviewed and independently audited; final publisher supplement identity unverified. Retain two randomized synthetic-face morph experiments, well-groomedness and heavy-facedness, on study participants hypothetical detention choices, not actual judicial detention. Observational actual-decision and prediction regressions excluded on explicit correlation/hypothesis-generation framing (pp758,808,816–819), not because weak identification alone disqualifies causal intention. Zero qualifying benchmark comparisons under this gate; treatment SDs, risk-percentile equivalents and effect/effect comparisons are not outcome benchmarks. Main versus mirror direction, N, clustering and treatment-SD-reference conflicts preserved. AppendixC fn86 establishes a separate structured-risk analysis with -1/0/+1 regressor and doubled slope31percentagepoints; held outside application because pooled/separate experimental allocation and conditioning unresolved, not rejected as diagnostic-only. Public replication archive is available; streamed README identifies survey11/lab_experiment.feather but network failure occurred before experiment scripts, so implementation and full archive remain uninspected. No empirical replication. Source-scoped completion excludes unresolved structured-risk implementation and final-supplement identity; not omission-free certification. Original/model fields IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4091",
+    "before": null,
+    "after": "9XCS46FU"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4091",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4091",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4091",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4091",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4091",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4091",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4091",
+    "before": null,
+    "after": "Randomized heavy-faced paired-morph variant on hypothetical detention recommendation; Appendix C/Table A.XVII cols (3),(4). Routine controls/sample variants grouped at this location."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4091",
+    "before": null,
+    "after": "Main p817 says LESS groomed/heavy-faced is more likely detained; mirror Appendix C p70 says MORE, contrary to negative A.XVII cells. N well-groomed 18,269 prose versus 18,268 table; respondent versus two-way clustering; validation versus GAN treatment-SD reference differ. Preserve conflicts. Mirror is not verified final publisher supplement. No empirical replication. Randomized assignment dominates pair/participant FE; binary assignment, not continuous treatment-SD."
+  }
+]
+```
