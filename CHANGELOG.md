@@ -840156,3 +840156,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:27:43.911156+00:00 — Review A8LFPXLL s9: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9293",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9293",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9293",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9293",
+    "before": null,
+    "after": "Year-over-year change in average earnings of fixed 2011-2012 stayers retained through 2016; Table IV ITT -0.117."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J972",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K972",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M972",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O972",
+    "before": null,
+    "after": "Figure VIII A-B and Table IV ITT: predicted business-tax-liability dollars per worker, with average earnings changes; add average-stayer earnings change. Figure VIII -0.215 differs from Table IV -0.214; preserve both. Per dollar tax is treatment scaling, not outcome benchmarking."
+  }
+]
+```
