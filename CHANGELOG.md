@@ -682548,3 +682548,270 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:43:52.377536+00:00 — Review 4X3H7PWW s14: source-audited coding and linked comparisons
+
+43 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6021",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6022",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6021",
+    "before": null,
+    "after": "s14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6022",
+    "before": null,
+    "after": "s14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6021",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6022",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K579",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K580",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6021",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6022",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L579",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6021",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6022",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M579",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6021",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6022",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N579",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6021",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6022",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O579",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6021",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6022",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P579",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6021",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6022",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q579",
+    "before": null,
+    "after": "p217/FigureX: around20% of observed1965-1980 decline in unadjusted racial gap attributed to reform. p216 reports25-log-point observed decline; p217 states1980 counterfactual31 versus observed25, a6-log-point gap. Preserve rounding/arithmetic tension; do not recalculate reported20%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6021",
+    "before": null,
+    "after": "p217: reform-induced1980 gap difference6 log points, counterfactual gap31 log points without reform."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6022",
+    "before": null,
+    "after": "p217: same1980 gap difference6 log points, observed gap25 log points."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R579",
+    "before": null,
+    "after": "Benchmark is observed change in same log-gap outcome, other_level, not population mean wage. Separate endpoint-level pairings below; do not combine triples."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R580",
+    "before": null,
+    "after": "82% is decomposition of total estimated reform effect into within-industry component: effect-versus-effect, not qualifying outcome level. Source verbal1/divided1 assessed separately from rejected eligibility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6021",
+    "before": null,
+    "after": "Same-outcome counterfactual level pairing, not population mean earnings."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6022",
+    "before": null,
+    "after": "Observed endpoint deliberately paired as well as counterfactual; other_level does not invoke untreated-mean alignment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2191",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2191",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2191",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2191",
+    "before": null,
+    "after": "White-minus-Black mean log annual earnings gap across1938+1967 industries; Eq5-6 linear weighted-gap counterfactual, not log of the gap."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I896",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J896",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K896",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L896",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M896",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N896",
+    "before": null,
+    "after": "Eq(5)-(6)/FigureX and AppendixG: binary reform versus no-reform counterfactual for economy-wide mean-log racial gap, combining two parallel-trend gap imputations with observed composition weights."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O896",
+    "before": null,
+    "after": "Not Other solely for accounting label: conditional on observed group shares, mean-log gaps and Eq6 counterfactuals are linear combinations of log earnings under explicit parallel-trends assumptions. Gap-weight composition held fixed, not estimated nonlinear structural recovery. Parent adjudicate full-procedure outcome domain. pp216-218."
+  }
+]
+```
