@@ -36753,7 +36753,16 @@
     "L3668": "0",
     "M3668": "unknown",
     "N3668": "Nonoverlapping holding-period matched-pair strategy, p.131.",
-    "O3668": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Do not infer exact grid or rebalance calendar."
+    "O3668": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Do not infer exact grid or rebalance calendar.",
+    "A3669": "XTWW4AUI",
+    "B3669": "h5",
+    "I3669": "1",
+    "J3669": "unknown",
+    "K3669": "1",
+    "L3669": "0",
+    "M3669": "unknown",
+    "N3669": "Matched-pair late/early return contrasts by IV term-structure combination, p.131.",
+    "O3669": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Printed late-downward/early-upward prose conflicts with low-IV30 late coding; preserve conflict. Exact group grid unavailable."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -92989,7 +92998,14 @@
     "H8292": "0",
     "I8292": "unknown",
     "J8292": "none",
-    "K8292": "Matched-pair strategy returns with nonoverlapping holdings. Do not infer exact grid or rebalance calendar."
+    "K8292": "Matched-pair strategy returns with nonoverlapping holdings. Do not infer exact grid or rebalance calendar.",
+    "A8293": "XTWW4AUI",
+    "B8293": "h5",
+    "C8293": "hy1",
+    "H8293": "0",
+    "I8293": "unknown",
+    "J8293": "none",
+    "K8293": "Matched-pair subsequent return difference. Printed late-downward/early-upward prose conflicts with low-IV30 late coding; preserve conflict. Exact group grid unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

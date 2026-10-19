@@ -613956,3 +613956,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T00:24:58.284258+00:00 — Review XTWW4AUI h5: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8293",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8293",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8293",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8293",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8293",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8293",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8293",
+    "before": null,
+    "after": "Matched-pair subsequent return difference. Printed late-downward/early-upward prose conflicts with low-IV30 late coding; preserve conflict. Exact group grid unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3669",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3669",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3669",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3669",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3669",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3669",
+    "before": null,
+    "after": "Matched-pair late/early return contrasts by IV term-structure combination, p.131."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3669",
+    "before": null,
+    "after": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Printed late-downward/early-upward prose conflicts with low-IV30 late coding; preserve conflict. Exact group grid unavailable."
+  }
+]
+```
