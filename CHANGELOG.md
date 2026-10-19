@@ -613473,3 +613473,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T00:23:26.313285+00:00 — Review XTWW4AUI s7: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K489",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R489",
+    "before": null,
+    "after": "p.139 scales coefficient by treatment-side implied variance and IVD gap, not an outcome mean/SD/level. Subsequent comparison is to another estimated portfolio spread (not same-outcome baseline level). Verbal economic-significance calculation is real but ineligible; no eligible benchmark/division/alignment code assigned."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I823",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J823",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K823",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L823",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M823",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N823",
+    "before": null,
+    "after": "Table 11 pp.139-140: monthly Fama-MacBeth linear cross-sectional stock excess-return slope on continuous IVD(days) × IV365 squared, with characteristic controls; 0.05/0.06/0.06."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O823",
+    "before": null,
+    "after": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Explicit parameter-specific causal interpretation p.139: one-day IVD increase ceteris paribus leads to higher abnormal return. Fama-MacBeth averages monthly OLS slopes; no identifying FE established. Market-beta generated-regressor details do not alone establish nonlinear focal estimator. Log ME/BM are regressors, not transformed return outcomes. Independent audit: source p.139 explicitly says a one-day IVD increase ceteris paribus leads to a higher abnormal return; gate applies to this coefficient, not automatically all controls. OLS classification conditional on reported characteristic design; not a claim of unconditional linearity under recomputation of all generated controls."
+  }
+]
+```
