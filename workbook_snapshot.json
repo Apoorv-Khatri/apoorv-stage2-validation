@@ -467,6 +467,7 @@
     "B98": "Referral-based Job Search Networks",
     "C98": "econ",
     "D98": 8,
+    "E98": "DONE — Full available-source review of33 final article pages, embedded Appendices A–C,10 tables and45 footnotes, with independent audit. Retain20 settings; reject two descriptive proxy-validation settings after weighing causal-sounding language. Seven retained comparisons; two original wrong-scope comparisons rejected and reattached. Separate OLS, identifying FE and HDFE implementations; pre-estimated worker/firm components are scalar controls, not absorbed FE. Model-based referral rescaling h11/h14 retains HDFE conditional on hiring/design inputs; h10 data-based conversion method unknown because compatible two-sample projections and interactions are unverified. Table6 initial and convergence effects paired separately with same-outcome baselines; baseline population/conditioning unspecified, alignment unknown. Welfare uncertainty parameter not a dependent causal outcome; equilibrium welfare comparison retained. Printed date and AppendixA3 wording conflicts preserved. External supplement unavailable; no accepted-manuscript substitution or unseen implementation claims. Original fields, IDs and hyperlinks preserved.",
     "A99": "4X3H7PWW",
     "B99": "Minimum Wages and Racial Inequality*",
     "C99": "econ",
@@ -38459,7 +38460,16 @@
     "L3815": "0",
     "M3815": "n/a",
     "N3815": "AppendixC/TableA3 cols2-7 pp542-544: own-minority share and tenure interaction on log wage and annual turnover; firm×hire-year replacement, five-group controls, supply shares, minority/guestworker samples, and other-minority control. Col1 repeats h4.",
-    "O3815": "Worker FE, firm (or firm×hire-year) FE and observation-year FE inherited baseline. Hire-year not observation-year: interaction does not subsume calendar-year effects for repeated spells. Text p542 specifies firm-year of HIRE; short caption only firm-year. TableA3col4 says tenure interaction; p544 says first/subsequent years for extra share controls: preserve conflict, no fabricated additional implementation. Nonfocal added control slopes not separately given causal interpretation."
+    "O3815": "Worker FE, firm (or firm×hire-year) FE and observation-year FE inherited baseline. Hire-year not observation-year: interaction does not subsume calendar-year effects for repeated spells. Text p542 specifies firm-year of HIRE; short caption only firm-year. TableA3col4 says tenure interaction; p544 says first/subsequent years for extra share controls: preserve conflict, no fabricated additional implementation. Nonfocal added control slopes not separately given causal interpretation.",
+    "A3816": "4LB5EN3L",
+    "B3816": "h14",
+    "I3816": "1",
+    "J3816": "HDFE",
+    "K3816": "1",
+    "L3816": "1",
+    "M3816": "n/a",
+    "N3816": "Section5.4 p535: model-based conversion of Table4 PanelC col5 into first-year referral log-wage effect2.6% and subsequent-year effect0.4%, used as structural calibration moments.",
+    "O3816": "Independent adjudication: p532 footnote33 constructs the conversion factor from Table2 hiring-share coefficient and median workforce/population shares, not from the focal log-wage or turnover outcomes. Multiplying Table4 joint worker+firm+year linear coefficients by this scalar preserves linearity in those outcomes. Retain HDFE under identifying-method precedence, with a model-based referral-dose interpretation; this is not an implemented referral first stage or the later nonlinear welfare calibration. Distinct referral estimand retained separately from raw share effects. Parent should adjudicate this conditional-on-design taxonomy explicitly."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -96753,7 +96763,14 @@
     "A8561": "4LB5EN3L",
     "B8561": "h13",
     "C8561": "hy2",
-    "K8561": "Annual leaving-firm indicator, indicated appendix scope."
+    "K8561": "Annual leaving-firm indicator, indicated appendix scope.",
+    "A8562": "4LB5EN3L",
+    "B8562": "h14",
+    "C8562": "hy1",
+    "H8562": "0",
+    "I8562": "unknown",
+    "J8562": "log",
+    "K8562": "Log daily wage, first-year and subsequent-year referral contrasts, p535, Table4Ccol5 converted."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

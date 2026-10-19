@@ -681114,3 +681114,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:58:02.445611+00:00 — Review 4LB5EN3L h14: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8562",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8562",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8562",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8562",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8562",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8562",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8562",
+    "before": null,
+    "after": "Log daily wage, first-year and subsequent-year referral contrasts, p535, Table4Ccol5 converted."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E98",
+    "before": null,
+    "after": "DONE — Full available-source review of33 final article pages, embedded Appendices A–C,10 tables and45 footnotes, with independent audit. Retain20 settings; reject two descriptive proxy-validation settings after weighing causal-sounding language. Seven retained comparisons; two original wrong-scope comparisons rejected and reattached. Separate OLS, identifying FE and HDFE implementations; pre-estimated worker/firm components are scalar controls, not absorbed FE. Model-based referral rescaling h11/h14 retains HDFE conditional on hiring/design inputs; h10 data-based conversion method unknown because compatible two-sample projections and interactions are unverified. Table6 initial and convergence effects paired separately with same-outcome baselines; baseline population/conditioning unspecified, alignment unknown. Welfare uncertainty parameter not a dependent causal outcome; equilibrium welfare comparison retained. Printed date and AppendixA3 wording conflicts preserved. External supplement unavailable; no accepted-manuscript substitution or unseen implementation claims. Original fields, IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3816",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3816",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3816",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3816",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3816",
+    "before": null,
+    "after": "Section5.4 p535: model-based conversion of Table4 PanelC col5 into first-year referral log-wage effect2.6% and subsequent-year effect0.4%, used as structural calibration moments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3816",
+    "before": null,
+    "after": "Independent adjudication: p532 footnote33 constructs the conversion factor from Table2 hiring-share coefficient and median workforce/population shares, not from the focal log-wage or turnover outcomes. Multiplying Table4 joint worker+firm+year linear coefficients by this scalar preserves linearity in those outcomes. Retain HDFE under identifying-method precedence, with a model-based referral-dose interpretation; this is not an implemented referral first stage or the later nonlinear welfare calibration. Distinct referral estimand retained separately from raw share effects. Parent should adjudicate this conditional-on-design taxonomy explicitly."
+  }
+]
+```
