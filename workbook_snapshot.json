@@ -37134,7 +37134,16 @@
     "L3700": "1",
     "M3700": "unknown",
     "N3700": "AppendixE/FigureA4 described p3318: sponsorship differences in trial and patient characteristics within drug pair.",
-    "O3700": "Although called balance checks, intro pp3301 expressly treats trial design as central substantive mechanism and describes downstream characteristics. Include under substantive exception rather than purely diagnostic exclusion; gate contested. Earlier trials and older patients, nulls on remaining characteristics. Exact estimator and transformations unavailable. Independent audit: Retain substantive-mechanism exception: p3299 explicitly promises downstream effects on trial characteristics, p3301 distinguishes ex ante planning from ex post publication, and p3331 concludes no targeting of more effective populations/settings. These particular balance contrasts bear on a central proposed mechanism; FigureA7 registration balance remains diagnostic-only. Retain null outcomes as well as timing/age differences."
+    "O3700": "Although called balance checks, intro pp3301 expressly treats trial design as central substantive mechanism and describes downstream characteristics. Include under substantive exception rather than purely diagnostic exclusion; gate contested. Earlier trials and older patients, nulls on remaining characteristics. Exact estimator and transformations unavailable. Independent audit: Retain substantive-mechanism exception: p3299 explicitly promises downstream effects on trial characteristics, p3301 distinguishes ex ante planning from ex post publication, and p3331 concludes no targeting of more effective populations/settings. These particular balance contrasts bear on a central proposed mechanism; FigureA7 registration balance remains diagnostic-only. Retain null outcomes as well as timing/age differences.",
+    "A3701": "2UP7GN8M",
+    "B3701": "h16",
+    "I3701": "1",
+    "J3701": "unknown",
+    "K3701": "0",
+    "L3701": "0",
+    "M3701": "unknown",
+    "N3701": "Conclusion p3329: lowering efficacy by average sponsorship effect .17 SD in a conditional approval-rate counterfactual (77% to70%).",
+    "O3701": "Explicit IF relationship were causal; retain narrowly as conditional counterfactual consequence, not as proven causal slope. Underlying forecast regression unspecified; method unknown, not an invented probit/OLS. Gate contested: parent may exclude purely hypothetical prediction. Main intro cites downstream stakes but this is supporting back-of-envelope. Independent audit: Change Other to unknown: a simulation/counterfactual label does not establish a nonlinear estimator. Available final text does not identify the complete implemented mapping well enough for precedence. Do not invent a probit, structural estimator or linear forecast equation. Independent audit: Retain narrowly as an actually calculated, explicitly conditional intervention exercise, not as an identified causal efficacy-to-approval/sales slope. The author reports numerical outcomes after lowering efficacy/removing the sponsorship premium and highlights these calculations on p3303. The IF-causal assumption is explicit and strong; it is not proof of identification. Pure prediction without the reported intervention recomputation would be excluded. h17 groups alternative calibrations of the same no-sponsorship prescription estimand; external 86% is not separately extracted as this paper's own effect."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93829,7 +93838,11 @@
     "H8352": "unknown",
     "I8352": "unknown",
     "J8352": "unknown",
-    "K8352": "FigureA4/AppendixE: share female; implemented within-drug-pair sponsorship contrast described p3318, exact scale unavailable."
+    "K8352": "FigureA4/AppendixE: share female; implemented within-drug-pair sponsorship contrast described p3318, exact scale unavailable.",
+    "A8353": "2UP7GN8M",
+    "B8353": "h16",
+    "C8353": "hy1",
+    "K8353": "FDA approval rate across 23 approved and seven nonapproved drugs; counterfactual aggregate probability, not individual binary dependent variable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -156115,7 +156128,29 @@
     "O5560": "1",
     "P5560": "unknown",
     "Q5560": "p3324 SectionIV.B.2: focal estimate .15 SD decrease; benchmark average between-arm efficacy difference, “almost half”; no number supplied in this sentence.",
-    "R5560": "Own relative-efficacy mean comparison, distinct from90% of sponsorship coefficient (effect/effect, ineligible). Benchmark target/full counterfactual weights unresolved; do not invent .35 here."
+    "R5560": "Own relative-efficacy mean comparison, distinct from90% of sponsorship coefficient (effect/effect, ineligible). Benchmark target/full counterfactual weights unresolved; do not invent .35 here.",
+    "A5561": "2UP7GN8M",
+    "B5561": "h16",
+    "C5561": "hc1",
+    "K5561": "1",
+    "L5561": "hy1",
+    "M5561": "outcome_mean",
+    "N5561": "1",
+    "O5561": "1",
+    "P5561": "unknown",
+    "Q5561": "Conclusion p3329; intro p3303: focal estimate approval rate77% to70%, two fewer approvals; benchmark 77% observed approval rate among30 drugs.",
+    "R5561": "Introduction says10% fewer approvals; final text77 to70. Conditional counterfactual, reference observed baseline; efficacy-dose target weights and counterfactual alignment unresolved.",
+    "A5562": "2UP7GN8M",
+    "B5562": "h16",
+    "C5562": "hc2",
+    "K5562": "1",
+    "L5562": "hy1",
+    "M5562": "outcome_mean",
+    "N5562": "1",
+    "O5562": "0",
+    "P5562": "0",
+    "Q5562": "Conclusion p3329: focal estimate approval rate77% to70%; benchmark 70% counterfactual treated approval rate.",
+    "R5562": "Deliberately paired treated endpoint is same outcome but not untreated mean; eligibility versus decomposition-only exclusion contested."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

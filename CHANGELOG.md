@@ -628392,3 +628392,222 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:00:33.746309+00:00 — Review 2UP7GN8M h16: source-audited coding and linked comparisons
+
+35 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5561",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5562",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5561",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5562",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5561",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5562",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5561",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5562",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5561",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5562",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5561",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5562",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5561",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5562",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5561",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5562",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5561",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5562",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5561",
+    "before": null,
+    "after": "Conclusion p3329; intro p3303: focal estimate approval rate77% to70%, two fewer approvals; benchmark 77% observed approval rate among30 drugs."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5562",
+    "before": null,
+    "after": "Conclusion p3329: focal estimate approval rate77% to70%; benchmark 70% counterfactual treated approval rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5561",
+    "before": null,
+    "after": "Introduction says10% fewer approvals; final text77 to70. Conditional counterfactual, reference observed baseline; efficacy-dose target weights and counterfactual alignment unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5562",
+    "before": null,
+    "after": "Deliberately paired treated endpoint is same outcome but not untreated mean; eligibility versus decomposition-only exclusion contested."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8353",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8353",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8353",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8353",
+    "before": null,
+    "after": "FDA approval rate across 23 approved and seven nonapproved drugs; counterfactual aggregate probability, not individual binary dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3701",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3701",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3701",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3701",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3701",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3701",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3701",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3701",
+    "before": null,
+    "after": "Conclusion p3329: lowering efficacy by average sponsorship effect .17 SD in a conditional approval-rate counterfactual (77% to70%)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3701",
+    "before": null,
+    "after": "Explicit IF relationship were causal; retain narrowly as conditional counterfactual consequence, not as proven causal slope. Underlying forecast regression unspecified; method unknown, not an invented probit/OLS. Gate contested: parent may exclude purely hypothetical prediction. Main intro cites downstream stakes but this is supporting back-of-envelope. Independent audit: Change Other to unknown: a simulation/counterfactual label does not establish a nonlinear estimator. Available final text does not identify the complete implemented mapping well enough for precedence. Do not invent a probit, structural estimator or linear forecast equation. Independent audit: Retain narrowly as an actually calculated, explicitly conditional intervention exercise, not as an identified causal efficacy-to-approval/sales slope. The author reports numerical outcomes after lowering efficacy/removing the sponsorship premium and highlights these calculations on p3303. The IF-causal assumption is explicit and strong; it is not proof of identification. Pure prediction without the reported intervention recomputation would be excluded. h17 groups alternative calibrations of the same no-sponsorship prescription estimand; external 86% is not separately extracted as this paper's own effect."
+  }
+]
+```
