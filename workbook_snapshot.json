@@ -39832,7 +39832,16 @@
     "L3938": "0",
     "M3938": "n/a",
     "N3938": "A17 individual earnings robustness: high versus next-highest quartile firm exposure using2006 base; individual average earnings relative to2006; distinct worker outcome/estimand.",
-    "O3938": "A17 G/H; header versus later caption year conflict preserved. Worker cohort/assignment details not restated completely for2003 variant, so do not invent ages or numerical effects."
+    "O3938": "A17 G/H; header versus later caption year conflict preserved. Worker cohort/assignment details not restated completely for2003 variant, so do not invent ages or numerical effects.",
+    "A3939": "64JY936S",
+    "B3939": "h24",
+    "I3939": "1",
+    "J3939": "DiD_conventional",
+    "K3939": "1",
+    "L3939": "0",
+    "M3939": "n/a",
+    "N3939": "A17 individual earnings robustness: high versus next-highest quartile firm exposure using2003 base; individual average earnings relative to2003; distinct worker outcome/estimand.",
+    "O3939": "A17 G/H; header versus later caption year conflict preserved. Worker cohort/assignment details not restated completely for2003 variant, so do not invent ages or numerical effects."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100465,7 +100474,14 @@
     "H8860": "0",
     "I8860": "unknown",
     "J8860": "other",
-    "K8860": "Group mean individual earnings relative to2006, A17G; exact2003 worker cohort construction not fully restated."
+    "K8860": "Group mean individual earnings relative to2006, A17G; exact2003 worker cohort construction not fully restated.",
+    "A8861": "64JY936S",
+    "B8861": "h24",
+    "C8861": "hy1",
+    "H8861": "0",
+    "I8861": "unknown",
+    "J8861": "other",
+    "K8861": "Group mean individual earnings relative to2003, A17H; exact2003 worker cohort construction not fully restated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -176081,7 +176097,18 @@
     "O6717": "1",
     "P6717": "unknown",
     "Q6717": "A17G: author-interpreted post-reform treated/control trajectory contrast, not an annual coefficient grid. Individual group mean earnings relative to2006 group level; top versus next-highest quartile; exact cohort details not fully restated. No numerical effect extracted or invented; one graphical contrast for this outcome and displayed post-reform path.",
-    "R6717": "Same-outcome normalization is deliberately displayed. Numerical coefficient is not a prerequisite for a graphical comparison. No distinct year-specific triples asserted. Separate group denominators; common untreated target mean/weights not established."
+    "R6717": "Same-outcome normalization is deliberately displayed. Numerical coefficient is not a prerequisite for a graphical comparison. No distinct year-specific triples asserted. Separate group denominators; common untreated target mean/weights not established.",
+    "A6718": "64JY936S",
+    "B6718": "h24",
+    "C6718": "hc1",
+    "K6718": "1",
+    "L6718": "hy1",
+    "M6718": "outcome_mean",
+    "N6718": "0",
+    "O6718": "1",
+    "P6718": "unknown",
+    "Q6718": "A17H: author-interpreted post-reform treated/control trajectory contrast, not an annual coefficient grid. Individual group mean earnings relative to2003 group level; top versus next-highest quartile; exact cohort details not fully restated. No numerical effect extracted or invented; one graphical contrast for this outcome and displayed post-reform path.",
+    "R6718": "Same-outcome normalization is deliberately displayed. Numerical coefficient is not a prerequisite for a graphical comparison. No distinct year-specific triples asserted. Separate group denominators; common untreated target mean/weights not established."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
