@@ -626442,3 +626442,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:56:03.661360+00:00 — Review 2UP7GN8M h4: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5556",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5556",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5556",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5556",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5556",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5556",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5556",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5556",
+    "before": null,
+    "after": "Table2 col6 p3315: focal estimate .100; benchmark .30."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5556",
+    "before": null,
+    "after": "Deliberately linked same-column outcome mean; sample includes sponsored and unsponsored arms. Untreated target/weights not established, so alignment unknown, not mechanically aligned from common sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8332",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8332",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8332",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8332",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8332",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8332",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8332",
+    "before": null,
+    "after": "Relative efficacy: standardized absolute efficacy minus the placebo arm if available, otherwise the least-effective arm; main-source equation/table establishes construction. Component-SD units do not establish unit SD of this difference."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3689",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3689",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3689",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3689",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3689",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3689",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3689",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3689",
+    "before": null,
+    "after": "Table2 col6: sponsorship effect weighted by arm enrollment, relative efficacy .100."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3689",
+    "before": null,
+    "after": "Eq.(1), pp3311-3312: sponsorship is NOT randomized with patient drug assignment; no IV/RD. Cross-sectional arm/comparator double difference is called DiD by author but lacks treated/post parallel-trends comparison under project definition. Proposed HDFE: drug-by-pair cells, publication-year bins, scale indicators are three separate sets; joint adjustment addresses molecule/comparator selection, timing and measurement heterogeneity. Contested HDFE versus FE if ancillary sets do not satisfy identification-battery criterion; also contested cross-sectional DiD interpretation. Relative efficacy is the REPORTED outcome; placebo/least-arm subtraction is its construction, not evidence of treatment randomization. pp3315 explicitly distinguishes patient-level counterfactual from equally weighted arm-level treatment; separate estimand rather than routine SE variant."
+  }
+]
+```

@@ -37026,7 +37026,16 @@
     "L3688": "0",
     "M3688": "n/a",
     "N3688": "Table2 col5: sponsorship excluding conflicts-of-interest-only identification; relative efficacy .147.",
-    "O3688": "Eq.(1), pp3311-3312: sponsorship is NOT randomized with patient drug assignment; no IV/RD. Cross-sectional arm/comparator double difference is called DiD by author but lacks treated/post parallel-trends comparison under project definition. Proposed HDFE: drug-by-pair cells, publication-year bins, scale indicators are three separate sets; joint adjustment addresses molecule/comparator selection, timing and measurement heterogeneity. Contested HDFE versus FE if ancillary sets do not satisfy identification-battery criterion; also contested cross-sectional DiD interpretation. Relative efficacy is the REPORTED outcome; placebo/least-arm subtraction is its construction, not evidence of treatment randomization. Caption says excludes trials while prose says excludes conflicts-of-interest from definition; preserve implementation ambiguity rather than assert exact recoding."
+    "O3688": "Eq.(1), pp3311-3312: sponsorship is NOT randomized with patient drug assignment; no IV/RD. Cross-sectional arm/comparator double difference is called DiD by author but lacks treated/post parallel-trends comparison under project definition. Proposed HDFE: drug-by-pair cells, publication-year bins, scale indicators are three separate sets; joint adjustment addresses molecule/comparator selection, timing and measurement heterogeneity. Contested HDFE versus FE if ancillary sets do not satisfy identification-battery criterion; also contested cross-sectional DiD interpretation. Relative efficacy is the REPORTED outcome; placebo/least-arm subtraction is its construction, not evidence of treatment randomization. Caption says excludes trials while prose says excludes conflicts-of-interest from definition; preserve implementation ambiguity rather than assert exact recoding.",
+    "A3689": "2UP7GN8M",
+    "B3689": "h4",
+    "I3689": "1",
+    "J3689": "HDFE",
+    "K3689": "1",
+    "L3689": "0",
+    "M3689": "n/a",
+    "N3689": "Table2 col6: sponsorship effect weighted by arm enrollment, relative efficacy .100.",
+    "O3689": "Eq.(1), pp3311-3312: sponsorship is NOT randomized with patient drug assignment; no IV/RD. Cross-sectional arm/comparator double difference is called DiD by author but lacks treated/post parallel-trends comparison under project definition. Proposed HDFE: drug-by-pair cells, publication-year bins, scale indicators are three separate sets; joint adjustment addresses molecule/comparator selection, timing and measurement heterogeneity. Contested HDFE versus FE if ancillary sets do not satisfy identification-battery criterion; also contested cross-sectional DiD interpretation. Relative efficacy is the REPORTED outcome; placebo/least-arm subtraction is its construction, not evidence of treatment randomization. pp3315 explicitly distinguishes patient-level counterfactual from equally weighted arm-level treatment; separate estimand rather than routine SE variant."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93577,7 +93586,14 @@
     "H8331": "0",
     "I8331": "1",
     "J8331": "other",
-    "K8331": "Relative efficacy: standardized absolute efficacy minus the placebo arm if available, otherwise the least-effective arm; main-source equation/table establishes construction. Component-SD units do not establish unit SD of this difference."
+    "K8331": "Relative efficacy: standardized absolute efficacy minus the placebo arm if available, otherwise the least-effective arm; main-source equation/table establishes construction. Component-SD units do not establish unit SD of this difference.",
+    "A8332": "2UP7GN8M",
+    "B8332": "h4",
+    "C8332": "hy1",
+    "H8332": "0",
+    "I8332": "1",
+    "J8332": "other",
+    "K8332": "Relative efficacy: standardized absolute efficacy minus the placebo arm if available, otherwise the least-effective arm; main-source equation/table establishes construction. Component-SD units do not establish unit SD of this difference."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -155808,7 +155824,18 @@
     "O5555": "0",
     "P5555": "unknown",
     "Q5555": "Table2 col5 p3315: focal estimate .147; benchmark .35.",
-    "R5555": "Deliberately linked same-column outcome mean; sample includes sponsored and unsponsored arms. Untreated target/weights not established, so alignment unknown, not mechanically aligned from common sample."
+    "R5555": "Deliberately linked same-column outcome mean; sample includes sponsored and unsponsored arms. Untreated target/weights not established, so alignment unknown, not mechanically aligned from common sample.",
+    "A5556": "2UP7GN8M",
+    "B5556": "h4",
+    "C5556": "hc1",
+    "K5556": "1",
+    "L5556": "hy1",
+    "M5556": "outcome_mean",
+    "N5556": "0",
+    "O5556": "0",
+    "P5556": "unknown",
+    "Q5556": "Table2 col6 p3315: focal estimate .100; benchmark .30.",
+    "R5556": "Deliberately linked same-column outcome mean; sample includes sponsored and unsponsored arms. Untreated target/weights not established, so alignment unknown, not mechanically aligned from common sample."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
