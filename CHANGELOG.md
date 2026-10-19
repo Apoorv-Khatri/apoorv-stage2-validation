@@ -650232,3 +650232,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:54:46.433811+00:00 — Review 2XPTKJBQ s7: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K2081",
+    "before": null,
+    "after": "Lower-BP mortality after DI waiting period, dual-eligible and pooled sample variants (TableB8); final appendix horizon details unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I848",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J848",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K848",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L848",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M848",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N848",
+    "before": null,
+    "after": "TableB8 / FigureB11, pp3175–76 fn17: lower-BP combined DI/SSI payment effect on post-waiting mortality in dual-eligible sample and pooled DI+DI/SSI sample variants. Dual-eligible first stage 0.001, mortality -0.42 pp with wide CI; weak identification does not change method. Family split h3; upper implementation held pending final appendix."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O848",
+    "before": null,
+    "after": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Dual-only and pooled lower/family samples are routine sample variants at B8, not binary eligibility treatments. Upper B8 is not established merely by a sentence describing payment rules."
+  }
+]
+```
