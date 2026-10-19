@@ -642690,3 +642690,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:34:45.479385+00:00 — Review 2W92PVM3 h11: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8368",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8368",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8368",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8368",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8368",
+    "before": null,
+    "after": "Hypothetical credit-package acceptance indicator reported as percentage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3713",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3713",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3713",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3713",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3713",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3713",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3713",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3713",
+    "before": null,
+    "after": "Figure3C / SectionVI.A pp1553-54: imposing6-week up-front deadline on hypothetical credit offer; stated demand curves."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3713",
+    "before": null,
+    "after": "Sequential paired question contrast, not randomized deadline. Actual RCT assignment pertains financing package only. No unlabeled plotted coefficients digitized; author appendix precise means not substituted for verified final. Independent audit: Retain as author-interpreted paired linear contrast (OLS), not RCT: every respondent first sees the unrestricted question, then the deadline. Order and hypothetical bias affect identification credibility. No numerical decline is computed and attributed to the source."
+  }
+]
+```
