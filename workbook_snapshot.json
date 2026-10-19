@@ -39904,7 +39904,16 @@
     "L3946": "0",
     "M3946": "unknown",
     "N3946": "AppendixB implied capital-stock response per dollar of persistent tax cash windfall, conditional on cash-only interpretation; total/fixed/fixed-tangible assets.",
-    "O3946": "Known arithmetic rescaling6% capital growth by labor-cost/asset ratio0.8 and six-year windfall11.52 gives reported0.52; asset-subtype rescalings yield0.10-0.15. Method uncertainty concerns treatment-effect estimator classification, not missing computation: no formal IV, fixed rescaling of DiD versus model-recovered cash effect ambiguous. Do not assign Other just for back-of-envelope label."
+    "O3946": "Known arithmetic rescaling6% capital growth by labor-cost/asset ratio0.8 and six-year windfall11.52 gives reported0.52; asset-subtype rescalings yield0.10-0.15. Method uncertainty concerns treatment-effect estimator classification, not missing computation: no formal IV, fixed rescaling of DiD versus model-recovered cash effect ambiguous. Do not assign Other just for back-of-envelope label.",
+    "A3947": "64JY936S",
+    "B3947": "h32",
+    "I3947": "1",
+    "J3947": "unknown",
+    "K3947": "1",
+    "L3947": "0",
+    "M3947": "unknown",
+    "N3947": "Tax-windfall effect on net wage bill and labor share, p1751 accounting exercise from Table4: wage bill about6.5%, value added6.1%, labor share fairly stable.",
+    "O3947": "Authors add employment4.6 and average-wage1.9 percentage effects as approximation, not direct wage-bill regression. Labor-share recovery implementation unspecified. Preserve causal accounting scope with unknown method; do not classify simple fixed sum as nonlinear automatically."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100621,7 +100630,21 @@
     "H8872": "0",
     "I8872": "unknown",
     "J8872": "other",
-    "K8872": "Fixed tangible assets (same joint range, not allocated separately); AppendixB pp70-71. Do not manufacture separate subtype numerical point estimates."
+    "K8872": "Fixed tangible assets (same joint range, not allocated separately); AppendixB pp70-71. Do not manufacture separate subtype numerical point estimates.",
+    "A8873": "64JY936S",
+    "B8873": "h32",
+    "C8873": "hy1",
+    "H8873": "0",
+    "I8873": "unknown",
+    "J8873": "other",
+    "K8873": "Net wage bill relative change about6.5% from approximate sum of reported employment and per-worker earnings effects; p1751.",
+    "A8874": "64JY936S",
+    "B8874": "h32",
+    "C8874": "hy2",
+    "H8874": "0",
+    "I8874": "unknown",
+    "J8874": "unknown",
+    "K8874": "Labor share of value added, qualitatively fairly stable after windfall; p1751, no numerical labor-share coefficient."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
