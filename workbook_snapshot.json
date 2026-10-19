@@ -37423,7 +37423,16 @@
     "L3724": "0",
     "M3724": "n/a",
     "N3724": "Table2 col8 and SectionVI.B p1555: baseline report of a recent blackout on take-up, conditional no-subsidy slope -2.9pp; subsidy interactions remain in the subsidy settings.",
-    "O3724": "Parameter-specific causal wording: no strong statistical evidence recent blackouts affect demand. Blackouts themselves not randomized; included slope -2.9pp and interactions estimated jointly in linear model. Thus OLS for blackout focal regressor, not RCT merely because equation includes randomized subsidy indicators. Heterogeneity interactions already retained under subsidy settings; do not duplicate their triples here. Independent audit: Retain under broad author-intention gate because p1555 explicitly tests whether recent blackouts affect demand, while recording that the immediate explanation emphasizes the interaction test. This is not a paper-wide license to code every included control causally. The -2.9 slope is for the omitted no-subsidy arm, not the average blackout effect. Printed slope/SE -2.9/1.3 and no-star/insignificance prose are preserved without a significance gate."
+    "O3724": "Parameter-specific causal wording: no strong statistical evidence recent blackouts affect demand. Blackouts themselves not randomized; included slope -2.9pp and interactions estimated jointly in linear model. Thus OLS for blackout focal regressor, not RCT merely because equation includes randomized subsidy indicators. Heterogeneity interactions already retained under subsidy settings; do not duplicate their triples here. Independent audit: Retain under broad author-intention gate because p1555 explicitly tests whether recent blackouts affect demand, while recording that the immediate explanation emphasizes the interaction test. This is not a paper-wide license to code every included control causally. The -2.9 slope is for the omitted no-subsidy arm, not the average blackout effect. Printed slope/SE -2.9/1.3 and no-star/insignificance prose are preserved without a significance gate.",
+    "A3725": "2XPTKJBQ",
+    "B3725": "h1",
+    "I3725": "1",
+    "J3725": "IV",
+    "K3725": "0",
+    "L3725": "0",
+    "M3725": "single continuous",
+    "N3725": "TableB6, p3174: family-BP DI income effect on beneficiary earnings.",
+    "O3725": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Main text establishes implemented effect: family null, upper negative. No unseen table coefficients/benchmarks asserted."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94475,7 +94484,11 @@
     "A8386": "2XPTKJBQ",
     "B8386": "s5",
     "C8386": "hy2",
-    "K8386": "Table2 time-on-DI rows: average annual mortality in years3–4, percentage points."
+    "K8386": "Table2 time-on-DI rows: average annual mortality in years3–4, percentage points.",
+    "A8387": "2XPTKJBQ",
+    "B8387": "h1",
+    "C8387": "hy1",
+    "K8387": "Earnings; exact horizon/scale not established by final main text."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
