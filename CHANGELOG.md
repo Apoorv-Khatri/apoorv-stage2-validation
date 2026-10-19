@@ -687711,3 +687711,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T07:56:51.184985+00:00 — Review 5EFFX2TK s2: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2195",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2196",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2197",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2195",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2196",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2197",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2195",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2196",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2197",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2195",
+    "before": null,
+    "after": "Inactive under rejected predictor-treatment parent; original definition preserved. See source audit for distinct maturity-rule scope."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2196",
+    "before": null,
+    "after": "Inactive under rejected predictor-treatment parent; original definition preserved. See source audit for distinct maturity-rule scope."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2197",
+    "before": null,
+    "after": "Inactive under rejected predictor-treatment parent; original definition preserved. See source audit for distinct maturity-rule scope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I898",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O898",
+    "before": null,
+    "after": "Reject Table1 slope predictor coefficient on its explicitly forecasting estimand. Footnote6 p4164 says an increase decreases short-bond and increases long-bond returns, but opens with time-series predictability in Australia/Canada/Sweden and closes with Table2 economic predictability. This is genuine contrary author-intention language, not an exogeneity rejection; parent may choose broader inclusion."
+  }
+]
+```
