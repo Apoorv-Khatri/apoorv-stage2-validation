@@ -671388,3 +671388,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:21:37.021876+00:00 — Review 4HCEQK9M h2: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8500",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8500",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8500",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8500",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8500",
+    "before": null,
+    "after": "local wage-employment indicator"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3786",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3786",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3786",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3786",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3786",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3786",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3786",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3786",
+    "before": null,
+    "after": "Table5col3 p3206: binary hiring-shock effect varying continuously with control-month employment rate; beta+gamma×employment, not a continuous-dose hiring treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3786",
+    "before": null,
+    "after": "Eq(1), pp3196-3199; Appendix C pp19-21. Village matched-pair randomized high versus low external hiring intensity; workers randomly assigned offers/waitlist/never offered, with never-offered spillover sample. Linear ITT; RCT precedes round-strata FE and sampling weights. Seasonal moderator uses control-village month employment, not randomized season; treatment remains binary. Not IV receipt except s5. Control condition has small hiring shock, not literally no jobs. Randomization supports control counterfactual for matched season/population under maintained sampling assumptions; wage selection, subgroup means and continuous-moderator targets need separate scrutiny."
+  }
+]
+```
