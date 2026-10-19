@@ -840375,3 +840375,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:29:07.252025+00:00 — Review A8LFPXLL h2: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7544",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7545",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7544",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7545",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7544",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7545",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7544",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7545",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7544",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7545",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7544",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7545",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7544",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7545",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7544",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7545",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7544",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7545",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7544",
+    "before": null,
+    "after": "Figure V B and p.671: owner share falls 1.9 percentage points, from baseline 33.5% to implied 31.6%; baseline exposed firms; dollar-weighted 2012 surplus."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7545",
+    "before": null,
+    "after": "Figure V B and p.671 pair the 1.9pp decline with implied postreform owner share 31.6% (baseline 33.5%)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7544",
+    "before": null,
+    "after": "Treated baseline aggregate share is explicit; whether its aggregation weights exactly reproduce the regression target untreated mean is not fully established. Do not infer level alignment from parallel trends."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7545",
+    "before": null,
+    "after": "Post-treatment share, not untreated target mean. Endpoint pairing policy applied symmetrically; parent may prefer single baseline comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9295",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9295",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9295",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9295",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9295",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9295",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9295",
+    "before": null,
+    "after": "Owner share of after-tax firm surplus (workers wage bill + owner wages/business income minus business tax liability)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4132",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4132",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4132",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4132",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4132",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4132",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4132",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4132",
+    "before": null,
+    "after": "Any baseline top-bracket owner effect on owner share of after-tax total firm surplus; dollar weighted by 2012 total surplus and winsorized at 1% Location: Figure V B; pp.670-671"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4132",
+    "before": null,
+    "after": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+  }
+]
+```
