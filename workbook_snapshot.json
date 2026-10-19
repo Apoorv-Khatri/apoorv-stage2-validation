@@ -38405,7 +38405,16 @@
     "L3809": "1",
     "M3809": "n/a",
     "N3809": "Table5 PanelA FIRST subpanel cols1-5: direct referral and referral×tenure effects on log daily wage in linked known-referral spells; controls include pre-estimated worker/firm wage components.",
-    "O3809": "pp526,533-534: scalar prior-window effects, not categorical FE in focal regression; no IV. Preferred col5 initial0.033, interaction-0.017; main direct corroboration. Other columns routine control variants."
+    "O3809": "pp526,533-534: scalar prior-window effects, not categorical FE in focal regression; no IV. Preferred col5 initial0.033, interaction-0.017; main direct corroboration. Other columns routine control variants.",
+    "A3810": "4LB5EN3L",
+    "B3810": "h8",
+    "I3810": "1",
+    "J3810": "OLS",
+    "K3810": "1",
+    "L3810": "0",
+    "M3810": "n/a",
+    "N3810": "Table5 PanelA SECOND subpanel cols1-2: augmented-sample referral minus nonreferral coefficient contrast on log wage, no jointly identifying worker/firm FE.",
+    "O3810": "Same table reports alternative impact estimates; selection concern does not by itself exclude broad author-intention OLS. Unknown-referral spells form base; known referral-versus-nonreferral contrast remains binary."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -96641,7 +96650,14 @@
     "H8551": "0",
     "I8551": "unknown",
     "J8551": "log",
-    "K8551": "Log daily wage in specified Table5 wage subpanel."
+    "K8551": "Log daily wage in specified Table5 wage subpanel.",
+    "A8552": "4LB5EN3L",
+    "B8552": "h8",
+    "C8552": "hy1",
+    "H8552": "0",
+    "I8552": "unknown",
+    "J8552": "log",
+    "K8552": "Log daily wage in specified Table5 wage subpanel."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
