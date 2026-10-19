@@ -684912,3 +684912,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:49:42.500259+00:00 — Review 4X3H7PWW h18: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8597",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8597",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8597",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8597",
+    "before": null,
+    "after": "Employment versus unemployment indicator, TableE8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3834",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3834",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3834",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3834",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3834",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3834",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3834",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3834",
+    "before": null,
+    "after": "AppendixTableE8/Eq13: 1966 Kaitz index × post × South, employment probability all/Black/White."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3834",
+    "before": null,
+    "after": "Distinct moderator-specific DDD estimand. Lower-order treatment effect applies moderator0, total at1 requires adding triple term. E7 prose mistakenly calls negative Black effect tight market, table row says above-median unemployment. Keep coefficient-conditional meanings; no generic independent causal effect assigned to geography control."
+  }
+]
+```
