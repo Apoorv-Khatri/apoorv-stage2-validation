@@ -839295,3 +839295,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:24:13.549129+00:00 — Review A8LFPXLL s2: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2416",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2416",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2416",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I965",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J965",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K965",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L965",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M965",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O965",
+    "before": null,
+    "after": "Figure II D and Table II A: realized top-bracket indicator instrumented by baseline any-top-bracket-owner indicator (2011 AND 2012); single binary excluded exposure for each year-specific contrast. First-stage plot II C is diagnostic only."
+  }
+]
+```
