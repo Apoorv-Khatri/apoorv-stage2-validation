@@ -682383,3 +682383,168 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:43:29.870518+00:00 — Review 4X3H7PWW s13: source-audited coding and linked comparisons
+
+26 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6020",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6020",
+    "before": null,
+    "after": "s13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6020",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6020",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6020",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6020",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6020",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6020",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6020",
+    "before": null,
+    "after": "Abstract p169/introduction p174 and pp219-221: adjusted treated-industry racial gap fell from25 log points prereform to approximately0 afterward; same-gap prereform level25 log points."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6020",
+    "before": null,
+    "after": "The source deliberately describes 25-to-zero treated-gap closure, but FigureXI also shows falling control gaps. This total within-treated decline is not the control-adjusted policy contrast coded at s13. Eligibility as the focal causal magnitude remains unresolved; retain evidence without inventing a 25-log-point DiD estimate. Verbal1/divided0 concern the observed endpoint description, not a certified policy-effect comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2189",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2190",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2189",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2190",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2189",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2190",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2189",
+    "before": null,
+    "after": "Adjusted white-minus-Black log annual earnings gap in treated industries, FigureXI; Eq7 dependent variable is log earnings and the plotted positive gap reverses the Black coefficient sign. The gap is not the log of a gap. Policy effect is differential evolution, not the full within-treated decline."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2190",
+    "before": null,
+    "after": "Adjusted white-minus-Black log annual earnings gap in control industries, FigureXI; Eq7 dependent variable is log earnings and the plotted positive gap reverses the Black coefficient sign. The gap is not the log of a gap. Policy effect is differential evolution, not the full within-treated decline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I895",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J895",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K895",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L895",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M895",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N895",
+    "before": null,
+    "after": "Eq(7)/FigureXI: adjusted racial wage paths, interpreted as binary1967 industry coverage reform effect on racial earnings disparity, not an intervention on race."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O895",
+    "before": null,
+    "after": "pp219-221: separately estimated Black×year regressions; authors compare parallel prereform treated/control gap paths and differential postreform decline. Classify equivalent graphical DDD/DiD gap contrast, not causal race OLS. Contested: if taxonomy restricts to explicitly estimated policy contrast, OLS adjusted-path implementation alternative; no identifying-FE-only claim. No added OLS/FE split."
+  }
+]
+```
