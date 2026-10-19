@@ -678450,3 +678450,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:30:19.254781+00:00 — Review 4HCEQK9M h18: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8535",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8536",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8537",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8538",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8535",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8536",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8537",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8538",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8535",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8536",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8537",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8538",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8535",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8536",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8537",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8538",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8535",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8536",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8537",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8538",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8535",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8536",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8537",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8538",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8535",
+    "before": null,
+    "after": "Local total wage distribution, rupee axis0-500, Figure4panels1A/B; cash plus in-kind wages conditional on observed paid work. Raw outcome scale; plotted using empirical CDFs, not log or outcome-SD normalization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8536",
+    "before": null,
+    "after": "Spillover employment distribution, day-count axis0-7, Figure4panels2A/B; not daily binary employment. Exact aggregation window not stated in caption. Raw outcome scale; plotted using empirical CDFs, not log or outcome-SD normalization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8537",
+    "before": null,
+    "after": "Full-village aggregate employment distribution, day-count axis0-7, Figure4panels3A/B; not village-day mean share. Exact plot aggregation/weights not specified. Raw outcome scale; plotted using empirical CDFs, not log or outcome-SD normalization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8538",
+    "before": null,
+    "after": "Self-employment distribution, day-count axis0-7, Figure4panels4A/B; not daily binary status. Exact plot aggregation window not stated in caption. Raw outcome scale; plotted using empirical CDFs, not log or outcome-SD normalization."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E97",
+    "before": null,
+    "after": "DONE — Full review of41 final article pages and24-page official AEA appendix, independently retrieved/hash-matched and audited. Retain28 settings plus one eligibility-unknown A5 prior-study scope;76 outcome records,167 retained comparisons and two unknown A5 endpoint comparisons. All23 continuous-moderator comparison candidates held outside application. AppendixE full elasticity methods unknown; intermediate demand Wald slope does not certify complete normalization or supply counterfactual recovery. Figure4 distributional RCT effects added, KS tests diagnostic. Table3 non-signup tested totals added with pooled/subgroup alignment0, symmetrically with signup totals. Preserve Table8 literal1.172/1.406 and50%/61% conflicts; exact verbal/division links unknown where unsupported. Outcome sample scopes and footnote31 self-employment coverage corrected. B11 construction unresolved; selected-round/wage-sample limits explicit. Replication code blocked, no bypass or invented implementation. Original fields, IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3802",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3802",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3802",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3802",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3802",
+    "before": null,
+    "after": "Figure4 p3203, panels1-4 A/B: randomized high-versus-low hiring-shock comparisons of local wage, spillover employment, full-village employment and self-employment distributions, by season."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3802",
+    "before": null,
+    "after": "Substantive author-interpreted distributional effects at a distinct result location (main pp3202,3206-3207). Empirical CDF contrasts are mean differences of threshold indicators, linear conditional on thresholds, not quantile estimation. KS tests are diagnostic inference only, not separate Other settings. Do not reuse daily binary employment outcomes for plotted0-7 work-day distributions. No numeric threshold-effect grid inferred."
+  }
+]
+```
