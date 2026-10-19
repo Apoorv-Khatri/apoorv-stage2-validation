@@ -39877,7 +39877,16 @@
     "L3943": "0",
     "M3943": "n/a",
     "N3943": "High versus medium2006 firm exposure x post temporary-contract share, A23F; linked LFS/admin sample. Substantive null workforce contractual-composition response.",
-    "O3943": "Graphical treated/control before-after contrast interpreted as no expansion of temporary jobs in more exposed firms. A23E cross-sectional share-young correlation alone excluded; A23F null retained under broad author-intention gate, although used also as confound check. Appendix p68 first calls the comparison high/low, then high/medium; A23F legend and ensuing prose say medium. Preserve this additional printed conflict."
+    "O3943": "Graphical treated/control before-after contrast interpreted as no expansion of temporary jobs in more exposed firms. A23E cross-sectional share-young correlation alone excluded; A23F null retained under broad author-intention gate, although used also as confound check. Appendix p68 first calls the comparison high/low, then high/medium; A23F legend and ensuing prose say medium. Preserve this additional printed conflict.",
+    "A3944": "64JY936S",
+    "B3944": "h29",
+    "I3944": "1",
+    "J3944": "unknown",
+    "K3944": "unknown",
+    "L3944": "0",
+    "M3944": "unknown",
+    "N3944": "Concurrent temporary-contract reform and temporary-job composition by age, Figure A23D / Appendix A.3.2: pre2002-06 versus post2009-13 age profiles; no expansion among young, slight older expansion. Substantive policy-null interpretation, not an identified youth-payroll eligibility coefficient.",
+    "O3944": "Appendix A.3.2 pp66-67 and A23D attributes this profile to temporary-contract reform. Retain the minimum policy-response scope under the broad author-intention gate, with unknown method and exposure coding: no untreated group for the nationwide concurrent reform is established. Alternative exclusion as diagnostic-only remains for parent adjudication. Do not assign binary age eligibility to this concurrent reform."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100559,7 +100568,14 @@
     "H8867": "0",
     "I8867": "unknown",
     "J8867": "none",
-    "K8867": "Share of workers on temporary contracts in matched LFS/admin firm groups; A23F. Repeated cross-sections, not a balanced firm panel asserted."
+    "K8867": "Share of workers on temporary contracts in matched LFS/admin firm groups; A23F. Repeated cross-sections, not a balanced firm panel asserted.",
+    "A8868": "64JY936S",
+    "B8868": "h29",
+    "C8868": "hy1",
+    "H8868": "0",
+    "I8868": "unknown",
+    "J8868": "none",
+    "K8868": "Temporary employment as share of total employment by age and period; A23D. Not temporary employment/labor-force contribution in A23C."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

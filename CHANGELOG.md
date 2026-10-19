@@ -751863,3 +751863,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:32:39.063823+00:00 — Review 64JY936S h29: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8868",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8868",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8868",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8868",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8868",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8868",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8868",
+    "before": null,
+    "after": "Temporary employment as share of total employment by age and period; A23D. Not temporary employment/labor-force contribution in A23C."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3944",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3944",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3944",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3944",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3944",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3944",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3944",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3944",
+    "before": null,
+    "after": "Concurrent temporary-contract reform and temporary-job composition by age, Figure A23D / Appendix A.3.2: pre2002-06 versus post2009-13 age profiles; no expansion among young, slight older expansion. Substantive policy-null interpretation, not an identified youth-payroll eligibility coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3944",
+    "before": null,
+    "after": "Appendix A.3.2 pp66-67 and A23D attributes this profile to temporary-contract reform. Retain the minimum policy-response scope under the broad author-intention gate, with unknown method and exposure coding: no untreated group for the nationwide concurrent reform is established. Alternative exclusion as diagnostic-only remains for parent adjudication. Do not assign binary age eligibility to this concurrent reform."
+  }
+]
+```
