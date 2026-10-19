@@ -753129,3 +753129,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:57:57.962095+00:00 — Review 7PQVC2SH s6: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I931",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J931",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K931",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L931",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M931",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N931",
+    "before": null,
+    "after": "Table1 cols1-4: sales-schooling coefficients in switchers, baseline and ability-proxy adjusted; corrected coefficient = schooling slope + assumed wage return times prior-wage slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O931",
+    "before": null,
+    "after": "OLS and fixed-external-parameter linear combination remain linear in log sales. Not IV or nonlinear control function simply because ability is inverted analytically. cols2/4 corrections0.0308/0.0778 and0.0287/0.0751 at ages0/10; retain negative raw slopes. Prior-wage and occupation-count effects are proxy controls, not independent schooling interventions. Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented."
+  }
+]
+```
