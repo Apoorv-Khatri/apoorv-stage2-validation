@@ -37764,7 +37764,16 @@
     "L3755": "1",
     "M3755": "n/a",
     "N3755": "TableA9 panelsA-B: 1883 reform on logs of letters, postal cards and newspapers delivered and collected.",
-    "O3755": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Workload disaggregation central null mechanism; only1883 simple DiD. Alternative supporting main=0 is held for parent."
+    "O3755": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Workload disaggregation central null mechanism; only1883 simple DiD. Alternative supporting main=0 is held for parent.",
+    "A3756": "3ZIDN6KF",
+    "B3756": "h18",
+    "I3756": "1",
+    "J3756": "DiD_conventional",
+    "K3756": "1",
+    "L3756": "1",
+    "M3756": "n/a",
+    "N3756": "TableA10 / Figure5: 1883 reform changes the slope of log delivery errors on log aggregate volume; difference of before/after slopes across reformed/unreformed cities (-.825).",
+    "O3756": "p2376 explicitly attributes flattening production relationship to reform, not merely volume prediction. Linear in log error outcome conditional on volume series; differences of linear slopes represent interacted DDD, not nonlinear merely because slopes reported. Figure5 local-polynomial curves are visualization of relationship, not additional causal volume settings. Conditional volume/endogeneity remains limitation. Main role via production mechanism, supporting alternative held. Retain the printed -.825 (SE .368); do not reconstruct it from rounded group entries. Means8.747 and5.574 belong to the separate group regressions; the spanning slope-change difference has no uniquely assigned benchmark. Do not create two retained triples from that ambiguity."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -95192,7 +95201,14 @@
     "H8434": "0",
     "I8434": "unknown",
     "J8434": "log",
-    "K8434": "Log collected newspapers, TableA9."
+    "K8434": "Log collected newspapers, TableA9.",
+    "A8435": "3ZIDN6KF",
+    "B8435": "h18",
+    "C8435": "hy1",
+    "H8435": "0",
+    "I8435": "unknown",
+    "J8435": "log",
+    "K8435": "Log delivery errors as reported dependent outcome, not an estimated beta outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

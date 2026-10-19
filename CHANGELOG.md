@@ -658674,3 +658674,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:29:09.097383+00:00 — Review 3ZIDN6KF h18: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8435",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8435",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8435",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8435",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8435",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8435",
+    "before": null,
+    "after": "Log delivery errors as reported dependent outcome, not an estimated beta outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3756",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3756",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3756",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3756",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3756",
+    "before": null,
+    "after": "TableA10 / Figure5: 1883 reform changes the slope of log delivery errors on log aggregate volume; difference of before/after slopes across reformed/unreformed cities (-.825)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3756",
+    "before": null,
+    "after": "p2376 explicitly attributes flattening production relationship to reform, not merely volume prediction. Linear in log error outcome conditional on volume series; differences of linear slopes represent interacted DDD, not nonlinear merely because slopes reported. Figure5 local-polynomial curves are visualization of relationship, not additional causal volume settings. Conditional volume/endogeneity remains limitation. Main role via production mechanism, supporting alternative held. Retain the printed -.825 (SE .368); do not reconstruct it from rounded group entries. Means8.747 and5.574 belong to the separate group regressions; the spanning slope-change difference has no uniquely assigned benchmark. Do not create two retained triples from that ambiguity."
+  }
+]
+```
