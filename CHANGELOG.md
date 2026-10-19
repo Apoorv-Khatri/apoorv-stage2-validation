@@ -794835,3 +794835,318 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T13:28:31.209839+00:00 — Review 9VJYE45Y h12: source-audited coding and linked comparisons
+
+51 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9086",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9087",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9088",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9089",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9090",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9091",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9086",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9087",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9088",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9089",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9090",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9091",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9086",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9087",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9088",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9089",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9090",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9091",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9086",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9087",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9088",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9089",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9090",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9091",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9086",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9087",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9088",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9089",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9090",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9091",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9086",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9087",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9088",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9089",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9090",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9091",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9086",
+    "before": null,
+    "after": "Mean of individual annual spending change conditional on predicted baseline spending; Figure VIII top. No numeric graph endpoints invented; distinct from Table VI difference of distributional quantiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9087",
+    "before": null,
+    "after": "10th percentile of individual annual spending change conditional on predicted baseline spending; Figure VIII top. No numeric graph endpoints invented; distinct from Table VI difference of distributional quantiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9088",
+    "before": null,
+    "after": "25th percentile of individual annual spending change conditional on predicted baseline spending; Figure VIII top. No numeric graph endpoints invented; distinct from Table VI difference of distributional quantiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9089",
+    "before": null,
+    "after": "50th percentile of individual annual spending change conditional on predicted baseline spending; Figure VIII top. No numeric graph endpoints invented; distinct from Table VI difference of distributional quantiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9090",
+    "before": null,
+    "after": "75th percentile of individual annual spending change conditional on predicted baseline spending; Figure VIII top. No numeric graph endpoints invented; distinct from Table VI difference of distributional quantiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9091",
+    "before": null,
+    "after": "90th percentile of individual annual spending change conditional on predicted baseline spending; Figure VIII top. No numeric graph endpoints invented; distinct from Table VI difference of distributional quantiles."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4088",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4088",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4088",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4088",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4088",
+    "before": null,
+    "after": "Fill gap versus standard2008: conditional distribution of individual annual spending changes by predicted baseline spending, Figure VIII top pp879-882."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4088",
+    "before": null,
+    "after": "Structural dynamic purchase model estimated by simulated minimum distance (equation9); nonlinear recovery/optimization, not IV from moment conditions and not RD from the budget kink. Same simulation draws across contracts; fixed health/preferences, plan selection and supply. Main role follows introduction/conclusion, not table order."
+  }
+]
+```
