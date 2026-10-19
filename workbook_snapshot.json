@@ -41987,7 +41987,16 @@
     "L4146": "0",
     "M4146": "single binary",
     "N4146": "Realized top-bracket exposure instrumented by baseline 2011-2012 exposure; sample/weight variants Location: Table A.6 DD 2SLS baseline, unweighted and composition samples",
-    "O4146": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+    "O4146": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location.",
+    "A4147": "A8LFPXLL",
+    "B4147": "h17",
+    "I4147": "1",
+    "J4147": "DiD_conventional",
+    "K4147": "0",
+    "L4147": "0",
+    "M4147": "n/a",
+    "N4147": "Predicted marginal business tax rate dose, Table A.6 elasticity ITT: baseline and sample/weight robustness, including single owner, all-owners-top, top net of capital gains/dividends and top net of investment income restrictions.",
+    "O4147": "Table A.6 pp.64 and E.1-E.2 pp.83-85. Merge former h27-h29: these rows restrict exposure eligibility/sample, but no separately constructed continuous MTR is established. Retain the actual elasticity estimates -0.171, -0.163, -0.164 respectively; exact rate construction for the last two restrictions unresolved. Different baseline-year doses h25/h26/h30 retained. Main appendix -0.155 conflicts with final -0.163. No additional coefficient grid or OLS method."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105907,7 +105916,11 @@
     "H9312": "0",
     "I9312": "0",
     "J9312": "log",
-    "K9312": "Log average employee earnings, Table A.6 DD 2SLS sample robustness; main row -0.0259 versus final Table II -0.0258 conflict retained."
+    "K9312": "Log average employee earnings, Table A.6 DD 2SLS sample robustness; main row -0.0259 versus final Table II -0.0258 conflict retained.",
+    "A9313": "A8LFPXLL",
+    "B9313": "h17",
+    "C9313": "hy1",
+    "K9313": "Log average employee earnings; main appendix elasticity -0.155 versus final Table II -0.163, not substituted."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

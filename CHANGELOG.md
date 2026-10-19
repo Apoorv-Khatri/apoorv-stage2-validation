@@ -842298,3 +842298,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:35:41.841834+00:00 — Review A8LFPXLL h17: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9313",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9313",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9313",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9313",
+    "before": null,
+    "after": "Log average employee earnings; main appendix elasticity -0.155 versus final Table II -0.163, not substituted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4147",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4147",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4147",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4147",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4147",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4147",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4147",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4147",
+    "before": null,
+    "after": "Predicted marginal business tax rate dose, Table A.6 elasticity ITT: baseline and sample/weight robustness, including single owner, all-owners-top, top net of capital gains/dividends and top net of investment income restrictions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4147",
+    "before": null,
+    "after": "Table A.6 pp.64 and E.1-E.2 pp.83-85. Merge former h27-h29: these rows restrict exposure eligibility/sample, but no separately constructed continuous MTR is established. Retain the actual elasticity estimates -0.171, -0.163, -0.164 respectively; exact rate construction for the last two restrictions unresolved. Different baseline-year doses h25/h26/h30 retained. Main appendix -0.155 conflicts with final -0.163. No additional coefficient grid or OLS method."
+  }
+]
+```
