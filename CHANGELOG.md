@@ -681642,3 +681642,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:22:42.957307+00:00 — Review 4X3H7PWW s6: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2175",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2175",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2175",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2175",
+    "before": null,
+    "after": "Log annual earnings in E2 industry and education subgroups; all/Black/White coefficients repeat s8/s9 and are not additional comparisons."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I888",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J888",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K888",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L888",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M888",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N888",
+    "before": null,
+    "after": "Eq(3)/AppendixE2: strong versus weak state DiD on log annual earnings by treated/control industry and education; all/race estimates repeated TableVI belong s8/s9."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O888",
+    "before": null,
+    "after": "State groups, not individually identified states. AppendixE2 defines >50% population rule for mixed state groups. E2 low-education0.144 differs from E4 low-education0.050; retain separately, do not repair."
+  }
+]
+```
