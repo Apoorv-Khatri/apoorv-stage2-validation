@@ -659379,3 +659379,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:30:13.094162+00:00 — Review 3ZIDN6KF h21: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8441",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8441",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8441",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8441",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8441",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8441",
+    "before": null,
+    "after": "Log delivery errors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3759",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3759",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3759",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3759",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3759",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3759",
+    "before": null,
+    "after": "FigureA3: leave-one-state-out robustness of the 1893 reform on log delivery errors; state omissions grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3759",
+    "before": null,
+    "after": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Caption cites Table2col2 despite wave-restricted plotted samples; no numerical graph grid invented. Different figure result location; variants grouped."
+  }
+]
+```
