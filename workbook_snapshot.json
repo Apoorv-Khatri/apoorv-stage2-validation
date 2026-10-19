@@ -38133,7 +38133,16 @@
     "L3784": "0",
     "M3784": "unknown",
     "N3784": "p896 fn31: crisis increase in cash-in-advance and decrease in postshipment for new customers concentrated in weak-enforcement countries, shown online.",
-    "O3784": "Explicit substantive implemented heterogeneity result. Unknown whether plotted multinomial logit or linear triple interaction; do not infer DiD or Other solely from neighboring sentences. Exact enforcement metric/cutoff unavailable; new-customer contrast itself binary."
+    "O3784": "Explicit substantive implemented heterogeneity result. Unknown whether plotted multinomial logit or linear triple interaction; do not infer DiD or Other solely from neighboring sentences. Exact enforcement metric/cutoff unavailable; new-customer contrast itself binary.",
+    "A3785": "4HCEQK9M",
+    "B3785": "h1",
+    "I3785": "1",
+    "J3785": "RCT",
+    "K3785": "1",
+    "L3785": "0",
+    "M3785": "n/a",
+    "N3785": "Table3col5 p3204: binary hiring-shock effect varying continuously with control-month employment rate; beta+gamma×employment, not a continuous-dose hiring treatment.",
+    "O3785": "Eq(1), pp3196-3199; Appendix C pp19-21. Village matched-pair randomized high versus low external hiring intensity; workers randomly assigned offers/waitlist/never offered, with never-offered spillover sample. Linear ITT; RCT precedes round-strata FE and sampling weights. Seasonal moderator uses control-village month employment, not randomized season; treatment remains binary. Not IV receipt except s5. Control condition has small hiring shock, not literally no jobs. Randomization supports control counterfactual for matched season/population under maintained sampling assumptions; wage selection, subgroup means and continuous-moderator targets need separate scrutiny."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -96021,7 +96030,14 @@
     "H8498": "0",
     "I8498": "unknown",
     "J8498": "none",
-    "K8498": "Number of trouble-hiring days in preceding10 days, B9 cols4 A/B."
+    "K8498": "Number of trouble-hiring days in preceding10 days, B9 cols4 A/B.",
+    "A8499": "4HCEQK9M",
+    "B8499": "h1",
+    "C8499": "hy1",
+    "H8499": "0",
+    "I8499": "unknown",
+    "J8499": "log",
+    "K8499": "log total wage"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
