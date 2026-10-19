@@ -39174,7 +39174,16 @@
     "L3878": "0",
     "M3878": "n/a",
     "N3878": "Appendix A17 p24, Panels A/B coupon and zero-coupon: bills versus ten-year bonds under dynamic yield-curve slopes foreign/reference-country strategy. 3-month holding; 1975:1-2015:12 or largest available; zero-coupon equally-weighted 1985:4-2015:12; return difference in USD. Country-specific and equally-weighted results grouped; routine bond-data variants grouped within the reported table.",
-    "O3878": "Independent inclusion: same country-pair long/short rule, predetermined signal and historical path held fixed while substituting ten-year bonds for bills on both legs. The local-return-difference component is the maturity-rule change, not a causal effect of the predictor. Introduction pp4142-4143 covers maturity substitution; pp4150-4152 explicitly interpret cancellation. This corrects an asymmetric exclusion relative to Table3. Counterevidence: authors also call these economic predictability diagnostics. OLS code is conditional linear contrast of log returns; not a fitted causal regression. Price taking and omitted transaction costs maintained. Country rows and equal-weight aggregate are distinct reported estimates, not new settings. A17 Panel B mean/Sharpe signs conflict (e.g. Australia 3.81 versus -0.28); retain means literally, do not repair signs or use Sharpe ratios as effect normalization."
+    "O3878": "Independent inclusion: same country-pair long/short rule, predetermined signal and historical path held fixed while substituting ten-year bonds for bills on both legs. The local-return-difference component is the maturity-rule change, not a causal effect of the predictor. Introduction pp4142-4143 covers maturity substitution; pp4150-4152 explicitly interpret cancellation. This corrects an asymmetric exclusion relative to Table3. Counterevidence: authors also call these economic predictability diagnostics. OLS code is conditional linear contrast of log returns; not a fitted causal regression. Price taking and omitted transaction costs maintained. Country rows and equal-weight aggregate are distinct reported estimates, not new settings. A17 Panel B mean/Sharpe signs conflict (e.g. Australia 3.81 versus -0.28); retain means literally, do not repair signs or use Sharpe ratios as effect normalization.",
+    "A3879": "5SL56HMJ",
+    "B3879": "h1",
+    "I3879": "1",
+    "J3879": "OLS",
+    "K3879": "1",
+    "L3879": "1",
+    "M3879": "n/a",
+    "N3879": "Table5 col1: VI-minus-MM log TFP premium -0.074 with year controls only.",
+    "O3879": "Baseline without the identifying firm/geographic cells, pp149-150. Separate actual OLS setting rather than pooling with s3 FE; repeated premise but separately located comparison specification."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -98265,7 +98274,14 @@
     "H8672": "0",
     "I8672": "unknown",
     "J8672": "other",
-    "K8672": "Appendix A17 p24, Panels A/B coupon and zero-coupon: annualized log excess return difference of foreign/reference-country strategy in USD, 3-month holding. Difference of log holding returns, not log of signed excess return. Local component is the maturity-rule change."
+    "K8672": "Appendix A17 p24, Panels A/B coupon and zero-coupon: annualized log excess return difference of foreign/reference-country strategy in USD, 3-month holding. Difference of log holding returns, not log of signed excess return. Local component is the maturity-rule change.",
+    "A8673": "5SL56HMJ",
+    "B8673": "h1",
+    "C8673": "hy1",
+    "H8673": "0",
+    "I8673": "unknown",
+    "J8673": "log",
+    "K8673": "Estimated log TFP, Table5 col1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
