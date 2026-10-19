@@ -627126,3 +627126,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:57:35.803505+00:00 — Review 2UP7GN8M h8: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8336",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8336",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8336",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8336",
+    "before": null,
+    "after": "Publication indicator; Fig4 no-control linear probability regressions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3693",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3693",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3693",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3693",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3693",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3693",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3693",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3693",
+    "before": null,
+    "after": "Figure4 p3322: publication-probability gradient in relative efficacy, separately sponsored (.086) and not sponsored (.061), no controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3693",
+    "before": null,
+    "after": "Caption explicitly reports regressions. Same author-intention publication-selection argument as s6, with no FE; gate equally contested as descriptive association. Not an effect of sponsorship itself; introduction makes mechanism central. Overall 86% publication rate in nearby prose is not explicitly paired as magnitude benchmark, so not added. Independent audit: Retain under broad author-intention gate, not because gradient is significant. Introduction p3301 describes favorable sponsored results being selected into publication; conclusion p3331 says sponsors affect publication and knowledge availability. Eq5/Figure4 implement this directional selection mechanism, including the nonsponsored weak/null gradient. The relationship/corroboration wording is contrary evidence but not a disavowal of this mechanism. No claim of exogenous efficacy assignment."
+  }
+]
+```
