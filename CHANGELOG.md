@@ -795477,3 +795477,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T14:00:18.044015+00:00 — Review 9XCS46FU s2: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2367",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2368",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2367",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2368",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2367",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2368",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2367",
+    "before": null,
+    "after": "Spurious as a causal-outcome record under rejected observational/diagnostic parent; original measured outcome and model fields preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2368",
+    "before": null,
+    "after": "Spurious as a causal-outcome record under rejected observational/diagnostic parent; original measured outcome and model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I951",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O951",
+    "before": null,
+    "after": "Independent author-intention gate: Section IV.B is a risk-proxy diagnostic/bounding exercise, not an appearance intervention on offending. Broad influence rhetoric is acknowledged but does not override parameter-specific correlation language."
+  }
+]
+```
