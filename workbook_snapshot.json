@@ -41879,7 +41879,16 @@
     "L4134": "0",
     "M4134": "n/a",
     "N4134": "Binary owner exposure effect within predicted liability groups, each relative to unexposed firms Location: Figure VII, p.674",
-    "O4134": "Figure visually shows Losses and Q1-Q4; caption says quartiles, prose says quintiles. Do not relabel as continuous treatment or fabricate coefficients."
+    "O4134": "Figure visually shows Losses and Q1-Q4; caption says quartiles, prose says quintiles. Do not relabel as continuous treatment or fabricate coefficients.",
+    "A4135": "A8LFPXLL",
+    "B4135": "h5",
+    "I4135": "1",
+    "J4135": "unknown",
+    "K4135": "0",
+    "L4135": "0",
+    "M4135": "unknown",
+    "N4135": "Total personal tax liability of business owners (business AND nonbusiness), dollar pass-through to employee earnings Location: p.687, Eq.(5), estimate -0.058 (SE .006)",
+    "O4135": "Separate implemented regression explicitly reported. Eq.(5) has reduced-form average-earnings and IV total-wage-bill versions; paragraph does not say which is used. Hold estimator and exact average-versus-total outcome allocation unknown, not assumed IV."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105713,7 +105722,11 @@
     "H9298": "0",
     "I9298": "0",
     "J9298": "log",
-    "K9298": "Log average employee earnings, separately for exposed loss firms and predicted-liability quartiles Q1-Q4 against unexposed controls."
+    "K9298": "Log average employee earnings, separately for exposed loss firms and predicted-liability quartiles Q1-Q4 against unexposed controls.",
+    "A9299": "A8LFPXLL",
+    "B9299": "h5",
+    "C9299": "hy1",
+    "K9299": "Employee earnings response per dollar of total owners personal tax liability; -0.058, SE .006, p.687. Average-earnings versus total-wage-bill implementation unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

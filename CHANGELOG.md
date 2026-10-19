@@ -840828,3 +840828,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:30:29.639866+00:00 — Review A8LFPXLL h5: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9299",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9299",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9299",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9299",
+    "before": null,
+    "after": "Employee earnings response per dollar of total owners personal tax liability; -0.058, SE .006, p.687. Average-earnings versus total-wage-bill implementation unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4135",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4135",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4135",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4135",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4135",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4135",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4135",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4135",
+    "before": null,
+    "after": "Total personal tax liability of business owners (business AND nonbusiness), dollar pass-through to employee earnings Location: p.687, Eq.(5), estimate -0.058 (SE .006)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4135",
+    "before": null,
+    "after": "Separate implemented regression explicitly reported. Eq.(5) has reduced-form average-earnings and IV total-wage-bill versions; paragraph does not say which is used. Hold estimator and exact average-versus-total outcome allocation unknown, not assumed IV."
+  }
+]
+```
