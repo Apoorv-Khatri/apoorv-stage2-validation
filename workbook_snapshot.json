@@ -37683,7 +37683,16 @@
     "L3746": "1",
     "M3746": "n/a",
     "N3746": "Table7 col4: reform×post×election differential effect on city exit rate; balanced panel.",
-    "O3746": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Election means first personnel observation after election (fn32); .023 nonelection reform effect and -.130 election differential; .054 prereform group election gap not a reform causal effect."
+    "O3746": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Election means first personnel observation after election (fn32); .023 nonelection reform effect and -.130 election differential; .054 prereform group election gap not a reform causal effect.",
+    "A3747": "3ZIDN6KF",
+    "B3747": "h9",
+    "I3747": "1",
+    "J3747": "HDFE",
+    "K3747": "1",
+    "L3747": "1",
+    "M3747": "n/a",
+    "N3747": "Table9 col3: reform-city × postreform-entry-cohort on individual exit, within postreform period.",
+    "O3747": "Table9 col3, pp2379-2381: retain HDFE for the entry-cohort selection parameter. Header and prose specify postreform observations, comparing entry cohorts in the same incentive environment; no individual before/after treatment switch identifies this cohort coefficient. Four separately varying sets: wave×city, wave×experience, wave×year×job, wave×year×state. Experience FE explicitly address tenure-driven exits; city/time FE address persistent and common/local shocks. None of these four sets is nested wholly in another. Caption instead says postreform entrants; unresolved source conflict retained. A cohort-DiD reading is a taxonomy alternative, not established calendar-time DiD for this parameter."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -95013,7 +95022,14 @@
     "H8420": "0",
     "I8420": "unknown",
     "J8420": "none",
-    "K8420": "City share last observed in personnel records; not individual binary exit."
+    "K8420": "City share last observed in personnel records; not individual binary exit.",
+    "A8421": "3ZIDN6KF",
+    "B8421": "h9",
+    "C8421": "hy1",
+    "H8421": "1",
+    "I8421": "1",
+    "J8421": "none",
+    "K8421": "Individual exit indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -160693,7 +160709,18 @@
     "O5826": "0",
     "P5826": "unknown",
     "Q5826": "Table7 col4 p2378: focal -.130 reform×post×election differential; deliberately paired mean dependent variable .148, same reported scale and estimation sample.",
-    "R5826": "Mean covers estimation sample, not established untreated target-population mean. Parallel trends does not establish equal untreated levels; target weights/time construction unresolved, alignment unknown."
+    "R5826": "Mean covers estimation sample, not established untreated target-population mean. Parallel trends does not establish equal untreated levels; target weights/time construction unresolved, alignment unknown.",
+    "A5827": "3ZIDN6KF",
+    "B5827": "h9",
+    "C5827": "hc1",
+    "K5827": "1",
+    "L5827": "hy1",
+    "M5827": "outcome_mean",
+    "N5827": "0",
+    "O5827": "0",
+    "P5827": "unknown",
+    "Q5827": "Table9 col3 p2381 post-period sample (caption conflicts): focal .014; deliberately paired mean dependent variable .124, same reported scale and estimation sample.",
+    "R5827": "Printed mean pertains to the column estimation sample; no untreated cohort-target benchmark or matching weighting construction established. Cohort selection and source sample ambiguity prevent confirmed alignment; unknown."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

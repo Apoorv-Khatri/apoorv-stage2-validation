@@ -656463,3 +656463,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:25:50.582231+00:00 — Review 3ZIDN6KF h9: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5827",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5827",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5827",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5827",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5827",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5827",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5827",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5827",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5827",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5827",
+    "before": null,
+    "after": "Table9 col3 p2381 post-period sample (caption conflicts): focal .014; deliberately paired mean dependent variable .124, same reported scale and estimation sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5827",
+    "before": null,
+    "after": "Printed mean pertains to the column estimation sample; no untreated cohort-target benchmark or matching weighting construction established. Cohort selection and source sample ambiguity prevent confirmed alignment; unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8421",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8421",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8421",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8421",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8421",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8421",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8421",
+    "before": null,
+    "after": "Individual exit indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3747",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3747",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3747",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3747",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3747",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3747",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3747",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3747",
+    "before": null,
+    "after": "Table9 col3: reform-city × postreform-entry-cohort on individual exit, within postreform period."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3747",
+    "before": null,
+    "after": "Table9 col3, pp2379-2381: retain HDFE for the entry-cohort selection parameter. Header and prose specify postreform observations, comparing entry cohorts in the same incentive environment; no individual before/after treatment switch identifies this cohort coefficient. Four separately varying sets: wave×city, wave×experience, wave×year×job, wave×year×state. Experience FE explicitly address tenure-driven exits; city/time FE address persistent and common/local shocks. None of these four sets is nested wholly in another. Caption instead says postreform entrants; unresolved source conflict retained. A cohort-DiD reading is a taxonomy alternative, not established calendar-time DiD for this parameter."
+  }
+]
+```
