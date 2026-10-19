@@ -679206,3 +679206,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:53:04.632051+00:00 — Review 4LB5EN3L s8: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6015",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6015",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6015",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6015",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6015",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6015",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6015",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6015",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6015",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6015",
+    "before": null,
+    "after": "p536: welfare increases0.62% when referral information improves matching relative to re-solved sigma_R squared=sigma_E squared counterfactual. Welfare is value of unemployment; no numerical baseline U reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6015",
+    "before": null,
+    "after": "Same-outcome structural counterfactual level, not sample outcome mean.0.15% is uncertainty of simulated welfare gain, not outcome-SD benchmark.41.4% signal-noise comparison concerns parameter, not outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2166",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2166",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2166",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2166",
+    "before": null,
+    "after": "Spurious as a dependent causal outcome in this setting: sigma_R squared0.62 and implied41.4% noise reduction are calibrated treatment/structural parameter, not a separate effect on an outcome. Preserve as supporting parameter evidence."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2167",
+    "before": null,
+    "after": "Equilibrium overall welfare, value of unemployment U; re-solved equal-noise counterfactual, pp535-536/A.5; nonbinary treatment labels optional."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I882",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J882",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K882",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L882",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M882",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N882",
+    "before": null,
+    "after": "Section5.4 pp535-536 and AppendixA.5: calibrated reduction in referral-market productivity-signal noise versus sigma_R squared=sigma_E squared; re-solved equilibrium welfare (value of unemployment)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O882",
+    "before": null,
+    "after": "Actual nonlinear grid minimum-distance parameter recovery and equilibrium re-solving, not Other because simulation label alone. Treatment is signal-variance parameter change (nonbinary), not binary employee referral status. Intro p515 and conclusion p536 explicitly central welfare0.62%. Three bargaining-power calibrations described A.5; no unreported outcome grid inferred."
+  }
+]
+```
