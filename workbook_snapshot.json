@@ -40160,7 +40160,16 @@
     "L3965": "0",
     "M3965": "n/a",
     "N3965": "AppendixB.5/F.7: separately estimated schooling effects on log sales at age10 by one-letter sector, including negative/null estimates; baseline year/age controls.",
-    "O3965": "Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented. These are schooling treatments within sector/sample variants, not causal effects of sector membership."
+    "O3965": "Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented. These are schooling treatments within sector/sample variants, not causal effects of sector membership.",
+    "A3966": "7PQVC2SH",
+    "B3966": "h18",
+    "I3966": "1",
+    "J3966": "OLS",
+    "K3966": "0",
+    "L3966": "0",
+    "M3966": "n/a",
+    "N3966": "AppendixB.5/F.8: separately estimated schooling effects on log sales at age10 by two-digit sector; baseline year/age controls. Omitted small-sector display variants not reconstructed.",
+    "O3966": "Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented. These are schooling treatments within sector/sample variants, not causal effects of sector membership."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101113,7 +101122,11 @@
     "A8904": "7PQVC2SH",
     "B8904": "h17",
     "C8904": "hy1",
-    "K8904": "Log sales, AppendixB.5/F.7. No unprinted coefficient values assigned."
+    "K8904": "Log sales, AppendixB.5/F.7. No unprinted coefficient values assigned.",
+    "A8905": "7PQVC2SH",
+    "B8905": "h18",
+    "C8905": "hy1",
+    "K8905": "Log sales, AppendixB.5/F.8. No unprinted coefficient values assigned."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
