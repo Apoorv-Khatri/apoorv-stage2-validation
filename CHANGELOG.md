@@ -687897,3 +687897,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T08:07:08.268676+00:00 — Review 5EFFX2TK s4: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2201",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2202",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2203",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2201",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2202",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2203",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2201",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2202",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2203",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2201",
+    "before": null,
+    "after": "Inactive under rejected predictor-treatment parent; original definition preserved. See source audit for distinct maturity-rule scope."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2202",
+    "before": null,
+    "after": "Inactive under rejected predictor-treatment parent; original definition preserved. See source audit for distinct maturity-rule scope."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2203",
+    "before": null,
+    "after": "Inactive under rejected predictor-treatment parent; original definition preserved. See source audit for distinct maturity-rule scope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I900",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O900",
+    "before": null,
+    "after": "Reject the stated treatment of assignment to predictor-sorted countries: SectionI.D and p4164 characterize conditioning/prediction, not a causal effect of portfolio membership. A distinct, explicit bills-versus-long-bonds rule intervention is proposed under h2. Different focal treatment; preserve original ID and fields. Gate contested; if parent retains sorted contrasts, assess linear mean contrasts as OLS rather than automatic Other, and separately audit endpoint means/Sharpe normalization."
+  }
+]
+```
