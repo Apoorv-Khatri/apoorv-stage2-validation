@@ -41843,7 +41843,16 @@
     "L4130": "0",
     "M4130": "unknown",
     "N4130": "Political-turnover test-score contribution from teacher replacement calibrated using external teacher-turnover slope; main p486 fn59. Authors explicitly interpret the 0.0153 SD decrease as one component of political turnover.",
-    "O4130": "Not importation of an external intervention effect as an outcome-level benchmark. This paper implements the rescaling; outcome linearity and transport assumptions unresolved. Supporting calibration, no empirical replication."
+    "O4130": "Not importation of an external intervention effect as an outcome-level benchmark. This paper implements the rescaling; outcome linearity and transport assumptions unresolved. Supporting calibration, no empirical replication.",
+    "A4131": "A8LFPXLL",
+    "B4131": "h1",
+    "I4131": "1",
+    "J4131": "DiD_conventional",
+    "K4131": "1",
+    "L4131": "0",
+    "M4131": "n/a",
+    "N4131": "All owners in top bracket in both baseline years versus no top-bracket owner: log employee earnings Location: Table II B all-top-owners row",
+    "O4131": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105648,7 +105657,14 @@
     "A9293": "A8LFPXLL",
     "B9293": "s9",
     "C9293": "hy1",
-    "K9293": "Year-over-year change in average earnings of fixed 2011-2012 stayers retained through 2016; Table IV ITT -0.117."
+    "K9293": "Year-over-year change in average earnings of fixed 2011-2012 stayers retained through 2016; Table IV ITT -0.117.",
+    "A9294": "A8LFPXLL",
+    "B9294": "h1",
+    "C9294": "hy1",
+    "H9294": "0",
+    "I9294": "0",
+    "J9294": "log",
+    "K9294": "Log average full-time nonowner employee earnings; Table II B all-top row, preferred estimate -0.0200."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
