@@ -775023,3 +775023,420 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:43:26.462423+00:00 — Review 89PULMFU h25: source-audited coding and linked comparisons
+
+68 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6925",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6926",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6927",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6928",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6929",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6925",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6926",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6927",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6928",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6929",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6925",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6926",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6927",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6928",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6929",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6925",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6926",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6927",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6928",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6929",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6925",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6926",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6927",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6928",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6929",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6925",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6926",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6927",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6928",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6929",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6925",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6926",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6927",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6928",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6929",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6925",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6926",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6927",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6928",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6929",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6925",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6926",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6927",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6928",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6929",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6925",
+    "before": null,
+    "after": "Official appendix p20 sensitivity Table1 row2, col4: 111.28 percent of own1990 emissions for US expenditure shares-only scenario. Table title explicitly divides counterfactual emissions by1990; note defines six-pollutant mean averaged2005/2008. Baseline index100. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6926",
+    "before": null,
+    "after": "Official appendix p20 sensitivity Table1 row4, col4: 110.82 percent of own1990 emissions for US expenditure shares-only scenario. Table title explicitly divides counterfactual emissions by1990; note defines six-pollutant mean averaged2005/2008. Baseline index100. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6927",
+    "before": null,
+    "after": "Official appendix p20 sensitivity Table1 row5, col4: 110.95 percent of own1990 emissions for US expenditure shares-only scenario. Table title explicitly divides counterfactual emissions by1990; note defines six-pollutant mean averaged2005/2008. Baseline index100. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6928",
+    "before": null,
+    "after": "Official appendix p20 sensitivity Table1 row6, col4: 111.28 percent of own1990 emissions for US expenditure shares-only scenario. Table title explicitly divides counterfactual emissions by1990; note defines six-pollutant mean averaged2005/2008. Baseline index100. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6929",
+    "before": null,
+    "after": "Official appendix p20 sensitivity Table1 row7, col4: 111.26 percent of own1990 emissions for US expenditure shares-only scenario. Table title explicitly divides counterfactual emissions by1990; note defines six-pollutant mean averaged2005/2008. Baseline index100. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6925",
+    "before": null,
+    "after": "Table/title-only specific triple: verbal0 divided1; shared explanatory note does not individually verbalize every estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6926",
+    "before": null,
+    "after": "Table/title-only specific triple: verbal0 divided1; shared explanatory note does not individually verbalize every estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6927",
+    "before": null,
+    "after": "Table/title-only specific triple: verbal0 divided1; shared explanatory note does not individually verbalize every estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6928",
+    "before": null,
+    "after": "Table/title-only specific triple: verbal0 divided1; shared explanatory note does not individually verbalize every estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6929",
+    "before": null,
+    "after": "Table/title-only specific triple: verbal0 divided1; shared explanatory note does not individually verbalize every estimate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8972",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8972",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8972",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8972",
+    "before": null,
+    "after": "Unweighted mean across six criteria pollutants of US manufacturing counterfactual-emissions/own1990-emissions percentages, averaged across2005 and2008 (sensitivity Table1 p20 note). This is one actually tabulated aggregate dependent measure, not six unobserved outcomes grouped as a placeholder. SectionIII.G instead says NOx2008; numerical allocation remains conflicting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4012",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4012",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4012",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4012",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4012",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4012",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4012",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4012",
+    "before": null,
+    "after": "Appendix sensitivity Table1 p20 col4, rows[2, 4, 5, 6, 7]: US expenditure shares-only historical shocks; general equilibrium; baseline and parameter sensitivity; aggregate emissions index."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4012",
+    "before": null,
+    "after": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels."
+  }
+]
+```
