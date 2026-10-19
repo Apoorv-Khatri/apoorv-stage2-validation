@@ -752979,3 +752979,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:57:13.871120+00:00 — Review 7PQVC2SH s4: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K607",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L607",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M607",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N607",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O607",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P607",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q607",
+    "before": null,
+    "after": "p2068 Figure3: Difference in log sales at entry between bottom and top non-entrepreneur-schooling groups, translated into sales levels: e^9.91 - e^8.99 ≈ 12,000 euros. Benchmark: Sales levels corresponding to log sales 9.91 and 8.99 for bottom and top non-entrepreneur-schooling groups at entry."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R607",
+    "before": null,
+    "after": "Explicit group-level comparison retained; do not interpret exponentiated fitted log levels as arithmetic conditional means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I929",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J929",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K929",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L929",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M929",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N929",
+    "before": null,
+    "after": "Figure3: non-entrepreneur schooling-bin by age effects on log sales; levels converge by age5. Central substantive near-null comparison, not balance/pretrend."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O929",
+    "before": null,
+    "after": "Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented. p2068-2069 and conclusion distinguish worker human capital from entrepreneur human capital; endogenous hiring remains."
+  }
+]
+```
