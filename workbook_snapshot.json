@@ -40052,7 +40052,16 @@
     "L3953": "1",
     "M3953": "n/a",
     "N3953": "p2080 undisplayed Figure8 robustness: HASS-degree share-by-age with five-digit sector-by-year effects, log sales.",
-    "O3953": "Main establishes implemented regression with five field shares, but only reports about half STEM-HASS gap explained by sectors. Do not invent individual coefficient levels or repeat value-added robustness into this variant. Identifying five-digit sector-by-year cells address endogenous sector selection/growth potential (p2068), carried into mechanism comparisons pp2076,2080. One interacted cell set plus age controls, not HDFE; year nested in sector-year. Residual omitted ability remains. No higher-priority design."
+    "O3953": "Main establishes implemented regression with five field shares, but only reports about half STEM-HASS gap explained by sectors. Do not invent individual coefficient levels or repeat value-added robustness into this variant. Identifying five-digit sector-by-year cells address endogenous sector selection/growth potential (p2068), carried into mechanism comparisons pp2076,2080. One interacted cell set plus age controls, not HDFE; year nested in sector-year. Residual omitted ability remains. No higher-priority design.",
+    "A3954": "7PQVC2SH",
+    "B3954": "h4",
+    "I3954": "1",
+    "J3954": "OLS",
+    "K3954": "0",
+    "L3954": "1",
+    "M3954": "n/a",
+    "N3954": "Figure8: fraction of firm entrepreneurs with Business degree interacted with age, compared with omitted no-college share; log sales and qualitative value-added extension.",
+    "O3954": "Shares are continuous in multiple-founder firms; no invented binary implementation. Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100941,7 +100950,15 @@
     "A8888": "7PQVC2SH",
     "B8888": "h8",
     "C8888": "hy1",
-    "K8888": "Log sales, sector-controlled field-share-by-age regression, p2080; field-specific coefficients undisplayed."
+    "K8888": "Log sales, sector-controlled field-share-by-age regression, p2080; field-specific coefficients undisplayed.",
+    "A8889": "7PQVC2SH",
+    "B8889": "h4",
+    "C8889": "hy1",
+    "K8889": "Log sales, Figure8; coefficients on Business share-by-age.",
+    "A8890": "7PQVC2SH",
+    "B8890": "h4",
+    "C8890": "hy2",
+    "K8890": "Log value added; p2079 says results similar for value added in this same field-share specification; no numerical values or SD benchmark supplied."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
