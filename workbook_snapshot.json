@@ -37656,7 +37656,16 @@
     "L3743": "1",
     "M3743": "n/a",
     "N3743": "FigureA6: 1883 total/collected/delivered volume dynamics; binary reform exposure interacted with event time.",
-    "O3743": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Separate dynamic estimand at figure. No numeric digitization. For supporting-only interpretation of appendix dynamics, parent may main=0; content corroborates named central outcome, not placement-based exclusion."
+    "O3743": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Separate dynamic estimand at figure. No numeric digitization. For supporting-only interpretation of appendix dynamics, parent may main=0; content corroborates named central outcome, not placement-based exclusion.",
+    "A3744": "3ZIDN6KF",
+    "B3744": "h6",
+    "I3744": "1",
+    "J3744": "DiD_conventional",
+    "K3744": "1",
+    "L3744": "1",
+    "M3744": "n/a",
+    "N3744": "FigureA9: individual-exit dynamics for prereform entrants; binary reform exposure interacted with event time.",
+    "O3744": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Separate dynamic estimand at figure. No numeric digitization. For supporting-only interpretation of appendix dynamics, parent may main=0; content corroborates named central outcome, not placement-based exclusion."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94965,7 +94974,14 @@
     "H8417": "0",
     "I8417": "unknown",
     "J8417": "log",
-    "K8417": "FigureA6: Total mail delivered in a city-year, logged."
+    "K8417": "FigureA6: Total mail delivered in a city-year, logged.",
+    "A8418": "3ZIDN6KF",
+    "B8418": "h6",
+    "C8418": "hy1",
+    "H8418": "1",
+    "I8418": "1",
+    "J8418": "none",
+    "K8418": "FigureA9: Individual-level exit indicator for whether a postal worker leaves service (is last observed) in a given year."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
