@@ -661239,3 +661239,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:49:41.699624+00:00 — Review 4BNXLZ5D h3: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8454",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8455",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8456",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8454",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8455",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8456",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8454",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8455",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8456",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8454",
+    "before": null,
+    "after": "Cash-in-advance indicator (one versus zero for the other financing modes)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8455",
+    "before": null,
+    "after": "Letter-of-credit indicator (one versus zero for the other financing modes)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8456",
+    "before": null,
+    "after": "Postshipment indicator (documentary collection or open account; one versus zero for other modes)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3766",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3766",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3766",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3766",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3766",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3766",
+    "before": null,
+    "after": "Table4 row4: Enforceability of contracts on choice of financing mode, separately estimated multinomial logit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3766",
+    "before": null,
+    "after": "Implemented multinomial logit: Other regardless of product/year dummies. Three mutually exclusive financing categories; category-specific probability effects are not separate binary logits. Author-intention gate: pp885–87 explicitly calls these effects and tests propositions; observational institutional variation is not exogenous identification. No IV/RCT/RD/DiD. Routine controls p886 grouped within this treatment scope; no unobserved appendix table labels inferred."
+  }
+]
+```
