@@ -644757,3 +644757,246 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:38:46.340365+00:00 — Review 2W92PVM3 h22: source-audited coding and linked comparisons
+
+39 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5743",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5744",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5743",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5744",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5743",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5744",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5743",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5744",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5743",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5744",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5743",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5744",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5743",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5744",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5743",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5744",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5743",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5744",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5743",
+    "before": null,
+    "after": "Table2 col8 pp1540-41: focal estimate -2.9pp blackout coefficient in no-subsidy group; benchmark control take-up1.3%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5744",
+    "before": null,
+    "after": "Table2 col8 pp1540-41: focal estimate -2.9pp blackout coefficient in no-subsidy group; benchmark pooled take-up21.6%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5743",
+    "before": null,
+    "after": "No benchmark conditional on no blackout in target group; descriptive-control versus causal blackout interpretation contested."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5744",
+    "before": null,
+    "after": "Independent audit: pooled21.6% includes subsidy-assigned households, whereas the lower-order blackout slope applies to the no-subsidy arm; this is an established population mismatch, not merely missing blackout-specific conditioning. Eligibility separately retained under explicit p1555 causal wording."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8382",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8382",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8382",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8382",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8382",
+    "before": null,
+    "after": "Take-up indicator multiplied by100."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E93",
+    "before": null,
+    "after": "DONE — Full available-source review of43 final pages and148-page author appendix, with independent audit. Retain26 settings,78 outcome records and195 comparisons; two original wrong-parent comparisons rejected. Assignment effects RCT; actual receipt IV with multiple binary instruments. Table3 hours worked ITT−2.6/TOT−3.5 and complete mean/SD grid preserved. Preferred cost fit OLS-equivalent; known structural policy calibrations Other without claiming every arithmetic step nonlinear. Table2 unconditional control alignment1 under maintained timing assumption, conditional targets unknown and pooled0. Blackout slope is no-subsidy conditional effect, not pooled average. Table5 alternative effects+37/293 and+52/293 separately added; ideal cost/CS verbal flags corrected. April2019 author appendix read but final identity unverified; appendix-only numerical grids and PAP-only plans held, no final substitution. Spillover/wave implementations remain qualified. Original fields, IDs, hyperlinks and printed source conflicts preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3724",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3724",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3724",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3724",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3724",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3724",
+    "before": null,
+    "after": "Table2 col8 and SectionVI.B p1555: baseline report of a recent blackout on take-up, conditional no-subsidy slope -2.9pp; subsidy interactions remain in the subsidy settings."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3724",
+    "before": null,
+    "after": "Parameter-specific causal wording: no strong statistical evidence recent blackouts affect demand. Blackouts themselves not randomized; included slope -2.9pp and interactions estimated jointly in linear model. Thus OLS for blackout focal regressor, not RCT merely because equation includes randomized subsidy indicators. Heterogeneity interactions already retained under subsidy settings; do not duplicate their triples here. Independent audit: Retain under broad author-intention gate because p1555 explicitly tests whether recent blackouts affect demand, while recording that the immediate explanation emphasizes the interaction test. This is not a paper-wide license to code every included control causally. The -2.9 slope is for the omitted no-subsidy arm, not the average blackout effect. Printed slope/SE -2.9/1.3 and no-star/insignificance prose are preserved without a significance gate."
+  }
+]
+```
