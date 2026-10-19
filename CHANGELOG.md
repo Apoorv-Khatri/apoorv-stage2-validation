@@ -677850,3 +677850,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:28:44.261616+00:00 — Review 4HCEQK9M h14: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6012",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6013",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6012",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6013",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6012",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6013",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6012",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6013",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6012",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6013",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6012",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6013",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6012",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6013",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6012",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6013",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6012",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6013",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6012",
+    "before": null,
+    "after": "Main p3217 FigureA5: focal take-up falls from26% to18% with10% wage cut; paired control mean 0.26, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6013",
+    "before": null,
+    "after": "Main p3217 and Figure A5: take-up falls from26% to18% under a10% wage cut. Benchmark0.18 is the TREATED wage-cut endpoint, not a control mean. Explicit level contrast, no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6012",
+    "before": null,
+    "after": "Prevailing-wage arm is untreated baseline for wage-cut contrast; randomized wage offers. Text compares levels without dividing decline by0.26."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6013",
+    "before": null,
+    "after": "Treated endpoint deliberately paired with same outcome contrast; not untreated mean. Symmetric endpoint inclusion contested versus one baseline only."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8529",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8529",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8529",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8529",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8529",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8529",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8529",
+    "before": null,
+    "after": "Indicator accepts privately offered job."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3798",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3798",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3798",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3798",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3798",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3798",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3798",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3798",
+    "before": null,
+    "after": "FigureA5 p4 and main p3217/fn41: randomized private job offer10% below prevailing wage versus prevailing wage on take-up; re-presented external-study experiment in same districts."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3798",
+    "before": null,
+    "after": "A5 and main p3217/fn41 summarize randomized private wage offers from Breza, Kaur and Krishnaswamy (2019), not this village experiment. The RCT contrast and endpoints are established, but this final source does not establish newly implemented reanalysis rather than borrowed evidence. Keep scope eligibility unknown pending project adjudication/implementation; do not assert this paper performed a new experiment or reanalysis."
+  }
+]
+```
