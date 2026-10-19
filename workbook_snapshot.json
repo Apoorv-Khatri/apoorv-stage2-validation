@@ -38670,7 +38670,16 @@
     "L3828": "0",
     "M3828": "n/a",
     "N3828": "AppendixTableE5: continuous 1966 Kaitz index DiD, additional gender/education wage/employment/hours results and all/race hours; TableVI repeats excluded.",
-    "O3828": "Substantive Kaitz-dose robustness; one treatment-SD scaling, not outcome-SD normalization. TableE5 mean0.35 and SD0.048. Repeated TableVI cells excluded from new policy scope."
+    "O3828": "Substantive Kaitz-dose robustness; one treatment-SD scaling, not outcome-SD normalization. TableE5 mean0.35 and SD0.048. Repeated TableVI cells excluded from new policy scope.",
+    "A3829": "4X3H7PWW",
+    "B3829": "h13",
+    "I3829": "1",
+    "J3829": "DiD_conventional",
+    "K3829": "0",
+    "L3829": "0",
+    "M3829": "n/a",
+    "N3829": "AppendixTableE6: continuous 1966 fraction earning below$1.60 DiD, additional gender/education wage/employment/hours results and all/race hours; TableVI repeats excluded.",
+    "O3829": "Substantive robustness, one treatment-SD, not outcome normalization. E6 SD0.008 versus main0.08 retained."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97202,7 +97211,23 @@
     "A8588": "4X3H7PWW",
     "B8588": "h12",
     "C8588": "hy4",
-    "K8588": "Log annual hours, all/race/gender/education; TableE5"
+    "K8588": "Log annual hours, all/race/gender/education; TableE5",
+    "A8589": "4X3H7PWW",
+    "B8589": "h13",
+    "C8589": "hy1",
+    "K8589": "Log annual earnings by gender/education; TableE6",
+    "A8590": "4X3H7PWW",
+    "B8590": "h13",
+    "C8590": "hy2",
+    "K8590": "Employment versus unemployment indicator by gender/education; TableE6",
+    "A8591": "4X3H7PWW",
+    "B8591": "h13",
+    "C8591": "hy3",
+    "K8591": "Employment versus unemployment/NILF by gender/education; TableE6",
+    "A8592": "4X3H7PWW",
+    "B8592": "h13",
+    "C8592": "hy4",
+    "K8592": "Log annual hours, all/race/gender/education; TableE6"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
