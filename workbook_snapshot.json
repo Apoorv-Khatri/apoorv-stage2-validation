@@ -37611,7 +37611,16 @@
     "L3738": "1",
     "M3738": "unknown",
     "N3738": "Conclusion p3179 fn26: conditional national intervention of $1,000 additional annual income to each new DI beneficiary; 830–1,340 lives saved annually during sample period if local estimates apply to 10% of all DI beneficiaries and one-third with dependents.",
-    "O3738": "Distinct aggregate population estimand, not a new identifying design. Extrapolates covariate-adjusted conventional/bias-corrected IV estimates with explicit transport assumptions. Full aggregation/overlap weights not supplied; method unknown rather than invented OLS or automatic nonlinear Other. Continuous income dose. No mortality mean/SD benchmark supplied; coverage fractions are not outcome baselines. Parent may instead treat as downstream implication, but lack of new estimation alone is not sufficient exclusion under broad causal-setting rule."
+    "O3738": "Distinct aggregate population estimand, not a new identifying design. Extrapolates covariate-adjusted conventional/bias-corrected IV estimates with explicit transport assumptions. Full aggregation/overlap weights not supplied; method unknown rather than invented OLS or automatic nonlinear Other. Continuous income dose. No mortality mean/SD benchmark supplied; coverage fractions are not outcome baselines. Parent may instead treat as downstream implication, but lack of new estimation alone is not sufficient exclusion under broad causal-setting rule.",
+    "A3739": "3ZIDN6KF",
+    "B3739": "h1",
+    "I3739": "1",
+    "J3739": "DiD_conventional",
+    "K3739": "1",
+    "L3739": "1",
+    "M3739": "n/a",
+    "N3739": "Figure2: pooled delivery error dynamics; binary reform exposure interacted with event time.",
+    "O3739": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Separate dynamic estimand at figure. No numeric digitization. For supporting-only interpretation of appendix dynamics, parent may main=0; content corroborates named central outcome, not placement-based exclusion."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94815,7 +94824,14 @@
     "A8402": "2XPTKJBQ",
     "B8402": "h17",
     "C8402": "hy1",
-    "K8402": "Aggregate annual lives saved, 830–1,340 each year during sample period under stated extrapolation assumptions (p3179 fn26), not individual mortality percentage points."
+    "K8402": "Aggregate annual lives saved, 830–1,340 each year during sample period under stated extrapolation assumptions (p3179 fn26), not individual mortality percentage points.",
+    "A8403": "3ZIDN6KF",
+    "B8403": "h1",
+    "C8403": "hy1",
+    "H8403": "0",
+    "I8403": "unknown",
+    "J8403": "log",
+    "K8403": "Figure2: Number of postal delivery errors in a city-year, measured from returned facing slips; main specification uses the logarithm of the total number of errors on returned slips."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
