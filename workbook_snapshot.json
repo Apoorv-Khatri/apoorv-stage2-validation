@@ -41933,7 +41933,16 @@
     "L4140": "0",
     "M4140": "single binary",
     "N4140": "Owner top-bracket exposure defined using 2010-2012, realized top-bracket exposure instrumented by baseline exposure Location: Figure A.1 and Table A.6 exposure 2010-2012",
-    "O4140": "Author-linked appendix pp.48/64; baseline definition differs from 2011-2012. One binary excluded exposure in each IV contrast; table and graph deduplicated."
+    "O4140": "Author-linked appendix pp.48/64; baseline definition differs from 2011-2012. One binary excluded exposure in each IV contrast; table and graph deduplicated.",
+    "A4141": "A8LFPXLL",
+    "B4141": "h11",
+    "I4141": "1",
+    "J4141": "DiD_conventional",
+    "K4141": "1",
+    "L4141": "0",
+    "M4141": "n/a",
+    "N4141": "Baseline any-top-bracket exposure: flexible control and nonbusiness-income composition sample robustness Location: Figure A.2; Table A.6 baseline/unweighted/exclude-top0.1/wages/capital/investment/FIRE sample rows",
+    "O4141": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105811,7 +105820,14 @@
     "H9306": "0",
     "I9306": "0",
     "J9306": "log",
-    "K9306": "Log average full-time employee earnings relative to 2010-2012 baseline."
+    "K9306": "Log average full-time employee earnings relative to 2010-2012 baseline.",
+    "A9307": "A8LFPXLL",
+    "B9307": "h11",
+    "C9307": "hy1",
+    "H9307": "0",
+    "I9307": "0",
+    "J9307": "log",
+    "K9307": "Log average full-time nonowner earnings; baseline controls/sample variants retained together, not a separate OLS method."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
