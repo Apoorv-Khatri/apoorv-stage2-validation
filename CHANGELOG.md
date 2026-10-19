@@ -722931,3 +722931,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:21:10.058518+00:00 — Review 5SL56HMJ h17: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8688",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8688",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8688",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8688",
+    "before": null,
+    "after": "Change in consumer surplus, billions of1997USD per year: main17-23; AppendixB.9 17,23,18. Shipment-normalized shares are cross-outcome comparisons, not qualifying CS benchmarks."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3894",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3894",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3894",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3894",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3894",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3894",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3894",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3894",
+    "before": null,
+    "after": "SectionIV.F pp164-165 / AppendixB.9: consumer surplus change from entire historical steel-price decline irrespective of source, holding1963 demand fixed and using2002 prices; alternative demand elasticities-0.6,-3.5,-1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3894",
+    "before": null,
+    "after": "Explicit counterfactual demand/consumer-surplus integration, nonlinear mapping in price change (AppendixB.9 formula), not OLS merely because demand is linear. Main vs supplement attribution fraction conflicts51%/60%; do not substitute. Price change is continuous dose, not binary adoption. Main welfare contribution highlighted introduction even though SectionIV.F calls it not main focus; main-role adjudication needed."
+  }
+]
+```

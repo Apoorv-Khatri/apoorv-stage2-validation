@@ -39309,7 +39309,16 @@
     "L3893": "1",
     "M3893": "n/a",
     "N3893": "SectionIV.F pp164-165 / AppendixB.9: consumer surplus change from MM-attributed price decline (main51%, appendix60%), holding1963 demand fixed and using2002 prices; alternative demand elasticities-0.6,-3.5,-1.",
-    "O3893": "Explicit counterfactual demand/consumer-surplus integration, nonlinear mapping in price change (AppendixB.9 formula), not OLS merely because demand is linear. Main vs supplement attribution fraction conflicts51%/60%; do not substitute. Price change is continuous dose, not binary adoption. Main welfare contribution highlighted introduction even though SectionIV.F calls it not main focus; main-role adjudication needed."
+    "O3893": "Explicit counterfactual demand/consumer-surplus integration, nonlinear mapping in price change (AppendixB.9 formula), not OLS merely because demand is linear. Main vs supplement attribution fraction conflicts51%/60%; do not substitute. Price change is continuous dose, not binary adoption. Main welfare contribution highlighted introduction even though SectionIV.F calls it not main focus; main-role adjudication needed.",
+    "A3894": "5SL56HMJ",
+    "B3894": "h17",
+    "I3894": "1",
+    "J3894": "Other",
+    "K3894": "0",
+    "L3894": "0",
+    "M3894": "n/a",
+    "N3894": "SectionIV.F pp164-165 / AppendixB.9: consumer surplus change from entire historical steel-price decline irrespective of source, holding1963 demand fixed and using2002 prices; alternative demand elasticities-0.6,-3.5,-1.",
+    "O3894": "Explicit counterfactual demand/consumer-surplus integration, nonlinear mapping in price change (AppendixB.9 formula), not OLS merely because demand is linear. Main vs supplement attribution fraction conflicts51%/60%; do not substitute. Price change is continuous dose, not binary adoption. Main welfare contribution highlighted introduction even though SectionIV.F calls it not main focus; main-role adjudication needed."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -98469,7 +98478,11 @@
     "A8687": "5SL56HMJ",
     "B8687": "h16",
     "C8687": "hy1",
-    "K8687": "Change in consumer surplus, billions of1997USD per year: main9-11; AppendixB.9 9.3,11.2,9.5 (60% attribution label). Shipment-normalized shares are cross-outcome comparisons, not qualifying CS benchmarks."
+    "K8687": "Change in consumer surplus, billions of1997USD per year: main9-11; AppendixB.9 9.3,11.2,9.5 (60% attribution label). Shipment-normalized shares are cross-outcome comparisons, not qualifying CS benchmarks.",
+    "A8688": "5SL56HMJ",
+    "B8688": "h17",
+    "C8688": "hy1",
+    "K8688": "Change in consumer surplus, billions of1997USD per year: main17-23; AppendixB.9 17,23,18. Shipment-normalized shares are cross-outcome comparisons, not qualifying CS benchmarks."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
