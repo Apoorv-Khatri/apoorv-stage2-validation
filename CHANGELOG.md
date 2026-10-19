@@ -641787,3 +641787,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:32:13.288230+00:00 — Review 2W92PVM3 h4: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8358",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8358",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8358",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8358",
+    "before": null,
+    "after": "Average total cost per connection, USD, predicted by scale within subgroups; not an estimated causal effect of land gradient itself."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3706",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3706",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3706",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3706",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3706",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3706",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3706",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3706",
+    "before": null,
+    "after": "SectionV.B p1543 / FiguresB10A-B: scale-cost curves by population and land gradient; average connection cost."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3706",
+    "before": null,
+    "after": "Same Eq.(2) fitting approach applied to subgroups; no new randomized treatment or identifying FE. Population/gradient causal language assessed as scale heterogeneity, not separate exogenous effects of covariates. Printed final prose gradient endpoint839 versus657; author appendix panel captions reverse population/gradient ordering, so do not copy panel labels blindly. Independent audit: Retain only final-text-established cost robustness scope. No final-only numerical appendix coefficients or additional endogenous polynomial terms inferred. The author copy is informative but not a verified final supplement."
+  }
+]
+```

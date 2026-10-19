@@ -37206,7 +37206,16 @@
     "L3705": "0",
     "M3705": "n/a",
     "N3705": "Footnote24 p1542 / FigB9A: separately fitted quadratic scale-cost function; budgeted average total connection cost.",
-    "O3705": "Final main text explicitly says implemented quadratic gives poor fit. Linear in outcome and polynomial regressors; not direct random assignment, no verified IV here. Author April2019 A1A-C has additional OLS/IV fits, held separately rather than asserted as final. Independent audit: Retain only final-text-established cost robustness scope. No final-only numerical appendix coefficients or additional endogenous polynomial terms inferred. The author copy is informative but not a verified final supplement."
+    "O3705": "Final main text explicitly says implemented quadratic gives poor fit. Linear in outcome and polynomial regressors; not direct random assignment, no verified IV here. Author April2019 A1A-C has additional OLS/IV fits, held separately rather than asserted as final. Independent audit: Retain only final-text-established cost robustness scope. No final-only numerical appendix coefficients or additional endogenous polynomial terms inferred. The author copy is informative but not a verified final supplement.",
+    "A3706": "2W92PVM3",
+    "B3706": "h4",
+    "I3706": "1",
+    "J3706": "OLS",
+    "K3706": "0",
+    "L3706": "0",
+    "M3706": "n/a",
+    "N3706": "SectionV.B p1543 / FiguresB10A-B: scale-cost curves by population and land gradient; average connection cost.",
+    "O3706": "Same Eq.(2) fitting approach applied to subgroups; no new randomized treatment or identifying FE. Population/gradient causal language assessed as scale heterogeneity, not separate exogenous effects of covariates. Printed final prose gradient endpoint839 versus657; author appendix panel captions reverse population/gradient ordering, so do not copy panel labels blindly. Independent audit: Retain only final-text-established cost robustness scope. No final-only numerical appendix coefficients or additional endogenous polynomial terms inferred. The author copy is informative but not a verified final supplement."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94087,7 +94096,11 @@
     "A8357": "2W92PVM3",
     "B8357": "h3",
     "C8357": "hy1",
-    "K8357": "Budgeted average total cost per connection in USD; quadratic scale specification. Exact final appendix coefficients unavailable."
+    "K8357": "Budgeted average total cost per connection in USD; quadratic scale specification. Exact final appendix coefficients unavailable.",
+    "A8358": "2W92PVM3",
+    "B8358": "h4",
+    "C8358": "hy1",
+    "K8358": "Average total cost per connection, USD, predicted by scale within subgroups; not an estimated causal effect of land gradient itself."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
