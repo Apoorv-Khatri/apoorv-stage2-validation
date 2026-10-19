@@ -37980,7 +37980,16 @@
     "L3775": "1",
     "M3775": "n/a",
     "N3775": "Figure8 panel h: Stock market capitalization on postshipment probability, moderated by long-distance indicator.",
-    "O3775": "Implemented multinomial logit: Other regardless of product/year dummies. Three mutually exclusive financing categories; category-specific probability effects are not separate binary logits. Author-intention gate: pp885–87 explicitly calls these effects and tests propositions; observational institutional variation is not exogenous identification. No IV/RCT/RD/DiD. Continuous enforcement dose, even though distance moderator is binary. Figure shows predictions, not outcome-SD units. No numeric graph values imputed."
+    "O3775": "Implemented multinomial logit: Other regardless of product/year dummies. Three mutually exclusive financing categories; category-specific probability effects are not separate binary logits. Author-intention gate: pp885–87 explicitly calls these effects and tests propositions; observational institutional variation is not exogenous identification. No IV/RCT/RD/DiD. Continuous enforcement dose, even though distance moderator is binary. Figure shows predictions, not outcome-SD units. No numeric graph values imputed.",
+    "A3776": "4BNXLZ5D",
+    "B3776": "h15",
+    "I3776": "1",
+    "J3776": "HDFE",
+    "K3776": "0",
+    "L3776": "1",
+    "M3776": "n/a",
+    "N3776": "Table5 even cols2/4/6: log number of previous transactions, interacted with common-law indicator, on financing-mode indicators.",
+    "O3776": "Table5 p889 explicitly identifies changes within customer-country; p864 explains FE rule out selection of customers who buy less on cash-in-advance. Customer×country, product, year are THREE nonnested sets. HDFE substantive selection rationale plus dimensions; original claim fewer than three is wrong. No higher-priority estimator. Main central relationship conclusion pp856–57,898. Fn28/online Table8 LC-exclusion robustness is grouped here as a routine sample variant, not a separately verified HDFE implementation. Available text establishes dropping LC, not the unseen estimator cells. Reopen a method split only if final appendix shows a distinct estimator."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -95627,7 +95636,19 @@
     "A8473": "4BNXLZ5D",
     "B8473": "h14",
     "C8473": "hy1",
-    "K8473": "Postshipment-use indicator in multinomial outcome; Figure8 reports its model-implied probability, not a two-valued predicted probability."
+    "K8473": "Postshipment-use indicator in multinomial outcome; Figure8 reports its model-implied probability, not a two-valued predicted probability.",
+    "A8474": "4BNXLZ5D",
+    "B8474": "h15",
+    "C8474": "hy1",
+    "K8474": "Cash-in-advance indicator (one versus zero for the other financing modes).",
+    "A8475": "4BNXLZ5D",
+    "B8475": "h15",
+    "C8475": "hy2",
+    "K8475": "Letter-of-credit indicator (one versus zero for the other financing modes).",
+    "A8476": "4BNXLZ5D",
+    "B8476": "h15",
+    "C8476": "hy3",
+    "K8476": "Postshipment indicator (documentary collection or open account; one versus zero for other modes)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
