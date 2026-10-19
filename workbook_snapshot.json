@@ -39724,7 +39724,16 @@
     "L3926": "0",
     "M3926": "n/a",
     "N3926": "Short-run age eligibility x post employment/participation/transitions, TableA1;2007-08 versus2002-06, distinct horizon/result location from Table2.",
-    "O3926": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
+    "O3926": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms.",
+    "A3927": "64JY936S",
+    "B3927": "h12",
+    "I3927": "1",
+    "J3927": "DiD_conventional",
+    "K3927": "1",
+    "L3927": "0",
+    "M3927": "n/a",
+    "N3927": "Age eligibility x post net monthly wage in high/low turnover industries, A5; split by2000 median employment-weighted industry mean job duration.",
+    "O3927": "Graphical pre/post age profile contrast; no numerical local-polynomial RD. A5 axis says annual main-employer earnings/months worked; caption says FTE contracted survey monthly wage. Preserve conflict, do not pick one silently."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100238,7 +100247,14 @@
     "H8843": "0",
     "I8843": "unknown",
     "J8843": "none",
-    "K8843": "Employment-to-unemployment transition rate. Aggregate rate, not individual binary."
+    "K8843": "Employment-to-unemployment transition rate. Aggregate rate, not individual binary.",
+    "A8844": "64JY936S",
+    "B8844": "h12",
+    "C8844": "hy1",
+    "H8844": "0",
+    "I8844": "0",
+    "J8844": "none",
+    "K8844": "Monthly net wage, USD; A5 axis annual main-employer earnings/months worked versus caption FTE survey wage. Source conflict affects exact construction."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

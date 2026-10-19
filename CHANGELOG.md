@@ -749322,3 +749322,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:25:27.304712+00:00 — Review 64JY936S h12: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8844",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8844",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8844",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8844",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8844",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8844",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8844",
+    "before": null,
+    "after": "Monthly net wage, USD; A5 axis annual main-employer earnings/months worked versus caption FTE survey wage. Source conflict affects exact construction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3927",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3927",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3927",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3927",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3927",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3927",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3927",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3927",
+    "before": null,
+    "after": "Age eligibility x post net monthly wage in high/low turnover industries, A5; split by2000 median employment-weighted industry mean job duration."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3927",
+    "before": null,
+    "after": "Graphical pre/post age profile contrast; no numerical local-polynomial RD. A5 axis says annual main-employer earnings/months worked; caption says FTE contracted survey monthly wage. Preserve conflict, do not pick one silently."
+  }
+]
+```
