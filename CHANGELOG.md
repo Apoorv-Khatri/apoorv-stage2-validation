@@ -843120,3 +843120,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:39:16.002041+00:00 — Review A8LFPXLL h25: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9321",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9321",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9321",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9321",
+    "before": null,
+    "after": "Log average employee earnings; Table A.6 elasticity ITT exposure 2012."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4155",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4155",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4155",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4155",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4155",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4155",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4155",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4155",
+    "before": null,
+    "after": "Predicted MTR elasticity under exposure 2012 Location: Table A.6 elasticity ITT, exposure 2012"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4155",
+    "before": null,
+    "after": "Actual displayed elasticity row. Continuous predicted-rate treatment, not the binary exposure coefficient in the neighboring column. Exact net-income exclusions versus subsample implementation are not restated in the caption; parent may merge restrictions that only alter samples with h17. No invented dose increment."
+  }
+]
+```
