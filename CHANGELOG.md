@@ -723324,3 +723324,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:22:20.547588+00:00 — Review 5SL56HMJ h21: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6484",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6484",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6484",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6484",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6484",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6484",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6484",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6484",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6484",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6484",
+    "before": null,
+    "after": "Main p161 explicitly attributes30% of industry productivity growth to the reallocation process among VI producers, summing net-entry0.07 and reallocation0.23 from Table8. Benchmark realized1963-2002 industry TFP growth22.1; no component level reconstructed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6484",
+    "before": null,
+    "after": "Same-outcome realized growth normalization; other_level, alignment n/a. No invented component amount. Combined contribution is not a duplicate of a component alone."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8691",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8691",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8691",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8691",
+    "before": null,
+    "after": "Contribution to industry aggregate log-TFP growth1963-2002 from VI combined reallocation/net entry."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3897",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3897",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3897",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3897",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3897",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3897",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3897",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3897",
+    "before": null,
+    "after": "Main p161: combined within-VI reallocation and net-entry contribution induced by MM competition, distinct combined estimand from its individual components h8/h9 and industry-wide h20."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3897",
+    "before": null,
+    "after": "Broad author-intention causal-accounting gate; Other as structural accounting, not automatic nonlinear covariance. Combined component explicitly defined and causally attributed. Source inconsistency does not establish another effect; parent must adjudicate before application. Parent adjudication: method unknown. Conditional on constructed productivity and shares, accounting components may be linear contrasts; upstream structural estimation alone does not establish a nonlinear focal estimator. Complete attribution procedure versus conditional-outcome domain is unresolved, so Other is not certified. Causal-intention retention does not establish identification."
+  }
+]
+```
