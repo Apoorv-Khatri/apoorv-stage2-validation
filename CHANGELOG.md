@@ -659589,3 +659589,354 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:30:54.631861+00:00 — Review 3ZIDN6KF h23: source-audited coding and linked comparisons
+
+57 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5847",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5848",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5849",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5847",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5848",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5849",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5847",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5848",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5849",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5847",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5848",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5849",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5847",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5848",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5849",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5847",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5848",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5849",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5847",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5848",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5849",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5847",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5848",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5849",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5847",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5848",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5849",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5847",
+    "before": null,
+    "after": "TableA5 col1, appendix p49: Reform×Post .012; deliberately paired dependent-variable mean .0309, city-year estimation sample. Main p2372 discusses a null but does not compare this coefficient with the mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5848",
+    "before": null,
+    "after": "TableA5 col2, appendix p49: Reform×Post .006; deliberately paired dependent-variable mean .0309, city-year estimation sample. Main p2372 discusses a null but does not compare this coefficient with the mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5849",
+    "before": null,
+    "after": "TableA5 col3, appendix p49: Reform×Post -.003; deliberately paired dependent-variable mean .00606, city-year estimation sample. Main p2372 discusses a null but does not compare this coefficient with the mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5847",
+    "before": null,
+    "after": "Eligibility follows retained substantive inspection-capacity null. Table-only pairing: verbal=0, divided=0. Mean not constructed as untreated treated-target level; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5848",
+    "before": null,
+    "after": "Eligibility follows retained substantive inspection-capacity null. Table-only pairing: verbal=0, divided=0. Mean not constructed as untreated treated-target level; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5849",
+    "before": null,
+    "after": "Eligibility follows retained substantive inspection-capacity null. Table-only pairing: verbal=0, divided=0. Mean not constructed as untreated treated-target level; alignment unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8443",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8444",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8443",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8444",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8443",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8444",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8443",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8443",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8444",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8443",
+    "before": null,
+    "after": "Number of postal inspectors (mail depredations, money-order, free-delivery inspectors) in a city-year; TableA5 cols1-2. Same-sample any-inspector indicator has interior mean .00606, establishing zero-inspector observations; count mean alone is not used to infer zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8444",
+    "before": null,
+    "after": "Indicator of any postal inspector in a city-year; TableA5 col3. Interior mean .00606 establishes both zero and one observations."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E95",
+    "before": null,
+    "after": "DONE — Full review of36 final article pages and19-page official AEA supplement, independently retrieved/hash-matched and audited. Retain32 settings plus inactive duplicate s2;70 outcome records and69 comparisons, three original wrong-parent comparisons remapped. Baseline stacked implementation conventional DiD; three named FigureA1 modern alternatives separate. Table9 cohort parameters HDFE, including h10 jointly estimated with reform DiD; sample-caption conflict and cohort-conditional−.053 preserved. Add A5 inspection-capacity substantive null, two outcomes/three comparisons; A4 infrastructure-confounder associations remain diagnostic. A10 reform-induced slope change retained but benchmark allocations held. C2 weights use nonfocal covariates; weighted DiD retained with unknown mean weighting. City/state leave-out descriptions corrected. Literal scales, literacy sign, captions and other source conflicts preserved. Original fields, IDs and hyperlinks preserved; replication code not inspected."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3761",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3761",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3761",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3761",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3761",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3761",
+    "before": null,
+    "after": "TableA5: binary civil-service reform effects on the number of postal inspectors and any-inspector indicator; supporting inspection-capacity null."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3761",
+    "before": null,
+    "after": "Main p2372 explicitly reports virtually no effect of civil service reform on the number of inspectors, and uses this finding to explain why greater oversight did not drive improved performance. Retain under substantive causal-null exception despite confounder motivation; unlike A4 this is an explicit reform-effect claim about staffing inside the organization. Caption implements stacked treated/post DiD; FE rows show wave×city and wave×state without year, inconsistent with time-interacted caption. Do not manufacture year FE or infer HDFE: state is nested in city. main=0: auxiliary confounder robustness, not the central workforce-selection/retention finding."
+  }
+]
+```
