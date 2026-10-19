@@ -662619,3 +662619,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:54:21.545189+00:00 — Review 4BNXLZ5D h17: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8480",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8481",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8482",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8480",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8481",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8482",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8480",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8481",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8482",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8480",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8480",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8480",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8481",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8482",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8480",
+    "before": null,
+    "after": "Cash-in-advance indicator (one versus zero for the other financing modes)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8481",
+    "before": null,
+    "after": "Letter-of-credit indicator (one versus zero for the other financing modes)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8482",
+    "before": null,
+    "after": "Postshipment indicator (documentary collection or open account; one versus zero for other modes)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3778",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3778",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3778",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3778",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3778",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3778",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3778",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3778",
+    "before": null,
+    "after": "Table7 lower-order new-customer indicator: precrisis new versus existing customer financing contrast, conditional on crisis and interaction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3778",
+    "before": null,
+    "after": "Separately interpreted precrisis new-versus-existing contrast (coefficient on newness) in the SAME joint Table7 OLS/LPM as s4, not a separate OLS implementation or a no-FE column. Distinct estimand warrants a scope; the crisis-period newness gap adds the interaction. Both scopes use country/product/year controls. P896 interprets baseline relationship contrast; fn30 distinguishes this from within-customer Table5 identification. Main relationship evidence, not merely a control slope."
+  }
+]
+```
