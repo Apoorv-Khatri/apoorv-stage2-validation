@@ -39760,7 +39760,16 @@
     "L3930": "0",
     "M3930": "n/a",
     "N3930": "Age eligibility x post self-employment, A10: modest effects on participation and gross earnings; adverse pretrend limitations acknowledged.",
-    "O3930": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
+    "O3930": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms.",
+    "A3931": "64JY936S",
+    "B3931": "h16",
+    "I3931": "1",
+    "J3931": "DiD_conventional",
+    "K3931": "1",
+    "L3931": "1",
+    "M3931": "n/a",
+    "N3931": "Age eligibility x post employment/labor-force effects by2006 regional youth-unemployment quintile, A12/TableA2 col2. Counties sorted by youth16-25 unemployment and labor-force weighted; ages20-26 versus27-35.",
+    "O3931": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100316,7 +100325,14 @@
     "H8849": "0",
     "I8849": "unknown",
     "J8849": "none",
-    "K8849": "Population mean gross-of-payroll-tax self-employment earnings including individual zeros, USD; A10B. Aggregate mean not itself established to have zero mass."
+    "K8849": "Population mean gross-of-payroll-tax self-employment earnings including individual zeros, USD; A10B. Aggregate mean not itself established to have zero mass.",
+    "A8850": "64JY936S",
+    "B8850": "h16",
+    "C8850": "hy1",
+    "H8850": "0",
+    "I8850": "unknown",
+    "J8850": "none",
+    "K8850": "Employment/labor-force aggregate rate; effects lowest through highest quintile:0.010,0.011,0.012,0.029,0.034. A2 col2; placebo cols4-5 excluded."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
