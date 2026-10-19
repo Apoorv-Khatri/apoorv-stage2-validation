@@ -522,6 +522,7 @@
     "B109": "Political Turnover, Bureaucratic Turnover, and the Quality of Public Services",
     "C109": "econ",
     "D109": 10,
+    "E109": "DONE — Available-source review of52-page final article and78-page official AEA appendix, independently downloaded/hash-matched and audited. Preserve original IDs/model fields; separate eight distinct result-location families and retain implemented IV robustness with literal instrument-support uncertainty. Candidate turnover distinguished from party turnover. A8/s10 causal gate unknown: explicit association language conflicts with parameter-specific effect wording; extra allocations held. A5 All Munic endpoint retained with unknown method, A9 interpreted mean histories as conditional linear contrasts not invented DiD, mechanism contribution and external calibration retained under explicit author interpretation with unknown methods; no claim of separately identified mediated effects. Printed fn35 -0.094 SD total retained without constructing unprinted horizon totals. Actual same-column mean/SD pairs audited; no interaction-by-mean cross-product. Broader score SD alignment0, most local-target means unknown. Effect/effect ratios rejected. Source numeric/caption/instrument conflicts preserved including learning gain24/27.5percent, compensatory costs31.7m/29m, candidate versus party caption and absent panelD. Held A8 extras, natural-replacement path gate, A9 exact contrast/benchmark allocations, interaction/mean mappings, problems-index normalization, A40 repeated baseline discrepancy and fn62 correlation-cross-product interpretation. Replication access blocked; no code/data inspection or empirical replication. Source-scoped completion not omission-free certification; unknowns and held evidence remain explicit.",
     "A110": "A8LFPXLL",
     "B110": "Does Taxing Business Owners Affect Employees? Evidence From A Change in the Top Marginal Tax Rate",
     "C110": "econ",
@@ -41772,7 +41773,16 @@
     "L4129": "1",
     "M4129": "unknown",
     "N4129": "Political-turnover contribution to reduced test scores through personnel attributes, disrupted operations and their combined contribution; main pp485–487, fn56,61. Authors interpret additive correlation-based accounting as a lower bound.",
-    "O4129": "Not an identified mediated causal effect. Correlation slopes alone remain excluded. Composite procedure mixes estimated RD effects and outcome-related correlation weights; outcome linearity/estimator domain unresolved."
+    "O4129": "Not an identified mediated causal effect. Correlation slopes alone remain excluded. Composite procedure mixes estimated RD effects and outcome-related correlation weights; outcome linearity/estimator domain unresolved.",
+    "A4130": "9XMIBBJM",
+    "B4130": "h39",
+    "I4130": "1",
+    "J4130": "unknown",
+    "K4130": "1",
+    "L4130": "0",
+    "M4130": "unknown",
+    "N4130": "Political-turnover test-score contribution from teacher replacement calibrated using external teacher-turnover slope; main p486 fn59. Authors explicitly interpret the 0.0153 SD decrease as one component of political turnover.",
+    "O4130": "Not importation of an external intervention effect as an outcome-level benchmark. This paper implements the rescaling; outcome linearity and transport assumptions unresolved. Supporting calibration, no empirical replication."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105468,7 +105478,14 @@
     "H9284": "0",
     "I9284": "unknown",
     "J9284": "sd_units",
-    "K9284": "Reduction in student test scores attributed to specified mechanism components; standardized score scale, precise grade pooling not stated."
+    "K9284": "Reduction in student test scores attributed to specified mechanism components; standardized score scale, precise grade pooling not stated.",
+    "A9285": "9XMIBBJM",
+    "B9285": "h39",
+    "C9285": "hy1",
+    "H9285": "0",
+    "I9285": "unknown",
+    "J9285": "sd_units",
+    "K9285": "Predicted reduction in student achievement attributable to the political-turnover-induced teacher replacement component."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -190386,7 +190403,18 @@
     "O7542": "1",
     "P7542": "unknown",
     "Q7542": "Main p487: combined contribution 0.035 standard deviation units of reduction in test scores. Score-SD reference inherited from scores; exact aggregation/population unspecified.",
-    "R7542": "Author-intended model-based contribution, not correlation coefficient alone. Final combined 0.035 retained literally, not replaced by sum of rounded components. Effect-to-effect 44–71% is ineligible."
+    "R7542": "Author-intended model-based contribution, not correlation coefficient alone. Final combined 0.035 retained literally, not replaced by sum of rounded components. Effect-to-effect 44–71% is ineligible.",
+    "A7543": "9XMIBBJM",
+    "B7543": "h39",
+    "C7543": "hc1",
+    "K7543": "1",
+    "L7543": "hy1",
+    "M7543": "outcome_sd",
+    "N7543": "1",
+    "O7543": "1",
+    "P7543": "0",
+    "Q7543": "Main p486 fn59: this paper predicts 0.0153 standard deviation decrease from an 11-percentage-point teacher-turnover increase using the external 13.9%-of-SD slope. The inherited external student-score SD is not established as matching Brazil.",
+    "R7543": "External score-SD reference population differs from the Brazilian target; external study effect itself is not a same-outcome level benchmark."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

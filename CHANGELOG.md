@@ -839013,3 +839013,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T14:57:02.748896+00:00 — Review 9XMIBBJM h39: source-audited coding and linked comparisons
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7543",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7543",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7543",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7543",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7543",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7543",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7543",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7543",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7543",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7543",
+    "before": null,
+    "after": "Main p486 fn59: this paper predicts 0.0153 standard deviation decrease from an 11-percentage-point teacher-turnover increase using the external 13.9%-of-SD slope. The inherited external student-score SD is not established as matching Brazil."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7543",
+    "before": null,
+    "after": "External score-SD reference population differs from the Brazilian target; external study effect itself is not a same-outcome level benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9285",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9285",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9285",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9285",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9285",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9285",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9285",
+    "before": null,
+    "after": "Predicted reduction in student achievement attributable to the political-turnover-induced teacher replacement component."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E109",
+    "before": null,
+    "after": "DONE — Available-source review of52-page final article and78-page official AEA appendix, independently downloaded/hash-matched and audited. Preserve original IDs/model fields; separate eight distinct result-location families and retain implemented IV robustness with literal instrument-support uncertainty. Candidate turnover distinguished from party turnover. A8/s10 causal gate unknown: explicit association language conflicts with parameter-specific effect wording; extra allocations held. A5 All Munic endpoint retained with unknown method, A9 interpreted mean histories as conditional linear contrasts not invented DiD, mechanism contribution and external calibration retained under explicit author interpretation with unknown methods; no claim of separately identified mediated effects. Printed fn35 -0.094 SD total retained without constructing unprinted horizon totals. Actual same-column mean/SD pairs audited; no interaction-by-mean cross-product. Broader score SD alignment0, most local-target means unknown. Effect/effect ratios rejected. Source numeric/caption/instrument conflicts preserved including learning gain24/27.5percent, compensatory costs31.7m/29m, candidate versus party caption and absent panelD. Held A8 extras, natural-replacement path gate, A9 exact contrast/benchmark allocations, interaction/mean mappings, problems-index normalization, A40 repeated baseline discrepancy and fn62 correlation-cross-product interpretation. Replication access blocked; no code/data inspection or empirical replication. Source-scoped completion not omission-free certification; unknowns and held evidence remain explicit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4130",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4130",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4130",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4130",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4130",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4130",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4130",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4130",
+    "before": null,
+    "after": "Political-turnover test-score contribution from teacher replacement calibrated using external teacher-turnover slope; main p486 fn59. Authors explicitly interpret the 0.0153 SD decrease as one component of political turnover."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4130",
+    "before": null,
+    "after": "Not importation of an external intervention effect as an outcome-level benchmark. This paper implements the rescaling; outcome linearity and transport assumptions unresolved. Supporting calibration, no empirical replication."
+  }
+]
+```
