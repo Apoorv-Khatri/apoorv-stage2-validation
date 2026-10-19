@@ -790725,3 +790725,168 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T13:24:57.180083+00:00 — Review 9VJYE45Y h2: source-audited coding and linked comparisons
+
+26 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7026",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7026",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7026",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7026",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7026",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7026",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7026",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7026",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7026",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7026",
+    "before": null,
+    "after": "Figure VIII bottom and p882 explicitly compare weekly spending paths under same-population standard and filled-gap contracts. Baseline mean path plotted, no numeric endpoints or weekly coefficient grid invented."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9069",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9069",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9069",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9069",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9069",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9069",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9069",
+    "before": null,
+    "after": "Mean weekly total drug spending by calendar week; not annual cumulative spending."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4078",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4078",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4078",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4078",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4078",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4078",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4078",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4078",
+    "before": null,
+    "after": "Fill gap versus2008 standard contract: weekly total spending path Figure VIII bottom pp881-882; higher spending even before anyone hits gap, growing late-year divergence."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4078",
+    "before": null,
+    "after": "Structural dynamic purchase model estimated by simulated minimum distance (equation9); nonlinear recovery/optimization, not IV from moment conditions and not RD from the budget kink. Same simulation draws across contracts; fixed health/preferences, plan selection and supply. Main role follows introduction/conclusion, not table order."
+  }
+]
+```

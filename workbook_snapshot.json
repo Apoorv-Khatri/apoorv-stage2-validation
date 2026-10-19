@@ -41255,7 +41255,16 @@
     "L4077": "0",
     "M4077": "unknown",
     "N4077": "Alternative quadratic December purchase-probability counterfactual, Figure A5/Table A1: appendix caption says probability-level WLS, institutional replication code instead fits quadratic log(no-purchase share) and exponentiates.",
-    "O4077": "Source conflict: qje_figures_final.do lines475-506 and1381-1395 implement log-share quadratic retransformation, unlike Appendix A5 caption probability-level regression. Code would imply Other for reported probability; caption implies OLS. Unknown until reconciled; not certified replication."
+    "O4077": "Source conflict: qje_figures_final.do lines475-506 and1381-1395 implement log-share quadratic retransformation, unlike Appendix A5 caption probability-level regression. Code would imply Other for reported probability; caption implies OLS. Unknown until reconciled; not certified replication.",
+    "A4078": "9VJYE45Y",
+    "B4078": "h2",
+    "I4078": "1",
+    "J4078": "Other",
+    "K4078": "1",
+    "L4078": "1",
+    "M4078": "n/a",
+    "N4078": "Fill gap versus2008 standard contract: weekly total spending path Figure VIII bottom pp881-882; higher spending even before anyone hits gap, growing late-year divergence.",
+    "O4078": "Structural dynamic purchase model estimated by simulated minimum distance (equation9); nonlinear recovery/optimization, not IV from moment conditions and not RD from the budget kink. Same simulation draws across contracts; fixed health/preferences, plan selection and supply. Main role follows introduction/conclusion, not table order."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -103270,7 +103279,14 @@
     "H9068": "0",
     "I9068": "unknown",
     "J9068": "none",
-    "K9068": "December share with at least one Inappropriate purchase, Table A1."
+    "K9068": "December share with at least one Inappropriate purchase, Table A1.",
+    "A9069": "9VJYE45Y",
+    "B9069": "h2",
+    "C9069": "hy1",
+    "H9069": "0",
+    "I9069": "unknown",
+    "J9069": "none",
+    "K9069": "Mean weekly total drug spending by calendar week; not annual cumulative spending."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -182437,7 +182453,17 @@
     "N7025": "1",
     "O7025": "1",
     "P7025": "1",
-    "Q7025": "Table A1 p16 Inappropriate: actual0.075, predicted0.091, decrease0.178; same target no-kink counterfactual probability. Normalization inherited explicitly from replicated Table IV."
+    "Q7025": "Table A1 p16 Inappropriate: actual0.075, predicted0.091, decrease0.178; same target no-kink counterfactual probability. Normalization inherited explicitly from replicated Table IV.",
+    "A7026": "9VJYE45Y",
+    "B7026": "h2",
+    "C7026": "hc1",
+    "K7026": "1",
+    "L7026": "hy1",
+    "M7026": "outcome_mean",
+    "N7026": "1",
+    "O7026": "0",
+    "P7026": "1",
+    "Q7026": "Figure VIII bottom and p882 explicitly compare weekly spending paths under same-population standard and filled-gap contracts. Baseline mean path plotted, no numeric endpoints or weekly coefficient grid invented."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
