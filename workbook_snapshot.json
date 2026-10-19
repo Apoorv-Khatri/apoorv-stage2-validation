@@ -37305,7 +37305,16 @@
     "L3716": "1",
     "M3716": "unknown",
     "N3716": "Footnote31 p1546, TableB6B: separately reported round2 electrification impacts.",
-    "O3716": "Implemented individual-round results explicitly referenced in final main text. Exact ITT/IV split and outcome subset require final appendix; do not copy every pooled outcome into both rounds or assume hypothetical PAP implemented. Central16/32-month conclusion; unknown method does not force supporting status. Independent audit: Retain minimum implemented-result scope, unknown method where final implementation is not specified. Author appendix/PAP discrepancies cannot be resolved by treating plans as results. Do not duplicate the pooled outcome grid or manufacture wave-specific comparison allocations."
+    "O3716": "Implemented individual-round results explicitly referenced in final main text. Exact ITT/IV split and outcome subset require final appendix; do not copy every pooled outcome into both rounds or assume hypothetical PAP implemented. Central16/32-month conclusion; unknown method does not force supporting status. Independent audit: Retain minimum implemented-result scope, unknown method where final implementation is not specified. Author appendix/PAP discrepancies cannot be resolved by treating plans as results. Do not duplicate the pooled outcome grid or manufacture wave-specific comparison allocations.",
+    "A3717": "2W92PVM3",
+    "B3717": "h15",
+    "I3717": "1",
+    "J3717": "Other",
+    "K3717": "0",
+    "L3717": "1",
+    "M3717": "n/a",
+    "N3717": "Table5 pp1558-60: Income growth3% annually for30years; change in consumer surplus.",
+    "O3717": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Explicitly implemented calibrated counterfactual. Main institutional-performance conclusion in conclusion pp1561-62. Continuous growth-rate scenario differs from binary elimination of a friction. Not an observational regression of the policy itself. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94270,7 +94279,11 @@
     "H8372": "unknown",
     "I8372": "unknown",
     "J8372": "unknown",
-    "K8372": "Round-specific electrification impacts on primary economic/noneconomic and energy outcomes; final main text does not enumerate grid. Minimal grouped placeholder pending final implementation, not claim all pooled outcomes repeated."
+    "K8372": "Round-specific electrification impacts on primary economic/noneconomic and energy outcomes; final main text does not enumerate grid. Minimal grouped placeholder pending final implementation, not claim all pooled outcomes repeated.",
+    "A8373": "2W92PVM3",
+    "B8373": "h15",
+    "C8373": "hy1",
+    "K8373": "consumer surplus per household, USD; construction as reported Table5."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -158539,7 +158552,18 @@
     "O5729": "0",
     "P5729": "0",
     "Q5729": "p1553: focal estimate $171 offer acceptance57.6% to27.2%; benchmark 27.2% with deadline.",
-    "R5729": "Treated endpoint, not no-deadline baseline; deliberate endpoint pairing eligible, decomposition-only alternative held for parent."
+    "R5729": "Treated endpoint, not no-deadline baseline; deliberate endpoint pairing eligible, decomposition-only alternative held for parent.",
+    "A5730": "2W92PVM3",
+    "B5730": "h15",
+    "C5730": "hc1",
+    "K5730": "1",
+    "L5730": "hy1",
+    "M5730": "outcome_mean",
+    "N5730": "1",
+    "O5730": "0",
+    "P5730": "1",
+    "Q5730": "Table5 pp1558-59: focal estimate +139; benchmark 147 base-scenario average consumer surplus.",
+    "R5730": "Same modeled population, weights and scale as within-column baseline. For credit, prose says more than triples CS (level/base); for leakage,21.3% decrease actually used. Do not derive additional ratios."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
