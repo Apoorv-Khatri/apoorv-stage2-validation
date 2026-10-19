@@ -36780,7 +36780,16 @@
     "L3671": "0",
     "M3671": "n/a",
     "N3671": "Fama-MacBeth IVD × IV365 squared slopes controlling variance-risk premiums of different maturities, p.139.",
-    "O3671": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Coefficient remains practically same magnitude/significance; no exact estimates inferred."
+    "O3671": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Coefficient remains practically same magnitude/significance; no exact estimates inferred.",
+    "A3672": "XTWW4AUI",
+    "B3672": "h8",
+    "I3672": "1",
+    "J3672": "OLS",
+    "K3672": "0",
+    "L3672": "0",
+    "M3672": "n/a",
+    "N3672": "Fama-MacBeth IVD × IV365 squared slopes controlling idiosyncratic volatility and its mispricing interaction, p.139 and footnote17.",
+    "O3672": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Piecewise-linear calibrated control variants grouped; response regression remains linear. Do not promote included nuisance predictor to separate causal treatment absent same-parameter interpretation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93034,7 +93043,11 @@
     "A8295": "XTWW4AUI",
     "B8295": "h7",
     "C8295": "hy1",
-    "K8295": "Monthly individual stock excess return. Coefficient remains practically same magnitude/significance; no exact estimates inferred."
+    "K8295": "Monthly individual stock excess return. Coefficient remains practically same magnitude/significance; no exact estimates inferred.",
+    "A8296": "XTWW4AUI",
+    "B8296": "h8",
+    "C8296": "hy1",
+    "K8296": "Monthly individual stock excess return. Piecewise-linear calibrated control variants grouped; response regression remains linear. Do not promote included nuisance predictor to separate causal treatment absent same-parameter interpretation."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
