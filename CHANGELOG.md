@@ -717834,3 +717834,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:17:04.450371+00:00 — Review 5SL56HMJ h6: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6417",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6417",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6417",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6417",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6417",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6417",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6417",
+    "before": null,
+    "after": "Table7 / p156: between-technology reallocation contribution5.1 against overall TFP growth22.1; authors report23%. Benchmark realized industry growth, not untreated mean. Abstract p131, introduction p133 and conclusion p169 instead call displacement/between reallocation about one-third; preserve as conflicting summary, not another triple."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8677",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8677",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8677",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8677",
+    "before": null,
+    "after": "Aggregate log TFP growth1963-2002, revenue-weighted; subgroup totals where explicitly reported. Shares of growth are contribution measures, not individual binary outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3883",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3883",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3883",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3883",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3883",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3883",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3883",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3883",
+    "before": null,
+    "after": "Table7 between-technology reallocation VI to MM, pp155-157: contribution5.1 percentage-log points,23% of overall22.1 growth. Central MM expansion mechanism."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3883",
+    "before": null,
+    "after": "Authors attribute gains to reallocation/entry (main pp156-161,166-169; AppendixG). Retain under author-intention gate, not an exogenous intervention claim. Method Other denotes structural causal accounting, not proof that a covariance is nonlinear: conditional on constructed TFP and fixed revenue shares, OP components are linear. Full economic procedure uses estimated production functions and realized revenue weights; no separately implemented OLS/IV/DiD coefficient or covariate-based matching treatment estimator is established. Conditional-linear-contrast taxonomy remains a parent adjudication issue. AppendixD.1 pp18-19 labor-as-state timing robustness reports similar reallocation point estimates/significance; group as routine upstream timing variant, do not invent component grids. Parent adjudication: method unknown. Conditional on constructed productivity and shares, accounting components may be linear contrasts; upstream structural estimation alone does not establish a nonlinear focal estimator. Complete attribution procedure versus conditional-outcome domain is unresolved, so Other is not certified. Causal-intention retention does not establish identification."
+  }
+]
+```
