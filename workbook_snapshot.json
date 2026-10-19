@@ -37260,7 +37260,16 @@
     "L3711": "0",
     "M3711": "n/a",
     "N3711": "SectionVI.A pp1552-53: adding6-week payment deadline to the same hypothetical up-front offer; stated acceptance57.6% to27.2% at$171.",
-    "O3711": "Paired linear mean contrast; deadline not randomized/order-counterbalanced. Authors interpret drop as credit constraint. Random price assignment must not be transferred to this framing treatment. Binary with/without deadline; order and hypothetical bias limit causal credibility, not author-intention inclusion. Independent audit: Retain as author-interpreted paired linear contrast (OLS), not RCT: every respondent first sees the unrestricted question, then the deadline. Order and hypothetical bias affect identification credibility. No numerical decline is computed and attributed to the source."
+    "O3711": "Paired linear mean contrast; deadline not randomized/order-counterbalanced. Authors interpret drop as credit constraint. Random price assignment must not be transferred to this framing treatment. Binary with/without deadline; order and hypothetical bias limit causal credibility, not author-intention inclusion. Independent audit: Retain as author-interpreted paired linear contrast (OLS), not RCT: every respondent first sees the unrestricted question, then the deadline. Order and hypothetical bias affect identification credibility. No numerical decline is computed and attributed to the source.",
+    "A3712": "2W92PVM3",
+    "B3712": "h10",
+    "I3712": "1",
+    "J3712": "RCT",
+    "K3712": "0",
+    "L3712": "0",
+    "M3712": "n/a",
+    "N3712": "SectionVI.A pp1553-54 / Figure3C: randomized hypothetical financing package (up-front,monthly amount,24/36months) on stated acceptance.",
+    "O3712": "Multi-valued bundled assigned offers; not binary simply because any loan is offered. Final text reports plotted mean probabilities, not a specific arm-control coefficient. Supporting credit-constraint caveat; survey package randomized, actual credit not supplied. Caption ranges exclude high-price offer described in prose; preserve conflict. Independent audit: Random survey assignment is real but only the package/price is assigned. Keep the final plotted multi-valued response scope; do not manufacture binary appendix dummy contrasts or a credit-versus-cash experiment."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94188,7 +94197,15 @@
     "H8365": "1",
     "I8365": "1",
     "J8365": "none",
-    "K8365": "Stated acceptance indicator under hypothetical up-front price (0/1, reported percent)."
+    "K8365": "Stated acceptance indicator under hypothetical up-front price (0/1, reported percent).",
+    "A8366": "2W92PVM3",
+    "B8366": "h10",
+    "C8366": "hy1",
+    "K8366": "accept credit package without deadline",
+    "A8367": "2W92PVM3",
+    "B8367": "h10",
+    "C8367": "hy2",
+    "K8367": "accept credit package with6-week up-front deadline"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

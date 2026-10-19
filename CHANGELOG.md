@@ -642579,3 +642579,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:34:23.738333+00:00 — Review 2W92PVM3 h10: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8366",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8367",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8366",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8367",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8366",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8367",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8366",
+    "before": null,
+    "after": "accept credit package without deadline"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8367",
+    "before": null,
+    "after": "accept credit package with6-week up-front deadline"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3712",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3712",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3712",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3712",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3712",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3712",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3712",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3712",
+    "before": null,
+    "after": "SectionVI.A pp1553-54 / Figure3C: randomized hypothetical financing package (up-front,monthly amount,24/36months) on stated acceptance."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3712",
+    "before": null,
+    "after": "Multi-valued bundled assigned offers; not binary simply because any loan is offered. Final text reports plotted mean probabilities, not a specific arm-control coefficient. Supporting credit-constraint caveat; survey package randomized, actual credit not supplied. Caption ranges exclude high-price offer described in prose; preserve conflict. Independent audit: Random survey assignment is real but only the package/price is assigned. Keep the final plotted multi-valued response scope; do not manufacture binary appendix dummy contrasts or a credit-versus-cash experiment."
+  }
+]
+```
