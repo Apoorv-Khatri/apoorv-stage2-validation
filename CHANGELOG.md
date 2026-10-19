@@ -659484,3 +659484,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:30:33.946413+00:00 — Review 3ZIDN6KF h22: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8442",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8442",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8442",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8442",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8442",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8442",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8442",
+    "before": null,
+    "after": "Number of incorrect returned slips (extensive margin of mail-error bundles), footnote7; actual estimated transform not reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3760",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3760",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3760",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3760",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3760",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3760",
+    "before": null,
+    "after": "Footnote7 p2361: reform results hold using number of incorrect facing slips returned rather than total errors; minimum separately reported alternative-outcome robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3760",
+    "before": null,
+    "after": "Explicit implemented qualitative robustness in final article, not an announced future test. No displayed equation/table, transformation, coefficients or mean benchmark for this alternative; do not infer the full Table2 grid. Reform exposure binary; exact estimator unresolved although context suggests main DiD."
+  }
+]
+```

@@ -37800,7 +37800,16 @@
     "L3759": "0",
     "M3759": "n/a",
     "N3759": "FigureA3: leave-one-state-out robustness of the 1893 reform on log delivery errors; state omissions grouped.",
-    "O3759": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Caption cites Table2col2 despite wave-restricted plotted samples; no numerical graph grid invented. Different figure result location; variants grouped."
+    "O3759": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Caption cites Table2col2 despite wave-restricted plotted samples; no numerical graph grid invented. Different figure result location; variants grouped.",
+    "A3760": "3ZIDN6KF",
+    "B3760": "h22",
+    "I3760": "1",
+    "J3760": "unknown",
+    "K3760": "1",
+    "L3760": "0",
+    "M3760": "unknown",
+    "N3760": "Footnote7 p2361: reform results hold using number of incorrect facing slips returned rather than total errors; minimum separately reported alternative-outcome robustness.",
+    "O3760": "Explicit implemented qualitative robustness in final article, not an announced future test. No displayed equation/table, transformation, coefficients or mean benchmark for this alternative; do not infer the full Table2 grid. Reform exposure binary; exact estimator unresolved although context suggests main DiD."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -95277,7 +95286,14 @@
     "H8441": "0",
     "I8441": "unknown",
     "J8441": "log",
-    "K8441": "Log delivery errors."
+    "K8441": "Log delivery errors.",
+    "A8442": "3ZIDN6KF",
+    "B8442": "h22",
+    "C8442": "hy1",
+    "H8442": "0",
+    "I8442": "unknown",
+    "J8442": "unknown",
+    "K8442": "Number of incorrect returned slips (extensive margin of mail-error bundles), footnote7; actual estimated transform not reported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
