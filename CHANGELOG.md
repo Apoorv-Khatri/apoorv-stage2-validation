@@ -838710,3 +838710,306 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T14:56:38.171796+00:00 — Review 9XMIBBJM h38: source-audited coding and linked comparisons
+
+49 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7540",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7541",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7542",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7540",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7541",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7542",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7540",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7541",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7542",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7540",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7541",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7542",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7540",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7541",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7542",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7540",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7541",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7542",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7540",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7541",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7542",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7540",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7541",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7542",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7540",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7541",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7542",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7540",
+    "before": null,
+    "after": "Main p485: personnel attributes contribution 0.024 standard deviation units of reduction in test scores. Score-SD reference inherited from scores; exact aggregation/population unspecified."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7541",
+    "before": null,
+    "after": "Main p486: disrupted operations contribution 0.012 standard deviation units of reduction in test scores. Score-SD reference inherited from scores; exact aggregation/population unspecified."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7542",
+    "before": null,
+    "after": "Main p487: combined contribution 0.035 standard deviation units of reduction in test scores. Score-SD reference inherited from scores; exact aggregation/population unspecified."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7540",
+    "before": null,
+    "after": "Author-intended model-based contribution, not correlation coefficient alone. Final combined 0.035 retained literally, not replaced by sum of rounded components. Effect-to-effect 44–71% is ineligible."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7541",
+    "before": null,
+    "after": "Author-intended model-based contribution, not correlation coefficient alone. Final combined 0.035 retained literally, not replaced by sum of rounded components. Effect-to-effect 44–71% is ineligible."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7542",
+    "before": null,
+    "after": "Author-intended model-based contribution, not correlation coefficient alone. Final combined 0.035 retained literally, not replaced by sum of rounded components. Effect-to-effect 44–71% is ineligible."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9284",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9284",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9284",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9284",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9284",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9284",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9284",
+    "before": null,
+    "after": "Reduction in student test scores attributed to specified mechanism components; standardized score scale, precise grade pooling not stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4129",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4129",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4129",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4129",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4129",
+    "before": null,
+    "after": "Political-turnover contribution to reduced test scores through personnel attributes, disrupted operations and their combined contribution; main pp485–487, fn56,61. Authors interpret additive correlation-based accounting as a lower bound."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4129",
+    "before": null,
+    "after": "Not an identified mediated causal effect. Correlation slopes alone remain excluded. Composite procedure mixes estimated RD effects and outcome-related correlation weights; outcome linearity/estimator domain unresolved."
+  }
+]
+```
