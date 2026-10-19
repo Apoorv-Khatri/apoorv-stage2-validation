@@ -41603,7 +41603,16 @@
     "K4109": "1",
     "L4109": "0",
     "M4109": "n/a",
-    "N4109": "Party-turnover RD heterogeneity by baseline headmaster political appointment on teacher characteristics. Appendix A.38"
+    "N4109": "Party-turnover RD heterogeneity by baseline headmaster political appointment on teacher characteristics. Appendix A.38",
+    "A4110": "9XMIBBJM",
+    "B4110": "h19",
+    "I4110": "1",
+    "J4110": "RD",
+    "K4110": "1",
+    "L4110": "1",
+    "M4110": "n/a",
+    "N4110": "Party-turnover RD effect on combined headmaster/teacher school-operations index, without endogenous replacement controls. Appendix A.39 col.1",
+    "O4110": "Only column1 retained: fn60 warns controlled cols2–4 are correlations only. Main p.486 directly interprets unconditional 0.09 SD deterioration."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -104816,7 +104825,14 @@
     "H9215": "0",
     "I9215": "unknown",
     "J9215": "none",
-    "K9215": "Share teachers with contract type missing"
+    "K9215": "Share teachers with contract type missing",
+    "A9216": "9XMIBBJM",
+    "B9216": "h19",
+    "C9216": "hy1",
+    "H9216": "0",
+    "I9216": "unknown",
+    "J9216": "sd_units",
+    "K9216": "Combined headmaster/teacher school-problems index; higher=fewer problems. Main prose reports 0.09 SD deterioration; precise index construction not fully supplied."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -188194,7 +188210,18 @@
     "O7402": "0",
     "P7402": "unknown",
     "Q7402": "A.38 nonappointed baseline effect col.7; appendix.txt L2666,L2677: focal effect -0.019; benchmark 0.0266 (displayed mean of that column).",
-    "R7402": "Benchmark is not established as the untreated local cutoff target; table sample means alone do not establish alignment."
+    "R7402": "Benchmark is not established as the untreated local cutoff target; table sample means alone do not establish alignment.",
+    "A7403": "9XMIBBJM",
+    "B7403": "h19",
+    "C7403": "hc1",
+    "K7403": "1",
+    "L7403": "hy1",
+    "M7403": "outcome_sd",
+    "N7403": "1",
+    "O7403": "1",
+    "P7403": "unknown",
+    "Q7403": "A.39 col.1; main p.486: focal effect -0.092; benchmark school-operations index SD, reference population unstated.",
+    "R7403": "Benchmark is not established as the untreated local cutoff target; table sample means alone do not establish alignment."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
