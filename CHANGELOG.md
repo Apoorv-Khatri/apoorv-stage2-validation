@@ -680892,3 +680892,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:57:18.970467+00:00 — Review 4LB5EN3L h12: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8558",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8559",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8558",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8559",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8558",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8559",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8558",
+    "before": null,
+    "after": "Log daily wage, indicated appendix scope."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8559",
+    "before": null,
+    "after": "Annual leaving-firm indicator, indicated appendix scope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3814",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3814",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3814",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3814",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3814",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3814",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3814",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3814",
+    "before": null,
+    "after": "AppendixC/TableA2 pp542-543: pre-hire own-minority share and tenure interaction effects on log daily wage and annual turnover in Frankfurt, Cologne and Hamburg; Munich column repeats h4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3814",
+    "before": null,
+    "after": "TableA2 explicitly includes worker+firm+calendar-year FE, same sorting rationale. Routine city sample variants grouped; no separate duplicate Munich. No linked mean/SD."
+  }
+]
+```
