@@ -650175,3 +650175,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:54:19.423412+00:00 — Review 2XPTKJBQ s6: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K2080",
+    "before": null,
+    "after": "Lower-BP beneficiary earnings (TableB6), exact horizon/scale unresolved from final main text. Family/upper outcomes added under h1/h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I847",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J847",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K847",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L847",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M847",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N847",
+    "before": null,
+    "after": "TableB6 / p3174: lower-BP fuzzy RKD effect of DI income on earnings (null); family/upper BPs split to h1/h2. Exact earnings horizon, transformation and table cells unresolved without final appendix."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O847",
+    "before": null,
+    "after": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery."
+  }
+]
+```
