@@ -683370,3 +683370,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:45:50.266136+00:00 — Review 4X3H7PWW h6: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8574",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8574",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8574",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8574",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8574",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8574",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8574",
+    "before": null,
+    "after": "Log annual earnings by race against pooled control, FigureD3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3822",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3822",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3822",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3822",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3822",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3822",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3822",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3822",
+    "before": null,
+    "after": "AppendixFigureD3: newly covered Black/White workers versus pooled-race1938 control, log earnings event paths."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3822",
+    "before": null,
+    "after": "Distinct reference-group estimand from s4; p202 reports black approximately20% versus pooled controls. Author notes other civil-rights-era effects may contribute; causal intention retained, credibility not gate."
+  }
+]
+```

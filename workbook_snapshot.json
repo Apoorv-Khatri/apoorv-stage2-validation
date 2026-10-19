@@ -38607,7 +38607,16 @@
     "L3821": "0",
     "M3821": "n/a",
     "N3821": "AppendixD1 Table: newly covered industry × post ×1966 earnings quartile, all/Black/White log annual earnings; all quartiles and both postperiods.",
-    "O3821": "Explicit DDD, not quantile regression. Main p197 describes+7.0%, table0.068 log points; supporting mechanism, includes null upper quartiles. Thresholds based on1966 distribution; repeated cross-sectional individual membership timing not established by fixed thresholds alone."
+    "O3821": "Explicit DDD, not quantile regression. Main p197 describes+7.0%, table0.068 log points; supporting mechanism, includes null upper quartiles. Thresholds based on1966 distribution; repeated cross-sectional individual membership timing not established by fixed thresholds alone.",
+    "A3822": "4X3H7PWW",
+    "B3822": "h6",
+    "I3822": "1",
+    "J3822": "DiD_conventional",
+    "K3822": "1",
+    "L3822": "0",
+    "M3822": "n/a",
+    "N3822": "AppendixFigureD3: newly covered Black/White workers versus pooled-race1938 control, log earnings event paths.",
+    "O3822": "Distinct reference-group estimand from s4; p202 reports black approximately20% versus pooled controls. Author notes other civil-rights-era effects may contribute; causal intention retained, credibility not gate."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97046,7 +97055,14 @@
     "H8573": "0",
     "I8573": "unknown",
     "J8573": "log",
-    "K8573": "Log annual earnings by pooled-race1966 distribution quartile; TableD1."
+    "K8573": "Log annual earnings by pooled-race1966 distribution quartile; TableD1.",
+    "A8574": "4X3H7PWW",
+    "B8574": "h6",
+    "C8574": "hy1",
+    "H8574": "0",
+    "I8574": "unknown",
+    "J8574": "log",
+    "K8574": "Log annual earnings by race against pooled control, FigureD3."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
