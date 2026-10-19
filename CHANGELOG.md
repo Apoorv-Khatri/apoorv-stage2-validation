@@ -608931,3 +608931,210 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T00:21:25.460613+00:00 — Review XTWW4AUI s1: source-audited coding and linked comparisons
+
+33 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5368",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5369",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5368",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5369",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5368",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5369",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5368",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5369",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5368",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5369",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5368",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5369",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5368",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5369",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5368",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5369",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5368",
+    "before": null,
+    "after": "Table1 p.130 reported median-over-permutations pair strategy,12months: LME 5.17 percentage points, early-component mean 5.70%. Same printed row/panel, paired early outcome level; PanelA value weights/PanelB equal weights (Table1 equal pair weights)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5369",
+    "before": null,
+    "after": "Table1 p.130 reported median-over-permutations pair strategy,12months: LME 5.17 percentage points, late-component mean 10.86%. Same printed row/panel; late is low IV30 for Table1 and high IVD for Tables4-6. Table1 equal pair weights; PanelA value weights/PanelB equal weights. Benchmark is the observed late (treated) endpoint, not an untreated counterfactual."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5368",
+    "before": null,
+    "after": "Independent eligibility judgment: explicitly labeled early/late endpoint means and their LME contrast in the same row constitute deliberate same-outcome pairing, not an unrelated descriptive table. Verbal0/divided0. Early mean is observed comparison-group return, not established as the later target untreated counterfactual; alignment unknown. No calculated ratio. Narrow decomposition-only exclusion would require dropping BOTH endpoint families, not only the treated late mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5369",
+    "before": null,
+    "after": "Independent correction to early-only proposal: eligibility and alignment are distinct. The deliberately paired same-outcome late mean qualifies just as the early mean does, but Human_aligned=0 because it is the treated endpoint rather than an untreated baseline. No verbal effect-to-mean comparison or normalization; preserve printed values and rounding."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H1998",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I1998",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J1998",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K1998",
+    "before": null,
+    "after": "Reported simple return (12-month cumulative for s1-s4; one-month for s5-s7), not an estimated coefficient as a separate dependent variable. Percentage-point contrasts; factor alpha where applicable. No log/log1p outcome. Exact zero mass is not established by main article."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J817",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M817",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N817",
+    "before": null,
+    "after": "Table 1 p.130: late (low IV30) minus early (high IV30), paired within 1pp IV365, at least 25pp IV30 difference; 12-month returns. Reported median return across 50,000 candidate permutations, equal weights across pairs."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O817",
+    "before": null,
+    "after": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Matching on covariates alone would be Matching, not OLS. However Table1 caption explicitly reports median return across 50,000 permutations: selecting/aggregating by realized focal outcomes makes the full reported estimator outcome-adaptive, hence Other. Not random treatment assignment. 5.17pp spread; 10.86 and 5.70 component means. Conditional-on-selected-pairs linear contrast is a different taxonomy domain. Parent must adjudicate this distinction. Independent audit: median need not select a unique permutation; the nonlinear median aggregation itself suffices for Other. No claim that every subsequent table shares it."
+  }
+]
+```
