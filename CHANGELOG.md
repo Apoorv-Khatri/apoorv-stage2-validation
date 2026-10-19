@@ -682149,3 +682149,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:31:04.368423+00:00 — Review 4X3H7PWW s11: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8565",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8565",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8565",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2187",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8565",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2187",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8565",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2187",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8565",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2187",
+    "before": null,
+    "after": "Low-wage employment from bin counts and counterfactual; reported elasticities are effect summaries, not individual binary outcomes. Full nonlinear employment/wage normalization; FigureIX A/TableVII South laundries case study"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8565",
+    "before": null,
+    "after": "Average hourly wage, observed versus no-reform counterfactual, used in Eq4 employment elasticity denominator; not independently tabulated by every cell."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I893",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J893",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K893",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L893",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M893",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N893",
+    "before": null,
+    "after": "FigureIX A/TableVII South laundries case study: binary1967 introduction versus national-income-growth no-reform wage distribution; missing/excess low-wage jobs and derived own-wage elasticity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O893",
+    "before": null,
+    "after": "pp210-216 Eq4 and AppendixF1-F3. Full reported elasticity uses outcome-dependent wage means and ratios, not Other merely because bunching label. Raw bin-count contrasts conditional on fixed distribution-shift mapping can be linear; separate conditional taxonomy is held for parent. Two cells have no elasticity because wage effect zero. s12 excludes duplicate South-laundry TableVII estimate already in s11; F2/F3 same result sensitivity, no duplicate original triple."
+  }
+]
+```
