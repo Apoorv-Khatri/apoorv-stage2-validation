@@ -790890,3 +790890,2448 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T13:25:19.873179+00:00 — Review 9VJYE45Y h3: source-audited coding and linked comparisons
+
+406 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7027",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7028",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7029",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7030",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7031",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7032",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7033",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7034",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7035",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7036",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7037",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7038",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7039",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7040",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7041",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7042",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7043",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7044",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7045",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7046",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7047",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7048",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7049",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7050",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7051",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7052",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7053",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7054",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7055",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7056",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7057",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7027",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7028",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7029",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7030",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7031",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7032",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7033",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7034",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7035",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7036",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7037",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7038",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7039",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7040",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7041",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7042",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7043",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7044",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7045",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7046",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7047",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7048",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7049",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7050",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7051",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7052",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7053",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7054",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7055",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7056",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7057",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7027",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7028",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7029",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7030",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7031",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7032",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7033",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7034",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7035",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7036",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7037",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7038",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7039",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7040",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7041",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7042",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7043",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7044",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7045",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7046",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7047",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7048",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7049",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7050",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7051",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7052",
+    "before": null,
+    "after": "hc26"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7053",
+    "before": null,
+    "after": "hc27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7054",
+    "before": null,
+    "after": "hc28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7055",
+    "before": null,
+    "after": "hc29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7056",
+    "before": null,
+    "after": "hc30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7057",
+    "before": null,
+    "after": "hc31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7027",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7028",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7030",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7031",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7032",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7033",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7034",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7035",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7036",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7039",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7042",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7044",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7045",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7046",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7047",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7049",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7052",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7053",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7054",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7055",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7056",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7057",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7027",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7028",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7029",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7030",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7031",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7032",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7033",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7034",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7035",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7036",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7037",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7038",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7039",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7040",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7041",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7042",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7043",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7044",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7045",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7046",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7047",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7048",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7049",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7050",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7051",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7052",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7053",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7054",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7055",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7056",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7057",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7027",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7028",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7029",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7030",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7031",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7032",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7033",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7034",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7035",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7036",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7037",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7038",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7039",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7040",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7041",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7042",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7043",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7044",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7045",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7046",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7047",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7048",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7049",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7050",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7051",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7052",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7053",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7054",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7055",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7056",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7057",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7027",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7028",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7030",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7031",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7032",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7033",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7034",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7035",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7036",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7039",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7042",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7044",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7045",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7046",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7047",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7049",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7052",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7053",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7054",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7055",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7056",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7057",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7027",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7028",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7030",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7031",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7032",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7033",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7034",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7035",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7036",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7039",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7042",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7044",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7045",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7046",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7047",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7049",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7052",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7053",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7054",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7055",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7056",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7057",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7027",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7028",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7029",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7030",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7031",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7032",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7033",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7034",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7035",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7036",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7037",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7038",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7039",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7040",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7041",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7042",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7043",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7044",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7045",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7046",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7047",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7048",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7049",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7050",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7051",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7052",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7053",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7054",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7055",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7056",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7057",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7027",
+    "before": null,
+    "after": "Table III col4 All: ratio of mean relative January spending near gap to same-group far-below-gap mean1.333. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7028",
+    "before": null,
+    "after": "Table III col4 2007: ratio of mean relative January spending near gap to same-group far-below-gap mean1.305. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7029",
+    "before": null,
+    "after": "Table III col4 2008: ratio of mean relative January spending near gap to same-group far-below-gap mean1.361. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7030",
+    "before": null,
+    "after": "Table III col4 Male: ratio of mean relative January spending near gap to same-group far-below-gap mean1.389. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7031",
+    "before": null,
+    "after": "Table III col4 Female: ratio of mean relative January spending near gap to same-group far-below-gap mean1.304. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7032",
+    "before": null,
+    "after": "Table III col4 Age66: ratio of mean relative January spending near gap to same-group far-below-gap mean1.444. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7033",
+    "before": null,
+    "after": "Table III col4 Age67: ratio of mean relative January spending near gap to same-group far-below-gap mean1.432. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7034",
+    "before": null,
+    "after": "Table III col4 Age68-69: ratio of mean relative January spending near gap to same-group far-below-gap mean1.392. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7035",
+    "before": null,
+    "after": "Table III col4 Age70-74: ratio of mean relative January spending near gap to same-group far-below-gap mean1.369. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7036",
+    "before": null,
+    "after": "Table III col4 Age75-79: ratio of mean relative January spending near gap to same-group far-below-gap mean1.314. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7037",
+    "before": null,
+    "after": "Table III col4 Age80-84: ratio of mean relative January spending near gap to same-group far-below-gap mean1.285. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7038",
+    "before": null,
+    "after": "Table III col4 Age85+: ratio of mean relative January spending near gap to same-group far-below-gap mean1.221. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7039",
+    "before": null,
+    "after": "Table III col4 HCC0: ratio of mean relative January spending near gap to same-group far-below-gap mean1.336. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7040",
+    "before": null,
+    "after": "Table III col4 HCC1: ratio of mean relative January spending near gap to same-group far-below-gap mean1.345. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7041",
+    "before": null,
+    "after": "Table III col4 HCC2: ratio of mean relative January spending near gap to same-group far-below-gap mean1.326. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7042",
+    "before": null,
+    "after": "Table III col4 HCC3: ratio of mean relative January spending near gap to same-group far-below-gap mean1.332. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7043",
+    "before": null,
+    "after": "Table III col4 HCC4: ratio of mean relative January spending near gap to same-group far-below-gap mean1.347. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7044",
+    "before": null,
+    "after": "Table III col4 HCC5+: ratio of mean relative January spending near gap to same-group far-below-gap mean1.337. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7045",
+    "before": null,
+    "after": "Table III col4 Risk quartile1: ratio of mean relative January spending near gap to same-group far-below-gap mean1.328. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7046",
+    "before": null,
+    "after": "Table III col4 Risk quartile2: ratio of mean relative January spending near gap to same-group far-below-gap mean1.336. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7047",
+    "before": null,
+    "after": "Table III col4 Risk quartile3: ratio of mean relative January spending near gap to same-group far-below-gap mean1.342. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7048",
+    "before": null,
+    "after": "Table III col4 Risk quartile4: ratio of mean relative January spending near gap to same-group far-below-gap mean1.345. Underlying denominator mean not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7049",
+    "before": null,
+    "after": "Table IV col6 Chronic: near-gap/far-below-gap relative-January mean ratio1.323; benchmark same-drug ratio mean for prior spending-2000 to-500. A1 repeats, not new."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7050",
+    "before": null,
+    "after": "Table IV col6 Acute: near-gap/far-below-gap relative-January mean ratio1.335; benchmark same-drug ratio mean for prior spending-2000 to-500. A1 repeats, not new."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7051",
+    "before": null,
+    "after": "Table IV col6 Maintenance: near-gap/far-below-gap relative-January mean ratio1.350; benchmark same-drug ratio mean for prior spending-2000 to-500. A1 repeats, not new."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7052",
+    "before": null,
+    "after": "Table IV col6 Nonmaintenance: near-gap/far-below-gap relative-January mean ratio1.151; benchmark same-drug ratio mean for prior spending-2000 to-500. A1 repeats, not new."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7053",
+    "before": null,
+    "after": "Table IV col6 Brand: near-gap/far-below-gap relative-January mean ratio1.362; benchmark same-drug ratio mean for prior spending-2000 to-500. A1 repeats, not new."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7054",
+    "before": null,
+    "after": "Table IV col6 Generic: near-gap/far-below-gap relative-January mean ratio1.235; benchmark same-drug ratio mean for prior spending-2000 to-500. A1 repeats, not new."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7055",
+    "before": null,
+    "after": "Table IV col6 Inappropriate: near-gap/far-below-gap relative-January mean ratio1.262; benchmark same-drug ratio mean for prior spending-2000 to-500. A1 repeats, not new."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7056",
+    "before": null,
+    "after": "p890 and A9: deductible subgroup excess January spending19%, relative to far-below-gap group. Main prose says plan type in both years; A9 caption specifies year y+1; preserve population conflict."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7057",
+    "before": null,
+    "after": "p890 and A9: no deductible subgroup excess January spending38%, relative to far-below-gap group. Main prose says plan type in both years; A9 caption specifies year y+1; preserve population conflict."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7027",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7028",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7029",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7030",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7031",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7032",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7033",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7034",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7035",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7036",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7037",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7038",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7039",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7040",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7041",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7042",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7043",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7044",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7045",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7046",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7047",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7048",
+    "before": null,
+    "after": "Comparison-group mean is explicit but no equality to near-gap untreated mean established; population/health selection makes maintained causal target insufficiently specified. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7049",
+    "before": null,
+    "after": "No established equality of untreated relative-January spending between selected prior-spending groups. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7050",
+    "before": null,
+    "after": "No established equality of untreated relative-January spending between selected prior-spending groups. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7051",
+    "before": null,
+    "after": "No established equality of untreated relative-January spending between selected prior-spending groups. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7052",
+    "before": null,
+    "after": "No established equality of untreated relative-January spending between selected prior-spending groups. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7053",
+    "before": null,
+    "after": "No established equality of untreated relative-January spending between selected prior-spending groups. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7054",
+    "before": null,
+    "after": "No established equality of untreated relative-January spending between selected prior-spending groups. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7055",
+    "before": null,
+    "after": "No established equality of untreated relative-January spending between selected prior-spending groups. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7056",
+    "before": null,
+    "after": "Population scope conflict and unestablished untreated group-level match. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7057",
+    "before": null,
+    "after": "Population scope conflict and unestablished untreated group-level match. Benchmark outcome_mean follows printed mean-of-ratios construction; code ratio-of-group-means would instead suggest an aggregate other_level. Eligibility survives same-outcome ratio comparison but benchmark type/weights need adjudication; no claim that code reproduces published1.xxx values. Independent adjudication: retain outcome_mean for the expressly defined published mean of individual relative-spending outcomes, not a claim code agrees. Do not add an inner January/March-June denominator comparison: that constructs the outcome. Published outer near/far mean ratio supplies this comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9070",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9071",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9072",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9073",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9074",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9075",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9076",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9077",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9070",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9071",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9072",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9073",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9074",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9075",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9076",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9077",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9070",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9071",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9072",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9073",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9074",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9075",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9076",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9077",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9070",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9071",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9072",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9073",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9074",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9075",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9076",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9077",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9070",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9071",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9072",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9073",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9074",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9075",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9076",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9077",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9070",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9071",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9072",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9073",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9074",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9075",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9076",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9077",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9070",
+    "before": null,
+    "after": "Individual January spending divided by own March-June monthly mean, averaged by prior spending bin/group; Figure IX/Table III col4. Zero-denominator handling not reported. CONFLICT: paper mean-of-individual-ratios versus code ratio-of-group-means; exact reported construction unresolved, not silently normalized."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9071",
+    "before": null,
+    "after": "Relative January Chronic drug spending; Table IV col6. January divided by March-June monthly mean, group-average ratio; zero-denominator handling not stated. CONFLICT: paper mean-of-individual-ratios versus code ratio-of-group-means; exact reported construction unresolved, not silently normalized."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9072",
+    "before": null,
+    "after": "Relative January Acute drug spending; Table IV col6. January divided by March-June monthly mean, group-average ratio; zero-denominator handling not stated. CONFLICT: paper mean-of-individual-ratios versus code ratio-of-group-means; exact reported construction unresolved, not silently normalized."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9073",
+    "before": null,
+    "after": "Relative January Maintenance drug spending; Table IV col6. January divided by March-June monthly mean, group-average ratio; zero-denominator handling not stated. CONFLICT: paper mean-of-individual-ratios versus code ratio-of-group-means; exact reported construction unresolved, not silently normalized."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9074",
+    "before": null,
+    "after": "Relative January Nonmaintenance drug spending; Table IV col6. January divided by March-June monthly mean, group-average ratio; zero-denominator handling not stated. CONFLICT: paper mean-of-individual-ratios versus code ratio-of-group-means; exact reported construction unresolved, not silently normalized."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9075",
+    "before": null,
+    "after": "Relative January Brand drug spending; Table IV col6. January divided by March-June monthly mean, group-average ratio; zero-denominator handling not stated. CONFLICT: paper mean-of-individual-ratios versus code ratio-of-group-means; exact reported construction unresolved, not silently normalized."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9076",
+    "before": null,
+    "after": "Relative January Generic drug spending; Table IV col6. January divided by March-June monthly mean, group-average ratio; zero-denominator handling not stated. CONFLICT: paper mean-of-individual-ratios versus code ratio-of-group-means; exact reported construction unresolved, not silently normalized."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9077",
+    "before": null,
+    "after": "Relative January Inappropriate drug spending; Table IV col6. January divided by March-June monthly mean, group-average ratio; zero-denominator handling not stated. CONFLICT: paper mean-of-individual-ratios versus code ratio-of-group-means; exact reported construction unresolved, not silently normalized."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4079",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4079",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4079",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4079",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4079",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4079",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4079",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4079",
+    "before": null,
+    "after": "Prior-year spending kink to+500 versus-2000 to-500: relative next-January spending (January/March-June monthly mean), Figure IX top, Table III col4/Table IV col6, Appendix A9."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4079",
+    "before": null,
+    "after": "Paper pp889-891 describes mean of individual January/March-June ratios and two-group contrast (conditional reported-outcome OLS). Replication do lines1162-1185/1570-1577 instead ratio of group means and ratio-of-ratios (Other in raw expenditure); table code reports ratio-minus-one, paper prints1.333. Cannot verify exact published implementation without restricted data. A9 caption year y+1 versus prose/code both years conflict preserved."
+  }
+]
+```
