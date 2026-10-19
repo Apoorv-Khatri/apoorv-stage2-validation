@@ -739449,3 +739449,576 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:18:30.054762+00:00 — Review 64JY936S s3: source-audited coding and linked comparisons
+
+94 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6623",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6624",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6625",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6626",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6627",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6623",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6624",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6625",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6626",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6627",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6623",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6624",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6625",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6626",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6627",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K597",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6623",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6624",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6625",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6626",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6627",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L597",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6623",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6624",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6625",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6626",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6627",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M597",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6623",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6624",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6625",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6626",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6627",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N597",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6623",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6624",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6625",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6626",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6627",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O597",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6623",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6624",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6625",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6626",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6627",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P597",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6623",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6624",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6625",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6626",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6627",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q597",
+    "before": null,
+    "after": "Table2 p1735 row1: effect 0.021 in rate units (heading says percentage points); elasticity 0.21. Note explicitly divides by same-outcome2005-06 treated-group mean and12.1% labor-cost reduction. Mean numeric value not printed; do not reverse-engineer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6623",
+    "before": null,
+    "after": "Table2 p1735 row2: effect 0.023 in rate units (heading says percentage points); elasticity 0.27. Note explicitly divides by same-outcome2005-06 treated-group mean and12.1% labor-cost reduction. Mean numeric value not printed; do not reverse-engineer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6624",
+    "before": null,
+    "after": "Table2 p1735 row3: effect 0.014 in rate units (heading says percentage points); elasticity 0.23. Note explicitly divides by same-outcome2005-06 treated-group mean and12.1% labor-cost reduction. Mean numeric value not printed; do not reverse-engineer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6625",
+    "before": null,
+    "after": "Table2 p1735 row4: effect -0.0096 in rate units (heading says percentage points); elasticity -0.11. Note explicitly divides by same-outcome2005-06 treated-group mean and12.1% labor-cost reduction. Mean numeric value not printed; do not reverse-engineer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6626",
+    "before": null,
+    "after": "Table2 p1735 row5: effect 0.011 in rate units (heading says percentage points); elasticity 0.23. Note explicitly divides by same-outcome2005-06 treated-group mean and12.1% labor-cost reduction. Mean numeric value not printed; do not reverse-engineer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6627",
+    "before": null,
+    "after": "Table2 p1735 row6: effect -0.012 in rate units (heading says percentage points); elasticity -2.26. Note explicitly divides by same-outcome2005-06 treated-group mean and12.1% labor-cost reduction. Mean numeric value not printed; do not reverse-engineer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R597",
+    "before": null,
+    "after": "Treated pre-reform mean is the appropriate baseline population in principle, but note specifies2006 labor-force age weights for effect and does not explicitly specify identical weights for2005-06 mean; no equality of untreated levels inferred from parallel trends. 0.021 rate units=2.1 percentage points, not0.021 percentage points."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6623",
+    "before": null,
+    "after": "Treated pre-reform mean is the appropriate baseline population in principle, but note specifies2006 labor-force age weights for effect and does not explicitly specify identical weights for2005-06 mean; no equality of untreated levels inferred from parallel trends. 0.021 rate units=2.1 percentage points, not0.021 percentage points."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6624",
+    "before": null,
+    "after": "Treated pre-reform mean is the appropriate baseline population in principle, but note specifies2006 labor-force age weights for effect and does not explicitly specify identical weights for2005-06 mean; no equality of untreated levels inferred from parallel trends. 0.021 rate units=2.1 percentage points, not0.021 percentage points."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6625",
+    "before": null,
+    "after": "Treated pre-reform mean is the appropriate baseline population in principle, but note specifies2006 labor-force age weights for effect and does not explicitly specify identical weights for2005-06 mean; no equality of untreated levels inferred from parallel trends. 0.021 rate units=2.1 percentage points, not0.021 percentage points."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6626",
+    "before": null,
+    "after": "Treated pre-reform mean is the appropriate baseline population in principle, but note specifies2006 labor-force age weights for effect and does not explicitly specify identical weights for2005-06 mean; no equality of untreated levels inferred from parallel trends. 0.021 rate units=2.1 percentage points, not0.021 percentage points."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6627",
+    "before": null,
+    "after": "Treated pre-reform mean is the appropriate baseline population in principle, but note specifies2006 labor-force age weights for effect and does not explicitly specify identical weights for2005-06 mean; no equality of untreated levels inferred from parallel trends. 0.021 rate units=2.1 percentage points, not0.021 percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2268",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2269",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2270",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2271",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2272",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2273",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2268",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2269",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2270",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2271",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2272",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2273",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2268",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2269",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2270",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2271",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2272",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2273",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2268",
+    "before": null,
+    "after": "Aggregate cohort rate, not an individual indicator; Table2. No zero atom established for estimated aggregate rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2269",
+    "before": null,
+    "after": "Aggregate cohort rate, not an individual indicator; Table2. No zero atom established for estimated aggregate rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2270",
+    "before": null,
+    "after": "Aggregate cohort rate, not an individual indicator; Table2. No zero atom established for estimated aggregate rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2271",
+    "before": null,
+    "after": "Aggregate cohort rate, not an individual indicator; Table2. No zero atom established for estimated aggregate rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2272",
+    "before": null,
+    "after": "Aggregate cohort rate, not an individual indicator; Table2. No zero atom established for estimated aggregate rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2273",
+    "before": null,
+    "after": "Aggregate cohort rate, not an individual indicator; Table2. No zero atom established for estimated aggregate rate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I920",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J920",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K920",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L920",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M920",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N920",
+    "before": null,
+    "after": "Age eligibility x post: six aggregate employment/participation/transition rates, Table2, Figures4/A9 and repeated transition estimates TableA3. Medium2009-13 versus2002-06; diagnostic placebo excluded."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O920",
+    "before": null,
+    "after": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
+  }
+]
+```
