@@ -670608,3 +670608,678 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:20:50.493356+00:00 — Review 4HCEQK9M s11: source-audited coding and linked comparisons
+
+111 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5937",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5938",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5939",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5940",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5941",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5942",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5943",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5937",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5938",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5939",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5940",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5941",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5942",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5943",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5937",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5938",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5939",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5940",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5941",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5942",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5943",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5937",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5939",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5940",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5941",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5942",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5943",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L570",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5937",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5938",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5939",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5940",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5941",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5942",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5943",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M570",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5937",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5938",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5939",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5940",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5941",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5942",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5943",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5937",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5938",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5939",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5940",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5941",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5942",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5943",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5937",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5938",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5939",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5940",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5941",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5942",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5943",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P570",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5937",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5938",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5939",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5940",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5941",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5942",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5943",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q570",
+    "before": null,
+    "after": "B12col4 p17; main p3220: focal high-slack-label correction: HIGH baseline employment/LOW slack NREGA effect -0.00650-0.121; almost20% decline; paired control mean 0.652, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5937",
+    "before": null,
+    "after": "B12col2 p17 (lean means LOW baseline employment, peak means HIGH baseline employment, not literal season) lean: focal -0.618 (lean beta); paired control mean 72.00, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5938",
+    "before": null,
+    "after": "B12col2 p17 (lean means LOW baseline employment, peak means HIGH baseline employment, not literal season) semi-peak: focal -0.618 + 2.594 (semi-peak beta+gamma); paired control mean 72.00, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5939",
+    "before": null,
+    "after": "B12col3 p17 (lean means LOW baseline employment, peak means HIGH baseline employment, not literal season) lean: focal 0.0678 (lean beta); paired control mean 1.071, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5940",
+    "before": null,
+    "after": "B12col3 p17 (lean means LOW baseline employment, peak means HIGH baseline employment, not literal season) semi-peak: focal 0.0678 + -0.0980 (semi-peak beta+gamma); paired control mean 1.071, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5941",
+    "before": null,
+    "after": "B12col4 p17 (lean means LOW baseline employment, peak means HIGH baseline employment, not literal season) lean: focal -0.00650 (lean beta); paired control mean 0.652, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5942",
+    "before": null,
+    "after": "B12col5 p17 (lean means LOW baseline employment, peak means HIGH baseline employment, not literal season) lean: focal -0.206 (lean beta); paired control mean 4.738, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5943",
+    "before": null,
+    "after": "B12col5 p17 (lean means LOW baseline employment, peak means HIGH baseline employment, not literal season) semi-peak: focal -0.206 + 0.0923 (semi-peak beta+gamma); paired control mean 4.738, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R570",
+    "before": null,
+    "after": "Correct benchmark to outcome_mean, not other_level. Pooled control mean not high-baseline-employment treated counterfactual; DiD parallel trends is not equality of untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5937",
+    "before": null,
+    "after": "Both conditional rollout effects paired with overall control mean; target baseline-slack stratum/treated counterfactual not same. DiD does not equate untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5938",
+    "before": null,
+    "after": "Both conditional rollout effects paired with overall control mean; target baseline-slack stratum/treated counterfactual not same. DiD does not equate untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5939",
+    "before": null,
+    "after": "Both conditional rollout effects paired with overall control mean; target baseline-slack stratum/treated counterfactual not same. DiD does not equate untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5940",
+    "before": null,
+    "after": "Both conditional rollout effects paired with overall control mean; target baseline-slack stratum/treated counterfactual not same. DiD does not equate untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5941",
+    "before": null,
+    "after": "Both conditional rollout effects paired with overall control mean; target baseline-slack stratum/treated counterfactual not same. DiD does not equate untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5942",
+    "before": null,
+    "after": "Both conditional rollout effects paired with overall control mean; target baseline-slack stratum/treated counterfactual not same. DiD does not equate untreated levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5943",
+    "before": null,
+    "after": "Both conditional rollout effects paired with overall control mean; target baseline-slack stratum/treated counterfactual not same. DiD does not equate untreated levels."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2151",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2152",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2153",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2154",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2155",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2151",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2152",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2153",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2154",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2155",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2151",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2152",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2153",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2154",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2155",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2151",
+    "before": null,
+    "after": "Spurious for causal-outcome inventory: B12 col1 public-works days is explicitly diagnostic first stage of rollout, not a second-stage treatment-effect outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2152",
+    "before": null,
+    "after": "B12 col2 casual daily wage in levels, not log."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2153",
+    "before": null,
+    "after": "B12: weekly casual days worked per prime-age NSS individual; not binary."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2154",
+    "before": null,
+    "after": "B12: weekly casual agricultural days per prime-age NSS individual; not binary."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2155",
+    "before": null,
+    "after": "B12: weekly self-employment days per prime-age NSS individual; not binary."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I874",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J874",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K874",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L874",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M874",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O874",
+    "before": null,
+    "after": "Eq(2) pp3219-3220 and B12: district program rollout×post and baseline-slack interaction, district and month×year FE. Conventional DiD/DDD precedes FE; no named modern estimator or IV. Authors disclaim strong causal claims because district-month intensity endogenous but directly interpret reduced-form program effects; broad author-intention gate retained, caution not deletion. Public-works first-stage diagnostic excluded. Low/high slack effects are beta and beta+gamma, not gamma alone."
+  }
+]
+```
