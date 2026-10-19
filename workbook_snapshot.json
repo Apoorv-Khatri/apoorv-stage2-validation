@@ -36872,7 +36872,16 @@
     "L3677": "1",
     "M3677": "n/a",
     "N3677": "Table8 cols2/5/8 p.846: change in Percent effective spread 1, scaled using closing stock price 30 days before decimalization, on change in market-to-book.",
-    "O3677": "Distinct treatment construction from s2: denominator held fixed rather than contemporaneous. All full/NYSE/Nasdaq variants grouped. Eq.(3) observed-change regression with industry dummy controls, not demonstrated IV or identifying FE. Central nulls retained under explicit causal research question (pp.845-846)."
+    "O3677": "Distinct treatment construction from s2: denominator held fixed rather than contemporaneous. All full/NYSE/Nasdaq variants grouped. Eq.(3) observed-change regression with industry dummy controls, not demonstrated IV or identifying FE. Central nulls retained under explicit causal research question (pp.845-846).",
+    "A3678": "ZHTZCSY3",
+    "B3678": "h2",
+    "I3678": "1",
+    "J3678": "OLS",
+    "K3678": "0",
+    "L3678": "1",
+    "M3678": "n/a",
+    "N3678": "Table8 cols3/6/9 p.846: change in Price impact 1, scaled using closing stock price 30 days before decimalization, on change in market-to-book.",
+    "O3678": "Distinct institutional signed order-slippage treatment, not simply a rescaling of effective spread. Denominator is closing stock price 30 days before decimalization. Eq.(3) observed-change OLS with incidental industry dummies; no implemented first stage or identifying-FE argument. Full/NYSE/Nasdaq columns grouped; central nulls retained."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93180,7 +93189,11 @@
     "A8301": "ZHTZCSY3",
     "B8301": "h1",
     "C8301": "hy1",
-    "K8301": "Change in market-to-book from 30 days before to 30 days after decimalization; daily values averaged within stock-month. Book equity from previous fiscal year-end."
+    "K8301": "Change in market-to-book from 30 days before to 30 days after decimalization; daily values averaged within stock-month. Book equity from previous fiscal year-end.",
+    "A8302": "ZHTZCSY3",
+    "B8302": "h2",
+    "C8302": "hy1",
+    "K8302": "Change in market-to-book from 30 days before to 30 days after decimalization; daily values averaged within stock-month. Book equity from previous fiscal year-end."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

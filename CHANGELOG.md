@@ -617613,3 +617613,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:16:32.474605+00:00 — Review ZHTZCSY3 h2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8302",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8302",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8302",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8302",
+    "before": null,
+    "after": "Change in market-to-book from 30 days before to 30 days after decimalization; daily values averaged within stock-month. Book equity from previous fiscal year-end."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3678",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3678",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3678",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3678",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3678",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3678",
+    "before": null,
+    "after": "Table8 cols3/6/9 p.846: change in Price impact 1, scaled using closing stock price 30 days before decimalization, on change in market-to-book."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3678",
+    "before": null,
+    "after": "Distinct institutional signed order-slippage treatment, not simply a rescaling of effective spread. Denominator is closing stock price 30 days before decimalization. Eq.(3) observed-change OLS with incidental industry dummies; no implemented first stage or identifying-FE argument. Full/NYSE/Nasdaq columns grouped; central nulls retained."
+  }
+]
+```
