@@ -663441,3 +663441,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:56:36.158140+00:00 — Review 4BNXLZ5D h26: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8494",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8495",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8494",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8495",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8494",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8495",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8494",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8495",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8494",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8495",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8494",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8495",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8494",
+    "before": null,
+    "after": "Cash-in-advance indicator (one versus zero for the other financing modes)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8495",
+    "before": null,
+    "after": "Postshipment indicator (documentary collection or open account; one versus zero for other modes)."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E96",
+    "before": null,
+    "after": "DONE — Full available-source review of49 final pages, Tables1–8, Figures1–8 and33 footnotes, with independent audit. Retain28 settings,51 added outcomes and six probability-endpoint comparisons; three original ineligible comparisons rejected. Table7 crisis interaction OLS under conditional-regression interpretation, not established parallel-trends DiD; competing implicit-DiD reading explicit. Baseline new-customer estimand separately scoped within same joint equation. Table5 identifying customer-country/product/year HDFE; relationship doses and institutional proxies separate. LC-exclusion sample variants merged; one minimum joint nonlinear Table7 appendix scope, no unseen graph allocations. Symmetric common-to-civil probability endpoints eligible; starting alignment unknown, destination0. Figure8 effect/effect and unlabeled endpoint candidates not promoted; treatmentSD-only and17.3pp-only comparisons excluded. Early patterns and Table6 accounting decomposition excluded after weighing contrary causal language. Final appendix unavailable; no unseen grids or older substitution. Printed conflicts, original fields, IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3784",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3784",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3784",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3784",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3784",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3784",
+    "before": null,
+    "after": "p896 fn31: crisis increase in cash-in-advance and decrease in postshipment for new customers concentrated in weak-enforcement countries, shown online."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3784",
+    "before": null,
+    "after": "Explicit substantive implemented heterogeneity result. Unknown whether plotted multinomial logit or linear triple interaction; do not infer DiD or Other solely from neighboring sentences. Exact enforcement metric/cutoff unavailable; new-customer contrast itself binary."
+  }
+]
+```

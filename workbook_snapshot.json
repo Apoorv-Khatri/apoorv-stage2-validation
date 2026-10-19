@@ -457,6 +457,7 @@
     "B96": "Poultry in Motion: A Study of International Trade Finance Practices",
     "C96": "econ",
     "D96": 5,
+    "E96": "DONE — Full available-source review of49 final pages, Tables1–8, Figures1–8 and33 footnotes, with independent audit. Retain28 settings,51 added outcomes and six probability-endpoint comparisons; three original ineligible comparisons rejected. Table7 crisis interaction OLS under conditional-regression interpretation, not established parallel-trends DiD; competing implicit-DiD reading explicit. Baseline new-customer estimand separately scoped within same joint equation. Table5 identifying customer-country/product/year HDFE; relationship doses and institutional proxies separate. LC-exclusion sample variants merged; one minimum joint nonlinear Table7 appendix scope, no unseen graph allocations. Symmetric common-to-civil probability endpoints eligible; starting alignment unknown, destination0. Figure8 effect/effect and unlabeled endpoint candidates not promoted; treatmentSD-only and17.3pp-only comparisons excluded. Early patterns and Table6 accounting decomposition excluded after weighing contrary causal language. Final appendix unavailable; no unseen grids or older substitution. Printed conflicts, original fields, IDs and hyperlinks preserved.",
     "A97": "4HCEQK9M",
     "B97": "Labor Rationing",
     "C97": "econ",
@@ -38052,7 +38053,16 @@
     "L3783": "0",
     "M3783": "n/a",
     "N3783": "p896 fn31: Table7 new-customer and crisis-interaction analysis repeated using multinomial logit, with online probability graphs; one minimum joint nonlinear robustness scope.",
-    "O3783": "Other: implemented multinomial logit explicitly established. Includes the newness/crisis model, but the single qualitative footnote does not establish separately displayed baseline and crisis graph allocations. Do not manufacture a second appendix scope h25 from the main-table coefficient split. Binary newness exposure; precise graph allocations, FE treatment, coefficients and probability benchmarks unavailable."
+    "O3783": "Other: implemented multinomial logit explicitly established. Includes the newness/crisis model, but the single qualitative footnote does not establish separately displayed baseline and crisis graph allocations. Do not manufacture a second appendix scope h25 from the main-table coefficient split. Binary newness exposure; precise graph allocations, FE treatment, coefficients and probability benchmarks unavailable.",
+    "A3784": "4BNXLZ5D",
+    "B3784": "h26",
+    "I3784": "1",
+    "J3784": "unknown",
+    "K3784": "1",
+    "L3784": "0",
+    "M3784": "unknown",
+    "N3784": "p896 fn31: crisis increase in cash-in-advance and decrease in postshipment for new customers concentrated in weak-enforcement countries, shown online.",
+    "O3784": "Explicit substantive implemented heterogeneity result. Unknown whether plotted multinomial logit or linear triple interaction; do not infer DiD or Other solely from neighboring sentences. Exact enforcement metric/cutoff unavailable; new-customer contrast itself binary."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -95797,7 +95807,21 @@
     "H8493": "1",
     "I8493": "1",
     "J8493": "none",
-    "K8493": "Postshipment indicator (documentary collection or open account; one versus zero for other modes)."
+    "K8493": "Postshipment indicator (documentary collection or open account; one versus zero for other modes).",
+    "A8494": "4BNXLZ5D",
+    "B8494": "h26",
+    "C8494": "hy1",
+    "H8494": "1",
+    "I8494": "1",
+    "J8494": "none",
+    "K8494": "Cash-in-advance indicator (one versus zero for the other financing modes).",
+    "A8495": "4BNXLZ5D",
+    "B8495": "h26",
+    "C8495": "hy2",
+    "H8495": "1",
+    "I8495": "1",
+    "J8495": "none",
+    "K8495": "Postshipment indicator (documentary collection or open account; one versus zero for other modes)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
