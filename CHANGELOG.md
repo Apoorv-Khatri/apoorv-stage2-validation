@@ -842910,3 +842910,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:38:22.655378+00:00 — Review A8LFPXLL h23: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9319",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9319",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9319",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9319",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9319",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9319",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9319",
+    "before": null,
+    "after": "Log average employee earnings, Table A.6 top based on average 2011-2012 owner incomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4153",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4153",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4153",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4153",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4153",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4153",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4153",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4153",
+    "before": null,
+    "after": "top based on average 2011-2012 owner incomes: baseline exposure definition as direct treatment Location: Table A.6 top based on average 2011-2012 owner incomes"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4153",
+    "before": null,
+    "after": "Distinct reported exposure/instrument definition; Appendix E provides treatment rationale. IV single binary baseline definition; exact realized exposure counterpart not restated for each row, so describe only established scope."
+  }
+]
+```
