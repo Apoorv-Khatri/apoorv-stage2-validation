@@ -621522,3 +621522,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:18:23.161862+00:00 — Review ZHTZCSY3 h7: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8322",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8322",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8322",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8322",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8322",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8322",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8322",
+    "before": null,
+    "after": "Volume-weighted across-order Price impact over month before/after decimalization; order-size groups in Fig.IA1 (unavailable), units inferred as percentage from baseline definition, not visually verified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3683",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3683",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3683",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3683",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3683",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3683",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3683",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3683",
+    "before": null,
+    "after": "Section6.5 / Fig.IA1 p.844: volume-weighted across-order Price impact before/after decimalization, grouped by order size."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3683",
+    "before": null,
+    "after": "Main article explicitly establishes linear weighted pre/post comparisons and qualitative robustness. Order-size groups are sample variants, not binary size treatment. Exact bins, plotted numbers and further outcome constructions unavailable. No invented grid."
+  }
+]
+```

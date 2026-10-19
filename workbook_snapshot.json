@@ -36917,7 +36917,16 @@
     "L3682": "0",
     "M3682": "n/a",
     "N3682": "Section6.5 p.844: univariate before/after decimalization tests using three alternative institutional trading-cost constructions: commissions added, prior-close benchmark, first-execution-day opening-price benchmark.",
-    "O3682": "Explicitly implemented univariate tests with same qualitative conclusions. Separate result location/outcome construction from Table5. No numerical estimates or exact external table identifiers available; grouped outcomes rather than invented table panels."
+    "O3682": "Explicitly implemented univariate tests with same qualitative conclusions. Separate result location/outcome construction from Table5. No numerical estimates or exact external table identifiers available; grouped outcomes rather than invented table panels.",
+    "A3683": "ZHTZCSY3",
+    "B3683": "h7",
+    "I3683": "1",
+    "J3683": "OLS",
+    "K3683": "1",
+    "L3683": "0",
+    "M3683": "n/a",
+    "N3683": "Section6.5 / Fig.IA1 p.844: volume-weighted across-order Price impact before/after decimalization, grouped by order size.",
+    "O3683": "Main article explicitly establishes linear weighted pre/post comparisons and qualitative robustness. Order-size groups are sample variants, not binary size treatment. Exact bins, plotted numbers and further outcome constructions unavailable. No invented grid."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93362,7 +93371,14 @@
     "H8321": "0",
     "I8321": "unknown",
     "J8321": "unknown",
-    "K8321": "Section6.5: Price impact benchmarked to opening price day of first execution. Exact reported units/scaling unavailable; do not invent numerical coefficients."
+    "K8321": "Section6.5: Price impact benchmarked to opening price day of first execution. Exact reported units/scaling unavailable; do not invent numerical coefficients.",
+    "A8322": "ZHTZCSY3",
+    "B8322": "h7",
+    "C8322": "hy1",
+    "H8322": "0",
+    "I8322": "unknown",
+    "J8322": "unknown",
+    "K8322": "Volume-weighted across-order Price impact over month before/after decimalization; order-size groups in Fig.IA1 (unavailable), units inferred as percentage from baseline definition, not visually verified."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
