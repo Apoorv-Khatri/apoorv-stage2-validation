@@ -746334,3 +746334,930 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:23:46.701012+00:00 — Review 64JY936S h9: source-audited coding and linked comparisons
+
+153 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6688",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6689",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6690",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6691",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6692",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6693",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6694",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6695",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6688",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6689",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6690",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6691",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6692",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6693",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6694",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6695",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6688",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6689",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6690",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6691",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6692",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6693",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6694",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6695",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6688",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6689",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6691",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6693",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6694",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6695",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6688",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6689",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6690",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6691",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6692",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6693",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6694",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6695",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6688",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6689",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6690",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6691",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6692",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6693",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6694",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6695",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6688",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6689",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6691",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6693",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6694",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6695",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6688",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6689",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6691",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6693",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6694",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6695",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6688",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6689",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6690",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6691",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6692",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6693",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6694",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6695",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6688",
+    "before": null,
+    "after": "Table6 row2 col3, 0.046; note and Figure8/10/A20 describe average earnings relative to own-group2006 mean. Header col2 fairly high/col3 very high conflicts with reversed note; adjoining prose confirms header. Numeric dollar baseline not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6689",
+    "before": null,
+    "after": "Table6 row3 col3, 0.051; note and Figure8/10/A20 describe average earnings relative to own-group2006 mean. Header col2 fairly high/col3 very high conflicts with reversed note; adjoining prose confirms header. Numeric dollar baseline not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6690",
+    "before": null,
+    "after": "Table6 row4 col3, 0.034; note and Figure8/10/A20 describe average earnings relative to own-group2006 mean. Header col2 fairly high/col3 very high conflicts with reversed note; adjoining prose confirms header. Numeric dollar baseline not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6691",
+    "before": null,
+    "after": "Table6 row5 col3, 0.012; note and Figure8/10/A20 describe average earnings relative to own-group2006 mean. Header col2 fairly high/col3 very high conflicts with reversed note; adjoining prose confirms header. Numeric dollar baseline not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6692",
+    "before": null,
+    "after": "Table6 row6 col3, 0.068; note and Figure8/10/A20 describe average earnings relative to own-group2006 mean. Header col2 fairly high/col3 very high conflicts with reversed note; adjoining prose confirms header. Numeric dollar baseline not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6693",
+    "before": null,
+    "after": "Table6 row7 col3, 0.025; note and Figure8/10/A20 describe average earnings relative to own-group2006 mean. Header col2 fairly high/col3 very high conflicts with reversed note; adjoining prose confirms header. Numeric dollar baseline not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6694",
+    "before": null,
+    "after": "Table6 row8 col3, 0.015; note and Figure8/10/A20 describe average earnings relative to own-group2006 mean. Header col2 fairly high/col3 very high conflicts with reversed note; adjoining prose confirms header. Numeric dollar baseline not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6695",
+    "before": null,
+    "after": "Table6 row9 col3, 0.023; note and Figure8/10/A20 describe average earnings relative to own-group2006 mean. Header col2 fairly high/col3 very high conflicts with reversed note; adjoining prose confirms header. Numeric dollar baseline not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6688",
+    "before": null,
+    "after": "Age-DFL (and gender rows age/industry-DFL) target is explicit but separate group2006 denominators mean a single common untreated target mean is not established; parallel trends alone does not equate levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6689",
+    "before": null,
+    "after": "Age-DFL (and gender rows age/industry-DFL) target is explicit but separate group2006 denominators mean a single common untreated target mean is not established; parallel trends alone does not equate levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6690",
+    "before": null,
+    "after": "Age-DFL (and gender rows age/industry-DFL) target is explicit but separate group2006 denominators mean a single common untreated target mean is not established; parallel trends alone does not equate levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6691",
+    "before": null,
+    "after": "Age-DFL (and gender rows age/industry-DFL) target is explicit but separate group2006 denominators mean a single common untreated target mean is not established; parallel trends alone does not equate levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6692",
+    "before": null,
+    "after": "Age-DFL (and gender rows age/industry-DFL) target is explicit but separate group2006 denominators mean a single common untreated target mean is not established; parallel trends alone does not equate levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6693",
+    "before": null,
+    "after": "Age-DFL (and gender rows age/industry-DFL) target is explicit but separate group2006 denominators mean a single common untreated target mean is not established; parallel trends alone does not equate levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6694",
+    "before": null,
+    "after": "Age-DFL (and gender rows age/industry-DFL) target is explicit but separate group2006 denominators mean a single common untreated target mean is not established; parallel trends alone does not equate levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6695",
+    "before": null,
+    "after": "Age-DFL (and gender rows age/industry-DFL) target is explicit but separate group2006 denominators mean a single common untreated target mean is not established; parallel trends alone does not equate levels."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8817",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8818",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8819",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8820",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8821",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8822",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8823",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8824",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8817",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8818",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8819",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8820",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8821",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8822",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8823",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8824",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8817",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8818",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8819",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8820",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8821",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8822",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8823",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8824",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8817",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8818",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8819",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8820",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8821",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8822",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8823",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8824",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8817",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8818",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8819",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8820",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8821",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8822",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8823",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8824",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8817",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8818",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8819",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8820",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8821",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8822",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8823",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8824",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8817",
+    "before": null,
+    "after": "Individual annual earnings for ages 25–30 in 2006, normalized relative to 2006 group mean. Reported outcome is group mean (not individual binary observation), normalized by group2006 mean; individual nonemployment zeros do not imply a zero atom in the aggregate mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8818",
+    "before": null,
+    "after": "Individual annual earnings for ages 31–40 in 2006, normalized relative to 2006 group mean. Reported outcome is group mean (not individual binary observation), normalized by group2006 mean; individual nonemployment zeros do not imply a zero atom in the aggregate mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8819",
+    "before": null,
+    "after": "Individual annual earnings for ages 41–50 in 2006, normalized relative to 2006 group mean. Reported outcome is group mean (not individual binary observation), normalized by group2006 mean; individual nonemployment zeros do not imply a zero atom in the aggregate mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8820",
+    "before": null,
+    "after": "Individual annual earnings for ages 51–60 in 2006, normalized relative to 2006 group mean. Reported outcome is group mean (not individual binary observation), normalized by group2006 mean; individual nonemployment zeros do not imply a zero atom in the aggregate mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8821",
+    "before": null,
+    "after": "Individual annual earnings for workers aged 31–40 in 2006 and below their firm's median earnings in 2006. Reported outcome is group mean (not individual binary observation), normalized by group2006 mean; individual nonemployment zeros do not imply a zero atom in the aggregate mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8822",
+    "before": null,
+    "after": "Individual annual earnings for workers aged 31–40 in 2006 and above their firm's median earnings in 2006. Reported outcome is group mean (not individual binary observation), normalized by group2006 mean; individual nonemployment zeros do not imply a zero atom in the aggregate mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8823",
+    "before": null,
+    "after": "Individual annual earnings for women aged 41–50 in 2006. Reported outcome is group mean (not individual binary observation), normalized by group2006 mean; individual nonemployment zeros do not imply a zero atom in the aggregate mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8824",
+    "before": null,
+    "after": "Individual annual earnings for men aged 41–50 in 2006. Reported outcome is group mean (not individual binary observation), normalized by group2006 mean; individual nonemployment zeros do not imply a zero atom in the aggregate mean."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3923",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3923",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3923",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3923",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3923",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3923",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3923",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3923",
+    "before": null,
+    "after": "Very high (top1/8) versus medium2006 share-young exposure; Table6 rows2-9 cols2-3; same DiD and normalization as s8. Table6 headers and pp1753/1756 support col2 fairly/col3 very; note reverses names, preserved as conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3923",
+    "before": null,
+    "after": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
+  }
+]
+```
