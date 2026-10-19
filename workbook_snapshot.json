@@ -38034,7 +38034,16 @@
     "L3781": "0",
     "M3781": "n/a",
     "N3781": "p891 fn28: Table5 relationship specifications run as multinomial logits; log previous-transaction count, common/civil-law heterogeneity.",
-    "O3781": "Explicit implemented nonlinear robustness, hence Other; FE handling in nonlinear specification not established by main footnote. No assumption that customer FE survive unchanged. Graphs online unavailable."
+    "O3781": "Explicit implemented nonlinear robustness, hence Other; FE handling in nonlinear specification not established by main footnote. No assumption that customer FE survive unchanged. Graphs online unavailable.",
+    "A3782": "4BNXLZ5D",
+    "B3782": "h23",
+    "I3782": "1",
+    "J3782": "unknown",
+    "K3782": "0",
+    "L3782": "0",
+    "M3782": "unknown",
+    "N3782": "p891 fn28 / online Table9: relationship-development effects interacted with alternative contractual-enforcement measures.",
+    "O3782": "Main text establishes findings not specific to common-law dummy. Relationship doses remain nonbinary; exact alternative measures, pairing of relationship proxies, and implemented estimator/FE not directly established without appendix. One unresolved minimum scope; no invented treatment-by-proxy grid."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -95754,7 +95763,11 @@
     "A8489": "4BNXLZ5D",
     "B8489": "h20",
     "C8489": "hy3",
-    "K8489": "Postshipment indicator (documentary collection or open account; one versus zero for other modes)."
+    "K8489": "Postshipment indicator (documentary collection or open account; one versus zero for other modes).",
+    "A8490": "4BNXLZ5D",
+    "B8490": "h23",
+    "C8490": "hy1",
+    "K8490": "Financing-use outcomes in alternative-enforcement relationship interaction tests; exact grouping unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

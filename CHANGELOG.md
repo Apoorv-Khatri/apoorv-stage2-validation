@@ -663165,3 +663165,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:55:51.412550+00:00 — Review 4BNXLZ5D h23: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8490",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8490",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8490",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8490",
+    "before": null,
+    "after": "Financing-use outcomes in alternative-enforcement relationship interaction tests; exact grouping unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3782",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3782",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3782",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3782",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3782",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3782",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3782",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3782",
+    "before": null,
+    "after": "p891 fn28 / online Table9: relationship-development effects interacted with alternative contractual-enforcement measures."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3782",
+    "before": null,
+    "after": "Main text establishes findings not specific to common-law dummy. Relationship doses remain nonbinary; exact alternative measures, pairing of relationship proxies, and implemented estimator/FE not directly established without appendix. One unresolved minimum scope; no invented treatment-by-proxy grid."
+  }
+]
+```
