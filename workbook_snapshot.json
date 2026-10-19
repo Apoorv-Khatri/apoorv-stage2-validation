@@ -41282,7 +41282,16 @@
     "L4080": "1",
     "M4080": "n/a",
     "N4080": "Kink response in adjusted annual spending that adds bin-average extra next-January spending; Figure IX bottom/footnote34 p892. Positive residual bunching rejects all-response-is-deferral hypothesis.",
-    "O4080": "Outcome-adaptive bin adjustment and excess-density recovery; not IV/RD. Individual-adjustment and July placebo disappearance are noise diagnostics, not separate causal estimates."
+    "O4080": "Outcome-adaptive bin adjustment and excess-density recovery; not IV/RD. Individual-adjustment and July placebo disappearance are noise diagnostics, not separate causal estimates.",
+    "A4081": "9VJYE45Y",
+    "B4081": "h5",
+    "I4081": "1",
+    "J4081": "unknown",
+    "K4081": "0",
+    "L4081": "0",
+    "M4081": "unknown",
+    "N4081": "Price decrease at standard deductible: missing-mass response in annual spending distribution, Appendix A/A3; substantive null, standard deductible265/275/295 in2007/08/09.",
+    "O4081": "Author-interpreted null response, not mere balance test. Histogram inspection, no reported local RD/cubic missing-mass coefficient implementation; unknown instead of invented estimator. Catastrophic limit null in Appendix A fn1 acknowledged too noisy; minimum scope retained separately as h11."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -103367,7 +103376,14 @@
     "H9078": "0",
     "I9078": "unknown",
     "J9078": "other",
-    "K9078": "Excess frequency near kink in adjusted annual drug spending distribution; bins add average January minus March-June spending."
+    "K9078": "Excess frequency near kink in adjusted annual drug spending distribution; bins add average January minus March-June spending.",
+    "A9079": "9VJYE45Y",
+    "B9079": "h5",
+    "C9079": "hy1",
+    "H9079": "0",
+    "I9079": "unknown",
+    "J9079": "other",
+    "K9079": "Annual spending histogram frequency around deductible, $10 bins; no missing mass visible; N186548."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

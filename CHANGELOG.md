@@ -793500,3 +793500,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T13:26:02.800746+00:00 — Review 9VJYE45Y h5: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9079",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9079",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9079",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9079",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9079",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9079",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9079",
+    "before": null,
+    "after": "Annual spending histogram frequency around deductible, $10 bins; no missing mass visible; N186548."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4081",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4081",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4081",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4081",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4081",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4081",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4081",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4081",
+    "before": null,
+    "after": "Price decrease at standard deductible: missing-mass response in annual spending distribution, Appendix A/A3; substantive null, standard deductible265/275/295 in2007/08/09."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4081",
+    "before": null,
+    "after": "Author-interpreted null response, not mere balance test. Histogram inspection, no reported local RD/cubic missing-mass coefficient implementation; unknown instead of invented estimator. Catastrophic limit null in Appendix A fn1 acknowledged too noisy; minimum scope retained separately as h11."
+  }
+]
+```
