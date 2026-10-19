@@ -656634,3 +656634,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:26:11.332072+00:00 — Review 3ZIDN6KF h10: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5828",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5828",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5828",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5828",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5828",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5828",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5828",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5828",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5828",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5828",
+    "before": null,
+    "after": "Table9 col4 p2381: focal .026 cohort-specific differential; deliberately paired mean dependent variable .121, same reported scale and estimation sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5828",
+    "before": null,
+    "after": "Printed mean pertains to the column estimation sample; no untreated cohort-target benchmark or matching weighting construction established. Cohort selection and source sample ambiguity prevent confirmed alignment; unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8422",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8422",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8422",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8422",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8422",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8422",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8422",
+    "before": null,
+    "after": "Individual exit indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3748",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3748",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3748",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3748",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3748",
+    "before": null,
+    "after": "Table9 col4: reform × postreform-entry-cohort slope (.026) in joint equation with contemporaneous Reform×Post."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3748",
+    "before": null,
+    "after": "Table9 col4, pp2380-2381: entry-cohort selection coefficient .026 is jointly estimated with Reform×Post -.053, not a separately fitted regression. Classify the focal cohort coefficient as identifying HDFE (same four nonredundant dimensions and tenure/heterogeneity argument as col3), not automatically DiD because a neighboring regressor is DiD. The post-entry contrast is between selected cohorts conditional on contemporaneous reform protection; parallel trends for the reform coefficient alone does not identify a cohort-selection effect. Broad author-intention inclusion holds; residual selection limits credibility, not inclusion. Whole-equation DiD is an explicit competing survey convention; this candidate uses parameter-specific identification."
+  }
+]
+```

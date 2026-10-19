@@ -37692,7 +37692,16 @@
     "L3747": "1",
     "M3747": "n/a",
     "N3747": "Table9 col3: reform-city × postreform-entry-cohort on individual exit, within postreform period.",
-    "O3747": "Table9 col3, pp2379-2381: retain HDFE for the entry-cohort selection parameter. Header and prose specify postreform observations, comparing entry cohorts in the same incentive environment; no individual before/after treatment switch identifies this cohort coefficient. Four separately varying sets: wave×city, wave×experience, wave×year×job, wave×year×state. Experience FE explicitly address tenure-driven exits; city/time FE address persistent and common/local shocks. None of these four sets is nested wholly in another. Caption instead says postreform entrants; unresolved source conflict retained. A cohort-DiD reading is a taxonomy alternative, not established calendar-time DiD for this parameter."
+    "O3747": "Table9 col3, pp2379-2381: retain HDFE for the entry-cohort selection parameter. Header and prose specify postreform observations, comparing entry cohorts in the same incentive environment; no individual before/after treatment switch identifies this cohort coefficient. Four separately varying sets: wave×city, wave×experience, wave×year×job, wave×year×state. Experience FE explicitly address tenure-driven exits; city/time FE address persistent and common/local shocks. None of these four sets is nested wholly in another. Caption instead says postreform entrants; unresolved source conflict retained. A cohort-DiD reading is a taxonomy alternative, not established calendar-time DiD for this parameter.",
+    "A3748": "3ZIDN6KF",
+    "B3748": "h10",
+    "I3748": "1",
+    "J3748": "HDFE",
+    "K3748": "1",
+    "L3748": "1",
+    "M3748": "n/a",
+    "N3748": "Table9 col4: reform × postreform-entry-cohort slope (.026) in joint equation with contemporaneous Reform×Post.",
+    "O3748": "Table9 col4, pp2380-2381: entry-cohort selection coefficient .026 is jointly estimated with Reform×Post -.053, not a separately fitted regression. Classify the focal cohort coefficient as identifying HDFE (same four nonredundant dimensions and tenure/heterogeneity argument as col3), not automatically DiD because a neighboring regressor is DiD. The post-entry contrast is between selected cohorts conditional on contemporaneous reform protection; parallel trends for the reform coefficient alone does not identify a cohort-selection effect. Broad author-intention inclusion holds; residual selection limits credibility, not inclusion. Whole-equation DiD is an explicit competing survey convention; this candidate uses parameter-specific identification."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -95029,7 +95038,14 @@
     "H8421": "1",
     "I8421": "1",
     "J8421": "none",
-    "K8421": "Individual exit indicator."
+    "K8421": "Individual exit indicator.",
+    "A8422": "3ZIDN6KF",
+    "B8422": "h10",
+    "C8422": "hy1",
+    "H8422": "1",
+    "I8422": "1",
+    "J8422": "none",
+    "K8422": "Individual exit indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -160720,7 +160736,18 @@
     "O5827": "0",
     "P5827": "unknown",
     "Q5827": "Table9 col3 p2381 post-period sample (caption conflicts): focal .014; deliberately paired mean dependent variable .124, same reported scale and estimation sample.",
-    "R5827": "Printed mean pertains to the column estimation sample; no untreated cohort-target benchmark or matching weighting construction established. Cohort selection and source sample ambiguity prevent confirmed alignment; unknown."
+    "R5827": "Printed mean pertains to the column estimation sample; no untreated cohort-target benchmark or matching weighting construction established. Cohort selection and source sample ambiguity prevent confirmed alignment; unknown.",
+    "A5828": "3ZIDN6KF",
+    "B5828": "h10",
+    "C5828": "hc1",
+    "K5828": "1",
+    "L5828": "hy1",
+    "M5828": "outcome_mean",
+    "N5828": "0",
+    "O5828": "0",
+    "P5828": "unknown",
+    "Q5828": "Table9 col4 p2381: focal .026 cohort-specific differential; deliberately paired mean dependent variable .121, same reported scale and estimation sample.",
+    "R5828": "Printed mean pertains to the column estimation sample; no untreated cohort-target benchmark or matching weighting construction established. Cohort selection and source sample ambiguity prevent confirmed alignment; unknown."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
