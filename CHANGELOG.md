@@ -688737,3 +688737,222 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T08:08:30.115270+00:00 — Review 5EFFX2TK h3: source-audited coding and linked comparisons
+
+35 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6037",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6038",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6037",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6038",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6037",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6038",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6037",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6038",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6037",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6038",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6037",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6038",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6038",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6037",
+    "before": null,
+    "after": "footnote3 p4157 / Appendix p44: maturity-rule dollar log return change -0.21pp/year; same-outcome short-maturity strategy mean 3.71%, annualized percent. Same sort/countries, horizon and sample as focal contrast. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6038",
+    "before": null,
+    "after": "footnote3 p4157 / Appendix p44: maturity-rule dollar log return change -0.21pp/year; same-outcome long-maturity strategy mean 3.50%, annualized percent. Same sort/countries, horizon and sample as focal contrast. This is the LONG-maturity treated endpoint, not the short-maturity baseline; benchmark label in this evidence overrides generic short-maturity wording."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6037",
+    "before": null,
+    "after": "Short maturity is the untreated rule on same historical paths and portfolio weights; alignment conditional on price-taking rule estimand, not on an exogenous maturity shock. Local term premium is the printed long-minus-short-maturity change in dollar return by the return identity; not a cross-outcome benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6038",
+    "before": null,
+    "after": "Eligible explicit endpoint pairing, but treated long-maturity outcome is not untreated rule mean. Parent may prefer decomposition-only exclusion; eligibility and alignment adjudicated independently."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8639",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8639",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8639",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8639",
+    "before": null,
+    "after": "Dollar log excess return across zero-coupon maturities under interest-level carry rule. Annualized difference of log holding-period returns; not log of a signed excess return. No evidence establishing a point mass at zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3854",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3854",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3854",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3854",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3854",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3854",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3854",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3854",
+    "before": null,
+    "after": "Footnote3 p4157 / Appendix FigureA10 left, p44: zero-coupon maturity dose under interest-rate LEVEL sort, same currencies and three-month holding horizon1985:4-2015:12; flat result3.71% bills versus3.50%15-year, printed local offset-0.21pp/year."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3854",
+    "before": null,
+    "after": "Portfolio-rule interpretation only: substitute bond maturity on the same historical price/exchange-rate path and fixed funding/investment currencies. This is not an effect of rates/slopes on prices. Annualized averages of country log returns with predetermined sort weights give linear contrasts on the reported log-return scale (OLS code), not identifying FE or matching. Price-taking and feasible frictionless trading are maintained; transaction costs absent (p4158). Sharpe ratios themselves are nonlinear descriptive summaries, not classified OLS effects. Causal gate and linearity domain require adjudication. Independent recommendation: materially bounds/supports the headline maturity result across sorting rules (pp4155-4157); central flat exception and alternative sorts are not supporting-only merely by placement. Main-role judgment remains a parent adjudication point. Conditional linearity is established by p4152 averaging country log returns with date-t sort information. OLS is a taxonomy for this linear historical-path contrast, not evidence of an estimated causal regression or market-equilibrium intervention."
+  }
+]
+```
