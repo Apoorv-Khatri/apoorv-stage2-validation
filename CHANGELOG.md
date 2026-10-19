@@ -679023,3 +679023,186 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:52:42.853469+00:00 — Review 4LB5EN3L s7: source-audited coding and linked comparisons
+
+29 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6014",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6014",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6014",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6014",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L573",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6014",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M573",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6014",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6014",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6014",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P573",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6014",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q573",
+    "before": null,
+    "after": "pp533-534 Table5Bcol5 and Table6col3: initial referral turnover -1.6pp,24.6% of baseline monthly turnover6.5%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6014",
+    "before": null,
+    "after": "Table6col3 p534: turnover speed of convergence 1.2pp/year, deliberately paired baseline turnover 6.5%. Table reports normalization only for INITIAL effect, not this gradient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R573",
+    "before": null,
+    "after": "Reported baseline (population/conditioning not specified) not identified as nonreferral untreated mean at entry; conditional regression target and weights unresolved. Not aligned merely because same sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6014",
+    "before": null,
+    "after": "Same outcome baseline pairing eligible; marginal tenure gradient is not average referral effect and untreated-target benchmark weights not given. Annual versus monthly turnover outcome retained by column; per-year moderator unit not a different outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2165",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2165",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2165",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I881",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J881",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K881",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L881",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M881",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N881",
+    "before": null,
+    "after": "Table5 PanelB cols1-5: direct referral versus nonreferral on monthly turnover, including referral×tenure; pre-estimated worker/firm turnover effects are scalar adjustment controls, not absorbed FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O881",
+    "before": null,
+    "after": "pp526-527,533-534. Focal regression is linear probability regression; prior-window worker/firm effects proxy unobserved heterogeneity but are additional regressors. No joint absorption here. Explicit causal referral-effect interpretation; include despite observational selection. Main retention/learning conclusion. Not HDFE merely from column headings."
+  }
+]
+```
