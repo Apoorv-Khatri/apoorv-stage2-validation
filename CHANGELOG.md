@@ -628611,3 +628611,246 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:00:55.091687+00:00 — Review 2UP7GN8M h17: source-audited coding and linked comparisons
+
+39 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5563",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5564",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5563",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5564",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5563",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5564",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5563",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5563",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5564",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5563",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5564",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5563",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5563",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5563",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5564",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5563",
+    "before": null,
+    "after": "Conclusion p3329: focal estimate 18% decrease in prescriptions; benchmark current prescription level implicit in stated percentage."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5564",
+    "before": null,
+    "after": "Conclusion p3329: focal estimate 8.6% decrease in prescriptions; benchmark current prescription level implicit in stated percentage."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5563",
+    "before": null,
+    "after": "Own-outcome proportional counterfactual; no explicit numeric prescription level/weights. Eligibility of implicit base contested. Alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5564",
+    "before": null,
+    "after": "Imported response multiplied by own significance effect; separate focal calculation. No exact prescription denominator reported; implicit-base eligibility contested."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8354",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8354",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8354",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8354",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8354",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8354",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8354",
+    "before": null,
+    "after": "Aggregate prescriptions under no-sponsorship extrapolation, two calculations (own Figure7 relationship and imported cancer-trial response). Exact aggregation/weights unavailable."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E92",
+    "before": null,
+    "after": "DONE — Full available-source review of36 final pages, seven tables, seven figures and footnotes1–31, with independent audit. Retain25 settings,39 outcomes,45 comparisons and one unresolved comparison. Core cross-sectional sponsorship contrasts HDFE/FE, not temporal DiD or patient RCT; controlled three-set battery distinguished from single identifying cell FE. Policy/dynamic contrasts conventional DiD; actual-registration interaction HDFE. LASSO full procedure Other; publication and trial-design mechanisms retained under broad parameter-specific author intention, including nulls. Worked downstream interventions retained conditionally, not certified causal identification; h12/h16/h17 methods unknown rather than inferred nonlinear from counterfactual terminology. Two Figure3 paroxetine relative-gap endpoints added without inventing individual-arm or relative-SD benchmarks. s8 main, companion-arm h10 supporting. Table3 conflicting coefficient/prose leaves verbal/division unknown; Table7 repeated-baseline mean conflict unresolved. Final appendix/replication unavailable403; minimum established scopes only, no unseen grids or older-source substitution. Original fields, IDs, hyperlinks and source conflicts preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3702",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3702",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3702",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3702",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3702",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3702",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3702",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3702",
+    "before": null,
+    "after": "Conclusion p3329: removing average sponsorship effect yields18% fewer prescriptions using own sales relation, or8.6% fewer by combining significance effect with external cancer-trial estimate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3702",
+    "before": null,
+    "after": "Explicit conditional causal extrapolation, not separately identified sales slope. Distinguish two reported constructions, no new empirical RCT/IV. Imported 86% external effect is not own-outcome benchmark. Gate contested as hypothetical rather than implemented causal effect. Independent audit: Change Other to unknown: a simulation/counterfactual label does not establish a nonlinear estimator. Available final text does not identify the complete implemented mapping well enough for precedence. Do not invent a probit, structural estimator or linear forecast equation. Independent audit: Retain narrowly as an actually calculated, explicitly conditional intervention exercise, not as an identified causal efficacy-to-approval/sales slope. The author reports numerical outcomes after lowering efficacy/removing the sponsorship premium and highlights these calculations on p3303. The IF-causal assumption is explicit and strong; it is not proof of identification. Pure prediction without the reported intervention recomputation would be excluded. h17 groups alternative calibrations of the same no-sponsorship prescription estimand; external 86% is not separately extracted as this paper's own effect."
+  }
+]
+```
