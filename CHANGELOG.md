@@ -650550,3 +650550,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:56:16.519836+00:00 — Review 2XPTKJBQ h5: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8390",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8390",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8390",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8390",
+    "before": null,
+    "after": "Subgroup mortality; final main text implies same Table2 heterogeneity framework but unseen subgroup grid not reconstructed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3728",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3728",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3728",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3728",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3728",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3728",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3728",
+    "before": null,
+    "after": "TableB4, p3171 fn10: upper-BP DI income on subgroup mortality (no significant effects)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3728",
+    "before": null,
+    "after": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Separate reported heterogeneity location; subgroup menu/cells pending final appendix."
+  }
+]
+```
