@@ -723018,3 +723018,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:21:34.111295+00:00 — Review 5SL56HMJ h19: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6482",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6482",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6482",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6482",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6482",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6482",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6482",
+    "before": null,
+    "after": "Main p157 reports combined direct MM contribution44%=23% between-technology plus21% MM improvement; p164 reports minimum direct51%=23% plus28% total MM growth, against aggregate industry productivity growth1963-2002 (Table7/8 total22.1). One direct-attribution estimate/outcome/benchmark record with conflicting formulations, not two effects. Neither contribution level is reconstructed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6482",
+    "before": null,
+    "after": "Count once. Different component wording could indicate different accounting scopes, but no independently identified interventions are established. Parent may hold eligibility unknown instead; do not count both unresolved formulations."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8689",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8689",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8689",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8689",
+    "before": null,
+    "after": "Aggregate log TFP growth1963-2002, revenue-weighted; subgroup totals where explicitly reported. Shares of growth are contribution measures, not individual binary outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3895",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3895",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3895",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3895",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3895",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3895",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3895",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3895",
+    "before": null,
+    "after": "Main pp157,164: combined direct MM-attributed productivity contribution, between-technology reallocation plus MM productivity growth; one estimand with conflicting reported44%/51% formulations, not two separately identified interventions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3895",
+    "before": null,
+    "after": "Authors attribute gains to reallocation/entry (main pp156-161,166-169; AppendixG). Retain under author-intention gate, not an exogenous intervention claim. Method Other denotes structural causal accounting, not proof that a covariance is nonlinear: conditional on constructed TFP and fixed revenue shares, OP components are linear. Full economic procedure uses estimated production functions and realized revenue weights; no separately implemented OLS/IV/DiD coefficient or covariate-based matching treatment estimator is established. Conditional-linear-contrast taxonomy remains a parent adjudication issue. AppendixD.1 pp18-19 labor-as-state timing robustness reports similar reallocation point estimates/significance; group as routine upstream timing variant, do not invent component grids. Parent adjudication: method unknown. Conditional on constructed productivity and shares, accounting components may be linear contrasts; upstream structural estimation alone does not establish a nonlinear focal estimator. Complete attribution procedure versus conditional-outcome domain is unresolved, so Other is not certified. Causal-intention retention does not establish identification."
+  }
+]
+```
