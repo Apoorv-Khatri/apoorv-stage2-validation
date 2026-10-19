@@ -41097,7 +41097,16 @@
     "L4065": "1",
     "M4065": "n/a",
     "N4065": "CIV versus CI(6,6), A2 Poisson(eqA1); pooled prescribed contribution categories as A1 defines; outcomes P1 and P2.",
-    "O4065": "Section IV Result1 explicitly says deviations evoke punishment; repeated strategy-method choices under prescribed contribution profiles. Poisson is nonlinear in reported punishment outcome => Other, not RCT. Profiles not randomly assigned leaders. Main motive evidence is central to typology. No own-outcome mean/SD benchmark printed; intercept is log expected punishment, not raw baseline pairing."
+    "O4065": "Section IV Result1 explicitly says deviations evoke punishment; repeated strategy-method choices under prescribed contribution profiles. Poisson is nonlinear in reported punishment outcome => Other, not RCT. Profiles not randomly assigned leaders. Main motive evidence is central to typology. No own-outcome mean/SD benchmark printed; intercept is log expected punishment, not raw baseline pairing.",
+    "A4066": "8A6ENF64",
+    "B4066": "h43",
+    "I4066": "1",
+    "J4066": "Other",
+    "K4066": "1",
+    "L4066": "1",
+    "M4066": "n/a",
+    "N4066": "CIII versus CII (additional equality violation),0.24 Birr P1; A.I pp1-2, contrasts of A2 predicted Poisson means. Nonlinear count-response estimator.",
+    "O4066": "Section IV Result1 explicitly says deviations evoke punishment; repeated strategy-method choices under prescribed contribution profiles. Poisson is nonlinear in reported punishment outcome => Other, not RCT. Profiles not randomly assigned leaders. Main motive evidence is central to typology. No own-outcome mean/SD benchmark printed; intercept is log expected punishment, not raw baseline pairing."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -102775,7 +102784,14 @@
     "H9029": "0",
     "I9029": "1",
     "J9029": "none",
-    "K9029": "Punishment points/Birr on player2; zero punishment occurs for nonpunishers."
+    "K9029": "Punishment points/Birr on player2; zero punishment occurs for nonpunishers.",
+    "A9030": "8A6ENF64",
+    "B9030": "h43",
+    "C9030": "hy1",
+    "H9030": "0",
+    "I9030": "1",
+    "J9030": "none",
+    "K9030": "Punishment points/Birr on player1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
