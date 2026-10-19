@@ -39787,7 +39787,16 @@
     "L3933": "0",
     "M3933": "n/a",
     "N3933": "Regional employer pass-through of age-eligibility tax cut, TableA2 col3, quintiles of baseline youth unemployment.",
-    "O3933": "Same nonlinear wage-DD ratio as Table1; A2 values1.22,1.10,1.13,1.14,1.13. Do not call IV or equate these with wage-effect coefficients. Regional null worker-incidence corroboration supports market result."
+    "O3933": "Same nonlinear wage-DD ratio as Table1; A2 values1.22,1.10,1.13,1.14,1.13. Do not call IV or equate these with wage-effect coefficients. Regional null worker-incidence corroboration supports market result.",
+    "A3934": "64JY936S",
+    "B3934": "h19",
+    "I3934": "1",
+    "J3934": "DiD_conventional",
+    "K3934": "1",
+    "L3934": "0",
+    "M3934": "n/a",
+    "N3934": "Age eligibility x post log hiring and log separation rates, A13B; ages20-26 versus27-35,2002-06 versus2009-13. Separate log outcome from Table2/A3 levels.",
+    "O3934": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100364,7 +100373,21 @@
     "H8852": "0",
     "I8852": "unknown",
     "J8852": "other",
-    "K8852": "Employer pass-through fraction by regional quintile, TableA2 col3."
+    "K8852": "Employer pass-through fraction by regional quintile, TableA2 col3.",
+    "A8853": "64JY936S",
+    "B8853": "h19",
+    "C8853": "hy1",
+    "H8853": "0",
+    "I8853": "0",
+    "J8853": "log",
+    "K8853": "Log unemployment-to-employment transition share; A13B label0.04 (0.012); p64 says about5% hiring increase. Do not overwrite graph with prose.",
+    "A8854": "64JY936S",
+    "B8854": "h19",
+    "C8854": "hy2",
+    "H8854": "0",
+    "I8854": "0",
+    "J8854": "log",
+    "K8854": "Log employment-to-unemployment transition share; A13B label-0.215 (0.032), prose about22% decline. TableA3 instead repeats rate-level estimates."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
