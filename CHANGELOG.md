@@ -759738,3 +759738,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:07:26.924097+00:00 — Review 7PQVC2SH h19: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8906",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8907",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8906",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8907",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8906",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8907",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8906",
+    "before": null,
+    "after": "Sales distribution upper-tail index (negative log-CCDF/log-sales regression slope), Table2 cols1-4;1.5559 to1.0882 in baseline."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8907",
+    "before": null,
+    "after": "Value-added distribution upper-tail index, Table2 cols5-6; not a separate sales outcome or invented mean."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3967",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3967",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3967",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3967",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3967",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3967",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3967",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3967",
+    "before": null,
+    "after": "Figure6a/Table2 cols1-6: schooling-group heterogeneity in upper-tail sales/value-added distributions; log empirical CCDF slopes conditional on schooling bins, top10%/5% and cohort/sector-residualization variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3967",
+    "before": null,
+    "after": "Broad intention gate: pp2074-2075 interpret tail thickness as consequence of schooling-induced growth, central abstract result. Outcome-selected tails and empirical ranks make full distribution estimator nonlinear in underlying reported firm outcomes; not an OLS effect of log sales on an externally fixed CCDF. Narrower descriptive-tail exclusion is held for adjudication. Sector residualization does not override full estimator."
+  }
+]
+```

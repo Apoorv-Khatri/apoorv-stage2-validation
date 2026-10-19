@@ -40169,7 +40169,16 @@
     "L3966": "0",
     "M3966": "n/a",
     "N3966": "AppendixB.5/F.8: separately estimated schooling effects on log sales at age10 by two-digit sector; baseline year/age controls. Omitted small-sector display variants not reconstructed.",
-    "O3966": "Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented. These are schooling treatments within sector/sample variants, not causal effects of sector membership."
+    "O3966": "Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented. These are schooling treatments within sector/sample variants, not causal effects of sector membership.",
+    "A3967": "7PQVC2SH",
+    "B3967": "h19",
+    "I3967": "1",
+    "J3967": "Other",
+    "K3967": "0",
+    "L3967": "1",
+    "M3967": "n/a",
+    "N3967": "Figure6a/Table2 cols1-6: schooling-group heterogeneity in upper-tail sales/value-added distributions; log empirical CCDF slopes conditional on schooling bins, top10%/5% and cohort/sector-residualization variants.",
+    "O3967": "Broad intention gate: pp2074-2075 interpret tail thickness as consequence of schooling-induced growth, central abstract result. Outcome-selected tails and empirical ranks make full distribution estimator nonlinear in underlying reported firm outcomes; not an OLS effect of log sales on an externally fixed CCDF. Narrower descriptive-tail exclusion is held for adjudication. Sector residualization does not override full estimator."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101126,7 +101135,15 @@
     "A8905": "7PQVC2SH",
     "B8905": "h18",
     "C8905": "hy1",
-    "K8905": "Log sales, AppendixB.5/F.8. No unprinted coefficient values assigned."
+    "K8905": "Log sales, AppendixB.5/F.8. No unprinted coefficient values assigned.",
+    "A8906": "7PQVC2SH",
+    "B8906": "h19",
+    "C8906": "hy1",
+    "K8906": "Sales distribution upper-tail index (negative log-CCDF/log-sales regression slope), Table2 cols1-4;1.5559 to1.0882 in baseline.",
+    "A8907": "7PQVC2SH",
+    "B8907": "h19",
+    "C8907": "hy2",
+    "K8907": "Value-added distribution upper-tail index, Table2 cols5-6; not a separate sales outcome or invented mean."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
