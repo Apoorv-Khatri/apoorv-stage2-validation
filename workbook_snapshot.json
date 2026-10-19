@@ -39751,7 +39751,16 @@
     "L3929": "0",
     "M3929": "n/a",
     "N3929": "Age eligibility x post employment/labor-force rate with varying earnings thresholds, A8B; equation1 DD, labor-force denominator fixed.",
-    "O3929": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
+    "O3929": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms.",
+    "A3930": "64JY936S",
+    "B3930": "h15",
+    "I3930": "1",
+    "J3930": "DiD_conventional",
+    "K3930": "1",
+    "L3930": "0",
+    "M3930": "n/a",
+    "N3930": "Age eligibility x post self-employment, A10: modest effects on participation and gross earnings; adverse pretrend limitations acknowledged.",
+    "O3930": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100293,7 +100302,21 @@
     "H8847": "0",
     "I8847": "unknown",
     "J8847": "none",
-    "K8847": "Employment/labor-force rate with varying wage-earnings employment threshold; A8B. No invented threshold grid or graph point estimates."
+    "K8847": "Employment/labor-force rate with varying wage-earnings employment threshold; A8B. No invented threshold grid or graph point estimates.",
+    "A8848": "64JY936S",
+    "B8848": "h15",
+    "C8848": "hy1",
+    "H8848": "0",
+    "I8848": "unknown",
+    "J8848": "none",
+    "K8848": "Population fraction with self-employment earnings above$4,940 real2012 threshold; A10A.",
+    "A8849": "64JY936S",
+    "B8849": "h15",
+    "C8849": "hy2",
+    "H8849": "0",
+    "I8849": "unknown",
+    "J8849": "none",
+    "K8849": "Population mean gross-of-payroll-tax self-employment earnings including individual zeros, USD; A10B. Aggregate mean not itself established to have zero mass."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
