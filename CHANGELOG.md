@@ -674481,3 +674481,372 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:24:33.423420+00:00 — Review 4HCEQK9M h9: source-audited coding and linked comparisons
+
+60 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5974",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5975",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5976",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5977",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5974",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5975",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5976",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5977",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5974",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5975",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5976",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5977",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5974",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5977",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5974",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5975",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5976",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5977",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5974",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5975",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5976",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5977",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5976",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5977",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5976",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5977",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5974",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5975",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5976",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5977",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5974",
+    "before": null,
+    "after": "B7col6 p12 lean: focal 0.0498 (lean beta); paired control mean 0.711, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5975",
+    "before": null,
+    "after": "B7col6 p12 semi-peak: focal 0.0498 + -0.277 (semi-peak beta+gamma); paired control mean 0.841, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5976",
+    "before": null,
+    "after": "B7col7 p12 lean: focal -0.000103 (lean beta); paired control mean 0.723, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5977",
+    "before": null,
+    "after": "B7col7 p12 semi-peak: focal -0.000103 + -0.202 (semi-peak beta+gamma); paired control mean 0.787, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5974",
+    "before": null,
+    "after": "Rounds selected on nonzero control outcomes; col5 smallholder effect paired with pooled mean. Follow-up cols6/7 recall5/7 days; printed means retained, no reassignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5975",
+    "before": null,
+    "after": "Rounds selected on nonzero control outcomes; col5 smallholder effect paired with pooled mean. Follow-up cols6/7 recall5/7 days; printed means retained, no reassignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5976",
+    "before": null,
+    "after": "Rounds selected on nonzero control outcomes; col5 smallholder effect paired with pooled mean. Follow-up cols6/7 recall5/7 days; printed means retained, no reassignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5977",
+    "before": null,
+    "after": "Rounds selected on nonzero control outcomes; col5 smallholder effect paired with pooled mean. Follow-up cols6/7 recall5/7 days; printed means retained, no reassignment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8516",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8516",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8516",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8516",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8516",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8516",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8516",
+    "before": null,
+    "after": "Total self-employment hours per worker-day;5/7-day recall."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3793",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3793",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3793",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3793",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3793",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3793",
+    "before": null,
+    "after": "B7 p12: post-shock total self-employment hours cols6-7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3793",
+    "before": null,
+    "after": "Eq(1), pp3196-3199; Appendix C pp19-21. Village matched-pair randomized high versus low external hiring intensity; workers randomly assigned offers/waitlist/never offered, with never-offered spillover sample. Linear ITT; RCT precedes round-strata FE and sampling weights. Seasonal moderator uses control-village month employment, not randomized season; treatment remains binary. Not IV receipt except s5. Control condition has small hiring shock, not literally no jobs. Randomization supports control counterfactual for matched season/population under maintained sampling assumptions; wage selection, subgroup means and continuous-moderator targets need separate scrutiny."
+  }
+]
+```
