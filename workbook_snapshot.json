@@ -37854,7 +37854,16 @@
     "L3761": "0",
     "M3761": "n/a",
     "N3761": "TableA5: binary civil-service reform effects on the number of postal inspectors and any-inspector indicator; supporting inspection-capacity null.",
-    "O3761": "Main p2372 explicitly reports virtually no effect of civil service reform on the number of inspectors, and uses this finding to explain why greater oversight did not drive improved performance. Retain under substantive causal-null exception despite confounder motivation; unlike A4 this is an explicit reform-effect claim about staffing inside the organization. Caption implements stacked treated/post DiD; FE rows show wave×city and wave×state without year, inconsistent with time-interacted caption. Do not manufacture year FE or infer HDFE: state is nested in city. main=0: auxiliary confounder robustness, not the central workforce-selection/retention finding."
+    "O3761": "Main p2372 explicitly reports virtually no effect of civil service reform on the number of inspectors, and uses this finding to explain why greater oversight did not drive improved performance. Retain under substantive causal-null exception despite confounder motivation; unlike A4 this is an explicit reform-effect claim about staffing inside the organization. Caption implements stacked treated/post DiD; FE rows show wave×city and wave×state without year, inconsistent with time-interacted caption. Do not manufacture year FE or infer HDFE: state is nested in city. main=0: auxiliary confounder robustness, not the central workforce-selection/retention finding.",
+    "A3762": "4BNXLZ5D",
+    "B3762": "h1",
+    "I3762": "1",
+    "J3762": "Other",
+    "K3762": "0",
+    "L3762": "1",
+    "M3762": "n/a",
+    "N3762": "Table4 row2: Contract viability on choice of financing mode, separately estimated multinomial logit.",
+    "O3762": "Implemented multinomial logit: Other regardless of product/year dummies. Three mutually exclusive financing categories; category-specific probability effects are not separate binary logits. Author-intention gate: pp885–87 explicitly calls these effects and tests propositions; observational institutional variation is not exogenous identification. No IV/RCT/RD/DiD. Routine controls p886 grouped within this treatment scope; no unobserved appendix table labels inferred."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -95389,7 +95398,19 @@
     "H8445": "1",
     "I8445": "1",
     "J8445": "none",
-    "K8445": "Postshipment indicator (documentary collection or open account; one versus zero for other modes). Missing category outcome for predicted probability 95.6%→64.2%, p885."
+    "K8445": "Postshipment indicator (documentary collection or open account; one versus zero for other modes). Missing category outcome for predicted probability 95.6%→64.2%, p885.",
+    "A8446": "4BNXLZ5D",
+    "B8446": "h1",
+    "C8446": "hy1",
+    "K8446": "Cash-in-advance indicator (one versus zero for the other financing modes).",
+    "A8447": "4BNXLZ5D",
+    "B8447": "h1",
+    "C8447": "hy2",
+    "K8447": "Letter-of-credit indicator (one versus zero for the other financing modes).",
+    "A8448": "4BNXLZ5D",
+    "B8448": "h1",
+    "C8448": "hy3",
+    "K8448": "Postshipment indicator (documentary collection or open account; one versus zero for other modes)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
