@@ -626889,3 +626889,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:57:13.935264+00:00 — Review 2UP7GN8M h7: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5558",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5559",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5558",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5559",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5558",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5559",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5559",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5558",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5559",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5558",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5559",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5558",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5559",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5558",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5559",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5558",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5559",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5558",
+    "before": null,
+    "after": "Table7 col3 p3327: focal estimate .190 nonregistered sponsorship premium; benchmark .33."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5559",
+    "before": null,
+    "after": "Table7 col3 p3327: focal estimate -.190 sponsor x registered interaction; benchmark .33."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5558",
+    "before": null,
+    "after": "Same-column mean across full sample, not subgroup or policy untreated counterfactual. Unknown alignment. Printed .33 differs from Table1 .35; no silent replacement. Lower-order premium and differential effect are distinct estimates."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5559",
+    "before": null,
+    "after": "Same-column mean across full sample, not subgroup or policy untreated counterfactual. Unknown alignment. Printed .33 differs from Table1 .35; no silent replacement. Lower-order premium and differential effect are distinct estimates."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8335",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8335",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8335",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8335",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8335",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8335",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8335",
+    "before": null,
+    "after": "Relative efficacy: standardized absolute efficacy minus the placebo arm if available, otherwise the least-effective arm; main-source equation/table establishes construction. Component-SD units do not establish unit SD of this difference."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3692",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3692",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3692",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3692",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3692",
+    "before": null,
+    "after": "Table7 col3: sponsorship contrast interacted with actual preregistered status (.190 baseline, -.190 interaction); relative efficacy."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3692",
+    "before": null,
+    "after": "Eq.(1), pp3311-3312: sponsorship is NOT randomized with patient drug assignment; no IV/RD. Cross-sectional arm/comparator double difference is called DiD by author but lacks treated/post parallel-trends comparison under project definition. Proposed HDFE: drug-by-pair cells, publication-year bins, scale indicators are three separate sets; joint adjustment addresses molecule/comparator selection, timing and measurement heterogeneity. Contested HDFE versus FE if ancillary sets do not satisfy identification-battery criterion; also contested cross-sectional DiD interpretation. Relative efficacy is the REPORTED outcome; placebo/least-arm subtraction is its construction, not evidence of treatment randomization. Actual registry status is not the post-policy indicator; conditional cross-sectional heterogeneity, not automatically policy DiD. Registration endogenous; alternative interpretation as preregistration effect modified by sponsorship held for parent. No separate causal claim for included .053 slope established. Independent audit: No temporal treatment contrast is implemented by actual registry status alone. HDFE with sponsorship heterogeneity is the appropriate minimum; do not import policy DiD from col2."
+  }
+]
+```
