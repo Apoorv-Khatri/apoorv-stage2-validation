@@ -777528,3 +777528,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T12:05:30.419991+00:00 — Review 8A6ENF64 s2: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2348",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2348",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2348",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2348",
+    "before": null,
+    "after": "Average potential crop trees per hectare, first forest assessment2005 (PCT-I)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I941",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J941",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K941",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L941",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M941",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N941",
+    "before": null,
+    "after": "LEQEF leader indicator versus LNP omitted type, Table6 col4 and p774 indicator robustness with full controls; village FE; PCT-I. Separate LEQ and LAS indicators below."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O941",
+    "before": null,
+    "after": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders."
+  }
+]
+```
