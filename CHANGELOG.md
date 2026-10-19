@@ -613536,3 +613536,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T00:23:46.149275+00:00 — Review XTWW4AUI h1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8289",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8289",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8289",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8289",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8289",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8289",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8289",
+    "before": null,
+    "after": "12-month late-minus-early stock return. Outcome-ranked permutation aggregation and exact column implementation not verified; no unseen grid inferred."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3665",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3665",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3665",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3665",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3665",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3665",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3665",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3665",
+    "before": null,
+    "after": "Alternative IV thresholds and no-long-IV-restriction placebo, pp.130-131; positive 1.26pp moderate5-15% gap, footnote8 0.64/3.17pp other gaps."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3665",
+    "before": null,
+    "after": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Outcome-ranked permutation aggregation and exact column implementation not verified; no unseen grid inferred."
+  }
+]
+```
