@@ -650724,3 +650724,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:56:59.213475+00:00 — Review 2XPTKJBQ h9: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8392",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8392",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8392",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8392",
+    "before": null,
+    "after": "Average annual mortality in main four-year framework."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3730",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3730",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3730",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3730",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3730",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3730",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3730",
+    "before": null,
+    "after": "TableB7, p3174 fn14: lower-BP fuzzy RKD using DI income plus earnings as treatment denominator rather than DI income alone."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3730",
+    "before": null,
+    "after": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Distinct treatment/estimand: denominator is kink in sum of DI income and earnings. Main text says results similar to Table1; no transfer of Table1 comparisons to unseen B7."
+  }
+]
+```

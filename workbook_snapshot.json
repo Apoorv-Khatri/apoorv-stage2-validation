@@ -37468,7 +37468,16 @@
     "L3729": "0",
     "M3729": "single continuous",
     "N3729": "Table B5, p3174: implemented extended-follow-up fuzzy-RKD DI-income effects on average annual mortality, described as from 4 through 10 years after entry. Minimum single scope; exact BP-by-horizon allocation unavailable.",
-    "O3729": "Eq1–2 fuzzy RKD IV, continuous payment dose; scalar nonbinary slope-kink contrast. Immediate paragraph concerns lower/family BPs and fn13 singles out family weakening first stages. Do not assert upper BP or a full BP-by-horizon grid. One minimum scope pending final B5; does not mean a pooled-BP estimator. No coefficient or mean transferred from Table1."
+    "O3729": "Eq1–2 fuzzy RKD IV, continuous payment dose; scalar nonbinary slope-kink contrast. Immediate paragraph concerns lower/family BPs and fn13 singles out family weakening first stages. Do not assert upper BP or a full BP-by-horizon grid. One minimum scope pending final B5; does not mean a pooled-BP estimator. No coefficient or mean transferred from Table1.",
+    "A3730": "2XPTKJBQ",
+    "B3730": "h9",
+    "I3730": "1",
+    "J3730": "IV",
+    "K3730": "0",
+    "L3730": "0",
+    "M3730": "single continuous",
+    "N3730": "TableB7, p3174 fn14: lower-BP fuzzy RKD using DI income plus earnings as treatment denominator rather than DI income alone.",
+    "O3730": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Distinct treatment/estimand: denominator is kink in sum of DI income and earnings. Main text says results similar to Table1; no transfer of Table1 comparisons to unseen B7."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94540,7 +94549,11 @@
     "A8391": "2XPTKJBQ",
     "B8391": "h6",
     "C8391": "hy1",
-    "K8391": "TableB5 extended-follow-up average annual mortality, described as from 4 through 10 years after entry. Exact cumulative-versus-window horizon construction and BP allocation unresolved; no unseen grid inferred."
+    "K8391": "TableB5 extended-follow-up average annual mortality, described as from 4 through 10 years after entry. Exact cumulative-versus-window horizon construction and BP allocation unresolved; no unseen grid inferred.",
+    "A8392": "2XPTKJBQ",
+    "B8392": "h9",
+    "C8392": "hy1",
+    "K8392": "Average annual mortality in main four-year framework."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
