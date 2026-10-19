@@ -613398,3 +613398,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T00:23:05.698372+00:00 — Review XTWW4AUI s6: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2003",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2003",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2003",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2003",
+    "before": null,
+    "after": "Reported simple return (12-month cumulative for s1-s4; one-month for s5-s7), not an estimated coefficient as a separate dependent variable. Percentage-point contrasts; factor alpha where applicable. No log/log1p outcome. Exact zero mass is not established by main article."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I822",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J822",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K822",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L822",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M822",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N822",
+    "before": null,
+    "after": "Table 8 p.137: monthly high-IV365 LME return alpha adjusted for market/FF3/FF5; 1.19,1.06,0.90pp."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O822",
+    "before": null,
+    "after": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Alpha is adjusted late-minus-early contrast; strategy return is dependent variable, not treatment regressor. Main=1: introduction and conclusion explicitly stress standard-risk-factor nonexplanation and downturn performance."
+  }
+]
+```
