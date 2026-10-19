@@ -37098,7 +37098,16 @@
     "L3696": "1",
     "M3696": "unknown",
     "N3696": "FigureA6 / SectionIV.B.2 pp3323-3324: sponsorship effects in counterfactual samples adding observed unpublished trials and simulating missing trials.",
-    "O3696": "Implemented repeated-trial imputation uses random draws from observed unpublished trials, not randomized sponsorship. Maintains similarity of unseen and observed unpublished effects, completeness of registry and eventual publications. 20%,50%,90% are changes relative to estimated sponsorship effect, not outcome-mean comparisons. Exact FE and repeated-draw estimator unresolved; no fabricated appendix grid."
+    "O3696": "Implemented repeated-trial imputation uses random draws from observed unpublished trials, not randomized sponsorship. Maintains similarity of unseen and observed unpublished effects, completeness of registry and eventual publications. 20%,50%,90% are changes relative to estimated sponsorship effect, not outcome-mean comparisons. Exact FE and repeated-draw estimator unresolved; no fabricated appendix grid.",
+    "A3697": "2UP7GN8M",
+    "B3697": "h12",
+    "I3697": "1",
+    "J3697": "unknown",
+    "K3697": "1",
+    "L3697": "1",
+    "M3697": "unknown",
+    "N3697": "SectionIV.B.2 p3324: eliminating publication bias under four-times-total-trials scenario reduces reported efficacy by .15 SD, almost half average between-arm gap.",
+    "O3697": "Distinct counterfactual mechanism intervention, not sponsorship receipt. Back-of-envelope imputation extrapolation; binary current versus no-publication-bias scenario. Full procedure specified incompletely; method unknown, not a claim of clean causal identification. Independent audit: Change Other to unknown: a simulation/counterfactual label does not establish a nonlinear estimator. Available final text does not identify the complete implemented mapping well enough for precedence. Do not invent a probit, structural estimator or linear forecast equation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93709,7 +93718,14 @@
     "H8340": "0",
     "I8340": "unknown",
     "J8340": "unknown",
-    "K8340": "Relative efficacy: standardized component difference from placebo/least arm; exact appendix scale unverified where source unavailable."
+    "K8340": "Relative efficacy: standardized component difference from placebo/least arm; exact appendix scale unverified where source unavailable.",
+    "A8341": "2UP7GN8M",
+    "B8341": "h12",
+    "C8341": "hy1",
+    "H8341": "0",
+    "I8341": "unknown",
+    "J8341": "other",
+    "K8341": "Relative efficacy: standardized component difference from placebo/least arm; exact appendix scale unverified where source unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -155984,7 +156000,18 @@
     "O5559": "0",
     "P5559": "unknown",
     "Q5559": "Table7 col3 p3327: focal estimate -.190 sponsor x registered interaction; benchmark .33.",
-    "R5559": "Same-column mean across full sample, not subgroup or policy untreated counterfactual. Unknown alignment. Printed .33 differs from Table1 .35; no silent replacement. Lower-order premium and differential effect are distinct estimates."
+    "R5559": "Same-column mean across full sample, not subgroup or policy untreated counterfactual. Unknown alignment. Printed .33 differs from Table1 .35; no silent replacement. Lower-order premium and differential effect are distinct estimates.",
+    "A5560": "2UP7GN8M",
+    "B5560": "h12",
+    "C5560": "hc1",
+    "K5560": "1",
+    "L5560": "hy1",
+    "M5560": "outcome_mean",
+    "N5560": "1",
+    "O5560": "1",
+    "P5560": "unknown",
+    "Q5560": "p3324 SectionIV.B.2: focal estimate .15 SD decrease; benchmark average between-arm efficacy difference, “almost half”; no number supplied in this sentence.",
+    "R5560": "Own relative-efficacy mean comparison, distinct from90% of sponsorship coefficient (effect/effect, ineligible). Benchmark target/full counterfactual weights unresolved; do not invent .35 here."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

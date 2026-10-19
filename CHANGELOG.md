@@ -627570,3 +627570,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:59:03.388959+00:00 — Review 2UP7GN8M h12: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5560",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5560",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5560",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5560",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5560",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5560",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5560",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5560",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5560",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5560",
+    "before": null,
+    "after": "p3324 SectionIV.B.2: focal estimate .15 SD decrease; benchmark average between-arm efficacy difference, “almost half”; no number supplied in this sentence."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5560",
+    "before": null,
+    "after": "Own relative-efficacy mean comparison, distinct from90% of sponsorship coefficient (effect/effect, ineligible). Benchmark target/full counterfactual weights unresolved; do not invent .35 here."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8341",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8341",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8341",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8341",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8341",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8341",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8341",
+    "before": null,
+    "after": "Relative efficacy: standardized component difference from placebo/least arm; exact appendix scale unverified where source unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3697",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3697",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3697",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3697",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3697",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3697",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3697",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3697",
+    "before": null,
+    "after": "SectionIV.B.2 p3324: eliminating publication bias under four-times-total-trials scenario reduces reported efficacy by .15 SD, almost half average between-arm gap."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3697",
+    "before": null,
+    "after": "Distinct counterfactual mechanism intervention, not sponsorship receipt. Back-of-envelope imputation extrapolation; binary current versus no-publication-bias scenario. Full procedure specified incompletely; method unknown, not a claim of clean causal identification. Independent audit: Change Other to unknown: a simulation/counterfactual label does not establish a nonlinear estimator. Available final text does not identify the complete implemented mapping well enough for precedence. Do not invent a probit, structural estimator or linear forecast equation."
+  }
+]
+```
