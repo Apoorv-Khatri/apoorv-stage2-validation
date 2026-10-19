@@ -651942,3 +651942,144 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:19:38.367360+00:00 — Review 3ZIDN6KF s2: source-audited coding and linked comparisons
+
+22 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K526",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L526",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L527",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M526",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M527",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N526",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O526",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P526",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P527",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q526",
+    "before": null,
+    "after": "Table 2, column 4: “Mean of dependent variable: 4.781”; “Reform × Post −0.517 (0.239).” Benchmark is the estimation-sample mean, not a demonstrated untreated-target mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q527",
+    "before": null,
+    "after": "Table 2, column 5: “Mean of dependent variable: 4.302”; “Reform × Post −0.181 (0.084).” Benchmark is the estimation-sample mean, not a demonstrated untreated-target mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R526",
+    "before": null,
+    "after": "Wrong parent after duplicate setting consolidation; preserved distinct triple under s1 additions."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R527",
+    "before": null,
+    "after": "Wrong parent after duplicate setting consolidation; preserved distinct triple under s1 additions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2083",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2083",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2083",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2083",
+    "before": null,
+    "after": "Duplicate of s1/y1 after routine sample consolidation; inactive."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I850",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O850",
+    "before": null,
+    "after": "Duplicate routine reform-wave sample variants at same Table2 location; merged into s1. Figure3 dynamic estimates separately h2; preserve original model fields and ID."
+  }
+]
+```
