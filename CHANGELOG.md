@@ -642342,3 +642342,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:34:02.730650+00:00 — Review 2W92PVM3 h9: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5728",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5729",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5728",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5729",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5728",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5729",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5729",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5728",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5729",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5728",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5729",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5729",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5728",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5729",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5728",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5729",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5728",
+    "before": null,
+    "after": "p1553: focal estimate $171 offer acceptance57.6% to27.2%; benchmark 57.6% without deadline."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5729",
+    "before": null,
+    "after": "p1553: focal estimate $171 offer acceptance57.6% to27.2%; benchmark 27.2% with deadline."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5728",
+    "before": null,
+    "after": "Same respondents but ordering/conditioning of question and hypothetical untreated interpretation require care; no random deadline assignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5729",
+    "before": null,
+    "after": "Treated endpoint, not no-deadline baseline; deliberate endpoint pairing eligible, decomposition-only alternative held for parent."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8365",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8365",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8365",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8365",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8365",
+    "before": null,
+    "after": "Stated acceptance indicator under hypothetical up-front price (0/1, reported percent)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3711",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3711",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3711",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3711",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3711",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3711",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3711",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3711",
+    "before": null,
+    "after": "SectionVI.A pp1552-53: adding6-week payment deadline to the same hypothetical up-front offer; stated acceptance57.6% to27.2% at$171."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3711",
+    "before": null,
+    "after": "Paired linear mean contrast; deadline not randomized/order-counterbalanced. Authors interpret drop as credit constraint. Random price assignment must not be transferred to this framing treatment. Binary with/without deadline; order and hypothetical bias limit causal credibility, not author-intention inclusion. Independent audit: Retain as author-interpreted paired linear contrast (OLS), not RCT: every respondent first sees the unrestricted question, then the deadline. Order and hypothetical bias affect identification credibility. No numerical decline is computed and attributed to the source."
+  }
+]
+```
