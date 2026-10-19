@@ -752073,3 +752073,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:33:24.749476+00:00 — Review 64JY936S h31: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8870",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8871",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8872",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8870",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8871",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8872",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8870",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8871",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8872",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8870",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8871",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8872",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8870",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8871",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8872",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8870",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8871",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8872",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8870",
+    "before": null,
+    "after": "Total assets (reported$0.52 per$1 cumulative windfall); AppendixB pp70-71. Do not manufacture separate subtype numerical point estimates."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8871",
+    "before": null,
+    "after": "Fixed assets (reported range$0.10-0.15 jointly with tangible fixed assets); AppendixB pp70-71. Do not manufacture separate subtype numerical point estimates."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8872",
+    "before": null,
+    "after": "Fixed tangible assets (same joint range, not allocated separately); AppendixB pp70-71. Do not manufacture separate subtype numerical point estimates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3946",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3946",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3946",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3946",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3946",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3946",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3946",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3946",
+    "before": null,
+    "after": "AppendixB implied capital-stock response per dollar of persistent tax cash windfall, conditional on cash-only interpretation; total/fixed/fixed-tangible assets."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3946",
+    "before": null,
+    "after": "Known arithmetic rescaling6% capital growth by labor-cost/asset ratio0.8 and six-year windfall11.52 gives reported0.52; asset-subtype rescalings yield0.10-0.15. Method uncertainty concerns treatment-effect estimator classification, not missing computation: no formal IV, fixed rescaling of DiD versus model-recovered cash effect ambiguous. Do not assign Other just for back-of-envelope label."
+  }
+]
+```
