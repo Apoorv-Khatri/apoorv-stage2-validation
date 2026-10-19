@@ -626613,3 +626613,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:56:28.144033+00:00 — Review 2UP7GN8M h5: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5557",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5557",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5557",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5557",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5557",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5557",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5557",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5557",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5557",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5557",
+    "before": null,
+    "after": "Table5 col8 p3320: focal estimate .01 (prose p3324 .006 unrounded); benchmark .32."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5557",
+    "before": null,
+    "after": "LASSO prediction outcome, not direct observed efficacy. 4%=.006/.17 in prose compares two effects, ineligible as own-outcome mean; not imported into this table-mean pairing."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8333",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8333",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8333",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8333",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8333",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8333",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8333",
+    "before": null,
+    "after": "Relative predicted efficacy using all trial/patient characteristics selected by LASSO; Table5 col8; not directly observed efficacy."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3690",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3690",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3690",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3690",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3690",
+    "before": null,
+    "after": "Table5 col8: sponsorship effect on all-characteristic LASSO-predicted relative efficacy (.01 table; .006 in mechanism prose)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3690",
+    "before": null,
+    "after": "LASSO selects predictors using efficacy, followed by Eq.(4). Full outcome-adaptive procedure coded Other, not linear IV. Conditional-on-fitted-outcome HDFE alternative must be adjudicated. Abstract-central design mechanism null. Independent audit: Recommend Other for the FULL implemented outcome-adaptive LASSO selection plus effect procedure. Conditioning on its selected fitted outcome would hide this distinguishing estimator stage; no excluded instruments exist."
+  }
+]
+```
