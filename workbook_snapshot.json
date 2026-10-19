@@ -37719,7 +37719,16 @@
     "L3750": "0",
     "M3750": "n/a",
     "N3750": "FigureA1 p40: de Chaisemartin–D’Haultfoeuille dynamic effect of reform on log delivery errors.",
-    "O3750": "Final official supplement FigA1 explicitly names de Chaisemartin–D’Haultfoeuille and Stata did_multiplegt. Linear heterogeneity-robust implementation established, distinct from baseline stacked regression. No numerical point estimates transcribed from graph, no SD/mean pairing."
+    "O3750": "Final official supplement FigA1 explicitly names de Chaisemartin–D’Haultfoeuille and Stata did_multiplegt. Linear heterogeneity-robust implementation established, distinct from baseline stacked regression. No numerical point estimates transcribed from graph, no SD/mean pairing.",
+    "A3751": "3ZIDN6KF",
+    "B3751": "h13",
+    "I3751": "1",
+    "J3751": "DiD_modern",
+    "K3751": "1",
+    "L3751": "0",
+    "M3751": "n/a",
+    "N3751": "FigureA1 p40: Sun–Abraham dynamic effect of reform on log delivery errors.",
+    "O3751": "Final official supplement FigA1 explicitly names Sun–Abraham and Stata eventstudyinteract. Linear heterogeneity-robust implementation established, distinct from baseline stacked regression. No numerical point estimates transcribed from graph, no SD/mean pairing."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -95077,7 +95086,14 @@
     "H8424": "0",
     "I8424": "unknown",
     "J8424": "log",
-    "K8424": "Log delivery errors, FigureA1."
+    "K8424": "Log delivery errors, FigureA1.",
+    "A8425": "3ZIDN6KF",
+    "B8425": "h13",
+    "C8425": "hy1",
+    "H8425": "0",
+    "I8425": "unknown",
+    "J8425": "log",
+    "K8425": "Log delivery errors, FigureA1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
