@@ -686289,3 +686289,414 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:52:45.581300+00:00 — Review 4X3H7PWW h27: source-audited coding and linked comparisons
+
+67 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6027",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6028",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6029",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6030",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6027",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6028",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6029",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6030",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6027",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6028",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6029",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6030",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6027",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6028",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6030",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6027",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6028",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6029",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6030",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6027",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6028",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6029",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6030",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6027",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6028",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6029",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6030",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6027",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6028",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6029",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6030",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6027",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6028",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6029",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6030",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6027",
+    "before": null,
+    "after": "AppendixTableF1 laundries/hotels/restaurants, United States, 115% floor: reported wage growth8.73%, alongside mean bottom wage1966 $0.9 and1967 $0.96; values transcribed without repairing arithmetic."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6028",
+    "before": null,
+    "after": "AppendixTableF1 laundries/hotels/restaurants, United States, 120% floor: reported wage growth7.36%, alongside mean bottom wage1966 $0.9 and1967 $0.98; values transcribed without repairing arithmetic."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6029",
+    "before": null,
+    "after": "AppendixTableF1 United States, 115% floor: reported wage growth8.73% paired with1967 bottom-worker mean $0.96."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6030",
+    "before": null,
+    "after": "AppendixTableF1 United States, 120% floor: reported wage growth7.36% paired with1967 bottom-worker mean $0.98."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6027",
+    "before": null,
+    "after": "Pre-reform bottom-worker mean vs affected/post moving-bin target: matching population/composition/nominal growth adjustment unresolved. National endpoints visibly do not reproduce printed percentages; do not recompute."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6028",
+    "before": null,
+    "after": "Pre-reform bottom-worker mean vs affected/post moving-bin target: matching population/composition/nominal growth adjustment unresolved. National endpoints visibly do not reproduce printed percentages; do not recompute."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6029",
+    "before": null,
+    "after": "Post-treatment outcome mean, not untreated baseline. Symmetric same-panel endpoint eligibility; only prereform denominator has divided1. Printed arithmetic conflicts retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6030",
+    "before": null,
+    "after": "Post-treatment outcome mean, not untreated baseline. Symmetric same-panel endpoint eligibility; only prereform denominator has divided1. Printed arithmetic conflicts retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8616",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8617",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8616",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8617",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8616",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8617",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8616",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8617",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8616",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8617",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8616",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8617",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8616",
+    "before": null,
+    "after": "Employment growth at bottom minus top counterfactual growth, TableF1; percentage changes and derived elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8617",
+    "before": null,
+    "after": "Mean hourly wages of bottom workers,1966 and1967, used to calculate wage gain/elasticity, TableF1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3843",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3843",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3843",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3843",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3843",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3843",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3843",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3843",
+    "before": null,
+    "after": "AppendixF4/TableF1: laundries/hotels/restaurants, United States,1967 policy effect on bottom-wage employment relative to upper-wage employment-growth counterfactual; cutoff variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3843",
+    "before": null,
+    "after": "Author parallel-growth bottom/top argument establishes causal intention. Implemented growth-rate contrast is DiD-like conditional on pre-counts, but outcome-dependent binning, simulated wage shifting and elasticity recovery complicate full-procedure linearity. Do not assign Other from simulation label alone. TableF1 South no-spillover elasticity0.48 conflicts prose-0.01; national printed wage endpoints and growth rates also conflict. No silent repair."
+  }
+]
+```
