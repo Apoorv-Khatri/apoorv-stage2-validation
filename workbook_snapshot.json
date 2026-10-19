@@ -38025,7 +38025,16 @@
     "L3780": "0",
     "M3780": "n/a",
     "N3780": "p891 fn28: Table5 relationship specifications run as multinomial logits; log previous sales, common/civil-law heterogeneity.",
-    "O3780": "Explicit implemented nonlinear robustness, hence Other; FE handling in nonlinear specification not established by main footnote. No assumption that customer FE survive unchanged. Graphs online unavailable."
+    "O3780": "Explicit implemented nonlinear robustness, hence Other; FE handling in nonlinear specification not established by main footnote. No assumption that customer FE survive unchanged. Graphs online unavailable.",
+    "A3781": "4BNXLZ5D",
+    "B3781": "h20",
+    "I3781": "1",
+    "J3781": "Other",
+    "K3781": "0",
+    "L3781": "0",
+    "M3781": "n/a",
+    "N3781": "p891 fn28: Table5 relationship specifications run as multinomial logits; log previous-transaction count, common/civil-law heterogeneity.",
+    "O3781": "Explicit implemented nonlinear robustness, hence Other; FE handling in nonlinear specification not established by main footnote. No assumption that customer FE survive unchanged. Graphs online unavailable."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -95733,7 +95742,19 @@
     "A8486": "4BNXLZ5D",
     "B8486": "h19",
     "C8486": "hy3",
-    "K8486": "Postshipment indicator (documentary collection or open account; one versus zero for other modes)."
+    "K8486": "Postshipment indicator (documentary collection or open account; one versus zero for other modes).",
+    "A8487": "4BNXLZ5D",
+    "B8487": "h20",
+    "C8487": "hy1",
+    "K8487": "Cash-in-advance indicator (one versus zero for the other financing modes).",
+    "A8488": "4BNXLZ5D",
+    "B8488": "h20",
+    "C8488": "hy2",
+    "K8488": "Letter-of-credit indicator (one versus zero for the other financing modes).",
+    "A8489": "4BNXLZ5D",
+    "B8489": "h20",
+    "C8489": "hy3",
+    "K8489": "Postshipment indicator (documentary collection or open account; one versus zero for other modes)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
