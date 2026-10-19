@@ -682920,3 +682920,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:44:32.647233+00:00 — Review 4X3H7PWW h2: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8568",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8568",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8568",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8568",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8568",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8568",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8568",
+    "before": null,
+    "after": "Log imputed annual hours, employed CPS sample; FigureVIII A."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3818",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3818",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3818",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3818",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3818",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3818",
+    "before": null,
+    "after": "FigureVIII A p206: caption-established cross-industry newly covered versus 1938 industry event study on log annual hours conditional on employment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3818",
+    "before": null,
+    "after": "FigureVIII A caption explicitly identifies industry design/FE/clustering, but V.A p205 explicitly describes the same plotted result as strong/weak state paths. E4 independently establishes state hours. This contradictory description does not prove two implemented designs: hold distinctness unknown rather than count a certain additional industry setting. Resolve with actual implementation before final inclusion; do not transfer E4 coefficients."
+  }
+]
+```

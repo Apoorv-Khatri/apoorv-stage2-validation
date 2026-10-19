@@ -38571,7 +38571,16 @@
     "L3817": "0",
     "M3817": "n/a",
     "N3817": "Eq(2)/TableIV cols3-4: BLS triple difference newly covered industry × post × South on log hourly wages; full/strict samples.",
-    "O3817": "Separate Southern differential estimand from s5. Triple interaction0.075/0.081; lower-order0.066/0.098 is non-South contrast, not unconditional effect. p198 calls beta4 Southern effect although Eq2 beta1 is triple interaction; printed conflict retained."
+    "O3817": "Separate Southern differential estimand from s5. Triple interaction0.075/0.081; lower-order0.066/0.098 is non-South contrast, not unconditional effect. p198 calls beta4 Southern effect although Eq2 beta1 is triple interaction; printed conflict retained.",
+    "A3818": "4X3H7PWW",
+    "B3818": "h2",
+    "I3818": "unknown",
+    "J3818": "DiD_conventional",
+    "K3818": "1",
+    "L3818": "1",
+    "M3818": "n/a",
+    "N3818": "FigureVIII A p206: caption-established cross-industry newly covered versus 1938 industry event study on log annual hours conditional on employment.",
+    "O3818": "FigureVIII A caption explicitly identifies industry design/FE/clustering, but V.A p205 explicitly describes the same plotted result as strong/weak state paths. E4 independently establishes state hours. This contradictory description does not prove two implemented designs: hold distinctness unknown rather than count a certain additional industry setting. Resolve with actual implementation before final inclusion; do not transfer E4 coefficients."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -96977,7 +96986,14 @@
     "H8567": "0",
     "I8567": "unknown",
     "J8567": "log",
-    "K8567": "Log mean hourly wage at industry-region-year level; TableIV cols3-4."
+    "K8567": "Log mean hourly wage at industry-region-year level; TableIV cols3-4.",
+    "A8568": "4X3H7PWW",
+    "B8568": "h2",
+    "C8568": "hy1",
+    "H8568": "0",
+    "I8568": "unknown",
+    "J8568": "log",
+    "K8568": "Log imputed annual hours, employed CPS sample; FigureVIII A."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
