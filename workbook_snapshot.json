@@ -37971,7 +37971,16 @@
     "L3774": "1",
     "M3774": "n/a",
     "N3774": "Table4 row8: Stock market capitalization on choice of financing mode, separately estimated multinomial logit.",
-    "O3774": "Implemented multinomial logit: Other regardless of product/year dummies. Three mutually exclusive financing categories; category-specific probability effects are not separate binary logits. Author-intention gate: pp885–87 explicitly calls these effects and tests propositions; observational institutional variation is not exogenous identification. No IV/RCT/RD/DiD. Routine controls p886 grouped within this treatment scope; no unobserved appendix table labels inferred."
+    "O3774": "Implemented multinomial logit: Other regardless of product/year dummies. Three mutually exclusive financing categories; category-specific probability effects are not separate binary logits. Author-intention gate: pp885–87 explicitly calls these effects and tests propositions; observational institutional variation is not exogenous identification. No IV/RCT/RD/DiD. Routine controls p886 grouped within this treatment scope; no unobserved appendix table labels inferred.",
+    "A3775": "4BNXLZ5D",
+    "B3775": "h14",
+    "I3775": "1",
+    "J3775": "Other",
+    "K3775": "0",
+    "L3775": "1",
+    "M3775": "n/a",
+    "N3775": "Figure8 panel h: Stock market capitalization on postshipment probability, moderated by long-distance indicator.",
+    "O3775": "Implemented multinomial logit: Other regardless of product/year dummies. Three mutually exclusive financing categories; category-specific probability effects are not separate binary logits. Author-intention gate: pp885–87 explicitly calls these effects and tests propositions; observational institutional variation is not exogenous identification. No IV/RCT/RD/DiD. Continuous enforcement dose, even though distance moderator is binary. Figure shows predictions, not outcome-SD units. No numeric graph values imputed."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -95614,7 +95623,11 @@
     "A8472": "4BNXLZ5D",
     "B8472": "h7",
     "C8472": "hy3",
-    "K8472": "Postshipment indicator (documentary collection or open account; one versus zero for other modes)."
+    "K8472": "Postshipment indicator (documentary collection or open account; one versus zero for other modes).",
+    "A8473": "4BNXLZ5D",
+    "B8473": "h14",
+    "C8473": "hy1",
+    "K8473": "Postshipment-use indicator in multinomial outcome; Figure8 reports its model-implied probability, not a two-valued predicted probability."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
