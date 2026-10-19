@@ -39291,7 +39291,16 @@
     "L3891": "0",
     "M3891": "unknown",
     "N3891": "Appendix G / TableG.1 p30: Petrin-Levinsohn marginal-product/wedge-based reallocation, including labor and capital components; all/MM/VI populations. Distinct APG estimand, not repeated OP decomposition.",
-    "O3891": "Authors attribute gains to reallocation/entry (main pp156-161,166-169; AppendixG). Retain under author-intention gate, not an exogenous intervention claim. Method Other denotes structural causal accounting, not proof that a covariance is nonlinear: conditional on constructed TFP and fixed revenue shares, OP components are linear. Full economic procedure uses estimated production functions and realized revenue weights; no separately implemented OLS/IV/DiD coefficient or covariate-based matching treatment estimator is established. Conditional-linear-contrast taxonomy remains a parent adjudication issue. AppendixD.1 pp18-19 labor-as-state timing robustness reports similar reallocation point estimates/significance; group as routine upstream timing variant, do not invent component grids. Parent adjudication: method unknown. Conditional on constructed productivity and shares, accounting components may be linear contrasts; upstream structural estimation alone does not establish a nonlinear focal estimator. Complete attribution procedure versus conditional-outcome domain is unresolved, so Other is not certified. Causal-intention retention does not establish identification."
+    "O3891": "Authors attribute gains to reallocation/entry (main pp156-161,166-169; AppendixG). Retain under author-intention gate, not an exogenous intervention claim. Method Other denotes structural causal accounting, not proof that a covariance is nonlinear: conditional on constructed TFP and fixed revenue shares, OP components are linear. Full economic procedure uses estimated production functions and realized revenue weights; no separately implemented OLS/IV/DiD coefficient or covariate-based matching treatment estimator is established. Conditional-linear-contrast taxonomy remains a parent adjudication issue. AppendixD.1 pp18-19 labor-as-state timing robustness reports similar reallocation point estimates/significance; group as routine upstream timing variant, do not invent component grids. Parent adjudication: method unknown. Conditional on constructed productivity and shares, accounting components may be linear contrasts; upstream structural estimation alone does not establish a nonlinear focal estimator. Complete attribution procedure versus conditional-outcome domain is unresolved, so Other is not certified. Causal-intention retention does not establish identification.",
+    "A3892": "5SL56HMJ",
+    "B3892": "h15",
+    "I3892": "1",
+    "J3892": "Other",
+    "K3892": "0",
+    "L3892": "1",
+    "M3892": "n/a",
+    "N3892": "SectionIV.E pp162-164 / Figure4: expansion of MM competition and markup reductions, MM proxy for bar market versus VI mixed-product group. Markups recovered via output elasticity/material revenue share, not estimated regression on MM share.",
+    "O3892": "p164 explicitly interprets pattern as competition due to MM expansion leading to lower margins. Structural measurement plus historical attribution, no isolated causal coefficient. Exclude if parent requires explicit intervention rather than author-attributed trajectory; method not IV or DiD. Figure caption market-share weighted conflicts with equation18 material-expenditure weighting; retain latter construction and flag caption."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -98443,7 +98452,11 @@
     "A8685": "5SL56HMJ",
     "B8685": "h14",
     "C8685": "hy1",
-    "K8685": "Petrin-Levinsohn aggregate productivity growth (APG), value-added/inputs-based welfare-oriented measure; not the same scale as OP log TFP. TableG.1 steel0.59,VI0.59,MM0.61."
+    "K8685": "Petrin-Levinsohn aggregate productivity growth (APG), value-added/inputs-based welfare-oriented measure; not the same scale as OP log TFP. TableG.1 steel0.59,VI0.59,MM0.61.",
+    "A8686": "5SL56HMJ",
+    "B8686": "h15",
+    "C8686": "hy1",
+    "K8686": "Markup price/marginal-cost ratio by technology, equation18 and Figure4; baseline/end values in prose MM1.8 to1.1, VI1.4 toabout1.2; FigureMM start visually nearer1.5, source conflict."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -171429,7 +171442,29 @@
     "N6479": "0",
     "O6479": "1",
     "P6479": "n/a",
-    "Q6479": "Appendix TableG.1 p30 MM: Capital RE share-20% of APG0.61. Authors report percentage shares; do not force components to add up."
+    "Q6479": "Appendix TableG.1 p30 MM: Capital RE share-20% of APG0.61. Authors report percentage shares; do not force components to add up.",
+    "A6480": "5SL56HMJ",
+    "B6480": "h15",
+    "C6480": "hc1",
+    "K6480": "1",
+    "L6480": "hy1",
+    "M6480": "outcome_mean",
+    "N6480": "1",
+    "O6480": "0",
+    "P6480": "unknown",
+    "Q6480": "p163 MM: explicit markup decline from1.8 in1963 to1.1 in2002. No numeric change calculated. Endpoint average markup levels; input-expenditure weights equation18.",
+    "R6480": "Historical earlier level, not established untreated counterfactual for expansion across1963-2002. Main MM1.8 conflicts with plotted start; do not repair.",
+    "A6481": "5SL56HMJ",
+    "B6481": "h15",
+    "C6481": "hc2",
+    "K6481": "1",
+    "L6481": "hy1",
+    "M6481": "outcome_mean",
+    "N6481": "1",
+    "O6481": "0",
+    "P6481": "unknown",
+    "Q6481": "p163 VI: explicit markup decline from1.4 in1963 toabout1.2 in2002. No numeric change calculated. Endpoint average markup levels; input-expenditure weights equation18.",
+    "R6481": "Historical earlier level, not established untreated counterfactual for expansion across1963-2002. Main MM1.8 conflicts with plotted start; do not repair."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

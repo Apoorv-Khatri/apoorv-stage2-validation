@@ -722625,3 +722625,222 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:20:23.234513+00:00 — Review 5SL56HMJ h15: source-audited coding and linked comparisons
+
+35 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6480",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6481",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6480",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6481",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6480",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6481",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6480",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6480",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6481",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6480",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6481",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6480",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6480",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6481",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6480",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6481",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6480",
+    "before": null,
+    "after": "p163 MM: explicit markup decline from1.8 in1963 to1.1 in2002. No numeric change calculated. Endpoint average markup levels; input-expenditure weights equation18."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6481",
+    "before": null,
+    "after": "p163 VI: explicit markup decline from1.4 in1963 toabout1.2 in2002. No numeric change calculated. Endpoint average markup levels; input-expenditure weights equation18."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6480",
+    "before": null,
+    "after": "Historical earlier level, not established untreated counterfactual for expansion across1963-2002. Main MM1.8 conflicts with plotted start; do not repair."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6481",
+    "before": null,
+    "after": "Historical earlier level, not established untreated counterfactual for expansion across1963-2002. Main MM1.8 conflicts with plotted start; do not repair."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8686",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8686",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8686",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8686",
+    "before": null,
+    "after": "Markup price/marginal-cost ratio by technology, equation18 and Figure4; baseline/end values in prose MM1.8 to1.1, VI1.4 toabout1.2; FigureMM start visually nearer1.5, source conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3892",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3892",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3892",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3892",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3892",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3892",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3892",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3892",
+    "before": null,
+    "after": "SectionIV.E pp162-164 / Figure4: expansion of MM competition and markup reductions, MM proxy for bar market versus VI mixed-product group. Markups recovered via output elasticity/material revenue share, not estimated regression on MM share."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3892",
+    "before": null,
+    "after": "p164 explicitly interprets pattern as competition due to MM expansion leading to lower margins. Structural measurement plus historical attribution, no isolated causal coefficient. Exclude if parent requires explicit intervention rather than author-attributed trajectory; method not IV or DiD. Figure caption market-share weighted conflicts with equation18 material-expenditure weighting; retain latter construction and flag caption."
+  }
+]
+```
