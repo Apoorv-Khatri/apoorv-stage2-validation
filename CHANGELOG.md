@@ -760257,3 +760257,504 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:09:12.408946+00:00 — Review 7PQVC2SH h24: source-audited coding and linked comparisons
+
+82 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6768",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6769",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6770",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6771",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6772",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6773",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6768",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6769",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6770",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6771",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6772",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6773",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6768",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6769",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6770",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6771",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6772",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6773",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6769",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6770",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6771",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6772",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6773",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6768",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6769",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6770",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6771",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6772",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6773",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6768",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6769",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6770",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6771",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6772",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6773",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6769",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6770",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6771",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6772",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6773",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6768",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6769",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6770",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6771",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6772",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6773",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6768",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6769",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6770",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6771",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6772",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6773",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6768",
+    "before": null,
+    "after": "Table5 panelA col1: No effect on productivity counterfactual fraction0.44, full-model fraction0.75; sales-based parameters, sigma3. Literal paired levels; no change backsolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6769",
+    "before": null,
+    "after": "Table5 panelA col2: No effect on productivity counterfactual fraction0.45, full-model fraction0.66; sales-based parameters, sigma4. Literal paired levels; no change backsolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6770",
+    "before": null,
+    "after": "Table5 panelA col3: No effect on productivity counterfactual fraction0.45, full-model fraction0.61; sales-based parameters, sigma5. Literal paired levels; no change backsolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6771",
+    "before": null,
+    "after": "Table5 panelA col4: No effect on productivity counterfactual fraction0.42, full-model fraction0.74; value-added-based parameters, sigma3. Literal paired levels; no change backsolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6772",
+    "before": null,
+    "after": "Table5 panelA col5: No effect on productivity counterfactual fraction0.43, full-model fraction0.64; value-added-based parameters, sigma4. Literal paired levels; no change backsolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6773",
+    "before": null,
+    "after": "Table5 panelA col6: No effect on productivity counterfactual fraction0.44, full-model fraction0.60; value-added-based parameters, sigma5. Literal paired levels; no change backsolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6768",
+    "before": null,
+    "after": "Benchmark is same accounting-outcome level, not population mean; these fractions already normalize by variance but that does not mean the intervention effect is divided by this full-model benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6769",
+    "before": null,
+    "after": "Benchmark is same accounting-outcome level, not population mean; these fractions already normalize by variance but that does not mean the intervention effect is divided by this full-model benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6770",
+    "before": null,
+    "after": "Benchmark is same accounting-outcome level, not population mean; these fractions already normalize by variance but that does not mean the intervention effect is divided by this full-model benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6771",
+    "before": null,
+    "after": "Benchmark is same accounting-outcome level, not population mean; these fractions already normalize by variance but that does not mean the intervention effect is divided by this full-model benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6772",
+    "before": null,
+    "after": "Benchmark is same accounting-outcome level, not population mean; these fractions already normalize by variance but that does not mean the intervention effect is divided by this full-model benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6773",
+    "before": null,
+    "after": "Benchmark is same accounting-outcome level, not population mean; these fractions already normalize by variance but that does not mean the intervention effect is divided by this full-model benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8912",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8912",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8912",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8912",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8912",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8912",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8912",
+    "before": null,
+    "after": "Fraction of cross-country income differences accounted for, covariance of actual and factor-only log output divided by actual log-output variance, endogenous-capital treatment,94 Caselli countries; Table5 panelA."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3972",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3972",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3972",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3972",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3972",
+    "before": null,
+    "after": "Table5A pp2096-2097: hold TFP constant across countries versus full estimated model; explained-fraction outcome for this accounting approach. Scope restricted to panel A, Klenow-Rodriguez-Clare accounting; panel B separately h33."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3972",
+    "before": null,
+    "after": "Explicit numerical structural mechanism shutdown, not fit diagnostic. Binary implemented on/off model-rule contrast, not a binary schooling treatment. Model recalculation nonlinear. Each panel uses distinct variance/covariance accounting and capital adjustment; no omitted-six-column grid inferred: all six are printed."
+  }
+]
+```
