@@ -757434,3 +757434,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:00:02.419468+00:00 — Review 7PQVC2SH s11: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K623",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K624",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L624",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M624",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N624",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O624",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P624",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q624",
+    "before": null,
+    "after": "p2080 Figure8: Age-10 sales difference for STEM versus no college degree: firms started by STEM entrepreneurs are 2.4 times larger. Benchmark: Sales level of firms started by entrepreneurs without a college degree at age 10."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R623",
+    "before": null,
+    "after": "HASS treatment moved to h3; retain original ID inactive and add correct-parent comparison. STEM remains s11c2."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R624",
+    "before": null,
+    "after": "Explicit group-level comparison retained; do not interpret exponentiated fitted log levels as arithmetic conditional means."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8882",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8882",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8882",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8882",
+    "before": null,
+    "after": "Log value added; p2079 says results similar for value added in this same field-share specification; no numerical values or SD benchmark supplied."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I936",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J936",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K936",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L936",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M936",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N936",
+    "before": null,
+    "after": "Figure8: entrepreneur STEM-degree share (fraction of entrepreneurs in firm with STEM degree) interacted with age, log sales and qualitative value-added extension; omitted no-college group. Other fields split h3-h6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O936",
+    "before": null,
+    "after": "p2079 explicitly constructs fractions, not individual binary degree indicators. Five joint field-share regressors are distinct focal treatments; no binary field coding. Controls omit sector intentionally to include sector-choice channel. Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented."
+  }
+]
+```
