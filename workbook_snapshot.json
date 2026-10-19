@@ -41142,7 +41142,16 @@
     "L4070": "1",
     "M4070": "n/a",
     "N4070": "CIII versus CIV profile category, Table5 panelA within LEQ, LEQEF and LAS leader subsamples. Separate prescribed-category responses, Poisson; central nulls for LAS retained.",
-    "O4070": "Section IV Result1 explicitly says deviations evoke punishment; repeated strategy-method choices under prescribed contribution profiles. Poisson is nonlinear in reported punishment outcome => Other, not RCT. Profiles not randomly assigned leaders. Main motive evidence is central to typology. No own-outcome mean/SD benchmark printed; intercept is log expected punishment, not raw baseline pairing."
+    "O4070": "Section IV Result1 explicitly says deviations evoke punishment; repeated strategy-method choices under prescribed contribution profiles. Poisson is nonlinear in reported punishment outcome => Other, not RCT. Profiles not randomly assigned leaders. Main motive evidence is central to typology. No own-outcome mean/SD benchmark printed; intercept is log expected punishment, not raw baseline pairing.",
+    "A4071": "8A6ENF64",
+    "B4071": "h48",
+    "I4071": "1",
+    "J4071": "FE",
+    "K4071": "0",
+    "L4071": "0",
+    "M4071": "n/a",
+    "N4071": "Settlement fractionalization index, Table6 col8; p774 explicitly interprets negative effect as dispersed groups finding commons management more difficult; PCT-I, village FE. Continuous index; coefficient-39.577.",
+    "O4071": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -102855,7 +102864,14 @@
     "H9034": "0",
     "I9034": "unknown",
     "J9034": "none",
-    "K9034": "Punishment points/Birr on player1 within indicated leader types; counts not logarithmically transformed outcomes despite semi-elasticity coefficient display."
+    "K9034": "Punishment points/Birr on player1 within indicated leader types; counts not logarithmically transformed outcomes despite semi-elasticity coefficient display.",
+    "A9035": "8A6ENF64",
+    "B9035": "h48",
+    "C9035": "hy1",
+    "H9035": "0",
+    "I9035": "0",
+    "J9035": "none",
+    "K9035": "Average potential crop trees per hectare, first forest assessment2005 (PCT-I)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
