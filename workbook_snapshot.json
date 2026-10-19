@@ -36999,7 +36999,16 @@
     "L3685": "0",
     "M3685": "n/a",
     "N3685": "Table4 p.842 / Section6.1 p.841: pre/post decimalization changes in daily dollar volume, turnover and institutional order size, equal-weighted stock averages.",
-    "O3685": "Although table is headed summary statistics, Section6.1 uses lower/unchanged trading activity as substantive evidence against decimalization improving liquidity and explicitly discusses the decline in order size. Include these parameter-specific before/after effects under broad author-intention; price, equity value and order count remain descriptive, not automatically included. Gate contested for parent adjudication; supporting rather than abstract-central independent outcome set. Independent recommendation retains this narrow scope under the broad author-intention rule, not because every Table4 difference is causal. If parent adopts the diagnostic-only reading, drop h9 and its three outcomes/eighteen comparisons together."
+    "O3685": "Although table is headed summary statistics, Section6.1 uses lower/unchanged trading activity as substantive evidence against decimalization improving liquidity and explicitly discusses the decline in order size. Include these parameter-specific before/after effects under broad author-intention; price, equity value and order count remain descriptive, not automatically included. Gate contested for parent adjudication; supporting rather than abstract-central independent outcome set. Independent recommendation retains this narrow scope under the broad author-intention rule, not because every Table4 difference is causal. If parent adopts the diagnostic-only reading, drop h9 and its three outcomes/eighteen comparisons together.",
+    "A3686": "2UP7GN8M",
+    "B3686": "h1",
+    "I3686": "1",
+    "J3686": "FE",
+    "K3686": "1",
+    "L3686": "1",
+    "M3686": "n/a",
+    "N3686": "Table1 col1: sponsorship effect .181 on relative efficacy with drug-by-pair FE alone.",
+    "O3686": "One identifying FE dimension. Same causal baseline question; distinct FE versus HDFE scope from col2. If parent selects FE throughout, merge h1 into s1 without losing comparison."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93522,7 +93531,14 @@
     "H8327": "0",
     "I8327": "unknown",
     "J8327": "none",
-    "K8327": "Table4: Institutional order size (shares), firm-day values averaged equally across firms within pre/post 30-day windows. Not binary; zero mass unestablished."
+    "K8327": "Table4: Institutional order size (shares), firm-day values averaged equally across firms within pre/post 30-day windows. Not binary; zero mass unestablished.",
+    "A8328": "2UP7GN8M",
+    "B8328": "h1",
+    "C8328": "hy1",
+    "H8328": "0",
+    "I8328": "1",
+    "J8328": "other",
+    "K8328": "Relative efficacy: standardized absolute efficacy minus the placebo arm if available, otherwise the least-effective arm; main-source equation/table establishes construction. Component-SD units do not establish unit SD of this difference."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -155709,7 +155725,18 @@
     "O5551": "0",
     "P5551": "unknown",
     "Q5551": "Table7 col2 p3327: focal estimate -.155 sponsor x post interaction; benchmark .33.",
-    "R5551": "Same-column mean across full sample, not subgroup or policy untreated counterfactual. Unknown alignment. Printed .33 differs from Table1 .35; no silent replacement. Lower-order premium and differential effect are distinct estimates."
+    "R5551": "Same-column mean across full sample, not subgroup or policy untreated counterfactual. Unknown alignment. Printed .33 differs from Table1 .35; no silent replacement. Lower-order premium and differential effect are distinct estimates.",
+    "A5552": "2UP7GN8M",
+    "B5552": "h1",
+    "C5552": "hc1",
+    "K5552": "1",
+    "L5552": "hy1",
+    "M5552": "outcome_mean",
+    "N5552": "0",
+    "O5552": "0",
+    "P5552": "unknown",
+    "Q5552": "Table1 col1 p3313: focal estimate .181; benchmark .35.",
+    "R5552": "Deliberately linked same-column outcome mean; sample includes sponsored and unsponsored arms. Untreated target/weights not established, so alignment unknown, not mechanically aligned from common sample."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
