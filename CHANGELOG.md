@@ -660447,3 +660447,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:46:42.964990+00:00 — Review 4BNXLZ5D s2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K560",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R560",
+    "before": null,
+    "after": "p887 compares 61.0pp and 13.4pp common-versus-civil EFFECTS across distances; second effect is not an outcome level. Verbal=1, divided=0 in source but eligibility fails. Figure8 endpoint pairings separately held for adjudication."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2113",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2113",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2113",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2113",
+    "before": null,
+    "after": "Underlying postshipment-use indicator, one versus zero for other categories. Figure8 reports its continuous predicted probability; the prediction itself is not a binary dependent observation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I860",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J860",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K860",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L860",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M860",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N860",
+    "before": null,
+    "after": "Figure8 panel a: common-law versus civil-law contrast moderated by binary long-distance indicator; nonlinear predicted postshipment probabilities. Other panels split h8–h14."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O860",
+    "before": null,
+    "after": "Implemented multinomial logit: Other regardless of product/year dummies. Three mutually exclusive financing categories; category-specific probability effects are not separate binary logits. Author-intention gate: pp885–87 explicitly calls these effects and tests propositions; observational institutional variation is not exogenous identification. No IV/RCT/RD/DiD. Common-law focal treatment is binary; long-distance is a moderator, not grounds for coding the focal contrast nonbinary. P887 reports 61.0pp remote and 13.4pp nearby effects, not an outcome benchmark."
+  }
+]
+```
