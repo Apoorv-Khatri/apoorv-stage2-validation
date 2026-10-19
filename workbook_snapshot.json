@@ -41960,7 +41960,16 @@
     "L4143": "0",
     "M4143": "single binary",
     "N4143": "Baseline exposure instrumenting realized owner exposure among single-household-owner firms Location: Figure A.3 and Table A.6 single-owner row",
-    "O4143": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+    "O4143": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location.",
+    "A4144": "A8LFPXLL",
+    "B4144": "h14",
+    "I4144": "1",
+    "J4144": "DiD_conventional",
+    "K4144": "1",
+    "L4144": "0",
+    "M4144": "n/a",
+    "N4144": "Baseline binary exposure heterogeneity across prereform business-income deciles Location: Figure A.4",
+    "O4144": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105859,7 +105868,14 @@
     "H9309": "0",
     "I9309": "0",
     "J9309": "log",
-    "K9309": "Log average employee earnings, single-household-owner firms; conditional time path and post-reform event-study results."
+    "K9309": "Log average employee earnings, single-household-owner firms; conditional time path and post-reform event-study results.",
+    "A9310": "A8LFPXLL",
+    "B9310": "h14",
+    "C9310": "hy1",
+    "H9310": "0",
+    "I9310": "0",
+    "J9310": "log",
+    "K9310": "Log average employee earnings; separate exposed/unexposed contrast within each prereform business-income decile including losses."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

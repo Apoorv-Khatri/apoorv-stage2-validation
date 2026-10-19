@@ -841983,3 +841983,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:34:29.352470+00:00 — Review A8LFPXLL h14: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9310",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9310",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9310",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9310",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9310",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9310",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9310",
+    "before": null,
+    "after": "Log average employee earnings; separate exposed/unexposed contrast within each prereform business-income decile including losses."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4144",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4144",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4144",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4144",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4144",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4144",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4144",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4144",
+    "before": null,
+    "after": "Baseline binary exposure heterogeneity across prereform business-income deciles Location: Figure A.4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4144",
+    "before": null,
+    "after": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+  }
+]
+```
