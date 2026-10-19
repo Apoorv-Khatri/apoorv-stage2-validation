@@ -42086,7 +42086,16 @@
     "L4157": "0",
     "M4157": "n/a",
     "N4157": "Predicted MTR elasticity under top based on average 2011-2012 owner incomes Location: Table A.6 elasticity ITT, top based on average 2011-2012 owner incomes",
-    "O4157": "Actual displayed elasticity row. Continuous predicted-rate treatment, not the binary exposure coefficient in the neighboring column. Exact net-income exclusions versus subsample implementation are not restated in the caption; parent may merge restrictions that only alter samples with h17. No invented dose increment."
+    "O4157": "Actual displayed elasticity row. Continuous predicted-rate treatment, not the binary exposure coefficient in the neighboring column. Exact net-income exclusions versus subsample implementation are not restated in the caption; parent may merge restrictions that only alter samples with h17. No invented dose increment.",
+    "A4158": "A8LFPXLL",
+    "B4158": "h31",
+    "I4158": "1",
+    "J4158": "DiD_conventional",
+    "K4158": "1",
+    "L4158": "0",
+    "M4158": "n/a",
+    "N4158": "Baseline any-top exposure with alternative business-income controls Location: Table A.7 first result row only",
+    "O4158": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106071,7 +106080,14 @@
     "A9323": "A8LFPXLL",
     "B9323": "h30",
     "C9323": "hy1",
-    "K9323": "Log average employee earnings; Table A.6 elasticity ITT top based on average 2011-2012 owner incomes."
+    "K9323": "Log average employee earnings; Table A.6 elasticity ITT top based on average 2011-2012 owner incomes.",
+    "A9324": "A8LFPXLL",
+    "B9324": "h31",
+    "C9324": "hy1",
+    "H9324": "0",
+    "I9324": "0",
+    "J9324": "log",
+    "K9324": "Log average employee earnings; baseline decile/ventile/spline controls. Second result row is excluded placebo."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
