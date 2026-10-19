@@ -37287,7 +37287,16 @@
     "L3714": "1",
     "M3714": "unknown",
     "N3714": "Footnote35 p1549 and p1560, TableB6C: local household spillover effects on economic and noneconomic outcomes; R1.",
-    "O3714": "Final main text establishes implemented central spillover null but not precise estimator/treatment. Do not promote prespecified community rate IV or author-copy B6C household-receipt caption into final fact. Author April2019 B6C reports RCT and IV; PAP uses community electrification rate, conflicting with table caption. Parent final verification required; minimum scope only. Independent audit: Retain minimum implemented-result scope, unknown method where final implementation is not specified. Author appendix/PAP discrepancies cannot be resolved by treating plans as results. Do not duplicate the pooled outcome grid or manufacture wave-specific comparison allocations."
+    "O3714": "Final main text establishes implemented central spillover null but not precise estimator/treatment. Do not promote prespecified community rate IV or author-copy B6C household-receipt caption into final fact. Author April2019 B6C reports RCT and IV; PAP uses community electrification rate, conflicting with table caption. Parent final verification required; minimum scope only. Independent audit: Retain minimum implemented-result scope, unknown method where final implementation is not specified. Author appendix/PAP discrepancies cannot be resolved by treating plans as results. Do not duplicate the pooled outcome grid or manufacture wave-specific comparison allocations.",
+    "A3715": "2W92PVM3",
+    "B3715": "h13",
+    "I3715": "1",
+    "J3715": "unknown",
+    "K3715": "1",
+    "L3715": "1",
+    "M3715": "unknown",
+    "N3715": "Footnote31 p1546, TableB6A: separately reported round1 electrification impacts.",
+    "O3715": "Implemented individual-round results explicitly referenced in final main text. Exact ITT/IV split and outcome subset require final appendix; do not copy every pooled outcome into both rounds or assume hypothetical PAP implemented. Central16/32-month conclusion; unknown method does not force supporting status. Independent audit: Retain minimum implemented-result scope, unknown method where final implementation is not specified. Author appendix/PAP discrepancies cannot be resolved by treating plans as results. Do not duplicate the pooled outcome grid or manufacture wave-specific comparison allocations."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94238,7 +94247,14 @@
     "A8370": "2W92PVM3",
     "B8370": "h12",
     "C8370": "hy2",
-    "K8370": "noneconomic outcomes of neighboring households; final main text no exact outcome grid or scale."
+    "K8370": "noneconomic outcomes of neighboring households; final main text no exact outcome grid or scale.",
+    "A8371": "2W92PVM3",
+    "B8371": "h13",
+    "C8371": "hy1",
+    "H8371": "unknown",
+    "I8371": "unknown",
+    "J8371": "unknown",
+    "K8371": "Round-specific electrification impacts on primary economic/noneconomic and energy outcomes; final main text does not enumerate grid. Minimal grouped placeholder pending final implementation, not claim all pooled outcomes repeated."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

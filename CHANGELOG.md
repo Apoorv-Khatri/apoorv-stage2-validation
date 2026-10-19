@@ -642906,3 +642906,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:35:29.390600+00:00 — Review 2W92PVM3 h13: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8371",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8371",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8371",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8371",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8371",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8371",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8371",
+    "before": null,
+    "after": "Round-specific electrification impacts on primary economic/noneconomic and energy outcomes; final main text does not enumerate grid. Minimal grouped placeholder pending final implementation, not claim all pooled outcomes repeated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3715",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3715",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3715",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3715",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3715",
+    "before": null,
+    "after": "Footnote31 p1546, TableB6A: separately reported round1 electrification impacts."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3715",
+    "before": null,
+    "after": "Implemented individual-round results explicitly referenced in final main text. Exact ITT/IV split and outcome subset require final appendix; do not copy every pooled outcome into both rounds or assume hypothetical PAP implemented. Central16/32-month conclusion; unknown method does not force supporting status. Independent audit: Retain minimum implemented-result scope, unknown method where final implementation is not specified. Author appendix/PAP discrepancies cannot be resolved by treating plans as results. Do not duplicate the pooled outcome grid or manufacture wave-specific comparison allocations."
+  }
+]
+```
