@@ -795408,3 +795408,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T13:59:51.053026+00:00 — Review 9XCS46FU s1: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K641",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K642",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R641",
+    "before": null,
+    "after": "Focal observational contrast excluded by author-intention gate; numerical comparison preserved in original fields and independent report."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R642",
+    "before": null,
+    "after": "Also independently ineligible: Table I descriptive mean is not deliberately paired with Table III col(1) continuous-score coefficient."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2366",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2366",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2366",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2366",
+    "before": null,
+    "after": "Spurious as a causal-outcome record under rejected observational/diagnostic parent; original measured outcome and model fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I950",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O950",
+    "before": null,
+    "after": "Independent author-intention gate: Table III is prediction/calibration of actual decisions, not an interpreted intervention coefficient (pp777,785-786). Broad influence rhetoric is acknowledged but does not override parameter-specific correlation language."
+  }
+]
+```
