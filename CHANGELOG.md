@@ -621186,3 +621186,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:17:40.367544+00:00 — Review ZHTZCSY3 h5: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8317",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8318",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8317",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8318",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8317",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8318",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8317",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8318",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8317",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8318",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8317",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8318",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8317",
+    "before": null,
+    "after": "Price impact for pilot stocks; exact aggregation/scale not reported in available robustness paragraph."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8318",
+    "before": null,
+    "after": "Spreads for pilot stocks; available paragraph does not enumerate quote/effective or dollar/percent variants. Minimum grouped outcome scope only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3681",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3681",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3681",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3681",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3681",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3681",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3681",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3681",
+    "before": null,
+    "after": "Section6.5 p.844: decimalization effects on spreads and Price impact among early pilot stocks; external Internet Appendix, exact table/contrast implementation unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3681",
+    "before": null,
+    "after": "Main text establishes implemented pilot robustness and qualitative result: spreads fall, price impact not significantly affected. Randomly selected pilot stocks do NOT establish that reported effect is randomized treated/control assignment contrast rather than before/after within pilot. RCT versus OLS (or DiD) unresolved; no invented design. Binary exposure is explicit switch to decimal pricing."
+  }
+]
+```

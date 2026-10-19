@@ -36899,7 +36899,16 @@
     "L3680": "0",
     "M3680": "n/a",
     "N3680": "Table7 p.844: before/after decimalization price-impact changes for liquidity-demanding and liquidity-supplying traders, across exchange samples; volume-weighted orders.",
-    "O3680": "Section6.4 attributes supplier losses/demander changes to decimalization. Treatment is decimalization, not supplier status. Trading style sorted EACH time period from volume with/against market; membership is not established predetermined. WLS/linear mean comparison conditional on reported groups; outcome-dependent style classification is an identification/composition concern. Alternative Other full-procedure interpretation held for parent. No higher-priority assignment contrast implemented. Independent adjudication: the sorting input is signed trading volume relative to daily stock-return direction, not realized order-execution Price impact itself. No focal-Price-impact optimization or ranked-outcome weight selection is reported. Retain conditional linear OLS, not Matching; contemporaneous group reconstitution remains a serious composition caveat."
+    "O3680": "Section6.4 attributes supplier losses/demander changes to decimalization. Treatment is decimalization, not supplier status. Trading style sorted EACH time period from volume with/against market; membership is not established predetermined. WLS/linear mean comparison conditional on reported groups; outcome-dependent style classification is an identification/composition concern. Alternative Other full-procedure interpretation held for parent. No higher-priority assignment contrast implemented. Independent adjudication: the sorting input is signed trading volume relative to daily stock-return direction, not realized order-execution Price impact itself. No focal-Price-impact optimization or ranked-outcome weight selection is reported. Retain conditional linear OLS, not Matching; contemporaneous group reconstitution remains a serious composition caveat.",
+    "A3681": "ZHTZCSY3",
+    "B3681": "h5",
+    "I3681": "1",
+    "J3681": "unknown",
+    "K3681": "1",
+    "L3681": "0",
+    "M3681": "unknown",
+    "N3681": "Section6.5 p.844: decimalization effects on spreads and Price impact among early pilot stocks; external Internet Appendix, exact table/contrast implementation unavailable.",
+    "O3681": "Main text establishes implemented pilot robustness and qualitative result: spreads fall, price impact not significantly affected. Randomly selected pilot stocks do NOT establish that reported effect is randomized treated/control assignment contrast rather than before/after within pilot. RCT versus OLS (or DiD) unresolved; no invented design. Binary exposure is explicit switch to decimal pricing."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93309,7 +93318,21 @@
     "H8316": "0",
     "I8316": "unknown",
     "J8316": "none",
-    "K8316": "Institutional Price impact (%) for liquidity-supplying traders; Table7 volume-weighted order means; signed execution-price slippage, raw percentage units."
+    "K8316": "Institutional Price impact (%) for liquidity-supplying traders; Table7 volume-weighted order means; signed execution-price slippage, raw percentage units.",
+    "A8317": "ZHTZCSY3",
+    "B8317": "h5",
+    "C8317": "hy1",
+    "H8317": "0",
+    "I8317": "unknown",
+    "J8317": "unknown",
+    "K8317": "Price impact for pilot stocks; exact aggregation/scale not reported in available robustness paragraph.",
+    "A8318": "ZHTZCSY3",
+    "B8318": "h5",
+    "C8318": "hy2",
+    "H8318": "0",
+    "I8318": "unknown",
+    "J8318": "unknown",
+    "K8318": "Spreads for pilot stocks; available paragraph does not enumerate quote/effective or dollar/percent variants. Minimum grouped outcome scope only."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
