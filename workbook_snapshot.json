@@ -38832,7 +38832,16 @@
     "L3846": "0",
     "M3846": "unknown",
     "N3846": "TableVI Alternative1, all/Black/White: implied own-wage employment/hours response elasticities using wage and employment effects induced by 1966 state Kaitz index exposure; distinct from the policy reduced forms.",
-    "O3846": "Minimum established derived wage-response estimand. Authors interpret these as labor-demand responses, not merely diagnostic ratios. Focal treatment is average wage change (nonbinary). Different employment/earnings samples, control projections and employment-rate normalization prevent certifying a compatible linear Wald/IV implementation from ratios alone. Method/IV type unknown; do not inherit DiD from policy coefficients. No unreported outcome means or comparison grids added."
+    "O3846": "Minimum established derived wage-response estimand. Authors interpret these as labor-demand responses, not merely diagnostic ratios. Focal treatment is average wage change (nonbinary). Different employment/earnings samples, control projections and employment-rate normalization prevent certifying a compatible linear Wald/IV implementation from ratios alone. Method/IV type unknown; do not inherit DiD from policy coefficients. No unreported outcome means or comparison grids added.",
+    "A3847": "4X3H7PWW",
+    "B3847": "h31",
+    "I3847": "1",
+    "J3847": "unknown",
+    "K3847": "0",
+    "L3847": "0",
+    "M3847": "unknown",
+    "N3847": "TableVI Alternative2, all/Black/White: implied own-wage employment/hours response elasticities using wage and employment effects induced by 1966 fraction below $1.60 exposure; distinct from the policy reduced forms.",
+    "O3847": "Minimum established derived wage-response estimand. Authors interpret these as labor-demand responses, not merely diagnostic ratios. Focal treatment is average wage change (nonbinary). Different employment/earnings samples, control projections and employment-rate normalization prevent certifying a compatible linear Wald/IV implementation from ratios alone. Method/IV type unknown; do not inherit DiD from policy coefficients. No unreported outcome means or comparison grids added."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97527,7 +97536,15 @@
     "A8622": "4X3H7PWW",
     "B8622": "h30",
     "C8622": "hy2",
-    "K8622": "Employment among employed/unemployed/not-in-labor-force adults, expressed as own-wage elasticity; TableVI Alternative1, all/Black/White. Underlying policy regression uses individual employment indicator."
+    "K8622": "Employment among employed/unemployed/not-in-labor-force adults, expressed as own-wage elasticity; TableVI Alternative1, all/Black/White. Underlying policy regression uses individual employment indicator.",
+    "A8623": "4X3H7PWW",
+    "B8623": "h31",
+    "C8623": "hy1",
+    "K8623": "Employment among employed/unemployed adults, expressed as own-wage elasticity; TableVI Alternative2, all/Black/White. Underlying policy regression uses individual employment indicator.",
+    "A8624": "4X3H7PWW",
+    "B8624": "h31",
+    "C8624": "hy2",
+    "K8624": "Employment among employed/unemployed/not-in-labor-force adults, expressed as own-wage elasticity; TableVI Alternative2, all/Black/White. Underlying policy regression uses individual employment indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

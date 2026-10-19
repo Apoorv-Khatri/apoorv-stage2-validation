@@ -687009,3 +687009,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:54:14.064504+00:00 — Review 4X3H7PWW h31: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8623",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8624",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8623",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8624",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8623",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8624",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8623",
+    "before": null,
+    "after": "Employment among employed/unemployed adults, expressed as own-wage elasticity; TableVI Alternative2, all/Black/White. Underlying policy regression uses individual employment indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8624",
+    "before": null,
+    "after": "Employment among employed/unemployed/not-in-labor-force adults, expressed as own-wage elasticity; TableVI Alternative2, all/Black/White. Underlying policy regression uses individual employment indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3847",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3847",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3847",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3847",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3847",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3847",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3847",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3847",
+    "before": null,
+    "after": "TableVI Alternative2, all/Black/White: implied own-wage employment/hours response elasticities using wage and employment effects induced by 1966 fraction below $1.60 exposure; distinct from the policy reduced forms."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3847",
+    "before": null,
+    "after": "Minimum established derived wage-response estimand. Authors interpret these as labor-demand responses, not merely diagnostic ratios. Focal treatment is average wage change (nonbinary). Different employment/earnings samples, control projections and employment-rate normalization prevent certifying a compatible linear Wald/IV implementation from ratios alone. Method/IV type unknown; do not inherit DiD from policy coefficients. No unreported outcome means or comparison grids added."
+  }
+]
+```
