@@ -767373,3 +767373,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:33:56.345062+00:00 — Review 89PULMFU s1: source-audited coding and linked comparisons
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2340",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2341",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2342",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2343",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2344",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2340",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2341",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2342",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2343",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2344",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2340",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2341",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2342",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2343",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2344",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2340",
+    "before": null,
+    "after": "Moved to h1/hy1: distinct pollutant-specific IV scope. Original definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2341",
+    "before": null,
+    "after": "Moved to h2/hy1: distinct pollutant-specific IV scope. Original definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2342",
+    "before": null,
+    "after": "Moved to h3/hy1: distinct pollutant-specific IV scope. Original definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2343",
+    "before": null,
+    "after": "Moved to h4/hy1: distinct pollutant-specific IV scope. Original definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2344",
+    "before": null,
+    "after": "Moved to h5/hy1: distinct pollutant-specific IV scope. Original definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2345",
+    "before": null,
+    "after": "Change in log((total emissions+1)/real output), equation17 and fn22. Not log1p of emissions intensity; table log-level label versus first-difference equation retained as source conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J938",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K938",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M938",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N938",
+    "before": null,
+    "after": "Table1C col6 pooled-total pollution intensity response to log(1-abatement cost share), equation17; linear IV slope91.604. Restrict original pooled setting to total; pollutant-specific instrument/response scopes h1-h5. PanelD alpha0.011 is nonlinear reparameterization, not another linear IV coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O938",
+    "before": null,
+    "after": "Table1 note p3835 specifies binary polluter x pollutant-specific newly nonattainment indicator; p3834 fn21 instead specifies continuous1990 sector emission share x any-pollutant newly nonattainment1990-93. Multiplicity is one scalar excluded interaction in each equation, but support/definition conflicts: IV type unknown, not confidently single binary or single continuous. Lower-order terms are included controls. No code obtained to resolve. Equation17 uses first differences; table reports county-NAICS FE and log-level dependent labels. Do not invent a separate levels estimator. Main role: introduction p3818 calls estimation of production-abatement parameter a contribution."
+  }
+]
+```
