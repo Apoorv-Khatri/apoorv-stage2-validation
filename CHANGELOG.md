@@ -840612,3 +840612,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:29:35.508002+00:00 — Review A8LFPXLL h3: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9296",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9297",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9296",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9297",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9296",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9297",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9296",
+    "before": null,
+    "after": "Log average earnings all employees; epsilon_ATR -0.172."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9297",
+    "before": null,
+    "after": "Log average earnings of fixed 2011-2012 stayers retained through 2016; epsilon_ATR -0.064."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4133",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4133",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4133",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4133",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4133",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4133",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4133",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4133",
+    "before": null,
+    "after": "Predicted change in average business income tax rate: employee earnings elasticity, distinct from MTR and dollar-liability treatment Location: Table IV epsilon_ATR ITT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4133",
+    "before": null,
+    "after": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+  }
+]
+```

@@ -41861,7 +41861,16 @@
     "L4132": "1",
     "M4132": "n/a",
     "N4132": "Any baseline top-bracket owner effect on owner share of after-tax total firm surplus; dollar weighted by 2012 total surplus and winsorized at 1% Location: Figure V B; pp.670-671",
-    "O4132": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+    "O4132": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location.",
+    "A4133": "A8LFPXLL",
+    "B4133": "h3",
+    "I4133": "1",
+    "J4133": "DiD_conventional",
+    "K4133": "0",
+    "L4133": "1",
+    "M4133": "n/a",
+    "N4133": "Predicted change in average business income tax rate: employee earnings elasticity, distinct from MTR and dollar-liability treatment Location: Table IV epsilon_ATR ITT",
+    "O4133": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105680,7 +105689,15 @@
     "H9295": "0",
     "I9295": "unknown",
     "J9295": "none",
-    "K9295": "Owner share of after-tax firm surplus (workers wage bill + owner wages/business income minus business tax liability)."
+    "K9295": "Owner share of after-tax firm surplus (workers wage bill + owner wages/business income minus business tax liability).",
+    "A9296": "A8LFPXLL",
+    "B9296": "h3",
+    "C9296": "hy1",
+    "K9296": "Log average earnings all employees; epsilon_ATR -0.172.",
+    "A9297": "A8LFPXLL",
+    "B9297": "h3",
+    "C9297": "hy2",
+    "K9297": "Log average earnings of fixed 2011-2012 stayers retained through 2016; epsilon_ATR -0.064."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
