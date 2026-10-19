@@ -685632,3 +685632,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:51:42.274182+00:00 — Review 4X3H7PWW h22: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8609",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8610",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8611",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8609",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8610",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8611",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8609",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8610",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8611",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8609",
+    "before": null,
+    "after": "White worker indicator underlying white workforce share; TableE9/Eq14-16."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8610",
+    "before": null,
+    "after": "Employment indicator underlying white-minus-Black employment-population contrast; TableE9/Eq14-16."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8611",
+    "before": null,
+    "after": "Log annual earnings underlying white-minus-Black wage contrast; TableE9/Eq14-16."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3840",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3840",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3840",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3840",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3840",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3840",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3840",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3840",
+    "before": null,
+    "after": "AppendixE4/TableE9 Eq14-16: 1966 fraction earning below$1.60 reform effects on white-worker share, white-minus-Black employment probability and earnings contrasts, all/men/women."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3840",
+    "before": null,
+    "after": "Substantive labor-substitution channel (intro p174/conclusion discussion); share Eq14 linear DiD, gaps Eq15-16 DDD. Actual dependent variables white indicator, employment indicator, log earnings, not literal individual share ratio. No IV estimate established by elasticities alone. Derived substitution elasticities h23-h25 separately held-method causal responses."
+  }
+]
+```

@@ -38769,7 +38769,16 @@
     "L3839": "0",
     "M3839": "unknown",
     "N3839": "AppendixE4/TableE9 derived labor-labor substitution elasticity: relative wage change scaled using policy-induced changes from 1966 Kaitz index reform exposure; all/men/women, share and EPOP variants.",
-    "O3839": "Author explicitly interprets wage increase causing relative employment response. Ratio/Wald-like ingredients but printed elasticity formulas and units conflict; do not certify IV exclusion, compatible projection or linear normalization. Treatment is relative wage change, not binary policy assignment. Need parent adjudication/replication for taxonomy; unknown IV type. This wording does not assert implemented IV. Share-based and EPOP-based outcome definitions are separately recorded."
+    "O3839": "Author explicitly interprets wage increase causing relative employment response. Ratio/Wald-like ingredients but printed elasticity formulas and units conflict; do not certify IV exclusion, compatible projection or linear normalization. Treatment is relative wage change, not binary policy assignment. Need parent adjudication/replication for taxonomy; unknown IV type. This wording does not assert implemented IV. Share-based and EPOP-based outcome definitions are separately recorded.",
+    "A3840": "4X3H7PWW",
+    "B3840": "h22",
+    "I3840": "1",
+    "J3840": "DiD_conventional",
+    "K3840": "0",
+    "L3840": "0",
+    "M3840": "n/a",
+    "N3840": "AppendixE4/TableE9 Eq14-16: 1966 fraction earning below$1.60 reform effects on white-worker share, white-minus-Black employment probability and earnings contrasts, all/men/women.",
+    "O3840": "Substantive labor-substitution channel (intro p174/conclusion discussion); share Eq14 linear DiD, gaps Eq15-16 DDD. Actual dependent variables white indicator, employment indicator, log earnings, not literal individual share ratio. No IV estimate established by elasticities alone. Derived substitution elasticities h23-h25 separately held-method causal responses."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97396,7 +97405,19 @@
     "A8608": "4X3H7PWW",
     "B8608": "h24",
     "C8608": "hy2",
-    "K8608": "Relative white/Black employment-population response to relative wages, EPOP-gap elasticity in TableE9; distinct from workforce-composition share. Printed conversion and denominator implementation unresolved."
+    "K8608": "Relative white/Black employment-population response to relative wages, EPOP-gap elasticity in TableE9; distinct from workforce-composition share. Printed conversion and denominator implementation unresolved.",
+    "A8609": "4X3H7PWW",
+    "B8609": "h22",
+    "C8609": "hy1",
+    "K8609": "White worker indicator underlying white workforce share; TableE9/Eq14-16.",
+    "A8610": "4X3H7PWW",
+    "B8610": "h22",
+    "C8610": "hy2",
+    "K8610": "Employment indicator underlying white-minus-Black employment-population contrast; TableE9/Eq14-16.",
+    "A8611": "4X3H7PWW",
+    "B8611": "h22",
+    "C8611": "hy3",
+    "K8611": "Log annual earnings underlying white-minus-Black wage contrast; TableE9/Eq14-16."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
