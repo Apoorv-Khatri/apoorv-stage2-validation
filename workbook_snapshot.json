@@ -39778,7 +39778,16 @@
     "L3932": "1",
     "M3932": "n/a",
     "N3932": "Age eligibility tax cut incidence fraction accruing to employer, Table1 A-D: gross-wage DD divided by (gross-wage DD minus net-wage DD), delta-method uncertainty.",
-    "O3932": "Ratio denominator contains estimated outcomes, so nonlinear incidence statistic, not an IV treatment coefficient. Retain full samples/subgroups and short/medium horizons. No comparison to another effect as same-outcome level."
+    "O3932": "Ratio denominator contains estimated outcomes, so nonlinear incidence statistic, not an IV treatment coefficient. Retain full samples/subgroups and short/medium horizons. No comparison to another effect as same-outcome level.",
+    "A3933": "64JY936S",
+    "B3933": "h18",
+    "I3933": "1",
+    "J3933": "Other",
+    "K3933": "1",
+    "L3933": "0",
+    "M3933": "n/a",
+    "N3933": "Regional employer pass-through of age-eligibility tax cut, TableA2 col3, quintiles of baseline youth unemployment.",
+    "O3933": "Same nonlinear wage-DD ratio as Table1; A2 values1.22,1.10,1.13,1.14,1.13. Do not call IV or equate these with wage-effect coefficients. Regional null worker-incidence corroboration supports market result."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100348,7 +100357,14 @@
     "H8851": "0",
     "I8851": "unknown",
     "J8851": "other",
-    "K8851": "Employer pass-through fraction: Table1 A1.007/1.085; B0.994/1.013; C0.910/0.971; D1.097/1.081 (short/medium). Ratio of wage DD coefficients, not dependent wage level."
+    "K8851": "Employer pass-through fraction: Table1 A1.007/1.085; B0.994/1.013; C0.910/0.971; D1.097/1.081 (short/medium). Ratio of wage DD coefficients, not dependent wage level.",
+    "A8852": "64JY936S",
+    "B8852": "h18",
+    "C8852": "hy1",
+    "H8852": "0",
+    "I8852": "unknown",
+    "J8852": "other",
+    "K8852": "Employer pass-through fraction by regional quintile, TableA2 col3."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

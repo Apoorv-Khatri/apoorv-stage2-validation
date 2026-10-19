@@ -750036,3 +750036,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:27:57.685530+00:00 — Review 64JY936S h18: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8852",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8852",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8852",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8852",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8852",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8852",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8852",
+    "before": null,
+    "after": "Employer pass-through fraction by regional quintile, TableA2 col3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3933",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3933",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3933",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3933",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3933",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3933",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3933",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3933",
+    "before": null,
+    "after": "Regional employer pass-through of age-eligibility tax cut, TableA2 col3, quintiles of baseline youth unemployment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3933",
+    "before": null,
+    "after": "Same nonlinear wage-DD ratio as Table1; A2 values1.22,1.10,1.13,1.14,1.13. Do not call IV or equate these with wage-effect coefficients. Regional null worker-incidence corroboration supports market result."
+  }
+]
+```
