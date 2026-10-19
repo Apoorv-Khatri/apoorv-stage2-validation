@@ -38706,7 +38706,16 @@
     "L3832": "0",
     "M3832": "n/a",
     "N3832": "AppendixTableE7/Eq13: 1966 fraction earning below$1.60 × post × below-median1966 unemployment, employment probability all/Black/White.",
-    "O3832": "Distinct moderator-specific DDD estimand. Lower-order treatment effect applies moderator0, total at1 requires adding triple term. E7 prose mistakenly calls negative Black effect tight market, table row says above-median unemployment. Keep coefficient-conditional meanings; no generic independent causal effect assigned to geography control."
+    "O3832": "Distinct moderator-specific DDD estimand. Lower-order treatment effect applies moderator0, total at1 requires adding triple term. E7 prose mistakenly calls negative Black effect tight market, table row says above-median unemployment. Keep coefficient-conditional meanings; no generic independent causal effect assigned to geography control.",
+    "A3833": "4X3H7PWW",
+    "B3833": "h17",
+    "I3833": "1",
+    "J3833": "DiD_conventional",
+    "K3833": "1",
+    "L3833": "0",
+    "M3833": "n/a",
+    "N3833": "AppendixTableE8/Eq13: strong versus weak state × post × South, employment probability all/Black/White.",
+    "O3833": "Distinct moderator-specific DDD estimand. Lower-order treatment effect applies moderator0, total at1 requires adding triple term. E7 prose mistakenly calls negative Black effect tight market, table row says above-median unemployment. Keep coefficient-conditional meanings; no generic independent causal effect assigned to geography control."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97269,7 +97278,14 @@
     "A8595": "4X3H7PWW",
     "B8595": "h16",
     "C8595": "hy1",
-    "K8595": "Employment versus unemployment indicator, TableE7."
+    "K8595": "Employment versus unemployment indicator, TableE7.",
+    "A8596": "4X3H7PWW",
+    "B8596": "h17",
+    "C8596": "hy1",
+    "H8596": "1",
+    "I8596": "1",
+    "J8596": "none",
+    "K8596": "Employment versus unemployment indicator, TableE8."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
