@@ -757812,3 +757812,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:00:48.740130+00:00 — Review 7PQVC2SH h1: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8883",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8883",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8883",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8883",
+    "before": null,
+    "after": "Cumulative survival indicator at each age, coded1 if max observed firm age reaches that age, zero otherwise; graph reports adjusted rates anchored1 at entry. Equation1 caption does not imply log survival."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3949",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3949",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3949",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3949",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3949",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3949",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3949",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3949",
+    "before": null,
+    "after": "Appendix FigureF.2c p18 / main fn12: schooling-bin by age effects on cumulative survival, baseline2004-2007 cohorts."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3949",
+    "before": null,
+    "after": "Substantive survival result rejects riskier-strategy explanation; no exclusion for null middle-bin contrasts. Caption says equation1 but graph and main.ipynb cell23 establish linear survival indicator, not log survival. Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented."
+  }
+]
+```

@@ -40007,7 +40007,16 @@
     "L3948": "0",
     "M3948": "n/a",
     "N3948": "Calibrated two-firm-type pay-equity/monopsony model response to youth payroll tax, AppendixC.5.3 pp82-84; absolute employment elasticities and fitted relative employment/wage effects.",
-    "O3948": "Nonlinear calibrated CES equilibrium, not empirically estimated IV/OLS. Fitted relative employment4.6% and wage2% target data; additional predicted absolute elasticities young/old in high-share firms-1.64/-0.40, medium-share-1.40/-0.15. Pure analytical C.1-C.5.2 predictions not separate estimated settings. Calibration alternative parameters acknowledged."
+    "O3948": "Nonlinear calibrated CES equilibrium, not empirically estimated IV/OLS. Fitted relative employment4.6% and wage2% target data; additional predicted absolute elasticities young/old in high-share firms-1.64/-0.40, medium-share-1.40/-0.15. Pure analytical C.1-C.5.2 predictions not separate estimated settings. Calibration alternative parameters acknowledged.",
+    "A3949": "7PQVC2SH",
+    "B3949": "h1",
+    "I3949": "1",
+    "J3949": "OLS",
+    "K3949": "0",
+    "L3949": "1",
+    "M3949": "n/a",
+    "N3949": "Appendix FigureF.2c p18 / main fn12: schooling-bin by age effects on cumulative survival, baseline2004-2007 cohorts.",
+    "O3949": "Substantive survival result rejects riskier-strategy explanation; no exclusion for null middle-bin contrasts. Caption says equation1 but graph and main.ipynb cell23 establish linear survival indicator, not log survival. Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100872,7 +100881,11 @@
     "A8882": "7PQVC2SH",
     "B8882": "s11",
     "C8882": "hy2",
-    "K8882": "Log value added; p2079 says results similar for value added in this same field-share specification; no numerical values or SD benchmark supplied."
+    "K8882": "Log value added; p2079 says results similar for value added in this same field-share specification; no numerical values or SD benchmark supplied.",
+    "A8883": "7PQVC2SH",
+    "B8883": "h1",
+    "C8883": "hy1",
+    "K8883": "Cumulative survival indicator at each age, coded1 if max observed firm age reaches that age, zero otherwise; graph reports adjusted rates anchored1 at entry. Equation1 caption does not imply log survival."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
