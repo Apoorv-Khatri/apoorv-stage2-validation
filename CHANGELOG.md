@@ -680229,3 +680229,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:56:14.520181+00:00 — Review 4LB5EN3L h9: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8553",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8553",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8553",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8553",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8553",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8553",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8553",
+    "before": null,
+    "after": "Log daily wage in specified Table5 wage subpanel."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3811",
+    "before": null,
+    "after": "4LB5EN3L"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3811",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3811",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3811",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3811",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3811",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3811",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3811",
+    "before": null,
+    "after": "Table5 PanelA SECOND subpanel col5: referral minus nonreferral wage contrast with jointly estimated worker, firm and year FE; initial and tenure interaction effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3811",
+    "before": null,
+    "after": "pp523-527,533: three effective separately included categorical dimensions; firm/worker battery explicitly removes permanent sorting. Initial0.034 and interaction-0.023. Date conflict2002 versus2003 retained."
+  }
+]
+```
