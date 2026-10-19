@@ -836001,3 +836001,498 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T14:54:40.839710+00:00 — Review 9XMIBBJM h33: source-audited coding and linked comparisons
+
+81 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7513",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7514",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7515",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7516",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7517",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7518",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7513",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7514",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7515",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7516",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7517",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7518",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7513",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7514",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7515",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7516",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7517",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7518",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7513",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7514",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7516",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7518",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7513",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7514",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7515",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7516",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7517",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7518",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7513",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7514",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7515",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7516",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7517",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7518",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7513",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7514",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7516",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7517",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7518",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7513",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7514",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7516",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7518",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7513",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7514",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7516",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7517",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7518",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7513",
+    "before": null,
+    "after": "Table A.27 col.1; appendix.txt L2289: focal effect -0.017; benchmark SD of individual scores in no-party-turnover municipalities."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7514",
+    "before": null,
+    "after": "Table A.27 col.2; appendix.txt L2289: focal effect -0.011; benchmark SD of individual scores in no-party-turnover municipalities."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7515",
+    "before": null,
+    "after": "Table A.27 col.3; appendix.txt L2289: focal effect -0.030; benchmark SD of individual scores in no-party-turnover municipalities."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7516",
+    "before": null,
+    "after": "Table A.27 col.4; appendix.txt L2289: focal effect -0.013; benchmark SD of individual scores in no-party-turnover municipalities."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7517",
+    "before": null,
+    "after": "Table A.27 col.5; appendix.txt L2289: focal effect -0.031; benchmark SD of individual scores in no-party-turnover municipalities."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7518",
+    "before": null,
+    "after": "Table A.27 col.6; appendix.txt L2289: focal effect -0.023; benchmark SD of individual scores in no-party-turnover municipalities."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7513",
+    "before": null,
+    "after": "Broad reference population, not local cutoff (or local complier) population."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7514",
+    "before": null,
+    "after": "Broad reference population, not local cutoff (or local complier) population."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7515",
+    "before": null,
+    "after": "Broad reference population, not local cutoff (or local complier) population."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7516",
+    "before": null,
+    "after": "Broad reference population, not local cutoff (or local complier) population."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7517",
+    "before": null,
+    "after": "Broad reference population, not local cutoff (or local complier) population."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7518",
+    "before": null,
+    "after": "Broad reference population, not local cutoff (or local complier) population."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9269",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9269",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9269",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9269",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9269",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9269",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9269",
+    "before": null,
+    "after": "Individual eighth-grade test score in non-municipal public schools, standardized analogously to the main outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4124",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4124",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4124",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4124",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4124",
+    "before": null,
+    "after": "Party-turnover direct RD on nonmunicipal eighth-grade scores; Appendix A.27/Figure A.21."
+  }
+]
+```
