@@ -38724,7 +38724,16 @@
     "L3834": "0",
     "M3834": "n/a",
     "N3834": "AppendixTableE8/Eq13: 1966 Kaitz index × post × South, employment probability all/Black/White.",
-    "O3834": "Distinct moderator-specific DDD estimand. Lower-order treatment effect applies moderator0, total at1 requires adding triple term. E7 prose mistakenly calls negative Black effect tight market, table row says above-median unemployment. Keep coefficient-conditional meanings; no generic independent causal effect assigned to geography control."
+    "O3834": "Distinct moderator-specific DDD estimand. Lower-order treatment effect applies moderator0, total at1 requires adding triple term. E7 prose mistakenly calls negative Black effect tight market, table row says above-median unemployment. Keep coefficient-conditional meanings; no generic independent causal effect assigned to geography control.",
+    "A3835": "4X3H7PWW",
+    "B3835": "h19",
+    "I3835": "1",
+    "J3835": "DiD_conventional",
+    "K3835": "0",
+    "L3835": "0",
+    "M3835": "n/a",
+    "N3835": "AppendixTableE8/Eq13: 1966 fraction earning below$1.60 × post × South, employment probability all/Black/White.",
+    "O3835": "Distinct moderator-specific DDD estimand. Lower-order treatment effect applies moderator0, total at1 requires adding triple term. E7 prose mistakenly calls negative Black effect tight market, table row says above-median unemployment. Keep coefficient-conditional meanings; no generic independent causal effect assigned to geography control."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97298,7 +97307,11 @@
     "A8597": "4X3H7PWW",
     "B8597": "h18",
     "C8597": "hy1",
-    "K8597": "Employment versus unemployment indicator, TableE8."
+    "K8597": "Employment versus unemployment indicator, TableE8.",
+    "A8598": "4X3H7PWW",
+    "B8598": "h19",
+    "C8598": "hy1",
+    "K8598": "Employment versus unemployment indicator, TableE8."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
