@@ -39850,7 +39850,16 @@
     "L3940": "0",
     "M3940": "n/a",
     "N3940": "Age eligibility x post employment excluding New Start Jobs recipients, A22C; remove recipients from both numerator and denominator. Appendix fn59 also establishes regional heterogeneity robustness under this exclusion.",
-    "O3940": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
+    "O3940": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms.",
+    "A3941": "64JY936S",
+    "B3941": "h26",
+    "I3941": "1",
+    "J3941": "DiD_conventional",
+    "K3941": "1",
+    "L3941": "0",
+    "M3941": "n/a",
+    "N3941": "High versus medium2006 firm exposure employment excluding New Start Jobs recipients, A22D.",
+    "O3941": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100497,7 +100506,14 @@
     "H8862": "0",
     "I8862": "unknown",
     "J8862": "none",
-    "K8862": "Employment/labor-force aggregate rate excluding hiring-subsidy recipients; A22C and Appendix fn59 regional variant. No numerical coefficients printed."
+    "K8862": "Employment/labor-force aggregate rate excluding hiring-subsidy recipients; A22C and Appendix fn59 regional variant. No numerical coefficients printed.",
+    "A8863": "64JY936S",
+    "B8863": "h26",
+    "C8863": "hy1",
+    "H8863": "0",
+    "I8863": "unknown",
+    "J8863": "other",
+    "K8863": "Number of nonsubsidized firm workers relative to2006; A22D."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -176124,7 +176140,18 @@
     "O6718": "1",
     "P6718": "unknown",
     "Q6718": "A17H: author-interpreted post-reform treated/control trajectory contrast, not an annual coefficient grid. Individual group mean earnings relative to2003 group level; top versus next-highest quartile; exact cohort details not fully restated. No numerical effect extracted or invented; one graphical contrast for this outcome and displayed post-reform path.",
-    "R6718": "Same-outcome normalization is deliberately displayed. Numerical coefficient is not a prerequisite for a graphical comparison. No distinct year-specific triples asserted. Separate group denominators; common untreated target mean/weights not established."
+    "R6718": "Same-outcome normalization is deliberately displayed. Numerical coefficient is not a prerequisite for a graphical comparison. No distinct year-specific triples asserted. Separate group denominators; common untreated target mean/weights not established.",
+    "A6719": "64JY936S",
+    "B6719": "h26",
+    "C6719": "hc1",
+    "K6719": "1",
+    "L6719": "hy1",
+    "M6719": "other_level",
+    "N6719": "0",
+    "O6719": "1",
+    "P6719": "n/a",
+    "Q6719": "A22D: author-interpreted post-reform treated/control trajectory contrast, not an annual coefficient grid. Nonsubsidized firm-worker count relative to own2006 level; high versus medium exposure, post2007 displayed path. No numerical effect extracted or invented; one graphical contrast for this outcome and displayed post-reform path.",
+    "R6719": "Same-outcome normalization is deliberately displayed. Numerical coefficient is not a prerequisite for a graphical comparison. No distinct year-specific triples asserted."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
