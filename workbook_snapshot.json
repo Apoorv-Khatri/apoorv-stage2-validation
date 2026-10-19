@@ -38580,7 +38580,16 @@
     "L3818": "1",
     "M3818": "n/a",
     "N3818": "FigureVIII A p206: caption-established cross-industry newly covered versus 1938 industry event study on log annual hours conditional on employment.",
-    "O3818": "FigureVIII A caption explicitly identifies industry design/FE/clustering, but V.A p205 explicitly describes the same plotted result as strong/weak state paths. E4 independently establishes state hours. This contradictory description does not prove two implemented designs: hold distinctness unknown rather than count a certain additional industry setting. Resolve with actual implementation before final inclusion; do not transfer E4 coefficients."
+    "O3818": "FigureVIII A caption explicitly identifies industry design/FE/clustering, but V.A p205 explicitly describes the same plotted result as strong/weak state paths. E4 independently establishes state hours. This contradictory description does not prove two implemented designs: hold distinctness unknown rather than count a certain additional industry setting. Resolve with actual implementation before final inclusion; do not transfer E4 coefficients.",
+    "A3819": "4X3H7PWW",
+    "B3819": "h3",
+    "I3819": "1",
+    "J3819": "DiD_conventional",
+    "K3819": "0",
+    "L3819": "0",
+    "M3819": "n/a",
+    "N3819": "TableVI Alternative2: continuous state share earning below$1.60 in1966 × post on employment indicators and log annual earnings, All/Black/White.",
+    "O3819": "Distinct treatment from Kaitz index. Main TableVI SD0.08; AppendixE6 says0.008. Preserve conflict; no outcome-SD comparison."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -96993,7 +97002,19 @@
     "H8568": "0",
     "I8568": "unknown",
     "J8568": "log",
-    "K8568": "Log imputed annual hours, employed CPS sample; FigureVIII A."
+    "K8568": "Log imputed annual hours, employed CPS sample; FigureVIII A.",
+    "A8569": "4X3H7PWW",
+    "B8569": "h3",
+    "C8569": "hy1",
+    "K8569": "Employment versus unemployment indicator; TableVI Alternative2, all and race groups.",
+    "A8570": "4X3H7PWW",
+    "B8570": "h3",
+    "C8570": "hy2",
+    "K8570": "Employment versus unemployment/nonparticipation indicator; TableVI Alternative2, all and race groups.",
+    "A8571": "4X3H7PWW",
+    "B8571": "h3",
+    "C8571": "hy3",
+    "K8571": "Log annual earnings; TableVI Alternative2, all and race groups."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -683025,3 +683025,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:44:52.032716+00:00 — Review 4X3H7PWW h3: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8569",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8570",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8571",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8569",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8570",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8571",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8569",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8570",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8571",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8569",
+    "before": null,
+    "after": "Employment versus unemployment indicator; TableVI Alternative2, all and race groups."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8570",
+    "before": null,
+    "after": "Employment versus unemployment/nonparticipation indicator; TableVI Alternative2, all and race groups."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8571",
+    "before": null,
+    "after": "Log annual earnings; TableVI Alternative2, all and race groups."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3819",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3819",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3819",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3819",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3819",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3819",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3819",
+    "before": null,
+    "after": "TableVI Alternative2: continuous state share earning below$1.60 in1966 × post on employment indicators and log annual earnings, All/Black/White."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3819",
+    "before": null,
+    "after": "Distinct treatment from Kaitz index. Main TableVI SD0.08; AppendixE6 says0.008. Preserve conflict; no outcome-SD comparison."
+  }
+]
+```
