@@ -651294,3 +651294,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:59:12.974964+00:00 — Review 2XPTKJBQ h15: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8400",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8400",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8400",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8400",
+    "before": null,
+    "after": "Average annual mortality over first four years (pp)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3736",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3736",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3736",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3736",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3736",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3736",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3736",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3736",
+    "before": null,
+    "after": "Figure3 / pp3168–71: family-BP bandwidth robustness of DI income on mortality."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3736",
+    "before": null,
+    "after": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Same estimator across bandwidths; retain as separately reported figure scope, not one setting per bandwidth. Figure3 lower plotted curve appears around -0.5 to -0.4, while prose says stabilizes -0.30; preserve figure/prose conflict. Parent may merge this routine bandwidth figure with Table1 setting under grouping rule; no new comparisons claimed. Independent decision: retain one scope per separately reported Figure3 BP (distinct result location), not one per bandwidth; merging into s1–s3 is an acceptable grouping alternative with identical comparison inventory."
+  }
+]
+```
