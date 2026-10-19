@@ -709341,3 +709341,1428 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T08:16:51.005543+00:00 — Review 5EFFX2TK h25: source-audited coding and linked comparisons
+
+236 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6309",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6310",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6311",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6312",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6313",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6314",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6315",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6316",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6317",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6318",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6319",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6320",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6321",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6322",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6323",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6324",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6325",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6326",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6327",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6328",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6309",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6310",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6311",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6312",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6313",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6314",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6315",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6316",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6317",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6318",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6319",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6320",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6321",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6322",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6323",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6324",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6325",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6326",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6327",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6328",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6309",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6310",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6311",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6312",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6313",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6314",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6315",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6316",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6317",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6318",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6319",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6320",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6321",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6322",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6323",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6324",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6325",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6326",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6327",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6328",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6309",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6310",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6311",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6312",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6313",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6314",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6315",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6316",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6317",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6318",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6319",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6320",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6321",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6322",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6323",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6324",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6326",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6328",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6309",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6310",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6311",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6312",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6313",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6314",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6315",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6316",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6317",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6318",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6319",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6320",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6321",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6322",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6323",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6324",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6325",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6326",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6327",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6328",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6309",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6310",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6311",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6312",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6313",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6314",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6315",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6316",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6317",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6318",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6319",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6320",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6321",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6322",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6323",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6324",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6325",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6326",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6327",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6328",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6309",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6310",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6311",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6312",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6313",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6314",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6315",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6316",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6317",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6318",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6319",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6320",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6321",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6322",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6323",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6324",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6325",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6326",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6327",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6328",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6309",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6310",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6311",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6312",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6313",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6314",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6315",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6316",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6317",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6318",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6319",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6320",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6321",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6322",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6323",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6324",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6325",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6326",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6327",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6328",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6309",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6310",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6311",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6312",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6313",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6314",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6315",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6316",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6317",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6318",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6319",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6320",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6321",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6322",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6323",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6324",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6326",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6328",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6309",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, Australia; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -2.35 percentage points/year; same-strategy bills mean 4.05% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6310",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, Australia; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -2.35 percentage points/year; same-strategy ten-year bonds mean 1.70% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6311",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, Canada; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -2.68 percentage points/year; same-strategy bills mean 1.21% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6312",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, Canada; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -2.68 percentage points/year; same-strategy ten-year bonds mean -1.47% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6313",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, Germany; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -2.22 percentage points/year; same-strategy bills mean 4.47% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6314",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, Germany; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -2.22 percentage points/year; same-strategy ten-year bonds mean 2.25% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6315",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, Japan; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -3.34 percentage points/year; same-strategy bills mean 4.77% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6316",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, Japan; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -3.34 percentage points/year; same-strategy ten-year bonds mean 1.43% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6317",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, New Zealand; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -2.97 percentage points/year; same-strategy bills mean 5.17% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6318",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, New Zealand; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -2.97 percentage points/year; same-strategy ten-year bonds mean 2.20% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6319",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, Norway; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -2.04 percentage points/year; same-strategy bills mean 1.35% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6320",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, Norway; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -2.04 percentage points/year; same-strategy ten-year bonds mean -0.69% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6321",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, Sweden; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -3.34 percentage points/year; same-strategy bills mean 2.37% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6322",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, Sweden; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -3.34 percentage points/year; same-strategy ten-year bonds mean -0.98% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6323",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, Switzerland; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -2.10 percentage points/year; same-strategy bills mean 4.28% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6324",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, Switzerland; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -2.10 percentage points/year; same-strategy ten-year bonds mean 2.18% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6325",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, United Kingdom; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -2.91 percentage points/year; same-strategy bills mean 0.83% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6326",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, United Kingdom; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -2.91 percentage points/year; same-strategy ten-year bonds mean -2.07% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6327",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, Equally-weighted; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -2.66 percentage points/year; same-strategy bills mean 3.17% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6328",
+    "before": null,
+    "after": "Appendix A13 p20 Panel B, Equally-weighted; 1983:10-2015:12, 1-month holding. Printed maturity-rule change (local component) -2.66 percentage points/year; same-strategy ten-year bonds mean 0.51% annualized log return in USD. Same country-pair/path, sign rule and weights. Values transcribed, not arithmetic-repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6309",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Bills are untreated endpoint under the maintained fixed-rule contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6310",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Long-bond mean is the treated endpoint: eligible pairing but not an untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6311",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Bills are untreated endpoint under the maintained fixed-rule contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6312",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Long-bond mean is the treated endpoint: eligible pairing but not an untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6313",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Bills are untreated endpoint under the maintained fixed-rule contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6314",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Long-bond mean is the treated endpoint: eligible pairing but not an untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6315",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Bills are untreated endpoint under the maintained fixed-rule contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6316",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Long-bond mean is the treated endpoint: eligible pairing but not an untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6317",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Bills are untreated endpoint under the maintained fixed-rule contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6318",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Long-bond mean is the treated endpoint: eligible pairing but not an untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6319",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Bills are untreated endpoint under the maintained fixed-rule contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6320",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Long-bond mean is the treated endpoint: eligible pairing but not an untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6321",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Bills are untreated endpoint under the maintained fixed-rule contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6322",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Long-bond mean is the treated endpoint: eligible pairing but not an untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6323",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Bills are untreated endpoint under the maintained fixed-rule contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6324",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Long-bond mean is the treated endpoint: eligible pairing but not an untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6325",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Bills are untreated endpoint under the maintained fixed-rule contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6326",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Long-bond mean is the treated endpoint: eligible pairing but not an untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6327",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Bills are untreated endpoint under the maintained fixed-rule contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6328",
+    "before": null,
+    "after": "Deliberate same-row maturity decomposition accepted as effect/endpoint pairing, consistently with Table3. Long-bond mean is the treated endpoint: eligible pairing but not an untreated mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8670",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8670",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8670",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8670",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8670",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8670",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8670",
+    "before": null,
+    "after": "Appendix A13 p20, Panel B: annualized log excess return difference of foreign/reference-country strategy in USD, 1-month holding. Difference of log holding returns, not log of signed excess return. Local component is the maturity-rule change."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3876",
+    "before": null,
+    "after": "5EFFX2TK"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3876",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3876",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3876",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3876",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3876",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3876",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3876",
+    "before": null,
+    "after": "Appendix A13 p20, Panel B: bills versus ten-year bonds under dynamic yield-curve slopes foreign/reference-country strategy. 1-month holding; 1983:10-2015:12; return difference in USD. Country-specific and equally-weighted results grouped; routine bond-data variants grouped within the reported table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3876",
+    "before": null,
+    "after": "Independent inclusion: same country-pair long/short rule, predetermined signal and historical path held fixed while substituting ten-year bonds for bills on both legs. The local-return-difference component is the maturity-rule change, not a causal effect of the predictor. Introduction pp4142-4143 covers maturity substitution; pp4150-4152 explicitly interpret cancellation. This corrects an asymmetric exclusion relative to Table3. Counterevidence: authors also call these economic predictability diagnostics. OLS code is conditional linear contrast of log returns; not a fitted causal regression. Price taking and omitted transaction costs maintained. Country rows and equal-weight aggregate are distinct reported estimates, not new settings."
+  }
+]
+```
